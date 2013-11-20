@@ -1,0 +1,59 @@
+
+import sys
+def cluster(scoreMatrix):
+    #1. Compute a thresholdDistance from the scoreMatrix
+    minAverageDistanceScoreThreshold = getScoreThreshold(scoreMatrix)
+
+    #2. start with as many clusters as there are sequences
+    clusters = [[i] for i in xrange(len(scoreMatrix[0]))]
+
+    #3. While the averageClusterDistance is less than threshold or number or clusters = 2
+    currentaverageDistanceScore = sys.maxint;
+    while (currentaverageDistanceScore > minAverageDistanceScoreThreshold) & (len(clusters)>1):
+        #3.1 get two clusters with max pair wise currentaverageDistanceScore
+        a,b,averageDistanceScore = getClustersWithMaxPairWiseAverageDistanceScore(clusters,scoreMatrix)
+
+        #3.2 merge the two clusters
+        newCluster = clusters[a]  + clusters[b]
+
+        #3.3 if the averageClusterDistance > thresholdDistance
+        #   3.4 return the cluster
+        if(averageDistanceScore < minAverageDistanceScoreThreshold):
+            return clusters
+        #3.5 Add the merged cluster into the clusterlist
+        clusters[a] = newCluster
+        clusters.pop(b)
+
+    #4. return clusters
+    return clusters
+
+def getClustersWithMaxPairWiseAverageDistanceScore(clusters,ScoreMatrix):
+     #The distance between two clusters C1 and C2 is defined to be the average of the distances between 
+    # each pair of sequences in C1 and C2 
+
+    noOfClusters = len(clusters)
+    maxAvgDistPair = 0,0
+    maxAvgDistance = -sys.maxint
+    returnResult =0,0,0
+    for i in xrange(noOfClusters):
+        for j in xrange(i+1,noOfClusters):
+            cl1len = len(clusters[i])
+            cl2len = len(clusters[j])
+            sumOfDistances = 0
+            for c1 in xrange(cl1len):
+                for c2 in xrange(cl2len):
+                    sumOfDistances = sumOfDistances + ScoreMatrix[clusters[i][c1]][clusters[j][c2]]
+            pairwiseAvgDistance = sumOfDistances/(float)(cl1len*cl2len)
+            if( pairwiseAvgDistance > maxAvgDistance):
+                maxAvgDistance = pairwiseAvgDistance
+                maxAvgDistPair = i,j
+                returnResult = i,j,pairwiseAvgDistance
+    return returnResult
+
+def getScoreThreshold(scoreMatrix):
+    maxValue = -sys.maxint 
+    minValue = sys.maxint
+    for i in xrange(len(scoreMatrix)):
+        if(max(scoreMatrix[i])>maxValue): maxValue = max(scoreMatrix[i])
+        if(min(scoreMatrix[i])<minValue): minValue = min(scoreMatrix[i])
+    return maxValue - ((maxValue-minValue)*0.40) # upper 40 percentile of the score selected for clustering
