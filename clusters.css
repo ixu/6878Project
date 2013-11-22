@@ -51,6 +51,12 @@ path {
     stroke: #e2e2e2;
     stroke-width: 0.9;
 	fill: none;
+    opacity: 0.5;
+}
+
+path.average{
+    opacity: 1;
+    stroke-width: 2.0;
 }
 path.current, path.highlight.current {
     stroke: #000;

@@ -23,30 +23,22 @@ for (var i = 0; i < numClusters; i++) {
     sheet.addRule(".C" + i+".highlight", "stroke: " + color(i) + ";", 1);
 }
 
-
-
-
 var vis = d3.select("#vis")
     .append("svg:svg")
     .attr("width", w)
     .attr("height", h)
     .append("svg:g");
     // .attr("transform", "translate(0, 600)");
-
 			
 var line = d3.svg.line()
     .x(function(d,i) { return x(d.x); })
     .y(function(d) { return y(d.y); });
 					
-
 var genes_clusters = {};
-
-
 for (var k = 0; k < numClusters; k++) {
     getCluster(k);
 }
 
-    
 vis.append("svg:line")
     .attr("x1", x(startDate))
     .attr("y1", y(minExpression))
@@ -142,7 +134,10 @@ function showCluster(clusterCode) {
 function getCluster(num) {
     d3.text('ProjectCode_v1/Output/Cluster_' + num + '.csv', 'text/csv', function(text) {
     var genes = d3.csv.parseRows(text);
-    
+    var average = new Array(20);
+    for (var a = 0; a < 20; a++) {
+        average[a] = 0;
+    }
     for (i=1; i < genes.length; i++) {
         var values = genes[i].slice(1, genes[i.length-1]);
         var currData = [];
@@ -150,8 +145,8 @@ function getCluster(num) {
 
         for (j=0; j < values.length; j++) {
             if (values[j] != '') {
-                currData.push({ x: timepoints[j], y: values[j] });
-                
+                currData.push({ x: timepoints[j], y: values[j] });  
+                average[j] += values[j]/genes.length;
             }
         }
         vis.append("svg:path")
@@ -162,5 +157,16 @@ function getCluster(num) {
             .on("mouseover", onmouseover)
             .on("mouseout", onmouseout);
     }
+    for (l = 0; l< average.length; l++) {
+        average[l] = {x: timepoints[l], y: average[l]};
+    }
+    vis.append("svg:path")
+    .data([average])
+    .attr("name", 'Cluster ' + num + ' Average')
+    .attr("class", 'average C' + num)
+    .attr("d", line)
+    .on("mouseover", onmouseover)
+    .on("mouseout", onmouseout);
+
 }); 
 }
