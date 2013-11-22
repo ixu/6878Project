@@ -125,7 +125,7 @@ function onmouseout(d, i) {
 function showCluster(clusterCode) {
     var genes = d3.selectAll("path."+clusterCode);
     if (genes.classed('highlight')) {
-        genes.attr("class", clusterCode);
+        genes.classed('highlight', false);
     } else {
         genes.classed('highlight', true);
     }
