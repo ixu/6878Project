@@ -36,13 +36,7 @@ a { color: #821122; }
 #filters a:last-child {
     margin-right: 0;
 }
-#filters a.C1 { background: #895881; color: #fff; }
-#filters a.C2 { background: #ED7C31; color: #fff; }
-#filters a.C3 { background: #82A5C0; color: #fff; }
-#filters a.C4 { background: #6E9E75; color: #fff; }
-#filters a.C5 { background: #00BBD6; color: #fff; }
-#filters a.C6 { background: #e25f82; color: #fff; }
-#filters a.C0 { background: #be1932; color: #fff; }
+
 
 #vis {
     min-height: 550px;
@@ -62,13 +56,7 @@ path.current, path.highlight.current {
     stroke: #000;
     stroke-width: 1.7;
 }
-.C1.highlight { stroke: #895881; }
-.C2.highlight { stroke: #ED7C31; }
-.C3.highlight { stroke: #82A5C0; }
-.C4.highlight { stroke: #6E9E75; }
-.C5.highlight { stroke: #00BBD6; }
-.C6.highlight { stroke: #e25f82; }
-.C0.highlight { stroke: #be1932; }
+
 .highlight { stroke-width: 1px; } 
 
 line {

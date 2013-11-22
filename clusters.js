@@ -1,4 +1,4 @@
-var numClusters = 7,
+var numClusters = 12,
     clusters = {},
 	w = 925,
 	h = 550,
@@ -10,13 +10,21 @@ var numClusters = 7,
 	y = d3.scale.linear().domain([maxExpression, minExpression]).range([0 + margin, h - margin]),
 	x = d3.scale.linear().domain([startDate, endDate]).range([0 + margin -5, w]),
 	timepoints = [1.0,4.0,21.0,116.0,185.0,186.0,255.0,289.0,290.0,292.0,294.0,297.0,301.0,307.0,311.0,322.0,329.0,369.0,380.0,400];
+
+var color = d3.scale.category20();
+var sheet = document.styleSheets[0];
 for (var i = 0; i < numClusters; i++) {
     clusters['C' + i] = 'Cluster_' + i;
     d3.select("#filters")
         .append('a')
         .attr('id', 'C' + i)
         .html('Cluster ' + i);
+    sheet.addRule("#filters a.C" + i, "background: " + color(i) + "; color: #fff;", 1);
+    sheet.addRule(".C" + i+".highlight", "stroke: " + color(i) + ";", 1);
 }
+
+
+
 
 var vis = d3.select("#vis")
     .append("svg:svg")
