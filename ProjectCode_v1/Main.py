@@ -3,8 +3,12 @@ from PreProcessAndUtils import InputUtils
 from PreProcessAndUtils import OutputUtils
 from Alignment import AlignmentUtils
 from Clustering import Clustering
+from Annotation import Annotation
+import os
 
 def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectory):
+    if not os.path.exists("./Output/"+OutputDirectory):
+        os.makedirs("./Output/"+OutputDirectory)
     # 2. Create an alignment matrix between the sequences.
     print "  Aligning signals and creating a score matrix ..."
     scores = AlignmentUtils.getAlignmentScoreMatrixWithLookup(SignalSeqs,S,gap_pen,timeline)
@@ -22,6 +26,38 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
     OutputUtils.writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,"./Output/"+OutputDirectory)
     print " Done. "
 
+def TrialClusteringWithVariousScoreMatrix(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName):
+    S = [
+     # R D S
+     [3, -3, -3], # R
+     [-3, 3, -3], # D
+     [-3, -3, 3]  # S
+     ]
+    gap_pen = 1
+    OutputDirectoryName = "StrictMatchScoreMatrix"
+    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
+
+    S = [
+     # R D S
+     [6, -6, -6], # R
+     [-6, 6, -6], # D
+     [-6, -6, 6]  # S
+     ]
+    gap_pen = 3
+    OutputDirectoryName = "VeryStrictMatchScoreMatrix"
+    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
+
+    S = [
+     # R D S
+     [3, 3, -3], # R
+     [3, 3, -3], # D
+     [-3, -3, 3]  # S
+     ]
+    gap_pen = 1
+    OutputDirectoryName = "MatchEqualsAntiMatchScoreMatrix"
+    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
+    return
+
 def main():
     if len(sys.argv) < 2:
         print "you must call program as:  "
@@ -34,8 +70,8 @@ def main():
     Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
     print " -- Read ",len(Signals)," signals ."
 
-   
-    
+    #2. Perform Alignment and  Clustering
+    print "2. Perform Alignment and  Clustering ..."
     S = [
      # R D S
      [3, -1, -3], # R
@@ -43,38 +79,15 @@ def main():
      [-3, -3, 1]  # S
      ]
     gap_pen = 1
-    OutputDirectoryName = "AlignedScoreMatrix"
+    OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
     AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
 
-    #S = [
-    # # R D S
-    # [3, -3, -3], # R
-    # [-3, 3, -3], # D
-    # [-3, -3, 3]  # S
-    # ]
-    #gap_pen = 1
-    #OutputDirectoryName = "StrictMatchScoreMatrix"
-    #AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
-
-    #S = [
-    # # R D S
-    # [6, -6, -6], # R
-    # [-6, 6, -6], # D
-    # [-6, -6, 6]  # S
-    # ]
-    #gap_pen = 3
-    #OutputDirectoryName = "VeryStrictMatchScoreMatrix"
-    #AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
-
-    #S = [
-    # # R D S
-    # [3, 3, -3], # R
-    # [3, 3, -3], # D
-    # [-3, -3, 3]  # S
-    # ]
-    #gap_pen = 1
-    #OutputDirectoryName = "MatchEqualsAntiMatchScoreMatrix"
-    #AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
+    #3. Annotation
+    print "2. Perform Annotation ..."
+    OutputDirectoryName = "./Output/5FPKMNormalizedAlignedScoreMatrix"
+    #DAVIDWebService_Client.doDavid()
+    Annotation.Annotateclusters(OutputDirectoryName)
+    
     return
 
 main()
