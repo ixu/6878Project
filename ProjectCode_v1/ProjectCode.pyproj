@@ -40,6 +40,7 @@
     <Compile Include="Annotation\tests\saxenc.py" />
     <Compile Include="Annotation\tests\__init__.py" />
     <Compile Include="Annotation\__init__.py" />
+    <Compile Include="Clustering\AffinityPropogationClustering.py" />
     <Compile Include="Clustering\Clustering.py" />
     <Compile Include="Clustering\__init__.py" />
     <Compile Include="Main.py" />

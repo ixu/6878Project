@@ -3,6 +3,7 @@ from PreProcessAndUtils import InputUtils
 from PreProcessAndUtils import OutputUtils
 from Alignment import AlignmentUtils
 from Clustering import Clustering
+from Clustering import AffinityPropogationClustering
 from Annotation import Annotation
 import os
 
@@ -20,7 +21,8 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
     
     # 3. Cluster the signals based on the scoring matrix.
     print "  clustering signals based on Score ..."
-    clusters = Clustering.cluster(scores)
+    clusters = AffinityPropogationClustering.AffinityPropCluster(scores)
+    #clusters = Clustering.cluster(scores)
     print " -- No of Clusters generated = ",len(clusters)
     print " -- Writing clusters to ",OutputDirectory," directory"
     OutputUtils.writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,"./Output/"+OutputDirectory)
@@ -79,14 +81,14 @@ def main():
      [-3, -3, 1]  # S
      ]
     gap_pen = 1
-    OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
+    OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
     AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
 
     #3. Annotation
     print "2. Perform Annotation ..."
-    OutputDirectoryName = "./Output/5FPKMNormalizedAlignedScoreMatrix"
+    OutputDirectory = "./Output/"+OutputDirectoryName
     #DAVIDWebService_Client.doDavid()
-    Annotation.Annotateclusters(OutputDirectoryName)
+    Annotation.Annotateclusters(OutputDirectory)
     
     return
 
