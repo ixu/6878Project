@@ -28,6 +28,8 @@ def writeScoresWithSequences(ScoreMatrix,outputFileName,SignalSeqs):
 def writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory):
  for i in xrange(len(clusters)):
         writeCluster(i,clusters[i],Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
+ WriteClustersAsCDT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
+ WriteClustersAsGCT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
  return
 
 def writeCluster(clusterNumber,cluster,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory):
@@ -37,8 +39,46 @@ def writeCluster(clusterNumber,cluster,Signals,SignalSeqs,ExprNoToExprIdentifier
     writer = csv.writer(scorefile)
     header =[0]+timeline
     writer.writerow(header)
-    for clusterNumber in xrange(len(cluster)):
-        row = [ExprNoToExprIdentifier[cluster[clusterNumber]]]+Signals[cluster[clusterNumber]]
+    for j in xrange(len(cluster)):
+        row = [ExprNoToExprIdentifier[cluster[j]]]+Signals[cluster[j]]
         writer.writerow(row)
+    scorefile.close()
+    return
+
+def WriteClustersAsCDT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    scorefile = open(directory+"/Cluster_ALL.CDT","wb")
+    writer = csv.writer(scorefile,dialect='excel-tab')
+    header =['day','NAME','GWEIGHT']
+    header =header+timeline
+    writer.writerow(header)
+    secondRow = ['EWEIGHT','','']
+    for i in xrange(len(timeline)):
+        secondRow.append('1.0')
+    writer.writerow(secondRow)
+    for i in xrange(len(clusters)):
+        for j in xrange(len(clusters[i])):
+            row = [ExprNoToExprIdentifier[clusters[i][j]],ExprNoToExprIdentifier[clusters[i][j]],1.0]+Signals[clusters[i][j]]
+            writer.writerow(row)
+    scorefile.close()
+    return
+
+def WriteClustersAsGCT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    scorefile = open(directory+"/Cluster_ALL.gct","wb")
+    writer = csv.writer(scorefile,dialect='excel-tab')
+    firstRow = ['#1.2']
+    writer.writerow(firstRow)
+    secondRow = [len(Signals),len(timeline)]
+    writer.writerow(secondRow)
+    header =['NAME','Description']
+    header =header+timeline
+    writer.writerow(header)
+    for i in xrange(len(clusters)):
+        for j in xrange(len(clusters[i])):
+            row = [ExprNoToExprIdentifier[clusters[i][j]],ExprNoToExprIdentifier[clusters[i][j]]]+Signals[clusters[i][j]]
+            writer.writerow(row)
     scorefile.close()
     return

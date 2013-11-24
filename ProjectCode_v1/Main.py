@@ -61,9 +61,9 @@ def TrialClusteringWithVariousScoreMatrix(Signals,SignalSeqs,ExprNoToExprIdentif
     return
 
 def main():
-    if len(sys.argv) < 2:
+    if len(sys.argv) < 3:
         print "you must call program as:  "
-        print "   python Main.py expressionFile.csv eg Main.csv ./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv "
+        print "   python Main.py expressionFile.csv eg Main.csv ./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation"
         return
 
     
@@ -81,7 +81,9 @@ def main():
      [-3, -3, 1]  # S
      ]
     gap_pen = 1
-    OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
+    #OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
+    OutputDirectoryName = sys.argv[2]
+    #OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
     AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
 
     #3. Annotation
