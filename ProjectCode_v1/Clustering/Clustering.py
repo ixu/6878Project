@@ -6,7 +6,7 @@ def cluster(scoreMatrix):
 
     #2. start with as many clusters as there are sequences
     clusters = [[i] for i in xrange(len(scoreMatrix[0]))]
-
+    
     #3. While the averageClusterDistance is less than threshold or number or clusters = 2
     currentaverageDistanceScore = sys.maxint;
     while (currentaverageDistanceScore > minAverageDistanceScoreThreshold) & (len(clusters)>1):

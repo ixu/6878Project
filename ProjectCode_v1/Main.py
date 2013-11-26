@@ -7,7 +7,11 @@ from Clustering import AffinityPropogationClustering
 from Annotation import Annotation
 import os
 
-def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectory):
+UPGMA=0
+AFFINITY_PROP=1
+
+
+def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectory,ClusterType):
     if not os.path.exists("./Output/"+OutputDirectory):
         os.makedirs("./Output/"+OutputDirectory)
     # 2. Create an alignment matrix between the sequences.
@@ -21,8 +25,12 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
     
     # 3. Cluster the signals based on the scoring matrix.
     print "  clustering signals based on Score ..."
-    clusters = AffinityPropogationClustering.AffinityPropCluster(scores)
-    #clusters = Clustering.cluster(scores)
+    if(ClusterType == AFFINITY_PROP):
+        print "  Performing Affinity Prop ..."
+        clusters = AffinityPropogationClustering.AffinityPropCluster(scores)
+    else:
+        print "  Performing Heirarchial ..."
+        clusters = Clustering.cluster(scores)
     print " -- No of Clusters generated = ",len(clusters)
     print " -- Writing clusters to ",OutputDirectory," directory"
     OutputUtils.writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,"./Output/"+OutputDirectory)
@@ -61,12 +69,13 @@ def TrialClusteringWithVariousScoreMatrix(Signals,SignalSeqs,ExprNoToExprIdentif
     return
 
 def main():
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
         print "you must call program as:  "
-        print "   python Main.py expressionFile.csv eg Main.csv ./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation"
+        print "   python Main.py expressionFile.csv outputFile clusterType(0-UPGMA,1-Affinity) eg ./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation 1 or ./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAligned 0"
         return
+    OutputDirectoryName = sys.argv[2]
 
-    
+    ClusterType = int(sys.argv[3])
     # 1. Reads an expression time series from a csv file
     print "1. Reading expression time series ..."
     Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
@@ -82,14 +91,12 @@ def main():
      ]
     gap_pen = 1
     #OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
-    OutputDirectoryName = sys.argv[2]
     #OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
-    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName)
+    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName,ClusterType)
 
     #3. Annotation
     print "2. Perform Annotation ..."
     OutputDirectory = "./Output/"+OutputDirectoryName
-    #DAVIDWebService_Client.doDavid()
     Annotation.Annotateclusters(OutputDirectory)
     
     return

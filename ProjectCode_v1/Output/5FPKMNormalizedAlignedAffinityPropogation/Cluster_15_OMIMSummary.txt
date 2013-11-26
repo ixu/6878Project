@@ -1,0 +1,2908 @@
+137240	TITLE *137240 GASTRIC INHIBITORY POLYPEPTIDE; GIP
+;;GLUCOSE-DEPENDENT INSULINOTROPIC POLYPEPTIDE
+DESCRIPTION 
+DESCRIPTION
+
+Gastric inhibitory polypeptide, also known as glucose-dependent
+insulinotropic polypeptide (GIP), is a 42-amino acid hormone that
+stimulates insulin (INS; 176730) secretion in the presence of glucose.
+Its sequence indicates that it is a member of a family of structurally
+related hormones that includes secretin (182099), glucagon (138030),
+vasoactive intestinal peptide (VIP; 192320), and growth
+hormone-releasing factor (GHRH; 139190) (summary by Takeda et al.,
+1987).
+
+CLONING
+
+Takeda et al. (1987) isolated and sequenced cDNA clones encoding the
+human GIP precursor from a human duodenal cDNA library. The predicted
+amino acid sequence of the precursor indicates that GIP is derived by
+proteolytic processing of a 153-residue precursor, preproGIP, which has
+a predicted molecular mass of 17.1 kD. The GIP moiety is flanked by
+polypeptide segments of 51 and 60 amino acids at its amino and carboxyl
+termini, respectively. GIP is released from the precursor by processing
+at single arginine residues present at each end of the GIP sequence.
+
+MAPPING
+
+By Southern analysis of somatic cell hybrid DNAs and by in situ
+hybridization using a GIP cDNA, Fukushima et al. (1989) and Inagaki et
+al. (1989) mapped the human GIP gene to chromosome 17q21.3-q22.
+
+By genetic linkage studies using multiple DNA markers from the 17q12-q21
+region, Anderson et al. (1993) placed GIP on the genetic map of the
+region in a position distal to HOX2B (142961) and GP3A (173470). By
+genetic mapping through CEPH reference families and by high-resolution
+radiation hybrid mapping, Lewis et al. (1994) concluded that the GIP
+gene is in a tight cluster in the following order:
+cen--PPY--HOXB6--NGFR--GIP--NME1--tel. GIP was estimated to lie 250 kb
+distal to NGFR (162010).
+
+Mohlke et al. (1996) demonstrated that the Gip gene is located in the
+distal portion of mouse chromosome 11, closely linked to Mvwf (see
+111730) and between Ngfr and Hoxb9.
+
+GENE FUNCTION
+
+Cheung et al. (2000) found that gut K cells could be induced to produce
+human insulin by providing the cells with the human INS gene linked to
+the 5-prime regulatory region of the GIP gene. Mice expressing this
+transgene produced human insulin specifically in gut K cells. This
+insulin protected the mice from developing diabetes (see 222100) and
+maintained glucose tolerance after destruction of the native
+insulin-producing beta cells.
+
+REFERENCE 1. Anderson, L. A.; Friedman, L.; Osborne-Lawrence, S.; Lynch, E.;
+Weissenbach, J.; Bowcock, A.; King, M.-C.: High-density genetic map
+of the BRCA1 region of chromosome 17q12-q21. Genomics 17: 618-623,
+1993.
+
+2. Cheung, A. T.; Dayanandan, B.; Lewis, J. T.; Korbutt, G. S.; Rajotte,
+R. V.; Bryer-Ash, M.; Boylan, M. O.; Wolfe, M. M.; Kieffer, T. J.
+: Glucose-dependent insulin release from genetically engineered K
+cells. Science 290: 1959-1962, 2000.
+
+3. Fukushima, Y.; Byers, M. G.; Eddy, R. L.; Haley, L. L.; Henry,
+W. M.; Inagaki, N.; Seino, Y.; Takeda, J.; Yano, H.; Yamada, Y.; Imura,
+H.; Bell, G. I.; Shows, T. B.: Localization of the human gastric
+inhibitory polypeptide gene (GIP) to chromosome 17q21.3-q22. (Abstract) Cytogenet.
+Cell Genet. 51: 1001 only, 1989.
+
+4. Inagaki, N.; Seino, Y.; Takeda, J.; Yano, H.; Yamada, Y.; Bell,
+G. I.; Eddy, R. L.; Fukushima, Y.; Byers, M. G.; Shows, T. B.; Imura,
+H.: Gastric inhibitory polypeptide: structure and chromosomal localization
+of the human gene. Molec. Endocr. 3: 1014-1021, 1989.
+
+5. Lewis, T. B.; O'Connell, P.; Leach, R. J.: Localization of glucose-dependent
+insulinotropic polypeptide (GIP) to a gene cluster on chromosome 17q. Genomics 19:
+589-591, 1994.
+
+6. Mohlke, K. L.; Nichols, W. C.; Westrick, R. J.; Novak, E. K.; Cooney,
+K. A.; Swank, R. T.; Ginsburg, D.: A novel modifier gene for plasma
+von Willebrand factor level maps to distal mouse chromosome 11. Proc.
+Nat. Acad. Sci. 93: 15352-15357, 1996.
+
+7. Takeda, J.; Seino, Y.; Tanaka, K.-I.; Fukumoto, H.; Kayano, T.;
+Takahashi, H.; Mitani, T.; Kurono, M.; Suzuki, T.; Tobe, T.; Imura,
+H.: Sequence of an intestinal cDNA encoding human gastric inhibitory
+polypeptide precursor. Proc. Nat. Acad. Sci. 84: 7005-7008, 1987.
+
+CONTRIBUTORS Ada Hamosh - updated: 12/15/2000
+
+CREATED Victor A. McKusick: 11/13/1987
+
+EDITED wwang: 12/08/2010
+ckniffin: 10/16/2006
+mgross: 8/10/2006
+mgross: 12/15/2000
+jamie: 1/15/1997
+terry: 1/10/1997
+mimadm: 9/24/1994
+carol: 3/14/1994
+carol: 9/21/1993
+carol: 10/19/1992
+carol: 10/7/1992
+supermim: 3/16/1992
+
+613620	TITLE *613620 TBC1 DOMAIN FAMILY, MEMBER 10B; TBC1D10B
+;;RAB27AGAP-BETA
+DESCRIPTION 
+DESCRIPTION
+
+Small G proteins of the RAB family (see 179508) function in
+intracellular vesicle trafficking by switching from the GTP-bound state
+to the GDP-bound state with the assistance of guanine nucleotide
+exchange factors (GEFs; see 609700) and GTPase-activating proteins
+(GAPs). TBC1D10B functions as a GAP for several proteins of the Rab
+family (Ishibashi et al., 2009).
+
+CLONING
+
+By database analysis, Itoh and Fukuda (2006) determined that the deduced
+533-amino acid TBC1D10B protein, which they called RAB27AGAP-beta,
+contains a central TRE2 (USP6; 604334)/yeast Bub2/CDC16 (603461) (TBC)
+domain and a C-terminal DAYF motif. The TBC domain is predicted to
+function as a RabGAP, and the DAYF motif is predicted to interact with
+PDZ domains. TBC1D10B shares highest sequence similarity with EPI64
+(TBC1D10A; 610020). The TBC domains of TBC1D10B and TBC1D10A are 81%
+identical, and both contain a highly conserved catalytic arginine.
+Fluorescence-tagged TBC1D10B localized to the plasma membrane of
+transfected mouse melanoma cells.
+
+Ishibashi et al. (2009) found that fluorescence-tagged TBC1D10B
+localized near the plasma membrane of differentiated rat PC12
+pheochromocytoma cells.
+
+GENE FUNCTION
+
+By screening human and mouse cDNAs encoding putative RabGAPs for the
+ability to catalyze GTP exchange in Rab proteins, Itoh and Fukuda (2006)
+found that both TBC1D10A and TBC1D10B functioned as GAPs for mouse
+Rab27a (603868) and induced melanosome aggregation in a mouse melanocyte
+cell line. Both TBC1D10A and TBC1D10B increased the GTPase activity of
+Rab27a and reduced the amount of GTP-Rab27a when coexpressed with
+Rab27a.
+
+Endogenous Rab3a (179490) is present on dense-core vesicles in the
+distal portion of neurites in differentiated rat PC12 cells. By
+overexpressing TBC1D10B in PC12 cells, Ishibashi et al. (2009) found
+that TBC1D10B functioned as a GAP for Rab3a, reducing association of
+Rab3a with neurites. Mutation of the catalytic arg134 in the TBC domain
+of TBC1D10B completely inhibited its GAP activity against Rab3a in PC12
+and transfected COS-7 cells. TBC1D10B also showed significant GAP
+activity toward Rab22a (612966), Rab27a, and Rab35 (604199), but not
+Rab2a (RAB2; 179509) or Rab6a (179513).
+
+MAPPING
+
+Hartz (2010) mapped the TBC1D10B gene to chromosome 16p11.2 based on an
+alignment of the TBC1D10B sequence (GenBank GENBANK BC063112) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/22/2010.
+
+2. Ishibashi, K.; Kanno, E.; Itoh, T.; Fukuda, M.: Identification
+and characterization of a novel Tre-2/Bub2/Cdc16 (TBC) protein that
+possesses Rab3A-GAP activity. Genes Cells 14: 41-52, 2009.
+
+3. Itoh, T.; Fukuda, M.: Identification of EPI64 as a GTPase-activating
+protein specific for Rab27A. J. Biol. Chem. 281: 31823-31831, 2006.
+
+CREATED Patricia A. Hartz: 10/29/2010
+
+EDITED mgross: 10/29/2010
+
+607141	TITLE *607141 GLIOMA PATHOGENESIS-RELATED PROTEIN 2; GLIPR2
+;;GOLGI-ASSOCIATED PR1 PROTEIN; GAPR1;;
+CHROMOSOME 9 OPEN READING FRAME 19; C9ORF19
+DESCRIPTION 
+CLONING
+
+Using a positional cloning strategy, Eisenberg et al. (2002) identified
+a novel transcript in the critical region for IBM2 (600737) on
+chromosome 9p13-p12. They cloned the full-length cDNA, designated
+C9ORF19, from a human placenta cDNA library. C9ORF19 encodes a deduced
+154-amino acid protein with a calculated molecular mass of 17.2 kD.
+Northern blot analysis detected a 1.9-kb transcript in most adult
+tissues tested, with highest expression in lung and peripheral
+leukocytes and minor expression in liver and kidney.
+
+GENE STRUCTURE
+
+Eisenberg et al. (2002) determined that the GLIPR2 gene contains 5 exons
+and spans more than 27 kb.
+
+GENE FUNCTION
+
+Shoji-Kawata et al. (2013) showed that a peptide, Tat-beclin-1, derived
+from a region of the autophagy protein beclin-1 (604378), which binds
+HIV-1 Nef, is a potent inducer of autophagy, and interacts with a
+negative regulator of autophagy, GAPR1 (also called GLIPR2).
+Tat-beclin-1 decreases the accumulation of polyglutamine expansion
+protein aggregates and the replication of several pathogens, including
+HIV-1, in vitro, and reduces mortality in mice infected with chikungunya
+or West Nile virus. Shoji-Kawata et al. (2013) concluded that, through
+the characterization of a domain of beclin-1 that interacts with HIV-1
+Nef, they have developed an autophagy-inducing peptide that has
+potential efficacy in the treatment of human diseases.
+
+MAPPING
+
+By sequence analysis, Eisenberg et al. (2002) mapped the GLIPR2 gene to
+chromosome 9p13-p12.
+
+MOLECULAR GENETICS
+
+By mutation analysis in patients with IBM2, Eisenberg et al. (2002)
+excluded C9ORF19 as the disease-causing gene.
+
+REFERENCE 1. Eisenberg, I.; Barash, M.; Kahan, T.; Mitrani-Rosenbaum, S.: Cloning
+and characterization of a human novel gene C9orf19 encoding a conserved
+putative protein with an SCP-like extracellular protein domain. Gene 293:
+1451-148, 2002.
+
+2. Shoji-Kawata, S.; Sumpter, R., Jr.; Leveno, M.; Campbell, G. R.;
+Zou, Z.; Kinch, L.; Wilkins, A. D.; Sun, Q.; Pallauf, K.; MacDuff,
+D.; Huerta, C.; Virgin, H. W.; and 12 others: Identification of
+a candidate therapeutic autophagy-inducing peptide. Nature 494:
+201-206, 2013.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/26/2013
+
+CREATED Carol A. Bocchini: 8/9/2002
+
+EDITED alopez: 03/04/2013
+terry: 2/26/2013
+mgross: 8/12/2002
+carol: 8/9/2002
+
+609059	TITLE *609059 PATATIN-LIKE PHOSPHOLIPASE DOMAIN-CONTAINING PROTEIN 2; PNPLA2
+;;ADIPOSE TRIGLYCERIDE LIPASE; ATGL;;
+DESNUTRIN;;
+TRANSPORT-SECRETION PROTEIN 2; TTS2;;
+TTS2.2;;
+PHOSPHOLIPASE A2, CALCIUM-INDEPENDENT, ZETA;;
+IPLA2-ZETA
+DESCRIPTION 
+DESCRIPTION
+
+PLPLA2 is a triglyceride lipase (EC 3.1.1.3) that localizes to lipid
+droplets and catalyzes the initial step in triglyceride hydrolysis
+(Zimmermann et al., 2004).
+
+CLONING
+
+By searching for genes expressed exclusively in mouse adipose tissue,
+Villena et al. (2004) cloned Pnpla2, which they designated desnutrin.
+The deduced 486-amino acid protein contains a highly conserved 180-amino
+acid N-terminal patatin domain with a glycine-rich region, an active
+serine hydrolase motif, and an aspartate active site motif. By database
+analysis, Villena et al. (2004) identified human PNPLA2, which shows 88%
+amino acid homology to mouse desnutrin. Northern blot analysis detected
+a 2.0-kb transcript expressed at high levels in mouse brown and white
+adipose tissue and at intermediate levels in heart and testis. Very low
+expression was detected in all other mouse tissues examined. Expression
+of desnutrin was lower in gonadal fat deposits of genetically obese mice
+compared with wildtype mice. Desnutrin mRNA was found only in mature
+adipocytes and not in proliferating or confluent mouse preadipocytes.
+Expression was rapidly increased in cells induced to differentiate.
+
+GENE FUNCTION
+
+Villena et al. (2004) found that desnutrin mRNA levels were regulated by
+the nutritional status of mice, being transiently induced during
+fasting. In vitro desnutrin gene expression was upregulated by
+dexamethasone in a dose-dependent manner, but not by cAMP, suggesting
+that glucocorticoids could mediate the increased desnutrin mRNA levels
+observed during fasting.
+
+Zimmermann et al. (2004) reported that an enzyme besides
+hormone-sensitive lipase (HSL; 151750) that they called 'adipose
+triglyceride lipase (ATGL)' catalyzes the initial step in triglyceride
+hydrolysis in mammalian adipose tissue. ATGL contains a 'patatin domain'
+common to plant acyl-hydrolases. ATGL is highly expressed in adipose
+tissue of mice and humans. It exhibits high substrate specificity for
+triacylglycerol and is associated with lipid droplets. Inhibition of
+ATGL markedly decreased total adipose acyl-hydrolase activity. Thus,
+Zimmermann et al. (2004) concluded that ATGL and hormone-sensitive
+lipase coordinately catabolize stored triglycerides in adipose tissue of
+mammals.
+
+Jenkins et al. (2004) found that purified recombinant PNPLA3 (609567),
+PNPLA2, and GS2 (PNPLA4; 300102) expressed in insect cells showed
+abundant triacylglycerol lipase activity. The recombinant enzymes also
+showed acylglycerol transacylase activity by transferring the acyl donor
+mono-olein to mono-olein or diolein acceptors to form diolein and
+triolein, respectively.
+
+Using a cell culture model and various biochemical approaches, Wang et
+al. (2011) investigated the mechanisms by which perilipin-1 (PLIN1;
+170290), PLIN2 (103195), and PLIN5 (613248) control lipolysis by ATGL
+and its colipase, CGI58 (ABHD5; 604780). PLIN5 exerted a negative
+regulatory role in lipid droplet hydrolysis by binding and inhibiting
+ATGL activity at the lipid droplet surface under basal conditions. Even
+after protein kinase A (PKA; see 188830) activation, release of fatty
+acid was only modestly increased. In contrast, recruitment of CGI58,
+followed by interaction with ATGL, increased lipolysis. Neither PLIN1
+nor PLIN2 directly interacted with ATGL. Wang et al. (2011) proposed
+that PLIN5 plays a critical role in oxidative tissues (e.g., heart and
+skeletal muscle) to protect mitochondria from a rapid increase of fatty
+acid during lipolysis.
+
+GENE STRUCTURE
+
+Fischer et al. (2007) reported that the PNPLA2 gene comprises 9 coding
+exons.
+
+MAPPING
+
+The Radiation Hybrid Mapping Consortium mapped the PNPLA2 gene to
+chromosome 11 (TMAP A009K14). Villena et al. (2004) mapped the mouse
+Pnpla2 gene to chromosome 7.
+
+MOLECULAR GENETICS
+
+In 3 patients with a neutral lipids storage disorder (NLSD) associated
+with mild myopathy but not ichthyosis (NLSDM; 610717), Fischer et al.
+(2007) detected mutations in the PNPLA2 gene. One individual was a
+compound heterozygote for a 1-bp deletion (808delC; 609059.0001) and a
+missense mutation (P195L; 609059.0002). The second was homozygous for a
+1-bp deletion (847delC; 609059.0003). The third was homozygous for a
+nonsense mutation (Q289X; 609059.0004). Fischer et al. (2007) considered
+the PNPLA2 gene as a good candidate for mutations causing this disorder
+because PNPLA2 is activated by ABHD5 (604780), mutations in which cause
+another NLSD, that with ichthyosis (NLSDI), also called Chanarin-Dorfman
+syndrome (CDS; 275630). Fischer et al. (2007) noted that the 808delC,
+847delC, and Q289X mutations severely alter and delete the C-terminal
+region of the protein, which includes the putative lipid-binding site.
+They suggested that loss of the C-terminal region could explain the low
+activity of the lipid droplet-associated lipase and the defect in
+triglyceride catabolism, while the intact N-terminal region containing
+the catalytic site may retain lipase activity, explaining the normal in
+vitro lipase activity in whole lysate of fibroblasts.
+
+Reilich et al. (2011) identified biallelic mutations in the PNPLA2 gene
+(see, e.g., 609059.0002; 609059.0009-609059.0010) in 6 patients,
+including 2 sibs, with NLSDM. Mutations in 5 of the patients resulted in
+a lack of protein expression. The patients had adult onset of muscle
+weakness affecting primarily the shoulder girdle but sometimes affecting
+the lower limbs and distal muscles of the fingers and feet. Some
+patients developed cardiac involvement later in the disease course. All
+had increased serum creatine kinase, most had increased serum
+triglycerides, and all had Jordans bodies on peripheral blood smear,
+consistent with multisystem lipid accumulation. Other, more variable
+features included diabetes, hepatic steatosis, and sensorineural hearing
+loss. Activation of hormone-sensitive lipase by beta-adrenergic agents
+such as clenbuterol appeared to bypass the enzymatic block in
+PNPLA2-deficient patient cells in vitro, suggesting a possible
+therapeutic approach.
+
+In 3 unrelated Han Chinese patients with adult-onset neutral lipid
+storage disease with myopathy, Lin et al. (2012) identified 4 different
+mutations in the PNPLA2 gene (609059.0005-609059.0008). All mutations
+occurred in the homozygous or compound heterozygous state.
+
+ANIMAL MODEL
+
+Das et al. (2011) showed that inhibition of lipolysis through genetic
+ablation of Atgl or hormone-sensitive lipase (HSL; 151750) ameliorated
+certain features of cancer-associated cachexia. In wildtype C57BL/6
+mice, the injection of Lewis lung carcinoma or B16 melanoma cells causes
+tumor growth, loss of white adipose tissue, and a marked reduction of
+gastrocnemius muscle. In contrast, Atgl-deficient mice with tumors
+resisted increased white adipose tissue lipolysis, myocyte apoptosis,
+and proteasomal muscle degradation and maintained normal adipose and
+gastrocnemius muscle mass. Hsl-deficient mice with tumors were also
+protected, although to a lesser degree. Das et al. (2011) concluded that
+functional lipolysis is essential in the pathogenesis of
+cancer-associated cachexia.
+
+Haemmerle et al. (2011) found that Atgl knockout in mice resulted in
+cardiac insufficiency and premature death. Cardiac dysfunction was
+associated with excessive lipid and glycogen accumulation, disrupted
+substrate oxidation and respiration in predominantly subsarcolemmal
+mitochondria, reduced expression of Ppar-alpha (PPARA; 170998) and
+Ppar-delta (PPARD; 600409) target genes, including genes directly
+involved in fatty acid and glucose metabolism, and reduced expression of
+Pgc1-alpha (PPARGC1A; 604517) and Pgc1-beta (PPARGC1B; 608886).
+Atgl-null mice also showed defective expression of Ppar-alpha and
+Ppar-delta target genes in liver, but decreased expression of Pgc1-alpha
+and Pgc1-beta was specific to cardiac muscle. Conditional Atgl deletion
+in heart and skeletal muscle only resulted in a cardiac phenotype
+identical to that in Atgl -/- mice. Reexpression of an Atgl transgene in
+hearts of Atgl -/- mice entirely rescued the lethal cardiac phenotype,
+increased expression of Ppar-alpha and Ppar-delta target genes and
+Pgc1-alpha and Pgc1-beta, restored the metabolic profile, and increased
+life span to a level indistinguishable from wildtype. Treatment of Atgl
+-/- mice with Ppar-alpha agonists, but not Ppar-delta agonists,
+completely reversed all pathologic effects of Atgl deletion. Haemmerle
+et al. (2011) concluded that ATGL is required for cardiac mitochondrial
+function and activation of lipids as signaling molecules.
+
+ALLELIC VARIANT .0001
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 1-BP DEL, 808C
+
+In a female from the Netherlands with neutral lipid storage disease with
+myopathy (NLSDM; 610717), Fischer et al. (2007) detected compound
+heterozygosity for mutations in the PNPLA2 gene. A 1-bp deletion in exon
+7 (808delC) led to frameshift and a premature stop codon at amino acid
+position 319. The other allele carried a missense mutation
+(609059.0002).
+
+.0002
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, PRO195LEU
+
+The patient of Fischer et al. (2007) from the Netherlands with neutral
+lipid storage disease with myopathy (NLSDM; 610717) carried a 584C-T
+transition in exon 5 of the PNPLA2 gene that led to a pro195-to-leu
+substitution (P195L). This mutation is localized on the border of the
+N-terminal patatin domain in a region that is conserved in 5 proteins of
+the PNPLA family and in homologous genes conserved in bilateral animals.
+The other allele of the patient carried a 1-bp deletion (609059.0001).
+
+Reilich et al. (2011) reported a 45-year-old woman from Newfoundland
+with NLSDM and a homozygous P195L mutation in the PNPLA2 gene. She had
+onset of slowly progressive myopathy in her twenties, followed by severe
+congestive heart failure and cardiomyopathy by her late thirties. She
+also developed diabetes mellitus. The proximal muscles were more
+severely affected. Her father died of dilated cardiomyopathy at age 57.
+The proband also carried a homozygous G483R substitution in the PNPLA2
+gene, which was of uncertain significance.
+
+.0003
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 1-BP DEL, 847C
+
+In a French patient with neutral lipid storage disease with myopathy
+(NLSDM; 610717), Fischer et al. (2007) detected homozygosity for a 1-bp
+deletion in exon 7 of the PNPLA2 gene, 847delC, leading to frameshift
+and a premature stop codon at amino acid position 319. This patient
+developed diabetes at age 12 and died from cardiovascular complications
+at age 34.
+
+.0004
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, GLN289TER
+
+In an Algerian patient with neutral lipid storage disease with myopathy
+(NLSDM; 610717), Fischer et al. (2007) found homozygosity for an 865C-T
+transition in exon 7 of the PNPLA2 gene that substituted a stop codon
+for the glutamine at codon 289 (Q289X).
+
+.0005
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, IVS6DS, T-C, +2
+
+In a 44-year-old Han Chinese man with adult-onset NLSDM (610717), Lin et
+al. (2012) identified compound heterozygosity for 2 mutations in the
+PNPLA2 gene: a T-to-C transition in intron 6, and a 749A-C transversion
+resulting in a gln250-to-pro (Q250P; 609059.0006) substitution. RT-PCR
+of patient skeletal muscle detected only the Q250P mutant mRNA,
+indicating that absence of the transcript results from the splice site
+mutation. The Q250P mutation was not found in 50 controls.
+
+.0006
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, GLN250PRO
+
+See 609059.0005 and Lin et al. (2012).
+
+.0007
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, IVS6DS, G-T, +1
+
+In a 48-year-old Han Chinese woman with adult-onset NLSDM (610717), Lin
+et al. (2012) identified a homozygous G-to-T transversion in intron 6 of
+the PNPLA2 gene. No PNPLA2 transcript was detected by RT-PCR analysis of
+mRNA from skeletal muscle.
+
+.0008
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 1-BP DEL, 467C
+
+In a 39-year-old Han Chinese man with adult-onset NLSDM (610717), Lin et
+al. (2012) identified a homozygous 1-bp deletion (467delC) in the PNPLA2
+gene, resulting in a frameshift and premature termination
+(Pro156LeufsTer100).
+
+.0009
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 1-BP DUP, 613C
+
+In 2 Turkish sibs with adult-onset NLSDM (610717), Reilich et al. (2011)
+identified a homozygous 1-bp duplication (c.613dupC) in exon 5 of the
+PNPLA2 gene, resulting in a frameshift and premature termination. The
+mutant transcript was predicted to undergo nonsense-mediated mRNA decay,
+resulting in a lack of protein. Muscle weakness primarily affected the
+proximal upper limbs, although both patients also had some distal
+involvement, including of the lower limbs in 1. Serum creatine kinase
+and triglycerides were increased. Both patients had hepatic steatosis,
+but neither had cardiac involvement. Jordans bodies were present in
+peripheral blood.
+
+.0010
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 1-BP DEL, 543C
+
+In a British man with adult-onset NLSDM (610717), Reilich et al. (2011)
+identified a homozygous 1-bp deletion (c.543delC) in exon 5 of the
+PNPLA2 gene, resulting in a frameshift and premature termination. The
+mutant transcript was predicted to undergo nonsense-mediated mRNA decay,
+resulting in a lack of protein. At age 28 years, the patient developed
+slowly progressive muscle weakness affecting the proximal upper and
+lower limbs. At age 52 years, he had Gowers sign, distal muscle weakness
+of the upper and lower extremities, and cardiac involvement. He also had
+sensorineural hearing loss since childhood. Jordans bodies were present
+in peripheral blood.
+
+.0011
+NEUTRAL LIPID STORAGE DISEASE WITH MYOPATHY
+PNPLA2, 4-BP DUP, 475CTCC
+
+In a 35-year-old Japanese woman with NLSDM (610717), Akiyama et al.
+(2007) identified a homozygous 4-bp duplication (c.475_478dupCTCC) in
+exon 4 of the PNPLA2 gene, resulting in a frameshift and premature
+termination in the patatin domain (Gln160ProfsTer19). The mutation was
+not found in 100 control alleles or in 50 unrelated Japanese
+individuals. She had delayed walking and slow running from childhood,
+with severe upper and lower limb involvement as an adult. However, she
+did not have cardiac involvement. Imaging showed fatty replacement of
+multiple skeletal muscles, and skeletal muscle biopsy showed
+accumulation of neutral lipid droplets.
+
+REFERENCE 1. Akiyama, M.; Sakai, K.; Ogawa, M.; McMillan, J. R.; Sawamura, D.;
+Shimizu, H.: Novel duplication mutation in the patatin domain of
+adipose triglyceride lipase (PNPLA2) in neutral lipid storage disease
+with severe myopathy. Muscle Nerve 36: 856-859, 2007.
+
+2. Das, S. K.; Eder, S.; Schauer, S.; Diwoky, C.; Temmel, H.; Guertl,
+B.; Gorkiewicz, G.; Tamilarasan, K. P.; Kumari, P.; Trauner, M.; Zimmermann,
+R.; Vesely, P.; Haemmerle, G.; Zechner, R.; Hoefler, G.: Adipose
+triglyceride lipase contributes to cancer-associated cachexia. Science 333:
+233-238, 2011. Note: Erratum: Science 333: 1576 only, 2011.
+
+3. Fischer, J.; Lefevre, C.; Morava, E.; Mussini, J.-M.; Laforet,
+P.; Negre-Salvayre, A.; Lathrop, M.; Salvayre, R.: The gene encoding
+adipose triglyceride lipase (PNPLA2) is mutated in neutral lipid storage
+disease with myopathy. Nature Genet. 39: 28-30, 2007.
+
+4. Haemmerle, G.; Moustafa, T.; Woelkart, G.; Buttner, S.; Schmidt,
+A.; van de Weijer, T.; Hesselink, M.; Jaeger, D.; Kienesberger, P.
+C.; Zierler, K.; Schreiber, R.; Eichmann, T.; and 23 others: ATGL-mediated
+fat catabolism regulates cardiac mitochondrial function via PPAR-alpha
+and PGC-1. Nature Med. 17: 1076-1085, 2011.
+
+5. Jenkins, C. M.; Mancuso, D. J.; Yan, W.; Sims, H. F.; Gibson, B.;
+Gross, R. W.: Identification, cloning, expression, and purification
+of three novel human calcium-independent phospholipase A2 family members
+possessing triacylglycerol lipase and acylglycerol transacylase activities. J.
+Biol. Chem. 279: 48968-48975, 2004.
+
+6. Lin, P.; Li, W.; Wen, B.; Zhao, Y.; Fenster, D. S.; Wang, Y.; Gong,
+Y.; Yan, C.: Novel PNPLA2 gene mutations in Chinese Han patients
+causing neutral lipid storage disease with myopathy. J. Hum. Genet. 57:
+679-681, 2012.
+
+7. Reilich, P.; Horvath, R.; Krause, S.; Schramm, N.; Turnbull, D.
+M.; Trenell, M.; Hollingsworth, K. G.; Gorman, G. S.; Hans, V. H.;
+Reimann, J.; MacMillan, A.; Turner, L.; Schollen, A.; Witte, G.; Czermin,
+B.; Holinski-Feder, E.; Walter, M. C.; Schoser, B.; Lochmuller, H.
+: The phenotypic spectrum of neutral lipid storage myopathy due to
+mutations in the PNPLA2 gene. J. Neurol. 258: 1987-1997, 2011.
+
+8. Villena, J. A.; Roy, S.; Sarkadi-Nagy, E.; Kim, K.-H.; Sul, H.
+S.: Desnutrin, an adipocyte gene encoding a novel patatin domain-containing
+protein, is induced by fasting and glucocorticoids: ectopic expression
+of desnutrin increases triglyceride hydrolysis. J. Biol. Chem. 279:
+47066-47075, 2004.
+
+9. Wang, H.; Bell, M.; Sreenevasan, U.; Hu, H.; Liu, J.; Dalen, K.;
+Londos, C.; Yamaguchi, T.; Rizzo, M. A.; Coleman, R.; Gong, D.; Brasaemle,
+D.; Sztalryd, C.: Unique regulation of adipose triglyceride lipase
+(ATGL) by perilipin 5, a lipid droplet-associated protein. J. Biol.
+Chem. 286: 15707-15715, 2011.
+
+10. Zimmermann, R.; Strauss, J. G.; Haemmerle, G.; Schoiswohl, G.;
+Birner-Gruenberger, R.; Riederer, M.; Lass, A.; Neuberger, G.; Eisenhaber,
+F.; Hermetter, A.; Zechner, R.: Fat mobilization in adipose tissue
+is promoted by adipose triglyceride lipase. Science 306: 1383-1386,
+2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/18/2013
+Cassandra L. Kniffin - updated: 12/18/2012
+Ada Hamosh - updated: 12/22/2011
+Ada Hamosh - updated: 9/1/2011
+Paul J. Converse - updated: 6/16/2011
+Victor A. McKusick - updated: 1/24/2007
+Patricia A. Hartz - updated: 9/1/2005
+Ada Hamosh - updated: 12/10/2004
+
+CREATED Patricia A. Hartz: 12/2/2004
+
+EDITED carol: 10/02/2013
+carol: 9/25/2013
+carol: 9/20/2013
+ckniffin: 9/18/2013
+carol: 12/19/2012
+ckniffin: 12/18/2012
+alopez: 10/3/2012
+mgross: 1/9/2012
+terry: 12/22/2011
+alopez: 10/12/2011
+alopez: 9/6/2011
+terry: 9/1/2011
+mgross: 6/21/2011
+terry: 6/16/2011
+wwang: 11/5/2008
+alopez: 1/24/2007
+terry: 1/24/2007
+mgross: 9/1/2005
+alopez: 12/15/2004
+terry: 12/10/2004
+mgross: 12/2/2004
+
+116806	TITLE *116806 CATENIN, BETA-1; CTNNB1
+;;CADHERIN-ASSOCIATED PROTEIN, BETA; CTNNB
+DESCRIPTION 
+DESCRIPTION
+
+Beta-catenin is an adherens junction protein. Adherens junctions (AJs;
+also called the zonula adherens) are critical for the establishment and
+maintenance of epithelial layers, such as those lining organ surfaces.
+AJs mediate adhesion between cells, communicate a signal that
+neighboring cells are present, and anchor the actin cytoskeleton. In
+serving these roles, AJs regulate normal cell growth and behavior. At
+several stages of embryogenesis, wound healing, and tumor cell
+metastasis, cells form and leave epithelia. This process, which involves
+the disruption and reestablishment of epithelial cell-cell contacts, may
+be regulated by the disassembly and assembly of AJs. AJs may also
+function in the transmission of the 'contact inhibition' signal, which
+instructs cells to stop dividing once an epithelial sheet is complete
+(summary by Peifer, 1993).
+
+CLONING
+
+As reviewed by Peifer (1993), the AJ is a multiprotein complex assembled
+around calcium-regulated cell adhesion molecules called cadherins (e.g.,
+114020 and 114021). Cadherins are transmembrane proteins: the
+extracellular domain mediates homotypic adhesion with cadherins on
+neighboring cells, and the intracellular domain interacts with
+cytoplasmic proteins that transmit the adhesion signal and anchor the AJ
+to the actin cytoskeleton. These cytoplasmic proteins include the alpha-
+(116805), beta-, and gamma-catenins. The beta-catenin gene, which was
+cloned by McCrea et al. (1991), shows no similarity in sequence to the
+genes for the alpha-catenins. The beta-catenin protein shares 70% amino
+acid identity with both plakoglobin (173325), which is found in
+desmosomes (another type of intracellular junction), and the product of
+the Drosophila segment polarity gene 'armadillo.' Armadillo is part of a
+multiprotein AJ complex in Drosophila that also includes some homologs
+of alpha-catenin and cadherin, and genetic studies indicate that it is
+required for cell adhesion and cytoskeletal integrity. The armadillo
+gene was originally identified as one of a group of segment polarity
+genes that regulate pattern formation of the Drosophila embryonic
+cuticle.
+
+GENE STRUCTURE
+
+Nollet et al. (1996) showed that the CTNNB1 gene has 16 exons and spans
+23.2 kb. Alternative splicing within exon 16 produced a splice variant
+that is 159-bp shorter in the 3-prime untranslated region. The promoter
+region was shown to be GC-rich and to contain a TATA box. The authors
+demonstrated promoter activity in mouse epithelial cells for the 5-prime
+flanking region when it was linked to the reporter gene alkaline
+phosphatase.
+
+MAPPING
+
+By FISH, Kraus et al. (1994) mapped the CTNNB1 gene to 3p21, a region
+frequently affected by somatic alterations in a variety of tumors. Using
+PCR primers for the genomic amplification of beta-catenin sequences on
+the basis of homology to exon 4 of the Drosophila armadillo gene, they
+analyzed a panel of somatic cell hybrids to confirm the localization of
+the gene to human chromosome 3. Exclusion mapping of 3 hybrids carrying
+defined fragments of 3p allowed them to determine that the CTNNB1 locus
+is close to marker D3S2. Guenet et al. (1995) mapped the homologous
+gene, symbolized Catnb by them, to mouse chromosome 9 by analysis of
+interspecific backcrosses. Bailey et al. (1995) used FISH and PCR
+analysis of somatic cell hybrid DNAs to show that the CTNNB1 gene is
+located in the 3p22-p21 region. By FISH, van Hengel et al. (1995)
+assigned CTNNB1 to 3p22-p21.3. Trent et al. (1995) likewise localized
+the CTNNB1 gene to 3p22 by FISH. They stated that because APC-binding
+proteins (like beta-catenin) represent a 'downstream' modulator of APC
+activity, the chromosomal locus of such a protein might be expected to
+be a site involved in chromosome rearrangements in malignancy.
+
+GENE FUNCTION
+
+Work by Korinek et al. (1997) and by Morin et al. (1997) established
+that the APC gene (611731), which is mutant in adenomatous polyposis of
+the colon, is a negative regulator of beta-catenin signaling. The APC
+protein normally binds to beta-catenin, which interacts with Tcf and Lef
+transcription factors. Korinek et al. (1997) cloned a gene, which they
+called hTcf-4, that is a Tcf family member expressed in colonic
+epithelium. The protein product (Tcf4) transactivates transcription only
+when associated with beta-catenin. Nuclei of APC -/- colon carcinoma
+cells were found to contain a stable beta-catenin/Tcf4 complex that was
+constitutively active, as measured by transcription of a Tcf reporter
+gene. Reintroduction of APC removed beta-catenin from Tcf4 and abrogated
+the transcriptional activation. Korinek et al. (1997) concluded that
+constitutive transcription of Tcf target genes, caused by loss of APC
+function, may be a crucial event in the early transformation of colonic
+epithelium. Morin et al. (1997) likewise found that the protein products
+of mutant APC genes present in colorectal tumors were defective in
+downregulating transcriptional activation mediated by beta-catenin and
+T-cell transcription factor-4 (TCF4), now known as transcription
+factor-7-like-2 (TCF7L2; 602228). Furthermore, colorectal tumors with
+intact APC genes were found to contain activating mutations of
+beta-catenin that altered functionally significant phosphorylation
+sites. These results indicated that regulation of beta-catenin is
+critical to the tumor suppressive effect of APC and that this regulation
+can be circumvented by mutations in either APC or beta-catenin.
+
+Roose et al. (1999) demonstrated in mice that one of the targets of the
+beta-catenin/TCF7L2 interactions in epithelial cells is TCF7 (189908).
+Roose et al. (1999) suggested that TCF7 may act as a feedback repressor
+of beta-catenin/TCF7L2 target genes, and thus may cooperate with APC to
+suppress malignant transformation of epithelial cells.
+
+Rodova et al. (2002) presented evidence for beta-catenin-induced
+expression of PKD1 (601313). They analyzed the promoter region of PKD1
+and identified numerous transactivating factors, including 4 TCF-binding
+elements (TBEs). Beta-catenin induced a reporter construct containing
+TBE1 6-fold when cotransfected into HEK293T cells, which express TCF4
+(TCF7L2). Dominant-negative TCF4 or deletion of the TBE1 sequence
+inhibited the induction. Gel shift assays confirmed that TCF4 and
+beta-catenin could complex with the TBE1 site, and HeLa cells stably
+transfected with beta-catenin responded with elevated levels of
+endogenous PKD1 mRNA. Rodova et al. (2002) concluded that the PKD1 gene
+is a target of the beta-catenin/TCF pathway.
+
+Van de Wetering et al. (2002) showed that disruption of
+beta-catenin/TCF4 activity in colorectal cancer cells induced a rapid G1
+arrest and blocked a genetic program that was physiologically active in
+the proliferative compartment of colon crypts. Coincidently, an
+intestinal differentiation program was induced. The TCF4 target gene MYC
+(190080) played a central role in this switch by direct repression of
+the CDKN1A (116899) promoter. Following disruption of beta-catenin/TCF4
+activity, the decreased expression of MYC released CDKN1A transcription,
+which in turn mediated G1 arrest and differentiation. The authors
+concluded that the beta-catenin/TCF4 complex constitutes the master
+switch that controls proliferation versus differentiation in healthy and
+malignant intestinal epithelial cells.
+
+Glucuronic acid epimerase (GLCE; 612134) is responsible for
+epimerization of D-glucuronic acid (GlcA) to L-iduronic acid (IdoA) of
+the cell surface polysaccharide heparan sulfate (HS), endowing the
+nascent HS polysaccharide chain with the ability to bind growth factors
+and cytokines. Using stepwise deletion and site-directed mutagenesis,
+Ghiselli and Agrawal (2005) identified 2 cis-acting binding elements for
+the beta-catenin-TCF4 complex in the enhancer region of the GLCE
+promoter. Electrophoretic mobility shift and supershift analyses
+confirmed binding of beta-catenin-TCF4 to these sequences of GLCE. GLCE
+expression in human colon carcinoma cell lines correlated with the
+degree of activation of the beta-catenin-TCF4 transactivation complex.
+Furthermore, ectopic expression of beta-catenin-TCF4 increased the GLCE
+transcript level and enhanced the rate of GlcA epimerization in HS.
+Ghiselli and Agrawal (2005) concluded that the beta-catenin-TCF4
+transactivation pathway plays a major role in modulating GLCE
+expression, thus contributing to regulation of HS biosynthesis and its
+structural organization.
+
+Batlle et al. (2002) showed that beta-catenin and TCF inversely control
+the expression of the EphB2 (600997)/EphB3 (601839) receptors and their
+ligand, ephrin B1 (EFNB1; 300035), in colorectal cancer and along the
+crypt-villus axis. Disruption of EphB2 and EphB3 genes revealed that
+their gene products restrict cell intermingling and allocate cell
+populations within the intestinal epithelium. In EphB2/EphB3 null mice,
+the proliferative and differentiated populations intermingled. In adult
+EphB3 -/- mice, Paneth cells did not follow their downward migratory
+path, but scattered along crypt and villus. The authors concluded that,
+in the intestinal epithelium, beta-catenin and TCF couple proliferation
+and differentiation to the sorting of cell populations through the
+EphB/ephrin B system.
+
+Kawasaki et al. (2000) cloned a gene, ASEF (605216), whose protein
+product interacts directly with APC (611731). ASEF immunoprecipitates
+with beta-catenin; however, ASEF and beta-catenin do not interact
+directly, suggesting that ASEF, APC, and beta-catenin are found in the
+same complex in vivo. Kawasaki et al. (2000) suggested that the APC-ASEF
+complex may regulate the actin cytoskeletal network, cell morphology and
+migration, and neuronal function.
+
+In addition to the inhibition of ubiquitination (see BTRC, 603482) of
+phosphorylated IKBA (164008), Neish et al. (2000) observed that
+phosphorylated CTNNB1 is not ubiquitinated in epithelial cells exposed
+to avirulent Salmonella.
+
+Eastman and Grosschedl (1999) reviewed progress in understanding of how
+the activities of both beta-catenin and LEF1/TCF (153245) proteins are
+regulated. They summarized the interactions of beta-catenin and LEF1/TCF
+proteins, including a discussion of how cellular events can influence
+the stability of beta-catenin and its availability for association with
+LEF1/TCF proteins. Eastman and Grosschedl (1999) also discussed factors
+that influence beta-catenin activity independent of a Wnt signal.
+
+Kang et al. (2002) showed that presenilin-1 (PS1; 104311) functions as a
+scaffold that rapidly couples beta-catenin phosphorylation through 2
+sequential kinase activities independent of the Wnt-regulated axin
+(603816)/CK1-alpha (600505) complex. Presenilin deficiency resulted in
+increased beta-catenin stability in vitro and in vivo by disconnecting
+the stepwise phosphorylation of beta-catenin, both in the presence and
+absence of Wnt stimulation. These findings highlighted an aspect of
+beta-catenin regulation outside of the canonical Wnt-regulated pathway
+and a function of presenilin separate from intramembrane proteolysis.
+
+Murase et al. (2002) transfected fluorescence-tagged chick beta-catenin
+into rat hippocampal neurons in culture. They found that, upon
+depolarization, beta-catenin moved from dendritic shafts into spines and
+increased its association with cadherins. This redistribution of
+beta-catenin was mimicked by addition of a tyrosine kinase inhibitor and
+prevented by addition of a phosphatase inhibitor. Transfection with a
+chick beta-catenin carrying a phosphorylation-preventing mutation of
+tyr654 (tyr654 to phe; Y654F) resulted in concentration of beta-catenin
+within spines, whereas transfection with a phosphorylation-mimicking
+mutation (tyr654 to glu; Y654E) resulted in beta-catenin accumulation in
+dendritic shafts. The Y654F-expressing neurons also exhibited a higher
+minifrequency and larger Psd95 (602887) and synapsin-1 (313440) clusters
+within synaptic spines.
+
+Tetsu and McCormick (1999) showed that beta-catenin activated
+transcription from the cyclin D1 (CCND1; 168461) promoter. They
+identified promoter sequences related to consensus TCF/LEF-binding sites
+that were necessary for activation. p21 RAS (see 190020) further
+activated transcription of the cyclin D1 gene through sites within the
+promoter that bind the transcriptional regulators ETS (see 164720) or
+CREB (CREB1; 123810). Cells expressing mutant beta-catenin produced high
+levels of cyclin D1 mRNA and protein. Furthermore, expression of a
+dominant-negative form of TCF in colon cancer cells inhibited expression
+of cyclin D1 without affecting expression of other cyclins or
+cyclin-dependent kinases and caused cells to arrest in G1.
+
+Lin et al. (2000) demonstrated that CCND1 is one of the targets of
+beta-catenin in breast cancer (114480) cells. They found that high
+beta-catenin activity correlated with poor patient prognosis and was a
+strong and independent prognostic factor in breast cancer. These studies
+indicated that beta-catenin can be involved in breast cancer formation
+and/or progression and may serve as a target for breast cancer therapy.
+
+Van Aken et al. (2002) studied the cadherin-catenin complex in
+retinoblastoma and normal retina tissues. In both cases, they found that
+N-cadherin (114020) was associated with alpha- and beta-catenin but not
+with E- or P-cadherin. Moreover, retinoblastoma cells, in contrast with
+normal retina, expressed an N-cadherin/catenin complex that was
+irregularly distributed and weakly linked to the cytoskeleton. In
+retinoblastoma, this complex acted as an invasion promoter.
+
+Widlund et al. (2002) identified beta-catenin as a significant regulator
+of melanoma cell growth, with MITF (156845) as a critical downstream
+target. Disruption of the canonical Wnt pathway abrogated growth of
+melanoma cells, and constitutive overexpression of MITF rescued the
+growth suppression.
+
+The morphogenesis of organs as diverse as lungs, teeth, and hair
+follicles is initiated by a downgrowth from a layer of epithelial stem
+cells. During follicular morphogenesis, stem cells form this bud
+structure by changing their polarity and cell-to-cell contact. Jamora et
+al. (2003) showed that this process is achieved through simultaneous
+receipt of 2 external signals: a WNT protein (WNT3A; 606359) to
+stabilize beta-catenin, and a bone morphogenetic protein inhibitor
+(Noggin; 602991) to produce Lef1. Beta-catenin then binds to and
+activates Lef1 transcription complexes that appear to act
+uncharacteristically by downregulating the gene encoding E-cadherin
+(192090), an important component of polarity and intercellular adhesion.
+When either signal is missing, functional Lef1 complexes are not made,
+and E-cadherin downregulation and follicle morphogenesis are impaired.
+In Drosophila, E-cadherin can influence the plane of cell division and
+cytoskeletal dynamics. Consistent with this notion, Jamora et al. (2003)
+showed that forced elevation of E-cadherin levels block invagination and
+follicle production. Jamora et al. (2003) concluded that their findings
+reveal an intricate molecular program that links 2 extracellular
+signaling pathways to the formation of a nuclear transcription factor
+that acts on target genes to remodel cellular junctions and permit
+follicle formation.
+
+Jarvinen et al. (2006) found that expression of a stabilized form of
+beta-catenin in embryonic mouse oral and dental epithelium led to tooth
+buds that gave rise to dozens of teeth. The molar crowns, however, were
+typically simplified unicusped cones. Supernumerary teeth developed by a
+renewal process where new signaling centers, the enamel knots, budded
+off from the existing dental epithelium.
+
+Hematopoietic stem cells (HSCs) have the ability to renew themselves and
+to give rise to all lineages of the blood. Reya et al. (2003) showed
+that the WNT signaling pathway has an important role in this process.
+Overexpression of activated beta-catenin expands the pool of HSCs in
+long-term cultures by both phenotype and function. Furthermore, HSCs in
+their normal microenvironment activate a LEF1/TCF reporter, which
+indicates that HSCs respond to WNT signaling in vivo. To demonstrate the
+physiologic significance of this pathway for HSC proliferation, Reya et
+al. (2003) showed that the ectopic expression of axin or a frizzled
+(603408) ligand-binding domain, inhibitors of the WNT signaling pathway,
+led to inhibition of HSC growth in vitro and reduced reconstitution in
+vivo. Furthermore, activation of WNT signaling in HSCs induced increased
+expression of HOXB4 (142965) and NOTCH1 (190198), genes previously
+implicated in self-renewal of HSCs. Reya et al. (2003) concluded that
+the WNT signaling pathway is critical for normal HSC homeostasis in
+vitro and in vivo, and provide insight into a potential molecular
+hierarchy of regulation of HSC development.
+
+In rat hippocampal neuronal cultures, Yu and Malenka (2003) found that
+increasing the intracellular levels of beta-catenin enhanced dendritic
+arborization. Although the effect did not require
+WNT-beta-catenin-dependent transcription, WNT was involved in enhanced
+dendritic arborization resulting from depolarization. Proteins that
+sequestered beta-catenin decreased dendritic branch tip number and total
+dendritic branch length. Yu and Malenka (2003) concluded that
+beta-catenin is a mediator of dendritic development.
+
+To test whether nuclear translocation of beta-catenin is involved in
+axial identity and/or germ layer formation in 'pre-bilaterians,'
+Wikramanayake et al. (2003) examined the in vivo distribution,
+stability, and function of beta-catenin protein in embryos of the sea
+anemone Nematostella vectensis. Wikramanayake et al. (2003) found that
+N. vectensis beta-catenin is differentially stabilized along the
+oral-aboral axis, translocated into nuclei in cells at the site of
+gastrulation, and used to specify ectoderm, indicating an evolutionarily
+ancient role for this protein in early pattern formation.
+
+Lee et al. (2004) demonstrated that WNT/beta-catenin signal activation
+in emigrating mouse neural crest stem cells had little effect on the
+population size and instead regulated fate decisions. Sustained
+beta-catenin activity in neural crest cells promoted the formation of
+sensory neural cells in vivo at the expense of virtually all other
+neural crest derivatives. Moreover, Lee et al. (2004) demonstrated that
+WNT is able to instruct early neural crest stem cells to adopt a sensory
+neuronal fate in a beta-catenin-dependent manner. Thus, Lee et al.
+(2004) concluded that the role of WNT/beta-catenin in stem cells is
+cell-type dependent.
+
+Kleber et al. (2005) found that Bmp2 (112261) signaling antagonized the
+sensory fate-inducing activity of Wnt/beta-catenin. Wnt and Bmp2 acted
+synergistically to suppress differentiation and to maintain mouse neural
+crest stem cell marker expression and multipotency.
+
+Brembeck et al. (2004) found that BCL9-2 (BCL9L; 609004) was involved in
+the switch between the adhesive and transcriptional functions of
+beta-catenin. The switch was initiated by tyrosine phosphorylation of
+beta-catenin, which favored BCL9-2 binding and precluded interaction
+with alpha-catenin.
+
+By coimmunoprecipitation and tandem mass spectrometric analysis, Tian et
+al. (2004) found that 14-3-3-zeta is a beta-catenin-interacting protein.
+14-3-3-zeta enhanced beta-catenin-dependent transcription by stabilizing
+beta-catenin in the cytoplasm. Furthermore, 14-3-3-zeta facilitated
+activation of beta-catenin by AKT (see AKT1; 164730) and colocalized
+with activated Akt in mouse intestinal stem cells. Tian et al. (2004)
+proposed that AKT phosphorylates beta-catenin, leading to 14-3-3-zeta
+binding and stabilization of beta catenin.
+
+Guo et al. (2004) found that several Wnt genes, including Wnt4 (603490),
+Wnt14 (602863), and Wnt16 (606267), were expressed in overlapping and
+complementary patterns in developing mouse synovial joints, where Ctnnb1
+protein level and transcription activity were upregulated. Removal of
+Ctnnb1 early in mesenchymal progenitor cells promoted chondrocyte
+differentiation and blocked the activity of Wnt14 in joint formation.
+Ectopic expression of an activated form of Ctnnb1 or Wnt14 in early
+differentiating chondrocytes induced ectopic joint formation both
+morphologically and molecularly. In contrast, genetic removal of Ctnnb1
+in chondrocytes led to joint fusion. Guo et al. (2004) concluded that
+the Wnt/CTNNB1 signaling pathway is necessary and sufficient to induce
+early steps of synovial joint formation, and they suggested that WNT4,
+WNT14, and WNT16 may play redundant roles in synovial joint induction by
+signaling through the CTNNB1-mediated canonical Wnt pathway.
+
+Kaplan et al. (2004) found that, in addition to its roles in cell-cell
+adhesion and Wnt-stimulated transcriptional activation, beta-catenin has
+a role in establishing bipolar mitotic spindles. During mitosis in mouse
+fibroblasts and HeLa cells, beta-catenin relocalized to mitotic spindle
+poles and to the midbody. Biochemical fractionation demonstrated the
+presence of beta-catenin in purified centrosome preparations. Reduction
+of beta-catenin by RNA interference led to failure of centrosomes to
+fully separate, resulting in a marked increase in the frequency of
+monoastral mitotic spindles.
+
+Kim et al. (2005) reported that the downregulation of a metastasis
+suppressor gene, KAI1 (600623), in prostate cancer cells involves the
+inhibitory actions of beta-catenin, along with a reptin (TIP48; 604788)
+chromatin remodeling complex. This inhibitory function of
+beta-catenin-reptin requires both increased beta-catenin expression and
+recruitment of histone deacetylase activity. The coordinated actions of
+beta-catenin-reptin components that mediate the repressive state serve
+to antagonize a TIP60 (601409) coactivator complex that is required for
+activation; the balance of these opposing complexes controls the
+expression of KAI1 and metastatic potential. Kim et al. (2005) concluded
+that the molecular mechanisms underlying the antagonistic regulation of
+beta-catenin-reptin and the TIP60 coactivator complexes for the
+metastasis suppressor gene, KAI1, are likely to be prototypic of a
+selective downregulation strategy for many genes, including a subset of
+NF-kappa-B (see 164011) target genes.
+
+Essers et al. (2005) reported an evolutionarily conserved interaction of
+beta-catenin with FOXO transcription factors (e.g., 602681), which are
+regulated by insulin and oxidative stress signaling. In mammalian cells,
+beta-catenin binds directly to FOXO and enhances FOXO transcriptional
+activity. In C. elegans, loss of the beta-catenin BAR1 reduces the
+activity of the FOXO ortholog DAF16 in dauer formation and life span.
+Association of beta-catenin with FOXO was enhanced in cells exposed to
+oxidative stress. Furthermore, BAR1 was required for the oxidative
+stress-induced expression of the DAF16 target gene sod3 and for
+resistance to oxidative damage. Essers et al. (2005) concluded that
+their results demonstrated a role for beta-catenin in regulating FOXO
+function that is particularly important under conditions of oxidative
+stress.
+
+Shah et al. (2006) stated that the signaling and oncogenic activity of
+beta-catenin can be repressed by activation of vitamin D receptor (VDR;
+601769). Conversely, high levels of beta-catenin can potentiate the
+transcriptional activity of 1,25-dihydroxyvitamin D3. Shah et al. (2006)
+showed that the effects of beta-catenin on VDR activity are due
+interaction between the activator function-2 domain of VDR and the C
+terminus of beta-catenin.
+
+Noubissi et al. (2006) demonstrated that beta-catenin stabilizes the
+mRNA encoding the F-box protein beta-TrCP1 (BTRCP1; 603482), and
+identified the RNA-binding protein CRDBP (608288) as a target of beta
+catenin/Tcf transcription factor. CRDBP binds to the coding region of
+BTRCP1 mRNA. Overexpression of CRDBP stabilized BTRCP1 mRNA and elevated
+BTRCP1 levels both in cells and in vivo, resulting in the activation of
+the Skp1-Cullin1-F-box protein (SCF)-BTRCP1 E3 ubiquitin ligase and in
+accelerated turnover of its substrates including I-kappa-B (see 164008)
+and beta-catenin. CRDBP is essential for the induction of both BTRCP1
+and c-Myc (190080) by beta-catenin signaling in colorectal cancer cells.
+Noubissi et al. (2006) concluded that high levels of CRDBP that are
+found in primary human colorectal tumors exhibiting active
+beta-catenin/Tcf signaling implicates CRDBP induction in the
+upregulation of BTRCP1, in the activation of dimeric transcription
+factor NF-kappa-B, and in the suppression of apoptosis in these cancers.
+
+Parakh et al. (2006) found that expression of beta-catenin lacking the
+N-terminal 90-amino acids that lead to its degradation significantly
+enhanced follicle-stimulating hormone (FSH; see 136350)-mediated
+induction of CYP19A1 (107910) and CYP11A1 (118485) mRNA. CYP19A1
+transactivation by SF1 (NR5A1; 601516) required a functional interaction
+with beta-catenin and an intact beta-catenin-binding site. The
+beta-catenin-binding site was also critical for the synergistic actions
+of FSH and SF1 on CYP19A1. The actions of beta-catenin on CYP19A1 were
+dependent on hormone-induced cAMP cascades. Parakh et al. (2006)
+concluded that beta-catenin is essential for FSH/cAMP-regulated gene
+expression in ovary and that beta-catenin has a role in estrogen
+biosynthesis.
+
+Moore et al. (2008) showed that epitope-tagged mammalian Mtgr1 (CBFA2T2;
+603672), Mtg8 (RUNX1T1; 133435), and Mtg16 (CBFA2T3; 603870) interacted
+with human TCF4 in cotransfected COS-7 cells. Beta-catenin disrupted
+interaction of Mtg proteins with TCF4. When expressed in Xenopus
+embryos, Mtg family members inhibited Wnt-dependent axis formation and
+impaired the ability of beta-catenin or Lef1 to induce axis duplication.
+Furthermore, Myc was overexpressed in the small intestine of mice
+lacking Mtgr1. Moore et al. (2008) concluded that MTG proteins act
+downstream of beta-catenin in the Wnt signaling pathway.
+
+Fungiform taste papillae form a regular array on the dorsal surface of
+the tongue. Taste buds arise from papilla epithelium and, unusual for
+epithelial derivatives, synapse with neurons, release neurotransmitters,
+and generate receptor and action potentials. Liu et al. (2007)
+demonstrated that Wnt-beta-catenin signaling is activated in developing
+fungiform placodes and taste bud cells. They showed that a dominant
+stabilizing mutation in epithelial beta-catenin causes massive
+overproduction of enlarged fungiform papillae and taste buds. Likewise,
+genetic deletion of epithelial beta-catenin or inhibition of
+Wnt-beta-catenin signaling by ectopic dickkopf-1 (Dkk1; 605189) blocked
+initiation of fungiform papilla morphogenesis. Ectopic papillae were
+innervated in the stabilizing beta-catenin mutant, whereas ectopic Dkk1
+caused absence of lingual epithelial innervation. Thus, Wnt-beta-catenin
+signaling is critical for fungiform papilla and taste bud development.
+Altered regulation of the pathway may underlie evolutionary changes in
+taste papilla patterning.
+
+Bahmanyar et al. (2008) found that stabilization of beta-catenin,
+mimicking mutations found in cancer, induced centrosome splitting,
+similar to ectopic NEK2 (604043) activation. They identified
+beta-catenin as a substrate and binding partner for NEK2 in vitro and in
+vivo and found that beta-catenin colocalized with the NEK2 substrates
+rootletin (CROCC) and CNAP1 (CEP2; 609689) between centrosomes. CNAP1
+and rootletin were required for localization of beta-catenin between
+centrosomes in interphase, whereas beta-catenin had
+rootletin-independent binding sites on chromosomes at mitotic spindle
+poles. In response to ectopic expression of active NEK2 in interphase
+cells, rootletin was reduced at interphase centrosomes and beta-catenin
+localized to rootletin-independent sites on centrosomes, an event
+required for centrosome separation in mitosis.
+
+Continuous turnover of epithelia is ensured by the extensive
+self-renewal capacity of tissue-specific stem cells. Similarly,
+epithelial tumor maintenance relies on cancer stem cells, which co-opt
+stem cell properties. In murine skin, follicular morphogenesis is driven
+by bulge stem cells that specifically express CD34 (142230). Malanchi et
+al. (2008) identified a population of cells in early epidermal tumors
+characterized by phenotype and functional similarities to normal bulge
+skin stem cells. This population contains cancer stem cells, which are
+the only cells with tumor initiation properties. Transplants derived
+from these cancer stem cells preserve the hierarchical organization of
+the primary tumor. Malanchi et al. (2008) described beta-catenin
+signaling as being essential in sustaining the cancer stem cell
+phenotype. Ablation of the beta-catenin gene results in the loss of
+cancer stem cells and complete tumor regression. In addition, Malanchi
+et al. (2008) provided evidence for the involvement of increased
+beta-catenin signaling in malignant human squamous cell carcinomas.
+Malanchi et al. (2008) concluded that because Wnt/beta-catenin signaling
+is not essential for normal epidermal homeostasis, such a mechanistic
+difference may thus be targeted to eliminate cancer stem cells and
+consequently eradicate squamous cell carcinomas.
+
+To identify genes that both modulate beta-catenin activity and are
+essential for colon cancer cell proliferation, Firestein et al. (2008)
+conducted 2 loss-of-function screens in human colon cancer cells and
+compared genes identified in these screens with an analysis of copy
+number alterations in colon cancer specimens. One of these genes,
+cyclin-dependent kinase-8 (CDK8; 603184), which encodes a member of the
+mediator complex, is located at 13q12.13, a region of recurrent copy
+number gain in a substantial fraction of colon cancers. Firestein et al.
+(2008) showed that suppression of CDK8 expression inhibits proliferation
+in colon cancer cells characterized by high levels of CDK8 and
+beta-catenin hyperactivity. CDK8 kinase activity was necessary for
+beta-catenin-driven transformation and for expression of several
+beta-catenin transcriptional targets.
+
+Morris et al. (2008) demonstrated that the transcription factor E2F1
+(189971) is a potent and specific inhibitor of beta-catenin/T cell
+factor (TCF)-dependent transcription and that this function contributes
+to E2F1-induced apoptosis. E2F1 deregulation suppresses beta-catenin
+activity in an APC (611731)/glycogen synthase kinase-3 (GSK3; see
+606784)-independent manner, reducing the expression of key beta-catenin
+targets including c-MYC (190080). This interaction explains why
+colorectal tumors, which depend on beta-catenin transcription for their
+abnormal proliferation, keep RB1 (614041) intact. Remarkably, E2F1
+activity is also repressed by CDK8, a colorectal oncoprotein. Elevated
+levels of CDK8 protect beta-catenin/TCF-dependent transcription from
+inhibition by E2F1. Morris et al. (2008) concluded that thus, by
+retaining RB1 and amplifying CDK8, colorectal tumor cells select
+conditions that collectively suppress E2F1 and enhance the activity of
+beta-catenin.
+
+Independently, Chassot et al. (2008) and Tomizuka et al. (2008) found
+that knockout of Rspo1 (609595) in mice resulted in at least partial sex
+reversal in females, but not males. Rspo1 was required for activation of
+beta-catenin and Wnt4 signaling for female sex determination.
+
+In familial adenomatous polyposis (FAP), beta-catenin is stabilized
+constitutively, providing a permanent mitogenic signal to normally
+resting cells. This occurs when the second allele of APC (611731) is
+inactivated somatically. Kohler et al. (2009) described an APC domain,
+the beta-catenin inhibitory domain (CID), that is located between the
+second and third 20-amino acid beta-catenin-binding repeats and
+therefore was present in many truncated APC products found in human
+tumors. In truncated APC, the CID was absolutely necessary to
+downregulate the transcriptional activity and the level of beta-catenin,
+even when an axin/conductin binding site was present. The activity of
+the CID was dramatically reduced in several colon cancer cell lines and
+could be inhibited by shorter truncated APC lacking the CID. The authors
+concluded that CID is a direct target of the selective pressure acting
+on APC during tumorigenesis, and it explains the interdependence of both
+APC mutations in colorectal, duodenal, and desmoid tumors.
+
+Huang et al. (2009) used a chemical genetic screen to identify a small
+molecule, XAV939, which selectively inhibits beta-catenin-mediated
+transcription. XAV939 stimulates beta-catenin degradation by stabilizing
+axin (603816), the concentration-limiting component of the destruction
+complex. Using a quantitative chemical proteomic approach, Huang et al.
+(2009) found that XAV939 stabilizes axin by inhibiting the
+poly-ADP-ribosylating enzymes tankyrase-1 (603303) and tankyrase-2
+(607128). Both tankyrase isoforms interact with a highly conserved
+domain of axin and stimulate its degradation through the
+ubiquitin-proteasome pathway.
+
+Gattinoni et al. (2009) reported that induction of Wnt/beta-catenin
+signaling by inhibitors of Gsk3b or by Wnt3a arrested mouse Cd8 (see
+186910)-positive T-cell development into effector T cells capable of
+cytotoxicity or Ifng (147570) production. Instead, Wnt signaling
+promoted expression of Tcf7 and Lef1 and generation of self-renewing
+multipotent Cd8-positive memory stem cells capable of proliferation and
+antitumor activity. Gattinoni et al. (2009) concluded that Wnt signaling
+has a key role in maintaining the self-renewing stem cell-like
+properties of mature memory CD8-positive T cells.
+
+Using RT-PCR and flow cytometric analysis, Zhao et al. (2010)
+demonstrated that mouse Tcf7 and Lef1 were highly expressed in naive T
+cells, downregulated in effector T cells, and upregulated in memory T
+cells. Memory Cd8-positive T cells expressing the p45 Tcf7 isoform and
+beta-catenin had enhanced Il2 (147680) production capacity and enhanced
+effector capacity to clear Listeria monocytogenes. Zhao et al. (2010)
+concluded that constitutive activation of the Wnt pathway favors memory
+CD8 T-cell formation during immunization, resulting in enhanced immunity
+upon a second encounter with the same pathogen.
+
+Using a genetic approach, Driessens et al. (2010) found no evidence that
+the beta-catenin pathway regulates T-cell memory phenotype, in contrast
+with the findings of Gattinoni et al. (2009). The findings of Driessens
+et al. (2010) suggested that the generation of Cd8-positive memory stem
+cells observed by Gattinoni et al. (2009) with the use of Gsk3b
+inhibitors was not a consequence of activation of the beta-catenin
+pathway, but was rather due activation of another Gsk3b-dependent
+pathway. In a reply, Gattinoni et al. (2010) noted that others,
+including Zhao et al. (2010) and Jeannet et al. (2010), had also
+identified Wnt and beta-catenin as crucial factors in postthymic
+Cd8-positive T-cell differentiation and memory development. Using
+Western blot analysis, Gattinoni et al. (2010) showed that addition of
+Wnt3a or Gsk3b inhibitor stabilized beta-catenin in primed Cd8-positive
+mouse T cells.
+
+Manicassamy et al. (2010) reported that the Wnt-beta-catenin signaling
+in intestinal dendritic cells regulates the balance between inflammatory
+versus regulatory responses in the gut. Beta-catenin in intestinal
+dendritic cells was required for the expression of antiinflammatory
+mediators such as retinoic acid metabolizing enzymes, interleukin-10
+(124092), and transforming growth factor-beta (190180), and the
+stimulation of regulatory T cell induction while suppressing
+inflammatory effector T cells. Furthermore, ablation of beta-catenin
+expression in dendritic cells enhanced inflammatory responses and
+disease in a mouse model of inflammatory bowel disease. This,
+Manicassamy et al. (2010) concluded that beta-catenin signaling programs
+dendritic cells to a tolerogenic state, limiting the inflammatory
+response. Murphy (2011) commented that the deletion of beta-catenin in
+macrophages remains a caveat to the interpretation of Manicassamy et al.
+(2010) that Wnt signaling programs dendritic cells into a tolerogenic
+state. Development of strains expressing Cre in a more finely
+lineage-restricted pattern is necessary to resolve this issue.
+Manicassamy and Pulendran (2011) responded that beta-catenin-deficient
+dendritic cells are greatly impaired in inducing regulatory T cells, and
+induce enhanced TH17/TH1 responses. They agreed that assessing the
+relative importance of dendritic cells versus macrophages in intestinal
+tolerance awaits tools that permit the genetic deletion of the numerous
+dendritic cell and macrophage subsets in the intestine.
+
+Yang et al. (2011) demonstrated in human cancer cells that EGFR (131550)
+activation induces translocation of PKM2, but not PKM1 (see 179050),
+into the nucleus, where K433 of PKM2 binds to c-Src-phosphorylated Y333
+of beta-catenin. This interaction is required for both proteins to be
+recruited to the CCND1 (168461) promoter, leading to HDAC3 (605166)
+removal from the promoter, histone H3 acetylation, and cyclin D1
+expression. PKM2-dependent beta-catenin transactivation is instrumental
+in EGFR-promoted tumor cell proliferation and brain tumor development.
+In addition, positive correlations were identified between c-Src
+activity, beta-catenin Y333 phosphorylation, and PKM2 nuclear
+accumulation in human glioblastoma specimens. Furthermore, levels of
+beta-catenin phosphorylation and nuclear PKM2 were correlated with
+grades of glioma malignancy and prognosis. Yang et al. (2011) concluded
+that their findings revealed that EGF induces beta-catenin
+transactivation via a mechanism distinct from that induced by
+Wnt/Wingless and highlighted the essential nonmetabolic functions of
+PKM2 in EGFR-promoted beta-catenin transactivation, cell proliferation,
+and tumorigenesis.
+
+Hoffmeyer et al. (2012) reported a molecular link between
+Wnt/beta-catenin signaling and the expression of the telomerase subunit
+Tert (187270). Beta-catenin-deficient mouse embryonic stem (ES) cells
+have short telomeres; conversely, ES cells expressing an activated form
+of beta-catenin (beta-catenin(deltaEx3/+)) have long telomeres.
+Hoffmeyer et al. (2012) showed that beta-catenin regulates Tert
+expression through the interaction with Klf4 (602253), a core component
+of the pluripotency transcriptional network. Beta-catenin binds to the
+Tert promoter in a mouse intestinal tumor model and in human carcinoma
+cells. Hoffmeyer et al. (2012) uncovered a theretofore unknown link
+between the stem cell and oncogenic potential whereby beta-catenin
+regulates Tert expression, and thereby telomere length, which could be
+critical in human regenerative therapy and cancer.
+
+In mice, Takeo et al. (2013) showed that nail stem cells (NSCs) reside
+in the proximal nail matrix and are defined by high expression of
+keratin-14 (148066), keratin-17 (148069), and KI67 (MKI67; 176741). The
+mechanisms governing NSC differentiation are coupled directly to their
+ability to orchestrate digit regeneration. Early nail progenitors
+undergo Wnt (see 164820)-dependent differentiation into the nail. After
+amputation, this Wnt activation is required for nail regeneration and
+also for attracting nerves that promote mesenchymal blastema growth,
+leading to the regeneration of the digit. Amputations proximal to the
+Wnt-active nail progenitors result in failure to regenerate the nail or
+digit. Nevertheless, beta-catenin stabilization in the NSC region
+induced their regeneration. Takeo et al. (2013) concluded that their
+results established a link between nail stem cell differentiation and
+digit regeneration, and suggested that NSCs may have the potential to
+contribute to the development of novel treatments for amputees.
+
+BIOCHEMICAL FEATURES
+
+In adherens junctions, alpha-catenin links the cadherin/beta-catenin
+complex to the actin-based cytoskeleton. Alpha-catenin is a homodimer in
+solution, but forms a 1:1 heterodimer with beta-catenin. Pokutta and
+Weis (2000) determined the crystal structure of the alpha-catenin
+dimerization domain, residues 82 to 279. The crystal structure showed
+that alpha-catenin dimerizes through formation of a 4-helix bundle in
+which 2 antiparallel helices are contributed by each protomer. A
+slightly larger fragment, containing residues 57 to 264, binds to
+beta-catenin. The crystal structure of a chimera consisting of the
+alpha-catenin-binding region of beta-catenin linked to the N terminus of
+alpha-catenin residues 57 to 264 revealed the interaction between alpha-
+and beta-catenin and provided a basis for understanding adherens
+junction assembly.
+
+Graham et al. (2002) determined the crystal structure at 2.5-angstrom
+resolution of a complex between CTNNB1 and ICAT (607758), a protein that
+prevents interaction between CTNNB1 and TCF/LEF family transcription
+factors. ICAT contains a 3-helix bundle that binds armadillo repeats 10
+to 12 and a C-terminal tail that, like TCF and E-cadherin, binds in the
+groove formed by armadillo repeats 5 to 9 of CTNNB1. Graham et al.
+(2002) showed that ICAT selectively inhibits CTNNB1/TCF binding in vivo,
+without disrupting CTNNB1/cadherin interactions. They concluded that it
+should be possible to design cancer therapeutics that inhibit
+CTNNB1-mediated transcriptional activation without interfering with cell
+adhesion.
+
+Daniels and Weis (2002) determined the crystal structure of ICAT bound
+to the armadillo repeat domain of CTNNB1. ICAT contains an N-terminal
+helical domain that binds to repeats 11 and 12 of CTNNB1, and an
+extended C-terminal region that binds to repeats 5 to 10 in a manner
+similar to that of TCFs and other CTNNB1 ligands.
+
+MOLECULAR GENETICS
+
+- Mental Retardation, Autosomal Dominant 19
+
+In 3 patients with severe intellectual disability, microcephaly, and
+spasticity, de Ligt et al. (2012) identified heterozygous
+loss-of-function mutations in the CTNNB1 gene (116806.0017-116806.0019).
+Two of the mutations were known to be de novo; in the third patient, the
+mutation was not inherited from the mother and the father's DNA was not
+available for testing.
+
+- Somatic Mutations
+
+Morin et al. (1997) found a total of 3 tumors that contained CTNNB1
+mutations that altered potential phosphorylation sites. Each mutation
+was somatic and appeared to affect only 1 of the 2 CTNNB1 alleles.
+Causative mutations were heterozygous. The authors hypothesized that the
+mutations might exert a dominant effect, rendering a fraction of
+cellular beta-catenin insensitive to APC-mediated downregulation. Thus,
+disruption of APC-mediated regulation of beta-catenin/TCF-regulated
+transcription is critical for colorectal tumorigenesis. This is most
+commonly achieved by recessive inactivating mutations of both APC
+alleles, but can also be achieved by dominant mutations of CTNNB1 that
+render CRT insensitive to the effects of wildtype APC.
+
+Ilyas et al. (1997) found 5 different mutations in 21 colorectal cancer
+cell lines (26%) from 19 patients: a 3-bp deletion from codon 45 and
+single-nucleotide missense mutations involving codons 33, 183, 245, and
+287. All 23 cell lines studied had full-length beta-catenin protein that
+was detectable by Western blotting and that coprecipitated with
+E-cadherin. In 3 of the cell lines with CTNNB1 mutations, complexes of
+beta-catenin with alpha-catenin and APC were detectable; in 2 other cell
+lines, complexes were not detected.
+
+Rubinfeld et al. (1997) detected abnormally high amounts of beta-catenin
+in 7 of 26 human melanoma cell lines. Unusual messenger RNA splicing and
+missense mutations in the CTNNB1 gene that result in stabilization of
+the protein were identified in 6 of the 7 lines, and the APC gene was
+altered or missing in 2 others. In the APC-deficient cells, ectopic
+expression of wildtype APC eliminated the excess beta-catenin. Cells
+with stabilized beta-catenin contained a constitutive beta-catenin/Lef1
+complex. Thus, Rubinfeld et al. (1997) concluded that genetic defects
+that result in upregulation of beta-catenin may play a role in melanoma
+progression.
+
+In a review of hereditary cancer syndromes, Fearon (1997) presented a
+useful diagram illustrating how the APC protein regulates beta-catenin
+levels in normal cells and how mutations in APC and CTNNB in cancer cell
+genes deregulate cell growth via T-cell transcription factor-7-like-2.
+
+Chan et al. (1999) studied 16 human pilomatricomas (132600) and found
+CTNNB1 mutations in 12 of them. The mutations occurred in the
+amino-terminal segment, normally involved in phosphorylation-dependent,
+ubiquitin-mediated degradation, and thus are beta-catenin-stabilizing
+mutations. The authors concluded that the 75% mutation rate directly
+implicates beta-catenin/LEF misregulation as the major cause of hair
+matrix cell tumorigenesis in humans.
+
+Sagae et al. (1999) analyzed 61 primary ovarian carcinomas (167000),
+consisting of 49 nonendometrioid-type tumors and 12 endometrioid tumors,
+for genetic alteration of the CTNNB1 gene. In 5 carcinomas, including 4
+(33%) of the endometrioid-type tumors and 1 (14%) of 7 mucinous-type
+tumors, they found 3 somatic CTNNB1 mutations (see, e.g., 116806.0012).
+All of the mutations caused alterations at the serine/threonine residues
+that are potential sites of phosphorylation of GSK3-beta (GSK3B;
+605004). Immunohistochemical studies were performed in 27 of the 61
+ovarian carcinomas. Expression of both nuclear and cytoplasmic
+beta-catenin was demonstrated in 4 of these 27 ovarian carcinomas for
+which tissue samples were available for examination. Sagae et al. (1999)
+concluded that the CTNNB1 mutations at potential GSK3B phosphorylation
+sites result in accumulation of beta-catenin protein within cells and
+its translocation to nuclei.
+
+Wright et al. (1999) identified somatic mutations within exon 3 of the
+CTNNB1 gene in 10 of 63 (16%) endometrioid ovarian carcinomas. The
+mutations all resulted in missense changes within the GSK3-beta
+consensus site.
+
+Hepatoblastoma, a rare malignant tumor of the liver that occurs in
+children at an average age of 2 to 3 years, represents the most frequent
+malignant liver tumor in childhood. Although most cases are sporadic,
+the incidence is highly elevated in patients with familial APC. These
+patients carry germline mutations of the APC gene, which controls the
+degradation of the CTNNB1 gene product after its NH2-terminal
+phosphorylation on serine/threonine residues. APC, as well as CTNNB1, is
+a central effector of the growth-promoting 'wingless' signaling pathway
+in development. To determine whether this pathway is involved in the
+pathogenesis of sporadic hepatoblastomas, Koch et al. (1999) examined 52
+biopsies and 3 cell lines from sporadic hepatoblastomas for mutations in
+the APC and CTNNB1 genes. In 48% of sporadic hepatoblastomas they found
+CTNNB1 mutations (116806.0003-116806.0005). The mutations affected exon
+3, which encodes the degradation targeting box of CTNNB1, and led to
+accumulation of intracytoplasmic and nuclear beta-catenin protein. In
+all, 11 point mutations and 5 small interstitial deletions of 24 to 102
+bp were found. Eight point mutations abolished serine or threonine
+phosphorylation sites. An increased transcriptional activity was
+demonstrated in vitro for CTNNB1 forms carrying similar mutations in
+exon 3.
+
+A major function of APC is the downregulation of beta-catenin, a
+transcription-activating protein with oncogenic potential. Molecular
+genetic studies suggest that inactivation of the APC tumor suppressor
+may be involved in hepatoblastoma tumorigenesis. In an ongoing
+immunohistochemical study of beta-catenin expression in sporadic cases
+of tumor types that are associated with adenomatous polyposis coli,
+Blaker et al. (1999) observed increased beta-catenin levels in the
+cytoplasm and in the nuclei of 3 hepatoblastomas. Sequencing of exon 3
+of the CTNNB1 gene revealed an activating mutation in one of the tumor
+samples (116806.0003). Thus, beta-catenin accumulation may play a role
+in the development of hepatoblastoma and heterozygous activating
+mutations of the CTNNB1 gene may substitute for biallelic APC
+inactivation in this tumor type.
+
+Legoix et al. (1999) found an activating beta-catenin mutation in exon 3
+in 18% of cases of hepatocellular carcinoma. Among tumors lacking a
+beta-catenin mutation, no APC mutation had been detected in a subset of
+30 cases tested. The correlation between beta-catenin mutation status
+and chromosome segment deletions was studied on a set of 48 hyperploid
+tumors. Chromosome 1p, 4q, and 16p deletions were significantly
+associated with the absence of beta-catenin mutation. The results
+suggested the existence of 2 mechanisms of carcinogenesis: first, a
+beta-catenin activating mutation associated with a low rate of loss of
+heterozygosity; a second, operating in a context of chromosomal
+instability, would involve tumor suppressor genes.
+
+Huang et al. (2000) screened 46 sporadic medulloblastomas for the
+presence of mutations in genes of the Wnt signaling pathway (APC and
+beta-catenin). Four tumors were found to have miscoding beta-catenin
+mutations, 3 of which were located at codon 33 (ser33 to phe;
+116806.0007).
+
+In desmoid tumor tissue (see 135290), Shitoh et al. (1999) identified a
+somatic thr41-to-ala mutation (116806.0003) in the beta-catenin gene.
+
+Among 166 lung cancers (90 primary tumors and 76 cell lines), 1
+blastoma, and 10 malignant mesotheliomas (156240) (2 primary tumors and
+8 cell lines), Shigemitsu et al. (2001) identified 4 alterations in exon
+3 of the CTNNB1 gene. Among 10 malignant mesotheliomas, they identified
+in 1 cell line a homozygous deletion of the entire gene except for exon
+1.
+
+Wheeler et al. (2002) examined the possible contribution of beta-catenin
+to sporadic small intestinal adenocarcinoma. Beta-catenin protein
+expression was assessed immunohistochemically in a total of 21
+nonfamilial, nonampullary small intestinal adenocarcinomas. Ten (48%)
+showed decreased expression at the cell membrane and increased nuclear
+staining; this contrasted with the usual pattern of protein expression
+in normal colonic epithelium, where nuclear expression is undetectable
+using immunohistochemical techniques. The authors also screened the
+mutation cluster region of the APC gene and found no mutations, leading
+them to suggest that increased nuclear localization of beta-catenin may
+reflect gain-of-function mutation, similar to that seen in up to 25% of
+colorectal cancers (Ilyas et al., 1997).
+
+As noted, inactivating mutations of the APC gene or activating mutations
+of the CTNNB1 gene initiate colorectal neoplasia. To address the
+biochemical and physiologic effects of mutant beta-catenin, Chan et al.
+(2002) disrupted either the mutant or wildtype CTNNB1 allele in a human
+colorectal cancer cell line. Cells with only wildtype beta-catenin had
+decreased colony-forming ability when plated at low density, although
+their growth was similar to that of parental cells when passaged under
+routine conditions. Immunohistochemistry and cell-fractionation studies
+suggested that mutant beta-catenin activity was distinguished primarily
+by cellular localization and not by protein degradation. Unexpectedly,
+they found that mutant beta-catenin bound less well to E-cadherin (CDH1;
+192090) than did wildtype beta-catenin, and the membranous localization
+of wildtype and mutant beta-catenin was accordingly distinct. These
+findings were considered to pose serious challenges to the current
+models of APC/beta-catenin function.
+
+Moreno-Bueno et al. (2001) analyzed the expression pattern of
+beta-catenin in normal anagen hair follicles and in 40 human
+pilomatrixomas by immunohistochemistry. In 11 of these tumors they also
+studied exon 3 beta-catenin gene mutations by PCR and direct sequencing.
+As these mutations have been related to a replication error (RER)
+phenotype in other tumor types, Moreno-Bueno et al. (2001) explored
+whether or not this association also occurs in pilomatrixomas.
+Beta-catenin was expressed in the cell membranes of the outer and inner
+root sheaths and in matrix cells located at the base and periphery of
+the hair follicle bulb. However, central matrix cells that differentiate
+into cortical cells, cortical, and cuticular cells expressed
+beta-catenin in the nucleus, suggesting a role in signal transduction.
+In addition, some fibroblasts of the dermal papilla also showed nuclear
+expression of beta-catenin. All 40 analyzed pilomatrixomas showed
+intense nuclear and cytoplasmic beta-catenin expression in proliferating
+matrix (basaloid) cells. In areas of maturation, transitional cells
+mainly showed cytoplasmic and membranous expression of beta-catenin,
+while only a few cells retained nuclear expression. Shadow or ghost
+cells did not show beta-catenin expression. Three of 11 tumors (26%) had
+beta-catenin mutations. All 3 had the same heterozygous missense
+mutation: a G-to-T change affecting the first nucleotide at codon 32
+(116806.0016). None of the 11 tumors studied had a positive RER
+phenotype. Moreno-Bueno et al. (2001) concluded that the
+Wnt/Ctnnb1/Tcf-Lef pathway is activated in normal matrix cells of the
+hair follicle to induce differentiation to the hair shaft. Additionally,
+the beta-catenin mutation in matrix cells of the hair follicle
+stabilizes beta-catenin protein, which translocates into the nucleus,
+where it activates gene transcription together with lymphoid enhancer
+factor-1 (153245)-producing pilomatrixoma. These mutations occur without
+an underlying defect in DNA mismatch repair.
+
+ANIMAL MODEL
+
+An effector of intercellular adhesion, beta-catenin also functions in
+Wnt signaling, associating with Lef1/Tcf DNA-binding proteins to form a
+transcription factor. Gat et al. (1998) reported that this pathway also
+operates in keratinocytes and that mice expressing beta-catenin
+controlled by an epidermal promoter undergo a process resembling de novo
+hair morphogenesis. The new follicles form sebaceous glands and dermal
+papilla, normally established only in embryogenesis. As in
+embryologically initiated hair germs, transgenic follicles induce Lef1,
+but follicles are disoriented and defective in Sonic hedgehog
+polarization. Additionally, proliferation continues unchecked, resulting
+in 2 types of tumors (epithelioid cysts and trichofolliculomas) that are
+also found in humans. Older transgenic mice develop pilomatricomas.
+These findings suggested that transient beta-catenin stabilization may
+be a key player in the epidermal signal leading to hair development and
+implicated aberrant beta-catenin activation in hair tumors.
+
+Harada et al. (1999) found that targeted deletion of exon 3 in mice,
+which encodes serines and threonines phosphorylated by GSK3-beta, caused
+adenomatous intestinal polyps resembling those in Apc knockout mice.
+Some nascent microadenomas were also found in the colon.
+
+To study the role of beta-catenin in skin development, Huelsken et al.
+(2001) introduced a conditional mutation of the gene in the epidermis
+and hair follicles of mice using Cre/loxP technology. When beta-catenin
+was mutated during embryogenesis, formation of placodes that generate
+hair follicles was blocked. The authors showed that beta-catenin is
+required genetically downstream of Tabby (300450) and downless (EDAR;
+604095) and upstream of bone morphogenetic proteins (see 112262) and Shh
+(600725) in placode formation. If beta-catenin was deleted after hair
+follicles had formed, hair was completely lost after the first hair
+cycle. Further analysis demonstrated that beta-catenin is essential for
+fate decisions of skin stem cells: in the absence of beta-catenin, stem
+cells failed to differentiate into follicular keratinocytes and instead
+adopted an epidermal fate.
+
+Saadi-Kheddouci et al. (2001) found that transgenic mice that
+overproduced an oncogenic form of beta-catenin in the epithelial cells
+of the kidney developed severe polycystic lesions soon after birth.
+
+To examine whether activating beta-catenin signaling could regulate
+mammalian brain development, Chenn and Walsh (2002) developed transgenic
+mice overexpressing an amino-terminal truncated form of beta-catenin
+fused at the carboxyl-terminal with green fluorescent protein in
+neuroepithelial precursors. The mice developed enlarged brains with
+increased cerebral cortical surface area and folds resembling sulci and
+gyri of higher mammals. Brains from transgenic animals have enlarged
+lateral ventricles lined with neuroepithelial precursor cells,
+reflecting an expansion of the precursor population. Compared with
+wildtype precursors, a greater proportion of transgenic precursors
+reenter the cell cycle after mitosis. Chenn and Walsh (2002) concluded
+that their results showed that beta-catenin can function in the decision
+of precursors to proliferate or differentiate during mammalian neuronal
+development and suggested that beta-catenin can regulate cerebral
+cortical size by controlling the generation of neuronal precursor cells.
+
+Lickert et al. (2002) conditionally inactivated the beta-catenin gene in
+cells of structures that exhibit organizer functions in mouse embryos:
+the visceral endoderm, the node, the notochord, and the definitive
+endoderm. Mesoderm formation was not affected in mutant embryos, but the
+node was missing, patterning of the head and trunk was affected, and no
+notochord or somites were formed. Deletion of beta-catenin in the
+definitive endoderm led to the formation of multiple hearts along the
+anterior-posterior axis of the embryo. Ectopic hearts developed in
+parallel with the normal heart in regions of ectopic Bmp2 expression.
+Lickert et al. (2002) concluded that ablation of beta-catenin in
+embryonic endoderm changes cell fate from endoderm to precardiac
+mesoderm.
+
+By conditional gene ablation in mice, Soshnikova et al. (2003) found
+that Wnt signaling is a key regulator of formation of the apical
+ectodermal ridge (AER) and the dorsal-ventral axis of the limbs. They
+generated compound mutants and showed that beta-catenin acts downstream
+of BMP receptor-1A (BMPR1A; 601299) in AER induction, but upstream or
+parallel in dorsal-ventral patterning. Soshnikova et al. (2003)
+concluded that AER formation and dorsal-ventral patterning of limbs is
+tightly controlled by Wnt/beta-catenin and BMP receptor signaling.
+
+In mice bred to have T cells lacking Ctnnb1, Xu et al. (2003) observed a
+substantial reduction in the number of splenic T cells. Splenic T cells
+from these mice responded poorly to T-cell receptor (TCR) stimulation
+but showed no signs of enhanced cell death. Analysis of thymic
+development suggested that Ctnnb1 deletion affected pre-TCR signaling in
+double-negative thymocytes and impaired T-cell development at the level
+of the beta selection checkpoint.
+
+Day et al. (2005) found that ectopic canonical Wnt signaling led to
+enhanced ossification and suppression of chondrocyte formation in mice.
+Conversely, genetic inactivation of beta-catenin caused ectopic
+formation of chondrocytes at the expense of osteoblast differentiation
+during both intramembranous and endochondral ossification.
+
+By conditional deletion of beta-catenin in mouse limb and head
+mesenchyme, Hill et al. (2005) found that beta-catenin was required for
+osteoblast lineage differentiation. Osteoblast precursors lacking
+beta-catenin were blocked in differentiation and developed into
+chondrocytes. Further experiments showed that beta-catenin activity was
+necessary and sufficient to repress the differentiation of mesenchymal
+cells into skeletal precursors.
+
+Glass et al. (2005) engineered mice harboring either gain-of-function or
+loss-of-function beta-catenin mutations targeted to osteoblasts. These
+mice developed high and low bone mass phenotypes, respectively, caused
+primarily by modification of bone resorption. Molecular analysis
+revealed that canonical Wnt signaling controlled this process by
+regulating expression of Opg (TNFRSF11B; 602643) within osteoblasts.
+Glass et al. (2005) concluded that canonical Wnt signaling in
+osteoblasts is a major negative regulator of bone resorption.
+
+Using a gerbil model of gastritis and gastric cancer, Franco et al.
+(2005) showed that in vivo adaptation of Helicobacter pylori by multiple
+passages allowed a more rapid and reproducible induction of gastric
+dysplasia and adenocarcinoma. The oncogenic H. pylori strain selectively
+activated Ctnnb in gastric epithelia in a manner dependent on
+translocation of bacterial CagA into host epithelial cells. Ctnnb
+nuclear accumulation was increased in gastric epithelium from gerbils
+infected with the carcinogenic H. pylori strain, as well as in persons
+carrying Cag-positive versus Cag-negative bacterial strains or
+uninfected persons. Franco et al. (2005) proposed that H. pylori-induced
+dysregulation of CTNNB may explain, at least in part, the augmented risk
+of gastric cancer after infection with this pathogen.
+
+Zamora et al. (2007) found that conditional deletion of beta-catenin in
+mouse proepicardium led to impaired formation of coronary arteries,
+whereas the venous system and microvasculature of mutant mice were
+normal. Mutant mice exhibited impaired epicardial development, including
+failed expansion of the subepicardial space, blunted invasion of the
+myocardium, and impaired differentiation of epicardium-derived
+mesenchymal cells into coronary smooth muscle cells.
+
+After amputation, freshwater planarians properly regenerate a head or
+tail from the resulting anterior or posterior wound. Gurley et al.
+(2008) found that in the planarian Schmidtea mediterranea, RNA
+interference (RNAi) of beta-catenin or dishevelled (601365) causes the
+inappropriate regeneration of a head instead of a tail at posterior
+amputations. Conversely, RNAi of the beta-catenin antagonist adenomatous
+polyposis coli (APC; 611731) results in the regeneration of a tail at
+anterior wounds. In addition, the silencing of beta-catenin is
+sufficient to transform the tail of uncut adult animals into a head.
+Gurley et al. (2008) suggested that beta-catenin functions as a
+molecular switch to specify and maintain anteroposterior identity during
+regeneration and homeostasis in planarians.
+
+Petersen and Reddien (2008) independently performed experiments similar
+to those described by Gurley et al. (2008) and identified a single gene,
+which they called Smed-beta-catenin, that defines the character of the
+anterioposterior axis throughout the Bilateria and specifies
+regeneration polarity in planarians.
+
+Liu et al. (2009) ablated beta-catenin specifically in the Sf1 (NR5A1;
+601516)-positive population of mouse somatic cells and showed that
+beta-catenin was present in gonads of both sexes but was necessary only
+for ovarian differentiation but dispensable for testis development. Loss
+of beta-catenin in fetal testes did not affect Sertoli cell
+differentiation, testis morphogenesis, or masculinization of the
+embryos. However, there were molecular and morphologic defects in
+ovaries lacking beta-catenin, including formation of testis-specific
+coelomic vessel, appearance of androgen-producing adrenal-like cells,
+and loss of female germ cells. These phenotypes were strikingly similar
+to those found in the Rspo1 (609595)- and Wnt4 (603490)-knockout
+ovaries. In the absence of beta-catenin, expression of Wnt4 was
+downregulated, while that of Rspo1 was not affected, placing
+beta-catenin as a component in between Rspo1 and Wnt4.
+
+Adrenocortical carcinoma (ADCC; 202300) is a rare but aggressive cancer.
+Constitutive activation of beta-catenin is the most frequent alteration
+in benign and malignant adrenocortical tumors in humans. Berthon et al.
+(2010) showed that constitutive activation of beta-catenin in the
+adrenal cortex of transgenic mice resulted in progressive steroidogenic
+and undifferentiated spindle-shaped cell hyperplasia as well as
+dysplasia of the cortex and medulla. Over 17 months, transgenic adrenals
+developed malignant characteristics such as uncontrolled
+neovascularization and loco-regional metastatic invasion. These
+oncogenic events were accompanied by ectopic differentiation of
+glomerulosa at the expense of fasciculata cells, which caused primary
+hyperaldosteronism. Berthon et al. (2010) concluded that constitutively
+active beta-catenin is an adrenal oncogene, which may trigger benign
+aldosterone-secreting tumor development and promote malignancy.
+
+ALLELIC VARIANT .0001
+COLORECTAL CANCER, SOMATIC
+CTNNB1, 3-BP DEL, SER45DEL
+
+In 2 colorectal cancer (see 114500) cell lines that expressed
+full-length APC, yet had escaped inhibition of transcriptional
+activation mediated by beta-catenin and TCF7L2, Morin et al. (1997)
+found a mutation in a downstream component of the APC tumor suppressor
+pathway, namely in the CTNNB1 gene. Each tumor line had a different
+mutation: a 3-bp deletion that removed an amino acid (ser45) in one and
+a C-to-A missense mutation that changed ser33 to tyr (116806.0002) in
+the other. Analysis of paraffin-embedded archival tissue from the first
+patient confirmed the somatic nature of this mutation and its presence
+in the primary tumor before culture. Both mutations affected serines
+that have been implicated in the downregulation of beta-catenin through
+phosphorylation.
+
+.0002
+COLORECTAL CANCER, SOMATIC
+PILOMATRICOMA, SOMATIC, INCLUDED
+CTNNB1, SER33TYR
+
+See 116806.0001 and Morin et al. (1997). One of the 5 point mutations
+found by Ilyas et al. (1997) in colorectal cancer (see 114500) cell
+lines was a ser33-to-tyr mutation due to a C-to-A transversion in exon 3
+of the CTNNB1 gene. The mutation was present in heterozygous form.
+
+Chan et al. (1999) identified this mutation in 2 of 16 pilomatricomas
+(132600).
+
+.0003
+HEPATOBLASTOMA, SOMATIC
+DESMOID TUMOR, SOMATIC, INCLUDED
+CTNNB1, THR41ALA
+
+In 6 sporadic hepatoblastomas (see 114550), Koch et al. (1999) found an
+A-to-G transition in codon 41 of the CTNNB1 gene, resulting in a
+thr41-to-ala (T41A) substitution. (Iwao et al. (1998) described codon 41
+mutations in sporadic colorectal carcinomas.) The ages of the patients
+with the T41A mutation and hepatoblastoma ranged from 4 to 27 months.
+
+In a hepatoblastoma, Blaker et al. (1999) demonstrated intense
+cytoplasmic beta-catenin staining compared to adjacent normal liver
+tissue and accumulation of beta-catenin in the tumor cell nuclei.
+Furthermore, the tumor in one case was found to be heterozygous for an
+A-to-G transition converting codon 41 from ACC (thr) to GCC (ala).
+Legoix et al. (1999) found this same mutation in 3 cases of
+hepatocellular carcinoma. Rather than being childhood cases, these were
+adults (mean age 58 years; range, 27 to 76 years). In the group of 98
+cases, many of the subjects were alcoholics.
+
+Shitoh et al. (1999) identified a somatic T41A mutation in the CTNNB1
+gene within desmoid tumor tissue derived from a patient with sporadic
+disease (see 135290).
+
+.0004
+HEPATOBLASTOMA, SOMATIC
+PILOMATRICOMA, SOMATIC, INCLUDED
+CTNNB1, ASP32TYR
+
+In 2 sporadic hepatoblastomas (see 114550), Koch et al. (1999) found a
+change of codon 32 from GAC to TAC, resulting in an asp32-to-tyr
+substitution. The ages of the patients were 19 and 30 months.
+
+Chan et al. (1999) identified this mutation in 1 of 16 pilomatricomas
+(132600).
+
+.0005
+HEPATOBLASTOMA, SOMATIC
+CTNNB1, GLY34VAL (dbSNP rs28931589)
+
+In 3 cases of sporadic hepatoblastoma (see 114550), Koch et al. (1999)
+found that the tumors carried a gly34-to-val substitution in
+beta-catenin due to a change of codon 34 from GGA to GTA. The ages of
+the patients varied from 10 to 19 months.
+
+.0006
+PILOMATRICOMA, SOMATIC
+CTNNB1, ASP32GLY
+
+In 1 of 16 pilomatricomas (132600) studied, Chan et al. (1999) found an
+A-to-G transition in the CTNNB1 gene resulting in an asp-to-gly
+substitution at codon 32 of beta-catenin.
+
+.0007
+PILOMATRICOMA, SOMATIC
+MEDULLOBLASTOMA, SOMATIC, INCLUDED
+CTNNB1, SER33PHE
+
+In 2 of 16 pilomatricomas (132600) examined, Chan et al. (1999)
+identified a C-to-T transition in the CTNNB1 gene resulting in a
+ser-to-phe substitution at codon 33 (S33F) of beta-catenin.
+
+Huang et al. (2000) identified the S33F mutation in the CTNNB1 gene in 3
+of 46 sporadic medulloblastomas (155255).
+
+.0008
+PILOMATRICOMA, SOMATIC
+CTNNB1, GLY34GLU
+
+In 3 of 16 pilomatricomas (132600) studied, Chan et al. (1999)
+identified a G-to-A transition in the CTNNB1 gene resulting in a
+gly-to-glu substitution at codon 34 of beta-catenin.
+
+.0009
+PILOMATRICOMA, SOMATIC
+CTNNB1, SER37CYS
+
+In 1 of 16 pilomatricomas (132600) examined, Chan et al. (1999)
+identified a C-to-G transversion in the CTNNB1 gene, which resulted in a
+ser-to-cys substitution at codon 37 of beta-catenin.
+
+.0010
+PILOMATRICOMA, SOMATIC
+CTNNB1, SER37PHE
+
+In 1 of 16 pilomatricomas (132600) studied, Chan et al. (1999)
+identified a C-to-T transition in the CTNNB1 gene resulting in a
+ser-to-phe substitution at codon 37 of beta-catenin.
+
+.0011
+PILOMATRICOMA, SOMATIC
+CTNNB1, THR41ILE
+
+In 1 of 16 pilomatricomas (132600) examined, Chan et al. (1999)
+identified a C-to-T transition in the CTNNB1 gene resulting in a
+thr-to-ile substitution at codon 41 of beta-catenin.
+
+.0012
+OVARIAN CANCER, SOMATIC
+CTNNB1, SER37CYS
+
+One of 3 mutations in exon 3 of the CTNNB1 gene detected by Sagae et al.
+(1999) in epithelial ovarian carcinoma (167000) was a ser37-to-cys
+(S37C) missense mutation. The tumor showed endometrioid histology.
+
+.0013
+HEPATOCELLULAR CARCINOMA, SOMATIC
+CTNNB1, SER45PHE
+
+In 4 cases of hepatocellular carcinoma (114550), Legoix et al. (1999)
+found a change in codon 45 of the CTNNB1 gene from TCT (ser) to TTT
+(phe). In 4 other cases, there was a ser45-to-pro mutation
+(116806.0014).
+
+.0014
+HEPATOCELLULAR CARCINOMA, SOMATIC
+CTNNB1, SER45PRO
+
+In 4 cases of hepatocellular carcinoma (114550), Legoix et al. (1999)
+found a change in codon 45 of the CTNNB1 gene from TCT (ser) to CCT
+(pro).
+
+.0015
+MOVED TO 116806.0007
+.0016
+PILOMATRICOMA, SOMATIC
+CTNNB1, ASP32TYR
+
+In 3 of 11 pilomatricomas studied, Moreno-Bueno et al. (2001) found a
+heterozygous G-to-T transversion in exon 3 of the CTNNB1 gene, which
+resulted in an asp32-to-tyr (D32Y) amino acid change.
+
+.0017
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 19
+CTNNB1, 4-BP DEL, NT1272
+
+In a 29-year-old woman with severe intellectual disability, short
+stature, microcephaly, dysmorphic facial features, and spasticity
+(MRD19; 615075), de Ligt et al. (2012) identified a 4-bp deletion
+(1272_1275del) in the CTNNB1 gene, resulting in a frameshift
+(Ser425ThrfsTer11). This mutation was not identified in either parent.
+The authors noted that this patient also had a heterozygous missense
+mutation in the ARFGEF2 gene (605371; R802Q). Mutations in the ARFGEF2
+gene are known to cause intellectual disability but are inherited in an
+autosomal recessive manner.
+
+.0018
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 19
+CTNNB1, ARG515TER
+
+In an individual with severe intellectual disability, microcephaly, and
+spasticity (MRD19; 615075), de Ligt et al. (2012) identified a de novo
+heterozygous nonsense mutation in the CTNNB1 gene, arg515-to-ter
+(R515X).
+
+.0019
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 19
+CTNNB1, GLN309TER
+
+In an individual with severe intellectual disability, microcephaly, and
+spasticity (MRD19; 615075), de Ligt et al. (2012) identified a
+heterozygous nonsense mutation in the CTNNB1 gene, gln309-to-ter
+(Q309X). The mutation was not present in the patient's mother, and the
+father's DNA was not available for testing.
+
+REFERENCE 1. Bahmanyar, S.; Kaplan, D. D.; DeLuca, J. G.; Giddings, T. H., Jr.;
+O'Toole, E. T.; Winey, M.; Salmon, E. D.; Casey, P. J.; Nelson, W.
+J.; Barth, A. I. M.: Beta-catenin is a Nek2 substrate involved in
+centrosome separation. Genes Dev. 22: 91-105, 2008.
+
+2. Bailey, A.; Norris, A. L.; Leek, J. P.; Clissold, P. M.; Carr,
+I. M.; Ogilvie, D. J.; Morrison, J. F. J.; Meredith, D. M.; Markham,
+A. F.: Yeast artificial chromosome cloning of the beta-catenin locus
+on human chromosome 3p21-22. Chromosome Res. 3: 201-203, 1995.
+
+3. Batlle, E.; Henderson, J. T.; Beghtel, H.; van den Born, M. M.
+W.; Sancho, E.; Huls, G.; Meeldijk, J.; Robertson, J.; van de Wetering,
+M.; Pawson, T.; Clevers, H.: Beta-catenin and TCF mediate cell positioning
+in the intestinal epithelium by controlling the expression of EphB/EphrinB. Cell 111:
+251-263, 2002.
+
+4. Berthon, A.; Sahut-Barnola, I.; Lambert-Langlais, S.; de Joussineau,
+C.; Damon-Soubeyrand, C.; Louiset, E.; Taketo, A. M.; Tissier, F.;
+Bertherat, J.; Lefrancois-Martinez, A.-M.; Martinez, A.; Val, P.:
+Constitutive beta-catenin activation induces adrenal hyperplasia and
+promotes adrenal cancer development. Hum. Molec. Genet. 19: 1561-1576,
+2010.
+
+5. Blaker, H.; Hofmann, W. J.; Rieker, R. J.; Penzel, R.; Graf, M.;
+Otto, H. F.: Beta-catenin accumulation and mutation of the CTNNB1
+gene in hepatoblastoma. Genes Chromosomes Cancer 25: 399-402, 1999.
+
+6. Brembeck, F. H.; Schwarz-Romond, T.; Bakkers, J.; Wilhelm, S.;
+Hammerschmidt, M.; Birchmeier, W.: Essential role of BCL9-2 in the
+switch between beta-catenin's adhesive and transcriptional functions. Genes
+Dev. 18: 2225-2230, 2004.
+
+7. Chan, E. F.; Gat, U.; McNiff, J. M.; Fuchs, E.: A common human
+skin tumour is caused by activating mutations in beta-catenin. Nature
+Genet. 21: 410-413, 1999.
+
+8. Chan, T. A.; Wang, Z.; Dang, L. H.; Vogelstein, B.; Kinzler, K.
+W.: Targeted inactivation of CTNNB1 reveals unexpected effects of
+beta-catenin mutation. Proc. Nat. Acad. Sci. 99: 8265-8270, 2002.
+
+9. Chassot, A.-A.; Ranc, F.; Gregoire, E. P.; Roepers-Gajadien, H.
+L.; Taketo, M. M.; Camerino, G.; de Rooij, D. G.; Schedl, A.; Chaboissier,
+M.-C.: Activation of beta-catenin signaling by Rspo1 controls differentiation
+of the mammalian ovary. Hum. Molec. Genet. 17: 1264-1277, 2008.
+
+10. Chenn, A.; Walsh, C. A.: Regulation of cerebral cortical size
+by control of cell cycle exit in neural precursors. Science 297:
+365-369, 2002.
+
+11. Daniels, D. L.; Weis, W. I.: ICAT inhibits beta-catenin binding
+to Tcf/Lef-family transcription factors and the general coactivator
+p300 using independent structural modules. Molec. Cell 10: 573-584,
+2002.
+
+12. Day, T. F.; Guo, X.; Garrett-Beal, L.; Yang, Y.: Wnt/beta-catenin
+signaling in mesenchymal progenitors controls osteoblast and chondrocyte
+differentiation during vertebrate skeletogenesis. Dev. Cell 8: 739-750,
+2005.
+
+13. de Ligt, J.; Willemsen, M. H.; van Bon, B. W. M.; Kleefstra, T.;
+Yntema, H. G.; Kroes, T.; Vulto-van Silfhout, A. T.; Koolen, D. A.;
+de Vries, P.; Gilissen, C.; del Rosario, M.; Hoischen, A.; Scheffer,
+H.; de Vries, B. B. A.; Brunner, H. G.; Veltman, J. A.; Vissers, L.
+E. L. M.: Diagnostic exome sequencing in persons with severe intellectual
+disability. New Eng. J. Med. 367: 1921-1929, 2012.
+
+14. Driessens, G.; Zheng, Y.; Gajewski, T. F.: Beta-catenin does
+not regulate memory T cell phenotype. (Letter) Nature Med. 16: 513-514,
+2010.
+
+15. Eastman, Q.; Grosschedl, R.: Regulation of LEF-1/TCF transcription
+factors by Wnt and other signals. Curr. Opin. Cell Biol. 11: 233-240,
+1999.
+
+16. Essers, M. A. G.; de Vries-Smits, L. M. M.; Barker, N.; Polderman,
+P. E.; Burgering, B. M. T.; Korswagen, H. C.: Functional interaction
+between beta-catenin and FOXO in oxidative stress signaling. Science 308:
+1181-1184, 2005.
+
+17. Fearon, E. R.: Human cancer syndromes: clues to the origin and
+nature of cancer. Science 278: 1043-1050, 1997.
+
+18. Firestein, R.; Bass, A. J.; Kim, S. Y.; Dunn, I. F.; Silver, S.
+J.; Guney, I.; Freed, E.; Ligon, A. H.; Vena, N.; Ogino, S.; Chheda,
+M. G.; Tamayo, P.; and 16 others: CDK8 is a colorectal cancer oncogene
+that regulates beta-catenin activity. Nature 455: 547-551, 2008.
+
+19. Franco, A. T.; Israel, D. A.; Washington, M. K.; Krishna, U.;
+Fox, J. G.; Rogers, A. B.; Neish, A. S.; Collier-Hyams, L.; Perez-Perez,
+G. I.; Hatakeyama, M.; Whitehead, R.; Gaus, K.; O'Brien, D. P.; Romero-Gallo,
+J.; Peek, R. M., Jr.: Activation of beta-catenin by carcinogenic
+Helicobacter pylori. Proc. Nat. Acad. Sci. 102: 10646-10651, 2005.
+
+20. Gat, U.; DasGupta, R.; Degenstein, L.; Fuchs, E.: De novo hair
+follicle morphogenesis and hair tumors in mice expressing a truncated
+beta-catenin in skin. Cell 95: 605-614, 1998.
+
+21. Gattinoni, L.; Ji, Y.; Restifo, N. P.: Reply to Driessens et
+al. (Letter) Nature Med. 16: 514-515, 2010.
+
+22. Gattinoni, L.; Zhong, X.-S.; Palmer, D. C.; Ji, Y.; Hinrichs,
+C. S.; Yu, Z.; Wrzesinski, C.; Boni, A.; Cassard, L.; Garvin, L. M.;
+Paulos, C. M.; Muranski, P.; Restifo, N. P.: Wnt signaling arrests
+effector T cell differentiation and generates CD8+ memory stem cells. Nature
+Med. 15: 808-813, 2009.
+
+23. Ghiselli, G.; Agrawal, A.: The human D-glucuronyl C5-epimerase
+gene is transcriptionally activated through the beta-catenin-TCF4
+pathway. Biochem. J. 390: 493-499, 2005.
+
+24. Glass, D. A., II; Bialek, P.; Ahn, J. D.; Starbuck, M.; Patel,
+M. S.; Clevers, H.; Taketo, M. M.; Long, F.; McMahon, A. P.; Lang,
+R. A.; Karsenty, G.: Canonical Wnt signaling in differentiated osteoblasts
+controls osteoclast differentiation. Dev. Cell 8: 751-764, 2005.
+
+25. Graham, T. A.; Clements, W. K.; Kimelman, D.; Xu, W.: The crystal
+structure of the beta-catenin/ICAT complex reveals the inhibitory
+mechanism of ICAT. Molec. Cell 10: 563-571, 2002.
+
+26. Guenet, J.-L.; Simon-Chazottes, D.; Ringwald, M.; Kemler, R.:
+The genes coding for alpha and beta catenin (Catna1 and Catnb) and
+plakoglobin (Jup) map to mouse chromosomes 18, 9, and 11, respectively. Mammalian
+Genome 6: 363-366, 1995.
+
+27. Guo, X.; Day, T. F.; Jiang, X.; Garrett-Beal, L.; Topol, L.; Yang,
+Y.: Wnt/beta-catenin signaling is sufficient and necessary for synovial
+joint formation. Genes Dev. 18: 2404-2417, 2004.
+
+28. Gurley, K. A.; Rink, J. C.; Sanchez Alvarado, S.: Beta-catenin
+defines head versus tail identity during planarian regeneration and
+homeostasis. Science 319: 323-327, 2008.
+
+29. Harada, N.; Tamai, Y.; Ishikawa, T.; Sauer, B.; Takaku, K.; Oshima,
+M.; Taketo, M. M.: Intestinal polyposis in mice with a dominant stable
+mutation of the beta-catenin gene. EMBO J. 18: 5931-5942, 1999.
+
+30. Hill, T. P.; Spater, D.; Taketo, M. M.; Birchmeier, W.; Hartmann,
+C.: Canonical Wnt/beta-catenin signaling prevents osteoblasts from
+differentiating into chondrocytes. Dev. Cell 8: 727-738, 2005.
+
+31. Hoffmeyer, K.; Raggioli, A.; Rudloff, S.; Anton, R.; Hierholzer,
+A.; Del Valle, I.; Hein, K.; Vogt, R.; Kemler, R.: Wnt/beta-catenin
+signaling regulates telomerase in stem cells and cancer cells. Science 336:
+1549-1554, 2012.
+
+32. Huang, H.; Mahler-Araujo, B. M.; Sankila, A.; Chimelli, L.; Yonekawa,
+Y.; Kleihues, P.; Ohgaki, H.: APC mutations in sporadic medulloblastomas. Am.
+J. Path. 156: 433-437, 2000.
+
+33. Huang, S.-M. A.; Mishina, Y. M.; Liu, S.; Cheung, A.; Stegmeier,
+F.; Michaud, G. A.; Charlat, O.; Wiellette, E.; Zhang, Y.; Wiessner,
+S.; Hild, M.; Shi, X.; and 24 others: Tankyrase inhibition stabilizes
+axin and antagonizes Wnt signalling. Nature 461: 614-620, 2009.
+
+34. Huelsken, J.; Vogel, R.; Erdmann, B.; Cotsarelis, G.; Birchmeier,
+W.: Beta-catenin controls hair follicle morphogenesis and stem cell
+differentiation in the skin. Cell 105: 533-545, 2001.
+
+35. Ilyas, M.; Tomlinson, I. P. M.; Rowan, A.; Pignatelli, M.; Bodmer,
+W. F.: Beta-catenin mutations in cell lines established from human
+colorectal cancers. Proc. Nat. Acad. Sci. 94: 10330-10334, 1997.
+
+36. Iwao, K.; Nakamori, S.; Kameyama, M.; Imaoka, S.; Kinoshita, M.;
+Fukui, T.; Ishiguro, S.; Nakamura, Y.; Miyoshi, Y.: Activation of
+the beta-catenin gene by interstitial deletions involving exon 3 in
+primary colorectal carcinomas without adenomatous polyposis coli mutations. Cancer
+Res. 58: 1021-1026, 1998.
+
+37. Jamora, C.; DasGupta, R.; Kocieniewski, P.; Fuchs, E.: Links
+between signal transduction, transcription and adhesion in epithelial
+bud development. Nature 422: 317-322, 2003. Note: Erratum: Nature
+424: 974 only, 2003.
+
+38. Jarvinen, E.; Salazar-Ciudad, I.; Birchmeier, W.; Taketo, M. M.;
+Jernvall, J.; Thesleff, I.: Continuous tooth generation in mouse
+is induced by activated epithelial Wnt/beta-catenin signaling. Proc.
+Nat. Acad. Sci. 103: 18627-18632, 2006.
+
+39. Jeannet, G.; Boudousquie, C.; Gardiol, N.; Kang, J.; Huelsken,
+J.; Held, W.: Essential role of the Wnt pathway effector Tcf-1 for
+the establishment of functional CD8 T cell memory. Proc. Nat. Acad.
+Sci. 107: 9777-9782, 2010.
+
+40. Kang, D. E.; Soriano, S.; Xia, X.; Eberhart, C. G.; De Strooper,
+B.; Zheng, H.; Koo, E. H.: Presenilin couples the paired phosphorylation
+of beta-catenin independent of Axin: implications for beta-catenin
+activation in tumorigenesis. Cell 110: 751-762, 2002.
+
+41. Kaplan, D. D.; Meigs, T. E.; Kelly, P.; Casey, P. J.: Identification
+of a role for beta-catenin in the establishment of a bipolar mitotic
+spindle. J. Biol. Chem. 279: 10829-10832, 2004.
+
+42. Kawasaki, Y.; Senda, T.; Ishidata, T.; Koyama, R.; Morishita,
+T.; Iwayama, Y.; Higuchi, O.; Akiyama, T.: Asef, a link between the
+tumor suppressor APC and G-protein signaling. Science 289: 1194-1197,
+2000.
+
+43. Kim, J. H.; Kim, B.; Cai, L.; Choi, H. J.; Ohgi, K. A.; Tran,
+C.; Chen, C.; Chung, C. H.; Huber, O.; Rose, D. W.; Sawyers, C. L.;
+Rosenfeld, M. G.; Baek, S. H.: Transcriptional regulation of a metastasis
+suppressor gene by Tip60 and beta-catenin complexes. Nature 434:
+921-926, 2005.
+
+44. Kleber, M.; Lee, H.-Y.; Wurdak, H.; Buchstaller, J.; Riccomagno,
+M. M.; Ittner, L. M.; Suter, U.; Epstein, D. J.; Sommer, L.: Neural
+crest stem cell maintenance by combinatorial Wnt and BMP signaling. J.
+Cell Biol. 169: 309-320, 2005.
+
+45. Koch, A.; Denkhaus, D.; Albrecht, S.; Leuschner, I.; von Schweinitz,
+D.; Pietsch, T.: Childhood hepatoblastomas frequently carry a mutated
+degradation targeting box of the beta-catenin gene. Cancer Res. 59:
+269-273, 1999.
+
+46. Kohler, E. M.; Chandra, S. H. V.; Behrens, J.; Schneikert, J.
+: Beta-catenin degradation mediated by the CID domain of APC provides
+a model for the selection of APC mutations in colorectal, desmoid
+and duodenal tumours. Hum. Molec. Genet. 18: 213-226, 2009.
+
+47. Korinek, V.; Barker, N.; Morin, P. J.; van Wichen, D.; de Weger,
+R.; Kinzler, K. W.; Vogelstein, B.; Clevers, H.: Constitutive transcriptional
+activation by a beta-catenin-Tcf complex in APC-/- colon carcinoma. Science 275:
+1784-1787, 1997.
+
+48. Kraus, C.; Liehr, T.; Hulsken, J.; Behrens, J.; Birchmeier, W.;
+Grzeschik, K.-H.; Ballhausen, W. G.: Localization of the human beta-catenin
+gene (CTNNB1) to 3p21: a region implicated in tumor development. Genomics 23:
+272-274, 1994.
+
+49. Lee, H.-Y.; Kleber, M.; Hari, L.; Brault, V.; Suter, U.; Taketo,
+M. M.; Kemler, R.; Sommer, L.: Instructive role of Wnt/beta-catenin
+in sensory fate specification in neural crest stem cells. Science 303:
+1020-1023, 2004.
+
+50. Legoix, P.; Bluteau, O.; Bayer, J.; Perret, C.; Balabaud, C.;
+Belghiti, J.; Franco, D.; Thomas, G.; Laurent-Puig, P.; Zucman-Rossi,
+J.: Beta-catenin mutations in hepatocellular carcinoma correlate
+with a low rate of loss of heterozygosity. Oncogene 18: 4044-4046,
+1999.
+
+51. Lickert, H.; Kutsch, S.; Kanzler, B.; Tamai, Y.; Taketo, M. M.;
+Kemler, R.: Formation of multiple hearts in mice following deletion
+of beta-catenin in the embryonic endoderm. Dev. Cell 3: 171-181,
+2002.
+
+52. Lin, S.-Y.; Xia, W.; Wang, J. C.; Kwong, K. Y.; Spohn, B.; Wen,
+Y.; Pestell, R. G.; Hung, M.-C.: Beta-catenin, a novel prognostic
+marker for breast cancer: its roles in cyclin D1 expression and cancer
+progression. Proc. Nat. Acad. Sci. 97: 4262-4266, 2000.
+
+53. Liu, C.-F.; Bingham, N.; Parker, K.; Yao, H. H.-C.: Sex-specific
+roles of beta-catenin in mouse gonadal development. Hum. Molec. Genet. 18:
+405-417, 2009.
+
+54. Liu, F.; Thirumangalathu, S.; Gallant, N. M.; Yang, S. H.; Stoick-Cooper,
+C. L.; Reddy, S. T.; Andl, T.; Taketo, M. M.; Dlugosz, A. A.; Moon,
+R. T.; Barlow, L. A.; Millar, S. E.: Wnt-beta-catenin signaling initiates
+taste papilla development. Nature Genet. 39: 106-112, 2007.
+
+55. Malanchi, I.; Peinado, H.; Kassen, D.; Hussenet, T.; Metzger,
+D.; Chambon, P.; Huber, M.; Hohl, D.; Cano, A.; Birchmeier, W.; Huelsken,
+J.: Cutaneous cancer stem cell maintenance is dependent on beta-catenin
+signalling. Nature 452: 650-653, 2008.
+
+56. Manicassamy, S.; Pulendran, B.: Comment on 'Activation of beta-catenin
+in dendritic cells regulates immunity versus tolerance in the intestine.'
+(Abstract) Science 333: 405 only, 2011.
+
+57. Manicassamy, S.; Reizis, B.; Ravindran, R.; Nakaya, H.; Salazar-Gonzalez,
+R. M.; Wang, Y.; Pulendran, B.: Activation of beta-catenin in dendritic
+cells regulates immunity versus tolerance in the intestine. Science 329:
+849-853, 2010. Note: Erratum: Science 334: 594 only, 2011.
+
+58. McCrea, P. D.; Turck, C. W.; Gumbiner, B.: A homolog of the armadillo
+protein in Drosophila (plakoglobin) associated with E-cadherin. Science 254:
+1359-1361, 1991.
+
+59. Moore, A. C.; Amann, J. M.; Williams, C. S.; Tahinci, E.; Farmer,
+T. E.; Martinez, J. A.; Yang, G.; Luce, K. S.; Lee, E.; Hiebert, S.
+W.: Myeloid translocation gene family members associate with T-cell
+factors (TCFs) and influence TCF-dependent transcription. Molec.
+Cell. Biol. 28: 977-987, 2008.
+
+60. Moreno-Bueno, G.; Gamallo, C.; Perez-Gallego, L.; Contreras, F.;
+Palacios, J.: Beta-catenin expression in pilomatrixomas: relationship
+with beta-catenin gene mutations and comparison with beta-catenin
+expression in normal hair follicles. Brit. J. Derm. 145: 576-581,
+2001.
+
+61. Morin, P. J.; Sparks, A. B.; Korinek, V.; Barker, N.; Clevers,
+H.; Vogelstein, B.; Kinzler, K. W.: Activation of beta-catenin-Tcf
+signaling in colon cancer by mutations in beta-catenin or APC. Science 275:
+1787-1790, 1997.
+
+62. Morris, E. J.; Ji, J.-Y.; Yang, F.; DeStefano, L.; Herr, A.; Moon,
+N.-S.; Kwon, E.-J.; Haigis, K. M.; Naar, A. M.; Dyson, N. J.: E2F1
+represses beta-catenin transcription and is antagonized by both pRB
+and CDK8. Nature 455: 552-556, 2008.
+
+63. Murase, S.; Mosser, E.; Schuman, E. M.: Depolarization drives
+beta-catenin into neuronal spines promoting changes in synaptic structure
+and function. Neuron 35: 91-105, 2002.
+
+64. Murphy, K. M.: Comment on 'Activation of beta-catenin in dendritic
+cells regulates immunity versus tolerance in the intestine.' (Abstract) Science 333:
+405 only, 2011.
+
+65. Neish, A. S..; Gewirtz, A. T.; Zeng, H.; Young, A. N.; Hobert,
+M. E.; Karmali, V.; Rao, A. S.; Madara, J. L.: Prokaryotic regulation
+of epithelial responses by inhibition of I-kappa-B-alpha ubiquitination. Science 289:
+1560-1563, 2000.
+
+66. Nollet, F.; Berx, G.; Molemans, F.; van Roy, F.: Genomic organization
+of the human beta-catenin gene (CTNNB1). Genomics 32: 413-424, 1996.
+
+67. Noubissi, F. K.; Elcheva, I.; Bhatia, N.; Shakoori, A.; Ougolkov,
+A.; Liu, J.; Minamoto, T.; Ross, J.; Fuchs, S. Y.; Spiegelman, V.
+S.: CRD-BP mediates stabilization of beta-TrCP1 and c-myc mRNA in
+response to beta-catenin signalling. Nature 441: 898-901, 2006.
+
+68. Parakh, T. N.; Hernandez, J. A.; Grammer, J. C.; Weck, J.; Hunzicker-Dunn,
+M.; Zeleznik, A. J.; Nilson, J. H.: Follicle-stimulating hormone/cAMP
+regulation of aromatase gene expression requires beta-catenin. Proc.
+Nat. Acad. Sci. 103: 12435-12440, 2006.
+
+69. Peifer, M.: Cancer, catenins, and cuticle pattern: a complex
+connection. Science 262: 1667-1668, 1993.
+
+70. Petersen, C. P.; Reddien, P. W.: Smed-beta-catenin-1 is required
+for anteroposterior blastema polarity in planarian regeneration. Science 319:
+327-330, 2008.
+
+71. Pokutta, S.; Weis, W. I.: Structure of the dimerization and beta-catenin-binding
+region of alpha-catenin. Molec. Cell 5: 533-543, 2000.
+
+72. Reya, T.; Duncan, A. W.; Ailles, L.; Domen, J.; Scherer, D. C.;
+Willert, K.; Hintz, L.; Nusse, R.; Weissman, I. L.: A role for Wnt
+signalling in self-renewal of haematopoietic stem cells. Nature 423:
+409-414, 2003.
+
+73. Rodova, M.; Islam, M. R.; Maser, R. L.; Calvet, J. P.: The polycystic
+kidney disease-1 promoter is a target of the beta-catenin/T-cell factor
+pathway. J. Biol. Chem. 277: 29577-29583, 2002.
+
+74. Roose, J.; Huls, G.; van Beest, M.; Moerer, P.; van der Horn,
+K.; Goldschmeding, R.; Logtenberg, T.; Clevers, H.: Synergy between
+tumor suppressor APC and the beta-catenin-Tcf4 target Tcf1. Science 285:
+1923-1926, 1999.
+
+75. Rubinfeld, B.; Robbins, P.; El-Gamil, M.; Albert, I.; Porfiri,
+E.; Polakis, P.: Stabilization of beta-catenin by genetic defects
+in melanoma cell lines. Science 275: 1790-1792, 1997.
+
+76. Saadi-Kheddouci, S.; Berrebi, D.; Romagnolo, B.; Cluzeaud, F.;
+Peuchmaur, M.; Kahn, A.; Vandewalle, A.; Perret, C.: Early development
+of polycystic kidney disease in transgenic mice expressing an activated
+mutant of the beta-catenin gene. Oncogene 20: 5972-5981, 2001.
+
+77. Sagae, S.; Kobayashi, K.; Nishioka, Y.; Sugimura, M.; Ishioka,
+S.; Nagata, M.; Terasawa, K.; Tokino, T.; Kudo, R.: Mutational analysis
+of beta-catenin gene in Japanese ovarian carcinomas: frequent mutations
+in endometrioid carcinomas. Jpn. J. Cancer Res. 90: 510-515, 1999.
+
+78. Shah, S.; Islam, M. N.; Dakshanamurthy, S.; Rizvi, I.; Rao, M.;
+Herrell, R.; Zinser, G.; Valrance, M.; Aranda, A.; Moras, D.; Norman,
+A.; Welsh, J.; Byers, S. W.: The molecular basis of vitamin D receptor
+and beta-catenin crossregulation. Molec. Cell 21: 799-809, 2006.
+Note: Erratum: Molec. Cell 21: 148 only, 2006.
+
+79. Shigemitsu, K.; Sekido, Y.; Usami, N.; Mori, S.; Sato, M.; Horio,
+Y.; Hasegawa, Y.; Bader, S. A.; Gazdar, A. F.; Minna, J. D.; Hida,
+T.; Yoshioka, H.; Imaizumi, M.; Ueda, Y.; Takahashi, M.; Shimokata,
+K.: Genetic alteration of the beta-catenin gene (CTNNB1) in human
+lung cancer and malignant mesothelioma and identification of a new
+3p21.3 homozygous deletion. Oncogene 20: 4249-4257, 2001.
+
+80. Shitoh, K.; Konishi, F.; Iijima, T.; Ohdaira, T.; Sakai, K.; Kanazawa,
+K.; Miyaki, M.: A novel case of a sporadic desmoid tumour with mutation
+of the beta catenin gene. J. Clin. Path. 52: 695-696, 1999.
+
+81. Soshnikova, N.; Zechner, D.; Huelsken, J.; Mishina, Y.; Behringer,
+R. R.; Taketo, M. M.; Crenshaw, E. B., III; Birchmeier, W.: Genetic
+interaction between Wnt/beta-catenin and BMP receptor signaling during
+formation of the AER and the dorsal-ventral axis in the limb. Genes
+Dev. 17: 1963-1968, 2003.
+
+82. Takeo, M.; Chou, W. C.; Sun, Q.; Lee, W.; Rabbani, P.; Loomis,
+C.; Taketo, M. M.; Ito, M.: Wnt activation in nail epithelium couples
+nail growth to digit regeneration. Nature 499: 228-232, 2013.
+
+83. Tetsu, O.; McCormick, F.: Beta-catenin regulates expression of
+cyclin D1 in colon carcinoma cells. Nature 398: 422-426, 1999.
+
+84. Tian, Q.; Feetham, M. C.; Tao, W. A.; He, X. C.; Li, L.; Aebersold,
+R.; Hood, L.: Proteomic analysis identifies that 14-3-3-zeta interacts
+with beta-catenin and facilitates its activation by Akt. Proc. Nat.
+Acad. Sci. 101: 15370-15375, 2004.
+
+85. Tomizuka, K.; Horikoshi, K.; Kitada, R.; Sugawara, Y.; Iba, Y.;
+Kojima, A.; Yoshitome, A.; Yamawaki, K.; Amagai, M.; Inoue, A.; Oshima,
+T.; Kakitani, M.: R-spondin1 plays an essential role in ovarian development
+through positively regulating Wnt-4 signaling. Hum. Molec. Genet. 17:
+1278-1291, 2008.
+
+86. Trent, J. M.; Wiltshire, R.; Su, L.-K.; Nicolaides, N. C.; Vogelstein,
+B.; Kinzler, K. W.: The gene for the APC-binding protein beta-catenin
+(CTNNB1) maps to chromosome 3p22, a region frequently altered in human
+malignancies. Cytogenet. Cell Genet. 71: 343-344, 1995.
+
+87. Van Aken, E. H.; Papeleu, P.; De Potter, P.; Bruyneel, E.; Philippe,
+J.; Seregard, S.; Kvanta, A.; De Laey, J.-J.; Mareel, M. M.: Structure
+and function of the N-cadherin/catenin complex in retinoblastoma. Invest.
+Ophthal. Vis. Sci. 43: 595-602, 2002.
+
+88. van de Wetering, M.; Sancho, E.; Verweij, C.; de Lau, W.; Oving,
+I.; Hurlstone, A.; van der Horn, K.; Batlle, E.; Coudreuse, D.; Haramis,
+A.-P.; Tjon-Pon-Fong, M.; Moerer, P.; van den Born, M.; Soete, G.;
+Pals, S.; Eilers, M.; Medema, R.; Clevers, H.: The beta-catenin/TCF-4
+complex imposes a crypt progenitor phenotype on colorectal cancer
+cells. Cell 111: 241-250, 2002.
+
+89. van Hengel, J.; Nollet, F.; Berx, G.; van Roy, N.; Speleman, F.;
+van Roy, F.: Assignment of the human beta-catenin gene (CTNNB1) to
+3p22-p21.3 by fluorescence in situ hybridization. Cytogenet. Cell
+Genet. 70: 68-70, 1995.
+
+90. Wheeler, J. M. D.; Warren, B. F.; Mortensen, N. J. M.; Kim, H.
+C.; Biddolph, S. C.; Elia, G.; Beck, N. E.; Williams, G. T.; Shepherd,
+N. A.; Bateman, A. C.; Bodmer, W. F.: An insight into the genetic
+pathway of adenocarcinoma of the small intestine. Gut 50: 218-223,
+2002.
+
+91. Widlund, H. R.; Horstmann, M. A.; Price, E. R.; Cui, J.; Lessnick,
+S. L.; Wu, M.; He, X.; Fisher, D. E.: Beta-catenin-induced melanoma
+growth requires the downstream target Microphthalmia-associated transcription
+factor. J. Cell Biol. 158: 1079-1087, 2002.
+
+92. Wikramanayake, A. H.; Hong, M.; Lee, P. N.; Pang, K.; Byrum, C.
+A.; Bince, J. M.; Xu, R.; Martindale, M. Q.: An ancient role for
+nuclear beta-catenin in the evolution of axial polarity and germ layer
+segregation. Nature 426: 446-450, 2003.
+
+93. Wright, K.; Wilson, P.; Morland, S.; Campbell, I.; Walsh, M.;
+Hurst, T.; Ward, B.; Cummings, M.; Chenevix-Trench, G.: Beta-catenin
+mutation and expression analysis in ovarian cancer: exon 3 mutations
+and nuclear translocation in 16% of endometrioid tumours. Int. J.
+Cancer 82: 625-629, 1999.
+
+94. Xu, Y.; Banerjee, D.; Huelsken, J.; Birchmeier, W.; Sen, J. M.
+: Deletion of beta-catenin impairs T cell development. Nature Immun. 4:
+1177-1182, 2003.
+
+95. Yang, W.; Xia, Y.; Ji, H.; Zheng, Y.; Liang, J.; Huang, W.; Gao,
+X.; Aldape, K.; Lu, Z.: Nuclear PKM2 regulates beta-catenin transactivation
+upon EGFR activation. Nature 480: 118-122, 2011.
+
+96. Yu, X.; Malenka, R. C.: Beta-catenin is critical for dendritic
+morphogenesis. Nature Neurosci. 6: 1169-1177, 2003.
+
+97. Zamora, M.; Manner, J.; Ruiz-Lozano, P.: Epicardium-derived progenitor
+cells require beta-catenin for coronary artery formation. Proc. Nat.
+Acad. Sci. 104: 18109-18114, 2007.
+
+98. Zhao, D.-M.; Yu, S.; Zhou, X.; Haring, J. S.; Held, W.; Badovinac,
+V. P.; Harty, J. T.; Xue, H.-H.: Constitutive activation of Wnt signaling
+favors generation of memory CD8 T cells. J. Immun. 184: 1191-1199,
+2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/29/2013
+Ada Hamosh - updated: 2/12/2013
+Patricia A. Hartz - updated: 9/20/2012
+Ada Hamosh - updated: 7/19/2012
+Patricia A. Hartz - updated: 6/8/2012
+Ada Hamosh - updated: 1/4/2012
+George E. Tiller - updated: 11/21/2011
+Ada Hamosh - updated: 9/7/2011
+Ada Hamosh - updated: 9/1/2010
+Paul J. Converse - updated: 6/11/2010
+Ada Hamosh - updated: 11/13/2009
+George E. Tiller - updated: 7/31/2009
+George E. Tiller - updated: 4/15/2009
+Ada Hamosh - updated: 10/20/2008
+Patricia A. Hartz - updated: 6/26/2008
+Ada Hamosh - updated: 4/16/2008
+Patricia A. Hartz - updated: 4/9/2008
+Ada Hamosh - updated: 4/4/2008
+Patricia A. Hartz - updated: 3/12/2008
+Patricia A. Hartz - updated: 5/1/2007
+Victor A. McKusick - updated: 2/15/2007
+Paul J. Converse - updated: 1/18/2007
+Paul J. Converse - updated: 11/10/2006
+Ada Hamosh - updated: 7/21/2006
+Patricia A. Hartz - updated: 4/10/2006
+Patricia A. Hartz - updated: 10/20/2005
+Ada Hamosh - updated: 9/19/2005
+Patricia A. Hartz - updated: 9/2/2005
+Ada Hamosh - updated: 8/15/2005
+Patricia A. Hartz - updated: 7/6/2005
+Patricia A. Hartz - updated: 12/9/2004
+Patricia A. Hartz - updated: 11/17/2004
+Patricia A. Hartz - updated: 10/29/2004
+Paul J. Converse - updated: 4/29/2004
+Ada Hamosh - updated: 3/10/2004
+Ada Hamosh - updated: 12/1/2003
+Cassandra L. Kniffin - updated: 10/6/2003
+Ada Hamosh - updated: 5/6/2003
+Stylianos E. Antonarakis - updated: 4/29/2003
+Ada Hamosh - updated: 4/1/2003
+Gary A. Bellus - updated: 2/24/2003
+Stylianos E. Antonarakis - updated: 12/3/2002
+Stylianos E. Antonarakis - updated: 12/2/2002
+Jane Kelly - updated: 11/7/2002
+Patricia A. Hartz - updated: 10/29/2002
+Victor A. McKusick - updated: 10/14/2002
+Patricia A. Hartz - updated: 10/8/2002
+Stylianos E. Antonarakis - updated: 10/3/2002
+Ada Hamosh - updated: 9/10/2002
+Dawn Watkins-Chow - updated: 7/30/2002
+Victor A. McKusick - updated: 7/3/2002
+Paul Brennan - updated: 3/6/2002
+Victor A. McKusick - updated: 11/9/2001
+Victor A. McKusick - updated: 10/9/2001
+Stylianos E. Antonarakis - updated: 6/5/2001
+Victor A. McKusick - updated: 4/9/2001
+Victor A. McKusick - updated: 3/9/2001
+Paul J. Converse - updated: 8/31/2000
+Ada Hamosh - updated: 8/17/2000
+Stylianos E. Antonarakis - updated: 6/9/2000
+Victor A. McKusick - updated: 1/7/2000
+Victor A. McKusick - updated: 9/30/1999
+Ada Hamosh - updated: 9/17/1999
+Victor A. McKusick - updated: 9/8/1999
+Ada Hamosh - updated: 4/1/1999
+Victor A. McKusick - updated: 2/22/1999
+Stylianos E. Antonarakis - updated: 2/5/1999
+Victor A. McKusick - updated: 6/26/1998
+Victor A. McKusick - updated: 1/13/1998
+Victor A. McKusick - updated: 4/29/1997
+Alan F. Scott - updated: 4/18/1996
+
+CREATED Victor A. McKusick: 6/16/1994
+
+EDITED carol: 09/12/2013
+carol: 9/12/2013
+alopez: 8/29/2013
+carol: 6/21/2013
+carol: 2/12/2013
+terry: 11/6/2012
+mgross: 9/21/2012
+terry: 9/20/2012
+alopez: 7/23/2012
+terry: 7/19/2012
+mgross: 6/8/2012
+alopez: 1/12/2012
+terry: 1/4/2012
+alopez: 11/30/2011
+carol: 11/21/2011
+terry: 11/21/2011
+alopez: 9/8/2011
+terry: 9/7/2011
+ckniffin: 8/8/2011
+carol: 6/17/2011
+alopez: 5/20/2011
+alopez: 9/3/2010
+terry: 9/1/2010
+mgross: 6/11/2010
+alopez: 11/18/2009
+terry: 11/13/2009
+wwang: 8/13/2009
+terry: 7/31/2009
+alopez: 4/15/2009
+carol: 2/6/2009
+ckniffin: 1/30/2009
+alopez: 10/22/2008
+terry: 10/20/2008
+terry: 10/8/2008
+wwang: 7/3/2008
+mgross: 6/26/2008
+alopez: 5/13/2008
+terry: 4/16/2008
+mgross: 4/10/2008
+terry: 4/9/2008
+alopez: 4/8/2008
+terry: 4/4/2008
+mgross: 3/18/2008
+terry: 3/12/2008
+ckniffin: 2/5/2008
+ckniffin: 1/28/2008
+carol: 1/16/2008
+mgross: 5/1/2007
+alopez: 2/20/2007
+joanna: 2/15/2007
+mgross: 1/18/2007
+mgross: 11/10/2006
+alopez: 7/26/2006
+terry: 7/21/2006
+wwang: 5/12/2006
+mgross: 4/12/2006
+terry: 4/10/2006
+mgross: 10/26/2005
+terry: 10/20/2005
+alopez: 9/20/2005
+terry: 9/19/2005
+mgross: 9/8/2005
+terry: 9/2/2005
+alopez: 8/19/2005
+terry: 8/15/2005
+mgross: 7/13/2005
+terry: 7/6/2005
+mgross: 12/9/2004
+mgross: 11/17/2004
+mgross: 10/29/2004
+mgross: 4/29/2004
+alopez: 3/11/2004
+terry: 3/10/2004
+alopez: 12/1/2003
+terry: 12/1/2003
+alopez: 11/3/2003
+carol: 10/6/2003
+ckniffin: 10/6/2003
+ckniffin: 10/3/2003
+carol: 9/15/2003
+alopez: 5/28/2003
+mgross: 5/7/2003
+alopez: 5/6/2003
+terry: 5/6/2003
+mgross: 5/2/2003
+terry: 4/29/2003
+alopez: 4/1/2003
+terry: 4/1/2003
+alopez: 2/24/2003
+mgross: 12/3/2002
+mgross: 12/2/2002
+carol: 11/7/2002
+mgross: 10/29/2002
+tkritzer: 10/28/2002
+tkritzer: 10/17/2002
+terry: 10/14/2002
+mgross: 10/8/2002
+mgross: 10/3/2002
+alopez: 9/11/2002
+tkritzer: 9/10/2002
+tkritzer: 7/30/2002
+cwells: 7/19/2002
+terry: 7/3/2002
+alopez: 3/6/2002
+carol: 11/12/2001
+terry: 11/9/2001
+carol: 11/9/2001
+mcapotos: 10/23/2001
+terry: 10/9/2001
+mgross: 6/5/2001
+carol: 6/5/2001
+terry: 4/9/2001
+carol: 4/2/2001
+cwells: 3/30/2001
+terry: 3/9/2001
+carol: 3/6/2001
+alopez: 8/31/2000
+alopez: 8/17/2000
+mgross: 6/9/2000
+carol: 5/25/2000
+carol: 4/17/2000
+carol: 4/4/2000
+alopez: 2/28/2000
+carol: 2/3/2000
+carol: 1/28/2000
+terry: 1/7/2000
+carol: 12/20/1999
+joanna: 10/21/1999
+alopez: 10/5/1999
+terry: 9/30/1999
+carol: 9/17/1999
+carol: 9/15/1999
+terry: 9/8/1999
+carol: 5/20/1999
+alopez: 4/1/1999
+joanna: 3/11/1999
+mgross: 2/25/1999
+mgross: 2/23/1999
+terry: 2/22/1999
+carol: 2/5/1999
+dkim: 12/9/1998
+carol: 7/13/1998
+carol: 7/8/1998
+dkim: 6/30/1998
+terry: 6/26/1998
+alopez: 1/13/1998
+dholmes: 1/12/1998
+dholmes: 1/8/1998
+mark: 4/30/1997
+alopez: 4/29/1997
+terry: 4/21/1997
+terry: 5/14/1996
+terry: 5/10/1996
+terry: 4/18/1996
+mark: 4/18/1996
+mark: 7/11/1995
+carol: 11/7/1994
+jason: 6/16/1994
+
+609837	TITLE *609837 SMALL NUCLEOLAR RNA, C/D BOX, 115-1; SNORD115-1
+;;RNA, HBII-52 SMALL NUCLEOLAR;;
+snoRNA, HBII-52;;
+MBII-52, MOUSE, HOMOLOG OF
+DESCRIPTION 
+CLONING
+
+By searching for small non-mRNAs specifically expressed in mouse brain,
+followed by searching human sequence databases, Cavaille et al. (2000)
+identified SNORD115, which they called HBII-52. HBII-52 is a C/D box
+small nucleolar RNA (snoRNA) with a 5-prime C box, followed by a D-prime
+box, a C-prime box, an antisense box, and a 3-prime D box. Northern blot
+analysis detected expression of HBII-52 in human brain, but not in
+liver, muscle, lung, kidney, and heart. Cavaille et al. (2000)
+determined that HBII-52 maps to an imprinted region of chromosome 15
+associated with Angelman syndrome (AS; 105830) and Prader-Willi syndrome
+(PWS; 176270). They concluded that HBII-52 is a paternally imprinted
+gene, since it was expressed in cortex RNA from a normal control brain
+and from an AS patient with a maternally inherited deletion, but was
+absent from cortex RNA from a PWS patient with a paternally inherited
+deletion and from a mouse model of PWS.
+
+GENE FUNCTION
+
+Cavaille et al. (2000) identified an 18-nucleotide phylogenetically
+conserved region in HBII-52 complementary to a critical segment of the
+serotonin-2C receptor mRNA (HTR2C; 312861), suggesting that HBII-52 may
+have a role in processing HTR2C mRNA.
+
+The snoRNA HBII-52 is contained within the Prader-Willi deleted region
+on chromosome 15q11 and exhibits sequence complementarity to the
+alternatively spliced exon Vb of the serotonin receptor HTR2C. Kishore
+and Stamm (2006) found that HBII-52 regulates alternative splicing of
+HTR2C by binding to a silencing element in exon Vb. Prader-Willi
+syndrome patients do not express HBII-52. They have different HTR2C mRNA
+isoforms than healthy individuals. Kishore and Stamm (2006) concluded
+that a snoRNA regulates the processing of an mRNA expressed from a gene
+located on a different chromosome, and the results indicate that a
+defect in pre-mRNA processing contributes to the Prader-Willi syndrome.
+
+Using bioinformatic predictions and experimental verification, Kishore
+et al. (2010) identified 5 pre-mRNAs (DPM2, 603564; TAF1, 313650;
+RALGPS1, 614444; PBRM1, 606083; and CRHR1, 122561) containing
+alternative exons that are regulated by MBII-52, the mouse homolog of
+HBII-52. Analysis of a single member of the MBII-52 cluster of snoRNAs
+by RNase protection and Northern blot analysis showed that the MBII-52
+expressing unit generated shorter RNAs that originate from the
+full-length MBII-52 snoRNA through additional processing steps. These
+novel RNAs associated with hnRNPs and not with proteins associated with
+canonical C/D box snoRNAs. Kishore et al. (2010) concluded that not a
+traditional C/D box snoRNA MBII-52, but a processed version lacking the
+snoRNA stem, is the predominant MBII-52 RNA missing in Prader-Willi
+syndrome. This processed snoRNA functions in alternative splice site
+selection.
+
+MAPPING
+
+By genomic sequence analysis, Cavaille et al. (2000) identified 47
+tandem copies of the SNORD115 gene on chromosome 15q11-q13. The SNORD115
+copies are slightly divergent units of about 1.9 kb regularly spaced
+within a stretch of 99 kb.
+
+Runte et al. (2001) determined that HBII-52 and several other snoRNAs
+are encoded within intronic segments of the SNURF-SNRPN (182279)
+transcript. HBII-52 is located within introns between exons 63 and 144
+of SNURF-SNRPN.
+
+MOLECULAR GENETICS
+
+Runte et al. (2005) found that individuals with complete deletion of all
+copies of HBII-52 had no obvious clinical phenotype, suggesting that
+HBII-52 does not play a major role in PWS.
+
+Sato et al. (2007) reported a Japanese family in which a boy with AS and
+his asymptomatic mother and maternal grandfather all had a 1,487-kb
+deletion on chromosome 15, encompassing HBII-52. The mother was
+evaluated with regard to diagnostic criteria for PWS but the diagnosis
+was considered unlikely, suggesting that HBII-52 may not be important in
+the pathogenesis of PWS.
+
+ANIMAL MODEL
+
+In a mouse model for PWS lacking expression of Mbii-52, Doe et al.
+(2009) showed an increase in editing, but not alternative splicing, of
+the Htr2c pre-RNA. This change in posttranscriptional modification was
+associated with alterations in a number of brain serotonin-related
+behaviors, including impulsive responding, locomotor activity and
+reactivity to palatable foodstuffs. For marble burying, a behavior not
+related to brain serotonin, loss of Mbii-52 was without effect. The
+specificity of the behavioral effects to changes in Htr2c function was
+further confirmed using drug challenges. These data illustrated the
+physiologic consequences of altered RNA editing of Htr2c linked to
+Mbii-52 loss that may underlie specific aspects of the complex PWS
+phenotype and point to an important functional role for this imprinted
+snoRNA.
+
+REFERENCE 1. Cavaille, J.; Buiting, K.; Kiefmann, M.; Lalande, M.; Brannan,
+C. I.; Horsthemke, B.; Bachellerie, J.-P.; Brosius, J.; Huttenhofer,
+A.: Identification of brain-specific and imprinted small nucleolar
+RNA genes exhibiting an unusual genomic organization. Proc. Nat.
+Acad. Sci. 97: 14311-14316, 2000.
+
+2. Doe, C. M.; Relkovic, D.; Garfield, A. S.; Dalley, J. W.; Theobald,
+D. E. H.; Humby, T.; Wilkinson, L. S.; Isles, A. R.: Loss of imprinted
+snoRNA mbii-52 leads to increased 5htr2c pre-RNA editing and altered
+5HT(2C)R-mediated behaviour. Hum. Molec. Genet. 18: 2140-2148, 2009.
+
+3. Kishore, S.; Khanna, A.; Zhang, Z.; Hui, J.; Balwierz, P. J.; Stefan,
+M.; Beach, C.; Nicholls, R. D.; Zavolan, M.; Stamm, S.: The snoRNA
+MBII-52 (SNORD 115) is processed into smaller RNAs and regulates alternative
+splicing. Hum. Molec. Genet. 19: 1153-1164, 2010.
+
+4. Kishore, S.; Stamm, S.: The snoRNA HBII-52 regulates alternative
+splicing of the serotonin receptor 2C. Science 311: 230-232, 2006.
+
+5. Runte, M.; Huttenhofer, A.; Gross, S.; Kiefmann, M.; Horsthemke,
+B.; Buiting, K.: The IC-SNURF-SNRPN transcript serves as a host for
+multiple small nucleolar RNA species and as an antisense RNA for UBE3A. Hum.
+Molec. Genet. 10: 2687-2700, 2001.
+
+6. Runte, M.; Varon, R.; Horn, D.; Horsthemke, B.; Buiting, K.: Exclusion
+of the C/D box snoRNA gene cluster HBII-52 from a major role in Prader-Willi
+syndrome. Hum. Genet. 116: 228-230, 2005.
+
+7. Sato, K.; Iwakoshi, M.; Shimokawa, O.; Sakai, H.; Ohta, T.; Saitoh,
+S.; Miyake, N.; Niikawa, N.; Harada, N.; Saitsu, H.; Mizuguchi, T.;
+Matsumoto, N.: Angelman syndrome caused by an identical familial
+1,487-kb deletion. (Letter) Am. J. Med. Genet. 143A: 98-101, 2007.
+
+CONTRIBUTORS George E. Tiller - updated: 11/14/2011
+George E. Tiller - updated: 3/2/2010
+Marla J. F. O'Neill - updated: 6/26/2007
+Ada Hamosh - updated: 4/18/2006
+
+CREATED Patricia A. Hartz: 1/19/2006
+
+EDITED mgross: 01/25/2012
+carol: 11/15/2011
+terry: 11/14/2011
+wwang: 3/11/2010
+terry: 3/2/2010
+wwang: 6/26/2007
+alopez: 4/21/2006
+terry: 4/18/2006
+mgross: 1/19/2006
+
+609317	TITLE *609317 TRIPARTITE MOTIF-CONTAINING PROTEIN 36; TRIM36
+;;RBCC728
+DESCRIPTION 
+CLONING
+
+Using a B-box domain consensus sequence to screen EST databases for
+novel TRIM family members, Reymond et al. (2001) identified and cloned
+mouse and human TRIM36. The deduced protein contains an N-terminal RING
+domain, B-box-1 and B-box-2 domains, and a coiled-coil region.
+
+By sequencing a region of chromosome 5 duplicated in a renal cell
+carcinoma, Balint et al. (2004) identified TRIM36, which they designated
+RBCC728. They obtained the full-length cDNA by PCR of fetal brain and
+adult kidney cDNA libraries. The deduced 728-amino acid protein has an
+N-terminal RING finger C3HC4 structure, 2 B-boxes, a coiled-coil region,
+a fibronectin type III (see 135600) domain and a C-terminal domain found
+in SPRY proteins (see SPRY1; 602465). TRIM36 also contains a bipartite
+nuclear localization signal. TRIM36 shares 26% amino acid identity with
+MID1 (300552). Quantitative RT-PCR detected highest TRIM36 expression in
+testis, followed by prostate and brain, with weak expression in kidney,
+lung, and heart. TRIM36 expression was upregulated in some prostate
+cancers compared with normal tissue. Immunohistochemical analysis of
+recombinant and endogenous TRIM36 in COS-7 cells showed the protein
+expressed in a slightly filamentous staining pattern in the cytoplasm.
+TRIM36 often accumulated near sites of cell-cell contact, and mitotic
+cells were negative for TRIM36 staining.
+
+GENE STRUCTURE
+
+Balint et al. (2004) determined that the TRIM36 gene contains 10 exons
+and spans 55 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Reymond et al. (2001) mapped the TRIM36
+gene to chromosome 5q22. By shotgun sequencing, Balint et al. (2004)
+identified the TRIM36 gene within a BAC mapped to chromosome 5q22.3.
+
+REFERENCE 1. Balint, I.; Muller, A.; Nagy, A.; Kovacs, G.: Cloning and characterisation
+of the RBCC728/TRIM36 zinc-binding protein from the tumor suppressor
+gene region at chromosome 5q22.3. Gene 332: 45-50, 2004.
+
+2. Reymond, A.; Meroni, G.; Fantozzi, A.; Merla, G.; Cairo, S.; Luzi,
+L.; Riganelli, D.; Zanaria, E.; Messali, S.; Cainarca, S.; Guffanti,
+A.; Minucci, S.; Pelicci, P. G.; Ballabio, A.: The tripartite motif
+family identifies cell compartments. EMBO J. 20: 2140-2151, 2001.
+
+CREATED Patricia A. Hartz: 4/19/2005
+
+EDITED carol: 08/09/2005
+mgross: 4/20/2005
+
+606055	TITLE *606055 PHOSPHATIDYLCHOLINE TRANSFER PROTEIN; PCTP
+;;START DOMAIN-CONTAINING PROTEIN 2; STARD2
+DESCRIPTION 
+CLONING
+
+Phosphatidylcholine (PC) transfer protein (PCTP) is a cytosolic protein
+first purified from bovine and rat liver that catalyzes intermembrane
+transfer of PC. By searching an EST database for homologs of bovine
+Pctp, followed by 5-prime RACE and PCR of a kidney cDNA library, Cohen
+et al. (1999) obtained a cDNA encoding human PCTP. The deduced 214-amino
+acid human protein is 76% and 80% identical to bovine and rat Pctp,
+respectively. Northern blot analysis revealed wide expression of an
+approximately 2.3-kb PCTP transcript in all tissues tested except
+thymus. Highest expression was detected in liver, placenta, testis,
+kidney, and heart, and lowest levels were found in brain and lung.
+
+Van Helvoort et al. (1999) cloned human and mouse PCTP. They noted that
+the sn2 fatty acyl-binding domain is 100% identical in the rodent,
+bovine, and human proteins.
+
+GENE STRUCTURE
+
+Using Southern blot analysis, van Helvoort et al. (1999) determined that
+PCTP is a single-copy gene. By genomic sequence analysis, Cohen et al.
+(1999) showed that the PCTP gene contains 6 exons and spans 13 to 23 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Cohen et al. (1999) mapped the PCTP gene
+to 17q21-q22. They localized the mouse gene to the central portion of
+chromosome 11.
+
+ANIMAL MODEL
+
+Van Helvoort et al. (1999) disrupted the Pctp gene in mice. Pctp
+knockout mice showed no defects in the secretion of PC into bile or lung
+surfactant, and the lipid content and composition of bile and surfactant
+was normal. The authors concluded that PCTP does not play a major role
+in transporting PC from the endoplasmic reticulum, where it is
+synthesized, to the hepatocyte canalicular membrane.
+
+REFERENCE 1. Cohen, D. E.; Green, R. M.; Wu, M. K.; Beier, D. R.: Cloning,
+tissue-specific expression, gene structure and chromosomal localization
+of human phosphatidylcholine transfer protein. Biochim. Biophys.
+Acta 1447: 265-270, 1999.
+
+2. van Helvoort, A.; de Brouwer, A.; Ottenhoff, R.; Brouwers, J. F.
+H. M.; Wijnholds, J.; Beijnen, J. H.; Rijneveld, A.; van der Valk,
+M. A.; Majoor, D.; Voorhout, W.; Wirtz, K. W. A.; Elferink, R. P.
+J. O.; Borst, P.: Mice without phosphatidylcholine transfer protein
+have no defects in the secretion of phosphatidylcholine into bile
+or into lung airspaces. Proc. Nat. Acad. Sci. 96: 11501-11506, 1999.
+
+CREATED Paul J. Converse: 6/22/2001
+
+EDITED mgross: 06/19/2002
+mgross: 6/22/2001
+
+123857	TITLE *123857 CYSTATIN 4; CST4
+;;CYSTATIN S
+DESCRIPTION 
+CLONING
+
+See CST1 (123855) and CST5 (123858) for general information about
+cystatins, inhibitors of cysteine proteinases. Saitoh et al. (1991)
+cloned the CST4 gene by screening a genomic library with the CST1 gene.
+The CST4 gene encodes the 141-amino acid precursor form of cystatin S.
+(The cystatin D gene was originally called CST4 but later renamed CST5.)
+
+By RNase protection assay of 23 human tissues, Dickinson et al. (2002)
+found that the level of CST4 was highest in submandibular gland,
+intermediate in parotid gland, lacrimal gland, and gallbladder, lower in
+kidney and seminal vesicles, and lowest in prostate.
+
+GENE STRUCTURE
+
+Saitoh et al. (1991) determined that the CST4 gene is composed of 3
+exons spanning less than 4 kb.
+
+MAPPING
+
+Dickinson et al. (1994) mapped the CST4 gene to 20p11.2 by fluorescence
+in situ hybridization. CST4 is clustered with other family II cystatins
+in a region that spans less than 905 kb.
+
+REFERENCE 1. Dickinson, D. P.; Thiesse, M.; Hicks, M. J.: Expression of type
+2 cystatin genes CST1-CST5 in adult human tissues and the developing
+submandibular gland. DNA Cell Biol. 21: 47-65, 2002.
+
+2. Dickinson, D. P.; Zhao, Y.; Thiesse, M.; Siciliano, M. J.: Direct
+mapping of seven genes encoding human type 2 cystatins to a single
+site located at 20p11.2. Genomics 24: 172-175, 1994.
+
+3. Saitoh, E.; Isemura, S.; Sanada, K.; Ohnishi, K.: The human cystatin
+gene family: cloning of three members and evolutionary relationship
+between cystatins and Bowman-Birk type proteinase inhibitors. Biomed.
+Biochim. Acta 50: 599-605, 1991.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/30/2006
+Rebekah S. Rasooly - updated: 4/10/1998
+
+CREATED Victor A. McKusick: 8/6/1991
+
+EDITED alopez: 09/18/2012
+wwang: 9/6/2006
+terry: 8/30/2006
+psherman: 4/10/1998
+mark: 3/31/1997
+carol: 1/26/1995
+carol: 6/4/1993
+carol: 3/9/1993
+carol: 3/31/1992
+supermim: 3/16/1992
+carol: 2/21/1992
+

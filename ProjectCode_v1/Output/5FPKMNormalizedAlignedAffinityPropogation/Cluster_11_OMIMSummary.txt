@@ -1,0 +1,49 @@
+613788	TITLE *613788 MICRO RNA 152; MIR152
+;;miRNA152;;
+MIRN152
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs, such as MIR152, are noncoding RNAs of 18 to 24 nucleotides
+that bind the 3-prime UTRs of target mRNAs and control protein
+expression through translational repression or mRNA degradation. MIR148B
+regulates the innate immune response (Liu et al., 2010).
+
+GENE FUNCTION
+
+Using computer and functional analyses, Liu et al. (2010) identified 3
+members of the MIR148 family, Mir148a (613786), Mir148b (613787), and
+Mir152, as negative regulators of the innate immune response and the
+antigen-presenting capacity of mouse dendritic cells (DCs). Expression
+of Mir148a, Mir148b, and Mir152 was upregulated in mouse DCs on
+maturation and activation induced by Tlr3 (603029), Tlr4 (603030), and
+Tlr9 (605474) agonists. In contrast, expression of Camk2a (114078), an
+important DC regulator, was downregulated in the presence of these
+agonists. Mir148/Mir152 overexpression inhibited production of
+cytokines, including Il12 (see 161560), Il6 (147620), Tnf (191160), and
+Ifnb, (147640), upregulation of major histocompatibility complex class
+II expression, and DC-initiated antigen-specific T-cell proliferation by
+targeting Camk2a expression. Liu et al. (2010) proposed that MIR148A,
+MIR148B, and MIR152 fine tune the innate immune response.
+
+MAPPING
+
+Gross (2011) mapped the MIR152 gene to chromosome 17q21.32 based on an
+alignment of the mature MIR152 sequence (UCAGUGCAUGACAGAACUUGG) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  3/2/2011.
+
+2. Liu, X.; Zhan, Z.; Xu, L.; Ma, F.; Li, D.; Guo, Z.; Li, N.; Cao,
+X.: MicroRNA-148/152 impair innate response and antigen presentation
+of TLR-triggered dendritic cells by targeting CaMKII-alpha. J. Immun. 185:
+7244-7251, 2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/2/2011
+
+CREATED Paul J. Converse: 3/2/2011
+
+EDITED terry: 03/07/2011
+mgross: 3/3/2011
+mgross: 3/2/2011
+

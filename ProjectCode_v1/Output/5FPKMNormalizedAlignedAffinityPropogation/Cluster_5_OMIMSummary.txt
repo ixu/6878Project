@@ -1,0 +1,1193 @@
+600169	TITLE *600169 MAJOR HISTOCOMPATIBILITY COMPLEX CLASS I CHAIN-RELATED GENE A; MICA
+DESCRIPTION 
+CLONING
+
+Major histocompatibility complex (MHC) class I genes typically encode
+polymorphic peptide-binding chains that are ubiquitously expressed and
+mediate the recognition of intracellular antigens by cytotoxic T cells.
+Motivated by the association of HLA-B27 with rheumatoid and inflammatory
+diseases, Bahram et al. (1994) found a family of sequences in the human
+MHC that are highly divergent from all of the known MHC class I genes
+and were presumably derived early in the evolution of mammalian class I
+genes. These MIC genes (for MHC class I chain-related genes) evolved in
+parallel with the human class I genes and with those of most, if not
+all, mammalian orders. Bahram et al. (1994) cloned the MICA gene in this
+family and stated that it was by far the most divergent mammalian MHC
+class I gene known. The MICA gene encodes a 383-amino acid polypeptide
+with a predicted mass of 43 kD. It is further distinguished by its
+unusual exon-intron organization and preferential expression in
+fibroblasts and epithelial cells. However, the presence of distinctive
+residues in the MICA amino acid sequence translated from cDNA suggested
+that the putative MICA chain folds similarly to typical class I chains
+and may have the capacity to bind peptide or other short ligands. Thus,
+a second lineage of evolutionarily conserved MHC class I genes was
+defined by these results. MICA and other members of this family may have
+been selected for specialized functions that are either ancient or
+derived from those of typical MHC class I genes, in analogy to some of
+the nonclassic mouse H-2 genes.
+
+MAPPING
+
+Bahram et al. (1994) demonstrated that the MICA gene is located near
+HLA-B (142830) on chromosome 6. Nalabolu et al. (1996) showed that the
+MICA and MICB (602436) genes occur in a 200-kb region spanning the TNFA
+(191160) and TNFB (153440) cluster at chromosome 6p21.3.
+
+GENE FUNCTION
+
+T cells with variable region V-delta-1 gamma/delta T-cell receptors (see
+TCRG, 186970, and TCRD, 186810) are distributed throughout the human
+intestinal epithelium and may function as sentinels that respond to self
+antigens. The expression of MICA matches this localization. Groh et al.
+(1998) found that MICA and the closely related MICB were recognized by
+intestinal epithelial T cells expressing diverse V-delta-1 gamma/delta
+TCRs. These interactions involved the alpha-1/alpha-2 domains of MICA
+and MICB but were independent of antigen processing. With intestinal
+epithelial cell lines, the expression and recognition of MICA and MICB
+could be stress induced. Thus, these molecules may broadly regulate
+protective responses by the V-delta-1 gamma/delta T cells in the
+epithelium of the intestinal tract.
+
+Bauer et al. (1999) found that MICA binds NKG2D (KLRK1; 611817) on
+gamma/delta T cells, CD8+ alpha/beta T cells, and natural killer (NK)
+cells. Engagement of NKG2D activated cytolytic responses of gamma/delta
+T cells and NK cells against transfectants and epithelial tumor cells
+expressing MICA. These results defined an activating immunoreceptor-MHC
+ligand interaction that may promote antitumor NK- and T-cell responses.
+
+MIC engagement of NKG2D stimulates NK-cell and T-cell effector
+functions. Cytomegalovirus (CMV) infection induces the expression of
+stress proteins such as HSP70 (140550). By flow cytometric analysis,
+Groh et al. (2001) showed that CMV infection also induces MIC expression
+and a concurrent downregulation of MHC class I molecules on fibroblasts
+and endothelial cells. Immunohistochemical analysis of lung sections
+from patients with CMV interstitial pneumonitis confirmed that induction
+of MIC expression also occurs in vivo. Functional analysis of T-cell
+cytotoxicity against CMV-infected fibroblasts showed that early after
+infection when MIC expression was low, antibodies to MHC class I, but
+not to MIC or NKG2D, could block T cell-mediated cytolysis. As MIC
+expression increased, antibody masking of MIC or NKG2D reduced target
+cell lysis; anti-MHC class I antibodies further reduced cytolysis. The
+presence of MICA on stimulator cells also substantially enhanced
+cytokine release by T-cell clones, and anti-MIC antibody abrogated this
+production, suggesting that the MIC-NKG2D interaction provides an
+important costimulatory activity.
+
+Groh et al. (2002) showed that NKG2D binding of MIC induces endocytosis
+and degradation of NKG2D. In cancer patients, NKG2D expression was
+markedly reduced in both CD8+ tumor-infiltrating T cells and in
+peripheral blood T cells, associated with circulating tumor-derived
+soluble MICA. The downregulation of NKG2D causes a severe impairment of
+tumor antigen-specific effector T cells. Groh et al. (2002) proposed
+that this mode of T cell silencing through MIC shedding may promote
+tumor immune evasion and inferred that it could also compromise host
+resistance to infections.
+
+Using immunohistopathologic and flow cytometric analyses, Hue et al.
+(2004) found increased expression of MICA at epithelial cell surfaces in
+celiac disease (CD; 212750) patients exposed to gliadin. Patient biopsy
+specimens exposed to an IL15 (600554)-inducing gliadin fragment did not
+express MICA in the presence of anti-IL15. Cytotoxicity assays showed
+that NKG2D played primarily a costimulatory role on intraepithelial
+lymphocytes (IELs), with a TCR-mediated signal required for complete
+activation. However, in refractory celiac sprue patients, NKG2D mediated
+a direct activating signal. ELISA detected soluble MICA in serum in half
+of untreated CD patients, but in few patients on gluten-free diets; the
+presence of soluble MICA was independent of MICA genotype. Hue et al.
+(2004) proposed that villous atrophy in CD may be ascribed to
+IEL-mediated damage to enterocytes involving NKG2D-MICA interaction
+after gliadin-induced expression of MICA on gut epithelium.
+
+Kriegeskorte et al. (2005) showed that the NKG2D ligands H60 and MICA
+could mediate strong suppressive effects on T-cell proliferation. The
+suppression did not occur in Il10 (124092)-deficient mice and involved a
+receptor other than NKG2D. Kriegeskorte et al. (2005) concluded that
+NKG2D ligands can induce strong inhibitory effects in addition to
+stimulatory effects
+
+Kaiser et al. (2007) showed that on the surface of tumor cells, MICA
+associates with endoplasmic reticulum protein-5 (ERP5; 611099), which,
+similar to protein disulfide isomerase (176790), usually assists in the
+folding of nascent proteins inside cells. Pharmacologic inhibition of
+thioreductase activity and ERP5 gene silencing revealed that
+cell-surface ERP5 function is required for MICA shedding. ERP5 and
+membrane-anchored MICA formed transitory mixed disulfide complexes from
+which soluble MICA was released after proteolytic cleavage near the cell
+membrane. Kaiser et al. (2007) suggested that reduction of the seemingly
+inaccessible disulfide bond in the membrane-proximal alpha-3 domain of
+MICA must involve a large conformational change that enables proteolytic
+cleavage. They concluded that their results uncovered a molecular
+mechanism whereby domain-specific deconstruction regulates MICA protein
+shedding, thereby promoting tumor immune evasion, and identified surface
+ERP5 as a strategic target for therapeutic intervention.
+
+BIOCHEMICAL FEATURES
+
+Using multiwavelength-anomalous dispersion phases at a resolution of 2.7
+angstroms, Li et al. (2001) determined the crystal structure of MICA and
+NKG2D. They showed that NKG2D forms a homodimer that interacts with a
+MICA monomer.
+
+MOLECULAR GENETICS
+
+The predicted amino acid sequence of the MICA chain suggests that it
+folds similarly to typical class I chains and may have the capacity to
+bind peptides or other short ligands (Bahram et al., 1994). Therefore,
+MICA was predicted to have a specialized function in antigen
+presentation or T cell recognition. During nucleotide sequence analyses
+of the MICA genomic clone, Mizuki et al. (1997) found a triplet repeat
+microsatellite polymorphism (GCT/AGC)n in the transmembrane region of
+the MICA gene. In 68 HLA homozygous B cell lines, 5 distinct alleles of
+this microsatellite sequence were detected. One of them contained an
+additional 1-bp insertion that created a frameshift resulting in a
+premature termination codon in the transmembrane region. This particular
+allele was thought to encode a soluble, secreted form of the MICA
+molecule. Mizuki et al. (1997) also investigated this microsatellite
+polymorphism in 77 Japanese patients with Behcet disease (109650), which
+had previously been known to be associated with HLA-B51. The
+microsatellite allele consisting of 6 repetitions of GCT/AGC was present
+at significantly higher frequency in the patient population (Pc =
+0.00055) than in a control population. Furthermore, the (GCT/AGC)6
+allele was present in all B51 positive patients and in an additional 13
+B51 negative patients. These results suggested the possibility of a
+primary association of Behcet disease with MICA rather than HLA-B.
+
+Wallace et al. (1999) investigated the association of the 16 previously
+described external domain alleles and the transmembrane triplet repeats
+of the MICA gene with Behcet disease in a Middle Eastern population. The
+results showed an increase of MICA*009 in the Behcet disease patient
+group (44 of 95; 46%) compared with controls (24 of 102; 24%), giving an
+odds ratio (OR) of 2.8. The A6 form of a MICA transmembrane triplet
+repeat was found to be significantly raised in the patients (80 of 95;
+84%) compared with controls (58 of 102; 57%), giving an OR of 4. The
+most significant association was that between Behcet disease and
+HLA-B51. Wallace et al. (1999) interpreted the data as indicating that
+since both MICA*009 and A6 are in strong linkage disequilibrium with
+HLA-B51, they are unlikely to be the susceptibility genes for Behcet
+disease but may be markers for additional risk factors.
+
+Mizuki et al. (2000) studied the localization of the pathogenic gene of
+Behcet disease using microsatellite analysis of 3 different populations:
+Japanese, Greek, and Italian. In genotypic differentiation between
+patients and controls, the authors found that only HLA-B51 was
+significantly associated with BD in all 3 populations. These results
+suggested that the pathogenic gene of BD is HLA-B51 itself and not other
+genes located in the vicinity of HLA-B.
+
+The MICA and MICB genes are polymorphic, displaying an unusual
+distribution of a number of variant amino acids in their extracellular
+alpha-1, alpha-2, and alpha-3 domains. To further define the
+polymorphism of MICA, Petersdorf et al. (1999) examined its alleles
+among 275 individuals with common and rare HLA genotypes. Of 16
+previously defined alleles, 12 were confirmed, and 5 new alleles were
+identified. A 2-by-2 analysis of MICA and HLA-B alleles uncovered a
+number of significant associations. These results confirmed and extended
+previous knowledge on the polymorphism of MICA. Petersdorf et al. (1999)
+suggested that a strong positive linkage of certain MICA and HLA-B
+alleles may have implications for studies related to MHC-associated
+diseases and transplantation.
+
+Komatsu-Wakui et al. (1999) studied polymorphisms in the MICA gene in
+Japanese. They observed 8 MICA alleles in Japanese individuals, among
+which 1, tentatively named MIC-AMW, had not previously been reported.
+There was a strong linkage disequilibrium between MICA and HLA-B loci;
+each MICA allele showed strong association with a particular HLA-B
+group. Komatsu-Wakui et al. (1999) also identified a MICA-MICB null
+haplotype, which was associated with HLAB*4801. In this haplotype, they
+found large-scale deletion (of approximately 100 kb), including the
+entire MICA gene, and a MICB gene that possessed a stop codon.
+
+To summarize, the MICA gene has a microsatellite repeat, GCT(n), within
+exon 5, encoding for a variable number of alanines (Ala = A).
+Perez-Rodriguez et al. (2000) described a novel MICA allele with 10 GCT
+repeats (A10); 4 different repeats of this microsatellite had been
+previously reported: A4, A5, A6, and A9. An association of Behcet
+disease with the A9 repeat had been reported by Mizuki et al. (1997).
+
+Gambelunghe et al. (2001) concluded the existence of distinct genetic
+markers for childhood/young-onset IDDM (222100) and for adult-onset
+IDDM, namely the MICA5 and MICA5.1 alleles, respectively.
+
+Mei et al. (2009) analyzed the relationship between Chlamydia
+trachomatis, tubal pathology, and MICA allele polymorphisms in 214
+infertile Chinese women. They found no association between MICA alleles
+and the presence or absence of tubal pathology in infertile women with
+antibodies to C. trachomatis. However, an association was found between
+the MICA*008 allele and infertile women without antibodies to C.
+trachomatis. Mei et al. (2009) concluded that MICA may modify host
+susceptibility to C. trachomatis infection.
+
+Aquino-Galvez et al. (2009) analyzed the MICA gene in 80 sporadic
+patients with idiopathic pulmonary fibrosis (IPF; 178500) and 201
+controls and found a significant increase of MICA*001 allele in the IPF
+cohort (odds ratio, 2.91; corrected p = 0.03). In addition, the MICA
+*001/*00201 genotype was significantly increased in patients with IPF
+compared with healthy controls (odds ratio, 4.72; corrected p = 0.01).
+Strong immunoreactive MICA staining was localized in alveolar epithelial
+cells and fibroblasts from IPF lungs, whereas control lungs were
+negative. Soluble MICA was detected in 35% of IPF patients compared to
+12% of control subjects (p = 0.0007). The expression of the MICA
+receptor NKG2D (KLRK1; 611817) was significantly decreased in
+gamma/delta T cells and natural killer cells obtained from IPF lungs.
+Aquino-Galvez et al. (2009) concluded that MICA polymorphisms and
+abnormal expression of NKG2D might contribute to IPF susceptibility.
+
+For a discussion of a possible association between variation in the MICA
+region and progression from chronic hepatitis C to hepatocellular
+carcinoma, see 114550.
+
+ANIMAL MODEL
+
+The MICA/MICB locus is not conserved in mice; however, mice do have
+counterpart NKG2D ligands, Rae1-beta and H60. Diefenbach et al. (2001)
+demonstrated that ectopic expression of these ligands in tumor cell
+lines resulted not only in potent rejection mediated by either NK cells
+or CD8-positive T cells, but that mice subsequently challenged with
+tumor cell lines not expressing the ligands were also immune to the
+tumors. Girardi et al. (2001) determined that immunity to cutaneous
+malignancies could be mediated by NKG2D-expressing intraepithelial
+gamma/delta T cells. Girardi et al. (2001) proposed that the diverse
+expression of NKG2D on cytolytic cell types may allow attacks on tumor
+cells in different anatomical compartments and that gamma/delta T cells
+may be particularly important in skin and gut.
+
+REFERENCE 1. Aquino-Galvez, A.; Perez-Rodriguez, M.; Camarena, A.; Falfan-Valencia,
+R.; Ruiz, V.; Montano, M.; Barrera, L.; Sada-Ovalle, I.; Ramirez,
+R.; Granados, J.; Pardo, A.; Selman, M.: MICA polymorphisms and decreased
+expression of the MICA receptor NKG2D contribute to idiopathic pulmonary
+fibrosis susceptibility. Hum. Genet. 125: 639-648, 2009.
+
+2. Bahram, S.; Bresnahan, M.; Geraghty, D. E.; Spies, T.: A second
+lineage of mammalian major histocompatibility complex class I genes. Proc.
+Nat. Acad. Sci. 91: 6259-6263, 1994.
+
+3. Bauer, S.; Groh, V.; Wu, J.; Steinle, A.; Phillips, J. H.; Lanier,
+L. L.; Spies, T.: Activation of NK cells and T cells by NKG2D, a
+receptor for stress-inducible MICA. Science 285: 727-729, 1999.
+
+4. Diefenbach, A.; Jensen, E. R.; Jamieson, A. M.; Raulet, D. H.:
+Rae1 and H60 ligands of the NKG2D receptor stimulate tumour immunity. Nature 413:
+165-171, 2001.
+
+5. Gambelunghe, G.; Ghaderi, M.; Tortoioli, C.; Falorni, A.; Santeusanio,
+F.; Brunetti, P.; Sanjeevi, C. B.; Falorni, A. on behalf of the Umbria
+Type 1 Diabetes Registry: Two distinct MICA gene markers discriminate
+major autoimmune diabetes types. J. Clin. Endocr. Metab. 86: 3754-3760,
+2001.
+
+6. Girardi, M.; Oppenheim, D. E.; Steele, C. R.; Lewis, J. M.; Glusac,
+E.; Filler, R.; Hobby, P.; Sutton, B.; Tigelaar, R. E.; Hayday, A.
+C.: Regulation of cutaneous malignancy by gamma-delta T cells. Science 294:
+605-609, 2001.
+
+7. Groh, V.; Rhinehart, R.; Randolph-Habecker, J.; Topp, M. S.; Riddell,
+S. R.; Spies, T.: Costimulation of CD8-alpha-beta T cells by NKG2D
+via engagement by MIC induced on virus-infected cells. Nature Immun. 2:
+255-260, 2001.
+
+8. Groh, V.; Steinle, A.; Bauer, S.; Spies, T.: Recognition of stress-induced
+MHC molecules by intestinal epithelial gamma-delta T cells. Science 279:
+1737-1740, 1998.
+
+9. Groh, V.; Wu, J.; Yee, C.; Spies, T.: Tumour-derived soluble MIC
+ligands impair expression of NKG2D and T-cell activation. Nature 419:
+734-738, 2002.
+
+10. Hue, S.; Mention, J.-J.; Monteiro, R. C.; Zhang, S.; Cellier,
+C.; Schmitz, J.; Verkarre, V.; Fodil, N.; Bahram, S.; Cerf-Bensussan,
+N.; Caillat-Zucman, S.: A direct role for NKG2D/MICA interaction
+in villous atrophy during Celiac disease. Immunity 21: 367-377,
+2004.
+
+11. Kaiser, B. K.; Yim, D.; Chow, I.-T.; Gonzalez, S.; Dai, Z.; Mann,
+H. H.; Strong, R. K.; Groh, V.; Spies, T.: Disulphide-isomerase-enabled
+structure of tumour-associated NKG2D ligands. Nature 447: 482-486,
+2007.
+
+12. Komatsu-Wakui, M.; Tokunaga, K.; Ishikawa, Y.; Kashiwase, K.;
+Moriyama, S.; Tsuchiya, N.; Ando, H.; Shiina, T.; Geraghty, D. E.;
+Inoko, H.; Juji, T.: MIC-A polymorphism in Japanese and a MIC-A-MIC-B
+null haplotype. Immunogenetics 49: 620-628, 1999.
+
+13. Kriegeskorte, A. K.; Gebhardt, F. E.; Porcellini, S.; Schiemann,
+M.; Stemberger, C.; Franz, T. J.; Huster, K. M.; Carayannopoulos,
+L. N.; Yokoyama, W. M.; Colonna, M.; Siccardi, A. G.; Bauer, S.; Busch,
+D. H.: NKG2D-independent suppression of T cell proliferation by H60
+and MICA. Proc. Nat. Acad. Sci. 102: 11805-11810, 2005.
+
+14. Li, P.; Morris, D. L.; Willcox, B. E.; Steinle, A.; Spies, T.;
+Strong, R. K.: Complex structure of the activating immunoreceptor
+NKG2D and its MHC class I-like ligand MICA. Nature Immun. 2: 443-451,
+2001.
+
+15. Mei, B.; Luo, Q.; Du, K.; Huo, Z.; Wang, F.; Yu, P.: Association
+of MICA gene polymorphisms with Chlamydia trachomatis infection and
+related tubal pathology in infertile women. Hum. Reprod. 24: 3090-3095,
+2009.
+
+16. Mizuki, N.; Ota, M.; Kimura, M.; Ohno, S.; Ando, H.; Katsuyama,
+Y.; Yamazaki, M.; Watanabe, K.; Goto, K.; Nakamura, S.; Bahram, S.;
+Inoko, H.: Triplet repeat polymorphism in the transmembrane region
+of the MICA gene: a strong association of six GCT repetitions with
+Behcet disease. Proc. Nat. Acad. Sci. 94: 1298-1303, 1997.
+
+17. Mizuki, N.; Ota, M.; Yabuki, K.; Katsuyama, Y.; Ando, H.; Palimeris,
+G. D.; Kaklamani, E.; Accorinti, M.; Pivetti-Pezzi, P.; Ohno, S.;
+Inoko, H.: Localization of the pathogenic gene of Behcet's disease
+by microsatellite analysis of three different populations. Invest.
+Ophthal. Vis. Sci. 41: 3702-3708, 2000.
+
+18. Nalabolu, S. R.; Shukla, H.; Nallur, G.; Parimoo, S.; Weissman,
+S. M.: Genes in a 220-kb region spanning the TNF cluster in human
+MHC. Genomics 31: 215-222, 1996.
+
+19. Perez-Rodriguez, M.; Corell, A.; Arguello, J. R.; Cox, S. T.;
+McWhinnie, A.; Marsh, S. G. E.; Madrigal, J. A.: A new MICA allele
+with ten alanine residues in the exon 5 microsatellite. Tissue Antigens 55:
+162-165, 2000.
+
+20. Petersdorf, E. W.; Shuler, K. B.; Longton, G. M.; Spies, T.; Hansen,
+J. A.: Population study of allelic diversity in the human MHC class
+I-related MIC-A gene. Immunogenetics 49: 605-612, 1999.
+
+21. Wallace, G. R.; Verity, D. H.; Delamaine, L. J.; Ohno, S.; Inoko,
+H.; Ota, M.; Mizuki, N.; Yabuki, K.; Kondiatis, E.; Stephens, H. A.
+F.; Madanat, W.; Kanawati, C. A.; Stanford, M. R.; Vaughan, R. W.
+: MIC-A allele profiles and HLA class I associations in Behcet's disease. Immunogenetics 49:
+613-617, 1999.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 7/28/2010
+Paul J. Converse - updated: 3/2/2010
+Ada Hamosh - updated: 6/14/2007
+Paul J. Converse - updated: 11/3/2006
+Paul J. Converse - updated: 4/11/2006
+Paul J. Converse - updated: 10/16/2002
+John A. Phillips, III - updated: 3/14/2002
+Paul J. Converse - updated: 10/31/2001
+Paul J. Converse - updated: 5/4/2001
+Paul J. Converse - updated: 3/8/2001
+Jane Kelly - updated: 1/18/2001
+Victor A. McKusick - updated: 7/13/2000
+Victor A. McKusick - updated: 9/29/1999
+Ada Hamosh - updated: 7/28/1999
+Victor A. McKusick - updated: 3/11/1998
+Victor A. McKusick - updated: 3/3/1997
+Alan F. Scott - updated: 4/9/1996
+
+CREATED Victor A. McKusick: 10/31/1994
+
+EDITED mgross: 10/07/2013
+alopez: 9/14/2011
+wwang: 7/28/2010
+terry: 7/28/2010
+mgross: 3/2/2010
+terry: 3/2/2010
+alopez: 6/28/2007
+terry: 6/14/2007
+mgross: 11/3/2006
+mgross: 5/3/2006
+terry: 4/11/2006
+alopez: 10/16/2002
+alopez: 3/14/2002
+mgross: 10/31/2001
+mgross: 5/4/2001
+mgross: 3/8/2001
+carol: 1/18/2001
+terry: 1/18/2001
+alopez: 7/20/2000
+terry: 7/13/2000
+mgross: 10/12/1999
+terry: 9/29/1999
+alopez: 7/30/1999
+carol: 7/28/1999
+alopez: 3/12/1998
+terry: 3/11/1998
+mark: 3/3/1997
+terry: 2/28/1997
+mark: 4/9/1996
+terry: 4/9/1996
+mark: 4/8/1996
+terry: 10/31/1994
+
+104230	TITLE *104230 FUCOSYLTRANSFERASE 4; FUT4
+;;ALPHA-3-FUCOSYLTRANSFERASE; FCT3A
+DESCRIPTION 
+CLONING
+
+In human/mouse myeloid cell hybrids, Geurts van Kessel et al. (1984)
+tested for reactivity with monoclonal antibodies with known myelocytic,
+monocytic, or myelomonocytic specificity. Twenty antibodies, all of
+which bound specifically to the surface of human myeloid cells,
+exhibited similar reactivity patterns with the hybrid clones.
+Chromosomal analysis showed that the gene or genes involved in
+expression of the 1 or more antigens recognized by these antibodies must
+be located on human chromosome 11q12-qter. This myeloid-associated
+surface antigen was designated CD15 in the CD system.
+
+Tetteroo et al. (1987) found that alpha-3-fucosyltransferase activity
+correlated with the presence of human chromosome 11 in human-mouse
+myeloid cell hybrids. Also, several other myeloid-associated
+carbohydrate antigens, e.g., LeX (CD15), were associated with chromosome
+11. Tetteroo et al. (1987) concluded that an alpha-3-fucosyltransferase
+gene on chromosome 11 is responsible for synthesis of these antigens.
+
+Couillin et al. (1991) identified an alpha-3-fucosyltransferase on
+chromosome 11q, FUT4, that transferred fucose onto H type 2 more
+efficiently than onto sialyl-N-acetyllactosamine, suggesting that it is
+the myeloid type of alpha-3-fucosyltransferase that makes the
+3-fucosyllactosamine epitope (CD15) on polymorphonuclear cells and
+monocytes.
+
+Of the fucosyltranstransferases examined by Cailleau-Thomas et al.
+(2000), only FUT4 and FUT9 (606865) were expressed during human
+embryogenesis; all of the others showed irregular or weak expression. By
+Northern blot analysis of 40- to 70-day-old embryos, they found
+increasing expression of 6-, 3-, and 2.3-kb FUT4 transcripts. Analysis
+of fetal tissues revealed abundant expression in liver, muscle, kidney,
+skin, and small intestine, and moderate expression in brain, lung, and
+heart. The transcript size varied in different tissues. In adult
+tissues, highest expression was found in lung and small intestine, low
+expression in kidney, liver, and brain, and no expression in 12 other
+tissues tested.
+
+GENE FUNCTION
+
+Nakayama et al. (2001) showed that FUT9 directs CD15 synthesis in
+lymphoid cells and mature granulocytes, whereas FUT4 directs CD15
+synthesis in promyelocytes and monocytes. FUT9 exhibited stronger
+activity for CD15 synthesis than FUT4.
+
+MAPPING
+
+Using human/mouse hybrid cell lines, Couillin et al. (1991) mapped a
+human alpha-3-fucosyltransferase, FUT4, to chromosome 11q. Using panels
+of somatic cell and radiation hybrids which retained different
+rearrangements of chromosome 11, Reguigne et al. (1994) assigned the
+FUT4 gene to chromosome 11q21, between D11S388 and D11S919. Using
+fluorescence in situ hybridization and a cosmid containing FUT4
+sequence, McCurley et al. (1995) confirmed the assignment of the FUT4
+gene to chromosome 11q21.
+
+Gersten et al. (1995) demonstrated that the mouse Fut4 gene maps to
+chromosome 9 in a region showing syntenic homology with human 11q.
+
+REFERENCE 1. Cailleau-Thomas, A.; Coullin, P.; Candelier, J.-J.; Balanzino,
+L.; Mennesson, B.; Oriol, R.; Mollicone, R.: FUT4 and FUT9 genes
+are expressed early in human embryogenesis. Glycobiology 10: 789-802,
+2000.
+
+2. Couillin, P.; Mollicone, R.; Grisard, M. C.; Gibaud, A.; Ravise,
+N.; Feingold, J.; Oriol, R.: Chromosome 11q localization of one of
+the three expected genes for the human alpha-3-fucosyltransferases,
+by somatic hybridization. Cytogenet. Cell Genet. 56: 108-111, 1991.
+
+3. Gersten, K. M.; Natsuka, S.; Trinchera, M.; Petryniak, B.; Kelly,
+R. J.; Hiraiwa, N.; Jenkins, N. A.; Gilbert, D. J.; Copeland, N. G.;
+Lowe, J. B.: Molecular cloning, expression, chromosomal assignment,
+and tissue-specific expression of a murine alpha-(1,3)-fucosyltransferase
+locus corresponding to the human ELAM-1 ligand fucosyl transferase. J.
+Biol. Chem. 270: 25047-25056, 1995.
+
+4. Geurts van Kessel, A.; Tetteroo, P.; van Agthoven, T.; Paulussen,
+R.; van Dongen, J.; Hagemeijer, A.; von dem Borne, A.: Localization
+of human myeloid-associated surface antigen detected by a panel of
+20 monoclonal antibodies to the q12-qter region of chromosome 11. J.
+Immun. 133: 1265-1269, 1984.
+
+5. McCurley, R. S.; Recinos, A., III; Olsen, A. S.; Gingrich, J. C.;
+Szczepaniak, D.; Cameron, H. S.; Krauss, R.; Weston, B. W.: Physical
+maps of human alpha(1,3)fucosyltransferase genes FUT3-FUT6 on chromosomes
+19p13.3 and 11q21. Genomics 26: 142-146, 1995.
+
+6. Nakayama, F.; Nishihara, S.; Iwasaki, H.; Kudo, T.; Okubo, R.;
+Kaneko, M.; Nakamura, M.; Karube, M.; Sasaki, K.; Narimatsu, H.:
+CD15 expression in mature granulocytes is determined by alpha-1,3-fucosyltransferase
+IX, but in promyelocytes and monocytes by alpha-1,3-fucosyltransferase
+IV. J. Biol. Chem. 276: 16100-16106, 2001.
+
+7. Reguigne, I.; James, M. R.; Richard, C. W., III; Mollicone, R.;
+Seawright, A.; Lowe, J. B.; Oriol, R.; Couillin, P.: The gene encoding
+myeloid alpha-3-fucosyltransferase (FUT4) is located between D11S388
+and D11S919 on 11q21. Cytogenet. Cell Genet. 66: 104-106, 1994.
+
+8. Tetteroo, P. A. T.; de Heij, H. T.; Van den Eijnden, D. H.; Visser,
+F. J.; Schoenmaker, E.; Geurts van Kessel, A. H. M.: A GDP-fucose:(Gal-beta-1-to-4)GlcNAc
+alpha-1-to-3-fucosyltransferase activity is correlated with the presence
+of human chromosome 11 and the expression of the Le(x), Le(y), and
+sialyl-Le(x) antigens in human-mouse cell hybrids. J. Biol. Chem. 262:
+15984-15989, 1987.
+
+CONTRIBUTORS Paul J. Converse - updated: 2/27/2006
+Patricia A. Hartz - updated: 4/19/2002
+
+CREATED Victor A. McKusick: 6/29/1988
+
+EDITED mgross: 03/10/2006
+terry: 2/27/2006
+carol: 4/19/2002
+alopez: 5/4/1998
+alopez: 7/10/1997
+terry: 6/18/1996
+mark: 3/11/1996
+terry: 3/6/1996
+mark: 4/21/1995
+jason: 6/9/1994
+terry: 5/13/1994
+carol: 4/20/1994
+carol: 11/4/1992
+supermim: 3/16/1992
+
+136515	TITLE *136515 FOS-LIKE ANTIGEN 1; FOSL1
+;;FOS-RELATED ANTIGEN 1; FRA1
+DESCRIPTION 
+GENE FUNCTION
+
+Osteoclasts are bone-resorbing cells derived from hematopoietic
+precursors of the monocyte-macrophage lineage. Mice lacking Fos (164810)
+develop osteopetrosis (see 166600) due to an early differentiation block
+in the osteoclast lineage. Matsuo et al. (2000) investigated the
+mechanism by which Fos exerts its specific function in osteoclast
+differentiation. They showed by retroviral-gene transfer that all 4 Fos
+proteins--Fos, FosB (164772), Fosl1, and Fosl2 (601575)--but not the Jun
+proteins (e.g., 165160), rescued the differentiation block in vitro.
+Structure-function analysis demonstrated that the major carboxy-terminal
+transactivation domains of Fos and FosB are dispensable and that Fosl1,
+which lacks transactivation domains, has the highest rescue activity.
+Moreover, a transgene expressing Fosl1 rescued the osteopetrosis of Fos
+mutant mice in vivo. The osteoclast differentiation factor Rankl
+(602642) induced transcription of Fosl1 in a Fos-dependent manner,
+thereby establishing a link between Rank signaling and the expression of
+Ap1 proteins in osteoclast differentiation.
+
+Kustikova et al. (1998) found a correlation between Fra1 expression and
+mesenchymal characteristics in cell lines of epithelial tumor origin.
+Exogenous expression of Fra1 in epithelioid cells resulted in
+morphologic changes that resembled fibroblastoid conversion, with cells
+acquiring elongated shape and increased motility and invasiveness in
+vitro. The morphologic alterations were accompanied by transcriptional
+activation of genes whose expression is often induced at late stages of
+tumor progression.
+
+MAPPING
+
+Sinke et al. (1993) applied the designation 'reverse mapping' to the
+identification of a previously known gene within a cosmid for which the
+localization was already known. For the identification of sequence
+tagged sites (STSs) within cosmid clones derived from the 11q13 region,
+they subcloned a number of single-copy BamHI fragments. In one of the
+subclones, they found a sequence that matched perfectly with the 5-prime
+end of the cDNA sequence for human FRA1. The FRA1 fragment was contained
+within a clone previously mapped to region V of a long-range contig map
+of 11q13. The localization to chromosome 11 was cross-checked by
+hybridization to a panel of somatic cell hybrids. Thus another oncogene
+was assigned to the region implicated in a number of different forms of
+malignancy.
+
+ANIMAL MODEL
+
+Eferl et al. (2004) noted that Fra1 knockout in mice results in
+embryonic death in utero, likely due to placental defects. Using
+conditional deletion, they deleted Fra1 throughout mouse embryos, but
+not in extraembryonic tissues, such as placenta. Homozygous mutant mice
+were viable, but they developed osteopenia due to reduced bone
+formation. The numbers of osteoblasts and osteoclasts were unchanged,
+although in vitro and in vivo analysis revealed severely reduced
+bone-forming activity of osteoblasts. Eferl et al. (2004) concluded that
+the defect was likely due to reduced expression of the bone matrix genes
+osteocalcin (112260), collagen-1A2 (120160), and matrix Gla protein
+(154870).
+
+REFERENCE 1. Eferl, R.; Hoebertz, A.; Schilling, A. F.; Rath, M.; Karreth, F.;
+Kenner, L.; Amling, M.; Wagner, E. F.: The Fos-related antigen Fra-1
+is an activator of bone matrix formation. EMBO J. 23: 2789-2799,
+2004.
+
+2. Kustikova, O.; Kramerov, D.; Grigorian, M.; Berezin, V.; Bock,
+E.; Lukanidin, E.; Tulchinsky, E.: Fra-1 induces morphological transformation
+and increases in vitro invasiveness and motility of epithelioid adenocarcinoma
+cells. Molec. Cell. Biol. 18: 7095-7105, 1998.
+
+3. Matsuo, K.; Owens, J. M.; Tonko, M.; Elliott, C.; Chambers, T.
+J.; Wagner, E. F.: Fosl1 is a transcriptional target of c-Fos during
+osteoclast differentiation. Nature Genet. 24: 184-187, 2000.
+
+4. Sinke, R. J.; Tanigami, A.; Nakamura, Y.; Geurts van Kessel, A.
+: Reverse mapping of the gene encoding the human fos-related antigen-1
+(fra-1) within chromosome band 11q13. Genomics 18: 165 only, 1993.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/6/2005
+Victor A. McKusick - updated: 1/28/2000
+Alan F. Scott - updated: 8/5/1997
+
+CREATED Victor A. McKusick: 10/15/1993
+
+EDITED carol: 02/09/2011
+mgross: 1/10/2005
+terry: 1/6/2005
+alopez: 1/31/2000
+terry: 1/28/2000
+mgross: 4/8/1999
+terry: 8/5/1997
+mark: 12/16/1996
+carol: 10/15/1993
+
+602284	TITLE *602284 BONE MORPHOGENETIC PROTEIN 8B; BMP8B
+;;BMP8;;
+OSTEOGENIC PROTEIN 2; OP2
+DESCRIPTION The bone morphogenetic proteins (BMPs) are a family of secreted
+signaling molecules that can induce ectopic bone growth. Many BMPs,
+including BMP8B, are part of the transforming growth factor-beta (TGFB)
+superfamily (see 190180) (Ozkaynak et al., 1992).
+
+CLONING
+
+Using a mouse Op2 probe, Ozkaynak et al. (1992) isolated a novel BMP
+cDNA, which they designated OP2, from a human hippocampus library. The
+predicted 402-amino acid OP2 protein is processed into a 139-amino acid
+mature form. In the TGFB domain, OP2 shows 74% amino acid sequence
+identity to OP1 (BMP7; 112267), and 55 to 74% identity to other BMPs. In
+mice, Northern blot analysis revealed high levels of Op2 mRNA as 3- and
+5-kb transcripts in early embryos, but no detectable levels in any
+organs studied.
+
+Using quantitative RT-PCR, Whittle et al. (2012) detected variable Bmp8b
+expression in all mouse tissues examined, with high expression in testis
+and brown adipose tissue, much lower expression in brain and
+subcutaneous white adipose tissue, and very low expression in gonadal
+white adipose tissue, liver, kidney, heart, and skeletal muscle.
+
+MAPPING
+
+By interspecific backcross analysis, DiLeone et al. (1997) mapped the
+mouse Bmp8 gene to chromosome 4. Based on homology of synteny, they
+mapped the human gene to 1p35-p32.
+
+Hartz (2012) mapped the BMP8B gene to chromosome 1p34.2 based on an
+alignment of the BMP8B sequence (GenBank GENBANK BC023526) with the
+genomic sequence (GRCh37).
+
+GENE FUNCTION
+
+Whittle et al. (2012) found that expression of Bmp8b in mice was
+upregulated by refeeding after fasting and by activation of thermogenic
+responses. Reporter gene assays revealed that the Bmp8b promoter could
+be induced by thermogenic thyroid hormone receptor beta-1 (THRB; 190160)
+and by PPAR-alpha (PPARA; 170998) or PPAR-gamma (PPARG; 601487).
+Treatment of mouse brown adipocytes with recombinant human BMP8B
+increased Smad (see 601595) phosphorylation and activation of
+hormone-sensitive lipase (LIPE; 151750) and AMPK (see 602739). BMP8B
+increased the lipolytic response to norepinephrine, and inhibition of
+Alk7 (ACVR1C; 608981) antagonized this effect.
+
+ANIMAL MODEL
+
+Whittle et al. (2012) reported that Bmp8b -/- mice were viable and
+healthy but infertile due to defective primordial germ cell formation. A
+significant number of Bmp8b -/- pups suffered early death, but survival
+increased in a warm environment. Bmp8b -/- mice were prone to weight
+gain, particularly on a high fat diet, and they showed reduced core body
+temperature and impaired adrenergic-dependent thermogenic capacity.
+Intracerebroventricular treatment of Bmp8b -/- mice with recombinant
+human BMP8B resulted in marked weight loss and increased core body
+temperature. The central thermogenic action of BMP8B was dependent upon
+activation levels of hypothalamic Ampk. Whittle et al. (2012) concluded
+that BMP8B has a fundamental role in energy balance regulation in both
+the hypothalamus and brown adipose tissue.
+
+REFERENCE 1. DiLeone, R. J.; King, J. A.; Storm, E. E.; Copeland, N. G.; Jenkins,
+N. A.; Kingsley, D. M.: The Bmp8 gene is expressed in developing
+skeletal tissue and maps near the achondroplasia locus on mouse chromosome
+4. Genomics 40: 196-198, 1997.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/19/2012.
+
+3. Ozkaynak, E.; Schnegelsberg, P. N. J.; Jin, D. F.; Clifford, G.
+M.; Warren, F. D.; Drier, E. A.; Oppermann, H.: Osteogenic protein-2:
+a new member of the transforming growth factor-beta superfamily expressed
+in early embryogenesis. J. Biol. Chem. 267: 25220-25227, 1992.
+
+4. Whittle, A. J.; Carobbio, S.; Martins, L.; Slawik, M.; Hondares,
+E.; Vazquez, M. J.; Morgan, D.; Csikasz, R. I.; Gallego, R.; Rodriguez-Cuenca,
+S.; Dale, M.; Virtue, S.; Villarroya, F.; Cannon, B.; Rahmouni, K.;
+Lopez, M.; Vidal-Puig, A.: BMP8B increases brown adipose tissue thermogenesis
+through both central and peripheral actions. Cell 149: 871-885,
+2012.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/19/2012
+
+CREATED Rebekah S. Rasooly: 1/27/1998
+
+EDITED mgross: 11/13/2012
+mgross: 11/8/2012
+terry: 10/19/2012
+alopez: 3/4/1998
+carol: 1/30/1998
+carol: 1/28/1998
+
+614240	TITLE *614240 FAMILY WITH SEQUENCE SIMILARITY 109, MEMBER B; FAM109B
+;;SESQUIPEDALIAN, DROSOPHILA, HOMOLOG OF, 2; SES2;;
+INOSITOL POLYPHOSPHATE PHOSPHATASE-INTERACTING PROTEIN, 27-KD, B;
+IPIP27B
+DESCRIPTION 
+DESCRIPTION
+
+FAM109A (614239) and FAM109B regulate endosomal trafficking and link
+OCRL (300535) to the recycling of receptors at sorting and recycling
+endosomes (Noakes et al., 2011).
+
+CLONING
+
+By scanning the literature, Swan et al. (2010) identified a Drosophila
+protein as a candidate interactor of Ocrl. They named the Drosophila
+protein Ses, short for sesquipedalian, meaning an unnecessarily long
+description of a simple thing. Database analysis revealed conservation
+of Ses from invertebrates to humans. In the same way that the
+invertebrate Ocrl gene is duplicated in vertebrates to produce OCRL and
+INPP5B (147264), the single Ses gene in invertebrates is duplicated in
+vertebrates to produce FAM109A and FAM109B, which Swan et al. (2010)
+called SES1 and SES2, respectively. The N-terminal portion of SES1 and
+SES2 contains a pleckstrin (PLEK; 173570) homology (PH) domain followed
+by a coiled-coil domain. The less conserved C-terminal portion of SES1
+and SES2 is primarily unfolded and contains multiple SRC (190090)
+homology-3 (SH3) domain-binding PxxP motifs. Immunofluorescence
+microscopy of transfected COS-7 cells demonstrated colocalization of
+human SES1 and SES2 with human OCRL in endosomes and in larger vesicles
+expressing EEA1 (605070) and WDFY2 (610418).
+
+Noakes et al. (2011) reported that the human FAM109B protein, which they
+called IPIP27B, contains 259 amino acids. Immunofluorescence microscopy
+of transfected human TERT-RPE1 cells demonstrated localization of
+IPIP27B and IPIP27A (FAM109A) to recycling endosomes and to the
+trans-Golgi network (TGN).
+
+GENE FUNCTION
+
+Using coimmunoprecipitation and pull-down experiments in COS-7 cells and
+rat brain extracts, Swan et al. (2010) found that the C termini of human
+SES1 and SES2 interacted with the ASH-RhoGAP-like domains of OCRL and
+INPP5B. Mutation analysis showed that SES proteins interacted with OCRL
+via a conserved C-terminal motif similar to that of another OCRL-binding
+protein, APPL1 (604299). Swan et al. (2010) termed this motif the F&H
+motif and found that a conserved phenylalanine was critical for OCRL
+binding. Pull-down experiments in mouse brain extracts and transfected
+COS-7 cells showed that missense mutations in OPRL that disrupted
+binding to APPL1 in patients with Lowe syndrome (309000) or Dent
+disease-2 (300555) also abolished binding of OCRL to SES1 and SES2. In
+addition, APPL1 and the SES proteins could not simultaneously bind to
+OCRL. Confocal microscopy suggested that APPL1 and the SES proteins
+associated sequentially with endosomes and that the SES proteins
+localized to phosphatidylinositol 3-phosphate-positive vesicles. Swan et
+al. (2010) proposed that Lowe syndrome and Dent disease-2 result from
+perturbations at multiples sites within the endocytic pathway.
+
+By yeast 2-hybrid analysis, pull-down assays, and native
+coimmunoprecipitation experiments in HeLa cells, Noakes et al. (2011)
+confirmed that the C termini of IPIP27A and IPIP27B bound the C-terminal
+ASH and RhoGAP-like domains of OCRL1 and INPP5B. IPIP27A and IPIP27B
+also formed homo- and heterodimers. Similar to the results of Swan et
+al. (2010), Noakes et al. (2011) found that mutations in OCRL1
+associated with Lowe syndrome abolished interaction with IPIP27A and
+IPIP27B. Depletion of IPIP27A and/or IPIP27B via RNA interference in
+HeLa cells caused enlargement of early endosomes, disrupted recycling of
+transferrin receptor (TFRC; 190010), impaired the transfer of CIMPR
+(IGF2R; 147280) from endosomes to the TGN, and caused missorting of
+lysosomal hydrolases. Noakes et al. (2011) proposed that IPIP27A and
+IPIP27B are key players in endocytic trafficking and that defects in
+this process are responsible for the pathology of Lowe syndrome and Dent
+disease-2.
+
+MAPPING
+
+Gross (2011) mapped the FAM109B gene to chromosome 22q13.2 based on an
+alignment of the FAM109B sequence (GenBank GENBANK BC104176) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  9/21/2011.
+
+2. Noakes, C. J.; Lee, G.; Lowe, M.: The PH domain proteins IPIP27A
+and B link OCRL1 to receptor recycling in the endocytic pathway. Molec.
+Biol. Cell 22: 606-623, 2011.
+
+3. Swan, L. E.; Tomasini, L.; Pirruccello, M.; Lunardi, J.; De Camilli,
+P.: Two closely related endocytic proteins that share a common OCRL-binding
+motif with APPL1. Proc. Nat. Acad. Sci. 107: 3511-3516, 2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 09/21/2011
+
+CREATED Paul J. Converse: 9/21/2011
+
+EDITED mgross: 09/21/2011
+
+180231	TITLE *180231 RETINOIC ACID-BINDING PROTEIN, CELLULAR, TYPE II; CRABP2
+DESCRIPTION CRABP2 is highly expressed in human skin. Giguere et al. (1990) isolated
+a cDNA encoding mouse Crabp-2 by a low stringency cloning strategy using
+a probe from previously cloned CRABP1 cDNA (180230). MacGregor et al.
+(1992) determined the genomic organization of the murine Crabp-2 gene
+and performed a detailed analysis of its transcriptional unit. It was
+shown to be approximately 4.6 kb long and divided into 4 exons in a
+structure common to other members of the family of serum and cellular
+retinoid-binding proteins. The chromosomal location of the Crabp-2 locus
+was determined by interspecific backcross analysis using progeny derived
+from matings of C57BL/6J and M. spretus. Mapping results indicated that
+the gene is located on mouse chromosome 2 linked to muscle nicotinic
+acetylcholine receptor alpha-chain (Acra) and catalase-1 (Cas-1).
+MacGregor et al. (1992) suggested that the human homolog is located on
+2q or 11p. Elder et al. (1992) localized the CRABP2 gene to 1q21 by
+fluorescence in situ hybridization. Localization was confirmed by
+hybridization of a CRABP2 cDNA clone against a human/mouse hybrid cell
+line containing a t(1;6)(q21;q13) translocation chromosome.
+
+Flagiello et al. (1997) mapped CRABP2 to 1q21.3 by fluorescence in situ
+hybridization.
+
+REFERENCE 1. Elder, J. T.; Astrom, A.; Pettersson, U.; Voorhees, J. J.; Trent,
+J. M.: Assignment of the human CRABP-II gene to chromosome 1q21 by
+nonisotopic in situ hybridization. Hum. Genet. 89: 487-490, 1992.
+
+2. Flagiello, D.; Apiou, F.; Gibaud, A.; Poupon, M. F.; Dutrillaux,
+B.; Malfoy, B.: Assignment of the genes for cellular retinoic acid
+binding protein 1 (CRABP1) and 2 (CRABP2) to human chromosome band
+15q24 and 1q21.3, respectively, by in situ hybridization. Cytogenet.
+Cell Genet. 76: 17-18, 1997.
+
+3. Giguere, V.; Lyn, S.; Yip, P.; Siu, C.-H.; Amin, S.: Molecular
+cloning of cDNA encoding a second cellular retinoic acid-binding protein. Proc.
+Nat. Acad. Sci. 87: 6233-6237, 1990.
+
+4. MacGregor, T. M.; Copeland, N. G.; Jenkins, N. A.; Giguere, V.
+: The murine gene for cellular retinoic acid-binding protein type
+II: genomic organization, chromosomal localization, and post-transcriptional
+regulation by retinoic acid. J. Biol. Chem. 267: 7777-7783, 1992.
+
+CONTRIBUTORS Victor A. McKusick - updated: 6/19/1997
+
+CREATED Victor A. McKusick: 6/15/1992
+
+EDITED jenny: 06/23/1997
+mark: 6/19/1997
+carol: 4/7/1993
+carol: 9/18/1992
+carol: 6/19/1992
+carol: 6/15/1992
+
+612969	TITLE *612969 TIGGER TRANSPOSABLE ELEMENT-DERIVED GENE 7; TIGD7
+;;SANCHO
+DESCRIPTION 
+DESCRIPTION
+
+DNA transposons, such as Tiggers, are repetitive elements that move in
+the genome by excision and reintegration without an RNA intermediate.
+TIGD7 belongs to a family of genes derived from Tiggers (Smit and Riggs,
+1996; Dou et al., 2004). For further information on Tiggers, see TIGD1
+(612972).
+
+CLONING
+
+By sequencing clones obtained from a fetal brain cDNA library, Dou et
+al. (2004) cloned full-length TIGD7. The deduced 511-amino acid protein
+has a calculated molecular mass of 55.6 kD. Like other Tigger subfamily
+proteins, TIGD7 contains a DDE domain, which is involved in catalysis of
+DNA cleavage and the subsequent strand transfer reaction, and CENPBN and
+CENPB domains, which are involved in DNA binding. PCR analysis detected
+TIGD7 in all tissues examined, with highest expression in testis and
+ovary. Database analysis suggested the existence of TIGD7 splice
+variants.
+
+GENE STRUCTURE
+
+Dou et al. (2004) determined that the TIGD7 gene contains 2 exons and
+spans 11.2 kb.
+
+MAPPING
+
+By genomic sequence analysis, Dou et al. (2004) mapped the TIGD7 gene to
+chromosome 16p13.
+
+REFERENCE 1. Dou, T.; Gu, S.; Zhou, Z.; Ji, C.; Zeng, L.; Ye, X.; Xu, J.; Ying,
+K.; Xie, Y.; Mao, Y.: Isolation and characterization of a Jerky and
+JRK/JH8 like gene, Tigger transposable element derived 7, TIGD7. Biochem.
+Genet. 42: 279-285, 2004.
+
+2. Smit, A. F. A.; Riggs, A. D.: Tiggers and other DNA transposon
+fossils in the human genome. Proc. Nat. Acad. Sci. 93: 1443-1448,
+1996.
+
+CREATED Patricia A. Hartz: 8/19/2009
+
+EDITED mgross: 08/20/2009
+mgross: 8/19/2009
+
+606887	TITLE *606887 SULFITE OXIDASE; SUOX
+DESCRIPTION Sulfite oxidase (EC 1.8.3.1) is the terminal enzyme in the oxidative
+degradation pathway of sulfur-containing amino acids.
+
+CLONING
+
+Garrett et al. (1995) isolated a 2.4-kb cDNA clone of human sulfite
+oxidase from a human liver cDNA library. The deduced 488-amino acid
+protein has a molecular mass of approximately 52 kD and shows 88%
+homology to the rat protein and 67% homology to the chicken protein.
+Comparison of 3 sulfite oxidase sequences to several plant and fungal
+nitrate reductase sequences revealed a single conserved cysteine with
+highly conserved flanking sequences. Garrett et al. (1995) postulated
+that the conserved cysteine is a ligand of molybdenum in sulfite oxidase
+and nitrate reductase.
+
+BIOCHEMICAL FEATURES
+
+Kisker et al. (1997) determined the crystal structure of chicken liver
+sulfite oxidase, which is homologous to the human protein, at
+1.9-angstrom resolution. They found that each monomer of the dimeric
+enzyme consists of 3 domains. At the active site, the Mo is
+penta-coordinated by 3 sulfur ligands, 1 oxo group, and 1 water/hydroxo.
+A sulfate molecule adjacent to the Mo identifies the substrate binding
+pocket.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the sulfite
+oxidase gene to chromosome 12 (TMAP sts-AA026389).
+
+MOLECULAR GENETICS
+
+Kisker et al. (1997) characterized 4 missense mutations in the SUOX gene
+(606887.0001-606887.0004) in cell lines from patients with isolated
+sulfite oxidase deficiency (272300). The crystallographic results
+predicted that 2 of these mutations (arg160 to gln, 606887.0001 and
+ala208 to asp, 606887.0002) are near the sulfate-binding site, whereas
+the other mutations (ser370 to tyr, 606887.0003 and gly473 to asp,
+606887.0004) occur within the domain mediating dimerization.
+
+Johnson et al. (2002) identified 12 novel mutations in the SUOX gene in
+patients with isolated sulfite oxidase deficiency. These included 2
+frameshift mutations, 2 homozygous nonsense mutations, and 8 missense
+mutations.
+
+Seidahmed et al. (2005) identified a 1-bp deletion in the SUOX gene
+(606887.0005) in a male infant with isolated sulfite oxidase deficiency.
+
+ALLELIC VARIANT .0001
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, ARG160GLN
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+479 of the cDNA of liver sulfite oxidase, resulting in an arg-to-gln
+substitution at amino acid residue 160 (R160Q).
+
+The R160Q mutation was identified by Garrett et al. (1998) in a
+5-year-old girl with sulfite oxidase deficiency born of first-cousin
+parents of Dutch descent. Recombinant protein containing the R160Q
+mutation, expressed in Escherichia coli, contained its full complement
+of molybdenum and heme, but exhibited 2% of native activity under
+standard assay conditions. Absorption spectroscopy of the isolated
+molybdenum domains of native sulfite oxidase and of the R160Q mutant
+showed significant differences in the 480- and 350-nm absorption bands,
+suggestive of altered geometry at the molybdenum center. Other studies
+led to the proposal that under normal circumstances arg160 attracts the
+anionic substrate sulfite to the binding site near the molybdenum.
+
+.0002
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, ALA208ASP
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a C-to-A substitution at nucleotide
+623 of the cDNA of liver sulfite oxidase, resulting in an ala-to-asp
+substitution at amino acid 208.
+
+.0003
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, SER370TYR
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+1109 of the cDNA of liver sulfite oxidase, resulting in a ser-to-tyr
+substitution at amino acid 370.
+
+.0004
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, GLY473ASP
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+1418 of the cDNA of liver sulfite oxidase, resulting in a gly-to-asp
+substitution at amino acid 473.
+
+.0005
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, 1-BP DEL, 1244G
+
+In a male infant with isolated sulfite oxidase deficiency (272300) from
+a consanguineous Arab family, Seidahmed et al. (2005) identified
+homozygosity for a 1-bp deletion (1244delG) in the SUOX gene, predicting
+a frameshift at amino acid 117 and resulting in a mutant protein of only
+128 amino acids with total truncation of the molybdopterin and
+dimerizing domains. The parents and 1 unaffected sib were heterozygous
+for the deletion.
+
+REFERENCE 1. Garrett, R. M.; Bellissimo, D. B.; Rajagopalan, K. V.: Molecular
+cloning of human liver sulfite oxidase. Biochim. Biophys. Acta 1262:
+147-149, 1995.
+
+2. Garrett, R. M.; Johnson, J. L.; Graf, T. N.; Feigenbaum, A.; Rajagopalan,
+K. V.: Human sulfite oxidase R160Q: identification of the mutation
+in a sulfite oxidase-deficient patient and expression and characterization
+of the mutant enzyme. Proc. Nat. Acad. Sci. 95: 6394-6398, 1998.
+
+3. Johnson, J. L.; Coyne, K. E.; Garrett, R. M.; Zabot, M.-T.; Dorche,
+C.; Kisker, C.; Rajagopalan, K. V.: Isolated sulfite oxidase deficiency:
+identification of 12 novel SUOX mutations in 10 patients.(Abstract) Hum.
+Mutat. 20: 74 only, 2002.
+
+4. Kisker, C.; Schindelin, H.; Pacheco, A.; Wehbi, W. A.; Garrett,
+R. M.; Rajagopalan, K. V.; Enemark, J. H.; Rees, D. C.: Molecular
+basis of sulfite oxidase deficiency from the structure of sulfite
+oxidase. Cell 91: 973-983, 1997.
+
+5. Seidahmed, M. Z.; Alyamani, E. A.; Rashed, M. S.; Saadallah, A.
+A.; Abdelbasit, O. B.; Shaheed, M. M.; Rasheed, A.; Hamid, F. A.;
+Sabry, M. A.: Total truncation of the molybdopterin/dimerization
+domains of SUOX protein in an Arab family with isolated sulfite oxidase
+deficiency. Am. J. Med. Genet. 136A: 205-209, 2005.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/28/2005
+Victor A. McKusick - updated: 8/27/2002
+
+CREATED Cassandra L. Kniffin: 4/26/2002
+
+EDITED wwang: 01/03/2006
+terry: 12/28/2005
+tkritzer: 9/10/2002
+tkritzer: 8/29/2002
+terry: 8/27/2002
+carol: 5/8/2002
+ckniffin: 5/8/2002
+
+613486	TITLE *613486 MICRO RNA 33B; MIR33B
+;;miRNA33B;;
+MIRN33B
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs) are a class of noncoding RNA genes whose final
+product is an approximately 22-nucleotide functional RNA molecule. They
+play important roles in the regulation of target genes by binding to
+complementary regions of messenger transcripts to repress their
+translation or regulate degradation (summary by Griffiths-Jones et al.,
+2006).
+
+Two genes encoding miR33 isoforms exist in humans: miR33B, which is
+present in intron 17 of the SREBP1 (184756) gene on chromosome 17, and
+miR33A (612156), which is located in intron 16 of the SREBP2 (600481)
+gene on chromosome 22. In mice, however, there is only 1 miR33 gene,
+which is conserved with human miR33A, located within intron 15 of the
+mouse Srebp2 gene. The mature miR33A and miR33B miRNAs differ at only 2
+nucleotides. One of the targets of both miR33A and miR33B is the
+cholesterol transporter ABCA1 (600046) (Najafi-Shoushtari et al., 2010).
+
+CLONING
+
+During an investigation of gene regulation by sterol regulatory
+element-binding proteins (SREBPs), Najafi-Shoushtari et al. (2010)
+identified the miR33B gene within intron 17 of the SREBP1 gene.
+Najafi-Shoushtari et al. (2010) gave the sequence of mature miR33B as
+GUGCAUUGCUGUUGCAUUGC. Using quantitative RT-PCR, they found that miR33B
+was expressed in all human tissues examined, with highest levels in
+brain, ovary, liver, prostate, heart, and cervix. Najafi-Shoushtari et
+al. (2010) noted that miR33B appeared to be coexpressed with its host
+gene, SREBP1.
+
+MAPPING
+
+The MIR33B gene resides on chromosome 17p11.2, within intron 17 of the
+SREBP1 gene (Najafi-Shoushtari et al., 2010).
+
+GENE FUNCTION
+
+The sterol regulatory element-binding proteins SREBP1 and SREBP2 are key
+transcription regulators of genes involved in cholesterol biosynthesis
+and uptake. Najafi-Shoushtari et al. (2010) demonstrated that miRNA33A
+and miRNA33B, embedded within introns of the SREBP2 and SREBP1 genes,
+respectively, target adenosine triphosphate-binding cassette transporter
+A1 (ABCA1), an important regulator of high density lipoprotein (HDL)
+synthesis and reverse cholesterol transport, for posttranscriptional
+repression. Antisense inhibition of miRNA33 in mouse and human cell
+lines caused upregulation of ABCA1 expression and increased cholesterol
+efflux, and injection of mice on a western-type diet with locked nucleic
+acid-antisense oligonucleotides resulted in elevated plasma HDL.
+Najafi-Shoushtari et al. (2010) concluded that miRNA33 acts in concert
+with the SREBP host genes to control cholesterol homeostasis.
+
+MiR33A and miR33B are intronic miRNAs whose encoding regions are
+embedded in the sterol response element-binding protein genes SREBF2 and
+SREBF1, respectively. These miRNAs repress expression of the cholesterol
+transporter ABCA1, which is a key regulator of HDL biogenesis. Studies
+in mice suggested that antagonizing miR33a may be an effective strategy
+for raising plasma HDL levels and providing protection against
+atherosclerosis; however, extrapolating these findings to humans is
+complicated by the fact that mice lack miR33b, which is present only in
+the SREBF1 gene of medium and large mammals. Rayner et al. (2011) showed
+in African green monkeys that systemic delivery of an anti-miRNA
+oligonucleotide that targets both miR33a and miR33b increased hepatic
+expression of ABCA1 and induced a sustained increase in plasma HDL
+levels over 12 weeks. Notably, miR33 antagonism in this nonhuman primate
+model also increased the expression of miR33 target genes involved in
+fatty acid oxidation (CROT, 606090; CPT1A, 600528; HADHB, 143450; and
+PRKAA1, 602739) and reduced the expression of genes involved in fatty
+acid synthesis (SREBF1; FASN, 600212; ACLY, 108728; and ACACA, 200350),
+resulting in a marked suppression of the plasma levels of very low
+density lipoprotein (VLDL)-associated triglycerides, a finding that had
+not previously been observed in mice. Rayner et al. (2011) concluded
+that their results established, in a model that is highly relevant to
+humans, that pharmacologic inhibition of miR33a and miR33b is a
+promising therapeutic strategy to raise plasma HDL and lower VLDL
+triglyceride levels for the treatment of dyslipidemias that increase
+cardiovascular disease risk.
+
+EVOLUTION
+
+Brown et al. (2010) noted that the miR33A/B genes exhibit a remarkable
+degree of evolutionary conservation. The precursor for mature miR33A is
+found within the same intron of SREBP2 from many animal species,
+including large and small mammals, chickens, and frogs. There is even a
+perfectly conserved mature form of miR33A in the single SREBP-like gene
+of the fruit fly Drosophila melanogaster. The latter is most remarkable
+because insects do not synthesize sterols; their single SREBP gene
+controls fatty acid production. Moreover, the fruit fly genome does not
+contain ABCA1. In contrast to the uniform conservation of miR33A in
+SREBP2, there is a gap in the evolutionary conservation of miR33B in
+SREBP1. The SREBP1 genes from large mammals encode miR33B, but there is
+no trace of miR33b in the Srebp1 genes of small mammals (rats and mice)
+or chickens.
+
+REFERENCE 1. Brown, M. S.; Ye, J.; Goldstein, J. L.: HDL miR-ed down by SREBP
+introns. Science 328: 1495-1496, 2010.
+
+2. Griffiths-Jones, S.; Grocock, R. J.; van Dongen, S.; Bateman, A.;
+Enright, A. J.: miRBase: microRNA sequences, targets and gene nomenclature. Nucleic
+Acids Res. 34: D140-D144, 2006.
+
+3. Najafi-Shoushtari, S. H.; Kristo, F.; Li, Y.; Shioda, T.; Cohen,
+D. E.; Gerszten, R. E.; Naar, A. M.: MicroRNA-33 and the SREBP host
+genes cooperate to control cholesterol homeostasis. Science 328:
+1566-1569, 2010.
+
+4. Rayner, K. J.; Esau, C. C.; Hussain, F. N.; McDaniel, A. L.; Marshall,
+S. M.; van Gils, J. M.; Ray, T. D.; Sheedy, F. J.; Goedeke, L.; Liu,
+X.; Khatsenko, O. G.; Kaimal, V.; Lees, C. J.; Fernandez-Hernando,
+C.; Fisher, E. A.; Temel, R. E.; Moore, K. J.: Inhibition of miR-33a/b
+in non-human primates raises plasma HDL and lowers VLDL triglycerides. Nature 478:
+404-407, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/29/2011
+
+CREATED Anne M. Stumpf: 7/15/2010
+
+EDITED alopez: 03/08/2012
+alopez: 12/1/2011
+terry: 11/29/2011
+terry: 12/8/2010
+mgross: 7/16/2010
+alopez: 7/16/2010
+

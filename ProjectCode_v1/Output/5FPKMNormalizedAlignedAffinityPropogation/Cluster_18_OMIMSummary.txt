@@ -1,0 +1,40 @@
+615150	TITLE *615150 MICRO RNA 191; MIR191
+;;miRNA191
+DESCRIPTION 
+DESCRIPTION
+
+Micro RNAs (miRNAs), such as MIR191, are conserved small noncoding RNAs
+that bind to complementary sequences in the 3-prime UTRs of target
+mRNAs, inhibiting their translation and/or inducing their degradation
+(Lena et al., 2012).
+
+GENE FUNCTION
+
+Using microarray analysis, Lena et al. (2012) found that MIR191 was
+significantly upregulated in normal human neonatal epidermal
+keratinocytes (HEKn) following development of senescence in culture.
+Bioinformatic analysis and reporter gene assays revealed functional
+MIR191 target sequences in the 3-prime UTRs of transcripts for the cell
+cycle regulator CDK6 (603368) and the AT-rich binding protein SATB1
+(602075). Western blot analysis confirmed that ectopic expression of
+MIR191 in HEKn cells caused downregulation of SATB1 and CDK6,
+concomitant with decreased cell proliferation and expression of
+senescence markers.
+
+MAPPING
+
+Hartz (2013) mapped the MIR191 gene to chromosome 3p21.31 based on an
+alignment of the mature MIR191 sequence (CAACGGAAUCCCAAAAGCAGCUG) with
+the genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  3/22/2013.
+
+2. Lena, A. M.; Mancini, M.; Rivetti di Val Cervo, P.; Saintigny,
+G.; Mahe, C.; Melino, G.; Candi, E.: MicroRNA-191 triggers keratinocytes
+senescence by SATB1 and CDK6 downregulation. Biochem. Biophys. Res.
+Commun. 423: 509-514, 2012.
+
+CREATED Patricia A. Hartz: 3/28/2013
+
+EDITED mgross: 03/28/2013
+

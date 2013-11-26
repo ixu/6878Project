@@ -1,0 +1,281 @@
+611794	TITLE *611794 MICRO RNA 369; MIR369
+;;miRNA369;;
+MIRN369;;
+MIR369-3p; MIR369-3
+MICRO RNA 369-5p, INCLUDED; MIR369-5p, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs are small noncoding RNAs that recruit an Argonaute (AGO)
+protein complex to a complementary target mRNA, which results in
+translation repression or degradation of the mRNA. The MIR369 precursor
+stem-loop sequence encodes 2 mature miRNAs, MIR369-5p and MIR369-3p,
+from its 5-prime and 3-prime ends, respectively (Altuvia et al., 2005;
+Vasudevan et al., 2007).
+
+CLONING
+
+By database and sequence analysis, Altuvia et al. (2005) identified
+MIR369-5p and MIR369-3p, which lie on the 5-prime and 3-prime ends,
+respectively, of the MIR369 precursor stem-loop structure. They cloned
+MIR369-5p and MIR369-3p from a pituitary gland cDNA library.
+
+Vasudevan et al. (2007) identified MIR369-3p, which they called
+MIR369-3, as a microRNA with a seed region complementary to the AU-rich
+element (ARE) of tumor necrosis factor-alpha (TNFA; 191160). The mature
+MIR369-3p sequence is AAUAAUACAUGGUUGAUCUUU.
+
+GENE FUNCTION
+
+AU-rich elements (AREs) and microRNA target sites are conserved
+sequences in mRNA 3-prime UTRs that control gene expression
+posttranscriptionally. Upon cell cycle arrest, the ARE in tumor necrosis
+factor-alpha (TNFA; 191160) mRNA is transformed into a translation
+activation signal, recruiting Argonaute (AGO; see 606228) and fragile X
+mental retardation-related protein-1 (FXR1; 600819), factors associated
+with microribonucleoproteins (microRNPs). Vasudevan et al. (2007) showed
+that human MIR369-3p directs association of these proteins with the AREs
+to activate translation. Furthermore, Vasudevan et al. (2007) documented
+that 2 well-studied microRNAs, Let7 (see 605386) and the synthetic
+microRNA miRcxcr4, likewise induced translation upregulation of target
+mRNAs on cell cycle arrest, yet they repressed translation in
+proliferating cells. Thus, Vasudevan et al. (2007) concluded that
+activation is a common function of microRNPs on cell cycle arrest. They
+proposed that translation regulation by microRNPs oscillates between
+repression and activation during the cell cycle.
+
+MAPPING
+
+By genomic sequence analysis, Altuvia et al. (2005) mapped the MIR369
+gene within a miRNA cluster on chromosome 14 that includes MIR409
+(614057).
+
+Gross (2011) mapped the MIR369 gene to chromosome 14q32.31 based on an
+alignment of the MIR369 stem-loop sequence
+(UUGAAGGGAGAUCGACCGUGUUAUAUUCGCUUUAUUGACUUCGAAUAAUACAUGGUUGAUCUUUUCUCAG)
+with the genomic sequence (GRCh37).
+
+REFERENCE 1. Altuvia, Y.; Landgraf, P.; Lithwick, G.; Elefant, N.; Pfeffer,
+S.; Aravin, A.; Brownstein, M. J.; Tuschl, T.; Margalit, H.: Clustering
+and conservation patterns of human microRNAs. Nucleic Acids Res. 33:
+2697-2706, 2005.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  6/22/2011.
+
+3. Vasudevan, S.; Tong, Y.; Steitz, J. A.: Switching from repression
+to activation: microRNAs can up-regulate translation. Science 318:
+1931-1934, 2007.
+
+CONTRIBUTORS Matthew B. Gross - updated: 06/22/2011
+
+CREATED Ada Hamosh: 2/14/2008
+
+EDITED mgross: 06/22/2011
+alopez: 2/14/2008
+
+610566	TITLE *610566 MICRO RNA 146A; MIR146A
+;;miRNA146A;;
+MIRN146A
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIRN146A, are an evolutionarily conserved
+class of endogenous 22-nucleotide noncoding RNAs involved in
+posttranscriptional gene repression. In animals, miRNAs are processed
+from long primary transcripts through a 60-bp hairpin precursor step
+into mature forms by sequential cutting with 2 RNase III enzymes, Drosha
+(RNASEN; 608828) and Dicer (606241). Mature miRNAs are then loaded onto
+the ribonucleoprotein complex dubbed RISC (RNA-induced silencing
+complex), where they guide recognition and translational repression or
+degradation of target mRNAs (summary by Taganov et al., 2006).
+
+CLONING
+
+Taganov et al. (2006) stated that the human genome contains 2 miRNA146
+genes, MIRN146A and MIRN146B (610567), on chromosomes 5 and 10,
+respectively. They determined that MIRN146A is located within exon 2 of
+the LOC285628 gene. The primary LOC285628 transcript contains no
+significant ORF, suggesting it belongs to a class of noncoding RNAs.
+Using RACE, Taganov et al. (2006) found that the MIRN146A primary
+transcript contains 2,337 bp. The mature products of MIRN146A and
+MIRN146B differ by only 2 nucleotides in the 3-prime region.
+
+Using quantitative real-time PCR, Sonkoly et al. (2007) found ubiquitous
+but variable miR146A expression in human tissues. In skin, miR146A was
+preferentially expressed in immune cells, with highest level in CD4
+(186940)-positive/CD25 (IL2RA; 147730)-positive T cells, but was absent
+from keratinocytes and dermal fibroblasts.
+
+GENE FUNCTION
+
+By expression profiling, Taganov et al. (2006) found that the mature
+forms of MIRN132 (610016), MIRN155 (609337), MIRN146A, and MIRN146B were
+induced in a monocyte cell line following exposure to lipopolysaccharide
+(LPS). Promoter analysis of MIRN146A revealed that transcription
+following LPS, TNF (191160), or IL1B (147720) exposure was dependent on
+NFKB (see 164011). Luciferase reporter analysis suggested that sequences
+in the 3-prime UTRs of TRAF6 (602355) and IRAK1 (300283) may basepair
+with MIRN146A and MIRN146B. Taganov et al. (2006) proposed that MIRN146A
+and MIRN146B may function as negative regulators of Toll-like receptors
+and cytokine signaling by downregulating IRAK1 and TRAF6 protein levels.
+
+Using microarray analysis and quantitative real-time PCR, Sonkoly et al.
+(2007) found that expression of miR146A was upregulated in psoriasis
+(see 177900), but not in atopic eczema (see 603165), compared with
+normal human skin.
+
+Using microarray and Northern blot analysis, Chang et al. (2008) showed
+that MIRN146A was among several miRNAs downregulated by MYC (190080) in
+mouse and human B-cell lymphoma cell lines. MYC bound the MIRN146A
+upstream region.
+
+Using DNA arrays and Northern blot analysis, Lukiw et al. (2008) found
+that the expression of MIR146A was significantly upregulated in
+Alzheimer disease (AD; 104300) neocortex and hippocampus compared with
+normal control tissue. They identified a putative MIR146A-binding site
+in the 3-prime UTR of CFH (134370), and confirmed that the expression of
+CFH was downregulated in AD brain compared with controls. Upregulation
+of MIR146A and downregulation of CFH was also found in stressed primary
+human neuronal/glial cell cocultures, which is a model of AD. They
+further found that MIR146A was upregulated by NF-kappa-B (see 164011)
+and concluded that NF-kappa-B-sensitive MIR146A modulates the expression
+of CFH as part of the inflammatory response in AD brain.
+
+One of the most common subtypes of myelodysplastic syndrome (MDS), 5q-
+syndrome (153550), is characterized by an isolated interstitial deletion
+of chromosome 5q, severe anemia, variable neutropenia, and normal or
+high platelet counts with dysplastic megakaryocytes. Starczynowski et
+al. (2010) postulated that loss of miRNAs encoded within the common
+deleted region in 5q- syndrome may result in haploinsufficiency due to
+loss of inhibition of their targets. They found that expression of
+MIR145 (611795) and MIR146A was reduced in MDS patients with deletion of
+chromosome 5q. Loss of both MIR145 and MIR146A resulted in activation of
+innate immune signaling due to elevated expression of their respective
+targets, TIRAP (606252) and TRAF6. Knockdown of both Mir145 and Mir146a
+or overexpression of Traf6 in mouse hematopoietic stem/progenitor cells
+(HSPCs) recapitulated several features of 5q- syndrome, including
+thrombocytosis, mild neutropenia, and megakaryocytic dysplasia.
+Starczynowski et al. (2010) concluded that inappropriate activation of
+innate immune signals in HSPCs due to loss of miRNA-mediated inhibition
+is involved in several features of 5q- syndrome.
+
+Using RT-PCR analysis, Curtale et al. (2010) found that expression of
+MIR146A was low in human naive T cells, but that it was abundant in
+memory T cells, with induction initiated by T-cell receptor (TCR; see
+186880) stimulation. Binding sites for NF-kappa-B and ETS (see 164720)
+in the MIR146A promoter were required for induction of MIR146A
+transcription upon TCR engagement. MIR146A modulated activation-induced
+cell death by acting as an antiapoptotic factor, and it targeted FADD
+(602457). AP1 (165160) activity and IL2 (147680) production were
+impaired by MIR146A expression. Curtale et al. (2010) concluded that
+several signaling pathways other than inflammation are influenced by
+MIR146A.
+
+Using mice lacking Tlr4 (603030) or the essential TLR signaling molecule
+Irak1, Chassin et al. (2010) demonstrated that Mir146a mediated
+translational repression and proteolytic degradation of Irak1, which was
+sufficient to induce intestinal epithelial innate immune tolerance and
+provide protection from bacteria-induced epithelial damage in neonates.
+Intraepithelial endotoxin persistence during the neonatal period
+maintained tolerance through sustained Mir146a expression and
+additionally facilitated transcription of a distinct set of genes
+involved in cell survival, differentiation, and homeostasis. Chassin et
+al. (2010) concluded that neonatal intestinal epithelial innate immune
+tolerance is an example of restriction of signaling to prevent
+bacteria-induced intestinal epithelial damage during the transition
+between fetal, neonatal, and adult life.
+
+MAPPING
+
+Taganov et al. (2006) stated that the MIRN146A gene maps to chromosome
+5.
+
+MOLECULAR GENETICS
+
+Jazdzewski et al. (2008) found that the rarer C allele of a common G/C
+SNP (dbSNP rs2910164) within the pre-miR-146a sequence reduced the
+amount of pre- and mature miR146A 1.9- and 1.8-fold, respectively,
+compared with the G allele. The SNP is located on the passenger strand
+of pre-miR146A, at position +60 relative to the first nucleotide, and
+the C allele is predicted to cause mispairing within the hairpin. EMSA
+experiments showed that the C allele interfered with binding of HeLa
+cell nuclear proteins to pre-miR146a, and it also caused inefficient
+inhibition of the miR146a target genes TRAF6 and IRAK1, as well as of
+PTC1 (CCDC6; 601985), in reporter gene assays. Jazdzewski et al. (2008)
+genotyped 608 patients with papillary thyroid carcinoma (PTC; 188550)
+and 901 controls and found that GC heterozygosity was associated with
+increased risk of acquiring PTC, whereas both homozygous states were
+protective. They concluded that the G/C SNP alters pre-miR146a
+processing and contributes to predisposition to PTC by altering
+expression of miR146a target genes in the Toll-like receptor and
+cytokine signaling pathway.
+
+REFERENCE 1. Chang, T.-C.; Yu, D.; Lee, Y.-S.; Wentzel, E. A.; Arking, D. E.;
+West, K. M.; Dang, C. V.; Thomas-Tikhonenko, A.; Mendell, J. T.:
+Widespread microRNA repression by Myc contributes to tumorigenesis. Nature
+Genet. 40: 43-50, 2008.
+
+2. Chassin, C.; Kocur, M.; Pott, J.; Duerr, C. U.; Gutle, D.; Lotz,
+M.; Hornef, M. W.: miR-146a mediates protective innate immune tolerance
+in the neonate intestine. Cell Host Microbe 8: 358-368, 2010.
+
+3. Curtale, G.; Citarella, F.; Carissimi, C.; Goldoni, M.; Carucci,
+N.; Fulci, V.; Franceschini, D.; Meloni, F.; Barnaba, V.; Macino,
+G.: An emerging player in the adaptive immune response: microRNA-146a
+is a modulator of IL-2 expression and activation-induced cell death
+in T lymphocytes. Blood 115: 265-273, 2010.
+
+4. Jazdzewski, K.; Murray, E. L.; Franssila, K.; Jarzab, B.; Schoenberg,
+D. R.; de la Chapelle, A.: Common SNP in pre-miR-146a decreases mature
+miR expression and predisposes to papillary thyroid carcinoma. Proc.
+Nat. Acad. Sci. 105: 7269-7274, 2008.
+
+5. Lukiw, W. J.; Zhao, Y.; Cui, J. G.: An NF-kappa-B-sensitive microRNA-146a-mediated
+inflammatory circuit in Alzheimer disease and in stressed human brain
+cells. J. Biol. Chem. 283: 31315-31322, 2008.
+
+6. Sonkoly, E.; Wei, T.; Janson, P. C. J.; Saaf, A.; Lundeberg, L.;
+Tengvall-Linder, M.; Norstedt, G.; Alenius, H.; Homey, B.; Scheynius,
+A.; Stahle, M.; Pivarcsi, A.: MicroRNAs: novel regulators involved
+in the pathogenesis of psoriasis? PLoS One 7: e610, 2007. Note:
+Electronic Article.
+
+7. Starczynowski, D. T.; Kuchenbauer, F.; Argiropoulos, B.; Sung,
+S.; Morin, R.; Muranyi, A.; Hirst, M.; Hogge, D.; Marra, M.; Wells,
+R. A.; Buckstein, R.; Lam, W.; Humphries, R. K.; Karsan, A.: Identification
+of miR-145 and miR-146a as mediators of the 5q- syndrome phenotype. Nature
+Med. 16: 49-58, 2010.
+
+8. Taganov, K. D.; Boldin, M. P.; Chang, K.-J.; Baltimore, D.: NF-kappa-B-dependent
+induction of microRNA miR-146, an inhibitor targeted to signaling
+proteins of innate immune responses. Proc. Nat. Acad. Sci. 103:
+12481-12486, 2006.
+
+CONTRIBUTORS Paul J. Converse - updated: 2/24/2012
+Paul J. Converse - updated: 11/16/2011
+Paul J. Converse - updated: 2/4/2010
+Patricia A. Hartz - updated: 6/30/2009
+Patricia A. Hartz - updated: 7/23/2008
+Patricia A. Hartz - updated: 5/22/2008
+Patricia A. Hartz - updated: 4/30/2008
+Matthew B. Gross - updated: 11/15/2006
+
+CREATED Paul J. Converse: 11/14/2006
+
+EDITED mgross: 03/21/2012
+terry: 2/24/2012
+mgross: 11/16/2011
+terry: 11/16/2011
+terry: 11/30/2010
+mgross: 2/15/2010
+terry: 2/4/2010
+terry: 6/30/2009
+mgross: 7/23/2008
+carol: 5/27/2008
+terry: 5/22/2008
+mgross: 4/30/2008
+terry: 4/30/2008
+mgross: 2/8/2007
+mgross: 11/15/2006
+mgross: 11/14/2006
+
