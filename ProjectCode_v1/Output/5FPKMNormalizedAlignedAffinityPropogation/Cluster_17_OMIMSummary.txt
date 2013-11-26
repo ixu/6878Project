@@ -1,0 +1,924 @@
+614757	TITLE *614757 INTERFERON-INDUCED TRANSMEMBRANE PROTEIN 5; IFITM5
+;;FRAGILIS 4, MOUSE, HOMOLOG OF
+DESCRIPTION 
+CLONING
+
+Lange et al. (2003) cloned mouse Ifitm5, which they called fragilis-4,
+and they identified human IFITM5 by database analysis. The deduced human
+protein contains 132 amino acids and is predicted to have 2
+transmembrane domains. The mouse and human proteins share highest
+conservation in a central region that includes the first transmembrane
+domain and the beginning of the second transmembrane domain. This
+central region also shares highest similarity among IFITM family
+members. Lange et al. (2003) determined that IFITM5 is 1 of only 2 IFITM
+genes conserved from mouse to human (see EVOLUTION).
+
+GENE STRUCTURE
+
+Lange et al. (2003) determined that the IFITM5 gene contains 2 exons.
+
+MAPPING
+
+By genomic sequence analysis, Lange et al. (2003) mapped the IFITM5 gene
+to an IFITM gene cluster on chromosome 11p15.5. The order of the genes,
+from telomere to centromere, is IFITM5, IFITM2 (605578), IFITM1
+(604456), and IFITM3 (605579), and the cluster spans about 26.5 kb.
+Lange et al. (2003) stated that IFITM2 maps to the plus strand and that
+all other IFITM genes map to the minus strand. However, Gross (2012)
+determined that, in addition to IFITM2, the IFITM1 gene maps to the plus
+strand based on an alignment of the IFITM1 sequence (GenBank GENBANK
+BC000897) with the genomic sequence (GRCh37).
+
+Lange et al. (2003) mapped the mouse Ifitm gene cluster to a region of
+chromosome 7F5 that shares homology of synteny with human chromosome
+11p15.5. The mouse Ifitm gene cluster contains 5 genes, whereas the
+human cluster contains only 4 genes.
+
+EVOLUTION
+
+By phylogenetic analysis, Lange et al. (2003) found that only 2 mouse
+fragilis genes, fragilis-4 (Ifitm5) and either fragilis (Ifitm3),
+fragilis-2 (Ifitm1), or fragilis-3 (Ifitm2), have been conserved from
+mouse to human. They suggested that subsequent gene duplications may
+have occurred independently in both species.
+
+MOLECULAR GENETICS
+
+After mapping the locus for osteogenesis imperfecta type V (OI5; 610967)
+in a Korean family to a region of chromosome 11 containing the IFITM5
+gene, Cho et al. (2012) identified a heterozygous mutation in the
+5-prime untranslated region of this gene (-14C-T; 614757.0001) in 19
+affected Korean individuals (13 from 3 families and 6 simplex
+individuals). The mutation was not found in unaffected family members or
+in 200 unrelated control chromosomes from the same ethnic group.
+
+Sempler et al. (2012) independently identified heterozygosity for the
+-14C-T mutation in 2 unrelated patients with OI type V. The mutation
+occurred de novo in both.
+
+ALLELIC VARIANT .0001
+OSTEOGENESIS IMPERFECTA, TYPE V
+IFITM5, -14C-T
+
+In 19 Korean individuals (13 from 3 families and 6 simplex individuals)
+with osteogenesis imperfecta type V (OI5; 610967), Cho et al. (2012)
+identified a C-T transition 5-prime UTR of the IFITM5 gene (-14C-T).
+Sempler et al. (2012) identified the same mutation in 2 unrelated
+individuals with OI5. The mutation was predicted to generate an in-frame
+translation start codon that would add 5 amino acids
+(Met-Ala-Leu-Glu-Pro) to the N terminus of IFITM5, which was confirmed
+in transfection experiments.
+
+REFERENCE 1. Cho, T.-J.; Lee, K.-E.; Lee, S.-K.; Song, S. J.; Kim, K. J.; Jeon,
+D.; Lee, G.; Kim, H.-N.; Lee, H. R.; Eom, H.-H.; Lee, Z. H.; Kim,
+O.-H.; Park, W.-Y.; Park, S. S.; Ikegawa, S.; Yoo, W. J.; Choi, I.
+H.; Kim, J.-W.: A single recurrent mutation in the 5-prime UTR of
+IFITM5 causes osteogenesis imperfecta type V. Am. J. Hum. Genet. 91:
+343-348, 2012.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  8/9/2012.
+
+3. Lange, U. C.; Saitou, M.; Western, P. S.; Barton, S. C.; Surani,
+M. A.: The fragilis interferon-inducible gene family of transmembrane
+proteins is associated with germ cell specification in mice. BMC
+Dev. Biol. 3: 1, 2003. Note: Electronic Article.
+
+4. Sempler, O.; Garbes, L.; Keupp, K.; Swan, D.; Zimmermann, K.; Becker,
+J.; Iden, S.; Wirth, B.; Eysel, P.; Koerber, F.; Schoenau, E.; Bohlander,
+S. K.; Wollnik, B.; Netzer, C.: A mutation in the 5-prime UTR of
+IFITM5 creates an in-frame start codon and causes autosomal-dominant
+osteogenesis imperfecta type V with hyperplastic callus. Am. J. Hum.
+Genet. 91: 349-357, 2012.
+
+CONTRIBUTORS Nara Sobreira - updated: 09/20/2012
+Matthew B. Gross - updated: 8/9/2012
+
+CREATED Patricia A. Hartz: 8/9/2012
+
+EDITED carol: 09/20/2012
+mgross: 8/10/2012
+mgross: 8/9/2012
+
+601540	TITLE *601540 BROMODOMAIN-CONTAINING PROTEIN 2; BRD2
+;;FEMALE STERILE HOMEOTIC-RELATED GENE 1, MOUSE, HOMOLOG OF; FSRG1;;
+RING3
+DESCRIPTION 
+DESCRIPTION
+
+BRD2 is a putative nuclear transcriptional regulator and a member of a
+family of genes that are expressed during development.
+
+CLONING
+
+In a search for novel genes in the human major histocompatibility
+complex (MHC) class II region on chromosome 6p21.3, Okamoto et al.
+(1991) and Beck et al. (1992) identified a gene that they termed RING3.
+('RING' is an acronym for 'really interesting new gene.') Based on
+mapping and genomic sequencing, RING3 was located in the middle of the
+class II region between the genes HLA-DNA (142930) and HLA-DMA (142855).
+In contrast to all the other genes encoded in the class II region, RING3
+appeared to have no obvious function associated with the immune system
+based on sequence comparisons. The striking sequence similarity to the
+female sterile homeotic (fsh) gene in Drosophila, however, suggested a
+conserved biologic function for RING3.
+
+Denis and Green (1996) discovered that the RING3 product is, in fact, a
+mitogen-activated nuclear kinase involved in signal transduction and
+that it is upregulated in certain types of leukemia.
+
+With the aim of learning more about the phylogeny of RING3, Thorpe et
+al. (1996) identified further homologs in different species and
+determined their gene structures. The functional analysis of RING3 had
+been further complicated by the finding of a second, non-MHC-linked copy
+of RING3 in humans by Nomura et al. (1994). This was referred to by them
+as ORFX (601541).
+
+GENE FUNCTION
+
+Dawson et al. (2011) demonstrated that I-BET151, a novel small molecule
+inhibitor of the BET family, of which BRD2 is a member, has profound
+efficacy against human and murine MLL-fusion leukemia cell lines through
+the induction of early cell cycle arrest and apoptosis. I-BET151
+treatment in 2 human leukemia cell lines with different MLL fusions
+altered the expression of a common set of genes whose function may
+account for these phenotypic changes. The mode of action of I-BET151 is,
+at least in part, due to the inhibition of transcription at key genes
+BCL2 (151430), C-MYC (190080), and CDK6 (603368) through the
+displacement of BRD3/4, PAFc, and SEC components from chromatin. In vivo
+studies indicated that I-BET151 has significant therapeutic value,
+providing survival benefit in 2 distinct mouse models of murine MLL-AF9
+and human MLL-AF4 leukemia.
+
+MOLECULAR GENETICS
+
+For a discussion of a possible association between variation in the BRD2
+gene and juvenile myoclonic epilepsy, see EJM3 (608816).
+
+REFERENCE 1. Beck, S.; Hanson, I.; Kelly, A.; Pappin, D. J.; Trowsdale, J.:
+A homologue of the Drosophila female sterile homeotic (fsh) gene in
+the class II region of the human MHC. DNA Sequence 2: 203-210, 1992.
+
+2. Dawson, M. A.; Prinjha, R. K.; Dittmann, A.; Giotopoulos, G.; Bantscheff,
+M.; Chan, W.-I.; Robson, S. C.; Chung, C.; Hopf, C.; Savitski, M.
+M.; Huthmacher, C.; Gudgin, E.; and 15 others: Inhibition of BET
+recruitment to chromatin as an effective treatment for MLL-fusion
+leukaemia. Nature 478: 529-533, 2011.
+
+3. Denis, G. V.; Green, M. R.: A novel, mitogen-activated nuclear
+kinase is related to a Drosophila developmental regulator. Genes
+Dev. 10: 261-271, 1996.
+
+4. Nomura, N.; Nagase, T.; Miyajima, N.; Sazuka, T.; Tanaka, A.; Sato,
+S.; Seki, N.; Kawarabayasi, Y.; Ishikawa, K.; Tabata, S.: Prediction
+of the coding sequences of unidentified human genes. II. The coding
+sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 1: 223-229, 1994.
+
+5. Okamoto, N.; Ando, A.; Kawai, J.; Yoshiwara, T.; Tsuji, K.; Inoko,
+H.: Orientation of HLA-DNA gene and identification of a CpG island-associated
+gene adjacent to DNA in human major histocompatibility complex class
+II region. Hum. Immun. 32: 221-228, 1991.
+
+6. Thorpe, K. L.; Abdulla, S.; Kaufman, J.; Trowsdale, J.; Beck, S.
+: Phylogeny and structure of the RING3 gene. Immunogenetics 44:
+391-396, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/4/2012
+Victor A. McKusick - updated: 8/8/2003
+
+CREATED Victor A. McKusick: 11/27/1996
+
+EDITED alopez: 01/06/2012
+terry: 1/4/2012
+ckniffin: 10/2/2009
+tkritzer: 8/14/2003
+tkritzer: 8/13/2003
+terry: 8/8/2003
+mgross: 7/24/2000
+psherman: 12/30/1999
+alopez: 6/21/1999
+carol: 6/2/1998
+terry: 4/23/1998
+alopez: 6/27/1997
+jenny: 12/5/1996
+mark: 11/27/1996
+
+603157	TITLE *603157 PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT 2; PIK3R2
+;;PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT, 85-KD, BETA;;
+p85-BETA
+PIK3R2/UPS8 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Phosphatidylinositol 3-kinase (PI3K) is a lipid kinase that
+phosphorylates the inositol ring of phosphatidylinositol and related
+compounds at the 3-prime position. The products of these reactions serve
+as second messengers in growth signaling pathways. The kinase itself is
+made up of a catalytic subunit of molecular mass 110 kD (PIK3CA; 171834)
+and a regulatory subunit of either 85 kD, 55 kD, or 50 kD. Otsu et al.
+(1991) showed that the bovine PI3K p85 subunit consists of 2 closely
+related proteins, p85-alpha (171833) and p85-beta. They cloned cDNAs
+encoding both p85 subunits, each of which is 724 amino acids long. The
+subunits share 62% amino acid identity across their entire length. Both
+sequences contain an N-terminal SH3 region, 2 SH2 regions, and a region
+of homology to BCR (151410).
+
+Janssen et al. (1998) determined the human p85-beta cDNA sequence.
+
+GENE FUNCTION
+
+Functional expression studies by Otsu et al. (1991) showed that both
+bovine p85 subunits bound tyrosine kinase receptors.
+
+Hale et al. (2006) generated a laryngeal carcinoma cell line
+constitutively expressing influenza A virus NS1 protein and found that
+NS1 bound specifically to p85-beta. The NS1 protein from various
+influenza strains also bound p85-beta, but not p85-alpha. Expression of
+NS1 led to induction of PI3K signaling, including phosphorylation of AKT
+(164730) at ser473. Binding of p85-beta and activation of PI3K required
+tyr89 of NS1, and mutant viruses expressing NS1 with a tyr89-to-phe
+substitution grew more slowly in cell culture than wildtype viruses.
+Hale et al. (2006) proposed that activation of PI3K signaling in
+influenza A virus-infected cells is important for efficient virus
+replication.
+
+Using mouse embryonic fibroblasts, Park et al. (2010) showed that, in
+addition to regulating PI3K function, p85-alpha and p85-beta regulated
+the function of Xbp1s (XBP1; 194355), a transcription factor that
+orchestrates the unfolded protein response (UPR) following endoplasmic
+reticulum (ER) stress. Both p85-alpha and p85-beta bound Xbp1s and
+increased its nuclear translocation, and it appeared that the p110 PI3K
+catalytic subunit and Xbp1s competed for binding of these regulatory
+subunits. p85-alpha and p85-beta formed an inactive dimer that was
+disrupted by insulin in a time-dependent manner, which promoted their
+association with Xbp1s. Refeeding of wildtype mice after fasting induced
+ER stress that was quickly resolved, as measured by Xbp1s levels. In
+contrast, obese and insulin-resistant ob/ob (LEP; 164160) mice could not
+resolve the ER stress induced during refeeding, and nuclear
+translocation of Xbp1s was absent in ob/ob mice. Overexpression of
+p85-alpha or p85-beta in livers of ob/ob mice increased glucose
+tolerance and reduced blood glucose concentrations.
+
+To assess the impact of the AKT3 (611223), PIK3R2, and PIK3CA mutations
+in individuals with megalencephaly-capillary malformation-polymicrogyria
+syndrome (MCAP; 602501) and megalencephaly polymicrogyria-polydactyly
+hydrocephalus syndrome (MPPH; 603387) on PI3K activity, Riviere et al.
+(2012) used immunostaining to compare PIP3 amounts in lymphoblastoid
+cell lines derived from 4 mutation carriers with megalencephaly to those
+in control and PTEN (601728)-mutant cells. Consistent with elevated PI3K
+activity, and similar to what is seen with PTEN loss, all 3 lines with
+PIK3R2 or PIK3CA mutations showed significantly more PIP3 staining than
+control cells, as well as greater localization of active
+phosphoinositide-dependent kinase-1 (PDPK1; 605213) to the cell
+membrane. Treatment with the PI3K inhibitor PI-103 resulted in less PIP3
+in the PIK3R2 G373R (603157.0001) and PIK3CA E453del (171834.0014)
+mutant lines, confirming that these results are PI3K-dependent. Riviere
+et al. (2012) found no evidence for increased PI3K activity in the
+AKT3-mutant line, consistent with a mutation affecting a downstream
+effector of PI3K. Protein blot analysis showed higher amounts of
+phosphorylated S6 protein and 4E-BP1 in all mutant cell lines compared
+to controls. Although PI-103 treatment reduced S6 phosphorylation in
+control and mutant lines, the latter showed relative resistance to PI3K
+inhibition, consistent with elevated signaling through the pathway.
+Riviere et al. (2012) concluded that the megalencephaly-associated
+mutations result in higher PI3K activity and PI3K-mTOR signaling.
+
+MAPPING
+
+Volinia et al. (1992) used in situ hybridization to map the PIK3R2 gene
+to human chromosome 19q13.2-q13.4.
+
+CYTOGENETICS
+
+Janssen et al. (1998) analyzed DNA from a patient with chronic
+myeloproliferative disorder. They identified an oncogenic fusion of the
+5-prime end of p85-beta and the 3-prime end of HUMORF8 (USP8; 603158).
+
+MOLECULAR GENETICS
+
+Riviere et al. (2012) performed exome sequencing in the oldest of 3
+affected sibs with MPPH and identified a heterozygous mutation in the
+PIK3R2 gene (G373R; 603157.0001). Sanger sequencing confirmed the
+presence of the mutation in all 3 affected sibs and its absence in the
+saliva and blood of both parents and the unaffected sister, showing
+germline mosaicism in 1 parent. Sequencing of the PIK3R2 gene in 40
+individuals with megalencephaly identified the same nucleotide change in
+10 additional subjects with MPPH, and this mutation was shown to be de
+novo in all subjects for whom parental DNA was available. The mutation
+occurred at a CpG dinucleotide, which might explain its recurrence.
+
+ANIMAL MODEL
+
+Oak et al. (2006) crossed mice with a floxed Pik3r1 allele and a null
+Pik3r2 allele with Lck (153390)-Cre transgenic mice to generate a strain
+in which class IA Pi3k expression and function were essentially
+abrogated in T cells beginning at the double-negative stage.
+Histopathologic analysis of these mice showed development of
+organ-specific autoimmunity resembling Sjogren syndrome (SS; 270150). By
+3 to 8 months of age, mutant mice developed corneal opacity and eye
+lesions due to irritation and constant scratching. Mutant mice showed
+marked lymphocytic infiltration of lacrimal glands and serum antinuclear
+and anti-Ssa (SSA1; 109092) antibodies, but no kidney pathology.
+Cd4-positive T cells, which were the predominant infiltrating cells in
+lacrimal glands of mutant mice, exhibited aberrant differentiation in
+vitro. Oak et al. (2006) concluded that impaired class IA PI3K signaling
+in T cells can lead to organ-specific autoimmunity, and they proposed
+that class IA Pi3k-deficient mice manifest the cardinal features of
+human primary SS.
+
+ALLELIC VARIANT .0001
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME
+PIK3R2, GLY373ARG
+
+In 13 individuals with
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH;
+603387) from 11 unrelated families, Riviere et al. (2012) identified a
+heterozygous 1117G-A transition in the PIK3R2 gene, resulting in a
+gly373-to-arg (G373R) substitution in the PIK3R2 gene. This mutation was
+shown to be de novo in all subjects for whom parental DNA was available.
+The mutation occurred at a CpG dinucleotide, which might explain its
+recurrence.
+
+REFERENCE 1. Hale, B. G.; Jackson, D.; Chen, Y.-H.; Lamb, R. A.; Randall, R.
+E.: Influenza A virus NS1 protein binds p85-beta and activates phosphatidylinositol-3-kinase
+signaling. Proc. Nat. Acad. Sci. 103: 14194-14199, 2006.
+
+2. Janssen, J. W. G.; Schleithoff, L.; Bartram, C. R.; Schulz, A.
+S.: An oncogenic fusion product of the phosphatidylinositol 3-kinase
+p85-beta subunit and HUMORF8, a putative deubiquitinating enzyme. Oncogene 16:
+1767-1772, 1998.
+
+3. Oak, J. S.; Deane, J. A.; Kharas, M. G.; Luo, J.; Lane, T. E.;
+Cantley, L. C.; Fruman, D. A.: Sjogren's syndrome-like disease in
+mice with T cells lacking class 1A phosphoinositide-3-kinase. Proc.
+Nat. Acad. Sci. 103: 16882-16887, 2006. Note: Erratum: Proc. Nat.
+Acad. Sci. 106: 10871 only, 2009.
+
+4. Otsu, M.; Hiles, I.; Gout, I.; Fry, M. J.; Ruiz-Larrea, F.; Panayotou,
+G.; Thompson, A.; Dhand, R.; Hsuan, J.; Totty, N.; Smith, A. D.; Morgan,
+S. J.; Courtneidge, S. A.; Parker, P. J.; Waterfield, M. D.: Characterization
+of two 85 kd proteins that associate with receptor tyrosine kinases,
+middle-T/pp60(c-src) complexes, and PI3-kinase. Cell 65: 91-104,
+1991.
+
+5. Park, S. W.; Zhou, Y.; Lee, J.; Lu, A.; Sun, C.; Chung, J.; Ueki,
+K.; Ozcan, U.: The regulatory subunits of PI3K, p85-alpha and p85-beta,
+interact with XBP-1 and increase its nuclear translocation. Nature
+Med. 16: 429-437, 2010.
+
+6. Riviere, J.-B.; Mirzaa, G. M.; O'Roak, B. J.; Beddaoui, M.; Alcantara,
+D.; Conway, R. L.; St-Onge, J.; Schwartzentruber, J. A.; Gripp, K.
+W.; Nikkel, S. M.; Worthylake, T.; Sullivan, C. T.; and 29 others
+: De novo germline and postzygotic mutations in AKT3, PIK3R2 and PIK3CA
+cause a spectrum of related megalencephaly syndromes. Nature Genet. 44:
+934-940, 2012.
+
+7. Volinia, S.; Patracchini, P.; Otsu, M.; Hiles, I.; Gout, I.; Calzolari,
+E.; Bernardi, F.; Rooke, L.; Waterfield, M. D.: Chromosomal localization
+of human p85-alpha, a subunit of phosphatidylinositol 3-kinase, and
+its homologue p85-beta. Oncogene 7: 789-793, 1992.
+
+CONTRIBUTORS Nara Sobreira - updated: 11/20/2012
+Nara Sobreira - updated: 11/14/2012
+Patricia A. Hartz - updated: 6/7/2010
+Paul J. Converse - updated: 2/5/2007
+Paul J. Converse - updated: 1/16/2007
+
+CREATED Jennifer P. Macke: 10/19/1998
+
+EDITED carol: 11/20/2012
+terry: 11/14/2012
+terry: 6/6/2012
+mgross: 6/10/2010
+terry: 6/7/2010
+mgross: 8/13/2007
+mgross: 2/5/2007
+mgross: 1/16/2007
+carol: 4/23/2003
+alopez: 10/19/1998
+
+605301	TITLE *605301 TRANSFORMING, ACIDIC, COILED-COIL-CONTAINING PROTEIN 1; TACC1
+TACC1/FGFR1 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Amplification of various chromosomal regions in human breast carcinomas
+has lead to the identification of protooncogenes involved in
+tumorigenesis. For example, MYC (190080) in 8q24, CCND1 (168461) in
+11q13, and ERBB2 (164870) in 17q12 are each observed in 20% of all
+breast tumors. Still et al. (1999) noted that 8p11 is amplified in 10 to
+15% of breast tumor samples but the only gene assigned to this region,
+FGFR1 (136350), is typically expressed at the same levels in normal and
+tumor breast tissue. By PCR analysis with primers obtained from an EST
+database, generation of a BAC contig spanning 380 kb of the 8p11 breast
+cancer amplicon-1, and probing fetal tissue libraries, Still et al.
+(1999) isolated a cDNA encoding TACC1. The predicted 805-amino acid
+TACC1 protein is rich in serine, proline, and acidic residues, has a
+20-amino acid N terminus rich in tryptophan, contains 2 nuclear
+localization signals but no DNA- or RNA-binding domains, and has a
+200-residue C terminus with extensive alpha-helical segments expected to
+adopt a coiled-coil structure. Northern blot analysis detected a major
+8.0-kb TACC1 transcript in all tissues tested, with relatively weak
+expression in liver and lung.
+
+GENE FUNCTION
+
+Still et al. (1999) found that introduction of TACC1 into stable cell
+lines resulted in morphologic changes consistent with a transformed
+phenotype and in anchorage-independent growth.
+
+By yeast 2-hybrid and coimmunoprecipitation analyses, Lauffart et al.
+(2002) showed that TACC1 interacted with C-terminal regions of CHTOG
+(CKAP5; 611142) and GAS41 (YEATS4; 602116).
+
+During neurogenesis, the nuclei of progenitor cells of the proliferative
+ventricular zone oscillate in a cell cycle-dependent manner called
+interkinetic nuclear migration (INM). In most cell types, the nucleus
+closely follows the centrosome during migration; however, in neural
+progenitors, centrosomes remain near the ventricular zone during INM.
+Xie et al. (2007) showed that INM in mice was dependent on the
+regulation of centrosome-associated microtubules by Cep120 (613446) and
+Taccs. Cep120 and Taccs regulated the integrity of microtubules coupling
+the centrosome and the nucleus. Cep120 interacted with Taccs and
+regulated the localization of Tacc3 (605303) to the centrosome. Both
+Cep120 and Taccs were essential for maintaining the neural progenitor
+pool during mouse neocortical development.
+
+MOLECULAR GENETICS
+
+Singh et al. (2012) reported that a small subset of glioblastoma
+multiforme tumors (GBMs; 137800) (3.1%; 3 of 97 tumors examined) harbors
+oncogenic chromosomal translocations that fuse in-frame the tyrosine
+kinase coding domains of fibroblast growth factor receptor (FGFR) genes
+FGFR1 (136350) or FGFR3 (134934) to the transforming acidic coiled-coil
+(TACC) coding domains of TACC1 or TACC3 (605303), respectively. The
+FGFR-TACC fusion protein displayed oncogenic activity when introduced
+into astrocytes or stereotactically transduced in the mouse brain. The
+fusion protein, which localizes to mitotic spindle poles, has
+constitutive kinase activity and induces mitotic and chromosomal
+segregation defects and triggers aneuploidy. Inhibition of FGFR kinase
+corrected the aneuploidy, and oral administration of an FGFR inhibitor
+prolonged survival of mice harboring intracranial FGFR3-TACC3-initiated
+glioma. Singh et al. (2012) concluded that FGFR-TACC fusions could
+potentially identify a subset of GBM patients who would benefit from
+targeted FGFR kinase inhibition.
+
+REFERENCE 1. Lauffart, B.; Howell, S. J.; Tasch, J. E.; Cowell, J. K.; Still,
+I. H.: Interaction of the transforming acidic coiled-coil 1 (TACC1)
+protein with ch-TOG and GAS41/NuBI1 suggests multiple TACC1-containing
+protein complexes in human cells. Biochem. J. 363: 195-200, 2002.
+
+2. Singh, D.; Chan, J. M.; Zoppoli, P.; Niola, F.; Sullivan, R.; Castano,
+A.; Liu, E. M.; Reichel, J.; Porrati, P.; Pellegatta, S.; Qiu, K.;
+Gao, Z.; and 12 others: Transforming fusions of FGFR and TACC genes
+in human glioblastoma. Science 337: 1231-1235, 2012.
+
+3. Still, I. H.; Hamilton, M.; Vince, P.; Wolfman, A.; Cowell, J.
+K.: Cloning of TACC1, an embryonically expressed, potentially transforming
+coiled coil containing gene, from the 8p11 breast cancer amplicon. Oncogene 18:
+4032-4038, 1999.
+
+4. Xie, Z.; Moy, L. Y.; Sanada, K.; Zhou, Y.; Buchman, J. J.; Tsai,
+L.-H.: Cep120 and TACCs control interkinetic nuclear migration and
+the neural progenitor pool. Neuron 56: 79-93, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/31/2012
+Patricia A. Hartz - updated: 6/11/2010
+Patricia A. Hartz - updated: 6/25/2007
+
+CREATED Paul J. Converse: 9/28/2000
+
+EDITED alopez: 11/05/2012
+terry: 10/31/2012
+mgross: 6/16/2010
+terry: 6/11/2010
+mgross: 6/27/2007
+terry: 6/25/2007
+mgross: 9/28/2000
+
+611589	TITLE *611589 PATATIN-LIKE PHOSPHOLIPASE DOMAIN-CONTAINING PROTEIN 5; PNPLA5
+;;GS2-LIKE PROTEIN; GS2L
+DESCRIPTION 
+DESCRIPTION
+
+Human patatin-like phospholipases, such as PNPLA5, have been implicated
+in regulation of adipocyte differentiation and have been induced by
+metabolic stimuli (Wilson et al., 2006).
+
+CLONING
+
+By database analysis, followed by screening of human EST databases,
+Wilson et al. (2006) identified PNPLA5, which encodes a 429-amino acid
+protein containing a patatin-like domain and 2 glycosaminoglycan sites.
+Structural analysis determined that the patatin-like domain was composed
+of a beta-sheet sandwiched by alpha-helices in approximately 3 layers.
+Quantitative RT-PCR analysis showed that PNPLA5 was expressed at
+moderate levels in brain and at very low levels in liver.
+
+GENE FUNCTION
+
+Gao and Simon (2007) measured retinol transacylation activity and found
+that PNPLA5 appeared to inhibit transacylation catalyzed by endogenous
+enzymes, but it had measurable retinylester hydrolysis activity.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PNPLA5
+gene to chromosome 22 (TMAP G65439).
+
+REFERENCE 1. Gao, J. G.; Simon, M.: A comparative study of human GS2, its paralogues,
+and its rat orthologue. Biochem. Biophys. Res. Commun. 360: 501-506,
+2007.
+
+2. Wilson, P. A.; Gardner, S. D.; Lambie, N. M.; Commans, S. A.; Crowther,
+D. J.: Characterization of the human patatin-like phospholipase family. J.
+Lipid Res. 47: 1940-1949, 2006.
+
+CREATED Stefanie A. Nelson: 11/7/2007
+
+EDITED wwang: 06/23/2008
+wwang: 11/8/2007
+
+603647	TITLE *603647 BCS1, S. CEREVISIAE, HOMOLOG-LIKE; BCS1L
+DESCRIPTION 
+DESCRIPTION
+
+The human BCS1L gene encodes a homolog of S. cerevisiae bcs1 protein
+involved in the assembly of complex III of the mitochondrial respiratory
+chain.
+
+CLONING
+
+The S. cerevisiae bcs1 protein is a constituent of the inner
+mitochondrial membrane and is required for the expression of functional
+ubiquinol-cytochrome-c reductase (bc1) complex (see 191328). The bcs1
+protein shares sequence similarity with members of the AAA (ATPases
+associated with various cellular activities) superfamily (see 601681).
+By searching an EST database for sequences related to bcs1, Petruzzella
+et al. (1998) identified a cDNA encoding human BCS1L (BCS1-like). The
+predicted 420-amino acid human protein is 50% identical to yeast bcs1
+and, like bcs1, contains 2 conserved nucleotide-binding motifs. Although
+BCS1L does not contain an N-terminal mitochondrial targeting sequence,
+in vitro mitochondrial import and trypsin-protection assays demonstrated
+that it is imported into mitochondria. Northern blot analysis revealed
+that BCS1L is expressed ubiquitously as a 1.4-kb mRNA. The authors also
+detected a 4.5-kb transcript that they considered to be either an
+alternative BCS1L mRNA or an mRNA derived from a related gene.
+
+GENE FUNCTION
+
+Found within the inner mitochondrial membrane, BCS1L is presumed to
+facilitate insertion of Rieske Fe/S protein into precursors to complex
+III during assembly of the respiratory chain (Cruciat et al., 1999).
+Complex III then becomes assembled with complexes IV and I into a
+respirasome supercomplex that facilitates the electron transfer required
+for the synthesis of ATP.
+
+MAPPING
+
+Based on sequence similarity to ESTs, Petruzzella et al. (1998)
+tentatively mapped the BCS1L gene to 2q33.
+
+GENE STRUCTURE
+
+De Lonlay et al. (2001) showed that the BCS1L gene consists of 7 exons.
+
+MOLECULAR GENETICS
+
+- Mitochondrial Complex III Deficiency, Nuclear Type 1
+
+De Lonlay et al. (2001) found 4 biallelic mutations in the BCS1L gene in
+6 patients from 4 families with mitochondrial complex III deficiency
+nuclear type 1 (MC3DN1; 124000) characterized by neonatal proximal
+tubulopathy, hepatic involvement, and encephalopathy. Complementation
+studies in yeast confirmed the deleterious effect of these missense
+mutations. De Lonlay et al. (2001) suggested that mutation of BCS1L is a
+frequent cause of complex III deficiency, as one-third of their Turkish
+patients had mutations in the BSC1L gene. De Lonlay et al. (2001)
+reported that they had not been able to detect BCS1L mutations in
+complex III-deficient patients with clinical presentations other than
+neonatal tubulopathy with hepatic involvement and encephalopathy.
+
+- GRACILE Syndrome
+
+The GRACILE (growth retardation, amino aciduria, cholestasis, iron
+overload, lactic acidosis, and early death) syndrome (603358) belongs to
+the disease heritage of Finland. All affected families carry the same
+ancestral haplotype on 2q33-q37, indicating 1 founder mutation (Visapaa
+et al., 1998). Visapaa et al. (2002) identified a homozygous
+ser78-to-gly mutation (S78G; 603358.0005) in the BCS1L gene in all
+Finnish patients with GRACILE syndrome studied. In addition, they
+identified 5 different mutations in the BCS1L gene in 3 British infants,
+previously reported by Morris et al. (1995), whose symptoms resembled
+those in GRACILE syndrome but who also had complex III deficiency and
+neurologic symptoms. The phenotype of the Turkish patients in whom de
+Lonlay et al. (2001) demonstrated mutations in the BCS1L gene was
+distinctly different from that of the Finnish patients. Whereas the
+Turkish patients had complex III deficiency, the Finnish patients had
+complex III activity within the normal range. The Finnish patients had
+no neurologic problems, but had marked hepatic iron overload, associated
+with abnormal levels of proteins involved in iron transfer and storage,
+and free plasma iron. These findings implied that BCS1L has another
+cellular function that is uncharacterized but essential, and that it is
+putatively involved in iron metabolism.
+
+- Bjornstad Syndrome
+
+Bjornstad syndrome (262000) is an autosomal recessive condition
+characterized by sensorineural hearing loss and pili torti. Lubianca
+Neto et al. (1998) mapped the Bjornstad syndrome locus to 2q34-q36.
+Hinson et al. (2007) refined the map location of the disorder to 2q35
+and demonstrated mutations in the BCS1L gene (e.g., 603647.0001).
+
+GENOTYPE/PHENOTYPE CORRELATIONS
+
+To understand how BCS2L mutations cause such widely different clinical
+phenotypes, Hinson et al. (2007) considered the locations of defects on
+the BCS1L protein structure and compared the function of mutant BCS1L in
+yeast and in human lymphocytes. Their studies showed that all BCS1L
+mutations disrupted the assembly of mitochondrial respirasomes (the
+basic unit of respiration in human mitochondria), but the clinical
+severity of the mutations was correlated with the production of reactive
+oxygen species. The data indicated that in addition to mitochondrial
+heteroplasmy and variable energy requirements of tissues,
+tissue-specific sensitivities to reactive oxygen species contribute to
+the variability of the manifestations of mitochondrial defects.
+
+ALLELIC VARIANT .0001
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, SER277ASN
+
+In 2 affected sibs and 1 fetus in a consanguineous family with
+mitochondrial complex III deficiency nuclear type 1 (MC3DN1; 124000)
+characterized by neonatal tubulopathy, encephalopathy, and liver
+failure, de Lonlay et al. (2001) identified a homozygous 830G-A
+transition in the BCS1L gene, resulting in a ser277-to-asp (S277N)
+substitution.
+
+.0002
+LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX III DEFICIENCY
+BCS1L, PRO99LEU
+
+In 2 patients with complex III deficiency (124000), a boy and a girl,
+born to unrelated consanguineous families, de Lonlay et al. (2001)
+identified the same homozygous C-to-T transition at nucleotide 296 in
+exon 1 of the BCS1L gene, causing the substitution of a leucine for a
+highly conserved proline at codon 99 (P99L). The patients had metabolic
+acidosis, hepatic involvement, neurologic deterioration, and brainstem
+and basal ganglia lesions consistent with a diagnosis of Leigh syndrome
+(256000). One patient had abnormal ventilation patterns and proximal
+renal tubulopathy.
+
+.0003
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, ARG155PRO
+
+In a boy of Turkish origin with complex III deficiency (124000) born to
+nonconsanguineous parents, de Lonlay et al. (2001) identified compound
+heterozygosity for 2 mutations in the BCS1L gene: a 464C-G transversion
+in exon 3 of the BCS1L gene, resulting in an arg155-to-pro (R155P)
+substitution, and a 1057G-A transition in exon 7, resulting in a
+val353-to-met (V353M; 603647.0004) substitution.
+
+.0004
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, VAL353MET
+
+See 603647.0003 and de Lonlay et al. (2001).
+
+.0005
+GRACILE SYNDROME
+BCS1L, SER78GLY
+
+Visapaa et al. (2002) reported that all GRACILE syndrome (603358)
+patients in Finland were homozygous for a 232A-G mutation in exon 2 of
+the BCS1L gene, resulting in a ser78-to-gly (S78G) substitution. Unlike
+the Turkish patients reported by de Lonlay et al. (2001), the Finnish
+patients had normal complex III activity and no neurologic problems, but
+did have marked iron overload.
+
+.0006
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, ARG45CYS
+
+In 2 Spanish sibs with fatal infantile complex III deficiency (124000),
+De Meirleir et al. (2003) identified compound heterozygosity for
+mutation in the BCS1L gene: a 246C-T transition in exon 1, resulting in
+an arg45-to-cys (R45C) substitution, and a 279C-T transition in exon 1,
+resulting in an arg56-to-ter (R56X; 603647.0007) substitution. The R45C
+substitution occurs in a crucial targeting signal of the gene and is
+predicted to interfere with proper protein functioning. Each parent was
+heterozygous for 1 of the mutations. Both patients had severe metabolic
+acidosis noted shortly after birth, as well as severe liver dysfunction
+and a renal tubulopathy. One died at age 3 weeks of lactic acidosis. The
+second infant also had obvious neurologic involvement, with delayed
+myelination, axial hypotonia, and developmental delay. He died at age 3
+months. Postmortem liver examination of both infants showed liver
+fibrosis, severe cholestasis, and hepatosiderosis with accumulation of
+iron in aggregates of macrophages and in Kupffer cells. Mitochondria
+appeared enlarged with few or no cristae and a fluffy matrix. De
+Meirleir et al. (2003) suggested that the iron accumulation could be
+explained by the lack of incorporation of iron in the iron-sulfur
+cluster of complex III.
+
+Ramos-Arroyo et al. (2009) reported another Spanish infant with the R45C
+and R56X mutations. She presented with neonatal severe hypotonia, food
+intolerance, and vomiting. She soon developed a proximal renal
+tubulopathy with glucosuria, phosphaturia, and aminoaciduria, metabolic
+lactic acidosis, and hepatic involvement. Bilateral cataracts were also
+noted. At age 4 months, she showed nystagmus, hypertonia, microcephaly,
+developmental delay, and failure to thrive. Her neurologic condition and
+metabolic acidosis worsened rapidly, and she died at 6 months of age.
+Biochemical studies of muscle tissue showed impaired activity of
+mitochondrial complex III. Ramos-Arroyo et al. (2009) noted that this
+child did not have evidence of altered iron metabolism, as had been
+observed in the patients reported by De Meirleir et al. (2003), and as
+has been observed in patients with the allelic disorder GRACILE syndrome
+(603358). Ramos-Arroyo et al. (2009) postulated that phenotypic
+variability even in individuals with the same BCS1L genotype may reflect
+tissue-specific expression of the mutant gene.
+
+.0007
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, ARG56TER
+
+See 603647.0006 and De Meirleir et al. (2003).
+
+.0008
+BJORNSTAD SYNDROME
+BCS1L, ARG183HIS
+
+In affected members of the family with Bjornstad syndrome (262000) in
+which Lubianca Neto et al. (1998) demonstrated linkage to 2q, Hinson et
+al. (2007) identified homozygosity for a C-to-T transition in the BCS1L
+gene, resulting in an arg183-to-his (R183H) substitution. Eight
+individuals in 2 sibships related as first cousins once removed were
+affected; the parents in each case were consanguineous.
+
+.0009
+BJORNSTAD SYNDROME WITH MILD MITOCHONDRIAL COMPLEX III DEFICIENCY
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1, INCLUDED
+BCS1L, ARG184CYS
+
+In a sporadic case of Bjornstad syndrome (262000) with mild
+mitochondrial complex III deficiency (124000), Hinson et al. (2007)
+found compound heterozygosity for 2 missense mutations in the BCS1L
+gene: arg184 to cys (R184C) and gly35 to arg (G35R; 603647.0010).
+
+In a Moroccan girl with mitochondrial complex III deficiency (124000),
+Fernandez-Vizarra et al. (2007) identified compound heterozygosity for
+the R184C mutation and a 547C-T transition in exon 3 of the BCS1L gene,
+resulting in an arg183-to-cys (R183C; 603647.0012) substitution. She
+presented at age 9 months with acute psychomotor regression, hypotonia,
+and failure to thrive, which progressed to spastic quadriparesis and
+mental retardation associated with abnormal signal intensities in the
+thalami, basal ganglia, and periventricular white matter, consistent
+with an encephalopathy. Heart, liver, and kidneys were apparently
+unaffected, but she was also noted to have brittle hair. Studies in
+yeast showed that both mutations significantly reduced mitochondrial
+cytochrome content and respiratory activity, as well as caused a
+decreased incorporation of the Rieske iron-sulfur protein (UQCRFS1;
+191327) into complex III. Further studies showed decreased levels of
+fully assembled complex III. The findings suggested that BCS1L is
+necessary for proper complex III assembly.
+
+.0010
+BJORNSTAD SYNDROME WITH MILD MITOCHONDRIAL COMPLEX III DEFICIENCY
+BCS1L, GLY35ARG
+
+See 603647.0009 and Hinson et al. (2007).
+
+.0011
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, THR50ALA
+
+In a 4-year-old Spanish boy with isolated mitochondrial complex III
+deficiency (124000), Blazquez et al. (2009) identified a homozygous
+148A-G transition in exon 1 of the BCS1L gene, resulting in a
+thr50-to-ala (T50A) substitution in the mitochondrial sorting sequence.
+He presented at 6 months of age with psychomotor retardation, failure to
+thrive, hypotonia, lactic acidosis, and hepatic dysfunction. Physical
+examination showed unstable head support, poor eye fixation, coarse
+facies, and epicanthus. There was hypertrichosis of the frontal head
+zone and limbs, and excessive fat distribution in the upper back, neck,
+hands and feet, with almost no fat on the limbs. Respiratory chain
+activity in muscle and fibroblasts showed an isolated complex III defect
+(58% of normal in muscle, 93% in fibroblasts). At age 4 years, he still
+showed psychomotor retardation, had developed mild sensorineural hearing
+loss, and persistent lactic acidemia, but renal function, hair, and iron
+metabolism were normal. Brain MRI was normal. The mutation was not found
+in 400 control alleles, and each unaffected parent was heterozygous for
+the mutation.
+
+.0012
+MITOCHONDRIAL COMPLEX III DEFICIENCY, NUCLEAR TYPE 1
+BCS1L, ARG183CYS
+
+See 603647.0009 and Fernandez-Vizarra et al. (2007).
+
+REFERENCE 1. Blazquez, A.; Gil-Borlado, M. C.; Moran, M.; Verdu, A.; Cazorla-Calleja,
+M. R.; Martin, M. A.; Arenas, J.; Ugalde, C.: Infantile mitochondrial
+encephalomyopathy with unusual phenotype caused by a novel BCS1L mutation
+in an isolated complex III-deficient patient. Neuromusc. Disord. 19:
+143-146, 2009.
+
+2. Cruciat, C. M.; Hell, K.; Folsch, H.; Neupert, W.; Stuart, R. A.
+: Bsc1p, an AAA-family member, is a chaperone for the assembly of
+the cytochrome bc(1) complex. EMBO J. 18: 5226-5233, 1999.
+
+3. de Lonlay, P.; Valnot, I.; Barrientos, A.; Gorbatyuk, M.; Tzagoloff,
+A.; Taanman, J.-W.; Benayoun, E.; Chretien, D.; Kadhom, N.; Lombes,
+A.; Ogier de Baulny, H.; Niaudet, P.; Munnich, A.; Rustin, P.; Rotig,
+A.: A mutant mitochondrial respiratory chain assembly protein causes
+complex III deficiency in patients with tubulopathy, encephalopathy
+and liver failure. Nature Genet. 29: 57-60, 2001.
+
+4. De Meirleir, L.; Seneca, S.; Damis, E.; Sepulchre, B.; Hoorens,
+A.; Gerlo, E.; Garcia Silva, M. T.; Hernandez, E. M.; Lissens, W.;
+Van Coster, R.: Clinical and diagnostic characteristics of complex
+III deficiency due to mutations in the BCS1L gene. Am. J. Med. Genet. 121A:
+126-131, 2003.
+
+5. Fernandez-Vizarra, E.; Bugiani, M.; Goffrini, P.; Carrara, F.;
+Farina, L.; Procopio, E.; Donati, A.; Uziel, G.; Ferrero, I.; Zeviani,
+M.: Impaired complex III assembly associated with BCS1L gene mutations
+in isolated mitochondrial encephalopathy. Hum. Molec. Genet. 16:
+1241-1252, 2007.
+
+6. Hinson, J. T.; Fantin, V. R.; Schonberger, J.; Breivik, N.; Siem,
+G.; McDonough, B.; Sharma, P.; Keogh, I.; Godinho, R.; Santos, F.;
+Esparza, A.; Nicolau, Y.; Selvaag, E.; Cohen, B. H.; Hoppel, C. L.;
+Tranebjaerg, L.; Eavey, R. D.; Seidman, J. G.; Seidman, C. E.: Missense
+mutations in the BCS1L gene as a cause of the Bjornstad syndrome. New
+Eng. J. Med. 356: 809-819, 2007.
+
+7. Lubianca Neto, J. F.; Lu, L.; Eavey, R. D.; Macias Flores, M. A.;
+Martinez Caldera, R.; Sangwatanaroj, S.; Schott, J. J.; McDonough,
+B.; Santos, J. I.; Seidman, C. E.; Seidman, J. G.: The Bjornstad
+syndrome (sensorineural hearing loss and pili torti) disease gene
+maps to chromosome 2q34-36. Am. J. Hum. Genet. 62: 1107-1112, 1998.
+
+8. Morris, A. A. M.; Taylor, R. W.; Birch-Machin, M. A.; Jackson,
+M. J.; Coulthard, M. G.; Bindoff, L. A.; Welch, J. R.; Howell, N.;
+Turnbull, D. M.: Neonatal Fanconi syndrome due to deficiency of complex
+III of the respiratory chain. Pediat. Nephrol. 9: 407-411, 1995.
+
+9. Petruzzella, V.; Tiranti, V.; Fernandez, P.; Ianna, P.; Carrozzo,
+R.; Zeviani, M.: Identification and characterization of human cDNAs
+specific to BCS1, PET112, SCO1, COX15, and COX11, five genes involved
+in the formation and function of the mitochondrial respiratory chain. Genomics 54:
+494-504, 1998.
+
+10. Ramos-Arroyo, M. A.; Hualde, J.; Ayechu, A.; De Meirleir, L.;
+Seneca, S.; Nadal, N.; Briones, P.: Clinical and biochemical spectrum
+of mitochondrial complex III deficiency caused by mutations in the
+BCS1L gene. (Letter) Clin. Genet. 75: 585-587, 2009.
+
+11. Visapaa, I.; Fellman, V.; Varilo, T.; Palotie, A.; Raivio, K.
+O.; Peltonen, L.: Assignment of the locus for a new lethal neonatal
+metabolic syndrome to 2q33-37. Am. J. Hum. Genet. 63: 1396-1403,
+1998.
+
+12. Visapaa, I.; Fellman, V.; Vesa, J.; Dasvarma, A.; Hutton, J. L.;
+Kumar, V.; Payne, G. S.; Makarow, M.; Van Coster, R.; Taylor, R. W.;
+Turnbull, D. M.; Suomalainen, A.; Peltonen, L.: GRACILE syndrome,
+a lethal metabolic disorder with iron overload, is caused by a point
+mutation in BCS1L. Am. J. Hum. Genet. 71: 863-876, 2002.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 6/1/2010
+Cassandra L. Kniffin - updated: 3/9/2010
+Cassandra L. Kniffin - updated: 11/4/2009
+Victor A. McKusick - updated: 3/21/2007
+Victor A. McKusick - updated: 2/27/2007
+Cassandra L. Kniffin - updated: 10/5/2005
+Victor A. McKusick - updated: 10/29/2002
+Ada Hamosh - updated: 8/22/2001
+
+CREATED Rebekah S. Rasooly: 3/15/1999
+
+EDITED carol: 04/08/2013
+ckniffin: 4/8/2013
+wwang: 6/4/2010
+ckniffin: 6/1/2010
+wwang: 3/24/2010
+ckniffin: 3/9/2010
+wwang: 11/20/2009
+wwang: 11/18/2009
+ckniffin: 11/4/2009
+carol: 3/21/2007
+terry: 2/27/2007
+wwang: 10/12/2005
+ckniffin: 10/5/2005
+carol: 9/21/2005
+ckniffin: 8/29/2005
+terry: 4/21/2005
+terry: 3/3/2005
+carol: 7/10/2003
+ckniffin: 7/9/2003
+carol: 11/1/2002
+tkritzer: 10/30/2002
+terry: 10/29/2002
+alopez: 9/4/2001
+terry: 8/22/2001
+alopez: 3/15/1999
+

@@ -1,0 +1,1421 @@
+613963	TITLE *613963 TASTE RECEPTOR, TYPE 2, MEMBER 30; TAS2R30
+;;T2R30;;
+T2R47
+DESCRIPTION 
+DESCRIPTION
+
+TAS2R30 belongs to a family of intronless genes that encode highly
+related bitter taste receptors (TAS2Rs). TAS2Rs are G protein-coupled
+receptors, which are characterized by 7 transmembrane domains (summary
+by Fischer et al., 2005). For further information on the TAS2R gene
+family, see 604791.
+
+MAPPING
+
+By genomic sequence analysis, Fischer et al. (2005) mapped the TAS2R30
+gene, which they called T2R47, to a small TAS2R gene cluster on
+chromosome 1. However, Hartz (2011) mapped the TAS2R30 gene to
+chromosome 12p13.2 based on an alignment of the TAS2R30 sequence
+(GenBank GENBANK AY724940) with the genomic sequence (GRCh37).
+
+REFERENCE 1. Fischer, A.; Gilad, Y.; Man, O.; Paabo, S.: Evolution of bitter
+taste receptors in humans and apes. Molec. Biol. Evol. 22: 432-436,
+2005. Note: Erratum: Molec. Biol. Evol. 22: 1157 only, 2005.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  4/12/2011.
+
+CREATED Patricia A. Hartz: 5/11/2011
+
+EDITED terry: 06/08/2012
+mgross: 5/12/2011
+
+103020	TITLE *103020 ADENYLATE KINASE 2; AK2
+;;ADENYLATE KINASE, MITOCHONDRIAL MYOKINASE
+DESCRIPTION 
+DESCRIPTION
+
+Nucleoside monophosphate kinases, including adenylate kinases, catalyze
+the reversible phosphorylation between nucleoside triphosphates and
+monophosphates.
+
+CLONING
+
+Bruns and Regina (1977) analyzed the subcellular compartmentalization of
+adenylate kinase-2 (EC 2.7.4.3) in HeLa cells, mouse RAG cells, and
+RAG-human hybrids expressing human AK2. The results indicated that AK2
+is a mitochondrial enzyme.
+
+Noma et al. (1998) isolated cDNAs encoding human adenylate kinase-2 from
+a HeLa cell cDNA library, using bovine AK2 cDNA as probe. Two
+transcripts were identified: one, designated AK2A, encodes a deduced
+239-amino acid protein with a predicted molecular mass of 26.5 kD, and
+the other, designated AK2B, encodes a deduced 232-amino acid protein
+with a predicted molecular mass of 25.6 kD. Northern blot analysis
+demonstrated 3 strong hybridizing signals of 0.9 (AK2A), 1.7 (AK2B), and
+3.5 kb, with high expression in liver, heart, skeletal muscle, and
+pancreas, moderate expression in kidney, placenta, and brain, and weak
+expression in lung. However, Western blot analysis showed high levels of
+AK2 protein in liver, heart, and kidney, low levels in lung, and
+undetectable levels in brain and skeletal muscle.
+
+MAPPING
+
+The existence of a second adenylate kinase locus linked to PGM1 and
+peptidase C, i.e., on chromosome 1, was suggested by cell hybridization
+studies by Van Cong et al. (1972). The Goss-Harris method of mapping
+combines features of recombinational study in families and synteny tests
+in hybrid cells. As applied to chromosome 1, the method shows that AK2
+and UMPK are distal to PGM1 and that the order of the loci is PGM1:
+UMPK: (AK2, alpha-FUC): ENO1 (Goss and Harris, 1977). Carritt et al.
+(1982) presented evidence that AK2 is in 1p34.
+
+GENE FUNCTION
+
+Lee et al. (2007) showed that intrinsic apoptosis in human cells that
+was induced by the chemotherapeutic agent etoposide or the antibiotic
+staurosporine, but not by FAS ligand (TNFSF6; 134638) or TRAIL (TNFSF10;
+603598), caused translocation of AK2 from mitochondria to the cytoplasm,
+followed by formation of a complex between AK2, FADD (602457), and
+CASP10 (601762). Yeast 2-hybrid analysis, protein pull-down assays, and
+immunoprecipitation analysis showed that the N- and C-terminal domains
+of AK2, which include nucleoside- and substrate-binding domains,
+respectively, bound the C-terminal death domain of FADD. AK2 binding
+promoted association of CASP10 with FADD, and addition of purified AK2
+protein to cell extracts induced activation of CASP10 via FADD, leading
+to subsequent activation of CASP9 (602234) and CASP3 (600636). Apoptosis
+through the AK2 complex did not correlate with the adenylate kinase
+activity of AK2, did not require CASP8 (601763)-mediated apoptotic
+responses, and did not involve mitochondrial cytochrome c release.
+Immunodepletion or knockdown of AK2, FADD, or CASP10 abrogated
+etoposide-induced apoptosis, and AK2 complexes were not observed in
+several etoposide-resistant human tumor cell lines that were deficient
+in expression of FADD, CASP10, or CASP3. In contrast to the findings in
+human cells, etoposide-induced apoptosis was observed in mouse embryonic
+fibroblasts that lacked Fadd expression. Since mice also lack Casp10,
+Lee et al. (2007) concluded that mice lack an apoptotic pathway
+comparable to the AK2-FADD-CASP10 pathway in humans.
+
+Pannicke et al. (2009) showed that knockdown of zebrafish ak2 also leads
+to aberrant leukocyte development, demonstrating the evolutionarily
+conserved role of AK2. They concluded that their results provide in vivo
+evidence for AK2 selectivity in leukocyte differentiation.
+
+MOLECULAR GENETICS
+
+In 6 affected individuals from 5 families segregating reticular
+dysgenesis (267500), Pannicke et al. (2009) identified 6 causative
+mutations in homozygous or compound heterozygous state
+(103020.0001-103020.0006).
+
+Lagresle-Peyrou et al. (2009) identified biallelic mutations in AK2
+(103020.0007-103020.0013) in 7 individuals with reticular dysgenesis.
+These mutations resulted in absent or strongly decreased protein
+expression. The authors then demonstrated that restoration of AK2
+expression in the bone marrow cells of individuals with reticular
+dysgenesis overcomes the neutrophil differentiation arrest, underlining
+its specific requirement in the development of a restricted set of
+hematopoietic lineages. Finally, Lagresle-Peyrou et al. (2009)
+established that AK2 is specifically expressed in the stria vascularis
+region of the inner ear, which provides an explanation for the
+sensorineural deafness in these individuals. Lagresle-Peyrou et al.
+(2009) concluded that their results identified a previously unknown
+mechanism involved in regulation of hematopoietic cell differentiation
+in one of the most severe human immunodeficiency syndromes.
+
+ALLELIC VARIANT .0001
+RETICULAR DYSGENESIS
+AK2, 5,038-BP DEL
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified a homozygous 5,038-bp deletion encompassing parts of
+exon 6, all of intron 6 and parts of exon 7 reaching into the 3-prime
+UTR of the AK2 gene. The mutation led to a complete loss of detectable
+AK2 protein in fibroblasts and in bone marrow mononuclear cells. The
+parents were heterozygous for the mutation, which was not found in 112
+German or 50 Turkish healthy subjects.
+
+.0002
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 118T
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified compound heterozygosity for 2 mutations in the AK2
+gene: a 1-bp deletion (118delT) leading to a frameshift and early
+truncation of the protein, and a 1A-G transition leading to a
+met1-to-val (M1V) substitution (103020.0003). The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. Each parent was heterozygous for one of the
+mutations. The mutations were not found in 112 German or 50 Turkish
+healthy subjects.
+
+.0003
+RETICULAR DYSGENESIS
+AK2, MET1VAL
+
+See 103020.0002 and Pannicke et al. (2009).
+
+.0004
+RETICULAR DYSGENESIS
+AK2, 331, G-A, -1
+
+In a German male with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 331-1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0005
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 453C
+
+In male and female Turkish sibs with reticular dysgenesis (267500), the
+offspring of consanguineous parents, Pannicke et al. (2009) identified
+homozygosity for a 1-bp deletion (453delC) in the AK2 gene, leading to a
+frameshift and early truncation of the protein. The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0006
+RETICULAR DYSGENESIS
+AK2, 498, G-A, +1
+
+In a Turkish female with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 498+1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0007
+RETICULAR DYSGENESIS
+AK2, ASP165GLY
+
+In 2 separate pedigrees with reticular dysgenesis (267500), each of whom
+was consanguineous, Lagresle-Peyrou et al. (2009) identified
+homozygosity for an A-to-G transition at nucleotide 546 in exon 5 of the
+AK2 gene, resulting in an asp-to-gly substitution in codon 165 (D165G)
+within the LID domain. This mutation changed a highly conserved amino
+acid. The parents were found to be carriers, and unaffected sibs were
+heterozygous or homozygous for the wildtype allele.
+
+.0008
+RETICULAR DYSGENESIS
+AK2, LEU183TER
+
+In a female from a consanguineous family affected with reticular
+dysgenesis (267500), Lagresle-Peyrou et al. (2009) identified a 1-bp
+deletion of C at nucleotide 523 in exon 6 of the AK2 gene (523delC),
+resulting in a substitution of a termination codon for a leucine at
+codon 183 (L183X). This mutation was not detected in her sister and each
+parent was found to be a carrier.
+
+.0009
+RETICULAR DYSGENESIS
+AK2, ARG186CYS
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) found compound heterozygosity for mutations in the AK2 gene: a
+C-to-T transition at nucleotide 556 in exon 6, resulting in an
+arg-to-cys substitution at codon 186 (R186C), and an exon 2 deletion
+(see 103020.0010).
+
+.0010
+RETICULAR DYSGENESIS
+AK2, EX2 DEL
+
+In a female with reticular dysgenesis (267500) from a nonconsanguineous
+family, Lagresle-Peyrou et al. (2009) identified compound heterozygosity
+for deletion of exon 2 of the AK2 gene and an arg186-to-cys substitution
+(103020.0009). Each parent was a carrier of one of the mutations.
+
+.0011
+RETICULAR DYSGENESIS
+AK2, ARG103TRP
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a C-to-T transition at nucleotide 307 in exon 3 of the
+AK2 gene, resulting in an arg-to-trp substitution at codon 103 (R103W).
+Each of her parents was a carrier for this mutation, which occurs in a
+highly conserved amino acid residue.
+
+.0012
+RETICULAR DYSGENESIS
+AK2, LYS233TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a 5-kb deletion following nucleotide 633 (633del5kb),
+resulting in a lys-to-ter substitution at codon 233 (K233X). The patient
+was homozygous for this mutation. Two of her 3 unaffected sibs, and each
+of her unaffected parents, were carriers.
+
+.0013
+RETICULAR DYSGENESIS
+AK2, GLU9TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified homozygosity for a G-to-T transversion at nucleotide
+25 in exon 1 of the AK2 gene, resulting in a glu-to-ter codon
+substitution at amino acid 9 (E9X). The child was homozygous for this
+mutation. Each of her parents was a carrier.
+
+REFERENCE 1. Bruns, G. A. P.; Regina, V. M.: Adenylate kinase-2, a mitochondrial
+enzyme. Biochem. Genet. 15: 477-486, 1977.
+
+2. Carritt, B.; King, J.; Welch, H. M.: Gene order and localization
+of enzyme loci on the short arm of chromosome 1. Ann. Hum. Genet. 46:
+329-335, 1982.
+
+3. Goss, S. J.; Harris, H.: Gene transfer by means of cell fusion.
+II. The mapping of 8 loci on human chromosome 1 by statistical analysis
+of gene assortment in somatic cell hybrids. J. Cell Sci. 25: 39-57,
+1977.
+
+4. Lagresle-Peyrou, C.; Six, E. M.; Picard, C.; Rieux-Laucat, F.;
+Michel, V.; Ditadi, A.; Chappedelaine, C. D.; Morillon, E.; Valensi,
+F.; Simon-Stoos, K. L.; Mullikin, J. C.; Noroski, L. M.; and 10 others
+: Human adenylate kinase 2 deficiency causes a profound hematopoietic
+defect associated with sensorineural deafness. Nature Genet. 41:
+106-111, 2009.
+
+5. Lee, H.-J.; Pyo, J.-O.; Oh, Y.; Kim, H.-J.; Hong, S.; Jeon, Y.-J.;
+Kim, H.; Cho, D.-H.; Woo, H.-N.; Song, S.; Nam, J.-H.; Kim, H. J.;
+Kim, K.-S.; Jung, Y.-K.: AK2 activates a novel apoptotic pathway
+through formation of a complex with FADD and caspase-10. Nature Cell
+Biol. 9: 1303-1310, 2007.
+
+6. Noma, T.; Song, S.; Yoon, Y.-S.; Tanaka, S.; Nakazawa, A.: cDNA
+cloning and tissue-specific expression of the gene encoding human
+adenylate kinase isozyme 2. Biochim. Biophys. Acta 1395: 34-39,
+1998.
+
+7. Pannicke, U.; Honig, M.; Hess, I.; Friesen, C.; Holzmann, K.; Rump,
+E.-M.; Barth, T. F.; Rojewski, M. T.; Schulz, A.; Boehm, T.; Friedrich,
+W.; Schwarz, K.: Reticular dysgenesis (aleukocytosis) is caused by
+mutations in the gene encoding mitochondrial adenylate kinase 2. Nature
+Genet. 41: 101-105, 2009.
+
+8. Van Cong, N.; Billardon, C.; Rebourcet, R.; Kaouel, C. L.-B.; Picard,
+J. Y.; Weil, D.; Frezal, J.: The existence of a second adenylate
+kinase locus linked to PGM-1 and peptidase-C. Ann. Genet. 15: 213-218,
+1972.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/15/2010
+Ada Hamosh - updated: 8/4/2009
+Patricia A. Hartz - updated: 10/28/2008
+Carol A. Bocchini - updated: 8/6/2003
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 06/11/2012
+alopez: 1/26/2010
+terry: 1/15/2010
+terry: 8/13/2009
+carol: 8/12/2009
+terry: 8/4/2009
+mgross: 10/28/2008
+ckniffin: 6/1/2004
+tkritzer: 8/8/2003
+carol: 8/6/2003
+psherman: 4/15/1998
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+reenie: 2/9/1987
+marie: 1/7/1987
+
+602949	TITLE *602949 SIN3-ASSOCIATED POLYPEPTIDE, 18-KD; SAP18
+DESCRIPTION 
+CLONING
+
+An important event in gene expression is the modification of histone
+proteins. Hyperacetylation of core histones has been correlated with
+gene activation, and hypoacetylation with gene repression. SIN3 (see
+607776)-mediated repression of transcription involves the modification
+of histone polypeptides. Zhang et al. (1997) purified a SIN3-containing
+complex from HeLa cells and found that SIN3 was associated with SAP18,
+SAP30 (603378), RBBP4 (602923), RBBP7 (300825), and the histone
+deacetylases HDAC1 (601241) and HDAC2 (605164). By searching sequence
+databases with SAP18 peptide sequences, the authors identified several
+human SAP18 expressed sequence tags from which they constructed a
+full-length hybrid SAP18 cDNA. The predicted 153-amino acid SAP18
+protein is 49% identical to a C. elegans SAP18 homolog. SAP18 has a
+molecular mass of 18 kD by SDS-PAGE. SAP18 was expressed in all tissues
+analyzed.
+
+GENE FUNCTION
+
+Zhang et al. (1997) demonstrated that SAP18 directly interacts with SIN3
+and enhances SIN3-mediated transcriptional repression. They observed
+that SAP18 directs the formation of a repressive complex when tethered
+to the promoter.
+
+REFERENCE 1. Zhang, Y.; Iratni, R.; Erdjument-Bromage, H.; Tempst, P.; Reinberg,
+D.: Histone deacetylases and SAP18, a novel polypeptide, are components
+of a human Sin3 complex. Cell 89: 357-364, 1997.
+
+CREATED Patti M. Sherman: 8/6/1998
+
+EDITED carol: 06/18/2012
+mgross: 11/3/2010
+mgross: 5/12/2003
+alopez: 7/24/2000
+psherman: 9/21/1998
+carol: 8/12/1998
+
+607391	TITLE *607391 SINGLE-STRANDED DNA-BINDING PROTEIN 4; SSBP4
+DESCRIPTION 
+CLONING
+
+By EST database searching with the SSBP2 (607389) sequence as probe,
+Castro et al. (2002) identified 2 additional members of the SSBP gene
+family, SSBP3 (607390) and SSBP4. All 3 SSBP genes share homology with
+the chicken gene CSDP, which encodes a protein that binds
+single-stranded pyrimidine-rich mirror-repeat elements with high
+specificity. The deduced 364-amino acid SSBP4 protein shares 73% and 72%
+sequence identity with human SSBP2 and SSBP3, respectively. SSBP family
+members share a highly conserved N terminus followed by a glycine- and
+proline-rich domain.
+
+GENE STRUCTURE
+
+Castro et al. (2002) determined that the SSBP2, SSBP3, and SSBP4 genes
+all contain 17 exons and have identical intron/exon boundaries,
+suggesting duplication from a common ancestral gene. They also
+identified alternative splicing and additional internal exons for all 3
+genes, suggesting the existence of multiple isoforms for each protein.
+The SSBP4 gene spans less than 25 kb.
+
+MAPPING
+
+By genomic sequence analysis, Castro et al. (2002) mapped the SSBP4 gene
+to chromosome 19p13.1, between markers D19S899 and D19S407.
+
+REFERENCE 1. Castro, P.; Liang, H.; Liang, J. C.; Nagarajan, L.: A novel, evolutionarily
+conserved gene family with putative sequence-specific single-stranded
+DNA-binding activity. Genomics 80: 78-85, 2002.
+
+CREATED Carol A. Bocchini: 11/26/2002
+
+EDITED mgross: 12/03/2002
+carol: 12/2/2002
+
+610862	TITLE *610862 DEGENERATIVE SPERMATOCYTE, DROSOPHILA, HOMOLOG OF, 2; DEGS2
+;;DES2, MOUSE, HOMOLOG OF;;
+SPHINGOLIPID DELTA-4-DESATURASE/C4-HYDROXYLASE
+DESCRIPTION 
+CLONING
+
+By database analysis, followed by RT-PCR of human epidermal keratinocyte
+RNA, Mizutani et al. (2004) cloned DEGS2. The deduced 323-amino acid
+protein has a predicted molecular mass of 37.2 kD and shares 86.4%
+identity and 91.9% similarity with mouse Des2. DEGS2 belongs to the
+desaturase/hydroxylase superfamily, characterized by 3 conserved
+histidine boxes. Compared to DEGS1, DEGS2 has a fourth histidine box and
+a variation in the second amino acid residue of the 3 conserved
+histidine boxes. Using in vitro assays in HEK293 cells, DEGS2 exhibited
+dihydroceramide hydroxylase activity. Northern blot analysis of adult
+human tissues detected a 1.8-kb transcript with highest expression in
+skin, moderate expression in kidney, kidney, large intestine, and small
+intestine, weak expression in brain and lung, and no expression in
+heart, liver, spleen, skeletal muscle, thymus, or placenta. Using RT-PCR
+analysis, Mizutani et al. (2004) found that expression of DEGS2 mRNA was
+regulated during in vitro keratinocyte differentiation and that DEGS2
+transcription was not detected at day 0 or 3 days after differentiation,
+but was found at day 6 and had increased by day 9.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the DEGS2
+gene to chromosome 14 (TMAP RH47801).
+
+REFERENCE 1. Mizutani, Y.; Kihara, A.; Igarashi, Y.: Identification of the
+human sphingolipid C4-hydroxylase, hDES2, and its up-regulation during
+keratinocyte differentiation. FEBS Lett. 563: 93-97, 2004.
+
+CREATED Jennifer L. Goldstein: 3/19/2007
+
+EDITED wwang: 03/19/2007
+
+605566	TITLE *605566 RETICULON 4 RECEPTOR; RTN4R
+;;NOGO RECEPTOR; NGR
+DESCRIPTION 
+CLONING
+
+NOGO (604475) has been identified as a component of the central nervous
+system myelin that prevents axonal regeneration in the adult vertebrate
+central nervous system. Analysis of NogoA (amino-Nogo) has shown that an
+axon-inhibiting domain of 66 amino acids is expressed at the
+extracellular surface and at the endoplasmic reticulum lumen of
+transfected cells and oligodendrocytes. The acidic amino terminus of
+NogoA is detected at the cytosolic face of cellular membranes and may
+contribute to inhibition of axon regeneration at sites of
+oligodendrocyte injury. Fournier et al. (2001) showed that the
+extracellular domain of Nogo (Nogo-66) inhibits axonal extension but
+does not alter nonneuronal cell morphology. In contrast, a multivalent
+form of the N terminus of NogoA affects the morphology of both neurons
+and other cell types. Fournier et al. (2001) identified a
+brain-specific, leucine-rich-repeat protein with high affinity for
+soluble Nogo-66. Cleavage of the Nogo-66 receptor and other
+glycosylphosphatidylinositol (GPI)-linked proteins from axonal surfaces
+renders neurons insensitive to Nogo-66. Nogo-66 receptor expression is
+sufficient to impart Nogo-66 axonal inhibition to unresponsive neurons.
+Disruption of the interaction between Nogo-66 and its receptor provides
+the potential for enhanced recovery after human central nervous system
+(CNS) injury. The Nogo-66 receptor gene encodes a protein of 473 amino
+acids. The predicted protein contains a signal sequence followed by 8
+leucine-rich-repeat (LRR) domains, a flanking LRR C-terminal domain that
+is cysteine rich, a unique region, and a GPI anchorage site.
+Subsequently, both Barton et al. (2003) and Pignot et al. (2003) showed
+that there is an N-terminal LRR domain preceding the 8 LRR domains. By
+Northern blot analysis Fournier et al. (2001) showed that expression of
+the Nogo-66 receptor is widespread in the brain; the areas richest in
+gray matter express the highest levels. Nogo-66 receptor mRNA is not
+detectable in white matter, where NogoA is expressed by
+oligodendrocytes. Northern blot analysis in mouse showed a single band
+of 2.3 kb in the adult brain, indicating that the isolated NgR clone is
+full length. Low levels of this mRNA are observed in heart and kidney
+but not in other peripheral tissues.
+
+Fournier et al. (2001) used oligonucleotide primers based on the
+predicted NOGO receptor cDNA from the genomic sequence to amplify the
+human receptor from an adult brain cDNA library. The deduced protein
+shares 89% sequence identity with the mouse protein. The exons of the
+human NOGO receptor gene are separated by nearly 30 kb.
+
+By Northern blot analysis, Pignot et al. (2003) found a 2.4-kb NGR
+transcript highly expressed in brain, moderately expressed in spleen and
+liver, and weakly expressed in skeletal muscle, lung, kidney, and
+placenta. A brain multitissue array revealed highest NGR expression in
+cerebellum, followed by several cortical areas, amygdala, hippocampus,
+and accumbens nucleus. Much weaker expression was detected in other
+brain regions examined. By digestion of NGR with phospholipase C, Pignot
+et al. (2003) confirmed that NGR has a GPI anchor, and sucrose density
+fractionation of transfected Chinese hamster ovary (CHO) cells
+demonstrated the association of human NGR with lipid rafts.
+
+GENE FUNCTION
+
+GrandPre et al. (2002) identified competitive antagonists of the NOGO
+receptor derived from amino-terminal peptide fragments of NOGO-66. The
+NOGO-66(1-40) antagonist peptide blocks NOGO-66 or CNS myelin inhibition
+of axonal outgrowth in vitro, demonstrating that the NOGO receptor
+mediates a significant portion of axonal outgrowth inhibition by myelin.
+Intrathecal administration of the amino-terminal antagonist peptide to
+rats with midthoracic spinal cord hemisection resulted in significant
+axon outgrowth of the corticospinal tract, and improved functional
+recovery. Thus, GrandPre et al. (2002) concluded that NOGO-66 and the
+NOGO receptor have central roles in limiting axonal regeneration after
+CNS injury.
+
+Wang et al. (2002) demonstrated that a GPI-anchored central nervous
+system myelin protein, oligodendrocyte-myelin glycoprotein (OMG;
+164345), is a potent inhibitor of neurite outgrowth in cultured neurons.
+Like NOGOA (604475), OMGP contributes significantly to the inhibitory
+activity associated with CNS myelin. To further elucidate the mechanisms
+that mediate this inhibitory activity, Wang et al. (2002) screened an
+expression library and identified the NOGO receptor as a high affinity
+OMGP-binding protein. Cleavage of NOGO receptor and other GPI-linked
+proteins from the cell surface renders axons of dorsal root ganglia
+insensitive to OMGP. Introduction of exogenous NOGO receptor confers
+OMGP responsiveness to otherwise insensitive neurons. Thus, OMGP is an
+important inhibitor of neurite outgrowth that acts through the NOGO
+receptor and its associated receptor complex. Wang et al. (2002)
+suggested that interfering with the OMGP/NOGO receptor pathway may allow
+lesioned axons to regenerate after injury in vivo.
+
+Axonal regeneration in the adult CNS is limited by 2 proteins in myelin,
+Nogo and myelin-associated glycoprotein (MAG; 159640). The NOGO receptor
+(NgR) had been identified as an axonal GPI-anchored protein, whereas the
+MAG receptor had remained elusive. Liu et al. (2002) demonstrated that
+MAG binds directly, with high affinity, to NgR. Cleavage of GPI-linked
+proteins from axons protects growth cones from MAG-induced collapse, and
+dominant-negative NgR eliminates MAG inhibition of neurite outgrowth.
+MAG-resistant embryonic neurons were rendered MAG-sensitive by
+expression of NgR. MAG and Nogo-66 activate NgR independently and serve
+as redundant NgR ligands that may limit axonal regeneration after CNS
+injury.
+
+Domeniconi et al. (2002) showed that MAG inhibits axonal regeneration
+through interaction with NgR. They demonstrated that MAG binds
+specifically to an NgR-expressing cell line in a GPI-dependent and
+sialic acid-independent manner. Consistent with a direct interaction of
+MAG and NgR, Domeniconi et al. (2002) observed that MAG precipitates NgR
+from NgR-expressing cells, dorsal root ganglia, and cerebellar neurons.
+Experiments blocking NgR from interacting with MAG prevented inhibition
+of neurite outgrowth by MAG. Using NgR-expressing cell cultures, the
+authors found that MAG and NOGO-66 compete directly for binding to NgR.
+
+In inhibiting neurite outgrowth, several myelin components, including
+the extracellular domain of NOGOA, OMGP, and MAG, exert their effects
+through the same NOGO receptor. The GPI-anchored nature of the NOGO
+receptor indicates the requirement for an additional transmembrane
+protein to transduce the inhibitory signals into the interior of
+responding neurons. Wang et al. (2002) demonstrated that p75 (NGFR;
+162010), a transmembrane protein known to be a receptor for the
+neurotrophin family of growth factors, specifically interacts with the
+NOGO receptor. p75 is required for NOGO receptor-mediated signaling, as
+neurons from p75 knockout mice were no longer responsive to myelin or to
+any of the known NOGO receptor ligands. Blocking the p75-NOGO receptor
+interaction also reduced the activities of these inhibitors. Moreover, a
+truncated p75 protein lacking the intracellular domain, when
+overexpressed in primary neurons, attenuated the same set of inhibitory
+activities, suggesting that p75 is a signal transducer of the Nogo
+receptor-p75 receptor complex. Wang et al. (2002) suggested that
+interfering with p75 and its downstream signaling pathways may allow
+lesioned axons to overcome most of the inhibitory activities associated
+with central nervous system myelin.
+
+Wong et al. (2002) reported that p75(NTR) is a coreceptor for the NOGO
+receptor for MAG (159460) signaling. In cultured human embryonic kidney
+(HEK) cells expressing the NOGO receptor, p75(NTR) was required for
+MAG-induced intracellular calcium elevation. Coimmunoprecipitation
+showed an association of the NOGO receptor with p75(NTR) that could be
+disrupted by an antibody against p75(NTR), and extensive coexpression
+was observed in the developing rat nervous system. Furthermore, a
+p75(NTR) antibody abolished MAG-induced repulsive turning of Xenopus
+axonal growth cones and calcium elevation, both in neurons and in the
+NOGO receptor/p75(NTR)-expressing HEK cells.
+
+Yu et al. (2004) observed that Ngr and p75 were colocalized in
+low-density membrane raft fractions of rat forebrain and cerebellum and
+in cultured cerebellar granule cells. Disruption of lipid rafts by a
+cholesterol-binding reagent reduced Nogo-66 signaling in the cultured
+cells. Yu et al. (2004) concluded that lipid rafts facilitate the
+interaction between Nogo receptor components.
+
+By deletion analysis, Barton et al. (2003) showed that the binding of
+soluble fragments of NOGO, MAG, and NGR itself to cell-surface NGR
+required the entire LRR region (the N-terminal LRR, the 8 central LRRs,
+and the C-terminal LRR) of NGR, but not other portions of the protein.
+
+BIOCHEMICAL FEATURES
+
+He et al. (2003) reported the 1.5-angstrom crystal structure of NGR.
+They found that NGR adopts a leucine-rich repeat (LRR) module whose
+concave exterior surface contains a broad region of evolutionarily
+conserved patches of aromatic residues. A deep cleft at the C-terminal
+base of the LRR may play a role in the association of NGR with the p75
+coreceptor.
+
+Barton et al. (2003) reported the NGR structure to 2.3-angstrom
+resolution. They found that NGR has an elongated banana-like shape with
+approximate dimensions of 80 by 35 by 35 angstroms. It has low secondary
+structure content, consisting mostly of short beta strands that generate
+a long parallel beta sheet spanning the concave surface of the molecule.
+
+MAPPING
+
+Fournier et al. (2001) identified human sequence corresponding to the
+mouse NogoA receptor within a genomic cosmid sequence (GenBank GENBANK
+AC007663) on chromosome 22q11.
+
+MOLECULAR GENETICS
+
+Schizophrenia (181500) or schizoaffective disorders are rather common
+features in patients with DiGeorge/velocardiofacial syndrome (DGS
+188400/VCFS 192430) as a result of 22q11.2 haploinsufficiency. Sinibaldi
+et al. (2004) evaluated the RTN4R gene, which maps within the DGS/VCFS
+critical region, as a potential candidate for schizophrenia
+susceptibility. They screened 120 unrelated Italian patients with
+schizophrenia for mutations in RTN4R using denaturing high performance
+liquid chromatography. Three mutant alleles were detected, including 2
+missense changes (R119W, 605566.0001; R196H, 605566.0002) and 1
+synonymous codon variant. The 2 schizophrenia patients with missense
+changes were strongly resistant to neuroleptic treatment at any dosage.
+Both missense changes were absent in 300 control subjects. Molecular
+modeling revealed that both changes lead to putative structural
+alterations of the native protein.
+
+ANIMAL MODEL
+
+McGee et al. (2005) found that mutations in NgR affect cessation of
+ocular dominance plasticity. In NgR -/- mice, plasticity during the
+critical period was normal, but it continued abnormally such that ocular
+dominance at 45 or 120 days postnatal was subject to the same plasticity
+as at juvenile ages. Thus, physiologic Ngr signaling from myelin-derived
+Nogo, Mag, and Omgp (164345) consolidated the neural circuitry
+established during experience-dependent plasticity. McGee et al. (2005)
+concluded that after pathologic trauma, similar NgR signaling limits
+functional recovery and axonal regeneration.
+
+In vitro, Zheng et al. (2005) found that neurite outgrowth from NgR-null
+mouse dorsal root ganglion or cerebellar granule neurons were inhibited
+by myelin or by a Nogo-66 substrate, similar to wildtype. Ngfr-deficient
+dorsal root ganglion neurons, but not cerebellar neurons, demonstrated
+somewhat less inhibition to myelin, suggesting that Ngfr works through a
+mechanism separate from NgR. In vivo, NgR-null and Ngfr-deficient mice
+did not show enhanced regeneration of corticospinal tract axons after
+spinal hemisection compared to wildtype. Zheng et al. (2005) concluded
+that NgR is not essential for mediating inhibitory signals from CNS
+myelin and does not play a central role in inhibition of axonal growth.
+
+ALLELIC VARIANT .0001
+SCHIZOPHRENIA, SUSCEPTIBILITY TO
+RTN4R, ARG119TRP
+
+In an Italian patient with schizophrenia (181500), Sinibaldi et al.
+(2004) identified a 355C-T transition in the RTN4R gene that resulted in
+an arg119-to-trp (R119W) amino acid substitution. This patient was
+strongly resistant to neuroleptic treatment at any dosage. Molecular
+modeling revealed that this change led to putative structural
+alterations of the native protein.
+
+.0002
+SCHIZOPHRENIA, SUSCEPTIBILITY TO
+RTN4R, ARG196HIS
+
+In an Italian patient with schizophrenia (181500), Sinibaldi et al.
+(2004) identified a 587G-A transition in the RTN4R gene that resulted in
+an arg196-to-his (R196H) amino acid substitution. This patient was
+strongly resistant to neuroleptic treatment at any dosage. Molecular
+modeling revealed that this change led to putative structural
+alterations of the native protein.
+
+REFERENCE 1. Barton, W. A.; Liu, B. P.; Tzvetkova, D.; Jeffrey, P. D.; Fournier,
+A. E.; Sah, D.; Cate, R.; Strittmatter, S. M.; Nikolov, D. B.: Structure
+and axon outgrowth inhibitor binding of the Nogo-66 receptor and related
+proteins. EMBO J. 22: 3291-3302, 2003.
+
+2. Domeniconi, M.; Cao, Z.; Spencer, T.; Sivasankaran, R.; Wang, K.
+C.; Nikulina, E.; Kimura, N.; Cai, H.; Deng, K.; Gao, Y.; He, Z.;
+Filbin, M. T.: Myelin-associated glycoprotein interacts with the
+Nogo66 receptor to inhibit neurite outgrowth. Neuron 35: 283-290,
+2002.
+
+3. Fournier, A. E.; GrandPre, T.; Strittmatter, S. M.: Identification
+of a receptor mediating Nogo-66 inhibition of axonal regeneration. Nature 409:
+341-346, 2001.
+
+4. GrandPre, T.; Li, S.; Strittmatter, S. M.: Nogo-66 receptor antagonist
+peptide promotes axonal regeneration. Nature 417: 547-551, 2002.
+
+5. He, X. L.; Bazan, J. F.; McDermott, G.; Park, J. B.; Wang, K.;
+Tessier-Lavigne, M.; He, Z.; Garcia, K. C.: Structure of the Nogo
+receptor ectodomain: a recognition module implicated in myelin inhibition. Neuron 38:
+177-185, 2003.
+
+6. Liu, B. P.; Fournier, A.; GrandPre, T.; Strittmatter, S. M.: Myelin-associated
+glycoprotein as a functional ligand for the Nogo-66 receptor. Science 297:
+1190-1193, 2002.
+
+7. McGee, A. W.; Yang, Y.; Fischer, Q. S.; Daw, N. W.; Strittmatter,
+S. M.: Experience-driven plasticity of visual cortex limited by myelin
+and Nogo receptor. Science 309: 2222-2226, 2005.
+
+8. Pignot, V.; Hein, A. E.; Barske, C.; Wiessner, C.; Walmsley, A.
+R.; Kaupmann, K.; Mayeur, H.; Sommer, B.; Mir, A. K.; Frentzel, S.
+: Characterization of two novel proteins, NgRH1 and NgRH2, structurally
+and biochemically homologous to the Nogo-66 receptor. J. Neurochem. 85:
+717-728, 2003.
+
+9. Sinibaldi, L.; De Luca, A.; Bellacchio, E.; Conti, E.; Pasini,
+A.; Paloscia, C.; Spalletta, G.; Caltagirone, C.; Pizzuti, A.; Dallapiccola,
+B.: Mutations of the Nogo-66 receptor (RTN4R) gene in schizophrenia.
+(Abstract) Hum. Mutat. 24: 534-535, 2004. Note: Full article online.
+
+10. Wang, K. C.; Kim, J. A.; Sivasankaran, R.; Segal, R.; He, Z.:
+p75 interacts with the Nogo receptor as a co-receptor for Nogo, MAG
+and OMgp. Nature 420: 74-78, 2002.
+
+11. Wang, K. C.; Koprivica, V.; Kim, J. A.; Sivasankaran, R.; Guo,
+Y.; Neve, R. L.; He, Z.: Oligodendrocyte-myelin glycoprotein in a
+Nogo receptor ligand that inhibits neurite outgrowth. Nature 417:
+941-944, 2002.
+
+12. Wong, S. T.; Henley, J. R.; Kanning, K. C.; Huang, K.; Bothwell,
+M.; Poo, M.: A p75(NTR) and Nogo receptor complex mediates repulsive
+signaling by myelin-associated glycoprotein. Nature Neurosci. 5:
+1302-1308, 2002.
+
+13. Yu, W.; Guo, W.; Feng, L.: Segregation of Nogo66 receptors into
+lipid rafts in rat brain and inhibition of Nogo66 signaling by cholesterol
+depletion. FEBS Lett. 577: 87-92, 2004.
+
+14. Zheng, B.; Atwal, J.; Ho, C.; Case, L.; He, X.; Garcia, K. C.;
+Steward, O.; Tessier-Lavigne, M.: Genetic deletion of the Nogo receptor
+does not reduce neurite inhibition in vitro or promote corticospinal
+tract regeneration in vivo. Proc. Nat. Acad. Sci. 102: 1205-1210,
+2005.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/29/2006
+Cassandra L. Kniffin - updated: 4/24/2006
+Ada Hamosh - updated: 10/10/2005
+Patricia A. Hartz - updated: 5/26/2005
+Victor A. McKusick - updated: 1/10/2005
+Dawn Watkins-Chow - updated: 11/27/2002
+Ada Hamosh - updated: 11/14/2002
+Ada Hamosh - updated: 9/18/2002
+Ada Hamosh - updated: 7/12/2002
+Ada Hamosh - updated: 5/28/2002
+
+CREATED Ada Hamosh: 1/19/2001
+
+EDITED wwang: 10/06/2006
+wwang: 10/5/2006
+terry: 9/29/2006
+wwang: 5/10/2006
+ckniffin: 4/24/2006
+alopez: 10/11/2005
+terry: 10/10/2005
+carol: 8/8/2005
+carol: 7/21/2005
+wwang: 6/7/2005
+terry: 5/26/2005
+alopez: 2/15/2005
+wwang: 1/25/2005
+terry: 1/10/2005
+alopez: 12/19/2002
+carol: 12/6/2002
+tkritzer: 11/27/2002
+alopez: 11/20/2002
+terry: 11/18/2002
+alopez: 11/14/2002
+terry: 11/12/2002
+alopez: 9/20/2002
+tkritzer: 9/18/2002
+alopez: 7/16/2002
+terry: 7/12/2002
+alopez: 5/29/2002
+terry: 5/28/2002
+carol: 1/19/2001
+
+142100	TITLE *142100 HEMOGLOBIN--EPSILON LOCUS; HBE1
+DESCRIPTION The epsilon locus determines the epsilon, or non-alpha, chain of
+embryonic hemoglobin (originally known as Gower-2). No mutations
+affecting the epsilon chain have yet been identified. Gower-1 is a
+tetramer of epsilon chains. The epsilon locus may be linked to the
+delta-beta complex. The amino acid sequence of the epsilon chain is
+similar to those of the delta and beta chains. Furthermore, the
+homologous chain in the mouse is linked to the beta locus (Gilman and
+Smithies, 1968). Shen and Smithies (1982) determined the complete
+nucleotide sequence of the 3.4-kb stretch of DNA 5-prime to the epsilon
+gene where a pseudogene (psi-beta-2) was thought to reside (Fritsch et
+al., 1980). They concluded that no globin-related gene exists there and
+provided a possible explanation for the earlier contrary conclusion. By
+studies in transgenic mice, Raich et al. (1992) demonstrated that
+deletion of a 'negative element' located between -182 and -467 bp
+upstream of the HBE gene cap site resulted in continuation of HBE gene
+expression in the definitive erythroblasts of the fetal liver and in the
+red blood cells of adult animals. The findings provided direct in vivo
+evidence that cis-acting silencing elements are involved in the
+developmental control of the HBE gene.
+
+Bailey et al. (1992) used the epsilon-globin gene to examine the debate
+as to whether all bats fall into a monophyletic order (Chiroptera) or
+have diphyletic origins with the megabats actually being 'flying
+primates.' Results of parsimony analysis supported bat monophyly.
+
+He and Russell (2002) analyzed the anti-sickling properties of HBE both
+in vitro as well as in vivo in a well-established mouse model of sickle
+cell anemia (603903). These animals, expressing 100% of human Hb S
+(141900.0243), display a chronic hemolytic anemia with compensatory
+marrow and extramedullary erythropoiesis, abundant circulating sickled
+erythrocytes, and chronic tissue damage evidenced by parallel
+histopathologic and functional deficits. By comparison, related mice
+that coexpress Hb S as well as HBE exhibited normal physiologic,
+morphologic, histologic, and functional attributes. Subsequent in vitro
+analyses substantiated results from whole-animal studies, indicating
+that the polymerization of deoxygenated Hb S can be significantly slowed
+by relatively small quantities of HBE. Together, the in vivo and in
+vitro analyses suggested that reactivation of epsilon-globin gene
+expression would be therapeutically beneficial to adults with sickle
+phenotypes, and provide a rationale for detailed investigations into the
+molecular basis for its developmental silencing.
+
+ADDITIONAL REFERENCES Baralle et al. (1980); Gale et al. (1979); Huehns et al. (1964); Huehns
+et al. (1961); Ramsay et al. (1986)
+REFERENCE 1. Bailey, W. J.; Slightom, J. L.; Goodman, M.: Rejection of the
+'flying primate' hypothesis by phylogenetic evidence from the epsilon-globin
+gene. Science 256: 86-89, 1992. Note: Erratum: Science 260: 608
+only, 1993.
+
+2. Baralle, F. E.; Shoulders, C. C.; Proudfoot, N. J.: The primary
+structure of the human epsilon-globin gene. Cell 21: 621-626, 1980.
+
+3. Fritsch, E. F.; Lawn, R. M.; Maniatis, T.: Molecular cloning and
+characterization of the human beta-like globin gene cluster. Cell 19:
+959-972, 1980.
+
+4. Gale, R. E.; Clegg, J. B.; Huehns, E. R.: Human embryonic haemoglobins
+Gower 1 and Gower 2. Nature 280: 162-164, 1979.
+
+5. Gilman, J. G.; Smithies, O.: Fetal hemoglobin variants in mice. Science 160:
+885-886, 1968.
+
+6. He, Z.; Russell, J. E.: A human embryonic hemoglobin inhibits
+Hb S polymerization in vitro and restores a normal phenotype to mouse
+models of sickle cell disease. Proc. Nat. Acad. Sci. 99: 10635-10640,
+2002.
+
+7. Huehns, E. R.; Dance, N.; Beaven, G. H.; Hecht, F.; Motulsky, A.
+G.: Human embryonic hemoglobin. Nature 201: 1095-1097, 1964.
+
+8. Huehns, E. R.; Flynn, F. V.; Butler, E. A.; Beaven, G. H.: Two
+new hemoglobin variants in a very young human embryo. Nature 189:
+496-497, 1961.
+
+9. Raich, N.; Papayannopoulou, T.; Stamatoyannopoulos, G.; Enver,
+T.: Demonstration of a human epsilon-globin gene silencer with studies
+in transgenic mice. Blood 79: 861-864, 1992.
+
+10. Ramsay, M.; Thomson, J. A.; Jenkins, T.: A new epsilon globin
+HincII variant fragment length in a South African Negroid family. J.
+Med. Genet. 23: 145-150, 1986.
+
+11. Shen, S.-H.; Smithies, O.: Human globin psi-beta-2 is not a globin-related
+sequence. Nucleic Acids Res. 10: 7809-7818, 1982.
+
+CONTRIBUTORS Victor A. McKusick - updated: 9/27/2002
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 04/01/2013
+alopez: 5/27/2004
+terry: 5/21/2004
+cwells: 10/1/2002
+carol: 9/27/2002
+alopez: 8/1/1997
+mimadm: 9/24/1994
+terry: 5/9/1994
+carol: 8/11/1992
+carol: 5/11/1992
+carol: 5/1/1992
+supermim: 3/16/1992
+
+612647	TITLE *612647 RADIAL SPOKE HEAD 4, CHLAMYDOMONAS, HOMOLOG OF, A; RSPH4A
+DESCRIPTION 
+DESCRIPTION
+
+Radial spokes are regularly spaced along cilia, sperm, and flagella
+axonemes and have a multisubunit 'stalk' and 'head' that form a signal
+transduction scaffold between the central microtubule pair and dynein
+(see 603297) arms. RSPH4A is predicted to be a component of the radial
+spoke head based on homology with proteins in the biflagellate alga
+Chlamydomonas reinhardtii and other ciliates (Castleman et al., 2009).
+
+CLONING
+
+By genomewide linkage analysis and positional candidate gene analysis in
+5 families with primary ciliary dyskinesia linked to chromosome 6q22
+(CILD11; 612649) and central microtubule pair abnormalities, Castleman
+et al. (2009) identified the RSPH4A and RSPH9 genes (612648). The
+deduced RSPH4A protein contains 716 amino acids and shares about 30%
+identity with the Chlamydomonas radial spoke head proteins Rsp4 and
+Rsp6.
+
+GENE STRUCTURE
+
+Castleman et al. (2009) determined that the RSPH4A gene contains 6
+exons.
+
+MAPPING
+
+By genomic sequence analysis, Castleman et al. (2009) mapped the RSPH4A
+gene to chromosome 6q22.1.
+
+MOLECULAR GENETICS
+
+In affected members of 4 Pakistani families with CILD11, Castleman et
+al. (2009) identified a homozygous mutation in the RSPH4A gene
+(612647.0001). In affected members of a family of northern European
+descent with CILD11, they identified compound heterozygosity for 2
+mutations in the RSPH4A gene (612647.0001; 612647.0002). The patients
+had classic respiratory features of CILD, but no situs abnormalities.
+Electron microscopic studies showed complete absence of the central
+microtubule pair of the ciliary axoneme. These findings suggested that
+radial spoke proteins are not essential for embryonic nodal ciliary
+function, which is important in the determination of left-right axis
+development.
+
+Kott et al. (2013) identified pathogenic mutations in the RSPH4A gene
+(see, e.g., 612647.0004-612647.0005) in 7 (14%) of 48 families with with
+a specific CILD phenotype characterized by ciliary central complex and
+radial spoke defects. None of the patients had situs inversus.
+
+ALLELIC VARIANT .0001
+CILIARY DYSKINESIA, PRIMARY, 11, WITHOUT SITUS INVERSUS
+RSPH4A, GLN154TER
+
+In all 10 affected members of 4 Pakistani families with primary ciliary
+dyskinesia-11 (612649), Castleman et al. (2009) identified a homozygous
+460C-T transition in exon 1 of the RSPH4A gene, resulting in a
+gln154-to-ter (Q154X) substitution. The patients had classic respiratory
+features of CILD, but no situs abnormalities. Electron microscopic
+studies showed complete absence of the central microtubule pair of the
+ciliary axoneme.
+
+.0002
+CILIARY DYSKINESIA, PRIMARY, 11, WITHOUT SITUS INVERSUS
+RSPH4A, GLN109TER
+
+In affected individuals in a family of northern European descent with
+CILD11 (612649), Castleman et al. (2009) identified compound
+heterozygosity for 2 mutations in the RSPH4A gene: a 325C-T transition
+in exon 1 resulting in a gln109-to-ter (Q109X) substitution, and a
+1468C-T transition in exon 3 resulting in an arg490-to-ter (R490X;
+612647.0003) substitution. The patients had classic respiratory features
+of CILD, but no situs abnormalities. Electron microscopic studies showed
+complete absence of the central microtubule pair of the ciliary axoneme.
+
+.0003
+CILIARY DYSKINESIA, PRIMARY, 11, WITHOUT SITUS INVERSUS
+RSPH4A, ARG490TER
+
+See Castleman et al. (2009) and 612647.0002.
+
+.0004
+CILIARY DYSKINESIA, PRIMARY, 11, WITHOUT SITUS INVERSUS
+RSPH4A, 1-BP DEL, 667A
+
+In a family with primary CILD11 (612649) without situs inversus, Kott et
+al. (2013) identified compound heterozygous mutations in the RSPH4A
+gene: a 1-bp deletion (667delA), resulting in premature termination
+(Ser223AlafsTer15), and a 1-bp deletion (c.1720delA; 612647.0005),
+resulting premature termination (Thr424GlnfsTer19). Transmission
+electron microscopy showed that a variable proportion of cilia on
+respiratory epithelial cells had central complex defects. Radial spokes
+were absent in cilia with no central microtubule complex.
+
+.0005
+CILIARY DYSKINESIA, PRIMARY, 11, WITHOUT SITUS INVERSUS
+RSPH4A, 1-BP DEL, 1720A
+
+See 612647.0004 and Kott et al. (2013).
+
+REFERENCE 1. Castleman, V. H.; Romio, L.; Chodhari, R.; Hirst, R. A.; de Castro,
+S. C. P.; Parker, K. A.; Ybot-Gonzalez, P.; Emes, R. D.; Wilson, S.
+W.; Wallis, C.; Johnson, C. A.; Herrera, R. J.; and 12 others:
+Mutations in radial spoke head protein genes RSPH9 and RSPH4A cause
+primary ciliary dyskinesia with central-microtubular-pair abnormalities. Am.
+J. Hum. Genet. 84: 197-209, 2009.
+
+2. Kott, E.; Legendre, M.; Copin, B.; Papon, J.-F.; Dastot-Le Moal,
+F.; Montantin, G.; Duquesnoy, P.; Piterboth, W.; Amram, D.; Bassinet,
+L.; Beucher, J.; Beydon, N.; and 18 others: Loss-of-function mutations
+in RSPH1 cause primary ciliary dyskinesia with central-complex and
+radial-spoke defects. Am. J. Hum. Genet. 93: 561-570, 2013.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/16/2013
+Cassandra L. Kniffin - updated: 3/5/2009
+
+CREATED Patricia A. Hartz: 3/5/2009
+
+EDITED carol: 11/05/2013
+carol: 10/17/2013
+ckniffin: 10/16/2013
+carol: 3/9/2009
+ckniffin: 3/5/2009
+mgross: 3/5/2009
+
+602284	TITLE *602284 BONE MORPHOGENETIC PROTEIN 8B; BMP8B
+;;BMP8;;
+OSTEOGENIC PROTEIN 2; OP2
+DESCRIPTION The bone morphogenetic proteins (BMPs) are a family of secreted
+signaling molecules that can induce ectopic bone growth. Many BMPs,
+including BMP8B, are part of the transforming growth factor-beta (TGFB)
+superfamily (see 190180) (Ozkaynak et al., 1992).
+
+CLONING
+
+Using a mouse Op2 probe, Ozkaynak et al. (1992) isolated a novel BMP
+cDNA, which they designated OP2, from a human hippocampus library. The
+predicted 402-amino acid OP2 protein is processed into a 139-amino acid
+mature form. In the TGFB domain, OP2 shows 74% amino acid sequence
+identity to OP1 (BMP7; 112267), and 55 to 74% identity to other BMPs. In
+mice, Northern blot analysis revealed high levels of Op2 mRNA as 3- and
+5-kb transcripts in early embryos, but no detectable levels in any
+organs studied.
+
+Using quantitative RT-PCR, Whittle et al. (2012) detected variable Bmp8b
+expression in all mouse tissues examined, with high expression in testis
+and brown adipose tissue, much lower expression in brain and
+subcutaneous white adipose tissue, and very low expression in gonadal
+white adipose tissue, liver, kidney, heart, and skeletal muscle.
+
+MAPPING
+
+By interspecific backcross analysis, DiLeone et al. (1997) mapped the
+mouse Bmp8 gene to chromosome 4. Based on homology of synteny, they
+mapped the human gene to 1p35-p32.
+
+Hartz (2012) mapped the BMP8B gene to chromosome 1p34.2 based on an
+alignment of the BMP8B sequence (GenBank GENBANK BC023526) with the
+genomic sequence (GRCh37).
+
+GENE FUNCTION
+
+Whittle et al. (2012) found that expression of Bmp8b in mice was
+upregulated by refeeding after fasting and by activation of thermogenic
+responses. Reporter gene assays revealed that the Bmp8b promoter could
+be induced by thermogenic thyroid hormone receptor beta-1 (THRB; 190160)
+and by PPAR-alpha (PPARA; 170998) or PPAR-gamma (PPARG; 601487).
+Treatment of mouse brown adipocytes with recombinant human BMP8B
+increased Smad (see 601595) phosphorylation and activation of
+hormone-sensitive lipase (LIPE; 151750) and AMPK (see 602739). BMP8B
+increased the lipolytic response to norepinephrine, and inhibition of
+Alk7 (ACVR1C; 608981) antagonized this effect.
+
+ANIMAL MODEL
+
+Whittle et al. (2012) reported that Bmp8b -/- mice were viable and
+healthy but infertile due to defective primordial germ cell formation. A
+significant number of Bmp8b -/- pups suffered early death, but survival
+increased in a warm environment. Bmp8b -/- mice were prone to weight
+gain, particularly on a high fat diet, and they showed reduced core body
+temperature and impaired adrenergic-dependent thermogenic capacity.
+Intracerebroventricular treatment of Bmp8b -/- mice with recombinant
+human BMP8B resulted in marked weight loss and increased core body
+temperature. The central thermogenic action of BMP8B was dependent upon
+activation levels of hypothalamic Ampk. Whittle et al. (2012) concluded
+that BMP8B has a fundamental role in energy balance regulation in both
+the hypothalamus and brown adipose tissue.
+
+REFERENCE 1. DiLeone, R. J.; King, J. A.; Storm, E. E.; Copeland, N. G.; Jenkins,
+N. A.; Kingsley, D. M.: The Bmp8 gene is expressed in developing
+skeletal tissue and maps near the achondroplasia locus on mouse chromosome
+4. Genomics 40: 196-198, 1997.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/19/2012.
+
+3. Ozkaynak, E.; Schnegelsberg, P. N. J.; Jin, D. F.; Clifford, G.
+M.; Warren, F. D.; Drier, E. A.; Oppermann, H.: Osteogenic protein-2:
+a new member of the transforming growth factor-beta superfamily expressed
+in early embryogenesis. J. Biol. Chem. 267: 25220-25227, 1992.
+
+4. Whittle, A. J.; Carobbio, S.; Martins, L.; Slawik, M.; Hondares,
+E.; Vazquez, M. J.; Morgan, D.; Csikasz, R. I.; Gallego, R.; Rodriguez-Cuenca,
+S.; Dale, M.; Virtue, S.; Villarroya, F.; Cannon, B.; Rahmouni, K.;
+Lopez, M.; Vidal-Puig, A.: BMP8B increases brown adipose tissue thermogenesis
+through both central and peripheral actions. Cell 149: 871-885,
+2012.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/19/2012
+
+CREATED Rebekah S. Rasooly: 1/27/1998
+
+EDITED mgross: 11/13/2012
+mgross: 11/8/2012
+terry: 10/19/2012
+alopez: 3/4/1998
+carol: 1/30/1998
+carol: 1/28/1998
+
+123857	TITLE *123857 CYSTATIN 4; CST4
+;;CYSTATIN S
+DESCRIPTION 
+CLONING
+
+See CST1 (123855) and CST5 (123858) for general information about
+cystatins, inhibitors of cysteine proteinases. Saitoh et al. (1991)
+cloned the CST4 gene by screening a genomic library with the CST1 gene.
+The CST4 gene encodes the 141-amino acid precursor form of cystatin S.
+(The cystatin D gene was originally called CST4 but later renamed CST5.)
+
+By RNase protection assay of 23 human tissues, Dickinson et al. (2002)
+found that the level of CST4 was highest in submandibular gland,
+intermediate in parotid gland, lacrimal gland, and gallbladder, lower in
+kidney and seminal vesicles, and lowest in prostate.
+
+GENE STRUCTURE
+
+Saitoh et al. (1991) determined that the CST4 gene is composed of 3
+exons spanning less than 4 kb.
+
+MAPPING
+
+Dickinson et al. (1994) mapped the CST4 gene to 20p11.2 by fluorescence
+in situ hybridization. CST4 is clustered with other family II cystatins
+in a region that spans less than 905 kb.
+
+REFERENCE 1. Dickinson, D. P.; Thiesse, M.; Hicks, M. J.: Expression of type
+2 cystatin genes CST1-CST5 in adult human tissues and the developing
+submandibular gland. DNA Cell Biol. 21: 47-65, 2002.
+
+2. Dickinson, D. P.; Zhao, Y.; Thiesse, M.; Siciliano, M. J.: Direct
+mapping of seven genes encoding human type 2 cystatins to a single
+site located at 20p11.2. Genomics 24: 172-175, 1994.
+
+3. Saitoh, E.; Isemura, S.; Sanada, K.; Ohnishi, K.: The human cystatin
+gene family: cloning of three members and evolutionary relationship
+between cystatins and Bowman-Birk type proteinase inhibitors. Biomed.
+Biochim. Acta 50: 599-605, 1991.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/30/2006
+Rebekah S. Rasooly - updated: 4/10/1998
+
+CREATED Victor A. McKusick: 8/6/1991
+
+EDITED alopez: 09/18/2012
+wwang: 9/6/2006
+terry: 8/30/2006
+psherman: 4/10/1998
+mark: 3/31/1997
+carol: 1/26/1995
+carol: 6/4/1993
+carol: 3/9/1993
+carol: 3/31/1992
+supermim: 3/16/1992
+carol: 2/21/1992
+
+605978	TITLE *605978 VACUOLAR PROTEIN SORTING 13, YEAST, HOMOLOG OF, A; VPS13A
+;;CHAC GENE; CHAC;;
+CHOREIN;;
+KIAA0986
+DESCRIPTION 
+CLONING
+
+In the choreoacanthocytosis (200150) critical region on chromosome 9q,
+Rampoldi et al. (2001) identified the VPS13A gene, which they called
+CHAC. They identified 2 splice variants: transcript A, which contains
+exons 1 to 68 and 70 to 73 and encodes a 3,174-amino acid protein, and
+transcript B, which contains exons 1 to 69 and encodes a 3,095-amino
+acid protein. Northern blot analysis detected 2 bands of high molecular
+mass corresponding to the 2 splice variants in all tissues analyzed.
+Additionally, RT-PCR detected expression in the erythrocyte precursor
+cell line K562. Rampoldi et al. (2001) showed that the CHAC gene encodes
+an evolutionarily conserved protein, which may be involved in protein
+sorting.
+
+Independently, Ueno et al. (2001) identified the VPS13A gene and found
+that it encodes a 3,096-amino acid protein, which they termed chorein.
+Northern blot analysis detected a 10-kb transcript in brain, heart,
+skeletal muscle, and kidney.
+
+By EST database analysis and RT-PCR of lymphoid cell line and brain RNA,
+Velayos-Baeza et al. (2004) identified several additional splice
+variants of VPS13A generated by exon skipping or utilization of
+alternative internal exons. Northern blot analysis and RT-PCR detected
+VPS13A expression at variable levels in all tissues examined, and
+transcript encoding the 3,174-amino acid protein was the major variant.
+
+GENE STRUCTURE
+
+Rampoldi et al. (2001) determined that the VPS13A gene contains 73 exons
+and spans 250 kb. Velayos-Baeza et al. (2004) identified 5 additional
+alternative exons in the VPS13A gene, exons 7b, 31b, 34b, 68b, and 69b,
+but 3 of these, exons 31b, 34b, and 69b, have stop codons in all 3
+reading frames.
+
+MAPPING
+
+Rampoldi et al. (2001) mapped the VPS13A gene to chromosome 9q21-q22.
+Velayos-Baeza et al. (2004) mapped the mouse Vps13a gene to chromosome
+19A.
+
+MOLECULAR GENETICS
+
+In affected members of 11 families with choreoacanthocytosis, Rampoldi
+et al. (2001) identified 16 different mutations in the VPS13A gene (see,
+e.g., 605978.0001).
+
+In 4 affected patients from 3 Japanese pedigrees with
+choreoacanthocytosis, Ueno et al. (2001) identified a homozygous
+deletion in the coding region of the VPS13A gene (605978.0003).
+
+Among 43 patients with choreoacanthocytosis, Dobson-Stone et al. (2002)
+identified 57 different mutations distributed throughout the CHAC gene
+(see, e.g., 605978.0004). In 7 patients, only 1 heterozygous mutation
+was found; in 4 patients, no disease mutations were found. The authors
+noted that small gene deletions or rearrangements may not have been
+detected in these patients.
+
+Dobson-Stone et al. (2005) stated that 75 different mutations in the
+VPS13A gene had been identified in 58 probands with
+choreoacanthocytosis.
+
+ALLELIC VARIANT .0001
+CHOREOACANTHOCYTOSIS
+VPS13A, ILE90LYS
+
+In a patient with choreoacanthocytosis (200150), Rampoldi et al. (2001)
+found compound heterozygosity for a 269T-A transversion in exon 4 of the
+VPS13A gene and an insertion of a T between nucleotides 6404 and 6405 in
+exon 48. The mutations resulted in an ile90-to-lys (I90K) amino acid
+change and a frameshift, respectively.
+
+.0002
+CHOREOACANTHOCYTOSIS
+VPS13A, 1-BP INS, 6404T
+
+See 605978.0001 and Rampoldi et al. (2001).
+
+.0003
+CHOREOACANTHOCYTOSIS
+VPS13A, 260-BP DEL
+
+In affected members of 3 Japanese families with choreoacanthocytosis
+(200150), Ueno et al. (2001) identified a homozygous 260-bp deletion in
+the VPS13A gene, leading to a truncated protein. The families originated
+from a small area in Japan, and haplotype analysis indicated a founder
+effect. Some of the patients' parents, who were heterozygous for the
+mutation, showed a slight degree of acanthocytosis in peripheral blood
+but no distinct neurologic abnormalities except for cryptogenic abducens
+palsy in 1 parent.
+
+.0004
+CHOREOACANTHOCYTOSIS
+VPS13A, ARG208TER
+
+In 3 patients with choreoacanthocytosis, Dobson-Stone et al. (2002)
+identified a 622C-T change in exon 9 of the CHAC gene, resulting in an
+arg208-to-ter nonsense substitution (R208X). One patient was homozygous
+for the mutation and 2 others were compound heterozygous for R208X and
+another CHAC mutation. The R208X mutation had previously been reported
+by Rampoldi et al. (2001) in a family with choreoacanthocytosis.
+
+.0005
+CHOREOACANTHOCYTOSIS
+VPS13A, 8035G-A
+
+In 2 affected sibs from a Japanese family with choreoacanthocytosis
+(200150) with apparent autosomal dominant inheritance, Saiki et al.
+(2003) identified a heterozygous G-to-A transversion at the last
+nucleotide of exon 57 of the CHAC gene, predicted to induce skipping of
+exon 57 and premature termination of the protein. The mutation was not
+detected in their unaffected mother. Family history revealed that 3
+other living family members were affected and 2 deceased members were
+believed to be affected. All 5 living affected members showed
+acanthocytosis (approximately 15-20%) and involuntary movements. In an
+erratum, the authors stated that an error in sequencing had occurred and
+the inheritance pattern should have been reported as autosomal recessive
+(pseudodominant). Tomiyasu et al. (2011) identified the 2 mutations in
+the VPS13A gene in this family: an 8035G-A transition in exon 57,
+causing a frameshift and premature termination (Ile2652HisfsTer12), and
+a 1305G-A transition in exon 15, resulting in a trp435-to-ter (W435X;
+605978.0010) substitution; the latter mutation was also identified in
+the unaffected mother.
+
+.0006
+CHOREOACANTHOCYTOSIS
+VPS13A, 1-BP DEL, 6059C
+
+In 2 unrelated males of Ashkenazi Jewish descent with
+choreoacanthocytosis (200150), Lossos et al. (2005) identified a
+homozygous 1-bp deletion (6059delC) in exon 46 of the VPS13A gene,
+predicted to result in premature termination of the protein.
+
+.0007
+CHOREOACANTHOCYTOSIS
+VPS13A, 7-KB DEL
+
+In an Iraqi Jewish woman with choreoacanthocytosis (200150), Lossos et
+al. (2005) identified a homozygous 7-kb deletion spanning exon 23 of the
+VPS13A gene. She had trichotillomania and anxiety but little
+neuromuscular involvement.
+
+.0008
+CHOREOACANTHOCYTOSIS
+VPS13A, 37-KB DEL
+
+In affected members of 3 French Canadian families with
+choreoacanthocytosis (200150), Dobson-Stone et al. (2005) identified a
+homozygous 37-kb deletion in the VPS13A gene, resulting in the deletion
+of exons 70 through 73. The deletion also encompassed the 2 terminal
+exons of the neighboring GNA14 gene (604397). Haplotype analysis
+indicated a founder effect.
+
+.0009
+CHOREOACANTHOCYTOSIS
+VPS13A, 2-BP DUP, 3556AC
+
+In 2 Mexican mestizo sisters, born of consanguineous parents, with
+choreoacanthocytosis (200150), Ruiz-Sandoval et al. (2007) identified a
+homozygous 2-bp duplication (3556dupAC) in exon 33 of the VPS13A gene,
+resulting in a frameshift and premature termination. The proband had
+onset at age 32 years and showed severe progression of the disorder; at
+age 42, she was emaciated, anarthric, and reactive only to simple
+commands. In contrast, her sister had onset at age 45 years and
+primarily showed motor and verbal tics, paranoid behavior, and
+depression.
+
+.0010
+CHOREOACANTHOCYTOSIS
+VPS13A, TRP435TER
+
+See 605978.0005 and Tomiyasu et al. (2011).
+
+REFERENCE 1. Dobson-Stone, C.; Danek, A.; Rampoldi, L.; Hardie, R. J.; Chalmers,
+R. M.; Wood, N. W.; Bohlega, S.; Dotti, M. T.; Federico, A.; Shizuka,
+M.; Tanaka, M.; Watanabe, M.; and 32 others: Mutational spectrum
+of the CHAC gene in patients with chorea-acanthocytosis. Europ. J.
+Hum. Genet. 10: 773-781, 2002.
+
+2. Dobson-Stone, C.; Velayos-Baeza, A.; Jansen, A.; Andermann, F.;
+Dubeau, F.; Robert, F.; Summers, A.; Lang, A. E.; Chouinard, S.; Danek,
+A.; Andermann, E.; Monaco, A. P.: Identification of a VPS13A founder
+mutation in French Canadian families with chorea-acanthocytosis. Neurogenetics 6:
+151-158, 2005.
+
+3. Lossos, A.; Dobson-Stone, C.; Monaco, A. P.; Soffer, D.; Rahamim,
+E.; Newman, J. P.; Mohiddin, S.; Fananapazir, L.; Lerer, I.; Linetsky,
+E.; Reches, A.; Argov, Z.; Abramsky, O.; Gadoth, N.; Sadeh, M.; Gomori,
+J. M.; Boher, M.; Meiner, V.: Early clinical heterogeneity in choreoacanthocytosis. Arch.
+Neurol. 62: 611-614, 2005.
+
+4. Rampoldi, L.; Dobson-Stone, C.; Rubio, J. P.; Danek, A.; Chalmers,
+R. M.; Wood, N. W.; Verellen, C.; Ferrer, X.; Malandrini, A.; Fabrizi,
+G. M.; Brown, R.; Vance, J.; Pericak-Vance, M.; Rudolf, G.; Carre,
+S.; Alonso, E.; Manfredi, M.; Nemeth, A. H.; Monaco, A. P.: A conserved
+sorting-associated protein is mutant in chorea-acanthocytosis. Nature
+Genet. 28: 119-120, 2001.
+
+5. Ruiz-Sandoval, J. L.; Garcia-Navarro, V.; Chiquete, E.; Dobson-Stone,
+C.; Monaco, A. P.; Alvarez-Palazuelos, L. E.; Padilla-Martinez, J.
+J.; Barrera-Chairez, E.; Rodriguez-Figueroa, E. I.; Perez-Garcia,
+G.: Choreoacanthocytosis in a Mexican family. Arch. Neurol. 64:
+1661-1664, 2007.
+
+6. Saiki, S.; Sakai, K.; Kitagawa, Y.; Saiki, M.; Kataoka, S.; Hirose,
+G.: Mutation in the CHAC gene in a family of autosomal dominant chorea-acanthocytosis. Neurology 61:
+1614-1616, 2003. Note: Erratum: Neurology 77: 701 only, 2011.
+
+7. Tomiyasu, A.; Nakamura, M.; Ichiba, M.; Ueno, S.; Saiki, S.; Morimoto,
+M.; Kobal, J.; Kageyama, Y.; Inui, T.; Wakabayashi, K.; Yamada, T.;
+Kanemori, Y.; and 22 others: Novel pathogenic mutations and copy
+number variations in the VPS13A gene in patients with chorea-acanthocytosis. Am.
+J. Med. Genet. (Neuropsychiat. Genet.) 156B: 620-631, 2011.
+
+8. Ueno, S.; Maruki, Y.; Nakamura, M.; Tomemori, Y.; Kamae, K.; Tanabe,
+H.; Yamashita, Y.; Matsuda, S.; Kaneko, S.; Sano, A.: The gene encoding
+a newly discovered protein, chorein, is mutated in chorea-acanthocytosis. Nature
+Genet. 28: 121-122, 2001.
+
+9. Velayos-Baeza, A.; Vettori, A.; Copley, R. R.; Dobson-Stone, C.;
+Monaco, A. P.: Analysis of the human VPS13 gene family. Genomics 84:
+536-549, 2004.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 10/1/2012
+Cassandra L. Kniffin - updated: 4/10/2008
+Cassandra L. Kniffin - updated: 11/9/2005
+Cassandra L. Kniffin - updated: 8/18/2005
+Patricia A. Hartz - updated: 8/26/2004
+Cassandra L. Kniffin - updated: 3/2/2004
+
+CREATED Victor A. McKusick: 5/29/2001
+
+EDITED carol: 09/06/2013
+terry: 10/2/2012
+terry: 10/1/2012
+carol: 10/1/2012
+carol: 1/6/2012
+wwang: 4/16/2008
+ckniffin: 4/10/2008
+wwang: 11/22/2005
+ckniffin: 11/9/2005
+wwang: 8/19/2005
+ckniffin: 8/18/2005
+mgross: 8/27/2004
+terry: 8/26/2004
+mgross: 3/25/2004
+carol: 3/2/2004
+ckniffin: 3/2/2004
+carol: 2/25/2004
+ckniffin: 2/3/2004
+alopez: 5/29/2001
+

@@ -1,0 +1,1938 @@
+615428	TITLE *615428 DEAD BOX POLYPEPTIDE 47; DDX47
+DESCRIPTION 
+DESCRIPTION
+
+DDX47 is predicted to be an RNA helicase with a role in early ribosomal
+biogenesis (Sekiguchi et al., 2006).
+
+CLONING
+
+Sekiguchi et al. (2006) cloned DDX47 by PCR of a human Burkitt lymphoma
+cDNA library. The deduced 455-amino acid protein has a DEADc RNA
+helicase domain in its N-terminal half, followed by a helicase
+superfamily C-terminal (HELICc) domain. It also has an N-terminal
+nuclear export signal and a C-terminal nuclear localization signal.
+Fluorescence-tagged DDX47 colocalized with the nucleolar proteins NOP132
+(NOL8; 611534) and KIAA0559 (NAP1; 608865) in nucleoli of transfected
+HeLa cells.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation and mass spectrometric analyses, Lee et al.
+(2005) identified DDX47 as a binding partner of GABARAP (605125) in
+human 2774 and SKOV-3 ovarian tumor cell lysates. Yeast 2-hybrid
+analysis confirmed the interaction. Overexpression of either DDX47 or
+GABARAP alone had no effect on proliferation of SKOV-3 cells; however,
+their coexpression inhibited cell proliferation and induced apoptosis.
+
+Sekiguchi et al. (2006) characterized proteins that immunoprecipitated
+with epitope-tagged NOP132 from human 293EBNA cells. Mass spectrometric
+and database analysis identified DDX18 (606355) and DDX47, in addition
+to many proteins from the large and small ribosomal subunits and
+proteins previously characterized in human pre-ribosomal nucleoprotein
+complexes. A similar complement of proteins immunoprecipitated with
+DDX18 or DDX47. Coimmunoprecipitation experiments confirmed association
+of NOP132 with DDX18 and DDX47, but not with other DDX proteins. RNase
+treatment significantly decreased association of NOP132 with DDX18 and
+DDX47, suggesting that their interaction depends on RNA. Similarly,
+RNase treatment released most of the NOP132-, DDX18-, and
+DDX47-associated proteins. Epitope-tagged DDX47 associated with several
+rRNA precursors and with 18S, 5.8S, and 28S rRNA, suggesting that DDX47
+is involved in early stages of pre-rRNA processing. Knockdown of NOP132
+by small interfering RNA caused mislocalization of DDX47 to the
+nucleolar periphery. Knockdown of either NOP132 or DDX47 decreased the
+amount of mature rRNA and rRNA precursors. Mutation analysis revealed
+that the coiled-coil region of NOP132 interacted with the HELICc motif
+of DDX47. Sekiguchi et al. (2006) concluded that NOP132 is required for
+proper targeting of DDX47 to the nucleolar organizing region, and that
+DDX47 has a role in early ribosome biogenesis.
+
+MAPPING
+
+Hartz (2013) mapped the DDX47 gene to chromosome 12p13.1 based on an
+alignment of the DDX47 sequence (GenBank GENBANK AF078843) with the
+genomic sequence (GRCh37). Sekiguchi et al. (2006)
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  9/20/2013.
+
+2. Lee, J. H.; Rho, S. B.; Chun, T.: GABA-A receptor-associated protein
+(GABARAP) induces apoptosis by interacting with DEAD (Asp-Glu-Ala-Asp/His)
+box polypeptide 47 (DDX 47). Biotech. Lett. 27: 623-628, 2005.
+
+3. Sekiguchi, T.; Hayano, T.; Yanagida, M.; Takahashi, N.; Nishimoto,
+T.: NOP132 is required for proper nucleolus localization of DEAD-box
+RNA helicase DDX47. Nucleic Acids Res. 34: 4593-4608, 2006.
+
+CREATED Patricia A. Hartz: 9/24/2013
+
+EDITED mgross: 09/24/2013
+
+607781	TITLE *607781 PROGESTIN AND ADIPOQ RECEPTOR FAMILY, MEMBER 5; PAQR5
+;;MEMBRANE PROGESTIN RECEPTOR, GAMMA; MPRG
+DESCRIPTION 
+CLONING
+
+Using homology with the sequence of seatrout membrane progestin
+receptor, Zhu et al. (2003) identified ESTs containing MPRG, and they
+cloned full-length human, mouse, and pufferfish MPRG cDNAs. The deduced
+proteins contain about 330 amino acids, consisting of an extracellular N
+terminus, an intracellular C terminus, and 7 transmembrane domains.
+Northern blot analysis detected a 5.8-kb transcript expressed at high
+levels only in kidney. RNA dot blot analysis detected highest expression
+in adult and fetal kidney, colon, lung carcinoma, and HeLa cells, and
+showed possible expression in adrenal gland and normal lung.
+
+Tang et al. (2005) stated that the 7-transmembrane domain of the
+full-length 330-amino acid PAQR5 protein shares significant similarity
+with those of ADIPOR1 (607945) and ADIPOR2 (607946). The mouse ortholog
+shares 91% amino acid identity with human PAQR5. RT-PCR detected highest
+PAQR5 expression in human lung, colon, and small intestine. Weaker
+expression was detected in pancreas, lymph node, kidney, brain, testis,
+bladder, skin, and adult bone marrow, and little to none was detected in
+adrenal gland, stomach, skeletal muscle, adipose, liver, prostate,
+breast, heart, and thymus.
+
+GENE FUNCTION
+
+Zhu et al. (2003) determined that recombinant MPRG, expressed by E.
+coli, showed high-affinity progesterone binding. Steroid competition
+studies showed specific binding to progesterone and several of its
+hydroxylated derivatives, whereas estrogen, androgen, and corticosteroid
+had low or no affinity for the receptor. Association and dissociation
+kinetics were rapid.
+
+GENE STRUCTURE
+
+Tang et al. (2005) determined that the PAQR5 gene contains 7 coding
+exons.
+
+MAPPING
+
+Zhu (2003) stated that the human MPRG gene maps to chromosome 15. By
+genomic sequence analysis, Tang et al. (2005) mapped the PAQR5 gene to
+chromosome 15q23.
+
+REFERENCE 1. Tang, Y. T.; Hu, T.; Arterburn, M.; Boyle, B.; Bright, J. M.; Emtage,
+P. C.; Funk, W. D.: PAQR proteins: a novel membrane receptor family
+defined by an ancient 7-transmembrane pass motif. J. Molec. Evol. 61:
+372-380, 2005.
+
+2. Zhu, Y.: Personal Communication. Baltimore, Md.  4/25/2003.
+
+3. Zhu, Y.; Bond, J.; Thomas, P.: Identification, classification,
+and partial characterization of genes in humans and other vertebrates
+homologous to a fish membrane progestin receptor. Proc. Nat. Acad.
+Sci. 100: 2237-2242, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/1/2012
+
+CREATED Patricia A. Hartz: 5/12/2003
+
+EDITED mgross: 04/19/2012
+mgross: 4/19/2012
+terry: 3/1/2012
+mgross: 5/12/2003
+
+186852	TITLE *186852 PROTEASOME 26S SUBUNIT, ATPase, 3; PSMC3
+;;TAT-BINDING PROTEIN 1; TBP1
+DESCRIPTION 
+CLONING
+
+The human immunodeficiency virus-1 (HIV-1) protein Tat is a potent
+activator of virus gene expression and replication. Nelbock et al.
+(1990) used biotinylated Tat as a probe to screen a lambda-gt11 fusion
+protein library, thereby cloning a cDNA encoding a protein that
+interacts with Tat. Expression of this protein, designated Tat-binding
+protein-1, was observed in a variety of cell lines, with expression
+being highest in human cells. TBP1 was localized predominantly in the
+nucleus, which is consistent with the nuclear localization of Tat. In
+cotransfection experiments, expression of TBP1 was able to suppress
+Tat-mediated transactivation specifically. Nelbock et al. (1990)
+recommended their strategy for direct identification and cloning of
+genes encoding proteins that associate with other proteins to modulate
+their activity in a positive or negative fashion. Ohana et al. (1993)
+suggested that TBP1 is involved in Tat-mediated transcriptional
+activation.
+
+GENE FUNCTION
+
+Ubiquitinated proteins are degraded by a 26S ATP-dependent protease. The
+protease is composed of a 20S catalytic proteasome and 2 PA700
+regulatory modules (see PSMC1; 602706). DeMartino et al. (1996)
+identified a protein complex that enhances PA700 activation of the
+proteasome. They found that 2 proteins, p42 (PSMC6; 602708) and p50
+(PSMC3), are components of both this complex and PA700. By protein
+sequence analysis, DeMartino et al. (1996) determined that p50 and TBP1
+are identical.
+
+Hoyle et al. (1997) stated that the PSMC3 gene encodes a protein with 1
+AAA (ATPases associated with diverse cellular activities) domain (see
+PSMC5; 601681) toward the C terminus.
+
+Corn et al. (2003) established that pVHL (608537), the protein that is
+mutant in von Hippel-Lindau syndrome (193300), binds to TBP1. TBP1
+associates with the beta-domain of pVHL and complexes with pVHL and
+hypoxia-inducible transcription factor HIF1A (603348) in vivo.
+Overexpression of TBP1 promotes degradation of HIF1A in a pVHL-dependent
+manner that requires the ATPase domain of TBP1. Several distinct
+mutations in exon 2 of the VHL gene disrupt binding of pVHL to TBP1. A
+pVHL mutant containing an exon 2 missense substitution
+coimmunoprecipitated with HIF1A, but not TBP1, and did not promote
+degradation of HIF1A. Thus, the ability of pVHL to degrade HIF1A depends
+in part on its interaction with TBP1 and suggests a new mechanism for
+HIF1A stabilization in some pVHL-deficient tumors.
+
+MAPPING
+
+By PCR amplification of a partial PSMC3 sequence, Hoyle et al. (1997)
+demonstrated that the PSMC3 gene is located on chromosome 11. By
+fluorescence in situ hybridization (FISH), the assignment was
+regionalized to 11p13-p12. Tanahashi et al. (1998) mapped the PSMC3 gene
+to 11p11.2 by FISH. By interspecific backcross analysis, Sakao et al.
+(2000) mapped the mouse Psmc3 gene to chromosome 2.
+
+REFERENCE 1. Corn, P. G.; McDonald, E. R., III; Herman, J. G.; El-Deiry, W.
+S.: Tat-binding protein-1, a component of the 26S proteasome, contributes
+to the E3 ubiquitin ligase function of the von Hippel-Lindau protein. Nature
+Genet. 35: 229-237, 2003.
+
+2. DeMartino, G. N.; Proske, R. J.; Moomaw, C. R.; Strong, A. A.;
+Song, X.; Hisamatsu, H.; Tanaka, K.; Slaughter, C. A.: Identification,
+purification, and characterization of a PA700-dependent activator
+of the proteasome. J. Biol. Chem. 271: 3112-3118, 1996.
+
+3. Hoyle, J.; Tan, K. H.; Fisher, E. M. C.: Localization of genes
+encoding two human one-domain members of the AAA family: PSMC5 (the
+thyroid hormone receptor-interacting protein, TRIP1) and PSMC3 (the
+Tat-binding protein, TBP1). Hum. Genet. 99: 285-288, 1997.
+
+4. Nelbock, P.; Dillon, P. J.; Perkins, A.; Rosen, C. A.: A cDNA
+for a protein that interacts with the human immunodeficiency virus
+Tat transactivator. Science 248: 1650-1653, 1990.
+
+5. Ohana, B.; Moore, P. A.; Ruben, S. M.; Southgate, C. D.; Green,
+M. R.; Rosen, C. A.: The type 1 human immunodeficiency virus Tat
+binding protein is a transcriptional activator belonging to an additional
+family of evolutionarily conserved genes. Proc. Nat. Acad. Sci. 90:
+138-142, 1993.
+
+6. Sakao, Y.; Kawai, T.; Takeuchi, O.; Copeland, N. G.; Gilbert, D.
+J.; Jenkins, N. A.; Takeda, K.; Akira, S.: Mouse proteasomal ATPases
+Psmc3 and Psmc4: genomic organization and gene targeting. Genomics 67:
+1-7, 2000.
+
+7. Tanahashi, N.; Suzuki, M.; Fujiwara, T.; Takahashi, E.; Shimbara,
+N.; Chung, C. H.; Tanaka, K.: Chromosomal localization and immunological
+analysis of a family of human 26S proteasomal ATPases. Biochem. Biophys.
+Res. Commun. 243: 229-232, 1998.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/17/2003
+Carol A. Bocchini - updated: 2/15/2001
+Rebekah S. Rasooly - updated: 6/11/1998
+Victor A. McKusick - updated: 2/13/1997
+
+CREATED Victor A. McKusick: 8/25/1992
+
+EDITED ckniffin: 03/23/2004
+alopez: 10/31/2003
+alopez: 10/21/2003
+terry: 10/17/2003
+carol: 2/15/2001
+psherman: 6/11/1998
+mark: 2/13/1997
+terry: 2/11/1997
+mark: 5/9/1996
+carol: 10/20/1993
+carol: 8/25/1992
+
+602131	TITLE *602131 PLECKSTRIN HOMOLOGY-LIKE DOMAIN, FAMILY A, MEMBER 2; PHLDA2
+;;TUMOR-SUPPRESSING SUBCHROMOSOMAL TRANSFERABLE FRAGMENT CANDIDATE GENE
+3; TSSC3;;
+TUMOR-SUPPRESSING STF cDNA 3;;
+IMPRINTED IN PLACENTA AND LIVER; IPL;;
+BECKWITH-WIEDEMANN REGION 1C; BWR1C
+DESCRIPTION 
+CLONING
+
+A region of 11p15.5 contains several genes with documented functional
+imprinting, defined as a consistent allelic bias of RNA expression in
+somatic tissues. Imprinted genes in this region include H19 (103280),
+IGF2 (147470), CDKN1C (600856), and KVLQT1 (607542). The size of the
+region that contains these genes is approximately 1 Mb, similar to the
+Prader-Willi syndrome (176270)/Angelman syndrome (105830) region of
+chromosome 15, which also contains multiple imprinted genes. Qian et al.
+(1997) stated that a strong sex bias in the rates of meiotic
+recombination in imprinted regions suggested an accessibility model for
+genomic imprinting in which extended regions of 'open chromatin'
+specific to one type of gamete are selectively modified epigenetically,
+leading to allele-specific transcription of at least a subset of the
+genes in these regions in the offspring. A prediction is that a
+positional cloning approach, i.e., chromosome walking in the vicinity of
+known imprinted genes, should be successful in isolating additional
+imprinted genes. Qian et al. (1997) described the human and mouse
+versions of a novel imprinted gene, symbolized IPL (for 'imprinted in
+placenta and liver') by them, that they identified by this approach. IPL
+is located between NAP2 (601651) on the centromeric side and KIP2
+(CDKN1C; 600856) on the telomeric side. In many human and mouse tissues,
+the gene showed tissue-specific expression and functional imprinting,
+with the maternal allele active and the paternal allele relatively
+inactive. The mouse and human genes showed sequence similarity to
+TDAG51, a gene that had been shown to be essential for FAS (134637) gene
+expression and susceptibility to apoptosis in a T lymphocyte cell line.
+Qian et al. (1997) detected high expression in the placenta, with lower
+expression in the chorioamniotic membrane and a very low expression in
+fetal and adult liver, lung, and kidney and adult pancreas.
+
+By genetic analysis of a 170-kb region at 11p15.5 between loci D11S601
+and D11S679, Schwienbacher et al. (1998) identified 6 transcriptional
+units. Three of these, NAP2, CDKN1C, and KVLQT1, had been well
+characterized, whereas the other 3 genes were novel. These were
+symbolized BWR1A (602631), BWR1B (603240), and BWR1C, with BWR
+designating 'Beckwith-Wiedemann region.'
+
+GENE FUNCTION
+
+Muller et al. (2000) stated that TSSC3 is the first apoptosis-related
+gene found to be imprinted in placenta, liver, and fetal tissues, where
+it is expressed from the maternal allele during normal human
+development. Since several embryonal tumors show loss of imprinting of
+genes in the 11p15.5 region, Muller et al. (2000) investigated the
+imprinting status of TSSC3 in normal human adult brain, neuroblastomas,
+medulloblastomas, and glioblastomas. Using a polymorphism in exon 1,
+they found that the TSSC3 gene is not imprinted in normal human adult
+brain or blood. In contrast, strong allelic bias resembling imprinting
+could be detected in most tumors examined. The authors concluded that
+the tumors under investigation are associated with a retention of
+imprinting of a potential growth inhibitory gene.
+
+MAPPING
+
+Qian et al. (1997) identified the PHLDA2 gene on chromosome 11p15.5, in
+a region that contains many imprinted genes. Qian et al. (1997)
+determined that the mouse Ipl gene maps to the region of chromosome 7
+that is syntenic with human 11p15.5.
+
+GENE STRUCTURE
+
+Like several other imprinted genes, mouse and human IPL are small and
+contain small introns; human IPL contains a single 223-bp intron (Qian
+et al., 1997).
+
+MOLECULAR GENETICS
+
+Ishida et al. (2012) identified a 15-bp tandem repeat (GGGGCGGGGAGGGGC)
+located 48 bp upstream of the PHLDA2 transcription start site. The
+tandem repeat is present in 87% of chromosomes. The minor allele is a
+single copy and found in the remaining 13% of chromosomes.
+
+For discussion of a possible association between variation in this
+PHLDA2 promoter variant and birth weight, see 613219.
+
+ANIMAL MODEL
+
+The IPL gene lies in an extended imprinted region of distal mouse
+chromosome 7, which also contains the IGF2 gene. Expression of Ipl is
+highest in placenta and yolk sac, where its mRNA is derived almost
+entirely from the maternal allele. Ipl encodes a small cytoplasmic
+protein with a pleckstrin-homology (PH) domain (summary by Frank et al.,
+1999). Frank et al. (2002) constructed 2 lines of mice with germline
+deletions of this gene and another line deleted for the similar but
+nonimprinted gene Tih1 (607054). All 3 lines were viable. There was
+consistent overgrowth of the Ipl-null placentas, with expansion of the
+spongiotrophoblast. These larger placentas did not confer a fetal growth
+advantage; fetal size was normal or slightly decreased in Ipl nulls.
+When bred into an Igf2 mutant background, the Ipl deletion partially
+rescued the placental but not fetal growth deficiency. Neither fetal nor
+placental growth was affected by deletion of Tih1. These results showed
+a nonredundant function of Ipl in restraining placental growth. The data
+further indicated that Ipl can act, at least in part, independently of
+insulin-like growth factor 2 signaling. Thus, genomic imprinting
+regulates multiple pathways to control placental size.
+
+REFERENCE 1. Frank, D.; Fortino, W.; Clark, L.; Musalo, R.; Wang, W.; Saxena,
+A.; Li, C.-M.; Reik, W.; Ludwig, T.; Tycko, B.: Placental overgrowth
+in mice lacking the imprinted gene Ipl. Proc. Nat. Acad. Sci. 99:
+7490-7495, 2002.
+
+2. Frank, D.; Mendelsohn, C. L.; Ciccone, E.; Svensson, K.; Ohlsson,
+R.; Tycko, B.: A novel pleckstrin homology-related gene family defined
+by Ipl/Tssc3, TDAG51, and Tih1: tissue-specific expression, chromosomal
+location, and parental imprinting. Mammalian Genome 10: 1150-1159,
+1999.
+
+3. Ishida, M.; Monk, D.; Duncan, A. J.; Abu-Amero, S.; Chong, J.;
+Ring, S. M.; Pembrey, M. E.; Hindmarsh, P. C.; Whittaker, J. C.; Stanier,
+P.; Moore, G. E.: Maternal inheritance of a promoter variant in the
+imprinted PHLDA2 gene significantly increases birth weight. Am. J.
+Hum. Genet. 90: 715-719, 2012.
+
+4. Muller, S.; van den Boom, D.; Zirkel, D.; Koster, H.; Berthold,
+F.; Schwab, M.; Westphal, M.; Zumkeller, W.: Retention of imprinting
+of the human apoptosis-related gene TSSC3 in human brain tumors. Hum.
+Molec. Genet. 9: 757-763, 2000.
+
+5. Qian, N.; Frank, D.; O'Keefe, D.; Dao, D.; Zhao, L.; Yuan, L.;
+Wang, Q.; Keating, M.; Walsh, C.; Tycko, B.: The IPL gene on chromosome
+11p15.5 is imprinted in humans and mice and is similar to TDAG51,
+implicated in Fas expression and apoptosis. Hum. Molec. Genet. 6:
+2021-2029, 1997.
+
+6. Schwienbacher, C.; Sabbioni, S.; Campi, M.; Veronese, A.; Bernardi,
+G.; Menegatti, A.; Hatada, I.; Mukai, T.; Ohashi, H.; Barbanti-Brodano,
+G.; Croce, C. M.; Negrini, M.: Transcriptional map of 170-kb region
+at chromosome 11p15.5: identification and mutational analysis of the
+BWR1A gene reveals the presence of mutations in tumor samples. Proc.
+Nat. Acad. Sci. 95: 3873-3878, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/25/2012
+Victor A. McKusick - updated: 6/17/2002
+George E. Tiller - updated: 4/27/2000
+Victor A. McKusick - updated: 5/1/1998
+
+CREATED Victor A. McKusick: 11/26/1997
+
+EDITED alopez: 08/02/2012
+terry: 7/25/2012
+alopez: 3/16/2010
+terry: 1/20/2010
+mgross: 10/28/2004
+ckniffin: 2/5/2003
+cwells: 7/3/2002
+terry: 6/17/2002
+alopez: 4/27/2000
+mgross: 5/27/1999
+alopez: 10/30/1998
+alopez: 9/22/1998
+alopez: 5/18/1998
+alopez: 5/15/1998
+terry: 5/1/1998
+jenny: 12/2/1997
+jenny: 11/26/1997
+
+609951	TITLE *609951 ZINC FINGER PROTEIN 384; ZNF384
+;;CAS-INTERACTING ZINC FINGER PROTEIN; CIZ;;
+CAGH1;;
+NUCLEAR MATRIX PROTEIN 4; NMP4
+DESCRIPTION 
+DESCRIPTION
+
+ZNF384 is a nucleocytoplasmic shuttling protein that localizes at
+fibroblast focal adhesions, contains multiple zinc fingers, and
+regulates expression of matrix metalloproteinases (e.g., MMP3; 185250)
+(Thunyakitpisal et al., 2001).
+
+CLONING
+
+By screening adult and fetal human brain cDNA libraries for clones
+containing CAG repeats, Margolis et al. (1997) isolated a partial cDNA
+encoding ZNF384, which they called CAGH1.
+
+By Far Western screening of a rat embryonic fibroblast cDNA library with
+the SH3 domain of Cas (BCAR1; 602941) as probe, Nakamoto et al. (2000)
+isolated several splice variants of Znf384, which they called Ciz. The
+longest variant encodes a predicted 579-residue protein with an
+N-terminal leucine zipper, multiple serine and proline residues, a
+nuclear localization signal, 8 centrally located Kruppel-type C2H2 zinc
+fingers, and C-terminal glutamine-alanine and glutamine repeat regions,
+suggesting that Ciz may be a transcription factor. The shorter variants
+encode proteins with only 5 or 6 zinc fingers. Northern blot analysis of
+rat tissues revealed ubiquitous expression of a 3.0-kb transcript, with
+highest levels in testis, heart, kidney, and brain. A 4.0-kb transcript
+was also detected in brain, liver, and kidney. Immunofluorescence
+microscopy showed that Ciz shuttled in and out of the nucleus and
+localized at stably formed focal adhesions and in the nucleus.
+
+Thunyakitpisal et al. (2001) independently cloned and characterized rat
+Znf384, which they termed Nmp4, based on its interaction with type I
+collagen alpha-1 (COL1A1; 120150). They identified several novel
+variants, including one that lacks the C-terminal glutamine-alanine
+repeat region.
+
+GENE FUNCTION
+
+Using precipitation analysis, Nakamoto et al. (2000) showed that rat Ciz
+bound specifically and constitutively to the SH3 domain of Cas.
+Immunoprecipitation and EMSA analysis demonstrated that Ciz bound to the
+promoter of human MMP1 (120353) and upregulated transcription of human
+MMP1 and MMP7 (178990) and rat Mmp3.
+
+Thunyakitpisal et al. (2001) showed that rat Nmp4 interacted with Col1a1
+and regulated its expression in osteoblasts. They concluded that NMP4
+contributes to extracellular matrix turnover in bone and other tissues.
+
+Shen et al. (2002) overexpressed Ciz in a mouse osteoblast cell line and
+found that it inhibited Bmp2 (112261)-induced expression of alkaline
+phosphatase (see ALPL; 171760), osteocalcin (BGLAP; 112260), type I
+collagen, and Cbfa1 (RUNX2; 600211). They concluded that CIZ is an
+inhibitory protein that modulates BMP2-induced differentiation of
+osteoblastic cells.
+
+MAPPING
+
+Margolis et al. (1997) stated that the ZFN384 gene maps to chromosome
+12p12. Alvarez et al. (2001) mapped the mouse Znf384 gene to chromosome
+6F1, a region that shows homology of synteny to human chromosome 12p12.
+
+ANIMAL MODEL
+
+Morinobu et al. (2005) found that Ciz -/- mice had increased bone volume
+and rates of bone formation, but no alteration in bone resorption. Ciz
+-/- mice expressed higher levels of mRNA for proteins involved in
+osteoblastic phenotypes, such as alkaline phosphatase and osterix (SP7;
+606633). Ciz deficiency increased newly formed bone mass after femoral
+bone marrow ablation, and it increased Bmp2-induced bone formation in
+adult mouse calvariae. Morinobu et al. (2005) concluded that CIZ
+suppresses the levels of adult bone mass through inhibition of
+BMP-induced activation of osteoblasts.
+
+REFERENCE 1. Alvarez, M. B.; Thunyakitpisal, P.; Rhodes, S. J.; Everett, E.
+T.; Bidwell, J. P.: Assignment of Nmp4 to mouse chromosome 6 band
+F1 flanked by D6Mit134 and D6Mit255 using radiation hybrid mapping
+and fluorescence in situ hybridization. Cytogenet. Cell Genet. 94:
+244-245, 2001.
+
+2. Margolis, R. L.; Abraham, M. R.; Gatchell, S. B.; Li, S.-H.; Kidwai,
+A. S.; Breschel, T. S.; Stine, O. C.; Callahan, C.; McInnis, M. G.;
+Ross, C. A.: cDNAs with long CAG trinucleotide repeats from human
+brain. Hum. Genet. 100: 114-122, 1997.
+
+3. Morinobu, M.; Nakamoto, T.; Hino, K.; Tsuji, K.; Shen, Z.-J.; Nakashima,
+K.; Nifuji, A.; Yamamoto, H.; Hirai, H.; Noda, M.: The nucleocytoplasmic
+shuttling protein CIZ reduces adult bone mass by inhibiting bone morphogenetic
+protein-induced bone formation. J. Exp. Med. 201: 961-970, 2005.
+
+4. Nakamoto, T.; Yamagata, T.; Sakai, R.; Ogawa, S.; Honda, H.; Ueno,
+H.; Hirano, N.; Yazaki, Y.; Hirai, H.: CIZ, a zinc finger protein
+that interacts with p130(cas) and activates the expression of matrix
+metalloproteinases. Molec. Cell. Biol. 20: 1649-1658, 2000.
+
+5. Shen, Z.-J.; Nakamoto, T.; Tsuji, K.; Nifuji, A.; Miyazono, K.;
+Komori, T.; Hirai, H.; Noda, M.: Negative regulation of bone morphogenetic
+protein/Smad signaling by Cas-interacting zinc finger protein in osteoblasts. J.
+Biol. Chem. 277: 29840-29846, 2002.
+
+6. Thunyakitpisal, P.; Alvarez, M.; Tokunaga, K.; Onyia, J. E.; Hock,
+J.; Ohashi, N.; Feister, H.; Rhodes, S. J.; Bidwell, J. P.: Cloning
+and functional analysis of a family of nuclear matrix transcription
+factors (NP/NMP4) that regulate type I collagen expression in osteoblasts. J.
+Bone Min. Res. 16: 10-23, 2001.
+
+CREATED Paul J. Converse: 3/13/2006
+
+EDITED carol: 05/19/2008
+mgross: 3/13/2006
+
+606347	TITLE *606347 PROLINE/SERINE/THREONINE PHOSPHATASE-INTERACTING PROTEIN 1; PSTPIP1
+;;PSTPIP;;
+CD2 ANTIGEN-BINDING PROTEIN 1; CD2BP1
+DESCRIPTION 
+CLONING
+
+Spencer et al. (1997) identified mouse Pstpip1 as a binding protein of
+the PEST-type protein tyrosine phosphatases (PTPs, e.g., PTP-PEST;
+600079).
+
+Using a yeast 2-hybrid screen of a T-cell cDNA library with the
+cytoplasmic tail of CD2 (186990) as bait, followed by probing a T-cell
+cDNA library, Li et al. (1998) isolated cDNAs encoding splice variants
+of human PSTPIP1, which they called CD2BP1. The full-length 417-amino
+acid protein, which is 88% identical to mouse Pstpip1, contains a
+coiled-coil region, which is 30% identical to yeast Cdc15, a PEST
+region, and a C-terminal SH3 domain. Compared with full-length CD2BP1,
+the shorter variant has a 19-amino acid deletion. Northern blot analysis
+revealed expression of a 1.9-kb CD2BP1 transcript that was restricted to
+hemopoietic tissues and cell lines, with expression upregulated in
+activated T cells. Immunoprecipitation analysis showed expression of a
+50-kD protein. Fluorescence microscopy demonstrated localization of
+CD2BP1 at the interface of the cytosol and the plasma membrane and
+colocalization with CD2 after ligand-induced clustering of surface CD2.
+
+GENE FUNCTION
+
+Binding analysis by Li et al. (1998) showed that the CD2BP1 SH3 domain
+interacts with proline-rich segments of the CD2 cytoplasmic tail.
+Functional analysis indicated a lack of kinase activity, but significant
+tyrosine phosphatase activity.
+
+Using a yeast 2-hybrid screen, Cong et al. (2000) identified mouse
+Pstpip1 as an ABL (189980)-interacting protein. They showed that Pstpip1
+was phosphorylated by ABL. Growth factor-induced Pstpip1 phosphorylation
+was diminished in ABL null fibroblasts. Pstpip1 was able to bridge ABL
+to the PEST-type PTPs. Several experiments suggested that the PEST-type
+PTPs negatively regulate ABL activity: ABL was hyperphosphorylated in
+PTP-PEST-deficient cells; disruption of the ABL-Pstpip1-PEST-type PTP
+ternary complex by overexpression of mutants increased ABL
+phosphotyrosine content; and PDGF (see 190040)-induced ABL kinase
+activation was prolonged in PTP-PEST-deficient cells. The authors
+concluded that dephosphorylation of ABL by PSTPIP1-directed PEST-type
+PTPs represents a novel mechanism by which ABL activity is regulated.
+
+Using a yeast 2-hybrid assay, Shoham et al. (2003) showed that human
+PSTPIP1 and human pyrin (MEFV; 608107) interacted with each other and
+colocalized within peripheral blood granulocytes and monocytes. Tyrosine
+phosphorylation of PSTPIP1 markedly increased binding to pyrin.
+Expression of 2 PSTPIP1 mutations (606347.0001 and 606347.0002)
+associated with PAPA syndrome (604416) resulted in increased
+PSTPIP1-pyrin binding. Shoham et al. (2003) suggested that sequestration
+of pyrin in PAPA syndrome may prevent pyrin's normal immunoregulatory
+functions, resulting in an excess of IL1-beta (147720) production, as
+found in a patient with PAPA syndrome. The findings elucidated another
+pathway involved in regulating inflammation, and linked PAPA syndrome
+and familial Mediterranean fever (FMF; 249100) as disorders arising from
+defects within the same pathway.
+
+Yu et al. (2007) found that both pyrin and PSTPIP1 formed homotrimers,
+and that the pyrin homotrimer was inactive due to masking of its PYD
+motif by its B box. PSTPIP1 activated pyrin by binding to its B box and
+unmasking the PYD, leading to interaction of the PYD with ASC (PYCARD;
+606838), ASC dimerization, and recruitment and activation of caspase-1
+(CASP1; 147678), a proinflammatory enzyme. Autoinflammatory PSTPIP1
+mutants had higher binding affinities for the pyrin B box than did
+wildtype PSTPIP1.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PSTPIP1
+gene to 15q24-q25.1 (TMAP D15S1170).
+
+MOLECULAR GENETICS
+
+Yeon et al. (2000) localized the genes for PAPA syndrome (604416) and
+familial recurrent arthritis to chromosome 15q and suggested that they
+are the same disorder. Wise et al. (2002) identified mutations in the
+PSTPIP1 gene in 2 reported families with this disorder. E250Q
+(606347.0001) or A230T (606347.0002) amino acid substitutions occurred
+within a domain highly homologous to yeast cleavage furrow-associated
+protein CDC15. PSTPIP1 and its murine ortholog are adaptor proteins
+known to interact with PEST-type PTPs such as PTPN12 (600079). Yeast
+2-hybrid assays demonstrated severely reduced binding between PTPN12 and
+both the E250Q and A230T mutant proteins. Previous evidence supported
+the integral role of PSTPIP1 and its interacting proteins in actin
+reorganization during cytoskeletal-mediated events. The authors
+hypothesized that the disease-causing mutations identified compromise
+physiologic signaling necessary for the maintenance of a proper
+inflammatory response.
+
+ALLELIC VARIANT .0001
+PYOGENIC STERILE ARTHRITIS, PYODERMA GANGRENOSUM, AND ACNE
+PSTPIP1, GLU250GLN
+
+In a 4-generation family with familial recurrent arthritis, which was
+thought to be the same disorder as PAPA syndrome (604416), Wise et al.
+(2002) identified a 964G-C transversion in the PSTPIP1 gene, which was
+predicted to result in a glu250-to-gln (E250Q) substitution. Yeast
+2-hybrid assays demonstrated severely reduced binding between PTPN12 and
+the mutant protein.
+
+.0002
+PYOGENIC STERILE ARTHRITIS, PYODERMA GANGRENOSUM, AND ACNE
+PSTPIP1, ALA230THR
+
+In affected sibs with PAPA syndrome (604416), Wise et al. (2002)
+identified a 904G-A transition in the PSTPIP1 gene, which was predicted
+to result in an ala230-to-thr (A230T) substitution. Yeast 2-hybrid
+assays demonstrated severely reduced binding between PTPN12 and the
+mutant protein.
+
+REFERENCE 1. Cong, F.; Spencer, S.; Cote, J.-F.; Wu, Y.; Tremblay, M. L.; Lasky,
+L. A.; Goff, S. P.: Cytoskeletal protein PSTPIP1 directs the PEST-type
+protein tyrosine phosphatase to the c-Abl kinase to mediate Abl dephosphorylation. Molec.
+Cell 6: 1413-1423, 2000.
+
+2. Li, J.; Nishizawa, K.; An, W.; Hussey, R. E.; Lialios, F. E.; Salgia,
+R.; Sunder-Plassmann, R.; Reinherz, E. L.: A cdc15-like adaptor protein
+(CD2BP1) interacts with the CD2 cytoplasmic domain and regulates CD2-triggered
+adhesion. EMBO J. 17: 7320-7336, 1998.
+
+3. Shoham, N. G.; Centola, M.; Mansfield, E.; Hull, K. M.; Wood, G.;
+Wise, C. A.; Kastner, D. L.: Pyrin binds the PSTPIP1/CD2BP1 protein,
+defining familial Mediterranean fever and PAPA syndrome as disorders
+in the same pathway. Proc. Nat. Acad. Sci. 100: 13501-13506, 2003.
+
+4. Spencer, S.; Dowbenko, D.; Cheng, J.; Li, W.; Brush, J.; Utzig,
+S.; Simanis, V.; Lasky, L. A.: PSTPIP: a tyrosine phosphorylated
+cleavage furrow-associated protein that is a substrate for PEST tyrosine
+phosphatase. J. Cell Biol. 138: 845-860, 1997.
+
+5. Wise, C. A.; Gillum, J. D.; Seidman, C. E.; Lindor, N. M.; Veile,
+R.; Bashiardes, S.; Lovett, M.: Mutations in CD2BP1 disrupt binding
+to PTP PEST and are responsible for PAPA syndrome, an autoinflammatory
+disorder. Hum. Molec. Genet. 11: 961-969, 2002.
+
+6. Yeon, H. B.; Lindor, N. M.; Seidman, J. G.; Seidman, C. E.: Pyogenic
+arthritis, pyoderma gangrenosum, and acne syndrome maps to chromosome
+15q. Am. J. Hum. Genet. 66: 1443-1448, 2000.
+
+7. Yu, J.-W.; Fernandes-Alnemri, T.; Datta, P.; Wu, J.; Juliana, C.;
+Solorzano, L.; McCormick, M.; Zhang, Z.; Alnemri, E. S.: Pyrin activates
+the ASC pyroptosome in response to engagement by autoinflammatory
+PSTPIP1 mutants. Molec. Cell 28: 214-227, 2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/29/2007
+Cassandra L. Kniffin - updated: 6/23/2004
+George E. Tiller - updated: 12/4/2002
+Paul J. Converse - updated: 10/5/2001
+
+CREATED Stylianos E. Antonarakis: 10/2/2001
+
+EDITED mgross: 11/29/2007
+tkritzer: 6/30/2004
+ckniffin: 6/23/2004
+carol: 10/1/2003
+cwells: 12/20/2002
+cwells: 12/4/2002
+mgross: 10/5/2001
+mgross: 10/2/2001
+
+150150	TITLE *150150 LACTATE DEHYDROGENASE C; LDHC
+;;LDH, TESTICULAR FORM; LDHX
+DESCRIPTION 
+CLONING
+
+Zinkham et al. (1964) found a distinctive LDH isozyme in mature testes
+of many species including man. It is polymorphic in the pigeon, and one
+can infer that a locus separate from LDHA (150000) and LDHB (150100)
+controls it. The same is almost certainly true in the human. This is a
+gene that functions only in one sex and only in one tissue.
+
+Sakai et al. (1987) isolated and sequenced cDNA clones of LDHC from the
+mouse. Northern blot analysis of poly(A)-containing RNAs from mouse
+testes and liver indicated that the Ldhc gene was expressed in testes
+but not in liver. The nucleotide and amino acid sequences of mouse Ldhc
+showed 73 and 72% homology, respectively, with those of mouse Ldha.
+Southern blot analysis of genomic DNAs from mouse liver and human
+placenta indicated the presence of multiple LDH-C gene-related
+sequences. From the amino acid sequence deduced from cDNA, Millan et al.
+(1987) found that human LDHC is as different from rodent Ldhc (73%
+homology) as it is from human LDHA (76% homology) and porcine LDHB (68%
+homology).
+
+MAPPING
+
+Zinkham et al. (1969) found that the LDHB and LDHC loci are closely
+linked in pigeons. Edwards et al. (1987) used an LDHC cDNA to analyze
+genomic DNA from rodent/human somatic cell hybrids. These showed that
+LDHA and LDHC are syntenic on human chromosome 11. The assignment of
+LDHC was confirmed by Kao et al. (1988), who localized the gene to
+11p15.5-p14.3 by use of somatic cell hybrids and in situ chromosome
+hybridization. Li et al. (1988) also assigned LDHC to chromosome 11 by
+hybridization of DNA from flow-sorted chromosomes. The close physical
+proximity of the LDHC and LDHA genes supports the evolutionary
+relatedness of the 2 isozymes. Edwards et al. (1989) reported mapping of
+LDHC to 11p15.5-p15.3 by combination of somatic cell hybrid studies and
+in situ hybridization.
+
+ADDITIONAL REFERENCES Blanco  (1980); Blanco et al. (1964); Burkhart et al. (1982); Edwards
+et al. (1987); Markert et al. (1975); Zinkham  (1972); Zinkham et
+al. (1964); Zinkham and Isensee (1972)
+REFERENCE 1. Blanco, A.: On the functional significance of LDH X. Johns Hopkins
+Med. J. 146: 231-235, 1980.
+
+2. Blanco, A.; Zinkham, W. H.; Kupchyk, L.: Genetic control and ontogeny
+of lactate dehydrogenase in pigeon testes. J. Exp. Zool. 156: 137-152,
+1964.
+
+3. Burkhart, J. G.; Ansari, A. A.; Malling, H. V.: Localization of
+cytoplasmic lactate dehydrogenase-X in spermatozoa. Arch. Androl. 9:
+115-120, 1982.
+
+4. Edwards, Y.; West, L.; Van Heyningen, V.; Cowell, J.; Goldberg,
+E.: Regional localization of the sperm-specific lactate dehydrogenase,
+LDHC, gene on human chromosome 11. Ann. Hum. Genet. 53: 215-219,
+1989.
+
+5. Edwards, Y. H.; Povey, S.; LeVan, K. M.; Driscoll, C. E.; Millan,
+J. L.; Goldberg, E.: Locus determining the human sperm specific lactate
+dehydrogenase, LDHC, is syntenic with LDHA. (Abstract) Cytogenet.
+Cell Genet. 46: 609 only, 1987.
+
+6. Edwards, Y. H.; Povey, S.; LeVan, K. M.; Driscoll, C. E.; Millan,
+J. L.; Goldberg, E.: Locus determining the human sperm-specific lactate
+dehydrogenase, LDHC, is syntenic with LDHA. Dev. Genet. 8: 219-232,
+1987.
+
+7. Kao, F.-T.; Wu, K. C.; Law, M. L.; Hartz, J. A.; Lau, Y.-F.: Assignment
+of human gene encoding testis-specific lactate dehydrogenase C to
+chromosome 11, region p14.3-p15.5. Somat. Cell Molec. Genet. 14:
+515-518, 1988.
+
+8. Li, S. S.-L.; Luedemann, M.; Sharief, F. S.; Takano, T.; Deaven,
+L. L.: Mapping of human lactate dehydrogenase-A, -B, and -C genes
+and their related sequences: the gene for LDHC is located with that
+for LDHA on chromosome 11. Cytogenet. Cell Genet. 48: 16-18, 1988.
+
+9. Markert, C. L.; Shaklee, J. B.; Whitt, G. S.: Evolution of a gene:
+multiple genes for LDH isozymes provide a model of the evolution of
+gene structure, function, and regulation. Science 189: 102-114,
+1975.
+
+10. Millan, J. L.; Driscoll, C. E.; LeVan, K. M.; Goldberg, E.: Epitopes
+of human testis-specific lactate dehydrogenase deduced from a cDNA
+sequence. Proc. Nat. Acad. Sci. 84: 5311-5315, 1987.
+
+11. Sakai, I.; Sharief, F. S.; Li, S. S.-L.: Molecular cloning and
+nucleotide sequence of the cDNA for sperm-specific lactate dehydrogenase-C
+from mouse. Biochem. J. 242: 619-622, 1987.
+
+12. Zinkham, W. H.: A unique form of lactate dehydrogenase in human
+sperm: biological and clinical significance. Johns Hopkins Med. J. 130:
+1-10, 1972.
+
+13. Zinkham, W. H.; Blanco, A.; Clowry, L. J., Jr.: An unusual isozyme
+of lactic dehydrogenase in mature testes: localization, ontogeny,
+and kinetic properties. Ann. N.Y. Acad. Sci. 121: 571-588, 1964.
+
+14. Zinkham, W. H.; Blanco, A.; Kupchyk, L.: Lactate dehydrogenase
+in pigeon testes: genetic control of three loci. Science 144: 1353-1354,
+1964.
+
+15. Zinkham, W. H.; Isensee, H.: Genetic control of lactate dehydrogenase
+synthesis in the somatic and genetic tissues of pigeons. Johns Hopkins
+Med. J. 130: 11-25, 1972.
+
+16. Zinkham, W. H.; Isensee, H.; Renwick, J. H.: Linkage of lactate
+dehydrogenase B and C loci in pigeons. Science 164: 185-187, 1969.
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED carol: 07/31/2009
+alopez: 6/2/1997
+terry: 1/15/1997
+terry: 5/13/1994
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+root: 10/11/1989
+root: 1/4/1989
+
+613484	TITLE *613484 SPEN, DROSOPHILA, HOMOLOG OF; SPEN
+;;MSX2-INTERACTING NUCLEAR TARGET; MINT;;
+SMART/HDAC1-ASSOCIATED REPRESSOR PROTEIN; SHARP;;
+KIAA0929
+DESCRIPTION 
+DESCRIPTION
+
+SPEN appears to function as a nuclear matrix platform that organizes and
+integrates transcriptional responses (Sierra et al., 2004).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1999) cloned a partial SPEN cDNA, which they
+designated KIAA0929. RT-PCR ELISA detected SPEN expression in all adult
+and fetal tissues and specific adult brain regions examined, with
+highest expression in adult lung, liver, ovary, and spinal cord.
+
+Newberry et al. (1999) cloned mouse Spen, which they called Mint. The
+deduced 3,576-amino acid protein is rich in proline and serine and has a
+calculated molecular mass of 390 kD. It has a predicted N-terminal
+helical domain with 3 RNA recognition motifs (RRMs) and 3 nuclear
+localization signals. The C-terminal half of Mint has high coil and beta
+stand content and contains an additional nuclear localization signal.
+Northern blot analysis of mouse tissues detected a 12.6-kb transcript
+that was highly expressed in testis, with lower levels in brain, spleen,
+lung, liver, and kidney. It was also expressed in differentiating mouse
+MC3T3E1 calvarial osteoblasts. Fractionation of MC3T3E1 cells showed
+that Mint was processed into 110-kD N-terminal and 250-kD C-terminal
+protein fragments that accumulated with chromatin and nuclear matrix
+fractions.
+
+Using the C terminus of the nuclear receptor corepressor SMRT (NCOR2;
+600848) as bait to screen human pituitary and liver cDNA libraries, Shi
+et al. (2001) cloned SPEN, which they called SHARP. The deduced
+3,651-amino acid protein contains 3 N-terminal RRMs, a central receptor
+interaction domain (RID), and a C-terminal SMRT interaction
+domain/repression domain (SID/RD). It also contains 4 consensus nuclear
+localization signals. Northern blot analysis detected a SHARP transcript
+of more than 12 kb. Highest expression was in brain, testis, spleen, and
+thymus, with lower expression in kidney, liver, mammary gland, and skin.
+SHARP expression was also detected in several human tumor cell lines.
+Immunofluorescence analysis of transfected human embryonic kidney cells
+revealed SHARP in a speckled nuclear localization.
+
+Oswald et al. (2002) reported that SHARP contains 3,664 amino acids.
+They identified 4 putative N-terminal RRMs, 5 nuclear localization
+signals spaced throughout the molecule, and an RBP (see RBPJ;
+147183)-interacting domain following the RID.
+
+GENE FUNCTION
+
+Using far Western analysis, Newberry et al. (1999) found that Msx2
+(123101) interacted with Mint in a mouse brain expression library. The 2
+proteins cosegregated with topisomerase II (see 126430) in chromatin and
+nuclear matrix fractions. Gel shift analysis showed that the Mint RRM
+domain bound T- and G-rich sequences, including a large G/T inverted
+repeat element in the proximal promoter of rat osteocalcin (OC, or
+BGLAP; 112260). Transient expression of the Mint N-terminal domain
+suppressed FGF (see 131220)/forskolin-activated Oc promoter. Mint
+expression was downregulated with differentiation of MC3T3E1 cells,
+concomitant with upregulation of the Oc gene.
+
+Sierra et al. (2004) showed that mouse Mint synergized with Runx2
+(600211) to enhance Fgfr2 (176943)-mediated activation of the
+osteocalcin FGF-responsive element (OCFRE). The RRM domain of Mint and
+activation domain-3 of Runx2 were required for this activity. Confocal
+immunofluorescence microscopy showed that nuclear colocalization of Mint
+and Runx2 was enhanced by Fgf2 (134920) stimulation, and Mint enhanced
+Runx2 activation of multiprotein complexes assembled by the OCFRE. Msx2
+functioned as an inhibitor of Runx2-Mint activation of OCFRE. Sierra et
+al. (2004) concluded that MINT may serve as a nuclear matrix platform
+that organizes and integrates transcriptional responses.
+
+By coimmunoprecipitation of transfected epitope-tagged proteins and by
+protein pull-down assays, Shi et al. (2001) showed that SHARP interacted
+directly with HDAC1 (601241). HDAC1 readily coimmunoprecipitated with
+SHARP and with at least 5 members of the NuRD complex (see MTA1;
+603526), and SHARP immunocomplexes displayed histone deacetylase
+activity. SHARP also interacted with steroid receptor RNA cofactor SRA
+(603819) and repressed SRA-potentiated steroid receptor activity. SHARP
+expression was induced in MCF-7 breast cancer cells by estrogen E2
+treatment. Shi et al. (2001) concluded that SHARP can function as a
+cofactor for both coactivators and corepressors.
+
+The DNA-binding protein CBF1 (RBPJ; 147183) is a transcriptional
+repressor. By yeast 2-hybrid screening of embryonic human liver,
+followed by protein pull-down and coimmunoprecipitation assays, Oswald
+et al. (2002) showed that SHARP interacted directly with CBF1 (RBPJ;
+147183), a DNA-binding transcriptional repressor. In cotransfection
+experiments, SHARP repressed transcription in an HDAC-dependent fashion
+and inhibited transactivation mediated by Notch1 (190198).
+Overexpression of SHARP in Xenopus embryos induced a neurogenic
+phenotype and rescued loss of primary neurogenesis resulting from
+overexpression of dominant-active Notch1. Oswald et al. (2002) concluded
+that SHARP is recruited by CBF1 to an HDAC corepressor complex that
+regulates the Notch signaling pathway.
+
+Salat et al. (2008) found that ETO (RUNX1T1; 133435) interacted directly
+with the RD of SHARP in a yeast 2-hybrid screen of a human fetal brain
+library. ETO also coimmunoprecipitated with RBPJ and SHARP from HEL
+cells. Mutation analysis revealed that NHR1 and NHR2 of ETO interacted
+with the RD of SHARP. ETO and SHARP colocalized with RBPJ at promoter
+regions of Notch target genes. ETO expression augmented SHARP-mediated
+repression of reporter gene expression in an HDAC-dependent manner.
+Pharmacologic inhibition of HDAC activity completely abrogated the
+repressive activity of ETO-RBPJ-SHARP in reporter gene activation.
+Knockdown of ETO activated Notch target genes.
+
+MAPPING
+
+Hartz (2010) mapped the SPEN gene to chromosome 1p36.13 based on an
+alignment of the SPEN sequence (GenBank GENBANK AB023146) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  7/14/2010.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+3. Newberry, E. P.; Latifi, T.; Towler, D. A.: The RRM domain of
+MINT, a novel Msx2 binding protein, recognizes and regulates the rat
+osteocalcin promoter. Biochemistry 38: 10678-10690, 1999.
+
+4. Oswald, F.; Kostezka, U.; Astrahantseff, K.; Bourteele, S.; Dillinger,
+K.; Zechner, U.; Ludwig, L.; Wilda, M.; Hameister, H.; Knochel, W.;
+Liptay, S.; Schmid, R. M.: SHARP is a novel component of the Notch/RBP-J-kappa
+signalling pathway. EMBO J. 21: 5417-5426, 2002.
+
+5. Salat, D.; Liefke, R.; Wiedenmann, J.; Borggrefe, T.; Oswald, F.
+: ETO, but not leukemogenic fusion protein AML1/ETO, augments RBP-J-kappa/SHA
+RP-mediated repression of Notch target genes. Molec. Cell. Biol. 28:
+3502-3512, 2008.
+
+6. Shi, Y.; Downes, M.; Xie, W.; Kao, H.-Y.; Ordentlich, P.; Tsai,
+C.-C.; Hon, M.; Evans, R. M.: Sharp, an inducible cofactor that integrates
+nuclear receptor repression and activation. Genes Dev. 15: 1140-1151,
+2001.
+
+7. Sierra, O. L.; Cheng, S.-L.; Loewy, A. P.; Charlton-Kachigian,
+N.; Towler, D. A.: MINT, the Msx2 interacting nuclear matrix target,
+enhances Runx2-dependent activation of the osteocalcin fibroblast
+growth factor response element. J. Biol. Chem. 279: 32913-32923,
+2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 06/08/2012
+
+CREATED Patricia A. Hartz: 7/14/2010
+
+EDITED mgross: 06/08/2012
+mgross: 7/15/2010
+mgross: 7/14/2010
+
+179514	TITLE *179514 RAS-ASSOCIATED PROTEIN RAB5B; RAB5B
+DESCRIPTION A number of processes in eukaryotic cells are believed to be regulated
+by small, monomeric GTPases belonging to the RAS superfamily. A subset
+of these GTPases (the yeast YPTI/SEC4 gene products and their mammalian
+counterparts, the RAB proteins) plays a central role in membrane
+trafficking. Each of the several proteins of this subfamily that have
+been identified is thought to regulate vesicular trafficking at a
+specific subcellular compartment. The subcellular location of several
+RAB proteins has been determined by immunohistochemical methods. For
+example, RAB2 (179509) is found in the intermediate recycling pathway
+between the endoplasmic reticulum and the Golgi complex. RAB6 (179513)
+is distributed in the medial and trans Golgi. RAB4 (179511) and RAB5A
+(179512) are associated with the plasma membrane and early endosomes.
+Wilson and Wilson (1992) cloned cDNA of a novel member of the RAB family
+by screening a human umbilical vein endothelial cell cDNA library with
+oligonucleotide probes corresponding to a region conserved in all RAB
+proteins. The newly identified RAB protein was 81% identical to human
+RAB5, the canine counterpart of which had been localized to the plasma
+membrane and early endosomes. In light of this homology, Wilson and
+Wilson (1992) called the new member of the GTPase superfamily RAB5B. It
+is presumably involved in vesicular trafficking at the plasma membrane.
+
+By fluorescence in situ hybridization, Korenberg et al. (1995) mapped
+the RAB5B gene to 12q13.
+
+REFERENCE 1. Korenberg, J. R.; Chen, X.-N.; Adams, M. D.; Venter, J. C.: Toward
+a cDNA map of the human genome. Genomics 29: 364-370, 1995.
+
+2. Wilson, D. B.; Wilson, M. P.: Identification and subcellular localization
+of human rab5b, a new member of the ras-related superfamily of GTPases. J.
+Clin. Invest. 89: 996-1005, 1992.
+
+CONTRIBUTORS Rebekah S. Rasooly - updated: 03/09/1999
+
+CREATED Victor A. McKusick: 5/4/1992
+
+EDITED mgross: 03/09/1999
+carol: 5/4/1992
+
+601783	TITLE *601783 MICROTUBULE-ASSOCIATED PROTEIN 6; MAP6
+;;MTAP6;;
+STABLE TUBULE-ONLY POLYPEPTIDE; STOP;;
+KIAA1878
+DESCRIPTION 
+CLONING
+
+Mammalian cells often contain abundant subpopulations of microtubules
+that are stable to both drug- and cold temperature-induced disassembly.
+Such microtubules are apparently universal in the neurite extensions of
+neuronal cells. Bosc et al. (1996) cloned and characterized the gene
+encoding a rat protein that reconstitutes microtubule cold stability in
+vitro. The protein, called stable tubule-only polypeptide (STOP) by
+them, is a 100.5-kD polypeptide. The central region of the predicted
+952-amino acid polypeptide contains 5 tandem repeats of 46 amino acids.
+STOP also contains a putative SH3-binding motif near its N terminus.
+
+Denarier et al. (1998) determined that the deduced mouse Map6 protein
+contains 906 amino acids and has a calculated molecular mass of about
+96.4 kD.
+
+By sequencing clones obtained from a size-fractionated adult hippocampus
+cDNA library, Nagase et al. (2001) cloned MAP6, which they designated
+KIAA1878. The transcript contains a repetitive element in the 3-prime
+UTR. RT-PCR ELISA detected highest MAP6 expression in fetal brain,
+followed by spinal cord, adult brain, testis, kidney, lung, heart, and
+ovary. Lower expression was detected in pancreas, spleen, and skeletal
+muscle, and little to no expression was detected in adult and fetal
+liver. All specific brain regions showed intermediate to high
+expression, with highest expression in caudate nucleus, hippocampus, and
+cerebellum.
+
+GENE FUNCTION
+
+Bosc et al. (1996) found that in vitro-translated STOP bound to
+microtubules and calmodulin (114180). When STOP cDNA was expressed in
+HeLa cells, which lack cold-stable microtubules, the protein product
+associated with microtubules at 37 degrees C and stabilized microtubule
+networks, which induced cold stability, nocodazole resistance, and
+tubulin detyrosination.
+
+GENE STRUCTURE
+
+Denarier et al. (1998) determined that the mouse Map6 gene contains 4
+exons and spans about 40 kb. The 5-prime flanking region lacks a TATA
+box or an initiator element.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (2001) mapped the MAP6 gene
+to chromosome 11. Jolly et al. (1999) reported a conflicting assignment
+of the human MAP6 gene to chromosome 6p12-p11 by FISH. However, Andrieux
+et al. (2002) confirmed that the human MAP6 gene maps to chromosome
+11q14.
+
+Using FISH, Denarier et al. (1998) mapped the mouse Map6 gene to region
+E2-F1 of chromosome 7, which shows homology of synteny to human
+chromosome 11.
+
+ANIMAL MODEL
+
+Andrieux et al. (2002) found that Stop-null mice had no detectable
+defects in brain anatomy, but they showed synaptic defects, with
+depleted synaptic vesicle pools and impaired synaptic plasticity,
+associated with severe behavioral disorders. A survey of the effects of
+psychotropic drugs on the behavior of Stop-null mice showed a specific
+effect of long-term administration of neuroleptics in alleviating these
+disorders.
+
+REFERENCE 1. Andrieux, A.; Salin, P. A.; Vernet, M.; Kujala, P.; Baratier, J.;
+Gory-Faure, S.; Bosc, C.; Pointu, H.; Proietto, D.; Schweitzer, A.;
+Denarier, E.; Klumperman, J.; Job, D.: The suppression of brain cold-stable
+microtubules in mice induces synaptic defects associated with neuroleptic-sensitive
+behavioral disorders. Genes Dev. 16: 2350-2364, 2002.
+
+2. Bosc, C.; Cronk, J. D.; Pirollet, F.; Watterson, D. M.; Haiech,
+J.; Job, D.; Margolis, R. L.: Cloning, expression, and properties
+of the microtubule-stabilizing protein STOP. Proc. Nat. Acad. Sci. 93:
+2125-2130, 1996.
+
+3. Denarier, E.; Aguezzoul, M.; Jolly, C.; Vourc'h, C.; Roure, A.;
+Andrieux, A.; Bosc, C.; Job, D.: Genomic structure and chromosomal
+mapping of the mouse STOP gene (Mtap6). Biochem. Biophys. Res. Commun. 243:
+791-796, 1998.
+
+4. Jolly, C.; Denarier, E.; Mongelard, F.; Robert-Nicoud, M.; Vourc'h,
+C.; Bosc, C.; Job, D.: Assignment of the STOP gene (MAP6) to human
+chromosome bands 6p12-p11 by fluorescence in situ hybridization. Cytogenet.
+Cell Genet. 86: 25 only, 1999.
+
+5. Nagase, T.; Nakayama, M.; Nakajima, D.; Kikuno, R.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XX.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 8: 85-95, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/18/2004
+
+CREATED Mark H. Paalman: 4/29/1997
+
+EDITED terry: 01/20/2010
+terry: 4/5/2005
+mgross: 11/18/2004
+mark: 9/19/1997
+alopez: 6/24/1997
+mark: 5/1/1997
+mark: 4/30/1997
+jenny: 4/29/1997
+
+601671	TITLE *601671 D4, ZINC, AND DOUBLE PHD FINGERS FAMILY, MEMBER 2; DPF2
+;;REQUIEM, APOPTOSIS RESPONSE ZINC FINGER GENE; REQ;;
+UBI-D4/REQUIEM HOMOLOG; UBID4
+DESCRIPTION 
+CLONING
+
+Chestkov et al. (1996) described a conserved human gene homologous to
+Neuro-d4 (DPF1; 601670) that they designated Ubi-d4. The human protein
+is the apparent homolog of the mouse Ubi-d4 protein, also known as
+Requiem (Gabig et al., 1994).
+
+Apoptosis in murine myeloid cell lines requires expression of the
+Requiem gene, which encodes a putative zinc finger protein. A large
+consortium (Gabig et al., 1998) consisting of 3 groups detected the
+protein in both cytoplasmic and nuclear subcellular fractions of murine
+myeloid cells and human K562 leukemia cells, suggesting that the protein
+may have a function distinct from that of a transcription factor. The
+distribution did not alter upon apoptosis induction by IL3 deprivation.
+The gene was expressed in various tissues in early gestational ages;
+however, expression was confined to testis, spleen, thymus, and part of
+the hippocampus in the adult mouse. The expression profile was
+considered consistent with a functional role during rapid growth and
+cell turnover, and again suggested a regulatory function for
+hematopoietic cells. The nucleotide sequence of the human cDNA is 73%
+identical overall to that of the murine cDNA. The human sequence encodes
+a 391-amino acid protein.
+
+GENE FUNCTION
+
+Expression of Ubi-d4/requiem appeared to be required for apoptosis
+(Chestkov et al., 1996; Gabig et al., 1994).
+
+MAPPING
+
+Chestkov et al. (1996) mapped the DPF2 gene to chromosome 11q13 by
+fluorescence in situ hybridization.
+
+By cohybridization fluorescence in situ hybridization on extended DNA
+fibers, Gabig et al. (1998) mapped the REQ gene between MLK3 (600050)
+and FAU (134690), which had been mapped to 11q13, telomeric to PYGM
+(608455). The physical distance between MLK3 and REQ was estimated to be
+150 kb.
+
+REFERENCE 1. Chestkov, A. V.; Baka, I. D.; Kost, M. V.; Georgiev, G. P.; Buchman,
+V. L.: The d4 gene family in the human genome. Genomics 36: 174-177,
+1996.
+
+2. Gabig, T. G.; Crean, C. D.; Klenk, A.; Long, H.; Copeland, N. G.;
+Gilbert, D. J.; Jenkins, N. A.; Quincey, D.; Parente, F.; Lespinasse,
+F.; Carle, G. F.; Gaudray, P.; and 13 others: Expression and chromosomal
+localization of the Requiem gene. Mammalian Genome 9: 660-665, 1998.
+
+3. Gabig, T. G.; Mantel, P. L.; Rosli, R.; Crean, C. D.: Requiem:
+a novel zinc finger gene essential for apoptosis in myeloid cells. J.
+Biol. Chem. 269: 29515-29519, 1994.
+
+CONTRIBUTORS Victor A. McKusick - updated: 9/2/1998
+
+CREATED Alan F. Scott: 2/7/1997
+
+EDITED mgross: 11/20/2008
+carol: 3/9/2004
+alopez: 9/8/1998
+terry: 9/2/1998
+mark: 5/16/1997
+mark: 2/19/1997
+jenny: 2/11/1997
+jenny: 2/7/1997
+
+602074	TITLE *602074 DEATH-ASSOCIATED PROTEIN 3; DAP3
+;;MITOCHONDRIAL RIBOSOMAL PROTEIN S29; MRPS29
+DESCRIPTION 
+CLONING
+
+Kissil et al. (1995) cloned DAP3. DAP3 is transcribed into a 1.7-kb mRNA
+and encodes a 46-kD protein carrying a potential nucleotide-binding
+motif.
+
+By proteolytic digestion of whole bovine 28S subunits, followed by
+peptide analysis and EST database analysis, Koc et al. (2001) identified
+full-length human DAP3, which they called MRPS29. The deduced 397-amino
+acid MRPS29 protein has a calculated molecular mass of 45.6 kD. Removal
+of a predicted 16-amino acid N-terminal mitochondrial localization
+signal results in a mature 43.6-kD protein. Koc et al. (2001) identified
+MRPS29 orthologs in mouse, Drosophila, C. elegans, and yeast, but not in
+E. coli. Mouse and human MRPS29 share 81.8% amino acid identity.
+
+GENE FUNCTION
+
+Kissil et al. (1995) found that DAP3 was involved in mediating
+interferon-gamma (147570)-induced cell death. Several lines of evidence
+suggested that suppression of cell death is a critical step in the
+multistage process of tumorigenesis. Kissil et al. (1995) concluded that
+DAP3, being a positive mediator of cell death, may be a tumor suppressor
+gene subject to loss or inactivation in tumors.
+
+MAPPING
+
+Kissil and Kimchi (1997) mapped the DAP3 gene to chromosome 1q21 by
+fluorescence in situ hybridization. Verification of the assignment was
+achieved by identifying the gene in a YAC contig encompassing chromosome
+1q21.1-q21.3.
+
+MOLECULAR GENETICS
+
+Hirota et al. (2004) found a strong association between bronchial asthma
+(600807) in adults and SNPs in the DAP3 gene (p = 0.0051; OR = 1.87; 95%
+CI = 1.20-2.92), but no association with childhood asthma. The tendency
+was more prominent in patients with high serum total immunoglobulin E
+(IgE; 147180). DAP3 was found to be expressed in normal bronchial
+epithelial cells, and that expression was induced by IFNG.
+
+REFERENCE 1. Hirota, T.; Obara, K.; Matsuda, A.; Akahoshi, M.; Nakashima, K.;
+Hasegawa, K.; Takahashi, N.; Shimizu, M.; Sekiguchi, H.; Kokubo, M.;
+Doi, S.; Fujiwara, H.; and 9 others: Association between genetic
+variation in the gene for death-associated protein-3 (DAP3) and adult
+asthma. J. Hum. Genet. 49: 370-375, 2004.
+
+2. Kissil, J. L.; Deiss, L. P.; Bayewitch, M.; Raveh, T.; Khaspekov,
+G.; Kimchi, A.: Isolation of DAP3, a novel mediator of interferon-gamma-induced
+cell death. J. Biol. Chem. 270: 27932-27936, 1995.
+
+3. Kissil, J. L.; Kimchi, A.: Assignment of death associated protein
+3 (DAP3) to human chromosome 1q21 by in situ hybridization. Cytogenet.
+Cell Genet. 77: 252 only, 1997.
+
+4. Koc, E. C.; Burkhart, W.; Blackburn, K.; Moseley, A.; Spremulli,
+L. L.: The small subunit of the mammalian mitochondrial ribosome:
+identification of the full complement of ribosomal proteins present. J.
+Biol. Chem. 276: 19363-19374, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 04/23/2008
+Victor A. McKusick - updated: 8/20/2004
+
+CREATED Victor A. McKusick: 10/22/1997
+
+EDITED mgross: 04/23/2008
+tkritzer: 8/23/2004
+terry: 8/20/2004
+psherman: 5/21/1999
+jenny: 10/22/1997
+
+186946	TITLE *186946 FK506-BINDING PROTEIN 2; FKBP2
+;;FK506-BINDING PROTEIN, T-CELL, 13-KD; FKBP13
+DESCRIPTION For background information on FK506-binding proteins (FKBPs), see FKBP1A
+(186945).
+
+CLONING
+
+Jin et al. (1991) reported the cloning and subcellular localization of a
+13-kD FK506-binding protein (FKBP13), which has a 21-amino acid signal
+peptide and appears to be membrane-associated. The 120-amino acid mature
+protein appears to lack a transmembrane domain but a potential
+endoplasmic reticulum retention sequence (arg-thr-glu-leu) is found at
+its C terminus. FKBP13 shares 51% nucleotide sequence identity and 43%
+amino acid sequence identity with FKBP12 (FKBP1; 186945), the
+predominant FK506- and rapamycin-binding protein in human T cells. Jin
+et al. (1991) noted that conserved residues that comprise the drug
+binding site and rotamase active site of FKBP12 are completely conserved
+in FKBP13.
+
+GENE STRUCTURE
+
+DiLella et al. (1992) found that the FKBP2 gene is 3 kb long and
+contains 6 exons.
+
+MAPPING
+
+By fluorescence in situ hybridization, DiLella et al. (1992) mapped the
+FKBP2 gene to 11q13.1-q13.3.
+
+Courseaux et al. (1996) used a combination of methods to refine maps of
+the approximately 5-Mb region of 11q13 that includes MEN1 (131100). They
+proposed the following gene order:
+cen--PGA--FTH1--UGB--AHNAK--ROM1--MDU1--CHRM1--COX8--EMK1--FKBP2--PLCB3--[PYGM,
+ZFM1]--FAU--CAPN1--[MLK3, RELA]--FOSL1--SEA--CFL1--tel.
+
+REFERENCE 1. Courseaux, A.; Grosgeorge, J.; Gaudray, P.; Pannett, A. A. J.;
+Forbes, S. A.; Williamson, C.; Bassett, D.; Thakker, R. V.; Teh, B.
+T.; Farnebo, F.; Shepherd, J.; Skogseid, B.; Larsson, C.; Giraud,
+S.; Zhang, C. X.; Salandre, J.; Calender, A.: Definition of the minimal
+MEN1 candidate area based on a 5-Mb integrated map of proximal 11q13. Genomics 37:
+354-365, 1996.
+
+2. DiLella, A. G.; Hawkins, A.; Craig, R. J.; Schreiber, S. L.; Griffin,
+C. A.: Chromosomal band assignments of the genes encoding human FKBP12
+and FKBP13. Biochem. Biophys. Res. Commun. 189: 819-823, 1992.
+
+3. Jin, Y.-J.; Albers, M. W.; Lane, W. S.; Bierer, B. E.; Schreiber,
+S. L.; Burakoff, S. J.: Molecular cloning of a membrane-associated
+human FK506- and rapamycin-binding protein, FKBP-13. Proc. Nat. Acad.
+Sci. 88: 6677-6681, 1991.
+
+CONTRIBUTORS Alan F. Scott - updated: 8/5/1997
+
+CREATED Victor A. McKusick: 9/19/1991
+
+EDITED mgross: 03/03/2011
+terry: 2/23/2011
+carol: 2/22/2011
+alopez: 9/3/1998
+terry: 8/5/1997
+alopez: 6/3/1997
+carol: 2/23/1995
+carol: 2/4/1993
+supermim: 3/16/1992
+carol: 9/19/1991
+
+612609	TITLE *612609 LATE CORNIFIED ENVELOPE PROTEIN 2A; LCE2A
+;;LATE ENVELOPE PROTEIN 9; LEP9
+DESCRIPTION For background information on the LCE gene cluster, see 612603.
+
+CLONING
+
+By database analysis to identify human orthologs of mouse genes encoding
+late envelope proteins (LEPs), Marshall et al. (2001) identified LCE2A,
+which they called LEP9.
+
+Using real-time PCR, Jackson et al. (2005) detected LCE2A expression in
+human fetal, arm, penal, and abdominal skin. Much weaker expression was
+detected in vulva, but not in tongue or esophagus.
+
+GENE FUNCTION
+
+Jackson et al. (2005) showed that expression of LCE2 genes, including
+LCE2A, was upregulated in cultured normal human keratinocytes by both
+ultraviolet irradiation and calcium.
+
+GENE STRUCTURE
+
+Jackson et al. (2005) determined that the LCE2A gene contains 2 exons.
+Exon 1 is noncoding.
+
+MAPPING
+
+By genomic sequence analysis, Marshall et al. (2001) mapped the LCE2A
+gene within the LCE gene cluster on chromosome 1q21. Jackson et al.
+(2005) stated that the mouse Lce2a gene maps to a syntenic LCE gene
+cluster on chromosome 3F1.
+
+REFERENCE 1. Jackson, B.; Tilli, C. M. L. J.; Hardman, M. J.; Avilion, A. A.;
+MacLeod, M. C.; Ashcroft, G. S.; Byrne, C.: Late cornified envelope
+family in differentiating epithelia--response to calcium and ultraviolet
+irradiation. J. Invest. Derm. 124: 1062-1070, 2005.
+
+2. Marshall, D.; Hardman, M. J.; Nield, K. M.; Byrne, C.: Differentially
+expressed late constituents of the epidermal cornified envelope. Proc.
+Nat. Acad. Sci. 98: 13031-13036, 2001.
+
+CREATED Patricia A. Hartz: 2/11/2009
+
+EDITED mgross: 02/12/2009
+mgross: 2/12/2009
+
+601204	TITLE *601204 PROSTAGLANDIN F2 RECEPTOR NEGATIVE REGULATOR; PTGFRN
+;;FP REGULATORY PROTEIN; FPRP;;
+CD9 PARTNER 1; CD9P1
+DESCRIPTION 
+CLONING
+
+Orlicky et al. (1996) isolated a protein that copurifies with bovine
+prostaglandin F(2-alpha) receptor (PTGFR; 600563) and cloned the
+corresponding rat cDNA. Transfection experiments suggested that this
+protein, which the authors designated FP regulatory protein (FPRP),
+inhibits binding of PGF(2-alpha) to PTGFR. Histologically, FPRP showed a
+distribution coinciding well with those cells and tissues that respond
+to PGF(2-alpha).
+
+By screening cDNA libraries for sequences with the potential to encode
+large proteins expressed in brain, Nagase et al. (2000) identified a
+cDNA encoding FPRP, which they termed KIAA1436. The deduced 924-amino
+acid protein was predicted to be 89% identical to rat Fprp. RT-PCR
+analysis detected wide expression that was highest in ovary and lung.
+
+By mass spectrometric and flow cytometric analyses of an
+immunoprecipitated protein, CD9P1, that interacts with CD9 (143030) and
+is expressed in HeLa cells, Charrin et al. (2001) determined that CD9P1
+is identical to KIAA1436. SDS-PAGE analysis showed expression of a
+135-kD protein under reducing conditions, which was lowered to 125 kD
+and 106 kD by sialidase and N-glycanase treatments, respectively.
+Further immunoprecipitation analysis showed that CD9P1 interacts with
+CD81 (186845). Flow cytometric analysis demonstrated expression in
+keratinocytes and, faintly, in salivary glands, but not in other
+tissues. In contrast, CD9P1 was strongly expressed in a number of cancer
+cell lines, suggesting a possible upregulation during tumorigenesis.
+
+BIOCHEMICAL FEATURES
+
+Stipp et al. (2001) used moderately stringent Brij96/97 detergent
+extraction to show that FPRP associates specifically with CD81 and CD9
+but not with other tetraspanin molecules, such as CD151 (602243). They
+determined that nearly all cell surface FPRP is associated with CD9 and
+CD81.
+
+MAPPING
+
+Orlicky et al. (1996) subcloned and sequenced a portion of the 3-prime
+untranslated region of the human homolog to FPRP, and oligonucleotide
+primers were designed that allowed PCR amplification specifically of the
+human FPRP sequence. Using these primers for PCR-based mapping, the FPRP
+gene was localized to chromosome 1 through analysis of human/rodent
+somatic cell hybrids and to 1p13.1-q21.3 by analysis of YAC pools.
+
+REFERENCE 1. Charrin, S.; Le Naour, F.; Oualid, M.; Billard, M.; Faure, G.;
+Hanash, S. M.; Boucheix, C.; Rubinstein, E.: The major CD9 and CD81
+molecular partner: identification and characterization of the complexes. J.
+Biol. Chem. 276: 14329-14337, 2001.
+
+2. Nagase, T.; Kikuno, R.; Ishikawa, K.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 65-73, 2000.
+
+3. Orlicky, D. J.; Berry, R.; Sikela, J. M.: Human chromosome 1 localization
+of the gene for a prostaglandin F-2-alpha receptor negative regulatory
+protein. Hum. Genet. 97: 655-658, 1996.
+
+4. Stipp, C. S.; Orlicky, D.; Hemler, M. E.: FPRP, a major, highly
+stoichiometric, highly specific CD81- and CD9-associated protein. J.
+Biol. Chem. 276: 4853-4862, 2001.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/9/2007
+Paul J. Converse - updated: 4/1/2002
+
+CREATED Victor A. McKusick: 4/15/1996
+
+EDITED carol: 01/14/2010
+alopez: 10/16/2007
+terry: 10/9/2007
+cwells: 11/6/2003
+mgross: 4/1/2002
+carol: 6/29/1998
+mark: 4/16/1996
+mark: 4/15/1996
+
+610971	TITLE *610971 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 4; TRAPPC4
+;;SYNBINDIN
+DESCRIPTION 
+CLONING
+
+Ethell et al. (2000) cloned mouse Trappc4, which they called synbindin.
+The deduced 219-amino acid protein contains segments of homology with
+proteins involved in vesicular transport or synaptic function, including
+a nonclassical PDZ domain, followed by a TRAPPC1 (610969)-like domain,
+and a C-terminal tail similar to a short cytoplasmic segment of RYR2
+(180902). By database analysis, Ethell et al. (2000) identified human
+synbindin, which also encodes a 219-amino acid protein. Northern blot
+analysis of several mouse tissues detected highest expression in liver
+and skeletal muscle, followed by kidney, heart, and brain. RT-PCR, in
+situ hybridization, and immunohistochemical analysis detected strong
+synbindin expression in differentiated neurons. In adult mouse CNS,
+expression was highest in large neurons such as pyramidal neurons,
+Purkinje cells, and motor neurons and weak or undetectable in smaller
+granule-type neurons. Immunogold electron microscopy of adult mouse
+cerebral cortex detected synbindin predominantly in postsynaptic
+membranes and postsynaptic densities, intracellular vesicles in the
+dendritic shaft, membrane cisternae, and in the Golgi apparatus.
+
+GENE FUNCTION
+
+Using yeast 2-hybrid experiments, coimmunoprecipitation assays, and in
+vitro pull-down assays, Ethell et al. (2000) demonstrated that mouse
+synbindin interacted directly with rat syndecan-2 (SDC2; 142460). Yeast
+2-hybrid analysis also showed that synbindin interacted with rat
+syndecan-4 (SDC4; 600017). Mutation analysis showed that the interaction
+required the PDZ-like domain of synbindin and the EFYA motif in the
+C-terminal domain of Sdc2. Primary rat hippocampal neurons transfected
+with synbindin and Sdc2 expressed the proteins in clusters along
+dendritic spines. Sdc2 lacking the EFYA motif formed clusters that
+lacked synbindin, suggesting synbindin clustering was dependent on Sdc2.
+Ethell et al. (2000) concluded that synbindin has a role in postsynaptic
+membrane trafficking.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TRAPPC4
+gene to chromosome 11 (TMAP WI-20793).
+
+REFERENCE 1. Ethell, I. M.; Hagihara, K.; Miura, Y.; Irie, F.; Yamaguchi, Y.
+: Synbindin, a novel syndecan-2-binding protein in neuronal dendritic
+spines. J. Cell Biol. 151: 53-67, 2000.
+
+CREATED Patricia A. Hartz: 4/24/2007
+
+EDITED wwang: 04/25/2007
+wwang: 4/24/2007
+
+135940	TITLE *135940 FILAGGRIN; FLG
+PROFILAGGRIN, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+Profilaggrin is a major protein component of the keratohyalin granules
+of mammalian epidermis. It is initially expressed as a large polyprotein
+precursor which is subsequently proteolytically processed into
+individual functional filaggrin molecules. The filaggrins show wide
+species variations and their aberrant expression has been implicated in
+a number of keratinizing disorders (Baden et al., 1974; Holbrook et al.,
+1982; Sybert et al., 1985).
+
+CLONING
+
+McKinley-Grant et al. (1989) isolated a cDNA clone encoding human
+filaggrin. They demonstrated that the human gene encodes a polyprotein
+precursor containing numerous tandem filaggrin repeats. This structure
+is similar to that of the mouse; however, the human filaggrin repeat is
+much longer (972 basepairs; 324 amino acids) and shows little sequence
+homology to the mouse protein. They found furthermore that the human
+filaggrin repeats show considerable sequence variations; such
+polymorphism is not found in the mouse. By peptide mapping, they defined
+a short linker sequence within the human filaggrin repeat that is
+excised by proteolysis to yield functional molecules. They showed by in
+situ hybridization that the expression of the gene for the human
+filaggrin precursor is tightly regulated at the transcriptional level in
+terminally differentiating epidermis.
+
+Gan et al. (1990) isolated genomic DNA and cDNA clones encoding the
+5-prime and 3-prime ends of the human gene and mRNA. They found evidence
+of likely CAT and TATA sequences, an intron in the 5-prime untranslated
+region, and several potential regulatory sequences. The gene is made up
+of repeats, all of the same length. Sequences showed considerable
+variation, most attributable to single-base changes. Thus, human
+filaggrin consists of a heterogeneous population of molecules of
+different sizes, charges, and sequences. Amino acid sequences encoding
+the amino and carboxyl termini were more conserved, as were the 5-prime
+and 3-prime DNA sequences flanking the coding portions of the gene. The
+presence of unique restriction enzyme sites in these conserved flanking
+sequences enabled Gan et al. (1990) to calculate the size of the
+full-length gene and the number of repeats in it; depending on the
+source of genomic DNA, the gene contains 10, 11, or 12 filaggrin repeats
+that segregate in families in a normal mendelian manner. Thus, the human
+profilaggrin gene is polymorphic with respect to size due to simple
+allelic differences between individuals.
+
+GENE STRUCTURE
+
+The FLG gene comprises 3 exons (Presland et al., 1992).
+
+MAPPING
+
+Using a cDNA clone as a probe in the study of a panel of mouse-human
+somatic cell hybrids retaining overlapping subsets of human chromosomal
+regions and for chromosomal in situ hybridization, McKinley-Grant et al.
+(1989) demonstrated that the human filaggrin gene maps to 1q21.
+Rothnagel et al. (1994) mapped the homologous gene to mouse chromosome 3
+by PCR analyses of DNAs isolated from mouse/Chinese hamster somatic cell
+hybrids.
+
+Genes of 3 protein families that are specifically expressed in the
+course of terminal differentiation of human epidermis have been mapped
+to 1q21. Volz et al. (1993) showed that these genes are physically
+linked within 2.05 Mb of DNA in the following order: calpactin I light
+chain (CAL1L; 114085), trichohyalin (THL; 190370), profilaggrin,
+involucrin (IVL; 147360), small proline-rich protein (SPRR1A; 182265),
+loricrin (LOR; 152445), and calcyclin (CACY; 114110).
+
+GENE FUNCTION
+
+Smith et al. (2006) reviewed the function of filaggrin, also known as
+filament-aggregating protein, in the formation of the stratum corneum.
+Keratohyalin granules in the granular layer of interfollicular epidermis
+are predominantly composed of the 400-kD protein profilaggrin. Following
+a short, unique N-terminal domain, most of the profilaggrin molecule
+consists of 10 to 12 repeats of the 324-residue filaggrin sequence (Gan
+et al., 1990). Upon terminal differentiation of granular cells,
+profilaggrin is proteolytically cleaved into filaggrin peptides of
+approximately 37 kD and the N-terminal domain containing an S100-like
+calcium-binding domain. Filaggrin rapidly aggregates the keratin
+cytoskeleton, causing collapse of the granular cells into flattened
+anuclear squames. This condensed cytoskeleton is crosslinked by
+transglutaminases during formation of the cornified cell envelope (CCE).
+The CCE is the outermost barrier layer of the skin which not only
+prevents water loss but also impedes the entry of allergens and
+infectious agents. Filaggrin is therefore a key protein in facilitating
+epidermal differentiation and maintaining barrier function.
+
+MOLECULAR GENETICS
+
+In 15 kindreds with ichthyosis vulgaris (146700), Smith et al. (2006)
+identified homozygous or compound heterozygous mutations R501X
+(135940.0001) and 2282del4 (135940.0002) in the FLG gene in individuals
+with a moderate or severe phenotype. They concluded that these mutations
+are semidominant; heterozygotes show a very mild phenotype with
+incomplete penetrance. The mutations showed a combined allele frequency
+of approximately 4% in populations of European ancestry, explaining the
+high incidence of ichthyosis vulgaris. Profilaggrin is the major protein
+of keratohyalin granules in the epidermis. During terminal
+differentiation, it is cleaved into multiple filaggrin peptides that
+aggregate keratin filaments. The resultant matrix is crosslinked to form
+a major component of the cornified cell envelope. Smith et al. (2006)
+found that loss or reduction of this major structural protein leads to
+varying degrees of impaired keratinization.
+
+Twin and family studies have indicated a highly heritable predisposition
+to atopic disease, including atopic dermatitis (see 603165), allergy,
+and asthma (see 600807). Although genetic studies have focused on
+immunologic mechanisms of atopic dermatitis, a primary epithelial
+barrier defect has been anticipated (Cookson and Moffatt, 2002).
+Filaggrin is a key protein that facilitates terminal differentiation of
+the epidermis and formation of the skin barrier. Palmer et al. (2006)
+showed that 2 independent loss-of-function genetic variants, R501X
+(135940.0001) and 2282del4 (135940.0002), in the FLG gene are very
+strong predisposing factors for atopic dermatitis (605803). These
+mutations had been shown to be the cause of ichthyosis vulgaris in 15
+families and isolated cases (Smith et al., 2006). The R501X and 2282del4
+variants, carried by approximately 9% of people of European origin, also
+showed highly significant association with asthma occurring in the
+context of atopic dermatitis. This work established a key role for
+impaired skin barrier function in the development of atopic disease.
+
+Sandilands et al. (2007) showed that the 2 common filaggrin-null
+mutations reported by Smith et al. (2006) and Palmer et al. (2006) are
+ancestral European variants carried on conserved haplotypes. To
+facilitate comprehensive analysis in other populations, they reported a
+strategy for full sequencing of this large, highly repetitive gene, and
+described 15 variants, including 7 that are prevalent. All the variants
+were either nonsense or frameshift mutations that, in representative
+cases, resulted in loss of filaggrin production in the epidermis. In an
+Irish case-control study, the 5 most common European mutations showed a
+strong association with moderate to severe childhood eczema. They found
+3 additional rare null mutations in this case series, suggesting that
+the genetic architecture of filaggrin-related atopic dermatitis consists
+of both prevalent and rare risk alleles.
+
+Using the transmission-disequilibrium test in 476 German
+parent-offspring trios with atopic dermatitis, Weidinger et al. (2006)
+found a significant association between the loss-of-function mutations
+R501X and 2282del4 in the FLG gene and extrinsic atopic dermatitis,
+allergic sensitization, total IgE level, asthma, and palmar
+hyperlinearity; there was no significant association with intrinsic
+atopic dermatitis.
+
+Marenholz et al. (2006) genotyped 1092 children with eczema (atopic
+dermatitis) from 2 large European populations for the R501X and 2282del4
+mutations in the FLG gene and confirmed a highly significant association
+between the null mutations and eczema and concomitant asthma. Moreover,
+the authors found that these mutations predisposed to asthma, allergic
+rhinitis, and allergic sensitization only in the presence of eczema,
+highlighting the importance of the epidermal barrier in the pathogenesis
+of these disorders (the so-called 'atopic march').
+
+Nomura et al. (2007) sequenced the entire FLG gene in 7 Japanese
+patients with ichthyosis vulgaris from 4 unrelated families who were
+negative for the R501X and 2282del4 mutations, and identified
+heterozygosity for 2 novel mutations, S2554X (135940.0003) and 3321delA
+(135940.0004), respectively. The authors then screened 143 Japanese
+patients with atopic dermatitis from 140 unrelated families for the
+novel null mutations and identified S2554X in 6 patients and 3321delA in
+2 patients; they were not found in 156 unrelated Japanese nonatopic and
+nonichthyotic controls, yielding a chi-square p value of 0.0015. Noting
+that the R501X and 2282del4 mutations were absent from a total of 253
+Japanese individuals, including their patients with ichthyosis vulgaris
+and atopic dermatitis, Nomura et al. (2007) concluded that FLG mutations
+in Japan are different from those found in European-origin populations.
+
+ANIMAL MODEL
+
+Netherton syndrome (256500) is an autosomal recessive multisystemic
+disorder characterized by congenital ichthyosiform erythroderma, hair
+shaft defects and atopy, caused by mutation in the SPINK5 gene (605010).
+Hewett et al. (2005) created mice with an R820X mutation in the Spink5
+gene. Newborn homozygotes developed a severe ichthyosis with a loss of
+skin barrier function and dehydration, resulting in death within a few
+hours. Biochemical analysis of skin revealed a substantial increase in
+the proteolytic processing of profilaggrin into its constituent
+filaggrin monomers. The authors suggested that in the absence of SPINK5
+there is an abnormal increase in the processing of profilaggrin, and
+that this may play a direct role in the observed deficit in the adhesion
+of the stratum corneum and the severely compromised epidermal barrier
+function.
+
+Fallon et al. (2009) reported a 1-bp deletion mutation, 5303delA,
+analogous to common human FLG mutations, within the murine Flg gene in
+the spontaneous mouse mutant 'flaky tail' (ft). Fallon et al. (2009)
+demonstrated that topical application of allergen to mice homozygous for
+this mutation resulted in cutaneous inflammatory infiltrates and
+enhanced cutaneous allergen priming with development of
+allergen-specific antibody responses. These data validated flaky tail as
+a useful model of filaggrin deficiency and provided experimental
+evidence for the hypothesis that antigen transfer through a defective
+epidermal barrier is a key mechanism underlying elevated IgE
+sensitization and initiation of cutaneous inflammation in humans with
+filaggrin-related atopic disease.
+
+ALLELIC VARIANT .0001
+ICHTHYOSIS VULGARIS
+DERMATITIS, ATOPIC, 2, SUSCEPTIBILITY TO, INCLUDED
+FLG, ARG501TER
+
+In 7 unrelated ichthyosis vulgaris (146700) families and 8 additional
+'sporadic' cases from Ireland, Scotland, and the U.S., Smith et al.
+(2006) found that ichthyosis vulgaris was associated with an
+arg501-to-stop (R501X) mutation arising from a 1501C-to-T transition
+near the start of repeat 1 in exon 3 of the FLG gene. In 3 families,
+ichthyosis vulgaris patients with a very pronounced phenotype were
+homozygous for R501X. In other families and isolated cases, they found
+individuals with the marked ichthyosis vulgaris phenotype to be compound
+heterozygous for R501X and a second mutation, 2282del4, in exon 3
+(135940.0002).
+
+Ichthyosis vulgaris is semidominant: that is, heterozygotes had either
+no discernible phenotype or milder ichthyosis, whereas homozygotes or
+compound heterozygotes had marked ichthyosis and an overt histologic
+skin barrier defect. In an extension of the work of Smith et al. (2006),
+Palmer et al. (2006) noted that in their families with ichthyosis
+vulgaris, many individuals null or heterozygous for filaggrin also had
+atopic dermatitis (605803) (eczema) and, in a few cases, also had asthma
+(see 600807). Specifically, atopic dermatitis was prevalent in the
+individuals with mild ichthyosis vulgaris, all of whom were heterozygous
+for either the R501X or 2282del4 FLG-null allele (13/29; 44%). Atopic
+dermatitis was particularly common in individuals with severe ichthyosis
+vulgaris, all of whom were homozygous or compound heterozygous for
+FLG-null alleles (16/21; 76%). None of the individuals in these families
+who lacked an FLG-null allele had atopic dermatitis (n = 13). Thus,
+atopic dermatitis is inherited as a semidominant trait in these
+families, with high penetrance in FLG-null homozygotes or compound
+heterozygotes and reduced penetrance in heterozygotes.
+
+Using the transmission-disequilibrium test in 476 German
+parent-offspring trios with atopic dermatitis, Weidinger et al. (2006)
+found a significant association between the loss-of-function mutations
+R501X and 2282del4 in the FLG gene and extrinsic atopic dermatitis,
+allergic sensitization, total IgE level, asthma, and palmar
+hyperlinearity; there was no significant association with intrinsic
+atopic dermatitis.
+
+Marenholz et al. (2006) genotyped 1092 children with eczema (atopic
+dermatitis) from 2 large European populations for the R501X and 2282del4
+mutations in the FLG gene and replicated the highly significant
+association between the null mutations and eczema and concomitant
+asthma. Moreover, the authors found that these mutations predisposed to
+asthma, allergic rhinitis, and allergic sensitization only in the
+presence of eczema, and that the mutations predisposed equally to atopic
+(intrinsic) and nonatopic (extrinsic) forms of eczema. They demonstrated
+that the presence of 2 null alleles is an independent risk factor for
+asthma in children with eczema (OR, 11.76, p = 0.0085). Together, the 2
+mutations accounted for approximately 11% of eczema cases in the German
+population.
+
+.0002
+ICHTHYOSIS VULGARIS
+DERMATITIS, ATOPIC, 2, SUSCEPTIBILITY TO, INCLUDED
+FLG, 4-BP DEL, 2282CAGT
+
+See 135940.0001 and Smith et al. (2006). The 2282del4 mutation leads to
+a premature termination codon 107 bp downstream and, like R501X, stops
+protein translation within the first filaggrin repeat.
+
+Palmer et al. (2006) found an association of the 2282del4 and R501X
+genetic variants of the FLG gene with atopic dermatitis; see
+135940.0001.
+
+Weidinger et al. (2006) found a significant association between atopic
+dermatitis, in particular the extrinsic type, and the R501X and 2282del4
+mutations; Marenholz et al. (2006) replicated the association and also
+found that the presence of 2 null alleles was an independent risk factor
+for asthma in children with eczema. See 135940.0001.
+
+.0003
+ICHTHYOSIS VULGARIS
+DERMATITIS, ATOPIC, 2, SUSCEPTIBILITY TO, INCLUDED
+FLG, SER2554TER
+
+In affected members of 2 unrelated Japanese families with ichthyosis
+vulgaris (146700) who were negative for previously identified null
+mutations in the FLG gene, Nomura et al. (2007) identified
+heterozygosity for a 7661C-G transversion in exon 3 of the FLG gene,
+resulting in a ser2554-to-ter (S2554X) substitution, predicted to cause
+premature termination of profilaggrin translation in the filaggrin
+repeat domain 7. The older sister of 1 proband, who had a severe
+presentation of the disease, was found to be homozygous for S2554X. The
+authors then screened 143 Japanese patients with atopic dermatitis
+(605803) from 140 unrelated families for this null mutation and
+identified S2554X in 6 patients. The mutation was not found in 156
+unrelated nonatopic and nonichthyotic Japanese controls.
+
+.0004
+ICHTHYOSIS VULGARIS
+DERMATITIS, ATOPIC, 2, SUSCEPTIBILITY TO, INCLUDED
+FLG, 1-BP DEL, 3321A
+
+In 2 probands from 2 unrelated Japanese families with ichthyosis
+vulgaris (146700), who were negative for previously identified null
+mutations in the FLG gene, Nomura et al. (2007) identified
+heterozygosity for a 1-bp deletion (3321delA) in exon 3 of the FLG gene,
+resulting in a premature termination of profilaggrin translation in
+filaggrin repeat domain 2. The authors then screened 143 Japanese
+patients with atopic dermatitis (605803) from 140 unrelated families for
+this deletion and identified 3321delA in 2 patients. The deletion was
+not found in 156 unrelated nonatopic and nonichthyotic Japanese
+controls.
+
+REFERENCE 1. Baden, H. P.; Roth, S. I.; Goldsmith, L. A.; Lee, L. D.: Keratohyalin
+protein in disorders of keratinization. J. Invest. Derm. 62: 411-414,
+1974.
+
+2. Cookson, W. O. C. M.; Moffatt, M. F.: The genetics of atopic dermatitis. Curr.
+Opin. Allergy Clin. Immun. 2: 383-387, 2002.
+
+3. Fallon, P. G.; Sasaki, T.; Sandilands, A.; Campbell, L. E.; Saunders,
+S. P.; Mangan, N. E.; Callanan, J. J.; Kawasaki, H.; Shiohama, A.;
+Kubo, A.; Sundberg, J. P.; Presland, R. B.; Fleckman, P.; Shimizu,
+N.; Kudoh, J.; Irvine, A. D.; Amagai, M.; McLean, W. H. I.: A homozygous
+frameshift mutation in the mouse Flg gene facilitates enhanced percutaneous
+allergen priming. Nature Genet. 41: 602-608, 2009.
+
+4. Gan, S.-Q.; McBride, O. W.; Idler, W. W.; Markova, N.; Steinert,
+P. M.: Organization, structure, and polymorphisms of the human profilaggrin
+gene. Biochemistry 29: 9432-9440, 1990. Note: Erratum: Biochemistry:
+30: 5814 only, 1991.
+
+5. Hewett, D. R.; Simons, A. L.; Mangan, N. E.; Jolin, H. E.; Green,
+S. M.; Fallon, P. G.; McKenzie, A. N. J.: Lethal, neonatal ichthyosis
+with increased proteolytic processing of filaggrin in a mouse model
+of Netherton syndrome. Hum. Molec. Genet. 14: 335-346, 2005.
+
+6. Holbrook, K. A.; Dale, B. A.; Brown, K. S.: Abnormal epidermal
+keratinization in the repeated epilation mutant mouse. J. Cell Biol. 92:
+387-397, 1982.
+
+7. Marenholz, I.; Nickel, R.; Ruschendorf, F.; Schulz, F.; Esparza-Gordillo,
+J.; Kerscher, T.; Gruber, C.; Lau, S.; Worm, M.; Keil, T.; Kurek,
+M.; Zaluga, E.; Wahn, U.; Lee, Y.-A.: Filaggrin loss-of-function
+mutations predispose to phenotypes involved in the atopic march. J.
+Allergy Clin. Immun. 118: 866-871, 2006.
+
+8. McKinley-Grant, L. J.; Idler, W. W.; Bernstein, I. A.; Parry, D.
+A. D.; Cannizzaro, L.; Croce, C. M.; Huebner, K.; Lessin, S. R.; Steinert,
+P. M.: Characterization of a cDNA clone encoding human filaggrin
+and localization of the gene to chromosome region 1q21. Proc. Nat.
+Acad. Sci. 86: 4848-4852, 1989.
+
+9. Nomura, T.; Sandilands, A.; Akiyama, M.; Liao, H.; Evans, A. T.;
+Sakai, K.; Ota, M.; Sugiura, H.; Yamamoto, K.; Sato, H.; Palmer, C.
+N. A.; Smith, F. J. D.; McLean, W. H. I.; Shimizu, H.: Unique mutations
+in the filaggrin gene in Japanese patients with ichthyosis vulgaris
+and atopic dermatitis. J. Allergy Clin. Immun. 119: 434-440, 2007.
+
+10. Palmer, C. N. A.; Irvine, A. D.; Terron-Kwiatkowski, A.; Zhao,
+Y.; Liao, H.; Lee, S. P.; Goudie, D. R.; Sandilands, A.; Campbell,
+L. E.; Smith, F. J. D.; O'Regan, G. M.; Watson, R. M.; and 15 others
+: Common loss-of-function variants of the epidermal barrier protein
+filaggrin are a major predisposing factor for atopic dermatitis. Nature
+Genet. 38: 441-446, 2006.
+
+11. Presland, R. B.; Haydock, P. V.; Fleckman, P.; Nirunsuksiri, W.;
+Dale, B. A.: Characterization of the human epidermal profilaggrin
+gene: genomic organization and identification of an S-100-like calcium
+binding domain at the amino terminus. J. Biol. Chem. 267: 23772-23781,
+1992.
+
+12. Rothnagel, J. A.; Longley, M. A.; Bundman, D. S.; Naylor, S. L.;
+Lalley, P. A.; Jenkins, N. A.; Gilbert, D. J.; Copeland, N. G.; Roop,
+D. R.: Characterization of the mouse loricrin gene: linkage with
+profilaggrin and the flaky tail and soft coat mutant loci on chromosome
+3. Genomics 23: 450-456, 1994.
+
+13. Sandilands, A.; Terron-Kwiatkowski, A.; Hull, P. R.; O'Regan,
+G. M.; Clayton, T. H.; Watson, R. M.; Carrick, T.; Evans, A. T.; Liao,
+H.; Zhao, Y.; Campbell, L. E.; Schmuth, M.; and 13 others: Comprehensive
+analysis of the gene encoding filaggrin uncovers prevalent and rare
+mutations in ichthyosis vulgaris and atopic eczema. Nature Genet. 39:
+650-654, 2007.
+
+14. Smith, F. J. D.; Irvine, A. D.; Terron-Kwiatkowski, A.; Sandilands,
+A.; Campbell, L. E.; Zhao, Y.; Liao, H.; Evans, A. T.; Goudie, D.
+R.; Lewis-Jones, S.; Arseculeratne, G.; Munro, C. S.; Sergeant, A.;
+O'Regan, G.; Bale, S. J.; Compton, J. G.; DiGiovanna, J. J.; Presland,
+R. B.; Fleckman, P.; McLean, W. H. I.: Loss-of-function mutations
+in the gene encoding filaggrin cause ichthyosis vulgaris. Nature
+Genet. 38: 337-342, 2006.
+
+15. Sybert, V. P.; Dale, B. A.; Holbrook, K. A.: Ichthyosis vulgaris:
+identification of a defect in synthesis of filaggrin correlated with
+an absence of keratohyaline granules. J. Invest. Derm. 84: 191-194,
+1985.
+
+16. Volz, A.; Korge, B. P.; Compton, J. G.; Ziegler, A.; Steinert,
+P. M.; Mischke, D.: Physical mapping of a functional cluster of epidermal
+differentiation genes on chromosome 1q21. Genomics 18: 92-99, 1993.
+
+17. Weidinger, S.; Illig, T.; Baurecht, H.; Irvine, A. D.; Rodriquez,
+E.; Diaz-Lacava, A.; Klopp, N.; Wagenpfeil, S.; Zhao, Y.; Liao, H.;
+Lee, S. P.; Palmer, C. N. A.; Jenneck, C.; Maintz, L.; Hagemann, T.;
+Behrendt, H.; Ring, J.; Nothen, M. M.; McLean, W. H. I.; Novak, N.
+: Loss-of-function variations within the filaggrin gene predispose
+for atopic dermatitis with allergic sensitizations. J. Allergy Clin.
+Immun. 118: 214-219, 2006. Note: Erratum: J. Allergy Clin. Immun.
+118: 922 only, 2006. Erratum: J. Allergy Clin. Immun. 118: 724 only,
+2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/2/2009
+Marla J. F. O'Neill - updated: 4/18/2008
+George E. Tiller - updated: 11/8/2007
+Victor A. McKusick - updated: 5/24/2007
+Victor A. McKusick - updated: 4/27/2006
+Victor A. McKusick - updated: 2/24/2006
+
+CREATED Victor A. McKusick: 11/8/1987
+
+EDITED terry: 04/04/2013
+terry: 3/28/2013
+wwang: 2/7/2011
+alopez: 10/8/2009
+terry: 10/2/2009
+terry: 7/18/2008
+carol: 4/18/2008
+carol: 4/14/2008
+wwang: 12/3/2007
+terry: 11/8/2007
+terry: 8/9/2007
+alopez: 6/6/2007
+terry: 5/24/2007
+alopez: 5/2/2006
+terry: 4/27/2006
+alopez: 3/2/2006
+terry: 2/24/2006
+dkim: 12/16/1998
+terry: 6/18/1998
+alopez: 7/29/1997
+alopez: 7/7/1997
+carol: 12/1/1994
+carol: 10/14/1993
+supermim: 3/16/1992
+carol: 3/4/1992
+carol: 1/31/1991
+carol: 12/17/1990
+

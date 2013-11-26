@@ -13,10 +13,11 @@
     <Name>ProjectCode</Name>
     <RootNamespace>ProjectCode</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation</CommandLineArguments>
+    <CommandLineArguments>./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation 1</CommandLineArguments>
     <InterpreterPath />
     <InterpreterArguments />
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -31,6 +32,7 @@
     <Compile Include="Alignment\__init__.py" />
     <Compile Include="Alignment\seqalign.py" />
     <Compile Include="Annotation\Annotation.py" />
+    <Compile Include="Annotation\OMIMAnnotation.py" />
     <Compile Include="Annotation\tests\axis1.py" />
     <Compile Include="Annotation\tests\axis2.py" />
     <Compile Include="Annotation\tests\builtin.py" />

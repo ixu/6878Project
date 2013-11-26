@@ -1,0 +1,259 @@
+604064	TITLE *604064 ACTIVATING TRANSCRIPTION FACTOR 4; ATF4
+;;CYCLIC AMP RESPONSE ELEMENT-BINDING PROTEIN 2; CREB2;;
+TAX-RESPONSIVE ENHANCER ELEMENT B67; TAXREB67
+DESCRIPTION 
+DESCRIPTION
+
+ATF4 belongs to the large ATF/CREB family of transcription factors.
+These proteins bind DNA via their basic region and dimerize via their
+leucine zipper domain to form a variety of homo- and heterodimers to
+regulate gene transcription (De Angelis et al., 2003).
+
+CLONING
+
+An activating transcription factor (ATF)-binding site is a promoter
+element present in a wide variety of viral and cellular genes, including
+E1A-inducible adenoviral genes and cAMP-inducible cellular genes. Hai et
+al. (1989) identified cDNAs encoding 8 different human ATF
+consensus-binding proteins, including a partial cDNA corresponding to
+ATF4. They found that members of this family share significant sequence
+similarity within a leucine zipper DNA-binding motif and an adjacent
+basic region; the proteins show little similarity outside of these
+regions.
+
+The cAMP response element (CRE) is an octanucleotide motif that mediates
+diverse transcriptional regulatory effects. By screening a Jurkat T-cell
+line expression library for the ability to bind CRE, Karpinski et al.
+(1992) isolated a full-length cDNA corresponding to ATF4, which they
+called CREB2 (CRE-binding protein-2). The predicted protein contains 351
+amino acids. Northern blot analysis revealed that the 1.5-kb CREB2 mRNA
+was expressed in all human tumor cell lines and mouse organs tested.
+
+GENE FUNCTION
+
+Karpinski et al. (1992) found that, unlike CREB (123810), which
+activates transcription from CRE-containing promoters, CREB2 functions
+as a specific repressor of CRE-dependent transcription. The
+transcriptional repressor activity resides within the C-terminal leucine
+zipper and basic domain region of the CREB2 protein.
+
+The p40tax gene product of human T-cell leukemia virus type 1 (HTLV-1)
+activates HTLV-1 viral transcription in trans through tax-responsive
+enhancers in the long terminal repeats. Tsujimoto et al. (1991)
+identified ATF4 as TAXREB67, a protein that binds to the tax-responsive
+enhancer element in HTLV-1.
+
+Using a yeast 2-hybrid assay, He et al. (2001) found that mouse Nrf2
+(NFE2L2; 600492) interacted with rat Atf4. Coimmunoprecipitation and
+mammalian 2-hybrid analyses confirmed the interaction. An Nrf2-Atf4
+dimer bound a stress response element (StRE) sequence from an Nrf2
+target gene, Ho1 (HMOX1; 141250). CdCl2, an Ho1 inducer, increased
+expression of Atf4 in mouse hepatoma cells prior to induction of Ho1. A
+dominant-negative Atf4 mutant inhibited basal and CdCl2-induced
+expression of an StRE-dependent construct in hepatoma cells, but it only
+inhibited basal expression in a human mammary epithelial cell line. He
+et al. (2001) concluded that ATF4 regulates HO1 expression in a
+cell-specific manner, possibly in a complex with NRF2.
+
+Siu et al. (2002) presented evidence that ATF4 binds nutrient-sensing
+response element-1 (NSRE1) in the human asparagine synthetase (ASNS;
+108370) gene and activates ASNS transcription in response to nutrient
+stress.
+
+Bagheri-Yarmand et al. (2003) found that expression of Atf4 was high in
+virgin mouse mammary glands and in pregnant mammary glands, but it was
+dramatically reduced during lactation and higher after weaning.
+Transgenic mice overexpressing Atf4 in mammary epithelium showed
+decreased proliferation and impaired differentiation of alveolar
+epithelial cells during pregnancy and lactation. In addition, Atf4
+overexpression induced apoptosis and accelerated involution of the
+mammary gland, suggesting a role for ATF4 in the regulation of normal
+mammary gland involution.
+
+De Angelis et al. (2003) showed that human ATF4 and RBP3 (E2F1; 189971)
+dimerized in vitro and in vivo and that RBP3 enhanced ATF4
+transactivating activity. Expression of both proteins increased during
+differentiation of a mouse myogenic cell line.
+
+ATF4 has 2 upstream ORFs (uORFs) that are conserved in vertebrates. The
+more 3-prime uORF, uORF2, extends into the coding region of full-length
+ATF4. Independently, Lu et al. (2004) and Vattem and Wek (2004) found
+that scanning ribosomes initiated translation at both uORFs of mouse
+Atf4, and that ribosomes that translated uORF1 efficiently reinitiated
+translation at downstream AUGs. In unstressed mouse fibroblasts, low
+levels of phosphorylated Eif2 (see EIF2S1; 603907) favored early
+capacitation of reinitiating ribosomes, directing them to the inhibitory
+uORF2 downstream of uORF1, which precluded translation of Atf4 and
+repressed the integrated stress response. In stressed cells, high levels
+of phosphorylated Eif2 delayed capacitation of reinitiating ribosomes,
+favoring reinitiation at the Atf4 coding sequence over uORF2, which
+permitted Atf4 expression and activated the integrated stress response.
+
+Using Rsk2 (300075) -/- mice, Yang et al. (2004) showed that RSK2 is
+required for osteoblast differentiation and function. They identified
+the transcription factor ATF4 as a critical substrate of RSK2 that is
+required for the timely onset of osteoblast differentiation, for
+terminal differentiation of osteoblasts, and for osteoblast-specific
+gene expression. Additionally, RSK2 and ATF4 were found to
+posttranscriptionally regulate the synthesis of type I collagen (see
+120150), the main constituent of the bone matrix. Accordingly, Atf4
+deficiency in mice resulted in delayed bone formation during embryonic
+development and low bone mass throughout postnatal life. Yang et al.
+(2004) concluded that ATF4 is a critical regulator of osteoblast
+differentiation and function and that lack of ATF4 phosphorylation by
+RSK2 may contribute to the skeletal phenotype of Coffin-Lowry syndrome
+(303600).
+
+Blais et al. (2004) determined that EIF2-alpha (EIF2S1), PERK (EIF2AK3;
+604032), ATF4, and GADD34 (PPP1R15A; 611048) are involved in an
+integrated adaptive response to hypoxic stress in HeLa cells.
+
+Sayer et al. (2006) performed a yeast 2-hybrid screen of a human fetal
+brain expression library and identified ATF4 as a direct interaction
+partner of CEP290 (NPHP6; 610142). The protein-interaction domains
+mapped to the N-terminal third of CEP290, encoded by exons 2 through 21,
+and the C-terminal two-thirds of ATF4. To confirm that CEP290 and ATF4
+interact physiologically in vivo, Sayer et al. (2006) performed
+coimmunoprecipitation experiments using bovine retina extracts.
+Immunoblot analysis demonstrated that endogenous ATF4 can be
+immunoprecipitated using an antibody to CEP290 but not using a control
+IgG. Reverse coimmunoprecipitation experiments showed that antibody to
+ATF4 can also precipitate endogenous CEP290.
+
+Lin et al. (2010) showed that although Skp2 (601436) inactivation on its
+own does not induce cellular senescence, aberrant protooncogenic signals
+as well as inactivation of tumor suppressor genes do trigger a potent,
+tumor-suppressive senescence response in mice and cells devoid of Skp2.
+Notably, Skp2 inactivation and oncogenic stress-driven senescence
+neither elicit activation of the p19(Arf) (see 600160)-p53 (191170)
+pathway nor DNA damage, but instead depend on Aft4, p27 (600778), and
+p21 (116899). Lin et al. (2010) further demonstrated that genetic Skp2
+inactivation evokes cellular senescence even in oncogenic conditions in
+which the p19(Arf)-p53 response is impaired, whereas a Skp2-SCF complex
+inhibitor can trigger cellular senescence in p53/Pten (601728)-deficient
+cells and tumor regression in preclinical studies. Lin et al. (2010)
+concluded that their findings provided proof-of-principle evidence that
+pharmacologic inhibition of Skp2 may represent a general approach for
+cancer prevention and therapy.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the ATF4
+gene to chromosome 22 (TMAP stSG29796).
+
+ANIMAL MODEL
+
+Tanaka et al. (1998) used gene targeting to generate mice lacking Atf4.
+They found that Atf4-deficient mice exhibited severe microphthalmia. The
+Atf4-deficient eyes revealed a normal gross lens structure up to
+embryonic day 14.5, after which the lens degenerated due to apoptosis
+without the formation of lens secondary fiber cells. Retinal development
+was normal in the mutant mice. The lens-specific expression of Atf4 in
+the mutant mice led not only to the recovery of lens secondary fibers
+but also to the induction of hyperplasia of these fibers. Tanaka et al.
+(1998) concluded that ATF4 is essential for the later stages of lens
+fiber cell differentiation.
+
+NOMENCLATURE
+
+The ATF4 gene, which Karpinski et al. (1992) referred to as CREB2,
+should not be confused with the ATF2 gene (123811), which was formerly
+known as CREB2.
+
+REFERENCE 1. Bagheri-Yarmand, R.; Vadlamudi, R. K.; Kumar, R.: Activating transcription
+factor 4 overexpression inhibits proliferation and differentiation
+of mammary epithelium resulting in impaired lactation and accelerated
+involution. J. Biol. Chem. 278: 17421-17429, 2003.
+
+2. Blais, J. D.; Filipenko, V.; Bi, M.; Harding, H. P.; Ron, D.; Koumenis,
+C.; Wouters, B. G.; Bell, J. C.: Activating transcription factor
+4 is translationally regulated by hypoxic stress. Molec. Cell. Biol. 24:
+7469-7482, 2004.
+
+3. De Angelis, R.; Iezzi, S.; Bruno, T.; Corbi, N.; Di Padova, M.;
+Floridi, A.; Fanciulli, M.; Passananti, C.: Functional interaction
+of the subunit 3 of RNA polymerase II (RPB3) with transcription factor-4
+(ATF4). FEBS Lett. 547: 15-19, 2003.
+
+4. Hai, T.; Liu, F.; Coukos, W. J.; Green, M. R.: Transcription factor
+ATF cDNA clones: an extensive family of leucine zipper proteins able
+to selectively form DNA-binding heterodimers. Genes Dev. 3: 2083-2090,
+1989. Note: Erratum: Genes Dev. 4: 682 only, 1990.
+
+5. He, C. H.; Gong, P.; Hu, B.; Stewart, D.; Choi, M. E.; Choi, A.
+M. K.; Alam, J.: Identification of activating transcription factor
+4 (ATF4) as an Nrf2-interacting protein: implication for heme oxygenase-1
+gene regulation. J. Biol. Chem. 276: 20858-20865, 2001.
+
+6. Karpinski, B. A.; Morle, G. D.; Huggenvik, J.; Uhler, M. D.; Leiden,
+J. M.: Molecular cloning of human CREB-2: an ATF/CREB transcription
+factor that can negatively regulate transcription from the cAMP response
+element. Proc. Nat. Acad. Sci. 89: 4820-4824, 1992.
+
+7. Lin, H.-K.; Chen, Z.; Wang, G.; Nardella, C.; Lee, S.-W.; Chan,
+C.-H.; Yang, W.-L.; Wang, J; Egia, A.; Nakayama, K. I.; Cordon-Cardo,
+C.; Teruya-Feldstein, J.; Pandolfi, P. P.: Skp2 targeting suppresses
+tumorigenesis by Arf-p53-independent cellular senescence. Nature 464:
+374-379, 2010. Note: Erratum: Nature 466: 398 only, 2010.
+
+8. Lu, P. D.; Harding, H. P.; Ron, D.: Translation reinitiation at
+alternative open reading frames regulates gene expression in an integrated
+stress response. J. Cell Biol. 167: 27-33, 2004.
+
+9. Sayer, J. A.; Otto, E. A.; O'Toole, J. F.; Nurnberg, G.; Kennedy,
+M. A.; Becker, C.; Hennies, H. C.; Helou, J.; Attanasio, M.; Fausett,
+B. V.; Utsch, B.; Khanna, H.; and 30 others: The centrosomal protein
+nephrocystin-6 is mutated in Joubert syndrome and activates transcription
+factor ATF4. Nature Genet. 38: 674-681, 2006.
+
+10. Siu, F.; Bain, P. J.; LeBlanc-Chaffin, R.; Chen, H.; Kilberg,
+M. S.: ATF4 is a mediator of the nutrient-sensing response pathway
+that activates the human asparagine synthetase gene. J. Biol. Chem. 277:
+24120-24127, 2002.
+
+11. Tanaka, T.; Tsujimura, T.; Takeda, K.; Sugihara, A.; Maekawa,
+A.; Terada, N.; Yoshida, N.; Akira, S.: Targeted disruption of ATF4
+discloses its essential role in the formation of eye lens fibres. Genes
+Cells 3: 801-810, 1998.
+
+12. Tsujimoto, A.; Nyunoya, H.; Morita, T.; Sato, T.; Shimotohno,
+K.: Isolation of cDNAs for DNA-binding proteins which specifically
+bind to a tax-responsive enhancer element in the long terminal repeat
+of human T-cell leukemia virus type I. J. Virol. 65: 1420-1426,
+1991.
+
+13. Vattem, K. M.; Wek, R. C.: Reinitiation involving upstream ORFs
+regulates ATF4 mRNA translation in mammalian cells. Proc. Nat. Acad.
+Sci. 101: 11269-11274, 2004.
+
+14. Yang, X.; Matsuda, K.; Bialek, P.; Jacquot, S.; Masuoka, H. C.;
+Schinke, T.; Li, L.; Brancorsini, S.; Sassone-Corsi, P.; Townes, T.
+M.; Hanauer, A.; Karsenty, G.: ATF4 is a substrate of RSK2 and an
+essential regulator of osteoblast biology: implication for Coffin-Lowry
+Syndrome. Cell 117: 387-398, 2004.
+
+CONTRIBUTORS Ada Hamosh - updated: 4/15/2010
+Patricia A. Hartz - updated: 4/8/2009
+Anne M. Stumpf - updated: 6/15/2006
+Patricia A. Hartz - updated: 9/23/2004
+Stylianos E. Antonarakis - updated: 6/9/2004
+Carol A. Bocchini - updated: 11/7/2001
+Rebekah S. Rasooly - updated: 8/9/1999
+
+CREATED Rebekah S. Rasooly: 7/26/1999
+
+EDITED terry: 09/14/2012
+carol: 7/23/2010
+alopez: 4/19/2010
+terry: 4/15/2010
+mgross: 4/9/2009
+terry: 4/8/2009
+mgross: 5/21/2007
+alopez: 6/15/2006
+mgross: 9/23/2004
+mgross: 6/9/2004
+carol: 11/7/2001
+mgross: 10/16/2000
+mgross: 8/9/1999
+alopez: 7/26/1999
+

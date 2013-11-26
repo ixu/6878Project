@@ -1,0 +1,1682 @@
+600842	TITLE *600842 GLUCOKINASE REGULATORY PROTEIN; GCKR
+;;GKRP
+DESCRIPTION 
+CLONING
+
+Glucokinase (GCK; 138079) in the liver and pancreatic beta cells is
+subject to inhibition by a regulatory protein, GCKR. The inhibitory
+effect of GCKR depends on the presence of fructose-6-phosphate (F6P) and
+is antagonized by fructose-1-phosphate (F1P). Warner et al. (1995) noted
+that mutations in GCKR might be diabetogenic if they resulted in the
+synthesis of proteins with increased inhibitory activity, perhaps
+reflecting increased sensitivity to fructose-6-phosphate or reduced
+susceptibility to antagonism by fructose-1-phosphate. Warner et al.
+(1995) determined the complete sequence of human GCKR cDNA. The GCKR
+cDNA encodes a protein of 625 amino acids. Given the role of glucokinase
+in the causation of maturity-onset diabetes of the young (MODY) type II
+(125851), GCKR had been considered a candidate gene for a form of MODY.
+
+GENE STRUCTURE
+
+Hayward et al. (1998) determined that the GCKR gene contains 19 exons
+and spans 27 kb.
+
+MAPPING
+
+Warner et al. (1995) isolated YAC clones containing human GCKR and
+localized them to chromosome 2p23 by fluorescence in situ hybridization.
+Vaxillaire et al. (1994) had previously assigned the GCKR gene to
+chromosome 2p23-p22.3.
+
+Hayward et al. (1996) demonstrated that the GCKR gene lies within 500 kb
+of the gene encoding ketohexokinase (229800). By high-resolution
+fluorescence in situ hybridization, they refined the localization of the
+GCKR gene to chromosome 2p23.3-p23.2.
+
+MOLECULAR GENETICS
+
+A common GCKR variant (P446L; dbSNP rs1260326; 600842.0001) is
+associated with triglyceride and fasting plasma glucose levels (FGQTL5;
+613463) in the general population. In a series of transfection
+experiments using wildtype and P446L-GKRP, Beer et al. (2009) reported
+reduced regulation by physiologic concentrations of F6P in the presence
+of P446L-GKRP, resulting indirectly in increased GCK activity. Assays
+matched for GKRP activity demonstrated no difference in dose-dependent
+inhibition of GCK activity or F1P-mediated regulation. Quantitative
+RT-PCR analysis showed that GCKR is highly expressed relative to GCK in
+human liver and has very low expression in human pancreatic islets
+relative to GCK. The authors noted that altered GCK regulation in liver
+is predicted to enhance glycolytic flux, promoting hepatic glucose
+metabolism and elevating concentrations of malonyl-CoA (a substrate for
+de novo lipogenesis). Beer et al. (2009) proposed this as a mutational
+mechanism for the association of the leu446 allele with raised
+triglycerides and lower glucose levels.
+
+Suhre et al. (2011) reported a comprehensive analysis of
+genotype-dependent metabolic phenotypes using a GWAS with nontargeted
+metabolomics. They identified 37 genetic loci associated with blood
+metabolite concentrations, of which 25 showed effect sizes that were
+unusually high for GWAS and accounted for 10 to 60% differences in
+metabolite levels per allele copy. These associations provided new
+functional insights for many disease-related associations that had been
+reported in previous studies, including those for cardiovascular and
+kidney disorders, type 2 diabetes, cancer, gout, venous thromboembolism,
+and Crohn disease. Suhre et al. (2011) identified dbSNP rs780094 in the
+GCKR gene as associated with glucose/mannose ratio with a p value value
+of 5.5 x 10(-53).
+
+ANIMAL MODEL
+
+To further understand the role of glucokinase regulatory protein, which
+they symbolized GKRP, Farrelly et al. (1999) inactivated the mouse
+homolog. With the knockout of the mouse gene, there was a parallel loss
+of glucokinase protein and activity in mutant mouse liver. The loss was
+primarily because of posttranscriptional regulation of glucokinase,
+indicating a positive regulatory role for GKRP in maintaining
+glucokinase levels and activity. As in rat hepatocytes, both glucokinase
+and GKRP were localized in the nuclei of mouse hepatocytes cultured in
+low glucose-containing medium. In the presence of fructose or high
+concentrations of glucose, conditions known to relieve glucokinase
+inhibition by GKRP in vitro, only glucokinase was translocated into the
+cytoplasm. In the GKRP-mutant hepatocytes, glucokinase was not found in
+the nucleus under any tested conditions. Farrelly et al. (1999) proposed
+that GKRP functions as an anchor to sequester and inhibit glucokinase in
+the hepatocyte nucleus, where it is protected from degradation. This
+ensures that glucose phosphorylation is minimal when the liver is in the
+fasting, glucose-producing phase. This also enables the hepatocytes
+rapidly to mobilize glucokinase into the cytoplasm to phosphorylate and
+store or metabolize glucose after the ingestion of dietary glucose. In
+GKRP-mutant mice, the disruption of this regulation and the subsequent
+decrease in GK activity led to altered glucose metabolism and impaired
+glycemic control.
+
+Grimsby et al. (2000) found that wildtype and Gckr-null mice had
+comparable glucokinase activity at physiologic glucose concentrations.
+However, following a glucose tolerance test, the homozygous knockout
+mice showed impaired glucose clearance, indicating that they could not
+recruit sufficient glucokinase due to the absence of a nuclear reserve.
+
+ALLELIC VARIANT .0001
+FASTING PLASMA GLUCOSE LEVEL QUANTITATIVE TRAIT LOCUS 5
+GCKR, PRO446LEU (dbSNP rs1260326)
+
+Beer et al. (2009) noted that the 1403C-T transition (dbSNP rs1260326)
+in the GCKR gene results in a pro446-to-leu (P446L) substitution at a
+conserved residue in the glucokinase regulatory protein. Residue 446
+lies between 2 motifs thought to be directly involved in binding of
+phosphate esters.
+
+By genomewide association studies, Orho-Melander et al. (2008) showed
+that the intronic dbSNP rs780094 variant of the GCKR gene was associated
+with higher plasma triglyceride levels (p = 3 x 10(-56)) but lower
+fasting plasma glucose levels (p = 1 x 10(-13)) (FGQTL5; 613463).
+Fine-mapping by genotyping and imputing SNPs across the GCKR locus
+identified a common 1403C-T transition, resulting in a pro446-to-leu
+(P446L; dbSNP rs1260326) substitution, as the strongest signal for
+association with triglycerides. The dbSNP rs1260326 SNP shows strong
+linkage disequilibrium (r(2) = 0.93) with dbSNP rs780094 and has a minor
+allele frequency of 0.34.
+
+In 4,833 middle-aged French individuals, Vaxillaire et al. (2008) found
+that the minor T allele of the P446L (dbSNP rs1260326) SNP was strongly
+associated with lower fasting glucose levels and fasting insulin levels,
+and conversely, higher triglyceride levels.
+
+Dupuis et al. (2010) performed metaanalyses of 21 genomewide association
+studies informative for fasting glucose, fasting insulin, and indices of
+beta-cell function (HOMA-B) and insulin resistance (HOMA-IR) in up to
+46,186 nondiabetic participants. Follow-up of 25 loci in up to 76,558
+additional subjects identified 16 loci associated with fasting glucose
+and HOMA-B and 2 loci associated with fasting insulin and HOMA-IR.
+Dupuis et al. (2010) identified association of elevation of fasting
+blood glucose (p = 5.6 x 10(-38)) and decreased triglyceride levels (p =
+9.6 x 10(-17)) with the C allele of the intronic C-T SNP (dbSNP
+rs780094) in the GCKR gene on chromosome 2p23.3-p23.2. This variant was
+also associated with fasting insulin levels (3.0 x 10(-24)).
+
+In a series of transfection experiments using wildtype and P446L-GKRP,
+Beer et al. (2009) reported reduced regulation by physiologic
+concentrations of F6P in the presence of P446L-GKRP, resulting
+indirectly in increased GCK activity. Assays matched for GKRP activity
+demonstrated no difference in dose-dependent inhibition of GCK activity
+or F1P-mediated regulation. Quantitative RT-PCR analysis showed that
+GCKR is highly expressed relative to GCK in human liver and has very low
+expression in human pancreatic islets relative to GCK. The authors noted
+that altered GCK regulation in liver is predicted to enhance glycolytic
+flux, promoting hepatic glucose metabolism and elevating concentrations
+of malonyl-CoA (a substrate for de novo lipogenesis). Beer et al. (2009)
+proposed this as a mutational mechanism for the association of the
+leu446 allele with raised triglycerides and lower glucose levels.
+
+REFERENCE 1. Beer, N. L.; Tribble, N. D.; McCulloch, L. J.; Roos, C.; Johnson,
+P. R. V.; Orho-Melander, M.; Gloyn, A. L.: The P446L variant in GCKR
+associated with fasting plasma glucose and triglyceride levels exerts
+its effect through increased glucokinase activity in liver. Hum.
+Molec. Genet. 18: 4081-4088, 2009.
+
+2. Dupuis, J.; Langenberg, C.; Prokopenko, I.; Saxena, R.; Soranzo,
+N.; Jackson, A. U.; Wheeler, E.; Glazer, N. L.; Bouatia-Naji, N.;
+Gloyn, A. L.; Lindgren, C. M.; Magi, R.; and 295 others: New genetic
+loci implicated in fasting glucose homeostasis and their impact on
+type 2 diabetes risk. Nature Genet. 42: 105-116, 2010. Note: Erratum:
+Nature Genet. 42: 464 only, 2010.
+
+3. Farrelly, D.; Brown, K. S.; Tieman, A.; Ren, J.; Lira, S. A.; Hagan,
+D.; Gregg, R.; Mookhtiar, K. A.; Hariharan, N.: Mice mutant for glucokinase
+regulatory protein exhibit decreased liver glucokinase: a sequestration
+mechanism in metabolic regulation. Proc. Nat. Acad. Sci. 96: 14511-14516,
+1999.
+
+4. Grimsby, J.; Coffey, J. W.; Dvorozniak, M. T.; Magram, J.; Li,
+G.; Matschinsky, F. M.; Shiota, C.; Kaur, S.; Magnuson, M. A.; Grippo,
+J. F.: Characterization of glucokinase regulatory protein-deficient
+mice. J. Biol. Chem. 275: 7826-7831, 2000.
+
+5. Hayward, B. E.; Dunlop, N.; Intody, S.; Leek, J. P.; Markham, A.
+F.; Warner, J. P.; Bonthron, D. T.: Organization of the human glucokinase
+regulator gene GCKR. Genomics 49: 137-142, 1998.
+
+6. Hayward, B. E.; Fantes, J. A.; Warner, J. P.; Intody, S.; Leek,
+J. P.; Markham, A. F.; Bonthron, D. T.: Co-localization of the ketohexokinase
+and glucokinase regulator genes to a 500-kb region of chromosome 2p23. Mammalian
+Genome 7: 454-458, 1996.
+
+7. Orho-Melander, M.; Melander, O.; Guiducci, C.; Perez-Martinez,
+P.; Corella, D.; Roos, C.; Tewhey, R.; Rieder, M. J.; Hall, J.; Abecasis,
+G.; Tai, E. S.; Welch, C.; and 29 others: Common missense variant
+in the glucokinase regulatory protein gene is associated with increased
+plasma triglyceride and C-reactive protein but lower fasting glucose
+concentrations. Diabetes 57: 3112-3121, 2008.
+
+8. Suhre, K.; Shin, S.-Y.; Petersen, A.-K.; Mohney, R. P.; Meredith,
+D.; Wagele, B.; Altmaier, E.; CARDIoGRAM; Deloukas, P.; Erdmann,
+J.; Grundberg, E.; Hammond, C. J.; and 22 others: Human metabolic
+individuality in biomedical and pharmaceutical research. Nature 477:
+54-60, 2011.
+
+9. Vaxillaire, M.; Cavalcanti-Proenca, C.; Dechaume, A.; Tichet, J.;
+Marre, M.; Balkau, B.; Forguel, P.; DESIR Study Group: The common
+P446L polymorphism in GCKR inversely modulates fasting glucose and
+triglyceride levels and reduces type 2 diabetes risk in the DESIR
+prospective general French population. Diabetes 57: 2253-2257, 2008.
+
+10. Vaxillaire, M.; Vionnet, N.; Vigouroux, C.; Sun, F.; Espinosa,
+R., III; LeBeau, M. M.; Stoffel, M.; Lehto, M.; Beckmann, J. S.; Detheux,
+M.; Passa, P.; Cohen, D.; Van Schaftingen, E.; Velho, G.; Bell, G.
+I.; Froguel, P.: Search for a third susceptibility gene for maturity-onset
+diabetes of the young: studies with eleven candidate genes. Diabetes 43:
+389-395, 1994.
+
+11. Warner, J. P.; Leek, J. P.; Intody, S.; Markham, A. F.; Bonthron,
+D. T.: Human glucokinase regulatory protein (GCKR): cDNA and genomic
+cloning, complete primary structure, and chromosomal localization. Mammalian
+Genome 6: 532-536, 1995.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/26/2011
+William Wang - updated: 11/1/2010
+George E. Tiller - updated: 9/30/2010
+Patricia A. Hartz - updated: 1/21/2003
+Victor A. McKusick - updated: 1/3/2000
+
+CREATED Victor A. McKusick: 10/24/1995
+
+EDITED alopez: 10/05/2011
+terry: 9/26/2011
+wwang: 11/1/2010
+terry: 9/30/2010
+terry: 4/5/2005
+mgross: 1/21/2003
+terry: 1/21/2003
+alopez: 1/11/2000
+terry: 1/3/2000
+carol: 5/12/1999
+mark: 10/11/1996
+terry: 9/20/1996
+mark: 10/24/1995
+
+601832	TITLE *601832 RIBOSOMAL PROTEIN L29; RPL29
+;;HP/HS-INTERACTING PROTEIN; HIP;;
+HEPARIN/HEPARAN SULFATE-BINDING PROTEIN
+DESCRIPTION 
+CLONING
+
+Liu et al. (1996) used RT-PCR to identify transcripts encoding cell
+surface heparin/heparan sulfate- (HP/HS-) binding peptides. One clone
+isolated in this manner had a predicted peptide sequence with features
+of an HP/HS-binding motif; the authors termed this transcript HIP, for
+'HP/HS interacting protein.' Liu et al. (1996) cloned the corresponding
+cDNA from a HeLa cell cDNA library and found that it encodes a 159-amino
+acid polypeptide 80% similar to the rodent ribosomal protein L29.
+Transfection of HIP cDNA demonstrated cell surface expression, and the
+sequence encodes neither a membrane-spanning region nor a glycosylation
+site. Northern blot analysis revealed that HIP is expressed as a 1.3-kb
+message in a variety of human cell lines and tissues.
+
+Mammalian ribosome proteins are members of multigene families that are
+composed predominantly of multiple processed pseudogenes and 1
+functional-containing gene, although some, such as human ribosomal
+protein L37a, are present as single-copy genes. During a large-scale
+partial sequencing of human heart cDNA clones, Law et al. (1996) found a
+novel clone that was very similar to the rat ribosomal protein L29 in
+both DNA and amino acid sequences. The cDNA encodes a protein that shows
+80.4% homology to protein L29 from the large ribosomal subunit of rat.
+The putative protein has a large excess of basic residues over acidic
+residues, with a unique lysine-rich tandem repeat structure that
+suggested a binding function. Liu et al. (1996) showed that RPL29 had
+the same nucleotide sequence as does cell surface heparin/heparan
+sulfate-binding protein, also designated HB/HS interacting protein.
+
+GENE FUNCTION
+
+Rohde et al. (1996) demonstrated direct binding between heparin and HIP.
+They showed that HIP is expressed on the surfaces of intact RL95 uterine
+epithelial cells and that RL95 cell suspensions form aggregates when
+incubated with antibodies directed against HIP. Using
+immunofluorescence, Rohde et al. (1996) demonstrated that HIP is
+expressed in both luminal and glandular epithelium of normal human
+endometrium.
+
+MAPPING
+
+Garcia-Barcelo et al. (1997) used a PCR-based strategy to distinguish
+the functional intron-containing gene RPL29 from multiple pseudogenes.
+By somatic cell hybrid analysis, radiation hybrid mapping, and
+fluorescence in situ hybridization, they localized RPL29 to the
+telomeric region of 3q, where it was the most distal marker identified
+to that time. The gene is close to RPL35A (180468), which maps to
+3q29-qter.
+
+Kirn-Safran et al. (2000) mapped the single-copy mouse Rpl29 gene to
+distal chromosome 9. Promoter analysis indicated the presence of binding
+motifs for ubiquitously expressed transcription factors and for nuclear
+factor kappa-B (NFKB; see 164011), as well as the lack of a TATA box.
+
+REFERENCE 1. Garcia-Barcelo, M.; Law, P. T. W.; Tsui, S. K. W.; Fung, K. P.;
+Lee, C. Y.; Waye, M. M. Y.: Mapping of the human ribosomal large
+subunit protein gene RPL29 to human chromosome 3q29-qter. Genomics 46:
+148-151, 1997.
+
+2. Kirn-Safran, C. B.; Dayal, S.; Martin-DeLeon, P. A.; Carson, D.
+D.: Cloning, expression, and chromosome mapping of the murine Hip/Rpl29
+gene. Genomics 68: 210-219, 2000.
+
+3. Law, P. T. W.; Tsui, S. K. W.; Lam, W. Y.; Luk, S. C. W.; Hwaang,
+D. M.; Liew, C. C.; Lee, C. Y.; Fung, K. P.; Waye, M. M. Y.: A novel
+cDNA encoding a human homologue of ribosomal protein L29. Biochim.
+Biophys. Acta 1305: 105-108, 1996.
+
+4. Liu, S.; Smith, S. E.; Julian, J.; Rohde, L. H.; Karin, N. J.;
+Carson, D. D.: cDNA cloning and expression of HIP, a novel cell surface
+heparan sulfate/heparin-binding protein of human uterine epithelial
+cells and cell lines. J. Biol. Chem. 271: 11817-11823, 1996.
+
+5. Rohde, L. H.; Julian, J.; Babaknia, A.; Carson, D. D.: Cell surface
+expression of HIP, a novel heparin/heparan sulfate-binding protein,
+of human uterine epithelial cells and cell lines. J. Biol. Chem. 271:
+11824-11830, 1996.
+
+CONTRIBUTORS Paul J. Converse - updated: 10/31/2000
+Victor A. McKusick - updated: 12/19/1997
+
+CREATED Jennifer P. Macke: 3/26/1997
+
+EDITED terry: 07/26/2006
+alopez: 11/21/2001
+mgross: 10/31/2000
+carol: 2/11/2000
+alopez: 10/23/1998
+dholmes: 12/31/1997
+mark: 12/22/1997
+terry: 12/19/1997
+alopez: 10/2/1997
+jenny: 9/5/1997
+alopez: 6/27/1997
+alopez: 6/9/1997
+
+614758	TITLE *614758 DYNACTIN 4; DCTN4
+;;DYN4;;
+DYNACTIN, 62-KD SUBUNIT;;
+p62
+DESCRIPTION 
+DESCRIPTION
+
+DCTN4 is a subunit of the 20S dynactin complex. The dynactin complex is
+involved in microtubule-dependent vesicular transport, spindle assembly,
+and cell division (summary by Karki et al., 2000).
+
+CLONING
+
+By gene dosage analysis and sequencing candidate genes in a YAC contig
+covering the critical region of the 5q deletion syndrome (153550),
+followed by database analysis, Boultwood et al. (2000) identified a
+DCTN4 clone designated 605d01. Northern blot analysis detected a 7.5-kb
+DCTN4 transcript in all 15 human tissues examined.
+
+By mass spectrometric analysis of the 62-kD protein that affinity
+purified with human dynactin, followed by EST database analysis and PCR
+of an NT2 human teratocarcinoma cDNA library, Karki et al. (2000) cloned
+DCTN4, which they called p62. The deduced 460-amino acid protein has a
+calculated molecular mass of 52.3 kD. It has an N-terminal domain with
+11 cysteines, the last 8 of which fit the consensus sequence for a RING
+domain predicted to bind 2 Zn(2+) atoms. Northern blot analysis detected
+variable expression of an approximately 4.2-kb transcript in all tissues
+examined, with highest expression in heart and skeletal muscle.
+Immunocytochemical analysis revealed that p62 had a punctate cytoplasmic
+distribution as well as a centrosomal distribution typical of dynactin.
+
+By immunohistochemical analysis, Ayalon et al. (2008) showed that Dyn4
+colocalized with other dynactin subunits in adult mouse muscle fibers.
+Dyn4 localized in a punctate distribution along costamere lines.
+
+GENE FUNCTION
+
+Karki et al. (2000) stated that p62 is present in the dynactin complex
+at a stoichiometry of 1 copy per complex and that it localizes at 1 end
+of the central ARP1 (ACTR1A; 605143) polymeric filament. Using
+biochemical and immunoprecipitation analyses, they showed that p62
+associated with the rat 20S dynactin complex. Recombinant human p62
+bound immobilized in vitro-translated human ARP1. Overexpression of p62
+in PtK2 porcine kidney cells did not disrupt microtubule organization or
+the integrity of the Golgi, but it resulted in some p62 nuclear
+localization.
+
+ATP7B (606882) localizes to the trans-Golgi network, where it transports
+copper to apoceruloplasmin (CP; 117700). When copper levels are in
+excess, ATP7B redistributes to a vesicular compartment near the biliary
+canalicular membranes, where excess copper is eliminated into bile.
+Using a yeast 2-hybrid screen of a human liver cDNA library, Lim et al.
+(2006) found that the N-terminal domain of ATP7B, which contains 6
+N-terminal metal-binding sites, interacted with the C-terminal domain of
+p62. Coimmunoprecipitation analysis revealed that ATP7B, but not ATP7A
+(300011), interacted with endogenous p62 in a human fibroblast line.
+Depletion of copper reduced interaction of ATP7B with p62. Mutation
+analysis revealed that the metal-binding CxxC motifs of ATP7B were
+required for its interaction with p62, predominantly CxxC motifs 4
+through 6. Lim et al. (2006) concluded that ATP7B is transported along
+liver cell microtubules in a copper-dependent manner via interaction
+with p62.
+
+By yeast 2-hybrid analysis of a mouse heart cDNA library, Ayalon et al.
+(2008) found that Ankb (ANK2; 106410) interacted with Dyn4. Protein
+pull-down assays confirmed the interaction. Depletion of Ankb in adult
+mouse skeletal muscle fibers disrupted costamere-associated
+microtubules, concomitant with loss of costamere-associated Dyn4
+expression.
+
+MAPPING
+
+By database and YAC contig analyses, Boultwood et al. (2000) mapped the
+DCTN4 gene to chromosome 5q31-q32.
+
+MOLECULAR GENETICS
+
+Emond et al. (2012) used exome sequencing and an extreme phenotype study
+design to discover genetic variants influencing Pseudomonas aeruginosa
+infection in cystic fibrosis. Forty-three individuals with early age of
+onset of chronic P. aeruginosa infection (all below the tenth percentile
+of age at onset), and the 48 oldest individuals who had not reached
+chronic P. aeruginosa infection (all past the mean age of onset) were
+sequenced. After Bonferroni adjustment, a single gene, DCTN4, was
+significantly associated with time to chronic P. aeruginosa infection
+(naive P = 2.2 x 10(-6); adjusted P = 0.025). Twelve of the 43
+individuals in the early extreme sample carried a missense variant in
+DCTN4, 9 a phe349-to-leu substitution (F349L; dbSNP rs11954652) and 3 a
+tyr270-to-cys substitution (Y270C; dbSNP rs35772018). None of the 48
+individuals in the late P. aeruginosa extreme sample had either missense
+variant. Subsequently, 696 individuals with varied CFTR genotypes were
+studied. Seventy-eight participants were heterozygous and 9 were
+homozygous for the F349L (614758.0001) mutation; 15 were heterozygous
+for the Y270C (614758.0002) mutation; 1 individual was heterozygous for
+both mutations. The presence of at least 1 DCTN4 missense variant was
+significantly associated with both early age of first P.
+aeruginosa-positive culture (p = 0.01, hazard ratio = 1.4) and with
+early age of onset of chronic P. aeruginosa infection (p = 0.004, hazard
+ratio = 1.9). The risk was highest in individuals with less selective
+bias toward a P. aeruginosa-negative history, i.e., children enrolled
+before 1.5 years of age and 103 enrollees who participated in the study
+despite a history of P. aeruginosa-positive cultures. No significant
+interaction was found between CFTR genotypes and DCTN4 mutations,
+although power to detect such an interaction was low.
+
+REFERENCE 1. Ayalon, G.; Davis, J. Q.; Scotland, P. B.; Bennett, V.: An ankyrin-based
+mechanism for functional organization of dystrophin and dystroglycan. Cell 135:
+1189-1200, 2008.
+
+2. Boultwood, J.; Fidler, C.; Strickson, A. J.; Watkins, F.; Kostrzewa,
+M.; Jaju, R. J.; Muller, U.; Wainscoat, J. S.: Transcription mapping
+of the 5q- syndrome critical region: cloning of two novel genes and
+sequencing, expression, and mapping of a further six novel cDNAs. Genomics 66:
+26-34, 2000.
+
+3. Emond, M. J.; Louie, T.; Emerson, J.; Zhao, W.; Mathias, R. A.;
+Knowles, M. R.; Wright, F. A.; Rieder, M. J.; Tabor, H. K.; Nickerson,
+D. A.; Barnes, K. C.; National Heart, Lung, and Blood Institute (NHLBI)
+GO Exome Sequencing Project; Lung GO; Gibson, R. L.; Bamshad, M.
+J.: Exome sequencing of extreme phenotypes identifies DCTN4 as a
+modifier of chronic Pseudomonas aeruginosa infection in cystic fibrosis. Nature
+Genet. 44: 886-889, 2012.
+
+4. Karki, S.; Tokito, M. K.; Holzbaur, E. L. F.: A dynactin subunit
+with a highly conserved cysteine-rich motif interacts directly with
+Arp1. J. Biol. Chem. 275: 4834-4839, 2000.
+
+5. Lim, C. M.; Cater, M. A.; Mercer, J. F. B.; La Fontaine, S.: Copper-dependent
+interaction of dynactin subunit p62 with the N terminus of ATP7B but
+not ATP7A. J. Biol. Chem. 281: 14006-14014, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/26/2013
+
+CREATED Patricia A. Hartz: 8/10/2012
+
+EDITED alopez: 03/04/2013
+terry: 2/26/2013
+mgross: 8/10/2012
+
+613903	TITLE *613903 ZINC FINGER PROTEIN 540; ZNF540
+DESCRIPTION 
+DESCRIPTION
+
+ZNF540 belongs to a large family of transcription factors characterized
+by an N-terminal Kruppel-associated box (KRAB) domain and tandem
+C-terminal C2H2-type zinc fingers (Qi et al., 2006).
+
+CLONING
+
+Using degenerate primers based on conserved sequences of KRAB
+domain-containing zinc finger proteins to screen a 20-week-old embryonic
+human heart cDNA library, followed by EST database analysis and 5-prime
+and 3-prime RACE, Xiang et al. (2006) cloned ZNF540. The deduced
+660-amino acid protein has a calculated molecular mass of 77.1 kD. It
+has an N-terminal KRAB-A domain, followed by 17 tandem Kruppel C2H2-type
+zinc fingers. Northern blot analysis detected variable ZNF540 expression
+in all fetal tissues examined. Fluorescence-tagged ZNF540 localized to
+both cytoplasm and nuclei of transfected COS-7 cells.
+
+GENE FUNCTION
+
+By cotransfecting COS-7 cells with ZNF540 and a reporter gene system,
+Xiang et al. (2006) showed that ZNF540 repressed serum response element
+(SRE)- and ELK1 (311040)-mediated transcriptional activation, suggesting
+that it functions in the MAP kinase (see 176948) signal transduction
+pathway. Deletion analysis identified the KRAB-A domain of ZNF540 as the
+main repressive domain. Small interfering RNA directed against ZNF540
+reduced the transcriptional repression by ZNF540.
+
+GENE STRUCTURE
+
+Xiang et al. (2006) determined that the ZNF540 gene contains 5 exons and
+spans approximately 62.8 kb.
+
+MAPPING
+
+Xiang et al. (2006) mapped the ZNF540 gene to chromosome 19q13.13 by
+genomic sequence analysis.
+
+REFERENCE 1. Qi, X.; Li, Y.; Xiao, J.; Yuan, W.; Yan, Y.; Wang, Y.; Liang, S.;
+Zhu, C.; Chen, Y.; Liu, M.; Wu, X.: Activation of transcriptional
+activities of AP-1 and SRE by a new zinc-finger protein ZNF641. Biochem.
+Biophys. Res. Commun. 339: 1155-1164, 2006.
+
+2. Xiang, Z.; Yuan, W.; Luo, N.; Wang, Y.; Tan, K.; Deng, Y.; Zhou,
+X.; Zhu, C.; Li, Y.; Liu, M.; Wu, X.; Li, Y.: A novel human zinc
+finger protein ZNF540 interacts with MVP and inhibits transcriptional
+activities of the ERK signal pathway. Biochem. Biophys. Res. Commun. 347:
+288-296, 2006.
+
+CREATED Patricia A. Hartz: 4/15/2011
+
+EDITED mgross: 04/18/2011
+mgross: 4/15/2011
+
+604100	TITLE *604100 GLUTAMATE RECEPTOR, METABOTROPIC, 4; GRM4
+;;MGLUR4
+DESCRIPTION 
+DESCRIPTION
+
+L-glutamate is the major excitatory neurotransmitter in the central
+nervous system and activates both ionotropic and metabotropic glutamate
+receptors, such as GRM4. The metabotropic glutamate receptors (mGluRs),
+which are G protein-coupled receptors, have been divided into 3 groups
+on the basis of sequence homology, putative signal transduction
+mechanisms, and pharmacologic properties. Group II and group III mGluRs
+are linked to the inhibition of the cyclic AMP cascade, but differ in
+their agonist selectivities. Group III agonists include
+L-2-amino-4-phosphonobutyrate (L-AP4) and L-serine-O-phosphate (summary
+by Wu et al., 1998).
+
+CLONING
+
+Using a PCR strategy with primers based on consensus regions of rat
+mGluR1-5, Makoff et al. (1996) isolated partial cDNAs corresponding to
+the human homologs of these genes. By probing a cerebellum library with
+the partial human mGluR4 cDNA, the authors isolated additional mGluR4
+cDNAs which between them contained the complete coding sequence for the
+human protein. The predicted 912-amino acid human mGluR4 protein shares
+90% identity with rat mGluR4. Northern blot analysis of human tissues
+revealed that the approximately 5-kb mGluR4 mRNA was only expressed in
+brain. In situ hybridization to brain tissues indicated that human
+mGluR4 mRNA, like that of rat mGluR4, has a narrow distribution. In both
+organisms, the highest level of expression was detected in the granule
+cells of the cerebellum. Wu et al. (1998) isolated cDNAs encoding 3
+human group III mGluRs, mGluR4, mGluR7 (604101) and mGluR8 (601116), and
+compared the pharmacologic properties of these receptors.
+
+By database analysis, Bjarnadottir et al. (2005) identified GRM4
+orthologs in mouse and fish. The deduced mouse protein contains 912
+amino acids.
+
+GENE STRUCTURE
+
+Bjarnadottir et al. (2005) determined that the GRM4 gene contains 7
+exons.
+
+MAPPING
+
+Barbon et al. (2000) mapped the GRM4 gene to chromosome 6p21.3 by
+radiation hybrid mapping.
+
+Bjarnadottir et al. (2005) mapped the mouse Grm4 gene to chromosome 17.
+
+ANIMAL MODEL
+
+To provide a better understanding of the L-AP4 receptors, Pekhletski et
+al. (1996) generated knockout mice lacking the mGluR4 gene. The mutant
+mice did not display any gross motor abnormalities, impairments of
+novelty-induced exploratory behaviors, or alterations in fine motor
+coordination. However, they were deficient on the rotating rod
+motor-learning test, suggesting that they may have an impaired ability
+to learn complex motor tasks. Analysis of presynaptic short-term
+synaptic plasticity at the parallel fiber-Purkinje cell synapse
+demonstrated that paired-pulse facilitation and post-tetanic
+potentiation were impaired in the mutant mice, although long-term
+depression was unaffected. Pekhletski et al. (1996) concluded that an
+important function of mGluR4 is to provide a presynaptic mechanism for
+maintaining synaptic efficacy during repetitive activation, and that the
+presence of mGluR4 at the parallel fiber-Purkinje cell synapse is
+required for maintaining normal motor function. Gerlai et al. (1998)
+found that mGluR4 mutant mice exhibited significantly accelerated
+learning performance in a spatial reversal learning task. In a probe
+trial administered 6 weeks posttraining, the mice showed impaired
+spatial accuracy. These results suggested that mGluR4 mutant mice differ
+in their ability to learn and integrate new spatial information into
+previously formed memory traces and that their use of stored spatial
+information is altered.
+
+Fallarino et al. (2010) observed that mGluR4-null mice were markedly
+vulnerable to experimental autoimmune encephalomyelitis (EAE), a mouse
+model of multiple sclerosis (MS; 126200), and developed immune responses
+dominated by IL17 (603149)-producing T helper (TH17) cells. MGluR4 was
+constitutively expressed on dendritic cells isolated from wildtype mice.
+Signaling through mGluR4 decreased commitment to the TH17 phenotype by
+decreasing intracellular cAMP. Treatment of wildtype mice with a
+selective mGluR4 enhancer increased EAE resistance and offered a
+protective response via a shift toward regulatory CD4+ T cells. In
+contrast, dendritic cells from mGluR4-null mice showed defective mGluR4
+signaling with resultant bias toward the TH17 phenotype. The findings
+provided evidence that glutamate acts at the interface between the
+nervous and immune systems, with mGluR4 present on dendritic cells in
+the central nervous system. Fallarino et al. (2010) suggested that the
+high amounts of glutamate associated with neuroinflammation might
+reflect a counterregulatory mechanism that is protective in nature by
+decreasing activation of pathogenic IL17-producing T cells.
+
+REFERENCE 1. Barbon, A.; Ferraboli, S.; Barlati, S.: Assignment of the human
+metabotropic glutamate receptor gene GRM4 to chromosome 6 band p21.3
+by radiation hybrid mapping. Cytogenet. Cell Genet. 88: 210 only,
+2000.
+
+2. Bjarnadottir, T. K.; Fredriksson, R.; Schioth, H. B.: The gene
+repertoire and the common evolutionary history of glutamate, pheromone
+(V2R), taste(1) and other related G protein-coupled receptors. Gene 362:
+70-84, 2005.
+
+3. Fallarino, F.; Volpi, C.; Fazio, F.; Notartomaso, S.; Vacca, C.;
+Busceti, C.; Bicciato, S.; Battaglia, G.; Bruno, V.; Puccetti, P.;
+Fioretti, M. C.; Nicoletti, F.; Grohmann, U.; Di Marco, R.: Metabotropic
+glutamate receptor-4 modulates adaptive immunity and restrains neuroinflammation. Nature
+Med. 16: 897-902, 2010.
+
+4. Gerlai, R.; Roder, J. C.; Hampson, D. R.: Altered spatial learning
+and memory in mice lacking the mGluR4 subtype of metabotropic glutamate
+receptor. Behav. Neurosci. 112: 525-532, 1998.
+
+5. Makoff, A.; Lelchuk, R.; Oxer, M.; Harrington, K.; Emson, P.:
+Molecular characterization and localization of human metabotropic
+glutamate receptor type 4. Molec. Brain Res. 37: 239-248, 1996.
+
+6. Pekhletski, R.; Gerlai, R.; Overstreet, L. S.; Huang, X. P.; Agopyan,
+N.; Slater, N. T.; Abramow-Newerly, W.; Roder, J. C.; Hampson, D.
+R.: Impaired cerebellar synaptic plasticity and motor performance
+in mice lacking the mGluR4 subtype of metabotropic glutamate receptor. J.
+Neurosci. 16: 6364-6373, 1996.
+
+7. Wu, S.; Wright, R. A.; Rockey, P. K.; Burgett, S. G.; Arnold, J.
+S.; Rosteck, P. R., Jr.; Johnson, B. G.; Schoepp, D. D.; Belagaje,
+R. M.: Group III human metabotropic glutamate receptors 4, 7 and
+8: molecular cloning, functional expression, and comparison of pharmacological
+properties in RGT cells. Molec. Brain Res. 53: 88-97, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/12/2012
+Cassandra L. Kniffin - updated: 10/4/2010
+Joanna S. Amberger - updated: 3/7/2001
+
+CREATED Rebekah S. Rasooly: 8/4/1999
+
+EDITED mgross: 04/17/2012
+terry: 3/12/2012
+wwang: 10/11/2010
+ckniffin: 10/4/2010
+terry: 3/8/2001
+joanna: 3/7/2001
+mgross: 8/5/1999
+mgross: 8/4/1999
+
+603725	TITLE *603725 FIBROBLAST GROWTH FACTOR 17; FGF17
+DESCRIPTION 
+DESCRIPTION
+
+Fibroblast growth factors (FGFs), such as FGF17, are growth factors and
+oncogenes that contain a conserved, approximately 120-amino acid core.
+Individual FGFs play important roles in embryonic development, cell
+growth, morphogenesis, tissue repair, inflammation, angiogenesis, and
+tumor growth and invasion (Hoshikawa et al., 1998).
+
+CLONING
+
+Hoshikawa et al. (1998) isolated human, mouse, and rat cDNAs encoding a
+novel member of the FGF family, FGF17. The deduced 216-amino acid human
+FGF17 protein is 98.6% identical to the mouse and rat Fgf17 proteins,
+which are identical. Among known FGF family members, the FGF17 protein
+is most similar to FGF8 (600483). FGF17 contains a typical hydrophobic
+signal sequence at its N terminus, and the authors demonstrated that
+recombinant rat Fgf17 can be efficiently secreted by High Five insect
+cells. PCR analysis of rat adult tissues detected Fgf17 expression in
+all tissues examined. In rat 14.5-day embryos, in situ hybridization
+showed highest Fgf17 expression in the isthmus cerebellar and septum
+neuroepithelia of the brain.
+
+Using RT-PCR, Krejci et al. (2007) detected expression of several FGF
+genes in femoral growth plate cartilage from 20- to 28-week gestation
+fetuses; however, only FGF1 (131220), FGF2 (134920), FGF17, and FGF19
+(603891) proteins were expressed at detectable levels.
+Immunohistochemical analysis showed that FGF17 and FGF19 were uniformly
+expressed throughout the growth plate. In contrast, FGF1 was expressed
+only in the proliferative and hypertrophic zones, and FGF2 was expressed
+only in the proliferative and resting zones.
+
+To link FGF17 to GnRH (see 152760) biology, Miraoui et al. (2013)
+examined Fgf17 expression in the nasal cavity of mouse embryos at
+embryonic day 10.5, when GnRH neuron fate specification occurs. Fgf17
+was robustly expressed in regions where Fgf8 is known to be highly
+expressed: the commissural plate, the midbrain-hindbrain junction, and
+the medial olfactory placode, where GnRH neurons emerge. Miraoui et al.
+(2013) noted that there was hardly any Fgf17 expression in Fgf8
+hypomorphic mice, suggesting that FGF17 should be considered a member of
+the FGF8 synexpression group.
+
+GENE FUNCTION
+
+Using the Cre/loxP system, Sun et al. (2000) found that maintenance of
+Fgf9 (600921) and Fgf17 expression is dependent on Shh (600725), whereas
+Fgf8 expression is not. Sun et al. (2000) developed a model in which no
+individual Fgf expressed in the apical ectodermal ridge is solely
+necessary to maintain Shh expression, but instead the combined activity
+of 2 or more apical ectodermal ridge Fgfs function in a positive
+feedback loop with Shh to control limb development.
+
+Krejci et al. (2007) showed that FGF1, FGF2, and FGF17, but not FGF19,
+elicited potent activation of an ERK (see 601795) reporter gene in
+primary cultures of human fetal chondrocytes. FGF1, FGF2, and FGF17, but
+not FGF19, also inhibited proliferation of FGFR3 (134934)-expressing rat
+chondrosarcoma chondrocytes.
+
+Mariani et al. (2008) demonstrated that mouse limbs lacking Fgf4
+(164980), Fgf9, and Fgf17 have normal skeletal pattern, indicating that
+Fgf8 (600483) is sufficient among apical ectodermal ridge fibroblast
+growth factors (AER-FGFs) to sustain normal limb formation. Inactivation
+of Fgf8 alone causes a mild skeletal phenotype; however, when Mariani et
+al. (2008) also removed different combinations of the other AER-FGF
+genes, they obtained unexpected skeletal phenotypes of increasing
+severity, reflecting the contribution that each FGF can make to the
+total AER-FGF signal. Analysis of the compound mutant limb buds revealed
+that, in addition to sustaining cell survival, AER-FGFs regulate
+proximal-distal patterning gene expression during early limb bud
+development, providing genetic evidence that AER-FGFs function to
+specify a distal domain and challenging the longstanding hypothesis that
+AER-FGF signaling is permissive rather than instructive for limb
+patterning. Mariani et al. (2008) also developed a 2-signal model for
+proximal-distal patterning to explain early specification.
+
+MOLECULAR GENETICS
+
+In 3 unrelated individuals with congenital hypogonadotropic hypogonadism
+(HH20; 615270), Miraoui et al. (2013) identified heterozygosity for
+missense mutations in the FGF17 gene (603725.0001-603725.0003). One of
+the 3 probands belonged to a large consanguineous 10-generation French
+Canadian family with anosmic HH and cleft palate (see HH2, 147950), in
+which Tornberg et al. (2011) had identified missense mutations in both
+the FGFR1 (136350.0025) and HS6ST1 (604846.0002) genes; in that proband,
+Miraoui et al. (2013) also identified 2 missense mutations in another
+FGF-network gene, FLRT3 (604808.0001 and 604808.0002). Miraoui et al.
+(2013) concluded that mutations in genes encoding components of the FGF
+pathway are associated with complex modes of congenital HH (CHH)
+inheritance and act primarily as contributors to an oligogenic genetic
+architecture underlying CHH.
+
+ANIMAL MODEL
+
+Using whole brain imaging, Cholfin and Rubenstein (2007) found that mice
+lacking Fgf17 showed a selective reduction in the size of the dorsal
+frontal cortex, whereas the ventral/orbital frontal cortex was normal.
+These changes were complemented by a rostromedial shift of sensory
+cortical areas. The changes in regionalization persisted into adulthood.
+Cholfin and Rubenstein (2007) concluded that FGF17 functions similarly
+to FGF8 in patterning the neocortical map, but FGF17 is more selective
+in regulating the properties of the dorsal but not ventral frontal
+cortex.
+
+ALLELIC VARIANT .0001
+HYPOGONADOTROPIC HYPOGONADISM 20 WITH ANOSMIA, SUSCEPTIBILITY TO
+FGF17, ILE108THR
+
+In the female proband from a large consanguineous 10-generation French
+Canadian family with anosmic hypogonadotropic hypogonadism (HH20;
+615270) and cleft palate, previously reported by White et al. (1983) and
+in whom Tornberg et al. (2011) had identified missense mutations in the
+FGFR1 (R250Q; 136350.0025) and HS6ST1 (R296W; 604846.0002) genes,
+Miraoui et al. (2013) also identified heterozygosity for a c.323T-C
+transition in exon 4 of the FGF17 gene, resulting in an ile108-to-thr
+(I108T) substitution at a highly conserved residue in the FGF core
+domain. In addition, the proband was heterozygous and homozygous for 2
+missense mutations in another FGF-network gene, FLRT3 (E97G, 604808.0001
+and S144I, 604808.0002, respectively). Three other affected family
+members also carried mutations in the FGFR1, HS6ST1, and FLRT3 genes,
+and 4 unaffected family members carried 1 or 2 mutations in those genes,
+but none had a mutation in the FGF17 gene. The I108T mutation was not
+found in 155 controls or in the 1000 Genomes Project database. Analysis
+of physical interactions between the ligand-binding region of FGFR1 and
+FGF17 by surface-plasmon-resonance spectroscopy demonstrated that the
+I108T mutant was defective in FGFR1 activation compared to wildtype; in
+addition, the I108T mutant completely failed to activate the R250Q FGFR1
+mutant, indicating that these 2 loss-of-function substitutions act in an
+additive manner.
+
+.0002
+HYPOGONADOTROPIC HYPOGONADISM 20 WITHOUT ANOSMIA
+FGF17, ARG177HIS
+
+In a sporadic male patient with congenital hypogonadotropic hypogonadism
+(HH20; 615270), Miraoui et al. (2013) identified heterozygosity for a
+c.530G-A transition in exon 5 of the FGF17 gene, resulting in an
+arg177-to-his (R177H) substitution at a highly conserved residue in the
+FGF core domain. The patient, who had a normal sense of smell, also
+displayed low bone mass. The R177H mutation was not found in 155
+controls or in the 1000 Genomes Project database. Analysis of physical
+interactions between the ligand-binding region of FGFR1 (135350) and
+FGF17 by surface-plasmon-resonance spectroscopy demonstrated that the
+R177H mutant had dramatically reduced ability to activate FGFR1 compared
+to wildtype.
+
+.0003
+HYPOGONADOTROPIC HYPOGONADISM 20 WITH ANOSMIA
+FGF17, ASN187SER
+
+In a sporadic male patient with congenital hypogonadotropic hypogonadism
+(HH20; 615270), who was anosmic, Miraoui et al. (2013) identified
+heterozygosity for a c.560A-G transition in exon 5 of the FGF17 gene,
+resulting in an asn187-to-ser (N187S) substitution at a conserved
+residue in the C terminus. The mutation was not found in 155 controls or
+in the 1000 Genomes Project database.
+
+REFERENCE 1. Cholfin, J. A.; Rubenstein, J. L. R.: Patterning of frontal cortex
+subdivisions by Fgf17. Proc. Nat. Acad. Sci. 104: 7652-7657, 2007.
+
+2. Hoshikawa, M.; Ohbayashi, N.; Yonamine, A.; Konishi, M.; Ozaki,
+K.; Fukui, S.; Itoh, N.: Structure and expression of a novel fibroblast
+growth factor, FGF-17, preferentially expressed in the embryonic brain. Biochem.
+Biophys. Res. Commun. 244: 187-191, 1998.
+
+3. Krejci, P.; Krakow, D.; Mekikian, P. B.; Wilcox, W. R.: Fibroblast
+growth factors 1, 2, 17, and 19 are the predominant FGF ligands expressed
+in human fetal growth plate cartilage. Pediat. Res. 61: 267-272,
+2007.
+
+4. Mariani, F. V.; Ahn, C. P.; Martin, G. R.: Genetic evidence that
+FGFs have an instructive role in limb proximal-distal patterning. Nature 453:
+401-405, 2008.
+
+5. Miraoui, H.; Dwyer, A. A.; Sykiotis, G. P.; Plummer, L.; Chung,
+W.; Feng, B.; Beenken, A.; Clarke, J.; Pers, T. H.; Dworzynski, P.;
+Keefe, K.; Niedziela, M.; and 17 others: Mutations in FGF17, IL17RD,
+DUPS6, SPRY4, and FLRT3 are identified in individuals with congenital
+hypogonadotropic hypogonadism. Am. J. Hum. Genet. 92: 725-743, 2013.
+
+6. Sun, X.; Lewandoski, M.; Meyers, E. N.; Liu, Y.-H.; Maxson, R.
+E., Jr.; Martin, G. R.: Conditional inactivation of Fgf4 reveals
+complexity of signalling during limb bud development. Nature Genet. 25:
+83-86, 2000.
+
+7. Tornberg, J.; Sykiotis, G. P.; Keefe, K.; Plummer, L.; Hoang, X.;
+Hall, J. E.; Quinton, R.; Seminara, S. B.; Hughes, V.; Van Vliet,
+G.; Van Uum, S.; Crowley, W. F.; Habuchi, H.; Kimata, K.; Pitteloud,
+N.; Bulow, H. E.: Heparan sulfate 6-O-sulfotransferase 1, a gene
+involved in extracellular sugar modifications, is mutated in patients
+with idiopathic hypogonadotrophic hypogonadism. Proc. Nat. Acad.
+Sci. 108: 11524-11529, 2011.
+
+8. White, B. J.; Rogol, A. D.; Brown, K. S.; Lieblich, J. M.; Rosen,
+S. W.: The syndrome of anosmia with hypogonadotropic hypogonadism:
+a genetic study of 18 new families and a review. Am. J. Med. Genet. 15:
+417-435, 1983.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 06/05/2013
+Patricia A. Hartz - updated: 8/12/2010
+Ada Hamosh - updated: 6/12/2008
+Paul J. Converse - updated: 6/11/2007
+Ada Hamosh - updated: 5/1/2000
+
+CREATED Sheryl A. Jankowski: 4/13/1999
+
+EDITED alopez: 06/05/2013
+mgross: 8/13/2010
+terry: 8/12/2010
+alopez: 6/19/2008
+terry: 6/12/2008
+mgross: 6/20/2007
+mgross: 6/19/2007
+terry: 6/11/2007
+alopez: 5/1/2000
+psherman: 4/13/1999
+
+611239	TITLE *611239 G PROTEIN-REGULATED INDUCER OF NEURITE OUTGROWTH 1; GPRIN1
+;;GRIN1;;
+KIAA1893
+DESCRIPTION 
+CLONING
+
+Chen et al. (1999) cloned mouse Gprin1, which they called Grin1. By
+database analysis, they identified human GPRIN1. Northern blot analysis
+of human brain regions showed wide distribution in brain tissue and the
+central nervous system with highest expression in the spinal cord.
+Northern blot analysis of mouse tissues detected expression in brain
+only, and Western analysis detected protein in mouse neuroblastoma and
+rat pheochromocytoma cells. Using immunofluorescence studies and Western
+analysis of cell fractions, the authors found that both GPRIN1 and GNAO1
+(139311) are membrane-bound proteins that are enriched in the growth
+cones of neurites.
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2001) cloned GPRIN1, which they designated
+KIAA1893. The deduced 800-amino acid protein shares 46% amino acid
+identity with its mouse homolog. RT-PCR ELISA of human tissues detected
+moderate expression in brain, with low expression in lung and spleen.
+RT-PCR ELISA of specific brain regions detected high expression in
+cerebellum, followed by amygdala, hippocampus, substantia nigra, caudate
+nucleus, subthalamic nucleus, thalamus, and spinal cord, with low
+expression in corpus callosum.
+
+Iida and Kozasa, 2004 noted that the deduced 856-amino acid GPRIN1
+sequence shares high homology with GPRIN2 (611240) and GPRIN3 (611241)
+over the C-terminal region.
+
+GENE FUNCTION
+
+Using purified recombinant GPRIN1 and GPRIN2 expressed in insect cells,
+as well as immunoprecipitation studies from transfected COS cells, Chen
+et al. (1999) showed that both GPRIN1 and GPRIN2 interacted specifically
+with G-alpha-o and G-alpha-z (GNAZ; 139160) bound to GTP-gamma-S or
+GDP-AlF4(-), but did not interact with GDP-bound forms of either G
+protein subunit. Chen et al. (1999) showed that coexpression of GPRIN1
+or GPRIN2 with activated G-alpha-o caused formation and extension of
+neurite-like processes in mouse neuroblastoma cells.
+
+MAPPING
+
+By database analysis, Nagase et al. (2001) mapped the GPRIN1 gene to
+chromosome 5.
+
+REFERENCE 1. Chen, L. T.; Gilman, A. G.; Kozasa, T.: A candidate target for
+G protein action in brain. J. Biol. Chem. 274: 26931-26938, 1999.
+
+2. Iida, N.; Kozasa, T.: Identification and biochemical analysis
+of GRIN1 and GRIN2. Methods Enzymol. 390: 475-483, 2004.
+
+3. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXI. The complete sequences of 60 new
+cDNA clones from brain which code for large proteins. DNA Res. 8:
+179-187, 2001.
+
+CREATED Dorothy S. Reilly: 7/23/2007
+
+EDITED wwang: 07/23/2007
+
+602178	TITLE *602178 CHONDROADHERIN; CHAD
+DESCRIPTION 
+CLONING
+
+Chondroadherin (CHAD) was initially described by Larsson et al. (1991)
+as a 36-kD matrix protein isolated from bovine cartilage. It was shown
+to mediate chondrocyte-matrix interactions. Analysis of cDNA generated
+from a bovine chondrocyte mRNA demonstrated that chondroadherin belongs
+to the family of leucine-rich repeat (LRR) proteins. Of the LRR
+proteins, chondroadherin is most closely related to the proteoglycans
+decorin (125255), biglycan (301870), fibromodulin (600245), and lumican
+(600616), and the matrix protein PRELP (601914). Each of these molecules
+is present in the extracellular matrix of cartilage, each possesses 10
+adjacent LRR regions flanked by disulfide-bonded domains, and each
+possesses consensus motifs within the LRR regions for N-linked
+glycosylation.
+
+Grover et al. (1997) cloned a cDNA of the human CHAD gene using
+PCR-based techniques. The gene encodes a protein of 359 amino acids, of
+which the first 21 amino acids represent a putative signal peptide
+sequence. It possesses 11 leucine-rich repeats flanked by cysteine-rich
+regions. The cDNA has a 5-prime untranslated region of 149 bp, a coding
+region of 1,080 bp including the stop codon, and a 3-prime untranslated
+region of 561 bp terminating in a poly(A) tail. The cDNA hybridized with
+a single messenger RNA of 1.9 kb, which is present in chondrocytes at
+all ages.
+
+GENE STRUCTURE
+
+Grover et al. (1997) determined that the CHAD gene contains 3 exons.
+
+MAPPING
+
+Using a cosmid clone spanning the CHAD gene, Grover et al. (1997)
+assigned the gene to 17q21.33 by PCR analysis of human/hamster somatic
+cell hybrids and by fluorescence in situ hybridization.
+
+REFERENCE 1. Grover, J.; Chen, X.-N.; Korenberg, J. R.; Roughley, P. J.: The
+structure and chromosome location of the human chondroadherin gene
+(CHAD). Genomics 45: 379-385, 1997.
+
+2. Larsson, T.; Sommarin, Y.; Paulsson, M.; Antonsson, P.; Hedbom,
+E.; Wendel, M.; Heinegard, D.: Cartilage matrix proteins: a basic
+36-kDa protein with a restricted distribution to cartilage and bone. J.
+Biol. Chem. 266: 20428-20433, 1991.
+
+CREATED Victor A. McKusick: 12/12/1997
+
+EDITED alopez: 05/01/2007
+mark: 12/14/1997
+mark: 12/12/1997
+
+610440	TITLE *610440 SMALL G PROTEIN SIGNALING MODULATOR 3; SGSM3
+;;RUN AND TBC1 DOMAINS-CONTAINING PROTEIN 3; RUTBC3;;
+MERLIN-ASSOCIATED PROTEIN; MAP;;
+MERLIN-BINDING PROTEIN;;
+RUSC3
+DESCRIPTION 
+CLONING
+
+Using full-length merlin (NF2; 607379) as bait in a yeast 2-hybrid
+screen of a brain cDNA library, followed by RACE-PCR of placenta cDNA,
+Lee et al. (2004) cloned RUTBC3, which they called MAP. The deduced
+749-amino acid protein has a predicted molecular mass of 84.5 kD,
+confirmed by in vitro translation. RUTBC3 contains an N-terminal TBC
+domain, a central SH3 domain, and a C-terminal RUN domain. Northern blot
+analysis detected 2.8- and 3.6-kb transcripts in most human tissues
+examined, with highest expression in skeletal muscle and heart, followed
+by spleen, thymus, liver, kidney, and placenta. Immunoblot analysis
+detected RUTBC3 expression in neuroblastoma, lung carcinoma, mammary
+adenocarcinoma, and NIH3T3 cell lines.
+
+By database searching with the sequence of small G protein signaling
+modulator-1 (SGSM1; 610440) as query, Yang et al. (2007) identified and
+subsequently cloned RUTBC3, which they called SGSM3, from a human brain
+cDNA library. The deduced protein shares a RAP (see RAP1A,
+179520)-interacting domain (RAPID) (amino acids 301-350), containing 5
+conserved blocks of sequence following the RUN domain, with SGSM1 and
+SGSM2 (611418). Northern blot analysis detected variable expression of
+3.4- and 4.0-kb SGSM3 transcripts in several human tissues. Mouse
+tissues showed a similar Sgsm3 expression profile.
+
+GENE FUNCTION
+
+Using in vitro and in vivo assays, Lee et al. (2004) showed that RUTBC3
+binds merlin and that the interaction is mediated by the RUTBC3 RUN
+domain and the C-terminal region of merlin. By confocal microscopy of
+RUTBC3 and merlin expressed in NIH3T3 cells, the authors found that
+RUTBC3 localized to perinuclear and membrane regions and merlin
+localized to the cytoplasmic membrane. When RUTBC3 was coexpressed with
+merlin, RUTBC3 and merlin colocalized to the cytoplasmic membrane. In
+NIH3T3 cells, RUTBC3 increased merlin-mediated repression of
+AP1-dependent promoter activity in a dose-dependent manner. Expression
+of either RUTBC3 or merlin alone reduced colony formation to between 50
+and 60% of the control level, and coexpression further inhibited colony
+formation to 10% of the control level. Lee et al. (2004) concluded that
+RUTBC3 acts in cooperation with merlin to enhance suppression of cell
+growth.
+
+Using immunoprecipitation and Western blot analyses of proteins
+expressed by transfected human embryonic kidney cells, Yang et al.
+(2007) showed that SGSM1, SGSM2, and SGSM3 coimmunoprecipitated with all
+RAP proteins examined, including RAP1A, RAP1B (179530), RAP2A (179540),
+and RAP2B (179541). Yang et al. (2007) also found that endogenous Rab4
+(179511) and Rab11 (see RAB11A, 605570) interacted with all SGSM
+proteins in the mouse neuroblastoma cell line; however, Rab3 (see RAB3A,
+179490), Rab5 (see RAB5A, 179512), and Rab8 (see RAB8A, 165040)
+interacted only with SGSM1 and SGSM3.
+
+GENE STRUCTURE
+
+Yang et al. (2007) determined that the SGSM3 gene contains 22 exons.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the SGSM3
+gene to chromosome 22 (TMAP NIB2041). By genomic sequence analysis, Yang
+et al. (2007) localized the gene to 22q13.1.
+
+REFERENCE 1. Lee, I. K.; Kim, K.-S.; Kim, H.; Lee, J. Y.; Ryu, C. H.; Chun,
+H. J.; Lee, K.-U.; Lim, Y.; Kim, Y. H.; Huh, P.-W.; Lee, K.-H.; Han,
+S.-I.; Jun T.-Y.; Rha, H. K.: MAP, a protein interacting with a tumor
+suppressor, merlin, through the run domain. Biochem. Biophys. Res.
+Commun. 325: 774-783, 2004.
+
+2. Yang, H.; Sasaki, T.; Minoshima, S.; Shimizu, N.: Identification
+of three novel proteins (SGSM1, 2, 3) which modulate small G protein
+(RAP and RAB)-mediated signaling pathway. Genomics 90: 249-260,
+2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/10/2007
+
+CREATED Dorothy S. Reilly: 9/26/2006
+
+EDITED carol: 09/10/2007
+carol: 9/10/2007
+wwang: 9/26/2006
+
+602306	TITLE *602306 RAL GUANINE NUCLEOTIDE DISSOCIATION STIMULATOR-LIKE 2; RGL2
+;;RAS-ASSOCIATED PROTEIN RAB2L; RAB2L
+DESCRIPTION 
+CLONING
+
+The Ras gene family of low molecular weight GTPases plays a central role
+in membrane trafficking and is regulated in part by guanine nucleotide
+dissociation stimulators (GDSs) such as RALGDS (601619). Isomura et al.
+(1996) identified a fetal brain cDNA, designated RAB2L, that encodes a
+predicted 122-amino acid protein with 39.5% homology to the C-terminal
+(Ras-binding) region of RALGDS. However, since RAB2L has no apparent
+homology to the GDS-activity domain of RALGDS, its function is likely to
+be different from that of GDS proteins. By Northern blot analysis, RAB2L
+was expressed as a 900-bp transcript in all tissues examined; a 3.2-kb
+transcript was specifically expressed in heart and skeletal muscle.
+
+GENE STRUCTURE
+
+Herberg et al. (1998) determined that the RGL2 gene contains 18 exons
+and spans about 7.3 kb.
+
+MAPPING
+
+Isomura et al. (1996) mapped the RAB2L gene to 6p21.3 by fluorescence in
+situ hybridization. By Southern hybridization analysis, Ando et al.
+(1999) mapped the RAB2L gene, which they termed HKE1.5, approximately 5
+kb centromeric of the HKE2 gene (605660). They mapped the mouse gene to
+the proximal end of the H2 region.
+
+REFERENCE 1. Ando, A.; Kikuti, Y. Y.; Abe, K.; Shigenari, A.; Kawata, H.; Ikemura,
+T.; Kimura, M.; Inoko, H.: cDNA cloning, northern hybridization,
+and mapping analysis of a putative GDS-related protein gene at the
+centromeric ends of the human and mouse MHC regions. Immunogenetics 49:
+354-356, 1999.
+
+2. Herberg, J. A.; Beck, S.; Trowsdale, J.: TAPASIN, DAXX, RGL2,
+HKE2, and four new genes (BING 1, 3 to 5) form a dense cluster at
+the centromeric end of the MHC. J. Molec. Biol. 277: 839-857, 1998.
+
+3. Isomura, M.; Okui, K.; Fujiwara, T.; Shin, S.; Nakamura, Y.: Isolation
+and mapping of RAB2L, a human cDNA that encodes a protein homologous
+to RalGDS. Cytogenet. Cell Genet. 74: 263-265, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 08/22/2007
+Paul J. Converse - updated: 6/25/2001
+
+CREATED Rebekah S. Rasooly: 1/30/1998
+
+EDITED terry: 08/22/2007
+mgross: 6/25/2001
+kayiaros: 7/13/1999
+carol: 2/4/1998
+
+606218	TITLE *606218 SELENOPHOSPHATE SYNTHETASE 2; SEPHS2
+;;SPS2
+DESCRIPTION 
+CLONING
+
+By screening activated CD8 (see 186910)-positive T cells with mouse
+Sps2, a homolog of E. coli selD, as the probe, Guimaraes et al. (1996)
+isolated a cDNA encoding human SPS2. The deduced 448-amino acid SPS2
+protein contains Walker A- and B-like motifs, which are characteristic
+of alpha/beta nucleotide-binding folds. The SPS2 Walker A-like motif is
+a gly-rich site that includes a selenocysteine (sec) residue. Northern
+blot analysis revealed preferential expression of a 2.3-kb transcript in
+mouse tissues that produce selenoproteins, with lower expression in
+sites of blood cell development. Levels of Sps2 mRNA were upregulated
+upon activation of CD4 (186940)-positive lymphocytes. Western blot
+analysis showed that Sps2 levels were 20-fold higher when the 3-prime
+UTR of Sps2 was included in the expression construct in transfected
+cells. Southern blot analysis indicated that SPS2 is well-conserved in
+mammals.
+
+UGA (TGA) codons normally serve as translational stop signals. However,
+in cDNAs with stem-loop secondary structures called selenocysteine
+insertion sequence (SECIS) elements, a translational stop is avoided and
+UGA directs the incorporation of the amino acid selenocysteine into the
+active site of the selenoprotein enzyme. Using a computational pattern
+search to identify sequences that can adopt a SECIS-like secondary
+structure, Lescure et al. (1999) discovered a SECIS in the 3-prime UTR
+of SPS2 cDNA.
+
+GENE FUNCTION
+
+A labile selenium donor compound monoselenophosphate is synthesized from
+selenide and ATP by SPS. Tamura et al. (2004) cloned SPS1 (600902) and
+SPS2 from a cDNA library prepared from human lung adenocarcinoma cells.
+Human lung SPS1 was cloned as an open reading frame (ORF) of 1,179 bp,
+identical in sequence to that of human liver SPS1. The in-frame TGA
+codon of lung SPS2 was genetically altered to TGT (cys); the resulting
+gene was designated SPS2cys. Expression of the recombinant plasmids
+containing SPS1 or SPS2cys was highly toxic to E. coli host cells grown
+aerobically. Accordingly, the human lung SPS homologs were characterized
+by an in vivo complementation assay using a selD mutant strain of E.
+coli. These studies suggested an apparent substrate specificity of the
+SPS1 and SPS2 gene products, leading Tamura et al. (2004) to suggest
+that the SPS1-encoded enzyme depends on a selenium salvage system that
+recycles L-selenocysteine, whereas the SPS2 enzyme can function with a
+selenite assimilation system.
+
+MAPPING
+
+Gross (2011) mapped the SEPHS2 gene to chromosome 16p11.2 based on an
+alignment of the SEPHS2 sequence (GenBank GENBANK BC002381) with the
+genomic sequence (GRCh37).
+
+Guimaraes et al. (1996) mapped the mouse Sps2 gene to the distal region
+of chromosome 7 by interspecific backcross analysis.
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  2/28/2011.
+
+2. Guimaraes, M. J.; Peterson, D.; Vicari, A.; Cocks, B. G.; Copeland,
+N. G.; Gilbert, D. J.; Jenkins, N. A.; Ferrick, D. A.; Kastelein,
+R. A.; Bazan, J. F.; Zlotnik, A.: Identification of a novel selD
+homolog from eukaryotes, bacteria, and archaea: is there an autoregulatory
+mechanism in selenocysteine metabolism? Proc. Nat. Acad. Sci. 93:
+15086-15091, 1996.
+
+3. Lescure, A.; Gautheret, D.; Carbon, P.; Krol, A.: Novel selenoproteins
+identified in silico and in vivo by using a conserved RNA structural
+motif. J. Biol. Chem. 274: 38147-38154, 1999.
+
+4. Tamura, T.; Yamamoto, S.; Takahata, M.; Sakaguchi, H.; Tanaka,
+H.; Stadtman, T. C.; Inagaki, K.: Selenophosphate synthetase genes
+from lung adenocarcinoma cells: Sps1 for recycling L-selenocysteine
+and Sps2 for selenite assimilation. Proc. Nat. Acad. Sci. 101: 16162-16167,
+2004.
+
+CONTRIBUTORS Matthew B. Gross - updated: 2/28/2011
+Victor A. McKusick - updated: 1/21/2005
+
+CREATED Paul J. Converse: 8/21/2001
+
+EDITED mgross: 02/28/2011
+mgross: 2/28/2011
+tkritzer: 1/21/2005
+mgross: 8/21/2001
+
+314310	TITLE *314310 TRANSCRIPTION FACTOR FOR IMMUNOGLOBULIN HEAVY-CHAIN ENHANCER 3; TFE3
+TFE3/ASPSCR1 FUSION GENE, INCLUDED;;
+TFE3/PRCC FUSION GENE, INCLUDED;;
+TFE3/SFPQ FUSION GENE, INCLUDED;;
+TFE3/CLTC FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+TFE3, a member of the helix-loop-helix family of transcription factors,
+binds to the mu-E3 motif of the immunoglobulin heavy-chain enhancer and
+is expressed in many cell types (Henthorn et al., 1991).
+
+CLONING
+
+Macchi et al. (1995) cloned the TFE3 gene. They corrected the earlier
+cDNA sequence and showed that the predicted protein is 371 amino acids
+long and more similar to the mouse protein of 326 amino acids than had
+been previously reported.
+
+GENE STRUCTURE
+
+Macchi et al. (1995) showed that the TFE3 gene consists of 7 exons. The
+activation domain is in exon 2, the leucine zipper in exon 6, and the
+basic helix-loop-helix motif occurs from exons 4 to 6.
+
+MAPPING
+
+Henthorn et al. (1991) localized the TFE3 gene to the proximal short arm
+of the X chromosome using a somatic cell hybrid panel. A frequent RsaI
+RFLP detected by the TFE3 cDNA was found and used to confirm this
+location by linkage analysis, which placed TFE3 near markers in Xp11.22.
+In the course of high-resolution comparative mapping of the proximal
+region of the mouse X chromosome, Blair et al. (1995) mapped the Tfe3
+gene to the same region as the Gata1 gene (305371).
+
+GENE FUNCTION
+
+Using an expression cloning strategy, Nakagawa et al. (2006) identified
+TFE3 as a transactivator of metabolic genes that are regulated through
+an E box in their promoters. Adenovirus-mediated expression of TFE3 in
+hepatocytes in culture and in vivo strongly activated expression of
+insulin receptor substrate-2 (IRS2; 600797) and AKT (164730) and
+enhanced phosphorylation of insulin-signaling kinases such as AKT,
+glycogen synthase kinase-3-beta (605004), and p70S6 kinase (see 608939).
+TFE3 also induced hexokinase II (HK2; 601125) and insulin-induced gene-1
+(INSIG1; 602055). These changes led to metabolic consequences such as
+activation of glycogen and protein synthesis, but not lipogenesis, in
+liver. Collectively, plasma glucose levels were markedly reduced both in
+normal mice and in different mouse models of diabetes. Activation of
+insulin signals in both insulin depletion and resistance suggested that
+TFE3 could be a therapeutic target for diabetes.
+
+CYTOGENETICS
+
+Translocations involving Xp11.2 have been found in synovial sarcoma and
+in a subgroup of renal adenocarcinomas, namely, papillary renal cell
+carcinoma (RCCX1; 300854) (Meloni et al., 1993). Of particular interest
+is the similar localization of the breakpoints within Xp11 despite the
+distinct histologic origin. Sinke et al. (1993) undertook to define the
+precise location of the translocations in the 2 cases, making use of
+tumor-derived interspecies somatic cell hybrids in conjunction with
+Southern blot analysis. The resulting mapping data made it possible to
+distinguish between the 2 translocations, to review the physical map of
+the proximal Xp region, and to provide a basis for the eventual
+isolation of the breakpoints and the genes involved in the development
+of these 2 types of solid tumors. The chromosomal break in papillary
+renal cell carcinoma was found to lie between PFC (300383), OATL1
+(311240), TIMP (305370), SYP (313475), and TFE3, distally; and OATL2
+(258870), together with a number of DNA markers (DXS226, DXS146, DXS255,
+DXS14), proximally.
+
+Shipley et al. (1995) studied 2 RCCP cell lines carrying a
+t(X;1)(p11.2;q21.2) translocation; one was derived from the first female
+case to be reported. By fluorescence in situ hybridization used to
+position YACs along contigs in the Xp11.2 region relative to the
+breakpoint and by correlation with mapping information from the region,
+they concluded that the breakpoint is situated centromeric to SYP
+(131475) and telomeric to DXS255 and CLCN5 (300008).
+
+- Fusion Genes
+
+The specific translocation reported by Meloni et al. (1993) was between
+the X chromosome and chromosome 1: t(X;1)(p11;q21). Sidhar et al. (1996)
+showed that in papillary renal cell carcinoma associated with the
+translocation t(X;1)(p11.2;q21.2), the TFE3 gene is fused with the PRCC
+gene (179755). They noted that a frequent theme for translocations in
+sarcomas is the fusion of a transcription factor activation domain to a
+transcription factor DNA-binding domain.
+
+Clark et al. (1997) identified cases of papillary renal cell carcinoma
+in which the splicing factor gene SFPQ (605199) was partnered with the
+TFE3 gene as a result of a translocation, t(X;1)(p11.2;p34).
+
+Cytogenetic studies identified a recurrent der(17) due to a
+nonreciprocal t(X;17)(p11.2;q25) in cases of alveolar soft part sarcoma
+(ASPS) (Joyama et al., 1999). By Southern blot analysis using a TFE3
+probe, Ladanyi et al. (2001) identified nongermline bands in several
+ASPS cases, consistent with rearrangement and possible fusion of TFE3
+with a gene on 17q25. By amplification of the 5-prime portion of cDNAs
+containing the 3-prime portion of TFE3 in 2 ASPS cases, they identified
+a novel sequence, ASPSCR1 (606236), fused in-frame to TFE3 exon 4 or
+exon 3. RT-PCR analysis detected an ASPSCR1/TFE3 fusion transcript in
+all 12 ASPS cases studied. The ASPSCR1/TFE3 fusion replaces the
+N-terminal portion of TFE3 by the fused ASPSCR1 sequences, while
+retaining the TFE3 DNA-binding domain, implicating transcriptional
+deregulation in the pathogenesis of ASPS.
+
+Heimann et al. (2001) identified the ASPSCR1 gene, which they called
+RCC17, partnered with TFE3 in two 5-year-old Belgian girls of African
+origin in whom papillary renal cell carcinomas carried the translocation
+t(X;17)(p11.2;q25). In both patients, the t(X;17) fused the N terminal
+region of RCC17 to the C-terminal region of TFE3 including the bHLH
+DNA-binding domain and the leucine zipper dimerization domain. The
+reciprocal fusion transcript TFE3/RCC17 was also expressed.
+
+Argani et al. (2003) reported a case of renal cell carcinoma in which
+the 3-prime exons of the TFE3 gene were fused with the 5-prime exons of
+the CLTC gene (118955) as a result of a translocation,
+t(X;17)(p11.2;q23). The patient was a 14-year-old boy who presented with
+gross hematuria and was found by CT to have a finely calcified left
+renal mass.
+
+REFERENCE 1. Argani, P.; Lui, M. Y.; Couturier, J.; Bouvier, R.; Fournet, J.-C.;
+Ladanyi, M.: A novel CLTC-TFE3 gene fusion in pediatric renal adenocarcinoma
+with t(X;17)(p11.2;q23). Oncogene 22: 5374-5378, 2003.
+
+2. Blair, H. J.; Ho, M.; Monaco, A. P.; Fisher, S.; Craig, I. W.;
+Boyd, Y.: High-resolution comparative mapping of the proximal region
+of the mouse X chromosome. Genomics 28: 305-310, 1995.
+
+3. Clark, J.; Lu, Y. J.; Sidhar, S. K.; Parker, C.; Gill, S.; Smedley,
+D.; Hamoudi, R.; Linehan, W.; Shipley, J.; Cooper, C.: Fusion of
+splicing factor genes PSF and NonO (p54nrb) to the TFE3 gene in papillary
+renal cell carcinoma. Oncogene 15: 2233-2239, 1997.
+
+4. Heimann, P.; El Housni, H.; Ogur, G.; Weterman, M. A. J.; Petty,
+E. M.; Vassart, G.: Fusion of a novel gene, RCC17, to the TFE3 gene
+in t(X;17)(p11.2;q25.3)-bearing papillary renal cell carcinomas. Cancer
+Res. 61: 4130-4135, 2001.
+
+5. Henthorn, P. S.; Stewart, C. C.; Kadesch, T.; Puck, J. M.: The
+gene encoding human TFE3, a transcription factor that binds the immunoglobulin
+heavy-chain enhancer, maps to Xp11.22. Genomics 11: 374-378, 1991.
+
+6. Joyama, S.; Ueda, T.; Shimizu, K.; Kudawara, I.; Mano, M.; Funai,
+H.; Takemura, K.; Yoshikawa, H.: Chromosome rearrangement at 17q25
+and Xp11.2 in alveolar soft-part sarcoma: a case report and review
+of the literature. Cancer 86: 1246-1250, 1999.
+
+7. Ladanyi, M.; Lui, M. Y.; Antonescu, C. R.; Krause-Boehm, A.; Meindl,
+A.; Argani, P.; Healey, J. H.; Ueda, T.; Yoshikawa, H.; Meloni-Ehrig,
+A.; Sorensen, P. H. B.; Mertens, F.; Mandahl, N.; van den Berghe,
+H.; Sciot, R.; Dal Cin, P.; Bridge, J.: The der(17)t(X;17)(p11;q25)
+of human alveolar soft part sarcoma fuses the TFE3 transcription factor
+gene to ASPL, a novel gene at 17q25. Oncogene 20: 48-57, 2001.
+
+8. Macchi, P.; Notarangelo, L.; Giliani, S.; Strina, D.; Repetto,
+M.; Sacco, M. G.; Vezzoni, P.; Villa, A.: The genomic organization
+of the human transcription factor 3 (TFE3) gene. Genomics 28: 491-494,
+1995.
+
+9. Meloni, A. M.; Dobbs, R. M.; Pontes, J. E.; Sandberg, A. A.: Translocation
+(X;1) in papillary renal cell carcinoma: a new cytogenetic subtype. Cancer
+Genet. Cytogenet. 65: 1-6, 1993.
+
+10. Nakagawa, Y.; Shimano, H.; Yoshikawa, T.; Ide, T.; Tamura, M.;
+Furusawa, M.; Yamamoto, T.; Inoue, N.; Matsuzaka, T.; Takahashi, A.;
+Hasty, A. H.; Suzuki, H.; Sone, H.; Toyoshima, H.; Yahagi, N.; Yamada,
+N.: TFE3 transcriptionally activates hepatic IRS-2, participates
+in insulin signaling and ameliorates diabetes. Nature Med. 12: 107-113,
+2006.
+
+11. Shipley, J. M.; Birdsall, S.; Clark, J.; Crew, J.; Gill, S.; Linehan,
+M.; Gnarra, J.; Gisher, S.; Craig, I. W.; Cooper, C. S.: Mapping
+the X chromosome breakpoint in two papillary renal cell carcinoma
+cell lines with a t(X;1)(p11.2;q21.2) and the first report of a female
+case. Cytogenet. Cell. Genet. 71: 280-284, 1995.
+
+12. Sidhar, S. K.; Clark. J.; Gill, S.; Hamoudi, R.; Crew, A. J.;
+Gwilliam, R.; Ross, M.; Linehan, W. M.; Birdsall, S.; Shipley, J.;
+Cooper, C. S.: The t(X;1)(p11.2;q21.2) translocation in papillary
+renal cell carcinoma fuses a novel gene PRCC to the TFE3 transcription
+factor gene. Hum. Molec. Genet. 5: 1333-1338, 1996.
+
+13. Sinke, R. J.; de Leeuw, B.; Janssen, H. A. P.; Olde Weghuis, D.;
+Suijkerbuijk, R. F.; Meloni, A. M.; Gilgenkrantz, S.; Berger, W.;
+Ropers, H. H.; Sandberg, A. A.; Geurts van Kessel, A.: Localization
+of X chromosome short arm markers relative to synovial sarcoma- and
+renal adenocarcinoma-associated translocation breakpoints. Hum. Genet. 92:
+305-308, 1993.
+
+CONTRIBUTORS Victor A. McKusick - updated: 2/16/2006
+Victor A. McKusick - updated: 10/31/2003
+Victor A. McKusick - updated: 8/30/2001
+Carol A. Bocchini - updated: 8/30/2001
+Mark H. Paalman - updated: 10/17/1996
+Alan F. Scott - updated: 9/26/1995
+
+CREATED Victor A. McKusick: 10/1/1991
+
+EDITED carol: 11/28/2011
+carol: 9/15/2011
+ckniffin: 9/13/2011
+terry: 9/7/2010
+alopez: 3/10/2006
+terry: 2/16/2006
+carol: 10/31/2003
+carol: 8/30/2001
+carol: 7/20/2000
+terry: 8/24/1998
+mark: 10/17/1996
+mark: 8/25/1995
+mimadm: 2/28/1994
+supermim: 3/17/1992
+carol: 10/1/1991
+
+612695	TITLE *612695 VAULT RNA 1-1; VTRNA1-1
+;;HVG1;;
+VAULT RNA COMPONENT 1; VAULTRC1
+DESCRIPTION 
+DESCRIPTION
+
+Vaults are large cytoplasmic ribonucleoproteins of about 13 MD. They are
+composed of a major vault protein, MVP (605088), 2 minor vault proteins,
+TEP1 (601686) and PARP4 (607519), and a nontranslated RNA component,
+VTRNA1-1 (Kickhoefer et al., 1999).
+
+CLONING
+
+By PCR of a human genomic DNA library, Kickhoefer et al. (1998) cloned
+VTRNA1-1, which they called HVG1. The 96-base RNA contains an internal
+RNA polymerase III (see 606007)-type promoter element and ends with a
+typical polymerase III termination signal.
+
+Kickhoefer et al. (2003) found that the mouse genome contains only 1
+expressed vault RNA gene, which they called Mvr1. Northern blot analysis
+detected a single Mvr1 transcript in all mouse tissues examined, with
+highest expression in lung, heart, and spleen and lowest expression in
+brain.
+
+Nandy et al. (2009) described the structure of VTRNA1-1. The
+99-nucleotide RNA forms an extended stem-loop structure with asymmetric
+internal bulges. It contains characteristic internal polymerase III
+A-box and B-box promoter elements and a downstream B2-box motif. Size
+exclusion chromatography of fractionated HeLa cells, followed by
+Northern and Western blot analyses, detected about 5% of the VTRNA1-1
+and VTRNA1-2 content eluting with MVP, while 95% remained in the
+supernatant.
+
+GENE FUNCTION
+
+Kickhoefer et al. (1998) found that HVG1, but not HVG2 (VTRNA1-2;
+612696) or HVG3 (VTRNA1-3; 612696), associated with vaults in human cell
+lines. However, only a proportion of HVG1 associated with vaults, and
+HVG1 not associated with vaults remained in the soluble fraction.
+Expression of MVP and HVG1 and assembly of vaults increased up to
+15-fold in several drug-resistant cell lines compared with the parental
+cell lines. Increased vault assembly was associated with a concomitant
+shift of HVG1 from the soluble to the pellet fraction. Kickhoefer et al.
+(1998) hypothesized that the absolute vault level in cell lines may
+dictate the extent of drug resistance.
+
+Using Northern blot analysis, Kickhoefer et al. (1999) found that the
+vault RNAs HVG1 and HVG4 copurified with vaults from all human cell
+types examined and interacted with mouse Tep1 in a yeast 3-hybrid
+screen. However, Kickhoefer et al. (2003) reported that HVG4 is not
+expressed.
+
+Nandy et al. (2009) found that expression of VTRNA1-1, VTRNA1-2,
+VTRNA1-3, and CBL3 (VTRNA2-1; 614938) was upregulated in cord blood
+lymphocytes infected with Epstein-Barr virus (EBV). Upregulation was
+highest for VTRNA1-1 (about 1,100-fold) and lowest for CBL3 (about
+3-fold). Expression of VTRNA1-1, VTRNA1-2, and CBL3 was also upregulated
+by the EBV-related Kaposi sarcoma virus, but not by members of other
+virus families.
+
+GENE STRUCTURE
+
+Kickhoefer et al. (2003) determined that the upstream region of the
+VTRNA1-1 gene contains a TATA-like element, a consensus proximal
+sequence, and a cAMP response element.
+
+MAPPING
+
+Kickhoefer et al. (2003) stated that the VTRNA1-1, VTRNA1-2, and
+VTRNA1-3 genes map to a 16-kb region of chromosome 5. A vault RNA
+pseudogene, HVG4, maps to chromosome X. The only expressed mouse vault
+RNA gene, Mvr1, maps to chromosome 18.
+
+Nandy et al. (2009) stated that the VTRNA1-1 gene is located near the
+PCDHA gene cluster (604966), which Wu and Maniatis (1999) mapped to
+chromosome 5q31.
+
+REFERENCE 1. Kickhoefer, V. A.; Emre, N.; Stephen, A. G.; Poderycki, M. J.;
+Rome, L. H.: Identification of conserved vault RNA expression elements
+and a non-expressed mouse vault RNA gene. Gene 309: 65-70, 2003.
+
+2. Kickhoefer, V. A.; Rajavel, K. S.; Scheffer, G. L.; Dalton, W.
+S.; Scheper, R. J.; Rome, L. H.: Vaults are up-regulated in multidrug-resistant
+cancer cell lines. J. Biol. Chem. 273: 8971-8974, 1998.
+
+3. Kickhoefer, V. A.; Stephen, A. G.; Harrington, L.; Robinson, M.
+O.; Rome, L. H.: Vaults and telomerase share a common subunit, TEP1. J.
+Biol. Chem. 274: 32712-32717, 1999.
+
+4. Nandy, C.; Mrazek, J.; Stoiber, H.; Grasser, F. A.; Huttenhofer,
+A.; Polacek, N.: Epstein-Barr virus-induced expression of a novel
+human vault RNA. J. Molec. Biol. 388: 776-784, 2009.
+
+5. Wu, Q.; Maniatis, T.: A striking organization of a large family
+of human neural cadherin like cell adhesion genes. Cell 97: 779-790,
+1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/19/2012
+
+CREATED Patricia A. Hartz: 3/25/2009
+
+EDITED mgross: 11/15/2012
+terry: 10/19/2012
+mgross: 3/26/2009
+
+601012	TITLE *601012 CALCIUM CHANNEL, VOLTAGE-DEPENDENT, N TYPE, ALPHA-1B SUBUNIT; CACNA1B
+;;CALCIUM CHANNEL, L TYPE, ALPHA-1 POLYPEPTIDE, ISOFORM 5; CACNL1A5;;
+CaV2.2
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-dependent Ca(2+) channels are multisubunit complexes found in
+the membrane of many excitable cells that regulate calcium entry (see
+601011). N-type calcium channels, which control neurotransmitter release
+from neurons, are dihydropyridine-insensitive and
+omega-conotoxin-sensitive. The alpha-1 subunit forms the pore through
+which calcium enters the cell, and is encoded by a family of at least 5
+genes.
+
+CLONING
+
+Williams et al. (1992) cloned the neuronal alpha-1B subunit by probing
+brain cDNA libraries with a rabbit probe. RT-PCR revealed 2
+alternatively spliced isoforms, encoding predicted products of 2,339
+(alpha-1B-1) and 2,237 (alpha-1B-2) amino acids, with 64% and 73%
+identity to the rabbit gene product, respectively. Both isoforms are
+transcribed only in central nervous system tissue.
+
+MAPPING
+
+Diriong et al. (1995) and Kim et al. (1997) mapped the CACNA1B gene to
+chromosome 9q34 by fluorescence in situ hybridization.
+
+GENE FUNCTION
+
+Williams et al. (1992) used transient expression studies in HEK293 cells
+to demonstrate that CACNA1B had N-type calcium channel activity.
+
+Using binding and immunoprecipitation assays on adult rat cortical
+tissue, Maeno-Hikichi et al. (2003) showed that the enigma-like LIM
+domain protein (ENH; 605904) interacts specifically with protein kinase
+C-epsilon (PRKCE; 176975) and the C terminus of CACNA1B to form a
+macromolecular complex. Functional studies in Xenopus oocytes indicated
+that expression of ENH resulted in increased rapid and specific
+modulation of N-type calcium channels by PKCE. The authors concluded
+that through interactions with a common adaptor protein, the formation
+of a kinase-substrate complex is the molecular basis for the specificity
+and efficiency of cellular signaling.
+
+The CaV2.2 calcium channel interacts with and is modulated by CRMP2
+(602463). Overexpression of CRMP2 leads to increased surface expression
+of CaV2.2 on neurons, enhanced calcium currents, and an increase in
+stimulated release of the neuropeptide calcitonin gene-related peptide
+(CGRP; 114130) from dorsal root ganglia (summary by Brittain et al.,
+2011).
+
+ANIMAL MODEL
+
+Kim et al. (2001) found that CaV2.2-null mice were viable and fertile
+and showed normal motor coordination. CaV2.2-null mice exhibited reduced
+responses to certain pain stimuli, suggesting that CaV2.2 plays a role
+in pain perception at the spinal level, but not at the supraspinal
+level.
+
+Kim et al. (2009) observed elevated aggression in CaV2.2-null mice.
+CaV2.2 is highly expressed in the dorsal raphe nucleus of adult rats,
+and injection of an N-type Ca(2+) channel blocker into the dorsal raphe
+nucleus of wildtype mice resulted in increased aggressive behavior. Kim
+et al. (2009) concluded that N-type Ca(2+) channels in the dorsal raphe
+nucleus have a role in the control of aggression.
+
+In rats, Brittain et al. (2011) demonstrated that inflammatory and
+neuropathic hypersensitivity can be suppressed by a synthetic 15-mer
+peptide (CBD3) that uncouples Crmp2 and CaV2.2 calcium channels in
+neurons. Studies in cultured neurons and spinal cord slices showed that
+CBD3 peptide bound CaV2.2, interfered with the interaction of Crmp2 and
+CaV2.2, and reduced channel function, as evidenced by decreased CGRP
+neuropeptide release from sensory neurons and decreased excitatory
+synaptic transmission in dorsal horn neurons. In rats, treatment with
+CBD3 also reduced meningeal blood flow and reduced nocifensive behavior
+induced by peripheral formalin injection or corneal capsaicin
+application, as well as reversed neuropathic hypersensitivity produced
+by an antiretroviral drug. The peptide was mildly anxiolytic without
+affecting memory retrieval, sensorimotor function or depression.
+
+REFERENCE 1. Brittain, J. M.; Duarte, D. B.; Wilson, S. M.; Zhu, W.; Ballard,
+C.; Johnson, P. L.; Liu, N.; Xiong, W.; Ripsch, M. S.; Wang, Y.; Fehrenbacher,
+J. C.; Fitz, S. D.; and 20 others: Suppression of inflammatory
+and neuropathic pain by uncoupling CRMP-2 from the presynaptic Ca(2+)
+channel complex. Nature Med. 17: 822-829, 2011.
+
+2. Diriong, S.; Lory, P.; Williams, M. E.; Ellis, S. B.; Harpold,
+M. M.; Taviaux, S.: Chromosomal localization of the human genes for
+alpha-1A, alpha-1B, and alpha-1E voltage-dependent Ca(2+) channel
+subunits. Genomics 30: 605-609, 1995.
+
+3. Kim, C.; Jeon, D.; Kim, Y.-H.; Lee, C. J.; Kim, H.; Shin, H.-S.
+: Deletion of N-type Ca(2+) channel Ca(V)2.2 results in hyperaggressive
+behaviors in mice. J. Biol. Chem. 284: 2738-2745, 2009.
+
+4. Kim, C.; Jun, K.; Lee, T.; Kim, S.-S.; McEnery, M. W.; Chin, H.;
+Kim, H.-L.; Park, J. M.; Kim, D. K.; Jung, S. J.; Kim, J.; Shin, H.-S.
+: Altered nociceptive response in mice deficient in the alpha-1B subunit
+of the voltage-dependent calcium channel. Molec. Cell. Neurosci. 18:
+235-245, 2001.
+
+5. Kim, D. S.; Jung, H.-H.; Park, S.-H.; Chin, H.: Isolation and
+characterization of the 5-prime-upstream region of the human N-type
+calcium channel alpha-1B subunit gene: chromosomal localization and
+promoter analysis. J. Biol. Chem. 272: 5098-5104, 1997.
+
+6. Maeno-Hikichi, Y.; Chang, S.; Matsumura, K.; Lai, M.; Lin, H.;
+Nakagawa, N.; Kuroda, S.; Zhang, J.: A PKC-epsilon-ENH-channel complex
+specifically modulates N-type Ca2+ channels. Nature Neurosci. 6:
+468-475, 2003.
+
+7. Williams, M. E.; Brust, P. F.; Feldman, D. H.; Patthi, S.; Simerson,
+S.; Maroufi, A.; McCue, A. F.; Velicelebi, G.; Ellis, S. B.; Harpold,
+M. M.: Structure and functional expression of an omega-conotoxin-sensitive
+human N-type calcium channel. Science 257: 389-395, 1992.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/3/2011
+Patricia A. Hartz - updated: 7/14/2009
+Cassandra L. Kniffin - updated: 5/22/2003
+Rebekah S. Rasooly - updated: 2/13/1998
+
+CREATED Victor A. McKusick: 1/23/1996
+
+EDITED wwang: 08/05/2011
+ckniffin: 8/3/2011
+mgross: 7/15/2009
+terry: 7/14/2009
+cwells: 5/27/2003
+ckniffin: 5/22/2003
+carol: 2/13/1998
+mark: 6/12/1997
+mark: 1/23/1996
+

@@ -1,0 +1,128 @@
+611070	TITLE *611070 SMALL NUCLEOLAR RNA, C/D BOX, 83A; SNORD83A
+;;RNA, U83A SMALL NUCLEOLAR; RNU83A;;
+snoRNA, U83A
+DESCRIPTION 
+DESCRIPTION
+
+Intronic regions of ribosomal protein genes can harbor noncoding small
+nucleolar RNAs (snoRNAs), like SNORD83A, which are generated during
+pre-mRNA processing. snoRNAs form part of the small nucleolar
+ribonucleoprotein particles (snoRNPs) involved in pre-rRNA processing
+and modification. snoRNAs of the box C/D class, like SNORD83A, function
+in 2-prime-O-ribose methylation of rRNAs (Duga et al., 2000).
+
+CLONING
+
+Duga et al. (2000) identified several snoRNAs, including SNORD83A, which
+they called U83A, within introns of the bovine and human RPL3 (604163)
+genes. U83A originates from intron 5 of RPL3. The 95-nucleotide U83A has
+a region complementary to 18S RNA and contains canonical motifs of box
+C/D snoRNAs. Sequence analysis suggested that U83A forms a stem-loop
+structure through basepairing of the 5-prime and 3-prime terminal
+sequences. In this model, the loop contains boxes C and D on either side
+of the stem, with the sequence complementary to 18S rRNA located
+immediately upstream of box D. Northern blot analysis using a bovine
+probe detected U83A expression in HeLa cells, mouse fibroblasts, and
+bovine brain. RT-PCR detected U83A expression in a bovine kidney cell
+line.
+
+MAPPING
+
+Duga et al. (2000) identified SNORD83A within intron 5 of the RPL3 gene
+on chromosome 22q.
+
+REFERENCE 1. Duga, S.; Asselta, R.; Malcovati, M.; Tenchini, M. L.; Ronchi,
+S.; Simonic, T.: The intron-containing L3 ribosomal protein gene
+(RPL3): sequence analysis and identification of U43 and of two novel
+intronic small nucleolar RNAs. Biochim. Biophys. Acta 1490: 225-236,
+2000.
+
+CREATED Patricia A. Hartz: 5/31/2007
+
+EDITED alopez: 09/24/2008
+mgross: 5/31/2007
+
+611114	TITLE *611114 MICRO RNA 150; MIR150
+;;miRNA150;;
+MIRN150
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIRN150, are 20- to 24-nucleotide noncoding
+RNAs found in animals and plants. These small RNAs regulate gene
+expression at the translational level through interactions with their
+target mRNAs. MIRN150 is a hematopoietic cell-specific miRNA (Zhou et
+al., 2007).
+
+CLONING
+
+Lagos-Quintana et al. (2002) cloned mouse miRNA150. Using miRNA arrays
+and quantitative RT-PCR analysis, Zhou et al. (2007) detected abundant
+expression of mouse miR150 in lymph nodes. Expression was also high in
+spleen, with lower levels in thymus, heart, and brain.
+
+GENE FUNCTION
+
+Zhou et al. (2007) found that expression of mouse miR150 increased
+during B- and T-cell development. Overexpression of miR150 in
+hematopoietic stem cells, followed by bone marrow transplantation,
+impaired formation of mature B cells, but not other lymphoid and myeloid
+cell populations. Premature expression of miR150 blocked transition from
+pro-B to pre-B lymphocytes. Zhou et al. (2007) proposed that miR150
+likely downregulates mRNAs important for pre- and pro-B cell formation
+and function.
+
+Using loss- and gain-of-function gene targeting approaches for Mir150
+with conditional and partial ablation of Myb (189990) in mice, Xiao et
+al. (2007) showed that Mir150 controlled Myb expression in vivo in a
+dose-dependent manner over a narrow range of miRNA and Myb
+concentrations, dramatically affecting lymphocyte development and the
+humoral immune response. They concluded that MYB is a critical target of
+MIR150.
+
+Using microarray and Northern blot analysis, Chang et al. (2008) showed
+that MIRN150 was among several miRNAs downregulated by MYC (190080) in
+mouse and human B-cell lymphoma cell lines. The expression of MIRN150
+strongly inhibited tumor formation by lymphoma cells following injection
+into immunodeficient mice.
+
+MAPPING
+
+Hartz (2008) mapped the MIRN150 gene to chromosome 19q13.33 based on an
+alignment of the mature MIRN150 sequence (UCUCCCAACCCUUGUACCAGUG) with
+the genomic sequence (build 36.1).
+
+REFERENCE 1. Chang, T.-C.; Yu, D.; Lee, Y.-S.; Wentzel, E. A.; Arking, D. E.;
+West, K. M.; Dang, C. V.; Thomas-Tikhonenko, A.; Mendell, J. T.:
+Widespread microRNA repression by Myc contributes to tumorigenesis. Nature
+Genet. 40: 43-50, 2008.
+
+2. Hartz, P. H.: Personal Communication. Baltimore, Md.  5/22/2008.
+
+3. Lagos-Quintana, M.; Rauhut, R.; Yalcin, A.; Meyer, J.; Lendeckel,
+W.; Tuschi, T.: Identification of tissue-specific microRNAs from
+mouse. Curr. Biol. 12: 735-739, 2002.
+
+4. Xiao, C.; Calado, D. P.; Galler, G.; Thai, T.-H.; Patterson, H.
+C.; Wang, J.; Rajewsky, N.; Bender, T. P.; Rajewsky, K.: MiR-150
+controls B cell differentiation by targeting the transcription factor
+c-Myb. Cell 131: 146-159, 2007.
+
+5. Zhou, B.; Wang, S.; Mayr, C.; Bartel, D. P.; Lodish, H. F.: miR-150,
+a microRNA expressed in mature B and T cells, blocks early B cell
+development when expressed prematurely. Proc. Nat. Acad. Sci. 104:
+7080-7085, 2007. Note: Erratum: Proc. Nat. Acad. Sci. 105: 18070
+only, 2008.
+
+CONTRIBUTORS Paul J. Converse - updated: 5/15/2009
+Patricia A. Hartz - updated: 5/22/2008
+
+CREATED Paul J. Converse: 6/13/2007
+
+EDITED terry: 12/20/2012
+mgross: 5/18/2009
+terry: 5/15/2009
+carol: 5/23/2008
+terry: 5/22/2008
+mgross: 6/13/2007
+

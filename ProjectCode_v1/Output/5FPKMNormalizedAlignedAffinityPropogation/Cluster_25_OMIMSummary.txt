@@ -1,0 +1,762 @@
+610104	TITLE *610104 MICRO RNA 125B1; MIR125B1
+;;miRNA125B1;;
+MIRN125B1
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs, such as MIR125B, are small noncoding RNAs that regulate
+target gene expression posttranscriptionally through basepairing with
+their target mRNAs. MIR125B1 and MIR125B2 (610105) both encode
+precursors of the same mature MIR125B sequence, but the precursors
+differ in the sequences flanking the mature MIR125B sequence (Lee et
+al., 2005).
+
+CLONING
+
+Using synthetic siRNAs designed against the loop region of both MIR125B1
+and MIR125B2, Lee et al. (2005) determined that MIR125B2 was the source
+of most of the miR125b they detected in human cell lines.
+
+Using quantitative real-time PCR, Sonkoly et al. (2007) found ubiquitous
+but variable expression of miR125B in human tissues. Highest expression
+was in prostate, heart, cervix, brain, and bladder.
+
+GENE FUNCTION
+
+Using microarray analysis, Ciafre et al. (2005) found that expression of
+MIR125B1 was significantly upregulated in primary glioblastomas compared
+with normal peripheral brain tissue.
+
+Using microarray analysis, van Rooij et al. (2006) identified miR125B
+among a group of miRNAs upregulated in 2 independent mouse models of
+cardiac hypertrophy. Northern blot analysis showed increased expression
+of miR125B in idiopathic end-stage failing human hearts.
+
+Laneve et al. (2007) found that MIRN9 (see 611186), MIRN125A (611191),
+and MIRN125B were upregulated in a human neuroblastoma cell line by
+retinoic acid. They identified the mRNA encoding t-NTRK3, a truncated
+isoform of NTRK3 (191316), as a target of the 3 miRNAs. The 3-prime UTR
+of the t-NTRK3 transcript has a binding site for MIRN9 and another for
+both MIRN125A and MIRN125B, which share the same seed sequence. These
+miRNAs repressed t-NTRK3 expression in an additive manner, and
+downregulation of t-NTRK3 was critical for regulating neuroblastoma cell
+growth. Consistent with their function, MIRN9, MIRN125A, and MIRN125B
+were downmodulated in primary neuroblastoma tumors.
+
+Using microarray analysis and quantitative real-time PCR, Sonkoly et al.
+(2007) found that expression of miR125B was decreased in psoriasis (see
+177900) and atopic eczema (see 603165) compared with normal human skin.
+
+To investigate the functional consequences of heterozygous mutations in
+ATM (607585), homozygous mutations in which cause ataxia-telangiectasia
+(AT; 208900), Smirnov and Cheung (2008) compared the gene and microRNA
+expression phenotypes of noncarriers, AT carriers, and AT patients. The
+authors found that some expression phenotypes are more similar between
+noncarriers and AT carriers compared to AT patients, as expected for a
+recessive disorder. However, for some expression phenotypes, AT carriers
+are more similar to the patients than to the noncarriers. Analysis of
+one of these expression phenotypes, TNFSF4 (603594) level, allowed
+Smirnov and Cheung (2008) to uncover a regulatory pathway in which ATM
+regulates TNFSF4 expression through MIRN125B. In AT carriers and AT
+patients, this pathway is disrupted. As a result, the level of MIRN125B
+is lower and the level of its target gene, TNFSF4, is higher than in
+noncarriers. A decreased level of MIRN125B is associated with breast
+cancer, and an elevated level of TNFSF4 is associated with
+atherosclerosis. Thus, Smirnov and Cheung (2008) concluded that their
+findings provided a mechanistic suggestion for the increased risk of
+breast cancer and heart disease in AT carriers.
+
+Le et al. (2009) identified highly conserved miRNA response elements in
+the 3-prime UTRs of zebrafish and human p53 (TP53; 191170) transcripts
+and showed that MIR125B bound directly to these elements. MIR125B
+repressed translation of endogenous p53, reduced expression of p53
+target genes, and countered drug-induced apoptosis in human cells.
+Knockdown of mir125b in zebrafish embryos resulted in severe
+developmental defects, particularly accumulation of dead cells in the
+brain, and loss of mir125b increased p53 protein and p53-dependent
+apoptosis. Treatment of zebrafish embryos with DNA-damaging agents
+resulted in downregulation of mir125b and a rapid increase in p53
+protein. Le et al. (2009) concluded that MIR125B is an important
+negative regulator of p53 and p53-induced apoptosis during development
+and during the stress response.
+
+MAPPING
+
+Lee et al. (2005) stated that the MIRN125B1 gene maps to chromosome 11
+and is located in the exon of an uncharacterized gene.
+
+Ciafre et al. (2005) stated that the MIR125B1 gene maps to chromosome
+11q24.1, where it lies in a cluster with the LET7A2 (612142) and MIR100
+(613186) genes.
+
+ANIMAL MODEL
+
+Bousquet et al. (2010) found that inoculation of mice with
+Mir125b-overexpressing hematopoietic mouse fetal liver cells resulted in
+an elevated number of neutrophils, monocytes, and lymphocytes and
+macrocytic anemia. Within 12 to 29 weeks posttansplantation, half of the
+inoculated mice succumbed to a hematologic malignancy, including
+myeloproliferative neoplasm, B-cell acute lymphoid leukemia (B-ALL), and
+T-cell acute lymphoid leukemia (T-ALL). The type of leukemia appeared to
+be related to the level of Mir125b expression, with lower expression in
+T-ALL and higher expression in myeloid neoplasm. Overexpression of
+Mir125b also accelerated the development of BCR (151410)/ABL
+(189980)-induced leukemia in mice.
+
+REFERENCE 1. Bousquet, M.; Harris, M. H.; Zhou, B.; Lodish, H. F.: MicroRNA
+miR-125b causes leukemia. Proc. Nat. Acad. Sci. 107: 21558-21563,
+2010.
+
+2. Ciafre, S. A.; Galardi, S.; Mangiola, A.; Ferracin, M.; Liu, C.-G.;
+Sabatino, G.; Negrini, M.; Maira, G.; Croce, C. M.; Farace, M. G.
+: Extensive modulation of a set of microRNAs in primary glioblastoma. Biochem.
+Biophys. Res. Commun. 334: 1351-1358, 2005.
+
+3. Laneve, P.; Di Marcotullio, L.; Gioia, U.; Fiori, M. E.; Ferretti,
+E.; Gulino, A.; Bozzoni, I.; Caffarelli, E.: The interplay between
+microRNAs and the neurotrophin receptor tropomyosin-related kinase
+C controls proliferation of human neuroblastoma cells. Proc. Nat.
+Acad. Sci. 104: 7957-7962, 2007.
+
+4. Le, M. T. N.; Teh, C.; Shyh-Chang, N.; Xie, H.; Zhou, B.; Korzh,
+V.; Lodish, H. F.; Lim, B.: MicroRNA-125b is a novel negative regulator
+of p53. Genes Dev. 23: 862-876, 2009.
+
+5. Lee, Y. S.; Kim, H. K.; Chung, S.; Kim, K.-S.; Dutta, A.: Depletion
+of human micro-RNA miR-125b reveals that it is critical for the proliferation
+of differentiated cells but not for the downregulation of putative
+targets during differentiation. J. Biol. Chem. 280: 16635-16641,
+2005.
+
+6. Smirnov, D. A.; Cheung, V. G.: ATM gene mutations result in both
+recessive and dominant expression phenotypes of genes and microRNAs. Am.
+J. Hum. Genet. 83: 243-253, 2008. Note: Erratum: Am. J. Hum. Genet.
+83: 657 only, 2008.
+
+7. Sonkoly, E.; Wei, T.; Janson, P. C. J.; Saaf, A.; Lundeberg, L.;
+Tengvall-Linder, M.; Norstedt, G.; Alenius, H.; Homey, B.; Scheynius,
+A.; Stahle, M.; Pivarcsi, A.: MicroRNAs: novel regulators involved
+in the pathogenesis of psoriasis? PLoS One 7: e610, 2007. Note:
+Electronic Article.
+
+8. van Rooij, E.; Sutherland, L. B.; Liu, N.; Williams, A. H.; McAnally,
+J.; Gerard, R. D.; Richardson, J. A.; Olson, E. N.: A signature pattern
+of stress-responsive microRNAs that can evoke cardiac hypertrophy
+and heart failure. Proc. Nat. Acad. Sci. 103: 18255-18260, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 06/03/2013
+Patricia A. Hartz - updated: 8/28/2009
+Patricia A. Hartz - updated: 4/16/2009
+Ada Hamosh - updated: 9/8/2008
+Patricia A. Hartz - updated: 4/30/2008
+Patricia A. Hartz - updated: 7/6/2007
+Patricia A. Hartz - updated: 1/24/2007
+
+CREATED Patricia A. Hartz: 5/10/2006
+
+EDITED mgross: 06/03/2013
+terry: 11/30/2010
+mgross: 12/17/2009
+mgross: 9/16/2009
+terry: 8/28/2009
+mgross: 4/21/2009
+terry: 4/16/2009
+carol: 12/4/2008
+alopez: 9/17/2008
+terry: 9/8/2008
+mgross: 4/30/2008
+terry: 4/30/2008
+mgross: 7/11/2007
+mgross: 7/10/2007
+terry: 7/6/2007
+mgross: 2/7/2007
+mgross: 1/24/2007
+wwang: 5/16/2006
+wwang: 5/10/2006
+
+604064	TITLE *604064 ACTIVATING TRANSCRIPTION FACTOR 4; ATF4
+;;CYCLIC AMP RESPONSE ELEMENT-BINDING PROTEIN 2; CREB2;;
+TAX-RESPONSIVE ENHANCER ELEMENT B67; TAXREB67
+DESCRIPTION 
+DESCRIPTION
+
+ATF4 belongs to the large ATF/CREB family of transcription factors.
+These proteins bind DNA via their basic region and dimerize via their
+leucine zipper domain to form a variety of homo- and heterodimers to
+regulate gene transcription (De Angelis et al., 2003).
+
+CLONING
+
+An activating transcription factor (ATF)-binding site is a promoter
+element present in a wide variety of viral and cellular genes, including
+E1A-inducible adenoviral genes and cAMP-inducible cellular genes. Hai et
+al. (1989) identified cDNAs encoding 8 different human ATF
+consensus-binding proteins, including a partial cDNA corresponding to
+ATF4. They found that members of this family share significant sequence
+similarity within a leucine zipper DNA-binding motif and an adjacent
+basic region; the proteins show little similarity outside of these
+regions.
+
+The cAMP response element (CRE) is an octanucleotide motif that mediates
+diverse transcriptional regulatory effects. By screening a Jurkat T-cell
+line expression library for the ability to bind CRE, Karpinski et al.
+(1992) isolated a full-length cDNA corresponding to ATF4, which they
+called CREB2 (CRE-binding protein-2). The predicted protein contains 351
+amino acids. Northern blot analysis revealed that the 1.5-kb CREB2 mRNA
+was expressed in all human tumor cell lines and mouse organs tested.
+
+GENE FUNCTION
+
+Karpinski et al. (1992) found that, unlike CREB (123810), which
+activates transcription from CRE-containing promoters, CREB2 functions
+as a specific repressor of CRE-dependent transcription. The
+transcriptional repressor activity resides within the C-terminal leucine
+zipper and basic domain region of the CREB2 protein.
+
+The p40tax gene product of human T-cell leukemia virus type 1 (HTLV-1)
+activates HTLV-1 viral transcription in trans through tax-responsive
+enhancers in the long terminal repeats. Tsujimoto et al. (1991)
+identified ATF4 as TAXREB67, a protein that binds to the tax-responsive
+enhancer element in HTLV-1.
+
+Using a yeast 2-hybrid assay, He et al. (2001) found that mouse Nrf2
+(NFE2L2; 600492) interacted with rat Atf4. Coimmunoprecipitation and
+mammalian 2-hybrid analyses confirmed the interaction. An Nrf2-Atf4
+dimer bound a stress response element (StRE) sequence from an Nrf2
+target gene, Ho1 (HMOX1; 141250). CdCl2, an Ho1 inducer, increased
+expression of Atf4 in mouse hepatoma cells prior to induction of Ho1. A
+dominant-negative Atf4 mutant inhibited basal and CdCl2-induced
+expression of an StRE-dependent construct in hepatoma cells, but it only
+inhibited basal expression in a human mammary epithelial cell line. He
+et al. (2001) concluded that ATF4 regulates HO1 expression in a
+cell-specific manner, possibly in a complex with NRF2.
+
+Siu et al. (2002) presented evidence that ATF4 binds nutrient-sensing
+response element-1 (NSRE1) in the human asparagine synthetase (ASNS;
+108370) gene and activates ASNS transcription in response to nutrient
+stress.
+
+Bagheri-Yarmand et al. (2003) found that expression of Atf4 was high in
+virgin mouse mammary glands and in pregnant mammary glands, but it was
+dramatically reduced during lactation and higher after weaning.
+Transgenic mice overexpressing Atf4 in mammary epithelium showed
+decreased proliferation and impaired differentiation of alveolar
+epithelial cells during pregnancy and lactation. In addition, Atf4
+overexpression induced apoptosis and accelerated involution of the
+mammary gland, suggesting a role for ATF4 in the regulation of normal
+mammary gland involution.
+
+De Angelis et al. (2003) showed that human ATF4 and RBP3 (E2F1; 189971)
+dimerized in vitro and in vivo and that RBP3 enhanced ATF4
+transactivating activity. Expression of both proteins increased during
+differentiation of a mouse myogenic cell line.
+
+ATF4 has 2 upstream ORFs (uORFs) that are conserved in vertebrates. The
+more 3-prime uORF, uORF2, extends into the coding region of full-length
+ATF4. Independently, Lu et al. (2004) and Vattem and Wek (2004) found
+that scanning ribosomes initiated translation at both uORFs of mouse
+Atf4, and that ribosomes that translated uORF1 efficiently reinitiated
+translation at downstream AUGs. In unstressed mouse fibroblasts, low
+levels of phosphorylated Eif2 (see EIF2S1; 603907) favored early
+capacitation of reinitiating ribosomes, directing them to the inhibitory
+uORF2 downstream of uORF1, which precluded translation of Atf4 and
+repressed the integrated stress response. In stressed cells, high levels
+of phosphorylated Eif2 delayed capacitation of reinitiating ribosomes,
+favoring reinitiation at the Atf4 coding sequence over uORF2, which
+permitted Atf4 expression and activated the integrated stress response.
+
+Using Rsk2 (300075) -/- mice, Yang et al. (2004) showed that RSK2 is
+required for osteoblast differentiation and function. They identified
+the transcription factor ATF4 as a critical substrate of RSK2 that is
+required for the timely onset of osteoblast differentiation, for
+terminal differentiation of osteoblasts, and for osteoblast-specific
+gene expression. Additionally, RSK2 and ATF4 were found to
+posttranscriptionally regulate the synthesis of type I collagen (see
+120150), the main constituent of the bone matrix. Accordingly, Atf4
+deficiency in mice resulted in delayed bone formation during embryonic
+development and low bone mass throughout postnatal life. Yang et al.
+(2004) concluded that ATF4 is a critical regulator of osteoblast
+differentiation and function and that lack of ATF4 phosphorylation by
+RSK2 may contribute to the skeletal phenotype of Coffin-Lowry syndrome
+(303600).
+
+Blais et al. (2004) determined that EIF2-alpha (EIF2S1), PERK (EIF2AK3;
+604032), ATF4, and GADD34 (PPP1R15A; 611048) are involved in an
+integrated adaptive response to hypoxic stress in HeLa cells.
+
+Sayer et al. (2006) performed a yeast 2-hybrid screen of a human fetal
+brain expression library and identified ATF4 as a direct interaction
+partner of CEP290 (NPHP6; 610142). The protein-interaction domains
+mapped to the N-terminal third of CEP290, encoded by exons 2 through 21,
+and the C-terminal two-thirds of ATF4. To confirm that CEP290 and ATF4
+interact physiologically in vivo, Sayer et al. (2006) performed
+coimmunoprecipitation experiments using bovine retina extracts.
+Immunoblot analysis demonstrated that endogenous ATF4 can be
+immunoprecipitated using an antibody to CEP290 but not using a control
+IgG. Reverse coimmunoprecipitation experiments showed that antibody to
+ATF4 can also precipitate endogenous CEP290.
+
+Lin et al. (2010) showed that although Skp2 (601436) inactivation on its
+own does not induce cellular senescence, aberrant protooncogenic signals
+as well as inactivation of tumor suppressor genes do trigger a potent,
+tumor-suppressive senescence response in mice and cells devoid of Skp2.
+Notably, Skp2 inactivation and oncogenic stress-driven senescence
+neither elicit activation of the p19(Arf) (see 600160)-p53 (191170)
+pathway nor DNA damage, but instead depend on Aft4, p27 (600778), and
+p21 (116899). Lin et al. (2010) further demonstrated that genetic Skp2
+inactivation evokes cellular senescence even in oncogenic conditions in
+which the p19(Arf)-p53 response is impaired, whereas a Skp2-SCF complex
+inhibitor can trigger cellular senescence in p53/Pten (601728)-deficient
+cells and tumor regression in preclinical studies. Lin et al. (2010)
+concluded that their findings provided proof-of-principle evidence that
+pharmacologic inhibition of Skp2 may represent a general approach for
+cancer prevention and therapy.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the ATF4
+gene to chromosome 22 (TMAP stSG29796).
+
+ANIMAL MODEL
+
+Tanaka et al. (1998) used gene targeting to generate mice lacking Atf4.
+They found that Atf4-deficient mice exhibited severe microphthalmia. The
+Atf4-deficient eyes revealed a normal gross lens structure up to
+embryonic day 14.5, after which the lens degenerated due to apoptosis
+without the formation of lens secondary fiber cells. Retinal development
+was normal in the mutant mice. The lens-specific expression of Atf4 in
+the mutant mice led not only to the recovery of lens secondary fibers
+but also to the induction of hyperplasia of these fibers. Tanaka et al.
+(1998) concluded that ATF4 is essential for the later stages of lens
+fiber cell differentiation.
+
+NOMENCLATURE
+
+The ATF4 gene, which Karpinski et al. (1992) referred to as CREB2,
+should not be confused with the ATF2 gene (123811), which was formerly
+known as CREB2.
+
+REFERENCE 1. Bagheri-Yarmand, R.; Vadlamudi, R. K.; Kumar, R.: Activating transcription
+factor 4 overexpression inhibits proliferation and differentiation
+of mammary epithelium resulting in impaired lactation and accelerated
+involution. J. Biol. Chem. 278: 17421-17429, 2003.
+
+2. Blais, J. D.; Filipenko, V.; Bi, M.; Harding, H. P.; Ron, D.; Koumenis,
+C.; Wouters, B. G.; Bell, J. C.: Activating transcription factor
+4 is translationally regulated by hypoxic stress. Molec. Cell. Biol. 24:
+7469-7482, 2004.
+
+3. De Angelis, R.; Iezzi, S.; Bruno, T.; Corbi, N.; Di Padova, M.;
+Floridi, A.; Fanciulli, M.; Passananti, C.: Functional interaction
+of the subunit 3 of RNA polymerase II (RPB3) with transcription factor-4
+(ATF4). FEBS Lett. 547: 15-19, 2003.
+
+4. Hai, T.; Liu, F.; Coukos, W. J.; Green, M. R.: Transcription factor
+ATF cDNA clones: an extensive family of leucine zipper proteins able
+to selectively form DNA-binding heterodimers. Genes Dev. 3: 2083-2090,
+1989. Note: Erratum: Genes Dev. 4: 682 only, 1990.
+
+5. He, C. H.; Gong, P.; Hu, B.; Stewart, D.; Choi, M. E.; Choi, A.
+M. K.; Alam, J.: Identification of activating transcription factor
+4 (ATF4) as an Nrf2-interacting protein: implication for heme oxygenase-1
+gene regulation. J. Biol. Chem. 276: 20858-20865, 2001.
+
+6. Karpinski, B. A.; Morle, G. D.; Huggenvik, J.; Uhler, M. D.; Leiden,
+J. M.: Molecular cloning of human CREB-2: an ATF/CREB transcription
+factor that can negatively regulate transcription from the cAMP response
+element. Proc. Nat. Acad. Sci. 89: 4820-4824, 1992.
+
+7. Lin, H.-K.; Chen, Z.; Wang, G.; Nardella, C.; Lee, S.-W.; Chan,
+C.-H.; Yang, W.-L.; Wang, J; Egia, A.; Nakayama, K. I.; Cordon-Cardo,
+C.; Teruya-Feldstein, J.; Pandolfi, P. P.: Skp2 targeting suppresses
+tumorigenesis by Arf-p53-independent cellular senescence. Nature 464:
+374-379, 2010. Note: Erratum: Nature 466: 398 only, 2010.
+
+8. Lu, P. D.; Harding, H. P.; Ron, D.: Translation reinitiation at
+alternative open reading frames regulates gene expression in an integrated
+stress response. J. Cell Biol. 167: 27-33, 2004.
+
+9. Sayer, J. A.; Otto, E. A.; O'Toole, J. F.; Nurnberg, G.; Kennedy,
+M. A.; Becker, C.; Hennies, H. C.; Helou, J.; Attanasio, M.; Fausett,
+B. V.; Utsch, B.; Khanna, H.; and 30 others: The centrosomal protein
+nephrocystin-6 is mutated in Joubert syndrome and activates transcription
+factor ATF4. Nature Genet. 38: 674-681, 2006.
+
+10. Siu, F.; Bain, P. J.; LeBlanc-Chaffin, R.; Chen, H.; Kilberg,
+M. S.: ATF4 is a mediator of the nutrient-sensing response pathway
+that activates the human asparagine synthetase gene. J. Biol. Chem. 277:
+24120-24127, 2002.
+
+11. Tanaka, T.; Tsujimura, T.; Takeda, K.; Sugihara, A.; Maekawa,
+A.; Terada, N.; Yoshida, N.; Akira, S.: Targeted disruption of ATF4
+discloses its essential role in the formation of eye lens fibres. Genes
+Cells 3: 801-810, 1998.
+
+12. Tsujimoto, A.; Nyunoya, H.; Morita, T.; Sato, T.; Shimotohno,
+K.: Isolation of cDNAs for DNA-binding proteins which specifically
+bind to a tax-responsive enhancer element in the long terminal repeat
+of human T-cell leukemia virus type I. J. Virol. 65: 1420-1426,
+1991.
+
+13. Vattem, K. M.; Wek, R. C.: Reinitiation involving upstream ORFs
+regulates ATF4 mRNA translation in mammalian cells. Proc. Nat. Acad.
+Sci. 101: 11269-11274, 2004.
+
+14. Yang, X.; Matsuda, K.; Bialek, P.; Jacquot, S.; Masuoka, H. C.;
+Schinke, T.; Li, L.; Brancorsini, S.; Sassone-Corsi, P.; Townes, T.
+M.; Hanauer, A.; Karsenty, G.: ATF4 is a substrate of RSK2 and an
+essential regulator of osteoblast biology: implication for Coffin-Lowry
+Syndrome. Cell 117: 387-398, 2004.
+
+CONTRIBUTORS Ada Hamosh - updated: 4/15/2010
+Patricia A. Hartz - updated: 4/8/2009
+Anne M. Stumpf - updated: 6/15/2006
+Patricia A. Hartz - updated: 9/23/2004
+Stylianos E. Antonarakis - updated: 6/9/2004
+Carol A. Bocchini - updated: 11/7/2001
+Rebekah S. Rasooly - updated: 8/9/1999
+
+CREATED Rebekah S. Rasooly: 7/26/1999
+
+EDITED terry: 09/14/2012
+carol: 7/23/2010
+alopez: 4/19/2010
+terry: 4/15/2010
+mgross: 4/9/2009
+terry: 4/8/2009
+mgross: 5/21/2007
+alopez: 6/15/2006
+mgross: 9/23/2004
+mgross: 6/9/2004
+carol: 11/7/2001
+mgross: 10/16/2000
+mgross: 8/9/1999
+alopez: 7/26/1999
+
+613147	TITLE *613147 MICRO RNA 205; MIR205
+;;miRNA205;;
+MIRN205
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR205, are small noncoding RNAs that
+mediate posttranscriptional silencing by binding with partial
+complementarity to the 3-prime UTRs of target mRNAs. miRNAs have
+important roles in development and differentiation, cellular stress
+responses, and cancer (summary by Yu et al., 2008).
+
+GENE FUNCTION
+
+Using the MDCK canine epithelial cell line and a subclone with a
+mesenchymal phenotype, Gregory et al. (2008) found that the miR200
+family of miRNAs (see 612090) and miR205 regulated expression of Zeb1
+(189909) and Zeb2 (605802) and controlled epithelial-to-mesenchymal
+transition. Furthermore, expression of the miR200 family and miR205 was
+lost in invasive human breast cancer cell lines with mesenchymal
+phenotype and in primary breast cancer specimens lacking E-cadherin
+(CDH1; 192090), an epithelial cell marker.
+
+Using human epithelial cell lines and primary human corneal and
+epidermal keratinocytes, Yu et al. (2008) identified SHIP2 (INPPL1;
+600829), a lipid phosphatase that functions in the AKT (see 164730)
+signaling pathway, as a target of MIR205. They also showed that MIR184
+(613146) interfered with the ability of MIR205 to downregulate
+expression of SHIP2. A synthetic antagomir targeting MIR205 or ectopic
+expression of MIR184 induced SHIP2 expression in keratinocytes, with
+coordinated damping of AKT signaling and increased apoptosis.
+Examination of the 3-prime UTR of SHIP2 revealed overlapping binding
+sites for MIR184 and MIR205. Coexpression of MIR184 with MIR205 reversed
+MIR205-induced inhibition of a reporter gene containing the SHIP2
+3-prime UTR. MIR184 had no direct effect on SHIP2 expression, but
+instead interfered with MIR205 binding to the 3-prime UTR of SHIP2.
+
+MAPPING
+
+Gross (2009) mapped the MIR205 gene to chromosome 1q32.2 based on an
+alignment of the mature MIR205 sequence (UCCUUCAUUCCACCGGAGUCUG) with
+the genomic sequence (GRCh37).
+
+REFERENCE 1. Gregory, P. A.; Bert, A. G.; Paterson, E. L.; Barry, S. C.; Tsykin,
+A.; Farshid, G.; Vadas, M. A.; Khew-Goodall, Y.; Goodall, G. J.:
+The miR-200 family and miR-205 regulate epithelial to mesenchymal
+transition by targeting ZEB1 and SIP1. Nature Cell Biol. 10: 593-601,
+2008.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  11/24/2009.
+
+3. Yu, J.; Ryan, D. G.; Getsios, S.; Oliveira-Fernandes, M.; Fatima,
+A.; Lavker, R. M.: MicroRNA-184 antagonizes microRNA-205 to maintain
+SHIP2 levels in epithelia. Proc. Nat. Acad. Sci. 105: 19300-19305,
+2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/24/2009
+
+CREATED Matthew B. Gross: 11/24/2009
+
+EDITED mgross: 11/24/2009
+
+602176	TITLE *602176 PROTEASOME SUBUNIT, BETA-TYPE, 3; PSMB3
+;;PROTEASOME SUBUNIT BETA-3
+DESCRIPTION See PSMB2 (602175). McCusker et al. (1997) mapped PSMB3 to 2q35 by
+fluorescence in situ hybridization.
+
+REFERENCE 1. McCusker, D.; Jones, T.; Sheer, D.; Trowsdale, J.: Genetic relationships
+of the genes encoding the human proteasome beta subunits and the proteasome
+PA28 complex. Genomics 45: 362-367, 1997.
+
+CREATED Victor A. McKusick: 12/12/1997
+
+EDITED mgross: 06/25/2007
+dkim: 7/23/1998
+mark: 12/12/1997
+
+611191	TITLE *611191 MICRO RNA 125A; MIR125A
+;;MIRN125A;;
+miRNA125A
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIRN125A, are small noncoding RNAs that
+control translation of target mRNAs by binding to sites of antisense
+complementarity in 3-prime UTRs (Lagos-Quintana et al., 2002).
+
+CLONING
+
+Lagos-Quintana et al. (2002) cloned mouse miRNA125a. Mouse miRNA125a and
+miRNA125b (see 610105) differ only by a central diuridine insertion and
+a U-to-C change in miRNA125a. Both miRNAs are similar to the C. elegans
+lin-4 small temporal RNA. Northern blot analysis detected miRNA125a
+expression in all mouse brain regions examined.
+
+GENE FUNCTION
+
+Laneve et al. (2007) found that MIRN9 (see 611186), MIRN125A, and
+MIRN125B were upregulated in a human neuroblastoma cell line by retinoic
+acid. They identified the mRNA encoding t-NTRK3, a truncated isoform of
+NTRK3 (191316), as a target of the 3 miRNAs. The 3-prime UTR of the
+t-NTRK3 transcript has a binding site for MIRN9 and another for both
+MIRN125A and MIRN125B, which share the same seed sequence. These miRNAs
+repressed t-NTRK3 expression in an additive manner, and downregulation
+of t-NTRK3 was critical for regulating neuroblastoma cell growth.
+Consistent with their function, MIRN9, MIRN125A, and MIRN125B were
+downmodulated in primary neuroblastoma tumors.
+
+MAPPING
+
+Duan et al. (2007) stated that the MIR125A gene maps to chromosome
+19q13.41.
+
+MOLECULAR GENETICS
+
+By searching a human SNP database, Duan et al. (2007) identified a
+G-to-U SNP at nucleotide +8 (+8G-U) in the mature MIR125A sequence.
+Northern blot and quantitative RT-PCR analyses of transfected HEK293
+cells detected the mature form of the major +8G allele of MIR125A, but
+not the mature form of the minor +8U allele. The +8G-U SNP was predicted
+to introduce a base-pairing mismatch, alter free energy values, and
+create an enlarged RNA bulge in pri-MIR125A. In vivo analysis showed
+that +8G-U blocked processing of pri-MIR125A to pre-MIR125A. Expression
+of a vector containing MIR125A +8G, but not MIR125A +8U, could suppress
+a MIR125A target reporter, LIN28 (611043). Duan et al. (2007) concluded
+that the +8G-U SNP alters MIR125A processing and reduces
+MIR125A-mediated translational suppression.
+
+REFERENCE 1. Duan, R.; Pak, C.; Jin, P.: Single nucleotide polymorphism associated
+with mature miR-125a alters the processing of pri-miRNA. Hum. Molec.
+Genet. 16: 1124-1131, 2007.
+
+2. Lagos-Quintana, M.; Rauhut, R.; Yalcin, A.; Meyer, J.; Lendeckel,
+W.; Tuschi, T.: Identification of tissue-specific microRNAs from
+mouse. Curr. Biol. 12: 735-739, 2002.
+
+3. Laneve, P.; Di Marcotullio, L.; Gioia, U.; Fiori, M. E.; Ferretti,
+E.; Gulino, A.; Bozzoni, I.; Caffarelli, E.: The interplay between
+microRNAs and the neurotrophin receptor tropomyosin-related kinase
+C controls proliferation of human neuroblastoma cells. Proc. Nat.
+Acad. Sci. 104: 7957-7962, 2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/18/2010
+Patricia A. Hartz - updated: 7/10/2007
+
+CREATED Matthew B. Gross: 7/10/2007
+
+EDITED mgross: 03/22/2010
+terry: 3/18/2010
+mgross: 7/10/2007
+
+613117	TITLE *613117 SMALL NUCLEOLAR RNA, C/D BOX, 50A; SNORD50A
+;;RNA, U50 SMALL NUCLEOLAR; RNU50;;
+snoRNA, U50
+DESCRIPTION 
+DESCRIPTION
+
+SNORD50A belongs to the C/D box class of small nucleolar RNAs (snoRNAs),
+which are thought to function as guide RNAs in the site-specific ribose
+methylation of preribosomal RNA (Kiss-Laszlo et al., 1996).
+
+CLONING
+
+Kiss-Laszlo et al. (1996) isolated SNORD50A, which they called RNU50,
+from a cDNA library of intronic snoRNAs from HeLa cells. RNU50 is 74
+nucleotides long.
+
+GENE FUNCTION
+
+Kiss-Laszlo et al. (1996) found that a 15-nucleotide sequence of RNU50
+was complementary to a region near the D box of 28S ribosomal RNA (see
+180450), and that a 12-nucleotide sequence of RNU50 was complementary to
+a region near the D-prime box of 28S RNA. These regions of 28S RNA
+contain an O-methylcytosine and a potential O-methylguanine,
+respectively. Kiss-Laszlo et al. (1996) hypothesized that RNU50 may have
+a role in methylation of 28S RNA at these sites.
+
+Using Northern blot analysis and real-time PCR, Dong et al. (2008)
+showed that expression of snoRNA U50 was downregulated in a significant
+number of primary prostate cancer specimens and prostate cancer cell
+lines. Ectopic expression of snoRNA U50 significantly reduced colony
+formation in the 2 prostate cancer cell lines examined.
+
+MAPPING
+
+By genomic sequence analysis, Tanaka et al. (2000) determined that the
+SNORD50A gene lies within intron 5 of the SNHG5 gene (613263) on
+chromosome 6q15.
+
+MOLECULAR GENETICS
+
+Dong et al. (2008) identified a homozygous 2-bp (TT) germline deletion
+in the SNORD50A gene in 2 (2%) of 89 unrelated patients with prostate
+cancer but not in 104 men without prostate cancer. A somatic homozygous
+TT deletion was found 2 of 30 prostate cancer cell lines or xenografts,
+and 9 of 89 localized prostate cancers (total, 11 (9%) of 119 cancers).
+The homozygous deletion abolished U50 suppressive function in a colony
+formation assay, suggesting that SNORD50A is a tumor suppressor gene and
+that germline mutation may increase susceptibility to prostate cancer.
+Further analysis of 1,371 prostate cancer patients and 1,371 matched
+controls showed that a heterozygous germline TT deletion was found at
+similar levels in patients and controls, suggesting that it may be a
+common polymorphism.
+
+REFERENCE 1. Dong, X.-Y.; Rodriguez, C.; Guo, P.; Sun, X.; Talbot, J. T.; Zhou,
+W.; Petros, J.; Li, Q.; Vessella, R. L.; Kibel, A. S.; Stevens, V.
+L.; Calle, E. E.; Dong, J.-T.: SnoRNA U50 is a candidate tumor-suppressor
+gene at 6q14.3 with a mutation associated with clinically significant
+prostate cancer. Hum. Molec. Genet. 17: 1031-1042, 2008.
+
+2. Kiss-Laszlo, Z.; Henry, Y.; Bachellerie, J.-P.; Caizergues-Ferrer,
+M.; Kiss, T.: Site-specific ribose methylation of preribosomal RNA:
+a novel function for small nucleolar RNAs. Cell 85: 1077-1088, 1996.
+
+3. Tanaka, R.; Satoh, H.; Moriyama, M.; Satoh, K.; Morishita, Y.;
+Yoshida, S.; Watanabe, T.; Nakamura, Y.; Mori, S.: Intronic U50 small-nucleolar-RNA
+(snoRNA) host gene of no protein-coding potential is mapped at the
+chromosome breakpoint t(3;6)(q27;q15) of human B-cell lymphoma. Genes
+Cells 5: 277-287, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 11/19/2009
+
+CREATED Patricia A. Hartz: 11/11/2009
+
+EDITED mgross: 02/19/2010
+wwang: 12/3/2009
+ckniffin: 11/19/2009
+mgross: 11/11/2009
+
+612092	TITLE *612092 MICRO RNA 200C; MIR200C
+;;miRNA200C;;
+MIRN200C
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIRN200C, are 20- to 22-nucleotide noncoding
+RNAs that inhibit gene expression at the posttranscriptional level by
+binding to complementary sequences in the 3-prime UTRs of target mRNAs
+(Park et al., 2008).
+
+CLONING
+
+Park et al. (2008) stated that miR200C belongs to the miR200 family of
+miRNAs, which can be divided into 2 subfamilies based on a 1-nucleotide
+difference in seed sequences. miR200A (612090) and miR141 (612093) have
+a seed sequence of AACACUG, whereas miR200B (612091), miR200C, and
+miR429 (612094) have a seed sequence of AAUACUG.
+
+GENE FUNCTION
+
+Park et al. (2008) evaluated expression of 207 miRNAs in 60 human cell
+lines and found that expression of miR200 family members, including
+miR200C, was associated with an epithelial phenotype. Expression of
+these miRNAs showed a positive correlation with expression of E-cadherin
+(CDH1; 192090), an epithelial cell marker, and a negative correlation
+with expression of vimentin (VIM; 193060), a mesenchymal cell marker.
+Park et al. (2008) identified multiple miR200 target sequences in the
+3-prime UTRs of the E-cadherin transcriptional repressors ZEB1 (189909)
+and ZEB2 (605802). Using the 3-prime UTRs of mouse and human ZEB1 and
+ZEB2, they showed that endogenous miR200s suppressed ZEB1 and ZEB2
+expression. Increasing the levels of miR200A and miR200C induced
+mesenchymal-to-epithelial transition (MET) in human cancer cell lines,
+reducing their aggressiveness. Conversely, reducing miR200 levels
+induced epithelial-to-mesenchymal transition (EMT). Park et al. (2008)
+concluded that the miR200 family regulates EMT/MET by targeting ZEB1 and
+ZEB2, which control expression of E-cadherin.
+
+Using the MDCK canine epithelial cell line and a subclone with a
+mesenchymal phenotype, Gregory et al. (2008) independently showed that
+the miR200 family, including miR141, and miR205 (613147) regulated
+expression of Zeb1 and Zeb2 and controlled EMT. Furthermore, expression
+of the miR200 family and miR205 was lost in invasive human breast cancer
+cell lines with mesenchymal phenotype and in primary breast cancer
+specimens lacking E-cadherin.
+
+Shimono et al. (2009) showed that MIR200C downregulated expression of
+BMI1 (164831), a regulator of stem cell self-renewal. Expression of
+MIR200C resulted in growth retardation and differentiation in Tera-2
+cells, suppressed clonogenicity in mouse breast cancer cells, reduced
+tumorigenicity of human breast cancer stem cells in immunocompromised
+mice, and suppressed mammary outgrowth from normal mouse mammary stem
+cells in vivo. Shimono et al. (2009) concluded that MIR200C provides a
+molecular link between normal and cancerous stem cells.
+
+MAPPING
+
+Park et al. (2008) stated that the miR200 family members MIRN200C and
+MIRN141 are clustered on chromosome 12, whereas MIRN200A, MIRN200B, and
+MIRN429 are clustered on chromosome 1.
+
+ADDITIONAL REFERENCES Collombat et al. (2009)
+REFERENCE 1. Collombat, P.; Xu, X.; Ravassard, P.; Sosa-Pineda, B.; Dussaud,
+S.; Billestrup, N.; Madsen, O. D.; Serup, P.; Heimberg, H.; Mansouri,
+A.: The ectopic expression of Pax4 in the mouse pancreas converts
+progenitor cells into alpha and subsequently beta cells. Cell 138:
+449-462, 2009.
+
+2. Gregory, P. A.; Bert, A. G.; Paterson, E. L.; Barry, S. C.; Tsykin,
+A.; Farshid, G.; Vadas, M. A.; Khew-Goodall, Y.; Goodall, G. J.:
+The miR-200 family and miR-205 regulate epithelial to mesenchymal
+transition by targeting ZEB1 and SIP1. Nature Cell Biol. 10: 593-601,
+2008.
+
+3. Park, S.-M.; Gaur, A. B.; Lengyel, E.; Peter, M. E.: The miR-200
+family determines the epithelial phenotype of cancer cells by targeting
+the E-cadherin repressors ZEB1 and ZEB2. Genes Dev. 22: 894-907,
+2008. Note: Erratum: Genes Dev. 23: 1378 only, 2009.
+
+4. Shimono, Y.; Zabala, M.; Cho, R. W.; Lobo, N.; Dalerba, P.; Qian,
+D.; Diehn, M.; Liu, H.; Panula, S. P.; Chiao, E.; Dirbas, F. M.; Somlo,
+G.; Pera, R. A. R.; Lao, K.; Clarke, M. F.: Downregulation of miRNA-200c
+links breast cancer stem cells with normal stem cells. Cell 138:
+592-602, 2009.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/21/2009
+Patricia A. Hartz - updated: 7/14/2009
+
+CREATED Patricia A. Hartz: 5/30/2008
+
+EDITED alopez: 11/26/2012
+mgross: 11/24/2009
+mgross: 10/4/2009
+terry: 9/21/2009
+mgross: 7/15/2009
+terry: 7/14/2009
+mgross: 5/30/2008
+

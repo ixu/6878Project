@@ -1,0 +1,1231 @@
+613374	TITLE *613374 COILED-COIL DOMAIN-CONTAINING PROTEIN 101; CCDC101
+;;STAF36
+DESCRIPTION 
+DESCRIPTION
+
+CCDC101 is a subunit of 2 histone acetyltransferase complexes: the ADA2A
+(TADA2A; 602276)-containing (ATAC) complex and the SPT3 (SUPT3H;
+602947)-TAF9 (600822)-GCN5 (KAT2A; 602301)/PCAF (KAT2B; 602303)
+acetylase (STAGA) complex. Both of these complexes contain either GCN5
+or PCAF, which are paralogous acetyltransferases (Wang et al., 2008).
+
+CLONING
+
+Using mass spectrometry to identify subunits of the ATAC and STAGA
+complexes in HeLa cells, Wang et al. (2008) identified CCDC101, which
+they called STAF36. STAF36 had an apparent molecular mass of 36 kD by
+SDS-PAGE.
+
+MAPPING
+
+Hartz (2010) mapped the CCDC101 gene to chromosome 16p11.2 based on an
+alignment of the CCDC101 sequence (GenBank GENBANK AK057008) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  4/20/2010.
+
+2. Wang, Y.-L.; Faiola, F.; Xu, M.; Pan, S.; Martinez, E.: Human
+ATAC is a GCN5/PCAF-containing acetylase complex with a novel NC2-like
+histone fold module that interacts with the TATA-binding protein. J.
+Biol. Chem. 283: 33808-33815, 2008.
+
+CREATED Patricia A. Hartz: 4/20/2010
+
+EDITED mgross: 04/20/2010
+mgross: 4/20/2010
+
+607647	TITLE *607647 PLASMALEMMA VESICLE-ASSOCIATED PROTEIN; PLVAP
+;;PLASMALEMMA VESICLE PROTEIN 1; PV1
+DESCRIPTION 
+CLONING
+
+Using rat Pv1 as query, Stan et al. (2001) identified ESTs containing
+mouse and human PLVAP. They characterized human PLVAP cDNAs from lung,
+colon, and pancreas. The deduced 442-amino acid protein has a calculated
+molecular mass of about 50 kD. PLVAP is a type II integral membrane
+protein with a short N-terminal cytoplasmic tail, a single-span
+transmembrane domain, and a large C-terminal extracellular domain
+consisting mostly of alpha helices. It also contains 2 coiled-coil
+domains predicted to contribute to dimer formation. The extracellular
+domain has 4 N-glycosylation sites, a proline-rich region, and regular
+spacing of cysteine residues. The deduced 439-amino acid mouse Plvap
+protein contains a consensus casein kinase II (see 115440)
+phosphorylation site that is not found in the human protein. Rat Plvap
+contains 2 casein kinase II phosphorylation sites. Northern blot
+analysis revealed a single PLVAP transcript of about 2.4 kb in pancreas,
+kidney, placenta, muscle, lung, heart, and liver. No signal was detected
+in brain or testis. Northern dot blot analysis revealed expression in
+several other tissues, including aorta, pituitary, adrenals, mammary
+gland, bladder, lymph node, bone marrow, trachea, placenta, and all
+segments of the digestive tract from the esophagus to the rectum. No
+expression was detected in brain, testis, ovary, leukocytes, and lung.
+Northern blot analysis of mouse tissues showed an expression pattern
+similar to that found in human tissues, but the quantitative
+distribution varied between mouse and human.
+
+Niemela et al. (2005) identified PLVAP as the target of the
+pathologische anatomie Leiden-endothelium (PAL-E) antibody, a long used
+marker for vascular endothelial cells.
+
+GENE FUNCTION
+
+Keuschnigg et al. (2009) found that stimulation of human umbilical vein
+endothelial cells with TNF (191160) led to redistribution of PV1 to the
+peripheral areas of the cells. Transcellular migrating lymphocytes were
+surrounded by rings containing PV1 and CAV1 (601047).
+Coimmunoprecipitation and confocal microscopy demonstrated that PV1
+physically associated with vimentin (VIM; 193060). Anti-PV1 caused a
+significant inhibition of lymphocyte transmigration through endothelial
+cells, but rolling and adhesion were not affected. In vivo blockade of
+Pv1 in mouse acute peritonitis and air pouch models resulted in a
+significant decrease in the number of migrating leukocytes. Keuschnigg
+et al. (2009) concluded that PV is involved in leukocyte
+transendothelial cell migration.
+
+GENE STRUCTURE
+
+Stan et al. (2001) determined that the PLVAP gene contains 6 exons and
+spans more than 26 kb. The promoter region contains a classical TATA box
+and binding sites for MZF1 (194550), SP1 (189906), RXRA (180245), AP2
+(107580), and 3 GATA transcription factors (see 305371).
+
+MAPPING
+
+By genomic sequence analysis and radiation hybrid analysis, Stan et al.
+(2001) mapped the PLVAP gene to chromosome 19p13.2, about 25 kb
+downstream from BST2 (600534). They mapped the mouse Plvap gene to
+chromosome 8B3-C1, a region that shows homology of synteny to human
+chromosome 19p13-p12.
+
+REFERENCE 1. Keuschnigg, J.; Henttinen, T.; Auvinen, K.; Karikoski, M.; Salmi,
+M.; Jalkanen, S.: The prototype endothelial marker PAL-E is a leukocyte
+trafficking molecule. Blood 114: 478-484, 2009.
+
+2. Niemela, H.; Elima, K.; Henttinen, T.; Irjala, H.; Salmi, M.; Jalkanen,
+S.: Molecular identification of PAL-E, a widely used endothelial-cell
+marker. Blood 106: 3405-3409, 2005.
+
+3. Stan, R.-V.; Arden, K. C.; Palade, G. E.: cDNA and protein sequence,
+genomic organization, and analysis of cis regulatory elements of mouse
+and human PLVAP genes. Genomics 72: 304-313, 2001.
+
+CONTRIBUTORS Paul J. Converse - updated: 1/29/2010
+
+CREATED Patricia A. Hartz: 3/21/2003
+
+EDITED mgross: 02/02/2010
+terry: 1/29/2010
+mgross: 3/21/2003
+
+605978	TITLE *605978 VACUOLAR PROTEIN SORTING 13, YEAST, HOMOLOG OF, A; VPS13A
+;;CHAC GENE; CHAC;;
+CHOREIN;;
+KIAA0986
+DESCRIPTION 
+CLONING
+
+In the choreoacanthocytosis (200150) critical region on chromosome 9q,
+Rampoldi et al. (2001) identified the VPS13A gene, which they called
+CHAC. They identified 2 splice variants: transcript A, which contains
+exons 1 to 68 and 70 to 73 and encodes a 3,174-amino acid protein, and
+transcript B, which contains exons 1 to 69 and encodes a 3,095-amino
+acid protein. Northern blot analysis detected 2 bands of high molecular
+mass corresponding to the 2 splice variants in all tissues analyzed.
+Additionally, RT-PCR detected expression in the erythrocyte precursor
+cell line K562. Rampoldi et al. (2001) showed that the CHAC gene encodes
+an evolutionarily conserved protein, which may be involved in protein
+sorting.
+
+Independently, Ueno et al. (2001) identified the VPS13A gene and found
+that it encodes a 3,096-amino acid protein, which they termed chorein.
+Northern blot analysis detected a 10-kb transcript in brain, heart,
+skeletal muscle, and kidney.
+
+By EST database analysis and RT-PCR of lymphoid cell line and brain RNA,
+Velayos-Baeza et al. (2004) identified several additional splice
+variants of VPS13A generated by exon skipping or utilization of
+alternative internal exons. Northern blot analysis and RT-PCR detected
+VPS13A expression at variable levels in all tissues examined, and
+transcript encoding the 3,174-amino acid protein was the major variant.
+
+GENE STRUCTURE
+
+Rampoldi et al. (2001) determined that the VPS13A gene contains 73 exons
+and spans 250 kb. Velayos-Baeza et al. (2004) identified 5 additional
+alternative exons in the VPS13A gene, exons 7b, 31b, 34b, 68b, and 69b,
+but 3 of these, exons 31b, 34b, and 69b, have stop codons in all 3
+reading frames.
+
+MAPPING
+
+Rampoldi et al. (2001) mapped the VPS13A gene to chromosome 9q21-q22.
+Velayos-Baeza et al. (2004) mapped the mouse Vps13a gene to chromosome
+19A.
+
+MOLECULAR GENETICS
+
+In affected members of 11 families with choreoacanthocytosis, Rampoldi
+et al. (2001) identified 16 different mutations in the VPS13A gene (see,
+e.g., 605978.0001).
+
+In 4 affected patients from 3 Japanese pedigrees with
+choreoacanthocytosis, Ueno et al. (2001) identified a homozygous
+deletion in the coding region of the VPS13A gene (605978.0003).
+
+Among 43 patients with choreoacanthocytosis, Dobson-Stone et al. (2002)
+identified 57 different mutations distributed throughout the CHAC gene
+(see, e.g., 605978.0004). In 7 patients, only 1 heterozygous mutation
+was found; in 4 patients, no disease mutations were found. The authors
+noted that small gene deletions or rearrangements may not have been
+detected in these patients.
+
+Dobson-Stone et al. (2005) stated that 75 different mutations in the
+VPS13A gene had been identified in 58 probands with
+choreoacanthocytosis.
+
+ALLELIC VARIANT .0001
+CHOREOACANTHOCYTOSIS
+VPS13A, ILE90LYS
+
+In a patient with choreoacanthocytosis (200150), Rampoldi et al. (2001)
+found compound heterozygosity for a 269T-A transversion in exon 4 of the
+VPS13A gene and an insertion of a T between nucleotides 6404 and 6405 in
+exon 48. The mutations resulted in an ile90-to-lys (I90K) amino acid
+change and a frameshift, respectively.
+
+.0002
+CHOREOACANTHOCYTOSIS
+VPS13A, 1-BP INS, 6404T
+
+See 605978.0001 and Rampoldi et al. (2001).
+
+.0003
+CHOREOACANTHOCYTOSIS
+VPS13A, 260-BP DEL
+
+In affected members of 3 Japanese families with choreoacanthocytosis
+(200150), Ueno et al. (2001) identified a homozygous 260-bp deletion in
+the VPS13A gene, leading to a truncated protein. The families originated
+from a small area in Japan, and haplotype analysis indicated a founder
+effect. Some of the patients' parents, who were heterozygous for the
+mutation, showed a slight degree of acanthocytosis in peripheral blood
+but no distinct neurologic abnormalities except for cryptogenic abducens
+palsy in 1 parent.
+
+.0004
+CHOREOACANTHOCYTOSIS
+VPS13A, ARG208TER
+
+In 3 patients with choreoacanthocytosis, Dobson-Stone et al. (2002)
+identified a 622C-T change in exon 9 of the CHAC gene, resulting in an
+arg208-to-ter nonsense substitution (R208X). One patient was homozygous
+for the mutation and 2 others were compound heterozygous for R208X and
+another CHAC mutation. The R208X mutation had previously been reported
+by Rampoldi et al. (2001) in a family with choreoacanthocytosis.
+
+.0005
+CHOREOACANTHOCYTOSIS
+VPS13A, 8035G-A
+
+In 2 affected sibs from a Japanese family with choreoacanthocytosis
+(200150) with apparent autosomal dominant inheritance, Saiki et al.
+(2003) identified a heterozygous G-to-A transversion at the last
+nucleotide of exon 57 of the CHAC gene, predicted to induce skipping of
+exon 57 and premature termination of the protein. The mutation was not
+detected in their unaffected mother. Family history revealed that 3
+other living family members were affected and 2 deceased members were
+believed to be affected. All 5 living affected members showed
+acanthocytosis (approximately 15-20%) and involuntary movements. In an
+erratum, the authors stated that an error in sequencing had occurred and
+the inheritance pattern should have been reported as autosomal recessive
+(pseudodominant). Tomiyasu et al. (2011) identified the 2 mutations in
+the VPS13A gene in this family: an 8035G-A transition in exon 57,
+causing a frameshift and premature termination (Ile2652HisfsTer12), and
+a 1305G-A transition in exon 15, resulting in a trp435-to-ter (W435X;
+605978.0010) substitution; the latter mutation was also identified in
+the unaffected mother.
+
+.0006
+CHOREOACANTHOCYTOSIS
+VPS13A, 1-BP DEL, 6059C
+
+In 2 unrelated males of Ashkenazi Jewish descent with
+choreoacanthocytosis (200150), Lossos et al. (2005) identified a
+homozygous 1-bp deletion (6059delC) in exon 46 of the VPS13A gene,
+predicted to result in premature termination of the protein.
+
+.0007
+CHOREOACANTHOCYTOSIS
+VPS13A, 7-KB DEL
+
+In an Iraqi Jewish woman with choreoacanthocytosis (200150), Lossos et
+al. (2005) identified a homozygous 7-kb deletion spanning exon 23 of the
+VPS13A gene. She had trichotillomania and anxiety but little
+neuromuscular involvement.
+
+.0008
+CHOREOACANTHOCYTOSIS
+VPS13A, 37-KB DEL
+
+In affected members of 3 French Canadian families with
+choreoacanthocytosis (200150), Dobson-Stone et al. (2005) identified a
+homozygous 37-kb deletion in the VPS13A gene, resulting in the deletion
+of exons 70 through 73. The deletion also encompassed the 2 terminal
+exons of the neighboring GNA14 gene (604397). Haplotype analysis
+indicated a founder effect.
+
+.0009
+CHOREOACANTHOCYTOSIS
+VPS13A, 2-BP DUP, 3556AC
+
+In 2 Mexican mestizo sisters, born of consanguineous parents, with
+choreoacanthocytosis (200150), Ruiz-Sandoval et al. (2007) identified a
+homozygous 2-bp duplication (3556dupAC) in exon 33 of the VPS13A gene,
+resulting in a frameshift and premature termination. The proband had
+onset at age 32 years and showed severe progression of the disorder; at
+age 42, she was emaciated, anarthric, and reactive only to simple
+commands. In contrast, her sister had onset at age 45 years and
+primarily showed motor and verbal tics, paranoid behavior, and
+depression.
+
+.0010
+CHOREOACANTHOCYTOSIS
+VPS13A, TRP435TER
+
+See 605978.0005 and Tomiyasu et al. (2011).
+
+REFERENCE 1. Dobson-Stone, C.; Danek, A.; Rampoldi, L.; Hardie, R. J.; Chalmers,
+R. M.; Wood, N. W.; Bohlega, S.; Dotti, M. T.; Federico, A.; Shizuka,
+M.; Tanaka, M.; Watanabe, M.; and 32 others: Mutational spectrum
+of the CHAC gene in patients with chorea-acanthocytosis. Europ. J.
+Hum. Genet. 10: 773-781, 2002.
+
+2. Dobson-Stone, C.; Velayos-Baeza, A.; Jansen, A.; Andermann, F.;
+Dubeau, F.; Robert, F.; Summers, A.; Lang, A. E.; Chouinard, S.; Danek,
+A.; Andermann, E.; Monaco, A. P.: Identification of a VPS13A founder
+mutation in French Canadian families with chorea-acanthocytosis. Neurogenetics 6:
+151-158, 2005.
+
+3. Lossos, A.; Dobson-Stone, C.; Monaco, A. P.; Soffer, D.; Rahamim,
+E.; Newman, J. P.; Mohiddin, S.; Fananapazir, L.; Lerer, I.; Linetsky,
+E.; Reches, A.; Argov, Z.; Abramsky, O.; Gadoth, N.; Sadeh, M.; Gomori,
+J. M.; Boher, M.; Meiner, V.: Early clinical heterogeneity in choreoacanthocytosis. Arch.
+Neurol. 62: 611-614, 2005.
+
+4. Rampoldi, L.; Dobson-Stone, C.; Rubio, J. P.; Danek, A.; Chalmers,
+R. M.; Wood, N. W.; Verellen, C.; Ferrer, X.; Malandrini, A.; Fabrizi,
+G. M.; Brown, R.; Vance, J.; Pericak-Vance, M.; Rudolf, G.; Carre,
+S.; Alonso, E.; Manfredi, M.; Nemeth, A. H.; Monaco, A. P.: A conserved
+sorting-associated protein is mutant in chorea-acanthocytosis. Nature
+Genet. 28: 119-120, 2001.
+
+5. Ruiz-Sandoval, J. L.; Garcia-Navarro, V.; Chiquete, E.; Dobson-Stone,
+C.; Monaco, A. P.; Alvarez-Palazuelos, L. E.; Padilla-Martinez, J.
+J.; Barrera-Chairez, E.; Rodriguez-Figueroa, E. I.; Perez-Garcia,
+G.: Choreoacanthocytosis in a Mexican family. Arch. Neurol. 64:
+1661-1664, 2007.
+
+6. Saiki, S.; Sakai, K.; Kitagawa, Y.; Saiki, M.; Kataoka, S.; Hirose,
+G.: Mutation in the CHAC gene in a family of autosomal dominant chorea-acanthocytosis. Neurology 61:
+1614-1616, 2003. Note: Erratum: Neurology 77: 701 only, 2011.
+
+7. Tomiyasu, A.; Nakamura, M.; Ichiba, M.; Ueno, S.; Saiki, S.; Morimoto,
+M.; Kobal, J.; Kageyama, Y.; Inui, T.; Wakabayashi, K.; Yamada, T.;
+Kanemori, Y.; and 22 others: Novel pathogenic mutations and copy
+number variations in the VPS13A gene in patients with chorea-acanthocytosis. Am.
+J. Med. Genet. (Neuropsychiat. Genet.) 156B: 620-631, 2011.
+
+8. Ueno, S.; Maruki, Y.; Nakamura, M.; Tomemori, Y.; Kamae, K.; Tanabe,
+H.; Yamashita, Y.; Matsuda, S.; Kaneko, S.; Sano, A.: The gene encoding
+a newly discovered protein, chorein, is mutated in chorea-acanthocytosis. Nature
+Genet. 28: 121-122, 2001.
+
+9. Velayos-Baeza, A.; Vettori, A.; Copley, R. R.; Dobson-Stone, C.;
+Monaco, A. P.: Analysis of the human VPS13 gene family. Genomics 84:
+536-549, 2004.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 10/1/2012
+Cassandra L. Kniffin - updated: 4/10/2008
+Cassandra L. Kniffin - updated: 11/9/2005
+Cassandra L. Kniffin - updated: 8/18/2005
+Patricia A. Hartz - updated: 8/26/2004
+Cassandra L. Kniffin - updated: 3/2/2004
+
+CREATED Victor A. McKusick: 5/29/2001
+
+EDITED carol: 09/06/2013
+terry: 10/2/2012
+terry: 10/1/2012
+carol: 10/1/2012
+carol: 1/6/2012
+wwang: 4/16/2008
+ckniffin: 4/10/2008
+wwang: 11/22/2005
+ckniffin: 11/9/2005
+wwang: 8/19/2005
+ckniffin: 8/18/2005
+mgross: 8/27/2004
+terry: 8/26/2004
+mgross: 3/25/2004
+carol: 3/2/2004
+ckniffin: 3/2/2004
+carol: 2/25/2004
+ckniffin: 2/3/2004
+alopez: 5/29/2001
+
+609347	TITLE *609347 RECEPTOR EXPRESSION-ENHANCING PROTEIN 2; REEP2
+;;SGC32445;;
+CHROMOSOME 5 OPEN READING FRAME 19; C5ORF19
+DESCRIPTION 
+CLONING
+
+Lai et al. (2001) identified C5ORF19, which they called SGC32445, within
+a region of chromosome 5q frequently deleted in malignant myelomas. The
+deduced 152-amino acid protein has a calculated molecular mass of about
+17 kD. Northern blot analysis detected a transcript of about 2.2 kb.
+C5ORF19 expression was abundant in brain, heart, and skeletal muscle,
+low in placenta, kidney, and pancreas, and absent in lung and liver.
+
+Transport of G protein-coupled receptors (GPCRs) to the cell surface
+membrane is critical for receptor-ligand recognition. However, mammalian
+GPCR odorant receptors (ORs), when heterologously expressed in cells,
+are poorly expressed on the cell surface. By screening for genes that
+induced cell surface expression of ORs expressed in human embryonic
+kidney cells, Saito et al. (2004) identified mouse and human REEP1
+(609139). They searched databases for homologs of REEP1 and identified
+several other REEP genes, including REEP2. In situ hybridization of
+mouse olfactory epithelium revealed that, unlike Reep1, Reep2 was not
+expressed in olfactory neurons.
+
+GENE STRUCTURE
+
+Lai et al. (2001) determined that the C5ORF19 gene contains 8 exons and
+spans more than 7 kb.
+
+MAPPING
+
+By genomic sequence analysis, Lai et al. (2001) mapped the REEP2 gene to
+chromosome 5q31.
+
+REFERENCE 1. Lai, F.; Godley, L. A.; Joslin, J.; Fernald, A. A.; Liu, J.; Espinosa,
+R., III; Zhao, N.; Pamintuan, L.; Till, B. G.; Larson, R. A.; Qian,
+Z.; Le Beau, M. M.: Transcript map and comparative analysis of the
+1.5-Mb commonly deleted segment of human 5q31 in malignant myeloid
+diseases with a del(5q). Genomics 71: 235-245, 2001.
+
+2. Saito, H.; Kubota, M.; Roberts, R. W.; Chi, Q.; Matsunami, H.:
+RTP family members induce functional expression of mammalian odorant
+receptors. Cell 119: 679-691, 2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/17/2005
+
+CREATED Matthew B. Gross: 4/29/2005
+
+EDITED alopez: 07/13/2006
+mgross: 5/17/2005
+mgross: 4/29/2005
+
+608387	TITLE *608387 ZINC FINGER PROTEIN 213; ZNF213
+;;CR53
+DESCRIPTION 
+DESCRIPTION
+
+C2H2 zinc finger proteins, such as ZNF213, have bipartite structures in
+which one domain binds DNA or RNA and the other modulates target gene
+expression.
+
+CLONING
+
+By sequencing candidate genes within the FMF locus (249100) on
+chromosome 16, PCR of fetal brain, fetal liver, and lymph node cDNA
+libraries, and screening a peripheral blood leukocyte cDNA library, Chen
+et al. (1999) cloned ZNF213. The deduced 424-amino acid protein contains
+an N-terminal leucine-rich domain, followed by a Kruppel-associated box
+and C-terminal zinc fingers. Northern blot analysis detected a 3.8-kb
+transcript in all tissues examined. Highest expression was detected in
+testis, followed by ovary, small intestine, prostate, spleen, thymus,
+mucosal lining of colon, and peripheral blood lymphocytes.
+
+GENE STRUCTURE
+
+Chen et al. (1999) determined that the ZNF213 gene contains 7 exons and
+spans about 8.0 kb. The 5-prime untranslated region is GC rich.
+
+MAPPING
+
+By genomic sequence analysis, Bernot et al. (1998) mapped the ZNF213
+gene, which they designated CR53, to chromosome 16p13.3. The gene is
+oriented with its 5-prime end toward the telomere. Chen et al. (1999)
+determined that the ZNF213 gene lies within a ZNF gene cluster that
+includes ZNF263 (604191) and ZNF174 (603900).
+
+REFERENCE 1. Bernot, A.; Heilig, R.; Clepet, C.; Smaoui, N.; Da Silva, C.; Petit,
+J.-L.; Devaud, C.; Chiannilkulchai, N.; Fizames, C.; Samson, D.; Cruaud,
+C.; Caloustian, C.; Gyapay, G.; Delpech, M.; Weissenbach, J.: A transcriptional
+map of the FMF region. Genomics 50: 147-160, 1998.
+
+2. Chen, X.; Hamon, M.; Deng, Z.; Centola, M.; Sood, R.; Taylor, K.;
+Kastner, D. L.; Fischel-Ghodsian, N.: Identification and characterization
+of a zinc finger gene (ZNF213) from 16p13.3. Biochim. Biophys. Acta 1444:
+218-230, 1999.
+
+CREATED Patricia A. Hartz: 1/9/2004
+
+EDITED mgross: 01/09/2004
+
+604470	TITLE *604470 CD2 ANTIGEN-BINDING PROTEIN 2; CD2BP2
+DESCRIPTION 
+CLONING
+
+Human CD2 (186990) facilitates both adhesion and activation of T
+lymphocytes on binding to its ligand CD58 (LFA3; 153420). This binding
+augments interleukin-12 (IL12; see 161560)-driven T-cell responsiveness.
+By use of interaction trap cloning with the yeast 2-hybrid system and
+5-prime RACE PCR, Nishizawa et al. (1998) identified a T-cell line cDNA
+encoding a 341-amino acid protein, termed CD2BP2, that interacts with
+the cytoplasmic tail of CD2. The authors noted that a segment near the C
+terminus contains a consensus site for tyrosine phosphorylation. RNA
+blot analysis indicated that CD2BP2 is expressed in a wide variety of
+organs as approximately 1.35- and 4-kb transcripts. Immunoprecipitation
+experiments showed that CD2BP2 expressed in J77 Jurkat and COS-7 cells
+associates specifically with CD2. Mutation analysis suggested that a
+21-amino acid motif is critical for CD2 binding and that 2 PPPGHR
+sequences within the CD2 cytoplasmic tail mediate the binding to CD2BP2.
+Additional transfection studies showed that CD2BP2 expression
+selectively enhances IL2 (147680) production on crosslinking of CD2.
+
+REFERENCE 1. Nishizawa, K.; Freund, C.; Li, J.; Wagner, G.; Reinherz, E. L.
+: Identification of a proline binding motif regulating CD2-triggered
+T lymphocyte activation. Proc. Nat. Acad. Sci. 95: 14897-14902,
+1998.
+
+CREATED Paul J. Converse: 1/27/2000
+
+EDITED alopez: 07/09/2010
+carol: 1/27/2000
+
+142712	TITLE *142712 HISTONE GENE CLUSTER 1, H1 HISTONE FAMILY, MEMBER T; HIST1H1T
+;;HISTONE GENE CLUSTER 1, H1 HISTONE FAMILY, TESTIS-SPECIFIC MEMBER;;
+HISTONE GENE CLUSTER 1, H1T;;
+HIST1 CLUSTER, H1T;;
+H1T;;
+H1.T;;
+H1 HISTONE, TESTIS-SPECIFIC;;
+H1 HISTONE FAMILY, MEMBER T, FORMERLY; H1FT, FORMERLY
+DESCRIPTION For background information on histones, histone gene clusters, and the
+H1 histone family, see HIST1H1A (142709).
+
+CLONING
+
+Drabent et al. (1991) studied the structure and expression of H1T, the
+gene for testis-specific histone H1.
+
+GENE FUNCTION
+
+Deng et al. (1994) found that the rat H1t locus cosegregated with blood
+pressure in an F2 population derived from a cross of the Dahl
+salt-sensitive strain and the Lewis strain. Thus, H1t in rat is a
+quantitative trait locus for blood pressure.
+
+See HIST1H1A (142709) for additional functional information on H1
+histones.
+
+MAPPING
+
+By study of somatic cell hybrids and by in situ hybridization, Albig et
+al. (1993) demonstrated that the H1T gene is located in a cluster with 5
+other H1 histone genes on chromosome 6p22.2-p21.1. By analysis of a YAC
+contig, Albig et al. (1997) mapped the H1FT gene to chromosome 6p21.3
+within a cluster of 35 histone genes, including H1.1 (HIST1H1A; 142709)
+to H1.4 (HIST1H1E; 142220). The H1.5 gene (HIST1H1B; 142711) is part of
+a separate subcluster within the same chromosomal region.
+
+By genomic sequence analysis, Marzluff et al. (2002) determined that the
+histone gene cluster on chromosome 6p22-p21, which they called histone
+gene cluster-1 (HIST1), contains 55 histone genes, including HIST1H1T.
+
+Deng et al. (1994) reported that the rat testis-specific H1 histone gene
+maps to chromosome 17,
+
+REFERENCE 1. Albig, W.; Drabent, B.; Kunz, J.; Kalff-Suske, M.; Grzeschik, K.-H.;
+Doenecke, D.: All known human H1 histone genes except the H1(0) gene
+are clustered on chromosome 6. Genomics 16: 649-654, 1993.
+
+2. Albig, W.; Kioschis, P.; Poustka, A.; Meergans, K.; Doenecke, D.
+: Human histone gene organization: nonregular arrangement within a
+large cluster. Genomics 40: 314-322, 1997.
+
+3. Deng, A. Y.; Dene, H.; Pravenec, M.; Rapp, J. P.: Genetic mapping
+of two new blood pressure quantitative trait loci in the rat by genotyping
+endothelin system genes. J. Clin. Invest. 93: 2701-2709, 1994.
+
+4. Drabent, B.; Kardalinou, E.; Doenecke, D.: Structure and expression
+of the human gene encoding testicular H1 histone (H1t). Gene 103:
+263-268, 1991.
+
+5. Marzluff, W. F.; Gongidi, P.; Woods, K. R.; Jin, J.; Maltais, L.
+J.: The human and mouse replication-dependent histone genes. Genomics 80:
+487-498, 2002.
+
+CONTRIBUTORS Matthew B. Gross - updated: 6/24/2010
+Rebekah S. Rasooly - updated: 7/8/1998
+
+CREATED Victor A. McKusick: 6/28/1993
+
+EDITED mgross: 05/17/2011
+mgross: 6/24/2010
+mgross: 5/26/2010
+alopez: 7/8/1998
+alopez: 2/12/1998
+jason: 7/12/1994
+carol: 7/13/1993
+carol: 6/28/1993
+
+180246	TITLE *180246 RETINOID X RECEPTOR, BETA; RXRB
+DESCRIPTION The retinoic acid receptors, alpha (RARA; 180240), beta (RARB; 180220),
+and gamma (RARG; 180190), require coregulators to bind effectively to
+response elements and target genes. By a strategy of sequential
+screening of expression libraries with a retinoic acid response element
+and RAR, Yu et al. (1991) identified a cDNA encoding a coregulator
+highly related to RXR-alpha (180245). This protein, termed RXR-beta,
+formed heterodimers with RAR, preferentially increasing its DNA binding
+and transcriptional activity on promoters containing retinoic acid, but
+not thyroid hormone or vitamin D, response elements. Remarkably,
+RXR-beta also heterodimerized with thyroid hormone and vitamin D
+receptors, increasing both DNA binding and transcriptional function on
+their respective response elements. RXR-alpha also formed heterodimers
+with these receptors. These observations suggested that retinoid X
+receptors meet the criteria for biochemically characterized cellular
+coregulators and serve to target selectively the high affinity binding
+of retinoic acid, thyroid hormone, and vitamin D receptors to their
+cognate DNA response elements.
+
+RARB, RARG, RXRB, and RXRG (180247) are expressed in the striatum. To
+study the effect of these genes on locomotion, Kreczel et al. (1998)
+developed single and double knockout mice and analyzed their locomotor
+skills by open field and rotarod testing. RARB-RXRB, RARB-RXRG, and
+RXRB-RXRG double-null mutant mice, but not the corresponding single-null
+mutants, exhibited reductions in forward locomotion when compared with
+wildtype littermates. Forty percent of the RARB-RXRB-null mutants showed
+backward locomotion. Rotarod test performance was impaired for RARB,
+RARB-RXRB, RARB-RXRG, and RXRB-RXRG mice. In contrast, RARA, RARG,
+RARA-RXRG, and RARG-RXRG-null mice showed no defects in locomotion, even
+though both RARA and RARG are also expressed in the striatum. The
+morphology, development, and function of skeletal muscle, peripheral
+nerves, and spinal cord were normal in all single and double-null
+mutants, as were balance reflexes. These results suggested to Kreczel et
+al. (1998) that RARB, RXRB, and RXRG are involved specifically in the
+control of locomotor behaviors, and that heterodimers of RARB with
+either RXRB or RXRG are the functional receptor units, such that RXRB
+and RXRG are functionally redundant. Kreczel et al. (1998) studied the
+expression of D1 and D2 dopamine receptors (D1R; 126449 and D2R;
+126450), the most abundant dopamine receptors in the striatum, in these
+mutant mice. RARB-RXRB, RARB-RXRG, and RXRB-RXRG double-null mutants,
+but not RARB or RXRG single mutants, exhibited 40% and 30% reduction in
+whole-striatal D1R and D2R transcripts, respectively, when compared with
+wildtype controls. The reduction was mostly in the medioventral regions
+of the striatum, including the shell and core of the nucleus accumbens,
+and the mediodorsal part of the caudate putamen. The reduction was not
+due to loss of D2R-expressing neurons; no increase in apoptosis was
+noted. The histology of the striatum was normal. The characterization of
+a retinoic acid response element in the D2R promoter by Samad et al.
+(1997) led Kreczel et al. (1998) to suggest that the reduction in D2R
+and D2R expression occurs on a transcriptional level. The RARB-RXRB,
+RARB-RXRG, and RXRB-RXRG double-null mutants did not exhibit the normal
+increase in locomotion induced by cocaine, mimicking the phenotype of
+D1R-null mice. Taken together, these results indicated to Kreczel et al.
+(1998) that retinoids are involved in controlling the function of the
+dopaminergic mesolimbic pathway and suggested that defects in retinoic
+acid signaling may contribute to disorders such as Parkinson disease and
+schizophrenia.
+
+Using RFLVs in interspecific backcross mice, Hoopes et al. (1992) mapped
+the Rxrb gene to the H-2 region of chromosome 17. By homology, it is
+likely that the RXRB gene in the human is located on 6p. Fleischhauer et
+al. (1993) demonstrated that this is indeed the case. They showed that
+the RXRB gene is located in the 6pter-q13 region by Southern
+hybridization of genomic DNA from human/rodent cell hybrids with the
+mouse gene as a probe. In addition, a full-length cDNA clone encoding a
+human RXRB was isolated by nucleic acid screening of a human cDNA
+library with a fragment of the mouse gene as a probe. Comparison of
+human and murine RXRB showed 97.6% identity on the amino acid level and
+91.6% on the nucleotide level. With the relatively crude mapping methods
+used, Fleischhauer et al. (1993) could not map RXRB more precisely than
+to the short arm of chromosome 6 and/or the proximal part of the long
+arm; however, the findings are at least consistent with location in the
+HLA region, as suggested by homology. Fitzgibbon et al. (1993) mapped
+the RXRB gene to 6p21.3-p21.1 by PCR amplification of 5-prime
+untranslated sequence in panels of rodent-human somatic cell hybrids and
+to 6p21.3 by fluorescence in situ hybridization. By pairwise
+hybridization of an RXRB cosmid and reference markers in fluorescence in
+situ hybridization, Almasan et al. (1994) likewise mapped the RXRB gene
+to 6p21.3. Using cosmid clones that cover the major histocompatibility
+complex (MHC) region, Nagata et al. (1995) determined the precise
+physical map positions of the RXRB gene relative to the MHC genes in
+mouse and human. Conservation of gene organization was observed between
+the 2 species at the HLA-DP (142880) region.
+
+In an elegant series of experiments designed to understand the effect of
+RXR activation on cholesterol balance, Repa et al. (2000) treated
+animals with the rexinoid LG268. Animals treated with rexinoid exhibited
+marked changes in cholesterol balance, including inhibition of
+cholesterol absorption and repressed bile acid synthesis. Studies with
+receptor-selective agonists revealed that oxysterol receptors (LXRs, see
+602423 and 600380) and the bile acid receptor, FXR (603826), are the RXR
+heterodimeric partners that mediate these effects by regulating
+expression of the reverse-cholesterol transporter, ABC1 (600046), and
+the rate-limiting enzyme of bile acid synthesis, CYP7A1 (118455),
+respectively. These RXR heterodimers serve as key regulators in
+cholesterol homeostasis by governing reverse cholesterol transport from
+peripheral tissues, bile acid synthesis in liver, and cholesterol
+absorption in intestine. Activation of RXR/LXR heterodimers inhibits
+cholesterol absorption by upregulation of ABC1 expression in the small
+intestine. Activation of RXR/FXR heterodimers represses CYP7A1
+expression and bile acid production, leading to a failure to solubilize
+and absorb cholesterol. Studies have shown that RXR/FXR-mediated
+repression of CYP7A1 is dominant over RXR/LXR-mediated induction of
+CYP7A1, which explains why the rexinoid represses rather than activates
+CYP7A1 (Lu et al., 2000). Activation of the LXR signaling pathway
+results in the upregulation of ABC1 in peripheral cells, including
+macrophages, to efflux free cholesterol for transport back to the liver
+through high density lipoprotein, where it is converted to bile acids by
+the LXR-mediated increase in CYP7A1 expression. Secretion of biliary
+cholesterol in the presence of increased bile acid pools normally
+results in enhanced reabsorption of cholesterol; however, with the
+increased expression of ABC1 and efflux of cholesterol back into the
+lumen, there is a reduction in cholesterol absorption and net excretion
+of cholesterol and bile acid. Rexinoids therefore offer a novel class of
+agents for treating elevated cholesterol.
+
+REFERENCE 1. Almasan, A.; Mangelsdorf, D. J.; Ong, E. S.; Wahl, G. M.; Evans,
+R. M.: Chromosomal localization of the human retinoid X receptors. Genomics 20:
+397-403, 1994.
+
+2. Fitzgibbon, J.; Gillett, G. T.; Woodward, K. J.; Boyle, J. M.;
+Wolfe, J.; Povey, S.: Mapping of RXRB to human chromosome 6p21.3. Ann.
+Hum. Genet. 57: 203-209, 1993.
+
+3. Fleischhauer, K.; McBride, O. W.; DiSanto, J. P.; Ozato, K.; Yang,
+S. Y.: Cloning and chromosome mapping of human retinoid X receptor
+beta: selective amino acid sequence conservation of a nuclear hormone
+receptor in mammals. Hum. Genet. 90: 505-510, 1993.
+
+4. Hoopes, C. W.; Taketo, M.; Ozato, K.; Liu, Q.; Howard, T. A.; Linney,
+E.; Seldin, M. F.: Mapping the mouse Rxr loci encoding nuclear retinoid
+X receptors Rxr-alpha, Rxr-beta, and Rxr-gamma. Genomics 14: 611-617,
+1992.
+
+5. Kreczel, W.; Ghyselinck, N.; Samad, T. A.; Dupe, V.; Kastner, P.;
+Borrelli, E.; Chambon, P.: Impaired locomotion and dopamine signaling
+in retinoid receptor mutant mice. Science 279: 863-867, 1998.
+
+6. Lu, T. T.; Makishima, M.; Repa, J. J.; Schoonjans, K.; Kerr, T.
+A.; Auwerx, J.; Mangelsdorf, D. J.: Molecular basis for feedback
+regulation of bile acid synthesis by nuclear receptors. Molec. Cell 6:
+507-515, 2000.
+
+7. Nagata, T.; Weiss, E. H.; Abe, K.; Kitagawa, K.; Ando, A.; Yara-Kikuti,
+Y.; Seldin, M. F.; Ozato, K.; Inoko, H.; Taketo, M.: Physical mapping
+of the retinoid X receptor B gene in mouse and human. Immunogenetics 41:
+83-90, 1995.
+
+8. Repa, J. J.; Turley, S. D.; Lobaccaro, J.-M. A.; Medina, J.; Li,
+L.; Lustig, K.; Shan, B.; Heyman, R. A.; Dletschy, J. M.; Mangelsdorf,
+D. J.: Regulation of absorption and ABC1-mediated efflux of cholesterol
+by RXR heterodimers. Science 289: 1524-1529, 2000.
+
+9. Samad, A.; Kreczel, W.; Chambon, P.; Borrelli, E.: Regulation
+of dopaminergic pathways by retinoids: activation of the D2 receptor
+promoter by members of the retinoic acid receptor-retinoid X receptor
+family. Proc. Nat. Acad. Sci. 94: 14349-14354, 1997.
+
+10. Yu, V. C.; Delsert, C.; Andersen, B.; Holloway, J. M.; Devary,
+O. V.; Naar, A. M.; Kim, S. Y.; Boutin, J.-M.; Glass, C. K.; Rosenfeld,
+M. G.: RXR-beta: a coregulator that enhances binding of retinoic
+acid, thyroid hormone, and vitamin D receptors to their cognate response
+elements. Cell 67: 1251-1266, 1991.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/31/2000
+Ada Hamosh - updated: 5/5/1998
+
+CREATED Victor A. McKusick: 2/4/1992
+
+EDITED terry: 03/16/2005
+mgross: 10/1/2002
+mgross: 10/10/2000
+mgross: 8/31/2000
+dkim: 10/12/1998
+terry: 8/24/1998
+alopez: 5/5/1998
+carol: 3/7/1995
+carol: 12/13/1993
+carol: 4/2/1993
+carol: 11/12/1992
+supermim: 3/16/1992
+carol: 2/4/1992
+
+614971	TITLE *614971 TAURINE-UPREGULATED GENE 1, NONCODING; TUG1
+DESCRIPTION 
+DESCRIPTION
+
+Long intergenic noncoding RNAs (lincRNAs), such as TUG1, are thought to
+be involved in long-range control of chromatin structure and gene
+expression (Khalil et al., 2009).
+
+CLONING
+
+Young et al. (2005) cloned 3 splice variants of mouse Tug1, and they
+identified 4 possible splice variants of human TUG1. The human cDNAs
+were 3.3, 5.9, 6.4, and 9.7 kb long. Only a single putative 51-residue
+ORF within an adequate Kozak context was conserved between mouse and
+human, but it was not included in all mouse and human TUG1 variants.
+Northern blot analysis detected highest Tug1 expression in mouse cortex
+and retina, with lower expression in heart and kidney and weak
+expression in muscle and spleen. In situ hybridization revealed Tug1
+expression in several areas of the mouse central nervous system at
+postnatal day 0, including spinal cord, olfactory epithelium,
+hippocampus, and cortex. In developing mouse retina, Tug1 expression
+peaked between embryonic day 18 and postnatal day 6. EST database
+analysis detected high TUG1 expression in a variety of human tissues.
+Young et al. (2005) also detected weak expression of a mouse cDNA that
+originated from the Tug1 opposite strand. Database analysis revealed
+orthologs of TUG1 in several mammals, but not in lower vertebrates,
+nematodes, or flies.
+
+Khalil et al. (2009) developed a method of identifying lincRNAs based on
+a distinctive chromatin signature that marked actively transcribed genes
+and then selecting for genes that lacked protein-coding potential. Using
+this method, they identified TUG1. TUG1 was ubiquitously expressed in
+human and mouse tissues and cells. RNA FISH detected TUG1 localized to
+nuclear and cytoplasmic foci in human fetal foot fibroblasts.
+
+GENE FUNCTION
+
+Young et al. (2005) showed that taurine upregulated expression of mouse
+Tub1 in retina. Knockdown of Tug1 variants in mouse eyes via
+electroporation of small interfering RNAs resulted in disrupted retinal
+morphology, which was accompanied by signs of apoptosis and altered
+retinal gene expression.
+
+Khalil et al. (2009) showed that TUG1 coimmunoprecipitated with SUZ12
+(606245), a component of polycomb repressive complex-2 (PRC2) in human
+fetal lung and foot fibroblasts and HeLa cells. TUG1 also
+coimmunoprecipitated with the COREST (RCOR; 607675) repressive complex.
+TUG1 expression was induced by p53 (TP53; 191170) in response to DNA
+damage. Depletion of TUG1 via small interfering RNA resulted in
+upregulation of genes involved in cell cycle regulation in fetal lung
+and foot fibroblasts. Khalil et al. (2009) concluded that TUG1 is
+induced by p53 and represses gene expression via interaction with PCR2.
+
+GENE STRUCTURE
+
+Young et al. (2005) determined that the TUG1 gene contains 3 exons and
+spans about 10 kb.
+
+MAPPING
+
+By genomic sequence analysis, Young et al. (2005) mapped the TUG1 gene
+to chromosome 22q12.2. They mapped the mouse Tug1 gene to chromosome
+11A1.
+
+REFERENCE 1. Khalil, A. M.; Guttman, M.; Huarte, M.; Garber, M.; Raj, A.; Morales,
+D. R.; Thomas, K.; Presser, A.; Bernstein, B. E.; van Oudenaarden,
+A.; Regev, A.; Lander, E. S.; Rinn, J. L.: Many human large intergenic
+noncoding RNAs associate with chromatin-modifying complexes and affect
+gene expression. Proc. Nat. Acad. Sci. 106: 11667-11672, 2009.
+
+2. Young, T. L.; Matsuda, T.; Cepko, C. L.: The noncoding RNA taurine
+upregulated gene 1 is required for differentiation of the murine retina. Curr.
+Biol. 15: 501-512, 2005.
+
+CREATED Patricia A. Hartz: 12/5/2012
+
+EDITED mgross: 12/05/2012
+
+142100	TITLE *142100 HEMOGLOBIN--EPSILON LOCUS; HBE1
+DESCRIPTION The epsilon locus determines the epsilon, or non-alpha, chain of
+embryonic hemoglobin (originally known as Gower-2). No mutations
+affecting the epsilon chain have yet been identified. Gower-1 is a
+tetramer of epsilon chains. The epsilon locus may be linked to the
+delta-beta complex. The amino acid sequence of the epsilon chain is
+similar to those of the delta and beta chains. Furthermore, the
+homologous chain in the mouse is linked to the beta locus (Gilman and
+Smithies, 1968). Shen and Smithies (1982) determined the complete
+nucleotide sequence of the 3.4-kb stretch of DNA 5-prime to the epsilon
+gene where a pseudogene (psi-beta-2) was thought to reside (Fritsch et
+al., 1980). They concluded that no globin-related gene exists there and
+provided a possible explanation for the earlier contrary conclusion. By
+studies in transgenic mice, Raich et al. (1992) demonstrated that
+deletion of a 'negative element' located between -182 and -467 bp
+upstream of the HBE gene cap site resulted in continuation of HBE gene
+expression in the definitive erythroblasts of the fetal liver and in the
+red blood cells of adult animals. The findings provided direct in vivo
+evidence that cis-acting silencing elements are involved in the
+developmental control of the HBE gene.
+
+Bailey et al. (1992) used the epsilon-globin gene to examine the debate
+as to whether all bats fall into a monophyletic order (Chiroptera) or
+have diphyletic origins with the megabats actually being 'flying
+primates.' Results of parsimony analysis supported bat monophyly.
+
+He and Russell (2002) analyzed the anti-sickling properties of HBE both
+in vitro as well as in vivo in a well-established mouse model of sickle
+cell anemia (603903). These animals, expressing 100% of human Hb S
+(141900.0243), display a chronic hemolytic anemia with compensatory
+marrow and extramedullary erythropoiesis, abundant circulating sickled
+erythrocytes, and chronic tissue damage evidenced by parallel
+histopathologic and functional deficits. By comparison, related mice
+that coexpress Hb S as well as HBE exhibited normal physiologic,
+morphologic, histologic, and functional attributes. Subsequent in vitro
+analyses substantiated results from whole-animal studies, indicating
+that the polymerization of deoxygenated Hb S can be significantly slowed
+by relatively small quantities of HBE. Together, the in vivo and in
+vitro analyses suggested that reactivation of epsilon-globin gene
+expression would be therapeutically beneficial to adults with sickle
+phenotypes, and provide a rationale for detailed investigations into the
+molecular basis for its developmental silencing.
+
+ADDITIONAL REFERENCES Baralle et al. (1980); Gale et al. (1979); Huehns et al. (1964); Huehns
+et al. (1961); Ramsay et al. (1986)
+REFERENCE 1. Bailey, W. J.; Slightom, J. L.; Goodman, M.: Rejection of the
+'flying primate' hypothesis by phylogenetic evidence from the epsilon-globin
+gene. Science 256: 86-89, 1992. Note: Erratum: Science 260: 608
+only, 1993.
+
+2. Baralle, F. E.; Shoulders, C. C.; Proudfoot, N. J.: The primary
+structure of the human epsilon-globin gene. Cell 21: 621-626, 1980.
+
+3. Fritsch, E. F.; Lawn, R. M.; Maniatis, T.: Molecular cloning and
+characterization of the human beta-like globin gene cluster. Cell 19:
+959-972, 1980.
+
+4. Gale, R. E.; Clegg, J. B.; Huehns, E. R.: Human embryonic haemoglobins
+Gower 1 and Gower 2. Nature 280: 162-164, 1979.
+
+5. Gilman, J. G.; Smithies, O.: Fetal hemoglobin variants in mice. Science 160:
+885-886, 1968.
+
+6. He, Z.; Russell, J. E.: A human embryonic hemoglobin inhibits
+Hb S polymerization in vitro and restores a normal phenotype to mouse
+models of sickle cell disease. Proc. Nat. Acad. Sci. 99: 10635-10640,
+2002.
+
+7. Huehns, E. R.; Dance, N.; Beaven, G. H.; Hecht, F.; Motulsky, A.
+G.: Human embryonic hemoglobin. Nature 201: 1095-1097, 1964.
+
+8. Huehns, E. R.; Flynn, F. V.; Butler, E. A.; Beaven, G. H.: Two
+new hemoglobin variants in a very young human embryo. Nature 189:
+496-497, 1961.
+
+9. Raich, N.; Papayannopoulou, T.; Stamatoyannopoulos, G.; Enver,
+T.: Demonstration of a human epsilon-globin gene silencer with studies
+in transgenic mice. Blood 79: 861-864, 1992.
+
+10. Ramsay, M.; Thomson, J. A.; Jenkins, T.: A new epsilon globin
+HincII variant fragment length in a South African Negroid family. J.
+Med. Genet. 23: 145-150, 1986.
+
+11. Shen, S.-H.; Smithies, O.: Human globin psi-beta-2 is not a globin-related
+sequence. Nucleic Acids Res. 10: 7809-7818, 1982.
+
+CONTRIBUTORS Victor A. McKusick - updated: 9/27/2002
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 04/01/2013
+alopez: 5/27/2004
+terry: 5/21/2004
+cwells: 10/1/2002
+carol: 9/27/2002
+alopez: 8/1/1997
+mimadm: 9/24/1994
+terry: 5/9/1994
+carol: 8/11/1992
+carol: 5/11/1992
+carol: 5/1/1992
+supermim: 3/16/1992
+
+613904	TITLE *613904 ZINC FINGER PROTEIN 569; ZNF569
+DESCRIPTION 
+DESCRIPTION
+
+ZNF569 belongs to a large family of transcription factors characterized
+by an N-terminal Kruppel-associated box (KRAB) domain and tandem
+C-terminal C2H2-type zinc fingers (Huang et al., 2006).
+
+CLONING
+
+Using the KRAB domain consensus sequence to search EST databases,
+followed by PCR of an early embryonic human heart cDNA library, Huang et
+al. (2006) cloned ZNF569. The deduced 686-amino acid protein has a
+calculated molecular mass of 79.6 kD. It has a classical N-terminal
+KRAB-A domain, followed by 18 tandem Kruppel C2H2-type zinc fingers
+extending to the C terminus. Northern blot analysis detected high
+expression of a 2.06-kb ZNF569 transcript in adult heart, skeletal
+muscle, and liver and in fetal heart, skeletal muscle, and brain. It was
+also expressed more weakly in adult and fetal pancreas and placenta,
+with little to no expression detected in other tissues.
+Fluorescence-tagged ZNF569 localized predominantly to nuclei of
+transfected COS-7 cells.
+
+GENE FUNCTION
+
+By cotransfecting COS-7 cells with ZNF569 and a reporter gene system,
+Huang et al. (2006) showed that ZNF569 suppressed the endogenous
+transcriptional activities of the serum response element (SRE) and AP1
+(165160). Domain analysis revealed that both the KRAB domain and the
+zinc finger motifs of ZNF569 suppressed transcriptional activity.
+
+GENE STRUCTURE
+
+Huang et al. (2006) determined that the ZNF569 gene contains 6 exons and
+spans approximately 56.3 kb.
+
+MAPPING
+
+By genomic sequence analysis, Huang et al. (2006) mapped the ZNF569 gene
+to chromosome 19q13.12.
+
+REFERENCE 1. Huang, X.; Yuan, W.; Huang, W.; Bai, Y.; Deng, Y.; Zhu, C.; Liang,
+P.; Li, Y.; Du, X.; Liu, M.; Wang, Y.; Wu, X.: ZNF569, a novel KRAB-containing
+zinc finger protein, suppresses MAPK signaling pathway. Biochem.
+Biophys. Res. Commun. 346: 621-628, 2006.
+
+CREATED Patricia A. Hartz: 4/15/2011
+
+EDITED mgross: 04/18/2011
+mgross: 4/15/2011
+
+608167	TITLE *608167 POTASSIUM CHANNEL, SUBFAMILY T, MEMBER 1; KCNT1
+;;KIAA1422;;
+SLACK
+DESCRIPTION 
+DESCRIPTION
+
+The KCNT1 gene encodes a sodium-activated potassium channel that is
+widely expressed in the nervous system. Its activity contributes to the
+slow hyperpolarization that follows repetitive firing. The C-terminal
+cytoplasmic domain interacts with a protein network, including FMRP
+(30955), suggesting additional functions (summary by Barcia et al.,
+2012).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (2000) cloned KCNT1, which they designated
+KIAA1422. The deduced 1,151-amino acid protein shares 94% identity with
+the rat Slack potassium channel subunit. RT-PCR detected moderate to
+high expression of KCNT1 in all tissues examined. Highest expression was
+detected in adult and fetal liver and brain, in spinal cord, and in most
+specific brain regions examined. Lowest expression was detected in
+skeletal muscle.
+
+Barcia et al. (2012) found expression of the Kcnt1 gene in murine
+embryonic neurons in the hippocampus and cortex.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (2000) mapped the KCNT1 gene
+to chromosome 9.
+
+GENE FUNCTION
+
+Using biochemical and electrophysiologic studies in mice, Brown et al.
+(2010) found that the mRNA-binding protein FMRP (309550) binds to the C
+terminus of the Kcnt1 gene to activate the channel. The findings
+suggested a link between patterns of neuronal firing and changes in
+protein translation.
+
+MOLECULAR GENETICS
+
+- Early Infantile Epileptic Encephalopathy 14/Malignant Migrating
+Partial Seizures of Infancy
+
+In 6 (50%) of 12 unrelated patients with sporadic occurrence of early
+infantile epileptic encephalopathy-14 (EIEE14; 614959) clinically
+manifest as malignant migrating partial seizures of infancy (MMPSI),
+Barcia et al. (2012) identified 4 different de novo heterozygous
+mutations in the KCNT1 gene (608167.0001-608167.0004). The first 2
+mutations were identified by exome sequencing. Expression of 2 of the
+corresponding rat mutations in Xenopus oocytes resulted in
+Kcnt1-generated currents that resembled wildtype in terms of voltage
+dependence and kinetic behavior but had 2- to 3-fold higher amplitude
+compared to wildtype, consistent with a gain of function. The mutations
+were shown to cause constitutive activation of the Kcnt1 channel,
+mimicking the effects of phosphorylation of the C-terminal domain by
+protein kinase C (see, e.g., PRKCA; 176960) activation. All patients had
+onset of refractory focal seizures and arrest of psychomotor development
+in the first 6 months of life. Brain MRI of some showed delayed
+myelination. EEG showed characteristic multifocal, migrating discharges.
+The findings suggested that KCNT1 is a major disease-associated gene for
+the MMPSI phenotype.
+
+- Autosomal Dominant Nocturnal Frontal Lobe Epilepsy 5
+
+In affected members of 4 unrelated families with autosomal dominant
+nocturnal frontal lobe epilepsy-5 (ENFL5; 615005), Heron et al. (2012)
+identified 4 different heterozygous mutations in the KCNT1 gene
+(608167.0005-608167.0008). The initial mutation was found after linkage
+analysis and whole-exome capture and sequencing in a large family
+previously reported by Derry et al. (2008). Affected individuals had
+childhood onset of partial motor seizures arising during sleep. Some
+developed behavioral/psychiatric manifestations and showed varying
+degrees of intellectual disability.
+
+.
+ALLELIC VARIANT .0001
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 14
+KCNT1, ARG428GLN
+
+In 3 unrelated patients of French origin with early infantile epileptic
+encephalopathy-14 (EIEE14; 614959) manifest clinically as malignant
+migrating partial seizures of infancy (MMPSI), Barcia et al. (2012)
+identified a de novo heterozygous 1283G-A transition in exon 13 of the
+KCNT1 gene, resulting in an arg428-to-gln (R428Q) substitution at a
+highly conserved residue in the cytoplasmic C-terminal domain. The
+mutation was initially identified by exome sequencing and confirmed by
+Sanger sequencing in 1 patient; analysis of this gene in subsequent
+patients identified the same mutation in 2 other individuals with the
+same disorder. The mutation was not found in 200 controls or in several
+large control databases. Expression of the corresponding rat mutation,
+R409Q, in Xenopus oocytes resulted in Kcnt1-generated currents that
+resembled wildtype in terms of voltage dependence and kinetic behavior
+but had 2- to 3-fold higher amplitude compared to wildtype, consistent
+with a gain of function. The mutation was shown to cause constitutive
+activation of the Kcnt1 channel, mimicking the effects of
+phosphorylation of the C-terminal domain by protein kinase C (see, e.g.,
+PRKCA; 176960) activation.
+
+.0002
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 14
+KCNT1, ALA934THR
+
+In a patient of French origin with EIEE14 (614959) manifest clinically
+as MMPSI, Barcia et al. (2012) identified a de novo heterozygous 2800G-A
+transition in exon 24 of the KCNT1 gene, resulting in an ala934-to-thr
+(A934T) substitution at a highly conserved residue in the cytoplasmic
+C-terminal domain. The mutation was identified by exome sequencing and
+confirmed by Sanger sequencing; it was not found in 200 controls or in
+several large control databases. Expression of the corresponding rat
+mutation, A913T, in Xenopus oocytes resulted in Kcnt1-generated currents
+that resembled wildtype in terms of voltage dependence and kinetic
+behavior but had 2- to 3-fold higher amplitude compared to wildtype,
+consistent with a gain of function. The mutation was shown to cause
+constitutive activation of the Kcnt1 channel, mimicking the effects of
+phosphorylation of the C-terminal domain by protein kinase C (see, e.g.,
+PRKCA; 176960) activation.
+
+.0003
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 14
+KCNT1, ARG474HIS
+
+In a patient of French origin with EIEE14 (614959) manifest clinically
+as MMPSI, Barcia et al. (2012) identified a de novo heterozygous 1421G-A
+transition in exon 15 of the KCNT1 gene, resulting in an arg474-to-his
+(R474H) substitution at a highly conserved residue.
+
+.0004
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 14
+KCNT1, ILE760MET
+
+In a patient of Ukrainian origin with EIEE14 (614959) manifest
+clinically as MMPSI, Barcia et al. (2012) identified a de novo
+heterozygous 2280C-G transversion in exon 20 of the KCNT1 gene,
+resulting in an ile760-to-met (I760M) substitution at a highly conserved
+residue.
+
+.0005
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 5
+KCNT1, ARG928CYS
+
+In 6 affected members of an Australian family of British descent with
+autosomal dominant nocturnal frontal lobe epilepsy-5 (ENFL5; 615005)
+(family B of Derry et al., 2008), Heron et al. (2012) identified a
+heterozygous 2782C-T transition in the KCNT1 gene, resulting in an
+arg928-to-cys (R928C) substitution at a highly conserved residue in the
+intracellular C-terminal region adjacent to an NAD(+)-binding site. The
+mutation, which was identified by whole-exome capture and sequencing and
+confirmed by Sanger sequencing, segregated with the phenotype in this
+family and was not identified in 111 control samples or in several large
+control databases. No functional studies were performed. The mean age at
+seizure onset was 4.6 years, and 5 of the 6 had refractory seizures and
+behavioral or psychiatric problems. Three had intellectual disability.
+
+.0006
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 5
+KCNT1, TYR796HIS
+
+In 4 individuals of a 3-generation Italian family with ENFL5 (615005),
+Heron et al. (2012) identified a heterozygous 2386T-C transition in the
+KCNT1 gene, resulting in a tyr796-to-his (Y796H) substitution at a
+highly conserved residue in the intracellular C-terminal region adjacent
+to an NAD(+)-binding site. No functional studies were performed. The
+mean age of seizure onset was 5.5 years. Three patients had intellectual
+disability, and 2 had behavioral or psychiatric abnormalities.
+
+.0007
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 5
+KCNT1, ARG398GLN
+
+In 4 affected individuals of an Israeli family with ENFL5 (615005),
+Heron et al. (2012) identified a heterozygous 1193G-A transition in the
+KCNT1 gene, resulting in an arg398-to-gln (R398Q) substitution. No
+functional studies were performed. Two of the 4 patients had behavioral
+or psychiatric abnormalities, but all were cognitively normal.
+
+.0008
+EPILEPSY, NOCTURNAL FRONTAL LOBE, 5
+KCNT1, MET896ILE
+
+In an Australian boy of British descent with ENFL5 (615005), Heron et
+al. (2012) identified a de novo heterozygous 2688G-A transition in the
+KCNT1 gene, resulting in a met896-to-ile (M896I) substitution at a
+highly conserved residue within the NAD(+)-binding site. No functional
+studies were performed. The patient had onset of refractory seizures at
+age 9 years and showed a behavioral/psychiatric disorder, but had normal
+intellectual function.
+
+REFERENCE 1. Barcia, G.; Fleming, M. R.; Deligniere, A.; Gazula, V.-R.; Brown,
+M. R.; Langouet, M.; Chen, H.; Kronengold, J.; Abhyankar, A.; Cilio,
+R.; Nitschke, P.; Kaminska, A.; Boddaert, N.; Casanova, J.-L.; Desguerre,
+I.; Munnich, A.; Dulac, O.; Kaczmarek, L. K.; Colleaux, L.; Nabbout,
+R.: De novo gain-of-function KCNT1 channel mutations cause malignant
+migrating partial seizures of infancy. Nature Genet. 44: 1255-1259,
+2012.
+
+2. Brown, M. R.; Kronengold, J.; Gazula, V.-R.; Chen, Y.; Strumbos,
+J. G.; Sigworth, F. J.; Navaratnam, D.; Kaczmarek, L. K.: Fragile
+X mental retardation protein controls gating of the sodium-activated
+potassium channel Slack. Nature Neurosci. 13: 819-821, 2010.
+
+3. Derry, C. P.; Heron, S. E.; Phillips, F.; Howell, S.; MacMahon,
+J.; Phillips, H. A.; Duncan, J. S.; Mulley, J. C.; Berkovic, S. F.;
+Scheffer, I.  E.: Severe autosomal dominant nocturnal frontal lobe
+epilepsy associated with psychiatric disorders and intellectual disability. Epilepsia 49:
+2125-2129, 2008.
+
+4. Heron, S. E.; Smith, K. R.; Bahlo, M.; Nobili, L.; Kahana, E.;
+Licchetta, L.; Oliver, K. L.; Mazarib, A.; Afawi, Z.; Korczyn, A.;
+Plazzi, G.; Petrou, S.; Berkovic, S. F.; Scheffer, I. E.; Dibbens,
+L. M.: Missense mutations in the sodium-gated potassium channel gene
+KCNT1 cause severe autosomal dominant nocturnal frontal lobe epilepsy. Nature
+Genet. 44: 1188-1190, 2012.
+
+5. Nagase, T.; Kikuno, R.; Ishikawa, K.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 65-73, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 1/7/2013
+Cassandra L. Kniffin - updated: 12/3/2012
+
+CREATED Patricia A. Hartz: 10/14/2003
+
+EDITED carol: 01/08/2013
+ckniffin: 1/7/2013
+terry: 12/5/2012
+alopez: 12/4/2012
+ckniffin: 12/3/2012
+alopez: 4/18/2006
+mgross: 10/14/2003
+

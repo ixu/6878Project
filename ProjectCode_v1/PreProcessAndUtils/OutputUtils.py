@@ -50,7 +50,7 @@ def WriteClustersAsCDT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeli
         os.makedirs(directory)
     scorefile = open(directory+"/Cluster_ALL.CDT","wb")
     writer = csv.writer(scorefile,dialect='excel-tab')
-    header =['day','NAME','GWEIGHT']
+    header =['day','ClusterNum','GWEIGHT']
     header =header+timeline
     writer.writerow(header)
     secondRow = ['EWEIGHT','','']
@@ -59,7 +59,7 @@ def WriteClustersAsCDT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeli
     writer.writerow(secondRow)
     for i in xrange(len(clusters)):
         for j in xrange(len(clusters[i])):
-            row = [ExprNoToExprIdentifier[clusters[i][j]],ExprNoToExprIdentifier[clusters[i][j]],1.0]+Signals[clusters[i][j]]
+            row = [ExprNoToExprIdentifier[clusters[i][j]],str(i),1.0]+Signals[clusters[i][j]]
             writer.writerow(row)
     scorefile.close()
     return
@@ -73,12 +73,12 @@ def WriteClustersAsGCT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeli
     writer.writerow(firstRow)
     secondRow = [len(Signals),len(timeline)]
     writer.writerow(secondRow)
-    header =['NAME','Description']
+    header =['NAME','DescriptionClusterNo']
     header =header+timeline
     writer.writerow(header)
     for i in xrange(len(clusters)):
         for j in xrange(len(clusters[i])):
-            row = [ExprNoToExprIdentifier[clusters[i][j]],ExprNoToExprIdentifier[clusters[i][j]]]+Signals[clusters[i][j]]
+            row = [ExprNoToExprIdentifier[clusters[i][j]],str(i)]+Signals[clusters[i][j]]
             writer.writerow(row)
     scorefile.close()
     return

@@ -9,7 +9,8 @@ from tests import *
 from suds import *
 from suds.client import Client
 from datetime import datetime
-
+import OMIMAnnotation
+ 
 ClusterFilePattern="Cluster*.csv"
 errors = 0
 
@@ -17,23 +18,35 @@ errors = 0
 # Input : directory containg the cluster files of the format Cluster_x*.csv
 def Annotateclusters(clusterFolderName):
     print " Annotateclusters ..."
-
+    print "     Getting the OMIM Dictionary ..."
+    OMIMDict = OMIMAnnotation.GetOMIMDictionary()
     #1. for each cluster file.
     for clusterFileName in glob.glob(clusterFolderName+"/"+ClusterFilePattern):
         clusterName = (clusterFileName.split("\\")[1]).split(".")[0]
-        #2.     Parse Gene list
+        print "     Annotating Cluster  :",clusterName
+        #2.     Parse Gene list and write omim content.
         print "     "
- 
         GeneSymbolList = readGeneSymbols(clusterFileName)
         print " NoOfGGeneSymbs",len(GeneSymbolList)
+        print "     Writing omim file ..."
+        writeOMIMFile(GeneSymbolList,OMIMDict,clusterName,clusterFolderName)
         #3. Convert to ensemble ids
         EnsemblIdList = getEnsemblIds(GeneSymbolList)
         print " NoOfEnsemble Symbols",len(EnsemblIdList)
+        print "     Writing david file ..."
         #4. Generate reports from David.
         try:
             getDavidReports(EnsemblIdList,clusterName,clusterFolderName)
         except:
             print "Exception generating report for ",clusterName
+    return
+
+def writeOMIMFile(GeneSymbolList,OMIMDict,clusterName,clusterFolderName):
+    omimFile = open(clusterFolderName+"/"+clusterName+"_OMIMSummary.txt","wb")
+    for geneSymbol in GeneSymbolList:
+        if(OMIMDict.has_key(geneSymbol)):
+            omimFile.write(OMIMDict[geneSymbol])
+    omimFile.close()
     return
 
 def getEnsemblIds(GeneSymbolList):
@@ -76,7 +89,9 @@ def getDavidReports(EnsemblIdList,clusterName,clusterFolderName):
     print client.service.addList(inputIds, idType, listName, listType)
     category = 'BBID,BIOCARTA,COG_ONTOLOGY,INTERPRO,KEGG_PATHWAY,OMIM_DISEASE,PIR_SUPERFAMILY,SMART,SP_PIR_KEYWORDS,UP_SEQ_FEATURE'
     no = client.service.setCategories(category)
-        
+    species = client.service.getCurrentSpecies()
+    #allspecies = client.service.getSpecies ()
+    #client.service.setCurrentSpecies(string)
     #getChartReport
     print " ... get Chart Report"
     thd=0.1
@@ -100,15 +115,17 @@ def getDavidReports(EnsemblIdList,clusterName,clusterFolderName):
         benjamini = str(rowDict['benjamini'])
         FDR = str(rowDict['afdr'])
         rowList = [categoryName,termName,listHits,percent,ease,Genes,listTotals,popHits,popTotals,foldEnrichment,bonferroni,benjamini,FDR]
-        chartReportFile.write(','.join(rowList)+'\n')
+        chartReportFile.write(','.join(rowList)+'\r\n')
     chartReportFile.close()
     tableReportFile = open(clusterFolderName+"/"+clusterName+".TableReport","wb")
     tableReport = client.service.getTableReport()
     tableReportFile.write('name,category,terms')
     for record in tableReport:
         for annot in record['annotationRecords']:
-            tableReportFile.write(record['name']+","+annot['category']+str(annot['terms'])+"\n")
+            tableReportFile.write(record['name']+","+annot['category']+str(annot['terms'])+"\r\n")
     tableReportFile.close()
+    summaryReport = client.service.getSummaryReport()
+    listReport = client.service.getListReport()
 
     return 
 
