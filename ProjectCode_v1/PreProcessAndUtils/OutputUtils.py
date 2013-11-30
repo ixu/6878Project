@@ -30,6 +30,7 @@ def writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,di
         writeCluster(i,clusters[i],Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
  WriteClustersAsCDT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
  WriteClustersAsGCT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory)
+ ConvertCDTToSetGeneMatrixFile(directory)
  return
 
 def writeCluster(clusterNumber,cluster,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,directory):
@@ -81,4 +82,29 @@ def WriteClustersAsGCT(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeli
             row = [ExprNoToExprIdentifier[clusters[i][j]],str(i)]+Signals[clusters[i][j]]
             writer.writerow(row)
     scorefile.close()
+    return
+
+def ConvertCDTToSetGeneMatrixFile(outputDir):
+    print " converting :",outputDir+"/Cluster_ALL.CDT"
+    cdtFile = open(outputDir+"/Cluster_ALL.CDT","rb")
+    reader = csv.reader(cdtFile,dialect='excel-tab')
+    GeneSymbolToClusterIdDict = {}
+    maxClusterNo = 0
+    for row in reader:
+        if(row[0] == "EWEIGHT" or row[0] == "day"): continue
+        geneSymbol = row[0].split(":")[0]
+        clusterNumber = int(row[1])
+        GeneSymbolToClusterIdDict[geneSymbol] = clusterNumber
+        if(clusterNumber > maxClusterNo): maxClusterNo = clusterNumber
+    cdtFile.close()
+    setGeneMatrixFile = open(outputDir+"/SetGeneMatrix.csv","wb")
+    writer = csv.writer(setGeneMatrixFile,dialect='excel-tab')
+    holder = [str(0) for i in xrange(maxClusterNo+2)]
+    for geneSymbol in GeneSymbolToClusterIdDict.keys():
+        holder[0] = geneSymbol
+        holder[GeneSymbolToClusterIdDict[geneSymbol]+1]=str(1)
+        writer.writerow(holder)
+        holder[0] = ""
+        holder[GeneSymbolToClusterIdDict[geneSymbol]+1]=str(0)
+    setGeneMatrixFile.close()
     return

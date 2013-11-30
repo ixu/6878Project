@@ -76,6 +76,21 @@ def main():
     OutputDirectoryName = sys.argv[2]
 
     ClusterType = int(sys.argv[3])
+
+    OutputDirs = ['./Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchical',
+                  './Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_5',
+                  './Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_10',
+                  './Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_20',
+                  './Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_40',
+                  './Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_80',
+                  './Output/0.05FPKMNormalizedAlignedAffinityPropogation',
+                  './Output/5FPKMNormalizedAligned',
+                  './Output/5FPKMNormalizedAlignedAffinityPropogation'
+                  ]
+    for dir in OutputDirs:
+        OutputUtils.ConvertCDTToSetGeneMatrixFile(dir)
+    return
+
     # 1. Reads an expression time series from a csv file
     print "1. Reading expression time series ..."
     Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
