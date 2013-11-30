@@ -16,7 +16,11 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
         os.makedirs("./Output/"+OutputDirectory)
     # 2. Create an alignment matrix between the sequences.
     print "  Aligning signals and creating a score matrix ..."
-    scores = AlignmentUtils.getAlignmentScoreMatrixWithLookup(SignalSeqs,S,gap_pen,timeline)
+    if os.path.exists("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"):
+        print "Reading scores from cache","./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"
+        scores = InputUtils.readScore("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv")
+    else:
+        scores = AlignmentUtils.getAlignmentScoreMatrixWithLookup(SignalSeqs,S,gap_pen,timeline)
     print " -- Scores generated."
     print " -- Writing to score matrix to AlignmentScores.csv .."
     OutputUtils.writeScoreMatrix(scores,"./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv")
@@ -30,7 +34,8 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
         clusters = AffinityPropogationClustering.AffinityPropCluster(scores)
     else:
         print "  Performing Heirarchial ..."
-        clusters = Clustering.cluster(scores)
+        clusters = Clustering.HeirarchicalClusterFast(scores,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,OutputDirectory)
+
     print " -- No of Clusters generated = ",len(clusters)
     print " -- Writing clusters to ",OutputDirectory," directory"
     OutputUtils.writeClusters(clusters,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,"./Output/"+OutputDirectory)
@@ -76,6 +81,8 @@ def main():
     OutputDirectoryName = sys.argv[2]
 
     ClusterType = int(sys.argv[3])
+
+
     # 1. Reads an expression time series from a csv file
     print "1. Reading expression time series ..."
     Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
@@ -95,9 +102,9 @@ def main():
     AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName,ClusterType)
 
     #3. Annotation
-    print "2. Perform Annotation ..."
-    OutputDirectory = "./Output/"+OutputDirectoryName
-    Annotation.Annotateclusters(OutputDirectory)
+    #print "2. Perform Annotation ..."
+    #OutputDirectory = "./Output/"+OutputDirectoryName
+    #Annotation.Annotateclusters(OutputDirectory)
     
     return
 
