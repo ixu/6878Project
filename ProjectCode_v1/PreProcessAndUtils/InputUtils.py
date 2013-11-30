@@ -70,3 +70,12 @@ def readExpressionTimeSeries(expressionTimeSeriesFileName):
 
     return Signals,SignalSeqs,ExprNoToExprIdentifier,timeline
 
+def readScore(ScoreFile):
+    f = open(ScoreFile,'rb')
+    reader = csv.reader(f)
+    scores = []
+    for row in reader:
+        scoreValues = [ float(i) for i in row]
+        scores.append(scoreValues)
+    scores = scores[1:]
+    return scores

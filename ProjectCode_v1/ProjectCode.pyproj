@@ -13,7 +13,7 @@
     <Name>ProjectCode</Name>
     <RootNamespace>ProjectCode</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAffinityPropogation 1</CommandLineArguments>
+    <CommandLineArguments>./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAgglomerative 0</CommandLineArguments>
     <InterpreterPath />
     <InterpreterArguments />
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
