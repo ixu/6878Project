@@ -1,0 +1,118 @@
+609061	TITLE *609061 ENABLED, DROSOPHILA, HOMOLOG OF; ENAH
+;;ENA;;
+MAMMALIAN ENABLED; MENA;;
+NDPP1
+DESCRIPTION 
+CLONING
+
+Sazuka et al. (1992) cloned mouse Enah, which they called Ndpp1. The
+3-prime UTR contains 7 ATTTA mRNA destabilization motifs. The deduced
+389-amino acid protein has a proline-rich N terminus, followed by a
+leucine/proline-rich region, a 4-arginine cluster near a possible alpha
+helix, and a second possible alpha helix at the C terminus. Enah also
+has 3 putative N-glycosylation sites. Northern blot analysis detected a
+number of mRNA species that were downregulated during mouse embryonic
+development and were only faintly detected in adult mouse brain.
+Southern blot analysis of RT-PCR products found Enah expressed in
+several adult mouse tissues, with highest expression in heart and
+testis. Southern blot analysis detected homologs of mouse Enah in
+several vertebrate species, including human.
+
+Tani et al. (2003) cloned full-length mouse Enah, which they called
+Mena, and a shorter splice variant, which they called Mena(S). The
+full-length Mena cDNA encodes a deduced 541-amino acid protein
+containing an N-terminal Ena/VASP (601703) homology-1 (EVH1) domain, an
+arg-leu-glu-rich region, a pro-rich profilin (176610)-binding motif, and
+a C-terminal EVH2 domain. The Mena(S) cDNA encodes a deduced 508-amino
+acid protein that lacks a portion of the profilin-binding motif.
+Immunofluorescence microscopy localized Mena at focal contacts and the
+leading edge of mouse embryonic fibroblasts.
+
+By database analysis and PCR and 5-prime RACE of adult and fetal brain
+and fibroblast cDNA libraries, Urbanelli et al. (2006) cloned
+full-length human ENAH. The deduced 570-amino acid ENAH protein shares
+86.6% identity with mouse Enah. Human ENAH has N- and C-terminal EVH
+domains separated by a LERER repeat region and a proline-rich region. It
+also has potential phosphorylation sites and 2 short amino acid
+stretches located in an arg-leu-glu-rich region that are not found in
+mouse Enah. The LERER repeats are predicted to form an extended helix
+with alternating charges. Northern blot analysis detected a major
+transcript of about 4.8 kb in all tissues examined, with highest
+expression in skeletal muscle, pancreas, and placenta, and lowest
+expression in brain. A smaller transcript was also detected in skeletal
+muscle. RT-PCR detected an ENAH splice variant homologous to the mouse
+Enah(S) variant in a human glioblastoma cell line and 3 ENAH splice
+variants homologous to 3 mouse neural-specific Enah variants in a human
+neuroblastoma cell line.
+
+GENE FUNCTION
+
+By pull-down from mouse brain lysates and coimmunoprecipitation of COS
+cells overexpressing rat Fe65 (APBB1; 602709), Ermekova et al. (1997)
+determined that the WW domain of rat Fe65 interacted with the
+polyproline-rich region of mouse Mena.
+
+Using a yeast 2-hybrid assay, Tani et al. (2003) found that human ABI1
+(SSH3BP1; 603050) bound mouse Mena. Binding analysis revealed that the
+EVH1 domain of Mena bound a polyproline structure of ABI1. Endogenous
+MENA and ABL1 (189980) coprecipitated with epitope-tagged ABI1 from
+human embryonic kidney cells. ABI1 dramatically promoted ABL1-mediated
+tyrosine phosphorylation of MENA, but not of other substrates. Mutation
+analysis demonstrated that Mena was tyrosine phosphorylated on tyr296.
+
+Using a rat adenocarcinoma cell line and nude mice, Philippar et al.
+(2008) found that 1 splice variant of Mena encodes an isoform that
+functions in cell invasion. This isoform, which they called Mena(INV),
+promoted carcinoma cell motility and invasiveness in vivo and in vitro
+and increased lung metastasis. Both Mena and Mena(INV) potentiated EGF
+(131530)-induced membrane protrusion and increased the matrix
+degradation activity of tumor cells. However, Mena(INV) more efficiently
+drove metastases and sensitized cells to EGF-dependent membrane
+protrusion and invasion.
+
+GENE STRUCTURE
+
+Urbanelli et al. (2006) determined that the ENAH gene contains 14 major
+exons and spans approximately 157 kb. Alternative splicing results in
+the inclusion of a larger form of exon 6, 2 additional minor exons in
+intron 3, and/or an additional intron in exon 7.
+
+MAPPING
+
+By genomic sequence analysis, Urbanelli et al. (2006) mapped the ENAH
+gene to chromosome 1q42.13. They mapped the mouse Enah gene to
+chromosome 1H5.
+
+REFERENCE 1. Ermekova, K. S.; Zambrano, N.; Linn, H.; Minopoli, G.; Gertler,
+F.; Russo, T.; Sudol, M.: The WW domain of neural protein FE65 interacts
+with proline-rich motifs in Mena, the mammalian homolog of Drosophila
+Enabled. J. Biol. Chem. 272: 32869-32877, 1997.
+
+2. Philippar, U.; Roussos, E. T.; Oser, M.; Yamaguchi, H.; Kim, H.-D.;
+Giampieri, S.; Wang, Y.; Goswami, S.; Wyckoff, J. B.; Lauffenburger,
+D. A.; Sahai, E.; Condeelis, J. S.; Gertler, F. B.: A Mena invasion
+isoform potentiates EGF-induced carcinoma cell invasion and metastasis. Dev.
+Cell 15: 813-828, 2008.
+
+3. Sazuka, T.; Tomooka, Y.; Kathju, S.; Ikawa, Y.; Noda, M.; Kumar,
+S.: Identification of a developmentally regulated gene in the mouse
+central nervous system which encodes a novel proline rich protein. Biochim.
+Biophys. Acta 1132: 240-248, 1992.
+
+4. Tani, K.; Sato, S.; Sukezane, T.; Kojima, H.; Hirose, H.; Hanafusa,
+H.; Shishido, T.: Abl interactor 1 promotes tyrosine 296 phosphorylation
+of mammalian Enabled (Mena) by c-Abl kinase. J. Biol. Chem. 278:
+21685-21692, 2003.
+
+5. Urbanelli, L.; Massini, C.; Emiliani, C.; Orlacchio, A.; Bernardi,
+G.; Oralcchio, A.: Characterization of human Enah gene. Biochim.
+Biophys. Acta 1759: 99-107, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/13/2010
+
+CREATED Patricia A. Hartz: 12/6/2004
+
+EDITED mgross: 10/13/2010
+terry: 10/13/2010
+mgross: 12/6/2004
+

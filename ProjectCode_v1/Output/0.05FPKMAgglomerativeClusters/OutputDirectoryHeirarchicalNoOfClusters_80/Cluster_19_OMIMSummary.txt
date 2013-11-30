@@ -1,0 +1,759 @@
+604540	TITLE *604540 KERATIN 36; KRT36
+;;KERATIN, HAIR, ACIDIC, 6; KRTHA6;;
+KERATIN, HARD, TYPE I, 6; HA6
+DESCRIPTION See KRTHA1 (601077) for general information on hair keratins.
+
+Rogers et al. (1998) and Langbein et al. (1999) reported the
+identification of the KRTHA6 gene, which they called HA6. Rogers et al.
+(1998) found that the deduced KRTHA6 protein has 468 amino acids. They
+stated that KRTHA6 is probably identical to the minor type I hair
+keratin HAX (Heid et al., 1988). The KRTHA6 gene contains 7 exons. By
+RT-PCR, Rogers et al. (1998) showed that KRTHA6 is expressed in the
+human hair follicle. See Langbein et al. (1999) for further details on
+the expression pattern of the KRTHA6 gene in the hair follicle.
+
+Rogers et al. (1998) isolated and characterized 2 overlapping human PAC
+clones that cover 190 kb on 17q12-q21 and contain 9 type I hair keratin
+genes, 1 transcribed hair keratin pseudogene, and 1 orphan exon. The
+order of the genes is 5-prime--KRTHA6--KRTHA5 (602764)--KRTHA2
+(602760)--orphan exon--KRTHA8 (604542)--KRTHA7
+(604541)--pseudogene--KRTHA1--KRTHA4 (602763)--KRTHA3B (602762)--KRTHA3A
+(602761)--3-prime. The hair keratin genes range in size from 4.2 to 7.5
+kb, and the genes are separated from each other by 5.5 to 18.4 kb; all
+are located within about 140 kb. Each gene is transcribed from the
+5-prime to 3-prime direction. Based on sequence homologies, the genes
+can be grouped into 3 subclusters of tandemly arranged genes. One
+subcluster, group A, consists of KRTHA1, KRTHA3A, KRTHA3B, and KRTHA4,
+which share 89% overall amino acid identity. A second subcluster, group
+B, contains KRTHA7 and KRTHA8, as well as the hair keratin pseudogene,
+which the authors called HAA. The functional hair keratins and
+hypothetical HAA hair keratin share approximately 81% overall amino acid
+identity. The third subcluster, group C, consists of the structurally
+less related hair keratins KRTHA2, KRTHA5, and KRTHA6, which share about
+70% amino acid identity.
+
+REFERENCE 1. Heid, H. W.; Moll, I.; Franke, W. W.: Patterns of expression of
+trichocytic and epithelial cytokeratins in mammalian tissues. II.
+Concomitant and mutually exclusive synthesis of trichocytic and epithelial
+cytokeratins in diverse human and bovine tissues (hair follicle, nail
+bed and matrix, lingual papilla, thymic reticulum). Differentiation 37:
+215-230, 1988.
+
+2. Langbein, L.; Rogers, M. A.; Winter, H.; Silke, P.; Beckhaus, U.;
+Rackwitz, H.-R.; Schweizer, J.: The catalog of human hair keratins.
+I. Expression of the nine type I members in the hair follicle. J.
+Biol. Chem. 274: 19874-19884, 1999.
+
+3. Rogers, M. A.; Winter, H.; Wolf, C.; Heck, M.; Schweizer, J.:
+Characterization of a 190-kilobase pair domain of human type I hair
+keratin genes. J. Biol. Chem. 273: 26683-26691, 1998.
+
+CREATED Patti M. Sherman: 2/11/2000
+
+EDITED carol: 03/26/2008
+mgross: 2/21/2000
+psherman: 2/16/2000
+
+613534	TITLE *613534 FANCD2/FANCI-ASSOCIATED NUCLEASE 1; FAN1
+;;MYOTUBULARIN-RELATED PROTEIN 15; MTMR15;;
+KIAA1018
+DESCRIPTION 
+DESCRIPTION
+
+FAN1 is a DNA endo- and exonuclease involved in the repair of DNA damage
+caused by crosslinking agents. FAN1 is recruited to sites of interstrand
+cross linkage damage by interacting with the FANCI (611360)-FANCD2
+(227646) complex (MacKay et al., 2010; Kratz et al., 2010; Smogorzewska
+et al., 2010).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1999) cloned FAN1, which they designated
+KIAA1018. The deduced protein contains 1,017 amino acids. RT-PCR
+analysis detected relatively uniform FAN1 expression in all adult and
+fetal tissues and specific adult brain regions examined.
+
+Kratz et al. (2010) stated that the FAN1 protein contains a predicted
+N-terminal RAD18 (605256)-like ubiquitin (191339)-binding zinc finger
+domain and a C-terminal nuclease domain.
+
+Zhou et al. (2012) found expression of the FAN1 gene in multiple
+parenchymatous human tissues, including the kidney, liver, neuronal
+tissue, and female reproductive organs. The expression pattern differed
+from that of FANCD2, which was found primarily in lymphatic and bone
+marrow-derived sources, as well as in skin and testes.
+
+GENE FUNCTION
+
+Using tandem affinity purification and large-scale immunoprecipitation
+analysis, followed by mass spectroscopy, Cannavo et al. (2007)
+identified FAN1 as a protein that interacted with the mismatch repair
+proteins MLH1 (120436), PMS1 (600258), and PMS2 (600259).
+
+Independently, MacKay et al. (2010) and Kratz et al. (2010) found that
+recombinant human FAN1 exhibited DNA endonuclease activity toward
+5-prime flaps and had 5-prime exonuclease activity mediated by its
+C-terminal nuclease domain. Only DNA damage caused by interstrand
+crosslinking agents resulted in recruitment of FAN1 to sites of DNA
+damage, and this recruitment required interaction of FAN1 with
+monoubiquitinated FANCD2. Depletion of FAN1 sensitized human cell lines
+to interstrand crosslinking agents and caused chromosomal instability.
+Smogorzewska et al. (2010) reported similar findings and showed that
+FAN1 required both FANCI and FANCD2 for localization at sites of DNA
+damage.
+
+A central event in the Fanconi pathway is monoubiquitylation of the
+FANCI-FANCD2 protein complex. Liu et al. (2010) characterized FAN1,
+which promotes interstrand crosslink repair in a manner strictly
+dependent on its ability to accumulate at or near sites of DNA damage
+and that relies on monoubiquitylation of the FANCI-FANCD2 complex. Liu
+et al. (2010) concluded that the monoubiquitylated complex recruits the
+downstream repair protein FAN1 and facilitates repair of DNA interstrand
+crosslinks.
+
+MAPPING
+
+Using radiation hybrid analysis, Nagase et al. (1999) mapped the FAN1
+gene to chromosome 15.
+
+MOLECULAR GENETICS
+
+In affected members of 9 unrelated families with karyomegalic
+interstitial nephritis (KMIN; 614817), Zhou et al. (2012) identified 12
+different homozygous or compound heterozygous mutations in the FAN1 gene
+(see, e.g., 613534.0001-613534.0008). Eight of the 12 mutations resulted
+in a truncated protein. The first mutation was identified by
+homozygosity mapping and exome sequencing in 1 affected family. Upon
+exposure to mitomycin C, FAN1 mutant cells showed genomic instability,
+as manifest by increased chromatid breaks and radial chromosomes on
+metaphase spreads. Although the results of the test for Fanconi anemia
+(see, e.g., 227650), diepoxybutane-induced breakage, were negative in
+FAN1-mutant cells lines, these cells still showed decreased survival in
+response to either inducer of interstrand crosslink repair (ICL)
+compared to controls. Thus, there were subtle differences in cell
+reaction between FANCA (607139)-mutant and FAN1-mutant cells, suggesting
+that these proteins act in somewhat distinct manners. None of the FAN1
+mutant proteins was able to correct mitomycin C-induced decreased
+survival in cells lacking FAN1 nuclease activity. Morpholino knockdown
+of Fan1 in zebrafish embryos resulted in a nephronophthisis (NPHP;
+256100)-like phenotype, with shortened and curved body axis, as well as
+a Fanconi anemia-like phenotype, with microcephaly, microphthalmia, and
+massive apoptosis. There was evidence of activation of the DNA damage
+repair pathway, as demonstrated by increased signaling for gamma-H2AX
+(H2AFX; 601772). Knockdown of born Fan1 and p53 (191170) in zebrafish
+caused renal cysts, reminiscent of a ciliopathy. In the fawn-hooded
+hypertensive rat, an animal model of chronic kidney disease, as well as
+in kidney samples from humans with genetically heterogeneous forms of
+chronic kidney disease, Zhou et al. (2012) found increased nuclear
+staining for gamma-H2AX, indicating activation of the DNA damage
+response pathway. These findings supported the hypothesis that DNA
+lesions and DNA damage response pathways may partially drive renal
+damage in NPHP-related ciliopathies and in chronic kidney disease.
+
+ALLELIC VARIANT .0001
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, TRP707TER
+
+In 2 brothers of Maori descent with karyomegalic interstitial nephritis
+(KMIN; 614817) (Palmer et al., 2007), Zhou et al. (2012) identified a
+homozygous 2120G-A transition in exon 8 of the FAN1 gene, resulting in a
+trp707-to-ter (W707X) substitution. The mutation was found by
+homozygosity mapping and exome sequencing of the candidate region. The
+mutation was not found in 96 controls.
+
+.0002
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, IVS2DS, T-A, +2
+
+In affected members of 2 French families with karyomegalic interstitial
+nephritis (614817), Zhou et al. (2012) identified compound
+heterozygosity for 2 mutations in the FAN1 gene. Both families carried a
+T-to-A transition in intron 2 (1234+2T-A), resulting in a splice site
+mutation on 1 allele. One family (Godin et al., 1996) carried a 2-bp
+deletion in exon 7 (2036_7delGA; 613534.0003) on the second allele, and
+the other family carried a 2245C-T transition in exon 9, resulting in an
+arg749-to-ter (R749X; 613534.0004) substitution on the second allele.
+None of the mutations were found in 96 controls, and haplotype analysis
+suggested a founder effect for the splice site mutation.
+
+.0003
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, 2-BP DEL, 2036GA
+
+See 613534.0002 and Zhou et al. (2012).
+
+.0004
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, ARG749TER
+
+See 613534.0002 and Zhou et al. (2012).
+
+.0005
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, 1-BP DEL, 2616A
+
+In a woman of Spanish descent with karyomegalic interstitial nephritis
+(614817) originally reported by Spoendlin et al. (1995), Zhou et al.
+(2012) identified a homozygous 1-bp deletion (2616delA) in exon 12 of
+the FAN1 gene, resulting in a frameshift and premature termination
+(Asp873ThrfsTer17). An unrelated woman of French descent (Verine et al.,
+2010) was compound heterozygous for 2616delA and a G-to-A transition in
+intron 3 (1375+1G-A), resulting in a splice site mutation (613534.0006).
+Neither mutation was found in 96 controls.
+
+.0006
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, IVS3DS, G-A, +1
+
+See 613534.0005 and Zhou et al. (2012).
+
+.0007
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, 2-BP DEL, 2774TT
+
+In a patient with KMIN (614817) originally reported by Baba et al.
+(2006), Zhou et al. (2012) identified compound heterozygosity for 2
+mutations in the FAN1 gene: a 2-bp deletion (2774_5delTT) in exon 12,
+resulting in a frameshift and premature termination (Leu925ProfsTer25),
+and a 2810G-A transition in exon 13, resulting in a gly937-to-asp
+(G937D; 613534.0008) substitution at a highly conserved residue. Neither
+mutation was found in 96 controls.
+
+.0008
+INTERSTITIAL NEPHRITIS, KARYOMEGALIC
+FAN1, GLY937ARG
+
+See 613534.0007 and Zhou et al. (2012).
+
+REFERENCE 1. Baba, F.; Nanovic, L.; Jaffery, J. B.; Friedl, A.: Karyomegalic
+tubulointerstitial nephritis--a case report. Path. Res. Pract. 202:
+555-559, 2006.
+
+2. Cannavo, E.; Gerrits, B.; Marra, G.; Schlapbach, R.; Jiricny, J.
+: Characterization of the interactome of the human MutL homologues
+MLH1, PMS1, and PMS2. J. Biol. Chem. 282: 2976-2986, 2007.
+
+3. Godin, M.; Francois, A.; Le Roy, F.; Morin, J.-P.; Creppy, E.;
+Hemet, J.; Fillastre, J.-P.: Karyomegalic interstitial nephritis.
+(Letter) Am. J. Kid. Dis. 27: 166 only, 1996.
+
+4. Kratz, K.; Schopf, B.; Kaden, S.; Sendoel, A.; Eberhard, R.; Lademann,
+C.; Cannavo, E.; Sartori, A. A.; Hengartner, M. O.; Jiricny, J.:
+Deficiency of FANCD2-associated nuclease KIAA1018/FAN1 sensitizes
+cells to interstrand crosslinking agents. Cell 142: 77-88, 2010.
+
+5. Liu, T.; Ghosal, G.; Yuan, J.; Chen, J.; Huang, J.: FAN1 acts
+with FANCI-FANCD2 to promote DNA interstrand cross-link repair. Science 329:
+693-696, 2010.
+
+6. MacKay, C.; Declais, A.-C.; Lundin, C.; Agostinho, A.; Deans, A.
+J.; MacArtney, T. J.; Hofmann, K.; Gartner, A.; West, S. C.; Helleday,
+T.; Lilley, D. M. J.; Rouse, J.: Identification of KIAA1018/FAN1,
+a DNA repair nuclease recruited to DNA damage by monoubiquitinated
+FANCD2. Cell 142: 65-76, 2010.
+
+7. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+8. Palmer, D.; Lallu, S.; Matheson, P.; Bethwaite, P.; Tompson, K.
+: Karyomegalic interstitial nephritis: a pitfall in urine cytology. Diagn.
+Cytopathol. 35: 179-182, 2007.
+
+9. Smogorzewska, A.; Desetty, R.; Saito, T. T.; Schlabach, M.; Lach,
+F. P.; Sowa, M. E.; Clark, A. B.; Kunkel, T. A.; Harper, J. W.; Colaiacovo,
+M. P.; Elledge, S. J.: A genetic screen identifies FAN1, a Fanconi-anemia-associated
+nuclease necessary for DNA interstrand crosslink repair. Molec. Cell 39:
+36-47, 2010.
+
+10. Spoendlin, M.; Moch, H.; Brunner, F.; Brunner, W.; Burger, H.-R.;
+Kiss, D.; Wegmann, W.; Dalquen, P.; Oberholzer, M.; Thiel, G.; Mihatsch,
+M. J.: Karyomegalic interstitial nephritis: further support for a
+distinct entity and evidence for a genetic defect. Am. J. Kid. Dis. 25:
+242-252, 1995.
+
+11. Verine, J.; Reade, R.; Janin, A.; Droz, D.: Nephrite interstitielle
+caryomegalique: un nouveau cas francais. Ann. Path. 30: 240-242,
+2010.
+
+12. Zhou, W.; Otto, E. A.; Cluckey, A.; Airik, R.; Hurd, T. W.; Chaki,
+M.; Diaz, K.; Lach, F. P.; Bennett, G. R.; Gee, H. Y.; Ghosh, A. K.;
+Natarajan, S.; and 32 others: FAN1 mutations cause karyomegalic
+interstitial nephritis, linking chronic kidney failure to defective
+DNA damage repair. Nature Genet. 44: 910-915, 2012.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/20/2013
+Cassandra L. Kniffin - updated: 9/13/2012
+Ada Hamosh - updated: 9/1/2010
+
+CREATED Patricia A. Hartz: 8/20/2010
+
+EDITED carol: 08/29/2013
+ckniffin: 5/20/2013
+carol: 9/13/2012
+ckniffin: 9/13/2012
+alopez: 9/2/2010
+terry: 9/1/2010
+mgross: 8/20/2010
+
+610606	TITLE *610606 CYTOPLASMIC POLYADENYLATION ELEMENT-BINDING PROTEIN 3; CPEB3
+;;KIAA0940
+CPEB3 RIBOZYME, INCLUDED
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (1999) cloned CPEB3, which they designated
+KIAA0940. RT-PCR ELISA detected high expression in brain, intermediate
+expression in kidney, heart, lung, liver, skeletal muscle, testis,
+ovary, pancreas, and fetal liver, and low expression in spleen and fetal
+brain. CPEB3 was expressed in all specific adult brain regions examined,
+with highest levels in amygdala and substantia nigra.
+
+Salehi-Ashtiani et al. (2006) stated that CPEB3 transcripts use 2
+alternate untranslated first exons, one expressed in liver and testis,
+and the other expressed in brain. The 698-amino acid CPEB3 protein has
+an N-terminal glutamine-rich domain, followed by 2 RNA recognition
+motifs and a C-terminal zinc finger domain. The glutamine-rich domain is
+not present in other CPEBs.
+
+- CPEB3 Ribozyme
+
+Using an in vitro self-selection technique, Salehi-Ashtiani et al.
+(2006) identified self-cleaving ribozymes associated with olfactory
+receptor OR4K15, insulin-like growth factor-1 receptor (IGF1R; 147370),
+a LINE-1 retrotransposon (see LRE1; 151626), and CPEB3. The CPEB3
+ribozyme is located within intron 3 and is structurally related to
+ribozymes from human hepatitis delta virus (HDV), a single-stranded RNA
+satellite virus for hepatitis B infection (see 610424). EST database
+analysis and RT-PCR of human and mouse total RNA extracts indicated that
+the CPEB3 ribozyme is expressed and self-cleaves in vivo.
+Salehi-Ashtiani et al. (2006) identified the CPEB3 ribozyme only in
+mammalian vertebrates. They proposed that HDV ribozymes and the CPEB3
+ribozyme are evolutionarily related, and that HDV arose from the human
+transcriptome.
+
+GENE FUNCTION
+
+- CPEB3 Ribozyme
+
+Salehi-Ashtiani et al. (2006) narrowed the active sequence of the CPEB3
+ribozyme to 81 nucleotides. This 81-nucleotide construct cleaved to
+produce a 9-nucleotide upstream fragment containing a 2-prime-to-3-prime
+cyclic phosphate, and a 72-nucleotide downstream fragment containing a
+5-prime terminal hydroxyl that could be phosphorylated with
+polynucleotide kinase (PNKP; 605610). The ribozyme had a low Mg(2+)
+requirement, and was also active in the presence of Mn(2+) and Ca(2+).
+Ribozyme activity was almost constant between pH 5.5 and 8.5, suggesting
+the presence of 2 functional groups.
+
+GENE STRUCTURE
+
+Salehi-Ashtiani et al. (2006) reported that the CPEB3 gene spans 242 kb
+and contains 11 exons, including 2 alternatively spliced, untranslated
+first exons. Intron 3 spans 46 kb and contains a ribozyme.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the CPEB3 gene
+to chromosome 10.
+
+REFERENCE 1. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+2. Salehi-Ashtiani, K.; Luptak, A.; Litovchick, A.; Szostak, J. W.
+: A genomewide search for ribozymes reveals an HDV-like sequence in
+the human CPEB3 gene. Science 313: 1788-1792, 2006.
+
+CREATED Patricia A. Hartz: 11/29/2006
+
+EDITED mgross: 11/29/2006
+
+608071	TITLE *608071 F-BOX AND WD40 DOMAIN PROTEIN 4; FBXW4
+;;FBW4; FBWD4;;
+DACTYLIN;;
+DACTYLAPLASIA, MOUSE, HOMOLOG OF;;
+DAC, MOUSE, HOMOLOG OF;;
+SHFM3 GENE, FORMERLY; SHFM3, FORMERLY
+DESCRIPTION 
+CLONING
+
+Sidow et al. (1999) reported the positional cloning of the gene
+disrupted in the mouse mutant dactylaplasia (Dac). The Dac gene belongs
+to the F-box/WD40 gene family, which encodes adaptors that target
+specific proteins for destruction by presenting them to the
+ubiquitination machinery. In connection with biochemical studies, this
+report demonstrated the importance of this gene family in vertebrate
+embryonic development. Sidow et al. (1999) designated the Dac protein
+product dactylin. Two different alleles of Dac were found to be due to
+insertions, a common mechanism of mutation in the mouse (see ANIMAL
+MODEL).
+
+By positional cloning in the critical region for the split-hand/foot
+malformation-3 locus (SHFM3; 246560) on chromosome 10q24, EST database
+searching, and RT-PCR, Ianakiev et al. (1999) generated a cDNA encoding
+human dactylin. Sequence analysis predicted that the 412-amino acid
+putative cytoplasmic protein contains an N-terminal F box and 4
+C-terminal WD40 domains. Northern blot analysis revealed ubiquitous
+expression of a 2.8-kb transcript that is strongest in fetal brain,
+followed by kidney, lung, and liver. In situ hybridization of a
+5.5-week-old mouse embryo confirmed the expression of dactylin in the
+central nervous system and liver as well as at low levels in the
+mesoderm and ectoderm of the developing limb. The data suggested to
+Ianakiev et al. (1999) that dactylin is likely to be involved in
+signaling pathways crucial for normal limb development and that it is a
+candidate gene for SHFM3.
+
+Ilyin et al. (2000) independently cloned human dactylin, which they
+termed FBWD4.
+
+By sequence and computational analyses, Salzman et al. (2012) identified
+hundreds of transcripts that showed noncanonical ordering of exons in
+pediatric acute lymphoblastic leukemia samples and normal human
+leukocytes. The most abundant transcripts with scrambled exons
+originated from the FBXW4, CAMSAP1 (613774), and ZKSCAN1 (601260) genes.
+RT-PCR of human cells confirmed the findings. Transcripts with scrambled
+exons appeared to be circular, as they showed lack of polyadenylation
+and resistance to 5-prime exoribonuclease activity. Endogenous circular
+and linear FBXW4 and CAMSAP1 transcripts were detected in both the
+cytoplasm and nucleus of fractionated HeLa cells.
+
+GENE STRUCTURE
+
+Ianakiev et al. (1999) determined that the DAC gene contains 9 exons.
+
+MAPPING
+
+By genomic sequence analysis, Ianakiev et al. (1999) identified the
+human DAC gene in the critical region for the SHFM3 locus on chromosome
+10q24. Using FISH, Ianakiev et al. (1999) mapped the DAC gene to
+chromosome 10q24.3. They identified a pseudogene at the breakpoint
+cluster region on chromosome 22q11.2 that shares greater than 93%
+nucleotide identity with the DAC gene.
+
+Jin et al. (2004) reported that the mouse Fbxw4 gene maps to chromosome
+19C3.
+
+MOLECULAR GENETICS
+
+De Mollerat et al. (2003) conducted mutation analysis of the dactylin
+gene in 7 patients with split-hand/foot malformation (SHFM) and found no
+point mutations. However, Southern blot, pulsed field gel
+electrophoresis, and dosage analyses demonstrated a complex
+rearrangement associated with a 0.5-Mb tandem duplication in all the
+patients. The distal and proximal breakpoints were within 80- and 130-kb
+regions, respectively; the smallest duplicated region common to all
+patients was 444 kb and contained a disrupted extra copy of the dactylin
+gene from exon 9 to exon 6, as well as the entire LBX1 (604255), BTRC
+(603482), and POLL (606343) genes.
+
+Because structural alterations of the gene encoding dactylin lead to
+reduced levels of transcript in the mouse mutant Dac, which resembles
+human SHFM, Basel et al. (2003) studied several individuals with SHFM
+and reported a significant decrease of dactylin transcript. This
+observation supported a central role for dactylin in the pathogenesis of
+SHFM3.
+
+Kano et al. (2005) screened 28 Japanese families with nonsyndromic SHFM
+for tandem genomic duplication of chromosome 10q24 by Southern blot and
+sequence analysis of the dactylin gene. No mutations were found in
+coding regions and flanking intronic sequences of the dactylin gene, but
+2 families had genomic rearrangements. One was a 511.6-kb tandem
+duplication, and the other was a 447.3-kb duplication containing the
+LBX1, BTRC, POLL, and DPCD genes and a disrupted extra copy of the
+dactylin gene. Kano et al. (2005) noted that the smaller duplicated
+region was almost identical to that described by de Mollerat et al.
+(2003).
+
+ANIMAL MODEL
+
+Dactylaplasia, a mouse model of SHFM3, is an inherited limb malformation
+that depends on 2 loci. The first locus, Dac, is an insertional mutation
+around the dactylin gene that is inherited as a semidominant trait. Two
+independent, spontaneous Dac alleles, Dac(1J) and Dac(2J), have been
+identified. The second locus, Mdac, is a modifier on chromosome 13 that
+is polymorphic in inbred strains. The dominant Mdac allele suppresses
+the dactylaplasia phenotype in Dac mice, whereas the recessive Mdac
+allele does not. Thus, dactylaplasia is observed only in mice homozygous
+for the recessive Mdac allele. Kano et al. (2007) showed that the Dac
+insertion is an LTR retrotransposon caused by the type D mouse
+endogenous provirus element (MusD), which contains intact ORFs for the
+viral gag, pro, and pol genes. In Dac(2J), MusD is inserted in intron 5
+of the dactylin gene and no dactylin transcripts are expressed. In
+Dac(1J), MusD is inserted in the upstream region of dactylin and neither
+the size nor the amount of dactylin transcripts are affected. Kano et
+al. (2007) refined the Mdac locus to a 9.4-Mb region on chromosome 13.
+Dac mutants homozygous for the recessive Mdac allele had unmethylated
+CpGs and active chromatin at the LTR of the MusD insertion, as well
+ectopic expression of MusD elements. In contrast, Dac mutants carrying
+the dominant Mdac allele had heavily methylated CpGs and inactive
+chromatin at the LTR of the insertion, correlating with inhibition of
+the dactylaplasia phenotype. Ectopic expression of MusD was not observed
+in mice carrying the dominant Mdac allele. Kano et al. (2007) concluded
+that ectopic expression of the MusD insertion, rather than lack of
+dactylin expression, correlates with the dactylaplasia phenotype. They
+proposed the Mdac acts a defensive factor to protect the host genome
+from pathogenic MusD insertions.
+
+REFERENCE 1. Basel, D.; DePaepe, A.; Kilpatrick, M. W.; Tsipouras, P.: Split
+hand foot malformation is associated with a reduced level of dactylin
+gene expression. Clin. Genet. 64: 350-354, 2003.
+
+2. de Mollerat, X. J.; Gurrieri, F.; Morgan, C. T.; Sangiorgi, E.;
+Everman, D. B.; Gaspari, P.; Amiel, J.; Bamshad, M. J.; Lyle, R.;
+Blouin, J.-L.; Allanson, J. E.; Le Marec, B.; and 11 others: A
+genomic rearrangement resulting in a tandem duplication is associated
+with split hand-split foot malformation 3 (SHFM3) at 10q24. Hum.
+Molec. Genet. 12: 1959-1971, 2003.
+
+3. Ianakiev, P.; Kilpatrick, M. W.; Dealy, C.; Kosher, R.; Korenberg,
+J. R.; Chen, X.-N.; Tsipouras, P.: A novel human gene encoding an
+F-box/WD40 containing protein maps in the SHFM3 critical region on
+10q24. Biochem. Biophys. Res. Commun. 261: 64-70, 1999.
+
+4. Ilyin, G. P.; Rialland, M.; Pigeon, C.; Guguen-Guillouzo, C.:
+cDNA cloning and expression analysis of new members of the mammalian
+F-box protein family. Genomics 67: 40-47, 2000.
+
+5. Jin, J.; Cardozo, T.; Lovering, R. C.; Elledge, S. J.; Pagano,
+M.; Harper, J. W.: Systematic analysis and nomenclature of mammalian
+F-box proteins. Genes Dev. 18: 2573-2580, 2004.
+
+6. Kano, H.; Kurahashi, H.; Toda, T.: Genetically regulated epigenetic
+transcriptional activation of retrotransposon insertion confers mouse
+dactylaplasia phenotype. Proc. Nat. Acad. Sci. 104: 19034-19039,
+2007.
+
+7. Kano, H.; Kurosawa, K.; Horii, E.; Ikegawa, S.; Yoshikawa, H.;
+Kurahashi, H.; Toda, T.: Genomic rearrangement at 10q24 in non-syndromic
+split-hand/split-foot malformation. Hum. Genet. 118: 477-483, 2005.
+
+8. Salzman, J.; Gawad, C.; Wang, P. L.; Lacayo, N.; Brown, P. O.:
+Circular RNAs are the predominant transcript isoform from hundreds
+of human genes in diverse cell types. PLoS One 7: e30733, 2012.
+Note: Electronic Article.
+
+9. Sidow, A.; Bulotsky, M. S.; Kerrebrock, A. W.; Birren, B. W.; Altshuler,
+D; Jaenisch, R.; Johnson, K. R.; Lander, E. S.: A novel member of
+the F-box/WD40 gene family, encoding dactylin, is disrupted in the
+mouse dactylaplasia mutant. Nature Genet. 23: 104-107, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 05/16/2013
+Patricia A. Hartz - updated: 6/5/2008
+Patricia A. Hartz - updated: 6/3/2008
+Marla J. F. O'Neill - updated: 4/13/2007
+Marla J. F. O'Neill - updated: 2/23/2006
+Patricia A. Hartz - updated: 12/10/2004
+Victor A. McKusick - updated: 11/4/2003
+George E. Tiller - updated: 9/25/2003
+
+CREATED Cassandra L. Kniffin: 9/2/2003
+
+EDITED mgross: 05/16/2013
+wwang: 8/30/2010
+carol: 10/15/2008
+mgross: 6/5/2008
+terry: 6/3/2008
+wwang: 4/20/2007
+terry: 4/13/2007
+carol: 4/4/2007
+wwang: 2/23/2006
+mgross: 12/10/2004
+tkritzer: 11/6/2003
+terry: 11/4/2003
+cwells: 9/25/2003
+carol: 9/11/2003
+ckniffin: 9/2/2003
+
+614715	TITLE *614715 TRANSMEMBRANE AND IMMUNOGLOBULIN DOMAINS-CONTAINING PROTEIN 2; TMIGD2
+;;IMMUNOGLOBULIN AND PROLINE-RICH RECEPTOR 1; IGPR1
+DESCRIPTION 
+DESCRIPTION
+
+TMIGD2 is widely expressed on the plasma membrane of endothelial and
+epithelial cells and contributes to cell adhesion and migration (Rahimi
+et al., 2012).
+
+CLONING
+
+By searching databases for genes encoding proteins with an
+immunoglobulin (Ig)-like domain, Rahimi et al. (2012) identified TMIGD2,
+which they called IGPR1. The deduced 282-amino acid protein has a
+calculated molecular mass of 31 kD. It contains an N-terminal signal
+sequence, followed by an extracellular Ig-like domain, a transmembrane
+domain, and a cytoplasmic proline-rich C-terminal domain. The N-terminal
+extracellular region contains 2 putative glycosylation sites. The Ig
+domain was predicted to assume an Ig V (variable) fold structure.
+Orthologs of IGPR1 were detected in several mammalian species, but not
+in rat or mouse. Quantitative PCR revealed high IGPR1 expression in
+artery, vein, and brain, with low to moderate expression in other
+tissues. Western blot analysis detected an IGPR1 protein with an
+apparent molecular mass of 55 kD in thymus, placenta, heart, small
+intestine, skin, and kidney. An IGPR1 protein with an apparent molecular
+mass of 35 kD was expressed in skeletal muscle, brain, colon, lung, and
+ovary. Immunohistochemical analysis showed IGPR1 expression mainly in
+epithelial and endothelial cells, and IGPR1 was expressed on the plasma
+membrane of transfected porcine aorta endothelial cells.
+
+GENE FUNCTION
+
+Rahimi et al. (2012) found that overexpression of IGPR1 in porcine or
+human endothelial cells increased tube formation in 3-dimensional
+cultures. IGPR1 overexpression also increased angiogenesis in mouse
+melanoma cells following injection into mice. In contrast, knockdown of
+IGPR1 in human umbilical vein endothelial cells reduced capillary tube
+formation. IGPR1 overexpression also altered adhesion, migration, and
+morphology of actin stress fibers in transfected cells. Protein
+interaction assays revealed that the isolated proline-rich cytoplasmic
+region of IGPR1 interacted with SH3 domains in several proteins, notably
+SPIN90 (NCKIPSD; 606671). In porcine or human endothelial cells,
+overexpression or knockdown of SPIN90 increased and decreased,
+respectively, tube formation in 3-dimensional culture. Rahimi et al.
+(2012) hypothesized that interaction between IGPR1 and SPIN90 regulates
+angiogenesis.
+
+GENE STRUCTURE
+
+Rahimi et al. (2012) reported that the TMIGD2 gene contains at least 4
+exons.
+
+MAPPING
+
+Hartz (2012) mapped the TMIGD2 gene to chromosome 19p13.3 based on an
+alignment of the TMIGD2 sequence (GenBank GENBANK BC015655) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  6/29/2012.
+
+2. Rahimi, N.; Rezazadeh, K.; Mahoney, J. E.; Hartsough, E.; Meyer,
+R. D.: Identification of IGPR-1 as a novel adhesion molecule involved
+in angiogenesis. Molec. Biol. Cell 23: 1646-1656, 2012.
+
+CREATED Patricia A. Hartz: 7/12/2012
+
+EDITED terry: 07/13/2012
+mgross: 7/12/2012
+
+602981	TITLE *602981 AE-BINDING PROTEIN 1; AEBP1
+;;AORTIC CARBOXYPEPTIDASE-LIKE PROTEIN; ACLP
+DESCRIPTION 
+CLONING
+
+Vascular smooth muscle cells originate from diverse cell types during
+embryonic development and acquire different phenotypes in disease
+states. The interactions of these cells with the extracellular matrix
+(ECM) are important in governing these processes. By screening a human
+aortic smooth muscle cell expression library for proteins that interact
+with the E47 product of E2A (TCF3; 147141), Layne et al. (1998) isolated
+a full-length cDNA encoding ACLP. The deduced 1,158-amino acid ACLP
+protein contains a putative signal peptide; an 11-residue lys/pro-rich
+motif repeated 4 times in the N terminus; a domain with 30% identity to
+the slime mold adhesion protein discoidin I; and a C-terminal 500-amino
+acid domain with 39% identity to carboxypeptidase E (CPE; 114855).
+Northern blot analysis detected a 4.0-kb ACLP transcript. Immunoblot
+analysis showed expression of a 175-kD ACLP protein. Western blot
+analysis and in situ hybridization established that expression of ACLP
+is largely restricted to aorta, particularly to smooth muscle cells.
+Immunofluorescence microscopy demonstrated perinuclear staining in mouse
+aortic smooth muscle cells.
+
+GENE FUNCTION
+
+By purification of aortic smooth muscle cells from day-18.5 mouse
+embryos, followed by immunoblot analysis, Layne et al. (2001) showed
+that Aclp is a secreted protein that associates with the ECM, as
+predicted from its primary structure. Immunohistochemistry of day-15.5
+mouse embryos revealed wide expression of Aclp in vascular smooth muscle
+cells, in bony and cartilaginous skeleton (skull, vertebrae, and ribs),
+in the basement membrane of lung airways, and in the dermis.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Layne et al. (2001) determined that the
+mouse Aclp gene contains 21 exons.
+
+ANIMAL MODEL
+
+By homologous recombination, Layne et al. (2001) generated Aclp -/-
+mice. Although heterozygotes were phenotypically normal, most Aclp -/-
+mice succumbed around the time of birth with gastroschisis, an extrusion
+of the abdominal viscera through the ventral body wall. Gastoschisis
+appeared as early as day 13.5. Many dead neonates were pale and had
+missing abdominal organs, such as liver and intestine. Aclp -/- mice
+that survived to adulthood had large, nonhealing skin lesions, deficient
+wound repair, and poor fibroblast proliferation. Layne et al. (2001)
+concluded that ACLP has important roles in both embryonic development
+and adult tissue repair.
+
+HISTORY
+
+Layne et al. (1998) found that the C terminus of ACLP is highly
+homologous to AEBP1, which was originally identified in mouse by He et
+al. (1995) as a factor that specifically binds AE1 and acts as a
+repressor of aP2 gene (600434) expression. Aebp1 contains a region that
+is 40% identical to the regulatory carboxypeptidases CPH/E, CPN
+(212070), and CPM (114860). He et al. (1995) found that CP activity was
+important for the transcriptional repression activity of Aebp1 and
+suggested that Aebp1 regulates transcription by cleavage of factors
+involved in transcription. Ohno et al. (1996) identified human AEBP1 as
+a gene whose cDNAs were found exclusively in osteoblast and adipose
+tissue libraries. The predicted 845-amino acid human AEBP1 protein is
+95% identical to mouse Aebp1 except for an additional 105 amino acids in
+the N terminus of the human protein. This N-terminal extension contains
+a nuclear targeting signal. Northern blot analysis of various human
+tissues detected a 3-kb AEBP1 mRNA only in osteoblasts and adipose
+tissues.
+
+Song and Fricker (1997), however, reported that AEBP1 has no
+carboxypeptidase activity; in contrast, CPZ (603105), CPE, and CPD
+(603102) were found to have modest or abundant activity. Layne et al.
+(1998) determined that the Aebp1 sequence described by He et al. (1995)
+lacks a G residue 11 bases 5-prime of the proposed start codon and is
+likely an incomplete clone of mouse Aclp. Northern blot analysis, even
+with Aepb1-derived probes, detected a single 4.0-kb transcript, which is
+consistent with the size of the human and mouse ACLP cDNAs. Furthermore,
+Layne (2001) stated that they have never detected nuclear localization
+of ACLP, nor have they detected any ACLP splice variants that might
+account for the discrepant data, suggesting that the human sequence
+reported by Ohno et al. (1996) is also a truncated clone.
+
+REFERENCE 1. He, G.-P.; Muise, A.; Li, A. W.; Ro, H.-S.: A eukaryotic transcriptional
+repressor with carboxypeptidase activity. Nature 378: 92-96, 1995.
+
+2. Layne, M.: Personal Communication. Baltimore, Md.  7/6/2001.
+
+3. Layne, M. D.; Endege, W. O.; Jain, M. K.; Yet, S.-F.; Hsieh, C.-M.;
+Chin, M. T.; Perrella, M. A.; Blanar, M. A.; Haber, E.; Lee, M.-E.
+: Aortic carboxypeptidase-like protein, a novel protein with discoidin
+and carboxypeptidase-like domains, is up-regulated during vascular
+smooth muscle cell differentiation. J. Biol. Chem. 273: 15654-15660,
+1998.
+
+4. Layne, M. D.; Yet, S.-F.; Maemura, K.; Hsieh, C.-M.; Bernfield,
+M.; Perrella, M. A.; Lee, M.-E.: Impaired abdominal wall development
+and deficient wound healing in mice lacking aortic carboxypeptidase-like
+protein. Molec. Cell. Biol. 21: 5256-5261, 2001.
+
+5. Ohno, I.; Hashimoto, J.; Shimizu, K.; Takaoka, K.; Ochi, T.; Matsubara,
+K.; Okubo, K.: A cDNA cloning of human AEBP1 from primary cultured
+osteoblasts and its expression in a differentiating osteoblastic cell
+line. Biochem. Biophys. Res. Commun. 228: 411-414, 1996.
+
+6. Song, L.; Fricker, L. D.: Cloning and expression of human carboxypeptidase
+Z, a novel metallocarboxypeptidase. J. Biol. Chem. 272: 10543-10550,
+1997.
+
+CONTRIBUTORS Paul J. Converse - updated: 7/26/2001
+
+CREATED Rebekah S. Rasooly: 8/18/1998
+
+EDITED mgross: 07/26/2001
+mgross: 7/26/2001
+alopez: 8/18/1998
+

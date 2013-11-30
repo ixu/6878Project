@@ -1,0 +1,625 @@
+430000	TITLE *430000 INTERLEUKIN 3 RECEPTOR, Y-CHROMOSOMAL; IL3RA
+;;IL3RY;;
+IL3RAY
+DESCRIPTION 
+DESCRIPTION
+
+The receptor for interleukin-3 (IL3; 147740) is a heterodimer that
+shares a beta chain (CSF2RB; 138981) in common with the receptors for
+IL5 (IL5R; 147851) and GMCSF (CSF2R; 306250), and, like these other
+cytokine receptors, has a ligand-specific alpha chain (IL3RA).
+
+MAPPING
+
+By fluorescence in situ hybridization, Kremer et al. (1993) demonstrated
+that the IL3RY gene is located in the pseudoautosomal region of the X
+and Y chromosomes. See 308385.
+
+REFERENCE 1. Kremer, E.; Baker, E.; D'Andrea, R. J.; Slim, R.; Phillips, H.;
+Moretti, P. A. B.; Lopez, A. F.; Petit, C.; Vadas, M. A.; Sutherland,
+G. R.; Goodall, G. J.: A cytokine receptor gene cluster in the X-Y
+pseudoautosomal region? Blood 82: 22-28, 1993.
+
+CREATED Victor A. McKusick: 10/1/1993
+
+EDITED terry: 08/26/2008
+mgross: 9/6/2006
+dkim: 7/2/1998
+mark: 7/26/1995
+mimadm: 3/11/1994
+carol: 10/1/1993
+
+608457	TITLE *608457 CHROMOBOX HOMOLOG 7; CBX7
+DESCRIPTION 
+CLONING
+
+By screening for mouse cDNAs that could extend the life span of cultured
+normal human prostate primary epithelial cells, Gil et al. (2004) cloned
+Cbx7. They cloned human CBX7 by searching databases for sequences
+similar to mouse Cbx7 and by PCR of a human embryo cDNA library. CBX7
+contains an N-terminal chromodomain and a C-terminal Pc box.
+Phylogenetic analysis showed that CBX7 shares highest similarity with
+CBX2 (602770), CBX4 (603079), CBX6, and CBX8. CBX7 mRNA was highly
+expressed in brain, heart, kidney, and skeletal muscle, and weakly
+expressed in peripheral blood leukocytes.
+
+GENE FUNCTION
+
+Gil et al. (2004) observed that, during serial passage of mouse
+embryonic fibroblasts, expression of Cbx7 gradually decreased with
+passage number and totally disappeared in senescent mouse embryonic
+fibroblasts. Expression of either mouse or human CBX7 could extend the
+cellular life span of mouse embryonic fibroblasts and human cells by
+downregulating expression of the Ink4a/Arf gene (CDKN2A; 600160).
+Expression of human CBX7 mutants lacking the Pc box or with mutations in
+critical residues of the chromodomain did not extend the life span of
+cultured cells. CBX7 interacted with itself and with RING1 (602045) in
+an in vitro pull-down assay, and CBX7 colocalized with RING1 in distinct
+nuclear foci-like structures termed Pc bodies.
+
+By database and immunohistochemical analyses, Scott et al. (2007)
+detected high expression of CBX7 in germinal center lymphocytes and
+germinal center-derived follicular lymphomas, where elevated expression
+correlated with high MYC (190080) expression and advanced tumor grade.
+Using mice with lymphoid-specific expression of Cbx7, Scott et al.
+(2007) showed that Cbx7, acting through Ink4a/Arf, cooperated with Myc
+to promote aggressive B-cell lymphomagenesis. They concluded that
+CBX7-mediated repression of INK4A/ARF transcription is important for
+tumorigenesis.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CBX7
+gene to chromosome 22 (TMAP HSC0XA102).
+
+REFERENCE 1. Gil, J.; Bernard, D.; Martinez, D.; Beach, D.: Polycomb CBX7 has
+a unifying role in cellular lifespan. Nature Cell Biol. 6: 67-72,
+2004.
+
+2. Scott, C. L.; Gil, J.; Hernando, E.; Teruya-Feldstein, J.; Narita,
+M.; Martinez, D.; Visakorpi, T.; Mu, D.; Cordon-Cardo, C.; Peters,
+G.; Beach, D.; Lowe, S. W.: Role of the chromobox protein CBX7 in
+lymphomagenesis. Proc. Nat. Acad. Sci. 104: 5389-5394, 2007.
+
+CONTRIBUTORS Paul J. Converse - updated: 5/3/2007
+
+CREATED Patricia A. Hartz: 2/10/2004
+
+EDITED mgross: 05/16/2007
+terry: 5/3/2007
+terry: 10/12/2005
+mgross: 2/10/2004
+
+182350	TITLE *182350 ATPase, Na+/K+ TRANSPORTING, ALPHA-3 POLYPEPTIDE; ATP1A3
+;;SODIUM-POTASSIUM-ATPase, ALPHA-3 POLYPEPTIDE
+DESCRIPTION 
+DESCRIPTION
+
+The alpha subunit of the Na,K-ATPase is the catalytic subunit. Three
+isoforms are expressed in the nervous system: ATP1A1 (182310), ATP1A2
+(182340), and ATP1A3 (de Carvalho Aguiar et al., 2004).
+
+GENE FUNCTION
+
+Agrin (AGRN; 103320) mediates accumulation of acetylcholine receptors at
+the developing neuromuscular junction through its interaction with MUSK
+(601296), and it has also been implicated in brain development. Through
+biochemical studies, Hilgenberg et al. (2006) found that agrin bound
+Atp1a3 in mouse cortical neurons. Immunohistochemical analysis showed
+that Atp1a3 colocalized with agrin-binding sites at synapses. Agrin
+inhibited Atp1a3 activity, resulting in membrane depolarization and
+increased action potential frequency in mouse cortical neurons in
+culture and acute slice. An agrin fragment that acted as a competitive
+antagonist depressed action potential frequency, indicating that
+endogenous agrin regulates native Atp1a3 function. Hilgenberg et al.
+(2006) concluded that agrin regulates activity-dependent processes in
+neurons through its interaction with ATP1A3.
+
+GENE STRUCTURE
+
+Ovchinnikov et al. (1988) determined that the ATP1A3 gene has about
+25,000 basepairs and that its protein-coding region includes 23 exons.
+
+MAPPING
+
+By Southern analysis of DNA from panels of rodent/human somatic cell
+hybrid lines, Yang-Feng et al. (1988) mapped the ATP1A3 gene to
+chromosome 19q12-q13.2. Harley et al. (1988) concluded that the order is
+qter--DM--APOC2--ATP1A3--cen.
+
+MOLECULAR GENETICS
+
+- Dystonia 12
+
+In 7 unrelated families with rapid-onset dystonia parkinsonism, or
+dystonia-12 (DYT12; 128235), de Carvalho Aguiar et al. (2004) identified
+6 different heterozygous mutations in the ATP1A3 gene
+(182350.0001-182350.0006). Functional expression studies and structural
+analysis suggested that the mutations impaired enzyme activity or
+stability.
+
+Anselm et al. (2009) and Blanco-Arias et al. (2009) reported de novo
+heterozygous ATP1A3 mutations (182350.0007 and 182350.0008,
+respectively) in patients with DYT12.
+
+- Alternating Hemiplegia of Childhood 2
+
+In 82 of 105 patients with alternating hemiplegia of childhood-2 (AHC2;
+615820), Heinzen et al. (2012) identified 19 different heterozygous
+mutations in the ATP1A3 gene (see, e.g., 182350.0009-182350.0012). The
+first mutations were identified through exome sequencing of affected
+individuals. Thirteen of the 18 mutations observed in sporadic cases
+were confirmed to occur de novo. Since it was possible that some
+variants represented polymorphisms, Heinzen et al. (2012) estimated that
+mutations in the ATP1A3 gene may be responsible for up to 74% of
+patients with sporadic, typical AHC. Several mutations were recurrent,
+and some occurred within hypermutable sequences. All patients had
+infantile onset of hemiplegia attacks, usually associated with episodes
+of quadriparesis, abnormal eye movements, autonomic signs, seizures,
+dystonia, ataxia, chorea, and developmental delay. Transfection of
+several of the mutations in HeLa cells showed protein levels similar to
+wildtype, but ATP1A3 activity was significantly decreased. In contrast,
+transfection of DYT12-associated mutations resulted in decreased protein
+levels as well as decreased activity. The report expanded the spectrum
+of phenotypes associated with mutations in the ATP1A3 gene.
+
+ANIMAL MODEL
+
+Ashmore et al. (2009) identified 6 different EMS-induced missense
+mutations in the Atp1a2 and Atp1a3 genes in Drosophila. All mutations
+resulted in reduced respiration activity consistent with a loss of
+ATPase function and a hypomorphic effect. Different mutant strains
+exhibited some abnormalities, including progressive
+temperature-dependent paralysis, progressive stress-sensitive paralysis,
+and decreased locomotor activity in response to startle, suggesting a
+decrease in maximal locomotion capacity. Neuromuscular studies showed
+allele-specific pathology, including brain vacuoles and myopathology,
+and biochemical studies showed decreased metabolic rates. An unexpected
+finding was the some mutant strains had increased longevity, which was
+not related to caloric restriction. Low doses of ouabain showed a
+similar effect on longevity in control groups. Ashmore et al. (2009)
+suggested that these findings may be relevant for studying the
+pathogenesis of FHM2 and DYT12 (128235).
+
+ALLELIC VARIANT .0001
+DYSTONIA 12
+ATP1A3, THR613MET
+
+In a sporadic patient (Linazasoro et al., 2002) and affected members of
+a second family (Zaremba et al., 2004) with dystonia-12 (DYT12; 128235),
+de Carvalho Aguiar et al. (2004) identified a heterozygous 1838C-T
+transition in the ATP1A3 gene, resulting in a thr613-to-met (T613M)
+substitution in a highly conserved residue near the phosphorylation
+domain on the cytoplasmic face of the protein. The mutation was not
+identified in 500 northern European control chromosomes.
+
+Brashear et al. (2007) identified the T613M mutation in a family with
+DYT12 reported by Pittock et al. (2000).
+
+.0002
+DYSTONIA 12
+ATP1A3, ILE274THR
+
+In a patient with dystonia-12 (128235), de Carvalho Aguiar et al. (2004)
+identified a heterozygous 821T-C transition in the ATP1A3 gene,
+resulting in an ile274-to-thr (I274T) substitution in a highly conserved
+residue in the transmembrane domain of the protein. The mutation was not
+identified in 500 northern European control chromosomes. The patient had
+disease onset at age 37 years.
+
+.0003
+DYSTONIA 12
+ATP1A3, GLU277LYS
+
+In a patient with dystonia-12 (128235), de Carvalho Aguiar et al. (2004)
+identified a heterozygous 829G-A transition in exon 8 of the ATP1A3
+gene, resulting in a glu277-to-lys (E277K) substitution in a highly
+conserved residue in the transmembrane domain of the protein. The
+mutation was not identified in 500 northern European control
+chromosomes. The patient had disease onset at age 20 years.
+
+Tarsy et al. (2010) identified the E277K mutation in a 29-year-old woman
+of African Caribbean descent with DYT12. She had onset at age 26 years
+of weakness and flexion of the left hand and ankle, which progressed
+rapidly over the next few years to become frank dystonia of the left arm
+and bulbar symptoms, including dysphagia, laryngeal dysfunction with
+task-specific dysphonia, and oropharyngeal dysmotility. She also had
+mild parkinsonism, with hypomimia and wide-based gait. Treatment with
+oral trihexyphenidyl and botulinum injection into selected laryngeal
+muscles resulted in clinical improvement.
+
+.0004
+DYSTONIA 12
+ATP1A3, ILE758SER
+
+In 12 affected members of a family with dystonia-12 (128235) reported by
+Dobyns et al. (1993), de Carvalho Aguiar et al. (2004) identified a
+heterozygous 2273T-G transversion in the ATP1A3 gene, resulting in an
+ile758-to-ser (I758S) substitution in a highly conserved residue in the
+transmembrane domain of the protein. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0005
+DYSTONIA 12
+ATP1A3, PHE780LEU
+
+In 2 affected members of a family with dystonia-12 (128235), de Carvalho
+Aguiar et al. (2004) identified a heterozygous 2338T-C transition in the
+ATP1A3 gene, resulting in a phe780-to-leu (F780L) substitution in a
+highly conserved residue in the transmembrane region of the protein
+close to the extracellular surface. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0006
+DYSTONIA 12
+ATP1A3, ASP801TYR
+
+In 4 affected members of a family with dystonia-12 (128235) reported by
+Brashear et al. (1997), de Carvalho Aguiar et al. (2004) identified a
+heterozygous 2401G-T transversion in the ATP1A3 gene, resulting in an
+asp801-to-tyr (D801Y) substitution in a highly conserved residue in the
+transmembrane region of the protein. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0007
+DYSTONIA 12
+ATP1A3, ASP923ASN
+
+In a boy with early-onset DYT12 (128235) at age 4 years, Anselm et al.
+(2009) identified a heterozygous de novo 2767G-A transition in exon 20
+of the ATP1A3 gene, resulting in an asp923-to-asn (D923N) substitution.
+The mutation was not found in 338 Caucasian control chromosomes. The
+substitution was predicted to occur in a residue buried in the membrane
+close to the ion-binding residue gln920, suggesting that it may affect
+enzyme activity. He was born of an unaffected Caucasian father and
+Chinese mother. The onset of dystonia was abrupt, occurring after mild
+trauma to the forehead. He developed mutism, eye convergence, and
+inability to walk, which later evolved into severe dystonia, severe
+dysarthria, and drooling. The condition stabilized over several months,
+and he showed mild improvement over the next 8 years. About a year after
+onset, he developed unusual episodes of flaccidity lasting for hours,
+later replaced by shorter episodes of stiffness. Treatment with L-dopa
+was not effective. At the time of the report, he had bulbar symptoms,
+striking oromotor dystonia with inability to speak or swallow well, and
+apraxia.
+
+.0008
+DYSTONIA 12
+ATP1A3, 3-BP DUP, 3191TAC
+
+In a 16-year-old female with DYT12 (128235), Blanco-Arias et al. (2009)
+reported a de novo heterozygous 3-bp duplication (3191dupTAC) in exon 23
+of the ATP1A3 gene, resulting in duplication of tyr1013, the C-terminal
+amino acid of the protein before the stop codon. The mutation was not
+found in either parent, her brother, or in 218 control individuals. HeLa
+cells expressing the mutant protein showed decreased survival in
+response to ouabain challenge, but no defect was detected in protein
+expression or plasma membrane targeting. Functional analysis
+demonstrated a drastic 40- to 50-fold reduction in Na(+) affinity in the
+mutant. Blanco-Arias et al. (2009) suggested a crucial role for the C
+terminus of the alpha-subunit in the function of the Na+/K+-ATPase and
+emphasized a key impact of Na(+) affinity in the pathophysiology of
+DYT12.
+
+.0009
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, ASP801ASN
+
+In 36 of 95 unrelated patients with alternating hemiplegia of childhood
+(614820), Heinzen et al. (2012) identified a heterozygous 2401G-A
+transition in the ATP1A3 gene, resulting in an asp801-to-asn (D801N)
+substitution in the sixth transmembrane domain. The mutation was
+demonstrated to occur de novo in cases where parental material was
+available. All patients had infantile onset of hemiplegia attacks,
+usually associated with episodes of quadriparesis, abnormal eye
+movements, autonomic signs, seizures, dystonia, ataxia, chorea, and
+developmental delay. Transfection of the mutation in HeLa cells showed
+protein levels similar to wildtype, but ATP1A3 activity was
+significantly decreased. Evaluation of the crystal structure of the
+protein predicted that the D801N substitution would prevent the binding
+of potassium ions to the pump.
+
+.0010
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, GLU815LYS
+
+In 19 patients with alternating hemiplegia of childhood-2 (614820),
+Heinzen et al. (2012) identified a heterozygous 2443G-A transition in
+the ATP1A3 gene, resulting in a glu815-to-lys (E815K) substitution in
+the sixth transmembrane domain. The mutation was shown to occur de novo
+in all patients whose parents were available for study. Transfection of
+the mutation in HeLa cells showed protein levels similar to wildtype,
+but ATP1A3 activity was significantly decreased.
+
+.0011
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, SER811PRO
+
+In 4 unrelated patients with AHC2 (614820), Heinzen et al. (2012)
+identified a de novo heterozygous 2431T-C transition in the ATP1A3 gene,
+resulting in a ser811-to-pro (S811P) substitution in the sixth
+transmembrane domain. Transfection of the mutation in HeLa cells showed
+protein levels similar to wildtype, but ATP1A3 activity was
+significantly decreased.
+
+.0012
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, GLY947ARG
+
+In 5 patients with AHC2 (614820), Heinzen et al. (2012) identified a
+heterozygous 2839G-A transition in the ATP1A3 gene, resulting in a
+gly947-to-arg (G947R) substitution in the ninth transmembrane domain.
+The mutation was shown to occur de novo in all patients whose parents
+were available for study.
+
+REFERENCE 1. Anselm, I. A.; Sweadner, K. J.; Gollamudi, S.; Ozelius, L. J.;
+Darras, B. T.: Rapid-onset dystonia-parkinsonism in a child with
+a novel ATP1A3 gene mutation. Neurology 73: 400-401, 2009.
+
+2. Ashmore, L. J.; Hrizo, S. L.; Paul, S. M.; Van Voorhies, W. A.;
+Beitel, G. J.; Palladino, M. J.: Novel mutations affecting the Na,
+K ATPase alpha model complex neurological diseases and implicate the
+sodium pump in increased longevity. Hum. Genet. 126: 431-447, 2009.
+
+3. Blanco-Arias, P.; Einholm, A. P.; Mamsa, H.; Concheiro, C.; Gutierrez-de-Teran,
+H.; Romero, J.; Toustrup-Jensen, M. S.; Carracedo, A.; Jen, J. C.;
+Vilsen, B.; Sobrido, M.-J.: A C-terminal mutation of ATP1A3 underscores
+the crucial role of sodium affinity in the pathophysiology of rapid-onset
+dystonia-parkinsonism. Hum. Molec. Genet. 18: 2370-2377, 2009.
+
+4. Brashear, A.; DeLeon, D.; Bressman, S. B.; Thyagarajan, D.; Farlow,
+M. R.; Dobyns, W. B.: Rapid-onset dystonia-parkinsonism in a second
+family. Neurology 48: 1066-1069, 1997.
+
+5. Brashear, A.; Dobyns, W. B.; de Carvalho Aguiar, P.; Borg, M.;
+Frijns, C. J. M.; Gollamudi, S.; Green, A.; Guimaraes, J.; Haake,
+B. C.; Klein, C.; Linazasoro, G.; Munchau, A.; Raymond, D.; Riley,
+D.; Saunders-Pullman, R.; Tijssen, M. A. J.; Webb, D.; Zaremba, J.;
+Bressman, S. B.; Ozelius, L. J.: The phenotypic spectrum of rapid-onset
+dystonia-parkinsonism (RDP) and mutations in the ATP1A3 gene. Brain 130:
+828-835, 2007.
+
+6. de Carvalho Aguiar, P.; Sweadner, K. J.; Penniston, J. T.; Zaremba,
+J.; Liu, L.; Caton, M.; Linazasoro, G.; Borg, M.; Tijssen, M. A. J.;
+Bressman, S. B.; Dobyns, W. B.; Brashear, A.; Ozelius, L. J.: Mutations
+in the Na(+)/K(+)-ATPase alpha-3 gene ATP1A3 are associated with rapid-onset
+dystonia parkinsonism. Neuron 43: 169-175, 2004.
+
+7. Dobyns, W. B.; Ozelius, L. J.; Kramer, P. L.; Brashear, A.; Farlow,
+M. R.; Perry, T. R.; Walsh, L. E.; Kasarskis, E. J.; Butler, I. J.;
+Breakefield, X. O.: Rapid-onset dystonia-parkinsonism. Neurology 43:
+2596-2602, 1993.
+
+8. Harley, H. G.; Brook, J. D.; Jackson, C. L.; Glaser, T.; Walsh,
+K. V.; Sarfarazi, M.; Kent, R.; Lager, M.; Koch, M.; Harper, P. S.;
+Levenson, R.; Housman, D. E.; Shaw, D. J.: Localization of a human
+Na+,K+-ATPase alpha subunit gene to chromosome 19q12-q13.2 and linkage
+to the myotonic dystrophy locus. Genomics 3: 380-384, 1988.
+
+9. Heinzen, E. L.; Swoboda, K. J.; Hitomi, Y.; Gurrieri, F.; Nicole,
+S.; de Vries, B.; Tiziano, F. D.; Fontaine, B.; Walley, N. M.; Heavin,
+S.; Panagiotakaki, E; European Alternating Hemiplegia of Childhood
+(AHC) Genetics Consortium; and 33 others: De novo mutations in
+ATP1A3 cause alternating hemiplegia of childhood. Nature Genet. 44:
+1030-1034, 2012.
+
+10. Hilgenberg, L. G. W.; Su, H.; Gu, H.; O'Dowd, D. K.; Smith, M.
+A.: Alpha-3-Na(+)/K(+)-ATPase is a neuronal receptor for agrin. Cell 125:
+359-369, 2006.
+
+11. Linazasoro, G.; Indakoetxea, B.; Ruiz, J.; Van Blercom, N.; Lasa,
+A.: Possible sporadic rapid-onset dystonia-parkinsonism. Mov. Disord. 17:
+608-609, 2002.
+
+12. Ovchinnikov, Y. A.; Monastyrskaya, G. S.; Broude, N. E.; Ushkaryov,
+Y. A.; Melkov, A. M.; Smirnov, Y. V.; Malyshev, I. V.; Allikmets,
+R. L.; Kostina, M. B.; Dulubova, I. E.; Kiyatkin, N. I.; Grishin,
+A. V.; Modyanov, N. N.; Sverdlov, E. D.: Family of human Na+,K+-ATPase
+genes: structure of the gene for the catalytic subunit (alpha-III-form)
+and its relationship with structural features of the protein. FEBS
+Lett. 233: 87-94, 1988.
+
+13. Pittock, S. J.; Joyce, C.; O'Keane, V.; Hugle, B.; Hardiman, O.;
+Brett, F.; Green, A. J.; Barton, D. E.; King, M. D.; Webb, D. W.:
+Rapid-onset dystonia-parkinsonism: a clinical and genetic analysis
+of a new kindred. Neurology 55: 991-995, 2000.
+
+14. Tarsy, D.; Sweadner, K. J.; Song, P. C.: Case 17-2010: a 29-year-old
+woman with flexion of the left hand and foot and difficulty speaking. New
+Eng. J. Med. 362: 2213-2219, 2010.
+
+15. Yang-Feng, T. L.; Schneider, J. W.; Lindgren, V.; Shull, M. M.;
+Benz, E. J., Jr.; Lingrel, J. B.; Francke, U.: Chromosomal localization
+of human Na+,K+-ATPase alpha- and beta-subunit genes. Genomics 2:
+128-138, 1988.
+
+16. Zaremba, J.; Mierzewska, H.; Lysiak, Z.; Kramer, P.; Ozelius,
+L. J.; Brashear, A.: Rapid-onset dystonia-parkinsonism: a fourth
+family consistent with linkage to chromosome 19q13. Mov. Disord. 19:
+1506-1510, 2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/13/2012
+Cassandra L. Kniffin - updated: 6/10/2010
+Cassandra L. Kniffin - updated: 5/24/2010
+George E. Tiller - updated: 3/30/2010
+Matthew B. Gross - updated: 3/8/2010
+Cassandra L. Kniffin - updated: 12/17/2009
+Cassandra L. Kniffin - updated: 3/10/2005
+
+CREATED Victor A. McKusick: 12/1/1987
+
+EDITED carol: 09/14/2012
+carol: 9/14/2012
+terry: 9/13/2012
+ckniffin: 9/13/2012
+wwang: 6/11/2010
+ckniffin: 6/10/2010
+wwang: 5/25/2010
+ckniffin: 5/24/2010
+wwang: 3/31/2010
+terry: 3/30/2010
+wwang: 3/11/2010
+mgross: 3/8/2010
+wwang: 1/8/2010
+ckniffin: 12/17/2009
+wwang: 3/16/2005
+wwang: 3/10/2005
+ckniffin: 3/10/2005
+carol: 10/31/2000
+mgross: 7/21/1999
+terry: 6/18/1998
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+root: 8/14/1989
+root: 1/9/1989
+root: 12/20/1988
+
+603953	TITLE *603953 POTASSIUM INWARDLY-RECTIFYING CHANNEL, SUBFAMILY J, MEMBER 14; KCNJ14
+;;KIR2.4
+DESCRIPTION 
+CLONING
+
+Members of the inwardly rectifying potassium (Kir) channel family are
+characterized by a channel structure with 2 transmembrane segments
+surrounding putative pore loop. The Kir2 subfamily contains channels
+characterized by their strong current rectification. By screening a rat
+brain library with a bovine PCR fragment based on a human Kir-like EST
+(GenBank GENBANK W25800), Topert et al. (1998) isolated a cDNA encoding
+Kir2.4, a Kir2 subfamily member. In situ hybridization revealed that
+Kir2.4 is expressed predominantly in motoneurons of cranial nerve motor
+nuclei within the general somatic and special visceral motor cell
+column. The unique Kir2.4 expression pattern and in situ measurements of
+the functional characteristics of Kir2.4 in rat brainstem led the
+authors to conclude that these channels serve an important function in
+controlling the excitability of brainstem motoneurons. Northern blot
+analysis revealed that Kir2.4 is expressed specifically in human brain.
+
+REFERENCE 1. Topert, C.; Doring, F.; Wischmeyer, E.; Karschin, C.; Brockhaus,
+J.; Ballanyi, K.; Derst, C.; Karschin, A.: Kir2.4: a novel K+ inward
+rectifier channel associated with motoneurons of cranial nerve nuclei. J.
+Neurosci. 18: 4096-4105, 1998.
+
+CREATED Rebekah S. Rasooly: 6/29/1999
+
+EDITED alopez: 12/02/2010
+alopez: 7/9/1999
+jlewis: 7/1/1999
+jlewis: 6/29/1999
+
+608536	TITLE *608536 GTP-BINDING PROTEIN 3; GTPBP3
+;;MSS1, S. CEREVISIAE, HOMOLOG OF; MSS1
+DESCRIPTION 
+CLONING
+
+Mss1 is a yeast mitochondrial GTP-binding protein that functionally
+interacts with 15S rRNA. By searching an EST database for sequences
+similar to Mss1, followed by RT-PCR using hepatoma cell line total RNA
+and 5-prime and 3-prime RACE, Li and Guan (2002) cloned 5 variants of
+GTPBP3, an Mss1 homolog. The variants are generated by alternative
+splicing and through the use of alternate polyadenylation signals. Two
+variants differ only in their 3-prime UTRs and encode an identical
+492-amino acid protein with a calculated molecular mass of 52.0 kD. Two
+other variants encode an identical 471-amino acid protein, and another
+variant encodes a 524-amino acid protein. GTPBP3 contains a typical
+mitochondria targeting presequence, 2 GTP-binding domains, a p21 RAS
+(see 190020)-like domain, and an SRC (190090) homology-3 (SH3) domain.
+GTPBP3 shows extensive conservation of amino acid sequences with Mss1
+homologs from several diverse species, including bacteria, yeast, and
+nematode. Mouse and human GTPBP3 share 81% amino acid identity. Northern
+blot analysis detected ubiquitous expression of 2.6- and 1.9-kb
+transcripts. Expression was highest in skeletal muscle, kidney, liver,
+and heart, moderate in whole brain, thymus, spleen, and small intestine,
+and low in colon, lung, and leukocytes. GTPBP3 was also expressed in all
+individual brain regions examined. The larger transcript was more
+abundant in most tissues. GTPBP3 colocalized with a mitochondrial marker
+in transfected osteosarcoma cells.
+
+GENE FUNCTION
+
+Yeast cells carrying mutant alleles of Mss1 coupled with a 15S rRNA
+mutation that corresponds to the 1555A-G mutation of human 12S rRNA
+(561000.0001) fail to synthesize subunit 1 of cytochrome oxidase (see
+516030) and manifest a respiratory-deficient phenotype. Li and Guan
+(2002) found that overexpression of GTPBP3 complemented the respiration
+defect of yeast carrying the Mss1 and 15S rRNA mutations. They suggested
+that, like yeast Mss1, GTPBP3 may influence the phenotypic expression of
+the 1555A-G mutation in 12S rRNA.
+
+GENE STRUCTURE
+
+Li and Guan (2002) determined that the GTPBP3 gene contains 9 exons and
+spans more than 6 kb. There are 2 putative polyadenylation signals.
+
+MAPPING
+
+By genomic sequence analysis, Li and Guan (2002) mapped the GTPBP3 gene
+to chromosome 19.
+
+REFERENCE 1. Li, X.; Guan, M.-X.: A human mitochondrial GTP binding protein
+related to tRNA modification may modulate phenotypic expression of
+the deafness-associated mitochondrial 12S rRNA mutation. Molec. Cell.
+Biol. 22: 7701-7711, 2002.
+
+CREATED Patricia A. Hartz: 3/17/2004
+
+EDITED mgross: 03/17/2004
+
+614176	TITLE *614176 ZINC FINGER FYVE DOMAIN-CONTAINING PROTEIN 28; ZFYVE28
+;;LST2, C. ELEGANS, ORTHOLOG OF; LST2;;
+KIAA1643
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (2000) cloned ZFYVE28, which they designated
+KIAA1643. The deduced protein contains 993 amino acids. RT-PCR ELISA of
+human tissues detected very high ZFYVE28 expression in whole adult
+brain, followed by fetal brain, with much lower expression in all other
+tissues examined. Within specific adult brain regions, highest
+expression was detected in amygdala, caudate nucleus, hippocampus, and
+thalamus, followed by substantia nigra and subthalamic nucleus.
+
+By searching a human database for sequences similar to C. elegans Lst2,
+Mosesson et al. (2009) identified ZFYVE28, which they called LST2. The
+deduced 887-amino acid protein contains a C-terminal FYVE domain and 2
+conserved regions, an N-terminal domain, called NDom, and a central
+domain, called the CBox. RT-PCR and Western blot analysis of mouse
+tissues detected high Lst2 expression in brain. LST2 was also detected
+in human cell lines. The most prominent protein had an apparent
+molecular mass of 130 to 140 kD.
+
+GENE FUNCTION
+
+Mosesson et al. (2009) found that LST2 regulated internalization and
+degradation of EGFR (131550), thereby terminating EGFR signaling. LST2
+was monoubiquitinated on lys87 within the NDom domain, and
+ubiquitination required the CBox. In the absence of ubiquitination, the
+FYVE domain of LST2 bound the endosomal phospholipid
+phosphoinositol-3-phosphate (PI3P), and LST2 localized to early
+endosomes with EGFR and promoted receptor degradation. Ubiquitination of
+LST2 inhibited its PI3P-binding ability and released it from endosomes.
+Yeast 2-hybrid analysis of mouse brain lysates showed LST2 also bound
+Trim3 (605493), a coordinator of endosomal trafficking.
+
+MAPPING
+
+Using radiation hybrid analysis, Nagase et al. (2000) mapped the ZFYVE28
+gene to chromosome 4. Mosesson et al. (2009) stated that the ZFYVE28
+gene maps to chromosome 4p16.
+
+REFERENCE 1. Mosesson, Y.; Chetrit, D.; Schley, L.; Berghoff, J.; Ziv, T.; Carvalho,
+S.; Milanezi, F.; Admon, A.; Schmitt, F.; Ehrlich, M.; Yarden, Y.
+: Monoubiquitinylation regulates endosomal localization of Lst2, a
+negative regulator of EGF receptor signaling. Dev. Cell 16: 687-698,
+2009.
+
+2. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+CREATED Patricia A. Hartz: 8/18/2011
+
+EDITED wwang: 08/18/2011
+

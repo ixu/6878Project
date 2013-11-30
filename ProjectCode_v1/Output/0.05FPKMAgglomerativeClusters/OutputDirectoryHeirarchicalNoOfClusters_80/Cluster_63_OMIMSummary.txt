@@ -1,0 +1,1399 @@
+300810	TITLE *300810 MICRO RNA 98; MIR98
+;;miRNA98;;
+MIRN98
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR98, are endogenous noncoding RNAs of
+about 22 nucleotides that bind complementary sequences within the
+3-prime UTRs of target mRNAs, leading to translational repression and/or
+mRNA cleavage (Hu et al., 2009).
+
+CLONING
+
+Mourelatos et al. (2002) identified MIR98 as 1 of at least 40 miRNAs
+present in a large 15S RNP complex containing EIF2C2 (606229), GEMIN3
+(606168), and GEMIN4 (606969). The MIR98 sequence is
+UGAGGUAGUAAGUUGUAUUGUU.
+
+GENE FUNCTION
+
+Hu et al. (2009) noted that miRNAs have been implicated in the fine
+tuning of the Toll-like receptor (TLR; see 603030)-mediated inflammatory
+response. Using Northern and Western blot analyses and PCR with human
+cholangiocytes, which express multiple TLRs, Hu et al. (2009) showed
+that MIR98 and LET7 (see MIRNLET7A1; 605386) regulated CIS (CISH;
+602441) protein expression via translational suppression. CIS expression
+was upregulated by lipopolysaccharide (LPS) or Cryptosporidium parvum
+exposure, and this upregulation involved downregulation of MIR98 and
+LET7, which relieved MIR98- and LET7-mediated translational repression
+of CIS. Gain- and loss-of-function studies showed that CIS accelerated
+degradation of IKBA (NFKBIA; 164008) and enhanced NFKB (see 164011)
+activation in cholangiocytes in response to LPS stimulation or C. parvum
+exposure.
+
+MAPPING
+
+By genomic sequence analysis, Mourelatos et al. (2002) mapped the MIR98
+gene to chromosome X.
+
+REFERENCE 1. Hu, G.; Zhou, R.; Liu, J.; Gong, A.-Y.; Eischeid, A. N.; Dittman,
+J. W.; Chen, X.-M.: MicroRNA-98 and let-7 confer cholangiocyte expression
+of cytokine-inducible Src homology 2-containing protein in response
+to microbial challenge. J. Immun. 183: 1617-1624, 2009.
+
+2. Mourelatos, Z.; Dostie, J.; Paushkin, S.; Sharma, A.; Charroux,
+B.; Abel, L.; Rappsilber, J.; Mann, M.; Dreyfuss, G.: miRNPs: a novel
+class of ribonucleoproteins containing numerous microRNAs. Genes
+Dev. 16: 720-728, 2002.
+
+CREATED Paul J. Converse: 12/11/2009
+
+EDITED mgross: 12/11/2009
+
+602352	TITLE *602352 GONADOTROPIN-RELEASING HORMONE 2; GNRH2
+DESCRIPTION Gonadotropin-releasing hormone 1 (GNRH1; 152760) is a decapeptide widely
+known for its role in regulating reproduction by serving as a signal
+from the hypothalamus to pituitary gonadotropes. This function for GNRH1
+has been highly conserved during 500 million years of vertebrate
+evolution despite the fact that its amino acid sequence varies by 50%.
+In addition to the hypothalamic GNRH1 of variable sequence, many
+vertebrate species express a second, invariant GNRH form, GNRH-II (or
+GNRH2), with the primary structure
+gln-his-trp-ser-his-gly-trp-tyr-pro-gly. Antibody staining demonstrates
+GNRH2 in the midbrain of all species where its location has been
+described (Kasten et al., 1996). Furthermore, nucleic acid probes have
+been used to identify GNRH2 expression in the midbrain of several fish
+species and one mammal. White et al. (1998) showed that a gene encoding
+GNRH2 is expressed in humans and is located on chromosome 20p13,
+distinct from the GNRH1 gene on 8p21-p11.2. The genomic and mRNA
+structures of GNRH2 parallel those of GNRH1. However, in contrast to
+GNRH1, GNRH2 is expressed at significantly higher levels outside the
+brain (up to 30-fold), particularly in the kidney, bone marrow, and
+prostate. The widespread expression of GNRH2 suggests it may have
+multiple functions. Molecular phylogenetic analysis shows that GNRH2 is
+likely the result of a duplication before the appearance of vertebrates,
+and predicts the existence of a third GNRH form in humans and other
+vertebrates. White et al. (1998) used fluorescence in situ hybridization
+to map GNRH2 to 20p13.
+
+Chen et al. (2002) found that human normal and leukemic T cells produce
+GNRH2 and GNRH1. Exposure of normal or cancerous human or mouse T cells
+to GNRH2 or GNRH1 triggered de novo gene transcription and cell-surface
+expression of the laminin receptor (150370), which is involved in
+cellular adhesion and migration and in tumor invasion and metastasis.
+GNRH2 or GNRH1 also induced adhesion to laminin and chemotaxis toward
+SDF1A (600835), and augmented entry in vivo of metastatic T-lymphoma
+into the spleen and bone marrow. Homing of normal T cells into specific
+organs was reduced in mice lacking GNRH1. A specific GNRH1 receptor
+antagonist blocked GNRH1 but not GNRH2-induced effects, which was
+suggestive of signaling through distinct receptors. Chen et al. (2002)
+suggested that GNRH2 and GNRH1, secreted from nerves or autocrine or
+paracrine sources, interact directly with T cells and trigger gene
+transcription, adhesion, chemotaxis, and homing to specific organs.
+
+REFERENCE 1. Chen, A.; Ganor, Y.; Rahimipour, S.; Ben-Aroya, N.; Koch, Y.; Levite,
+M.: The neuropeptides GnRH-II and GnRH-I are produced by human T
+cells and trigger laminin receptor gene expression, adhesion, chemotaxis
+and homing to specific organs. Nature Med. 8: 1421-1426, 2002.
+
+2. Kasten, T. L.; White, S. A.; Norton, T. T.; Bond, C. T.; Adelman,
+J. P.; Fernald, R. D.: Characterization of two new preproGnRH mRNAs
+in the tree shrew: first direct evidence for mesencephalia GnRH gene
+expression in a placental mammal. Gen. Comp. Endocr. 104: 7-19,
+1996.
+
+3. White, R. B.; Eisen, J. A.; Kasten, T. L.; Fernald, R. D.: Second
+gene for gonadotropin-releasing hormone in humans. Proc. Nat. Acad.
+Sci. 95: 305-309, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/13/2003
+
+CREATED Victor A. McKusick: 2/13/1998
+
+EDITED alopez: 02/19/2003
+terry: 2/13/2003
+dholmes: 3/10/1998
+mark: 2/13/1998
+
+604065	TITLE *604065 CALCIUM CHANNEL, VOLTAGE-DEPENDENT, T TYPE, ALPHA-1G SUBUNIT; CACNA1G
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-activated calcium channels can be distinguished based on their
+voltage-dependence, deactivation, and single-channel conductance. See
+601011. Low-voltage-activated calcium channels are referred to as 'T'
+type because their currents are both transient, owing to fast
+inactivation, and tiny, owing to small conductance. T-type channels are
+thought to be involved in pacemaker activity, low-threshold calcium
+spikes, neuronal oscillations and resonance, and rebound burst firing.
+
+CLONING
+
+By searching an EST database for sequences related to calcium channels,
+Perez-Reyes et al. (1998) identified a partial human cDNA encoding a
+novel channel that they designated alpha-1G or Ca(V)T.1. The authors
+used the partial cDNA to isolate additional human, rat, and mouse
+alpha-1G cDNAs. Northern blot analysis of human and rat tissues
+indicated that the alpha-1G gene was expressed as an 8.5-kb mRNA
+predominantly in brain. An additional 9.7-kb transcript was also
+detected. When expressed in Xenopus oocytes, the rat alpha-1G channel
+exhibited the properties of a low-voltage-activated T-type calcium
+channel.
+
+Jagannathan et al. (2002) found that multiple isoforms of CACNA1G and at
+least 2 isoforms of CACNA1H (607904) are generated by alternative
+splicing and are expressed in testis. In situ hybridization localized
+transcripts both in germ cells and in other testis cell types. Within
+cardiac tissue, both CACNA1G and CACNA1H were expressed in vascular
+tissue and not in myocytes.
+
+GENE FUNCTION
+
+By whole-cell patch clamp, Jagannathan et al. (2002) detected T-type
+voltage-operated Ca(2+) channel currents in isolated round spermatids.
+Currents were consistent with those generated by CACNA1H or CACNA1G
+channels.
+
+By action potential clamp studies, Chemin et al. (2002) found
+significant differences in the biochemical properties of CACNA1G,
+CACNA1H, and CACNA1I (608230) following transient transfection in human
+embryonic kidney cells. Using firing activities recorded in dissociated
+rat cerebellar Purkinje neurons and thalamocortical relay neurons as
+voltage-clamp waveforms, they showed that CACNA1I currents contributed
+to sustained electrical activities, while CACNA1G and CACNA1H currents
+generated short burst firing. Chemin et al. (2002) hypothesized that
+each of the T-channel pore-forming subunits displays specific gating
+properties that uniquely contribute to neuronal firing and that CACNA1I
+channels provide pacemaker activity.
+
+MAPPING
+
+By FISH and radiation hybrid analysis, Perez-Reyes et al. (1998) mapped
+the CACNA1G gene to 17q22. Using interspecific backcross analysis, they
+mapped the mouse Cacna1g gene to the distal portion of chromosome 11, in
+a region showing homology of synteny with 17q22.
+
+ANIMAL MODEL
+
+To investigate whether T-type Ca(2+) channels in thalamocortical relay
+(TC) neurons are involved in the generation of spike-and-wave discharges
+(SWDs), Kim et al. (2001) used gene targeting to generate a null
+mutation of CACNA1G that encodes the pore-forming subunit of T-type
+Ca(2+) channels. The knockout mice grew normally and were fertile.
+General development of the brain and major organs appeared normal. Using
+pharmacologic models, Kim et al. (2001) analyzed the ability of mutant
+mice to generate SWDs. The thalamocortical relay neurons of the knockout
+mice lacked the burst mode firing of action potentials, whereas they
+showed the normal pattern of tonic mode firing. The knockout thalamus
+was specifically resistant to the generation of SWDs in response to
+GABA-B receptor (see 603540) activation. Kim et al. (2001) concluded
+that the modulation of the intrinsic firing pattern mediated by CACNA1G
+T-type Ca(2+) channels plays a critical role in the generation of GABA-B
+receptor-mediated SWDs in the thalamocortical pathway, the hallmark of
+absence seizures.
+
+Sensations from viscera, like fullness, easily become painful if the
+stimulus persists. Kim et al. (2003) demonstrated that mice lacking
+alpha 1G T-type calcium channels show hyperalgesia to visceral pain.
+Thalamic infusion of a T-type blocker induced similar hyperalgesia in
+wildtype mice. In response to visceral pain, the ventroposterolateral
+thalamic neurons evoked a surge of single spikes, which then slowly
+decayed as T type-dependent burst spikes gradually increased. In
+alpha-1G-deficient neurons, the single-spike response persisted without
+burst spikes. Kim et al. (2003) concluded that T-type calcium channels
+underlie an antinociceptive mechanism operating in the thalamus and that
+their findings support the idea that burst firing plays a critical role
+in sensory gating in the thalamus.
+
+REFERENCE 1. Chemin, J.; Monteil, A.; Perez-Reyes, E.; Bourinet, E.; Nargeot,
+J.; Lory, P.: Specific contribution of human T-type calcium channel
+isotypes (alpha-1G, alpha-1H, and alpha-1I) to neuronal excitability. J.
+Physiol. 540: 3-14, 2002.
+
+2. Jagannathan, S.; Punt, E. L.; Gu, Y.; Arnoult, C.; Sakkas, D.;
+Barratt, C. L. R.; Publicover, S. J.: Identification and localization
+of T-type voltage-operated calcium channel subunits in human male
+germ cells: expression of multiple isoforms. J. Biol. Chem. 277:
+8449-8456, 2002.
+
+3. Kim, D.; Park, D.; Choi, S.; Lee, S.; Sun, M.; Kim, C.; Shin, H.-S.
+: Thalamic control of visceral nociception mediated by T-type Ca(2+)
+channels. Science 302: 117-119, 2003.
+
+4. Kim, D.; Song, I.; Keum, S.; Lee, T.; Jeong, M.-J.; Kim, S.-S.;
+McEnery, M. W.; Shin, H.-S.: Lack of the burst firing of thalamocortical
+relay neurons and resistance to absence seizures in mice lacking alpha-1G
+T-type Ca(2+) channels. Neuron 31: 35-45, 2001.
+
+5. Perez-Reyes, E.; Cribbs, L. L.; Daud, A.; Lacerda, A. E.; Barclay,
+J.; Williamson, M. P.; Fox, M.; Rees, M.; Lee, J.-H.: Molecular characterization
+of a neuronal low-voltage-activated T-type calcium channel. Nature 391:
+896-900, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/06/2003
+Ada Hamosh - updated: 10/29/2003
+Patricia A. Hartz - updated: 6/20/2003
+Dawn Watkins-Chow - updated: 2/1/2002
+
+CREATED Rebekah S. Rasooly: 7/26/1999
+
+EDITED mgross: 11/06/2003
+alopez: 10/29/2003
+mgross: 6/20/2003
+carol: 2/12/2002
+terry: 2/1/2002
+mgross: 7/26/1999
+
+612745	TITLE *612745 MICRO RNA 181B2; MIR181B2
+;;miRNA181B2;;
+MIRN181B2
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR181B, are short noncoding RNAs that
+repress translation or induce cleavage of target mRNAs with which they
+interact (Ciafre et al., 2005). Two distinct genes, MIR181B1 (612744)
+and MIR181B2, encode the same mature MIR181B miRNA.
+
+GENE FUNCTION
+
+Using microarray and Northern blot analyses, Ciafre et al. (2005) found
+that expression of MIR181B was significantly downregulated in primary
+glioblastomas and human glioblastoma cell lines compared with normal
+brain tissue.
+
+MAPPING
+
+Hartz (2009) mapped the MIR181B2 gene to chromosome 9q33.3 based on an
+alignment of the MIR181B2 stem-loop sequence
+(CUGAUGGCUGCACUCAACAUUCAUUGCUGUCGGUGGGUUUGAGUCUGAAUCAACUCACUGAUCAAUGAAUG
+CAAACUGCGGACCAAACA) with the genomic sequence (build 36.1).
+
+REFERENCE 1. Ciafre, S. A.; Galardi, S.; Mangiola, A.; Ferracin, M.; Liu, C.-G.;
+Sabatino, G.; Negrini, M.; Maira, G.; Croce, C. M.; Farace, M. G.
+: Extensive modulation of a set of microRNAs in primary glioblastoma. Biochem.
+Biophys. Res. Commun. 334: 1351-1358, 2005.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  4/21/2009.
+
+CREATED Patricia A. Hartz: 4/21/2009
+
+EDITED mgross: 04/21/2009
+
+604450	TITLE *604450 PROTEASOME 26S SUBUNIT, NON-ATPase, 12; PSMD12
+;;p55
+DESCRIPTION The 26S proteasome is responsible for the ATP-dependent degradation of a
+variety of cellular proteins. Selective breakdown of these proteins is
+mediated by the ubiquitin pathway. The 26S proteasome is a 2,000-kD
+protein complex composed of the 20S proteasome, which is the catalytic
+subcomplex, and PA700, which is the regulatory subcomplex. The
+approximately 700-kD PA700 complex consists of approximately 20
+heterogeneous proteins ranging from 25 to 112 kD. These subunits can be
+divided into 2 classes, those that are members of the AAA (ATPases
+associated with various cellular activities) family and those that are
+not.
+
+Saito et al. (1997) sequenced peptides from the p55 subunit of the
+bovine PA700 complex. They identified a human EST encoding a homologous
+protein and used this EST to isolate hepatoblastoma HepG2 cell cDNAs
+encoding human p55, also called PSMD12. The deduced 456-amino acid
+PSMD12 protein has a calculated molecular mass of 52,903 Da. The authors
+identified a putative S. cerevisiae homolog, which they named NAS5, that
+shares 41.1% amino acid sequence identity with PSMD12. Disruption of the
+NAS5 gene resulted in lethality.
+
+REFERENCE 1. Saito, A.; Watanabe, T. K.; Shimada, Y.; Fujiwara, T.; Slaughter,
+C. A.; DeMartino, G. N.; Tanahashi, N.; Tanaka, K.: cDNA cloning
+and functional analysis of p44.5 and p55, two regulatory subunits
+of the 26S proteasome. Gene 203: 241-250, 1997.
+
+CREATED Patti M. Sherman: 1/20/2000
+
+EDITED mgross: 01/21/2000
+psherman: 1/20/2000
+
+608513	TITLE *608513 RIBONUCLEASE P, RNA COMPONENT H1; RPPH1
+;;H1 RNA; H1RNA
+DESCRIPTION 
+DESCRIPTION
+
+H1RNA is the RNA component of the RNase P ribonucleoprotein, an
+endoribonuclease that cleaves tRNA precursor molecules to form the
+mature 5-prime termini of their tRNA sequences (Baer et al., 1989).
+
+CLONING
+
+Bartkiewicz et al. (1989) purified RNase P from HeLa cell extracts and,
+using this as template, synthesized and cloned H1RNA cDNA. The deduced
+340-nucleotide transcript does not contain a 5-prime cap structure. The
+5-prime and 3-prime termini are complementary, and the authors predicted
+that they are hydrogen bonded.
+
+Baer et al. (1989) cloned an H1RNA cDNA, including its flanking regions,
+from human spleen DNA. In vitro transcription of H1RNA cDNA using S100
+and whole HeLa cell extracts confirmed synthesis of a transcript
+containing about 340 nucleotides. The mature form of H1RNA did not
+appear to be derived from a larger precursor molecule. Inhibitor studies
+indicated that H1RNA is transcribed by RNA polymerase (Pol) III (see
+606007).
+
+GENE FUNCTION
+
+Following depletion of RNase P from HeLa cell extracts, Reiner et al.
+(2006) found a severe deficiency in Pol III-mediated transcription of
+tRNA and other small noncoding RNA genes. Targeted cleavage of the H1RNA
+moiety of RNase P altered enzyme specificity and diminished Pol III
+transcription. Similarly, inactivation of RNase P protein subunits, such
+as RPP38 (606116), by small interfering RNA inhibited Pol III function
+and Pol III-directed promoter activity in the cell. RNase P exerted its
+role in transcription through association with Pol III and chromatin of
+active tRNA and 5S rRNA (180420) genes. Reiner et al. (2006) concluded
+that RNase P has a role in Pol III transcription and that transcription
+and early tRNA processing may be coordinated.
+
+GENE STRUCTURE
+
+Baer et al. (1989) determined that the flanking regions of the H1RNA
+gene contain transcriptional control elements characteristic of both RNA
+polymerase II and RNA polymerase III.
+
+Myslinski et al. (2001) analyzed the H1RNA promoter region using various
+transcription assays on mutant templates and DNA binding assays with
+recombinant proteins. They found that the DNA elements required for
+H1RNA transcription are typical of vertebrate small nuclear RNA promoter
+elements. However, the promoter is unusually compact and is contained
+within 100 bp of 5-prime flanking sequences.
+
+MAPPING
+
+By Southern blot analyses, Bartkiewicz et al. (1989) determined that
+there are no more than 3 H1RNA genes, and Baer et al. (1989) predicted
+that there is only a single gene. Baer et al. (1989) mapped the H1RNA
+gene to chromosome 14q just below the centromere by analyzing a panel of
+mouse-human hybrid chromosomes and by in situ hybridization.
+
+REFERENCE 1. Baer, M.; Nilsen, T. W.; Costigan, C.; Altman, S.: Structure and
+transcription of a human gene for H1 RNA, the RNA component of human
+RNase P. Nucleic Acids Res. 18: 97-103, 1989.
+
+2. Bartkiewicz, M.; Gold, H.; Altman, S.: Identification and characterization
+of an RNA molecule that copurifies with RNase P activity from HeLa
+cells. Genes Dev. 3: 488-499, 1989.
+
+3. Myslinski, E.; Ame, J.-C.; Krol, A.; Carbon, P.: An unusually
+compact external promoter for RNA polymerase III transcription of
+the human H1RNA gene. Nucleic Acids Res. 29: 2502-2509, 2001.
+
+4. Reiner, R.; Ben-Asouli, Y.; Krilovetzky, I.; Jarrous, N.: A role
+for the catalytic ribonucleoprotein RNase P in RNA polymerase III
+transcription. Genes Dev. 20: 1621-1635, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 7/17/2006
+
+CREATED Patricia A. Hartz: 3/8/2004
+
+EDITED mgross: 07/19/2006
+terry: 7/17/2006
+mgross: 3/8/2004
+
+611325	TITLE *611325 TRANSFORMING GROWTH FACTOR-BETA REGULATOR 4; TBRG4
+;;KIAA0948;;
+CELL CYCLE PROGRESSION RESTORATION 2; CPR2
+DESCRIPTION 
+CLONING
+
+By screening a hepatoma cDNA expression library for clones that could
+block mating pheromone-induced G1 arrest in yeast, Edwards et al. (1997)
+cloned TBRG4, which they called CPR2. The deduced protein contains
+multiple putative leucine zipper domains characteristic of transcription
+factors.
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Nagase et al. (1999) cloned TBRG4, which they designated
+KIAA0948. The transcript contains several repetitive elements in the
+3-prime untranslated region. The deduced 521-amino acid protein shares
+significant similarity with rat Cpr2. RT-PCR ELISA detected moderate
+expression in ovary, and little to no expression in all other tissues
+and specific brain regions examined.
+
+MAPPING
+
+By FISH, Edwards et al. (1997) mapped the TBRG4 gene to chromosome
+7p14-p13.
+
+REFERENCE 1. Edwards, M. C.; Liegeois, N.; Horecka, J.; DePinho, R. A.; Sprague,
+G. F., Jr.; Tyers, M.; Elledge, S. J.: Human CPR (cell cycle progression
+restoration) genes impart a Far- phenotype on yeast cells. Genetics 147:
+1063-1076, 1997.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+CREATED Patricia A. Hartz: 8/15/2007
+
+EDITED carol: 08/16/2007
+carol: 8/15/2007
+
+601271	TITLE *601271 GUANYLATE CYCLASE ACTIVATOR 2B; GUCA2B
+;;UROGUANYLIN; UGN;;
+GUANYLATE CYCLASE C ACTIVATING PEPTIDE II;;
+GCAP II
+DESCRIPTION 
+DESCRIPTION
+
+Uroguanylin and guanylin (GUCA2A; 139392), peptide homologs of the
+bacterial heat-stable enterotoxins (e.g., the E. coli ST toxin; STa),
+are endogenous activators of the guanylate cyclase-2C receptor (GUCY2C;
+601330), which synthesizes cyclic GMP (cGMP), a key component of several
+intracellular signal transduction pathways.
+
+CLONING
+
+- Peptide Isolation
+
+Kita et al. (1994) searched for members of the guanylin-like family and
+purified a 16-amino acid peptide, which they termed uroguanylin, from
+human urine. The uroguanylin peptide shares amino acid sequence homology
+with guanylin. By systematic isolation of circulating regulatory
+peptides that generate cGMP as second messengers, Hess et al. (1995)
+identified a 24-amino acid peptide with a molecular mass of 2.6 kD,
+which they termed guanylate cyclase C activating peptide II (GCAP II),
+and identified as the 'circulating form of uroguanylin.' The 16
+C-terminal amino acids are identical to uroguanylin, and 8 of 13
+C-terminal residues are conserved between GCAP II, uroguanylin, and E.
+coli STa. By immunohistochemistry, Hess et al. (1995) showed that GCAP
+II localized to enteroendocrine cells of colonic mucosa.
+
+- Gene Isolation
+
+Using human uroguanylin cDNA as a probe to screen a human genomic
+library, Miyazato et al. (1997) isolated the gene for uroguanylin and
+determined the full-length sequence, which encodes a deduced 112-amino
+acid protein. The entire nucleotide sequence that corresponds to the 16
+amino acid residues of mature uroguanylin is included in the third exon.
+The GUCA2B gene also has multiple binding sites for the
+promoter-specific transcription factors AP1 (165160) and AP2 (107580),
+and a cAMP-regulated enhancer element. RNA blot analysis showed that the
+human uroguanylin mRNA is expressed in the gastric fundus and pylorus,
+as well as in the intestine.
+
+Whitaker et al. (1997) cloned the mouse Guca2b gene (which the authors
+referred to as Guca1b). In the mouse, uroguanylin mRNA is most prominent
+in the proximal small intestine, whereas guanylin mRNA is predominantly
+expressed in distal small intestine and colon. The upstream promoter
+sequence of the mouse uroguanylin gene contains consensus binding sites
+for several known transcription factors, including HNF1 (142410) and Sp1
+(189906).
+
+GENE STRUCTURE
+
+Miyazato et al. (1997) determined that the human GUCA2B gene contains 3
+exons.
+
+Whitaker et al. (1997) found that the mouse uroguanylin and guanylin
+genes are structurally similar, both being composed of 3 short exons.
+
+MAPPING
+
+By fluorescence in situ hybridization, Miyazato et al. (1997) mapped the
+human GUCA2B gene to chromosome 1p34-p33.
+
+Whitaker et al. (1997) demonstrated that the mouse Guca2b gene is
+tightly linked to the guanylin gene on mouse chromosome 4.
+
+GENE FUNCTION
+
+Kita et al. (1994) found that synthetic uroguanylin increased cGMP
+levels in T84 cells, competed for receptors with (125)I-labeled ST, and
+stimulated chloride secretion. Kita et al. (1994) discussed the
+bioactivity of human uroguanylin in light of their previous
+investigation of uroguanylin from opossum urine (Hamra et al., 1993).
+
+Whitaker et al. (1997) noted that uroguanylin is an endogenous ligand of
+the intestinal receptor guanylate cyclase-C and stimulates an increase
+in cGMP, inducing chloride secretion via the cystic fibrosis
+transmembrane conductance regulator (CFTR; 602421). Although their
+structural homologies and similar bioactivities suggest that guanylin
+and uroguanylin are members of the same peptide family, their tissue
+gene expression patterns differ, indicating that they may have different
+roles in the regulation of epithelial functions.
+
+Kinoshita et al. (1997) found significantly higher urinary excretion of
+uroguanylin in persons on a high-salt rather than a low-salt diet. In
+addition, their concentration of plasma uroguanylin increased with
+increasing serum creatinine, and the 10-kD precursor of uroguanylin
+increased as the severity of renal impairment increased. The findings
+suggested that uroguanylin is involved in the regulation of electrolyte
+homeostasis by the kidney.
+
+In a review of the functions of uroguanylin, Forte et al. (1996) noted
+that uroguanylin receptors are present on the luminal surface of
+epithelial cells lining the intestinal tract and renal proximal tubules,
+leading to salt and water secretion into the intestinal lumen as well as
+the renal tubules. Uroguanylin mRNA is also expressed in both atria and
+ventricles of the heart. Since uroguanylin circulates in the plasma of
+normal individuals, it may function as an intestinal natriuretic hormone
+and its secretion may be influenced by dietary levels of salt.
+
+EVOLUTION
+
+Whitaker et al. (1997) speculated that uroguanylin and guanylin may
+represent gene duplications that have evolved to allow overlapping and
+complementary patterns of expression in the intestine.
+
+ANIMAL MODEL
+
+Lorenz et al. (2003) found that transgenic uroguanylin knockout mice had
+in an impaired ability to excrete an enteral load of NaCl, primarily due
+to an inappropriate increase in renal Na+ absorption. They also had an
+increase in mean arterial blood pressure that was independent of the
+level of dietary salt intake. The authors concluded that uroguanylin
+plays a role in an enteric-renal communication axis in the maintenance
+of salt homeostasis in vivo.
+
+REFERENCE 1. Forte, L. R.; Fan, X.; Hamra, F. K.: Salt and water homeostasis:
+uroguanylin is a circulating peptide hormone with natriuretic activity. Am.
+J. Kidney Dis. 28: 296-304, 1996.
+
+2. Hamra, F. K.; Forte, L. R.; Eber, S. L.; Pidhorodeckyj, N. V.;
+Krause, W. J.; Freeman, R. H.; Chin, D. T.; Tompkins, J. A.; Fok,
+K. F.; Smith, C. E.; Duffin, K. L.; Siegel, N. R.; Currie, M. G.:
+Uroguanylin: structure and activity of a second endogenous peptide
+that stimulates intestinal guanylate cyclase. Proc. Nat. Acad. Sci. 90:
+10464-10468, 1993.
+
+3. Hess, R.; Kuhn, M.; Schulz-Knappe, P.; Raida, M.; Fuchs, M.; Klodt,
+J.; Adermann, K.; Kaever, V.; Cetin, Y.; Forssmann, W.-G.: GCAP-II:
+isolation and characterization of the circulating form of human uroguanylin. FEBS
+Lett. 374: 34-38, 1995.
+
+4. Kinoshita, H.; Fujimoto, S.; Nakazato, M.; Yokota, N.; Date, Y.;
+Yamaguchi, H.; Hisanaga, S; Eto, T.: Urine and plasma levels of uroguanylin
+and its molecular forms in renal diseases. Kidney Int. 52: 1028-1034,
+1997.
+
+5. Kita, T.; Smith, C. E.; Fok, K. F.; Duffin, K. L.; Moore, W. M.;
+Karabatsos, P. J.; Kachur, J. F.; Hamra, F. K.; Pidhorodeckyj, N.
+V.; Forte, L. R.; Currie, M. G.: Characterization of human uroguanylin:
+a member of the guanylin peptide family. Am. J. Physiol. 266: F342-F348,
+1994.
+
+6. Lorenz, J. N.; Nieman, M.; Sabo, J.; Sanford, L. P.; Hawkins, J.
+A.; Elitsur, N.; Gawenis, L. R.; Clarke, L. L.; Cohen, M. B.: Uroguanylin
+knockout mice have increased blood pressure and impaired natriuretic
+response to enteral NaCl load. J. Clin. Invest. 112: 1244-1254,
+2003.
+
+7. Miyazato, M.; Nakazato, M.; Matsukura, S.; Kangawa, K.; Matsuo,
+H.: Genomic structure and chromosomal localization of human uroguanylin. Genomics 43:
+359-365, 1997.
+
+8. Whitaker, T. L.; Steinbrecher, K. A.; Copeland, N. G.; Gilbert,
+D. J.; Jenkins, N. A.; Cohen, M. B.: The uroguanylin gene (Guca1b)
+is linked to guanylin (Guca2) on mouse chromosome 4. Genomics 45:
+348-354, 1997. Note: Erratum: Genomics 66: 122 only, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - reorganized: 11/13/2003
+Cassandra L. Kniffin - updated: 11/10/2003
+Victor A. McKusick - updated: 12/8/1997
+Victor A. McKusick - updated: 10/8/1997
+
+CREATED Mark H. Paalman: 5/21/1996
+
+EDITED terry: 06/06/2012
+carol: 11/13/2003
+ckniffin: 11/10/2003
+mark: 12/11/1997
+terry: 12/8/1997
+mark: 10/15/1997
+terry: 10/8/1997
+mark: 5/21/1996
+terry: 5/21/1996
+
+180646	TITLE *180646 SMALL NUCLEOLAR RNA, H/ACA BOX, 62; SNORA62
+;;RNA, U108 SMALL NUCLEOLAR; RNU108;;
+RNA, E2 SMALL NUCLEOLAR; RNE2;;
+snoRNA, E2
+DESCRIPTION See 180645. Several of the known small nucleolar RNA (snoRNA) species
+have been shown to be required for processing of ribosomal RNA (rRNA)
+precursors. The genes of most of the known vertebrate snoRNA species are
+located in introns of mRNA precursors (Maxwell and Fournier, 1995). E2
+RNA is a nucleolar species that is 154-nucleotides long in the human.
+Selvamurugan and Eliceiri (1995) stated that it belongs to a new family
+of snoRNAs because it does not have the sequences named 'box C,'
+'C-prime,' or 'D' that are present in most vertebrate snoRNA species,
+and it does not bind fibrillarin (134795), the nucleolar protein
+associated with most snoRNAs. E2 snoRNA is found in all tissues tested
+in all vertebrates analyzed. Two observations are compatible with the
+possibility that the human E2 RNA gene may be intronic. First, the human
+gene lacks the intragenic flanking sequences that are functional in
+other genes. Second, the 5-prime end of E2 RNA is monophosphorylated,
+suggesting that it is formed by RNA processing. Intron-encoded snoRNAs
+have monophosphorylated 5-prime termini. Selvamurugan and Eliceiri
+(1995) demonstrated that the E2 gene resides in an intron of a
+laminin-binding protein, the 67-kD laminin receptor (LAMR1; 150370).
+Multiple copies (up to 16) of the LAMR1 gene per haploid genome are
+present in the human.
+
+REFERENCE 1. Maxwell, E. W.; Fournier, M. J.: The small nucleolar RNAs. Annu.
+Rev. Biochem. 64: 897-934, 1995.
+
+2. Selvamurugan, N.; Eliceiri, G. L.: The gene for human E2 small
+nucleolar RNA resides in an intron of a laminin-binding protein gene. Genomics 30:
+400-401, 1995.
+
+CREATED Victor A. McKusick: 11/1/1993
+
+EDITED mgross: 08/16/2007
+mgross: 1/20/2006
+psherman: 12/15/1999
+psherman: 12/14/1999
+psherman: 3/11/1999
+alopez: 2/21/1999
+terry: 7/7/1997
+terry: 3/26/1996
+mark: 1/14/1996
+carol: 11/1/1993
+
+603884	TITLE *603884 BCL2-ASSOCIATED ATHANOGENE 4; BAG4
+;;SILENCER OF DEATH DOMAINS; SODD
+DESCRIPTION 
+CLONING
+
+Tumor necrosis factor receptor-1 (TNFR1; 191190) and several other
+members of the TNF receptor superfamily, such as DR3 (603366), contain
+intracellular death domains and are capable of triggering apoptosis when
+activated by their respective ligands. However, TNFR1 self-associates
+and signals independently of ligand when overexpressed. Jiang et al.
+(1999) suggested the existence of a cellular mechanism to protect
+against ligand-independent signaling by TNFR1 and other death domain
+receptors. Using a yeast 2-hybrid assay with DR3 as bait, these authors
+identified a cDNA encoding a protein that they designated 'silencer of
+death domains' (SODD). The predicted 457-amino acid SODD protein
+migrates as a doublet of 60 kD on Western blots of mammalian cell
+extracts. Coimmunoprecipitation studies revealed that SODD is associated
+with TNFR1 in vivo. TNF treatment of cells released SODD from TNFR1,
+permitting the recruitment of proteins such as TRADD (603500) and TRAF2
+(601895) to the active TNFR1 signaling complex. Jiang et al. (1999)
+proposed that SODD is a negative regulatory protein that is normally
+associated with the death domain of TNFR1, inhibiting the intrinsic
+self-aggregation properties of the death domain and maintaining TNFR1 in
+an inactive, monomeric state. This inhibition is relieved by
+TNF-mediated receptor crosslinking, which triggers the rapid release of
+SODD, allowing the death domains of TNFR1 to self-associate and bind
+other proteins to form an active TNFR1 signaling complex. These authors
+found that SODD also interacted with DR3 in yeast 2-hybrid assays,
+suggesting that SODD association may be representative of a general
+mechanism for preventing spontaneous signaling by death
+domain-containing receptors.
+
+BAG1 (601497) binds the ATPase domains of Hsp70 (see 140550) and Hsc70
+(600816), modulating their chaperone activity. See BAG2 (603882).
+Takayama et al. (1999) identified cDNAs corresponding to BAG4 and 3
+other BAG1-like proteins. These authors suggested that interactions with
+various BAG family proteins allow opportunities for specification and
+diversification of Hsp70/Hsc70 chaperone functions.
+
+GENE FUNCTION
+
+Pancreatic cancer cells are resistant to TNFA-mediated apoptosis. By
+Northern blot analysis, Ozawa et al. (2000) detected a 5-fold increased
+expression of 3.5-kb SODD transcripts in pancreatic cancer cells and
+pancreatic cancer cell lines compared with normal pancreatic cells.
+Other gastrointestinal cancers (liver, esophagus, stomach, and colon)
+showed no increased SODD expression. In situ hybridization analysis
+revealed expression of SODD in the cytoplasm of cancer cells.
+
+By array CGH, Yang et al. (2006) analyzed the copy number and expression
+level of genes in the 8p12-p11 amplicon in 22 human breast cancer
+(114480) specimens and 7 breast cancer cell lines. Of the 21 potential
+genes identified, PCR analysis and functional analysis indicated that 3
+genes, LSM1 (607281), BAG4, and C8ORF4 (607702), are breast cancer
+oncogenes that can work in combination to influence a transformed
+phenotype in human mammary epithelial cells.
+
+MAPPING
+
+The BAG4 gene resides on chromosome 8p11 (Yang et al., 2006).
+
+REFERENCE 1. Jiang, Y.; Woronicz, J. D.; Liu, W.; Goeddel, D. V.: Prevention
+of constitutive TNF receptor 1 signaling by silencer of death domains. Science 283:
+543-546, 1999. Note: Erratum: Science 283: 1852 only, 1999.
+
+2. Ozawa, F.; Friess, H.; Zimmermann, A.; Kleeff, J.; Buchler, M.
+W.: Enhanced expression of silencer of death domains (SODD/BAG-4)
+in pancreatic cancer. Biochem. Biophys. Res. Commun. 271: 409-413,
+2000.
+
+3. Takayama, S.; Xie, Z.; Reed, J. C.: An evolutionarily conserved
+family of Hsp70/Hsc70 molecular chaperone regulators. J. Biol. Chem. 274:
+781-786, 1999.
+
+4. Yang, Z. Q.; Streicher, K. L.; Ray, M. E.; Abrams, J.; Ethier,
+S. P.: Multiple interacting oncogenes on the 8p11-p12 amplicon in
+human breast cancer. Cancer Res. 66: 11632-11643, 2006.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/4/2007
+Paul J. Converse - updated: 12/7/2000
+
+CREATED Rebekah S. Rasooly: 6/7/1999
+
+EDITED alopez: 11/19/2012
+wwang: 5/10/2007
+ckniffin: 5/4/2007
+mgross: 12/8/2000
+terry: 12/7/2000
+alopez: 6/7/1999
+
+600126	TITLE *600126 PHOSPHODIESTERASE 4A, cAMP-SPECIFIC; PDE4A
+;;DUNCE-LIKE PHOSPHODIESTERASE E2, FORMERLY; DPDE2, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Cyclic nucleotides are important second messengers that regulate and
+mediate a number of cellular responses to extracellular signals, such as
+hormones, light, and neurotransmitters. Cyclic nucleotide
+phosphodiesterases (PDEs) regulate the cellular concentrations of cyclic
+nucleotides and thereby play a role in signal transduction. PDE4A is a
+class IV cAMP-specific PDE (summary by Milatovich et al., 1994).
+
+CLONING
+
+Livi et al. (1990) isolated a cDNA for a cAMP phosphodiesterase from
+human monocytes. The deduced protein contains 686 amino acids. Northern
+blot analysis detected a predominant transcript of about 4.8 kb in
+primary human monocytes and placenta. Obernolte et al. (1993) identified
+the monocyte clone as the homolog of rat Pde4a.
+
+Using degenerate primers based on Drosophila dnc and rat Dpd to amplify
+human Dpd orthologs, followed by low-stringency hybridization of a brain
+cDNA library, Bolger et al. (1993) cloned full-length DPDE2, which they
+called PDE46, and a possible splice variant. The major transcript
+encodes a deduced 779-amino acid protein with 2 N-terminal domains that
+share a high degree of conservation with other DPDE proteins, and a
+C-terminal catalytic domain. Northern blot analysis detected a 4.5-kb
+DPDE2 transcript in normal human temporal cortex. RNase protection
+assays showed that DPDE2 was expressed in 6 of 7 cell lines examined.
+
+The difference in sequence within the 5-prime region of the open reading
+frame reported by Bolger et al. (1993) and Livi et al. (1990) was
+examined by Sullivan et al. (1994), who confirmed the sequence reported
+by Bolger et al. (1993).
+
+Sullivan et al. (1998) characterized the first 'short' PDE4A isoenzyme.
+Huston et al. (1996) had characterized the full-length human 'long'
+PDE4A isoenzyme.
+
+GENE FUNCTION
+
+Bolger et al. (1993) confirmed that DPDE2 showed cAMP PDE activity,
+which was inhibited by several cyclin nucleotide PDE inhibitors.
+
+Wilson et al. (1994) characterized the PDE4A enzyme.
+
+Growth hormone (GH; 139250) is an essential priming factor for the
+differentiation of 3T3-F442A mouse preadipocytes into mature adipocytes.
+MacKenzie et al. (1998) found that GH-mediated differentiation of
+3T3-F442A cells was accompanied by increased cAMP phosphodiesterase
+activity by a specific Pde4a isoform that they called Pde4a5. They
+showed that activation of Pde4a5 countered GH-mediated differentiation
+of 3T3-F442A cells. Activation of Pde4a5 was mediated by a
+phosphorylation pathway involving Jak2 (147796), PI3 kinase (see
+601232), and p70S6 (see 608938).
+
+Vecsey et al. (2009) demonstrated that sleep deprivation selectively
+impaired 3-prime, 5-prime-cAMP- and protein kinase A (PKA; see
+176911)-dependent forms of synaptic plasticity in the mouse hippocampus,
+reduced cAMP signaling, and increased activity and protein levels of
+PDE4, an enzyme that degrades cAMP. Treatment of mice with
+phosphodiesterase inhibitors rescued the sleep deprivation-induced
+deficits in cAMP signaling, synaptic plasticity, and
+hippocampus-dependent memory. Vecsey et al. (2009) concluded that their
+findings demonstrated that brief sleep deprivation disrupts hippocampal
+function by interfering with cAMP signaling through increased PDE4
+activity.
+
+GENE STRUCTURE
+
+Sullivan et al. (1998) determined that the PDE4A gene spans 50 kb and
+contains at least 17 exons.
+
+MAPPING
+
+Milatovich et al. (1994) assigned the PDE4A gene to human chromosome 19
+by Southern analysis of somatic cell hybrid lines and to mouse
+chromosome 9 by Southern analysis of recombinant inbred (RI) mouse
+strains. Horton et al. (1995) confirmed the localization of PDE4A to
+chromosome 19 by analysis of a human/hamster somatic cell hybrid panel.
+Using fluorescence in situ hybridization, they regionalized the gene to
+chromosome 19p13.2-q12.
+
+Sullivan et al. (1998) determined that the PDE4A gene is 350 kb proximal
+to TYK2 (176941) and 850 kb distal to LDLR (606945) on chromosome
+19p13.2.
+
+REFERENCE 1. Bolger, G.; Michaeli, T.; Martins, T.; St. John, T.; Steiner, B.;
+Rodgers, L.; Riggs, M.; Wigler, M.; Ferguson, K.: A family of human
+phosphodiesterases homologous to the dunce learning and memory gene
+product of Drosophila melanogaster are potential targets for antidepressant
+drugs. Molec. Cell. Biol. 13: 6558-6571, 1993.
+
+2. Horton, Y. M.; Sullivan, M.; Houslay, M. D.: Molecular cloning
+of a novel splice variant of human type IVA (PDE-IVA) cyclic AMP phosphodiesterase
+and localization of the gene to the p13.2-q12 region of human chromosome
+19. Biochem. J. 308: 683-691, 1995. Note: Erratum: Biochem. J. 312:
+991 only, 1995.
+
+3. Huston, E.; Pooley, L.; Julien, P.; Scotland, G.; McPhee, I.; Sullivan,
+M.; Bolger, G.; Houslay, M. D.: The human cyclic AMP-specific phosphodiesterase
+PDE-46 (HSPDE4A4B) expressed in transfected COS7 cells occurs as both
+particulate and cytosolic species that exhibit distinct kinetics of
+inhibition by the antidepressant rolipram. J. Biol. Chem. 271: 31334-31344,
+1996.
+
+4. Livi, G. P.; Kmetz, P.; McHale, M. M.; Cieslinski, L. B.; Sathe,
+G. M.; Taylor, D. P.; Davis, R. L.; Torphy, T. J.; Balcarek, J. M.
+: Cloning and expression of cDNA for a human low-K(m), rolipram-sensitive
+cyclic AMP phosphodiesterase. Molec. Cell. Biol. 10: 2678-2686,
+1990.
+
+5. MacKenzie, S. J.; Yarwood, S. J.; Peden, A. H.; Bolger, G. B.;
+Vernon, R. G.; Houslay, M. D.: Stimulation of p70S6 kinase via a
+growth hormone-controlled phosphatidylinositol 3-kinase pathway leads
+to the activation of a PDE4A cyclic AMP-specific phosphodiesterase
+in 3T3-F442A preadipocytes. Proc. Nat. Acad. Sci. 95: 3549-3554,
+1998.
+
+6. Milatovich, A.; Bolger, G.; Michaeli, T.; Francke, U.: Chromosome
+localizations of genes for five cAMP-specific phosphodiesterases in
+man and mouse. Somat. Cell Molec. Genet. 20: 75-86, 1994.
+
+7. Obernolte, R.; Bhakta, S.; Alvarez, R.; Bach, C.; Zuppan, P.; Mulkins,
+M.; Jarnagin, K.; Shelton, E. R.: The cDNA of a human lymphocyte
+cyclic-AMP phosphodiesterase (PDE IV) reveals a multigene family. Gene 129:
+239-247, 1993.
+
+8. Sullivan, M.; Egerton, M.; Shakur, Y.; Marquardsen, A.; Houslay,
+M. D.: Molecular cloning and expression, in both COS-1 cells and
+S. cerevisiae, of a human cytosolic type-IVA, cyclic AMP specific
+phosphodiesterase (hPDE-IVA-h6.1). Cell. Signal. 6: 793-812, 1994.
+
+9. Sullivan, M.; Rena, G.; Begg, F.; Gordon, L.; Olsen, A. S.; Houslay,
+M. D.: Identification and characterization of the human homologue
+of the short PDE4A cAMP-specific phosphodiesterase RD1 (PDE4A1) by
+analysis of the human HSPDE4A gene locus located at chromosome 19p13.2. Biochem.
+J. 333: 693-703, 1998.
+
+10. Vecsey, C. G.; Baillie, G. S.; Jaganath, D.; Havekes, R.; Daniels,
+A.; Wimmer, M.; Huang, T.; Brown, K. M.; Li, X.-Y.; Descalzi, G.;
+Kim, S. S.; Chen, T.; Shang, Y.-Z.; Zhuo, M.; Houslay, M. D.; Abel,
+T.: Sleep deprivation impairs cAMP signalling in the hippocampus. Nature 461:
+1122-1125, 2009.
+
+11. Wilson, M.; Sullivan, M.; Brown, N.; Houslay, M. D.: Purification,
+characterization and analysis of rolipram inhibition of a human-type
+IVA cyclic AMP-specific phosphodiesterase expressed in yeast. Biochem.
+J. 304: 407-415, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/30/2010
+Patricia A. Hartz - updated: 2/3/2010
+Ada Hamosh - updated: 12/22/2009
+Victor A. McKusick - updated: 8/17/1998
+
+CREATED Victor A. McKusick: 9/23/1994
+
+EDITED carol: 03/20/2013
+mgross: 11/30/2010
+terry: 11/30/2010
+mgross: 2/16/2010
+terry: 2/3/2010
+alopez: 1/7/2010
+terry: 12/22/2009
+mgross: 12/4/2009
+ckniffin: 6/5/2002
+carol: 12/9/1999
+dkim: 12/8/1998
+alopez: 8/20/1998
+terry: 8/17/1998
+jamie: 6/3/1997
+mark: 11/14/1995
+pfoster: 11/3/1995
+carol: 1/19/1995
+carol: 9/23/1994
+
+615036	TITLE *615036 MICRO RNA 410; MIR410
+;;miRNA410
+DESCRIPTION 
+DESCRIPTION
+
+Micro RNAs (miRNAs), such as MIR410, are small noncoding RNAs that
+downregulate gene expression by promoting mRNA degradation or preventing
+mRNA translation via sequence-specific interactions with target RNAs
+(Gattolliat et al., 2011).
+
+GENE FUNCTION
+
+A combination of age at diagnosis, stage of disease, and amplification
+of the MYCN gene (164840) define high- and low-risk neuroblastomas (see
+256700). Using microarray expression profiling and quantitative RT-PCR,
+Gattolliat et al. (2011) found that 15 of 17 miRNAs significantly
+downregulated in high-risk neuroblastomas originated from a large miRNA
+cluster on chromosome 14q. Of these, MIR410 and MIR487B (615037)
+exhibited the highest fold change and discriminated high-risk from
+low-risk neuroblastomas. Compared with high-risk neuroblastomas,
+low-risk neuroblastomas showed expression of both MIR410 and MIR487B,
+and MIR410 and MIR487B expression favored overall and disease-free
+survival. No loss of copy number at this locus was found in high-risk
+neuroblastomas, suggesting that downregulation of these miRNAs was
+likely the result of transcriptional or processing regulation.
+
+Richardson et al. (2013) found that MIR410 is a regulator of lipoprotein
+lipase (LPL; 609708) and that the minor allele C of the SNP dbSNP
+rs13702 in LPL (609708.0043) abolishes the response of a functional
+MIR410 recognition element in the LPL 3-prime untranslated region.
+
+MAPPING
+
+Gattolliat et al. (2011) stated that the MIR410 gene maps to a large
+miRNA cluster on chromosome 14q32.31.
+
+REFERENCE 1. Gattolliat, C.-H.; Thomas, L.; Ciafre, S. A.; Meurice, G.; Le Teuff,
+G.; Job, B.; Richon, C.; Combaret, V.; Dessen, P.; Valteau-Couanet,
+D.; May, E.; Busson, P.; Douc-Rasy, S.; Benard, J.: Expression of
+miR-487b and miR-410 encoded by 14q32.31 locus is a prognostic marker
+in neuroblastoma. Brit. J. Cancer 105: 1352-1361, 2011.
+
+2. Richardson, K.; Nettleton, J. A.; Rotllan, N.; Tanaka, T.; Smith,
+C. E.; Lai, C.-Q.; Parnell, L. D.; Lee, Y.-C.; Lahti, J.; Lemaitre,
+R. N.; Manichaikul, A.; Keller, M.; and 34 others: Gain-of-function
+lipoprotein lipase variant dbSNP rs13702 modulates lipid traits
+through disruption of a microRNA-410 seed site. Am. J. Hum. Genet. 92:
+5-14, 2013.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/25/2013
+
+CREATED Patricia A. Hartz: 1/24/2013
+
+EDITED alopez: 02/26/2013
+terry: 2/25/2013
+mgross: 1/24/2013
+
+613753	TITLE *613753 MICRO RNA 211; MIR211
+;;miRNA211;;
+MIRN211
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR211, are small noncoding RNAs that
+commonly basepair with sequences in the 3-prime UTRs of target mRNAs and
+either inhibit mRNA translation or cause mRNA destabilization (Krol et
+al., 2010).
+
+CLONING
+
+Krol et al. (2010) found that Mir211, Mir204 (610942), and the Mir183
+(611608)/Mir96 (611606)/Mir182 (611607) cluster were highly expressed in
+mouse retina. Quantitative RT-PCR showed that expression of Mir204 and
+Mir211 was enriched in the microdissected inner nuclear layer, whereas
+the Mir183/Mir9/Mir182 cluster was most abundant in photoreceptors.
+
+GENE FUNCTION
+
+Using expression arrays and quantitative RT-PCR, Krol et al. (2010)
+showed that expression of Mir211, Mir204, and the Mir183/Mir96/Mir182
+cluster was reversibly up- and downregulated in mouse retina during
+light and dark adaptation, respectively. Increased accumulation of these
+miRNAs upon light adaptation occurred independently of circadian rhythm.
+The half-lives of these and other miRNAs appeared to be much shorter in
+retinal neurons than in rod bipolar cells or Muller glia cells. Similar
+rapid miRNA decay was observed in cultured rodent neurons and mouse
+embryonic stem cell-derived neurons. Inhibitor studies revealed that
+miRNA turnover was stimulated by neuronal activity.
+
+Chen et al. (2010) found that miR211 regulates the vascular endothelial
+growth factor angiopoietin-1 (ANGPT1; 601667).
+
+MAPPING
+
+Hartz (2011) mapped the MIR211 gene to chromosome 15q13.3 based on an
+alignment of the mature MIR211 sequence (UUCCCUUUGUCAUCCUUCGCCU) with
+the genomic sequence (GRCh37).
+
+Krol et al. (2010) noted that the mouse Mir211 gene is located within an
+intron of the Trpm1 gene (603576).
+
+REFERENCE 1. Chen, J.; Yang, T.; Yu, H.; Sun, K.; Shi, Y.; Song, W.; Bai, Y.;
+Wang, X.; Lou, K.; Song, Y.; Zhang, Y.; Hui, R.: A functional variant
+in the 3-prime-UTR of angiopoietin-1 might reduce stroke risk by interfering
+with the binding efficiency of microRNA 211. Hum. Molec. Genet. 19:
+2524-2533, 2010.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/5/2011.
+
+3. Krol, J.; Busskamp, V.; Markiewicz, I.; Stadler, M. B.; Ribi, S.;
+Richter, J.; Duebel, J.; Bicker, S.; Fehling, H. J.; Schubeler, D.;
+Oertner, T. G.; Schratt, G.; Bibel, M.; Roska, B.; Filipowicz, W.
+: Characterizing light-regulated retinal microRNAs reveals rapid turnover
+as a common property of neuronal microRNAs. Cell 141: 618-631, 2010.
+
+CONTRIBUTORS George E. Tiller - updated: 08/08/2013
+
+CREATED Patricia A. Hartz: 2/21/2011
+
+EDITED alopez: 08/08/2013
+mgross: 2/21/2011
+
+604026	TITLE *604026 GOLGI SNAP RECEPTOR COMPLEX MEMBER 1; GOSR1
+;;GOS28;;
+GOLGI SNARE, 28-KD; GS28
+DESCRIPTION The specificity of vesicular transport is thought to be determined by
+correct pairing of vesicle-associated SNAREs (v-SNAREs) with those on
+the target membrane (t-SNAREs). This complex then recruits soluble NSF
+attachment proteins (SNAPs) and N-ethylmaleimide-sensitive factor (NSF;
+601633) to form a 20S fusion (or SNARE) complex. See SNAPA (603215).
+Nagahama et al. (1996) identified GOS28, a putative Golgi v-SNARE of 28
+kD that localized primarily to transport vesicles at the terminal rims
+of Golgi stacks. They demonstrated that GOS28 plays a role in
+intra-Golgi transport. Subramaniam et al. (1996) isolated cDNAs encoding
+rat GOS28, which they called p28 or GS28 (Golgi SNARE of 28 kD).
+Sequence analysis revealed that the predicted protein contained a
+central coiled-coil domain and a C-terminal membrane anchor. The authors
+found that GS28 is a core component of the Golgi 20S SNARE complex that
+participates in the docking or fusion stage of endoplasmic
+reticulum-Golgi transport. Lowe et al. (1997) reported that GS28 plays a
+role in transport from the endoplasmic reticulum to the cis- (inside
+face) and medial-Golgi, while the GS27 (604027) Golgi SNARE participates
+in protein movement from the medial-Golgi towards the trans- Golgi
+(plasma-membrane face) and the trans-Golgi network.
+
+By searching EST databases using the rat GS28 protein sequence, Bui et
+al. (1999) identified human GS28 cDNAs. The deduced 250-amino acid human
+protein is 97% identical to rat GS28. Independently, Mao et al. (1998)
+identified a human GOS28 cDNA among a collection of cDNAs expressed in
+hematopoietic stem/progenitor cells.
+
+By analysis of radiation hybrids and by fluorescence in situ
+hybridization, Bui et al. (1999) mapped the GS28 gene to 17q11.
+
+REFERENCE 1. Bui, T. D.; Levy, E. R.; Subramaniam, V. N.; Lowe, S. L.; Hong,
+W.: cDNA characterization and chromosomal mapping of human Golgi
+SNARE GS27 and GS28 to chromosome 17. Genomics 57: 285-288, 1999.
+
+2. Lowe, S. L.; Peter, F.; Subramaniam, V. N.; Wong, S. H.; Hong,
+W.: A SNARE involved in protein transport through the Golgi apparatus. Nature 389:
+881-884, 1997.
+
+3. Mao, M.; Fu, G.; Wu, J.-S.; Zhang, Q.-H.; Zhou, J.; Kan, L.-X.;
+Huang, Q.-H.; He, K.-L.; Gu, B.-W.; Han, Z.-G.; Shen, Y.; Gu, J.;
+Yu, Y.-P.; Xu, S.-H.; Wang, Y.-X.; Chen, S.-J.; Chen, Z.: Identification
+of genes expressed in human CD34+ hematopoietic stem/progenitor cells
+by expressed sequence tags and efficient full-length cDNA cloning. Proc.
+Nat. Acad. Sci. 95: 8175-8180, 1998.
+
+4. Nagahama, M.; Orci, L.; Ravazzola, M.; Amherdt, M.; Lacomis, L.;
+Tempst, P.; Rothman, J. E.; Sollner, T. H.: A v-SNARE implicated
+in intra-Golgi transport. J. Cell Biol. 133: 507-516, 1996.
+
+5. Subramaniam, V. N.; Peter, F.; Philp, R.; Wong, S. H.; Hong, W.
+: GS28, a 28-kilodalton Golgi SNARE that participates in ER-Golgi
+transport. Science 272: 1161-1163, 1996.
+
+CREATED Rebekah S. Rasooly: 7/19/1999
+
+EDITED alopez: 07/19/1999
+
+171640	TITLE *171640 PHOSPHATASE, ACID, TYPE 5, TARTRATE-RESISTANT; ACP5
+;;TARTRATE-RESISTANT ACID PHOSPHATASE; TRAP
+DESCRIPTION 
+CLONING
+
+Ketcham et al. (1988) cloned a full-length cDNA for type 5
+tartrate-resistant acid phosphatase from human placenta and found that
+it contained an open reading frame of 969 basepairs (corresponding to a
+protein of 323 amino acids), a putative signal sequence of 19 amino
+acids, and 2 potential glycosylation sites. The deduced amino acid
+sequence of the human isozyme is 85% identical to the amino acid
+sequence of porcine uteroferrin and 82% identical to the corresponding
+regions of a partial amino acid sequence of the bovine spleen enzyme.
+The type 5 isozyme of acid phosphatase is the most basic of the acid
+phosphatases and is the only form insensitive to inhibition by
+L(+)-tartrate. Normally, it is detected as a minor intracellular
+component of spleen, lung, liver, and bone. High levels of acid
+phosphatase-5 are found within the spleen and monocytes of patients with
+Gaucher disease (230800). The type 5 isozyme is an iron-containing
+glycoprotein with a molecular mass of approximately 34 kD.
+
+Lord et al. (1990) also isolated a clone for ACP5, which is found
+principally in resident tissue macrophages. They found that an ACP5 cDNA
+clone contained an open reading frame of 975 bp, encoded a protein of
+325 amino acids, including a single peptide of 19 residues and 2
+potential sites for N-glycosylation.
+
+MAPPING
+
+Allen et al. (1989) assigned the ACP5 gene to 15q22-q26 by in situ
+hybridization both to normal metaphase chromosomes and to the
+chromosomes of an individual carrying an unbalanced translocation
+involving chromosome 15. However, Grimes et al. (1993) showed that the
+Acp5 gene maps to mouse chromosome 9 in a group of genes that are
+homologous to a group of genes on 19p13.3-p13.1. By Southern blot
+analysis of somatic cell hybrids and use of a PCR method, Leach et al.
+(1994) confirmed the assignment of ACP5 to chromosome 19. By isotopic in
+situ hybridization, Lord et al. (1990) mapped the APC5 gene to
+19p13.3-p13.2 with a peak at 19p13.2.
+
+GENE FUNCTION
+
+Lord et al. (1990) found that the expression of ACP5 mRNA was restricted
+to mononuclear phagocytes and that the enzyme was induced more than
+20-fold on transformation of normal human monocytes to macrophages by
+culture in serum-supplemented medium.
+
+MOLECULAR GENETICS
+
+In 10 patients with spondyloenchondrodysplasia with immune dysregulation
+(SPENCDI; 607944) from 8 families, Briggs et al. (2011) identified
+homozygosity or compound heterozygosity for mutations in the ACP5 gene
+(see, e.g., 171640.0001-171640.0004). In vivo testing confirmed a loss
+of expressed protein, and all 8 cases assayed showed elevated serum
+interferon alpha (see IFNA1, 147660) activity, with gene expression
+profiling in whole blood defining a type I interferon signature.
+
+Simultaneously and independently, Lausch et al. (2011) mapped SPENCDI to
+chromosome 19p13 and identified homozygous or compound heterozygous
+mutations in the ACP5 gene in 14 affected individuals from 11 families
+(see, e.g., 171640.0004-171640.0007). Lausch et al. (2011) demonstrated
+that the mutations abolished TRAP enzyme function in serum and cells of
+affected individuals, and that phosphorylated osteopontin accumulated in
+serum, urine, and cells cultured from TRAP-deficient individuals.
+Case-derived dendritic cells exhibited an altered cytokine profile and
+were more potent than matched controls in stimulating allogeneic T-cell
+proliferation in mixed lymphocyte reactions.
+
+ANIMAL MODEL
+
+Hayman et al. (1996) observed that mice with a targeted disruption of
+the Acp5 gene, or Trap, suffered from developmental deformities of the
+limb and axial skeleton and had osteoclasts defective in bone
+resorption, resulting in mild osteopetrosis.
+
+Bune et al. (2001) determined that macrophages of Acp5-deficient mice
+had compensatory acid phosphatase activity attributable to the Acp2 gene
+(171650) and enhanced proinflammatory responses in vitro. However, mice
+lacking Acp5 showed delayed clearance of Staphylococcus aureus in vivo,
+which was associated with reduced numbers of peritoneal macrophages, in
+spite of normal macrophage and neutrophil phagocytosis and killing in
+vitro.
+
+ALLELIC VARIANT .0001
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, THR89ILE
+
+In a Turkish brother and sister with spondyloenchondrodysplasia and
+immune dysregulation (607944), born of first-cousin parents, Briggs et
+al. (2011) identified homozygosity for a 266C-T transition in exon 4 of
+the ACP5 gene, resulting in a thr89-to-ile (T89I) substitution at a
+highly conserved residue. The brother, who was previously reported by
+Navarro et al. (2008), presented at age 22 months with spasticity and a
+vasculitic skin rash. Upon evaluation at 11 years of age, plasma levels
+of total TRAP protein were negligible and TRAP 5a protein was
+undetectable, and he had spasticity and intracranial calcifications,
+elevated antinuclear antibody and anti-double-stranded DNA antibody
+titers, and hypocomplementemia. His older sister, who was evaluated at
+14 years of age for short stature, had a history of Raynaud phenomenon
+but did not have elevated ANA or anti-dsDNA titers; she was, however,
+found to have a high level of interferon-alpha (147660) in serum.
+
+.0002
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLN223TER
+
+In an 11-year-old Pakistani boy with spondyloenchondrodysplasia and
+immune dysregulation (607944), born of first-cousin parents and
+previously reported by Renella et al. (2006) as 'patient 10' (Crow,
+2011), Briggs et al. (2011) identified homozygosity for a 667C-T
+transition in the ACP5 gene, resulting in a gln223-to-ter (Q223X)
+substitution. Plasma levels of total TRAP protein were negligible and
+TRAP 5a protein was undetectable in this patient, indicating an almost
+complete lack of TRAP synthesis or secretion. In addition to skeletal
+manifestations, the patient had elevated antinuclear antibody and
+anti-double-stranded DNA antibody titers and autoimmune hemolytic
+anemia.
+
+.0003
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, MET264LYS
+
+In a female patient with spondyloenchondrodysplasia and immune
+dysregulation (607944), who was born of first-cousin parents of
+Portuguese descent and was originally reported by Roifman and Melamed
+(2003), Briggs et al. (2011) identified homozygosity for a 791T-A
+transversion in exon 7 of the ACP5 gene, resulting in a met264-to-lys
+(M264K) substitution. Computational analysis indicated that this change
+was likely to destabilize the structure of the protein. In addition to
+skeletal changes, the patient had a history of recurrent infections,
+elevated antinuclear antibody and anti-double-stranded DNA antibody
+titers, thrombocytopenia requiring splenectomy, nonerosive arthropathy,
+systemic lupus erythematosus, and hypothyroidism.
+
+.0004
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLY215ARG
+
+In a female patient from Mali with spondyloenchondrodysplasia and immune
+dysregulation (607944), Briggs et al. (2011) identified homozygosity for
+a 643G-A transition in exon 6 of the ACP5 gene, resulting in a
+gly215-to-arg (G215R) substitution. This patient, who presented at 6
+years of age with nephropathy, also had severe short stature with
+metaphyseal dysplasia, elevated antinuclear antibody and
+anti-double-stranded DNA antibody titers, and systemic lupus
+erythematosus with class V lupus nephritis on renal biopsy.
+
+In 2 unrelated girls with spondyloenchondrodysplasia, 14 years and 10
+years of age, respectively, Lausch et al. (2011) identified homozygosity
+for the G215R mutation in the ACP5 gene. In addition to skeletal
+changes, the older girl had chronic thrombocytopenia, ataxia,
+leukodystrophy, and basal ganglia calcifications, whereas the younger
+girl had only calcifications of the left globus pallidus without
+immunologic or neurologic symptoms. The mutation was not found in 228
+control alleles.
+
+.0005
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLY109ARG
+
+In 2 sibs with spondyloenchondrodysplasia and immune dysregulation
+(607944), Lausch et al. (2011) identified homozygosity for a 325G-A
+transition in exon 7 of the ACP5 gene, resulting in a gly109-to-arg
+(G109R) substitution. In addition to skeletal changes, both sibs had
+systemic lupus erythematosus, the older sib also had arthralgia and
+vitiligo, and the younger sib had arthritis; the older sib also had mild
+developmental delay and diffuse intracranial calcifications as well as
+of the basal ganglia, and the younger sib had basal ganglia and right
+frontal lobe calcifications, but neither sib displayed neurologic signs.
+In 2 additional affected individuals from unrelated families, 1 of whom
+was the patient originally reported by Scharer (1958), Lausch et al.
+(2011) identified compound heterozygosity for the G109R mutation and
+another mutation in the ACP5 gene (see 171640.0006 and 171640.0007).
+None of the mutations was found in 228 control alleles.
+
+.0006
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, 3-BP DEL, 831CTA
+
+In a 64-year-old Ashkenazi Jewish man with spondyloenchondrodysplasia
+and immune dysregulation (607944), who was originally reported by
+Scharer (1958) and later studied by Renella et al. (2006), Lausch et al.
+(2011) identified compound heterozygosity for mutations in the ACP5
+gene: a 3-bp deletion (813delCTA) in exon 7 and a G109R substitution
+(171640.0005). The patient was diagnosed with systemic lupus
+erythematosus at 9.5 years of age but was subsequently lost to
+follow-up; the diagnosis of spondyloenchondrodysplasia was made 40 years
+later upon reevaluation of his radiographs. In adulthood he had
+continued to have recurrent fevers and arthralgias and developed
+antiphospholipid syndrome, steroid-dependent neutropenia, and
+thrombocytopenia.
+
+.0007
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, LEU201PRO
+
+In a 12-year-old patient with spondyloenchondrodysplasia and immune
+dysregulation (607944), Lausch et al. (2011) identified compound
+heterozygosity for mutations in the ACP5 gene: a 602T-C transition in
+exon 6, resulting in a leu201-to-pro (L201P) substitution, and a G109R
+substitution (171640.0005). In addition to skeletal manifestations, the
+patient had thrombocytopenia, leukopenia, hepatosplenomegaly, elevated
+antinuclear antibody titers, childhood-onset spastic diplegia, and
+calcification of the basal ganglia and frontal subcortical area.
+
+REFERENCE 1. Allen, B. S.; Ketcham, C. M.; Roberts, R. M.; Nick, H. S.; Ostrer,
+H.: Localization of the human type 5, tartrate-resistant acid phosphatase
+gene by in situ hybridization. Genomics 4: 597-600, 1989.
+
+2. Briggs, T. A.; Rice, G. I.; Daly, S.; Urquhart, J.; Gornall, H.;
+Bader-Meunier, B.; Baskar, K.; Baskar, S.; Baudouin, V.; Beresford,
+M. W.; Black, G. C. M.; Dearman, R. J.; and 28 others: Tartrate-resistant
+acid phosphatase deficiency causes a bone dysplasia with autoimmunity
+and a type I interferon expression signature. Nature Genet. 43:
+127-131, 2011.
+
+3. Bune, A. J.; Hayman, A. R.; Evans, M. J.; Cox, T. M.: Mice lacking
+tartrate-resistant acid phosphatase (Acp 5) have disordered macrophage
+inflammatory responses and reduced clearance of the pathogen, Staphylococcus
+aureus. Immunology 102: 103-113, 2001.
+
+4. Crow, Y.: Personal Communication. Baltimore, Md.  3/8/2011.
+
+5. Grimes, R.; Reddy, S. V.; Leach, R. J.; Scarcez, T.; Roodman, G.
+D.; Sakaguchi, A. Y.; Lalley, P. A.; Windle, J. J.: Assignment of
+the mouse tartrate-resistant acid phosphatase gene (Acp5) to chromosome
+9. Genomics 15: 421-422, 1993.
+
+6. Hayman, A. R.; Jones, S. J.; Boyde, A.; Foster, D.; Colledge, W.
+H.; Carlton, M. B.; Evans, M. J.; Cox, T. M.: Mice lacking tartrate-resistant
+acid phosphatase (Acp 5) have disrupted endochondral ossification
+and mild osteopetrosis. Development 122: 3151-3162, 1996.
+
+7. Ketcham, C. M.; Roberts, R. M.; Simmen, R. C.; Nick, H. S.: Molecular
+cloning of the type 5, iron-containing, tartrate-resistant acid phosphatase
+from human placenta. J. Biol. Chem. 264: 557-563, 1988.
+
+8. Lausch, E.; Janecke, A.; Bros, M.; Trojandt, S.; Alanay, Y.; De
+Laet, C.; Hubner, C. A.; Meinecke, P.; Nishimura, G.; Matsuo, M.;
+Hirano, Y.; Tenoutasse, S.; and 9 others: Genetic deficiency of
+tartrate-resistant acid phosphatase associated with skeletal dysplasia,
+cerebral calcifications and autoimmunity. Nature Genet. 43: 132-137,
+2011.
+
+9. Leach, R. J.; Reus, B. E.; Hundley, J. E.; Johnson-Pais, T. L.;
+Windle, J. J.: Confirmation of the assignment of the human tartrate-resistant
+acid phosphatase gene (ACP5) to chromosome 19. Genomics 19: 180-181,
+1994.
+
+10. Lord, D. K.; Cross, N. C. P.; Bevilacqua, M. A.; Rider, S. H.;
+Gorman, P. A.; Groves, A. V.; Moss, D. W.; Sheer, D.; Cox, T. M.:
+Type 5 acid phosphatase: sequence, expression and chromosomal localization
+of a differentiation-associated protein of the human macrophage. Europ.
+J. Biochem. 189: 287-293, 1990. Note: Erratum: Europ. J. Biochem.
+191: 775 only, 1990.
+
+11. Navarro, V.; Scott, C.; Briggs, T. A.; Barete, S.; Frances, C.;
+Lebon, P.; Maisonobe, T.; Rice, G. I.; Wouters, C. H.; Crow, Y. J.
+: Two further cases of spondyloenchondrodysplasia (SPENCD) with immune
+dysregulation. Am. J. Med. Genet. 146A: 2810-2815, 2008.
+
+12. Renella, R.; Schaefer, E.; LeMerrer, M.; Alanay, Y.; Kandemir,
+N.; Eich, G.; Costa, T.; Ballhausen, D.; Boltshauser, E.; Bonafe,
+L.; Giedion, A.; Unger, S.; Superti-Furga, A.: Spondyloenchondrodysplasia
+with spasticity, cerebral calcifications, and immune dysregulation:
+clinical and radiologic delineation of a pleiotropic disorder. Am.
+J. Med. Genet. 140A: 541-550, 2006.
+
+13. Roifman, C. M.; Melamed, I.: A novel syndrome of combined immunodeficiency,
+autoimmunity and spondylometaphyseal dysplasia. Clin. Genet. 63:
+522-529, 2003.
+
+14. Scharer, K.: A case of infantile generalized lupus erythematosus
+with unusual bone changes. Helv. Paediat. Acta 13: 40-68, 1958.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 5/3/2011
+Paul J. Converse - updated: 4/30/2001
+
+CREATED Victor A. McKusick: 4/4/1989
+
+EDITED terry: 03/14/2013
+carol: 5/3/2011
+mgross: 4/30/2001
+dkim: 12/11/1998
+jason: 6/27/1994
+carol: 2/9/1994
+carol: 10/5/1993
+carol: 9/27/1993
+supermim: 3/16/1992
+supermim: 3/20/1990
+

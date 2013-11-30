@@ -1,0 +1,118 @@
+611569	TITLE *611569 CYTOSKELETON-ASSOCIATED PROTEIN 2; CKAP2
+;;TUMOR- AND MICROTUBULE-ASSOCIATED PROTEIN; TMAP;;
+LB1
+DESCRIPTION 
+DESCRIPTION
+
+CKAP2 is a cytoskeleton-associated protein involved in mitotic
+progression (Seki and Fang, 2007).
+
+CLONING
+
+By differential screening of diffuse large B-cell lymphomas, followed by
+database analysis, RT-PCR, and screening a human Jurkat T-cell cDNA
+library, Maouche-Chretien et al. (1998) cloned CKAP2, which they called
+LB1. The transcript contains 2 consensus polyadenylation signals and an
+AU-rich mRNA-destabilizing motif. The deduced 683-amino acid protein has
+a leucine- and isoleucine-rich domain and numerous potential
+phosphorylation sites. Northern blot analysis detected variable
+expression of a major 3.6- to 3.9-kb transcript and a minor 2.2-kb
+transcript in all human tissues and cell lines examined. In vitro
+transcription/translation produced a protein with an apparent molecular
+mass of 85 kD by SDS-PAGE. Immunofluorescence analysis of transfected
+COS cells showed that epitope-tagged CKAP2 localized to cytoplasmic
+cytoskeletal filaments.
+
+By differential display-PCR of primary human gastric adenocarcinomas,
+followed by 5-prime and 3-prime RACE, Bae et al. (2003) cloned
+full-length CKAP2 and a shorter variant, CKAP2S, resulting from
+alternative splicing in exon 6. The full-length CKAP2 protein contains
+682 amino acids, and the CKAP2S protein contains 494 amino acids.
+Northern blot analysis showed that CKAP2 expression was higher in brain,
+thymus, kidney, and placenta than in heart, skeletal muscle, lung,
+leukocytes, and gastrointestinal tract. A second, smaller transcript was
+detected in tissues with high CKAP2 expression. Endogenous CKAP2 and
+fluorescence-tagged CKAP2 associated with the microtubule-organizing
+center and with microtubules in HeLa cells, and this localization was
+lost following treatment with a microtubule-destabilizing agent. Western
+blot analysis detected endogenous CKAP2 at an apparent molecular mass of
+75 kD.
+
+GENE FUNCTION
+
+Maouche-Chretien et al. (1998) found that expression of LB1 was
+upregulated in a patient with an immunoblastic subtype of diffuse large
+B-cell lymphoma and in a patient with a multilobated centroblastic
+subtype of diffuse large B-cell lymphoma. In contrast, expression was
+low or undetectable in 4 patients with polymorphic centroblastic diffuse
+large B-cell lymphomas.
+
+Using ribonuclease protection assays and RT-PCR, Bae et al. (2003) found
+that CKAP2 and CKAP2S expression was upregulated in gastric tumor
+tissues compared with matched normal mucosa. Immunohistochemical
+analysis detected no CKAP2 protein in normal gastric mucosa, but it was
+detected in all gastric adenocarcinomas and tubular adenomas examined.
+
+Jeon et al. (2006) found that CKAP2 was not expressed in G0/G1-arrested
+human foreskin fibroblasts, but that it was expressed in actively
+dividing cells, gradually increasing between late G1 and G2/M. Knockdown
+of CKAP2 reduced RB1 (614041) phosphorylation and increased p27 (CDKN1B;
+600778) expression, and consequently reduced cell proliferation, whereas
+constitutive CKAP2 expression increased RB phosphorylation and enhanced
+proliferation.
+
+The anaphase-promoting complex/cyclosome (APC/C; see 608473) is a
+ubiquitin ligase that controls sister chromatid separation and exit from
+mitosis. It recognizes 2 motifs in its substrates: the destruction (D)
+box and the KEN box. Seki and Fang (2007) found that CKAP2 was degraded
+by CDH1 (192090)-activated APC/C in Xenopus interphase extracts, but not
+in mitotic extracts. CKAP2 contains 4 D boxes and a KEN box, and
+mutation analysis showed that only the KEN box was required for
+ubiquitination by APC/C-CDH1 and degradation in CDH1-activated
+interphase extracts. Overexpression of CDH1 in HeLa cells reduced CKAP2
+levels in a KEN box-dependent manner, whereas knockdown of CDH1
+increased the half-life of CKAP2. CKAP2 associated with centrosomal
+microtubules in late G2 in HeLa cells, but only after separation of
+duplicated centrosomes. During mitosis, CKAP2 associated with spindle
+poles and with spindle microtubules from prophase through anaphase and
+disappeared from microtubules during cytokinesis. Knockdown of CKAP2 did
+not alter the cell cycle distribution of cells or generate mitotic
+effects. On the other hand, ectopic expression of either wildtype CKAP2
+or a nondegradable CKAP2 mutant led to mitotic arrest with monopolar
+spindles containing highly bundled microtubules. Seki and Fang (2007)
+concluded that regulation of CKAP2 by APC/C is critical for normal
+mitotic progression.
+
+MAPPING
+
+By FISH, Maouche-Chretien et al. (1998) mapped the CKAP2 gene to
+chromosome 13q14.
+
+REFERENCE 1. Bae, C.-D.; Sung, Y.-S.; Jeon, S.-M.; Suh, Y.; Yang, H.-K.; Kim,
+Y. I.; Park, K.-H.; Choi, J.; Ahn, G.; Park, J.: Up-regulation of
+cytoskeletal-associated protein 2 in primary human gastric adenocarcinomas. J.
+Cancer Res. Clin. Oncol. 129: 621-630, 2003.
+
+2. Jeon, S.-M.; Choi, B.; Hong, K. U.; Kim, E.; Seong, Y.-S.; Bae,
+C.-D.; Park, J.: A cytoskeleton-associated protein, TMAP/CKAP2, is
+involved in the proliferation of human foreskin fibroblasts. Biochem.
+Biophys. Res. Commun. 348: 222-228, 2006. Note: Erratum: Biochem.
+Biophys. Res. Commun. 354: 839 only, 2007.
+
+3. Maouche-Chretien, L.; Deleu, N.; Badoual, C.; Fraissignes, P.;
+Berger, R.; Gaulard, P.; Romeo, P. H.; Leroy-Viard, K.: Identification
+of a novel cDNA, encoding a cytoskeletal associated protein, differentially
+expressed in diffuse large B cell lymphomas. Oncogene 17: 1245-1251,
+1998.
+
+4. Seki, A.; Fang, G.: CKAP2 is a spindle-associated protein degraded
+by APC/C-Cdh1 during mitotic exit. J. Biol. Chem. 282: 15103-15113,
+2007.
+
+CREATED Patricia A. Hartz: 10/31/2007
+
+EDITED terry: 12/20/2012
+alopez: 6/17/2011
+alopez: 3/1/2011
+mgross: 10/31/2007
+

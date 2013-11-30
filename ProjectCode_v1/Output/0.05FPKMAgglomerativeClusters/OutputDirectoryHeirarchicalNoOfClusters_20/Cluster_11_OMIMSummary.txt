@@ -1,0 +1,2212 @@
+600830	TITLE *600830 TRIPARTITE MOTIF-CONTAINING PROTEIN 26; TRIM26
+;;ACID FINGER PROTEIN; AFP;;
+ZINC FINGER PROTEIN 173, FORMERLY; ZNF173, FORMERLY
+DESCRIPTION 
+CLONING
+
+Chu et al. (1995) performed positional cloning of short fragment cDNA
+sequences from the class I region of the human major histocompatibility
+complex (MHC) using a hybridization selection approach. They isolated
+full-length cDNA clones and partial genomic clones encoding a protein
+with 2 domains rich in cysteine and histidine similar to those
+characteristic of metal-dependent DNA-binding proteins. The predicted
+protein also contains a domain thought to form a coiled-coil, possibly
+to promote dimerization. A third feature of the predicted protein is a
+polyglutamic acid region near the carboxyl terminus. Because of these
+properties, Chu et al. (1995) named the gene product acid-finger
+protein, AFP (a designation used originally for alpha-fetoprotein (AFP;
+104150)). Although the biologic role of AFP was unknown, one potential
+function was binding of nucleic acids. The gene was expressed in
+multiple tissues and conserved among mammals. In particular, the mouse
+and human coding regions were highly conserved.
+
+MAPPING
+
+Chu et al. (1995) identified the AFP gene within the MHC on chromosome
+6. It appeared that multiple AFP-like genes existed in this region of
+the MHC.
+
+REFERENCE 1. Chu, T. W.; Capossela, A.; Coleman, R.; Goei, V. L.; Nallur, G.;
+Gruen, J. R.: Cloning of a new 'finger' protein gene (ZNF173) within
+the class I region of the human MHC. Genomics 29: 229-239, 1995.
+
+CREATED Victor A. McKusick: 10/4/1995
+
+EDITED mgross: 04/19/2005
+dkim: 6/26/1998
+alopez: 1/28/1998
+mark: 3/28/1997
+mark: 10/4/1995
+
+601156	TITLE *601156 CHEMOKINE, CC MOTIF, LIGAND 11; CCL11
+;;SMALL INDUCIBLE CYTOKINE SUBFAMILY A, MEMBER 11; SCYA11;;
+SMALL INDUCIBLE CYTOKINE A11;;
+EOTAXIN
+DESCRIPTION 
+CLONING
+
+Chemoattractant cytokines (chemokines) play an important role in the
+recruitment of leukocytes to inflammatory lesions. Interleukin-8
+(146930) is predominantly a neutrophil chemoattractant, whereas monocyte
+chemotactic protein-1 (MCP1, or CCL2; 158105) serves predominantly as a
+monocyte and T-cell chemoattractant. Ponath et al. (1996) noted that the
+striking accumulation of eosinophils in certain tissues, particularly in
+response to parasitic infection and also as a result of IGE-mediated
+reactions such as rhinitis and allergic asthma, suggests that there may
+be factors that are chemotactic specifically for eosinophils. The
+chemokine termed eotaxin was identified as the predominant eosinophil
+chemoattractant in bronchoalveolar lavage fluid of allergen-challenged
+guinea pigs. Ponath et al. (1996) cloned a human homolog of guinea pig
+eotaxin. Human eotaxin mediated the selective migration of eosinophils,
+both in vitro and in vivo. Human eotaxin was found to be 61.8% and 63.2%
+identical to guinea pig and mouse eotaxin, respectively. Radiolabeled
+eotaxin was used to identify a high-affinity receptor on eosinophils.
+This receptor also bound RANTES (187011) and monocyte chemotactic
+protein-3 (CCL7; 158106). The same gene was isolated by Kitaura et al.
+(1996), who showed that the recombinantly expressed protein induced a
+calcium flux response in human eosinophils but not in either neutrophils
+or monocytes. They showed that the response was mediated through the CC
+chemokine receptor-3 (CCR3; 601268), a G protein-coupled receptor
+expressed in eosinophils.
+
+GENE FUNCTION
+
+Eotaxin is a potent inducer of eosinophil chemotaxis leading to
+eosinophil migration in vitro and accumulation in vivo. These effects
+are mediated via CCR3, which is highly expressed on eosinophils,
+basophils, and TH2 lymphocytes and, thus, is involved in allergic
+inflammation. Ogilvie et al. (2001) showed that eotaxin also interacts
+with CCR2 (601267) and CCR5 (601373) and can thus affect the responses
+of monocytes, which express both receptors. In human monocytes, they
+found that pretreatment with eotaxin decreased responsiveness to MCP1, a
+selective ligand for CCR2, as well as to RANTES and MIP1-beta (182284),
+which bind to CCR5. These and other results from the study demonstrated
+that eotaxin is a CCR5 agonist and a CCR2 antagonist. The authors
+suggested that eotaxin has a role in the fine-tuning of cellular
+responses occurring at sites of allergic inflammation, in which both
+MCP1 and eotaxin are produced.
+
+Salcedo et al. (2001) showed that CCL11 induces CCR3-expressing
+endothelial cell migration in vitro and angiogenesis in vivo, as well as
+endothelial cell sprouting from aortic rings in the absence of an
+eosinophil infiltrate. They suggested that CCL11 may contribute to
+angiogenesis in conditions accompanied by eosinophil infiltration such
+as Hodgkin lymphoma (236000), nasal polyposis, endometriosis, and
+allergic diathesis.
+
+Menzies-Gow et al. (2002) used immunohistological analysis to examined
+the effects of intradermal injection of eotaxin and eotaxin-2 (CCL24;
+602495), both of which act through CCR3, into human atopic and nonatopic
+skin. Both chemokines produced a dose- and time-dependent local
+eosinophilia of comparable intensity and an acute wheal and flare
+response regardless of atopy status. Basophils and neutrophils also
+accumulated at the injection sites. Menzies-Gow et al. (2002) concluded
+that the eosinophilic and inflammatory cell infiltrate induced by
+eotaxins is consistent with CC chemokine-induced mast cell
+degranulation.
+
+Villeda et al. (2011) used heterochronic parabiosis to demonstrate that
+blood-borne factors present in the systemic milieu can inhibit or
+promote adult neurogenesis in an age-dependent fashion in mice.
+Accordingly, exposing a young mouse to an old systemic environment or to
+plasma from old mice decreased synaptic plasticity, and impaired
+contextual fear conditioning and spatial learning and memory. Villeda et
+al. (2011) identified chemokines, including CCL11, the plasma levels of
+which correlated with reduced neurogenesis in heterochronic parabionts
+and aged mice, and the levels of which are increased in the plasma and
+cerebrospinal fluid of healthy aging humans. Lastly, increasing
+peripheral CCL11 chemokine levels in vivo in young mice decreased adult
+neurogenesis and impaired learning and memory. Villeda et al. (2011)
+concluded that the decline in neurogenesis and cognitive impairments
+observed during aging can be in part attributed to changes in
+blood-borne factors.
+
+GENE STRUCTURE
+
+Hein et al. (1997) cloned SCYA11 genomic sequence, including the coding
+region and 3 kb of DNA immediately 5-prime of the coding region. The
+SCYA11 gene has 3 exons. The authors identified a number of consensus
+regulatory elements in the 5-prime flanking region of the SCYA11 gene
+that potentially regulate SCYA11 gene expression and/or mediate the
+effects of antiinflammatory drugs.
+
+MAPPING
+
+Kitaura et al. (1996) mapped the SCYA11 gene to chromosome 17 using a
+somatic cell hybrid DNA panel. By FISH, Garcia-Zepeda et al. (1997)
+mapped the SCYA11 gene to 17q21.1-q21.2.
+
+MOLECULAR GENETICS
+
+The eotaxin gene family (eotaxin 1; eotaxin 2; and eotaxin 3, 604697)
+recruits and activates CCR3-bearing cells such as eosinophils, mast
+cells, and Th2 lymphocytes that play a major role in allergic disorders.
+Shin et al. (2003) genotyped a 721-member asthma (600807) cohort at 17
+polymorphisms among the 3 eotaxin loci. Statistical analysis revealed
+that the eotaxin 2 +1272A-G G* allele showed significantly lower
+frequency in asthmatics than in normal healthy controls (0.14 vs 0.23, P
+= 0.002), and that distribution of the eotaxin 2 +1272A-G G*
+allele-containing genotypes was also much lower in asthmatics (26.3 vs
+40.8%, P = 0.003). In addition, a nonsynonymous SNP in eotaxin 1,
++123Ala to Thr, showed significant association with total serum IgE
+levels (P = 0.002-0.02) (see 147050). The effect of eotaxin 1 +123Ala to
+Thr on total serum IgE appeared in a gene dose-dependent manner. The
+authors suggested that the development of asthma may be associated with
+eotaxin 2 +1272A-G polymorphisms, and the susceptibility to high IgE
+production may be attributed to the eotaxin 1 +123Ala to Thr
+polymorphism. In an erratum, the authors noted that the first base of
+the translation start site of the eotaxin 2 genomic reference sequence
+had been denoted as +1, introducing some errors in the numbering of the
+eotaxin 2 SNPs.
+
+Modi et al. (2003) identified 3 SNPs that formed a 31-kb haplotype (H7;
+see 601156.0001) spanning the CCL2-CCL7-CCL11 gene cluster on chromosome
+17q. The SNPs and the H7 haplotype were significantly associated with
+protection from HIV-1 infection (see 609423).
+
+Batra et al. (2007) analyzed 3 polymorphisms in the CCL11 gene and a
+hexanucleotide (GAAGGA)n repeat (601156.0002) located 10.9 kb upstream
+of the gene in 235 patients with asthma and 239 age-, sex-, and
+ethnically matched controls and in 230 families with asthma from
+northern India. The authors found a highly significant association of
+the hexanucleotide repeat with asthma (p = 3 x 10(-6)).
+
+ALLELIC VARIANT .0001
+HUMAN IMMUNODEFICIENCY VIRUS TYPE 1, RESISTANCE TO
+CCL11, -1385G-A
+
+Modi et al. (2003) genotyped 9 SNPs spanning the CCL2 (158105)-CCL7
+(158106)-CCL11 gene cluster on chromosome 17q in more than 3,000 DNA
+samples from 5 AIDS cohorts (see 609423). Extensive linkage
+disequilibrium was observed, particularly for 3 SNPs, -2136T in the CCL2
+promoter (158105.0001), 767G in intron 1 of the CCL2 gene (158105.0002),
+and -1385A in the CCL11 promoter, that formed a 31-kb haplotype (H7)
+containing the 3 genes. The frequencies of these 3 SNPs and the H7
+haplotype were significantly elevated in uninfected individuals
+repeatedly exposed to HIV-1 through high-risk sexual behavior or
+contaminated blood products. Since these chemokines do not bind the
+primary HIV-1 coreceptors CCR5 (601373) or CXCR4 (162643), Modi et al.
+(2003) proposed that the influence of the H7 haplotype on HIV-1
+transmission may result from activation of the immune system rather than
+receptor blockage.
+
+.0002
+ASTHMA, SUSCEPTIBILITY TO
+CCL11, (GAAGGA)n
+
+Batra et al. (2007) studied 235 patients with asthma (600807) and 239
+age-, sex-, and ethnically matched controls and 230 families with asthma
+from northern India and found a significant association between a
+polymorphic hexanucleotide (GAAGGA)n repeat, located 10.9 kb upstream of
+the CCL11 gene, and asthma (p = 3 x 10(-6)). The hexanucleotide repeat
+was also associated with total serum IgE levels (p = 0.006) and eotaxin
+levels (p = 0.004).
+
+REFERENCE 1. Batra, J.; Rajpoot, R.; Ahluwalia, J.; Devarapu, S. K.; Sharma,
+S. K.; Dinda, A. K.; Ghosh, B.: A hexanucleotide repeat upstream
+of eotaxin gene promoter is associated with asthma, serum total IgE
+and plasma eotaxin levels. (Letter) J. Med. Genet. 44: 397-403,
+2007.
+
+2. Garcia-Zepeda, E. A.; Rothenberg, M. E.; Weremowicz, S.; Sarafi,
+M. N.; Morton, C. C.; Luster, A. D.: Genomic organization, complete
+sequence, and chromosomal location of the gene for human eotaxin (SCYA11),
+an eosinophil-specific CC chemokine. Genomics 41: 471-476, 1997.
+
+3. Hein, H.; Schluter, C.; Kulke, R.; Christophers, E.; Schroder,
+J.-M.; Bartels, J.: Genomic organization, sequence, and transcriptional
+regulation of the human eotaxin gene. Biochem. Biophys. Res. Commun. 237:
+537-542, 1997.
+
+4. Kitaura, M.; Nakajima, T.; Imai, T.; Harada, S.; Combadiere, C.;
+Tiffany, H. L.; Murphy, P. M.; Yoshie, O.: Molecular cloning of human
+eotaxin, an eosinophil-selective CC chemokine, and identification
+of a specific eosinophil eotaxin receptor, CC chemokine receptor 3. J.
+Biol. Chem. 271: 7725-7730, 1996.
+
+5. Menzies-Gow, A.; Ying, S.; Sabroe, I.; Stubbs, V. L.; Soler, D.;
+Williams, T. J.; Kay, A. B.: Eotaxin (CCL11) and eotaxin-2 (CCL24)
+induce recruitment of eosinophils, basophils, neutrophils, and macrophages
+as well as features of early- and late-phase allergic reactions following
+cutaneous injection in human atopic and nonatopic volunteers. J.
+Immun. 169: 2712-2718, 2002.
+
+6. Modi, W. S.; Goedert, J. J.; Strathdee, S.; Buchbinder, S.; Detels,
+R.; Donfield, S.; O'Brien, S. J.; Winkler, C.: MCP-1-MCP-3-eotaxin
+gene cluster influences HIV-1 transmission. AIDS 17: 2357-2365,
+2003.
+
+7. Ogilvie, P.; Bardi, G.; Clark-Lewis, I.; Baggiolini, M.; Uguccioni,
+M.: Eotaxin is a natural antagonist for CCR2 and an agonist for CCR5. Blood 97:
+1920-1924, 2001.
+
+8. Ponath, P. D.; Qin, S.; Ringler, D. J.; Clark-Lewis, I.; Wang,
+J.; Kassam, N.; Smith, H.; Shi, X.; Gonzalo, J.-A.; Newman, W.; Gutierrez-Ramos,
+J.-C.; Mackay, C. R.: Cloning of the human eosinophil chemoattractant,
+eotaxin: expression, receptor binding, and functional properties suggest
+a mechanism for the selective recruitment of eosinophils. J. Clin.
+Invest. 97: 604-612, 1996.
+
+9. Salcedo, R.; Young, H. A.; Ponce, M. L.; Ward, J. M.; Kleinman,
+H. K.; Murphy, W. J.; Oppenheim, J. J.: Eotaxin (CCL11) induces in
+vivo angiogenic responses by human CCR3+ endothelial cells. J. Immun. 166:
+7571-7578, 2001. Note: Erratum: J. Immun. 168: 511 only, 2002.
+
+10. Shin, H. D.; Kim, L. H.; Park, B. L.; Jung, J. H.; Kim, J. Y.;
+Chung, I.-Y.; Kim, J. S.; Lee, J. H.; Chung, S. H.; Kim, Y. H.; Park,
+H.-S.; Choi, J. H.; Lee, Y. M.; Park, S. W.; Choi, B. W.; Hong, S.-J.;
+Park, C.-S.: Association of eotaxin gene family with asthma and serum
+total IgE. Hum. Molec. Genet. 12: 1279-1285, 2003. Note: Erratum:
+Hum. Molec. Genet. 12: 2083 only, 2003.
+
+11. Villeda, S. A.; Luo, J.; Mosher, K. I.; Zou, B.; Britschgi, M.;
+Bieri, G.; Stan, T. M.; Fainberg, N.; Ding, Z.; Eggel, A.; Lucin,
+K. M.; Czirr, E.; and 11 others: The ageing systemic milieu negatively
+regulates neurogenesis and cognitive function. Nature 477: 90-94,
+2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/27/2011
+Marla J. F. O'Neill - updated: 7/11/2007
+Paul J. Converse - updated: 2/13/2006
+Paul J. Converse - updated: 7/7/2005
+George E. Tiller - updated: 6/18/2004
+Paul J. Converse - updated: 11/5/2001
+Victor A. McKusick - updated: 7/17/2001
+Patti M. Sherman - updated: 5/31/2000
+Carol A. Bocchini - updated: 4/23/1999
+Victor A. McKusick - updated: 12/9/1998
+Alan F. Scott - updated: 5/21/1996
+
+CREATED Victor A. McKusick: 3/26/1996
+
+EDITED terry: 11/13/2012
+alopez: 10/5/2011
+terry: 9/27/2011
+terry: 6/4/2009
+wwang: 7/12/2007
+terry: 7/11/2007
+mgross: 2/13/2006
+carol: 8/26/2005
+mgross: 7/8/2005
+mgross: 7/7/2005
+alopez: 6/24/2005
+alopez: 6/18/2004
+mgross: 9/26/2002
+mgross: 11/5/2001
+mcapotos: 8/7/2001
+mcapotos: 7/18/2001
+terry: 7/17/2001
+mcapotos: 6/21/2000
+psherman: 5/31/2000
+carol: 9/3/1999
+terry: 4/26/1999
+carol: 4/23/1999
+alopez: 1/20/1999
+alopez: 12/10/1998
+terry: 12/9/1998
+mark: 2/26/1997
+mark: 5/21/1996
+terry: 5/21/1996
+mark: 5/20/1996
+mark: 3/27/1996
+
+601292	TITLE *601292 SULFOTRANSFERASE FAMILY 1A, PHENOL-PREFERRING, MEMBER 2; SULT1A2
+;;SULFOTRANSFERASE, PHENOL-PREFERRING 2; STP2;;
+PHENOL SULFOTRANSFERASE 2
+DESCRIPTION 
+CLONING
+
+Her et al. (1996) and Dooley and Huang (1996) reported the sequence of
+the SULT1A2 gene.
+
+GENE STRUCTURE
+
+Sulfonation is an important pathway in the biotransformation of many
+drugs, xenobiotics, neurotransmitters, and steroid hormones. The
+thermostable form of phenol sulfotransferase preferentially catalyzes
+the sulfonation of 'simple' planar phenols. The phenol sulfotransferase
+STP1 (171150) maps to chromosome 16. Her et al. (1996) determined the
+structure and chromosomal localization of the gene encoding a second
+phenol sulfotransferase, STP2. The gene spans approximately 5.1 kb and
+contains 9 exons that range in length from 74 to 347 bp. Exons 1A and 1B
+as well as the 5-prime portion of exon 2 and the 3-prime portion of exon
+8 are noncoding. The locations of most STP2 exon/intron splice junctions
+are identical to those of a gene for the thermolabile form of PST in
+humans, STM (600641), which maps to 16p close to the location of the
+thermostable STP1.
+
+Dooley and Huang (1996) determined that 7 coding exons are conserved
+among the human STP1, STP2, and STM (600641) genes. The initiator
+methionine is found on exon 2. All 3 genes colocalized on a single
+cosmid from chromosome 16p12.1-p11.2 and have a high degree of sequence
+homology, suggesting that these 3 genes arose by gene duplication.
+Dooley and Huang (1996) stated that the previously identified PST gene
+sequences HAST4, HAST4v, and ST1A2 are isolates of the STP2 gene.
+
+MAPPING
+
+Her et al. (1996) mapped STP2 to human chromosome 16 by PCR with DNA
+from human/rodent somatic cell hybrids.
+
+REFERENCE 1. Dooley, T. P.; Huang, Z.: Genomic organization and DNA sequences
+of two human phenol sulfotransferase genes (STP1 and STP2) on the
+short arm of chromosome 16. Biochem. Biophys. Res. Commun. 228:
+134-140, 1996.
+
+2. Her, C.; Raftogianis, R.; Weinshilboum, R. M.: Human phenol sulfotransferase
+STP2 gene: molecular cloning, structural characterization, and chromosomal
+localization. Genomics 33: 409-420, 1996.
+
+CONTRIBUTORS Jennifer P. Macke - updated: 5/20/1997
+
+CREATED Victor A. McKusick: 6/4/1996
+
+EDITED alopez: 04/13/2009
+alopez: 6/11/1999
+alopez: 7/24/1997
+mark: 6/4/1996
+
+313470	TITLE *313470 CD99 ANTIGEN, X CHROMOSOME; CD99
+;;MIC2 SURFACE ANTIGEN, X CHROMOSOME; MIC2X;;
+CELL SURFACE ANTIGEN 12E7, X CHROMOSOME;;
+E2 ANTIGEN, X CHROMOSOME;;
+CELL SURFACE ANTIGEN HBA-71, X CHROMOSOME; HBA71;;
+CELL SURFACE ANTIGEN O13, X CHROMOSOME;;
+MSK5X
+DESCRIPTION 
+DESCRIPTION
+
+CD99 is a 32-kD T-cell surface glycoprotein involved in spontaneous
+rosette formation with erythrocytes (Bernard et al., 1988). The gene
+encoding CD99 (MIC2X) is located in the pseudoautosomal region (PAR) at
+the end of the short arm of the X and Y chromosomes (Goodfellow et al.,
+1983). See also MIC2Y (450000).
+
+CLONING
+
+The monoclonal antibody 12E7 was raised against human leukemia T cells.
+It detects a 30,000 MW protein which is expressed on all human tissues
+tested with the possible exception of spermatozoa (Levy et al., 1979).
+
+Dracopoli et al. (1985) described a monoclonal antibody, O13, that
+defines a cell surface antigen that is expressed on most cultured human
+cells but not on rodent cells. Glycoproteins of 25,000 and 30,000 MW
+were precipitated by O13. Either the X or the Y chromosome in cultured
+hybrid cells was sufficient for serologic reactivity with the antiserum.
+The gene encoding O13 maps to Xp22-pter and apparently escapes
+lyonization. All of these characteristics suggested that O13 was related
+or identical to 12E7 and that MSK5X and MSK57 (so-called because the
+workers were at Sloan-Kettering) were related or identical to MIC2X and
+MIC2Y.
+
+Darling et al. (1986) cloned the MIC2X and MIC2Y genes and concluded
+that their sequences are closely related or identical.
+
+Gelin et al. (1989) isolated a 1.11-kb cDNA from a lambda-gt11
+expression library by screening with monoclonal antibodies directed
+against E2 antigen. The primary structure of E2, deduced from the
+nucleotide sequence of its gene, comprises 185 amino acids and is devoid
+of N-linked glycosylation sites. The protein displays an organization
+typical of an integral membrane protein. Nucleotide sequencing revealed
+that E2 is the MIC2 gene product.
+
+MAPPING
+
+Goodfellow et al. (1983) showed that the gene for the E2 antigen, called
+MIC2 (M = monoclonal; IC = Imperial Cancer Research Fund; 2 = order of
+discovery), maps to the band between Xp22.3 and Xpter, where the STS
+(300747) and Xg (300879) genes are located. Goodfellow et al. (1984)
+showed that the MIC2X locus, like Xg and STS, escapes lyonization. They
+identified a homologous locus on the Y chromosome (MIC2Y; 45000) in the
+euchromatin region Ypter-q11.1. This was the first instance of a clear
+Y-linked structural gene.
+
+Curry et al. (1984) found that the STS, Xg, and MIC2X loci as well as
+the locus for X-linked chondrodysplasia punctata (302950) were
+apparently absent in males with deletion of Xp22.32.
+
+By in situ hybridization, Buckle et al. (1985) showed that MIC2Y is
+located on the distal part of Yp, namely, Ypter-p11.2.
+
+On the basis of an X/Y translocation in which STS activity was retained
+with the X chromosome (selected by fusion with an HPRT-deficient mouse
+cell line) but MIC2X was lost, Geller et al. (1986) concluded that MIC2X
+is distal to STS.
+
+- Pseudogene
+
+Mangs and Morris (2007) stated that the sequence identified by Smith and
+Goodfellow (1994) as MIC2R (CD99L1) is a pseudogene that shares 78%
+sequence homology with MIC2 (CD99). Smith and Goodfellow (1994) had
+detected sequences related to exons 1, 4, and 5 of MIC2 on the X and Y
+chromosomes of humans and other primate species. Isolation of these
+sequences defined the MIC2R (MIC2-related) locus, which is associated
+with the second-most proximal CpG-rich island in the human
+pseudoautosomal region. Genomic sequences from the MIC2R locus showed
+that it is composed of a single sequence related to exon 1 and at least
+4 tandem copies of sequences related to exons 4 and 5 of MIC2.
+Comparison of the 4 sequences related to exons 4 and 5 suggested that
+they are the result of sequential duplication of a 2.8-kb region during
+evolution. Smith and Goodfellow (1994) detected transcripts from the
+MIC2R locus in at least 10 adult and fetal tissues, and a number of
+different transcripts appear to be generated by alternative RNA
+splicing. Since none of the transcripts they analyzed contained a
+significant open reading frame, the function of the MIC2R locus remained
+unknown.
+
+GENE FUNCTION
+
+Gelin et al. (1989) found that Xg(a-) females (see 314700) have no E2
+molecule on the surface of their red cells, in contrast with Xg(a+)
+individuals, but have the molecule in their cytoplasm, in the form of
+the 28-kD precursor. Thus, the MIC2 gene encodes a cell surface molecule
+involved in T-cell adhesion processes.
+
+Kovar et al. (1990) noted that Ewing sarcoma and other PNE tumors
+express high amounts of a glycoprotein on their cell surface, which
+could be specifically detected by the monoclonal antibody HBA-71. They
+identified this glycoprotein as the product of the pseudoautosomal gene
+CD99. Kovar et al. (1990) presented evidence that CD99 is expressed at
+low levels in most, if not all, human cells and normal tissues. Because
+expression of CD99 is significantly enhanced in ES and PNET cells, they
+suggested that detection of the antigen by immunocytochemical analysis
+might be a useful tool in tumor diagnosis. Khoury (2005) stated that
+strong diffuse CD99 immunostaining constitutes a useful positive marker
+for the Ewing sarcoma family of tumors.
+
+Goodfellow et al. (1987) presented evidence suggesting the existence of
+a pseudoautosomal locus, XGR (314705), that regulates expression of MIC2
+and XG.
+
+Using flow cytometry and Western and Northern blot analyses, Fouchet et
+al. (2000) provided a quantitative estimation of XG and CD99 on human
+erythrocytes. Their findings supported the hypothesis of genetic control
+of XG and CD99 expression by the hypothetical XGR locus.
+
+Fouchet et al. (2000) examined coexpression of human XG and CD99 cDNAs
+in transfected mouse cells, either in double transfectants or in somatic
+hybrids from single transfectants. Their findings were consistent with
+transcriptional coregulation of XG and CD99 expression, because no
+influence of either protein on the surface production of the other was
+observed. In addition, Fouchet et al. (2000) found no evidence of
+association or complex formation between XG and CD99 on transfected
+mouse cells or human erythrocytes.
+
+Using flow cytometric analysis, Pettersen et al. (2001) demonstrated
+that activation of a distinct domain of CD99 activates a
+caspase-independent death pathway in T cells. Ligation of FAS (TNFRSF6;
+134637) and TRAIL (TNFSF10; 603598) death receptors was less effective
+than CD99 ligation in controlling transformed T cells.
+
+Bixel et al. (2010) found that antibodies against mouse Cd99 or Pecam1
+(173445) trapped neutrophils between endothelial cells in vitro. In
+contrast, electron and 3-dimensional confocal microscopy of inflamed
+cremaster demonstrated that antibodies against Cd99 or Cd99l2 (300846)
+or Pecam1 gene deletion led to accumulation of neutrophils in vivo
+between endothelial cells and basement membrane rather than between
+endothelial cells. Antibodies against Cd99 or Cd99l2 in combination with
+Pecam1 deficiency resulted in additive inhibitory effects on leukocyte
+extravasation in 2 different inflammation models. Bixel et al. (2010)
+concluded that CD99 and CD99L2 act independently of PECAM1 but at the
+same site during diapedesis, i.e., between endothelial cells and the
+basement membrane.
+
+HISTORY
+
+Polymorphism at the Xg locus and the Yg locus shows similar allele
+frequencies. This could be due to chance, to selection, or to
+recombination between the X and Y chromosomes (Burgoyne, 1982).
+
+Tippett et al. (1986) presented family and sibship analysis to prove
+that the 12E7 quantitative polymorphism of red cells is controlled by
+the Y-borne locus, Yg, in addition to the X-borne locus, Xg. X-Y
+recombination was invoked to explain the apparent exception to Y-borne
+control in 1 family.
+
+Goodfellow et al. (1986) stated that MIC2 recombines with TDF
+(testis-determining factor) at a frequency of 2 to 3%. MIC2 was the most
+proximal autosomal locus described to that time and a useful marker in
+studies directed toward isolation of TDF. The order of Y-specific
+sequences located proximal to the sex-determining gene(s), and therefore
+not pseudoautosomal, has been determined on the basis of their presence
+or absence in DNA from XX males, and the order of pseudoautosomal loci
+situated distal to TDF has been established through family studies such
+as those presented by Goodfellow et al. (1986).
+
+During meiosis, pairing of the X and Y begins at the ends of the short
+arms. Cooke et al. (1985) found sequence homology in the pairing regions
+of the human X and Y. Because of a high order of polymorphism, they
+could do family studies which showed what they termed 'pseudoautosomal'
+inheritance, whereas Cooke et al. (1985) used repetitive sequences for
+this demonstration. Simmler et al. (1985) used a single-copy genomic DNA
+fragment which occurred in different allelic forms shared by both sex
+chromosomes. Homologous segments of the X and Y have been suspected
+because the 2 have a common ancestral origin; there is karyologic
+evidence for pairing and crossing-over and, in man, the Turner phenotype
+suggests deficiency of genetic material located on the second sex
+chromosome.
+
+ADDITIONAL REFERENCES Banting et al. (1985); Goodfellow and Tippett (1981); Ropers et al.
+(1985)
+REFERENCE 1. Banting, G. S.; Pym, B.; Goodfellow, P. N.: Biochemical analysis
+of an antigen produced by both human sex chromosomes. EMBO J. 4:
+1967-1972, 1985.
+
+2. Bernard, A.; Aubrit, A.; Raynal, B.; Phan, D.; Boumsell, L.: A
+T cell surface molecule different from CD2 is involved in spontaneous
+rosette formation with erythrocytes. J. Immun. 140: 1802-1807, 1988.
+
+3. Bixel, M. G.; Li, H.; Petri, B.; Khandoga, A. G.; Khandoga, A.;
+Zarbock, A.; Wolburg-Buchholz, K.; Wolburg, H.; Sorokin, L.; Zeuschner,
+D.; Maerz, S.; Butz, S.; Krombach, F.; Vestweber, D.: CD99 and CD99L2
+act at the same site as, but independently of, PECAM-1 during leukocyte
+diapedesis. Blood 116: 1172-1184, 2010.
+
+4. Buckle, V.; Mondello, C.; Darling, S.; Craig, I. W.; Goodfellow,
+P. N.: Homologous expressed genes in the human sex chromosome pairing
+region. Nature 317: 739-741, 1985.
+
+5. Burgoyne, P. S.: Genetic homology and crossing over in the X and
+Y chromosomes of mammals. Hum. Genet. 61: 85-90, 1982.
+
+6. Cooke, H. J.; Brown, W. R. A.; Rappold, G. A.: Hypervariable telomeric
+sequences from the human sex chromosomes are pseudoautosomal. Nature 317:
+687-692, 1985.
+
+7. Curry, C. J. R.; Magenis, R. E.; Brown, M.; Lanman, J. T., Jr.;
+Tsai, J.; O'Lague, P.; Goodfellow, P.; Mohandas, T.; Bergner, E. A.;
+Shapiro, L. J.: Inherited chondrodysplasia punctata due to a deletion
+of the terminal short arm of an X chromosome. New Eng. J. Med. 311:
+1010-1015, 1984.
+
+8. Darling, S. M.; Banting, G. S.; Pym, B.; Wolfe, J.; Goodfellow,
+P. N.: Cloning an expressed gene shared by the human sex chromosomes. Proc.
+Nat. Acad. Sci. 83: 135-139, 1986.
+
+9. Dracopoli, N. C.; Rettig, W. J.; Albino, A. P.; Esposito, D.; Archidiacono,
+N.; Rocchi, M.; Siniscalco, M.; Old, L. J.: Genes controlling gp25/30
+cell-surface molecules map to chromosomes X and Y and escape X-inactivation. Am.
+J. Hum. Genet. 37: 199-207, 1985.
+
+10. Fouchet, C.; Gane, P.; Cartron, J.-P.; Lopez, C.: Quantitative
+analysis of XG blood group and CD99 antigens on human red cells. Immunogenetics 51:
+688-694, 2000.
+
+11. Fouchet, C.; Gane, P.; Huet, M.; Fellous, M.; Rouger, P.; Banting,
+G.; Cartron, J.-P.; Lopez, C. A study of the coregulation and tissue
+specificity of XG and MIC2 gene expression in eukaryotic cells. Blood 95:
+1819-1826, 2000.
+
+12. Gelin, C.; Aubrit, F.; Phalipon, A.; Raynal, B.; Cole, S.; Kaczorek,
+M.; Bernard, A.: The E2 antigen, a 32 kD glycoprotein involved in
+T-cell adhesion processes, is the MIC2 gene product. EMBO J. 8:
+3253-3259, 1989.
+
+13. Geller, R. L.; Shapiro, L. J.; Mohandas, T. K.: Fine mapping
+of the distal short arm of the human X chromosome using X/Y translocations. Am.
+J. Hum. Genet. 38: 884-890, 1986.
+
+14. Goodfellow, P.; Banting, G.; Sheer, D.; Ropers, H. H.; Caine,
+A.; Ferguson-Smith, M. A.; Povey, S.; Voss, R.: Genetic evidence
+that a Y-linked gene in man is homologous to a gene on the X chromosome. Nature 302:
+346-349, 1983.
+
+15. Goodfellow, P.; Pym, B.; Mohandas, T.; Shapiro, L. J.: The cell
+surface antigen locus, MIC2X, escapes X-inactivation. Am. J. Hum.
+Genet. 36: 777-782, 1984.
+
+16. Goodfellow, P. J.; Darling, S. M.; Thomas, N. S.; Goodfellow,
+P. N.: A pseudoautosomal gene in man. Science 234: 740-743, 1986.
+
+17. Goodfellow, P. J.; Pritchard, C.; Tippett, P.; Goodfellow, P.
+N.: Recombination between the X and Y chromosomes: implications for
+the relationship between MIC2, XG and YG. Ann. Hum. Genet. 51: 161-167,
+1987.
+
+18. Goodfellow, P. N.; Tippett, P.: A human quantitative polymorphism
+related to Xg blood groups. Nature 289: 404-405, 1981.
+
+19. Khoury, J. D.: Ewing sarcoma family of tumors. Adv. Anat. Path. 12:
+212-220, 2005.
+
+20. Kovar, H.; Dworzak, M.; Strehl, S.; Schnell, E.; Ambros, I. M.;
+Ambros, P. F.; Gadner, H.: Overexpression of the pseudoautosomal
+gene MIC2 in Ewing's sarcoma and peripheral primitive neuroectodermal
+tumor. Oncogene 5: 1067-1070, 1990.
+
+21. Levy, R.; Dilley, J.; Fox, R. I.; Warnke, R.: A human thymus-leukemia
+antigen defined by hybridoma monoclonal antibodies. Proc. Nat. Acad.
+Sci. 76: 6552-6556, 1979.
+
+22. Mangs, A. H.; Morris, B. J.: The human pseudoautosomal region
+(PAR): origin, function and future. Curr. Genomics 8: 129-136, 2007.
+
+23. Pettersen, R. D.; Bernard, G.; Olafsen, M. K.; Pourtein, M.; Lie,
+S. O.: CD99 signals caspase-independent T cell death. J. Immun. 166:
+4931-4942, 2001.
+
+24. Ropers, H. H.; Zimmer, J.; Strobl, G.; Goodfellow, P.: The MIC2X
+(12E7) locus maps distally from STS on Xp. (Abstract) Cytogenet.
+Cell Genet. 40: 736 only, 1985.
+
+25. Simmler, M.-C.; Rouyer, F.; Vergnaud, G.; Nystrom-Lahti, M.; Ngo,
+K. Y.; de la Chapelle, A.; Weissenbach, J.: Pseudoautosomal DNA sequences
+in the pairing region of the human sex chromosomes. Nature 317:
+692-697, 1985.
+
+26. Smith, M. J.; Goodfellow, P. N.: MIC2R: a transcribed MIC2-related
+sequence associated with a CpG island in the human pseudoautosomal
+region. Hum. Molec. Genet. 3: 1575-1582, 1994.
+
+27. Tippett, P.; Shaw, M.-A.; Green, C. A.; Daniels, G. L.: The 12E7
+red cell quantitative polymorphism: control by the Y-borne locus,
+Yg. Ann. Hum. Genet. 50: 339-347, 1986.
+
+CONTRIBUTORS Matthew B. Gross - updated: 09/11/2012
+Paul J. Converse - updated: 6/16/2011
+Paul J. Converse - updated: 11/2/2001
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED mgross: 09/11/2012
+mgross: 9/11/2012
+mgross: 6/21/2011
+terry: 6/16/2011
+carol: 8/31/2009
+joanna: 8/26/2009
+carol: 10/31/2008
+carol: 3/11/2003
+mgross: 11/2/2001
+carol: 9/16/1999
+carol: 9/30/1998
+terry: 11/17/1994
+carol: 5/11/1994
+mimadm: 2/28/1994
+carol: 9/10/1992
+supermim: 3/17/1992
+carol: 3/8/1992
+
+611213	TITLE *611213 RELT-LIKE 2; RELL2
+DESCRIPTION 
+CLONING
+
+By EST database analysis to search for sequences with similarity to RELT
+(611211), Cusick et al. (2006) cloned full-length RELL1 (611212) and
+RELL2. The predicted RELL2 sequence contains a transmembrane domain but
+lacks extracellular cysteine-rich domains. RELL2 shares 27% and 40%
+amino acid identity with RELT and RELL1, respectively. Northern blot
+analysis detected an approximately 3-kb transcript primarily in human
+immune-related tissues such as spleen, thymus, testis, peripheral blood
+leukocytes, and placenta. RELL2 mRNA was not detected in prostate,
+ovary, small intestine, colon, heart, lung, liver, skeletal muscle,
+kidney, or pancreas. Immunofluorescent confocal microscopy localized
+RELL2 to the plasma membrane in COS-7 cells and colocalized RELL2 with
+RELL1 and RELT.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation studies, Cusick et al. (2006) showed that
+showed that RELL2 bound RELL1, RELT, and serine-threonine kinase OSR1
+(OXSR1; 604046). By in vitro kinase assay, Cusick et al. (2006) showed
+that RELL1, RELL2, and RELT were phosphorylated by OSR1.
+
+REFERENCE 1. Cusick, J. K.; Xu, L.-G.; Bin, L.-H.; Han, K.-J.; Shu, H.-B.:
+Identification of RELT homologues that associate with RELT and are
+phosphorylated by OSR1. Biochem. Biophys. Res. Commun. 340: 535-543,
+2006.
+
+CREATED Dorothy S. Reilly: 7/17/2007
+
+EDITED wwang: 07/17/2007
+wwang: 7/17/2007
+
+610434	TITLE *610434 LYMPHOCYTE ANTIGEN 6 COMPLEX, LOCUS G5C; LY6G5C
+;;G5C
+DESCRIPTION 
+DESCRIPTION
+
+LY6G5C belongs to a cluster of leukocyte antigen-6 (LY6) genes located
+in the major histocompatibility complex (MHC) class III region on
+chromosome 6. Members of the LY6 superfamily typically contain 70 to 80
+amino acids, including 8 to 10 cysteines. Most LY6 proteins are attached
+to the cell surface by a glycosylphosphatidylinositol (GPI) anchor that
+is directly involved in signal transduction (Mallya et al., 2002).
+
+CLONING
+
+By EST database searching and RT-PCR analysis, Mallya et al. (2002)
+obtained LY6G5C cDNAs. The predicted protein contains an N-terminal
+signal peptide, followed by a cys-rich LY6 domain. RT-PCR detected a
+444-bp product in T-cell lines and fetal and adult lung. Several other
+transcripts were detected, but all contained premature stop codons.
+
+GENE STRUCTURE
+
+Mallya et al. (2002) determined that the LY6G5C gene contains 4 exons
+and spans at least 7 kb.
+
+MAPPING
+
+By genomic sequence analysis, Mallya et al. (2002) mapped the LY6G5C
+gene to a LY6 gene cluster within the MHC class III region on chromosome
+6p21.3.
+
+REFERENCE 1. Mallya, M.; Campbell, R. D.; Aguado, B.: Transcriptional analysis
+of a novel cluster of LY-6 family members in the human and mouse major
+histocompatibility complex: five genes with many splice forms. Genomics 80:
+113-123, 2002.
+
+CREATED Paul J. Converse: 9/26/2006
+
+EDITED mgross: 09/26/2006
+
+610257	TITLE *610257 SEC31, YEAST, HOMOLOG OF, A; SEC31A
+;;SEC31-LIKE 1; SEC31L1;;
+KIAA0905
+DESCRIPTION 
+DESCRIPTION
+
+SEC31A is a subunit of coat protein complex II (COPII)-coated vesicles,
+which are essential for secretion (Jin et al., 2012).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (1998) cloned SEC31L1, which they designated
+KIAA0905. The deduced protein contains 1,220 amino acids. RT-PCR
+detected moderate expression in all adult and fetal tissues and specific
+brain regions examined.
+
+By searching EST databases for sequences similar to yeast Sec31,
+followed by screening a pancreas cDNA library, Tang et al. (2000) cloned
+SEC31L1, which they called SEC31A. The deduced 1,218-amino acid protein
+shares 25.8% identity with yeast Sec31. It contains 5 WD40 or WD40-like
+repeats at its N terminus and a proline-rich region in its C-terminal
+half. Northern blot analysis detected a 4-kb transcript that was
+abundantly and ubiquitously expressed. In rat kidney cells, Sec31a
+colocalized with Sec13 (SEC13L1; 600152) in vesicular-tubular structures
+characteristic of endoplasmic reticulum (ER) exit sites.
+
+GENE FUNCTION
+
+By immunostaining for Sec31a in intact and permeabilized rat kidney
+cells, Tang et al. (2000) found that Sec31a was not tightly associated
+with the membrane. Binding of Sec31a to specific membrane structures was
+restored by incubating washed cells with cytosol, indicating that Sec31a
+was recruited to membranes. The membrane association of Sec31a was
+greatly enhanced in the presence of a nonhydrolyzable GTP analog. Tang
+et al. (2000) demonstrated that Sec31A and Sec13 coimmunoprecipitated
+and that the proteins existed in a 600- to 700-kD complex.
+Immunodepletion studies showed that rat Sec31a was required for
+ER-to-Golgi vesicular transport.
+
+Jin et al. (2012) found that monoubiquitination of Sec31 in mouse
+embryonic stem cells by Klhl12 (614522) and the Cul3 (603136) E3
+ubiquitin ligase complex was required for COPII vesicle expansion to
+accommodate large cargo proteins, such as procollagens (see 120150). A
+Sec31-binding mutant of Klhl12 neither colocalized with Sec31 at
+intracellular vesicles nor induced formation of large vesicles.
+Disruption of KLHL12-CUL3 function in human HT1080 fibrosarcoma cells
+impaired COPII vesicle expansion and collagen export, but it had no
+effect on export of smaller cargo by small COPII vesicles. Jin et al.
+(2012) concluded that KLHL12-CUL3 monoubiquitination of SEC31 is
+required for COPII vesicle expansion to accommodate large or bulky cargo
+molecules.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the SEC31L1
+gene to chromosome 4.
+
+REFERENCE 1. Jin, L.; Pahuja, K. B.; Wickliffe, K. E.; Gorur, A.; Baumgartel,
+C.; Schekman, R.; Rape, M.: Ubiquitin-dependent regulation of COPII
+coat size and function. Nature 482: 495-500, 2012.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Oharo, O.: Prediction
+of the coding sequences of unidentified human genes. XII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 5: 355-364, 1998.
+
+3. Tang, B. L.; Zhang, T.; Low, D. Y. H.; Wong, E. T.; Horstmann,
+H.; Hong, W.: Mammalian homologues of yeast Sec31p: an ubiquitously
+expressed form is localized to endoplasmic reticulum (ER) exit sites
+and is essential for ER-Golgi transport. J. Biol. Chem. 275: 13597-13604,
+2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/8/2012
+
+CREATED Patricia A. Hartz: 7/14/2006
+
+EDITED mgross: 03/08/2012
+terry: 3/8/2012
+mgross: 7/14/2006
+
+611532	TITLE *611532 NUCLEOLAR PROTEIN 6; NOL6
+;;NUCLEOLAR RNA-ASSOCIATED PROTEIN; NRAP;;
+UTP22, S. CEREVISIAE, HOMOLOG OF; UTP22
+DESCRIPTION 
+CLONING
+
+By screening a mouse embryonic stem cell cDNA library with a partial
+Nol6 clone, followed by 5-prime RACE, database analysis, and RT-PCR of
+human hepatic cell line RNA, Utama et al. (2002) cloned full-length
+human and mouse NOL6, which they called NRAP. They identified
+NOL6-alpha, -beta, and -gamma isoforms that contain 1,146, 1,007, and
+699 amino acids, respectively. NOL6-alpha shares 88% amino acid identity
+with mouse Nol6-alpha. Both human and mouse coding regions are GC-rich
+and share weak homology to a PAP/25A core domain, which is found in
+poly(A) polymerases (605553). NOL6 contains potential nuclear
+localization signals and has several potential phosphorylation sites.
+Immunohistochemical and immunofluorescence studies localized Nol6
+expression within the nucleolus in a variety of rodent cell lines,
+although expression was not specifically localized to rRNA transcription
+sites. Nol6 localized to the condensed chromosomes during mitosis in a
+pattern similar to that of B23/nucleophosmin (NPM1; 164040). In situ
+hybridization studies in mouse embryos showed ubiquitous Nol6 expression
+during development. Immunoblot studies of mouse tissues detected strong
+expression in spleen, testis, colon, kidney, stomach, and brain, with
+moderate expression in lung, liver, and small intestine, and low
+expression in heart and skeletal muscle.
+
+By database analysis, Bernstein et al. (2004) identified NOL6 as the
+human ortholog of yeast Utp22. Utp22 is a component of a yeast
+ribonucleoprotein required for biogenesis of the 18S rRNA.
+
+GENE FUNCTION
+
+Utama et al. (2002) showed that both actinomycin D and RNase treatment
+disrupted Nol6 nucleolar localization while cyclohexamide had no effect.
+They suggested that Nol6 interacts either directly or indirectly with
+the pre-rRNA transcript.
+
+GENE STRUCTURE
+
+Utama et al. (2002) determined that the NOL6 gene contains 26 exons
+spanning 11.4 kb. Alternative splicing excludes exons 24 and 25 in
+NOL6-beta and skips exons 16 to 25 in the NOL6-gamma isoform.
+
+MAPPING
+
+By genomic sequence analysis, Utama et al. (2002) mapped the NOL6 gene
+to chromosome 9p13.
+
+REFERENCE 1. Bernstein, K. A.; Gallagher, J. E. G.; Mitchell, B. M.; Granneman,
+S.; Baserga, S. J.: The small-subunit processome is a ribosome assembly
+intermediate. Eukaryotic Cell 3: 1619-1626, 2004.
+
+2. Utama, B.; Kennedy, D.; Ru, K.; Mattick, J. S.: Isolation and
+characterization of a new nucleolar protein, Nrap, that is conserved
+from yeast to humans. Genes Cells 7: 115-132, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/26/2009
+
+CREATED Dorothy S. Reilly: 10/15/2007
+
+EDITED mgross: 05/28/2009
+terry: 5/26/2009
+wwang: 10/15/2007
+
+603953	TITLE *603953 POTASSIUM INWARDLY-RECTIFYING CHANNEL, SUBFAMILY J, MEMBER 14; KCNJ14
+;;KIR2.4
+DESCRIPTION 
+CLONING
+
+Members of the inwardly rectifying potassium (Kir) channel family are
+characterized by a channel structure with 2 transmembrane segments
+surrounding putative pore loop. The Kir2 subfamily contains channels
+characterized by their strong current rectification. By screening a rat
+brain library with a bovine PCR fragment based on a human Kir-like EST
+(GenBank GENBANK W25800), Topert et al. (1998) isolated a cDNA encoding
+Kir2.4, a Kir2 subfamily member. In situ hybridization revealed that
+Kir2.4 is expressed predominantly in motoneurons of cranial nerve motor
+nuclei within the general somatic and special visceral motor cell
+column. The unique Kir2.4 expression pattern and in situ measurements of
+the functional characteristics of Kir2.4 in rat brainstem led the
+authors to conclude that these channels serve an important function in
+controlling the excitability of brainstem motoneurons. Northern blot
+analysis revealed that Kir2.4 is expressed specifically in human brain.
+
+REFERENCE 1. Topert, C.; Doring, F.; Wischmeyer, E.; Karschin, C.; Brockhaus,
+J.; Ballanyi, K.; Derst, C.; Karschin, A.: Kir2.4: a novel K+ inward
+rectifier channel associated with motoneurons of cranial nerve nuclei. J.
+Neurosci. 18: 4096-4105, 1998.
+
+CREATED Rebekah S. Rasooly: 6/29/1999
+
+EDITED alopez: 12/02/2010
+alopez: 7/9/1999
+jlewis: 7/1/1999
+jlewis: 6/29/1999
+
+151300	TITLE *151300 LEUCYL-CYSTINYL AMINOPEPTIDASE; LNPEP
+;;LEUCINE AMINOPEPTIDASE OF PLACENTA;;
+OXYTOCINASE;;
+INSULIN-RESPONSIVE AMINOPEPTIDASE, MOUSE, HOMOLOG OF; IRAP
+DESCRIPTION 
+CLONING
+
+Beckman et al. (1966) found 3 placental leucine aminopeptidase (LAP)
+types. (LAP enzymes in the serum of pregnant women probably are not
+derived from placenta.) Beckman et al. (1969) stated a preference for
+the designation amino acid naphthylamidase. The serum level of placental
+LAP increases during pregnancy and degrades several peptide hormones
+such as oxytocin (167050) and vasopressin (192340).
+
+Rogi et al. (1996) cloned a human placenta cDNA encoding leucyl-cystinyl
+aminopeptidase, which they symbolized PLAP. The deduced 944-amino acid
+polypeptide contains the HEXXH consensus sequence of zinc
+metallopeptidases as well as an N-terminal hydrophobic region that
+resembles a transmembrane domain. Northern blot analysis detected
+expression of 3.6-kb and 10.5-kb transcripts in placenta, heart, and
+skeletal muscle, and a 10.5-kb transcript in brain. Using
+immunohistochemistry, Nagasaka et al. (1997) localized LNPEP to
+syncytiotrophoblasts in placenta as well as in fetal and adult vascular
+endothelial cells, the epithelial lining of several organs, neurons, and
+sweat gland cells; adult seminal vesicles and prostate; and fetal
+adipocytes and skeletal muscle.
+
+GENE FUNCTION
+
+In muscle and fat cells, insulin (INS; 176730) stimulation activates a
+signaling cascade that causes intracellular vesicles containing glucose
+transporter-4 (GLUT4, or SLC2A4; 138190) to translocate to and fuse with
+the plasma membrane. Using mass spectrometry, Larance et al. (2005)
+identified Irap as a major membrane protein associated with Glut4
+vesicles in cultured mouse adipocytes. The Rab GTPase-activating protein
+As160 (TBC1D4; 612465), another major constituent of Glut4 vesicles,
+interacted directly with the cytoplasmic tail of Irap in vitro and in
+vivo. Since As160 dissociated from Glut4 vesicles upon insulin
+stimulation, Larance et al. (2005) concluded that interaction between
+AS160 and IRAP mediates association of AS160 with GLUT4 vesicles.
+
+Major histocompatibility complex (MHC) class I molecules present
+peptides, produced through cytosolic proteasomal degradation of cellular
+proteins, to cytotoxic T lymphocytes. In dendritic cells, the peptides
+can also be derived from internalized antigens through a process known
+as crosspresentation. Saveanu et al. (2009) identified a role for
+peptide trimming by IRAP in crosspresentation. In human dendritic cells,
+IRAP was localized to a Rab14+ endosomal storage compartment in which it
+interacted with MHC class I molecules. IRAP deficiency compromised
+crosspresentation in vitro and in vivo but did not affect endogenous
+presentation. Saveanu et al. (2009) proposed the existence of 2 pathways
+for proteasome-dependent crosspresentation in which final peptide
+trimming involves IRAP in endosomes and involves the related
+aminopeptidases in the endoplasmic reticulum.
+
+GENE STRUCTURE
+
+Horio et al. (1999) isolated and sequenced genomic clones containing the
+upstream region of LNPEP and identified 4 GC-rich sequences, a TATA box,
+and 3 half palindromic estrogen-responsive element (ERE)-like motifs.
+
+MAPPING
+
+By FISH, Horio et al. (1999) mapped the LNPEP gene to chromosome
+5q14.2-q15.
+
+ANIMAL MODEL
+
+Mouse Irap, a zinc-dependent membrane aminopeptidase, is the homolog of
+human LNPEP. Keller et al. (2002) characterized Irap-null mice with
+regard to glucose homeostasis and regulation of the insulin-responsive
+glucose transporter Glut4 (138190). Irap-null mice maintained normal
+glucose homeostasis despite decreased glucose uptake into muscle and fat
+cells. The absence of Irap did not affect the subcellular distribution
+of Glut4 in adipocytes, but it led to a substantial decrease in Glut4
+expression.
+
+ADDITIONAL REFERENCES Scandalios  (1967)
+REFERENCE 1. Beckman, L.; Beckman, G.; Mi, M. P.; De Simone, J.: The human
+placental amino acid naphthylamidases: their molecular interrelations
+and correlations with perinatal factors. Hum. Hered. 19: 249-257,
+1969.
+
+2. Beckman, L.; Bjorling, G.; Christodoulou, C.: Pregnancy enzymes
+and placental polymorphism. II. Leucine aminopeptidase. Acta Genet.
+Statist. Med. 16: 122-131, 1966.
+
+3. Horio, J.; Nomura, S.; Okada, M.; Katsumata, Y.; Nakanishi, Y.;
+Kumano, Y.; Takami, S.; Kinoshita, M.; Tsujimoto, M.; Nakazato, H.;
+Mizutani, S.: Structural organization of the 5-prime-end and chromosomal
+assignment of human placental leucine aminopeptidase/insulin-regulated
+membrane aminopeptidase gene. Biochem. Biophys. Res. Commun. 262:
+269-274, 1999.
+
+4. Keller, S. R.; Davis, A. C.; Clairmont, K. B.: Mice deficient
+in the insulin-regulated membrane aminopeptidase show substantial
+decreases in glucose transporter GLUT4 levels but maintain normal
+glucose homeostasis. J. Biol. Chem. 277: 17677-17686, 2002.
+
+5. Larance, M.; Ramm, G.; Stockli, J.; van Dam, E. M.; Winata, S.;
+Wasinger, V.; Simpson, F.; Graham, M.; Junutula, J. R.; Guilhaus,
+M.; James, D. E.: Characterization of the role of the Rab GTPase-activating
+protein AS160 in insulin-regulated GLUT4 trafficking. J. Biol. Chem. 280:
+37803-37813, 2005.
+
+6. Nagasaka, T.; Nomura, S.; Okamura, M.; Tsujimoto, M.; Nakazato,
+H.; Oiso, Y.; Nakashima, N.; Mizutani, S.: Immunohistochemical localization
+of placental leucine aminopeptidase/oxytocinase in normal human placental,
+fetal and adult tissues. Reprod. Fertil. Dev. 9: 747-753, 1997.
+
+7. Rogi, T.; Tsujimoto, M.; Nakazato, H.; Mizutani, S.; Tomoda, Y.
+: Human placental leucine aminopeptidase/oxytocinase: a new member
+of type II membrane-spanning zinc metallopeptidase family. J. Biol.
+Chem. 271: 56-61, 1996.
+
+8. Saveanu, L.; Carroll, O.; Weimershaus, M.; Guermonprez, P.; Firat,
+E.; Lindo, V.; Greer, F.; Davoust, J.; Kratzer, R.; Keller, S. R.;
+Niedermann, G.; van Endert, P.: IRAP identifies an endosomal compartment
+required for MHC class I cross-presentation. Science 325: 213-217,
+2009.
+
+9. Scandalios, J. G.: Human serum leucine aminopeptidase: variation
+in pregnancy and in disease states. J. Hered. 58: 153-156, 1967.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/14/2009
+Patricia A. Hartz - updated: 2/27/2009
+Patricia A. Hartz - updated: 5/4/2004
+Patricia A. Hartz - updated: 4/4/2002
+Mark H. Paalman - updated: 5/8/1997
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED alopez: 08/18/2009
+terry: 8/14/2009
+mgross: 3/18/2009
+terry: 2/27/2009
+terry: 3/16/2005
+mgross: 5/4/2004
+mgross: 8/21/2002
+carol: 4/4/2002
+mark: 8/20/1997
+mark: 5/8/1997
+alopez: 5/8/1997
+mark: 5/1/1997
+jenny: 4/21/1997
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+marie: 3/25/1988
+reenie: 6/2/1986
+
+611838	TITLE *611838 MITOCHONDRIAL RIBOSOMAL PROTEIN L30; MRPL30
+;;MRPL28
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+proteins essential for oxidative phosphorylation. MRPL30 is 1 of more
+than 70 protein components of mitochondrial ribosomes that are encoded
+by the nuclear genome (Kenmochi et al., 2001).
+
+CLONING
+
+By searching databases for homologs of rat Mrpl28, Goldschmidt-Reisin et
+al. (1998) identified mouse and human MRPL30, which they called MRPL28.
+The deduced 162-amino acid human MRPL30 protein contains a 34-amino acid
+N-terminal mitochondrial import signal.
+
+MAPPING
+
+By radiation hybrid analysis and analysis of an integrated BAC-STS map,
+Kenmochi et al. (2001) mapped the MRPL30 gene to chromosome 2q11.2.
+
+REFERENCE 1. Goldschmidt-Reisin, S.; Kitakawa, M.; Herfurth, E.; Wittmann-Liebold,
+B.; Grohmann, L.; Graack, H.-R.: Mammalian mitochondrial ribosomal
+proteins: N-terminal amino acid sequencing, characterization, and
+identification of corresponding gene sequences. J. Biol. Chemm. 273:
+34828-34836, 1998.
+
+2. Kenmochi, N.; Suzuki, T.; Uechi, T.; Magoori, M.; Kuniba, M.; Higa,
+S.; Watanabe, K.; Tanaka, T.: The human mitochondrial ribosomal protein
+genes: mapping of 54 genes to the chromosomes and implications for
+human disorders. Genomics 77: 65-70, 2001.
+
+CREATED Patricia A. Hartz: 2/26/2008
+
+EDITED mgross: 02/27/2008
+
+604881	TITLE *604881 RABPHILIN 3A-LIKE; RPH3AL
+;;NOC2
+DESCRIPTION 
+CLONING
+
+Using a DNA fragment encoding the Rab3A (179490)-binding domain of a
+mouse rabphilin-3A (RPH3A; 612159) cDNA, Kotake et al. (1997) probed a
+rat islet cDNA library under low stringency and identified rat Rph3al,
+which they designated Noc2. A full-length Noc2 clone was isolated from a
+rat insulin-secreting cell line cDNA library. The Noc2 cDNA encodes a
+302-amino acid protein that shows 40.7% amino acid identity and 77.9%
+similarity to the N-terminal region of rat rabphilin-3A. However, it
+lacks the C2 domains, and hence the Noc2 (no C2 domain) designation.
+Noc2 contains 1 potential protein kinase A and 3 potential protein
+kinase C phosphorylation sites. RNA blot analysis revealed that a single
+2.2- or 2.6-kb transcript of Noc2 is expressed at very high levels in
+pancreatic islets, and at low to moderate or high levels in other
+endocrine tissues and hormone-secreting cell lines, but at very low
+levels in brain. Screening a mouse embryonic cDNA library with the yeast
+2-hybrid system, Kotake et al. (1997) showed that Noc2 interacts with
+the LIM domain-containing protein zyxin (602002), a component of the
+cytoskeleton. The authors suggested that Noc2 is probably involved in
+regulated exocytosis in endocrine cells by interacting with the
+cytoskeleton.
+
+Using cDNA selection, Smith et al. (1999) identified a human transcript
+spanning a common deletion on 17p13.3 found in approximately 40% of
+medulloblastomas. The full-length coding sequence predicted a 315-amino
+acid protein displaying 77% amino acid identity with the rat Noc2
+(Rph3al) protein. Northern blot analysis detected moderate to high
+expression of a 2.6-kb RPH3AL transcript in thyroid, ovary, stomach,
+heart, pancreas, skeletal muscle, kidney, and liver.
+
+GENE STRUCTURE
+
+Smith et al. (1999) determined that the RPH3AL gene contains 9 exons.
+
+MOLECULAR GENETICS
+
+Smith et al. (1999) determined that at least 1 exon of the RPH3AL gene
+maps within the common 9-kb deletion on chromosome 17p13.3 found in
+medulloblastomas. However, they found no mutations in this gene in 33
+tumor samples with allelic loss of 17p13, including 10 medulloblastomas,
+14 follicular thyroid cancers, and 9 ovarian cancers.
+
+REFERENCE 1. Kotake, K.; Ozaki, N.; Mizuta, M.; Sekiya, S.; Inagaki, N.; Seino,
+S.: Noc2, a putative zinc finger protein involved in exocytosis in
+endocrine cells. J. Biol. Chem. 272: 29407-29410, 1997.
+
+2. Smith, J. S.; Tachibana, I.; Allen, C.; Chiappa, S. A.; Lee, H.
+K.; McIver, B.; Jenkins, R. B.; Raffel, C.: Cloning of a human ortholog
+(RPH3AL) of (RNO)Rph3al from a candidate 17p13.3 medulloblastoma tumor
+suppressor locus. Genomics 59: 97-101, 1999.
+
+CONTRIBUTORS Wilson H. Y. Lo - updated: 7/10/2000
+
+CREATED Wilson H. Y. Lo: 4/26/2000
+
+EDITED wwang: 11/23/2010
+wwang: 7/2/2008
+carol: 7/10/2000
+carol: 4/27/2000
+
+182350	TITLE *182350 ATPase, Na+/K+ TRANSPORTING, ALPHA-3 POLYPEPTIDE; ATP1A3
+;;SODIUM-POTASSIUM-ATPase, ALPHA-3 POLYPEPTIDE
+DESCRIPTION 
+DESCRIPTION
+
+The alpha subunit of the Na,K-ATPase is the catalytic subunit. Three
+isoforms are expressed in the nervous system: ATP1A1 (182310), ATP1A2
+(182340), and ATP1A3 (de Carvalho Aguiar et al., 2004).
+
+GENE FUNCTION
+
+Agrin (AGRN; 103320) mediates accumulation of acetylcholine receptors at
+the developing neuromuscular junction through its interaction with MUSK
+(601296), and it has also been implicated in brain development. Through
+biochemical studies, Hilgenberg et al. (2006) found that agrin bound
+Atp1a3 in mouse cortical neurons. Immunohistochemical analysis showed
+that Atp1a3 colocalized with agrin-binding sites at synapses. Agrin
+inhibited Atp1a3 activity, resulting in membrane depolarization and
+increased action potential frequency in mouse cortical neurons in
+culture and acute slice. An agrin fragment that acted as a competitive
+antagonist depressed action potential frequency, indicating that
+endogenous agrin regulates native Atp1a3 function. Hilgenberg et al.
+(2006) concluded that agrin regulates activity-dependent processes in
+neurons through its interaction with ATP1A3.
+
+GENE STRUCTURE
+
+Ovchinnikov et al. (1988) determined that the ATP1A3 gene has about
+25,000 basepairs and that its protein-coding region includes 23 exons.
+
+MAPPING
+
+By Southern analysis of DNA from panels of rodent/human somatic cell
+hybrid lines, Yang-Feng et al. (1988) mapped the ATP1A3 gene to
+chromosome 19q12-q13.2. Harley et al. (1988) concluded that the order is
+qter--DM--APOC2--ATP1A3--cen.
+
+MOLECULAR GENETICS
+
+- Dystonia 12
+
+In 7 unrelated families with rapid-onset dystonia parkinsonism, or
+dystonia-12 (DYT12; 128235), de Carvalho Aguiar et al. (2004) identified
+6 different heterozygous mutations in the ATP1A3 gene
+(182350.0001-182350.0006). Functional expression studies and structural
+analysis suggested that the mutations impaired enzyme activity or
+stability.
+
+Anselm et al. (2009) and Blanco-Arias et al. (2009) reported de novo
+heterozygous ATP1A3 mutations (182350.0007 and 182350.0008,
+respectively) in patients with DYT12.
+
+- Alternating Hemiplegia of Childhood 2
+
+In 82 of 105 patients with alternating hemiplegia of childhood-2 (AHC2;
+615820), Heinzen et al. (2012) identified 19 different heterozygous
+mutations in the ATP1A3 gene (see, e.g., 182350.0009-182350.0012). The
+first mutations were identified through exome sequencing of affected
+individuals. Thirteen of the 18 mutations observed in sporadic cases
+were confirmed to occur de novo. Since it was possible that some
+variants represented polymorphisms, Heinzen et al. (2012) estimated that
+mutations in the ATP1A3 gene may be responsible for up to 74% of
+patients with sporadic, typical AHC. Several mutations were recurrent,
+and some occurred within hypermutable sequences. All patients had
+infantile onset of hemiplegia attacks, usually associated with episodes
+of quadriparesis, abnormal eye movements, autonomic signs, seizures,
+dystonia, ataxia, chorea, and developmental delay. Transfection of
+several of the mutations in HeLa cells showed protein levels similar to
+wildtype, but ATP1A3 activity was significantly decreased. In contrast,
+transfection of DYT12-associated mutations resulted in decreased protein
+levels as well as decreased activity. The report expanded the spectrum
+of phenotypes associated with mutations in the ATP1A3 gene.
+
+ANIMAL MODEL
+
+Ashmore et al. (2009) identified 6 different EMS-induced missense
+mutations in the Atp1a2 and Atp1a3 genes in Drosophila. All mutations
+resulted in reduced respiration activity consistent with a loss of
+ATPase function and a hypomorphic effect. Different mutant strains
+exhibited some abnormalities, including progressive
+temperature-dependent paralysis, progressive stress-sensitive paralysis,
+and decreased locomotor activity in response to startle, suggesting a
+decrease in maximal locomotion capacity. Neuromuscular studies showed
+allele-specific pathology, including brain vacuoles and myopathology,
+and biochemical studies showed decreased metabolic rates. An unexpected
+finding was the some mutant strains had increased longevity, which was
+not related to caloric restriction. Low doses of ouabain showed a
+similar effect on longevity in control groups. Ashmore et al. (2009)
+suggested that these findings may be relevant for studying the
+pathogenesis of FHM2 and DYT12 (128235).
+
+ALLELIC VARIANT .0001
+DYSTONIA 12
+ATP1A3, THR613MET
+
+In a sporadic patient (Linazasoro et al., 2002) and affected members of
+a second family (Zaremba et al., 2004) with dystonia-12 (DYT12; 128235),
+de Carvalho Aguiar et al. (2004) identified a heterozygous 1838C-T
+transition in the ATP1A3 gene, resulting in a thr613-to-met (T613M)
+substitution in a highly conserved residue near the phosphorylation
+domain on the cytoplasmic face of the protein. The mutation was not
+identified in 500 northern European control chromosomes.
+
+Brashear et al. (2007) identified the T613M mutation in a family with
+DYT12 reported by Pittock et al. (2000).
+
+.0002
+DYSTONIA 12
+ATP1A3, ILE274THR
+
+In a patient with dystonia-12 (128235), de Carvalho Aguiar et al. (2004)
+identified a heterozygous 821T-C transition in the ATP1A3 gene,
+resulting in an ile274-to-thr (I274T) substitution in a highly conserved
+residue in the transmembrane domain of the protein. The mutation was not
+identified in 500 northern European control chromosomes. The patient had
+disease onset at age 37 years.
+
+.0003
+DYSTONIA 12
+ATP1A3, GLU277LYS
+
+In a patient with dystonia-12 (128235), de Carvalho Aguiar et al. (2004)
+identified a heterozygous 829G-A transition in exon 8 of the ATP1A3
+gene, resulting in a glu277-to-lys (E277K) substitution in a highly
+conserved residue in the transmembrane domain of the protein. The
+mutation was not identified in 500 northern European control
+chromosomes. The patient had disease onset at age 20 years.
+
+Tarsy et al. (2010) identified the E277K mutation in a 29-year-old woman
+of African Caribbean descent with DYT12. She had onset at age 26 years
+of weakness and flexion of the left hand and ankle, which progressed
+rapidly over the next few years to become frank dystonia of the left arm
+and bulbar symptoms, including dysphagia, laryngeal dysfunction with
+task-specific dysphonia, and oropharyngeal dysmotility. She also had
+mild parkinsonism, with hypomimia and wide-based gait. Treatment with
+oral trihexyphenidyl and botulinum injection into selected laryngeal
+muscles resulted in clinical improvement.
+
+.0004
+DYSTONIA 12
+ATP1A3, ILE758SER
+
+In 12 affected members of a family with dystonia-12 (128235) reported by
+Dobyns et al. (1993), de Carvalho Aguiar et al. (2004) identified a
+heterozygous 2273T-G transversion in the ATP1A3 gene, resulting in an
+ile758-to-ser (I758S) substitution in a highly conserved residue in the
+transmembrane domain of the protein. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0005
+DYSTONIA 12
+ATP1A3, PHE780LEU
+
+In 2 affected members of a family with dystonia-12 (128235), de Carvalho
+Aguiar et al. (2004) identified a heterozygous 2338T-C transition in the
+ATP1A3 gene, resulting in a phe780-to-leu (F780L) substitution in a
+highly conserved residue in the transmembrane region of the protein
+close to the extracellular surface. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0006
+DYSTONIA 12
+ATP1A3, ASP801TYR
+
+In 4 affected members of a family with dystonia-12 (128235) reported by
+Brashear et al. (1997), de Carvalho Aguiar et al. (2004) identified a
+heterozygous 2401G-T transversion in the ATP1A3 gene, resulting in an
+asp801-to-tyr (D801Y) substitution in a highly conserved residue in the
+transmembrane region of the protein. The mutation was not identified in
+500 northern European control chromosomes.
+
+.0007
+DYSTONIA 12
+ATP1A3, ASP923ASN
+
+In a boy with early-onset DYT12 (128235) at age 4 years, Anselm et al.
+(2009) identified a heterozygous de novo 2767G-A transition in exon 20
+of the ATP1A3 gene, resulting in an asp923-to-asn (D923N) substitution.
+The mutation was not found in 338 Caucasian control chromosomes. The
+substitution was predicted to occur in a residue buried in the membrane
+close to the ion-binding residue gln920, suggesting that it may affect
+enzyme activity. He was born of an unaffected Caucasian father and
+Chinese mother. The onset of dystonia was abrupt, occurring after mild
+trauma to the forehead. He developed mutism, eye convergence, and
+inability to walk, which later evolved into severe dystonia, severe
+dysarthria, and drooling. The condition stabilized over several months,
+and he showed mild improvement over the next 8 years. About a year after
+onset, he developed unusual episodes of flaccidity lasting for hours,
+later replaced by shorter episodes of stiffness. Treatment with L-dopa
+was not effective. At the time of the report, he had bulbar symptoms,
+striking oromotor dystonia with inability to speak or swallow well, and
+apraxia.
+
+.0008
+DYSTONIA 12
+ATP1A3, 3-BP DUP, 3191TAC
+
+In a 16-year-old female with DYT12 (128235), Blanco-Arias et al. (2009)
+reported a de novo heterozygous 3-bp duplication (3191dupTAC) in exon 23
+of the ATP1A3 gene, resulting in duplication of tyr1013, the C-terminal
+amino acid of the protein before the stop codon. The mutation was not
+found in either parent, her brother, or in 218 control individuals. HeLa
+cells expressing the mutant protein showed decreased survival in
+response to ouabain challenge, but no defect was detected in protein
+expression or plasma membrane targeting. Functional analysis
+demonstrated a drastic 40- to 50-fold reduction in Na(+) affinity in the
+mutant. Blanco-Arias et al. (2009) suggested a crucial role for the C
+terminus of the alpha-subunit in the function of the Na+/K+-ATPase and
+emphasized a key impact of Na(+) affinity in the pathophysiology of
+DYT12.
+
+.0009
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, ASP801ASN
+
+In 36 of 95 unrelated patients with alternating hemiplegia of childhood
+(614820), Heinzen et al. (2012) identified a heterozygous 2401G-A
+transition in the ATP1A3 gene, resulting in an asp801-to-asn (D801N)
+substitution in the sixth transmembrane domain. The mutation was
+demonstrated to occur de novo in cases where parental material was
+available. All patients had infantile onset of hemiplegia attacks,
+usually associated with episodes of quadriparesis, abnormal eye
+movements, autonomic signs, seizures, dystonia, ataxia, chorea, and
+developmental delay. Transfection of the mutation in HeLa cells showed
+protein levels similar to wildtype, but ATP1A3 activity was
+significantly decreased. Evaluation of the crystal structure of the
+protein predicted that the D801N substitution would prevent the binding
+of potassium ions to the pump.
+
+.0010
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, GLU815LYS
+
+In 19 patients with alternating hemiplegia of childhood-2 (614820),
+Heinzen et al. (2012) identified a heterozygous 2443G-A transition in
+the ATP1A3 gene, resulting in a glu815-to-lys (E815K) substitution in
+the sixth transmembrane domain. The mutation was shown to occur de novo
+in all patients whose parents were available for study. Transfection of
+the mutation in HeLa cells showed protein levels similar to wildtype,
+but ATP1A3 activity was significantly decreased.
+
+.0011
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, SER811PRO
+
+In 4 unrelated patients with AHC2 (614820), Heinzen et al. (2012)
+identified a de novo heterozygous 2431T-C transition in the ATP1A3 gene,
+resulting in a ser811-to-pro (S811P) substitution in the sixth
+transmembrane domain. Transfection of the mutation in HeLa cells showed
+protein levels similar to wildtype, but ATP1A3 activity was
+significantly decreased.
+
+.0012
+ALTERNATING HEMIPLEGIA OF CHILDHOOD 2
+ATP1A3, GLY947ARG
+
+In 5 patients with AHC2 (614820), Heinzen et al. (2012) identified a
+heterozygous 2839G-A transition in the ATP1A3 gene, resulting in a
+gly947-to-arg (G947R) substitution in the ninth transmembrane domain.
+The mutation was shown to occur de novo in all patients whose parents
+were available for study.
+
+REFERENCE 1. Anselm, I. A.; Sweadner, K. J.; Gollamudi, S.; Ozelius, L. J.;
+Darras, B. T.: Rapid-onset dystonia-parkinsonism in a child with
+a novel ATP1A3 gene mutation. Neurology 73: 400-401, 2009.
+
+2. Ashmore, L. J.; Hrizo, S. L.; Paul, S. M.; Van Voorhies, W. A.;
+Beitel, G. J.; Palladino, M. J.: Novel mutations affecting the Na,
+K ATPase alpha model complex neurological diseases and implicate the
+sodium pump in increased longevity. Hum. Genet. 126: 431-447, 2009.
+
+3. Blanco-Arias, P.; Einholm, A. P.; Mamsa, H.; Concheiro, C.; Gutierrez-de-Teran,
+H.; Romero, J.; Toustrup-Jensen, M. S.; Carracedo, A.; Jen, J. C.;
+Vilsen, B.; Sobrido, M.-J.: A C-terminal mutation of ATP1A3 underscores
+the crucial role of sodium affinity in the pathophysiology of rapid-onset
+dystonia-parkinsonism. Hum. Molec. Genet. 18: 2370-2377, 2009.
+
+4. Brashear, A.; DeLeon, D.; Bressman, S. B.; Thyagarajan, D.; Farlow,
+M. R.; Dobyns, W. B.: Rapid-onset dystonia-parkinsonism in a second
+family. Neurology 48: 1066-1069, 1997.
+
+5. Brashear, A.; Dobyns, W. B.; de Carvalho Aguiar, P.; Borg, M.;
+Frijns, C. J. M.; Gollamudi, S.; Green, A.; Guimaraes, J.; Haake,
+B. C.; Klein, C.; Linazasoro, G.; Munchau, A.; Raymond, D.; Riley,
+D.; Saunders-Pullman, R.; Tijssen, M. A. J.; Webb, D.; Zaremba, J.;
+Bressman, S. B.; Ozelius, L. J.: The phenotypic spectrum of rapid-onset
+dystonia-parkinsonism (RDP) and mutations in the ATP1A3 gene. Brain 130:
+828-835, 2007.
+
+6. de Carvalho Aguiar, P.; Sweadner, K. J.; Penniston, J. T.; Zaremba,
+J.; Liu, L.; Caton, M.; Linazasoro, G.; Borg, M.; Tijssen, M. A. J.;
+Bressman, S. B.; Dobyns, W. B.; Brashear, A.; Ozelius, L. J.: Mutations
+in the Na(+)/K(+)-ATPase alpha-3 gene ATP1A3 are associated with rapid-onset
+dystonia parkinsonism. Neuron 43: 169-175, 2004.
+
+7. Dobyns, W. B.; Ozelius, L. J.; Kramer, P. L.; Brashear, A.; Farlow,
+M. R.; Perry, T. R.; Walsh, L. E.; Kasarskis, E. J.; Butler, I. J.;
+Breakefield, X. O.: Rapid-onset dystonia-parkinsonism. Neurology 43:
+2596-2602, 1993.
+
+8. Harley, H. G.; Brook, J. D.; Jackson, C. L.; Glaser, T.; Walsh,
+K. V.; Sarfarazi, M.; Kent, R.; Lager, M.; Koch, M.; Harper, P. S.;
+Levenson, R.; Housman, D. E.; Shaw, D. J.: Localization of a human
+Na+,K+-ATPase alpha subunit gene to chromosome 19q12-q13.2 and linkage
+to the myotonic dystrophy locus. Genomics 3: 380-384, 1988.
+
+9. Heinzen, E. L.; Swoboda, K. J.; Hitomi, Y.; Gurrieri, F.; Nicole,
+S.; de Vries, B.; Tiziano, F. D.; Fontaine, B.; Walley, N. M.; Heavin,
+S.; Panagiotakaki, E; European Alternating Hemiplegia of Childhood
+(AHC) Genetics Consortium; and 33 others: De novo mutations in
+ATP1A3 cause alternating hemiplegia of childhood. Nature Genet. 44:
+1030-1034, 2012.
+
+10. Hilgenberg, L. G. W.; Su, H.; Gu, H.; O'Dowd, D. K.; Smith, M.
+A.: Alpha-3-Na(+)/K(+)-ATPase is a neuronal receptor for agrin. Cell 125:
+359-369, 2006.
+
+11. Linazasoro, G.; Indakoetxea, B.; Ruiz, J.; Van Blercom, N.; Lasa,
+A.: Possible sporadic rapid-onset dystonia-parkinsonism. Mov. Disord. 17:
+608-609, 2002.
+
+12. Ovchinnikov, Y. A.; Monastyrskaya, G. S.; Broude, N. E.; Ushkaryov,
+Y. A.; Melkov, A. M.; Smirnov, Y. V.; Malyshev, I. V.; Allikmets,
+R. L.; Kostina, M. B.; Dulubova, I. E.; Kiyatkin, N. I.; Grishin,
+A. V.; Modyanov, N. N.; Sverdlov, E. D.: Family of human Na+,K+-ATPase
+genes: structure of the gene for the catalytic subunit (alpha-III-form)
+and its relationship with structural features of the protein. FEBS
+Lett. 233: 87-94, 1988.
+
+13. Pittock, S. J.; Joyce, C.; O'Keane, V.; Hugle, B.; Hardiman, O.;
+Brett, F.; Green, A. J.; Barton, D. E.; King, M. D.; Webb, D. W.:
+Rapid-onset dystonia-parkinsonism: a clinical and genetic analysis
+of a new kindred. Neurology 55: 991-995, 2000.
+
+14. Tarsy, D.; Sweadner, K. J.; Song, P. C.: Case 17-2010: a 29-year-old
+woman with flexion of the left hand and foot and difficulty speaking. New
+Eng. J. Med. 362: 2213-2219, 2010.
+
+15. Yang-Feng, T. L.; Schneider, J. W.; Lindgren, V.; Shull, M. M.;
+Benz, E. J., Jr.; Lingrel, J. B.; Francke, U.: Chromosomal localization
+of human Na+,K+-ATPase alpha- and beta-subunit genes. Genomics 2:
+128-138, 1988.
+
+16. Zaremba, J.; Mierzewska, H.; Lysiak, Z.; Kramer, P.; Ozelius,
+L. J.; Brashear, A.: Rapid-onset dystonia-parkinsonism: a fourth
+family consistent with linkage to chromosome 19q13. Mov. Disord. 19:
+1506-1510, 2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/13/2012
+Cassandra L. Kniffin - updated: 6/10/2010
+Cassandra L. Kniffin - updated: 5/24/2010
+George E. Tiller - updated: 3/30/2010
+Matthew B. Gross - updated: 3/8/2010
+Cassandra L. Kniffin - updated: 12/17/2009
+Cassandra L. Kniffin - updated: 3/10/2005
+
+CREATED Victor A. McKusick: 12/1/1987
+
+EDITED carol: 09/14/2012
+carol: 9/14/2012
+terry: 9/13/2012
+ckniffin: 9/13/2012
+wwang: 6/11/2010
+ckniffin: 6/10/2010
+wwang: 5/25/2010
+ckniffin: 5/24/2010
+wwang: 3/31/2010
+terry: 3/30/2010
+wwang: 3/11/2010
+mgross: 3/8/2010
+wwang: 1/8/2010
+ckniffin: 12/17/2009
+wwang: 3/16/2005
+wwang: 3/10/2005
+ckniffin: 3/10/2005
+carol: 10/31/2000
+mgross: 7/21/1999
+terry: 6/18/1998
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+root: 8/14/1989
+root: 1/9/1989
+root: 12/20/1988
+
+238310	TITLE *238310 AMINOMETHYLTRANSFERASE; AMT
+;;GLYCINE CLEAVAGE SYSTEM T PROTEIN; GCST
+DESCRIPTION 
+DESCRIPTION
+
+The enzyme system for cleavage of glycine (glycine cleavage system; EC
+2.1.2.10), which is confined to the mitochondria, is composed of 4
+protein components: P protein (a pyridoxal phosphate-dependent glycine
+decarboxylase; GLDC, 238300), H protein (a lipoic acid-containing
+protein; GCSH, 238330), T protein (a tetrahydrofolate-requiring enzyme),
+and L protein (a lipoamide dehydrogenase; DLD, 238331).
+
+Mutations in the T, P, and H proteins have been found to cause glycine
+encephalopathy (GCE; 605899).
+
+CLONING
+
+The T protein of the glycine cleavage system is also known as
+aminomethyltransferase (AMT). Nanao et al. (1994) isolated the AMT gene
+from a human placenta cosmid library. They found that the gene is about
+6 kb long and contains 9 exons. They identified 2 putative
+glucocorticoid-responsive elements and a putative thyroid
+hormone-responsive element. By dot-blot analysis, Kure et al. (2001)
+detected expression of AMT in all tissues tested except stomach and bone
+marrow.
+
+GENE FUNCTION
+
+Sakata et al. (2001) reported the structure and expression of the
+glycine cleavage system in rat central nervous system.
+
+MAPPING
+
+By fluorescence in situ hybridization, Nanao et al. (1994) assigned the
+AMT gene to 3p21.2-p21.1.
+
+MOLECULAR GENETICS
+
+In patients with glycine encephalopathy, Nanao et al. (1994) identified
+mutations in the AMT gene (238310.0001-238310.0002).
+
+Toone et al. (2000) studied 14 unrelated patients with glycine
+encephalopathy and identified mutations in 4 cases. In 2 patients,
+mutations were identified in the T protein: 1 patient was homozygous for
+an arg320-to-his mutation (R320H; 238310.0006), and the other patient
+was heterozygous for a novel glutamine-to-termination substitution at
+codon 192 (238310.0007).
+
+Applegarth and Toone (2001) reviewed the laboratory diagnosis of glycine
+encephalopathy and confirmed 9 mutations in the T protein and 8
+mutations in the P protein. They also reviewed the 7 cases of transient
+NKH known at that time.
+
+ALLELIC VARIANT .0001
+GLYCINE ENCEPHALOPATHY
+AMT, GLY269ASP
+
+Nanao et al. (1994) found that a patient with typical glycine
+encephalopathy (605899) was homozygous for a missense mutation in the
+AMT gene, a G-to-A transition leading to a gly-to-asp substitution at
+amino acid 269 (G269D).
+
+.0002
+GLYCINE ENCEPHALOPATHY
+AMT, GLY47ARG
+
+In 2 sisters with atypical glycine encephalopathy (605899), Nanao et al.
+(1994) found compound heterozygosity for 2 missense mutations in the T
+protein gene: a G-to-A transition leading to a gly-to-arg substitution
+at amino acid 47 (G47R) in 1 allele, and a G-to-A transition leading to
+an arg-to-his substitution at amino acid 320 (R320H; 238310.0006) in the
+other allele. Nanao et al. (1994) pointed out that gly269, which was
+mutant in the typically severe case they studied (see 238300.0001), is
+conserved in T proteins of various species, even in E. coli, whereas
+gly47 and arg320, which were mutant in the atypical and milder cases,
+are replaced by ala and leu, respectively, in E. coli. Thus, mutation
+occurring in more conservative amino acid residues results in more
+deleterious damage to the T protein and a more severe clinical
+phenotype.
+
+.0003
+GLYCINE ENCEPHALOPATHY
+AMT, HIS42ARG
+
+Kure et al. (1998) reported a large Israeli-Arab kindred with glycine
+encephalopathy (605899). Enzymatic analysis demonstrated that T-protein
+activity was deficient in the liver from 1 affected person in the
+family. Mutation detection revealed a missense mutation in exon 2
+resulting in an amino acid substitution from histidine to arginine at
+position 42 (his42 to arg). Homozygosity for the H42R mutation was seen
+in all affected members of the family.
+
+.0004
+GLYCINE ENCEPHALOPATHY
+AMT, 1-BP DEL, 183C
+
+In a Japanese patient with glycine encephalopathy (605899), Kure et al.
+(1998) described a 1-bp deletion (183delC) and a missense mutation,
+asp276 to his (238310.0005).
+
+.0005
+GLYCINE ENCEPHALOPATHY
+AMT, ASP276HIS
+
+In a Japanese patient with glycine encephalopathy (605899) of neonatal
+onset, Kure et al. (1998) found a G-to-C substitution at position 955 in
+exon 7, resulting in an amino acid change from aspartate to histidine at
+position 276.
+
+.0006
+GLYCINE ENCEPHALOPATHY
+AMT, ARG320HIS
+
+See 238310.0001 and Nanao et al. (1994).
+
+Toone et al. (2001) screened a DNA bank from 50 patients with
+enzymatically confirmed NKH and identified the arg320-to-his (R320H)
+mutation in 7% of alleles.
+
+.0007
+GLYCINE ENCEPHALOPATHY
+AMT, GLN192TER
+
+In a patient with neonatal-onset NKH (605899), Toone et al. (2000)
+identified a C-to-T transition resulting in a glutamine-to-termination
+codon substitution at residue 192 (Q192X). The other mutation in this
+patient was not identified.
+
+.0008
+GLYCINE ENCEPHALOPATHY
+AMT, IVS7, G-A, -1
+
+Toone et al. (2001) reported a novel splice site mutation at the -1
+position of intron 7 of the AMT gene: G was converted to A. This
+mutation was found in 3 unrelated families and was not found in any
+normal controls.
+
+ADDITIONAL REFERENCES Hayasaka et al. (1983); Toone et al. (2000)
+REFERENCE 1. Applegarth, D. A.; Toone, J. R.: Nonketotic hyperglycinemia (glycine
+encephalopathy): laboratory diagnosis. Molec. Genet. Metab. 74:
+139-146, 2001.
+
+2. Hayasaka, K.; Tada, K.; Kikuchi, G.; Winter, S.; Nyhan, W. L.:
+Nonketotic hyperglycinemia: two patients with primary defects of P-protein
+and T-protein, respectively, in the glycine cleavage system. Pediat.
+Res. 17: 967-970, 1983.
+
+3. Kure, S.; Kojima, K.; Kudo, T.; Kanno, K.; Aoki, Y.; Suzuki, Y.;
+Shinka, T.; Sakata, Y.; Narisawa, K.; Matsubara, Y.: Chromosomal
+localization, structure, single-nucleotide polymorphisms, and expression
+of the human H-protein gene of the glycine cleavage system (GCSH),
+a candidate gene for nonketotic hyperglycinemia. J. Hum. Genet. 46:
+378-384, 2001.
+
+4. Kure, S.; Mandel, H.; Rolland, M.-O.; Sakata, Y.; Shinka, T.; Drugan,
+A.; Boneh, A.; Tada, K.; Matsubara, Y.; Narisawa, K.: A missense
+mutation (his42arg) in the T-protein gene from a large Israeli-Arab
+kindred with nonketotic hyperglycinemia. Hum. Genet. 102: 430-434,
+1998.
+
+5. Kure, S.; Shinka, T.; Sakata, Y.; Osamu, N.; Takayanagi, M.; Tada,
+K.; Matsubara, Y.; Narisawa, K.: A one-base deletion (183delC) and
+a missense mutation (D276H) in the T-protein gene from a Japanese
+family with nonketotic hyperglycinemia. J. Hum. Genet. 43: 135-137,
+1998.
+
+6. Nanao, K.; Okamura-Ikeda, K.; Motokawa, Y.; Danks, D. M.; Baumgartner,
+E. R.; Takada, G.; Hayasaka, K.: Identification of the mutations
+in the T-protein gene causing typical and atypical nonketotic hyperglycinemia. Hum.
+Genet. 93: 655-658, 1994.
+
+7. Nanao, K.; Takada, G.; Takahashi, E.; Seki, N.; Komatsu, Y.; Okamura-Ikeda,
+K.; Motokawa, Y.; Hayasaka, K.: Structure and chromosomal localization
+of the aminomethyltransferase gene (AMT). Genomics 19: 27-30, 1994.
+Note: Erratum: Genomics 20: 519 only, 1994.
+
+8. Sakata, Y.; Owada, Y.; Sato, K.; Kojima, K.; Hisanaga, K.; Shinka,
+T.; Suzuki, Y.; Aoki, Y.; Satoh, J.; Kondo, H.; Matsubara, Y.; Kure,
+S.: Structure and expression of the glycine cleavage system in rat
+central nervous system. Molec. Brain Res. 94: 119-130, 2001.
+
+9. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Biochemical and molecular investigations of patients with
+nonketotic hyperglycemia. Molec. Genet. Metab. 70: 116-121, 2000.
+
+10. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Recurrent mutations in P- and T-proteins of the glycine cleavage
+complex and a novel T-protein mutation (N145I): a strategy for the
+molecular investigation of patients with nonketotic hyperglycinemia
+(NKH). Molec. Genet. Metab. 72: 322-325, 2001.
+
+11. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Identification of the first reported splice site mutation
+(IVS7-1G-A) in the aminomethyltransferase (T-protein) gene (AMT) of
+the glycine cleavage complex in 3 unrelated families with nonketotic
+hyperglycinemia. (Abstract) Hum. Mutat. 17: 76 only, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/20/2002
+Victor A. McKusick - updated: 8/10/2001
+Ada Hamosh - updated: 5/2/2001
+Clair A. Francomano - updated: 6/16/1998
+Clair A. Francomano - updated: 5/26/1998
+Beat Steinmann - updated: 1/17/1997
+
+CREATED Victor A. McKusick: 6/3/1986
+
+EDITED terry: 09/24/2012
+carol: 8/4/2010
+terry: 3/11/2002
+alopez: 2/25/2002
+terry: 2/20/2002
+mcapotos: 8/10/2001
+carol: 6/22/2001
+carol: 5/3/2001
+carol: 5/2/2001
+carol: 4/17/2000
+carol: 4/6/2000
+carol: 4/4/2000
+carol: 7/16/1998
+carol: 6/19/1998
+terry: 6/16/1998
+carol: 5/30/1998
+carol: 5/26/1998
+dholmes: 5/21/1998
+joanna: 1/17/1997
+mimadm: 2/19/1994
+carol: 2/7/1994
+carol: 8/17/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/21/1989
+
+606110	TITLE *606110 LY6/NEUROTOXIN 1; LYNX1
+;;SECRETED LY6/PLAUR DOMAIN-CONTAINING PROTEIN 2; SLURP2;;
+SECRETED LY6/UPAR-RELATED PROTEIN 2
+DESCRIPTION 
+DESCRIPTION
+
+The LYNX1 gene encodes a protein that shares characteristics with toxins
+that bind and inhibit nicotinic acetylcholine receptors (nAChR; see,
+e.g., CHRNA1, 100690) (Miwa et al., 1999). Components of snake venoms
+often have structural and functional mammalian homologs. For example,
+hemolytic snake venom toxins are related to cellular phospholipases
+(e.g., PLA2G1B; 172410), and snake sarafotoxins may be related to
+vertebrate endothelins (e.g., EDN1; 131240). The elapid venom
+alpha-bungarotoxin also binds to and inhibits nAChR.
+
+CLONING
+
+By screening for central nervous system-specific, developmentally
+regulated cDNAs in mouse, Miwa et al. (1999) identified a cDNA encoding
+GC26, which was expressed in mouse cerebellum. Sequence analysis
+predicted that the 116-amino acid protein contains a signal sequence at
+its N terminus, a cysteine-rich consensus motif characteristic of LY6
+family proteins (e.g., CD59; 107271) and snake alpha-neurotoxins, and an
+asparagine/GPI anchor motif at its C terminus. The overall structure of
+GC26 is similar to that of LY6 family proteins and snake
+alpha-neurotoxins, and Miwa et al. (1999) redesignated the protein
+'Ly6/neurotoxin-1,' or Lynx1. A partial sequence encoding a human Lynx1
+homolog has been identified (GenBank GENBANK AF321824). Northern blot
+analysis revealed predominant expression of Lynx1 in mouse brain. In
+situ hybridization analysis showed Lynx1 expression in neurons in
+multiple brain structures. Immunocytochemistry demonstrated expression
+of Lynx1 in neuronal soma and proximal dendrites.
+
+Using microarray analysis to identify ESTs expressed predominantly in
+the skin of patients with psoriasis vulgaris (see 177900), followed by
+PCR and RACE of cultured keratinocyte cDNA libraries, Tsuji et al.
+(2003) cloned LYNX1, which they called SLURP2. The deduced 97-amino acid
+protein contains a signal peptide and 10 conserved cysteine residues
+with a spacing pattern characteristic of the LY6 superfamily, but it
+does not have the GPI anchor or transmembrane domains found in
+membrane-bound LY6 proteins. Northern blot analysis detected a 0.6-kb
+transcript in esophagus and a 1.6-kb transcript in stomach and duodenum.
+No expression was detected in other tissues examined, including skin.
+RT-PCR detected abundant LYNX1 expression in cervix and esophagus, with
+lower expression in adult and fetal skin and keratinocytes. Weak
+expression was detected in brain, lung, stomach, small intestine, colon,
+rectum, uterus, and thymus. No expression was detected in spleen and
+bone marrow. Real-time quantitative RT-PCR analysis detected a 3.8- to
+2.8-fold increase in LYNX1 expression in lesional skin from 5 psoriasis
+patients compared with nonlesional skin or normal skin.
+
+GENE FUNCTION
+
+Functional analysis by Miwa et al. (1999) indicated that Lynx1 is not a
+ligand or neurotransmitter but has the capacity to enhance nicotinic
+acetylcholine receptor function in the presence of acetylcholine.
+
+Morishita et al. (2010) identified an increase in expression of Lynx1
+protein in mice that prevented plasticity in the primary visual cortex
+late in life. Removal of this molecular brake enhanced nicotinic
+acetylcholine receptor signaling. Lynx1 expression thus maintains
+stability of mature cortical networks in the presence of cholinergic
+innervation. Morishita et al. (2010) concluded that modulating the
+balance between excitatory and inhibitory circuits reactivates visual
+plasticity.
+
+GENE STRUCTURE
+
+Tsuji et al. (2003) determined that the LYNX1 gene contains 3 exons and
+spans about 5.6 kb. The promoter region contains 3 Sp1 (189906)- and 2
+AP1 (165160)-binding sites, as well as single sites for E2F (189971) and
+GATA3 (131320). It lacks TATA and CAAT consensus sequences. There are 2
+major transcriptional initiation sites.
+
+MAPPING
+
+By genomic sequence analysis, Tsuji et al. (2003) mapped the LYNX1 gene
+to chromosome 8q24.3. Southern blot analysis indicated that LYNX1 is a
+single-copy gene.
+
+EVOLUTION
+
+Human evolution is characterized by a dramatic increase in brain size
+and complexity. To probe its genetic basis, Dorus et al. (2004) examined
+the evolution of genes involved in diverse aspects of nervous system
+biology. These genes, including LYNX1, displayed significantly higher
+rates of protein evolution in primates than in rodents. This trend was
+most pronounced for the subset of genes implicated in nervous system
+development. Moreover, within primates, the acceleration of protein
+evolution was most prominent in the lineage leading from ancestral
+primates to humans. Dorus et al. (2004) concluded that the phenotypic
+evolution of the human nervous system has a salient molecular correlate,
+i.e., accelerated evolution of the underlying genes, particularly those
+linked to nervous system development.
+
+ANIMAL MODEL
+
+Miwa et al. (2006) found that Lynx1 -/- mice showed no gross
+abnormalities in size, viability, CNS morphology, or longevity compared
+to wildtype mice. However, Lynx1-null mice showed increased learning and
+memory in a fear-conditioned paradigm and displayed increased
+sensitivity to nicotine in motor tasks compared to wildtype. Neurons
+from Lynx1-null mice showed heightened sensitivity and increased
+intracellular calcium levels in response to nicotine. Loss of Lynx1
+decreased receptor desensitization and enhanced synaptic efficacy.
+Mutant neurons were also more sensitive to excitotoxic insult, and Lynx1
+mutant mice exhibited age-dependent degeneration that was exacerbated by
+nicotine and rescued by null mutations in nAChR subunits. These data
+supported the hypotheses that Lynx1 normally decreases activity of
+nAChRs and that deletion of Lynx1 shifts the balance in favor of
+increased neuronal activity and synaptic plasticity. But the short-term
+benefits of the loss of Lynx1 were counterbalanced by an increased
+vulnerability of Lynx1 mutant neurons to glutamate toxicity and by loss
+of nicotine's neuroprotective effect on these cells. Miwa et al. (2006)
+concluded that Lynx1 modulates nAChR function to maintain low
+sensitivity and plays a critical role in maintaining a balance between
+the beneficial effects of short-term nAChR activation and the
+degenerative effects of chronic receptor activation.
+
+REFERENCE 1. Dorus, S.; Vallender, E. J.; Evans, P. D.; Anderson, J. R.; Gilbert,
+S. L.; Mahowald, M.; Wyckoff, G. J.; Malcom, C. M.; Lahn, B. T.:
+Accelerated evolution of nervous system genes in the origin of Homo
+sapiens. Cell 119: 1027-1040, 2004.
+
+2. Miwa, J. M.; Ibanez-Tallon, I.; Crabtree, G. W.; Sanchez, R.; Sali,
+A.; Role, L. W.; Heintz, N.: Lynx1, an endogenous toxin-like modulator
+of nicotinic acetylcholine receptors in the mammalian CNS. Neuron 23:
+105-114, 1999.
+
+3. Miwa, J. M.; Stevens, T. R.; King, S. L.; Caldarone, B. J.; Ibanez-Tallon,
+I.; Xiao, C.; Fitzsimonds, R. M.; Pavlides, C.; Lester, H. A.; Picciotto,
+M. R.; Heintz, N.: The prototoxin lynx1 acts on nicotinic acetylcholine
+receptors to balance neuronal activity and survival in vivo. Neuron 51:
+587-600, 2006.
+
+4. Morishita, H.; Miwa, J. M.; Heintz, N.; Hensch, T. K.: Lynx1,
+a cholinergic brake, limits plasticity in adult visual cortex. Science 330:
+1238-1240, 2010.
+
+5. Tsuji, H.; Okamoto, K.; Matsuzaka, Y.; Iizuka, H.; Tamiya, G.;
+Inoko, H.: SLURP-2, a novel member of the human Ly-6 superfamily
+that is upregulated in psoriasis vulgaris. Genomics 26-33, 2003.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/31/2011
+Cassandra L. Kniffin - updated: 12/15/2009
+Patricia A. Hartz - updated: 2/14/2005
+Stylianos E. Antonarakis - updated: 1/10/2005
+
+CREATED Paul J. Converse: 7/13/2001
+
+EDITED alopez: 02/04/2011
+terry: 1/31/2011
+carol: 12/23/2009
+ckniffin: 12/15/2009
+wwang: 9/27/2006
+mgross: 2/14/2005
+mgross: 1/10/2005
+mgross: 7/13/2001
+
+602618	TITLE *602618 C-TERMINAL-BINDING PROTEIN 1; CTBP1
+DESCRIPTION 
+CLONING
+
+The E1a region of group C adenoviruses encodes 2 nearly identical
+proteins that are largely responsible for the oncogenic properties of
+adenoviruses. Whereas the N-terminal half of these E1A proteins is
+sufficient for transformation, the C-terminal half appears to modulate
+transformation, tumorigenesis, and metastasis negatively. Boyd et al.
+(1993) purified a HeLa cell protein, designated CTBP1, that specifically
+binds to the C-terminal half of E1A proteins. CTBP1 is a phosphoprotein
+that migrates as a 48-kD doublet by SDS-PAGE. Katsanis and Fisher (1998)
+suggested that the doublet consists of CTBP1 and the closely related
+CTBP2 (602619).
+
+Schaeper et al. (1995) independently isolated a CTBP1 cDNA from a B-cell
+library. The predicted 439-amino acid sequence contains the sequences of
+2 peptides prepared from purified CTBP1. The authors
+coimmunoprecipitated CTPB1 and an E1A protein from extracts of mammalian
+cells that were expressing both proteins.
+
+Furusawa et al. (1999) identified the mouse homologs of CTBP1 and CTBP2
+in a yeast 2-hybrid screen for proteins that interact with delta-EF1
+(TCF8; 189909), a transcriptional repressor that binds the E2-box
+(CACCTG) and related sequences. Using 2-hybrid and direct binding
+assays, they concluded that CtBP1 binds to the short medial portion of
+delta-EF1 containing the PLDLSL motif. In cotransfection experiments,
+they observed that CtBP1 enhanced the transrepression activity of
+delta-EF1. Using Northern blot analysis and in situ hybridization with
+mouse embryos, Furusawa et al. (1999) detected CtBP1 expression
+throughout developmental stages and in a wide range of adult tissues.
+CtBP1 and CtBP2 expression correlates with delta-EF1 expression. The
+authors hypothesized that CtBP1 and CtBP2 function as corepressors of
+delta-EF1 action.
+
+GENE FUNCTION
+
+Polycomb (Pc) is part of a Pc group (PcG) protein complex that is
+involved in repression of gene activity during Drosophila and vertebrate
+development. Using a yeast 2-hybrid assay, Sewalt et al. (1999) found
+that Xenopus Ctbp1 interacts with Xenopus Pc and that human CTBP2
+interacts with PC2 (603079), a human Pc homolog. Immunofluorescence
+studies indicated that CTBP1 and CTBP2 partially colocalize with PC2 in
+large PcG domains in interphase nuclei. As with PC2, chimeric LexA-CTBP2
+and LexA-CTBP1 proteins repressed gene activity when targeted to a
+reporter gene. Sewalt et al. (1999) suggested that PC2-mediated
+repression of gene expression involves an association with corepressors
+such as the CTBPs. They speculated that the interference of the
+adenoviral E1A protein with the transcription machinery of the infected
+cell may involve interference with PcG-mediated repression through
+disruption of the CTBP-PcG interaction. Northern blot analysis revealed
+that the CTBP1 gene was expressed as a 2.4-kb mRNA in all human tissues
+tested.
+
+Pc2 recruits the transcriptional corepressor CTBP to PcG bodies. Kagey
+et al. (2003) showed that CTBP is sumoylated at a single lysine. In
+vitro, CTBP sumoylation minimally required the SUMO E1 and E2 (UBC9;
+601661) and SUMO1 (601912). However, Pc2 dramatically enhanced CTBP
+sumoylation. The authors proposed that, in vivo, this is likely due to
+the ability of Pc2 to recruit both CTBP and UBC9 to PcG bodies, thereby
+bringing together substrate and E2 and stimulating the transfer of SUMO
+to CTBP. These results demonstrated that Pc2 is a SUMO E3 and suggested
+that PcG bodies may be sumoylation centers.
+
+Zhang et al. (2002) demonstrated that CTBP binding to cellular and viral
+transcriptional repressors is regulated by NAD+ and NADH, with NADH
+being 2 to 3 orders of magnitude more effective. Levels of free nuclear
+nicotinamide adenine dinucleotides, determined using 2-photon
+microscopy, corresponded to the levels required for half-maximal CTBP
+binding and were considerably lower than those previously reported.
+Agents capable of increasing NADH levels stimulated CTBP binding to its
+partners in vivo and potentiated CTBP-mediated repression. Zhang et al.
+(2002) proposed that this ability to detect changes in nuclear NAD+/NADH
+ratio allows CTBP to serve as a redox sensor for transcription.
+
+Kumar et al. (2002) reported biochemical and crystallographic studies
+that revealed that CTBP1 is a functional dehydrogenase. In addition,
+both a cofactor-dependent conformational change, with NAD+ and NADH
+being equivalently effective, and the active site residues were linked
+to the binding of the PXDLS consensus recognition motif on repressors,
+such as E1A and RIP140 (602490). They concluded that CTBP1 is an
+NAD(+)-regulated component of critical complexes for specific repression
+events in cells.
+
+CTBP is recruited to DNA by transcription factors that contain a PXDLS
+motif. Shi et al. (2003) reported the identification of a CTBP complex
+that contains the essential components for both gene targeting and
+coordinated histone modifications, allowing for the effective repression
+of genes targeted by CTBP. This complex has a molecular mass of about
+1.3 to 1.5 million and contains CTBP1 and CTBP2 as well as G9A (604599),
+EUHMT (607001), COREST (607675), HDAC1 (601241) and HDAC2 (605164),
+NPAO, REBB1, ZNF217 (602967), and KIAA0222. Immunoprecipitation with G9A
+antibodies brought down the same components as well as HPC2 (ELAC2;
+605367). Shi et al. (2003) found that inhibiting the expression of CTBP
+and its associated histone-modifying activities by RNA-interference
+resulted in alterations of histone modifications at the promoter of the
+tumor invasion suppressor gene E-cadherin (192090) and increased
+promoter activity in a reporter assay.
+
+By yeast 3-hybrid analysis, Zhang et al. (2003) found that mouse Hipk2
+(606868) interacted with an E1A-Ctbp complex. Expression of Hipk2 or
+exposure to ultraviolet (UV) irradiation reduced Ctbp levels via a
+proteasome-mediated pathway. Coexpression of kinase-inactive Hipk2 or
+small interfering RNA-mediated reduction in Hipk2 levels prevented the
+UV effect. Mutation of Ctbp ser422 prevented phosphorylation as well as
+UV- and Hipk2-directed Ctbp clearance. Deletion of Ctbp or reduction in
+Ctbp levels promoted apoptosis in p53 (191170)-deficient cells.
+
+Gallop et al. (2005) found that the lysophosphatidic acid
+acyltransferase, or LPAAT, activity associated with CtBP/BARS (e.g.,
+Weigert et al., 1999) is a copurification artifact.
+
+Using a promoter pull-down assay followed by mass spectrometry analysis,
+Flajollet et al. (2009) identified RREB1 (602209) as a protein that
+bound the HLA-G (142871) promoter. RREB1 exerted repressive activity on
+the promoter in HLA-G-negative cells that was mediated by recruitment of
+HDAC1 and CTBP1 and/or CTBP2. The HLA-G promoter contains 3 RREB1 target
+sites. Flajollet et al. (2009) proposed that the repressive activity of
+RREB1 on the HLA-G promoter may be regulated by posttranslational
+modifications governing its association with CTBP.
+
+Deng et al. (2011) identified microRNA-137 (MIR137; 614304) as a
+regulator of CTBP1 expression. Expression of MIR137 was inversely
+correlated with that of CTBP1 in melanoma cell lines. The MIR137-binding
+site in the 3-prime UTR of CTBP1 mRNA is conserved from human to
+chicken. Pull-down assays revealed that MIR137 interacted with ARGO2
+(EIF2C2; 606229) and CTBP1 mRNA. Cotransfection of MIR137 inhibited
+expression of a reporter gene containing the CTBP1 3-prime UTR, but not
+when the MIR137-binding site was deleted from the CTBP1 3-prime UTR.
+Western blot and quantitative RT-PCR analyses showed that MIR137
+expression in a melanoma cell line reduced CTBP1 protein levels and
+increased expression of the CTBP1 target genes E-cadherin and BAX
+(600040).
+
+MAPPING
+
+By PCR of a radiation hybrid panel, Katsanis and Fisher (1998) mapped
+the CTBP1 gene to 4p16.
+
+REFERENCE 1. Boyd, J. M.; Subramanian, T.; Schaeper, U.; La Regina, M.; Bayley,
+S.; Chinnadurai, G.: A region in the C-terminus of adenovirus 2/5
+E1a protein is required for association with a cellular phosphoprotein
+and important for the negative modulation of T24-ras mediated transformation,
+tumorigenesis and metastasis. EMBO J. 12: 469-478, 1993.
+
+2. Deng, Y.; Deng, H.; Bi, F.; Liu, J.; Bemis, L. T.; Norris, D.;
+Wang, X.-J.; Zhang, Q.: MicroRNA-137 targets carboxyl-terminal binding
+protein 1 in melanoma cell lines. Int. J. Biol. Sci. 7: 133-137,
+2011.
+
+3. Flajollet, S.; Poras, I.; Carosella, E. D.; Moreau, P.: RREB-1
+is a transcriptional repressor of HLA-G. J. Immun. 183: 6948-6959,
+2009.
+
+4. Furusawa, T.; Moribe, H.; Kondoh, H.; Higashi, Y.: Identification
+of CtBP1 and CtBP2 as corepressors of zinc finger-homeodomain factor
+delta-EF1. Molec. Cell. Biol. 19: 8581-8590, 1999.
+
+5. Gallop, J. L.; Butler, P. J. G.; McMahon, H. T.: Endophilin and
+CtBP/BARS are not acyl transferases in endocytosis or Golgi fission. Nature 438:
+675-678, 2005.
+
+6. Kagey, M. H.; Melhuish, T. A.; Wotton, D.: The polycomb protein
+Pc2 is a SUMO E3. Cell 113: 127-137, 2003.
+
+7. Katsanis, N.; Fisher, E. M. C.: A novel C-terminal binding protein
+(CTBP2) is closely related to CTBP1, an adenovirus E1A-binding protein,
+and maps to human chromosome 21q21.3. Genomics 47: 294-299, 1998.
+
+8. Kumar, V.; Carlson, J. E. Ohgi, K. A.; Edwards, T. A.; Rose, D.
+W.; Escalante, C. R.; Rosenfeld, M. G.; Aggarwal, A. K.: Transcription
+corepressor CtBP is an NAD(+)-regulated dehydrogenase. Molec. Cell 10:
+857-869, 2002.
+
+9. Schaeper, U.; Boyd, J. M.; Verma, S.; Uhlmann, E.; Subramanian,
+T.; Chinnadurai, G.: Molecular cloning and characterization of a
+cellular phosphoprotein that interacts with a conserved C-terminal
+domain of adenovirus E1A involved in negative modulation of oncogenic
+transformation. Proc. Nat. Acad. Sci. 92: 10467-10471, 1995. Note:
+Erratum: Proc. Nat. Acad. Sci. 95: 14584 only, 1998.
+
+10. Sewalt, R. G. A. B.; Gunster, M. J.; van der Vlag, J.; Satijn,
+D. P. E.; Otte, A. P.: C-terminal binding protein is a transcriptional
+repressor that interacts with a specific class of vertebrate polycomb
+proteins. Molec. Cell. Biol. 19: 777-787, 1999.
+
+11. Shi, Y.; Sawada, J.; Sui, G.; Affar, E. B.; Whetstine, J. R.;
+Lan, F.; Ogawa, H.; Luke, M. P.-S.; Nakatani, Y.; Shi, Y.: Coordinated
+histone modifications mediated by a CtBP co-repressor complex. Nature 422:
+735-738, 2003.
+
+12. Weigert, R.; Silletta, M. G.; Spano, S.; Turacchio, G.; Cericola,
+C.; Colanzi, A.; Senatore, S.; Mancini, R.; Polishchuk, E. V.; Salmona,
+M.; Facchiano, F.; Burger, K. N. J.; Mironov, A.; Luini, A.; Corda,
+D.: CtBP/BARS induces fission of Golgi membranes by acylating lysophosphatidic
+acid. Nature 402: 429-433, 1999.
+
+13. Zhang, Q.; Piston, D. W.; Goodman, R. H.: Regulation of corepressor
+function by nuclear NADH. Science 295: 1895-1897, 2002.
+
+14. Zhang, Q.; Yoshimatsu, Y.; Hildebrand, J.; Frisch, S. M.; Goodman,
+R. H.: Homeodomain interacting protein kinase 2 promotes apoptosis
+by downregulating the transcriptional corepressor CtBP. Cell 115:
+177-186, 2003.
+
+CONTRIBUTORS Paul J. Converse - updated: 11/19/2012
+Patricia A. Hartz - updated: 10/24/2011
+Paul J. Converse - updated: 6/20/2006
+Ada Hamosh - updated: 1/30/2006
+Ada Hamosh - updated: 5/6/2003
+Stylianos E. Antonarakis - updated: 5/2/2003
+Stylianos E. Antonarakis - updated: 4/29/2003
+Ada Hamosh - updated: 4/2/2002
+Dawn Watkins-Chow - updated: 10/24/2001
+Rebekah S. Rasooly - updated: 4/9/1999
+
+CREATED Rebekah S. Rasooly: 5/13/1998
+
+EDITED terry: 11/28/2012
+mgross: 11/26/2012
+terry: 11/19/2012
+carol: 7/19/2012
+mgross: 10/24/2011
+carol: 12/26/2007
+mgross: 6/20/2006
+alopez: 2/1/2006
+terry: 1/30/2006
+mgross: 3/9/2005
+alopez: 7/26/2004
+terry: 7/26/2004
+alopez: 9/30/2003
+alopez: 5/8/2003
+terry: 5/6/2003
+mgross: 5/2/2003
+mgross: 5/1/2003
+terry: 4/29/2003
+alopez: 4/5/2002
+terry: 4/2/2002
+carol: 10/24/2001
+mgross: 4/12/1999
+mgross: 4/9/1999
+carol: 3/16/1999
+psherman: 5/13/1998
+

@@ -1,0 +1,885 @@
+603182	TITLE *603182 INTERLEUKIN ENHANCER-BINDING FACTOR 3; ILF3
+;;NUCLEAR FACTOR OF ACTIVATED T CELLS, 90-KD; NF90;;
+DOUBLE-STRANDED RNA-BINDING PROTEIN, 76-KD; DRBP76;;
+M-PHASE PHOSPHOPROTEIN 4; MPP4; MPHOSPH4;;
+NUCLEAR FACTOR ASSOCIATED WITH DOUBLE-STRANDED RNA; NFAR
+DESCRIPTION For background information, see NF45 (ILF2; 603181).
+
+CLONING
+
+Kao et al. (1994) cloned cDNAs encoding NF45 and NF90. The NF90 gene
+encodes a 671-amino acid polypeptide with limited similarity to several
+RNA-binding proteins. The NF90 gene also appears to encode an
+alternatively spliced 404-amino acid polypeptide, of which the first 394
+amino acids are identical to the longer clone. Northern and Western blot
+analysis demonstrated NF45 and NF90 expression in several cell types,
+including both unstimulated and stimulated Jurkat T cells.
+
+By immunoscreening a HeLa cell cDNA library for phosphoproteins,
+Matsumoto-Taniura et al. (1996) isolated a partial cDNA encoding ILF3,
+which they termed MPP4. Immunoprecipitation analysis indicated that MPP4
+encodes 90- and 110-kD proteins. Immunofluorescence microscopy
+demonstrated cytoplasmic expression during M phase and nuclear/nucleolar
+expression during interphase.
+
+Patel et al. (1999) purified double-stranded RNA (dsRNA)-binding
+proteins from HeLa cell extracts and microsequenced a 90-kD protein with
+identity to MPP4 in its N terminus. Using a yeast 2-hybrid screen with a
+mutant RNA-activated protein kinase (PRKR; 176871) as bait, followed by
+RT-PCR, they isolated a full-length cDNA encoding ILF3, which they
+called DRBP76. Sequence analysis predicted that the 702-amino acid
+protein has a bipartite nuclear localization signal, 2 dsRNA-binding
+domains, an RG2 domain, and multiple potential phosphorylation sites.
+SDS-PAGE analysis showed expression of a 90-kD protein, larger than the
+calculated 76 kD. EMSA analysis confirmed the dsRNA binding activity of
+DRBP76. Autoradiographic analysis indicated that DRBP76 is
+phosphorylated by PRKR.
+
+Langland et al. (1999) noted that NF90 is primarily localized to
+ribosomes.
+
+Saunders et al. (2001) obtained a cDNA encoding DRBP76, which they
+termed NFAR1, as well as a variant cDNA encoding a 110-kD, 894-amino
+acid protein they designated NFAR2. Sequence analysis showed that the
+NFAR proteins share homology with a known PRKR substrate, the
+translation initiation factor EIF2S1 (603907). Northern blot analysis
+revealed ubiquitous expression of multiple transcripts ranging from 4.0
+to 8.0 kb. Immunoblot analysis indicated variable expression with lower
+amounts particularly notable in liver and spleen, suggesting
+differential regulation at the translational or posttranslational level.
+Immunoblot analysis and confocal microscopy demonstrated that PRKR and
+both NFAR variants reciprocally coimmunoprecipitate and colocalize in
+the nucleus. Immunoprecipitation analysis indicated an association with
+spliceosomes.
+
+Viranaicken et al. (2006) identified splice variants of human and mouse
+ILF3 that encode long and short isoforms of the ILF3 and NF90 proteins
+via inclusion or exclusion of 13 N-terminal residues, respectively.
+
+GENE FUNCTION
+
+Kao et al. (1994) showed that the NF45 and NF90 proteins form an NFAT
+DNA-binding activity that is enhanced by T-cell stimulation and
+inhibited by cyclosporin A and FK506.
+
+Functional analysis by Saunders et al. (2001) indicated that both NFAR
+proteins regulate gene transcription, probably at the level of mRNA
+elongation. NFAR2 exhibited potent, constitutive regulatory activity
+through its unique C-terminal region, which specifically interacted with
+FUS (137070) and SMN1 (600354). Saunders et al. (2001) concluded that
+NFARs facilitate dsRNA-regulated gene expression at the level of
+posttranscription.
+
+Shim et al. (2002) showed that NF90 binds to a subregion of the 3-prime
+untranslated region that contains several AU-rich elements (AREs) and
+slows down the degradation of IL2 (147680) mRNA. In nonstimulated cells,
+NF90 was mostly nuclear, but T-cell activation resulted in its
+accumulation in the cytoplasm. The authors concluded that nuclear export
+of NF90 is required for IL2 mRNA stabilization.
+
+Pfeifer et al. (2008) found that NFAR1 and NFAR2 were involved in
+retaining cellular transcripts in intranuclear foci and could regulate
+mRNA export to the cytoplasm. They also remained associated with
+exported ribonucleoprotein complexes. Treatment of HeLa cells with small
+interfering RNA to NFAR1 and/or NFAR2 resulted in an increase in protein
+synthesis rates, particularly in the presence the mRNA export factors
+TAP (NXF1; 602647), p15 (NXT1; 605811), or RAE1 (603343). Depletion of
+NFAR in mouse fibroblasts or HeLa cells dramatically increased their
+susceptibility to vesicular stomatitis virus or influenza virus,
+respectively. Pfeifer et al. (2008) concluded that NFAR1 and NFAR2 are
+retained on polyribosomes and act to govern translation rates, and that
+they also play a role in innate immune defense to virus infection.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Saunders et al. (2001) determined that the
+NFAR gene contains 21 exons and spans 16.2 kb. The 90-kD NFAR1 variant
+expresses exon 18, which contains several stop codons that lead to
+termination at amino acid 702. The 110-kD NFAR2 variant lacks exon 18
+but contains exons 19, 20, and 21.
+
+Viranaicken et al. (2006) identified an additional alternatively spliced
+exon within intron 2 of the mouse and human ILF3 genes, increasing the
+total number of exons to 22.
+
+MAPPING
+
+Saunders et al. (2001) mapped the NFAR gene to chromosome 19p13 by FISH.
+
+ANIMAL MODEL
+
+Pfeifer et al. (2008) found that mice lacking Nfar died in utero.
+
+REFERENCE 1. Kao, P. N.; Chen, L.; Brock, G.; Ng, J.; Kenny, J.; Smith, A. J.;
+Corthesy, B.: Cloning and expression of cyclosporin A- and FK506-sensitive
+nuclear factor of activated T-cells: NF45 and NF90. J. Biol. Chem. 269:
+20691-20699, 1994.
+
+2. Langland, J. O.; Kao, P. N.; Jacobs, B. L.: Nuclear factor-90
+of activated T-cells: a double-stranded RNA-binding protein and substrate
+for the double-stranded RNA-dependent protein kinase, PKR. Biochemistry 38:
+6361-6368, 1999.
+
+3. Matsumoto-Taniura, N.; Pirollet, F.; Monroe, R.; Gerace, L.; Westendorf,
+J. M.: Identification of novel M phase phosphoproteins by expression
+cloning. Molec. Biol. Cell 7: 1455-1469, 1996.
+
+4. Patel, R. C.; Vestal, D. J.; Xu, Z.; Bandyopadhyay, S.; Guo, W.;
+Erme, S. M.; Williams, B. R. G.; Sen, G. C.: DRBP76, a double-stranded
+RNA-binding nuclear protein, is phosphorylated by the interferon-induced
+protein kinase, PKR. J. Biol. Chem. 274: 20432-20437, 1999.
+
+5. Pfeifer, I.; Elsby, R.; Fernandez, M.; Faria, P. A.; Nussenzveig,
+D. R.; Lossos, I. S.; Fontoura, B. M. A.; Martin, W. D.; Barber, G.
+N.: NFAR-1 and -2 modulate translation and are required for efficient
+host defense. Proc. Nat. Acad. Sci. 105: 4173-4178, 2008.
+
+6. Saunders, L. R.; Jurecic, V.; Barber, G. N.: The 90- and 110-kDa
+human NFAR proteins are translated from two differentially spliced
+mRNAs encoded on chromosome 19p13. Genomics 71: 256-259, 2001.
+
+7. Saunders, L. R.; Perkins, D. J.; Balachandran, S.; Michaels, R.;
+Ford, R.; Mayeda, A.; Barber, G. N.: Characterization of two evolutionarily
+conserved, alternatively spliced nuclear phosphoproteins, NFAR-1 and
+-2, that function in mRNA processing and interact with the double-stranded
+RNA-dependent protein kinase, PKR. J. Biol. Chem. 276: 32300-32312,
+2001.
+
+8. Shim, J.; Lim, H.; Yates, J. R., III; Karin, M.: Nuclear export
+of NF90 is required for interleukin-2 mRNA stabilization. Molec.
+Cell 10: 1331-1344, 2002.
+
+9. Viranaicken, W.; Gasmi, L.; Chauvin, C.; Denoulet, P.; Larcher,
+J.-C.: Identification of a newly spliced exon in the mouse Ilf3 gene
+generating two long and short isoforms of Ilf3 and NF90. Genomics 88:
+622-632, 2006.
+
+CONTRIBUTORS Paul J. Converse - updated: 7/2/2008
+Patricia A. Hartz - updated: 11/8/2006
+Stylianos E. Antonarakis - updated: 4/28/2003
+Paul J. Converse - updated: 3/4/2002
+
+CREATED Jennifer P. Macke: 10/22/1998
+
+EDITED mgross: 07/11/2008
+mgross: 7/11/2008
+terry: 7/2/2008
+mgross: 11/28/2006
+terry: 11/8/2006
+mgross: 4/28/2003
+mgross: 3/4/2002
+alopez: 10/22/1998
+
+102680	TITLE *102680 ADDUCIN 1; ADD1
+;;ADDUCIN, ALPHA
+DESCRIPTION 
+DESCRIPTION
+
+Adducin is a 200-kD heterodimeric protein associated with the
+erythrocyte membrane skeleton, which binds to Ca(2+)/calmodulin (see
+114180), promotes binding of spectrin to actin, and is a substrate for
+protein kinases C and A (Gardner and Bennett, 1986; Bennett et al.,
+1988). The name adducin comes from the Latin 'adducere,' meaning 'to
+bring together.'
+
+CLONING
+
+Adducin was first purified from human erythrocytes by Gardner and
+Bennett (1986) and subsequently isolated from bovine brain membranes
+(Bennett et al., 1988).
+
+Joshi and Bennett (1990) investigated the structure and function of the
+separate domains of alpha adducin. Joshi et al. (1991) isolated
+reticulocyte cDNAs for alpha- and beta- (ADD2; 102681) adducin. The
+deduced alpha-adducin protein contains 737 amino acids and shares
+approximately 49% sequence identity with beta adducin, suggesting
+evolution by gene duplication. Each adducin subunit has 3 distinct
+domains: a 39-kD N-terminal globular protease-resistant domain,
+connected by a 9-kD domain to a 33-kD C-terminal protease-sensitive tail
+comprised almost entirely by hydrophilic amino acids. The head domains
+of both alpha- and beta-adducin have limited sequence similarity with
+the N-terminal actin-binding motif present in members of the spectrin
+superfamily and actin gelation proteins. The C termini of both proteins
+contain an identical 22-amino acid sequence showing similarity to the
+MARCKS protein (177061). Northern blot analysis of rat tissues, K562
+erythroleukemia cells, and reticulocytes demonstrated ubiquitous
+expression of alpha adducin.
+
+Goldberg et al. (1992) identified a 4-kb alpha-adducin transcript that
+was abundantly expressed in the caudate nucleus, the site of major
+neuronal loss in Huntington disease (HD; 143100). No sequence
+alterations specific to HD were discovered in sequencing the brain
+alpha-adducin cDNA from 2 HD patients and an age-matched control. Brain
+cDNA from both patients and controls showed 2 alternately spliced brain
+exons not previously described in erythrocyte cDNA.
+
+In a comprehensive assay of gene expression, Gilligan et al. (1999)
+showed the ubiquitous expression of alpha- and gamma-adducin (ADD3;
+601568), in contrast to the restricted expression of beta-adducin.
+Beta-adducin was expressed at high levels in brain and hematopoietic
+tissues (bone marrow in humans, spleen in mice).
+
+See Gilligan and Bennett (1993) for a review of adducin and the other
+components of the junctional complex of the cell membrane skeleton.
+
+MAPPING
+
+By somatic cell hybrid analysis, Joshi et al. (1991) provisionally
+assigned the ADD1 gene to chromosome 4 and the ADD2 gene to chromosome
+2. Both alpha- and beta-adducin show alternative splicing; thus, there
+may be several different heterodimeric or homodimeric forms of adducin,
+each with a different functional specificity.
+
+Using the technique of 'exon trapping' devised by Buckler et al. (1991),
+Taylor et al. (1992) identified exons corresponding to the alpha subunit
+of adducin within the 4p16.3 region where Huntington disease appeared to
+be located. They mapped the ADD1 gene immediately telomeric to D4S95.
+
+Goldberg et al. (1992) reported the isolation and cloning of cDNA for
+the brain alpha-adducin gene, which they found to be located within 20
+kb of D4S95.
+
+Nasir et al. (1994) used an interspecific backcross to map the mouse
+Add1 gene to chromosome 5, within the region of syntenic homology with
+the short arm of human chromosome 4. Grosson et al. (1994) also mapped
+the mouse Add1 gene to chromosome 5 in a continuous linkage group that
+included the Huntington disease homolog.
+
+GENE FUNCTION
+
+Kuhlman et al. (1996) found that purified human erythrocyte adducin
+completely blocked elongation and depolymerization at the fast-growing
+barbed ends of actin filaments in vitro, thus functioning as a barbed
+end capping protein. This barbed end capping activity required the
+intact adducin molecule and was downregulated by calmodulin in the
+presence of calcium. Kuhlman et al. (1996) concluded that adducin
+restricts actin filament length in erythrocytes.
+
+To investigate the molecular involvement of alpha-adducin in controlling
+Na/K pump activity, Torielli et al. (2008) transfected wildtype or
+mutated rat and human ADD1 into several renal cell lines and
+demonstrated that the rat and human mutated forms increased Na/K pump
+activity and the number of pump units; both variants
+coimmunoprecipitated with the Na/K pump. The increased pump activity was
+not due to changes in its basolateral location, but to an alteration of
+Na/K pump residential time on the plasma membrane. Both the rat and
+human mutated variants reduced constitutive Na/K pump endocytosis and
+similarly affected transferrin receptor (190010) trafficking and
+fluid-phase endocytosis. Alpha-adducin was also detected in clathrin
+(see 118955)-coated vesicles and coimmunoprecipitated with clathrin.
+Torielli et al. (2008) suggested that adducin, in addition to having
+modulatory effects on actin cytoskeleton dynamics, might play a direct
+role in clathrin-dependent endocytosis, and that the constitutive
+reduction of Na/K pump endocytic rate induced by mutated adducin
+variants might be relevant in sodium-dependent hypertension (see
+145500).
+
+MOLECULAR GENETICS
+
+In a case-control study involving 190 patients with primary hypertension
+and 126 controls, Casari et al. (1995) found an association between
+essential hypertension (see 145500) and allelic markers near the
+alpha-adducin locus.
+
+Cusi et al. (1997) found significant linkage of the alpha-adducin locus
+to essential hypertension and greater sensitivity to changes in sodium
+balance among patients with a particular ADD1 allele, trp460
+(102680.0001), suggesting that alpha adducin is associated with a
+salt-sensitive form of essential hypertension.
+
+Manunta et al. (1998) analyzed the pressure-natriuresis relationship in
+108 hypertensive individuals and found that patients with a G/W or W/W
+ADD1 genotype showed lower plasma renin activity and fractional
+excretion of sodium as well as reduced slope of the pressure-natriuresis
+relationship after sodium depletion or sodium loading compared to G/G
+patients. These findings supported the hypothesis that individuals with
+at least 1 ADD1 460W allele have increased renal tubular sodium
+reabsorption.
+
+Using endogenous lithium and uric acid as markers of proximal tubular
+sodium reabsorption, Manunta et al. (1999) investigated the relationship
+between renal sodium handling and ADD1 polymorphism in untreated
+hypertensive patients and found that adducin genotype was significantly
+and directly related to the fractional excretion of lithium. Manunta et
+al. (1999) concluded that ADD1 represents a 'renal hypertensive gene'
+that modulates the capacity of tubular epithelial cells to transport
+sodium and thus affects blood pressure levels.
+
+Allayee et al. (2001) performed a genomewide scan for blood pressure in
+18 Dutch families exhibiting the common lipid disorder familial combined
+hyperlipidemia (144250). They found a locus on chromosome 4 that
+exhibited a significant lod score of 3.9 for systolic blood pressure. In
+addition, this locus appeared to influence plasma free fatty acid levels
+(lod = 2.4). After adjustment for age and gender, the lod score for
+systolic blood pressure increased to 4.6, whereas the lod score for free
+fatty acid levels did not change. Allayee et al. (2001) tested for an
+association between 2 intragenic ADD1 polymorphisms and systolic blood
+pressure in this sample and found none.
+
+Lanzani et al. (2005) examined the association between polymorphisms in
+the ADD1, ADD2, and ADD3 genes (G460W, C1797T, and IVS11+386A-G,
+respectively) and ambulatory blood pressure and plasma levels of renin
+activity and endogenous ouabain in 512 newly discovered and
+never-treated hypertensive patients. Relative to carriers of the
+wildtype (G/G) ADD1 gene, carriers of the mutant 460W allele had higher
+blood pressure and lower plasma renin activity and endogenous ouabain
+levels. Polymorphisms in the ADD2 and ADD3 genes taken alone were not
+associated with these variables, but the blood pressure difference
+between the 2 ADD1 genotypes was greatest in carriers of the ADD3 G
+allele (increased by approximately 8 mm Hg; p = 0.020 to 0.006,
+depending on the genetic model applied). The authors suggested that
+there were epistatic effects between the ADD1 and ADD3 loci affecting
+variation in blood pressure.
+
+ANIMAL MODEL
+
+The Milan hypertensive strain of rats develops a genetic form of renal
+hypertension that, when compared to its normotensive control, shows
+renal dysfunction similar to that of a subset of human patients with
+primary hypertension. Bianchi et al. (1994) showed that 1 point mutation
+in each of the 2 genes coding for adducin is associated with blood
+pressure level in this strain of rats. The hypertensive and normal rats
+differed, respectively, by the amino acids tyrosine and phenylalanine at
+position 316 of the alpha subunit; at the beta-adducin locus, the
+hypertensive strain was always homozygous for arginine at position 529,
+while the normal strain showed either arginine or glutamine in that
+position. The arg/gln heterozygotes showed lower blood pressure than any
+of the homozygotes. In vitro phosphorylation studies suggested that both
+of these amino acid substitutions occurred within protein kinase
+recognition sites. Analysis of an F2 generation demonstrated that Y
+(tyrosine) alleles segregated with a significant increment in blood
+pressure. This effect was modulated by the presence of the R (arginine)
+allele of the beta subunit. Bianchi et al. (1994) stated that, taken
+together, these findings strongly supported a role for adducin
+polymorphisms in causing variation of blood pressure in the Milan strain
+of rats. In the rat, the beta- and alpha-adducin genes were said to be
+located on chromosomes 4 and 14, respectively.
+
+Tripodi et al. (1996) studied the effects of the Milan hypertensive rat
+316Y and 529R mutations in Add1 and Add2, respectively, on actin
+polymerization and bundling in a cell-free system and found that
+double-mutated adducin exerted only a slight inhibitory effect with a
+much higher final extent of polymerization compared to wildtype. Adducin
+heterodimer mutated only in the beta subunit behaved as normal adducin,
+whereas adducin heterodimer mutated only in the alpha subunit exhibited
+an intermediate phenotype, consistent with the associated levels of
+blood pressure previously described by Bianchi et al. (1994). Studies of
+the actin cytoskeleton in transfected rat kidney epithelial cell lines
+showed that cells overexpressing the mutated alpha-adducin chain
+exhibited larger microfilament bundles and larger focal contacts with
+patchy aggregates of alpha-v integrin (193210), compared to cells
+overexpressing wildtype adducin, in which the microfilament bundles were
+organized in a much looser texture and alpha-v integrin was present in a
+diffuse punctate pattern with small focal contacts. The surface
+expression of the Na-K pump alpha subunit was considerably increased in
+cells overexpressing the mutated alpha-adducin chain, and Na-K pump
+activity at V(max) was increased with respect to normal transfected
+lines and untransfected cells. Tripodi et al. (1996) suggested that
+adducin has a role in the constitutive capacity of the renal epithelia
+both to transport ions and to expose adhesion molecules.
+
+Efendiev et al. (2004) studied Milan rats carrying the hypertensive
+adducin phenotype and observed higher renal tubule Na/K-ATPase activity
+and found that their Na/K-ATPase molecules did not undergo endocytosis
+in response to dopamine like those of normotensive rats. In the
+hypertensive rats, dopamine failed to promote the interaction between
+adaptins (see 601026) and the Na/K-ATPase, required for endocytosis,
+because of adaptin-mu-2 subunit (602296) hyperphosphorylation.
+Expression of the hypertensive rat or human variant of ADD1 into normal
+renal epithelial cells recreated the hypertensive phenotype with higher
+Na/K-ATPase activity, mu-2-subunit hyperphosphorylation, and impaired
+Na/K-ATPase endocytosis. The authors concluded that increased renal
+Na/K-ATPase activity and altered sodium reabsorption in certain forms of
+hypertension could be attributed to a mutant form of adducin that
+impairs the dynamic regulation of renal Na/K-ATPase endocytosis in
+response to natriuretic signals.
+
+ALLELIC VARIANT .0001
+HYPERTENSION, SALT-SENSITIVE ESSENTIAL, SUSCEPTIBILITY TO
+ADD1, GLY460TRP
+
+Cusi et al. (1997) found a significant association between a
+gly460-to-trp polymorphism (G460W) in the ADD1 gene and salt sensitivity
+in patients with essential hypertension (see 145500). Patients with the
+W460 allele showed greater sensitivity to changes in sodium balance, and
+heterozygous hypertensive patients (G/W) showed a greater fall in mean
+arterial pressure in response to 2 months' treatment with
+hydrochlorothiazide, than did wildtype homozygous (G/G) hypertensive
+patients. In controls in an Italian cohort, the G460 allele had a
+frequency of 86.4% and the W460 allele 13.6%.
+
+Manunta et al. (1998) analyzed the pressure-natriuresis relationship in
+108 hypertensive individuals, 80 of whom were wildtype homozygous (G/G),
+26 G/W heterozygous, and 2 W/W homozygous. At baseline, the G/W and W/W
+patients showed lower plasma renin activity and fractional excretion of
+sodium; these patients also had reduced slope of the
+pressure-natriuresis relationship after sodium depletion or sodium
+loading compared to G/G patients. These findings supported the
+hypothesis that individuals with at least 1 ADD1 460W allele have
+increased renal tubular sodium reabsorption.
+
+Using endogenous lithium and uric acid as markers of proximal tubular
+sodium reabsorption, Manunta et al. (1999) investigated the relationship
+between renal sodium handling and ADD1 polymorphism in 54 untreated
+hypertensive patients, 29 with the G/G genotype and 25 with the G/W
+genotype. Fractional excretions of lithium and uric acid were
+significantly decreased in G/W patients compared to G/G patients;
+multiple regression analysis showed that adducin genotype was
+significantly and directly related to the fractional excretion of
+lithium. Manunta et al. (1999) concluded that ADD1 represents a 'renal
+hypertensive gene' that modulates the capacity of tubular epithelial
+cells to transport sodium and thus affects blood pressure levels.
+
+REFERENCE 1. Allayee, H.; de Bruin, T. W. A.; Dominguez, K. M.; Cheng, L. S.-C.;
+Ipp, E.; Cantor, R. M.; Krass, K. L.; Keulen, E. T. P.; Aouizerat,
+B. E.; Lusis, A. J.; Rotter, J. I.: Genome scan for blood pressure
+in Dutch dyslipidemic families reveals linkage to a locus on chromosome
+4p. Hypertension 38: 773-778, 2001.
+
+2. Bennett, V.; Gardner, K.; Steiner, J. P.: Brain adducin: a protein
+kinase C substrate that may mediate site-directed assembly at the
+spectrin-actin junction. J. Biol. Chem. 263: 5860-5869, 1988.
+
+3. Bianchi, G.; Tripodi, G.; Casari, G.; Salardi, S.; Barber, B. R.;
+Garcia, R.; Leoni, P.; Torielli, L.; Cusi, D.; Ferrandi, M.; Pinna,
+L. A.; Baralle, F. E.; Ferrari, P.: Two point mutations within the
+adducin genes are involved in blood pressure variation. Proc. Nat.
+Acad. Sci. 91: 3999-4003, 1994.
+
+4. Buckler, A. J.; Chang, D. D.; Graw, S. L.; Brook, J. D.; Haber,
+D. A.; Sharp, P. A.; Housman, D. E.: Exon amplification: a strategy
+to isolate mammalian genes based on RNA splicing. Proc. Nat. Acad.
+Sci. 88: 4005-4009, 1991.
+
+5. Casari, G.; Barlassina, C.; Cusi, D.; Zagato, L.; Muirhead, R.;
+Righetti, M.; Nembri, P.; Amar, K.; Gatti, M.; Macciardi, F.; Binelli,
+G.; Bianchi, G.: Association of the alpha-adducin locus with essential
+hypertension. Hypertension 25: 320-326, 1995.
+
+6. Cusi, D.; Barlassina, C.; Azzani, T.; Casari, G.; Citterio, L.;
+Devoto, M.; Glorioso, N.; Lanzani, C.; Manunta, P.; Righetti, M.;
+Rivera, R.; Stella, P.; Troffa, C.; Zagato, L.; Bianchi, G.: Polymorphisms
+of alpha-adducin and salt sensitivity in patients with essential hypertension. Lancet 349:
+1353-1357, 1997. Note: Erratum: Lancet 350: 524 only, 1997.
+
+7. Efendiev, R.; Krmar, R. T.; Ogimoto, G.; Zwiller, J.; Tripodi,
+G.; Katz, A. I.; Bianchi, G.; Pedemonte, C. H.; Bertorello, A. M.
+: Hypertension-linked mutation in the adducin alpha-subunit leads
+to higher AP2-mu-2 phosphorylation and impaired Na+, K+-ATPase trafficking
+in response to GPCR signals and intracellular sodium. Circ. Res. 95:
+1100-1108, 2004.
+
+8. Gardner, K.; Bennett, V.: A new erythrocyte membrane-associated
+protein with calmodulin binding activity: identification and purification. J.
+Biol. Chem. 261: 1339-1348, 1986.
+
+9. Gilligan, D. M.; Bennett, V.: The junctional complex of the membrane
+skeleton. Seminars Hemat. 30: 74-83, 1993.
+
+10. Gilligan, D. M.; Lozovatsky, L.; Gwynn, B.; Brugnara, C.; Mohandas,
+N.; Peters, L. L.: Targeted disruption of the beta adducin gene (Add2)
+causes red blood cell spherocytosis in mice. Proc. Nat. Acad. Sci. 96:
+10717-10722, 1999.
+
+11. Goldberg, Y. P.; Lin, B.-Y.; Andrew, S. E.; Nasir, J.; Graham,
+R.; Glaves, M. L.; Hutchinson, G.; Theilmann, J.; Ginzinger, D. G.;
+Schappert, K.; Clarke, L.; Rommens, J. M.; Hayden, M. R.: Cloning
+and mapping of the alpha-adducin gene close to D4S95 and assessment
+of its relationship to Huntington disease. Hum. Molec. Genet. 1:
+669-675, 1992.
+
+12. Grosson, C. L. S.; MacDonald, M. E.; Duyao, M. P.; Ambrose, C.
+M.; Roffler-Tarlov, S.; Gusella, J. F.: Synteny conservation of the
+Huntington's disease gene and surrounding loci on mouse chromosome
+5. Mammalian Genome 5: 424-428, 1994.
+
+13. Joshi, R.; Bennett, V.: Mapping the domain structure of human
+erythrocyte adducin. J. Biol. Chem. 265: 13130-13136, 1990.
+
+14. Joshi, R.; Gilligan, D. M.; Otto, E.; McLaughlin, T.; Bennett,
+V.: Primary structure and domain organization of human alpha and
+beta adducin. J. Cell Biol. 115: 665-675, 1991.
+
+15. Kuhlman, P. A.; Hughes, C. A.; Bennett, V.; Fowler, V. M.: A
+new function for adducin: calcium/calmodulin-regulated capping of
+the barbed ends of actin filaments. J. Biol. Chem. 271: 7986-7991,
+1996.
+
+16. Lanzani, C.; Citterio, L.; Jankaricova, M.; Sciarrone, M. T.;
+Barlassina, C.; Fattori, S.; Messaggio, E.; Di Serio, C.; Zagato,
+L.; Cusi, D.; Hamlyn, J. M.; Stella, A.; Bianchi, G.; Manunta, P.
+: Role of the adducin family genes in human essential hypertension. J.
+Hypertension 23: 543-549, 2005.
+
+17. Manunta, P.; Burnier, M.; D'Amico, M.; Buzzi, L.; Maillard, M.;
+Barlassina, C.; Lanella, G.; Cusi, D.; Bianchi, G.: Adducin polymorphism
+affects renal proximal tubule reabsorption in hypertension. Hypertension 33:
+694-697, 1999.
+
+18. Manunta, P.; Cusi, D.; Barlassina, C.; Righetti, M.; Lanzani,
+C.; D'Amico, M.; Buzzi, L.; Citterio, L.; Stella, P.; Rivera, R.;
+Bianchi, G.: Alpha-adducin polymorphisms and renal sodium handling
+in essential hypertensive patients. Kidney Int. 53: 1471-1478, 1998.
+
+19. Nasir, J.; Lin, B.; Bucan, M.; Koizumi, T.; Nadeau, J. H.; Hayden,
+M. R.: The murine homologues of the Huntington disease gene (Hdh)
+and the alpha-adducin gene (Add1) map to mouse chromosome 5 within
+a region of conserved synteny with human chromosome 4p16.3. Genomics 22:
+198-201, 1994.
+
+20. Taylor, S. A. M.; Snell, R. G.; Buckler, A.; Ambrose, C.; Duyao,
+M.; Church, D.; Lin, C. S.; Altherr, M.; Bates, G. P.; Groot, N.;
+Barnes, G.; Shaw, D. J.; Lehrach, H.; Wasmuth, J. J.; Harper, P. S.;
+Housman, D. E.; MacDonald, M. E.; Gusella, J. F.: Cloning of the
+alpha-adducin gene from the Huntington's disease candidate region
+of chromosome 4 by exon amplification. Nature Genet. 2: 223-227,
+1992.
+
+21. Torielli, L.; Tivodar, S.; Montella, R. C.; Iacone, R.; Padoani,
+G.; Tarsini, P.; Russo, O.; Sarnataro, D.; Strazzullo, P.; Ferrari,
+P.; Bianchi, G.; Zurzolo, C.: Alpha-adducin mutations increase Na/K
+pump activity in renal cells by affecting constitutive endocytosis:
+implications for tubular Na reabsorption. Am. J. Physiol. Renal Physiol. 295:
+F478-F487, 2008.
+
+22. Tripodi, G.; Valtorta, F.; Torielli, L.; Chieregatti, E.; Salardi,
+S.; Trusolino, L.; Menegon, A.; Ferrari, P.; Marchisio, P.-C.; Bianchi,
+G.: Hypertension-associated point mutations in the adducin alpha
+and beta subunits affect actin cytoskeleton and ion transport. J.
+Clin. Invest. 97: 2815-2822, 1996.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/10/2009
+Marla J. F. O'Neill - updated: 12/2/2008
+Victor A. McKusick - updated: 3/8/2005
+Victor A. McKusick - updated: 1/4/2002
+Victor A. McKusick - updated: 11/8/1999
+
+CREATED Victor A. McKusick: 12/9/1991
+
+EDITED terry: 08/31/2012
+mgross: 4/10/2009
+terry: 4/10/2009
+terry: 12/23/2008
+carol: 12/8/2008
+carol: 12/2/2008
+wwang: 3/10/2005
+wwang: 3/9/2005
+terry: 3/8/2005
+terry: 3/6/2002
+carol: 1/11/2002
+mcapotos: 1/8/2002
+terry: 1/4/2002
+mgross: 11/8/1999
+carol: 2/18/1999
+mark: 5/7/1997
+terry: 5/2/1997
+terry: 8/26/1994
+jason: 7/19/1994
+carol: 6/1/1994
+carol: 3/20/1993
+carol: 2/18/1993
+carol: 2/2/1993
+
+607672	TITLE *607672 CARDIOTROPHIN-LIKE CYTOKINE FACTOR 1; CLCF1
+;;CLC;;
+B-CELL STIMULATORY FACTOR 3; BSF3
+DESCRIPTION 
+DESCRIPTION
+
+CLCF1 belongs to the interleukin-6 (IL6; 147620) family of cytokines,
+which are involved in cell signaling through phosphorylation of gp130
+(IL6ST; 600694). IL6 family members share similarity in gene structure
+and have a 4-helix bundle in their protein structure.
+
+CLONING
+
+Senaldi et al. (1999) cloned BSF3, which they also referred to as novel
+neurotrophin-1 (NNT1), by subtractive hybridization using a cDNA library
+prepared from phorbol ester-activated Jurkat T cells. The deduced
+protein contains 225 amino acids, including a 27-amino acid signal
+peptide. The mature form is predicted to be a 198-amino acid peptide
+with a molecular mass of 22 kD. BSF3 contains 4 cysteine residues, 2 of
+which are in the signal peptide, and 1 potential N-linked glycosylation
+site. The secondary structure is predicted to contain alpha helices.
+BSF3 shares 19 to 27% homology with other IL6 family members and 96%
+homology with mouse Bsf3. Northern blot analysis revealed a 2.2-kb
+transcript expressed predominantly in lymph nodes, spleen, peripheral
+blood lymphocytes, bone marrow, and fetal liver. Northern blot analysis
+of mouse tissues revealed strongest expression in lymph nodes, spleen,
+liver, lung, uterus, and ovary. N-terminal amino acid analysis of BSF3
+expressed in HEK293 cells confirmed removal of the signal peptide.
+
+Using cardiotrophin-1 (CTF1; 600435) as query in a database search, Shi
+et al. (1999) identified a full-length clone of CLC. CLC shares 29%
+identity with CTF1 and 20 to 26% identity with other neuropoietic
+cytokines. Northern blot analysis detected a 1.9-kb transcript expressed
+at high levels in spleen and peripheral blood leukocytes, at moderate
+levels in ovary, placenta, and kidney, and at low levels in colon,
+heart, lung, and pancreas. The transcript in lung was slightly smaller
+than that in other tissues. Shi et al. (1999) also detected CLC clones
+in cDNA libraries prepared from activated or resting neutrophils, bone
+marrow stromal cells, and synovial fibroblasts.
+
+GENE FUNCTION
+
+Senaldi et al. (1999) found that treatment of human neuroblastoma cells
+with recombinant BSF3 resulted in phosphorylation of gp130, LIFR-beta
+(151443), and STAT3 (102582). BSF3 supported the survival of chick
+embryo motor and sympathetic neurons in culture in a dose-dependent
+manner and induced growth of murine myeloid leukemia cells. Treatment of
+mice with recombinant BSF3 increased the level of serum amyloid A
+(104750), potentiated the induction of corticosterone and IL6 by IL1
+(see 147760), and caused body weight loss and B-cell hyperplasia with
+elevated serum IgG and IgM levels.
+
+Shi et al. (1999) found that recombinant CLC induced the activation of
+NFKB (see 164011) and SRE reporter constructs in several mammalian cell
+lines. The signal transduction pathway for CLC was characterized in a
+neuroblastoma cell line, and tyrosine phosphorylation of gp130 and STAT1
+(600555), but not STAT3, was detected.
+
+GENE STRUCTURE
+
+Senaldi et al. (1999) determined that the CLCF1 gene contains 3 exons
+and spans approximately 6 kb.
+
+MOLECULAR GENETICS
+
+In an Australian man with cold-induced sweating syndrome (CISS2;
+610313), Rousseau et al. (2006) identified compound heterozygosity for a
+truncating (607672.0001) and a missense mutation (607672.0002) in the
+CLCF1 gene. The mutations were not found in 140 control chromosomes.
+
+In 2 Hungarian sisters with CISS2, Hahn et al. (2010) identified
+compound heterozygous mutations in the CLCF1 gene (607672.0003 and
+607672.0004).
+
+MAPPING
+
+By FISH, Senaldi et al. (1999) mapped the CLCF1 gene to chromosome
+11q13. By radiation hybrid analysis, Shi et al. (1999) mapped the CLCF1
+gene to chromosome 11q13.3.
+
+ALLELIC VARIANT .0001
+COLD-INDUCED SWEATING SYNDROME 2
+CLCF1, TYR107TER
+
+In an Australian man with cold-induced sweating syndrome-2 (CISS2;
+610313), Rousseau et al. (2006) identified compound heterozygosity for a
+321C-A transversion and a 590G-T transversion in the CLCF1 gene,
+resulting in a tyr107-to-ter (Y107X) and an arg197-to-leu (R197L;
+607672.0002) substitution, respectively. The mutations were not found in
+140 control chromosomes. Transfection studies demonstrated that
+truncated CLC containing a stop codon at position 107 cannot be
+correctly processed and expressed in mammalian cells. Functional studies
+of R197L CLC revealed an incapacity for the mutant protein to bind to
+CNTFR (118946) and activate subsequent signaling events; structural and
+docking interaction studies showed that the R197L substitution
+destabilized the contact site between CLC and CNTFR.
+
+.0002
+COLD-INDUCED SWEATING SYNDROME 2
+CLCF1, ARG197LEU
+
+See 607672.0001 and Rousseau et al. (2006).
+
+.0003
+COLD-INDUCED SWEATING SYNDROME 2
+CLCF1, CYS16ARG
+
+In 2 Hungarian sisters with cold-induced sweating syndrome-2 (610313),
+Hahn et al. (2010) identified compound heterozygosity for 2 mutations in
+the CLCF1 gene: a 46T-C transition resulting in a cys16-to-arg (C16R)
+substitution, and a 676T-C transition (607672.0004) resulting in the
+extension of the terminal stop codon by 171 residues (X226ext171).
+
+.0004
+COLD-INDUCED SWEATING SYNDROME 2
+CLCF1, 676T-C
+
+See 607672.0003 and Hahn et al. (2010).
+
+REFERENCE 1. Hahn, A. F.; Waaler, P. E.; Kvistad, P. H.; Bamforth, J. S.; Miles,
+J. H.; McLeod, J. G.; Knappskog, P. M.; Boman, H.: Cold-induced sweating
+syndrome: CISS1 and CISS2: manifestations from infancy to adulthood:
+four new cases. J. Neurol. Sci. 293: 68-75, 2010.
+
+2. Rousseau, F.; Gauchat, J.-F.; McLeod, J. G.; Chevalier, S.; Guillet,
+C.; Guilhot, F.; Cognet, I.; Froger, J.; Hahn, A. F.; Knappskog, P.
+M.; Gascan, H.; Boman, H.: Inactivation of cardiotrophin-like cytokine,
+a second ligand for ciliary neurotrophic factor receptor, leads to
+cold-induced sweating syndrome in a patient. Proc. Nat. Acad. Sci. 103:
+10068-10073, 2006.
+
+3. Senaldi, G.; Varnum, B. C.; Sarmiento, U.; Starnes, C.; Lile, J.;
+Scully, S.; Guo, J.; Elliott, G.; McNinch, J.; Shaklee, C. L.; Freeman,
+D.; Manu, F.; Simonet, W. S.; Boone, T.; Chang, M.-S.: Novel neurotrophin-1/B
+cell-stimulating factor-3: a cytokine of the IL-6 family. Proc. Nat.
+Acad. Sci. 96: 11458-11463, 1999.
+
+4. Shi, Y.; Wang, W.; Yourey, P. A.; Gohari, S.; Zukauskas, D.; Zhang,
+J.; Ruben, S.; Alderson, R. F.: Computational EST database analysis
+identifies a novel member of the neuropoietic cytokine family. Biochem.
+Biophys. Res. Commun. 262: 132-138, 1999.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 1/9/2013
+Marla J. F. O'Neill - updated: 8/14/2006
+
+CREATED Patricia A. Hartz: 4/3/2003
+
+EDITED carol: 01/11/2013
+ckniffin: 1/9/2013
+wwang: 6/5/2007
+wwang: 3/12/2007
+wwang: 8/14/2006
+terry: 8/14/2006
+tkritzer: 4/4/2003
+tkritzer: 4/3/2003
+
+605301	TITLE *605301 TRANSFORMING, ACIDIC, COILED-COIL-CONTAINING PROTEIN 1; TACC1
+TACC1/FGFR1 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Amplification of various chromosomal regions in human breast carcinomas
+has lead to the identification of protooncogenes involved in
+tumorigenesis. For example, MYC (190080) in 8q24, CCND1 (168461) in
+11q13, and ERBB2 (164870) in 17q12 are each observed in 20% of all
+breast tumors. Still et al. (1999) noted that 8p11 is amplified in 10 to
+15% of breast tumor samples but the only gene assigned to this region,
+FGFR1 (136350), is typically expressed at the same levels in normal and
+tumor breast tissue. By PCR analysis with primers obtained from an EST
+database, generation of a BAC contig spanning 380 kb of the 8p11 breast
+cancer amplicon-1, and probing fetal tissue libraries, Still et al.
+(1999) isolated a cDNA encoding TACC1. The predicted 805-amino acid
+TACC1 protein is rich in serine, proline, and acidic residues, has a
+20-amino acid N terminus rich in tryptophan, contains 2 nuclear
+localization signals but no DNA- or RNA-binding domains, and has a
+200-residue C terminus with extensive alpha-helical segments expected to
+adopt a coiled-coil structure. Northern blot analysis detected a major
+8.0-kb TACC1 transcript in all tissues tested, with relatively weak
+expression in liver and lung.
+
+GENE FUNCTION
+
+Still et al. (1999) found that introduction of TACC1 into stable cell
+lines resulted in morphologic changes consistent with a transformed
+phenotype and in anchorage-independent growth.
+
+By yeast 2-hybrid and coimmunoprecipitation analyses, Lauffart et al.
+(2002) showed that TACC1 interacted with C-terminal regions of CHTOG
+(CKAP5; 611142) and GAS41 (YEATS4; 602116).
+
+During neurogenesis, the nuclei of progenitor cells of the proliferative
+ventricular zone oscillate in a cell cycle-dependent manner called
+interkinetic nuclear migration (INM). In most cell types, the nucleus
+closely follows the centrosome during migration; however, in neural
+progenitors, centrosomes remain near the ventricular zone during INM.
+Xie et al. (2007) showed that INM in mice was dependent on the
+regulation of centrosome-associated microtubules by Cep120 (613446) and
+Taccs. Cep120 and Taccs regulated the integrity of microtubules coupling
+the centrosome and the nucleus. Cep120 interacted with Taccs and
+regulated the localization of Tacc3 (605303) to the centrosome. Both
+Cep120 and Taccs were essential for maintaining the neural progenitor
+pool during mouse neocortical development.
+
+MOLECULAR GENETICS
+
+Singh et al. (2012) reported that a small subset of glioblastoma
+multiforme tumors (GBMs; 137800) (3.1%; 3 of 97 tumors examined) harbors
+oncogenic chromosomal translocations that fuse in-frame the tyrosine
+kinase coding domains of fibroblast growth factor receptor (FGFR) genes
+FGFR1 (136350) or FGFR3 (134934) to the transforming acidic coiled-coil
+(TACC) coding domains of TACC1 or TACC3 (605303), respectively. The
+FGFR-TACC fusion protein displayed oncogenic activity when introduced
+into astrocytes or stereotactically transduced in the mouse brain. The
+fusion protein, which localizes to mitotic spindle poles, has
+constitutive kinase activity and induces mitotic and chromosomal
+segregation defects and triggers aneuploidy. Inhibition of FGFR kinase
+corrected the aneuploidy, and oral administration of an FGFR inhibitor
+prolonged survival of mice harboring intracranial FGFR3-TACC3-initiated
+glioma. Singh et al. (2012) concluded that FGFR-TACC fusions could
+potentially identify a subset of GBM patients who would benefit from
+targeted FGFR kinase inhibition.
+
+REFERENCE 1. Lauffart, B.; Howell, S. J.; Tasch, J. E.; Cowell, J. K.; Still,
+I. H.: Interaction of the transforming acidic coiled-coil 1 (TACC1)
+protein with ch-TOG and GAS41/NuBI1 suggests multiple TACC1-containing
+protein complexes in human cells. Biochem. J. 363: 195-200, 2002.
+
+2. Singh, D.; Chan, J. M.; Zoppoli, P.; Niola, F.; Sullivan, R.; Castano,
+A.; Liu, E. M.; Reichel, J.; Porrati, P.; Pellegatta, S.; Qiu, K.;
+Gao, Z.; and 12 others: Transforming fusions of FGFR and TACC genes
+in human glioblastoma. Science 337: 1231-1235, 2012.
+
+3. Still, I. H.; Hamilton, M.; Vince, P.; Wolfman, A.; Cowell, J.
+K.: Cloning of TACC1, an embryonically expressed, potentially transforming
+coiled coil containing gene, from the 8p11 breast cancer amplicon. Oncogene 18:
+4032-4038, 1999.
+
+4. Xie, Z.; Moy, L. Y.; Sanada, K.; Zhou, Y.; Buchman, J. J.; Tsai,
+L.-H.: Cep120 and TACCs control interkinetic nuclear migration and
+the neural progenitor pool. Neuron 56: 79-93, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/31/2012
+Patricia A. Hartz - updated: 6/11/2010
+Patricia A. Hartz - updated: 6/25/2007
+
+CREATED Paul J. Converse: 9/28/2000
+
+EDITED alopez: 11/05/2012
+terry: 10/31/2012
+mgross: 6/16/2010
+terry: 6/11/2010
+mgross: 6/27/2007
+terry: 6/25/2007
+mgross: 9/28/2000
+
+606101	TITLE *606101 EGF-LIKE MODULE-CONTAINING, MUCIN-LIKE HORMONE RECEPTOR 3; EMR3
+DESCRIPTION Epidermal growth factor (EGF; 131530)-7-transmembrane (TM7) proteins are
+G-protein-coupled receptors (GPCRs) found on monocytes and neutrophils.
+They include mouse F4/80, mouse and human CD97 (601211), and EMR1
+(600493), the likely human homolog of F4/80. EGF-TM7 glycoproteins have
+variable numbers of N-terminal EGF-like repeats coupled to a family-B
+GPCR-related moiety via a mucin-like stalk.
+
+CLONING
+
+By searching DNA databases, using 5-prime and 3-prime RACE, and
+screening a spleen cDNA library, Stacey et al. (2001) identified cDNAs
+encoding EMR2 (606100), EMR3, and splice variants of each. The deduced
+652-amino acid EMR3 protein contains an N-terminal signal peptide, 2
+EGF-like domains, the first of which does not contain a calcium-binding
+sequence, a mucin-like spacer region with several N- and O-linked
+glycosylation sites, a putative GPCR proteolytic site, a TM7 region, and
+a 51-residue cytoplasmic tail. A truncated EMR3 splice variant
+containing only the 2 EGF-like domains and no transmembrane domain was
+predicted to be a soluble protein. Northern blot analysis of tissues and
+RT-PCR analysis of cell lines revealed that expression of 2.4- and
+4.0-kb EMR3 transcripts was restricted to leukocytes. Flow cytometric
+screening demonstrated that EMR3, but not EMR2, interacts with
+monocyte-derived macrophages and neutrophils activated with fMLP but not
+with CD55 (125240), the CD97 ligand. Stacey et al. (2001) noted that
+EMR3 and EMR2 share a high degree of sequence identity in the TM domains
+but not in the extracellular domains, whereas EMR2 and CD97 are highly
+homologous in the EGF-like domains but not in the transmembrane domains,
+suggesting different ligand-binding and intracellular signaling
+activities.
+
+MAPPING
+
+By genomic sequence analysis, Stacey et al. (2001) mapped the EMR3 gene
+to 19p13.1, close to the other EGF-TM7 genes.
+
+REFERENCE 1. Stacey, M.; Lin, H.-H.; Hilyard, K. L.; Gordon, S.; McKnight, A.
+J.: Human epidermal growth factor (EGF) module-containing mucin-like
+hormone receptor 3 is a new member of the EGF-TM7 family that recognizes
+a ligand on human macrophages and activated neutrophils. J. Biol.
+Chem. 276: 18863-18870, 2001.
+
+CREATED Paul J. Converse: 7/11/2001
+
+EDITED wwang: 07/25/2008
+alopez: 12/16/2005
+mgross: 7/11/2001
+

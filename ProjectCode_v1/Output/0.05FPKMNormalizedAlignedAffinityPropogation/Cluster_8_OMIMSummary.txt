@@ -1,0 +1,144 @@
+604635	TITLE *604635 NEUREXOPHILIN 2; NXPH2
+;;NPH2
+DESCRIPTION 
+CLONING
+
+Mammalian neurexophilin was discovered as a 29-kD neuronal glycoprotein
+that copurifies in a tight complex with neurexin I-alpha (600565)
+(Petrenko et al., 1996). By searching sequence databases using the amino
+acid sequence of mammalian neurexophilin as the query, Missler and
+Sudhof (1998) identified human ESTs corresponding to neurexophilins-1
+(NXPH1; 604639), -2 (NXPH2), -3 (NXPH3; 604636), and -4 (NXPH4; 604637).
+Comparison of the amino acid sequences of human, rat, mouse, and bovine
+neurexophilins revealed that neurexophilins share a common predicted
+structure composed of 5 domains: an N-terminal signal peptide, a
+variable N-terminal domain, a highly conserved central domain that is
+N-glycosylated, a short linker region, and a conserved C-terminal domain
+that is cysteine-rich. Northern blot analysis of a variety of human
+tissues detected NXPH2 expression in brain and kidney. Missler and
+Sudhof (1998) concluded that neurexophilins form a family of related
+glycoproteins that are proteolytically processed after synthesis. They
+suggested that neurexophilins are signaling molecules that resemble
+neuropeptides and that act by binding to alpha-neurexins and possibly
+other receptors.
+
+REFERENCE 1. Missler, M.; Sudhof, T. C.: Neurexophilins form a conserved family
+of neuropeptide-like glycoproteins. J. Neurosci. 18: 3630-3638,
+1998.
+
+2. Petrenko, A. G.; Ullrich, B.; Missler, M.; Krasnoperov, V.; Rosahl,
+T. W.; Sudhof, T. C.: Structure and evolution of neurexophilin. J.
+Neurosci. 16: 4360-4369, 1996.
+
+CREATED Patti M. Sherman: 2/29/2000
+
+EDITED wwang: 03/15/2010
+terry: 3/2/2010
+mgross: 3/2/2000
+psherman: 3/1/2000
+
+609000	TITLE *609000 MONOOXYGENASE, DBH-LIKE, 1; MOXD1
+;;MONOOXYGENASE X; MOX
+DESCRIPTION 
+CLONING
+
+By differential display of genes showing altered expression during
+senescence in human diploid fibroblasts, Chambers et al. (1998) cloned
+MOXD1, which they called MOX. The 3-prime UTR contains multiple
+consensus polyadenylation signals. The deduced 545-amino acid protein
+has several cysteine residues likely to be involved in disulfide bond
+formation. It also has a subset of cysteines within the catalytic core
+that are conserved with DBH (223360) and PAM (170270), as well as other
+conserved residues that are likely to coordinate copper and contribute
+to enzymatic activity. The catalytic core regions of MOX and DBH share
+about 40% amino acid identity. Northern blot analysis detected a MOX
+transcript of about 3.3 kb in fibroblasts, and Northern blot analysis of
+several tissues showed highest expression in lung, kidney, and brain.
+RT-PCR analysis and RNA dot blot analysis confirmed highest expression
+in kidney and lung, and MOX was also expressed in testis, fetal kidney,
+uterus, and adrenal gland. Western blot analysis detected endogenous MOX
+at an apparent molecular mass of 62.6 kD.
+
+GENE FUNCTION
+
+Chambers et al. (1998) found that most primary fibroblast or umbilical
+vein endothelial cell cultures upregulated MOX expression during
+replicative senescence.
+
+MAPPING
+
+By radiation hybrid analysis, Chambers et al. (1998) mapped the MOX gene
+to chromosome 6q.
+
+REFERENCE 1. Chambers, K. J.; Tonkin, L. A.; Chang, E.; Shelton, D. N.; Linskens,
+M. H.; Funk, W. D.: Identification and cloning of a sequence homologue
+of dopamine beta-hydroxylase. Gene 218: 111-120, 1998.
+
+CREATED Patricia A. Hartz: 10/28/2004
+
+EDITED mgross: 10/28/2004
+
+610885	TITLE *610885 ESSENTIAL MEIOTIC ENDONUCLEASE 1, S. POMBE, HOMOLOG OF, 1; EME1
+;;EME1, S. POMBE, HOMOLOG OF, 1
+DESCRIPTION 
+DESCRIPTION
+
+EME1 and MUS81 (606591) form an endonuclease complex that cleaves
+branched DNA structures, especially those arising during stalled DNA
+replication (Abraham et al., 2003).
+
+CLONING
+
+By searching for homologs of S. pombe Eme1, followed by PCR, Ciccia et
+al. (2003) cloned EME1 and EME2 (610886). The deduced 583-amino acid
+EME1 protein has a calculated molecular mass of 65 kD and shares 44%
+identity with EME2.
+
+Abraham et al. (2003) cloned mouse Eme1, which encodes a 570-amino acid
+protein that shares 66% identity with human EME1. Northern blot analysis
+detected expression of Eme1 in all embryonic and adult mouse tissues
+examined.
+
+GENE FUNCTION
+
+Ciccia et al. (2003) showed that recombinant EME1 interacted with
+recombinant MUS81. The heterodimer had DNA endonuclease activity against
+3-prime flap and replication fork substrates, but the activity was much
+lower against splayed arm or Holliday junction substrates. Neither EME1
+nor MUS81 alone showed nuclease activity.
+
+Abraham et al. (2003) found that the mouse Eme1/Mus81 heterodimer
+preferentially cleaved 3-prime flap structures and replication forks
+rather than Holliday junctions in vitro. Eme1 -/- mouse embryonic stem
+cells exhibited no changes in viability, growth rate, or activation of
+DNA damage-activated cell cycle checkpoints. However, loss of Eme1 led
+to increased aneuploidy, increased sister chromatid exchange upon DNA
+damage, and increased levels of spontaneous chromosomal abnormalities,
+including breaks, fragments, chromosomal fusions, and dicentric
+chromosomes. Compared with wildtype cells, Eme1 -/- cells showed a
+2-fold increase in chromosomal abnormalities following treatment with
+the DNA-crosslinking agent mitomycin C. Abraham et al. (2003) concluded
+that EME1 plays a key role in DNA repair and maintenance of genome
+integrity.
+
+MAPPING
+
+By genomic sequence analysis, Ciccia et al. (2003) mapped the EME1 gene
+to chromosome 17q21.3. Abraham et al. (2003) mapped the mouse Eme1 gene
+to chromosome 11C.
+
+REFERENCE 1. Abraham, J.; Lemmers, B.; Hande, M. P.; Moynahan, M. E.; Chahwan,
+C.; Ciccia, A.; Essers, J.; Hanada, K.; Chahwan, R.; Khaw, A. K.;
+McPherson, P.; Shehabeldin, A.; Laister, R.; Arrowsmith, C.; Kanaar,
+R.; West, S. C.; Jasin, M.; Hakem, R.: Eme1 is involved in DNA damage
+processing and maintenance of genomic stability in mammalian cells. EMBO
+J. 22: 6137-6147, 2003.
+
+2. Ciccia, A.; Constantinou, A.; West, S. C.: Identification and
+characterization of the human Mus81-Eme1 endonuclease. J. Biol. Chem. 278:
+25172-25178, 2003.
+
+CREATED Patricia A. Hartz: 3/26/2007
+
+EDITED mgross: 03/26/2007
+

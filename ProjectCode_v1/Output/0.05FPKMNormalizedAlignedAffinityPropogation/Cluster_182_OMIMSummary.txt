@@ -1,0 +1,3457 @@
+612355	TITLE *612355 MICAL C TERMINUS-LIKE PROTEIN; MICALCL
+;;ERK2-BINDING TESTICULAR PROTEIN 1; EBITEIN1
+DESCRIPTION 
+CLONING
+
+Using mouse Erk2 (MAPK1; 176948) as bait in a yeast 2-hybrid screen of a
+mouse brain cDNA library, Miura and Imaki (2008) cloned Micalcl, which
+they called Ebitein1. The deduced 680-amino acid protein has a
+calculated molecular mass of 75 kD. Northern blot analysis detected
+Ebitein1 expression in mouse testis, but not in 12 other mouse tissues
+examined, including brain. Western blot analysis detected Ebitein1 at an
+apparent molecular mass of 75 kD in testis only. Immunohistochemical
+analysis showed high Ebitein1 expression in round spermatids, but not in
+other testicular cells. During spermatogenesis, Ebitein1 first appeared
+after meiosis when cells became haploid, then the amount of Ebitein1
+gradually increased, reaching a maximum at Oakberg stage 9.
+Subsequently, the level of Ebitein1 decreased such that it was
+undetectable when the flagellum of the spermatozoon was generated. On a
+subcellular level, Ebitein1 localized in the cytoplasm.
+
+MAPPING
+
+Hartz (2008) mapped the MICALCL gene to chromosome 11p15.3 based on an
+alignment of the MICALCL sequence (GenBank GENBANK AK123671) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/23/2008.
+
+2. Miura, K.; Imaki, J.: Molecular cloning of Ebitein1: a novel extracellular
+signal-regulated kinase 2-binding protein in testis. Biochem. Biophys.
+Res. Commun. 368: 336-342, 2008.
+
+CREATED Patricia A. Hartz: 10/23/2008
+
+EDITED mgross: 10/23/2008
+
+605904	TITLE *605904 PDZ AND LIM DOMAIN PROTEIN 5; PDLIM5
+;;ENIGMA-LIKE LIM DOMAIN PROTEIN;;
+ENIGMA HOMOLOG; ENH
+DESCRIPTION 
+DESCRIPTION
+
+LIM domains are cysteine-rich double zinc fingers composed of 50 to 60
+amino acids that are involved in protein-protein interactions. LIM
+domain-containing proteins are scaffolds for the formation of
+multiprotein complexes. The proteins are involved in cytoskeleton
+organization, cell lineage specification, organ development, and
+oncogenesis. Enigma family proteins (see ENIGMA; 605900) possess a
+100-amino acid PDZ domain in the N terminus and 1 to 3 LIM domains in
+the C terminus.
+
+CLONING
+
+Using a yeast 2-hybrid screen of a rat brain cDNA library with the
+regulatory domain of rat protein kinase C-beta-1 (PRKCB1; 176970) as
+bait, Kuroda et al. (1996) isolated a cDNA encoding Enh. Yeast 2-hybrid
+analysis showed that the LIM domains of Enh and human ENIGMA associate
+with varying protein kinase C isoforms. By PCR analysis of a fetal brain
+cDNA library with primers based on a partial cDNA homologous to rat Enh,
+Ueki et al. (1999) isolated a full-length cDNA encoding human ENH.
+Sequence analysis predicted that the 596-amino acid protein, which is
+88% identical to rat Enh, has 2 pro/ser-rich regions and 3 LIM domains.
+Northern blot analysis detected a 1.9-kb transcript that was
+predominantly expressed in heart and skeletal muscle and a 5.6-kb
+transcript that was expressed in all tissues tested.
+
+Maeno-Hikichi et al. (2003) found that the ENH protein was expressed in
+various regions of the brain, most notably hippocampi, cortex, thalamus,
+hypothalamus, amygdala, and cerebellum. In hippocampal neurons, ENH
+appeared to be localized in presynaptic nerve terminals.
+
+Niederlander et al. (2004) stated that the full-length human ENH1
+isoform contains an N-terminal PDZ domain and 3 C-terminal LIM domains.
+ENH2, ENH3, and ENH4 are splice variants that encode progressively
+shorter proteins, with ENH4 containing 215 amino acids. All transcripts
+contain exons 1 through 3, which encodes the PDZ domain, and exons 8 and
+9. Northern blot analysis of several human and mouse tissues detected a
+1.9-kb ENH4 transcript in skeletal and cardiac muscle only. Niederlander
+et al. (2004) used a probe that did not differentiate between ENH
+isoforms for Western blot analysis of human cardiac and skeletal muscle.
+In skeletal muscle, they found proteins with apparent molecular masses
+of 29, 33, and 40 kD, which were predicted to represent ENH4, ENH3, and
+ENH2, respectively. In cardiac muscle, they detected proteins with
+apparent molecular masses of 33 and 64 kD, representing ENH3 and ENH1,
+respectively. Only Enh3 and Enh4 were detected in mouse cardiac and
+skeletal muscle, respectively. Endogenous mouse Enh and
+fluorescence-tagged human ENH4 were expressed at Z discs of mouse
+striated muscle.
+
+Cheng et al. (2010) stated that 4 splice variants of mouse Enh had been
+previously identified, and they cloned 5 additional variants. RT-PCR
+detected expression of the Enh2 and Enh4 variants in mouse skeletal
+muscle only.
+
+GENE STRUCTURE
+
+Niederlander et al. (2004) determined that the PDLIM5 gene contains 16
+exons and spans 210.8 kb.
+
+MAPPING
+
+By somatic cell hybrid analysis, Ueki et al. (1999) mapped the ENH gene
+to 4q22.
+
+GENE FUNCTION
+
+Using immunocytochemistry, Nakagawa et al. (2000) demonstrated that rat
+Enh colocalizes with alpha-actinin-2 (Actn2; 102573) in the Z disc
+region of sarcomeres of rat neonatal cardiomyocytes. GST pull-down
+assays showed that the interaction occurs through the PDZ domain of Enh.
+
+Through binding and immunoprecipitation assays on adult rat cortical
+tissue, Maeno-Hikichi et al. (2003) showed that ENH interacts
+specifically with protein kinase C-epsilon (PRKCE; 176975) and the C
+terminus of the N-type calcium channel alpha-1B subunit (CACNA1B;
+601012) to form a macromolecular complex. Functional studies in Xenopus
+oocytes indicated that expression of ENH resulted in increased rapid and
+specific modulation of N-type calcium channels by PKCE. The authors
+concluded that through interactions with a common adaptor protein, the
+formation of a kinase-substrate complex is the molecular basis for the
+specificity and efficiency of cellular signaling.
+
+Using an in vitro protein blot overlay, Niederlander et al. (2004) found
+that recombinant human ENH4 interacted with 3 major proteins from mouse
+skeletal muscle. They identified 1 of these binding partners as
+alpha-actinin (see 102575).
+
+ANIMAL MODEL
+
+Cheng et al. (2010) found that Enh-null mice were indistinguishable from
+wildtype littermates. However, by 1 month of age, Enh-null hearts showed
+elevated expression of fetal genes and reduced expression of the Z-line
+proteins calsarcin-1 (MYOZ2; 605602) and Cypher (LDB3; 605906) short
+isoform (CypherS). By 3 months of age, Enh-null mice developed
+cardiomyopathy characterized by enlargement of the left ventricle,
+impaired systolic and diastolic heart function, and widened Z-lines.
+Cardiomyopathy in Enh-null hearts was progressive, but it did not result
+in sudden cardiac death. Heart-specific Enh deletion resulted in a
+similar phenotype. Myofibril isolation, sucrose fractionation, and in
+vitro protein pull-down assays demonstrated that Enh localized at the
+Z-line in a protein complex with CypherS and calsarcin-1. Cheng et al.
+(2010) concluded that Enh has a role in maintaining the integrity of the
+Z-line.
+
+REFERENCE 1. Cheng, H.; Kimura, K.; Peter, A. K.; Cui, L.; Ouyang, K.; Shen,
+T.; Liu, Y.; Gu, Y.; Dalton, N. D.; Evans, S. M.; Knowlton, K. U.;
+Peterson, K. L.; Chen, J.: Loss of enigma homolog protein results
+in dilated cardiomyopathy. Circ. Res. 107: 348-356, 2010.
+
+2. Kuroda, S.; Tokunaga, C.; Kiyohara, Y.; Higuchi, O.; Konishi, H.;
+Mizuno, K.; Gill, G. N.; Kikkawa, U.: Protein-protein interaction
+of zinc finger LIM domains with protein kinase C. J. Biol. Chem. 271:
+31029-31032, 1996.
+
+3. Maeno-Hikichi, Y.; Chang, S.; Matsumura, K.; Lai, M.; Lin, H.;
+Nakagawa, N.; Kuroda, S.; Zhang, J.: A PKC-epsilon-ENH-channel complex
+specifically modulates N-type Ca2+ channels. Nature Neurosci. 6:
+468-475, 2003.
+
+4. Nakagawa, N.; Hoshijima, M.; Oyasu, M.; Saito, N.; Tanizawa, K.;
+Kuroda, S.: ENH, containing PDZ and LIM domains, heart/skeletal muscle-specific
+protein, associates with cytoskeletal proteins through the PDZ domain. Biochem.
+Biophys. Res. Commun. 272: 505-512, 2000.
+
+5. Niederlander, N.; Fayein, N. A.; Auffray, C.; Pomies, P.: Characterization
+of a new human isoform of the enigma homolog family specifically expressed
+in skeletal muscle. Biochem. Biophys. Res. Commun. 325: 1304-1311,
+2004.
+
+6. Ueki, N.; Seki, N.; Yano, K.; Masuho, Y.; Saito, T.; Muramatsu,
+M.: Isolation, tissue expression, and chromosomal assignment of a
+human LIM protein gene, showing homology to rat Enigma homologue (ENH). J.
+Hum. Genet. 44: 256-260, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/19/2012
+Cassandra L. Kniffin - updated: 5/22/2003
+
+CREATED Paul J. Converse: 5/3/2001
+
+EDITED mgross: 11/09/2012
+mgross: 11/9/2012
+terry: 10/19/2012
+terry: 7/30/2008
+terry: 3/11/2005
+cwells: 5/27/2003
+ckniffin: 5/22/2003
+mgross: 5/3/2001
+
+238310	TITLE *238310 AMINOMETHYLTRANSFERASE; AMT
+;;GLYCINE CLEAVAGE SYSTEM T PROTEIN; GCST
+DESCRIPTION 
+DESCRIPTION
+
+The enzyme system for cleavage of glycine (glycine cleavage system; EC
+2.1.2.10), which is confined to the mitochondria, is composed of 4
+protein components: P protein (a pyridoxal phosphate-dependent glycine
+decarboxylase; GLDC, 238300), H protein (a lipoic acid-containing
+protein; GCSH, 238330), T protein (a tetrahydrofolate-requiring enzyme),
+and L protein (a lipoamide dehydrogenase; DLD, 238331).
+
+Mutations in the T, P, and H proteins have been found to cause glycine
+encephalopathy (GCE; 605899).
+
+CLONING
+
+The T protein of the glycine cleavage system is also known as
+aminomethyltransferase (AMT). Nanao et al. (1994) isolated the AMT gene
+from a human placenta cosmid library. They found that the gene is about
+6 kb long and contains 9 exons. They identified 2 putative
+glucocorticoid-responsive elements and a putative thyroid
+hormone-responsive element. By dot-blot analysis, Kure et al. (2001)
+detected expression of AMT in all tissues tested except stomach and bone
+marrow.
+
+GENE FUNCTION
+
+Sakata et al. (2001) reported the structure and expression of the
+glycine cleavage system in rat central nervous system.
+
+MAPPING
+
+By fluorescence in situ hybridization, Nanao et al. (1994) assigned the
+AMT gene to 3p21.2-p21.1.
+
+MOLECULAR GENETICS
+
+In patients with glycine encephalopathy, Nanao et al. (1994) identified
+mutations in the AMT gene (238310.0001-238310.0002).
+
+Toone et al. (2000) studied 14 unrelated patients with glycine
+encephalopathy and identified mutations in 4 cases. In 2 patients,
+mutations were identified in the T protein: 1 patient was homozygous for
+an arg320-to-his mutation (R320H; 238310.0006), and the other patient
+was heterozygous for a novel glutamine-to-termination substitution at
+codon 192 (238310.0007).
+
+Applegarth and Toone (2001) reviewed the laboratory diagnosis of glycine
+encephalopathy and confirmed 9 mutations in the T protein and 8
+mutations in the P protein. They also reviewed the 7 cases of transient
+NKH known at that time.
+
+ALLELIC VARIANT .0001
+GLYCINE ENCEPHALOPATHY
+AMT, GLY269ASP
+
+Nanao et al. (1994) found that a patient with typical glycine
+encephalopathy (605899) was homozygous for a missense mutation in the
+AMT gene, a G-to-A transition leading to a gly-to-asp substitution at
+amino acid 269 (G269D).
+
+.0002
+GLYCINE ENCEPHALOPATHY
+AMT, GLY47ARG
+
+In 2 sisters with atypical glycine encephalopathy (605899), Nanao et al.
+(1994) found compound heterozygosity for 2 missense mutations in the T
+protein gene: a G-to-A transition leading to a gly-to-arg substitution
+at amino acid 47 (G47R) in 1 allele, and a G-to-A transition leading to
+an arg-to-his substitution at amino acid 320 (R320H; 238310.0006) in the
+other allele. Nanao et al. (1994) pointed out that gly269, which was
+mutant in the typically severe case they studied (see 238300.0001), is
+conserved in T proteins of various species, even in E. coli, whereas
+gly47 and arg320, which were mutant in the atypical and milder cases,
+are replaced by ala and leu, respectively, in E. coli. Thus, mutation
+occurring in more conservative amino acid residues results in more
+deleterious damage to the T protein and a more severe clinical
+phenotype.
+
+.0003
+GLYCINE ENCEPHALOPATHY
+AMT, HIS42ARG
+
+Kure et al. (1998) reported a large Israeli-Arab kindred with glycine
+encephalopathy (605899). Enzymatic analysis demonstrated that T-protein
+activity was deficient in the liver from 1 affected person in the
+family. Mutation detection revealed a missense mutation in exon 2
+resulting in an amino acid substitution from histidine to arginine at
+position 42 (his42 to arg). Homozygosity for the H42R mutation was seen
+in all affected members of the family.
+
+.0004
+GLYCINE ENCEPHALOPATHY
+AMT, 1-BP DEL, 183C
+
+In a Japanese patient with glycine encephalopathy (605899), Kure et al.
+(1998) described a 1-bp deletion (183delC) and a missense mutation,
+asp276 to his (238310.0005).
+
+.0005
+GLYCINE ENCEPHALOPATHY
+AMT, ASP276HIS
+
+In a Japanese patient with glycine encephalopathy (605899) of neonatal
+onset, Kure et al. (1998) found a G-to-C substitution at position 955 in
+exon 7, resulting in an amino acid change from aspartate to histidine at
+position 276.
+
+.0006
+GLYCINE ENCEPHALOPATHY
+AMT, ARG320HIS
+
+See 238310.0001 and Nanao et al. (1994).
+
+Toone et al. (2001) screened a DNA bank from 50 patients with
+enzymatically confirmed NKH and identified the arg320-to-his (R320H)
+mutation in 7% of alleles.
+
+.0007
+GLYCINE ENCEPHALOPATHY
+AMT, GLN192TER
+
+In a patient with neonatal-onset NKH (605899), Toone et al. (2000)
+identified a C-to-T transition resulting in a glutamine-to-termination
+codon substitution at residue 192 (Q192X). The other mutation in this
+patient was not identified.
+
+.0008
+GLYCINE ENCEPHALOPATHY
+AMT, IVS7, G-A, -1
+
+Toone et al. (2001) reported a novel splice site mutation at the -1
+position of intron 7 of the AMT gene: G was converted to A. This
+mutation was found in 3 unrelated families and was not found in any
+normal controls.
+
+ADDITIONAL REFERENCES Hayasaka et al. (1983); Toone et al. (2000)
+REFERENCE 1. Applegarth, D. A.; Toone, J. R.: Nonketotic hyperglycinemia (glycine
+encephalopathy): laboratory diagnosis. Molec. Genet. Metab. 74:
+139-146, 2001.
+
+2. Hayasaka, K.; Tada, K.; Kikuchi, G.; Winter, S.; Nyhan, W. L.:
+Nonketotic hyperglycinemia: two patients with primary defects of P-protein
+and T-protein, respectively, in the glycine cleavage system. Pediat.
+Res. 17: 967-970, 1983.
+
+3. Kure, S.; Kojima, K.; Kudo, T.; Kanno, K.; Aoki, Y.; Suzuki, Y.;
+Shinka, T.; Sakata, Y.; Narisawa, K.; Matsubara, Y.: Chromosomal
+localization, structure, single-nucleotide polymorphisms, and expression
+of the human H-protein gene of the glycine cleavage system (GCSH),
+a candidate gene for nonketotic hyperglycinemia. J. Hum. Genet. 46:
+378-384, 2001.
+
+4. Kure, S.; Mandel, H.; Rolland, M.-O.; Sakata, Y.; Shinka, T.; Drugan,
+A.; Boneh, A.; Tada, K.; Matsubara, Y.; Narisawa, K.: A missense
+mutation (his42arg) in the T-protein gene from a large Israeli-Arab
+kindred with nonketotic hyperglycinemia. Hum. Genet. 102: 430-434,
+1998.
+
+5. Kure, S.; Shinka, T.; Sakata, Y.; Osamu, N.; Takayanagi, M.; Tada,
+K.; Matsubara, Y.; Narisawa, K.: A one-base deletion (183delC) and
+a missense mutation (D276H) in the T-protein gene from a Japanese
+family with nonketotic hyperglycinemia. J. Hum. Genet. 43: 135-137,
+1998.
+
+6. Nanao, K.; Okamura-Ikeda, K.; Motokawa, Y.; Danks, D. M.; Baumgartner,
+E. R.; Takada, G.; Hayasaka, K.: Identification of the mutations
+in the T-protein gene causing typical and atypical nonketotic hyperglycinemia. Hum.
+Genet. 93: 655-658, 1994.
+
+7. Nanao, K.; Takada, G.; Takahashi, E.; Seki, N.; Komatsu, Y.; Okamura-Ikeda,
+K.; Motokawa, Y.; Hayasaka, K.: Structure and chromosomal localization
+of the aminomethyltransferase gene (AMT). Genomics 19: 27-30, 1994.
+Note: Erratum: Genomics 20: 519 only, 1994.
+
+8. Sakata, Y.; Owada, Y.; Sato, K.; Kojima, K.; Hisanaga, K.; Shinka,
+T.; Suzuki, Y.; Aoki, Y.; Satoh, J.; Kondo, H.; Matsubara, Y.; Kure,
+S.: Structure and expression of the glycine cleavage system in rat
+central nervous system. Molec. Brain Res. 94: 119-130, 2001.
+
+9. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Biochemical and molecular investigations of patients with
+nonketotic hyperglycemia. Molec. Genet. Metab. 70: 116-121, 2000.
+
+10. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Recurrent mutations in P- and T-proteins of the glycine cleavage
+complex and a novel T-protein mutation (N145I): a strategy for the
+molecular investigation of patients with nonketotic hyperglycinemia
+(NKH). Molec. Genet. Metab. 72: 322-325, 2001.
+
+11. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Identification of the first reported splice site mutation
+(IVS7-1G-A) in the aminomethyltransferase (T-protein) gene (AMT) of
+the glycine cleavage complex in 3 unrelated families with nonketotic
+hyperglycinemia. (Abstract) Hum. Mutat. 17: 76 only, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/20/2002
+Victor A. McKusick - updated: 8/10/2001
+Ada Hamosh - updated: 5/2/2001
+Clair A. Francomano - updated: 6/16/1998
+Clair A. Francomano - updated: 5/26/1998
+Beat Steinmann - updated: 1/17/1997
+
+CREATED Victor A. McKusick: 6/3/1986
+
+EDITED terry: 09/24/2012
+carol: 8/4/2010
+terry: 3/11/2002
+alopez: 2/25/2002
+terry: 2/20/2002
+mcapotos: 8/10/2001
+carol: 6/22/2001
+carol: 5/3/2001
+carol: 5/2/2001
+carol: 4/17/2000
+carol: 4/6/2000
+carol: 4/4/2000
+carol: 7/16/1998
+carol: 6/19/1998
+terry: 6/16/1998
+carol: 5/30/1998
+carol: 5/26/1998
+dholmes: 5/21/1998
+joanna: 1/17/1997
+mimadm: 2/19/1994
+carol: 2/7/1994
+carol: 8/17/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/21/1989
+
+605002	TITLE *605002 CORONIN 2B; CORO2B
+;;CORONIN-LIKE PROTEIN C; CLIPINC
+DESCRIPTION The Dictyostelium actin-binding protein coronin accumulates at the
+leading edges of motile cells and in crown-shaped extensions on the
+dorsal cell surface. Coronin is involved in cell motility, cytokinesis,
+and phagocytosis, all of which depend on cytoskeletal rearrangement; see
+CORO1A (605000).
+
+By screening a frontal cortex cDNA library with a brain-enriched clone
+showing similarity to Dictyostelium coronin, Nakamura et al. (1999)
+isolated a full-length cDNA encoding CORO2B, which they called CLIPINC.
+The predicted 475-amino acid CORO2B protein has an N-terminal domain
+containing 5 WD repeats and a succeeding domain with a tendency to form
+alpha helices. Northern blot analysis detected abundant expression of an
+approximately 4.0-kb CORO2B transcript in brain, with moderate
+expression in heart and ovary, and little or no expression in other
+tissues tested. In contrast, CORO1A is primarily expressed in immune
+system tissues, and CORO2A (602159) is predominantly expressed in colon,
+prostate, and testis. Immunohistochemical analysis revealed Coro2a
+expression in mouse cerebral cortex, hippocampus, thalamus, olfactory
+bulb, and cerebellum, as well as in the inner nuclear layer of embryonic
+retina and embryonic olfactory bulb. Cosedimentation analysis
+demonstrated that CORO2B associates with F-actin. Immunofluorescence
+analysis indicated that CORO2B accumulates at neurite tips, at focal
+adhesions in association with VCL (193065), and along stress fibers.
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the CORO2B
+gene, which they called KIAA0925, to chromosome 15.
+
+REFERENCE 1. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+2. Nakamura, T.; Takeuchi, K.; Muraoka, S.; Takezoe, H.; Takahashi,
+N.; Mori, N.: A neurally enriched coronin-like protein, ClipnC, is
+a novel candidate for an actin cytoskeleton-cortical membrane-linking
+protein. J. Biol. Chem. 274: 13322-13327, 1999.
+
+CREATED Paul J. Converse: 5/24/2000
+
+EDITED mgross: 05/24/2000
+
+107777	TITLE *107777 AQUAPORIN 2; AQP2
+;;AQUAPORIN-CD
+DESCRIPTION 
+DESCRIPTION
+
+The AQP2 gene encodes an aquaporin-2 water channel located in the renal
+collecting tubules. Aquaporin-CHIP (AQP1; 107776) is located in the
+proximal renal tubule (Fushimi et al., 1993).
+
+CLONING
+
+Fushimi et al. (1993) cloned the cDNA for the water channel of the
+apical membrane of the kidney collecting tubule in the rat. The gene
+shows 42% identity in amino acid sequence to AQP1. Expression in Xenopus
+oocytes markedly increased osmotic water permeability (Pf). The
+functional expression and the limited localization suggested that AQP2
+is the vasopressin-regulated water channel. Fushimi et al. (1993)
+referred to AQP2 as WCH-CD, for 'water channel-collecting duct.'
+
+Sasaki et al. (1993, 1994) cloned a cDNA for human AQP2 and found that
+it encodes a deduced protein with 91% amino acid identity to the rat
+protein. By screening kidney cDNA in cosmid libraries with a rat AQP2
+cDNA probe, Deen et al. (1994) isolated human AQP2. They found that the
+predicted amino acid sequence shares 89.7% identity with the rat
+protein.
+
+GENE FUNCTION
+
+Nielsen et al. (1995) showed that arginine vasopressin (AVP; 192340)
+increases cellular water permeability by inducing exocytosis of
+AQP2-laden vesicles, transferring water channels from intracellular
+vesicles to the apical plasma membrane.
+
+Using rat kidney slices and porcine kidney cells stably expressing rat
+Aqp2, Bouley et al. (2000) demonstrated that AQP2 trafficking can be
+stimulated by cAMP-independent pathways that utilize nitric oxide (NO).
+The NO donors sodium nitroprusside (SNP) and NONOate and the NO synthase
+(see 163731) substrate L-arginine mimicked the effect of vasopressin
+(VP), stimulating relocation of Aqp2 from cytoplasmic vesicles to the
+apical plasma membrane. SNP increased intracellular cGMP rather than
+cAMP, and exogenous cGMP stimulated AQP2 membrane insertion. Atrial
+natriuretic factor (108780), which signals via cGMP, also stimulated
+AQP2 translocation. Both the VP and SNP effects were blocked by a kinase
+inhibitor, and membrane insertion was blocked in cells expressing the
+phosphorylation-deficient mutant ser256 to ala, indicating that ser256
+is required for signaling.
+
+Kanno et al. (1995) reported that aquaporin-2 is detectable in the urine
+in both soluble and membrane-bound forms. In normal subjects, an
+infusion of desmopressin increased the urinary excretion of aquaporin-2.
+In 5 patients with central diabetes insipidus (CDI; 125700),
+administration of desmopressin increased urinary excretion of
+aquaporin-2; however, this response was not seen in 4 patients with
+X-linked (304800) or autosomal (125800) recessive nephrogenic diabetes
+insipidus. Saito et al. (1997) determined that measuring urinary
+excretion of AQP2 is of value in diagnosing central diabetes insipidus.
+In normal subjects under ad libitum water drinking, urinary AQP2 was
+positively correlated with plasma arginine vasopressin levels, but not
+with urinary osmolality. Saito et al. (1997) found that measurement of
+AQP2 was also helpful when using a hypertonic saline infusion to
+diagnose CDI. Saito et al. (1999) investigated whether urinary excretion
+of AQP2 under ad libitum water intake was of value in the
+differentiation between psychogenic polydipsia and CDI. A 30-minute
+urine collection was made at 0900 hours in 3 groups: 11 patients with
+CDI (22 to 68 years old), 10 patients with psychogenic polydipsia (28 to
+60 years old), and 15 normal subjects (21 to 38 years old). In the
+patients with CDI, the plasma arginine vasopressin level was low despite
+hyperosmolality, resulting in hypotonic urine. Urinary excretion of AQP2
+was 37 +/- 15 fmol/mg creatinine, a value one-fifth less than that in
+the normal subjects. In the patients with psychogenic polydipsia, plasma
+arginine vasopressin and urinary osmolality were as low as those in the
+patients with CDI. However, urinary excretion of AQP2 of 187 +/- 45
+fmol/mg creatinine was not decreased, and its excretion was equal to
+that in the normal subjects. The results indicated that urinary
+excretion of AQP2, under ad libitum water drinking, participates in the
+differentiation of psychogenic polydipsia from CDI.
+
+Ishikawa et al. (2001) undertook to determine whether urinary excretion
+of AQP2 participates in the involvement of arginine vasopressin in
+hyponatremia less than 130 mmol/L in 33 elderly subjects more than 64
+years of age during the last 5-year period. Plasma AVP levels remained
+relatively high despite hypoosmolality and were tightly linked with
+exaggerated urinary excretion of AQP2 and antidiuresis. Plasma AVP and
+urinary excretion of AQP2 were not reduced after an acute water load
+test. The inappropriate secretion of AVP was evident in the patients
+with the syndrome of inappropriate secretion of diuretic hormone (SIADH)
+and hypopituitarism, and hydrocortisone replacement normalized urinary
+excretion of AQP2 and renal water excretion in those with
+hypopituitarism. The authors concluded that urinary excretion of AQP2
+may be a more sensitive measure of AVP effect on renal collecting duct
+cells than are plasma AVP levels, and that increased urinary excretion
+of AQP2 shows exaggerated AVP-induced antidiuresis in hyponatremic
+subjects in the elderly. In addition, mineralocorticoid-responsive
+hyponatremia of the elderly has to be carefully differentiated from
+SIADH in elderly subjects.
+
+MAPPING
+
+By in situ hybridization, Sasaki et al. (1993, 1994) mapped the AQP2
+gene to chromosome 12q13, very close to the site of major intrinsic
+protein (MIP; 154050). The investigators suggested that a defect in the
+AQP2 gene is the basis of the autosomal form of nephrogenic diabetes
+insipidus (NDI; 125800).
+
+Deen et al. (1994) used fluorescence in situ hybridization to map the
+AQP2 gene to chromosome 12.
+
+MOLECULAR GENETICS
+
+In a male patient with autosomal recessive nephrogenic diabetes
+insipidus (125800), Deen et al. (1994) identified compound
+heterozygosity for 2 mutations in the AQP2 gene (R187C; 107777.0001 and
+S216P; 107777.0002). Functional expression studies in Xenopus oocytes
+revealed that each mutation resulted in nonfunctional water channel
+proteins. Deen et al. (1995) found that expression of 3 mutant AQP2
+proteins, R187C, S216P, and G64R (107777.0004), in Xenopus oocytes
+resulted in nonfunctional water channels. The transcripts encoding the
+missense AQPs were translated as efficiently as wildtype transcript and
+were equally stable. Immunocytochemistry demonstrated that the mutant
+AQP2 did not label in the plasma membrane. The authors proposed that the
+inability of the AQP2 proteins to facilitate water transport was caused
+by an impaired routing to the plasma membrane.
+
+Missense mutations and a single-nucleotide deletion in the AQP2 gene
+were found by van Lieburg et al. (1994) in 3 NDI patients from
+consanguineous families (107777.0001; 107777.0004-107777.0005).
+Expression studies in Xenopus oocytes showed that the mutated AQP2
+proteins were nonfunctional. Mulders et al. (1997) reported 3 additional
+NDI patients who were homozygous for mutations in the AQP2 gene.
+Functional expression studies showed that 2 of the mutations
+(107777.0006 and 107777.0007) resulted in functional proteins that were
+apparently retained in the endoplasmic reticulum and impaired in their
+routing to the plasma membrane.
+
+In a study of a Dutch family with autosomal dominant NDI, Mulders et al.
+(1998) identified a mutation (107777.0009) in the AQP2 gene that
+exhibited a dominant-negative effect.
+
+In affected members of 3 unrelated families with autosomal dominant NDI,
+Kuwahara et al. (2001) identified 3 different deletion mutations in exon
+4 of the AQP2 gene (see, e.g., 107777.0014), all of which resulted in an
+elongated protein with a C-terminal tail of 61 amino acids. The
+predicted wildtype AQP2 protein contains 271 amino acids, whereas the
+predicted mutant proteins contained 330 to 333 amino acids because of
+the frameshift. In Xenopus oocytes injected with mutant AQP2 cRNAs, the
+osmotic water permeability was much smaller than that of oocytes with
+the AQP2 wildtype (14 to 17%). The results suggested that the
+trafficking of mutant AQP2 was impaired due to elongation of the
+C-terminal tail. The dominant-negative effect was attributed to
+oligomerization of the wildtype and mutant AQP2s. Marr et al. (2002)
+reported similar findings (see 107777.0015).
+
+Carroll et al. (2006) identified the molecular basis of NDI in Arab
+families. The authors identified 2 novel missense mutations in AQP2.
+
+ANIMAL MODEL
+
+Yang et al. (2001) generated a mouse knockin model of NDI generated by
+targeted gene replacement with the thr126-to-met mutation (T126M;
+107777.0007) along with mutations to preserve the consensus sequence for
+N-linked glycosylation found in human AQP2. The mutant mice died within
+6 days after birth unless given supplemental fluid. Urine/serum analysis
+showed a urinary concentrating defect with serum hyperosmolality and low
+urine osmolality that could not be corrected by a V2 vasopressin
+agonist. Northern blot analysis revealed upregulated Aqp2-T126M
+transcripts identical in size to wildtype Aqp2. Immunoblot analysis
+indicated complex glycosylation of wildtype Aqp2 but endoglycosidase
+H-sensitive core glycosylation of the mutant, suggesting ER retention.
+Immunohistologic and histologic analyses revealed kidney collecting duct
+dilatation, papillary atrophy, and some plasma membrane Aqp2 expression.
+Yang et al. (2001) concluded that the Aqp2-T126M mutant creates a more
+severe phenotype than those observed in mice lacking water channels
+Aqp1, Aqp3 (600170), or Aqp4 (600308), and establishes a mouse model of
+human autosomal NDI.
+
+Rojek et al. (2006) found that Aqp2-null mice appeared normal at birth
+but failed to thrive and died within 2 weeks of age. Kidneys from
+Aqp2-null pups showed papillary atrophy and signs of hydronephrosis.
+Mice with Aqp2 knockout targeted to the renal collecting ducts survived
+to adulthood, but they showed decreased body weight, 10-fold increased
+urine production, and decreased urinary osmolality and were unable to
+adapt to water deprivation. Rojek et al. (2006) concluded that AQP2
+expression in kidney connecting tubules is sufficient for survival and
+that AQP2 expression in collecting ducts is required to regulate body
+water balance.
+
+Congenital progressive hydronephrosis (cph) is a spontaneous recessive
+mutation that causes severe hydronephrosis and obstructive nephropathy
+in mice. McDill et al. (2006) found that homozygous cph mice were born
+at mendelian ratios and appeared grossly normal at birth, but they grew
+slowly and showed significant size and weight differences from postnatal
+day 8 onward. About 90% of cph mice died between 2 and 4 weeks of age.
+By 2 weeks, most had visibly enlarged abdomens and appeared lethargic.
+McDill et al. (2006) identified a ser256-to-leu (S256L) mutation in the
+Aqp2 gene as the cause of cph. The S256L substitution in the cytoplasmic
+tail of the Aqp2 protein prevented phosphorylation at S256 and the
+subsequent accumulation of Aqp2 on the apical membrane of the collecting
+duct principal cells. The interference with normal trafficking of Aqp2
+by the S256L mutation resulted in a severe urine concentration defect.
+The NDI symptoms and the absence of developmental defects in the
+pyeloureteral peristaltic machinery before the onset of hydronephrosis
+suggested that the congenital obstructive nephropathy was likely the
+result of the polyuria.
+
+ALLELIC VARIANT .0001
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, ARG187CYS
+
+In a male patient with nephrogenic diabetes insipidus (125800), Deen et
+al. (1994) identified compound heterozygosity for 2 mutations in the
+AQP2 gene: a 559C-T transition in exon 3, resulting in an arg187-to-cys
+(R187C) substitution, and a 646T-C transition in exon 4, resulting in a
+ser216-to-pro (S216P; 107777.0002) substitution. The former mutation was
+inherited from the father and the latter from the mother. Functional
+expression studies in Xenopus oocytes showed that both mutations
+resulted in a nonfunctional protein.
+
+Van Lieburg et al. (1994) identified homozygosity for the R187C mutation
+in a Dutch patient with NDI. He was born of consanguineous parents; 3
+other children in the family had died of severe dehydration and
+hypernatremia.
+
+.0002
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, SER216PRO
+
+See 107777.0001 and Deen et al. (1994).
+
+.0003
+REMOVED FROM DATABASE
+.0004
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, GLY64ARG
+
+In an Italian patient with nephrogenic diabetes insipidus (125800) whose
+parents were consanguineous, van Lieburg et al. (1994) identified a
+homozygous 190G-A transition in exon 1 of the AQP2 gene, resulting in a
+gly64-to-arg (G64R) substitution.
+
+.0005
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, 1-BP DEL, 369C
+
+In a Palestinian patient with nephrogenic diabetes insipidus (125800)
+whose parents were consanguineous, van Lieburg et al. (1994) identified
+homozygosity for a 1-bp deletion (369delC) in the AQP2 gene, resulting
+in a frameshift and premature termination after amino acid 131.
+
+.0006
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, ALA147THR
+
+In affected members of a consanguineous Austrian family with NDI
+(125800), Mulders et al. (1997) identified a 533G-A transition in exon 2
+of the AQP2 gene, resulting in an ala147-to-thr (A147T) substitution.
+The mutant AQP2 protein was functional when expressed in Xenopus
+oocytes, but was apparently impaired in its routing to the plasma
+membrane.
+
+.0007
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, THR126MET
+
+In affected members of a consanguineous family from Sri Lanka with NDI
+(125800), Mulders et al. (1997) identified a 471C-T transition in exon 2
+of the AQP2 gene, resulting in a thr126-to-met (T126M) substitution. The
+mutant AQP2 protein was functional when expressed in Xenopus oocytes,
+but was apparently impaired in its routing to the plasma membrane.
+
+.0008
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, ASN68SER
+
+In affected members of a consanguineous Turkish family with nephrogenic
+diabetes insipidus, (125800), Mulders et al. (1997) identified a 297A-G
+transition in exon 1 of the AQP2 gene, resulting in an asn68-to-ser
+(N68S) substitution. When expressed in oocytes, this mutant AQP2 was not
+functional because the substituted amino acid is part of the NPA box in
+loop B, which forms, together with a second NPA box in loop E, the most
+conserved amino acid sequence of the MIP-family.
+
+.0009
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL DOMINANT
+AQP2, GLU258LYS
+
+Mulders et al. (1998) reported the first family in which nephrogenic
+diabetes insipidus segregated as an autosomal dominant trait (125800).
+An affected mother and daughter had a glu258-to-lys (E258K) mutation in
+the AQP2 gene. Functional expression studies showed that the mutant
+protein conferred only a small increase in water permeability, as a
+result of reduced expression at the plasma membrane. Coexpression of
+wildtype AQP2 with the E258K mutant revealed a dominant-negative effect
+on the water permeability conferred by wildtype AQP2. This effect was
+not seen when the wildtype protein was coexpressed with the AQP2 R187C
+mutant (107777.0001) in recessive NDI. The physiologically important
+phosphorylation of ser256 by protein kinase A was not affected by the
+E258K mutation. Immunoblot and microscopic analyses revealed that the
+E258K mutant was retained in the Golgi compartment. Since AQPs are
+thought to tetramerize, the retention of AQP2-E258K together with
+wildtype AQP2 in mixed tetramers in the Golgi compartment was a likely
+explanation for the dominant inheritance of NDI.
+
+.0010
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, THR125MET
+
+In Japanese female sibs with autosomal recessive nephrogenic diabetes
+insipidus (125800), Goji et al. (1998) identified compound
+heterozygosity for 2 mutations in the AQP2 gene: a 374C-T transition in
+exon 2, resulting in a thr125-to-met (T125M) substitution, and a 523G-A
+transition, resulting in a gly175-to-arg (G175R; 107777.0011)
+substitution. The water permeability of oocytes injected with wildtype
+complementary RNA increased 9.0-fold compared with the Pf of
+water-injected oocytes, whereas the increases in the Pf of oocytes
+injected with T125M and G175R RNA were only 1.7-fold and 1.5-fold,
+respectively. Immunoblot and immunocytochemistry indicated that the
+plasma membrane expressions of T125M and G175R AQP2 proteins were
+comparable to that of the wildtype, suggesting that although neither the
+T125M nor G175R mutation had a significant effect on plasma membrane
+expression, they distorted both the structure and function of the
+aqueous pore of AQP2. These results provided evidence that the NDI in
+patients with T125M and G175R mutations is attributable not to the
+misrouting of AQP2, but to the disrupted water channel function.
+
+.0011
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, GLY175ARG
+
+See 107777.0010 and Goji et al. (1998).
+
+.0012
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, LEU22VAL
+
+In a female patient with nephrogenic diabetes insipidus (125800),
+Canfield et al. (1997) identified compound heterozygosity for 2
+mutations in the AQP2 gene: a leu22-to-val (L22V) substitution in exon
+1, and a cys181-to-trp (C181W; 107777.0013) substitution in exon 3. The
+patient had symptoms dating from infancy, and responded to large doses
+of desmopressin which decreased urine volume from 10 to 4 liters per
+day. Neither the parents nor the 3 sisters were polyuric. Residue cys181
+in AQP2 is the site for inhibition of water permeation by mercurial
+compounds and is located near the NPA motif conserved in all aquaporins.
+Osmotic water permeability in Xenopus oocytes injected with cRNA
+encoding the mutant C181W AQP2 protein was not increased over water
+control, while expression of L22V cRNA increased the osmotic water
+permeability to approximately 60% of that for wildtype AQP2. Coinjection
+of the mutant cRNAs with the wildtype cRNA did not affect the function
+of the wildtype AQP2. Immunolocalization of AQP2-transfected CHO cells
+showed that the C181W mutant had an endoplasmic reticulum-like
+intracellular distribution, whereas L22V and wildtype AQP2 showed
+endosome and plasma membrane staining. Canfield et al. (1997) concluded
+that AQP2 mutations can confer partially responsive nephrogenic diabetes
+insipidus.
+
+.0013
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, CYS181TRP
+
+See 107777.0012 and Canfield et al. (1997).
+
+.0014
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL DOMINANT
+AQP2, 1-BP DEL, 721G
+
+Kuwahara et al. (2001) identified a 1-bp deletion (721delG) in the AQP2
+gene as a cause of autosomal dominant nephrogenic diabetes insipidus
+(125800). The mutation resulted in a frameshift and an elongated protein
+with a C-terminal tail of 61 additional amino acids. Elongation of the
+C-terminal tail resulted in impaired trafficking of the mutant AQP2, and
+a dominant-negative effect was observed.
+
+.0015
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL DOMINANT
+AQP2, 1-BP DEL, 727G
+
+In a 3-generation family with autosomal dominant inheritance of NDI
+(125800), Marr et al. (2002) identified a 1-bp deletion (727delG) in the
+AQP2 gene. The predicted mutant protein had an altered and extended
+C-terminal tail. When expressed in renal epithelial cells, the mutant
+protein predominantly localized to the basolateral membrane and late
+endosomes/lysosomes, whereas wildtype AQP2 was expressed in the apical
+membrane. When coexpressed, wildtype AQP2 and AQP2-727G formed
+heterooligomers that mainly colocalized to late endosomes/lysosomes. The
+cells showed reduced water permeability due to reduced plasma membrane
+expression of wildtype AQP2. On the basis of their own data and the data
+of Kuwahara et al. (2001) (see 107777.0014), Marr et al. (2002)
+hypothesized that misrouting, rather than lack of function, may be a
+general mechanism for the 'loss of function' phenotype in dominant NDI.
+
+.0016
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, GLN57PRO
+
+In affected members from 2 Chinese families with NDI (125800), Lin et
+al. (2002) identified compound heterozygosity for 2 mutations in exon 1
+of the AQP2 gene: a 170A-C transversion, resulting in a gln57-to-pro
+(Q57P) substitution, and a 299G-T transversion, resulting in a
+gly100-to-val (G100V; 107777.0017) substitution. Expression of the Q57P
+and G100V AQP2 proteins showed an only 1.3-fold and 1.2-fold increase,
+respectively, in the water permeability in contrast to an 8.0-fold
+increase in oocytes injected with wildtype cRNA. The results provided
+evidence that the Q57P and G100V mutations in congenital nephrogenic
+diabetes insipidus are attributable to the misrouting of AQP2. The
+patients showed normal hypotensive and coagulation responses following
+the administration of desamino-8-D-arginine AVP, a clinical suggestion
+of normal vasopressin-2 receptors (V2R; 300538).
+
+.0017
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, GLY100VAL
+
+See 107777.0016 and Lin et al. (2002).
+
+.0018
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, PRO262LEU
+
+De Mattia et al. (2004) described 2 families with autosomal recessive
+NDI (125800) in which affected individuals were compound heterozygotes
+for a 785C-T transition in the AQP2 gene, resulting in a pro262-to-leu
+(P262L) substitution in the C-terminal tail, and either a 568G-A
+transition in the AQP2 gene, resulting in an ala190-to-thr (A190T;
+107777.0019) substitution, or an R187C (107777.0001) substitution,
+respectively. Upon expression in oocytes, P262L AQP2 protein properly
+folded and was functional in contrast to the R187C and A190T proteins.
+In polarized epithelial cells, P262L protein was retained in
+intracellular vesicles and did not localize to the ER. Upon coexpression
+with wildtype AQP2, P262L protein interacted with wildtype AQP2, and the
+resulting heterotetramer properly localized to the apical membrane. De
+Mattia et al. (2004) concluded that P262L would act as a mutant in
+autosomal dominant NDI, except that its missorting is overruled by
+apical sorting of wildtype AQP2.
+
+.0019
+DIABETES INSIPIDUS, NEPHROGENIC, AUTOSOMAL RECESSIVE
+AQP2, ALA190THR
+
+See 107777.0018 and De Mattia et al. (2004).
+
+REFERENCE 1. Bouley, R.; Breton, S.; Sun, T.; McLaughlin, M.; Nsumu, N. N.;
+Lin, H. Y.; Ausiello, D. A.; Brown, D.: Nitric oxide and atrial natriuretic
+factor stimulate cGMP-dependent membrane insertion of aquaporin 2
+in renal epithelial cells. J. Clin. Invest. 106: 1115-1126, 2000.
+
+2. Canfield, M. C.; Tamarappoo, B. K.; Moses, A. M.; Verkman, A. S.;
+Holtzman, E. J.: Identification and characterization of aquaporin-2
+water channel mutations causing nephrogenic diabetes insipidus with
+partial vasopressin response. Hum. Molec. Genet. 6: 1865-1871, 1997.
+
+3. Carroll, P.; Al-Mojalli, H.; Al-Abbad, A.; Al-Hassoun, I.; Al-Hamed,
+M.; Al-Amr, R.; Butt, A. I.; Meyer, B. F.: Novel mutations underlying
+nephrogenic diabetes insipidus in Arab families. Genet. Med. 8:
+443-447, 2006.
+
+4. Deen, P. M. T.; Croes, H.; van Aubel, R. A. M. H.; Ginsel, L. A.;
+van Os, C. H.: Water channels encoded by mutant aquaporin-2 genes
+in nephrogenic diabetes insipidus are impaired in their cellular routing. J.
+Clin. Invest. 95: 2291-2296, 1995.
+
+5. Deen, P. M. T.; Verdijk, M. A. J.; Knoers, N. V. A. M.; Wieringa,
+B.; Monnens, L. A. H.; van Os, C. H.; van Oost, B. A.: Requirement
+of human renal water channel aquaporin-2 for vasopressin-dependent
+concentration of urine. Science 264: 92-94, 1994.
+
+6. Deen, P. M. T.; Weghuis, D. O.; Sinke, R. J.; Geurts van Kessel,
+A.; Wieringa, B.; van Os, C. H.: Assignment of the human gene for
+the water channel of renal collecting duct aquaporin 2 (AQP2) to chromosome
+12 region q12-q13. Cytogenet. Cell Genet. 66: 260-262, 1994.
+
+7. de Mattia, F.; Savelkoul, P. J. M.; Bichet, D. G.; Kamsteeg, E.-J.;
+Konings, I. B. M.; Marr, N.; Arthus, M.-F.; Lonergan, M.; van Os,
+C. H.; van der Sluijs, P.; Robertson, G.; Deen, P. M. T.: A novel
+mechanism in recessive nephrogenic diabetes insipidus: wild-type aquaporin-2
+rescues the apical membrane expression of intracellularly retained
+AQP2-P262L. Hum. Molec. Genet. 13: 3045-3056, 2004.
+
+8. Fushimi, K.; Uchida, S.; Hara, Y.; Hirata, Y.; Marumo, F.; Sasaki,
+S.: Cloning and expression of apical membrane water channel of rat
+kidney collecting tubule. Nature 361: 549-552, 1993.
+
+9. Goji, K.; Kuwahara, M.; Gu, Y.; Matsuo, M.; Marumo, F.; Sasaki,
+S.: Novel mutations in aquaporin-2 gene in female siblings with nephrogenic
+diabetes insipidus: evidence of disrupted water channel function. J.
+Clin. Endocr. Metab. 83: 3205-3209, 1998.
+
+10. Ishikawa, S.; Saito, T.; Fukagawa, A.; Higashiyama, M.; Nakamura,
+T.; Kusaka, I.; Nagasaka, S.; Honda, K.; Saito, T.: Close association
+of urinary excretion of aquaporin-2 with appropriate and inappropriate
+arginine vasopressin-dependent antidiuresis in hyponatremia in elderly
+subjects. J. Clin. Endocr. Metab. 86: 1665-1671, 2001.
+
+11. Kanno, K.; Sasaki, S.; Hirata, Y.; Ishikawa, S.; Fushimi, K.;
+Nakanishi, S.; Bichet, D. G.; Marumo, F.: Urinary excretion of aquaporin-2
+in patients with diabetes insipidus. New Eng. J. Med. 332: 1540-1545,
+1995.
+
+12. Kuwahara, M.; Iwai, K.; Ooeda, T.; Igarashi, T.; Ogawa, E.; Katsushima,
+Y.; Shinbo, I.; Uchida, S.; Terada, Y.; Arthus, M.-F.; Lonergan, M.;
+Fujiwara, T. M.; Bichet, D. G.; Marumo, F.; Sasaki, S.: Three families
+with autosomal dominant nephrogenic diabetes insipidus caused by aquaporin-2
+mutations in the C-terminus. Am. J. Hum. Genet. 69: 738-748, 2001.
+
+13. Lin, S.-H.; Bichet, D.G.; Sasaki, S.; Kuwahara, M.; Arthus, M.-F.;
+Lonergan, M.; Lin, Y.-F.: Two novel aquaporin-2 mutations responsible
+for congenital nephrogenic diabetes insipidus in Chinese families. J.
+Clin. Endocr. Metab. 87: 2694-2700, 2002.
+
+14. Marr, N.; Bichet, D. G.; Lonergan, M.; Arthus, M.-F.; Jeck, N.;
+Seyberth, H. W.; Rosenthal, W.; van Os, C. H.; Oksche, A.; Deen, P.
+M. T.: Heteroligomerization of an Aquaporin-2 mutant with wild-type
+Aquaporin-2 and their misrouting to late endosomes/lysosomes explains
+dominant nephrogenic diabetes insipidus. Hum. Molec. Genet. 11:
+779-789, 2002.
+
+15. McDill, B. W.; Li, S.-Z.; Kovach, P. A.; Ding, L.; Chen, F.:
+Congenital progressive hydronephrosis (cph) is caused by an S256L
+mutation in aquaporin-2 that affects its phosphorylation and apical
+membrane accumulation. Proc. Nat. Acad. Sci. 103: 6952-6957, 2006.
+
+16. Mulders, S. M.; Bichet, D. G.; Rijss, J. P. L.; Kamsteeg, E.-J.;
+Arthus, M.-F.; Lonergan, M.; Fujiwara, M.; Morgan, K.; Leijendekker,
+R.; van der Sluijs, P.; van Os, C. H.; Deen, P. M. T.: An aquaporin-2
+water channel mutant which causes autosomal dominant nephrogenic diabetes
+insipidus is retained in the Golgi complex. J. Clin. Invest. 102:
+57-66, 1998.
+
+17. Mulders, S. M.; Knoers, N. V. A. M.; van Lieburg, A. F.; Monnens,
+L. A. H.; Leumann, E.; Wuhl, E.; Schober, E.; Rijss, J. P. L.; van
+Os, C. H.; Deen, P. M. T.: New mutations in the AQP2 gene in nephrogenic
+diabetes insipidus resulting in functional but misrouted water channels. J.
+Am. Soc. Nephrol. 8: 242-248, 1997.
+
+18. Nielsen, S.; Chou, C.-L.; Marples, D.; Christensen, E. I.; Kishore,
+B. K.; Knepper, M. A.: Vasopressin increases water permeability of
+kidney collecting duct by inducing translocation of aquaporin-CD water
+channels to plasma membrane. Proc. Nat. Acad. Sci. 92: 1013-1017,
+1995.
+
+19. Rojek, A.; Fuchtbauer, E.-M.; Kwon, T.-H.; Frokiaer, J.; Nielsen,
+S.: Severe urinary concentrating defect in renal collecting duct-selective
+AQP2 conditional-knockout mice. Proc. Nat. Acad. Sci. 103: 6037-6042,
+2006.
+
+20. Saito, T.; Ishikawa, S.-E.; Ito, T.; Oda, H.; Ando, F.; Higashiyama,
+M.; Nagasaka, S.; Hieda, M.; Saito, T.: Urinary excretion of aquaporin-2
+water channel differentiates psychogenic polydipsia from central diabetes
+insipidus. J. Clin. Endocr. Metab. 84: 2235-2237, 1999.
+
+21. Saito, T.; Ishikawa, S.-E.; Sasaki, S.; Nakamura, T.; Rokkaku,
+K.; Kawakami, A.; Honda, K.; Marumo, F.; Saito, T.: Urinary excretion
+of aquaporin-2 in the diagnosis of central diabetes insipidus. J.
+Clin. Endocr. Metab. 82: 1823-1827, 1997.
+
+22. Sasaki, S.; Fushimi, K.; Saito, H.; Saito, F.; Uchida, S.; Ishibashi,
+K.; Kuwahara, M.; Ikeuchi, T.; Inui, K.; Nakajima, K.; Watanabe, T.
+X.; Marumo, F.: Cloning, characterization, and chromosomal mapping
+of human aquaporin of collecting duct. J. Clin. Invest. 93: 1250-1256,
+1994. Note: Erratum: J. Clin. Invest. 94: following 216, 1994.
+
+23. Sasaki, S.; Saito, H.; Saito, F.; Fushimi, K.; Uchida, S.; Rai,
+Y.; Ikeuchi, T.; Inui, K.; Marumo, F.: Cloning, expression and chromosomal
+mapping of human collecting duct water channel (hWCH-CD). (Abstract) J.
+Am. Soc. Nephrol. 4: 858 only, 1993.
+
+24. van Lieburg, A. F.; Verdijk, M. A. J.; Knoers, V. V. A. M.; van
+Essen, A. J.; Proesmans, W.; Mallmann, R.; Monnens, L. A. H.; van
+Oost, B. A.; van Os, C. H.; Deen, P. M. T.: Patients with autosomal
+nephrogenic diabetes insipidus homozygous for mutations in the aquaporin
+2 water-channel gene. Am. J. Hum. Genet. 55: 648-652, 1994.
+
+25. Yang, B.; Gillespie, A.; Carlson, E. J.; Epstein, C. J.; Verkman,
+A. S.: Neonatal mortality in an aquaporin-2 knock-in mouse model
+of recessive nephrogenic diabetes insipidus. J. Biol. Chem. 276:
+2775-2779, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/25/2007
+George E. Tiller - updated: 5/21/2007
+Patricia A. Hartz - updated: 6/14/2006
+Patricia A. Hartz - updated: 6/2/2006
+Cassandra L. Kniffin - reorganized: 8/5/2005
+Patricia A. Hartz - updated: 6/13/2003
+John A. Phillips, III - updated: 1/9/2003
+George E. Tiller - updated: 10/28/2002
+Victor A. McKusick - updated: 10/17/2001
+John A. Phillips, III - updated: 9/20/2001
+Paul J. Converse - updated: 4/9/2001
+Ada Hamosh - updated: 3/14/2000
+John A. Phillips, III - updated: 3/7/2000
+John A. Phillips, III - updated: 3/2/1999
+Victor A. McKusick - updated: 9/3/1998
+John A. Phillips, III - updated: 8/5/1997
+Beat Steinmann - updated: 4/28/1997
+
+CREATED Victor A. McKusick: 11/5/1993
+
+EDITED carol: 09/18/2013
+carol: 9/18/2013
+terry: 11/27/2012
+alopez: 8/2/2007
+terry: 7/25/2007
+wwang: 6/1/2007
+terry: 5/21/2007
+mgross: 6/15/2006
+terry: 6/14/2006
+mgross: 6/6/2006
+terry: 6/2/2006
+carol: 8/24/2005
+carol: 8/5/2005
+ckniffin: 5/23/2005
+mgross: 6/13/2003
+alopez: 1/9/2003
+cwells: 10/28/2002
+carol: 11/5/2001
+mcapotos: 10/25/2001
+mcapotos: 10/24/2001
+terry: 10/17/2001
+cwells: 9/28/2001
+cwells: 9/20/2001
+mgross: 4/9/2001
+alopez: 3/20/2000
+alopez: 3/15/2000
+terry: 3/14/2000
+mgross: 3/7/2000
+mgross: 3/11/1999
+mgross: 3/2/1999
+alopez: 9/14/1998
+carol: 9/3/1998
+dkim: 6/30/1998
+mark: 9/1/1997
+jenny: 8/5/1997
+jenny: 7/9/1997
+joanna: 4/28/1997
+terry: 10/25/1995
+mark: 8/21/1995
+carol: 3/3/1995
+jason: 6/28/1994
+carol: 11/5/1993
+
+107269	TITLE *107269 CD44 ANTIGEN; CD44
+;;HERMES ANTIGEN;;
+Pgp1;;
+MDU3;;
+INLU-RELATED p80 GLYCOPROTEIN
+DESCRIPTION 
+DESCRIPTION
+
+CD44 is an integral cell membrane glycoprotein with a postulated role in
+matrix adhesion lymphocyte activation and lymph node homing (Aruffo et
+al., 1990).
+
+CLONING
+
+Telen et al. (1983) used a murine monoclonal antibody (A3D8) to identify
+an erythrocyte antigen inhibited by the In(Lu) gene. Telen et al. (1984)
+showed that the A3D8 antigenic property resides on an 80-kD red cell
+membrane protein which is present in only trace amounts in In(Lu)
+Lu(a-b-) red cells (INLU; 111150). Haynes (1986) had evidence that the
+A1G3 and A3D8 monoclonal antibodies bind to different epitopes on the
+same 80-kD molecule. The monoclonal antibody A3D8 recognized an antigen
+officially called MDU3, for 'monoclonal Duke University, 3,' or CD44.
+Telen (1992) knew of no evidence that the INLU and CD44 (MDU3) genes are
+the same.
+
+By screening cDNA libraries prepared from hemopoietic cell lines,
+Stamenkovic et al. (1989) isolated CD44 clones. Immunoprecipitation of
+CD44 from transfected COS cells and cultured cell lines detected
+cell-specific expression of an 80- to 90-kD protein and a 160-kD
+protein. Several minor forms of 52 to 200 kD were variably present in
+different cell types. RNA blot analysis revealed transcripts of 1.6,
+2.2, and 5.0 kb in hemopoietic cell lines. RNA blot analysis of
+carcinoma cell lines revealed 3 patterns of expression: the first,
+exemplified by melanoma cell lines, was identical to the hemopoietic
+cell pattern associated with the 80- to 90-kD isoform; the second,
+exemplified by a colon carcinoma cell line, showed transcripts of 2.0,
+2.6, and 5.6 kb associated with the 160-kD isoform; and the third,
+exemplified by another colon carcinoma cell line, was a composite of the
+first 2 patterns. All primary carcinoma specimens examined showed
+prevalent CD44 transcripts of either hemopoietic or composite type. The
+CD44 cDNA encodes a 361-amino acid protein with a 20-residue secretory
+signal peptide, a 248-residue extracellular N-terminal domain with
+multiple N- and O-linked glycosylation sites, a 21-amino acid
+transmembrane domain, and a 72-residue hydrophilic cytoplasmic domain.
+The mature protein has a calculated molecular mass of 37 kD. Sequence
+analysis suggested homology with chicken and rat cartilage link proteins
+(HAPLN1; 115435).
+
+Stefanova et al. (1989) demonstrated that the lymphocyte homing receptor
+is identical to the human leukocyte surface glycoprotein called CDw44,
+on the basis of studies at the Third International Workshop on Human
+Leukocyte Differentiation Antigens. It also appears to be identical to
+the Pgp-1 glycoprotein of Omary et al. (1988).
+
+GENE FAMILY
+
+A table of all the CD antigens was provided by Schlossman et al. (1994)
+with a list of the common names, the size in kilodaltons, and the nature
+of the protein (adhesion, myeloid, platelet, and B cell, T cell, etc.).
+
+GENE STRUCTURE
+
+Screaton et al. (1992) found that the CD44 gene contains 19 exons
+spanning 50 kb of genomic DNA. They identified 10 alternatively spliced
+exons within the extracellular domain, including 1 exon that had not
+previously been reported. In addition to the inclusion or exclusion of
+whole exons, additional diversity was generated through the utilization
+of internal splice donor and acceptor sites within 2 of the exons. A
+variation in the cytoplasmic domain was shown to result from the
+alternative splicing of 2 exons. Thus the genomic structure of CD44 is
+remarkably complex, and alternative splicing is the basis of its
+structural and functional diversity.
+
+Nedvetzki et al. (2003) noted that human CD44 isoforms are generated
+from 9 variant exons (v2 to v10) inserted in different combinations
+between 2 constant regions consisting of 5 exons at the N terminus and 4
+exons at the C terminus (constant exon 19 is noncoding). Direct splicing
+of constant exon 5 to constant exon 16, thereby skipping the variant
+exons, generates the standard CD44 isoform.
+
+GENE FUNCTION
+
+Aruffo et al. (1990) demonstrated that CD44 is the main cell surface
+receptor for hyaluronate. Mature lymphocytes in the circulation migrate
+selectively from the bloodstream to different lymphatic tissues through
+specialized high endothelial venules (HEV). Molecules on the surface of
+lymphocytes called homing receptors interact specifically with HEV and
+play a central role in the migration.
+
+Splice variants of the glycoprotein CD44 may be associated with
+metastases and therefore may be useful in the early detection of
+metastatic potential in surgical biopsy specimens, as well as in the
+early diagnosis of cancer in screening programs, assessment of remaining
+disease, and early detection of recurrence (Matsumura and Tarin, 1992).
+Mayer et al. (1993) found that expression of CD44, which is not found in
+normal gastric mucosa and is found in only 49% of primary tumors, was
+associated with distant metastases at time of diagnosis and with tumor
+recurrence and increased mortality from gastric cancer.
+
+Weber et al. (1996) noted that the CD44 gene encodes a transmembrane
+protein that is expressed as a family of molecular isoforms generated
+from alternative RNA splicing and posttranslational modifications.
+Certain CD44 isoforms that regulate activation and migration of
+lymphocytes and macrophages may also enhance local growth and metastatic
+spread of tumor cells. One ligand of CD44 is hyaluronic acid, binding of
+which to the NH2-terminal domain of CD44 enhances cellular aggregation
+and tumor cell growth. (Krainer et al. (1991) referred to CD44 as a
+'hyaladherin' -- see 601269.) Weber et al. (1996) demonstrated that
+another ligand is osteopontin (166490). Osteopontin induces cellular
+chemotaxis but not homotypic aggregation of cells, whereas the inverse
+is true for the interaction between CD44 and hyaluronate. The
+alternative responses to CD44 ligation may be exploited by tumor cells
+to allow OPN-mediated metastatic spread and hyaluronate-dependent growth
+in newly colonized tissues in the process of tumor metastasis.
+
+Sherman et al. (1998) investigated the role of CD44 proteins in early
+limb development. Members of this family of transmembrane glycoproteins
+are expressed by cells of the limb bud, including those of the apical
+ectodermal ridge (AER). Distinct CD44 variants are generated from a
+single gene by alternative RNA splicing of up to 10 variant exons and by
+extensive posttranslational modifications. The amino acid sequences
+encoded by these variant exons are located in the extracellular portion
+of the protein near the transmembrane domain. A standard form of CD44
+lacking these variant sequences is expressed by numerous cell types and
+is the smallest CD44 protein. It carries no variant exon sequences.
+Splice variants are expressed in only a limited number of tissues and in
+certain tumors. Signals from the AER of the developing vertebrate limb,
+including fibroblast growth factor-8 (600483), can maintain limb
+mesenchymal cells in proliferative state. Sherman et al. (1998) reported
+that a specific CD44 splice variant is crucial for the proliferation of
+these mesenchymal cells. Epitopes carried by this variant colocalize
+temporally and spatially with FGF8 in the AER throughout early limb
+development. A splice variant containing the same sequence expressed on
+model cells binds both FGF4 (164980) and FGF8 and stimulates mesenchymal
+cells in vitro. Sherman et al. (1998) found that when applied to the
+AER, an antibody against a specific CD44 epitope blocked FGF
+presentation and inhibited limb outgrowth. Therefore, CD44 is necessary
+for limb development and functions in a novel growth factor presentation
+mechanism likely relevant to other physiologic and pathologic situations
+in which a cell surface protein presents a signaling molecule to a
+neighboring cell.
+
+Cywes and Wessels (2001) demonstrated that CD44-dependent group A
+Streptococcus binding to polarized monolayers of human keratinocytes
+induced marked cytoskeletal rearrangements manifested by membrane
+ruffling and disruption of intercellular junctions. Transduction of the
+signal induced by group A Streptococcus binding to CD44 on the
+keratinocyte surface involved Rac1 (602048) and the cytoskeleton linker
+protein ezrin (123900), as well as tyrosine phosphorylation of cellular
+proteins. Studies of bacterial translocation in 2 models of human skin
+indicated that cell signaling triggered by interaction of the group A
+Streptococcus capsule with CD44 opened intercellular junctions and
+promoted tissue penetration by group A Streptococcus through a
+paracellular route. Cywes and Wessels (2001) concluded that their
+results support a model of host cytoskeleton manipulation and tissue
+invasion by an extracellular bacterial pathogen.
+
+Nedvetzki et al. (2003) identified a CD44 variant, designated CD44vRA,
+in synovial fluid aspirated from 23 of 30 patients with rheumatoid
+arthritis (RA; 180300). Sequence analysis showed that the CD44vRA
+isoform contains an intron-derived CAG trinucleotide inclusion 5-prime
+to constant exon 5 within the CD44v3-v10 isoform. Functional expression
+studies in human cells showed that the CD44vRA variant interacted with
+FGF2 (134920) via the heparan sulfate on exon v3 in a way that enhanced
+binding and activation of soluble FGFR1 (136350) to a greater extent
+than CD44v3-v10. Synovial fluid cells from RA patients bound soluble
+FGFR1 more intensively than control cells. Nedvetzki et al. (2003)
+postulated that activation of FGFR1 may play a role in the RA
+inflammatory process.
+
+In a mouse hindlimb model of arteriogenesis, van Royen et al. (2004)
+found that Cd44 expression increased strongly during collateral vessel
+growth in wildtype mice and that arteriogenesis was severely impaired in
+Cd44 -/- mice. The defective arteriogenesis was accompanied by reduced
+leukocyte trafficking to sites of collateral artery growth and reduced
+expression of FGF2 and platelet-derived growth factor-B protein (PDGFB;
+190040). In 14 consecutive patients with single-vessel coronary artery
+disease, van Royen et al. (2004) found that the maximal expression of
+CD44 on activated monocytes was reduced in patients with poor
+collateralization compared to patients with good collateralization. Van
+Royen et al. (2004) concluded that CD44 plays a pivotal role in
+arteriogenesis.
+
+By analyzing a human breast cancer cell line transduced with a micro RNA
+(miRNA) expression library, Huang et al. (2008) found that human miR373
+(611954) and miR520C stimulated cell migration and invasion in vitro and
+in vivo. Using expression array analysis, they found that the migration
+phenotype of miR373- and miR520C-expressing cells depended on
+suppression of CD44. Upregulation of miR373 correlated inversely with
+CD44 expression in breast cancer metastasis samples. The authors noted
+that increased expression of the most common CD44 isoform correlates
+with overall survival of breast cancer patients.
+
+Godar et al. (2008) found that p53 (TP53; 191170) negatively regulated
+CD44 expression in normal human mammary epithelial cells by binding to a
+noncanonical p53-binding sequence in the CD44 promoter. Inhibition of
+CD44 enabled the cells to respond to stress-induced, p53-dependent
+cytostatic and apoptotic signals that would have otherwise been blocked
+by CD44. In the absence of p53, CD44 promoted growth in a highly
+tumorigenic mammary epithelial cell line. In both normal and tumorigenic
+cell lines, p63 (TP63; 603273) positively regulated CD44 expression.
+
+MAPPING
+
+Francke et al. (1983) showed that the antigens defined by monoclonal
+antibodies A3D8 and A1G3 are determined by genes on 11p.
+
+The mouse monoclonal antibody Hermes-3 recognizes the 85- to 95-kD human
+lymphocyte homing receptor. Using mouse-human T-lymphocyte hybrids and
+hybrids of Chinese hamster ovary cells with human amniotic fibroblasts,
+Ala-Kapee et al. (1989) found that Hermes-3 expression, as demonstrated
+by indirect immunofluorescence and immunoprecipitation, was determined
+by 11pter-p13. Forsberg et al. (1989) refined the assignment of the
+lymphocyte homing receptor gene to 11pter-p13 by study of Chinese
+hamster-human cell hybrids in which the human parent cells had various
+deletions of human chromosome 11. Although CD44 may have function as a
+lymphocyte homing receptor, the gene that maps to chromosome 11 is
+distinct from the lymph node homing receptor located on chromosome 1
+(153240) (Seldin, 1990). In the mouse, the corresponding gene has been
+referred to as Ly-24.
+
+Cianfriglia et al. (1992) mapped a drug-sensitivity marker, MC56, to
+11pter-p13. Identity of the protein to the CD44 antigen, suggested on
+other grounds, was supported by the map location.
+
+MOLECULAR GENETICS
+
+The Indian blood group (609027) comprises 2 antigens, In(a) and In(b),
+which reside on CD44. By RT-PCR analysis of cDNA extracted from
+In(a+b-)-transformed B lymphocytes, Telen et al. (1996) identified the
+CD44 polymorphism that causes the In(b-) phenotype. The polymorphism
+results in an arg46-to-pro change (R46P; 107269.0001), removing the
+basically charged amino acid at the C terminus of the hyaluronan
+(HA)-binding motif of CD44. In previous studies using chimeric proteins,
+arg46 was shown to be crucial for HA binding by CD44 (Yang et al.,
+1994). However, Telen et al. (1996) demonstrated that the R46P change
+does not reduce HA binding to CD44.
+
+ANIMAL MODEL
+
+Schmits et al. (1997) generated mice deficient in all known isoforms of
+Cd44 by targeting exons encoding the invariant N-terminal region of the
+molecule. Mice were born in mendelian ratio without any obvious
+developmental or neurologic deficits. Hematologic impairment was
+evidenced by altered tissue distribution of myeloid progenitors with
+increased levels of colony-forming unit-granulocyte-macrophage in bone
+marrow and reduced numbers in spleen. Fetal liver colony-forming
+unit-spleen and granulocyte colony-stimulating factor mobilization
+assays, together with reduced colony-forming unit-granulocyte-macrophage
+in peripheral blood, suggested that progenitor egress from the bone
+marrow was defective. Mice also developed exaggerated granuloma
+responses to Cryotosporidium parvum infection. Tumor studies showed that
+SV40-transformed Cd44-deficient fibroblasts were highly tumorigenic in
+nude mice, whereas reintroduction of Cd44 expression into these
+fibroblasts resulted in a dramatic inhibition of tumor growth.
+
+Teder et al. (2002) studied the role of Cd44 in lung inflammation by
+using the Cd44-deficient mice generated by Schmits et al. (1997). After
+intratracheal administration of bleomycin, 75% of Cd44-deficient mice
+died by day 14. They developed unremitting inflammation, characterized
+by impaired clearance of apoptotic neutrophils, persistent accumulation
+of hyaluronan fragments at the site of the tissue injury, and impaired
+activation of transforming growth factor beta-1 (190180). This phenotype
+was partially reversed by reconstitution with Cd44+ cells, thus
+demonstrating a critical role for this receptor in resolving lung
+inflammation.
+
+Using immunohistochemistry, Leemans et al. (2003) confirmed that
+Cd44-high cells accumulated in mouse lungs following intranasal
+infection with Mycobacterium tuberculosis. Cd44 -/- mice, however, had a
+50% reduction in pulmonary macrophages 2 weeks after infection, although
+the absolute numbers of leukocytes were unchanged. By 5 weeks after
+infection, a significant reduction in Cd4 (186940)-positive lymphocyte
+numbers was observed in mutant mice. At both time points, the
+Cd44-deficient mice displayed disorganized granulomas containing
+predominantly polymorphonuclear neutrophils rather than well-demarcated
+granulomas consisting of lymphocytes and macrophages. Splenocytes were
+more numerous in mice lacking Cd44, and they secreted significantly more
+Ifng (147570) in response to antigen-specific stimulation than
+splenocytes of wildtype mice. Flow cytometric analysis showed that human
+CD44 bound to M. tuberculosis, and Cd44 -/- mouse macrophages contained
+fewer bacteria than wildtype macrophages. The mutant mice allowed
+greater replication of M. tuberculosis in lung and liver and had reduced
+survival compared with wildtype mice. Leemans et al. (2003) proposed
+that CD44 mediates resistance to mycobacterial infection by promoting
+binding and phagocytosis by macrophages and by recruiting these cells to
+the site of infection.
+
+TNF (191160) is a major inducer of chronic inflammation, and its
+overexpression leads to chronic inflammatory arthritis. Hayer et al.
+(2005) crossed Cd44 -/- mice with mice transgenic for human TNF and
+found that destruction of joints and progressive crippling was far more
+severe in Cd44 -/- transgenic mice than in transgenic mice expressing
+Cd44. Cd44 -/- transgenic mice exhibited increased systemic bone
+resorption due to an increase in the number, size, and activity of
+osteoclasts. Bone formation and osteoblast differentiation were not
+affected. Cd44 -/- osteoclasts had an enhanced response to TNF that was
+associated with increased activation of p38 (MAPK14; 600289). Hayer et
+al. (2005) concluded that CD44 is a critical inhibitor of TNF-induced
+joint destruction and inflammatory bone loss.
+
+Krause et al. (2006) found that mice lacking Cd44 were as susceptible as
+wildtype mice to murine chronic myeloid leukemia (CML; 608232) after
+challenge with BCR-ABL virus. However, bone marrow cells from Cd44 -/-
+mice transduced with the virus showed defective homing to recipient bone
+marrow, resulting in decreased engraftment and reduced CML-like disease.
+In contrast, Cd44 was dispensable for induction of B-lymphoblastic
+leukemia-like disease. Krause et al. (2006) concluded that CD44 is
+required for leukemic stem cells that initiate CML.
+
+Jin et al. (2006) found that treatment with activating monoclonal
+antibodies to CD44 markedly reduced leukemic repopulation in nonobese
+diabetic (NOD)/severe combined immunodeficiency (SCID) mice challenged
+with human acute myeloid leukemia (AML; 601626) cells. Absence of
+leukemia following serial tumor transplantation experiments in mice
+demonstrated direct targeting of AML leukemic stem cells (LSCs).
+Treatment of engrafted mice with anti-CD44 reduced the number of Cd34
+(142230)-positive/Cd38 (107270)-negative primitive stem cells and
+increased the number of Cd14 (158120)-positive monocytic cells.
+Anti-CD44 treatment also diminished the homing capacity of SCID
+leukemia-initiating cells to bone marrow and spleen. Jin et al. (2006)
+concluded that CD44 is a key regulator of AML LSCs, which require a
+niche to maintain their stem cell properties. They suggested that CD44
+targeting may help eliminate quiescent AML LSCs.
+
+ALLELIC VARIANT .0001
+INDIAN BLOOD GROUP SYSTEM POLYMORPHISM
+CD44, ARG46PRO
+
+The Indian blood group (609027) comprises 2 antigens, In(a) and In(b),
+which reside on CD44. By RT-PCR analysis of cDNA extracted from
+In(a+b-)-transformed B lymphocytes, Telen et al. (1996) identified the
+CD44 polymorphism that causes the In(b-) phenotype. The G-to-C change at
+nucleotide 252 results in an arg46-to-pro change (R46P), removing the
+basically charged amino acid at the C terminus of the hyaluronan
+(HA)-binding motif of CD44. In previous studies using chimeric proteins,
+arg46 was shown to be crucial for HA binding by CD44 (Yang et al.,
+1994). However, Telen et al. (1996) demonstrated that the R46P change
+does not reduce HA binding to CD44.
+
+ADDITIONAL REFERENCES Forsberg et al. (1989)
+REFERENCE 1. Ala-Kapee, M.; Forsberg, U. H.; Jalkanen, S.; Schroder, J.: Mapping
+of gene for human lymphocyte homing receptor to the short arm of chromosome
+11. (Abstract) Cytogenet. Cell Genet. 51: 948-949, 1989.
+
+2. Aruffo, A.; Stamenkovic, I.; Melnick, M.; Underhill, C. B.; Seed,
+B.: CD44 is the principal cell surface receptor for hyaluronate. Cell 61:
+1303-1313, 1990.
+
+3. Cianfriglia, M.; Viora, M.; Tombesi, M.; Merendino, N.; Esposito,
+G.; Samoggia, P.; Forsberg, U. H.; Schroder, J.: The gene encoding
+for MC56 determinant (drug-sensitivity marker) is located on the short
+arm of human chromosome 11. Int. J. Cancer 52: 585-587, 1992.
+
+4. Cywes, C.; Wessels, M. R.: Group A Streptococcus tissue invasion
+by CD44-mediated cell signalling. Nature 414: 648-652, 2001.
+
+5. Forsberg, U. H.; Ala-Kapee, M. M.; Jalkanen, S.; Andersson, L.
+C.; Schroder, J.: The gene for human lymphocyte homing receptor is
+located on chromosome 11. Europ. J. Immun. 19: 409-412, 1989.
+
+6. Forsberg, U. H.; Jalkanen, S.; Schroder, J.: Assignment of the
+human lymphocyte homing receptor gene to the short arm of chromosome
+11. Immunogenetics 29: 405-407, 1989.
+
+7. Francke, U.; Foellmer, B. E.; Haynes, B. F.: Chromosome mapping
+of human cell surface molecules: monoclonal anti-human lymphocyte
+antibodies 4F2, A3D8, and A1G3 define antigens controlled by different
+regions of chromosome 11. Somat. Cell Genet. 9: 333-344, 1983.
+
+8. Godar, S.; Ince, T. A.; Bell, G. W.; Feldser, D.; Donaher, J. L.;
+Bergh, J.; Liu, A.; Miu, K.; Watnick, R. S.; Reinhardt, F.; McAllister,
+S. S.; Jacks, T.; Weinberg, R. A.: Growth-inhibitory and tumor-suppressive
+functions of p53 depend on its repression of CD44 expression. Cell 134:
+62-73, 2008.
+
+9. Hayer, S.; Steiner, G.; Gortz, B.; Reiter, E.; Tohidast-Akrad,
+M.; Amling, M.; Hoffmann, O.; Redlich, K.; Zwerina, J.; Skriner, K.;
+Hilberg, F.; Wagner, E. F.; Smolen, J. S.; Schett, G.: CD44 is a
+determinant of inflammatory bone loss. J. Exp. Med. 201: 903-914,
+2005.
+
+10. Haynes, B. F.: Personal Communication. Durham, N. C.  2/28/1986.
+
+11. Huang, Q.; Gumireddy, K.; Schrier, M.; le Sage, C.; Nagel, R.;
+Nair, S.; Egan, D. A.; Li, A.; Huang, G.; Klein-Szanto, A. J.; Gimotty,
+P. A.; Katsaros, D.; Coukos, G.; Zhang, L.; Pure, E.; Agami, R.:
+The microRNAs miR-373 and miR-520c promote tumour invasion and metastasis. Nature
+Cell Biol. 10: 202-210, 2008.
+
+12. Jin, L.; Hope, K. J.; Zhai, Q.; Smadja-Joffe, F.; Dick, J. E.
+: Targeting of CD44 eradicates human acute myeloid leukemic stem cells. Nature
+Med. 12: 1167-1174, 2006.
+
+13. Krainer, A. R.; Mayeda, A.; Kozak, D.; Binns, G.: Functional
+expression of cloned human splicing factor SF2: homology to RNA-binding
+proteins, U1 70K, and Drosophila splicing regulators. Cell 66: 383-394,
+1991.
+
+14. Krause, D. S.; Lazarides, K.; von Andrian, U. H.; Van Etten, R.
+A.: Requirement for CD44 in homing and engraftment of BCR-ABL-expressing
+leukemic stem cells. Nature Med. 12: 1175-1180, 2006.
+
+15. Leemans, J. C.; Florquin, S.; Heikens, M.; Pals, S. T.; van der
+Neut, R.; van der Poll, T.: CD44 is a macrophage binding site for
+Mycobacterium tuberculosis that mediates macrophage recruitment and
+protective immunity against tuberculosis. J. Clin. Invest. 111:
+681-689, 2003.
+
+16. Matsumura, Y.; Tarin, D.: Significance of CD44 gene products
+for cancer diagnosis and disease evaluation. Lancet 340: 1053-1058,
+1992.
+
+17. Mayer, B.; Jauch, K. W.; Gunthert, U.; Figdor, C. G.; Schildberg,
+F. W.; Funke, I.; Johnson, J. P.: De-novo expression of CD44 and
+survival in gastric cancer. Lancet 342: 1019-1022, 1993.
+
+18. Nedvetzki, S.; Golan, I.; Assayag, N.; Gonen, E.; Caspi, D.; Gladnikoff,
+M.; Yayon, A.; Naor, D.: A mutation in a CD44 variant of inflammatory
+cells enhances the mitogenic interaction of FGF with its receptor. J.
+Clin. Invest. 111: 1211-1220, 2003.
+
+19. Omary, M. B.; Trowbridge, I. S.; Letarte, M.; Kagnoff, M. F.;
+Isacke, C. M.: Structural heterogeneity of human Pgp-1 and its relationship
+with p85. Immunogenetics 27: 460-464, 1988.
+
+20. Schlossman, S. F.; Boumsell, L.; Gilks, W.; Harlan, J. M.; Kishimoto,
+T.; Morimoto, C.; Ritz, J.; Shaw, S.; Silverstein, R. L.; Springer,
+T. A.; Tedder, T. F.; Todd, R. F.: CD antigens 1993. Immun. Today 15:
+98-99, 1994.
+
+21. Schmits, R.; Filmus, J.; Gerwin, N.; Senaldi, G.; Kiefer, F.;
+Kundig, T.; Wakeham, A.; Shahinian, A.; Catzavelos, C.; Rak, J.; Furlonger,
+C.; Zakarian, A.; Simard, J. J.; Ohashi, P. S.; Paige, C. J.; Gutierrez-Romas,
+J. C.; Mak, T. W.: CD44 regulates hematopoietic progenitor distribution,
+granuloma formation, and tumorigenicity. Blood 90: 2217-2233, 1997.
+
+22. Screaton, G. R.; Bell, M. V.; Jackson, D. G.; Cornelis, F. B.;
+Gerth, U.; Bell, J. I.: Genomic structure of DNA encoding the lymphocyte
+homing receptor CD44 reveals at least 12 alternatively spliced exons. Proc.
+Nat. Acad. Sci. 89: 12160-12164, 1992.
+
+23. Seldin, M. F.: Personal Communication. Durham, N. C.  9/19/1990.
+
+24. Sherman, L.; Wainwright, D.; Ponta, H.; Herrlich, P.: A splice
+variant of CD44 expressed in the apical ectodermal ridge presents
+fibroblast growth factors to limb mesenchyme and is required for limb
+outgrowth. Genes Dev. 12: 1058-1071, 1998.
+
+25. Stamenkovic, I.; Amiot, M.; Pesando, J. M.; Seed, B.: A lymphocyte
+molecule implicated in lymph node homing is a member of the cartilage
+link protein family. Cell 56: 1057-1062, 1989.
+
+26. Stefanova, I.; Hilgert, I.; Bazil, V.; Kristofova, H.; Horejsi,
+V.: Human leucocyte surface glycoprotein CDw44 and lymphocyte homing
+receptor are identical molecules. Immunogenetics 29: 402-404, 1989.
+
+27. Teder, P.; Vandivier, R. W.; Jiang, D.; Liang, J.; Cohn, L.; Pure,
+E.; Henson, P. M.; Noble, P. W.: Resolution of lung inflammation
+by CD44. Science 296: 155-158, 2002.
+
+28. Telen, M. J.: Personal Communication. Durham, N. C.  12/30/1992.
+
+29. Telen, M. J.; Eisenbarth, G. S.; Haynes, B. F.: Human erythrocyte
+antigens: regulation of expression of a novel erythrocyte surface
+antigen by the inhibitor Lutheran In(Lu) gene. J. Clin. Invest. 71:
+1878-1886, 1983.
+
+30. Telen, M. J.; Palker, T. J.; Haynes, B. F.: Human erythrocyte
+antigens: II. The In(Lu) gene regulates expression of an antigen on
+an 80-kilodalton protein of human erythrocytes. Blood 64: 599-606,
+1984.
+
+31. Telen, M. J.; Udani, M.; Washington, M. K.; Levesque, M. C.; Lloyd,
+E.; Rao, N.: A blood group-related polymorphism of CD44 abolishes
+a hyaluronan-binding consensus sequence without preventing hyaluronan
+binding. J. Biol. Chem. 271: 7147-7153, 1996.
+
+32. van Royen, N.; Voskuil, M.; Hoefer, I.; Jost, M.; de Graaf, S.;
+Hedwig, F.; Andert, J.-P.; Wormhoudt, T. A. M.; Hua, J.; Hartmann,
+S.; Bode, C.; Buschmann, I.; Schaper, W.; van der Neut, R.; Piek,
+J. J.; Pals, S. T.: CD44 regulates arteriogenesis in mice and is
+differentially expressed in patients with poor and good collateralization. Circulation 109:
+1647-1652, 2004.
+
+33. Weber, G. F.; Ashkar, S.; Glimcher, M. J.; Cantor, H.: Receptor-ligand
+interaction between CD44 and osteopontin (Eta-1). Science 271: 509-512,
+1996.
+
+34. Yang, B.; Yang, B. L.; Savani, R. C.; Turley, E. A.: Identification
+of a common hyaluronan binding motif in the hyaluronan binding proteins
+RHAMM, CD44 and link protein. EMBO J. 13: 286-296, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/5/2008
+Patricia A. Hartz - updated: 10/28/2008
+Cassandra L. Kniffin - updated: 11/26/2007
+Paul J. Converse - updated: 10/27/2006
+Paul J. Converse - updated: 10/26/2006
+Marla J. F. O'Neill - updated: 1/31/2006
+Paul J. Converse - updated: 2/25/2005
+Paul J. Converse - updated: 11/15/2004
+Ada Hamosh - updated: 4/9/2002
+Ada Hamosh - updated: 1/9/2002
+Victor A. McKusick - updated: 4/25/1998
+Alan F. Scott - updated: 5/21/1996
+
+CREATED Victor A. McKusick: 9/25/1990
+
+EDITED mgross: 10/14/2013
+wwang: 8/17/2011
+mgross: 11/7/2008
+terry: 11/5/2008
+mgross: 10/30/2008
+terry: 10/28/2008
+wwang: 12/28/2007
+ckniffin: 11/26/2007
+mgross: 1/29/2007
+mgross: 11/17/2006
+terry: 10/27/2006
+mgross: 10/26/2006
+wwang: 2/3/2006
+terry: 1/31/2006
+terry: 12/21/2005
+mgross: 2/25/2005
+mgross: 11/15/2004
+joanna: 11/15/2004
+cwells: 4/11/2002
+cwells: 4/10/2002
+terry: 4/9/2002
+alopez: 1/10/2002
+terry: 1/9/2002
+dkim: 7/24/1998
+carol: 4/25/1998
+terry: 4/25/1998
+mark: 5/21/1996
+terry: 5/21/1996
+mark: 5/20/1996
+mark: 2/10/1996
+terry: 2/7/1996
+terry: 7/29/1994
+carol: 4/11/1994
+warfield: 4/7/1994
+carol: 9/8/1993
+carol: 1/14/1993
+carol: 1/13/1993
+
+613396	TITLE *613396 DOWN SYNDROME CRITICAL REGION GENE 8; DSCR8
+;;MALIGNANT MELANOMA-ASSOCIATED PROTEIN 1; MMA1
+DESCRIPTION 
+CLONING
+
+Using array analysis to identify genes differentially expressed in
+metastatic and nonmetastatic human melanoma cell lines, followed by EST
+database analysis and PCR, de Wit et al. (2002) cloned 2 splice variants
+of DSCR8, which they called MMA1A and MMA1B. The full-length 91-amino
+acid MMA1A protein has a calculated molecular mass of 10 kD. It has 3
+phosphorylation sites and 1 N-myristoylation site. The MMA1B transcript
+lacks exon 3 and encodes a deduced 37-amino acid protein that has a
+calculated molecular mass of 4 kD. MMA1B has a single phosphorylation
+site. RT-PCR analysis of 20 tissues detected both MMA1 transcripts in
+testis, but not in any other tissue examined. Nested PCR revealed low
+levels of MMA1A and/or MMA1B in some other tissues.
+
+Using RT-PCR, de Wit et al. (2005) identified 4 additional MMA1 splice
+variants, which they designated MMA1C through MMA1F, in malignant
+melanomas. These transcripts differ in the presence or absence of exon 3
+and in selection of alternate splice sites in intron 2. Alternative
+splicing changes the lengths of exons 2 and 3 and the reading frame. The
+deduced proteins contain 41 to 97 amino acids. Nested PCR analysis
+revealed MMA1C through MMA1E in testis, but not in any other normal
+tissue examined. MMA1F was detected in only 1 malignant melanoma sample,
+suggesting that the splice site used in MMA1F may be the result of
+mutation. Database analysis revealed orthologs of MMA1 only in
+chimpanzee.
+
+Dunn et al. (2006) found that the DSCR4 (604829) and DSCR8 genes were
+transcribed from a bidirectional promoter and showed a similar pattern
+of expression. RT-PCR followed by Southern blot analysis detected 2
+DSCR4 transcripts and 4 DSCR8 transcripts in prostate, skeletal muscle,
+testis, and placenta. Robust expression of DSCR4 alone was detected in
+thymus, and low levels of DSCR8 alone were detected in brain, kidney,
+and bone marrow. Both DSCR4 and DSCR8 transcripts were also detected in
+placenta and testicular teratoma cell lines, but not in HeLa cells. Dunn
+et al. (2006) found that DSCR4 and DSCR8 appeared to evolve exclusively
+in primates, although DSCR4 was not found in Old World monkeys. The
+bidirectional promoter also appeared to be highly conserved in primates.
+
+GENE FUNCTION
+
+Using PCR analysis, de Wit et al. (2002) detected MMA1A and MMA1B
+transcripts in 20% of primary melanomas and in about 30% of melanoma
+metastasis, suggesting that expression emerges during malignant
+progression. PCR analysis also detected MMA1 in some tumor lesions of
+ileum, esophagus, and mammary gland, in several malignant melanoma cell
+lines, and in tumor cell lines of lung, liver, colon, and bladder.
+
+By examining MMA1 expression in a melanocytic tumor progression series,
+de Wit et al. (2005) found that all MMA1 splice variants were preferably
+expressed in the most advanced stage, malignant melanoma.
+
+GENE STRUCTURE
+
+De Wit et al. (2002) determined that the DSCR8 gene contains 4 exons and
+spans 35 kb. Exon 1 is noncoding.
+
+De Wit et al. (2005) determined that the promoter region of the DSCR8
+gene lacks a conventional TATA box or CAAT site, but it contains
+putative binding sites for several transcription factors. A CpG island
+overlaps the promoter region and exon 1. Exon 3 contains an Alu element.
+
+Dunn et al. (2006) identified a bidirectional promoter between the DSCR4
+and DSCR8 genes, which are transcribed in opposite directions. Their
+transcription initiation sites and first exons map within a composite
+endogenous retrovirus (ERV) element, where an ERV1 long terminal repeat
+(LTR) was inserted into and split an older ERV-L LTR. Both genes are
+rich in repetitive sequences throughout their lengths: exon 2 of DSCR4
+is derived entirely from an ERV-LTR, while DSCR8 exon 2 contains a short
+MIR fragment, and DSCR8 exon 3 is entirely derived from an Alu element.
+The LTR of the bidirectional promoter contains 2 putative SP1
+(189906)-binding sites and a cAMP response element, and it was highly
+active in functional studies, showing multiple positive and negative
+regulatory elements.
+
+MAPPING
+
+By genomic sequence analysis, de Wit et al. (2002) mapped the DSCR8 gene
+to chromosome 21q22.2.
+
+REFERENCE 1. de Wit, N. J. W.; Cornelissen, I. M. H. A.; Diepstra, J. H. S.;
+Weidle, U. H.; Ruiter, D. J.; van Muijen, G. N. P.: The MMA1 gene
+family of cancer-testis antigens has multiple alternative splice variants:
+characterization of their expression profile, the genomic organization,
+and transcript properties. Genes Chromosomes Cancer 42: 10-21, 2005.
+
+2. de Wit, N. J. W.; Weidle, U. H.; Ruiter, D. J.; van Muijen, G.
+N. P.: Expression profiling of MMA-1A and splice variant MMA-1B:
+new cancer/testis antigens identified in human melanoma. Int. J.
+Cancer 98: 547-553, 2002.
+
+3. Dunn, C. A.; Romanish, M. T.; Gutierrez, L. E.; van de Lagemaat,
+L. N.; Mager, D. L.: Transcription of two human genes from a bidirectional
+endogenous retrovirus promoter. Gene 366: 335-342, 2006.
+
+CREATED Patricia A. Hartz: 5/4/2010
+
+EDITED terry: 12/06/2010
+mgross: 5/4/2010
+
+606461	TITLE *606461 TRIMETHYLGUANOSINE SYNTHASE, S. CEREVISIAE, HOMOLOG OF; TGS1
+;;PRIP-INTERACTING PROTEIN WITH METHYLTRANSFERASE DOMAIN; PIMT;;
+NUCLEAR RECEPTOR COACTIVATOR 6; NCOA6IP
+DESCRIPTION 
+CLONING
+
+Nuclear receptor coactivators participate in the transcriptional
+activation of specific genes by nuclear receptors. Zhu et al. (2001)
+isolated a nuclear receptor coactivator-interacting protein, designated
+PIMT, from a human liver cDNA library by using the coactivator
+peroxisome proliferator-activated receptor-interacting protein (PRIP;
+605299) as bait in a yeast 2-hybrid screen. The PIMT cDNA encodes an
+852-amino acid protein containing a 9-amino acid methyltransferase motif
+I (VVDAFCGVG) and an invariant segment (GXXGXXI) found in K-homology
+motifs of many RNA-binding proteins. Northern blot analysis demonstrated
+ubiquitous expression of a 3.2-kb PIMT transcript, with highest
+expression in heart, skeletal muscle, kidney, liver, and placenta.
+Immunofluorescence studies showed that the PIMT and PRIP proteins are
+colocalized in the nucleus. PIMT binds 5-adenosyl-L-methionine, the
+methyl donor for the methyltransfer reaction, and it also binds RNA,
+suggesting that it is an RNA methyltransferase. Overexpression of PIMT
+enhances the transcriptional activity of PPARG (601487) and RXR (see
+180245), and this enhancement is further stimulated by overexpression of
+PRIP, suggesting that PIMT is a component of nuclear receptor signal
+transduction that acts through PRIP.
+
+GENE STRUCTURE
+
+Zhu et al. (2001) determined that the PIMT gene contains more than 13
+exons and spans more than 40 kb.
+
+MAPPING
+
+By sequence analysis, Zhu et al. (2001) mapped the PIMT gene to
+chromosome 8q11.
+
+REFERENCE 1. Zhu, Y.; Qi, C.; Cao, W.-Q.; Yeldandi, A. V.; Rao, M. S.; Reddy,
+J. K.: Cloning and characterization of PIMT, a protein with a methyltransferase
+domain, which interacts with and enhances nuclear receptor coactivator
+PRIP function. Proc. Nat. Acad. Sci. 98: 10380-10385, 2001.
+
+CREATED Victor A. McKusick: 11/15/2001
+
+EDITED carol: 02/21/2007
+carol: 2/21/2007
+carol: 11/15/2001
+
+114080	TITLE *114080 CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE IV; CAMK4
+;;BRAIN Ca(2+)/CALMODULIN-DEPENDENT PROTEIN KINASE TYPE IV
+DESCRIPTION 
+CLONING
+
+Protein phosphorylation, a prominent activity in the brain, apparently
+plays an important role in several neural functions such as neural
+transmitter release, ion channel modulation, and axoplasmic transport.
+Sikela et al. (1989) identified cDNA clones corresponding to a brain
+Ca(2+)/calmodulin-dependent protein kinase, which they referred to as
+brain CaM kinase IV (CAMK4). On the basis of Western blot analysis, this
+kinase appeared to be restricted to brain in the rat; interestingly, it
+was not detected in the brain of the newborn, but became detectable
+within a few days after birth.
+
+By immunostaining of adult mouse brain sections, Wei et al. (2002) found
+Camk4-labeled neurons in the hippocampus, amygdala, anterior cingulate
+cortex, somatosensory cortex, and insular cortex.
+
+MAPPING
+
+By Southern blot analysis, Sikela et al. (1989) showed that the CAMK4
+gene is present in single copy in the mouse and human genomes. Analysis
+of DNA from hybrid cells showed that the gene is located on human
+chromosome 5, and in situ hybridization indicated that the location is
+5q21-q23. By Southern blot analysis of Chinese hamster/mouse somatic
+cell hybrids, Sikela et al. (1990) demonstrated that the homologous
+mouse locus, Camk4, maps to chromosome 18. Analysis of interspecific
+backcrosses positioned Camk4 in the centromeric region near 2 mutations
+known to affect neurologic function and fertility. Sikela et al. (1990)
+raised the possibility that a defect in Camk4 may be responsible for 1
+of these mutant phenotypes.
+
+GENE FUNCTION
+
+Koga et al. (2012) found that knockdown of CAMK4 via small interfering
+RNA in T cells from patients with systemic lupus erythematosus (SLE;
+152700) resulted in augmentation of the percentage of CD25 (IL2RA;
+147730)-positive/FOXP3 (300292)-positive regulatory T cells. They
+concluded that CAMK4 is important in the generation and function of
+regulatory T cells in patients with SLE.
+
+ANIMAL MODEL
+
+Camk4 is a multifunctional serine/threonine protein kinase with limited
+tissue distribution that has been implicated in transcriptional
+regulation in lymphocytes, neurons, and male germ cells. In the mouse
+testis, however, Camk4 is expressed in spermatids and associated with
+chromatin and nuclear matrix. Elongating spermatids are not
+transcriptionally active, raising the possibility that Camk4 has a novel
+function in male germ cells. To investigate the role of Camk4 in
+spermatogenesis, Wu et al. (2000) generated mice with a targeted
+deletion of the Camk4 gene. Male Camk4 -/- mice were infertile with
+impairment of spermiogenesis in late elongating spermatids. The
+sequential deposition of sperm basic nuclear proteins on chromatin was
+disrupted, with a specific loss of protamine-2 (182890) and prolonged
+retention of transition protein-2 (190232) in step-15 spermatids.
+Protamine-2 is phosphorylated by Camk4 in vitro, implicating a
+connection between Camk4 signaling and the exchange of basic nuclear
+proteins in mammalian male germ cells. Defects in protamine-2 have been
+identified in sperm of infertile men, suggesting that the results of Wu
+et al. (2000) may have clinical implications for the understanding of
+human male infertility.
+
+CAMK4 is implicated in the regulation of CRE-dependent transcription. To
+investigate the role of this kinase in neuronal plasticity and memory,
+Kang et al. (2001) generated transgenic mice in which the expression of
+a dominant-negative form of Camk4 was restricted to the postnatal
+forebrain. In these transgenic mice, activity-induced Creb (123810)
+phosphorylation and Fos (164810) expression were significantly
+attenuated. Hippocampal late long-term potentiation (LTP) was also
+impaired, whereas basic synaptic function and early LTP were unaffected.
+These deficits correlated with impairments in long-term memory,
+specifically in its consolidation/retention phase but not in the
+acquisition phase. The results indicated that neural activity-dependent
+CAMK4 signaling in the neuronal nucleus plays an important role in the
+consolidation/retention of hippocampus-dependent long-term memory.
+
+Wei et al. (2002) studied pain and fear memory in Camk4-null mice.
+Behavioral responses to an acute noxious stimulus or to prolonged injury
+were identical in wildtype and Camk4-null mice, but fear memory was
+significantly reduced in the absence of Camk4. Brain sections of
+wildtype mice following fear conditioning showed phospho-Creb
+immunoreactivity, indicating Creb activation, in memory-related areas
+including the hippocampal CA1 region, basolateral amygdala, anterior
+cingulate cortex, primary somatosensory cortex, and agranular insular
+cortex. Brain sections of Camk4 -/- mice showed no evidence of
+fear-induced phospho-Creb in the somatosensory cortex and insular cortex
+and lower levels of phospho-Creb in the anterior cingulate cortex.
+Electrophysiologic studies indicated that Camk4 contributes to synaptic
+potentiation. Stimulation of brain slices induced significant synaptic
+potentiation in the anterior cingulate cortex, insular cortex, and
+somatosensory cortex of wildtype mice, but reduced or blocked
+potentiation in Camk4 -/- mice. Camk4 was also found to be required for
+calmodulin (see 114180) translocation in response to KCl application in
+the hippocampus, amygdala, anterior cingulate cortex, somatosensory
+cortex, and insular cortex. Wei et al. (2002) concluded that Camk4 is
+crucial in the trapping of Ca(2+)/calmodulin complexes in neuronal
+nuclei and in Creb phosphorylation and activation.
+
+CAMK4 expression is developmentally regulated in T lymphocytes and is
+highest in CD4 (186940)-positive/CD8 (see 186910)-positive thymocytes.
+Using flow cytometric analysis, Raman et al. (2001) showed that
+thymocytes from mice lacking Camk4 had impaired thymocyte maturation,
+particularly in positive selection, and defective calcium-dependent gene
+transcription.
+
+Wu et al. (2002) generated transgenic mice that selectively express in
+skeletal muscle a constitutively active form of
+calcium/calmodulin-dependent protein kinase-4. Skeletal muscles from
+these mice showed augmented mDNA replication and mitochondrial
+biogenesis, upregulation of mitochondrial enzymes involved in fatty acid
+metabolism and electron transport, and reduced susceptibility to fatigue
+during repetitive contractions. CAMK induced expression of peroxisome
+proliferator-activated receptor gamma coactivator-1 (PGC1; 604517), a
+master regulator of mitochondrial biogenesis in vivo, and activated the
+PGC1 gene promoter in cultured myocytes. Thus, Wu et al. (2002)
+concluded that a calcium-regulated signaling pathway controls
+mitochondrial biogenesis in mammalian cells.
+
+MRL/lpr mice have decreased Il2 (147680) production and develop an
+SLE-like disease. By RT-PCR analysis, Koga et al. (2012) showed that T
+cells from MRL/lpr mice had increased nuclear Camk4. MRL/lpr mice
+lacking Camk4 had significantly prolonged survival, restoration of Cd4
+T-cell Il2 production, and increased numbers of
+Cd4-positive/Cd25-positive/Foxp3-positive regulatory T cells. Koga et
+al. (2012) concluded that Camk4 is important in the generation and
+function of regulatory T cells in lupus-prone mice.
+
+REFERENCE 1. Kang, H.; Sun, L. D.; Atkins, C. M.; Soderling, T. R.; Wilson,
+M. A.; Tonegawa, S.: An important role of neural activity-dependent
+CaMKIV signaling in the consolidation of long-term memory. Cell 106:
+771-783, 2001.
+
+2. Koga, T.; Ichinose, K.; Mizui, M.; Crispin, J. C.; Tsokos, G. C.
+: Calcium/calmodulin-dependent protein kinase IV suppresses IL-2 production
+and regulatory T cell activity in lupus. J. Immun. 189: 3490-3496,
+2012.
+
+3. Raman, V.; Blaeser, F.; Ho, N.; Engle, D. L.; Williams, C. B.;
+Chatila, T. A.: Requirement for Ca(2+)/calmodulin-dependent kinase
+type IV/Gr in setting the thymocyte selection threshold. J. Immun. 167:
+6270-6278, 2001.
+
+4. Sikela, J. M.; Adamson, M. C.; Wilson-Shaw, D.; Kozak, C. A.:
+Genetic mapping of the gene for Ca(2+)/calmodulin-dependent protein
+kinase IV (Camk-4) to mouse chromosome 18. Genomics 8: 579-582,
+1990.
+
+5. Sikela, J. M.; Law, M. L.; Kao, F.-T.; Hartz, J. A.; Wei, Q.; Hahn,
+W. E.: Chromosomal localization of the human gene for brain Ca(2+)/calmodulin-dependent
+protein kinase type IV. Genomics 4: 21-27, 1989.
+
+6. Wei, F.; Qiu, C.-S.; Liauw, J.; Robinson, D. A.; Ho, N.; Chatila,
+T.; Zhuo, M.: Calcium-calmodulin-dependent protein kinase IV is required
+for fear memory. Nature Neurosci. 5: 573-579, 2002.
+
+7. Wu, H.; Kanatous, S. B.; Thurmond, F. A.; Gallardo, T.; Isotani,
+E.; Bassel-Duby, R.; Williams, R. S.: Regulation of mitochondrial
+biogenesis in skeletal muscle by CaMK. Science 296: 349-352, 2002.
+
+8. Wu, J. Y.; Ribar, T. J.; Cummings, D. E.; Burton, K. A.; McKnight,
+G. S.; Means, A. R.: Spermiogenesis and exchange of basic nuclear
+proteins are impaired in male germ cells lacking Camk4. Nature Genet. 25:
+448-452, 2000.
+
+CONTRIBUTORS Paul J. Converse - updated: 06/13/2013
+Patricia A. Hartz - updated: 6/13/2002
+Ada Hamosh - updated: 4/16/2002
+Paul J. Converse - updated: 1/16/2002
+Stylianos E. Antonarakis - updated: 9/25/2001
+Ada Hamosh - updated: 8/1/2000
+
+CREATED Victor A. McKusick: 6/12/1989
+
+EDITED mgross: 06/13/2013
+terry: 5/19/2010
+wwang: 12/20/2005
+alopez: 7/25/2002
+carol: 6/18/2002
+terry: 6/13/2002
+alopez: 4/17/2002
+terry: 4/16/2002
+mgross: 1/16/2002
+mgross: 9/25/2001
+alopez: 8/1/2000
+terry: 8/1/2000
+alopez: 2/22/1999
+carol: 3/26/1993
+supermim: 3/16/1992
+carol: 2/27/1992
+carol: 2/4/1991
+supermim: 3/20/1990
+ddp: 10/26/1989
+
+300230	TITLE *300230 CARBONIC ANHYDRASE VB, MITOCHONDRIAL; CA5B
+;;CA VB
+DESCRIPTION Carbonic anhydrases (CAs) are a family of zinc metalloenzymes. For
+background information on the CA family, see 114800.
+
+By negative screening of RT-PCR-derived cDNA clones of pancreas and
+salivary gland tissue with cDNA probes corresponding to CA2 (611492),
+CA4 (114760), and CA6 (114780), followed by 5-prime and 3-prime RACE,
+Fujikawa-Adachi et al. (1999) obtained a cDNA encoding a member of the
+CA family, which they termed CA5B. CA5B encodes a 317-amino acid protein
+that has 64% sequence similarity with CA5 (114761), a mitochondrial CA,
+and contains a 33-amino-acid residue signal sequence. Western blot
+analysis revealed a 36-kD protein precursor and a 32-kD mature protein.
+Endoglycosidase treatment did not affect the size of the protein.
+Western blot analysis with cell fractionation and confocal fluorescence
+microscopy showed specific localization in mitochondria. Like CA5, CA5B
+is a low activity enzyme with a sensitivity to acetazolamide. Northern
+blot analysis revealed a wider tissue distribution than that for CA5,
+with expression of 4 different-sized transcripts (1.3, 2.6, 4.4, and 6.0
+kb) in all tissues examined except liver, with strongest expression in
+heart, pancreas, kidney, placenta, lung, and skeletal muscle. By RT-PCR
+analysis, CA5B was expressed in pancreas, kidney, salivary glands, and
+spinal cord, but not in liver, whereas CA5 was expressed in liver only.
+
+By FISH, Fujikawa-Adachi et al. (1999) mapped the CA5B gene to Xp22.1.
+
+Shah et al. (2000) identified a mouse mitochondrial carbonic anhydrase,
+called type VB, by homology to the previously characterized murine CA
+VA. Shah et al. (2000) found that the carbonic anhydrase domain sequence
+of human VB shows much higher conservation between mouse and human (95%
+identity) than the CA domains of mouse and human VA (78% identity).
+Analysis of phylogenetic relationships between these and other available
+human and mouse CA isozyme sequences revealed that mammalian CA VB
+evolved much more slowly than CA VA, accepting amino acid substitutions
+at least 4.5 times more slowly since each evolved from its respective
+human-mouse ancestral gene around 90 million years ago. Both the
+differences in tissue distribution and the much greater evolutionary
+constraints on CA VB sequences suggested that the 2 forms of
+mitochondrial carbonic anhydrase evolved to assume different physiologic
+roles.
+
+REFERENCE 1. Fujikawa-Adachi, K.; Nishimori, I.; Taguchi, T.; Onishi, S.: Human
+mitochondrial carbonic anhydrase VB: cDNA cloning, mRNA expression,
+subcellular localization, and mapping to chromosome X. J. Biol. Chem. 274:
+21228-21233, 1999.
+
+2. Shah, G. N.; Hewett-Emmett, D.; Grubb, J. H.; Migas, M. C.; Fleming,
+R. E.; Waheed, A.; Sly, W. S.: Mitochondrial carbonic anhydrase CA
+VB: differences in tissue distribution and pattern of evolution from
+those of CA VA suggest distinct physiological roles. Proc. Nat. Acad.
+Sci. 97: 1677-1682, 2000.
+
+CREATED Paul J. Converse: 2/29/2000
+
+EDITED carol: 10/10/2007
+mcapotos: 3/29/2000
+mcapotos: 3/27/2000
+carol: 2/29/2000
+
+610520	TITLE *610520 CD300 ANTIGEN-LIKE FAMILY, MEMBER G; CD300LG
+;;TRIGGERING RECEPTOR EXPRESSED ON MYELOID CELLS 4; TREM4;;
+CLM9;;
+NEPMUCIN
+DESCRIPTION 
+DESCRIPTION
+
+Members of the CD300 (see 606786)-like (CD300L) family, such as CD300LG,
+are widely expressed on hematopoietic cells. All CD300L proteins are
+type I cell surface glycoproteins that contain a single immunoglobulin
+(Ig) V-like domain (Takatsu et al., 2006).
+
+CLONING
+
+By searching EST databases for novel Ig domain-containing Fc receptors
+for IgA (e.g., FCAMR; 605484), Takatsu et al. (2006) identified mouse
+and human CD300LG. Both genes encode at least 4 isoforms. The predicted
+human proteins contain 222, 233, 298, and 332 amino acids, and all 4
+have a signal peptide, an Ig domain, a transmembrane domain, and
+cytoplasmic tail that is shorter than that found in the mouse Cd300lg
+isoforms. Northern blot analysis detected a major 3-kb CD300LG
+transcript that was highly expressed in human heart, skeletal muscle,
+and placenta and weakly expressed in most other tissues examined; no
+expression was detected in brain. Immunohistochemical and immunoelectron
+microscopy analysis demonstrated expression of mouse Cd300lg on apical
+and basolateral plasma membranes of capillary endothelial cells.
+
+Umemoto et al. (2006) cloned mouse Cd300lg, which they called nepmucin.
+All 4 isoforms of mouse nepmucin contain a central mucin (see
+158340)-like domain. Nepmucin protein was expressed on the luminal
+surface of high endothelial venules (HEVs) in lymph nodes, but not on
+HEVs of Peyer patches.
+
+GENE FUNCTION
+
+Using assays in canine kidney cells, Takatsu et al. (2006) demonstrated
+that human CD300LG was transcytosed in a bidirectional manner.
+Immunofluorescence microscopy showed that HeLa cells expressing mouse or
+human CD300LG could take up human IgA2 and mouse IgM efficiently,
+suggesting that IgA and IgM may be candidate CD300LG ligands.
+
+Umemoto et al. (2006) found that the mucin-like domain of mouse nepmucin
+mediated L-selectin (SELL; 153240)-dependent lymphocyte rolling under
+physiologic conditions. Under static conditions, nepmucin bound
+lymphocytes through its Ig domain, and it promoted shear-resistant
+lymphocyte binding in combination with Icam1 (147840) under flow
+conditions.
+
+GENE STRUCTURE
+
+Takatsu et al. (2006) determined that the CD300LG gene contains 9 exons.
+
+MAPPING
+
+By genomic sequence analysis, Takatsu et al. (2006) mapped the CD300LG
+gene to chromosome 17q21. They mapped the mouse gene to chromosome 11D.
+
+REFERENCE 1. Takatsu, H.; Hase, K.; Ohmae, M.; Ohshima, S.; Hashimoto, K.; Taniura,
+N.; Yamamoto, A.; Ohno, H.: CD300 antigen like family member G: a
+novel Ig receptor like protein exclusively expressed on capillary
+endothelium. Biochem. Biophys. Res. Commun. 348: 183-191, 2006.
+
+2. Umemoto, E.; Tanaka, T.; Kanda, H.; Jin, S.; Tohya, K.; Otani,
+K.; Matsutani, T.; Matsumoto, M.; Ebisuno, Y.; Jang, M. H.; Fukuda,
+M.; Hirata, T.; Miyasaka, M.: Nepmucin, a novel HEV sialomucin, mediates
+L-selectin-dependent lymphocyte adhesion under flow. J. Exp. Med. 203:
+1603-1614, 2006.
+
+CONTRIBUTORS Paul J. Converse - updated: 02/15/2007
+
+CREATED Paul J. Converse: 10/25/2006
+
+EDITED mgross: 02/15/2007
+carol: 1/19/2007
+carol: 1/17/2007
+mgross: 10/25/2006
+
+606926	TITLE *606926 LYSOPHOSPHATIDIC ACID RECEPTOR 5; LPAR5
+;;LPA5;;
+G PROTEIN-COUPLED RECEPTOR 92; GPR92;;
+GPR93
+DESCRIPTION 
+DESCRIPTION
+
+G protein-coupled receptors (GPCRs, or GPRs) contain 7 transmembrane
+domains and transduce extracellular signals through heterotrimeric G
+proteins.
+
+CLONING
+
+Lee et al. (2001) identified GPR92, which they designated GPR93, in a
+genomic database using the sequences of the cysteinyl leukotriene-2
+receptor (605666) as query. GPR92 encodes a deduced 372-amino acid
+protein that shares 36 to 40% sequence identity in the transmembrane
+regions with the G protein-coupled purinergic receptor P2Y5 (P2RY5;
+609239), GPR23 (300086), and GPR17 (603071).
+
+MAPPING
+
+Lee et al. (2001) mapped the GPR92 gene to chromosome 12 based on
+sequence similarity between the GPR92 sequence and a BAC clone (GenBank
+GENBANK AC006087) localized to chromosome 12. White et al. (2000)
+identified GPR92 near the FGF23 gene on chromosome 12p13.
+
+REFERENCE 1. Lee, D. K.; Nguyen, T.; Lynch, K. R.; Cheng, R.; Vanti, W. B.;
+Arkhitko, O.; Lewis, T.; Evans, J. F.; George, S. R.; O'Dowd, B. F.
+: Discovery and mapping of ten novel G protein-coupled receptor genes. Gene 275:
+83-91, 2001.
+
+2. White, K. E.; Evans, W. E.; O'Riordan, J. L. H.; Speer, M. C.;
+Econs, M. J.; Lorenz-Depiereux, B.; Grabowski, M.; Meitinger, T.;
+Strom, T. M.: Autosomal dominant hypophosphataemic rickets is associated
+with mutations in FGF23. Nature Genet. 26: 345-348, 2000.
+
+CREATED Patricia A. Hartz: 5/9/2002
+
+EDITED alopez: 04/22/2008
+mgross: 3/4/2005
+terry: 11/22/2002
+carol: 5/10/2002
+
+194558	TITLE *194558 ZINC FINGER PROTEIN 83; ZNF83
+DESCRIPTION 
+MAPPING
+
+Marine et al. (1994) assigned the ZNF83 gene (also known as HPF1) to
+chromosome 19 by screening a human/rodent hybrid panel and localized the
+gene further to 19q13.3-q13.4 by fluorescence in situ hybridization and
+digital imaging microscopy.
+
+HISTORY
+
+Conserved structural motifs define large families of nucleic acid
+binding proteins in eukaryotes. The C2H2-type zinc finger motif,
+conferring both specific RNA and DNA binding activities, was first
+detected within the amino acid sequence of the Xenopus transcription
+factor IIIA (Miller et al., 1985). Thereafter, vertebrate genomes were
+shown to encode hundreds of so-called zinc finger proteins (ZFPs).
+Subfamilies were defined on the basis of conserved sequence elements
+outside the finger repeat, such as the KRAB domain. Several members of
+these subfamilies were found to have a clustered genomic organization.
+
+REFERENCE 1. Marine, J.-C.; Bellefroid, E. J.; Bourguignon, C.; Riviere, M.;
+Lecoq, P. J.; Poncelet, D. A.; Szpirer, J.; Martial, J. A.; Szpirer,
+C.: Assignment of the human ZNF83 (HPF1) zinc finger gene to chromosome
+19q13.3-q13.4. Genomics 21: 285-286, 1994.
+
+2. Miller, J.; McLachlan, A. D.; Klug, A.: Repetitive zinc-binding
+domains in the protein transcription factor IIIA from Xenopus oocytes. EMBO
+J. 4: 1609-1614, 1985.
+
+CREATED Victor A. McKusick: 6/17/1994
+
+EDITED alopez: 07/07/2010
+dkim: 6/26/1998
+jason: 6/17/1994
+
+116946	TITLE *116946 CELL DIVISION CYCLE 27; CDC27
+;;ANAPHASE-PROMOTING COMPLEX, SUBUNIT 3; APC3
+DESCRIPTION 
+DESCRIPTION
+
+CDC27 is 1 of several subunits of the anaphase-promoting complex (APC),
+which functions at the metaphase-to-anaphase transition of the cell
+cycle and is regulated by spindle checkpoint proteins. The APC is an E3
+ubiquitin ligase that targets cell cycle regulatory proteins for
+degradation by the proteasome, thereby allowing progression through the
+cell cycle (summary by Jorgensen et al., 2001).
+
+CLONING
+
+Tugendreich et al. (1993) described a strategy for quickly identifying
+and positionally mapping human homologs of yeast genes in order to
+cross-reference the rich biologic and genetic information concerning
+yeast genes to mammalian species. Optimized computer search methods were
+developed to scan the rapidly expanding expressed sequence tag (EST)
+database of Venter and colleagues (Adams et al., 1992) to find human
+open reading frames related to yeast protein sequences. The
+corresponding human cDNA was then used to obtain a high-resolution map
+position on human and mouse chromosomes, providing the links between
+yeast genetic analysis and mapped mammalian loci. In this way,
+Tugendreich et al. (1993) identified a human homolog of CDC27 of
+Saccharomyces cerevisiae. Human CDC27 encodes an 823-amino acid protein
+with global similarity to its fungal homologs.
+
+GENE FUNCTION
+
+Using a library of endoribonuclease-prepared short interfering RNAs
+(esiRNAs), Kittler et al. (2004) identified 37 genes required for cell
+division, one of which was CDC27. These 37 genes included several
+splicing factors for which knockdown generates mitotic spindle defects.
+In addition, a putative nuclear-export terminator was found to speed up
+cell proliferation and mitotic progression after knockdown.
+
+MAPPING
+
+Tugendreich et al. (1993) mapped the CDC27 gene to human chromosome 17
+and mouse chromosome 11 between the PKCA gene (176960) at 17q22-q23.2
+and the ERBB2 gene (164870) at 17q12-q21. The assignment to human
+chromosome 17 was achieved by PCR analysis of a panel of somatic cell
+hybrids; the mapping to chromosome 11 between the murine homologs of the
+PKCA and ERBB2 genes was done by linkage analysis. That CDC27 is located
+between these genes in the human was inferred from the strong homology
+of synteny.
+
+REFERENCE 1. Adams, M. D.; Dubnick, M.; Kerlavage, A. R.; Moreno, R.; Kelley,
+J. M.; Utterback, T. R.; Nagle, J. W.; Fields, C.; Venter, J. C.:
+Sequence identification of 2,375 human brain genes. Nature 355:
+632-634, 1992.
+
+2. Jorgensen, P. M.; Graslund, S.; Betz, R.; Stahl, S.; Larsson, C.;
+Hoog, C.: Characterisation of the human APC1, the largest subunit
+of the anaphase-promoting complex. Gene 262: 51-59, 2001.
+
+3. Kittler, R.; Putz, G.; Pelletier, L.; Poser, I.; Heninger, A.-K.;
+Drechsel, D.; Fischer, S.; Konstantinova, I.; Habermann, B.; Grabner,
+H.; Yaspo, M.-L.; Himmelbauer, H.; Korn, B.; Neugebauer, K.; Pisabarro,
+M. T.; Buchholz, F.: An endoribonuclease-prepared siRNA screen in
+human cells identifies genes essential for cell division. Nature 432:
+1036-1040, 2004.
+
+4. Tugendreich, S.; Boguski, M. S.; Seldin, M. S.; Hieter, P.: Linking
+yeast genetics to mammalian genomes: identification and mapping of
+the human homolog of CDC27 via the expressed sequence tag (EST) data
+base. Proc. Nat. Acad. Sci. 90: 10031-10035, 1993.
+
+CONTRIBUTORS Ada Hamosh - updated: 3/8/2005
+
+CREATED Victor A. McKusick: 4/6/1994
+
+EDITED carol: 12/30/2011
+alopez: 3/8/2005
+mgross: 5/16/2002
+alopez: 1/25/1999
+carol: 4/6/1994
+
+606767	TITLE *606767 POTASSIUM CHANNEL, VOLTAGE-GATED, SUBFAMILY G, MEMBER 3; KCNG3
+;;KV6.3;;
+KV10.1
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-gated potassium channels play an essential role in controlling
+cellular excitability in the nervous system. These channels are
+multimeric proteins containing alpha subunits, which are directly
+responsible for channel activity, and gamma subunits, which modify the
+basic channel activity. Kv6.3 functions as a gamma subunit.
+
+CLONING
+
+Using primers derived from a genomic fragment showing homology to Kv6.2
+(605696), Sano et al. (2002) cloned Kv6.3 from a human brain cDNA
+library. Kv6.3 encodes a deduced 437-amino acid sequence with a
+predicted molecular mass of 49 kD. It shares 34% sequence identity with
+Kv6.2 and 95.1% identity with the rat ortholog, Kv6.3. The protein
+contains a pore forming domain and 6 transmembrane domains. RT-PCR
+analysis demonstrated high expression of human Kv6.3 in various regions
+of the brain. RT-PCR analysis in rat demonstrated that Kv6.3 is
+specifically expressed in neuronal cells.
+
+By PCR, Ottschytsch et al. (2002) cloned KCNG3, which they called
+Kv10.1, from a brain cDNA library. The deduced protein contains 436
+amino acids. PCR analysis detected strongest expression in pancreas and
+testis and lower levels in brain, lung, kidney, thymus, ovary, small
+intestine, and colon.
+
+GENE FUNCTION
+
+By coimmunoprecipitation studies, Sano et al. (2002) demonstrated
+interaction between Kv6.3 and Kv2.1 (600397) in cotransfected COS-7
+cells. Electrophysiologic analysis of transiently transfected murine
+fibroblasts showed that Kv6.3 does not form a functional voltage-gated
+ion channel when expressed alone. When Kv6.3 is coexpressed with Kv2.1,
+a heteromultimeric channel is formed that shows a decreased rate of
+deactivation compared to the channel formed by Kv2.1 alone. Thus, Kv6.3
+appears to function as a modulatory subunit.
+
+Ottschytsch et al. (2002) found no potassium currents when KCNG3 was
+expressed alone, while coexpression with Kv2.1 in mouse fibroblasts
+resulted in altered Kv2.1 channel properties. By yeast 2-hybrid analysis
+using the N-terminal segment of KCNG3 containing the NAB domain, which
+regulates coassembly, Ottschytsch et al. (2002) found no
+homotetramerization between KCNG3 molecules. Immunoprecipitation
+analysis using full-length proteins confirmed interaction between KCNG3
+and Kv2.1. By confocal microscopy, Ottschytsch et al. (2002) showed that
+KCNG3 was retained in the endoplasmic reticulum when expressed alone,
+and it redistributed to the plasma membrane when expressed with Kv2.1.
+Ottschytsch et al. (2002) concluded that Kv2.1 promotes the trafficking
+of KCNG3 and other regulatory subunits to the cell surface, presumably
+by forming heterotetrameric channels.
+
+GENE STRUCTURE
+
+Sano et al. (2002) determined that the Kv6.3 gene contains 2 exons
+spanning 49 kb of genomic DNA.
+
+MAPPING
+
+Sano et al. (2002) mapped the Kv6.3 gene within a genomic clone
+localized to chromosome 2. By genomic sequence analysis, Ottschytsch et
+al. (2002) mapped the KCNG3 gene to chromosome 2p21.
+
+NOMENCLATURE
+
+Both KCNG3 and KCNG4 (607603) were referred to as Kv6.3 by different
+investigators
+
+REFERENCE 1. Ottschytsch, N.; Raes, A.; Van Hoorick, D.; Snyders, D. J.: Obligatory
+heterotetramerization of three previously uncharacterized Kv channel
+alpha-subunits identified in the human genome. Proc. Nat. Acad. Sci. 99:
+7986-7991, 2002.
+
+2. Sano, Y.; Mochizuki, S.; Miyake, A.; Kitada, C.; Inamura, K.; Yokoi,
+H.; Nozawa, K.; Matsushime, H.; Furuichi, K.: Molecular cloning and
+characterization of Kv6.3, a novel modulatory subunit for voltage-gated
+K+ channel Kv2.1. FEBS Lett. 512: 230-234, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/17/2003
+
+CREATED Patricia A. Hartz: 3/20/2002
+
+EDITED mgross: 03/06/2003
+mgross: 3/5/2003
+carol: 3/4/2003
+terry: 1/17/2003
+carol: 3/21/2002
+
+605660	TITLE *605660 PREFOLDIN 6; PFDN6
+;;KE2, MOUSE, HOMOLOG OF; HKE2
+DESCRIPTION 
+DESCRIPTION
+
+PFDN6 is a subunit of the heteromeric prefoldin complex that chaperones
+nascent actin (see 102560) and alpha- and beta-tubulin (see 602529 and
+191130, respectively) chains pending their transfer to the cytosolic
+chaperonin containing TCP1 (186980) (CCT) complex (Hansen et al., 1999).
+
+CLONING
+
+A number of diseases are influenced by genes at the centromeric end of
+the major histocompatibility complex (see 142800) on chromosome 6p21.3.
+Herberg et al. (1998) cloned and characterized genes, including HKE2, in
+the 70-kb, gene-dense segment flanking the tapasin (TAPBP; 601962) gene.
+The 129-amino acid HKE2 protein is identical to the mouse Ke2 sequence
+apart from the insertion of 2 residues at position 122.
+
+Vainberg et al. (1998) purified the prefoldin heterohexameric chaperone
+from bovine testis and, by database analysis, they identified Pfdn6 in
+several species, including mouse. The deduced mouse protein contains 127
+amino acids.
+
+GENE FUNCTION
+
+Using a mouse antibody directed against PFDN6 to follow the prefoldin
+complex, Hansen et al. (1999) showed that prefoldin is involved in
+chaperoning nascent chains of the cytoskeletal proteins actin,
+alpha-tubulin, and beta-tubulin in HeLa cells and rabbit reticulocyte
+lysates. Prefoldin bound to actin chains after synthesis of the
+N-terminal 130 to 140 amino acids and to beta-tubulin after synthesis of
+about 250 amino acids. Prefoldin remained bound to the relatively
+unfolded actin and tubulin polypeptides until delivery of the
+full-length proteins to CCT for folding to their native states.
+
+GENE STRUCTURE
+
+Herberg et al. (1998) determined that the PFDN6 gene contains 4 exons.
+
+MAPPING
+
+By genomic sequence analysis, Herberg et al. (1998) mapped the PFDN6
+gene to chromosome 6p21.3.
+
+REFERENCE 1. Hansen, W. J.; Cowan, N. J.; Welch, W. J.: Prefoldin-nascent chain
+complexes in the folding of cytoskeletal proteins. J. Cell Biol. 145:
+265-277, 1999.
+
+2. Herberg, J. A.; Beck, S.; Trowsdale, J.: TAPASIN, DAXX, RGL2,
+HKE2, and four new genes (BING 1, 3 to 5) form a dense cluster at
+the centromeric end of the MHC. J. Molec. Biol. 277: 839-857, 1998.
+
+3. Vainberg, I. E.; Lewis, S. A.; Rommelaere, H.; Ampe, C.; Vandekerckhove,
+J.; Klein, H. L.; Cowan, N. J.: Prefoldin, a chaperone that delivers
+unfolded proteins to cytosolic chaperonin. Cell 93: 863-873, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/29/2010
+
+CREATED Paul J. Converse: 2/16/2001
+
+EDITED mgross: 07/16/2010
+mgross: 7/15/2010
+terry: 6/29/2010
+mgross: 9/28/2007
+mgross: 2/16/2001
+
+138971	TITLE *138971 COLONY-STIMULATING FACTOR 3 RECEPTOR, GRANULOCYTE; CSF3R
+;;GRANULOCYTE COLONY-STIMULATING FACTOR RECEPTOR; GCSFR
+DESCRIPTION 
+CLONING
+
+Granulocyte colony-stimulating factor or CSF3 (138970), is a
+glycoprotein of MW 20,000-25,000 that is produced by macrophages
+stimulated with endotoxin. It plays an important role in granulopoiesis
+during the inflammatory process. CSF3 exerts its biologic effects
+through interaction with specific cell-surface receptors. Binding
+studies with radiolabeled CSF3 indicated that CSF3 receptor is expressed
+not only by progenitor and mature neutrophilic granulocytes, but also by
+nonhematopoietic cells such as placental cells, endothelial cells, and
+various carcinoma cell lines. Fukunaga et al. (1990) cloned and
+characterized cDNAs for human CSF3 receptor. They found that it is
+abundantly expressed in the human placenta. The receptor contains 813
+amino acids and shows marked homology (62.5%) with its murine
+counterpart. It was found to consist of extracellular, transmembrane,
+and cytoplasmic domains. Two other classes of the human CSF3 receptor
+were identified, one of which had a deletion of the transmembrane domain
+and seemed to represent a secreted, soluble receptor. The third class
+contained a 27-amino acid insertion in the cytoplasmic domain and was
+highly expressed in the placenta.
+
+Seto et al. (1992) found that CSF3R is subdivided into several regions:
+an Ig-like domain, a cytokine receptor homologous domain, 3 fibronectin
+type III domains, a transmembrane domain, and a cytoplasmic region. No
+canonical 'TATA' box was found upstream of the cap site. About 110 bp
+upstream of the transcription initiation site, an 18-bp element was
+found that is homologous to sequences found in the promoter of human
+myeloperoxidase (606989) and neutrophil elastase (130120) genes.
+
+GENE FUNCTION
+
+Dong et al. (2001) reported that the C terminus of CSF3R is required for
+SHP1 (176883) downregulation of CSF3-induced STAT activation. The
+authors proposed that this mechanism inhibits cell proliferation and
+survival in response to CSF3.
+
+GENE STRUCTURE
+
+Seto et al. (1992) found that the CSF3R gene consists of 17 exons.
+
+MAPPING
+
+By in situ hybridization using human CSF3R cDNA as a probe, Inazawa et
+al. (1991) localized the gene to 1p35-p34.3. The localization on
+chromosome 1 was confirmed by 2 further methods: the use of
+oligonucleotides specific for human CSF3R for PCR amplification of DNA
+from mouse A9 cells that contained chromosome 1 as the only human
+chromosome; and spot-blot hybridization of sorted human chromosomes.
+Tweardy et al. (1992) assigned the gene to the distal short arm of human
+chromosome 1 by Southern blot analysis of its segregation pattern in a
+panel of rodent-human hybrid DNAs. By chromosomal in situ hybridization,
+they refined the localization to 1p34-p32 and concluded that the gene is
+located telomeric to the CSF1 (120420), JUN (165160), and TCL5 (187040)
+genes.
+
+MOLECULAR GENETICS
+
+Dong et al. (1994) identified a somatic point mutation in the GCSFR gene
+as the cause of acute myeloid leukemia (AML) in a patient with severe
+congenital neutropenia (202700). Dong et al. (1995) described somatic
+mutations in the GCSFR gene in 2 males with acute myeloid leukemia
+preceded by severe congenital neutropenia. In 1 patient, the mutation
+was also found in the neutropenic stage, before the progression to acute
+myeloid leukemia. Transfection of the cDNA encoding the mutant GCSF
+receptor into mouse cells resulted in abnormally high proliferative
+responses but failure to mature when cultured in GCSF. The mutant
+receptors also interfered with terminal maturation mediated by the
+wildtype GCSF receptor and the murine cells that coexpressed the
+wildtype and mutant receptors, an apparent dominant-negative effect.
+
+Tidow et al. (1997) investigated the frequency of these specific
+mutations in patients with congenital neutropenia undergoing treatment
+with recombinant human granulocyte colony-stimulating factor
+(Filgrastim). The critical region (nucleotides 2384-2429) from the
+intracellular domain of the GCSFR gene was studied in both genomic DNA
+and cDNA from neutrophils and mononuclear cells from 28 patients with
+severe congenital neutropenia. In 4 of the patients, a point mutation in
+the tested cytoplasmic region of the GCSFR gene was found. The point
+mutations replaced a glutamine codon by a stop codon. Among these 4
+congenital neutropenia patients with a mutated GCSFR gene, 2 developed
+AML. All 4 patients were investigated regularly and no correlation
+between occurrence of GCSFR mutation and time or dose of Filgrastim was
+found. No point mutations in the GCSFR critical domain could be detected
+in cells from the other 24 congenital neutropenia patients. Furthermore,
+Tidow et al. (1997) tested 6 family members of the 2 patients with AML,
+including mothers and fathers, 1 sister, and 1 brother who also suffered
+from congenital neutropenia. All family members had a normal GCSFR gene.
+After the acquisition of the GCSFR mutations, the congenital neutropenia
+patients continued to respond to G-CSFR therapy with an increase in
+absolute neutrophils in the peripheral blood. Tidow et al. (1997)
+concluded that the point mutations in the critical region of the
+intracellular part of the G-CSF receptor occur spontaneously and are not
+inherited. They suggested, furthermore, that the described point
+mutations do not alter the response to treatment and are not the cause
+of severe congenital neutropenia.
+
+Dale et al. (2000) quoted prevalence data suggesting that a minority of
+patients with congenital neutropenia show mutations in GCSFR. On the
+other hand, mutations in the neutrophil elastase gene (ELA2; 130130)
+have been identified in a majority of these patients. Dale et al. (2000)
+suggested that it is much more likely that mutations in the ELA2 gene
+compromise myeloid differentiation and create a risk for development of
+acute myeloid leukemia.
+
+In a 3-generation family segregating autosomal dominant neutrophilia
+(162830), Plo et al. (2009) sequenced the CSF3R gene and identified a
+heterozygous mutation (T617N; 138971.0001) in all 12 affected
+individuals that was not found in the 4 unaffected family members. The
+mutation disappeared after remission and was not detected at relapse,
+indicating that the T617N mutation was a secondary event in the leukemic
+process. The T617N mutation had previously been reported as an acquired
+activating mutation in 2 of 555 patients with acute myeloid leukemia by
+Forbes et al. (2002).
+
+Maxson et al. (2013) identified activating mutations in the CSF3R gene
+in 16 of 27 patients (59%) with chronic neutrophilic leukemia (CNL) or
+atypical (BCR-ABL1-negative; see 608232) chronic myeloid leukemia (CML).
+These mutations segregated within 2 distinct regions of CSF3R and led to
+preferential downstream kinase signaling through SRC family (see
+190090)-TNK2 (606994) or JAK kinases and differential sensitivity to
+kinase inhibitors. A patient with CNL carrying a JAK-activating CSF3R
+mutation had marked clinical improvement after the administration of the
+JAK1/2 (see 147795) inhibitor ruxolitinib.
+
+ANIMAL MODEL
+
+Despite the demonstration of mutations in CSF3R, their role in the
+pathogenesis of SCN and the subsequent development of acute myeloid
+leukemia remained controversial. McLemore et al. (1998) generated mice
+carrying a targeted mutation in their Csf3r gene that reproduced a
+mutation found in a patient with SCN and AML reported by Dong et al.
+(1995). They found that the mutant Csf3r allele was expressed in a
+myeloid-specific fashion at levels comparable to the wildtype allele.
+Mice heterozygous or homozygous for this mutation had normal levels of
+circulating neutrophils and no evidence for a block in myeloid
+maturation, indicating that resting granulopoiesis was normal. However,
+in response to GCSF treatment, these mice demonstrated a significantly
+greater increase in the level of circulating neutrophils. This effect
+appeared to be due to increased neutrophil production. Furthermore, the
+in vitro survival and GCSF-dependent suppression of apoptosis of mutant
+neutrophils were normal. Despite this evidence for a hyperproliferative
+response to GCSF, no cases of AML were detected. McLemore et al. (1998)
+interpreted the results as providing strong evidence that mutations in
+the CSF3R gene are not responsible for the impaired granulopoiesis
+present in patients with SCN.
+
+Schweizerhof et al. (2009) presented evidence that GCSF and GMCSF (CSF2;
+138960) mediate bone cancer pain and tumor-nerve interactions. Increased
+levels of both factors were detected in bone marrow lysates and
+adjoining connective tissue in a mouse sarcoma model of bone
+tumor-induced pain compared to controls. The functional receptors GCSFR
+and GMCSFR (CSF2RA; 306250) were expressed on peripheral nerves in the
+bone matrix and in dorsal root ganglia. GMCSF sensitized nerves to
+mechanical stimuli in vitro and in vivo, potentiated CGRP (114130)
+release, and caused sprouting of sensory nerve endings in the skin. RNA
+interference of GCSF and GMCSF signaling in mouse sarcoma model led to
+reduced tumor growth and nerve remodeling, and abrogated bone cancer
+pain.
+
+ALLELIC VARIANT .0001
+NEUTROPHILIA, HEREDITARY
+CSF3R, THR617ASN
+
+In 12 affected members of a 3-generation family segregating autosomal
+dominant hereditary neutrophilia (162830), Plo et al. (2009) identified
+heterozygosity for a 2088C-A transversion in the CSF3R gene, resulting
+in a thr617-to-asn (T617N) substitution located in the transmembrane
+domain of the receptor. The mutation disappeared after remission and was
+not detected at relapse, indicating that the T617N mutation was a
+secondary event in the leukemic process. Computational analysis by Plo
+et al. (2009) indicated that T617N strongly favors dimerization of the
+receptor transmembrane domain, and studies in CD34+ cells from patients
+and controls demonstrated constitutive activation of the mutant receptor
+with hypersensitivity to GCSF. Mutant hematopoietic stem cells yielded a
+myeloproliferative-like disorder in xenotransplantation and syngenic
+mouse bone marrow engraftment assays. The T617N mutation had previously
+been reported as an acquired activating mutation in 2 of 555 patients
+with acute myeloid leukemia by Forbes et al. (2002).
+
+ADDITIONAL REFERENCES Wong et al. (1993)
+REFERENCE 1. Dale, D. C.; Person, R. E.; Bolyard, A. A.; Aprikyan, A. G.; Bos,
+C.; Bonilla, M. A.; Boxer, L. A.; Kannourakis, G.; Zeidler, C.; Welte,
+K.; Benson, K. F.; Horwitz, M.: Mutations in the gene encoding neutrophil
+elastase in congenital and cyclic neutropenia. Blood 96: 2317-2322,
+2000.
+
+2. Dong, F.; Brynes, R. K.; Tidow, N.; Welte, K.; Lowenberg, B.; Touw,
+I. P.: Mutations in the gene for the granulocyte colony-stimulating-factor
+receptor in patients with acute myeloid leukemia preceded by severe
+congenital neutropenia. New Eng. J. Med. 333: 487-493, 1995.
+
+3. Dong, F.; Hoefsloot, L. H.; Schelen, A. M.; Broeders, L. C. A.
+M.; Meijer, Y.; Veerman, A. J. P.; Touw, I. P.; Lowenberg, B.: Identification
+of a nonsense mutation in the granulocyte-colony-stimulating factor
+receptor in severe congenital neutropenia. Proc. Nat. Acad. Sci. 91:
+4480-4484, 1994.
+
+4. Dong, F.; Qiu, Y.; Yi, T.; Touw, I. P.; Larner, A. C.: The carboxyl
+terminus of the granulocyte colony-stimulating factor receptor, truncated
+in patients with severe congenital neutropenia/acute myeloid leukemia,
+is required for SH2-containing phosphatase-1 suppression of Stat activation. J.
+Immun. 167: 6447-6452, 2001.
+
+5. Forbes, L. V.; Gale, R. E.; Pizzey, A.; Pouwels, K.; Nathwani,
+A.; Linch, D. C.: An activating mutation in the transmembrane domain
+of the granulocyte colony-stimulating factor receptor in patients
+with acute myeloid leukemia. Oncogene 21: 5981-5989, 2002.
+
+6. Fukunaga, R.; Seto, Y.; Mizushima, S.; Nagata, S.: Three different
+mRNAs encoding human granulocyte colony-stimulating factor receptor. Proc.
+Nat. Acad. Sci. 87: 8702-8706, 1990.
+
+7. Inazawa, J.; Fukunaga, R.; Seto, Y.; Nakagawa, H.; Misawa, S.;
+Abe, T.; Nagata, S.: Assignment of the human granulocyte colony-stimulating
+factor receptor gene (CSF3R) to chromosome 1 at region p35-p34.3. Genomics 10:
+1075-1078, 1991.
+
+8. Maxson, J. E.; Gotlib, J.; Pollyea, D. A.; Fleischman, A. G.; Agarwal,
+A.; Eide, C. A.; Bottomly, D.; Wilmot, B.; McWeeney, S. K.; Tognon,
+C. E.; Pond, J. B.; Collins, R. H.; Goueli, B.; Oh. S. T.; Deininger,
+M. W.; Chang, B. H.; Loriaux, M. M.; Druker, B. J.; Tyner, J. W.:
+Oncogenic CSF3R mutations in chronic neutrophilic leukemia and atypical
+CML. New Eng. J. Med. 368: 1781-1790, 2013.
+
+9. McLemore, M. L.; Poursine-Laurent, J.; Link, D. C.: Increased
+granulocyte colony-stimulating factor responsiveness but normal resting
+granulopoiesis in mice carrying a targeted granulocyte colony-stimulating
+factor receptor mutation derived from a patient with severe congenital
+neutropenia. J. Clin. Invest. 102: 483-492, 1998.
+
+10. Plo, I.; Zhang, Y.; Le Couedic, J.-P.; Nakatake, M.; Boulet, J.-M.;
+Itaya, M.; Smith, S. O.; Debili, N.; Constantinescu, S. N.; Vainchenker,
+W.; Louache, F.; de Botton, S.: An activating mutation in the CSF3R
+gene induces a hereditary chronic neutrophilia. J. Exp. Med. 206:
+1701-1707, 2009.
+
+11. Schweizerhof, M.; Stosser, S.; Kurejova, M.; Njoo, C.; Gangadharan,
+V.; Agarwal, N.; Schmelz, M.; Bali, K. K.; Michalski, C. W.; Brugger,
+S.; Dickenson, A.; Simone, D. A.; Kuner, R.: Hematopoietic colony-stimulating
+factors mediate tumor-nerve interactions and bone cancer pain. (Letter) Nature
+Med. 15: 802-807, 2009.
+
+12. Seto, Y.; Fukunaga, R.; Nagata, S.: Chromosomal gene organization
+of the human granulocyte colony-stimulating factor receptor. J. Immun. 148:
+259-266, 1992.
+
+13. Tidow, N.; Pilz, C.; Teichmann, B.; Muller-Brechlin, A.; Germeshausen,
+M.; Kasper, B.; Rauprich, P.; Sykora, K.-W.; Welte, K.: Clinical
+relevance of point mutations in the cytoplasmic domain of the granulocyte
+colony-stimulating factor receptor gene in patients with severe congenital
+neutropenia. Blood 89: 2369-2375, 1997.
+
+14. Tweardy, D. J.; Anderson, K.; Cannizzaro, L. A.; Steinman, R.
+A.; Croce, C. M.; Huebner, K.: Molecular cloning of cDNAs for the
+human granulocyte colony-stimulating factor receptor from HL-60 and
+mapping of the gene to chromosome region 1p32-34. Blood 79: 1148-1154,
+1992.
+
+15. Wong, W.-Y.; Williams, D.; Slovak, M. L.; Charak, B.; Mazumder,
+A.; Snyder, D.; Powars, D. R.; Byrnes, R. K.: Terminal acute myelogenous
+leukemia in a patient with congenital agranulocytosis. Am. J. Hemat. 43:
+133-138, 1993.
+
+CONTRIBUTORS Ada Hamosh - updated: 07/08/2013
+Marla J. F. O'Neill - updated: 9/28/2009
+Cassandra L. Kniffin - updated: 8/18/2009
+Paul J. Converse - updated: 1/16/2002
+Victor A. McKusick - updated: 1/9/2001
+Ada Hamosh - updated: 11/6/2000
+Victor A. McKusick - updated: 10/1/1998
+Victor A. McKusick - updated: 5/28/1997
+
+CREATED Victor A. McKusick: 12/21/1990
+
+EDITED alopez: 07/08/2013
+wwang: 9/28/2009
+wwang: 9/8/2009
+ckniffin: 8/18/2009
+alopez: 2/1/2007
+ckniffin: 5/29/2002
+mgross: 1/16/2002
+mcapotos: 1/12/2001
+terry: 1/9/2001
+carol: 11/6/2000
+carol: 10/6/1998
+terry: 10/1/1998
+dkim: 9/11/1998
+jenny: 6/3/1997
+terry: 5/28/1997
+mark: 10/18/1995
+jason: 6/13/1994
+carol: 10/26/1993
+carol: 5/5/1992
+supermim: 3/16/1992
+carol: 2/16/1992
+
+605684	TITLE *605684 TRIPARTITE MOTIF-CONTAINING PROTEIN 34; TRIM34
+;;RING FINGER PROTEIN 21; RNF21;;
+INTERFERON-RESPONSIVE FINGER PROTEIN 1; IFP1
+DESCRIPTION 
+CLONING
+
+RING finger proteins play crucial roles in differentiation, development,
+oncogenesis, and apoptosis. Although RING finger domains are involved in
+protein-protein interactions and typically bind zinc, they are distinct
+from zinc finger domains in terms of sequence and structure. Using PCR
+with degenerate primers to generate probes for novel RING finger
+proteins, followed by screening placenta and ovary cDNA libraries, Orimo
+et al. (2000) isolated cDNAs encoding 3 isoforms of RNF21. The deduced
+842-amino acid long form contains 2 RING finger domains, 2 RING finger
+B-box coiled-coil (RBCC) domains, and a C-terminal B30.2 domain. The
+488-amino acid medium form has 1 of each of these domains, whereas the
+270-amino acid short form has a RING finger domain and a RBCC domain but
+lacks the B30.2 domain. Immunoblot analysis detected 98-, 54-, and 31-kD
+proteins. RT-PCR analysis indicated that each isoform is expressed in
+placenta and testis. Northern blot analysis revealed expression of a
+4-kb transcript predominantly in testis and a 2.4-kb transcript that was
+highly expressed in placenta, spleen, colon, and blood leukocytes. The
+long form was expressed only in testis, kidney, and ovary. Expression of
+the medium form was upregulated in response to alpha-interferon (see
+147660) and, later, to gamma-interferon (147570).
+
+MAPPING
+
+By FISH, Orimo et al. (2000) mapped the RNF21 gene to 11p15.4-p15.3.
+
+REFERENCE 1. Orimo, A.; Tominaga, N.; Yoshimura, K.; Yamauchi, Y.; Nomura, M.;
+Sato, M.; Nogi, Y.; Suzuki, M.; Suzuki, H.; Ikeda, K.; Inoue, S.;
+Muramatsu, M.: Molecular cloning of ring finger protein 21 (RNF21)/interferon-responsive
+finger protein (ifp1), which possesses two RING-B box-coiled coil
+domains in tandem. Genomics 69: 143-149, 2000.
+
+CREATED Paul J. Converse: 2/23/2001
+
+EDITED carol: 10/26/2006
+carol: 6/13/2003
+mgross: 12/21/2001
+mcapotos: 7/20/2001
+mgross: 2/27/2001
+mgross: 2/26/2001
+
+611151	TITLE *611151 tRNA METHYLTRANSFERASE 2, S. CEREVISIAE, HOMOLOG OF, A; TRMT2A
+;;HPAII TINY FRAGMENTS LOCUS 9C; HTF9C
+DESCRIPTION 
+CLONING
+
+Guarguaglini et al. (1997) cloned mouse Htf9c, which encodes a deduced
+676-amino acid protein with a calculated molecular mass of 75 kD. Htf9c
+has a putative N-terminal nuclear targeting signal and a C-terminal
+domain similar to yeast and bacterial nucleic acid-modifying enzymes.
+
+GENE FUNCTION
+
+Guarguaglini et al. (1997) found that mouse Htf9c and Ranbp1 (601180)
+were divergently transcribed from a bidirectional promoter. Expression
+of both genes was activated upon entry into the cell cycle, peaked in S
+phase, and was downregulated during completion of the cell cycle. The
+bidirectional promoter was downregulated in both orientations in
+arrested cells. Activation of the promoter was specific, resulting in
+more restricted Htf9c expression and a sharper peak of Htf9c expression
+in S phase compared with Ranbp1 expression. A region containing an E2f
+(189971) site was important for cell cycle control of Htf9c, and a
+common region containing sites for Sp1 (189906) and E2f contributed to
+activation in both orientations.
+
+MAPPING
+
+Hartz (2007) mapped the HTF9C gene to chromosome 22q11.21 based on an
+alignment of the TRMT2A sequence (GenBank GENBANK AK025106) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Guarguaglini, G.; Battistoni, A.; Pittoggi, C.; Di Matteo, G.;
+Di Fiore, B.; Lavia, P.: Expression of the murine RanBP1 and Htf9-c
+genes is regulated from a shared bidirectional promoter during cell
+cycle progression. Biochem. J. 325: 277-286, 1997.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  6/22/2007.
+
+CREATED Patricia A. Hartz: 6/28/2007
+
+EDITED alopez: 04/03/2009
+mgross: 6/28/2007
+
+611373	TITLE *611373 LIVER-EXPRESSED ANTIMICROBIAL PEPTIDE 2; LEAP2
+DESCRIPTION 
+DESCRIPTION
+
+LEAP2 is a cysteine-rich cationic antimicrobial peptide (Krause et al.,
+2003).
+
+CLONING
+
+By database analysis using partial sequence of a cysteine-rich peptide
+purified from a human blood ultrafiltrate peptide library as probe,
+Krause et al. (2003) identified LEAP2 genomic and cDNA sequences and
+several possible splice variants. The deduced 77-amino acid precursor
+protein contains an N-terminal secretory signal sequence and 4 cysteine
+residues forming 2 disulfide bonds and shares 83% sequence similarity to
+the mouse Leap2 precursor protein. The putative mature LEAP2 peptide
+(amino acids 38-77) is identical to that of mouse. LEAP2 shares the
+structural features of positively charged amino acid residues and
+multiple disulfides with other antimicrobial peptides such as the
+defensins (see DEFB4, 602215) and LEAP1/hepcidin (HAMP; 606464).
+Northern blot analysis detected multiple LEAP2 transcripts in human
+liver and kidney, with possible faint expression in other tissues.
+Real-time quantitative RT-PCR specific for the major LEAP2 transcript
+(LEAP2-350) and an intron-1 retaining transcript (LEAP2-550) detected
+tissue-specific expression. The highest expression of LEAP2-350 was
+found in liver, kidney, jejunum, and duodenum, with lower expression in
+antrum, brain, bladder, testis, heart, lung, and colon, and very low
+expression in other tissues examined. The highest expression of
+LEAP2-550 was found in kidney, followed by brain, liver, heart, and
+lung, with lower expression in prostate, trachea, and other tissues.
+
+GENE FUNCTION
+
+Using chemically synthesized LEAP2 peptide in zone inhibition assay and
+dose-response colony formation unit assays, Krause et al. (2003) showed
+that LEAP2 displayed dose-dependent antimicrobial activity against
+numerous Gram-positive bacteria and yeasts. The half-maximal inhibitory
+activity (IC-50) of LEAP2 was -5 microM against S. cerevisiae and B.
+subtilis, corresponding to the activity of other antimicrobial peptides
+on a molar basis. LEAP2 had no antimicrobial activity against
+Gram-negative bacteria.
+
+GENE STRUCTURE
+
+Krause et al. (2003) determined that the LEAP2 gene contains 3 exons,
+with several possible alternatively spliced forms, including an intron-1
+retaining transcript (LEAP2-550).
+
+MAPPING
+
+By genomic sequence analysis and radiation hybrid analysis, Krause et
+al. (2003) mapped the LEAP2 gene to chromosome 5q31. They mapped the
+mouse Leap2 gene to a region of syntenic homology on chromosome 11.
+
+REFERENCE 1. Krause, A.; Sillard, R.; Kleemeier, B.; Kluver, E.; Maronde, E.;
+Conejo-Garcia, J. R.; Forssmann, W. G.; Schulz-Knappe, P.; Nehls,
+M. C.; Wattler, F.; Wattler, S.; Adermann, K.: Isolation and biochemical
+characterization of LEAP-2, a novel blood peptide expressed in the
+liver. Protein Sci. 12: 143-152, 2003.
+
+CREATED Dorothy S. Reilly: 8/24/2007
+
+EDITED carol: 08/24/2007
+carol: 8/24/2007
+
+614405	TITLE *614405 DEAH BOX POLYPEPTIDE 33; DHX33
+DESCRIPTION 
+DESCRIPTION
+
+Members of the DEAD/DEAH box family of RNA helicases, such as DHX33,
+modify the higher-order structure of RNA through hydrolysis of ATP or
+other nucleoside triphosphates (NTPs). These enzymes have a role in RNA
+transcription, RNA editing, pre-mRNA splicing, ribosome biogenesis, and
+RNA decay (summary by Zhang et al., 2011).
+
+CLONING
+
+Ribosomal RNA (rRNA) is transcribed by RNA polymerase I (see POLR1B;
+602000) as a 47S polycistronic precursor that is processed into mature
+18S, 5.8S, and 28S rRNAs. Using an RNA interference screen to identify
+DDX/DHX enzymes that perturb rRNA transcription in human fibroblasts,
+Zhang et al. (2011) identified DHX33. The deduced protein contains an
+N-terminal ATP/NTP-binding domain, a central ATP/NTPase domain, and
+C-terminal helicase and ATP/NTP hydrolysis-dependent substrate
+interaction motifs. Fractionation of a human breast cancer cell line and
+human and mouse fibroblasts, as well as immunohistochemical analysis,
+revealed that DHX33 localized predominantly with markers of nucleoli,
+with some localization in nucleoplasm. Following dispersal of nucleoli
+during the cell cycle, DHX33 followed nucleolar proteins to nucleolar
+organizing regions.
+
+GENE FUNCTION
+
+Zhang et al. (2011) found that knockdown of DHX33 in human cell lines
+inhibited rRNA transcription and processing, reduced the size of
+nucleoli, caused nucleolar stress, and initiated a p53 (TP53;
+191170)-dependent stress response that included cell cycle arrest and
+induction of p21 (CDKN1A; 116899). Mutation analysis revealed that lys94
+(K94) within the catalytic domain of DHX33 was crucial for rRNA
+transcription. DHX33 deficiency reduced recruitment of the large RNA
+polymerase subunit RPA194 (POLR1A) to rDNA loci and reduced
+phosphorylation of UBF (UBTF; 600673), which is required for RNA
+polymerase I activity. Overexpression of wildtype DHX33, but not DHX33
+with a K94 mutation, in human cell lines stimulated 47S synthesis.
+Overexpression of DHX33 with deletion of its putative DNA-binding domain
+also reduced rRNA synthesis. Chromatin immunoprecipitation analysis of
+human breast cancer cells revealed that DHX33, like RPA194, occupied the
+entire rDNA promoter and transcribed regions, and binding required the
+DNA-binding motif of DHX33. DHX33 also immunoprecipitated with UBF.
+Zhang et al. (2011) concluded that DHX33 has a critical role in cell
+growth and rRNA synthesis.
+
+MAPPING
+
+Hartz (2011) mapped the DHX33 gene to chromosome 17p13.2 based on an
+alignment of the DHX33 sequence (GenBank GENBANK AL359945) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  12/6/2011.
+
+2. Zhang, Y.; Forys, J. T.; Miceli, A. P.; Gwinn, A. S.; Weber, J.
+D.: Identification of DHX33 as a mediator of rRNA synthesis and cell
+growth. Molec. Cell. Biol. 31: 4676-4691, 2011.
+
+CREATED Patricia A. Hartz: 12/20/2011
+
+EDITED mgross: 01/03/2012
+joanna: 1/1/2012
+mgross: 12/20/2011
+
+602327	TITLE *602327 PLECKSTRIN AND SEC7 DOMAINS-CONTAINING PROTEIN; PSD
+;;TYL;;
+EXCHANGE FACTOR FOR ARF6; EFA6;;
+EFA6A
+DESCRIPTION Perletti et al. (1997) identified a novel human gene on 10q24,
+contiguous to the 3-prime end of the NFKB2 gene (164012) in a
+tail-to-tail arrangement. They described a cDNA of 4,307 bp, isolated
+from an adult human brain cDNA library, which contains an open reading
+frame encoding a putative protein of 645 amino acids with a predicted
+molecular weight of 71 kD. Database homology searches indicated that the
+novel gene codes for a putative protein containing 2 discrete domains
+with significant homology to the Sec7 and pleckstrin-homology (PH)
+domains, respectively. They used the gene symbol PSD for
+'pleckstrin-Sec7 domains.' Northern blot analysis of a panel of RNAs
+from normal human tissues using the PSD cDNA as probe revealed the
+presence of 3 different tissue-specific transcripts of approximately
+4.3, 2.3, and 1.8 kb, the longest of which was expressed only in brain.
+The data suggested that the PSD gene may encode a protein related to the
+protein family containing both the Sec7 in the PH domains and thought to
+be involved in signaling transduction processes. Other human proteins in
+the same family include cytohesin-1 (Kolanus et al., 1996) and ARNO
+(602488) (Chardin et al., 1996).
+
+Derrien et al. (2002) reported that PSD, which they called EFA6A, is 63%
+identical to EFA6B (PSD4; 614442) and contains a Sec7 domain adjacent to
+a PH domain, followed by a C-terminal coiled-coil motif. Northern blot
+analysis showed that EFA6A expression was largely restricted to brain,
+with a smaller transcript expressed in small intestine, colon, and
+ovary. Immunofluorescence microscopy demonstrated punctate cell surface
+expression of ARF6 (600464) and EFA6A, like EFA6B, in transfected baby
+hamster kidney cells. Both EFA6 proteins also colocalized with F-actin
+(see 102610).
+
+GENE FUNCTION
+
+Derrien et al. (2002) found that recombinant EFA6A stimulated nucleotide
+exchange on myristoylated ARF6, with only low activity on ARF1 (103180).
+The C-terminal region was involved in microvilli lengthening. Derrien et
+al. (2002) concluded that EFA6 family guanine exchange factors are
+modular proteins that work through the coordinated action of the
+catalytic Sec7 domain to promote ARF6 activation, through the PH domain
+to regulate association with specific subdomains of the plasma membrane,
+and through the C-terminal region to control actin cytoskeletal
+reorganization.
+
+MAPPING
+
+Gross (2012) mapped the PSD gene to chromosome 10q24.32 based on an
+alignment of the PSD sequence (GenBank GENBANK BC142689) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Chardin, P.; Paris, S.; Antonny, B.; Robineau, S.; Beraud-Dufour,
+S.; Jackson, C. L.; Chabre, M.: A human exchange factor for ARF contains
+Sec7- and pleckstrin-homology domains. Nature 384: 481-484, 1996.
+
+2. Derrien, V.; Couillault, C.; Franco, M.; Martineau, S.; Montcourrier,
+P.; Houlgatte, R.; Chavrier, P.: A conserved C-terminal domain of
+EFA6-family ARF6-guanine nucleotide exchange factors induces lengthening
+of microvilli-like membrane protrusions. J. Cell Sci. 115: 2867-2879,
+2002.
+
+3. Gross, M. B.: Personal Communication. Baltimore, Md.  1/24/2012.
+
+4. Kolanus, W.; Nagel, W.; Schiller, B.; Zeitlmann, L.; Godar, S.;
+Stockinger, H.; Seed, B.: Alpha-L-beta-2 integrin/LFA-1 binding to
+ICAM-1 induced by cytohesin-1, a cytoplasmic regulatory molecule. Cell 86:
+233-242, 1996.
+
+5. Perletti, L.; Talarico, D.; Trecca, D.; Ronchetti, D.; Fracchiolla,
+N. S.; Maiolo, A. T.; Neri, A.: Identification of a novel gene, PSD,
+adjacent to NFKB2/lyt-10, which contains Sec7 and pleckstrin-homology
+domains. Genomics 46: 251-259, 1997.
+
+CONTRIBUTORS Matthew B. Gross - updated: 01/24/2012
+Paul J. Converse - updated: 12/16/2011
+
+CREATED Victor A. McKusick: 2/9/1998
+
+EDITED mgross: 01/24/2012
+terry: 12/16/2011
+mgross: 4/21/2004
+mgross: 1/20/2000
+mgross: 3/18/1999
+carol: 5/22/1998
+dholmes: 3/10/1998
+mark: 2/9/1998
+
+608610	TITLE *608610 PROGRAMMED CELL DEATH 4; PDCD4
+;;NEOPLASTIC TRANSFORMATION INHIBITOR
+DESCRIPTION 
+CLONING
+
+By screening a glioma cDNA expression library with antibodies raised
+against a nuclear protein, Matsuhashi et al. (1997) cloned PDCD4, which
+they designated H731. The deduced 458-amino acid protein has a
+calculated molecular mass of 50.6 kD. PDCD4 is an acidic protein with
+characteristics of a nuclear nonhistone protein. It contains 2
+overlapping GxGxxG nucleotide-binding motifs, which are characteristic
+of protein kinases, but it does not have a kinase catalytic domain.
+PDCD4 also has several putative serine and threonine phosphorylation
+sites. Northern blot analysis detected transcripts of about 2.7 and 3.8
+kb in HeLa cell total RNA. Recombinant PDCD4 expressed in E. coli
+resulted in proteins with apparent molecular masses of 56 and 37 kD. The
+37-kD truncated protein was synthesized from val127, reading the val
+codon as an f-met initiation codon.
+
+Yoshinaga et al. (1999) found that PDCD4 accumulated in the nuclei of
+confluent or quiescent normal fetal lung fibroblasts, but it was
+overproduced and localized in the cytoplasm during the cell cycle in
+tumor cell lines. Immunohistologic analysis revealed that PDCD4 was
+highly expressed in bladder carcinoma and breast carcinoma tissues
+compared with normal tissues. PDCD4 was also abundantly expressed in the
+small duct epithelial cells of normal mammary gland.
+
+GENE FUNCTION
+
+By Northern blot and Western blot analyses, Kang et al. (2002)
+determined that expression of both the PDCD4 transcript and protein was
+upregulated in senescent diploid fibroblasts compared with cells in log
+phase growth. Yeast 2-hybrid analysis showed that the C terminus of
+PDCD4 could interact with a component of the 40S ribosome complex, RPS13
+(180476), and with RPL5 (603634) and TI-227H. In vitro binding assays
+confirmed the interaction between PDCD4 and RPS13. In vitro pull-down
+assays also showed that PDCD4 interacted with EIF4G (600495), but not
+with EIF4E (133440). Furthermore, PDCD4 localized to polysome fractions
+of fractionated HeLa cells. Kang et al. (2002) concluded that PDCD4 may
+regulate EIF4G-dependent translation through direct interaction with
+EIF4G and RPS13 in senescent fibroblasts.
+
+Dorrello et al. (2006) found that the tumor suppressor PDCD4 inhibits
+the translation initiation factor EIF4A (see 602641), an RNA helicase
+that catalyzes the unwinding of secondary structure at the 5-prime
+untranslated region of mRNAs. In response to mitogens, PDCD4 was rapidly
+phosphorylated on ser67 by the protein kinase S6K1 (608938) and
+subsequently degraded via the ubiquitin ligase SCF-beta(TRCP) (603482).
+Expression in cultured cells of a stable PDCD4 mutant that was unable to
+bind beta-TRCP inhibited translation of an mRNA with a structured
+5-prime untranslated region, resulted in smaller cell size, and slowed
+down cell cycle progression. Dorrello et al. (2006) proposed that
+regulated degradation of PDCD4 in response to mitogens allows efficient
+protein synthesis and consequently cell growth.
+
+PDCD4 contains 2 tandem MA3 domains consisting of conserved
+alpha-helical hairpins. Using x-ray crystallography, NMR, and surface
+plasmon resonance, Suzuki et al. (2008) found that both MA3 domains of
+human PDCD4 were structurally and functionally similar and bound
+specifically to the N-terminal domain of EIF4A using similar binding
+interfaces. The MA3 domains of PDCD4 competed with the MA3 domain of
+EIF4G and RNA for EIF4A binding. Suzuki et al. (2008) concluded that
+PDCD4 inhibits translation initiation by displacing EIF4G and RNA from
+EIF4A. They proposed that the PDCD4 MA3 domains act synergistically to
+form a tighter and more stable complex with EIF4A, explaining the need
+for 2 tandem MA3 domains.
+
+Davis et al. (2008) demonstrated that induction of a contractile
+phenotype in human vascular smooth muscle cells by TGF-beta (190180) and
+BMPs (see 112264) is mediated by miR21 (611020). miR21 downregulates
+PDCD4, which in turn acts as a negative regulator of smooth muscle
+contractile genes. Davis et al. (2008) concluded that PDCD4 is a
+functional target of miR21 involved in the BMP-mediated induction of
+smooth muscle cell markers in vascular smooth muscle cells.
+
+Asangani et al. (2008) identified an miR21 target sequence in the
+3-prime UTR of PDCD4 and confirmed binding and inhibition of PDCD4 by
+miR21 using reporter gene assays. They observed an inverse correlation
+between miR21 and PDCD4 expression in 10 colorectal cell lines and in 22
+colorectal cancer tissues and matched normal controls. Transfection of
+RKO human colorectal cancer cells with anti-miR21 increased PDCD4
+protein concentration, reduced the invasive potential of RKO cells in
+3-dimensional gels, and reduced intravasation and lung metastasis of RKO
+cells in a chicken embryo metastasis assay. Overexpression of miR21
+reduced expression of PDCD4 protein, but not mRNA, in Colo206f cells.
+
+MAPPING
+
+By FISH, Soejima et al. (1999) mapped the PDCD4 gene to chromosome
+10q24.
+
+REFERENCE 1. Asangani, I. A.; Rasheed, S. A. K.; Nikolova, D. A.; Leupold, J.
+H.; Colburn, N. H.; Post, S.; Allgayer, H.: MicroRNA-21 (miR-21)
+post-transcriptionally downregulates tumor suppressor Pdcd4 and stimulates
+invasion, intravasation and metastasis in colorectal cancer. Oncogene 27:
+2128-2136, 2008.
+
+2. Davis, B. N.; Hilyard, A. C.; Lagna, G.; Hata, A.: SMAD proteins
+control DROSHA-mediated microRNA maturation. Nature 454: 56-61,
+2008.
+
+3. Dorrello, N. V.; Peschiaroli, A.; Guardavaccaro, D.; Colburn, N.
+H.; Sherman, N. E.; Pagano, M.: S6K1- and beta-TRCP-mediated degradation
+of PDCD4 promotes protein translation and cell growth. Science 314:
+467-471, 2006.
+
+4. Kang, M.-J.; Ahn, H.-S.; Lee, J.-Y.; Matsuhashi, S.; Park, W.-Y.
+: Up-regulation of PDCD4 in senescent human diploid fibroblasts. Biochem.
+Biophys. Res. Commun. 293: 617-621, 2002.
+
+5. Matsuhashi, S.; Yoshinaga, H.; Yatsuki, H.; Tsugita, A.; Hori,
+K.: Isolation of a novel gene from a human cell line with Pr-28 MAb
+which recognizes a nuclear antigen involved in the cell cycle. Res.
+Commun. Biochem. Cell Molec. Biol. 1: 109-120, 1997.
+
+6. Soejima, H.; Miyoshi, O.; Yoshinaga, H.; Masaki, Z.; Ozaki, I.;
+Kajiwara, S.; Niikawa, N.; Matsuhashi, S.; Mukai, T.: Assignment
+of the programmed cell death 4 gene (PDCD4) to human chromosome band
+10q24 by in situ hybridization. Cytogenet. Cell Genet. 87: 113-114,
+1999.
+
+7. Suzuki, C.; Garces, R. G.; Edmonds, K. A.; Hiller, S.; Hyberts,
+S. G.; Marintchev, A.; Wagner, G.: PDCD4 inhibits translation initiation
+by binding to eIF4A using both its MA3 domains. Proc. Nat. Acad.
+Sci. 105: 3274-3279, 2008.
+
+8. Yoshinaga, H.; Matsuhashi, S.; Fujiyama, C.; Masaki, Z.: Novel
+human PDCD4 (H731) gene expressed in proliferative cells is expressed
+in the small duct epithelial cells of the breast as revealed by an
+anti-H731 antibody. Path. Int. 49: 1067-1077, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/2/2010
+Ada Hamosh - updated: 8/29/2008
+Patricia A. Hartz - updated: 5/19/2008
+Ada Hamosh - updated: 10/31/2006
+
+CREATED Patricia A. Hartz: 4/26/2004
+
+EDITED mgross: 12/08/2010
+terry: 12/2/2010
+alopez: 9/11/2008
+terry: 8/29/2008
+mgross: 5/19/2008
+alopez: 11/6/2006
+terry: 10/31/2006
+mgross: 4/26/2004
+
+606818	TITLE *606818 DIPEPTIDYL PEPTIDASE III; DPP3
+DESCRIPTION 
+DESCRIPTION
+
+DPP3 (EC 3.4.14.4) is one of the dipeptidyl aminopeptidases that remove
+N-terminal dipeptides from physiologically active peptides such as
+angiotensin (see 106150) or enkephalin (131330).
+
+CLONING
+
+Fukasawa et al. (1999) isolated a partial DPP3 cDNA clone from a
+placenta cDNA library, using antibody to the purified protein as probe.
+By mass spectrometry, Abramic et al. (2000) determined that the
+molecular mass of full-length DPP3 is 82.5 kD; by SDS-PAGE, the apparent
+molecular mass is 81.2 kD.
+
+GENE FUNCTION
+
+By mutation and enzyme analysis of the rat recombinant DPP3 protein,
+Fukasawa et al. (1999) found that DPP3 shows zinc-dependent
+metalloprotease activity and contains a conserved HELLGH motif with
+similarity to the zincin HExxH consensus motif. Abramic et al. (2000)
+noted that whereas the enzymes purified from rat and human erythrocytes
+show the same molecular mass, pI, and enzyme substrates, they differ
+significantly in their temperature stability, pH optima, kinetic
+parameters, and sensitivity to divalent cations, sulfhydryl reagents,
+and microbial protease inhibitors.
+
+MAPPING
+
+Fukasawa et al. (2000) mapped the DPP3 gene to chromosome 11q12-q13.1 by
+FISH.
+
+REFERENCE 1. Abramic, M.; Schleuder, D.; Dolovcak, L.; Schroder, W.; Strupat,
+K.; Sagi, D.; Peter-Katalini, J.; Vitale, L.: Human and rat dipeptidyl
+peptidase III: biochemical and mass spectrometric arguments for similarities
+and differences. Biol. Chem. 381: 1233-1243, 2000.
+
+2. Fukasawa, K.; Fukasawa, K. M.; Iwamoto, H.; Hirose, J.; Harada,
+M.: The HELLGH motif of rat liver dipeptidyl peptidase III is involved
+in zinc coordination and the catalytic activity of the enzyme. Biochemistry 38:
+8299-8303, 1999.
+
+3. Fukasawa, K. M.; Fukasawa, K.; Harada, M.: Assignment of the dipeptidyl
+peptidase III gene (DPP3) to human chromosome 11 band q12-q13.1 by
+in situ hybridization. Cytogenet. Cell Genet. 88: 99-100, 2000.
+
+CREATED Patricia A. Hartz: 4/3/2002
+
+EDITED wwang: 10/14/2008
+carol: 4/4/2002
+carol: 4/3/2002
+
+615416	TITLE *615416 BASIC HELIX-LOOP-HELIX FAMILY, MEMBER A9; BHLHA9
+;;BASIC HELIX-LOOP-HELIX FACTOR, CLASS F, 42; BHLHF42
+DESCRIPTION 
+DESCRIPTION
+
+Basic helix-loop-helix (bHLH) proteins are transcription factors that
+regulate embryonic development. They are characterized by a basic domain
+that binds to E-box DNA and a helix-loop-helix domain that facilitates
+interactions with other protein subunits. Class F bHLH transcription
+factors, such as BHLHA9, have an additional COE (collier/OLF/EBF) domain
+(see EBF1, 164343) that contributes to dimerization and DNA binding
+(review by Jones, 2004).
+
+CLONING
+
+Klopocki et al. (2012) identified BHLHA9 as the only gene within an
+11.8-kb minimal critical region on chromosome 17p for microduplications
+in patients with split-hand/foot malformation with long bone deficiency
+(SHFLD3; 612576). In situ hybridization of embryonic mouse and zebrafish
+detected Bhlha9 expression limited to the distal limb bud mesenchyme
+underlying the apical ectodermal ridge, a structure that functions with
+the underlying progress zone in cell signaling required for
+proliferation and limb growth.
+
+GENE STRUCTURE
+
+Klopocki et al. (2012) determined that the BHLHA9 gene contains a single
+coding exon.
+
+MAPPING
+
+By genomic sequence analysis, Klopocki et al. (2012) mapped the BHLHA9
+gene to chromosome 17p13.3.
+
+ANIMAL MODEL
+
+Using morpholinos directed against zebrafish Bhlha9, Klopocki et al.
+(2012) found that knockdown of Bhlha9 resulted in massive truncation of
+pectoral fins. Bhlha9 was not required for the initial induction of
+pectoral fins.
+
+REFERENCE 1. Jones, S.: An overview of the basic helix-loop-helix proteins. Genome
+Biol. 5: 226, 2004. Note: Electronic Article.
+
+2. Klopocki, E.; Lohan, S.; Doelken, S. C.; Stricker, S.; Ockeloen,
+C. W.; Thiele de Aguiar, R. S.; Lezirovitz, K.; Netto, R. C. M.; Jamsheer,
+A.; Shah, H.; Kurth, I.; Habenicht, R.; and 11 others: Duplications
+of BHLHA9 are associated with ectrodactyly and tibia hemimelia inherited
+in non-Mendelian fashion. J. Med. Genet. 49: 119-125, 2012.
+
+CREATED Patricia A. Hartz: 9/16/2013
+
+EDITED mgross: 09/16/2013
+
+612786	TITLE *612786 CYCLIN Y; CCNY
+;;CYCLIN-FOLD PROTEIN 1; CFP1;;
+CYCLIN X; CCNX;;
+CHROMOSOME 10 OPEN READING FRAME 9; C10ORF9
+DESCRIPTION 
+DESCRIPTION
+
+Cyclins, such as CCNY, control cell division cycles and regulate
+cyclin-dependent kinases (e.g., CDC2; 116940) (Li et al., 2009).
+
+CLONING
+
+Using mass spectrometry to identify proteins upregulated in metastatic
+versus nonmetastatic human colorectal adenocarcinoma cell lines,
+followed by database analysis, Zhang et al. (2005) identified an isoform
+of CCNY that they called CFP1 variant A. The deduced protein has a
+calculated molecular mass of 36.9 kD.
+
+By database analysis and PCR of a testis cDNA library, Li et al. (2009)
+cloned CCNY, which they designated CCNX. The deduced 287-amino acid
+protein has a central cyclin box and shares highest similarity with
+cyclin B3 (CCNB3; 300456). RT-PCR detected highest expression in testis
+and lower expression in all other tissues examined except brain and
+kidney. Fluorescence-tagged CCNX was expressed predominantly in the
+nucleus in a human nonsmall lung cancer cell line.
+
+GENE STRUCTURE
+
+Li et al. (2009) determined that the CCNY gene contains 12 exons.
+
+MAPPING
+
+By genomic sequence analysis, Deloukas et al. (2004) mapped the CCNY
+gene to chromosome 10p11.2, where it lies between the CREM (123812) and
+FZD8 (606146) genes.
+
+GENE FUNCTION
+
+Using the promoter regions of several cell cycle regulators and
+transcription factors, Li et al. (2009) showed that CCNX specifically
+activated transcription from the MYC (190080) promoter.
+
+MOLECULAR GENETICS
+
+For discussion of a possible association between variation in the CCNY
+gene and inflammatory bowel disease, see IBD1 (266600).
+
+REFERENCE 1. Deloukas, P.; Earthrowl, M. E.; Grafham, D. V.; Rubenfield, M.;
+French, L.; Steward, C. A.; Sims, S. K.; Jones, M. C.; Searle, S.;
+Scott, C.; Howe, K.; Hunt, S. E.; and 124 others: The DNA sequence
+and comparative analysis of human chromosome 10. Nature 429: 151-157,
+2004.
+
+2. Li, X.; Wang, X.; Liu, G.; Li, R.; Yu, L.: Identification and
+characterization of cyclin X which activates transcriptional activities
+of c-Myc. Molec. Biol. Rep. 36: 97-103, 2009.
+
+3. Zhang, Y.-T.; Geng, Y.-P.; Si, L.-S.; Wang, Y.-L.: Proteomic analysis
+of differentially expressed proteins between metastatic and non-metastatic
+human colorectal carcinoma cell lines. Europ. J. Gastroent. Hepatol. 17:
+725-732, 2005.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/10/2009
+
+CREATED Patricia A. Hartz: 5/15/2009
+
+EDITED terry: 12/10/2009
+mgross: 5/15/2009
+
+402500	TITLE *402500 ACETYLSEROTONIN METHYLTRANSFERASE, Y-CHROMOSOMAL; ASMT
+;;ASMTY;;
+HYDROXYINDOLE-O-METHYLTRANSFERASE, Y-CHROMOSOMAL; HIOMTY
+DESCRIPTION Donohue et al. (1993) isolated a clone with sequence homology to bovine
+HIOMT from a human pineal cDNA library. Yi et al. (1993) determined that
+the gene is located in the pseudoautosomal region (Ypter-p11.2) close to
+DXYS17. See 300015 for a discussion of the X-linked copy of this gene.
+
+REFERENCE 1. Donohue, S. J.; Roseboom, P. H.; Illnerova, H.; Weller, J. L.;
+Klein, D. C.: Human hydroxyindole-O-methyltransferase: presence of
+LINE-1 fragment in a cDNA clone and pineal mRNA. DNA Cell Biol. 12:
+715-727, 1993.
+
+2. Yi, H.; Donohue, S. J.; Klein, D. C.; McBride, O. W.: Localization
+of the hydroxyindole-O-methyltransferase gene to the pseudoautosomal
+region: implications for mapping of psychiatric disorders. Hum. Molec.
+Genet. 2: 127-131, 1993.
+
+CREATED Victor A. McKusick: 10/1/1993
+
+EDITED joanna: 09/05/2001
+alopez: 11/19/1998
+mimadm: 3/11/1994
+carol: 10/4/1993
+carol: 10/1/1993
+
+602009	TITLE *602009 CYTOCHROME c OXIDASE, SUBUNIT VIa, POLYPEPTIDE 2; COX6A2
+DESCRIPTION 
+CLONING
+
+Bachman et al. (1997) cloned the human gene for the heart- and striated
+muscle-specific isoform of cytochrome oxidase subunit 6a from a
+chromosome 16-enriched genomic library. They reported that the gene
+encodes a 97-amino acid polypeptide, including the 12-amino acid
+presequence. The gene, symbolized COX6AH by them, is organized on 3
+exons spanning approximately 1 kb of genomic DNA. Bachman et al. (1997)
+identified several transcription factor binding sites in the promoter
+region of the gene and noted that the 5-prime flanking regions of COX6AH
+are highly conserved among human, bovine, and rodent.
+
+MAPPING
+
+Using a human/rodent mapping panel, Bachman et al. (1997) mapped the
+human COX6AH gene to chromosome 16. The murine localization on distal
+chromosome 7 between D7Mit8 and D7Mit13 predicted the location of the
+human gene in the region 16p11-p12.
+
+REFERENCE 1. Bachman, N. J.; Riggs, P. K.; Siddiqui, N.; Makris, G. J.; Womack,
+J. E.; Lomax, M. I.: Structure of the human gene (COX6A2) for the
+heart/muscle isoform of cytochrome c oxidase subunit VIa and its chromosomal
+location in humans, mice, and cattle. Genomics 42: 146-151, 1997.
+
+CREATED Jennifer P. Macke: 9/19/1997
+
+EDITED alopez: 03/15/2010
+alopez: 9/22/1997
+
+614967	TITLE *614967 SECERNIN 3; SCRN3
+;;SES3
+DESCRIPTION 
+CLONING
+
+By database analysis to identify sequences similar to mouse Scrn1
+(614965), Way et al. (2002) identified human SCRN3. The deduced SCRN3
+protein contain 243 amino acids.
+
+MAPPING
+
+By genomic sequence analysis, Way et al. (2002) mapped the SCRN3 gene to
+chromosome 2p14-q14.3.
+
+Hartz (2012) mapped the SCRN3 gene to chromosome 2q31.1 based on an
+alignment of the SCRN3 sequence (GenBank GENBANK AK026795) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  11/30/2012.
+
+2. Way, G.; Morrice, N.; Smythe, C.; O'Sullivan, A. J.: Purification
+and identification of secernin, a novel cytosolic protein that regulates
+exocytosis in mast cells. Molec. Biol. Cell 13: 3344-3354, 2002.
+
+CREATED Patricia A. Hartz: 12/3/2012
+
+EDITED mgross: 12/03/2012
+

@@ -1,0 +1,338 @@
+601795	TITLE *601795 MITOGEN-ACTIVATED PROTEIN KINASE 3; MAPK3
+;;PROTEIN KINASE, MITOGEN-ACTIVATED, 3; PRKM3;;
+EXTRACELLULAR SIGNAL-REGULATED KINASE 1; ERK1;;
+p44ERK1;;
+p44MAPK
+DESCRIPTION 
+CLONING
+
+Charest et al. (1993) cloned a cDNA encoding a member of a family of
+tyrosyl-phosphorylated and mitogen-activated protein kinases (MAPKs)
+that participates in cell cycle progression. They referred to the
+protein as p44(erk1) and the gene as ERK1. The cDNA encodes a 379-amino
+acid polypeptide sharing approximately 96% predicted amino acid identity
+with partial sequences of rodent erk1 cognates. They also characterized
+the enzyme biochemically.
+
+MAPPING
+
+Charest et al. (1993) mapped the MAPK3 gene to human chromosome 16 by
+hybrid cell panel analysis. Li et al. (1994) assigned human MAPK3 and
+MAPK1 to 16p11.2 and 22q11.2, respectively, by a combination of Southern
+blotting of a human-hamster hybrid panel and fluorescence in situ
+hybridization. The chromosome region surrounding 16p11.2 displays high
+homology with mouse chromosome 7, and human 22q11.2 is homologous to
+mouse chromosome 16. Saba-El-Leil et al. (1997) mapped the murine
+homolog (Mapk3) to mouse chromosome 7.
+
+GENE FUNCTION
+
+Experience-dependent plasticity in the developing visual cortex depends
+on electrical activity and molecular signals involved in stabilization
+or removal of inputs. ERK1 and ERK2 (MAPK1; 176948) activation in the
+cortex is regulated by both factors. Di Cristo et al. (2001)
+demonstrated that 2 different inhibitors of the ERK pathway suppress the
+induction of 2 forms of long-term potentiation in rat cortical slices
+and that their intracortical administration to monocularly deprived rats
+prevents the shift in ocular dominance towards the nondeprived eye. Di
+Cristo et al. (2001) concluded that the ERK pathway is necessary for
+experience-dependent plasticity and for long-term potentiation of
+synaptic transmission in the developing visual cortex.
+
+Stefanovsky et al. (2001) showed that epidermal growth factor (131530)
+induces immediate, ERK1/ERK2-dependent activation of endogenous
+ribosomal transcription, while inactivation of ERK1/ERK2 causes an
+equally immediate reversion to the basal transcription level. ERK1/ERK2
+was found to phosphorylate the architectural transcription factor UBF
+(600673) at amino acids 117 and 201 within HMG boxes 1 and 2, preventing
+their interaction with DNA. Mutation of these sites inhibited
+transcription activation and abrogated the transcriptional response to
+ERK1/ERK2. Thus, growth factor regulation of ribosomal transcription
+likely acts by a cyclic modulation of DNA architecture. The data
+suggested a central role for ribosome biogenesis in growth regulation.
+
+Using an in situ phosphorylation screening strategy to identify protein
+kinase substrates, Fukunaga and Hunter (1997) identified MNK1 (MKNK1;
+606724) as an ERK1 substrate. Using 2-hybrid tests and in vitro
+association experiments, Waskiewicz et al. (1997) demonstrated that
+mouse Mnk1 and Mnk2 (MKNK2; 605069) bind tightly to Erk1 and Erk2
+through a C-terminal domain. Mnk1 complexes more strongly with inactive
+than active Erk, and the authors hypothesized that Mnk and Erk may
+dissociate after mitogen stimulation.
+
+Forcet et al. (2002) showed that in embryonic kidney cells expressing
+full-length, but not cytoplasmic domain-truncated, DCC (120470), NTN1
+(601614) causes increased transient phosphorylation and activity of ERK1
+and ERK2, but not of JNK1 (601158), JNK2 (602896), or p38 (MAPK14;
+600289). This phosphorylation was mediated by MEK1 (MAP2K1; 176872)
+and/or MEK2 (MAP2K2; 601263). NTN1 also activated the transcription
+factor ELK1 (311040) and serum response element-regulated gene
+expression. Immunoprecipitation analysis showed interaction of
+full-length DCC with MEK1/2 in the presence or absence of NTN1. Forcet
+et al. (2002) showed that activation of Dcc by Ntn1 in rat embryonic
+day-13 dorsal spinal cord stimulates and is required for the outgrowth
+of commissural axons and Erk1/2 activation. Immunohistochemical analysis
+demonstrated expression of activated Erk1/2 in embryonic commissural
+axons, and this expression was diminished in Dcc or Ntn1 knockout
+animals. Forcet et al. (2002) concluded that the MAPK pathway is
+involved in responses to NTN1 and proposed that ERK activation affects
+axonal growth by phosphorylation of microtubule-associated proteins and
+neurofilaments.
+
+Anthrax lethal toxin (LT), a critical virulence factor of Bacillus
+anthracis, is a complex of lethal factor (LF) and protective antigen
+(PA). PA binds to the anthrax receptor (ATR; 606410) to facilitate the
+entry of LF into the cell. LT disrupts the MAPK signaling pathway in
+macrophages (Park et al., 2002). Agrawal et al. (2003) showed that, in
+mice, LT impairs the function of dendritic cells (DCs), inhibiting the
+upregulation of costimulatory molecules, such as CD40 (109535), CD80
+(112203), and CD86 (601020), as well as cytokine secretion, in response
+to lipopolysaccharide stimulation. LT-exposed DCs failed to stimulate
+antigen-specific T and B cells in vivo, resulting in significant
+reductions of circulating IgG antibody. Western blot analysis indicated
+that LF severely impairs phosphorylation of p38, ERK1, and ERK2. A
+cocktail of synthetic MAPK inhibitors inhibited cytokine production in a
+manner similar to that of LF. Using a mutant form of LF lacking a
+catalytic site necessary for cleavage of MEK1, MEK2, and MEK3 (602314),
+the upstream activators of ERK1, ERK2, and p38, respectively, Agrawal et
+al. (2003) found that cleavage of these MEKs is essential for
+suppression of dendritic cell function. They proposed that this
+mechanism might operate early in infection, when LT levels are low, to
+impair immunity. Later in infection, Agrawal et al. (2003) noted, LT
+might have quite different inflammatory effects.
+
+Imai et al. (2008) used mouse models to explore the mechanism whereby
+obesity enhances pancreatic beta cell mass, pathophysiologic
+compensation for insulin resistance. Imai et al. (2008) found that
+hepatic activation of ERK1 signaling by expression of constitutively
+active MEK1 (176872) induced pancreatic beta cell proliferation through
+a neuronal-mediated relay of metabolic signals. This metabolic relay
+from the liver to the pancreas is involved in obesity-induced islet
+expansion. In mouse models of insulin-deficient diabetes,
+liver-selective activation of ERK signaling increased beta cell mass and
+normalized serum glucose levels. Thus, Imai et al. (2008) concluded that
+interorgan metabolic relay systems may serve as valuable targets in
+regenerative treatments for diabetes.
+
+In mouse hearts with pressure-induced cardiac hypertrophy, Lorenz et al.
+(2009) observed strong phosphorylation of ERK1/ERK2 at thr183, and in
+failing human hearts, they found an approximately 5-fold increase in
+thr188 phosphorylation compared to controls. The authors demonstrated
+that thr188 autophosphorylation directs ERK1/ERK2 to phosphorylate
+nuclear targets known to cause cardiac hypertrophy, and that thr188
+phosphorylation requires activation and assembly of the entire RAF
+(164760)-MEK-ERK kinase cascade, phosphorylation of the TEY motif,
+dimerization of ERK1/ERK2, and binding to G protein beta-gamma subunits
+(see 139390) released from activated Gq (see 600998). Experiments using
+transgenic mouse models carrying mutations at thr188 suggested a causal
+relationship to cardiac hypertrophy. Lorenz et al. (2009) proposed that
+specific phosphorylation events on ERK1/ERK2 integrate differing
+upstream signals to induce cardiac hypertrophy.
+
+During early lung development, airway tubes change shape. Tube length
+increases more than circumference as a large proportion of lung
+epithelial cells divide parallel to the airway longitudinal axis. Tang
+et al. (2011) showed that this bias is lost in mutants with increased
+ERK1 and ERK2 activity, revealing a link between the ERK1/2 signaling
+pathway and the control of mitotic spindle orientation. Using a
+mathematical model, Tang et al. (2011) demonstrated that change in
+airway shape can occur as a function of spindle angle distribution
+determined by ERK1/2 signaling, independent of effects on cell
+proliferation or cell size and shape. Tang et al. (2011) identified
+sprouty genes (SPRY1, 602465; SPRY2, 602466), which encode negative
+regulators of fibroblast growth factor-10 (FGF10; 602115)-mediated
+RAS-regulated ERK1/2 signaling, as essential for controlling airway
+shape change during development through an effect on mitotic spindle
+orientation.
+
+ANIMAL MODEL
+
+Pages et al. (1999) generated p44 Mapk (Erk1)-deficient mice by
+homologous recombination in embryonic stem cells. The p44 Mapk were
+viable, fertile, and of normal size. Thus, Pages et al. (1999) concluded
+that p44 Mapk is apparently dispensable and that p42 Mapk (Erk2) may
+compensate for its loss. However, in p44 Mapk -/- mice, thymocyte
+maturation beyond the CD4+CD8+ stage was reduced by half, with a similar
+diminution in the thymocyte subpopulation expressing high levels of T
+cell receptor (CD3-high). In p44 Mapk -/- thymocytes, proliferation in
+response to activation with a monoclonal antibody to the T cell receptor
+in the presence of phorbol myristate acetate was severely reduced even
+though activation of p42 Mapk was more sustained in these cells. Thus,
+Pages et al. (1999) concluded that p44 Mapk apparently has a specific
+role in thymocyte development.
+
+In behavioral tests with mice lacking Erk1, Mazzucchelli et al. (2002)
+observed an enhancement of striatum-dependent long-term memory that
+correlated with a facilitation of long-term potentiation in the nucleus
+accumbens. At the cellular level, ablation of Erk1 resulted in a
+stimulus-dependent increase of Erk2 signaling, which Mazzucchelli et al.
+(2002) stated was likely due to its enhanced interaction with the
+upstream kinase Mek. They concluded that Erk1 has a critical regulatory
+role in the long-term adaptive changes underlying striatum-dependent
+behavioral plasticity and drug addiction.
+
+A surge of luteinizing hormone (LH; see 152780) from the pituitary gland
+triggers ovulation, oocyte maturation, and luteinization for successful
+reproduction in mammals. Because the signaling molecules RAS (190020)
+and ERK1/2 are activated by an LH surge in granulosa cells of
+preovulatory follicles, Fan et al. (2009) disrupted Erk1/2 in mouse
+granulosa cells and provided in vivo evidence that these kinases are
+necessary for LH-induced oocyte resumption of meiosis, ovulation, and
+luteinization. In addition, biochemical analyses and selected disruption
+of the Cebpb gene (189965) in granulosa cells demonstrated that
+C/EBP-beta is a critical downstream mediator of ERK1/2 activation. Thus,
+Fan et al. (2009) concluded that ERK1/2 and C/EBP-beta constitute an in
+vivo LH-regulated signaling pathway that controls ovulation- and
+luteinization-related events.
+
+Holm et al. (2011) showed that Erk1/2 and Smad2 (601366) are activated
+in a mouse model of Marfan syndrome, and both are inhibited by therapies
+directed against Tgf-beta (190180). Whereas selective inhibition of
+ERK1/2 activation ameliorated aortic growth, Smad4 (600993) deficiency
+exacerbated aortic disease and caused premature death in Marfan syndrome
+mice. Smad4-deficient Marfan syndrome mice uniquely showed activation of
+Jnk1 (601158), and a Jnk antagonist ameliorated aortic growth in Marfan
+mice that lacked or retained full Smad4 expression. Thus, Holm et al.
+(2011) concluded that noncanonical (Smad-independent) Tgf-beta signaling
+is a prominent driver of aortic disease in Marfan syndrome mice, and
+inhibition of the ERK1/2 or JNK1 pathways is a potential therapeutic
+strategy for the disease.
+
+REFERENCE 1. Agrawal, A.; Lingappa, J.; Leppla, S. H.; Agrawal, S.; Jabbar,
+A.; Quinn, C.; Pulendran, B.: Impairment of dendritic cells and adaptive
+immunity by anthrax lethal toxin. Nature 424: 329-334, 2003.
+
+2. Charest, D. L.; Mordret, G.; Harder, K. W.; Jirik, F.; Pelech,
+S. L.: Molecular cloning, expression, and characterization of the
+human mitogen-activated protein kinase p44erk1. Molec. Cell. Biol. 13:
+4679-4690, 1993.
+
+3. Di Cristo, G.; Berardi, N.; Cancedda, L.; Pizzorusso, T.; Putignano,
+E.; Ratto, G. M.; Maffei, L.: Requirement of ERK activation for visual
+cortical plasticity. Science 292: 2337-2340, 2001.
+
+4. Fan, H.-Y.; Liu, Z.; Shimada, M.; Sterneck, E.; Johnson, P. F.;
+Hedrick, S. M.; Richards, J. S.: MAPK3/1 (ERK1/2) in ovarian granulosa
+cells are essential for female fertility. Science 324: 938-941,
+2009.
+
+5. Forcet, C.; Stein, E.; Pays, L.; Corset, V.; Llambi, F.; Tessier-Lavigne,
+M.; Mehlen, P.: Netrin-1-mediated axon outgrowth requires deleted
+in colorectal cancer-dependent MAPK activation. Nature 417: 443-447,
+2002.
+
+6. Fukunaga, R.; Hunter, T.: MNK1, a new MAP kinase-activated protein
+kinase, isolated by a novel expression screening method for identifying
+protein kinase substrates. EMBO J. 16: 1921-1933, 1997.
+
+7. Holm, T. M.; Habashi, J. P.; Doyle, J. J.; Bedja, D.; Chen, Y.;
+van Erp, C.; Lindsay, M. E.; Kim, D.; Schoenhoff, F.; Cohn, R. D.;
+Loeys, B. L.; Thomas, C. J.; Patnaik, S.; Marugan, J. J.; Judge, D.
+P.; Dietz, H. C.: Noncanonical TGF-beta signaling contributes to
+aortic aneurysm progression in Marfan syndrome mice. Science 332:
+358-361, 2011.
+
+8. Imai, J.; Katagiri, H.; Yamada, T.; Ishigaki, Y.; Suzuki, T.; Kudo,
+H.; Uno, K.; Hasegawa, Y.; Gao, J.; Kaneko, K.; Ishihara, H.; Niijima,
+A.; Nakazato, M.; Asano, T.; Minokoshi, Y.; Oka, Y.: Regulation of
+pancreatic beta cell mass by neuronal signals from the liver. Science 322:
+1250-1254, 2008.
+
+9. Li, L.; Wysk, M.; Gonzalez, F. A.; Davis, R. J.: Genomic loci
+of human mitogen-activated protein kinases. Oncogene 9: 647-649,
+1994.
+
+10. Lorenz, K.; Schmitt, J. P.; Schmitteckert, E. M.; Lohse, M. J.
+: A new type of ERK1/2 autophosphorylation causes cardiac hypertrophy. Nature
+Med. 15: 75-83, 2009.
+
+11. Mazzucchelli, C.; Vantaggiato, C.; Ciamei, A.; Fasano, S.; Pakhotin,
+P.; Krezel, W.; Welzl, H.; Wolfer, D. P.; Pages, G.; Valverde, O.;
+Marowsky, A.; Porrazzo, A.; Orban, P. C.; Maldonado, R.; Ehrengruber,
+M. U.; Cestari, V.; Lipp, H.-P.; Chapman, P. F.; Pouyssegur, J.; Brambilla,
+R.: Knockout of ERK1 MAP kinase enhances synaptic plasticity in the
+striatum and facilitates striatal-mediated learning and memory. Neuron 34:
+807-820, 2002.
+
+12. Pages, G.; Guerin, S.; Grall, D.; Bonino, F.; Smith, A.; Anjuere,
+F.; Auberger, P.; Pouyssegur, J.: Defective thymocyte maturation
+in p44 MAP kinase (Erk 1) knockout mice. Science 286: 1374-1378,
+1999.
+
+13. Park, J. M.; Greten, F. R.; Li, Z. W.; Karin, M.: Macrophage
+apoptosis by anthrax lethal factor through p38 MAP kinase inhibition. Science 297:
+2048-2051, 2002.
+
+14. Saba-El-Leil, M. K.; Malo, D.; Meloche, S.: Chromosomal localization
+of the mouse genes encoding the ERK1 and ERK2 isoforms of MAP kinases. Mammalian
+Genome 8: 141-142, 1997.
+
+15. Stefanovsky, V. Y.; Pelletier, G.; Hannan, R.; Gagnon-Kugler,
+T.; Rothblum, L. I.; Moss, T.: An immediate response of ribosomal
+transcription to growth factor stimulation in mammals is mediated
+by ERK phosphorylation of UBF. Molec. Cell 8: 1063-1073, 2001.
+
+16. Tang, N.; Marshall, W. F.; McMahon, M.; Metzger, R. J.; Martin,
+G. R.: Control of mitotic spindle angle by the RAS-regulated ERK1/2
+pathway determines lung tube shape. Science 333: 342-345, 2011.
+
+17. Waskiewicz, A. J.; Flynn, A.; Proud, C. G.; Cooper, J. A.: Mitogen-activated
+protein kinases activate the serine/threonine kinases Mnk1 and Mnk2. EMBO
+J. 16: 1909-1920, 1997.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/4/2011
+Ada Hamosh - updated: 6/7/2011
+Ada Hamosh - updated: 8/17/2009
+Marla J. F. O'Neill - updated: 2/27/2009
+Ada Hamosh - updated: 12/30/2008
+George E. Tiller - updated: 6/5/2008
+Paul J. Converse - updated: 7/17/2003
+Dawn Watkins-Chow - updated: 11/25/2002
+Paul J. Converse - updated: 5/6/2002
+Dawn Watkins-Chow - updated: 2/27/2002
+Stylianos E. Antonarakis - updated: 1/3/2002
+Ada Hamosh - updated: 6/27/2001
+Ada Hamosh - updated: 11/11/1999
+
+CREATED Mark H. Paalman: 5/9/1997
+
+EDITED alopez: 08/16/2011
+terry: 8/4/2011
+alopez: 6/10/2011
+terry: 6/7/2011
+mgross: 2/9/2011
+terry: 2/7/2011
+alopez: 8/21/2009
+terry: 8/17/2009
+wwang: 3/5/2009
+terry: 2/27/2009
+alopez: 1/5/2009
+terry: 12/30/2008
+wwang: 6/11/2008
+terry: 6/11/2008
+terry: 6/5/2008
+terry: 4/12/2006
+wwang: 10/27/2005
+tkritzer: 1/5/2004
+alopez: 7/29/2003
+mgross: 7/17/2003
+carol: 12/6/2002
+tkritzer: 11/27/2002
+tkritzer: 11/25/2002
+alopez: 6/7/2002
+mgross: 5/6/2002
+mgross: 2/27/2002
+mgross: 1/3/2002
+alopez: 7/3/2001
+terry: 6/27/2001
+alopez: 2/10/2000
+alopez: 12/28/1999
+alopez: 11/12/1999
+terry: 11/11/1999
+mgross: 9/8/1999
+alopez: 7/29/1998
+psherman: 4/21/1998
+mark: 5/27/1997
+mark: 5/14/1997
+mark: 5/13/1997
+

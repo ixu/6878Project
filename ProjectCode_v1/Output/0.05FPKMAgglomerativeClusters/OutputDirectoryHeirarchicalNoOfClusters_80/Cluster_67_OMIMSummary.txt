@@ -1,0 +1,771 @@
+601541	TITLE *601541 BROMODOMAIN-CONTAINING PROTEIN 3; BRD3
+;;RING3-LIKE GENE; RING3L;;
+OPEN READING FRAME X; ORFX
+DESCRIPTION 
+CLONING
+
+Nomura et al. (1994) identified ORFX as a non-linked copy of RING3
+(BRD2; 601540), a gene in the human major histocompatibility complex
+(MHC) class II region on 6p21.3.
+
+MAPPING
+
+Using a PCR probe derived from the ORFX cDNA sequence, Thorpe et al.
+(1996) mapped the gene, symbolized here RING3L, by fluorescence in situ
+hybridization analysis to 9q34. Several other MHC-related genes have
+been found to map to the same region.
+
+GENE FUNCTION
+
+Dawson et al. (2011) demonstrated that I-BET151, a novel small molecule
+inhibitor of the BET family, of which BRD3 is a member, has profound
+efficacy against human and murine MLL-fusion leukemia cell lines through
+the induction of early cell cycle arrest and apoptosis. I-BET151
+treatment in 2 human leukemia cell lines with different MLL fusions
+altered the expression of a common set of genes whose function may
+account for these phenotypic changes. The mode of action of I-BET151 is,
+at least in part, due to the inhibition of transcription at key genes
+BCL2 (151430), C-MYC (190080), and CDK6 (603368) through the
+displacement of BRD3/4, PAFc, and SEC components from chromatin. In vivo
+studies indicated that I-BET151 has significant therapeutic value,
+providing survival benefit in 2 distinct mouse models of murine
+
+REFERENCE 1. Dawson, M. A.; Prinjha, R. K.; Dittmann, A.; Giotopoulos, G.; Bantscheff,
+M.; Chan, W.-I.; Robson, S. C.; Chung, C.; Hopf, C.; Savitski, M.
+M.; Huthmacher, C.; Gudgin, E.; and 15 others: Inhibition of BET
+recruitment to chromatin as an effective treatment for MLL-fusion
+leukaemia. Nature 478: 529-533, 2011.
+
+2. Nomura, N.; Nagase, T.; Miyajima, N.; Sazuka, T.; Tanaka, A.; Sato,
+S.; Seki, N.; Kawarabayasi, Y.; Ishikawa, K.; Tabata, S.: Prediction
+of the coding sequences of unidentified human genes. II. The coding
+sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 1: 223-229, 1994.
+
+3. Thorpe, K. L.; Abdulla, S.; Kaufman, J.; Trowsdale, J.; Beck, S.
+: Phylogeny and structure of the RING3 gene. Immunogenetics 44:
+391-396, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/4/2012
+
+CREATED Victor A. McKusick: 11/27/1996
+
+EDITED alopez: 01/06/2012
+terry: 1/4/2012
+alopez: 1/6/2005
+mgross: 7/24/2000
+alopez: 6/27/1997
+mark: 11/27/1996
+
+610396	TITLE *610396 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 6A; TRAPPC6A
+;;TRAPP COMPLEX, SUBUNIT 6A
+DESCRIPTION 
+DESCRIPTION
+
+TRAPPC6A is a subunit of the TRAPPI and TRAPPII complexes (Gwynn et al.,
+2006).
+
+CLONING
+
+Gwynn et al. (2006) cloned mouse Trappc6a, and they identified human
+TRAPPC6A by database analysis. Mouse and human TRAPPC6A encode deduced
+159-amino acid proteins that share 83% identity and have calculated
+molecular masses of 17.4 kD. Both proteins contain 2 motifs conserved in
+TRAPPC6B (610397) and several yeast TRAPP subunits, including Trs33, the
+putative homolog of TRAPPC6A and TRAPPC6B. Northern blot analysis
+detected Trappc6a expression in all mouse tissues examined, with highest
+expression in kidney, liver, and testis. Expression of mouse Trappc6a
+was higher in cultured melanocytes than in kidney.
+
+GENE STRUCTURE
+
+Gwynn et al. (2006) determined that the mouse Trappc6a gene contains 6
+exons.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the
+TRAPPC6A gene to chromosome 19 (TMAP RH98840). Gwynn et al. (2006)
+mapped the mouse Trappc6a gene to chromosome 7.
+
+ANIMAL MODEL
+
+Gwynn et al. (2006) identified a recessive mutation in mice, designated
+'mosaic hypopigmentation' (Mhyp), that caused mosaic loss of coat
+pigmentation and patchy loss of pigmentation with abnormal melanosomes
+in the retinal pigmented epithelial layer of the eye. They determined
+that Mhyp resulted from integration of an 8.4-kb retrovirus into intron
+1 of the Trappc6a gene.
+
+REFERENCE 1. Gwynn, B.; Smith, R. S.; Rowe, L. B.; Taylor, B. A.; Peters, L.
+L.: A mouse TRAPP-related protein is involved in pigmentation. Genomics 88:
+196-203, 2006.
+
+CREATED Patricia A. Hartz: 9/11/2006
+
+EDITED alopez: 05/24/2011
+mgross: 9/11/2006
+
+120105	TITLE *120105 COLIPASE, PANCREATIC; CLPS
+DESCRIPTION 
+DESCRIPTION
+
+Pancreatic colipase is a 12-kD polypeptide cofactor for pancreatic
+lipase (EC 3.1.1.3; 246600), an enzyme essential for the absorption of
+dietary long-chain triglyceride fatty acids. Colipase is thought to
+anchor lipase noncovalently to the surface of lipid micelles,
+counteracting the destabilizing influence of intestinal bile salts
+(summary by Davis et al., 1991).
+
+CLONING
+
+Using primers derived from the known amino acid sequence, Davis et al.
+(1991) employed the PCR to produce a cDNA clone corresponding to the
+complete coding region of the human procolipase mRNA.
+
+GENE STRUCTURE
+
+Sims and Lowe (1992) found that the CLPS gene has 3 exons and that the
+5-prime-flanking region contains a TATA box, a GC box, and a 28-bp
+region with homology to the rat pancreatic-specific enhancer.
+
+MAPPING
+
+By the study of mouse/human somatic cell hybrids, Davis et al. (1991)
+determined that the CLPS gene is located in the region 6pter-p21.1.
+
+Sims and Lowe (1992) confirmed the assignment of the CLPS gene to
+chromosome 6 by blots of hamster-human somatic cell hybrid DNA using the
+entire colipase cDNA.
+
+ANIMAL MODEL
+
+Zhang et al. (2006) reported a mechanism by which constant darkness
+regulates the gene expression of fat catabolic enzymes in mice. Genes
+for murine procolipase (Clps) and pancreatic lipase-related protein-2
+(Plrp2; 604423) are activated in a circadian manner in peripheral organs
+during 12-hour dark:12-hour dark (DD) but not light-dark (LD) cycles.
+This mechanism is deregulated in circadian-deficient Per1/Per2 double
+mutant mice. Zhang et al. (2006) identified circadian-regulated
+5-prime-AMP, which is elevated in the blood of DD mice, as a key
+mediator of this response. Synthetic 5-prime-AMP induced torpor (a
+hibernation-like state) and murine Clps expression in LD mice. Torpor
+induced by metabolic stress was associated with elevated 5-prime-AMP
+levels in DD mice. Levels of glucose and nonesterified fatty acid in the
+blood were reversed in DD and LD mice. Induction of murine Clps
+expression by 5-prime-AMP in LD mice was reciprocally linked to blood
+glucose levels. Zhang et al. (2006) concluded that their findings
+uncovered a circadian metabolic rhythm in mammals.
+
+REFERENCE 1. Davis, R. C.; Xia, Y.; Mohandas, T.; Schotz, M. C.; Lusis, A. J.
+: Assignment of the human pancreatic colipase gene to chromosome 6p21.1
+to pter. Genomics 10: 262-265, 1991.
+
+2. Sims, H. F.; Lowe, M. E.: The human colipase gene: isolation,
+chromosomal location, and tissue-specific expression. Biochemistry 31:
+7120-7125, 1992.
+
+3. Zhang, J.; Kaasik, K.; Blackburn, M. R.; Lee, C. C.: Constant
+darkness is a circadian metabolic signal in mammals. Nature 439:
+340-343, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/26/2006
+
+CREATED Victor A. McKusick: 2/5/1991
+
+EDITED carol: 11/15/2011
+alopez: 6/7/2006
+terry: 5/26/2006
+mark: 11/27/1996
+carol: 10/26/1993
+carol: 10/1/1992
+supermim: 3/16/1992
+carol: 8/7/1991
+carol: 4/18/1991
+carol: 2/7/1991
+
+603732	TITLE *603732 CRYPTOCHROME 2; CRY2
+DESCRIPTION 
+CLONING
+
+Hsu et al. (1996) identified a human gene, CRY2, whose product had 73%
+amino acid identity to the human (6-4)photolyase (CRY1; 601933). The
+CRY2 protein shares 51% amino acid sequence identity to Drosophila
+(6-4)photolyase. Hsu et al. (1996) purified the human CRY1 and CRY2
+proteins and characterized them as maltose-binding fusion proteins that
+contain FAD and a pterin cofactor. Both CRY1 and CRY2 proteins lacked
+photolyase activity. Hsu et al. (1996) concluded that these proteins are
+not photolyases, but may function as blue-light photoreceptors in
+humans.
+
+As part of a search for human brain cDNA clones with the potential to
+encode large proteins in vitro, Ishikawa et al. (1998) independently
+identified CRY2. The CRY2 open reading frame encodes a protein of 589
+amino acids with an apparent molecular mass of 67 kD.
+
+Kobayashi et al. (1998) isolated and characterized mouse Cry1 and Cry2.
+While Cry1 is localized to the mitochondria, Cry2 is found mainly in the
+nucleus. The C termini of both mouse Cry2 and human CRY2 each contain a
+nuclear localization signal, and the N terminus of mouse Cry1 contains a
+mitochondrial transport signal. Cry1 protein bound tightly to DNA
+Sepharose, while Cry2 protein did not.
+
+GENE FUNCTION
+
+Griffin et al. (1999) showed that human CRY1 and CRY2 act as
+light-independent inhibitors of a heterodimeric activator consisting of
+CLOCK (601851) and BMAL1 (602550), the activator driving Per1 (602260)
+transcription, very likely by means of direct contacts between CRY1 and
+BMAL1 and between CRY2 and CLOCK. They concluded that CRY1 and CRY2
+occupy a central position within the mammalian circadian clock,
+virtually at the interface between CLOCK-BMAL1 and PER1, PER2 (603426),
+and TIM (603887). Griffin et al. (1999) suggested that Drosophila CRY
+exemplifies the ancestral role of the photoreceptor acting as a
+light-dependent regulator of the circadian feedback loop, whereas
+mammalian CRYs have preserved the role within the circadian feedback
+loop but have shed their direct photoreceptor function.
+
+Kume et al. (1999) determined that the mouse Cry1 and Cry2 genes act in
+the negative limb of the clock feedback loop. They stated that mouse
+Cry1 and Cry2 are nuclear proteins that interact with each of the Per
+proteins, translocate each Per protein from cytoplasm to nucleus, and
+are rhythmically expressed in the suprachiasmatic circadian clock.
+Luciferase reporter gene assays showed that Cry1 or Cry2 alone abrogates
+Clock/Bmal1 (602550) E box-mediated transcription. The mouse Per and Cry
+proteins appeared to inhibit the transcriptional complex differentially.
+
+Etchegaray et al. (2003) demonstrated that transcriptional regulation of
+the core clock mechanism in mouse liver is accompanied by rhythms in H3
+histone (see 602810) acetylation, and that H3 acetylation is a potential
+target of the inhibitory action of Cry. The promoter regions of the
+Per1, Per2, and Cry1 genes exhibited circadian rhythms in H3 acetylation
+and RNA polymerase II (see 180660) binding that were synchronous with
+the corresponding steady-state mRNA rhythms. The histone
+acetyltransferase p300 (602700) precipitated with Clock in vivo in a
+time-dependent manner. Moreover, the Cry proteins inhibited a
+p300-induced increase in Clock/Bmal1-mediated transcription. Etchegaray
+et al. (2003) concluded that the delayed timing of the Cry1 mRNA rhythm,
+relative to the Per rhythms, was due to the coordinated activities of
+Rev-Erb-alpha (602408) and Clock/Bmal1, and defined a novel mechanism
+for circadian phase control.
+
+Lamia et al. (2011) showed that 2 circadian coregulators, Cry1 (601933)
+and Cry2, interact with glucocorticoid receptor (138040) in a
+ligand-dependent fashion and globally alter the transcriptional response
+to glucocorticoids in mouse embryonic fibroblasts: cryptochrome
+deficiency vastly decreases gene repression and approximately doubles
+the number of dexamethasone-induced genes, suggesting that cryptochromes
+broadly oppose glucocorticoid receptor activation and promote
+repression. In mice, genetic loss of Cry1 and/or 2 results in glucose
+intolerance and constitutively high levels of circulating
+corticosterone, suggesting reduced suppression of the
+hypothalamic-pituitary-adrenal axis coupled with increased
+glucocorticoid transactivation in the liver. Genomically, Cry1 and Cry2
+associate with a glucocorticoid response element in the
+phosphoenolpyruvate carboxykinase-1 (PCK1; 614168) promoter in a
+hormone-dependent manner, and dexamethasone-induced transcription of the
+Pck1 gene was strikingly increased in cryptochrome-deficient livers.
+Lamia et al. (2011) concluded that their results revealed a specific
+mechanism through which cryptochromes couple the activity of clock and
+receptor target genes to complex genomic circuits underpinning normal
+metabolic homeostasis.
+
+In mammals, PERIOD (PER1; 602260 and PER2; 603426) and CRYPTOCHROME
+(CRY1 and CRY2) proteins accumulate, form a large nuclear complex (PER
+complex), and repress their own transcription. Padmanabhan et al. (2012)
+found that mouse PER complexes included RNA helicases DDX5 (180630) and
+DHX9 (603115), active RNA polymerase II large subunit (180660), Per and
+Cry pre-mRNAs, and SETX (608465), a helicase that promotes
+transcriptional termination. During circadian negative feedback, RNA
+polymerase II accumulated near termination sites on Per and Cry genes
+but not on control genes. Recruitment of PER complexes to the elongating
+polymerase at Per and Cry termination sites inhibited SETX action,
+impeding RNA polymerase II release and thereby repressing
+transcriptional reinitiation. Circadian clock negative feedback thus
+includes direct control of transcriptional termination.
+
+MAPPING
+
+Kobayashi et al. (1998) mapped the mouse Cry1 and Cry2 genes to
+chromosomes 10C and 2E, respectively. Using a GeneBridge 4 radiation
+hybrid panel, Ishikawa et al. (1998) mapped the human CRY2 gene to
+chromosome 11.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Xing et al. (2013) reported the crystal structures of mammalian CRY2 in
+its apo, FAD-bound, and FBXL3 (605653)-SKP1 (601434)-complexed forms.
+Distinct from other cryptochromes, mammalian CRY2 binds FAD dynamically
+with an open cofactor pocket. Notably, the F-box protein FBXL3 captures
+CRY2 by simultaneously occupying its FAD-binding pocket with a conserved
+carboxy-terminal tail and burying its PER-binding interface.
+
+ANIMAL MODEL
+
+Van der Horst et al. (1999) disrupted the Cry1 and Cry2 genes in mice.
+Homozygous Cry1 -/-, Cry2 -/-, and double-mutant mice had normal 24-hour
+circadian rhythms when exposed to 12h/12h light/dark cycles. In total
+darkness, Cry1 -/- mice had a faster running clock (22.51 +/- 0.06h, P =
+0.00001) than wildtype mice, while Cry2 -/- mice had a slower clock
+(24.63 +/- 0.06 hours, P = 0.00001). Double-mutant mice in total
+darkness showed a striking instantaneous and complete arrhythmicity,
+indicating the absence of an internal circadian clock. The 'clock'
+mutant mouse differs in showing a more gradual onset of arrhythmicity.
+Mice with only 1 copy of wildtype Cry2 displayed a free-running rhythm
+even shorter than that of Cry1 knockouts, which gradually progressed
+into arrhythmicity. Once returned to a light/dark cycle, the normal
+24-hour period resumed. Mice with only one functional allele of Cry1
+showed rhythmic activity with a period intermediate to those of Cry1 -/-
+and Cry2 -/- mice. The authors concluded that their results demonstrated
+that the Cry proteins are involved in maintaining period length and
+circadian rhythmicity, and that a critical balance between Cry1 and Cry2
+is required for proper clock functioning.
+
+Thresher et al. (1998) disrupted the mouse Cry2 gene by homologous
+recombination. The mutant mice had lowered sensitivity to acute light
+induction of the Per1 gene in the suprachiasmatic nucleus (SCN), but
+exhibited normal circadian oscillations of Per1 and Cry1 mRNA in the
+SCN. Behaviorally, the mutants had an intrinsic circadian period about 1
+hour longer than normal and exhibited high amplitude phase shifts in
+response to light pulses administered at circadian time 17. The authors
+considered these data consistent with the hypothesis that Cry2 protein
+modulates circadian responses in mice and suggested that cryptochromes
+have a role in circadian photoreception in mammals.
+
+Freedman et al. (1999) studied circadian behavior in mice deficient in
+both rods and cones. These mice maintained a light-entrained circadian
+rhythm, which they lost with enucleation. Lucas et al. (1999) studied
+pineal melatonin secretion in mice lacking both rods and cones. There
+was normal suppression of pineal melatonin in response to monochromatic
+light of wavelength 509 nm. These authors concluded that mammals have
+additional ocular photoreceptors which they use in the regulation of
+temporal physiology, and suggested CRY1 and CRY2 as candidates.
+
+Okamura et al. (1999) demonstrated that, in mice lacking Cry1 and Cry2,
+cyclic expression of the clock genes Per1 and Per2 is abolished in the
+suprachiasmatic nucleus and peripheral tissues and that Per1 and Per2
+mRNA levels are constitutively high. These findings indicated that the
+biologic clock is eliminated in the absence of both Cry1 and Cry2 and
+supported the idea that mammalian CRY proteins act in the negative limb
+of the circadian feedback loop. The Cry double mutant mice retained the
+ability to have Per1 and Per2 expression induced by a brief light
+stimulus known to phase-shift the biologic clock in wildtype animals.
+Thus, Cry1 and Cry2 are dispensable for light-induced phase shifting of
+the biologic clock.
+
+Shearman et al. (2000) demonstrated that in the mouse, the core
+mechanism for the master circadian clock consists of interacting
+positive and negative transcription and translation feedback loops.
+Analysis of Clock/Clock mutant mice, homozygous Per2 mutants, and
+Cry-deficient mice revealed substantially altered Bmal1 rhythms,
+consistent with a dominant role of Per2 in the positive regulation of
+the Bmal1 loop. In vitro analysis of Cry inhibition of
+Clock:Bmal1-mediated transcription shows that the inhibition is through
+direct protein-protein interactions, independent of the Per and Tim
+proteins. Per2 is a positive regulator of the Bmal1 loop, and Cry1 and
+Cry2 are the negative regulators of the Period and Cryptochrome cycles.
+
+Yagita et al. (2001) used wildtype and Cry1 -/- and Cry2 -/- deficient
+cell lines derived from Cry mutant mice to demonstrate that the
+peripheral oscillator in cultured fibroblasts is identical to the
+oscillator in the suprachiasmatic nucleus in (1) temporal expression
+profiles of all known clock genes; (2) the phase of the various mRNA
+rhythms (i.e., antiphase oscillation of Bmal1 (602550) and Per); (3) the
+delay between maximum mRNA levels and appearance of nuclear Per1 and
+Per2 protein; (4) the inability to produce oscillations in the absence
+of functional Cry genes; and (5) the control of period length by Cry
+proteins.
+
+Van Gelder et al. (2003) tested pupillary light responses of
+cryptochrome mutant mice (Cry1 -/-; Cry2 -/-), outer retinal degenerate
+(rd/rd) mice, and mice mutant at all of these loci, as well littermate
+controls. There was substantial loss of constriction in the rd/rd mice
+compared with control mice. The double mutants for the cryptochromes
+showed a pupillary response similar in magnitude to that in control
+mice. Almost no pupillary constriction was observed in the triple
+knockouts at a 470-nm light intensity. Pupillary responses of the triple
+mutants were about 5% as sensitive to blue light as those of the rd/rd
+mice. Some pupillary responses were retained in the triple mutant mice
+under very bright light, although pupillary movement was somewhat
+sluggish. The 50% constriction threshold of pupillary responses was
+noted in Cry1 -/-;rd/rd and Cry2 -/-;rd/rd mice, and was comparable to
+those of rd/rd mice, indicating that either Cry1 or Cry2 function is
+sufficient for retention of pupillary responses in rd/rd animals. Since
+all mice were of the same strain background, strain differences were
+unlikely to account for the observed differences in pupillary light
+responses. Van Gelder et al. (2003) suggested that murine cryptochromes
+may function as inner retinal photopigments.
+
+REFERENCE 1. Etchegaray, J.-P.; Lee, C.; Wade, P. A.; Reppert, S. M.: Rhythmic
+histone acetylation underlies transcription in the mammalian circadian
+clock. Nature 421: 177-182, 2003.
+
+2. Freedman, M. S.; Lucas, R. J.; Soni, B.; von Schantz, M.; Munoz,
+M.; David-Gray, Z.; Foster, R.: Regulation of mammalian circadian
+behavior by non-rod, non-cone, ocular photoreceptors. Science 284:
+502-504, 1999.
+
+3. Griffin, E. A., Jr.; Staknis, D.; Weitz, C. J.: Light-independent
+role of CRY1 and CRY2 in the mammalian circadian clock. Science 286:
+768-771, 1999.
+
+4. Hsu, D. S.; Zhao, X.; Zhao, S.; Kazantsev, A.; Wang, R.-P.; Todo,
+T.; Wei, Y.-F.; Sancar, A.: Putative human blue-light photoreceptors
+hCRY1 and hCRY2 are flavoproteins. Biochemistry 35: 13871-13877,
+1996.
+
+5. Ishikawa, K.; Nagase, T.; Suyama, M.; Miyajima, N.; Tanaka, A.;
+Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. X. The complete sequences of 100 new
+cDNA clones from brain which can code for large proteins in vitro. DNA
+Res. 5: 169-176, 1998.
+
+6. Kobayashi, K.; Kanno, S.; Smit, B.; van der Horst, G. T. J.; Takao,
+M.; Yasui, A.: Characterization of photolyase/blue-light receptor
+homologs in mouse and human cells. Nucleic Acids Res. 26: 5086-5092,
+1998.
+
+7. Kume, K.; Zylka, M. J.; Sriram, S.; Shearman, L. P.; Weaver, D.
+R.; Jin, X.; Maywood, E. S.; Hastings, M. H.; Reppert, S. M.: mCRY1
+and mCRY2 are essential components of the negative limb of the circadian
+clock feedback loop. Cell 98: 193-205, 1999.
+
+8. Lamia, K. A.; Papp, S. J.; Yu, R. T.; Barish, G. D.; Uhlenhaut,
+N. H.; Jonker, J. W.; Downes, M.; Evans, R. M.: Cryptochromes mediate
+rhythmic repression of the glucocorticoid receptor. Nature 480:
+552-556, 2011.
+
+9. Lucas, R. J.; Freedman, M. S.; Munoz, M.; Garcia-Fernandez, J.-M.;
+Foster, R. G.: Regulation of the mammalian pineal by non-rod, non-cone,
+ocular photoreceptors. Science 284: 505-507, 1999.
+
+10. Okamura, H.; Miyake, S.; Sumi, Y.; Yamaguchi, S.; Yasui, A.; Muijtjens,
+M.; Hoeijmakers, J. H. J.; van der Horst, G. T. J.: Photic induction
+of mPer1 and mPer2 in Cry-deficient mice lacking a biological clock. Science 286:
+2531-2534, 1999.
+
+11. Padmanabhan, K.; Robles, M. S.; Westerling, T.; Weitz, C. J.:
+Feedback regulation of transcriptional termination by the mammalian
+circadian clock PERIOD complex. Science 337: 599-602, 2012.
+
+12. Shearman, L. P.; Sriram, S.; Weaver, D. R.; Maywood, E. S.; Chaves,
+I.; Zheng, B.; Kume, K.; Lee, C. C.; van der Horst, G. T. J.; Hastings,
+M. H.; Reppert, S. M.: Interacting molecular loops in the mammalian
+circadian clock. Science 288: 1013-1019, 2000.
+
+13. Thresher, R. J.; Vitaterna, M. H.; Miyamoto, Y.; Kazantsev, A.;
+Hsu, D. S.; Petit, C.; Selby, C. P.; Dawut, L.; Smithies, O.; Takahashi,
+J. S.; Sancar, A.: Role of mouse cryptochrome blue-light photoreceptor
+in circadian photoresponses. Science 282: 1490-1494, 1998.
+
+14. van der Horst, G. T. J.; Muijtjens, M.; Kobayashi, K.; Takano,
+R.; Kanno, S.; Takao, M.; de Wit, J.; Verkerk, A.; Eker, A. P. M.;
+van Leenen, D.; Buijs, R.; Bootsma, D.; Hoeijmakers, J. H. J.; Yasui,
+A.: Mammalian Cry1 and Cry2 are essential for maintenance of circadian
+rhythms. Nature 398: 627-630, 1999.
+
+15. Van Gelder, R. N.; Wee, R.; Lee, J. A.; Tu, D. C.: Reduced pupillary
+light responses in mice lacking cryptochromes. Science 299: 222
+only, 2003.
+
+16. Xing, W.; Busino, L.; Hinds, T. R.; Marionni, S. T.; Saifee, N.
+H.; Bush, M. F.; Pagano, M.; Zheng, N.: Scf(FBXL3) ubiquitin ligase
+targets cryptochromes at their cofactor pocket. Nature 496: 64-68,
+2013.
+
+17. Yagita, K.; Tamanini, F.; van der Horst, G. T. J.; Okamura, H.
+: Molecular mechanisms of the biological clock in cultured fibroblasts. Science 292:
+278-281, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 05/29/2013
+Ada Hamosh - updated: 8/28/2012
+Ada Hamosh - updated: 2/7/2012
+Ada Hamosh - updated: 2/21/2003
+Ada Hamosh - updated: 2/6/2003
+Ada Hamosh - updated: 4/16/2001
+Ada Hamosh - updated: 5/12/2000
+Ada Hamosh - updated: 12/27/1999
+Ada Hamosh - updated: 10/22/1999
+Stylianos E. Antonarakis - updated: 7/30/1999
+Ada Hamosh - updated: 5/19/1999
+
+CREATED Ada Hamosh: 4/14/1999
+
+EDITED alopez: 05/29/2013
+mgross: 2/5/2013
+alopez: 8/29/2012
+terry: 8/28/2012
+alopez: 2/8/2012
+terry: 2/7/2012
+alopez: 2/24/2003
+terry: 2/21/2003
+alopez: 2/10/2003
+terry: 2/6/2003
+alopez: 4/17/2001
+terry: 4/16/2001
+mcapotos: 8/8/2000
+alopez: 5/12/2000
+alopez: 12/27/1999
+alopez: 10/22/1999
+mgross: 7/30/1999
+alopez: 5/20/1999
+terry: 5/19/1999
+alopez: 4/20/1999
+terry: 4/15/1999
+alopez: 4/14/1999
+
+300885	TITLE *300885 CYTOCHROME c OXIDASE, SUBUNIT VIIb; COX7B
+DESCRIPTION 
+DESCRIPTION
+
+Cytochrome c oxidase (COX), the terminal component of the respiratory
+chain complex of most aerobic organisms, is composed of 13 subunits in
+mammals. Three COX subunits are encoded by mitochondrial DNA, and 10,
+including COX7B, are encoded by nuclear DNA (summary by Sadlock et al.,
+1993).
+
+CLONING
+
+By screening a human endothelial cell library with a partial bovine COX
+VIIb cDNA, Sadlock et al. (1993) isolated a cDNA encoding human COX
+VIIb. The predicted 80-amino acid human protein contains a 24-amino acid
+leader sequence. The mature human and bovine COX VIIb polypeptides are
+82% identical. Southern blot analysis indicated that the COX VIIb gene
+is part of a large gene family in the human genome. In a review article,
+Lenka et al. (1998) noted that the COX VIIb subunit is found in all
+mammalian tissues.
+
+MAPPING
+
+Gross (2012) mapped the COX7B gene to chromosome Xq21.1 based on an
+alignment of the COX7B sequence (GenBank GENBANK AK311879) with the
+genomic sequence (GRCh37).
+
+MOLECULAR GENETICS
+
+In 4 female patients with reticulolinear aplasia cutis congenita
+associated with microcephaly, facial dysmorphism, and other congenital
+anomalies (APLCC; 300887), Indrieri et al. (2012) identified
+heterozygosity for a 1-bp deletion, a splice site mutation, and a
+nonsense mutation, respectively (300885.0001-300885.0003).
+
+ANIMAL MODEL
+
+Indrieri et al. (2012) performed morpholino knockdown of cox7b in medaka
+fish (Oryzias latipes) and observed a dose-dependent phenotype
+characterized by microcephaly and microphthalmia, as well as severe
+cardiac defects including failure of heart loop formation and
+pericardial edema.
+
+ALLELIC VARIANT .0001
+APLASIA CUTIS CONGENITA, RETICULOLINEAR, WITH MICROCEPHALY, FACIAL
+DYSMORPHISM, AND OTHER CONGENITAL ANOMALIES
+COX7B, 1-BP DEL, 196C
+
+In a female patient with reticulolinear congenital skin defects,
+microcephaly, facial dysmorphism, and short stature (APLCC; 300887), who
+was originally described by Zvulunov et al. (1998), Indrieri et al.
+(2012) identified heterozygosity for a de novo 1-bp deletion (196delC)
+in exon 3 of the COX7B gene, causing a frameshift predicted to result in
+premature termination (Leu66CysfsTer48) and a mutant protein lacking the
+domain that interacts with COX subunits COX4 (123864) and COX6C
+(124090). The mutation was not found in her parents, in 200 ethnically
+matched controls, or in the dbSNP or NHLBI Exome Variant Server
+databases.
+
+.0002
+APLASIA CUTIS CONGENITA, RETICULOLINEAR, WITH MICROCEPHALY, FACIAL
+DYSMORPHISM, AND OTHER CONGENITAL ANOMALIES
+COX7B, IVS1AS, A-G, -2
+
+In a girl with reticulolinear congenital skin defects, microcephaly,
+facial dysmorphism, short stature, atrial septal defect and ventricular
+hypertrophy, right diaphragmatic hernia, and agenesis of the left kidney
+with ureteral duplication of the right kidney (APLCC; 300887), Indrieri
+et al. (2012) identified heterozygosity for a de novo A-G transition
+(41-2A-G) in intron 1 of the COX7B gene, predicted to create a novel
+splice acceptor site 1 base before the wildtype splice site
+(Val14Glyfs*19). The mutation was not found in her parents or in the
+dbSNP or NHLBI Exome Variant Server databases. In vitro analysis
+demonstrated that 90% of mutant transcripts contained an additional
+guanine at the start of exon 2, causing out-of-frame transcripts
+predicted to result in premature termination.
+
+.0003
+APLASIA CUTIS CONGENITA, RETICULOLINEAR, WITH MICROCEPHALY, FACIAL
+DYSMORPHISM, AND OTHER CONGENITAL ANOMALIES
+COX7B, GLN19TER
+
+In a girl with reticulolinear congenital skin defects of the face and
+neck, microcephaly, facial dysmorphism, tetralogy of Fallot, and
+intellectual disability (APLCC; 300887), Indrieri et al. (2012)
+identified heterozygosity for a 55C-T transition in exon 2 of the COX7B
+gene, resulting in a gln19-to-ter (Q19X) substitution. The nonsense
+mutation was also present in heterozygosity in the proband's mother, who
+was born with reticulolinear congenital skin defects of the face and
+neck but had no other manifestations and normal cognitive function. The
+proband's 3 healthy sisters and healthy brother all inherited the
+wildtype allele from their mother, and the mutation was not found in the
+dbSNP or NHLBI Exome Variant Server databases.
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  11/8/2012.
+
+2. Indrieri, A.; van Rahden, V. A.; Tiranti, V.; Morleo, M.; Iaconis,
+D.; Tammaro, R.; D'Amato, I.; Conte, I.; Maystadt, I.; Demuth, S.;
+Zvulunov, A.; Kutsche, K.; Zeviani, M.; Franco, B.: Mutations in
+COX7B cause microphthalmia with linear skin lesions, and unconventional
+mitochondrial disease. Am. J. Hum. Genet. 91: 942-949, 2012.
+
+3. Lenka, N.; Vijayasarathy, C.; Mullick, J.; Avadhani, N. G.: Structural
+organization and transcription regulation of nuclear genes encoding
+the mammalian cytochrome c oxidase complex. Prog. Nucleic Acid Res.
+Molec. Biol. 61: 309-344, 1998.
+
+4. Sadlock, J. E.; Lightowlers, R. N.; Capaldi, R. A.; Schon, E. A.
+: Isolation of a cDNA specifying subunit VIIb of human cytochrome
+c oxidase. Biochim. Biophys. Acta 1172: 223-225, 1993.
+
+5. Zvulunov, A.; Kachko, L.; Manor, E.; Shinwell, E.; Carmi, R.:
+Reticulolinear aplasia cutis congenita of the face and neck: a distinctive
+cutaneous manifestation in several syndromes linked to Xp22. Brit.
+J. Derm. 138: 1046-1052, 1998.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/10/2012
+Matthew B. Gross - updated: 11/8/2012
+
+CREATED Joanna S. Amberger: 11/7/2012
+
+EDITED carol: 09/06/2013
+carol: 12/10/2012
+mgross: 11/8/2012
+joanna: 11/7/2012
+
+602137	TITLE *602137 NADH-UBIQUINONE OXIDOREDUCTASE 1 ALPHA SUBCOMPLEX, 2; NDUFA2
+;;B8 PROTEIN
+DESCRIPTION 
+DESCRIPTION
+
+The NDUFA2 gene encodes one of the accessory subunits of complex I, the
+first and largest complex of the mitochondrial respiratory chain (Hoefs
+et al., 2008).
+
+For a discussion of complex I, see 516000.
+
+CLONING
+
+Dunbar et al. (1997) reported the genomic cloning and fluorescence in
+situ hybridization mapping of 5 nuclear-encoded human complex I genes.
+
+Ton et al. (1997) isolated human heart cDNAs encoding the CI-B8, CI-SGDH
+(603841), CI-B14 (602138), CI-B12 (603839), and CI-KFYI (603844)
+subunits of the HP fraction. Human and bovine B8 protein shared 94%
+sequence identity.
+
+Loeffen et al. (1998) noted that complex I can be fragmented into 3
+different fractions. The flavoprotein fraction contains the NDUFV1
+(161015), NDUFV2 (600532), and NDUFV3 (602184) subunits and the
+iron-sulfur protein (IP) fraction contains at least 7 subunits,
+NDUFS1-NDUFS6 (see, e.g., 157655) and NDUFA5 (601677). The remaining
+subunits, including NDUFA2, are part of the hydrophobic protein (HP)
+fraction, which is involved in proton translocation. Loeffen et al.
+(1998) reported cDNA sequences of 8 nuclear-encoded subunits located
+within the hydrophobic protein fraction of NADH:ubiquinone
+oxidoreductase.
+
+MAPPING
+
+Dunbar et al. (1997) mapped NDUFA2 to chromosome 5q31. Emahazion and
+Brookes (1998) showed that of the 5 complex I genes mapped by Dunbar et
+al. (1997), only the mapping of NDUFA2 was correct. (See NDUFA6
+(602138), NDUFA7 (602139), NDUFB8 (602140), and NDUFS8 (602141).)
+
+By intron-based radiation hybrid mapping, Emahazion and Brookes (1998)
+mapped the NDUFA2 gene to chromosome 5q31.2.
+
+MOLECULAR GENETICS
+
+In a boy with Leigh syndrome (256000) due to mitochondrial complex I
+deficiency (252010), Hoefs et al. (2008) identified a homozygous splice
+site mutation in the NDUFA2 gene (602137.0001).
+
+NOMENCLATURE
+
+Mammalian complex I has been studied extensively in Bos taurus. The
+names of some the bovine complex I subunits designate the single-letter
+code for the 4 N-terminal amino acids (e.g., SGDH). The names of
+subunits B8-B22 designate their molecular weights (Walker et al., 1992).
+
+ALLELIC VARIANT .0001
+LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX I DEFICIENCY
+NDUFA2, IVS2DS, G-A, +5
+
+In a Turkish boy with Leigh syndrome (256000) due to mitochondrial
+complex I deficiency (252010), born of first-cousin parents, Hoefs et
+al. (2008) identified a homozygous G-to-A transition in intron 2 of the
+NDUFA2 gene, resulting in the skipping of exon 2 and generation of a
+prematurely truncated protein, which was confirmed by PCR analysis. He
+had hypertrophic cardiomyopathy and developmental delay from birth, and
+brain MRI showed cerebral atrophy and hypoplasia of the corpus callosum.
+After a varicella infection, he developed severe acidosis, seizures, and
+coma, and died of cardiovascular arrest at age 11 months. MRI just
+before death showed demyelinization of corticospinal tracts and subacute
+necrotizing encephalomyelopathy consistent with Leigh syndrome. The
+fibroblast and muscle complex I enzymatic activities were 36% and 20% of
+control values, respectively. Further studies showed that the NDUFA2
+mutation resulted in disturbed assembly and stability of complex I and
+decreased complex I activity. In patient fibroblasts, the defect could
+be corrected with a baculoviral vector.
+
+REFERENCE 1. Dunbar, D. R.; Shibasaki, Y.; Dobbie, L.; Andersson, B.; Brookes,
+A. J.: In situ hybridisation mapping of genomic clones for five human
+respiratory chain complex I genes. Cytogenet. Cell Genet. 78: 21-24,
+1997.
+
+2. Emahazion, T.; Brookes, A. J.: Mapping of the NDUFA2, NDUFA6,
+NDUFA7, NDUFB8, and NDUFS8 electron transport chain genes by intron
+based radiation hybrid mapping. Cytogenet. Cell Genet. 82: 114 only,
+1998.
+
+3. Hoefs, S. J. G.; Dieteren, C. E. J.; Distelmaier, F.; Janssen,
+R. J. R. J.; Epplen, A.; Swarts, H. G. P.; Forkink, M.; Rodenburg,
+R. J.; Nijtmans, L. G.; Willems, P. H.; Smeitink, J. A. M.; van den
+Heuvel, L. P.: NDUFA2 complex I mutation leads to Leigh disease. Am.
+J. Hum. Genet. 82: 1306-1315, 2008.
+
+4. Loeffen, J. L. C. M.; Triepels, R. H.; van den Heuvel, L. P.; Schuelke,
+M.; Buskens, C. A. F.; Smeets, R. J. P.; Trijbels, J. M. F.; Smeitink,
+J. A. M.: cDNA of eight nuclear encoded subunits of NADH:ubiquinone
+oxidoreductase: human complex I cDNA characterization completed. Biochem.
+Biophys. Res. Commun. 253: 415-422, 1998.
+
+5. Ton, C.; Hwang, D. M.; Dempsey, A. A.; Liew, C.-C.: Identification
+and primary structure of five human NADH-ubiquinone oxidoreductase
+subunits. Biochem. Biophys. Res. Commun. 241: 589-594, 1997.
+
+6. Walker, J. E.; Arizmendi, J. M.; Dupuis, A.; Fearnley, I. M.; Finel,
+M.; Medd, S. M.; Pilkington, S. J.; Runswick, M. J.; Skehel, J. M.
+: Sequences of 20 subunits of NADH:ubiquinone oxidoreductase from
+bovine heart mitochondria. J. Molec. Biol. 226: 1051-1072, 1992.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/10/2008
+Rebekah S. Rasooly - updated: 5/25/1999
+Carol A. Bocchini - updated: 12/1/1998
+
+CREATED Victor A. McKusick: 12/2/1997
+
+EDITED wwang: 09/16/2008
+wwang: 9/16/2008
+ckniffin: 9/10/2008
+terry: 3/6/2001
+terry: 12/13/1999
+alopez: 5/25/1999
+carol: 12/3/1998
+terry: 12/2/1998
+carol: 12/1/1998
+carol: 11/12/1998
+carol: 8/19/1998
+alopez: 12/15/1997
+dholmes: 12/4/1997
+

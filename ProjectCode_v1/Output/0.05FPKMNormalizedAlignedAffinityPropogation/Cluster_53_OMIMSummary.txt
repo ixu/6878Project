@@ -1,0 +1,159 @@
+609737	TITLE *609737 CRUMBS, DROSOPHILA, HOMOLOG OF, 3; CRB3
+DESCRIPTION 
+CLONING
+
+By EST database searching for mammalian Crumbs family members (see CRB1,
+604210), Makarova et al. (2003) identified and subsequently cloned CRB3
+from human retina cDNA. The CRB3 cDNA encodes a deduced 120-amino acid
+protein with a putative signal peptide in the first 20 amino acids, a
+putative extracellular N-glycosylation site, and a transmembrane domain.
+The intracellular domain contains a conserved band-4.1
+superfamily-binding site and a Pals PDZ domain-binding site, as found in
+Drosophila Crumbs and human CRB1. Makarova et al. (2003) also identified
+mouse Crb3. The intracellular domains of the human and mouse proteins
+are highly conserved. Using RT-PCR, Makarova et al. (2003) found high
+levels of CRB3 mRNA in lung, kidney, retina, colon, and mammary gland,
+and moderate levels in liver, spleen, pancreas, placenta, and prostate.
+By Northern blot analysis of multiple human tissues, Lemmers et al.
+(2004) demonstrated CRB3 expression in all epithelial tissues analyzed
+and in skeletal muscle, with weak expression in brain.
+
+GENE FUNCTION
+
+From immunoprecipitation assays carried out with Madin Darby canine
+kidney (MDCK) cell lysates, Makarova et al. (2003) showed that CRB3
+binds with PALS1 (MMP5; 606958) and the PALS1-associated tight junction
+protein, PATJ (see 603199). The PALS1 PDZ domain was found to be
+necessary for CRB3 binding. Immunoprecipitation experiments showed that
+CRB3 is N-glycosylated. Makarova et al. (2003) demonstrated that CRB3 is
+localized to the apical surface and tight junctions of MDCK cells and
+that this localization is not dependent on glycosylation.
+
+Lemmers et al. (2004) demonstrated that the apical localization of CRB3
+is not dependent on the PDZ-binding domain (ERLI). Lemmers et al. (2004)
+found that expression of CRB3 or of a chimera containing the
+extracellular domain of the neurotrophin receptor p75NTR (NGFR; 162010)
+and the transmembrane and cytoplasmic domains of CRB3 led to a slower
+development of functional tight junctions in MDCK cells. This phenotype
+relied on the presence of the CRB3 PDZ-binding domain, which is involved
+in a direct interaction with PAR6-alpha (PARD6A; 607484), a regulator of
+epithelial polarity and tight junction formation.
+
+GENE STRUCTURE
+
+Lemmers et al. (2004) determined that the CRB3 gene contains 4 exons,
+with the last exon containing the 3-prime untranslated region.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CRB3
+gene to chromosome 19 (TMAP STS-N23258).
+
+REFERENCE 1. Lemmers, C.; Michel, D.; Lane-Guermonprez, L.; Delgrossi, M.-H.;
+Medina, E.; Arsanto, J.-P.; Le Bivic, A.: CRB3 binds directly to
+Par6 and regulates the morphogenesis of the tight junctions in mammalian
+epithelial cells. Molec. Biol. Cell 15: 1324-1333, 2004.
+
+2. Makarova, O.; Roh, M. H.; Liu, C.-J.; Laurinec, S.; Margolis, B.
+: Mammalian Crumbs3 is a small transmembrane protein linked to protein
+associated with Lin-7 (Pals1). Gene 302: 21-29, 2003.
+
+CREATED Jennifer L. Goldstein: 11/23/2005
+
+EDITED carol: 11/23/2005
+
+131370	TITLE *131370 ENOLASE 3; ENO3
+;;ENOLASE, BETA;;
+ENOLASE, MUSCLE-SPECIFIC; MSE
+DESCRIPTION 
+CLONING
+
+Peshavaria and Day (1991) determined that the ENO3 gene encodes a
+deduced 433-amino acid protein.
+
+MAPPING
+
+Chen and Giblett (1976) and Pearce et al. (1976) presented evidence for
+3 enolase loci. By in situ hybridization studies using a probe for ENO2
+(131360), Craig et al. (1989) found small aggregates of grains at
+1pter-p36, the site of ENO1 (172430), and some at 17pter-p12.
+
+Feo et al. (1990) mapped the muscle-specific beta-enolase (ENO3) to
+chromosome 17pter-p11 by analysis of rodent-human somatic cell hybrids
+and transfectant cell lines carrying different portions of chromosome
+17. This muscle-specific enzyme maps to the region encoding the gene
+cluster for the sarcomeric myosin heavy chains (MYH1; 160730).
+
+GENE STRUCTURE
+
+Peshavaria and Day (1991) determined that the ENO3 gene contains 12
+exons and spans approximately 6 kb.
+
+MOLECULAR GENETICS
+
+In a man with glycogen storage disease XIII (GSD13; 612932), Comi et al.
+(2001) identified compound heterozygosity for 2 mutations in the ENO3
+gene (G156D, 131370.0001; G374E, 131370.0002). Immunohistochemistry and
+immunoblotting detected dramatically reduced beta-enolase protein in
+this patient, while alpha-enolase was normally represented.
+
+ALLELIC VARIANT .0001
+GLYCOGEN STORAGE DISEASE XIII
+ENO3, GLY156ASP
+
+In a 47-year-old man with adult onset of exercise-induced myalgias,
+generalized muscle weakness, and fatigability (612932), Comi et al.
+(2001) identified compound heterozygosity for 2 mutations in the ENO3
+gene: a 467G-A transition resulting in a gly156-to-asp (G156D)
+substitution and a 1121G-A transition resulting in a gly374-to-glu
+(G374E; 131370.0002) substitution.
+
+.0002
+GLYCOGEN STORAGE DISEASE XIII
+ENO3, GLY374GLU
+
+See 131370.0001 and Comi et al. (2001).
+
+REFERENCE 1. Chen, S.-H.; Giblett, E. R.: Enolase: human tissue distribution
+and evidence for three different loci. Ann. Hum. Genet. 39: 277-280,
+1976.
+
+2. Comi, G. P.; Fortunato, F.; Lucchiari, S.; Bordoni, A.; Prelle,
+A.; Jann, S.; Keller, A.; Ciscato, P.; Galbiati, S.; Chiveri, L.;
+Torrente, Y.; Scarlato, G.; Bresolin, N.: Beta-enolase deficiency,
+a new metabolic myopathy of distal glycolysis. Ann. Neurol. 50:
+202-207, 2001.
+
+3. Craig, S. P.; Day, I. N. M.; Thompson, R. J.; Craig, I. W.: Localization
+of human neurone-specific enolase to chromosome 12p13. (Abstract) Cytogenet.
+Cell Genet. 51: 980 only, 1989.
+
+4. Feo, S.; Oliva, D.; Barbieri, G.; Xu, W.; Fried, M.; Giallongo,
+A.: The gene for the muscle-specific enolase is on the short arm
+of human chromosome 17. Genomics 6: 192-194, 1990.
+
+5. Pearce, J. M.; Edwards, Y. H.; Harris, H.: Human enolase isozymes:
+electrophoretic and biochemical evidence for three loci. Ann. Hum.
+Genet. 39: 263-276, 1976.
+
+6. Peshavaria, M.; Day, I. N. M.: Molecular structure of the human
+muscle-specific enolase gene (ENO3). Biochem. J. 275: 427-433, 1991.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/24/2001
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 07/28/2009
+ckniffin: 7/27/2009
+joanna: 3/17/2004
+alopez: 9/25/2001
+terry: 9/24/2001
+carol: 4/14/1999
+dkim: 6/30/1998
+supermim: 3/16/1992
+carol: 12/10/1991
+carol: 2/13/1991
+supermim: 3/20/1990
+supermim: 1/20/1990
+supermim: 1/19/1990
+

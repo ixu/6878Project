@@ -1,0 +1,531 @@
+602015	TITLE *602015 OUTER DENSE FIBER OF SPERM TAILS 2; ODF2
+;;OUTER DENSE FIBER OF SPERM TAILS, 84-KD; ODF84
+CENEXIN 1, INCLUDED;;
+CENEXIN 1 VARIANT 1, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+ODF2 encodes multiple protein isoforms that have roles in the formation
+of primary cilia and sperm flagella and in coordinating ciliary beating
+(Kunimoto et al., 2012).
+
+CLONING
+
+See ODF1 (182878). Brohmann et al. (1997) used antibodies against Odf
+proteins to screen a rat testis expression library and isolated the rat
+Odf2 gene. Sequence analysis revealed that the protein has an overall
+alpha-helical structure with 2 regions identical to the dimerization
+region of a leucine zipper motif. Brohmann et al. (1997) documented Odf2
+cDNAs with 3 different 5-prime end sequences, presumed to be the result
+of alternative splicing. They found expression of the rat gene only in
+testis.
+
+The EST database contains several human cDNA sequences which are closely
+related to rat Odf2, suggesting that a human homolog exists (Scott,
+1997). These human cDNA sequences were derived from testis, epididymis,
+and fetal brain libraries.
+
+Shao et al. (1997) used a yeast 2-hybrid screening with the leucine
+zipper region of ODF1 (ODF27; Shao and van der Hoorn, 1996) as bait to
+isolate rat testis-specific proteins that could interact with ODF27.
+They demonstrated that one of the novel genes isolated encoded the 84-kD
+ODF protein ODF2.
+
+Soung et al. (2006) stated that the deduced 638-amino acid ODF2 protein
+has 2 leucine zipper motifs in its C-terminal half. Using an inactive
+mutant of the mitotic kinase PLK1 (602098) as bait in a yeast 2-hybrid
+screen of a human testis cDNA library, followed by RT-PCR of HeLa cell
+RNA, they identified 2 splice variants of ODF2 that they called
+cenexin-1 and cenexin-1 variant-1. Cenexin-1 and cenexin-1 variant-1
+encode proteins of 805 and 824 amino acids, respectively. Both isoforms
+contain a C-terminal extension compared with ODF2, and cenexin-1
+variant-1 also has a 19-amino acid insertion near its N-terminal end.
+Northern blot analysis of synchronized HeLa cells detected a single
+transcript of about 4.0 kb, representing cenexin-1. Cenexin-1 localized
+at the microtubule-organizing center in interphase and at spindle poles
+in mitosis, suggesting that cenexin-1 is a centrosomal protein.
+Fluorescence-tagged cenexin-1 primarily localized to the mother
+centrosome in interphase and to both mother and daughter centrosomes in
+mitosis.
+
+Using real-time RT-PCR with a probe for the 3-prime region of mouse
+Odf2/cenexin, Kunimoto et al. (2012) detected highest expression in
+mouse trachea and lung, with much lower expression in brain, and little
+to no expression in heart, liver, and kidney. Western blot analysis
+using an antibody against the N-terminal region of Odf2/cenexin detected
+an apparent 75-kD protein in mouse testis and an apparent 90-kD protein
+in mouse trachea, lung, kidney, brain, and oviduct.
+
+GENE STRUCTURE
+
+Soung et al. (2006) determined that the ODF2 gene contains 21 exons and
+spans 44.8 kb.
+
+MAPPING
+
+By FISH, Shao et al. (1998) mapped the human ODF2 gene to chromosome
+9q34. Soung et al. (2006) mapped the ODF2 gene to chromosome 9q34.11 by
+genomic sequence analysis.
+
+GENE FUNCTION
+
+Using protein pull-down and coimmunoprecipitation analyses, Soung et al.
+(2006) confirmed that cenexin-1 interacted directly with PLK1. Mutation
+analysis revealed that the C-terminal domain of cenexin-1 interacted
+with the polo-box domain of PLK1. The C-terminal domain of cenexin-1 was
+also required to recruit PLK1 to centrosomes. Depletion of cenexin-1
+from HeLa cells delocalized centrosomal PLK1, diminished gamma-tubulin
+(see 191135) recruitment to centrosomes, and altered localization of a
+subset of centrosomal proteins required for microtubule nucleation and
+function. Depletion of cenexin-1 also resulted in severe mitotic
+defects, including chromosome alignment and segregation defects. A
+significant fraction of these cells also showed multipolar chromosomes
+and apoptotic cell death.
+
+ANIMAL MODEL
+
+Kunimoto et al. (2012) developed a line of mice with deletion of exons 6
+and 7 of Odf2, which they called Odf2(delta-ex6,7) mice. Homozygous
+Odf2(delta-ex6,7) mice were born at the expected mendelian ratio, but
+only 20% survived past weaning. Surviving mice were characterized by a
+coughing/sneezing-like phenotype, sinusitis, otitis media, and a slight
+tendency to hydrocephaly, suggesting primary ciliary dyskinesia. Unlike
+Odf2 -/- F9 embryonic mouse carcinoma cells, homozygous
+Odf2(delta-ex6,7) mice were born with primary cilia and expressed low
+levels of N-terminally truncated Odf2/cenexin. Antibody raised against
+the Odf2/cenexin C-terminal region detected slight immunofluorescence at
+the base of cilia in homozygous Odf2(delta-ex6,7) tracheal cells, but
+not in Odf2 -/- F9 cells. Cilium appeared to nucleate from the basal
+body in Odf2(delta-ex6,7) cells, but the basal foot was completely lost,
+and basal bodies failed to position apically in some cells. Basal feet
+were also absent in oviduct epithelial cells and ependymal cells in
+brains of homozygous Odf2(delta-ex6,7) mice. Live imaging of isolated
+Odf2(delta-ex6,7) trachea preparations revealed uncoordinated ciliary
+beating and inefficient fluid flow across the luminal surface.
+Deficiency of full-length Odf2/cenexin also perturbed the polarized
+distribution of planar cell polarity (PCP) proteins and PCP-dependent
+apical organization of microtubules.
+
+REFERENCE 1. Brohmann, H.; Pinnecke, S.; Hoyer-Fender, S.: Identification and
+characterization of new cDNAs encoding outer dense fiber proteins
+of rat sperm. J. Biol. Chem. 272: 10327-10332, 1997.
+
+2. Kunimoto, K.; Yamazaki, Y.; Nishida, T.; Shinohrara, K.; Ishikawa,
+H.; Hasegawa, T.; Okanoue, T.; Harnada, H.; Noda, T.; Tamura, A.;
+Tsukita, S.; Tsukita, S.: Coordinated ciliary beating requires Odf2-mediated
+polarization of basal bodies via basal feet. Cell 189-200, 2012.
+
+3. Scott, A. F.: Personal Communication. Baltimore, Md.  9/10/1997.
+
+4. Shao, X.; Murthy, S.; Demetrick, D. J.; van der Hoorn, F. A.:
+Human outer dense fiber gene, ODF2, localizes to chromosome 9q34. Cytogenet.
+Cell Genet. 83: 221-223, 1998.
+
+5. Shao, X.; Tarnasky, H. A.; Schalles, U.; Oko, R.; van der Hoorn,
+F. A.: Interactional cloning of the 84-kDa major outer dense fiber
+protein Odf84: leucine zippers mediate associations of Odf84 and Odf27. J.
+Biol. Chem. 272: 6105-6113, 1997.
+
+6. Shao, X.; van der Hoorn, F. A.: Self-interaction of the major
+27-kilodalton outer dense fiber protein is in part mediated by a leucine
+zipper domain in the rat. Biol. Reprod. 55: 1343-1350, 1996.
+
+7. Soung, N.-K.; Kang, Y. H.; Kim, K.; Kamijo, K.; Yoon, H.; Seong,
+Y.-S.; Kuo, Y.-L.; Miki, T.; Kim, S. R.; Kuriyama, R.; Giam, C.-Z.;
+Ahn, C. H.; Lee, K. S.: Requirement of hCenexin for proper mitotic
+functions of polo-like kinase 1 at the centrosomes. Molec. Cell.
+Biol. 26: 8316-8335, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 06/07/2013
+Carol A. Bocchini - updated: 6/12/1999
+Alan F. Scott - updated: 9/10/1997
+
+CREATED Jennifer P. Macke: 9/10/1997
+
+EDITED mgross: 06/07/2013
+alopez: 3/15/2010
+terry: 6/14/1999
+carol: 6/12/1999
+dkim: 9/22/1998
+dkim: 9/21/1998
+alopez: 9/17/1998
+alopez: 9/15/1998
+terry: 9/14/1998
+carol: 5/26/1998
+alopez: 10/15/1997
+alopez: 10/13/1997
+alopez: 10/7/1997
+
+613249	TITLE *613249 ENDOGENOUS BORNA-LIKE N ELEMENT-CONTAINING PROTEIN 1; EBLN1
+DESCRIPTION 
+CLONING
+
+Borna disease viruses (BDVs), a genus of nonsegmented negative-sense RNA
+viruses, are unique among RNA viruses in that they establish persistent
+infection in the cell nucleus. By searching human protein databases for
+sequences similar to BDV proteins, Horie et al. (2010) identified a
+hypothetical human protein, LOC340900, with significant sequence
+similarity to the BDV nucleoprotein gene (BDV-N), which encodes a major
+structural protein that tightly encapsidates the viral RNA to form the
+nucleocapsid. The 366-residue LOC340900 sequence shares 41% sequence
+identity and 58% similarity to the 370-residue BDV-N protein. Sequence
+alignment of transcription regulatory elements demonstrated that the S
+and T motifs in flanking sequences of the human protein were well
+conserved with those of BDV. Homology of LOC340900 to BDV-N was also
+confirmed by a permutation test. Because of findings indicating that
+LOC340900 may represent an endogenous element related to the BDV-N gene,
+Horie et al. (2010) designated the human gene EBLN1. The EBLN1 protein
+shares 72% identity with the EBLN2 protein (613250). Horie et al. (2010)
+showed that elements homologous to the BDV-N gene exist in the genomes
+of several other mammalian species, including nonhuman primates,
+rodents, and elephants. Horie et al. (2010) concluded that their results
+provided the first evidence for endogenization of nonretroviral
+virus-derived elements in mammalian genomes, and further suggested that
+the L1 reverse transcriptase is used to promote the endogenization of
+EBLN elements, which may still be occurring.
+
+REFERENCE 1. Horie, M.; Honda, T.; Suzuki, Y.; Kobayashi, Y.; Daito, T.; Oshida,
+T.; Ikuta, K.; Jern, P.; Gojobori, T.; Coffin, J. M.; Tomonaga, K.
+: Endogenous non-retroviral RNA virus elements in mammalian genomes. Nature 463:
+84-87, 2010.
+
+CREATED Ada Hamosh: 2/5/2010
+
+EDITED alopez: 02/15/2010
+alopez: 2/5/2010
+
+123857	TITLE *123857 CYSTATIN 4; CST4
+;;CYSTATIN S
+DESCRIPTION 
+CLONING
+
+See CST1 (123855) and CST5 (123858) for general information about
+cystatins, inhibitors of cysteine proteinases. Saitoh et al. (1991)
+cloned the CST4 gene by screening a genomic library with the CST1 gene.
+The CST4 gene encodes the 141-amino acid precursor form of cystatin S.
+(The cystatin D gene was originally called CST4 but later renamed CST5.)
+
+By RNase protection assay of 23 human tissues, Dickinson et al. (2002)
+found that the level of CST4 was highest in submandibular gland,
+intermediate in parotid gland, lacrimal gland, and gallbladder, lower in
+kidney and seminal vesicles, and lowest in prostate.
+
+GENE STRUCTURE
+
+Saitoh et al. (1991) determined that the CST4 gene is composed of 3
+exons spanning less than 4 kb.
+
+MAPPING
+
+Dickinson et al. (1994) mapped the CST4 gene to 20p11.2 by fluorescence
+in situ hybridization. CST4 is clustered with other family II cystatins
+in a region that spans less than 905 kb.
+
+REFERENCE 1. Dickinson, D. P.; Thiesse, M.; Hicks, M. J.: Expression of type
+2 cystatin genes CST1-CST5 in adult human tissues and the developing
+submandibular gland. DNA Cell Biol. 21: 47-65, 2002.
+
+2. Dickinson, D. P.; Zhao, Y.; Thiesse, M.; Siciliano, M. J.: Direct
+mapping of seven genes encoding human type 2 cystatins to a single
+site located at 20p11.2. Genomics 24: 172-175, 1994.
+
+3. Saitoh, E.; Isemura, S.; Sanada, K.; Ohnishi, K.: The human cystatin
+gene family: cloning of three members and evolutionary relationship
+between cystatins and Bowman-Birk type proteinase inhibitors. Biomed.
+Biochim. Acta 50: 599-605, 1991.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/30/2006
+Rebekah S. Rasooly - updated: 4/10/1998
+
+CREATED Victor A. McKusick: 8/6/1991
+
+EDITED alopez: 09/18/2012
+wwang: 9/6/2006
+terry: 8/30/2006
+psherman: 4/10/1998
+mark: 3/31/1997
+carol: 1/26/1995
+carol: 6/4/1993
+carol: 3/9/1993
+carol: 3/31/1992
+supermim: 3/16/1992
+carol: 2/21/1992
+
+606538	TITLE *606538 MYOSIN IC; MYO1C
+;;MYOSIN 2, RAT, HOMOLOG OF; MYR2;;
+NUCLEAR MYOSIN I; NMI
+DESCRIPTION Myosins are molecular motors that, upon interaction with actin
+filaments, utilize energy from ATP hydrolysis to generate mechanical
+force. For further background information on myosins, see MYO1A
+(601478).
+
+CLONING
+
+By screening a kidney cDNA library with a mouse Myo1c probe, Crozet et
+al. (1997) obtained a human cDNA encoding MYO1C. The deduced 1,028-amino
+acid protein, which is 96% identical to the mouse protein, contains ATP-
+and actin-binding sequences in the motor (or head) domain, followed by
+three 23-residue IQ motifs and a tail domain rich in basic residues that
+is expected to interact with negatively charged membrane phospholipids.
+Northern blot analysis revealed ubiquitous expression of Myo1c in adult
+mouse tissues.
+
+GENE FUNCTION
+
+MYO1C, also known as myosin I-beta and MYR2, was thought to mediate the
+slow component of adaptation by hair cells, the sensory cells of the
+inner ear. To test this hypothesis, Holt et al. (2002) mutated tyr61 of
+MYO1C to gly, conferring susceptibility to inhibition by N6-modified ADP
+analogs. They expressed the mutant MYO1C in utricular hair cells of
+transgenic mice, delivered an ADP analog through a whole-cell recording
+pipette, and found that the analog rapidly blocked adaptation to
+positive and negative deflections in transgenic cells but not in
+wildtype cells. The speed and specificity of inhibition suggested that
+MYO1C participates in adaptation in hair cells.
+
+Bose et al. (2002) reported that the unconventional myosin MYO1C is
+present in GLUT4 (138190)-containing vesicles purified from 3T3-L1
+adipocytes. MYO1C is highly expressed in primary and cultured
+adipocytes. Insulin (176730) enhances the localization of MYO1C with
+GLUT4 in cortical tubulovesicular structures associated with actin
+filaments, and this colocalization is insensitive to wortmannin.
+Insulin-stimulated translocation of GLUT4 to the adipocyte plasma
+membrane is augmented by the expression of wildtype MYO1C and inhibited
+by a dominant-negative cargo domain of MYO1C. A decrease in the
+expression of endogenous MYO1C mediated by small interfering RNAs
+inhibited insulin-stimulated uptake of 2-deoxyglucose. Thus, Bose et al.
+(2002) concluded that MYO1C functions in a
+phosphatidylinositol-3-hydroxykinase (PI3K; see 601232)-independent
+insulin signaling pathway that controls the movement of intracellular
+GLUT4-containing vesicles to the plasma membrane.
+
+MAPPING
+
+Using PCR and radiation hybrid analysis, Crozet et al. (1997) mapped the
+MYO1C gene to 17p13.
+
+HISTORY
+
+A report by Nunez et al. (2008) indicating that 3-dimensional
+motor-dependent interchromosomal interactions involving MYO1C are
+required to achieve enhanced transcription of specific estrogen-receptor
+target genes was retracted.
+
+REFERENCE 1. Bose, A.; Guilherme, A.; Robida, S. I.; Nicoloro, S. M. C.; Zhou,
+Q. L.; Jiang, Z. Y.; Pomerleau, D. P.; Czech, M. P.: Glucose transporter
+recycling in response to insulin is facilitated by myosin Myo1c. Nature 420:
+821-824, 2002.
+
+2. Crozet, F.; Amraoui, A. E.; Blanchard, S.; Lenoir, M.; Ripoll,
+C.; Vago, P.; Hamel, C.; Fizames, C.; Levi-Acobas, F.; Depetris, D.;
+Mattei, M.-G.; Weil, D.; Pujol, R.; Petit, C.: Cloning of the genes
+encoding two murine and human cochlear unconventional type I myosins. Genomics 40:
+332-341, 1997.
+
+3. Holt, J. R.; Gillespie, S. K. H.; Provance, D. W., Jr.; Shah, K.;
+Shokat, K. M.; Corey, D. P.; Mercer, J. A.; Gillespie, P. G.: A chemical-genetic
+strategy implicates myosin-1c in adaptation by hair cells. Cell 108:
+371-381, 2002.
+
+4. Nunez, E.; Kwon, Y.-S.; Hutt, K. R.; Hu, Q.; Cardamone, M. D.;
+Ohgi, K. A.; Garcia-Bassets, I.; Rose, D. W.; Glass, C. K.; Rosenfeld,
+M. G.; Fu, X.-D.: Nuclear receptor-enhanced transcription requires
+motor- and LSD1-dependent gene networking in interchromatin granules. Cell 132:
+996-1010, 2008. Note: Retraction: Cell 134: 189 only, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/2/2008
+Ada Hamosh - updated: 2/5/2003
+Stylianos E. Antonarakis - updated: 3/25/2002
+
+CREATED Paul J. Converse: 12/7/2001
+
+EDITED carol: 01/02/2013
+mgross: 6/2/2008
+alopez: 2/6/2003
+terry: 2/5/2003
+mgross: 3/25/2002
+mgross: 12/7/2001
+
+610594	TITLE *610594 FOLLICULIN-INTERACTING PROTEIN 1; FNIP1
+;;KIAA1961
+DESCRIPTION 
+CLONING
+
+By randomly sequencing clones derived from an adult brain cDNA library,
+Nagase et al. (2001) cloned FNIP1, which they designated KIAA1961.
+RT-PCR ELISA detected ubiquitous expression in all human adult and fetal
+tissues and specific brain regions examined, with highest expression in
+spleen, testis, ovary, and adult and fetal liver.
+
+Using coimmunoprecipitation with HA-tagged folliculin (FLCN; 607273)
+expressed in HEK293 cells to identify FLCN-interacting proteins,
+followed by mass spectrometry and database analysis, and PCR of a pooled
+human tissue cDNA library, Baba et al. (2006) isolated full-length
+FNIP1. The deduced 1,166-amino acid protein has no known functional
+domains. Expression of FNIP1 in HEK293 cells yielded a protein that
+migrated at 130 kD on SDS-PAGE. Northern blot analysis detected
+strongest expression in heart, liver, and placenta with moderate
+expression in kidney and lung.
+
+Using quantitative real-time PCR, Hasumi et al. (2008) detected variable
+FNIP1 expression in most human tissues. Highest expression was in
+salivary gland, nasal mucosa, parathyroid gland, and muscle.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation of FNIP1 and FLCN expressed in HEK293 cells
+and in vitro binding assays, Baba et al. (2006) showed that the C
+terminus of FLCN and amino acids 300 to 1166 of FNIP1 were required for
+optimal FLCN-FNIP1 binding. FLCN and FNIP1 colocalized to the cytoplasm
+in a reticular pattern. FNIP1 interacted with HSP90 (HSPCA; 140571) and
+with the alpha (PRKAA1; 602739), beta (PRKAB1; 602740), and gamma
+(PRKAG1; 602742) subunits of AMPK. FNIP1 was phosphorylated by AMPK, and
+its phosphorylation was inhibited in a dose-dependent manner by an AMPK
+inhibitor, resulting in reduced FNIP1 expression. FLCN phosphorylation
+was diminished by rapamycin and amino acid starvation and facilitated by
+FNIP1 overexpression, suggesting that FLCN phosphorylation may be
+regulated by mTOR (FRAP1; 601231) and AMPK signaling. Baba et al. (2006)
+concluded that FLCN and FNIP1 may be involved in energy and/or nutrient
+sensing through the AMPK and mTOR signaling pathways.
+
+Using coimmunoprecipitation analysis with HEK293 cells, Hasumi et al.
+(2008) detected FNIP2 (612768) in protein complexes with FNIP1, FLCN,
+and AMPK. FNIP1 and FNIP2 formed homo- and heterodimers.
+
+Takagi et al. (2008) found that, when expressed alone, FLCN localized to
+the nucleus, but when coexpressed with FNIP1 or FNIP2, the coexpressed
+proteins localized to the cytoplasm in a reticular pattern.
+Downregulation of FLCN, FNIP1, or FNIP2 via small interfering RNA
+resulted in decreased S6K1 (RPS6KB1; 608938) phosphorylation, suggesting
+that the FLCN complex regulates S6K1 phosphorylation.
+
+GENE STRUCTURE
+
+Baba et al. (2006) determined that the FNIP1 gene contains 18 exons.
+
+MAPPING
+
+By genomic sequence analysis, Nagase et al. (2001) mapped the FNIP1 gene
+to chromosome 5.
+
+REFERENCE 1. Baba, M.; Hong, S.-B.; Sharma, N.; Warren, M. B.; Nickerson, M.
+L.; Iwamatsu, A.; Esposito, D.; Gillette, W. K.; Hopkins, R. F., III;
+Hartley, J. L.; Furihata, M.; Oishi, S.; Zhen, W.; Burke, T. R., Jr.;
+Linehan, W. M.; Schmidt, L. S.; Zbar, B.: Folliculin encoded by the
+BHD gene interacts with a binding protein, FNIP1, and AMPK, and is
+involved in AMPK and mTOR signaling. Proc. Nat. Acad. Sci. 103:
+15552-15557, 2006.
+
+2. Hasumi, H.; Baba, M.; Hong, S.-B.; Hasumi, Y.; Huang, Y.; Yao,
+M.; Valera, V. A.; Linehan, W. M.; Schmidt, L. S.: Identification
+and characterization of a novel folliculin-interacting protein FNIP2. Gene 415:
+60-67, 2008.
+
+3. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+4. Takagi, Y.; Kobayashi, T.; Shiono, M.; Wang, L.; Piao, X.; Sun,
+G.; Zhang, D.; Abe, M.; Hagiwara, Y.; Takahashi, K.; Hino, O.: Interaction
+of folliculin (Birt-Hogg-Dube gene product) with a novel Fnip1-like
+(FnipL/Fnip2) protein. Oncogene 27: 5339-5347, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/24/2009
+
+CREATED Dorothy S. Reilly: 11/27/2006
+
+EDITED mgross: 04/28/2009
+terry: 4/24/2009
+wwang: 11/27/2006
+
+603110	TITLE *603110 MOTHERS AGAINST DECAPENTAPLEGIC, DROSOPHILA, HOMOLOG OF, 5; SMAD5
+;;MADH5;;
+SMA- AND MAD-RELATED PROTEIN 5
+DESCRIPTION 
+CLONING
+
+Drosophila Mad transduces signals from TGF-beta (e.g., 190180) family
+members. By searching an expressed sequence tag (EST) database with the
+protein sequences of Mad and Mad homologs, Riggins et al. (1996)
+isolated partial human cDNAs encoding MADH5, which they called JV5-1.
+The deduced MADH5 protein has 465 amino acids, with 57 of the C-terminal
+59 residues identical to those of Mad.
+
+Gemma et al. (1998) determined the full-length cDNA sequence of human
+MADH5, which they called SMAD5. Using PCR-SSCP analysis to investigate
+the frequency of SMAD5 somatic mutations in human cancers, Gemma et al.
+(1998) did not detect either homozygous deletions or point mutations in
+40 primary gastric tumors or 51 cell lines derived from diverse types of
+cancer, including 20 cell lines resistant to the growth inhibitory
+effects of TGF-beta. The SMAD5 protein has strong homology with SMAD1
+(601595), SMAD2 (601366), SMAD3 (603109), and SMAD4 (600993) in the N-
+and C-terminal domains, which are separated by a proline-rich sequence;
+SMAD5 shows the greatest homology to SMAD1.
+
+GENE FUNCTION
+
+Bruno et al. (1998) showed that SMAD5 plays a critical role in the
+signaling pathway by which TGF-beta inhibits the proliferation of human
+hematopoietic progenitor cells.
+
+Davis et al. (2008) demonstrated that induction of a contractile
+phenotype in human vascular smooth muscle cells by TGF-beta and bone
+morphogenetic proteins (BMPs; see 112264) is mediated by miR21 (611020).
+miR21 downregulates PDCD4 (608610), which in turn acts as a negative
+regulator of smooth muscle contractile genes. TGF-beta and BMP signaling
+promoted a rapid increase in expression of mature miR21 through a
+posttranscriptional step, promoting the processing of primary
+transcripts of miR21 (pri-miR21) into precursor miR21 (pre-miR21) by the
+Drosha complex (see 608828). TGF-beta and BMP-specific SMAD signal
+transducers SMAD1, SMAD2, SMAD3, and SMAD5 (603110) are recruited to
+pri-miR21 in a complex with the RNA helicase p68 (DDX5; 180630), a
+component of the Drosha microprocessor complex. The shared cofactor
+SMAD4 (600993) is not required for this process. Thus, Davis et al.
+(2008) concluded that regulation of microRNA biogenesis by
+ligand-specific SMAD proteins is critical for control of the vascular
+smooth muscle cell phenotype and potentially for SMAD4-independent
+responses mediated by the TGF-beta and BMP signaling pathways.
+
+GENE STRUCTURE
+
+By comparison of the SMAD5 cDNA sequence with the SMAD5 genomic
+sequence, obtained from YAC clones, Gemma et al. (1998) showed that the
+SMAD5 gene has 8 exons, with the coding sequence contained in exons 3 to
+8. By 5-prime RACE, the authors identified a SMAD5 cDNA derived from an
+alternatively spliced transcript that lacks the 75-bp exon 2.
+
+MAPPING
+
+Riggins et al. (1996) mapped the MADH5 gene to 5q31 by somatic cell
+hybrid analysis and screening of YAC clones.
+
+REFERENCE 1. Bruno, E.; Horrigan, S. K.; Van Den Berg, D.; Rozler, E.; Fitting,
+P. R.; Moss, S. T.; Westbrook, C.; Hoffman, R.: The Smad5 gene is
+involved in the intracellular signaling pathways that mediate the
+inhibitory effects of transforming growth factor-beta on human hematopoiesis. Blood 91:
+1917-1923, 1998.
+
+2. Davis, B. N.; Hilyard, A. C.; Lagna, G.; Hata, A.: SMAD proteins
+control DROSHA-mediated microRNA maturation. Nature 454: 56-61,
+2008.
+
+3. Gemma, A.; Hagiwara, K.; Vincent, F.; Ke, Y.; Hancock, A. R.; Nagashima,
+M.; Bennett, W. P.; Harris, C. C.: hSmad5 gene, a human hSmad family
+member: its full length cDNA, genomic structure, promoter region and
+mutation analysis in human tumors. Oncogene 16: 951-956, 1998.
+
+4. Riggins, G. J.; Thiagalingam, S.; Rozenblum, E.; Weinstein, C.
+L.; Kern, S. E.; Hamilton, S. R.; Willson, J. K. V.; Markowitz, S.
+D.; Kinzler, K. W.; Vogelstein, B.: Mad-related genes in the human. Nature
+Genet. 13: 347-349, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/29/2008
+
+CREATED Patti M. Sherman: 10/9/1998
+
+EDITED alopez: 09/11/2008
+terry: 8/29/2008
+tkritzer: 10/1/2004
+carol: 10/13/1998
+

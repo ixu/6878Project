@@ -1,0 +1,194 @@
+603157	TITLE *603157 PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT 2; PIK3R2
+;;PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT, 85-KD, BETA;;
+p85-BETA
+PIK3R2/UPS8 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Phosphatidylinositol 3-kinase (PI3K) is a lipid kinase that
+phosphorylates the inositol ring of phosphatidylinositol and related
+compounds at the 3-prime position. The products of these reactions serve
+as second messengers in growth signaling pathways. The kinase itself is
+made up of a catalytic subunit of molecular mass 110 kD (PIK3CA; 171834)
+and a regulatory subunit of either 85 kD, 55 kD, or 50 kD. Otsu et al.
+(1991) showed that the bovine PI3K p85 subunit consists of 2 closely
+related proteins, p85-alpha (171833) and p85-beta. They cloned cDNAs
+encoding both p85 subunits, each of which is 724 amino acids long. The
+subunits share 62% amino acid identity across their entire length. Both
+sequences contain an N-terminal SH3 region, 2 SH2 regions, and a region
+of homology to BCR (151410).
+
+Janssen et al. (1998) determined the human p85-beta cDNA sequence.
+
+GENE FUNCTION
+
+Functional expression studies by Otsu et al. (1991) showed that both
+bovine p85 subunits bound tyrosine kinase receptors.
+
+Hale et al. (2006) generated a laryngeal carcinoma cell line
+constitutively expressing influenza A virus NS1 protein and found that
+NS1 bound specifically to p85-beta. The NS1 protein from various
+influenza strains also bound p85-beta, but not p85-alpha. Expression of
+NS1 led to induction of PI3K signaling, including phosphorylation of AKT
+(164730) at ser473. Binding of p85-beta and activation of PI3K required
+tyr89 of NS1, and mutant viruses expressing NS1 with a tyr89-to-phe
+substitution grew more slowly in cell culture than wildtype viruses.
+Hale et al. (2006) proposed that activation of PI3K signaling in
+influenza A virus-infected cells is important for efficient virus
+replication.
+
+Using mouse embryonic fibroblasts, Park et al. (2010) showed that, in
+addition to regulating PI3K function, p85-alpha and p85-beta regulated
+the function of Xbp1s (XBP1; 194355), a transcription factor that
+orchestrates the unfolded protein response (UPR) following endoplasmic
+reticulum (ER) stress. Both p85-alpha and p85-beta bound Xbp1s and
+increased its nuclear translocation, and it appeared that the p110 PI3K
+catalytic subunit and Xbp1s competed for binding of these regulatory
+subunits. p85-alpha and p85-beta formed an inactive dimer that was
+disrupted by insulin in a time-dependent manner, which promoted their
+association with Xbp1s. Refeeding of wildtype mice after fasting induced
+ER stress that was quickly resolved, as measured by Xbp1s levels. In
+contrast, obese and insulin-resistant ob/ob (LEP; 164160) mice could not
+resolve the ER stress induced during refeeding, and nuclear
+translocation of Xbp1s was absent in ob/ob mice. Overexpression of
+p85-alpha or p85-beta in livers of ob/ob mice increased glucose
+tolerance and reduced blood glucose concentrations.
+
+To assess the impact of the AKT3 (611223), PIK3R2, and PIK3CA mutations
+in individuals with megalencephaly-capillary malformation-polymicrogyria
+syndrome (MCAP; 602501) and megalencephaly polymicrogyria-polydactyly
+hydrocephalus syndrome (MPPH; 603387) on PI3K activity, Riviere et al.
+(2012) used immunostaining to compare PIP3 amounts in lymphoblastoid
+cell lines derived from 4 mutation carriers with megalencephaly to those
+in control and PTEN (601728)-mutant cells. Consistent with elevated PI3K
+activity, and similar to what is seen with PTEN loss, all 3 lines with
+PIK3R2 or PIK3CA mutations showed significantly more PIP3 staining than
+control cells, as well as greater localization of active
+phosphoinositide-dependent kinase-1 (PDPK1; 605213) to the cell
+membrane. Treatment with the PI3K inhibitor PI-103 resulted in less PIP3
+in the PIK3R2 G373R (603157.0001) and PIK3CA E453del (171834.0014)
+mutant lines, confirming that these results are PI3K-dependent. Riviere
+et al. (2012) found no evidence for increased PI3K activity in the
+AKT3-mutant line, consistent with a mutation affecting a downstream
+effector of PI3K. Protein blot analysis showed higher amounts of
+phosphorylated S6 protein and 4E-BP1 in all mutant cell lines compared
+to controls. Although PI-103 treatment reduced S6 phosphorylation in
+control and mutant lines, the latter showed relative resistance to PI3K
+inhibition, consistent with elevated signaling through the pathway.
+Riviere et al. (2012) concluded that the megalencephaly-associated
+mutations result in higher PI3K activity and PI3K-mTOR signaling.
+
+MAPPING
+
+Volinia et al. (1992) used in situ hybridization to map the PIK3R2 gene
+to human chromosome 19q13.2-q13.4.
+
+CYTOGENETICS
+
+Janssen et al. (1998) analyzed DNA from a patient with chronic
+myeloproliferative disorder. They identified an oncogenic fusion of the
+5-prime end of p85-beta and the 3-prime end of HUMORF8 (USP8; 603158).
+
+MOLECULAR GENETICS
+
+Riviere et al. (2012) performed exome sequencing in the oldest of 3
+affected sibs with MPPH and identified a heterozygous mutation in the
+PIK3R2 gene (G373R; 603157.0001). Sanger sequencing confirmed the
+presence of the mutation in all 3 affected sibs and its absence in the
+saliva and blood of both parents and the unaffected sister, showing
+germline mosaicism in 1 parent. Sequencing of the PIK3R2 gene in 40
+individuals with megalencephaly identified the same nucleotide change in
+10 additional subjects with MPPH, and this mutation was shown to be de
+novo in all subjects for whom parental DNA was available. The mutation
+occurred at a CpG dinucleotide, which might explain its recurrence.
+
+ANIMAL MODEL
+
+Oak et al. (2006) crossed mice with a floxed Pik3r1 allele and a null
+Pik3r2 allele with Lck (153390)-Cre transgenic mice to generate a strain
+in which class IA Pi3k expression and function were essentially
+abrogated in T cells beginning at the double-negative stage.
+Histopathologic analysis of these mice showed development of
+organ-specific autoimmunity resembling Sjogren syndrome (SS; 270150). By
+3 to 8 months of age, mutant mice developed corneal opacity and eye
+lesions due to irritation and constant scratching. Mutant mice showed
+marked lymphocytic infiltration of lacrimal glands and serum antinuclear
+and anti-Ssa (SSA1; 109092) antibodies, but no kidney pathology.
+Cd4-positive T cells, which were the predominant infiltrating cells in
+lacrimal glands of mutant mice, exhibited aberrant differentiation in
+vitro. Oak et al. (2006) concluded that impaired class IA PI3K signaling
+in T cells can lead to organ-specific autoimmunity, and they proposed
+that class IA Pi3k-deficient mice manifest the cardinal features of
+human primary SS.
+
+ALLELIC VARIANT .0001
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME
+PIK3R2, GLY373ARG
+
+In 13 individuals with
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH;
+603387) from 11 unrelated families, Riviere et al. (2012) identified a
+heterozygous 1117G-A transition in the PIK3R2 gene, resulting in a
+gly373-to-arg (G373R) substitution in the PIK3R2 gene. This mutation was
+shown to be de novo in all subjects for whom parental DNA was available.
+The mutation occurred at a CpG dinucleotide, which might explain its
+recurrence.
+
+REFERENCE 1. Hale, B. G.; Jackson, D.; Chen, Y.-H.; Lamb, R. A.; Randall, R.
+E.: Influenza A virus NS1 protein binds p85-beta and activates phosphatidylinositol-3-kinase
+signaling. Proc. Nat. Acad. Sci. 103: 14194-14199, 2006.
+
+2. Janssen, J. W. G.; Schleithoff, L.; Bartram, C. R.; Schulz, A.
+S.: An oncogenic fusion product of the phosphatidylinositol 3-kinase
+p85-beta subunit and HUMORF8, a putative deubiquitinating enzyme. Oncogene 16:
+1767-1772, 1998.
+
+3. Oak, J. S.; Deane, J. A.; Kharas, M. G.; Luo, J.; Lane, T. E.;
+Cantley, L. C.; Fruman, D. A.: Sjogren's syndrome-like disease in
+mice with T cells lacking class 1A phosphoinositide-3-kinase. Proc.
+Nat. Acad. Sci. 103: 16882-16887, 2006. Note: Erratum: Proc. Nat.
+Acad. Sci. 106: 10871 only, 2009.
+
+4. Otsu, M.; Hiles, I.; Gout, I.; Fry, M. J.; Ruiz-Larrea, F.; Panayotou,
+G.; Thompson, A.; Dhand, R.; Hsuan, J.; Totty, N.; Smith, A. D.; Morgan,
+S. J.; Courtneidge, S. A.; Parker, P. J.; Waterfield, M. D.: Characterization
+of two 85 kd proteins that associate with receptor tyrosine kinases,
+middle-T/pp60(c-src) complexes, and PI3-kinase. Cell 65: 91-104,
+1991.
+
+5. Park, S. W.; Zhou, Y.; Lee, J.; Lu, A.; Sun, C.; Chung, J.; Ueki,
+K.; Ozcan, U.: The regulatory subunits of PI3K, p85-alpha and p85-beta,
+interact with XBP-1 and increase its nuclear translocation. Nature
+Med. 16: 429-437, 2010.
+
+6. Riviere, J.-B.; Mirzaa, G. M.; O'Roak, B. J.; Beddaoui, M.; Alcantara,
+D.; Conway, R. L.; St-Onge, J.; Schwartzentruber, J. A.; Gripp, K.
+W.; Nikkel, S. M.; Worthylake, T.; Sullivan, C. T.; and 29 others
+: De novo germline and postzygotic mutations in AKT3, PIK3R2 and PIK3CA
+cause a spectrum of related megalencephaly syndromes. Nature Genet. 44:
+934-940, 2012.
+
+7. Volinia, S.; Patracchini, P.; Otsu, M.; Hiles, I.; Gout, I.; Calzolari,
+E.; Bernardi, F.; Rooke, L.; Waterfield, M. D.: Chromosomal localization
+of human p85-alpha, a subunit of phosphatidylinositol 3-kinase, and
+its homologue p85-beta. Oncogene 7: 789-793, 1992.
+
+CONTRIBUTORS Nara Sobreira - updated: 11/20/2012
+Nara Sobreira - updated: 11/14/2012
+Patricia A. Hartz - updated: 6/7/2010
+Paul J. Converse - updated: 2/5/2007
+Paul J. Converse - updated: 1/16/2007
+
+CREATED Jennifer P. Macke: 10/19/1998
+
+EDITED carol: 11/20/2012
+terry: 11/14/2012
+terry: 6/6/2012
+mgross: 6/10/2010
+terry: 6/7/2010
+mgross: 8/13/2007
+mgross: 2/5/2007
+mgross: 1/16/2007
+carol: 4/23/2003
+alopez: 10/19/1998
+

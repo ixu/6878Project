@@ -1,0 +1,95 @@
+614183	TITLE *614183 DIS3 MITOTIC CONTROL, S. CEREVISIAE, HOMOLOG-LIKE; DIS3L
+;;DIS3-LIKE EXONUCLEASE 1; DIS3L1;;
+KIAA1955
+DESCRIPTION 
+DESCRIPTION
+
+The RNA exosome is an approximately 400-kD multimeric ribonucleolytic
+complex that participates in both endonucleolytic and 3-prime/5-prime
+exonucleolytic activity in RNA processing and in the degradation of a
+variety of RNA substrates. DIS3L is a catalytic subunit that has
+3-prime/5-prime exonucleolytic activity (summary by Tomecki et al.,
+2010).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2001) cloned DIS3L, which they designated
+KIAA1955. The transcript contains a repetitive element in its 3-prime
+end, and the deduced 947-amino acid protein shares 36% identity with
+DIS3 (607533). RT-PCR ELISA detected highest expression in skeletal
+muscle. Moderate to high expression was detected in all other adult and
+fetal tissues and specific adult brain regions examined.
+
+By searching a human EST database for sequences similar to yeast Dis3,
+Tomecki et al. (2010) identified DIS3L. The deduced 1,000-amino acid
+protein contains a weak N-terminal PIN-like domain, followed by 2
+cold-shock domains, an RNB exonuclease catalytic domain, and a
+C-terminal S1 domain. DIS3L localized predominantly to the cytoplasm in
+HEK293 and HeLa cells, with exclusion from nucleoli.
+
+By analyzing peptides associated with exosome complexes immunoaffinity
+purified from HeLa cells, followed by database analysis and PCR analysis
+of a teratocarcinoma cDNA library, Staals et al. (2010) cloned
+full-length DIS3L, which they designated DIS3L1. The deduced 1,054-amino
+acid protein has a calculated molecular mass of 120.8 kD. It has a
+poorly conserved N-terminal PIN domain, followed by 2 cold-shock
+domains, a putative RNase II-type RNB exonuclease catalytic domain, and
+a possible C-terminal S1 RNA-binding domain. Database analysis revealed
+3 additional DIS3L1 splice variants. Fluorescence- and epitope-tagged
+DIS3L1 and endogenous DIS3L1 localized to the cytoplasm of transfected
+human HEP-2 cells.
+
+GENE FUNCTION
+
+Staals et al. (2010) confirmed that fluorescence- or epitope-tagged
+DIS3L1 coprecipitated with RRP4 (EXOSC2; 602238) and other exosome
+components. Immunopurified DIS3L1 showed Mg(2+)-dependent
+exoribonuclease activity and converted substrate RNA into nucleotide
+monophosphates. It has no endonuclease activity. Blocking of the 3-prime
+end impaired degradation, consistent with 3-prime/5-prime
+exoribonuclease activity. Small interfering RNA-mediated depletion of
+DIS3L1 reduced exoribonuclease activity from immunopurified exosomes.
+Mutation of asp486 within the RNB domain of DIS3L1 abrogated its
+ribonuclease activity and resulted in the accumulation of truncated 28S
+rRNA fragments.
+
+Tomecki et al. (2010) found that epitope-tagged human DIS3 or DIS3L
+coimmunoprecipitated with core exosome subunits from transfected HEK293
+cells. Depletion of DIS3L from HeLa cells had no effect on accumulation
+of nuclear RNAs, but it contributed to the stabilization of cytoplasmic
+MYC (190080) induced by knockdown of DIS3. DIS3L purified from
+transfected HEK293 cells showed 3-prime/5-prime exonuclease activity
+against single stranded RNA, but showed no endonuclease activity against
+a circular RNA substrate. Domain analysis revealed that the RNB domains
+of DIS3L conferred exonuclease activity.
+
+MAPPING
+
+Hartz (2011) mapped the DIS3L gene to chromosome 15q22.31 based on an
+alignment of the DIS3L sequence (GenBank GENBANK AB075835) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  7/13/2011.
+
+2. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+3. Staals, R. H. J.; Bronkhorst, A. W.; Schilders, G.; Slomovic, S.;
+Schuster, G.; Heck, A. J. R.; Raijmakers, R.; Pruijn, G. J. M.: Dis3-like
+1: a novel exoribonuclease associated with the human exosome. EMBO
+J. 29: 2358-2367, 2010.
+
+4. Tomecki, R.; Kristiansen, M. S.; Lykke-Andersen, S.; Chlebowski,
+A.; Larsen, K. M.; Szczesny, R. J.; Drazkowska, K.; Pastula, A.; Andersen,
+J. S.; Stepien, P. P.; Dziembowski, A.; Jensen, T. H.: The human
+core exosome interacts with differentially localized processive RNases:
+hDIS3 and hDIS3L. EMBO J. 29: 2342-2357, 2010.
+
+CREATED Patricia A. Hartz: 8/22/2011
+
+EDITED mgross: 08/26/2011
+wwang: 8/22/2011
+

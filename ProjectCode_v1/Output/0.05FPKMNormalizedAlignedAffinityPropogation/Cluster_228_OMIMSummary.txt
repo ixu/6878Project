@@ -1,0 +1,2907 @@
+605219	TITLE *605219 DIRECT IAP-BINDING PROTEIN WITH LOW pI; DIABLO
+;;SECOND MITOCHONDRIA-DERIVED ACTIVATOR OF CASPASE; SMAC
+DESCRIPTION 
+DESCRIPTION
+
+Caspase activation is a key regulatory step for apoptosis. Cytochrome c
+(123970) released from the mitochondrial intermembrane space triggers 1
+major caspase activation cascade. Upon its release to the cytosol,
+cytochrome c binds to APAF1 (602233) in the presence of dATP or ATP. The
+cytochrome c/APAF1 complex then recruits procaspase-9 (CASP9; 602234),
+inducing its autoactivation and leading to the activation of downstream
+caspases. Proteins of the BCL2 (see 603167) and inhibitor-of-apoptosis,
+or IAP (see API3; 300079), families are major regulators of the
+cytochrome c/APAF1/CASP9 pathway. SMAC promotes caspase activation in
+this pathway.
+
+CLONING
+
+Du et al. (2000) identified and purified a protein, which they termed
+SMAC (second mitochondria-derived activator of caspase), that promotes
+caspase activation in the cytochrome c/APAF1/CASP9 pathway. By
+microsequence analysis, searching an EST database, and screening a HeLa
+cell cDNA library, they isolated a cDNA encoding SMAC. The predicted
+SMAC polypeptide contains 239 amino acids. Northern blot analysis
+detected a 1.5-kb SMAC transcript in all tissues tested, with highest
+expression in adult testis, high expression in heart, liver, kidney,
+spleen, prostate, and ovary, and low expression in brain, lung, thymus,
+and peripheral blood leukocytes.
+
+Cheng et al. (2011) noted that the N-terminal 55 residues serve as a
+mitochondrial-targeting sequence, which is removed after the Diablo
+protein is imported into mitochondria intermembrane space. They found
+broad expression of DIABLO in human embryonic tissue at 17 weeks'
+gestation. The highest expression was in the testis, adrenal gland, and
+ears, with moderate expression in the brain, eyes, liver, kidney, lung,
+and spinal cord. Low expression was seen in the spleen. In the
+developing mouse cochlea, Diablo was significantly upregulated in hair
+cells from E18.5 to P0, but was subsequently downregulated. The extended
+distribution of Diablo at different stages of development in the mouse
+inner ear and the particular enrichment in hair cells suggested that
+Diablo functions in the development and homeostasis of the inner ear and
+in hair cells in particular.
+
+GENE STRUCTURE
+
+Cheng et al. (2011) noted that the DIABLO gene contains 7 exons.
+
+MAPPING
+
+Scott (2000) mapped the DIABLO gene to chromosome 12 based on sequence
+similarity between the DIABLO sequence (GenBank GENBANK AF262240) and
+the chromosome 12 clone RP11-512M8 (GenBank GENBANK AC048338).
+
+Cheng et al. (2011) noted that the DIABLO gene maps to chromosome
+12q24.31.
+
+GENE FUNCTION
+
+Du et al. (2000) showed that SMAC promotes CASP9 activation by binding
+to IAPs and removing their inhibitory activity. SMAC is normally a
+mitochondrial protein, but it is released into the cytosol when cells
+undergo apoptosis. Mitochondrial import and cleavage of its signal
+peptide are required for SMAC to gain its apoptotic activity.
+Overexpression of SMAC increases cell sensitivity to apoptotic stimuli.
+SMAC was the second mitochondrial protein identified (the first being
+cytochrome c) that promotes apoptosis by activating caspases.
+
+Verhagen et al. (2000) identified the murine homolog of SMAC, which they
+called DIABLO (direct IAP-binding protein with low pI). They showed that
+DIABLO can bind mammalian IAP homolog A (MIHA, or API3) and can also
+interact with MIHB (API1; 601712), MIHC (API2; 601721), and OpIAP, the
+baculoviral IAP. Immunoprecipitation and Western blot analysis indicated
+that the N-terminally processed, IAP-interacting form of DIABLO is
+concentrated in membrane fractions in healthy cells but is released into
+the MIHA-containing cytosolic fractions upon ultraviolet (UV)
+irradiation. Since transfection of cells with DIABLO was able to counter
+the protection afforded by MIHA against UV irradiation, the authors
+suggested that DIABLO may promote apoptosis by binding to IAPs and
+preventing them from inhibiting caspases.
+
+Chai et al. (2000) showed that SMAC/DIABLO promotes not only the
+proteolytic activation of procaspase-3, but also the enzymatic activity
+of mature caspase-3, both of which depend upon its ability to interact
+physically with IAPs.
+
+Nonsteroidal antiinflammatory drugs (NSAIDs) can prevent colonic tumor
+progression in both experimental animals and humans. Kohli et al. (2004)
+found that NSAID-induced apoptosis in a human colorectal cancer cell
+line was accompanied by release of SMAC from mitochondria into the
+cytosol. When SMAC was disrupted by homologous recombination and RNA
+interference, the NSAID-induced apoptosis was abrogated. SMAC release
+was dependent on BAX (600040), since SMAC release was not found in BAX
+knockout cells.
+
+Burri et al. (2005) identified mouse Imp1 (IMMP1L; 612323) and Imp2
+(IMMP2L; 605977) as the catalytic subunits of the mitochondrial inner
+membrane peptidase (IMP) complex. Imp1 and Imp2 activated Diablo by
+removing its presequence, resulting in sequestration of Diablo in the
+intermembrane space prior to activation by an apoptotic signal.
+
+BIOCHEMICAL FEATURES
+
+Chai et al. (2000) determined the crystal structure of SMAC/DIABLO at
+2.2-angstrom resolution, which revealed that it homodimerizes through an
+extensive hydrophobic interface. Missense mutations inactivating this
+dimeric interface significantly compromised the function of SMAC/DIABLO.
+The N-terminal amino acids of SMAC/DIABLO are indispensable for its
+function, and a 7-residue peptide derived from the N terminus promotes
+procaspase-3 activation in vitro.
+
+To understand the structural basis of molecular recognition between SMAC
+and the IAPs, Liu et al. (2000) determined the solution structure of the
+BIR3 domain of XIAP (300079) complexed with a functionally active
+9-residue peptide derived from the N terminus of SMAC. Wu et al. (2000)
+performed the same experiment. They found that the N-terminal 4 residues
+(ala-val-pro-ile) in SMAC/DIABLO recognize a surface groove on BIR3,
+with the first residue ala binding a hydrophobic pocket and making 5
+hydrogen bonds to neighboring residues on BIR3. These observations
+provided a structural explanation for the roles of the SMAC N terminus
+as well as for the conserved N-terminal sequences in the Drosophila
+proteins Hid/Grim/Reaper. In conjunction with other observations, Wu et
+al. (2000) concluded that their results reveal how SMAC may relieve IAP
+inhibition of caspase-9 activity. In addition to explaining a number of
+biologic observations, both Liu et al. (2000) and Wu et al. (2000)
+suggested that their structural analyses identified potential targets
+for drug screening that may be used for the treatment of cancers that
+overexpress IAPs.
+
+XIAP interacts with caspase-9 and inhibits its activity, whereas SMAC
+(also known as DIABLO) relieves this inhibition through interaction with
+XIAP. Srinivasula et al. (2001) demonstrated that XIAP associates with
+the active caspase-9-APAF1 holoenzyme complex through binding to the
+amino terminus of the linker peptide on the small subunit of caspase-9,
+which becomes exposed after proteolytic processing of procaspase-9 at
+asp315. Supporting this observation, point mutations that abrogate the
+proteolytic processing but not the catalytic activity of caspase-9, or
+deletion of the linker peptide, prevented caspase-9 association with
+XIAP and its concomitant inhibition. Srinivasula et al. (2001) noted
+that the N-terminal 4 residues of caspase-9 linker peptide share
+significant homology with the N-terminal tetrapeptide in mature SMAC and
+in the Drosophila proteins Hid/Grim/Reaper, defining a conserved class
+of IAP-binding motifs. Consistent with this finding, binding of the
+caspase-9 linker peptide and SMAC to the BIR3 domain of XIAP is mutually
+exclusive, suggesting that SMAC potentiates caspase-9 activity by
+disrupting the interaction of the linker peptide of caspase-9 with BIR3.
+Srinivasula et al. (2001) concluded that their studies reveal a
+mechanism in which binding to the BIR3 domain of XIAP by 2 conserved
+peptides, one from SMAC and the other from caspase-9, has opposing
+effects on caspase activity and apoptosis.
+
+MOLECULAR GENETICS
+
+In affected members of a large Chinese family with young-adult onset of
+autosomal dominant nonsyndromic deafness-64 (DFNA64; 614152), Cheng et
+al. (2011) identified a heterozygous mutation in the DIABLO gene (S126L;
+605219.0001). In vitro functional expression studies in E. coli and HeLa
+cells showed that the mutant protein did not increase apoptotic activity
+compared to wildtype. However, transfection of HeLa cells with the
+mutant protein enhanced the degradation of mutant and wildtype DIABLO
+via heterodimerization. Cells expressing the mutant protein showed
+increased susceptibility to calcium-induced loss of mitochondrial
+potential compared to wildtype, indicating increased sensitivity to
+mitochondrial stress and suggestive of mitochondrial dysfunction. A
+decrease in wildtype protein did not yield similar findings, suggesting
+that the existence of mutant DIABLO leads to activation of a degradation
+machinery for constant clearance of aberrant proteins.
+
+ANIMAL MODEL
+
+Okada et al. (2002) generated Diablo-deficient mice by homologous
+recombination. Western blot analysis confirmed the null mutation. The
+mice were fertile and appeared grossly normal at more than 1 year of
+age, and histologic analysis failed to detect any abnormalities. In
+vitro analysis indicated an inhibition of procaspase-3 (CASP3; 600636)
+cleavage in Diablo -/- cell lysates, but all types of Diablo -/- cells
+tested responded normally to a number of apoptotic stimuli. Fas
+(134637)-mediated apoptosis in liver was also normal in vivo in these
+mice. The authors concluded that a redundant molecule, possibly Omi
+(HTRA2; 606441), or molecules are capable of compensating for the loss
+of Diablo function. Alternatively, they suggested that Diablo may only
+regulate programmed cell death in specific situations or tissues not yet
+identified.
+
+ALLELIC VARIANT .0001
+DEAFNESS, AUTOSOMAL DOMINANT 64
+DIABLO, SER126LEU
+
+In affected members of a large Chinese family with young-adult onset of
+autosomal dominant nonsyndromic deafness-64 (DFNA64; 614152), Cheng et
+al. (2011) identified a heterozygous 377C-T transition in exon 5 of the
+DIABLO gene, resulting in a ser126-to-leu (S126L) substitution in a
+highly conserved residue. The S126L mutation corresponds to a
+ser71-to-leu (S71L) mutation in the mature protein. The mutation was not
+found in 1,000 Chinese control chromosomes. In vitro functional
+expression studies in E. coli and HeLa cells showed that the mutant
+protein did not increase apoptotic activity compared to wildtype.
+However, transfection of HeLa cells with the mutant protein enhanced the
+degradation of mutant and wildtype DIABLO via heterodimerization. Cells
+expressing the mutant protein showed increased susceptibility to
+calcium-induced loss of mitochondrial potential compared to wildtype,
+indicating increased sensitivity to mitochondrial stress and suggestive
+of mitochondrial dysfunction. A decrease in wildtype protein did not
+yield similar findings, suggesting that the existence of mutant DIABLO
+leads to activation of a degradation machinery for constant clearance of
+aberrant proteins.
+
+REFERENCE 1. Burri, L.; Strahm, Y.; Hawkins, C. J.; Gentle, I. E.; Puryer, M.
+A.; Verhagen, A.; Callus, B.; Vaux, D.; Lithgow, T.: Mature DIABLO/Smac
+is produced by the IMP protease complex on the mitochondrial inner
+membrane. Molec. Biol. Cell 16: 2926-2933, 2005.
+
+2. Chai, J.; Du, C.; Wu, J.-W.; Kyin, S.; Wang, X.; Shi, Y.: Structural
+and biochemical basis of apoptotic activation by Smac/DIABLO. Nature 406:
+855-862, 2000.
+
+3. Cheng, J.; Zhu, Y.; He, S.; Lu, Y.; Chen, J.; Han, B.; Petrillo,
+M.; Wrzeszczynski, K. O.; Yang, S.; Dai, P.; Zhai, S.; Han, D.; Zhang,
+M. Q.; Li, W.; Liu, X.; Li, H.; Chen, Z. Y.; Yuan, H.: Functional
+mutation of SMAC/DIABLO, encoding a mitochondrial proapoptotic protein,
+causes human progressive hearing loss DFNA64. Am. J. Hum. Genet. 89:
+56-66, 2011.
+
+4. Du, C.; Fang, M.; Li, Y.; Li, L.; Wang, X.: Smac, a mitochondrial
+protein that promotes cytochrome c-dependent caspase activation by
+eliminating IAP inhibition. Cell 102: 33-42, 2000.
+
+5. Kohli, M.; Yu, J.; Seaman, C.; Bardelli, A.; Kinzler, K. W.; Vogelstein,
+B.; Lengauer, C.; Zhang, L.: SMAC/Diablo-dependent apoptosis induced
+by nonsteroidal antiinflammatory drugs (NSAIDs) in colon cancer cells. Proc.
+Nat. Acad. Sci. 101: 16897-16902, 2004.
+
+6. Liu, Z.; Sun, C.; Olejniczak, E. T.; Meadows, R. P.; Betz, S. F.;
+Oost, T.; Herrmann, J.; Wu, J. C.; Fesik, S. W.: Structural basis
+for binding of Smac/DIABLO to the XIAP BIR3 domain. Nature 408:
+1004-1008, 2000.
+
+7. Okada, H.; Suh, W.-K.; Jin, J.; Woo, M.; Du, C.; Elia, A.; Duncan,
+G. S.; Wakeham, A.; Itie, A.; Lowe, S. W.; Wang, X.; Mak, T. W.:
+Generation and characterization of Smac/DIABLO-deficient mice. Molec.
+Cell. Biol. 22: 3509-3517, 2002.
+
+8. Scott, A. F.: Personal Communication. Baltimore, Md.  8/18/2000.
+
+9. Srinivasula, S. M.; Hegde, R.; Saleh, A.; Datta, P.; Shiozaki,
+E.; Chai, J.; Lee, R.-A.; Robbins, P. D.; Fernandes-Alnemri, T.; Shi,
+Y.; Alnemri, E. S.: A conserved XIAP-interaction motif in caspase-9
+and Smac/DIABLO regulates caspase activity and apoptosis. Nature 410:
+112-116, 2001. Note: Erratum: Nature 114: 1081 only, 2001.
+
+10. Verhagen, A. M.; Ekert, P. G.; Pakusch, M.; Silke, J.; Connolly,
+L. M.; Reid, G. E.; Moritz, R. L.; Simpson, R. J.; Vaux, D. L.: Identification
+of DIABLO, a mammalian protein that promotes apoptosis by binding
+to and antagonizing IAP proteins. Cell 102: 43-53, 2000.
+
+11. Wu, G.; Chai, J.; Suber, T. L.; Wu, J.-W.; Du, C.; Wang, X.; Shi,
+Y.: Structural basis of IAP recognition by Smac/DIABLO. Nature 408:
+1008-1012, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/8/2011
+Patricia A. Hartz - updated: 9/18/2008
+Patricia A. Hartz - updated: 2/16/2005
+Paul J. Converse - updated: 5/29/2002
+Ada Hamosh - updated: 12/23/2000
+Ada Hamosh - updated: 8/31/2000
+Matthew B. Gross - updated: 8/18/2000
+
+CREATED Stylianos E. Antonarakis: 8/18/2000
+
+EDITED terry: 04/04/2013
+wwang: 8/23/2011
+ckniffin: 8/8/2011
+mgross: 9/26/2008
+terry: 9/18/2008
+wwang: 2/22/2007
+alopez: 1/16/2007
+mgross: 2/16/2005
+mgross: 5/29/2002
+alopez: 2/28/2001
+carol: 12/23/2000
+mgross: 9/1/2000
+terry: 8/31/2000
+mgross: 8/21/2000
+carol: 8/18/2000
+mgross: 8/18/2000
+
+604739	TITLE *604739 RNA BINDING MOTIF PROTEIN 39; RBM39
+;;SPLICING FACTOR HCC1;;
+COACTIVATOR OF ACTIVATOR PROTEIN 1 AND ESTROGEN RECEPTORS; CAPER;;
+RNA-BINDING REGION-CONTAINING PROTEIN 2; RNPC2
+HCC1.3, INCLUDED;;
+HCC1.4, INCLUDED
+DESCRIPTION 
+CLONING
+
+Autoantibodies to intracellular components can occur in patients with
+autoimmune disease and occasionally in patients with other diseases. The
+antibodies often recognize determinants corresponding to functional
+sites. Using serum from a patient who progressed from liver cirrhosis to
+hepatocellular carcinoma (HCC) to screen a liver cell cDNA library, Imai
+et al. (1993) isolated full-length cDNA clones encoding a nuclear
+protein that they called HCC1. The HCC1 clones encode deduced proteins
+of 530 amino acids (clone HCC1.4) and 524 amino acids (clone HCC1.3),
+and the authors suggested that these represent splice variants. Sequence
+analysis of HCC1 revealed the presence of 15 arginine-serine (RS)
+motifs, characteristic of mRNA splicing factors (e.g., SFRS1; 600812).
+Imai et al. (1993) also noted the presence of ribonucleoprotein
+consensus sequences (see SNRPA; 182285) and a structural resemblance to
+U2AF65 (191318). Western blot analysis showed expression of a 64-kD
+cellular protein. Immunofluorescence microscopy demonstrated the
+presence of nuclear speckles that colocalized with SFRS2 (600813) and a
+5-prime cap structure of U-snRNAs (e.g., RNU2; 180690). Northern blot
+analysis detected 2 major HCC1 transcripts of 2.3 and 3.2 kb, as well as
+2 minor transcripts of 4.3 and 5.0 kb, in human cancer cell lines and in
+all normal tissues tested, with higher expression in pancreas, skeletal
+muscle, lung, and brain, and lower expression in kidney, liver, and
+heart.
+
+Using ASC2 (NCOA6; 605299) as bait to screen a mouse liver cDNA library,
+Jung et al. (2002) cloned Rnpc2, which they called Caper. The deduced
+protein contains an N-terminal RS-rich domain, followed by 3 RNA
+recognition motifs. An autonomous transactivation domain partly overlaps
+RNA recognition motifs 2 and 3.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis, Jung et al. (2002) found that mouse Caper
+specifically interacted with the AP1 component Jun (165160) and
+estradiol-bound ligand-binding domains of estrogen receptor (ER)-alpha
+(ESR1; 133430) and ER-beta (ESR2; 601663), but not with any other
+transcription factor tested. Binding to estradiol-bound ER activated the
+cryptic autonomous transactivation function of Caper.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium assigned the HCC1
+gene to chromosome 20 (TMAP sts-R02552).
+
+REFERENCE 1. Imai, H.; Chan, E. K. L.; Kiyosawa, K.; Fu, X.-D.; Tan, E. M.:
+Novel nuclear autoantigen with splicing factor motifs identified with
+antibody from hepatocellular carcinoma. J. Clin. Invest. 92: 2419-2426,
+1993.
+
+2. Jung, D.-J.; Na, S.-Y.; Na, D. S.; Lee, J. W.: Molecular cloning
+and characterization of CAPER, a novel coactivator of activating protein-1
+and estrogen receptors. J. Biol. Chem. 277: 1229-1234, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/10/2005
+
+CREATED Paul J. Converse: 3/24/2000
+
+EDITED carol: 06/04/2012
+ckniffin: 6/4/2012
+mgross: 11/16/2005
+terry: 11/10/2005
+mgross: 4/5/2000
+mgross: 4/4/2000
+mgross: 3/30/2000
+mgross: 3/29/2000
+mgross: 3/27/2000
+
+609168	TITLE *609168 SHUGOSHIN-LIKE 1; SGOL1
+;;SGO; SGO1
+DESCRIPTION 
+CLONING
+
+Kitajima et al. (2004) cloned yeast Sgo1 and Sgo2, and by database
+analysis, they identified 2 similar human proteins, SGOL1 and SGOL2
+(612425), which they referred to as Q9BVA8 and tripin, respectively. All
+Sgo-like proteins contain an N-terminal coiled-coil domain and a
+C-terminal basic region.
+
+By searching for sequences similar to Xenopus Sgo, Salic et al. (2004)
+identified mouse and human SGOL1, which they called SGO. The human
+protein shares significant similarity with mouse and frog Sgo at the N-
+and C-terminal ends.
+
+Wang et al. (2008) noted that full-length SGO1 contains 527 amino acids.
+An SGO1 splice variant lacking exon 6 encodes a 292-amino acid isoform
+designated sSGO1. Using fluorescence microscopy, Wang et al. (2008)
+showed that full-length SGO1 localized to kinetochores during mitosis.
+In contrast, sSGO1 localized to centrosomes at interphase and to spindle
+poles at mitosis, but not to kinetochores.
+
+GENE FUNCTION
+
+Salic et al. (2004) determined that the N terminus of mouse Sgo bound
+and stabilized microtubules. Following transfection in HeLa cells,
+epitope-tagged mouse Sgo localized to kinetochores between the fibrous
+corona and the underlying centromeric chromatin, around the inner or
+outer kinetochore plate. Endogenous HeLa cell SGOL1 was degraded by both
+CDC20 (603618)- and CDH1 (603619)-activated anaphase-promoting complex
+(APC), resulting in loss of SGOL1 from kinetochores during the
+metaphase-to-anaphase transition. SGOL1 depletion by RNA interference
+(RNAi) caused mitotic arrest with loss of sister kinetochore cohesion.
+Chromosomes and their centromeres did not align to form a metaphase
+plate; instead they scattered throughout the cell. SGOL1 depletion also
+destabilized kinetochore microtubules. Salic et al. (2004) concluded
+that SGOL1 is required for mitotic progression and chromosome
+segregation and provides a link between sister centromere cohesion and
+microtubule interactions at kinetochores.
+
+Tang et al. (2004) found that depletion of BUB1 (602452) and SGO1 in
+HeLa cells by RNAi caused massive missegregation of sister chromatids
+that originated at centromeres. Loss of chromatid cohesion in BUB1 and
+SGO1 RNAi cells did not appear to require activation of separase (see
+604143), but instead triggered mitotic arrest dependent on MAD2 (601467)
+and Aurora B (604970). Tang et al. (2004) determined that BUB1 maintains
+the steady-state level and centromeric localization of SGO1, and they
+concluded that BUB1 protects centromeric cohesion in mitosis through
+SGO1.
+
+Riedel et al. (2006) showed in both fission and budding yeast that Sgo1
+recruited to centromeres a specific form of protein phosphatase-2A
+(PP2A; 176915). Its inactivation caused loss of centromeric cohesin (see
+RAD21; 606462) at anaphase I and random segregation of sister
+centromeres at the second meiotic division. Artificial recruitment of
+PP2A to chromosome arms prevented Rec8 (608193) phosphorylation and
+hindered resolution of chiasmata. Riedel et al. (2006) concluded that
+their data were consistent with the notion that efficient cleavage of
+Rec8 requires phosphorylation of cohesin and that this is blocked by
+PP2A at meiosis I centromeres.
+
+In mitotic cells, phosphorylation of cohesin promotes its dissociation
+from chromosomes, but centromeric cohesin is protected from
+phosphorylation until kinetochores are properly captured by the spindle
+microtubules. Kitajima et al. (2006) found that a shugoshin complex made
+up of SGO1, SGO2, and a specific subtype of PP2A containing the
+regulatory B56 subunit (see 601643) was required for protection of
+centromeric cohesin in HeLa cells. The shugoshin-PP2A complex protected
+cohesin by reversing phosphorylation of the cohesin subunit SA2 (STAG2;
+300826). Both SGO1 and SGO2 bound PP2A directly, although SGO1 appeared
+to bind the regulatory subunit PP2A-B56, while SGO2 appeared to bind the
+core subunit PP2A-A (see 605983). Knockdown studies showed that SGO2
+tethered PP2A to the centromere, whereas SGO1 had the more important
+role in centromere protection and appeared to facilitate PP2A function
+at centromeres.
+
+Brar et al. (2006) showed that phosphorylation of the cohesin subunit
+REC8 contributes to stepwise cohesin removal. Their data further
+implicated 2 other key regulators of meiotic chromosome segregation, the
+cohesin protector SGO1 and meiotic recombination in bringing about the
+stepwise loss of cohesins and thus the establishment of the meiotic
+chromosome segregation pattern.
+
+Wang et al. (2008) found that SGO1 depletion via RNA interference
+induced formation of multiple centrosome-like structures in mitotic HeLa
+cells due to separation of paired centrioles. Sgo1 +/- mouse embryonic
+fibroblasts displayed split centrosomes. sSGO1 interacted with PLK1
+(602098) in HeLa cells, and mutation of PLK1 phosphorylation sites in
+sSGO1 (ser73 and thr146) resulted in mislocalization of sSGO1 from
+mitotic spindle poles. Centriole splitting induced by SGO1 depletion or
+expression of a dominant-negative mutant was suppressed by ectopic
+expression of sSGO1 or by PLK1 knockdown. Wang et al. (2008) concluded
+that sSGO1 plays an essential role in protecting centriole cohesion,
+which is partly regulated by PLK1.
+
+Yamagishi et al. (2008) showed that the requirement of heterochromatin
+for mitotic chromosome segregation is largely replaced by forcibly
+enriching cohesin at centromeres in fission yeast. However, this
+enrichment of cohesin is not sufficient to replace the meiotic
+requirement for heterochromatin. Yamagishi et al. (2008) found that the
+heterochromatin protein Swi6 (whose human homolog is HP1, 604478)
+associates directly with meiosis-specific shugoshin Sgo1, a protector of
+cohesin at centromeres. A point mutation of Sgo1 (V243E), which
+abolishes the interaction with Swi6, impairs the centromeric
+localization and function of Sgo1. The forced centromeric localization
+of Sgo1 restores proper meiotic chromosome segregation in swi6-delta
+cells. Yamagishi et al. (2008) also showed that the direct link between
+HP1 and shugoshin is conserved in human cells. Yamagishi et al. (2008)
+suggested that the recruitment of shugoshin is the important primary
+role for centromeric heterochromatin in ensuring eukaryotic chromosome
+segregation.
+
+Kawashima et al. (2010) demonstrated that BUB1 (602452) phosphorylates
+the conserved ser121 of histone H2A in fission yeast S. pombe. The
+h2a-SA mutant, in which all cellular H2A-S121 is replaced with alanine,
+phenocopies the Bub1 kinase-dead mutant (bub1-KD) in losing the
+centromeric localization of shugoshin proteins. Artificial tethering of
+shugoshin to centromeres largely restores the h2a-SA or bub1-KD-related
+chromatin instability defects, a function that is evolutionarily
+conserved. Kawashima et al. (2010) concluded that Bub1 kinase creates a
+mark for shugoshin localization and the correct partitioning of
+chromosomes.
+
+MAPPING
+
+Hartz (2005) mapped the SGOL1 gene to chromosome 3p24.3 based on an
+alignment of the SGOL1 sequence (GenBank GENBANK AF308299) with the
+genomic sequence.
+
+REFERENCE 1. Brar, G. A.; Kiburz, B. M.; Zhang, Y.; Kim, J.-E.; White, F.; Amon,
+A.: Rec8 phosphorylation and recombination promote the step-wise
+loss of cohesins in meiosis. Nature 441: 532-536, 2006.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/18/2005.
+
+3. Kawashima, S. A.; Yamagishi, Y.; Honda, T.; Ishiguro, K.; Watanabe,
+Y.: Phosphorylation of H2A by Bub1 prevents chromosomal instability
+through localizing shugoshin. Science 327: 172-177, 2010.
+
+4. Kitajima, T. S.; Kawashima, S. A.; Watanabe, Y.: The conserved
+kinetochore protein shugoshin protects centromeric cohesion during
+meiosis. Nature 427: 510-517, 2004.
+
+5. Kitajima, T. S.; Sakuno, T.; Ishiguro, K.; Iemura, S.; Natsume,
+T.; Kawashima, S. A.; Watanabe, Y.: Shugoshin collaborates with protein
+phosphatase 2A to protect cohesin. Nature 441: 46-52, 2006.
+
+6. Riedel, C. G.; Katis, V. L.; Katou, Y.; Mori, S.; Itoh, T.; Helmhart,
+W.; Galova, M.; Petronczki, M.; Gregan, J.; Cetin, B.; Mudrak, I.;
+Ogris, E.; Mechtler, K.; Pelletier, L.; Buchholz, F.; Shirahige, K.;
+Nasmyth, K.: Protein phosphatase 2A protects centromeric sister chromatid
+cohesion during meiosis I. Nature 441: 53-61, 2006.
+
+7. Salic, A.; Waters, J. C.; Mitchison, T. J.: Vertebrate Shugoshin
+links sister centromere cohesion and kinetochore microtubule stability
+in mitosis. Cell 118: 567-578, 2004.
+
+8. Tang, Z.; Sun, Y.; Harley, S. E.; Zou, H.; Yu, H.: Human Bub1
+protects centromeric sister-chromatid cohesion through Shugoshin during
+mitosis. Proc. Nat. Acad. Sci. 101: 18012-18017, 2004.
+
+9. Wang, X.; Yang, Y.; Duan, Q.; Jiang, N.; Huang, Y.; Darzynkiewicz,
+Z.; Dai, W.: sSgo1, a major splice variant of Sgo1, functions in
+centriole cohesion where it is regulated by Plk1. Dev. Cell 14:
+331-341, 2008.
+
+10. Yamagishi, Y.; Sakuno, T.; Shimura, M.; Watanabe, Y.: Heterochromatin
+links to centromeric protection by recruiting shugoshin. Nature 455:
+251-255, 2008.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/26/2010
+Patricia A. Hartz - updated: 11/20/2008
+Ada Hamosh - updated: 10/2/2008
+Patricia A. Hartz - updated: 4/28/2008
+Ada Hamosh - updated: 7/24/2006
+Ada Hamosh - updated: 6/1/2006
+
+CREATED Patricia A. Hartz: 1/18/2005
+
+EDITED carol: 11/08/2010
+alopez: 2/1/2010
+terry: 1/26/2010
+mgross: 11/20/2008
+alopez: 10/7/2008
+terry: 10/2/2008
+mgross: 4/28/2008
+alopez: 7/27/2006
+terry: 7/24/2006
+alopez: 6/4/2006
+terry: 6/1/2006
+mgross: 1/18/2005
+
+614705	TITLE *614705 SLIT-ROBO RHO GTPase-ACTIVATING PROTEIN 2D; SRGAP2D
+DESCRIPTION The SRGAP2D gene represents a human-specific partial duplication of the
+SRGAP2A gene (SRGAP2; 606524).
+
+CLONING
+
+During the assembly of BAC contigs corresponding to SRGAP2A paralogs
+SRGAP2B (614703) and SRGAP2C (614704), Dennis et al. (2012) identified a
+single BAC clone that harbored sequence for an SRPGAP2 paralog (exons
+7-9) but did not share greater than 99.9% identity with any of the 3
+contigs, suggesting that a fourth SRGAP2 duplicate existed (SRGAP2D).
+Dennis et al. (2012) determined that the SRGAP2D gene originated from
+the incomplete duplication of the SRGAP2B gene approximately 1 million
+years ago.
+
+Using sequence data from 661 individuals from 14 populations from the
+1000 Genomes project, Dennis et al. (2012) estimated the diploid copy
+number of the SRGAP2 paralogs. The SRGAP2D and SRGAP2B copies varied
+from 0 to 4 copies among all individuals tested. The ancestral SRGAP2
+(SRGAP2A) and the derived SRGAP2C copy are fixed at diploid copy number
+2 across all humans assayed. Dennis et al. (2012) identified 3
+individuals who were homozygously deleted for SRGAP2B, as well as normal
+individuals homozygously deleted for SRGAP2D, the granddaughter copy
+with an acquired internal deletion of exons 2 and 3.
+
+GENE STRUCTURE
+
+Dennis et al. (2012) determined that the SRGAP2D gene is derived from
+the 9-exon SRGAP2B gene and contains a 115-kb deletion corresponding to
+exons 2 and 3 relative to the SRGAP2B gene.
+
+GENE FUNCTION
+
+Dennis et al. (2012) noted that while the SRGAP2D gene shows evidence of
+transcription, it is unlikely that it and its neighboring paralog
+SRGAP2B are functional. The transcripts produced by SRGAP2D lack 2
+internal exons leading to a premature termination codon. SRGAP2B has a
+markedly reduced expression in human brain compared to SRGAP2C. Both
+SRGAP2B and SRGAP2D are highly copy number polymorphic, with normal
+individuals identified that completely lack these paralogs.
+
+MAPPING
+
+Using FISH, Dennis et al. (2012) mapped the SRGAP2D gene to chromosome
+1q21.1 proximal to the SRGAP2B gene.
+
+EVOLUTION
+
+Dennis et al. (2012) leveraged a haploid hydatidiform mole to identify
+highly identical sequences missing from the reference genome and
+confirmed that the SRGAP2 gene duplicated 3 times exclusively in humans.
+Dennis et al. (2012) showed that the promoter and first 9 exons of
+SRGAP2 duplicated from 1q32.1 (SRGAP2A) to 1q21.1 (SRGAP2B)
+approximately 3.4 million years ago. Two larger duplications later
+copied SRGAP2B to chromosome 1p12 (SRGAP2C) and to proximal 1q21.1
+(SRGAP2D) approximately 2.4 and 1 million years ago, respectively.
+Dennis et al. (2012) observed that SRGAP2B, SRGAP2C, and SRGAP2D were
+absent from all assayed nonhuman great apes but were present in both the
+Neanderthal and Denisova genomes. Dennis et al. (2012) therefore
+concluded that no new SRGAP2 duplications have occurred since Homo
+sapiens and Homo neanderthalensis diverged about 1 million years ago.
+
+REFERENCE 1. Dennis, M. Y.; Nuttle, X.; Sudmant, P. H.; Antonacci, F.; Graves,
+T. A.; Nefedov, M.; Rosenfeld, J. A.; Sajjadian, S.; Malig, M.; Kotkiewicz,
+H.; Curry, C. J.; Shafer, S.; Shaffer, L. G.; de Jong, P. J.; Wilson,
+R. K.; Eichler, E. E.: Evolution of human-specific neural SRGAP2
+genes by incomplete segmental duplication. Cell 149: 912-922, 2012.
+
+CREATED Ada Hamosh: 7/9/2012
+
+EDITED terry: 07/12/2012
+alopez: 7/10/2012
+
+180467	TITLE *180467 RIBOSOMAL PROTEIN L30; RPL30
+DESCRIPTION See 180466. Using a PCR product for the analysis of rodent/human somatic
+cell hybrids, Feo et al. (1992) mapped the RPL30 gene to chromosome 8.
+
+REFERENCE 1. Feo, S.; Davies, B.; Fried, M.: The mapping of seven intron-containing
+ribosomal protein genes shows they are unlinked in the human genome.
+Genomics 13: 201-207, 1992.
+
+CREATED Victor A. McKusick: 6/6/1992
+
+EDITED carol: 6/6/1992
+
+600799	TITLE *600799 BONE MORPHOGENETIC PROTEIN RECEPTOR, TYPE II; BMPR2
+DESCRIPTION 
+DESCRIPTION
+
+Bone morphogenetic proteins (BMPs) are a family of proteins that induce
+bone formation at extracellular sites in vivo. BMPs act on osteoblasts
+and chondrocytes as well as other cell types, including neurocells, and
+they play important roles in embryonal development. Members of the BMP
+family include BMP1 (112264) to BMP6 (112266), BMP7 (112267), also
+called osteogenic protein-1 (OP1), OP2 (BMP8; 602284), and others. BMPs
+belong to the transforming growth factor beta (TGF-beta) superfamily,
+which includes, in addition to the TGF-betas (e.g., 190180),
+activin/inhibins (e.g., alpha-inhibin; 147380), mullerian inhibiting
+substance (600957), and glial cell line-derived neurotrophic factor
+(600837). TGF-betas and activins transduce their signals through the
+formation of heteromeric complexes of 2 different types of serine
+(threonine) kinase receptors: type I receptors of about 50 to 55 kD and
+type II receptors of about 70 to 80 kD. Type II receptors bind ligands
+in the absence of type I receptors, but they require their respective
+type I receptors for signaling, whereas type I receptors require their
+respective type II receptors for ligand binding. BMPR2 is a type II
+receptor for BMPs.
+
+CLONING
+
+Rosenzweig et al. (1995) reported the cDNA cloning and characterization
+of a human type II receptor for BMPs, which they called BMPR II, that is
+distantly related to DAF4, a BMP type II receptor in Caenorhabditis
+elegans.
+
+MAPPING
+
+By analysis of a monochromosome hybrid mapping panel and by FISH, Astrom
+et al. (1999) mapped the BMPR2 gene to chromosome 2q33-q34.
+
+GENE FUNCTION
+
+Rosenzweig et al. (1995) showed that, in transfected COS-1 cells, BMP7
+and, less efficiently, BMP4 (112262) bound to BMPR II. BMPR II bound
+ligands only weakly alone, but the binding was facilitated by the
+presence of previously identified type I receptors for BMPs. A
+transcriptional activation signal was transduced by BMPR II in the
+presence of type I receptors after stimulation by BMP7.
+
+In an investigation of the molecular bases of common nonfamilial forms
+of pulmonary hypertension, Du et al. (2003) evaluated the pattern of
+expression of several genes in lung biopsy specimens from patients with
+pulmonary hypertension and from normotensive control patients. The genes
+included angiopoietin-1 (ANGPT1; 601667), a protein involved in the
+recruitment of smooth muscle cells around blood vessels; TIE2 (600221),
+the endothelial-specific receptor for angiopoietin-1; bone morphogenetic
+protein receptor 1A (BMPR1A; 601299); and BMPR2. The effect of
+angiopoietin-1 on the modulation of BMPR expression was also evaluated
+in subcultures of human pulmonary arteriolar endothelial cells. The
+expression of angiopoietin-1 mRNA and the protein itself and the
+phosphorylation of TIE2 were strongly upregulated in the lungs of
+patients with various forms of pulmonary hypertension, correlating
+directly with the severity of disease. A mechanistic link between
+familial and acquired pulmonary hypertension was demonstrated by the
+finding that angiopoietin-1 shuts off the expression of BMPR1A, a
+transmembrane protein required for BMPR2 signaling, in pulmonary
+arteriolar endothelial cells. Similarly, the expression of BMPR1A was
+severely reduced in the lungs of patients with various forms of acquired
+as well as primary nonfamilial pulmonary hypertension. The findings
+suggested that all forms of pulmonary hypertension are linked by defects
+in the signaling pathway involving angiopoietin-1, TIE2, BMPR1A, and
+BMPR2, and consequently identified specific molecular targets for
+therapeutic intervention.
+
+Machado et al. (2003) determined that TCTEL1 (601554), a light chain of
+the motor complex dynein, interacted with the cytoplasmic domain of
+BMPR2 and was also phosphorylated by BMPR2, a function disrupted by
+primary pulmonary hypertension (PPH1; 178600)-causing mutations within
+exon 12 (e.g., 600799.0002). BMPR2 and TCTEL1 colocalized to endothelium
+and smooth muscle within the media of pulmonary arterioles, key sites of
+vascular remodeling in PPH. The authors proposed that loss of
+interaction and lack of phosphorylation of TCTEL1 by BMPR2 may
+contribute to the pathogenesis of PPH.
+
+Using RT-PCR, immunofluorescence, and flow cytometric analyses, Cejalvo
+et al. (2007) demonstrated that human thymus and cortical epithelial
+cells produced BMP2 (112261) and BMP4 and that both thymocytes and
+thymic epithelium expressed the molecular machinery to respond to these
+proteins. The receptors BMPR1A and BMPR2 were mainly expressed by
+cortical thymocytes, whereas BMPR1B (603248) was expressed in the
+majority of thymocytes. BMP4 treatment of chimeric human-mouse fetal
+thymic organ cultures seeded with CD34 (142230)-positive human thymic
+progenitors resulted in reduced cell recovery and inhibition of
+differentiation of CD4 (186940)/CD8 (see 186910) double-negative to
+double-positive stages. Cejalvo et al. (2007) concluded that BMP2 and
+BMP4 have a role in human T-cell differentiation.
+
+Tsang et al. (2009) showed that mammalian NIPA1 (608145) is an inhibitor
+of BMP signaling. NIPA1 physically interacted with the BMPR2, and this
+interaction did not require the cytoplasmic tail of BMPR2. The mechanism
+by which NIPA1 inhibited BMP signaling involved downregulation of BMP
+receptors by promoting their endocytosis and lysosomal degradation.
+Disease-associated mutant versions of NIPA1 altered the trafficking of
+BMPR2 and were less efficient at promoting BMPR2 degradation than
+wildtype NIPA1. In addition, 2 other members of the endosomal group of
+hereditary spastic paraplegia (HSP) proteins, spastin (SPAST; 604277)
+and spartin (SPG20; 607111), inhibited BMP signaling. Since BMP
+signaling is important for distal axonal function, Tsang et al. (2009)
+proposed that dysregulation of BMP signaling could be a unifying
+pathologic component in this endosomal group of HSPs, and perhaps of
+importance in other conditions in which distal axonal degeneration is
+found.
+
+Davis et al. (2008) demonstrated that induction of a contractile
+phenotype in human vascular smooth muscle cells by TGF-beta and BMPs is
+mediated by miR21 (611020). miR21 downregulates PDCD4 (608610), which in
+turn acts as a negative regulator of smooth muscle contractile genes.
+Surprisingly, TGF-beta and BMP signaling promoted a rapid increase in
+expression of mature miR21 through a posttranscriptional step, promoting
+the processing of primary transcripts of miR21 (pri-miR21) into
+precursor miR21 (pre-miR21) by the Drosha complex (608828). TGF-beta and
+BMP-specific SMAD signal transducers SMAD1 (601595), SMAD2 (601366),
+SMAD3 (603109), and SMAD5 (603110) are recruited to pri-miR21 in a
+complex with the RNA helicase p68 (DDX5; 180630), a component of the
+Drosha microprocessor complex. The shared cofactor SMAD4 (600993) is not
+required for this process. Davis et al. (2008) concluded that regulation
+of microRNA biogenesis by ligand-specific SMAD proteins is critical for
+control of the vascular smooth muscle cell phenotype and potentially for
+SMAD4-independent responses mediated by the TGF-beta and BMP signaling
+pathways.
+
+In a follow-up to the report of Davis et al. (2008), Drake et al. (2011)
+found that BMPR2 was essential for the SMAD-mediated miR processing.
+Loss of SMAD9 (603295) also affected miR processing in smooth muscle
+cells and in endothelial cells, but it did not affect canonical BMP
+signaling. Knockdown of individual receptor SMADs 1, 5, and 9 decreased
+levels of processed miR21 levels in both types of cells, suggesting that
+the miR processing pathway forms a complex.
+
+MOLECULAR GENETICS
+
+The International PPH Consortium et al. (2000) and Deng et al. (2000)
+reported that mutations in the BMPR2 gene can cause primary pulmonary
+hypertension (PPH), a locus for which resides on chromosome 2q33 (PPH1;
+178600). BMPR2 mutations were found in 7 of 8 of the PPH1 families
+exhibiting linkage to markers adjacent to BMPR2 by the International PPH
+Consortium et al. (2000) and in 9 of 19 of the families exhibiting
+linkage and/or haplotype sharing with markers adjacent to BMPR2 by Deng
+et al. (2000). Both groups reported heterogeneous BMPR2 mutations that
+included termination, frameshift, and nonconservative missense changes
+in amino acid sequence.
+
+Thomson et al. (2000) analyzed the BMPR2 gene in 50 unrelated patients
+with apparent sporadic PPH and identified 11 different heterozygous
+mutations in 13 of the 50 PPH patients, including 3 missense, 3 nonsense
+(see, e.g., 600799.0019), and 5 frameshift mutations. Analysis of
+parental DNA was possible in 5 cases and showed 3 occurrences of
+paternal transmission and 2 of de novo mutation of the BMPR2 gene.
+Thomson et al. (2000) noted that because of low penetrance, in the
+absence of detailed genealogic data, familial cases may be overlooked.
+
+Machado et al. (2001) reported the molecular spectrum of BMPR2 mutations
+in 47 families with PPH and in 3 patients with sporadic PPH. In the
+cohort of patients, they identified 22 novel mutations, including 4
+partial deletions, distributed throughout the BMPR2 gene. The majority
+(58%) of mutations were predicted to lead to a premature termination
+codon. In vitro expression analysis demonstrated loss of BMPR2 function
+for a number of the identified mutations. These data suggested that
+haploinsufficiency represents the common molecular mechanism in PPH.
+Marked variability of the age at onset of disease was observed both
+within and between families. The observed overall range for the age at
+onset of symptoms of PPH was 1 to 60 years. In 1 family, the age at
+onset for the 8 affected individuals ranged from 14 to 60 years. The
+authors interpreted these observations as indicating that additional
+factors, genetic and/or environmental, may be required for the
+development of the clinical phenotype.
+
+Most patients with primary pulmonary hypertension are thought to have
+sporadic, not inherited, disease. Because clinical disease develops in
+only 10 to 20% of persons carrying the gene for familial primary
+pulmonary hypertension, Newman et al. (2001) hypothesized that many
+patients with apparently sporadic primary pulmonary hypertension may
+actually have familial primary pulmonary hypertension. Over a period of
+20 years, they developed a registry of 67 families affected by familial
+primary pulmonary hypertension. They discovered shared ancestry among 5
+subfamilies, including 394 known members spanning several generations,
+which were traced back to a founding couple in the mid-1800s. PPH had
+been diagnosed in 18 family members, 12 of whom were first thought to
+have sporadic disease. In 7 of the 18, the initial misdiagnosis was
+another form of cardiopulmonary disease. The cys118-to-trp mutation
+(600799.0005) was found in 6 members affected by PPH and in 6
+individuals who were from the pedigree recognized as being carriers.
+
+To determine the mechanism of altered BMPR2 function in primary
+pulmonary hypertension, Rudarakanchana et al. (2002) transiently
+transfected pulmonary vascular smooth muscle cells with mutant BMPR2
+constructs and fusion proteins. Substitution of cysteine residues in the
+ligand binding (i.e., 600799.0005, 600799.0016) or kinase (600799.0006)
+domain prevented trafficking of BMPR2 to the cell surface, and reduced
+binding of radiolabeled BMP4. In addition, transfection of
+cysteine-substituted BMPR2 markedly reduced basal and BMP4-stimulated
+transcriptional activity of a BMP/SMAD-responsive luciferase reporter
+gene (3GC2wt-Lux), compared with wildtype BMPR2, suggesting a
+dominant-negative effect of these mutants on SMAD signaling. In
+contrast, BMPR2 containing noncysteine substitutions in the kinase
+domain (600799.0007, 600799.0008, 600799.0013) were localized to the
+cell membrane, although these also suppressed the activity of
+3GC2wt-Lux. Interestingly, BMPR2 mutations within the cytoplasmic tail
+(600799.0002) trafficked to the cell surface, but retained the ability
+to activate 3GC2wt-Lux. Transfection of mutant, but not wildtype,
+constructs into a mouse epithelial cell line led to activation of p38
+MAPK (MAPK14; 600289) and increased serum-induced proliferation compared
+with the wildtype receptor, which was partly p38 MAPK-dependent. The
+authors concluded that mutations in BMPR2 heterogeneously inhibit
+BMP/SMAD-mediated signaling by diverse molecular mechanisms. However,
+all mutants studied demonstrate a gain of function involving
+upregulation of p38 MAPK-dependent pro-proliferative pathways.
+
+Humbert et al. (2002) analyzed the BMPR2 gene in 33 unrelated patients
+with sporadic PPH and 2 sisters with PPH, all of whom had taken
+fenfluramine derivatives. Three BMPR2 mutations (see, e.g., 600799.0020)
+were identified in 3 (9%) of the 33 unrelated patients, and a fourth
+mutation (R211X; 600799.0019) was identified in the 2 sisters. The
+latter mutation, as well as 1 of the sporadic mutations, had previously
+been identified in patients with PPH unassociated with fenfluramine
+derivatives.
+
+In a family in which the proband had pulmonary venoocclusive disease
+(PVOD; 265450) and her mother had pulmonary hypertension, Runo et al.
+(2003) analyzed the BMPR2 gene and identified heterozygosity for a 1-bp
+deletion (600799.0021) in the proband and her unaffected sister. DNA was
+not available from their mother, who had known pulmonary hypertension
+and died of right heart failure, or from the maternal grandparents.
+
+In a patient with pulmonary arterial hypertension and PVOD, Machado et
+al. (2006) identified heterozygosity for a nonsense mutation
+(600799.0022) the BMPR2 gene.
+
+In 25 families with PPH and 106 patients with sporadic PPH, all of whom
+were negative for mutations in the BMPR2 gene by DHPLC analysis or
+direct sequencing, Aldred et al. (2006) performed multiplex
+ligation-dependent probe amplification (MLPA) analysis to detect gross
+BMPR2 rearrangements. Ten different deletions were identified in 7
+families and 6 sporadic cases (see, e.g., 600799.0023-600799.0025). One
+patient with familial PPH had histologic features of pulmonary
+venoocclusive disease and was found to have a deletion of exon 2 of the
+BMPR2 gene (600799.0023); the exon 2 deletion was also identified in an
+unrelated family with PPH and no known evidence of PVOD. Aldred et al.
+(2006) noted that 2 large deletions were predicted to result in null
+alleles (see 600799.0025), providing support for the hypothesis that the
+predominant molecular mechanism for disease predisposition is
+haploinsufficiency.
+
+Phillips et al. (2008) studied SNP genotypes of TGF-beta (190180) in
+BMPR2 mutation carriers with pulmonary hypertension and examined the age
+of diagnosis and penetrance of the pulmonary hypertension phenotype.
+BMPR2 heterozygotes with least active -509 or codon 10 TGFB1 SNPs had
+later mean age at diagnosis of familial pulmonary arterial hypertension
+(39.5 and 43.2 years, respectively), than those with more active
+genotypes (31.6 and 33.1 years, P = 0.03 and 0.02, respectively).
+Kaplan-Meier analysis showed that those with less active SNPs had later
+age at diagnosis. BMPR2 mutation heterozygotes with nonsense-mediated
+decay (NMD)-resistant BMPR2 mutations and the least, intermediate, and
+most active -509 TGFB1 SNP phenotypes had penetrances of 33%, 72%, and
+80%, respectively (P = 0.003), whereas those with 0-1, 2, or 3-4 active
+SNP alleles had penetrances of 33%, 72%, and 75% (P = 0.005). Phillips
+et al. (2008) concluded that the TGFB1 SNPs studied modulate age at
+diagnosis and penetrance of familial pulmonary arterial hypertension in
+BMPR2 mutation heterozygotes, likely by affecting TGFB/BMP signaling
+imbalance. The authors considered this modulation an example of
+synergistic heterozygosity.
+
+Using enzymatic and fluorescence activity-based techniques, Nasim et al.
+(2008) demonstrated that PPH-causing nonsense and frameshift BMPR2
+mutations (see, e.g., 600799.0002) trigger NMD, providing further
+evidence that haploinsufficiency is a major molecular consequence of
+disease-related BMPR2 mutations. Missense mutations (see, e.g.,
+600799.0006, 600799.0007, and 600799.0013) resulted in heterogeneous
+functional defects in BMPR2 activity, including impaired phosphorylation
+of the type 1 receptors BMPR1A and BMPR1B (603248), reduced
+receptor-receptor interactions, and altered receptor complex
+stoichiometry leading to perturbation of downstream signaling pathways.
+Nasim et al. (2008) concluded that the intracellular domain of BMPR2 is
+both necessary and sufficient for receptor complex interaction, and
+suggested that stoichiometric imbalance, due to either
+haploinsufficiency or loss of optimal receptor-receptor interactions,
+impairs BMPR2-mediated signaling in PPH.
+
+In a cohort of 48 patients with PAH, 24 of whom had histologic evidence
+of PVOD, Montani et al. (2008) identified mutations in the BMPR2 gene in
+2 patients with PVOD (600799.0027 and 600799.0028) and in 4 patients
+with no evidence of PVOD.
+
+In pulmonary endothelial cells derived from 2 of 3 PPH1 patients with
+BMPR2 mutations, Drake et al. (2011) found loss of miR21 induction in
+response to BMP9. These cells also showed greater proliferation compared
+to controls; overexpression of miR21 induced growth suppression.
+However, canonical BMP signaling was only mildly attenuated in these
+cells. The findings suggested that disruption of the noncanonical
+BMP-mediated pathway resulting in aberrant miR processing may play an
+important role in the pathogenesis of PPH.
+
+ALLELIC VARIANT .0001
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, 1-BP DEL, 2579T
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported deletion of a T in
+an ATT repeat (2579delT) in exon 12 of the BMPR2 gene. This frameshift
+mutation was predicted to result in premature termination after 10 amino
+acid residues. The resulting truncation includes the large cytoplasmic
+domain of the 1,038-amino acid BMPR2 protein. The authors concluded that
+this mutation is likely to impede heteromeric receptor complex formation
+at the cell surface, a requirement for normal signal transduction. They
+also concluded that the mechanism of PPH1 causation may be either
+haploinsufficiency or a dominant-negative mechanism. In a family with
+primary pulmonary hypertension, Deng et al. (2000) independently
+identified the 2579delT mutation.
+
+.0002
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG899TER
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported a nonsense mutation
+in exon 12 of the BMPR2 gene, an arg899-to-ter (R899X) substitution that
+was caused by a C-to-T transition at base 2695. This termination
+mutation was predicted to truncate the large cytoplasmic domain of the
+1,038-amino acid BMPR2 protein. The authors concluded that this mutation
+is likely to impede heteromeric receptor complex formation at the cell
+surface.
+
+.0003
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, SER73TER
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported a nonsense mutation
+in exon 2 of the BMPR2 gene, ser73-to ter (S73X), that was caused by a
+C-to-G transversion at base 218. This termination mutation was predicted
+to truncate the protein before the transmembrane domain; if translated,
+the protein may fail to reach the cell surface.
+
+.0004
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, 1-BP DEL, 355A
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported a deletion of an A
+in exon 3 of the BMPR2 gene at position 355. This frameshift mutation
+was predicted to result in a premature termination that would truncate
+the protein before the transmembrane domain; if translated, the protein
+may fail to reach the cell surface.
+
+.0005
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, CYS118TRP
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported a T-to-G
+transversion at position 354 of the BMPR2 gene resulting in a
+cys118-to-trp (C118W) substitution. This amino acid substitution, which
+occurs at a highly conserved and functionally important site of the
+BMPR2 protein, was predicted to perturb ligand binding.
+
+.0006
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, CYS347TYR
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported a G-to-A transition
+at position 1042 in exon 8 of the BMPR2 gene resulting in a
+cys347-to-tyr (C347Y) substitution. This amino acid substitution occurs
+at a highly conserved and functionally important site of the BMPR2
+protein.
+
+.0007
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ASP485GLY
+
+In a family with primary pulmonary hypertension (PPH1; 178600), the
+International PPH Consortium et al. (2000) reported an A-to-G transition
+at position 1454 in exon 11 of the BMPR2 gene that was predicted to
+result in an asp485-to-gly (D485G) substitution. This amino acid
+substitution occurs at a highly conserved and functionally important
+site of the BMPR2 protein.
+
+.0008
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG491TRP
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a C-to-T transition at position 1471 in exon 11 of
+the BMPR2 gene that was predicted to result in an arg491-to-trp (R491W)
+substitution. This amino acid substitution occurs at an arginine that is
+highly conserved in all type II TGF-beta receptors and appears to be
+homologous to the invariant arg280 in subdomain XI in other protein
+kinases (Hanks et al., 1988).
+
+.0009
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, 5-BP DEL, NT1099
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a GGGGA deletion at position 1099-1103 in exon 8 of
+the BMPR2 gene that results in a frameshift and premature termination of
+the BMPR2 protein following codon 368.
+
+.0010
+MOVED TO 600799.0001
+.0011
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, CYS169TER
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a 4-bp deletion (CTTT) and 3-bp insertion (AAA) at
+position 507-510 in exon 4 of the BMPR2 gene that results in premature
+termination of the BMPR2 protein, changing cysteine-169 to ter (C169X).
+
+.0012
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG873TER
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a C-to-T transition at position 2617 in exon 12 of
+the BMPR2 gene that was predicted to result in an arg873-to-ter mutation
+(R873X).
+
+.0013
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG491GLN
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a G-to-A transition at position 1472 in exon 11 of
+the BMPR2 gene that was predicted to result in an arg491-to-gln mutation
+(R491Q). This amino acid substitution occurs at an arginine that is
+highly conserved in all type II TGF-beta receptors and appears to be
+homologous to arg280 in subdomain XI in other protein kinases (Hanks et
+al., 1988).
+
+.0014
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, 2-BP DEL, 1-BP INS, NT690
+
+In a family with primary pulmonary hypertension (PPH1; 178600), Deng et
+al. (2000) reported a 2-bp deletion (AG) and 1-bp insertion (T) at
+position 690-691 in exon 6 of the BMPR2 gene that results in a
+frameshift leading to premature termination of the BMPR2 protein 21
+amino acid residues following codon 230.
+
+.0015
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, CYS123ARG
+
+In 2 affected members of the same generation of a family with primary
+pulmonary hypertension (PPH1; 178600), Machado et al. (2001) identified
+a T-to-C transition at nucleotide 367 of the BMPR2 gene, predicted to
+result in a cys123-to-arg substitution. The ages of onset were 9 and 26
+years.
+
+.0016
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, CYS123SER
+
+In 5 affected members of 2 generations of a family with primary
+pulmonary hypertension (PPH1; 178600), Machado et al. (2001) identified
+a T-to-A transversion at nucleotide 367 of the BMPR2 gene, predicted to
+result in a cys123-to-ser substitution.
+
+.0017
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG332TER
+
+In 2 apparently unrelated families, Machado et al. (2001) found that
+multiple members affected by primary pulmonary hypertension (PPH1;
+178600) carried a C-to-T transition at nucleotide 994 of the BMPR2 gene,
+resulting in an arg332-to-ter mutation. In one family, a parent and
+child were affected, with onset at 28 and 32 years of age; in the other
+family, 8 members of 3 generations were affected with an age of onset
+ranging from 13 to 42 years.
+
+.0018
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, ARG899PRO
+
+In a Finnish patient with primary pulmonary hypertension (PPH1; 178600),
+Sankelo et al. (2005) identified a heterozygous 2696G-C transversion in
+exon 12 of the BMPR2 gene, resulting in an arg899-to-pro (R899P)
+substitution in the C-terminal cytoplasmic domain. Functional expression
+studies showed that the R899P mutation resulted in constitutive
+activation of MAPK14 (600289). A nonsense mutation at the same codon
+(R899X; 600799.0002) had previously been reported.
+
+.0019
+PULMONARY HYPERTENSION, PRIMARY, 1
+PULMONARY HYPERTENSION, PRIMARY, DEXFENFLURAMINE-ASSOCIATED, INCLUDED
+BMPR2, ARG211TER
+
+In a patient with sporadic primary pulmonary hypertension (PPH1;
+178600), Thomson et al. (2000) identified heterozygosity for a 631C-T
+transition in exon 6 of the BMPR2 gene, resulting in an arg211-to-ter
+(R211X) substitution. The mutation was not found in 150 normal
+chromosomes.
+
+Machado et al. (2001) found the R211X mutation in 2 affected members of
+the same generation of an Italian family with primary pulmonary
+hypertension. Age of onset of disease was 17 and 18 years, respectively.
+
+Humbert et al. (2002) analyzed the BMPR2 gene in 2 sisters who developed
+pulmonary arterial hypertension after 1 and 2 months' exposure to
+dexfenfluramine, respectively, and identified the R211X mutation in both
+sisters. The mutation was not found in 260 ethnically matched control
+chromosomes.
+
+.0020
+PULMONARY HYPERTENSION, PRIMARY, FENFLURAMINE-ASSOCIATED
+BMPR2, GLY182ASP
+
+In a patient who developed pulmonary arterial hypertension (PPH1;
+178600) after taking fenfluramine for 2 months, Humbert et al. (2002)
+identified a 545G-A transition in exon 5 of the BMPR2 gene, resulting in
+a gly182-to-asp (G182D) substitution in the kinase domain of the
+protein.
+
+.0021
+PULMONARY HYPERTENSION, PRIMARY, 1
+PULMONARY VENOOCCLUSIVE DISEASE, INCLUDED
+BMPR2, 1-BP DEL, 44C
+
+In 2 affected members from 2 generations of a family with primary
+pulmonary hypertension (PPH1; 178600), Machado et al. (2001) identified
+heterozygosity for a 1-bp deletion in exon 1 of the BMPR2 gene (44delC),
+predicted to cause premature termination of the protein 30 codons
+downstream. Age at onset of disease was 36 and 38 years, respectively.
+
+In a woman who presented with pulmonary venoocclusive disease (PVOD;
+265450) at age 36, Runo et al. (2003) identified heterozygosity for the
+44delC mutation in the BMPR2 gene. The patient's deceased mother was
+known to have had pulmonary hypertension and died of complications of
+right heart failure; because lung biopsy and autopsy were not performed,
+it was unknown whether the mother's pulmonary hypertension was from PPH
+or PVOD.
+
+.0022
+PULMONARY VENOOCCLUSIVE DISEASE
+BMPR2, TYR40TER
+
+In a patient with pulmonary arterial hypertension and pulmonary
+venoocclusive disease (265450), Machado et al. (2006) identified
+heterozygosity for a 120T-G transversion in exon 2 of the BMPR2 gene,
+resulting in a tyr40-to-ter (Y40X) substitution.
+
+.0023
+PULMONARY HYPERTENSION, PRIMARY, 1
+PULMONARY VENOOCCLUSIVE DISEASE, INCLUDED
+BMPR2, EX2DEL
+
+In the probands of 2 families with primary pulmonary hypertension (PPH1;
+178600), Aldred et al. (2006) identified heterozygosity for deletion of
+exon 2 of the BMPR2 gene, predicted to result in loss of 57 amino acids
+from the extracellular ligand-binding domain. The affected relatives, 1
+in the first family and 3 in the second, were all deceased. The proband
+of the second family had histologic features of pulmonary venoocclusive
+disease (PVOD; 265450).
+
+.0024
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, EX10DEL
+
+In 2 sibs and an unrelated pediatric patient with primary pulmonary
+hypertension (PPH1; 178600), Aldred et al. (2006) identified
+heterozygosity for deletion of exon 10 of the BMPR2 gene, resulting in
+loss of 45 amino acids from the kinase domain. The deletion was
+predicted to cause a frameshift and premature termination of exon 11
+that was expected to result in nonsense-mediated decay (NMD). The sibs
+inherited the mutation from their unaffected father; in the other case,
+the mutation was inherited from the unaffected mother.
+
+.0025
+PULMONARY HYPERTENSION, PRIMARY, 1
+BMPR2, EX1-13DEL
+
+In a patient with primary pulmonary hypertension (PPH1; 178600), Aldred
+et al. (2006) identified heterozygosity for a deletion of exons 1
+through 13 in the BMPR2 gene, confirmed to extend into the 5-prime
+untranslated region and predicted to result in a complete null allele.
+The mutation was not found in either parent.
+
+.0026
+PULMONARY HYPERTENSION, PRIMARY, 1, WITH HEREDITARY HEMORRHAGIC TELANGIECTASIA
+BMPR2, GLN433TER
+
+In a woman with primary pulmonary hypertension (PPH1; 178600) diagnosed
+at age 24 years, Rigelsky et al. (2008) identified a heterozygous
+1297C-T transition in exon 10 of the BMPR2 gene, resulting in a
+gln433-to-ter (Q433X) substitution. She developed massive hemoptysis at
+age 35, prompting the discovery of multiple pulmonary arteriovenous
+malformations consistent with a diagnosis of hereditary hemorrhagic
+telangiectasia (HHT). She also had recurrent epistaxis and nasal
+telangiectasia. The patient was adopted, and there was no family history
+available. Rigelsky et al. (2008) noted that, although PAH with HHT had
+usually only been associated with mutations in the ACVRL1 gene (601284),
+their patient was the first report of PAH and HHT associated with a
+mutation in the BMPR2 gene. The findings indicated a common molecular
+pathogenesis in PAH and HHT, most likely dysregulated BMP9 (GDF2;
+605120) signaling.
+
+.0027
+PULMONARY VENOOCCLUSIVE DISEASE
+BMPR2, ASN202TYR
+
+Montani et al. (2008) reported a patient with pulmonary artery
+hypertension who had histologic evidence of pulmonary venoocclusive
+disease (PVOD; 265450) and a heterozygous 604A-T transversion in exon 5
+of the BMPR2 gene, resulting in an asn202-to-tyr (N202Y) substitution.
+
+.0028
+PULMONARY VENOOCCLUSIVE DISEASE
+BMPR2, GLU195TER
+
+Montani et al. (2008) reported a patient with pulmonary artery
+hypertension who had histologic evidence of pulmonary venoocclusive
+disease (PVOD; 265450) and a heterozygous 583G-T transversion in exon 5
+of the BMPR2 gene, resulting in a glu195-to-ter (E195X) substitution.
+
+REFERENCE 1. Aldred, M. A.; Vijayakrishnan, J.; James, V.; Soubrier, F.; Gomez-Sanchez,
+M. A.; Martensson, G.; Galie, N.; Manes, A.; Corris, P.; Simonneau,
+G.; Humbert, M.; Morrell, N. W.; Trembath, R. C.: BMPR2 gene rearrangements
+account for a significant proportion of mutations in familial and
+idiopathic pulmonary arterial hypertension. (Abstract) Hum. Mutat. 27:
+212-213, 2006. Note: Full article online.
+
+2. Astrom, A.-K.; Jin, D.; Imamura, T.; Roijer, E.; Rosenzweig, B.;
+Miyazono, K.; ten Dijke, P.; Stenman, G.: Chromosomal localization
+of three human genes encoding bone morphogenetic protein receptors. Mammalian
+Genome 10: 299-302, 1999.
+
+3. Cejalvo, T.; Sacedon, R.; Hernandez-Lopez, C.; Diez, B.; Gutierrez-Frias,
+C.; Valencia, J.; Zapata, A. G.; Varas, A.; Vicente, A.: Bone morphogenetic
+protein-2/4 signalling pathway components are expressed in the human
+thymus and inhibit early T-cell development. Immunology 121: 94-104,
+2007.
+
+4. Davis, B. N.; Hilyard, A. C.; Lagna, G.; Hata, A.: SMAD proteins
+control DROSHA-mediated microRNA maturation. Nature 454: 56-61,
+2008.
+
+5. Deng, Z.; Morse, J. H.; Slager, S. L.; Cuervo, N.; Moore, K. J.;
+Venetos, G.; Kalachikov, S.; Cayanis, E.; Fischer, S. G.; Barst, R.
+J.; Hodge, S. E.; Knowles, J. A.: Familial primary pulmonary hypertension
+(gene PPH1) is caused by mutations in the bone morphogenetic protein
+receptor-II gene. Am. J. Hum. Genet. 67: 737-744, 2000.
+
+6. Drake, K. M.; Zygmunt, D.; Mavrakis, L.; Harbor, P.; Wang, L.;
+Comhair, S. A.; Erzurum, S. C.; Aldred, M. A.: Altered microRNA processing
+in heritable pulmonary arterial hypertension: an important role for
+Smad-8. Am. J. Resp. Crit. Care Med. 184: 1400-1408, 2011.
+
+7. Du, L.; Sullivan, C. C.; Chu, D.; Cho, A. J.; Kido, M.; Wolf, P.
+L.; Yuan, J. X.-J.; Deutsch, R.; Jamieson, S. W.; Thistlethwaite,
+P. A.: Signaling molecules in nonfamilial pulmonary hypertension. New
+Eng. J. Med. 348: 500-509, 2003.
+
+8. Hanks, S. K.; Quinn, A. M.; Hunter, T.: The protein kinase family:
+conserved features and deduced phylogeny of the catalytic domains. Science 241:
+42-52, 1988.
+
+9. Humbert, M.; Deng, Z.; Simonneau, G.; Barst, R. J.; Sitbon, O.;
+Wolf, M.; Cuervo, N.; Moore, K. J.; Hodge, S. E.; Knowles, J. A.;
+Morse, J. H.: BMPR2 germline mutations in pulmonary hypertension
+associated with fenfluramine derivatives. Europ. Resp. J. 20: 518-523,
+2002.
+
+10. International PPH Consortium; Lane, K. B.; Machado, R. D.; Pauciulo,
+M. W.; Thomson, J. R.; Phillips, J. A., III; Loyd, J. E.; Nichols,
+W. C.; Trembath, R. C.: Heterozygous germline mutations in BMPR2,
+encoding a TGF-beta receptor, cause familial primary pulmonary hypertension. Nature
+Genet. 26: 81-84, 2000.
+
+11. Machado, R. D.; Aldred, M. A.; James, V.; Harrison, R. E.; Patel,
+B.; Schwalbe, E. C.; Gruenig, E.; Janssen, B.; Koehler, R.; Seeger,
+W.; Eickelberg, O.; Olschewski, H.; and 21 others: Mutations of
+the TGF-beta type II receptor BMPR2 in pulmonary arterial hypertension. Hum.
+Mutat. 27: 121-132, 2006.
+
+12. Machado, R. D.; Pauciulo, M. W.; Thomson, J. R.; Lane, K. B.;
+Morgan, N. V.; Wheeler, L.; Phillips, J. A., III; Newman, J.; Williams,
+D.; Galie, N.; Manes, A.; McNeil, K.; and 11 others: BMPR2 haploinsufficiency
+as the inherited molecular mechanism for primary pulmonary hypertension. Am.
+J. Hum. Genet. 68: 92-102, 2001.
+
+13. Machado, R. D.; Rudarakanchana, N.; Atkinson, C.; Flanagan, J.
+A.; Harrison, R.; Morrell, N. W.; Trembath, R. C.: Functional interaction
+between BMPR-II and Tctex-1, a light chain of dynein, is isoform-specific
+and disrupted by mutations underlying primary pulmonary hypertension. Hum.
+Molec. Genet. 12: 3277-3286, 2003.
+
+14. Montani, D.; Achouh, L.; Dorfmuller, P.; Le Pavec, J.; Sztrymf,
+B.; Tcherakian, C.; Rabiller, A.; Haque, R.; Sitbon, O.; Jais, X.;
+Dartevelle, P.; Maitre, S.; Capron, F.; Musset, D.; Simonneau, G.;
+Humbert, M.: Pulmonary veno-occlusive disease: clinical, functional,
+radiologic, and hemodynamic characteristics and outcome of 24 cases
+confirmed by histology. Medicine 87: 220-233, 2008.
+
+15. Nasim, M. T.; Ghouri, A.; Patel, B.; James, V.; Rudarakanchana,
+N.; Morrell, N. W.; Trembath, R. C.: Stoichiometric imbalance in
+the receptor complex contributes to dysfunctional BMPR-II mediated
+signalling in pulmonary arterial hypertension. Hum. Molec. Genet. 17:
+1683-1694, 2008.
+
+16. Newman, J. H.; Wheeler, L.; Lane, K. B.; Loyd, E.; Gaddipati,
+R.; Phillips, J. A., III; Loyd, J. E.: Mutation in the gene for bone
+morphogenetic protein receptor II as a cause of primary pulmonary
+hypertension in a large kindred. New Eng. J. Med. 345: 319-324,
+2001. Note: Erratum: New Eng. J. Med. 345: 1506 only, 2001.
+
+17. Phillips, J. A., III; Poling, J. S.; Phillips, C. A.; Stanton,
+K. C.; Austin, E. D.; Cogan, J. D.; Wheeler, L.; Yu, C.; Newman, J.
+H.; Dietz, H. C.; Loyd, J. E.: Synergistic heterozygosity for TGF-beta-1
+SNPs and BMPR2 mutations modulates the age at diagnosis and penetrance
+of familial pulmonary arterial hypertension. Genet. Med. 10: 359-365,
+2008.
+
+18. Rigelsky, C. M.; Jennings, C.; Lehtonen, R.; Minai, O. A.; Eng,
+C.; Aldred, M. A.: BMPR2 mutation in a patient with pulmonary arterial
+hypertension and suspected hereditary hemorrhagic telangiectasia. Am.
+J. Med. Genet. 146A: 2551-2556, 2008.
+
+19. Rosenzweig, B. L.; Imamura, T.; Okadome, T.; Cox, G. N.; Yamashita,
+H.; ten Dijke, P.; Heldin, C.-H.; Miyazono, K.: Cloning and characterization
+of a human type II receptor for bone morphogenetic proteins. Proc.
+Nat. Acad. Sci. 92: 7632-7636, 1995.
+
+20. Rudarakanchana, N.; Flanagan, J.; Chen, H.; Upton, P. D.; Machado,
+R.; Patel, D.; Trembath, R. C.; Morrell, N. W.: Functional analysis
+of bone morphogenetic protein type II receptor mutations underlying
+primary pulmonary hypertension. Hum. Molec. Genet. 11: 1517-1525,
+2002.
+
+21. Runo, J. R.; Vnencak-Jones, C. L.; Prince, M.; Loyd, J. E.; Wheeler,
+L.; Robbins, I. M.; Lane, K. B.; Newman, J. H.; Johnson, J.; Nichols,
+W. C.; Phillips, J. A., III.: Pulmonary veno-occlusive disease caused
+by an inherited mutation in bone morphogenetic protein receptor II. Am.
+J. Resp. Crit. Care Med. 167: 889-894, 2003.
+
+22. Sankelo, M.; Flanagan, J. A.; Machado, R.; Harrison, R.; Rudarakanchana,
+N.; Morrell, N.; Dixon, M.; Halme, M.; Puolijoki, H.; Kere, J.; Elomaa,
+O.; Kupari, M.; Raisanen-Sokolowski, A.; Trembath, R. C.; Laitinen,
+T.: BMPR2 mutations have short lifetime expectancy in primary pulmonary
+hypertension. Hum. Mutat. 26: 119-124, 2005.
+
+23. Thomson, J. R.; Machado, R. D.; Pauciulo, M. W.; Morgan, N. V.;
+Humbert, M.; Elliott, G. C.; Ward, K.; Yacoub, M.; Mikhail, G.; Rogers,
+P.; Newman, J.; Wheeler, L.; and 13 others: Sporadic primary pulmonary
+hypertension is associated with germline mutations of the gene encoding
+BMPR-II, a receptor member of the TGF-beta family. J. Med. Genet. 37:
+741-745, 2000.
+
+24. Tsang, H. T. H.; Edwards, T. L.; Wang, X.; Connell, J. W.; Davies,
+R. J.; Durrington, H. J.; O'Kane, C. J.; Luzio, J. P.; Reid, E.:
+The hereditary spastic paraplegia proteins NIPA1, spastin and spartin
+are inhibitors of mammalian BMP signalling. Hum. Molec. Genet. 18:
+3805-3821, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 7/30/2013
+Marla J. F. O'Neill - updated: 1/16/2013
+Paul J. Converse - updated: 10/12/2010
+Marla J. F. O'Neill - updated: 8/25/2010
+George E. Tiller - updated: 8/6/2010
+Ada Hamosh - updated: 2/18/2010
+Cassandra L. Kniffin - updated: 4/15/2009
+Marla J. F. O'Neill - updated: 4/5/2007
+Cassandra L. Kniffin - updated: 8/14/2006
+George E. Tiller - updated: 1/10/2006
+Patricia A. Hartz - updated: 3/22/2004
+George E. Tiller - updated: 5/29/2003
+Victor A. McKusick - updated: 2/10/2003
+Victor A. McKusick - updated: 9/20/2001
+Victor A. McKusick - updated: 1/23/2001
+John A. Phillips, III - updated: 8/11/2000
+
+CREATED Victor A. McKusick: 9/25/1995
+
+EDITED carol: 09/16/2013
+carol: 7/31/2013
+ckniffin: 7/30/2013
+carol: 1/23/2013
+terry: 1/16/2013
+terry: 9/25/2012
+wwang: 3/2/2011
+mgross: 10/18/2010
+terry: 10/12/2010
+wwang: 8/27/2010
+terry: 8/25/2010
+wwang: 8/9/2010
+terry: 8/6/2010
+alopez: 2/25/2010
+terry: 2/18/2010
+terry: 6/4/2009
+wwang: 5/7/2009
+ckniffin: 4/15/2009
+wwang: 4/13/2007
+wwang: 4/5/2007
+wwang: 8/22/2006
+ckniffin: 8/14/2006
+wwang: 1/31/2006
+wwang: 1/30/2006
+terry: 1/10/2006
+mgross: 3/31/2004
+terry: 3/22/2004
+cwells: 5/29/2003
+carol: 2/25/2003
+tkritzer: 2/21/2003
+terry: 2/10/2003
+carol: 11/19/2001
+mcapotos: 10/2/2001
+mcapotos: 9/27/2001
+mcapotos: 9/20/2001
+terry: 9/20/2001
+carol: 1/24/2001
+mgross: 1/24/2001
+terry: 1/23/2001
+terry: 1/19/2001
+terry: 11/9/2000
+terry: 9/18/2000
+alopez: 8/11/2000
+dkim: 11/6/1998
+mark: 11/11/1996
+mark: 12/12/1995
+terry: 11/13/1995
+mark: 9/25/1995
+
+612115	TITLE *612115 RHO GUANINE NUCLEOTIDE EXCHANGE FACTOR 3; ARHGEF3
+;;XPLN
+DESCRIPTION 
+DESCRIPTION
+
+Rho-like GTPases (see RHOA; 165390), which are involved in a variety of
+cellular processes, are activated by binding GTP and inactivated by
+conversion of GTP to GDP by their intrinsic GTPase activity. Guanine
+nucleotide exchange factors (GEFs), such as ARHGEF3, accelerate the
+GTPase activity of Rho GTPases by catalyzing their release of bound GDP
+(Thiesen et al., 2000).
+
+CLONING
+
+By searching an EST database for sequences encoding a Dbl (MCF2; 311030)
+homology (DH) domain, followed by screening a neuronal teratocarcinoma
+cDNA library and 5-prime RACE of adult human brain RNA, Thiesen et al.
+(2000) obtained a full-length ARHGEF3 cDNA. The deduced 526-amino acid
+protein has a calculated molecular mass of 59.8 kD and contains the
+tandem DH and pleckstrin (PLEK; 173570) homology (PH) domains
+characteristic of RhoGEFs. Northern blot analysis detected a 3.8-kb
+transcript in heart, brain, kidney, lung, pancreas, spleen, and skeletal
+muscle.
+
+By searching databases for sequences encoding ARHGEF-like domains,
+followed by PCR of acute myeloid leukemia and total brain cDNA
+libraries, Arthur et al. (2002) cloned ARHGEF3. They referred to ARHGEF3
+as XPLN (pronounced 'zeppelin') for 'exchange factor found in platelets
+and leukemic and neuronal libraries.' ARHGEF3 shares 99% and 94% amino
+acid identity with its monkey and mouse orthologs, respectively. Western
+blot analysis detected prominent ARHGEF3 expression in adult brain and
+skeletal muscle, with weaker expression in heart and kidney. ARHGEF3
+protein expression was also detected in human platelets, mouse
+macrophages, and rat pheochromocytoma cells, but not in other cell lines
+examined.
+
+GENE FUNCTION
+
+Using in vitro assays, Arthur et al. (2002) found that recombinant
+ARHGEF3 stimulated guanine nucleotide exchange on RHOA and RHOB
+(165370), but not on RHOC (165380), RHOG (179505), RAC1 (602048), or
+CDC42 (116952). Mutation analysis showed that the inability of ARHGEF3
+to catalyze nucleotide exchange on RHOC was due to ile43 of RHOC, a
+position occupied by valine in RHOA and RHOB. ARHGEF3 activated RHOA and
+RHOB, but not RHOC, in transfected cells and stimulated assembly of
+stress fibers and focal adhesions in mouse fibroblasts in a Rho kinase
+(ROCK1; 601702)-dependent manner. ARHGEF3 also showed transforming
+activity in cells expressing a permissive RAF (164760) mutant.
+
+MAPPING
+
+Using FISH, Thiesen et al. (2000) mapped the ARHGEF3 gene to chromosome
+3p21-p13.
+
+REFERENCE 1. Arthur, W. T.; Ellerbroek, S. M.; Der, C. J.; Burridge, K.; Wennerberg,
+K.: XPLN, a guanine nucleotide exchange factor for RhoA and RhoB,
+but not RhoC. J. Biol. Chem. 277: 42964-42972, 2002.
+
+2. Thiesen, S.; Kubart, S.; Ropers, H.-H.; Nothwang, H. G.: Isolation
+of two novel human RhoGEFs, ARHGEF3 and ARHGEF4, in 3p13-21 and 2q22. Biochem.
+Biophys. Res. Commun. 273: 364-369, 2000.
+
+CREATED Patricia A. Hartz: 6/18/2008
+
+EDITED mgross: 06/18/2008
+
+606045	TITLE *606045 INTRAFLAGELLAR TRANSPORT 122, CHLAMYDOMONAS, HOMOLOG OF; IFT122
+;;WD REPEAT-CONTAINING PROTEIN 10; WDR10
+DESCRIPTION 
+DESCRIPTION
+
+A conserved core of 4 or more modular repeat units defines a group of
+functionally diverse regulatory proteins in eukaryotes known as the WD
+repeat family. WD repeats are minimally conserved regions of
+approximately 40 amino acids typically bracketed by gly-his and trp-asp
+(GH-WD), which may facilitate formation of heterotrimeric or
+multiprotein complexes. Proteins belonging to the WD repeat family are
+involved in a variety of cellular processes, including cell cycle
+progression, signal transduction, apoptosis, and gene regulation
+(summary by Claudio et al., 1999).
+
+CLONING
+
+Gross et al. (2001) screened human HL60 leukemia and prostate and colon
+cancer cDNA libraries with degenerate oligonucleotide primers directed
+to sequences encoding the AF2 domains of class III nuclear receptors.
+They then used 5-prime and 3-prime RACE and screening of a testis cDNA
+library to clone IFT122, which they designated WDR10. They also isolated
+a longer variant of this cDNA, which appeared to have an additional
+153-bp exon near the 5-prime end. The full-length WDR10 cDNA encodes a
+deduced 1,242-amino acid protein with an AF2-like domain, 7 N-terminal
+WD repeat units, and 2 potential nuclear localization sequences.
+Northern blot analysis detected a single 4-kb WDR10 transcript in most
+tissues tested, with predominant expression in testis and pituitary; a
+3.5-kb transcript was detected in HL60 leukemia cells. Study of a
+WDR10-GFP fusion protein demonstrated that WDR10 is localized in the
+cytoplasm. In situ hybridization on reproductive tissues in the rat
+showed stage-specific expression of WDR10 within developing sperm and
+ovarian follicles.
+
+GENE STRUCTURE
+
+Gross et al. (2001) determined that the IFT122 gene has at least 28
+exons spanning approximately 65 kb of genomic DNA.
+
+MAPPING
+
+By FISH, Gross et al. (2001) mapped the IFT122 gene to chromosome 3q21.
+
+GENE FUNCTION
+
+Walczak-Sztulpa et al. (2010) performed morpholino knockdown of ift122
+in zebrafish embryos and observed defects typical of other ciliopathy
+models including shortened body axis and curvature, cardiac edema, and
+small eyes at 80 hours postfertilization, with pronephric cysts and a
+distended cranium consistent with hydrocephalus and otolith defects at 5
+days postfertilization. Cilia and their basal bodies were dramatically
+reduced in the pronephric duct of morphant embryos compared to control
+embryos, and primary cilia shortening was observed in the morphant
+zebrafish Kupffer vesicle.
+
+MOLECULAR GENETICS
+
+In a consanguineous Polish family with cranioectodermal dysplasia
+mapping to chromosome 3q21-q24 (CED1; 218330), Walczak-Sztulpa et al.
+(2010) sequenced 79 candidate genes and identified homozygosity for a
+missense mutation in the IFT122 gene (V553G; 606045.0001) that
+segregated with the disease. Fibroblasts from 1 of the sibs showed
+significantly reduced cilia frequency and length compared to controls.
+Analysis of IFT122 in 11 additional unrelated patients with CED revealed
+homozygosity and compound heterozygosity for mutations in 2 of the
+patients (606045.0002-606045.0004, respectively).
+
+ALLELIC VARIANT .0001
+CRANIOECTODERMAL DYSPLASIA 1
+IFT122, VAL553GLY
+
+In an affected sister and brother with cranioectodermal dysplasia (CED1;
+218330), born of distantly related Polish parents, Walczak-Sztulpa et
+al. (2010) identified homozygosity for a T-G transversion in the IFT122
+gene, resulting in a val553-to-gly (V553G) substitution at a highly
+conserved residue. The unaffected parents were heterozygous for the
+mutation, which was not found in 340 ethnically matched control
+chromosomes. Analysis of fibroblasts from the brother showed
+significantly reduced cilia frequency and length compared to 3
+unrelated, healthy German controls.
+
+.0002
+CRANIOECTODERMAL DYSPLASIA 1
+IFT122, SER373PHE
+
+In a boy with cranioectodermal dysplasia (CED1; 218330), born of
+fourth-cousin Norwegian parents and previously reported by Fry et al.
+(2009), Walczak-Sztulpa et al. (2010) identified homozygosity for a C-T
+transition in the IFT122 gene, resulting in a ser373-to-phe (S373F)
+substitution at a highly conserved residue. The unaffected parents were
+heterozygous for the mutation, which was not found in 340 ethnically
+matched control chromosomes. The patient had an unaffected sister.
+
+.0003
+CRANIOECTODERMAL DYSPLASIA 1
+IFT122, IVS6, G-A, +5
+
+In an Italian boy with cranioectodermal dysplasia (CED1; 218330),
+originally reported by Zaffanello et al. (2006), Walczak-Sztulpa et al.
+(2010) identified compound heterozygosity for a G-A transition in intron
+6 (502+5G-A) of the IFT122 gene and a de novo trp7-to-cys substitution
+(W7C; 606045.0004) at a highly conserved residue in exon 1. The mother
+was a heterozygous carrier of the splice site mutation but the missense
+mutation was not detected in either parent; neither mutation was found
+in 340 ethnically matched control chromosomes.
+
+.0004
+CRANIOECTODERMAL DYSPLASIA 1
+IFT122, TRP7CYS
+
+See 606045.0003 and Walczak-Sztulpa et al. (2010).
+
+REFERENCE 1. Claudio, J. O.; Liew, C.-C.; Ma, J.; Heng, H. H. Q.; Stewart, A.
+K.; Hawley, R. G.: Cloning and expression analysis of a novel WD
+repeat gene, WDR3, mapping to 1p12-p13. Genomics 59: 85-89, 1999.
+
+2. Fry, A. E.; Klingenberg, C.; Matthes, J.; Heimdal, K.; Hennekam,
+R C. M.; Pilz, D. T.: Connective tissue involvement in two patients
+with features of cranioectodermal dysplasia. Am. J. Med. Genet. 149A:
+2212-2215, 2009.
+
+3. Gross, C.; De Baere, E.; Lo, A.; Chang, W.; Messiaen, L.: Cloning
+and characterization of human WDR10, a novel gene located at 3q21
+encoding a WD-repeat protein that is highly expressed in pituitary
+and testis. DNA Cell Biol. 20: 41-52, 2001.
+
+4. Walczak-Sztulpa, J.; Eggenschwiler, J.; Osborn, D.; Brown, D. A.;
+Emma, F.; Klingenberg, C.; Hennekam, R. C.; Torre, G.; Garshasbi,
+M.; Tzschach, A.; Szczepanska, M.; Krawczynski, M.; Zachwieja, J.;
+Zwolinska, D.; Beales, P. L.; Ropers, H.-H.; Latos-Bielenska, A.;
+Kuss, A. W.: Cranioectodermal dysplasia, Sensenbrenner syndrome,
+is a ciliopathy caused by mutations in the IFT122 gene. Am. J. Hum.
+Genet. 86: 949-956, 2010.
+
+5. Zaffanello, M.; Diomedi-Camassei, F.; Melzi, M. L.; Torre, G.;
+Callea, F.; Emma, F.: Sensenbrenner syndrome: a new member of the
+hepatorenal fibrocystic family. Am. J. Med. Genet. 140A: 2336-2340,
+2006.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 7/12/2011
+Marla J. F. O'Neill - updated: 7/15/2010
+
+CREATED Carol A. Bocchini: 6/20/2001
+
+EDITED wwang: 07/20/2011
+terry: 7/12/2011
+carol: 7/15/2010
+carol: 7/1/2010
+joanna: 1/22/2004
+mcapotos: 6/20/2001
+carol: 6/20/2001
+
+613147	TITLE *613147 MICRO RNA 205; MIR205
+;;miRNA205;;
+MIRN205
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR205, are small noncoding RNAs that
+mediate posttranscriptional silencing by binding with partial
+complementarity to the 3-prime UTRs of target mRNAs. miRNAs have
+important roles in development and differentiation, cellular stress
+responses, and cancer (summary by Yu et al., 2008).
+
+GENE FUNCTION
+
+Using the MDCK canine epithelial cell line and a subclone with a
+mesenchymal phenotype, Gregory et al. (2008) found that the miR200
+family of miRNAs (see 612090) and miR205 regulated expression of Zeb1
+(189909) and Zeb2 (605802) and controlled epithelial-to-mesenchymal
+transition. Furthermore, expression of the miR200 family and miR205 was
+lost in invasive human breast cancer cell lines with mesenchymal
+phenotype and in primary breast cancer specimens lacking E-cadherin
+(CDH1; 192090), an epithelial cell marker.
+
+Using human epithelial cell lines and primary human corneal and
+epidermal keratinocytes, Yu et al. (2008) identified SHIP2 (INPPL1;
+600829), a lipid phosphatase that functions in the AKT (see 164730)
+signaling pathway, as a target of MIR205. They also showed that MIR184
+(613146) interfered with the ability of MIR205 to downregulate
+expression of SHIP2. A synthetic antagomir targeting MIR205 or ectopic
+expression of MIR184 induced SHIP2 expression in keratinocytes, with
+coordinated damping of AKT signaling and increased apoptosis.
+Examination of the 3-prime UTR of SHIP2 revealed overlapping binding
+sites for MIR184 and MIR205. Coexpression of MIR184 with MIR205 reversed
+MIR205-induced inhibition of a reporter gene containing the SHIP2
+3-prime UTR. MIR184 had no direct effect on SHIP2 expression, but
+instead interfered with MIR205 binding to the 3-prime UTR of SHIP2.
+
+MAPPING
+
+Gross (2009) mapped the MIR205 gene to chromosome 1q32.2 based on an
+alignment of the mature MIR205 sequence (UCCUUCAUUCCACCGGAGUCUG) with
+the genomic sequence (GRCh37).
+
+REFERENCE 1. Gregory, P. A.; Bert, A. G.; Paterson, E. L.; Barry, S. C.; Tsykin,
+A.; Farshid, G.; Vadas, M. A.; Khew-Goodall, Y.; Goodall, G. J.:
+The miR-200 family and miR-205 regulate epithelial to mesenchymal
+transition by targeting ZEB1 and SIP1. Nature Cell Biol. 10: 593-601,
+2008.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  11/24/2009.
+
+3. Yu, J.; Ryan, D. G.; Getsios, S.; Oliveira-Fernandes, M.; Fatima,
+A.; Lavker, R. M.: MicroRNA-184 antagonizes microRNA-205 to maintain
+SHIP2 levels in epithelia. Proc. Nat. Acad. Sci. 105: 19300-19305,
+2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/24/2009
+
+CREATED Matthew B. Gross: 11/24/2009
+
+EDITED mgross: 11/24/2009
+
+604417	TITLE *604417 AF4/FMR2 FAMILY, MEMBER 4; AFF4
+;;ALL1-FUSED GENE FROM CHROMOSOME 5q31; AF5Q31
+DESCRIPTION Infantile acute lymphoblastic leukemia (ALL) with rearrangements of the
+MLL gene (159555) is characterized by early pre-B phenotype and poor
+treatment outcome. Taki et al. (1999) studied a 4-month-old girl with
+the diagnosis of ALL. Leukemic cells were characterized cytogenetically
+as ins(5;11)(q31;q13q23), i(17q). By molecular studies, Taki et al.
+(1999) identified a gene on 5q31 as a fusion partner of the MLL gene.
+The AF5q31 gene (GenBank GENBANK AF197927), so termed for 'ALL1-fused
+gene partner from 5q31,' encodes a protein of 1,163 amino acids, is
+located in the vicinity of the cytokine cluster region of 5q31, and
+contains at least 16 exons. The AF5q31 gene was expressed in fetal
+heart, lung, and brain at relatively high levels and in fetal liver at a
+low level, but the expression in these tissues was decreased in adults.
+The AF5q31 protein was homologous to AF4-related proteins, including AF4
+(159557), LAF4 (601464), and FMR2 (309548). The AF5q31 and AF4 proteins
+had 3 homologous regions, including the transactivation domain of AF4,
+and the breakpoint of AF5q31 was located within the region homologous to
+the transactivation domain of AF4. Furthermore, the clinical features of
+the patient with the MLL-AF5q31 fusion transcript, characterized by the
+early pre-B phenotype and poor outcome, were similar to those of
+patients having MLL-AF4 chimeric transcripts. Taki et al. (1999)
+suggested that these findings may indicate that AF5q31 and AF4 defines a
+new family particularly involved in the pathogenesis of 11q23-associated
+ALL.
+
+REFERENCE 1. Taki, T.; Kano, H.; Taniwaki, M.; Sako, M.; Yanagisawa, M.; Hayashi,
+Y.: AF5q31, a newly identified AF4-related gene, is fused to MLL
+in infant acute lymphoblastic leukemia with ins(5;11)(q31;q31q23). Proc.
+Nat. Acad. Sci. 96: 14535-14540, 1999.
+
+CREATED Victor A. McKusick: 1/11/2000
+
+EDITED carol: 06/25/2009
+carol: 6/13/2000
+alopez: 1/11/2000
+
+126255	TITLE *126255 DISTAL-LESS HOMEOBOX 2; DLX2
+;;TES1
+DESCRIPTION 
+CLONING
+
+To isolate genes involved in forebrain development, Porteus et al.
+(1992) used subtractive hybridization of cDNA libraries to enrich for
+cDNAs that are encoded by genes preferentially expressed in mouse
+gestational day-15 telencephalon. In an attempt to find genes that are
+candidates for the regulation of forebrain development, the subtracted
+cDNA library was screened with probes homologous to the homeobox, a
+conserved motif found in transcriptional regulators that often control
+development. A novel cDNA, named Tes1, that encodes a homeodomain was
+identified. Its sequence showed that Tes1 was a member of the
+'Distal-less' family of homeodomain-encoding genes. Related by amino
+acid homology within their homeodomains, the known members of the family
+are Tes1, Dlx1 (600029), and Dll (a Drosophila melanogaster gene).
+
+McGuinness et al. (1996) reported the DNA sequence of the human DLX2
+gene and compared it to the murine gene. The deduced sequence of the
+human DLX2 protein shows that the human and mouse DLX2 proteins are 92%
+identical. The human DLX2 protein is 330 amino acids in length, while
+the mouse DLX2 protein contains 332 amino acids. The introns have 63 to
+71% identity. Domains identified in the human and mouse DLX2 protein
+include a homeodomain and short stretches of homology to several
+transcription factors.
+
+GENE STRUCTURE
+
+McGuinness et al. (1996) determined that the human DLX2 gene has 3
+exons.
+
+MAPPING
+
+Ozcelik et al. (1992) determined the chromosomal location of the DLX2
+gene in mouse and human. By Southern analysis of somatic cell hybrid
+lines, they assigned the human locus to chromosome 2cen-q33 and the
+mouse locus to chromosome 2. An EcoRI dimorphism was used for
+recombinant inbred strain mapping in the mouse. The results placed the
+Dlx2 gene near the Hox4 cluster on mouse chromosome 2.
+
+Simeone et al. (1994) found that the DLX1 and DLX2 genes are localized
+to chromosome 2q32 near the HOXD (formerly HOX4; 142980-142989) cluster
+at 2q31, as had previously been suggested for the mouse. The mapping was
+done by study of rodent/human hybrid cells and by fluorescence in situ
+hybridization. The genes were found to be closely linked, i.e., about 8
+kb apart, in an inverted convergent (i.e., tail-to-tail) configuration.
+
+Zerucha et al. (2000) reported that the vertebrate Dlx1 and Dlx2 genes
+are organized in a conserved tail-to-tail arrangement.
+
+GENE FUNCTION
+
+Using retroviral labeling in organotypic slice cultures of the embryonic
+human forebrain, Letinic et al. (2002) demonstrated the existence of 2
+distinct lineages of neocortical GABAergic neurons. One lineage
+expresses DLX1 and DLX2 and MASH1 (100790) transcription factors,
+represents 65% of neocortical GABAergic neurons in humans, and
+originates from MASH1-expressing progenitors of the neocortical
+ventricular and subventricular zone of the dorsal forebrain. The second
+lineage, characterized by the expression of DLX1 and DLX2 but not MASH1,
+forms around 35% of the GABAergic neurons and originates from the
+ganglionic eminence of the ventral forebrain. Letinic et al. (2002)
+suggested that modifications in the expression pattern of transcription
+factors in the forebrain may underlie species-specific programs for the
+generation of neocortical local circuit neurons and that distinct
+lineages of cortical interneurons may be differentially affected in
+genetic and acquired diseases of the human brain.
+
+PITX2 (601542) and DLX2 are transcription markers observed during early
+tooth development. Espinoza et al. (2002) demonstrated that PITX2 binds
+to bicoid and bicoid-like elements in the DLX2 promoter and activates
+this promoter 30-fold in Chinese hamster ovary cells. Mutations in PITX2
+associated with Axenfeld-Rieger syndrome (see 180500) provided the first
+link of this homeodomain transcription factor to tooth development. One
+mutation produces Axenfeld-Rieger syndrome with iris hypoplasia but
+without tooth anomalies; this allele has a similar DNA binding
+specificity compared to wildtype PITX2 and transactivates the DLX2
+promoter. In contrast, a different PITX2 mutation produces Rieger
+syndrome with the full spectrum of developmental anomalies, including
+tooth anomalies; this allele is unable to transactivate the DLX2
+promoter. Since DLX2 expression is required for tooth and craniofacial
+development, the lack of tooth anomalies in the patient with iris
+hypoplasia may be due to the residual activity of this mutant in
+activating the DLX2 promoter. The authors proposed a molecular mechanism
+for tooth development involving DLX2 gene expression in Axenfeld-Rieger
+patients.
+
+Thomas et al. (2000) identified regulatory regions of the mouse Dlx2
+upstream sequence that drove epithelial but not mesenchymal expression
+of Dlx2 in the first branchial arch. Epithelial expression of Dlx2 was
+regulated by planar signaling by Bmp4 (112262), which was coexpressed in
+distal oral epithelium. Mesenchymal expression was regulated by a
+different mechanism involving Fgf8 (600483), which was expressed in the
+overlying epithelium. Fgf8 also inhibited expression of Dlx2 in the
+epithelium by a signaling pathway that required the mesenchyme. Thomas
+et al. (2000) concluded that Bmp4 and Fgf8 maintain the strict
+epithelial and mesenchymal expression of Dlx2 in the first branchial
+arch of developing mice.
+
+Zerucha et al. (2000) found that, like DLX1 and DLX2, the mouse and
+human DLX5 (600028) and DLX6 (600030) genes, as well as their zebrafish
+orthologs, Dlx4 and Dlx6, respectively, are arranged in a tail-to-tail
+orientation. The intergenic region between zebrafish, mouse, and human
+DLX5 and DLX6 is highly conserved, with 2 nucleotide stretches reaching
+about 85% nucleotide identity among these species. Using knockdown and
+reporter gene assays, Zerucha et al. (2000) showed that the zebrafish
+Dlx4/Dlx6 intergenic region drove expression of mouse Dlx5 and Dlx6
+reporter genes in the ventral thalamus/hypothalamus and in basal
+telencephalon in transgenic mouse forebrain. Although their expression
+patterns overlapped, the Dlx5 reporter was more highly expressed in the
+subventricular zone, whereas the Dlx6 reporter was more highly expressed
+in the mantle zone, similar to endogenous mouse Dlx5 and Dlx6. Activity
+of the zebrafish intergenic enhancer was reduced in the subventricular
+zone, but not in the mantle zone, in mice lacking Dlx1 and Dlx2,
+consistent with decreased endogenous Dlx5 and Dlx6 expression. In
+zebrafish forebrain, Dlx1 and Dlx2 were expressed in more immature cells
+than Dlx4 and Dlx6. Cotransfection and DNA-protein binding experiments
+with mouse and zebrafish proteins suggested that Dlx1 and/or Dlx2 are
+required for Dlx5 and Dlx6 expression in forebrain and that this
+regulation is mediated by the intergenic enhancer sequence.
+
+Glutamic acid decarboxylases (see GAD1; 605363) are required for
+synthesis of gamma-aminobutyric acid (GABA) in GABAergic neurons. Using
+electroporation to introduce Dlx1, Dlx2, and Dlx5 plasmids in embryonic
+mouse cerebral cortex, Stuhmer et al. (2002) found that Dlx2 and Dlx5,
+but not Dlx1, induced expression of the glutamic acid decarboxylases
+Gad65 (GAD2; 138275) and Gad67 (GAD1) to variable degrees. Dlx2 induced
+expression of endogenous Dlx5, but not Dlx6. Dlx2 and Dlx5 induced
+expression of a mouse Dlx5/Dlx6 intergenic region reporter in all brain
+regions examined, whereas Dlx1 induced expression of the reporter in a
+more restricted pattern.
+
+MOLECULAR GENETICS
+
+For a discussion of a possible association between variation in the DLX2
+gene and susceptibility to autism, see AUTS5 (606053).
+
+ANIMAL MODEL
+
+Qiu et al. (1995) utilized information about the genomic structure of
+the murine Dlx2 gene to carry out gene targeting experiments and made
+deletions in the Dlx2 gene in mouse embryonic stem cells for use in
+transgenic mice. They reported that heterozygous mice appeared normal
+and homozygous mice died on the day of birth. The mutant mice had
+altered differentiation of interneurons in the olfactory bulb and
+abnormal morphogenesis of the cranial neural crest-derived skeletal
+structures formed from the proximal first and second branchial arches,
+causing cleft palate.
+
+Kraus and Lufkin (2006) reviewed mouse studies of Dlx gene family loss-
+and gain-of-function mutations and the role of Dlx homeobox genes in
+craniofacial, limb, and bone development.
+
+REFERENCE 1. Espinoza, H.; Cox, C. J.; Semina, E. V.; Amendt, B. A.: A molecular
+basis for differential developmental anomalies in Axenfeld-Rieger
+syndrome. Hum. Molec. Genet. 11: 743-753, 2002.
+
+2. Kraus, P.; Lufkin, T.: Dlx homeobox gene control of mammalian
+limb and craniofacial development. Am. J. Med. Genet. 140A: 1366-1374,
+2006.
+
+3. Letinic, K.; Zoncu, R.; Rakic, P.: Origin of GABAergic neurons
+in the human neocortex. Nature 417: 645-649, 2002.
+
+4. McGuinness, T.; Porteus, M. H.; Smiga, S.; Bulfone, A.; Kingsley,
+C.; Qiu, M.; Liu, J. K.; Long, J. E.; Xu, D.; Rubenstein, J. L. R.
+: Sequence, organization, and transcription of the Dlx-1 and the Dlx-2
+locus. Genomics 35: 473-485, 1996.
+
+5. Ozcelik, T.; Porteus, M. H.; Rubenstein, J. L. R.; Francke, U.
+: DLX2 (TES1), a homeobox gene of the Distal-less family, assigned
+to conserved regions on human and mouse chromosomes 2. Genomics 13:
+1157-1161, 1992.
+
+6. Porteus, M. H.; Brice, A. E. J.; Bulfone, A.; Usdin, T. B.; Ciaranello,
+R. D.; Rubenstein, J. L. R.: Isolation and characterization of a
+library of cDNA clones that are preferentially expressed in the embryonic
+telencephalon. Molec. Brain Res. 12: 7-22, 1992.
+
+7. Qiu, M.; Bulfone, A.; Martinez, S.; Meneses, J. J.; Shimamura,
+K.; Pedersen, R. A.; Rubenstein, J. L.: Null mutation of Dlx-2 results
+in abnormal morphogenesis of proximal first and second branchial arch
+derivatives and abnormal differentiation in the forebrain. Genes
+Dev. 9: 2523-2538, 1995.
+
+8. Simeone, A.; Acampora, D.; Pannese, M.; D'Esposito, M.; Stornaiuolo,
+A.; Gulisano, M.; Mallamaci, A.; Kastury, K.; Druck, T.; Huebner,
+K.; Boncinelli, E.: Cloning and characterization of two members of
+the vertebrate Dlx gene family. Proc. Nat. Acad. Sci. 91: 2250-2254,
+1994.
+
+9. Stuhmer, T.; Anderson, S. A.; Ekker, M.; Rubenstein, J. L. R.:
+Ectopic expression of the Dlx gene induces glutamic acid decarboxylase
+and Dlx expression. Development 129: 245-252, 2002.
+
+10. Thomas, B. L.; Liu, J. K.; Rubenstein, J. L. R.; Sharpe, P. T.
+: Independent regulation of Dlx2 expression in the epithelium and
+mesenchyme of the first branchial arch. Development 127: 217-224,
+2000.
+
+11. Zerucha, T.; Stuhmer, T.; Hatch, G.; Park, B. K.; Long, Q.; Yu,
+G.; Gambarotta, A.; Schultz, J. R.; Rubenstein, J. L. R.; Ekker, M.
+: A highly conserved enhancer in the Dlx5/Dlx6 intergenic region is
+the site of cross-regulatory interactions between Dlx genes in the
+embryonic forebrain. J. Neurosci. 20: 709-721, 2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/21/2012
+Marla J. F. O'Neill - updated: 4/19/2007
+Patricia A. Hartz - updated: 3/23/2004
+George E. Tiller - updated: 10/25/2002
+Ada Hamosh - updated: 7/12/2002
+Moyra Smith - updated: 12/17/1996
+
+CREATED Victor A. McKusick: 8/14/1992
+
+EDITED mgross: 01/07/2013
+terry: 11/21/2012
+wwang: 9/14/2009
+ckniffin: 8/28/2009
+wwang: 4/19/2007
+mgross: 4/12/2004
+terry: 3/23/2004
+terry: 3/18/2004
+cwells: 10/25/2002
+alopez: 7/15/2002
+terry: 7/12/2002
+mcapotos: 5/3/2000
+dkim: 9/9/1998
+alopez: 7/29/1997
+alopez: 7/7/1997
+mark: 6/11/1997
+mark: 12/17/1996
+terry: 12/17/1996
+mark: 12/11/1996
+carol: 8/31/1994
+jason: 7/13/1994
+terry: 5/13/1994
+carol: 1/8/1993
+carol: 9/2/1992
+carol: 8/14/1992
+
+601988	TITLE *601988 LIM DOMAIN KINASE 2; LIMK2
+DESCRIPTION Okano et al. (1995) isolated a human cDNA encoding LIMK2, a second
+member of the LIMK family, with a domain structure similar to LIMK1
+(601329) and 50% overall amino acid identity with LIMK1. They also
+identified 2 alternative transcripts, LIMK2a and LIMK2b, which are
+probably due to variation in transcriptional initiation. The 3.7-kb
+LIMK2 mRNA was detected in all tissues tested, with the highest level in
+placenta and a moderate level in liver, lung, kidney, and pancreas,
+whereas the 1.6-kb mRNA was detected only in skeletal muscle and heart.
+The 3.7-kb transcript was detected in lung, stomach, and renal cancer
+cell lines. Osada et al. (1996) found that LIMK2a transcripts were more
+abundant than LIMK2b in liver, colon, stomach, and spleen, while in
+brain, kidney, and placenta LIMK2b transcripts were the dominant form.
+The former encodes a protein containing 2 LIM domains, a PDZ domain, and
+a kinase domain, while the latter has only 1.5 LIM domains. (The LIM
+domain is thought to be involved in protein-protein interactions; the
+PDZ domain was originally recognized in a family of proteins related to
+the Drosophila lethal discs-large tumor suppressor gene product Dlga
+(see 601014) and was shown to function in protein-protein interactions
+targeting the protein to the submembranous compartment.) Transfection
+studies have shown an association of 63-kD and 58-kD proteins with the
+LIMK2a and LIMK2b proteins. The former is distributed in the cytoplasm
+and nucleus and the latter occurs mainly in the cytoplasm. A truncated
+LIMK2-kinase has a nuclear location, not showing the protein
+association. Okano et al. (1995) demonstrated the
+serine/threonine-specific kinase activity of LIMK1 and LIMK2 by in vitro
+analysis.
+
+Maekawa et al. (1999) demonstrated that LIM kinase is phosphorylated and
+activated by ROCK (601702), a downstream effector of Rho, and that LIM
+kinase, in turn, phosphorylates cofilin (601442), inhibiting its
+actin-depolymerizing activity. They concluded that this pathway
+contributes to Rho-induced reorganization of the actin cytoskeleton.
+
+REFERENCE 1. Maekawa, M.; Ishizaki, T.; Boku, S.; Watanabe, N.; Fujita, A.;
+Iwamatsu, A.; Obinata, T.; Ohashi, K.; Mizuno, K.; Narumiya, S.:
+Signaling from Rho to the actin cytoskeleton through protein kinases
+ROCK and LIM-kinase. Science 285: 895-898, 1999.
+
+2. Okano, I.; Hiraoka, J.; Otera, H.; Nunoue, K.; Ohashi, K.; Iwashita,
+S.; Hirai, M.; Mizuno, K.: Identification and characterization of
+a novel family of serine/threonine kinases containing two N-terminal
+LIM motifs. J. Biol. Chem. 270: 31321-31330, 1995.
+
+3. Osada, H.; Hasada, K.; Inazawa, J.; Uchida, K.; Ueda, R.; Takahashi,
+T.; Takahashi, T.: Subcellular localization and protein interaction
+of the human LIMK2 gene expressing alternative transcripts with tissue-specific
+regulation. Biochem. Biophys. Res. Commun. 229: 582-589, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 08/05/1999
+
+CREATED Ethylin Wang Jabs: 9/11/1997
+
+EDITED alopez: 08/05/1999
+terry: 9/11/1997
+
+611730	TITLE *611730 ERYTHROCYTE MEMBRANE PROTEIN BAND 4.1-LIKE 5; EPB41L5
+;;KIAA1548
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2000) cloned EPB41L5, which they designated
+KIAA1548. RT-PCR ELISA detected expression in all tissues tested, with
+highest expression in kidney, ovary, and brain.
+
+Jensen and Westerfield (2004) identified human EPB41L5 as the homolog of
+the zebrafish 'mosaic eyes' (moe) gene. The deduced EPB41L5 and moe
+proteins share 61% overall sequence identity and 87% identity in the N
+terminus. Both proteins contain a conserved FERM domain present in
+members of the EPB41 (130500) family of cytoskeletal proteins.
+
+GENE FUNCTION
+
+Jensen et al. (2001) showed that the zebrafish moe gene is expressed in
+the retinal pigment epithelium (RPE) and that mutations in the gene
+produce retinal lamination defects. Jensen and Westerfield (2004) found
+that mutant fish also show defects in the kidney and brain, including
+edema and small or absent brain ventricles. Jensen and Westerfield
+(2004) proposed that moe is required for tight junction formation in the
+RPE and is part of the pathway that controls apical cell polarity in
+photoreceptor morphogenesis as well as in other epithelial-derived
+tissues.
+
+Using an antibody to the mouse Epb41l5 protein, Gosens et al. (2007)
+showed that at early embryonic stages the protein localizes to the
+basolateral membrane compartment, whereas in adult tissues it is found
+at the apical domain along with Crumbs proteins (Crb1, 604210; Crb2,
+609720; Crb3, 609737) and Mpp5 (606958). Overexpression of Epb41l5
+affected tightness of cell junctions and resulted in disorganization of
+the tight junction markers ZO1 (601009) and PATJ (603199). Gosens et al.
+(2007) showed that Epb41L5 binds to conserved motifs in Crb1, Crb2,
+Crb3, and Mpp5, and is a component of the Crumbs polarity complex first
+identified in Drosophila. They concluded that EPB41L5 is likely to be
+important in cell polarity processes in many epithelial-derived tissues
+in addition to the retina.
+
+Laprise et al. (2009) reported that the Drosophila FERM proteins Yurt
+(Yrt) and Coracle (Cora) and the membrane proteins Neurexin IV (Nrx-IV)
+and the sodium-potassium ATPase are a group of functionally cooperating
+epithelial polarity proteins. This Yrt/Cora group promotes basolateral
+membrane stability and shows negative regulatory interactions with the
+apical determinant Crumbs (see 604210). Genetic analyses indicate that
+the Nrx-IV and sodium-potassium ATPase act together with Cora in one
+pathway whereas Yrt acts in a second redundant pathway. Laprise et al.
+(2009) showed that the Yrt/Cora group is essential for epithelial
+polarity during organogenesis but not when epithelial polarity is first
+established or during terminal differentiation. They also found that the
+mammalian Yrt ortholog EPB41L5 (also known as YMO1 and Limulus) is
+required for lateral membrane formation, indicating a conserved function
+of Yrt proteins in epithelial polarity.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the EPB41L5
+gene to chromosome 2 (TMAP RH79778).
+
+Jensen and Westerfield (2004) stated that the EPB41L5 gene maps to
+chromosome 2q14 and is adjacent to the PTPN4 gene (176878), and that the
+moe gene in zebrafish is also adjacent to the Ptpn4 gene. Scott (2008)
+noted that these findings indicate that EPB41L5 and moe are true
+orthologs.
+
+REFERENCE 1. Gosens, I.; Sessa, A.; den Hollander, A. I.; Letteboer, S. J. F.;
+Belloni, V.; Arends, M. L.; Le Bivic, A.; Cremers, F. P. M.; Broccoli,
+V.; Roepman, R.: FERM protein EPB41L5 is a novel member of the mammalian
+CRB-MPP5 polarity complex. Exp. Cell Res. 313: 3959-3970, 2007.
+
+2. Jensen, A. M.; Walker, C.; Westerfield, M.: Mosaic eyes: a zebrafish
+gene required in pigmented epithelium for apical localization of retinal
+cell division and lamination. Development 128: 95-105, 2001.
+
+3. Jensen, A. M.; Westerfield, M.: Zebrafish mosaic eyes is a novel
+FERM protein required for retinal lamination and retinal pigmented
+epithelial tight junction formation. Curr. Biol. 14: 711-717, 2004.
+
+4. Laprise, P.; Lau, K. M.; Harris, K. P.; Silva-Gagliardi, N. F.;
+Paul, S. M.; Beronja, S.; Beitel, G. J.; McGlade, C. J.; Tepass, U.
+: Yurt, Coracle, Neurexin IV and the Na+,K+-ATPase form a novel group
+of epithelial polarity proteins. Nature 459: 1141-1145, 2009.
+
+5. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+6. Scott, A. F.: Personal Communication. Baltimore, Md.  1/9/2008.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/9/2009
+
+CREATED Alan F. Scott: 1/17/2008
+
+EDITED alopez: 07/16/2009
+terry: 7/9/2009
+terry: 6/6/2008
+carol: 1/17/2008
+
+151990	TITLE *151990 LIPOPOLYSACCHARIDE-BINDING PROTEIN; LBP
+;;LPS-BINDING PROTEIN
+DESCRIPTION 
+DESCRIPTION
+
+Lipopolysaccharide-binding protein is an acute-phase reactant produced
+during gram-negative bacterial infections. Higher eukaryotes have
+evolved several mechanisms for protecting against such infections.
+Gram-negative bacteria express lipopolysaccharide (LPS; endotoxin) on
+their outer cell wall, and mammals respond rapidly to the presence of
+LPS in serum. LBP and another acute-phase reactant, bactericidal
+permeability-increasing protein (BPI; 109195), bind LPS with high
+affinity. LBP is made in the liver during the acute phase of infections
+and is thought to function as a carrier for LPS and to help control
+LPS-dependent monocyte responses. See CD14 (158120) for information on
+the receptor for the lipopolysaccharide binding
+protein/lipopolysaccharide complex.
+
+CLONING
+
+By screening a human liver cDNA library with an oligonucleotide derived
+from the rabbit LBP protein sequence, Schumann et al. (1990) isolated
+cDNAs encoding LBP. The predicted human LBP protein consists of a
+25-amino acid signal sequence followed by a 452-amino acid mature
+protein containing 4 cysteine residues and 5 potential glycosylation
+sites. Human LBP shares 69% amino acid identity with rabbit LBP, 44%
+identity with human BPI, and 23% identity with human CETP (118470). In
+rabbits, Schumann et al. (1990) found that LBP functions as a carrier
+protein for LPS in plasma and controls LPS-dependent monocytic
+responses.
+
+GENE STRUCTURE
+
+Hubacek et al. (1997) found that the LBP gene spans approximately 28.5
+kb of DNA and contains 14 exons. Comparison of the genomic structures of
+LBP, BPI, PLTP (172425), and CETP, which constitute a family of
+functionally related proteins, revealed a remarkable conservation of
+exon/intron junctions and exon size.
+
+GENE FUNCTION
+
+LPS interacts with LBP and CD14 to present LPS to TLR4 (603030), which
+activates inflammatory gene expression through NF-kappa-B (see 164011)
+and MAPK signaling. Bochkov et al. (2002) demonstrated that oxidized
+phospholipids inhibit LPS-induced but not TNF-alpha (191160)-induced or
+interleukin-1-beta (147720)-induced NF-kappa-B-mediated upregulation of
+inflammatory genes by blocking the interaction of LPS with LBP and CD14.
+Moreover, in LPS-injected mice, oxidized phospholipids inhibited
+inflammation and protected mice from lethal endotoxin shock. Thus, in
+severe gram-negative bacterial infection, endogenously formed oxidized
+phospholipids may function as a negative feedback to blunt innate immune
+responses. Furthermore, Bochkov et al. (2002) identified chemical
+structures capable of inhibiting the effects of endotoxins such as LPS
+that could be used for the development of new drugs for treatment of
+sepsis.
+
+Weber et al. (2003) found that LBP was present in the cerebrospinal
+fluid of patients with pneumococcal meningitis. Injection of living
+pneumococci or pneumococcal cell wall (PCW) into spinal canals of Lbp
++/- mice resulted in leukocyte influx and severe meningitis. In
+contrast, injection into Lbp -/- mice produced no meningeal
+inflammation. Lbp enhanced PCW-induced signaling and Tnf release in
+rodent cell lines, and Lbp bound to PCW multimers independently of the
+phosphorylcholine and teichoic acid components of PCW. Experiments using
+human LBP suggested that the binding site for PCW may overlap with that
+for LPS. Weber et al. (2003) concluded that LBP is also involved in
+gram-positive infections.
+
+MAPPING
+
+In addition to the functional relationship and extensive structural
+similarity between the LBP and BPI proteins, the LBP and BPI genes were
+found by Southern blot analysis of human/mouse somatic cell hybrids and
+by in situ hybridization to map to the same region of the genome:
+20q11.23-q.12 (Gray et al., 1993).
+
+ANIMAL MODEL
+
+By using mice deficient in LBP through gene knockout experiments, Jack
+et al. (1997) investigated how LBP functions in vivo. To their surprise,
+they found that LBP is not required in vivo for the clearance of LPS
+from the circulation, but is essential for the rapid induction of an
+inflammatory response by small amounts of LPS or gram-negative bacteria
+and for survival of an intraperitoneal Salmonella infection.
+
+REFERENCE 1. Bochkov, V. N.; Kadl, A.; Huber, J.; Gruber, F.; Binder, B. R.;
+Leitinger, N.: Protective role of phospholipid oxidation products
+in endotoxin-induced tissue damage. Nature 419: 77-81, 2002.
+
+2. Gray, P. W.; Corcorran, A. E.; Eddy, R. L., Jr.; Byers, M. G.;
+Shows, T. B.: The genes for the lipopolysaccharide binding protein
+(LBP) and the bactericidal permeability increasing protein (BPI) are
+encoded in the same region of human chromosome 20. Genomics 15:
+188-190, 1993.
+
+3. Hubacek, J. A.; Buchler, C.; Aslanidis, C.; Schmitz, G.: The genomic
+organization of the genes for human lipopolysaccharide binding protein
+(LBP) and bactericidal permeability increasing protein (BPI) is highly
+conserved. Biochem. Biophys. Res. Commun. 236: 427-430, 1997.
+
+4. Jack, R. S.; Fan, X.; Bernheiden, M.; Rune, G.; Ehlers, M.; Webert,
+A.; Kirsch, G.; Mentel, R.; Furll, B.; Freudenberg, M.; Schmitz, G.;
+Stelter, F.; Schutt, C.: Lipopolysaccharide-binding protein is required
+to combat a murine gram-negative bacterial infection. Nature 389:
+742-744, 1997.
+
+5. Schumann, R. R.; Leong, S. R.; Flaggs, G. W.; Gray, P. W.; Wright,
+S. D.; Mathison, J. C.; Tobias, P. S.; Ulevitch, R. J.: Structure
+and function of lipopolysaccharide binding protein. Science 249:
+1429-1431, 1990.
+
+6. Weber, J. R.; Freyer, D.; Alexander, C.; Schroder, N. W. J.; Reiss,
+A.; Kuster, C.; Pfeil, D.; Tuomanen, E. I.; Schumann, R. R.: Recognition
+of pneumococcal peptidoglycan: an expanded, pivotal role for LPS binding
+protein. Immunity 19: 269-279, 2003.
+
+CONTRIBUTORS Paul J. Converse - updated: 5/2/2006
+Ada Hamosh - updated: 9/12/2002
+Sheryl A. Jankowski - updated: 8/5/1999
+Victor A. McKusick - updated: 10/15/1997
+
+CREATED Victor A. McKusick: 2/17/1993
+
+EDITED mgross: 05/10/2006
+terry: 5/2/2006
+tkritzer: 3/24/2003
+alopez: 9/12/2002
+psherman: 8/5/1999
+psherman: 11/19/1998
+mark: 10/15/1997
+terry: 10/14/1997
+carol: 2/17/1993
+
+300736	TITLE *300736 G ANTIGEN 2E; GAGE2E
+DESCRIPTION See GAGE1 (300594) for more information about the GAGE gene cluster.
+
+GENE STRUCTURE
+
+Gjerstorff and Ditzel (2008) stated that the GAGE2E gene is contained
+within a 9.5-kb GAGE repeat. The GAGE2E gene contains 5 exons spanning
+about 6.3 kb and has a LINE insertion.
+
+MAPPING
+
+By genomic sequence analysis, Gjerstorff and Ditzel (2008) mapped the
+GAGE2E gene to a GAGE gene cluster on chromosome Xp11.23.
+
+REFERENCE 1. Gjerstorff, M. F.; Ditzel, H. J.: An overview of the GAGE cancer/testis
+antigen family with the inclusion of newly identified members. Tissue
+Antigens 71: 187-192, 2008.
+
+CREATED Patricia A. Hartz: 8/6/2008
+
+EDITED wwang: 08/18/2008
+wwang: 8/6/2008
+
+601743	TITLE *601743 ONCOSTATIN M RECEPTOR; OSMR
+;;ONCOSTATIN M-SPECIFIC RECEPTOR, BETA; OSMRB
+DESCRIPTION 
+CLONING
+
+Oncostatin M (OSM; 165095) is a member of the IL6 (147620) family of
+cytokines. Functional receptors for IL6 family cytokines are
+multisubunit complexes involving members of the hematopoietin receptor
+superfamily. Many IL6 cytokines utilize gp130 (IL6ST; 600694) as a
+common receptor subunit. OSM binds to the gp130 receptor subunit and, in
+association with leukemia inhibitory factor receptor (LIFR; 151443),
+induces a proliferative response in permissive cells. Mosley et al.
+(1996) used degenerate PCR to clone a novel hematopoietin receptor which
+they called the oncostatin M-specific receptor beta subunit (OSMR-beta).
+Sequencing revealed that this gene encodes a 979-amino acid protein
+containing characteristic motifs of the hematopoietin receptor family.
+
+GENE FUNCTION
+
+Mosley et al. (1996) found that IL3 (147740)-dependent murine pre-B
+cells coexpressing gp130 and OSMR-beta showed a proliferative response
+after OSM stimulation, but they showed no response to LIF.
+
+Dillon et al. (2004) demonstrated that OSMR and IL31RA (609510) form the
+heterodimeric receptor through which IL31 (609509) signals. Expression
+of IL31RA and OSMR mRNA was induced in activated monocytes, and both
+mRNAs were constitutively expressed in epithelial cells Expression of
+IL31RA was upregulated in monocytes after stimulation with IFNG
+(147570), and OSMR expression was upregulated with lipopolysaccharide
+(LPS) treatment. Treatment with LPS plus IFNG upregulated both
+receptors.
+
+MOLECULAR GENETICS
+
+By candidate gene analysis in a 5p13.1-q11.2 region of linkage
+identified in families with primary localized cutaneous amyloidosis
+(PLCA1; 105250), Arita et al. (2008) identified missense mutations in
+the OSMR gene in 3 families (601743.0001-601743.0002). OSMR-beta is a
+component of the oncostatin-M (OSM; 165095) type II receptor and the
+interleukin-31 receptor (IL31RA; 609510). Arita et al. (2008) found that
+PLCA keratinocytes showed reduced activation of Jak/Stat, MAPK, and
+p13K/Akt pathways after OSM or IL31 cytokine stimulation. The 2
+pathogenic amino acid substitutions found by Arita et al. (2008) were
+located within the extracellular fibronectin type III-like (FnIII)
+domains, regions critical for receptor dimerization and function.
+Oncostatin M (OSM; 165095) and IL31 (609509) have been implicated in
+keratinocyte cell proliferation, differentiation, apoptosis, and
+inflammation. Arita et al. (2008) pointed to this as the first
+demonstration of human germline mutations in this cytokine receptor
+complex and suggested that it provides new insight into mechanisms of
+skin itching.
+
+By whole-exome sequencing of the OSMR gene in Taiwanese patients with
+PLCA mapping to chromosome 5, Lin et al. (2010) identified 3 novel
+heterozygous mutations (601743.0003-601743.0005). In 1 Taiwanese family
+they identified a heterozygous mutation in the IL31RA gene
+(609510.0001), which occurred in a fnIII domain as observed in the OSMR
+mutations.
+
+ALLELIC VARIANT .0001
+AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1
+OSMR, ILE691THR
+
+In an extensively affected Brazilian pedigree with primary localized
+cutaneous amyloidosis (105250), Arita et al. (2008) identified a
+heterozygous 2072T-C transition in the OSMR gene resulting in an
+ile691-to-thr substitution (I691T) in all affected but no unaffected
+members.
+
+.0002
+AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1
+OSMR, GLY618ALA
+
+In affected members of 2 white families with primary localized cutaneous
+amyloidosis (105250), Arita et al. (2008) found an 1853G-C transversion
+in the OSMR gene that resulted in a gly618-to-ala substitution (G618A).
+Microsatellite analysis around the OSMR gene indicated that the 2
+families probably shared a common British ancestry.
+
+.0003
+AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1
+OSMR, ASP647VAL
+
+In affected members of a Taiwanese family segregating primary localized
+cutaneous amyloidosis (105250), Lin et al. (2010) identified a
+heterozygous 1940A-T transversion in the OSMR gene, resulting in an
+asp647-to-val (D647V) substitution in the fnIII domain. The mutation was
+not found in 142 control subjects from Taiwan or in over 250 control
+chromosomes from other populations.
+
+.0004
+AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1
+OSMR, PRO694LEU
+
+In affected members of 6 Taiwanese families segregating primary
+localized cutaneous amyloidosis (105250), Lin et al. (2010) identified a
+heterozygous 2081C-T transition in the OSMR gene, resulting in a
+pro694-to-leu (P694L) substitution in the fnIII domain. The mutation was
+also detected in 2 Taiwanese sporadic cases. Five of the 6 families and
+the 2 sporadic cases carried the same associated haplotype. The mutation
+was not found in 142 control subjects from Taiwan or in over 250 control
+chromosomes from other populations.
+
+.0005
+AMYLOIDOSIS, PRIMARY LOCALIZED CUTANEOUS, 1
+OSMR, LYS697THR
+
+In affected members of 3 Taiwanese families segregating primary
+localized cutaneous amyloidosis (105250), Lin et al. (2010) identified a
+heterozygous 2090A-C transversion in the OSMR gene, resulting in a
+lys697-to-thr substitution in the fnIII domain. The mutation was not
+found in 142 control subjects from Taiwan or in over 250 control
+chromosomes from other populations.
+
+REFERENCE 1. Arita, K.; South, A. P.; Hans-Filho, G.; Sakuma, T. H.; Lai-Cheong,
+J.; Clements, S.; Odashiro, M.; Odashiro, D. N.; Hans-Neto, G.; Hans,
+N. R.; Holder, M. V.; Bhogal, B. S.; Hartshorne, S. T.; Akiyama, M.;
+Shimizu, H.; McGrath, J. A.: Oncostatin M receptor-beta mutations
+underlie familial primary localized cutaneous amyloidosis. Am. J.
+Hum. Genet. 82: 73-80, 2008.
+
+2. Dillon, S. R.; Sprecher, C.; Hammond, A.; Bilsborough, J.; Rosenfeld-Franklin,
+M.; Presnell, S. R.; Haugen, H. S.; Maurer, M.; Harder, B.; Johnston,
+J.; Bort, S.; Mudri, S.; and 18 others: Interleukin 31, a cytokine
+produced by activated T cells, induces dermatitis in mice. Nature
+Immun. 5: 752-760, 2004. Note: Erratum: Nature Immun. 6: 114 only,
+2005.
+
+3. Lin, M.-W.; Lee, D.-D.; Liu, T.-T.; Lin, Y.-F.; Chen, S.-Y.; Huang,
+C.-C.; Weng, H.-Y.; Liu, Y.-F.; Tanaka, A.; Arita, K.; Lai-Cheong,
+J.; Palisson, F.; Chang, Y.-T.; Wong, C.-K.; Matsuura, I.; McGrath,
+J. A.; Tsai, S.-F.: Novel IL31RA gene mutation and ancestral OSMR
+mutant allele in familial primary cutaneous amyloidosis. Europ. J.
+Hum. Genet. 18: 26-32, 2010.
+
+4. Mosley, B.; De Imus, C.; Friend, D.; Boiani, N.; Thoma, B.; Park,
+L. S.; Cosman, D.: Dual oncostatin M (OSM) receptors. J. Biol. Chem. 271:
+32635-32643, 1996.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 5/5/2011
+Victor A. McKusick - updated: 2/19/2008
+Paul J. Converse - updated: 8/1/2005
+
+CREATED Jennifer P. Macke: 4/9/1997
+
+EDITED terry: 05/05/2011
+carol: 5/5/2011
+alopez: 2/25/2008
+terry: 2/19/2008
+mgross: 8/1/2005
+carol: 2/17/1999
+alopez: 11/5/1997
+alopez: 5/5/1997
+alopez: 4/14/1997
+alopez: 4/10/1997
+
+611859	TITLE *611859 MITOCHONDRIAL RIBOSOMAL PROTEIN L55; MRPL55
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+inner membrane proteins essential for oxidative phosphorylation. MRPL55
+is a component of the large subunit of the mitochondrial ribosome that
+is encoded by the nuclear genome (Koc et al., 2001).
+
+CLONING
+
+By searching databases using bovine Mrpl55 as query, Koc et al. (2001)
+identified human MRPL55. They also identified MRPL55 homologs in mouse,
+Drosophila, and C. elegans, but not in yeast, E. coli, or Arabidopsis.
+Mouse and human MRPL55 share 71.7% amino acid identity.
+
+MAPPING
+
+Hartz (2008) mapped the MRPL55 gene to chromosome 1q42.13 based on an
+alignment of the MRPL55 sequence (GenBank GENBANK AY358771) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  3/5/2008.
+
+2. Koc, E. C.; Burkhart, W.; Blackburn, K.; Moyer, M. B.; Schlatzer,
+D. M.; Moseley, A.; Spremulli, L. L.: The large subunit of the mammalian
+mitochondrial ribosome: analysis of the complement of ribosomal proteins
+present. J. Biol. Chem. 276: 43958-43969, 2001.
+
+CREATED Patricia A. Hartz: 2/26/2008
+
+EDITED mgross: 03/05/2008
+
+605255	TITLE *605255 ETS VARIANT GENE 7; ETV7
+;;ETS TRANSCRIPTION FACTOR TEL2; TEL2;;
+TELB
+DESCRIPTION 
+DESCRIPTION
+
+The ETS (E26 transformation-specific) family of transcription factors,
+of which ETV7 is a member, is a large group of evolutionarily conserved
+transcriptional regulators that play an important role in a variety of
+cellular processes throughout development and differentiation, and are
+involved in oncogenesis as well (Potter et al., 2000).
+
+CLONING
+
+Potter et al. (2000) sequenced cDNA clones corresponding to a novel ETS
+gene from an activated T-cell cDNA library, as well as from breast
+tissue and meningioma cDNA libraries. The cDNA, which the authors
+designated TEL2, encodes a deduced 341-amino acid protein that shares
+38% sequence identity with TEL1 (ETV6; 600618). TEL2 contains a
+C-terminal ETS domain and an N-terminal PNT domain, which is thought to
+mediate protein-protein interactions. Northern blot analysis revealed
+expression of TEL2 mRNA predominantly in hematopoietic tissues; a
+predominant band of approximately 1.2 kb was present in fetal liver and
+bone marrow and was faintly present in peripheral blood leukocytes.
+Using antibodies raised against the C terminus of the TEL2 protein,
+Potter et al. (2000) showed that TEL2 localizes to the nucleus. The
+striking similarities of TEL2 to TEL1, its expression in hematopoietic
+tissues, and its ability to associate with TEL1 suggested that TEL2 may
+be an important hematopoietic regulatory protein.
+
+Poirel et al. (2000) identified the TELB gene by comparison of the TEL
+sequence with genomic sequence databases. Northern blot analysis
+detected ubiquitous expression of TELB.
+
+GENE STRUCTURE
+
+Potter et al. (2000) determined that the TEL2 gene contains 8 exons
+spanning approximately 21 kb.
+
+MAPPING
+
+By fluorescence in situ hybridization and by inclusion within a PAC
+clone, Potter et al. (2000) mapped the TEL2 gene to chromosome 6p21.
+
+Poirel et al. (2000) mapped the TELB gene to 6p21 by genomic sequence
+analysis.
+
+REFERENCE 1. Poirel, H.; Lopez, R. G.; Lacronique, V.; Valle, V. D.; Mauchauffe,
+M.; Berger, R.; Ghysdael, J.; Bernard, O. A.: Characterization of
+a novel ETS gene, TELB, encoding a protein structurally and functionally
+related to TEL. Oncogene 19: 4802-4806, 2000.
+
+2. Potter, M. D.; Buijs, A.; Kreider, B.; van Rompaey, L.; Grosveld,
+G. C.: Identification and characterization of a new human ETS-family
+transcription factor, TEL2, that is expressed in hematopoietic tissues
+and can associate with TEL1/ETV6. Blood 95: 3341-3348, 2000.
+
+CONTRIBUTORS Victor A. McKusick - updated: 1/9/2001
+
+CREATED Victor A. McKusick: 9/11/2000
+
+EDITED mgross: 01/12/2012
+terry: 1/11/2012
+alopez: 7/17/2009
+mcapotos: 1/22/2001
+mcapotos: 1/16/2001
+terry: 1/9/2001
+carol: 9/11/2000
+
+604708	TITLE *604708 NUCLEAR FACTOR OF ACTIVATED T CELLS 5; NFAT5
+;;TONICITY-RESPONSIVE ENHANCER-BINDING PROTEIN; TONEBP;;
+NFAT-LIKE PROTEIN 1; NFATL1;;
+KIAA0827
+DESCRIPTION 
+CLONING
+
+Tonicity-responsive enhancers (TonEs) in kidney medulla cells play a key
+role in hypertonicity-induced transcriptional stimulation of
+sodium/myoinositol cotransporter (SLC5A3; 600444),
+sodium/chloride/betaine cotransporter (SLC6A12; 603080), and aldose
+reductase (AKR1B1; 103880). Using a yeast 1-hybrid strategy followed by
+screening of a HeLa cDNA library, Miyakawa et al. (1999) obtained a cDNA
+encoding NFAT5, which they called TONEBP (TonE-binding protein). By
+searching an EST database for sequences related to NFATC family members
+(e.g., NFATC1; 600489), Lopez-Rodriguez et al. (1999) also isolated a
+cDNA encoding NFAT5. The 1,455-amino acid NFAT5 protein contains a
+region near the N terminus that has high homology to the Rel-like
+DNA-binding domain of the NFATC family. However, NFAT5 lacks the
+N-terminal sequence that functions as an interface for calcineurin (see
+114105) and regulatory kinases. Northern blot analysis detected an
+approximately 13-kb NFAT5 transcript that was ubiquitously expressed. By
+electrophoretic mobility shift analyses, Miyakawa et al. (1999) showed
+that the NFAT5 Rel region binds to TonE DNA, and Lopez-Rodriguez et al.
+(1999) showed that it binds to sequences similar to those preferred by
+NFATC1, but not to FOS (164810) or JUN (165160). Western blot analysis
+detected expression of a 200-kD NFAT5 protein in a kidney cell line
+(Lopez-Rodriguez et al., 1999). By immunostaining, Miyakawa et al.
+(1999) showed that NFAT5 is present in both cytoplasm and nucleus of
+isotonic kidney cells, but is found predominantly in the nucleus of
+cells cultured in hypertonic medium; Lopez-Rodriguez et al. (1999)
+detected staining only in the nucleus of resting and stimulated T
+lymphocytes, HeLa cells, and myoblast cells.
+
+By Western blot analysis of mouse tissue, Trama et al. (2000) detected
+abundant expression of NFAT5, which they termed NFATL1, in thymus, with
+much lower amounts in testis, lung, and brain, and no expression in
+other tissues, including lymph nodes. Stimulated mouse splenocytes
+expressed NFAT5, whereas quiescent mouse splenocytes and T cells exposed
+to cyclosporin A or FK506 did not. Reporter gene analysis showed that
+T-cell receptor cross-linking resulted in the induction of NFAT5 in
+human Jurkat cells.
+
+GENE FUNCTION
+
+Jauliac et al. (2002) found that both NFATC2 (600490) and NFAT5 were
+expressed in invasive human ductal breast carcinomas. Using cell lines
+derived from breast and colon carcinomas, they found that these NFATs
+promoted carcinoma invasion and that their activity correlated with
+expression of alpha-6 (147556)/beta-4 (147557) integrin. The
+transcriptional activity of NFAT5 was induced by alpha-6/beta-4
+clustering in the presence of chemoattractants, resulting in enhanced
+cell migration. Jauliac et al. (2002) determined that the activity of
+NFAT5 required an intact beta-4 cytoplasmic tail.
+
+In studies in rats, Machnik et al. (2009) demonstrated that TONEBP-VEGFC
+(601528) signaling in mononuclear phagocytes is a major determinant of
+extracellular volume and blood pressure homeostasis, and is intimately
+involved in salt-induced hypertension (see 145500).
+
+Kleinewietfeld et al. (2013) demonstrated that increased salt
+concentrations found locally under physiologic conditions in vivo
+markedly boost the induction of murine and human T(H)17 cells. High-salt
+conditions activated the p38/MAPK (600289) pathway involving NFAT5 and
+serum/glucocorticoid-regulated kinase-1 (SGK1; 602958) during
+cytokine-induced T(H)17 polarization. Gene silencing or chemical
+inhibition of p38/MAPK, NFAT5, or SGK1 abrogated the high-salt-induced
+T(H)17 cell development. The T(H)17 cells generated under high-salt
+conditions displayed a highly pathogenic and stable phenotype
+characterized by the upregulation of the proinflammatory cytokines GMCSF
+(138960), TNF-alpha (191160), and IL2 (147680). Moreover, mice fed with
+a high-salt diet developed a more severe form of autoimmune
+encephalomyelitis (EAE), in line with augmented central nervous system
+infiltrating and peripherally induced antigen-specific T(H)17 cells.
+Thus, Kleinewietfeld et al. (2013) suggested that increased dietary salt
+intake might represent an environmental risk factor for the development
+of autoimmune diseases through the induction of pathogenic T(H)17 cells.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the NFAT5
+gene, which they called KIAA0827, to chromosome 16. Hebinck et al.
+(2000) mapped the NFAT5 gene to chromosome 16q22.1 by FISH and radiation
+hybrid analysis. Using the latter method, they mapped the mouse homolog
+to chromosome 8D.
+
+ANIMAL MODEL
+
+Lopez-Rodriguez et al. (2004) found that homozygous Nfat5-deficient mice
+were genetically underrepresented after embryonic day 14.5. Surviving
+mice manifested a progressive and profound atrophy of the kidney medulla
+with impaired activation of several osmoprotective genes, including
+Akr1b1, Slc6a12, and Slc5a3. The Akr1b1 gene is controlled by a
+tonicity-responsive enhancer, which was refractory to hypertonic stress
+in fibroblasts lacking Nfat5, establishing this enhancer as a direct
+transcriptional target of NFAT5. Lopez-Rodriguez et al. (2004) concluded
+that NFAT5 is a tonicity-responsive transcription factor with a central
+role in kidney homeostasis and function.
+
+REFERENCE 1. Hebinck, A.; Dalski, A.; Engel, H.; Mattei, M.-G.; Hawken, R.;
+Schwinger, E.; Zuhlke, C.: Assignment of transcription factor NFAT5
+to human chromosome 16q22.1, murine chromosome 8D and porcine chromosome
+6p1.4 and comparison of the polyglutamine domains. Cytogenet. Cell
+Genet. 90: 68-70, 2000.
+
+2. Jauliac, S.; Lopez-Rodriguez, C.; Shaw, L. M.; Brown, L. F.; Rao,
+A.; Toker, A.: The role of NFAT transcription factors in integrin-mediated
+carcinoma invasion. Nature Cell Biol. 4: 540-544, 2002.
+
+3. Kleinewietfeld, M.; Manzel, A.; Titze, J.; Kvakan, H.; Yosef, N.;
+Linker, R. A.; Muller, D. N.; Hafler, D. A.: Sodium chloride drives
+autoimmune disease by the induction of pathogenic T(H)17 cells. Nature 496:
+518-522, 2013.
+
+4. Lopez-Rodriguez, C.; Antos, C. L.; Shelton, J. M.; Richardson,
+J. A.; Lin, F.; Novobrantseva, T. I.; Bronson, R. T.; Igarashi, P.;
+Rao, A.; Olson, E. N.: Loss of NFAT5 results in renal atrophy and
+lack of tonicity-responsive gene expression. Proc. Nat. Acad. Sci. 101:
+2392-2397, 2004.
+
+5. Lopez-Rodriguez, C.; Aramburu, J.; Rakeman, A. S.; Rao, A.: NFAT5,
+a constitutively nuclear NFAT protein that does not cooperate with
+Fos and Jun. Proc. Nat. Acad. Sci. 96: 7214-7219, 1999.
+
+6. Machnik, A.; Neuhofer, W.; Jantsch, J.; Dahlmann, A.; Tammela,
+T.; Machura, K.; Park, J.-K.; Beck, F.-X.; Muller, D. N.; Derer, W.;
+Goss, J.; Ziomber, A.; and 10 others: Macrophages regulate salt-dependent
+volume and blood pressure by a vascular endothelial growth factor-C-dependent
+buffering mechanism. Nature Med. 15: 545-552, 2009.
+
+7. Miyakawa, H.; Woo, S. K.; Dahl, S. C.; Handler, J. S.; Kwon, H.
+M.: Tonicity-responsive enhancer binding protein, a Rel-like protein
+that stimulates transcription in response to hypertonicity. Proc.
+Nat. Acad. Sci. 96: 2538-2542, 1999.
+
+8. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 5: 355-364, 1998.
+
+9. Trama, J.; Lu, Q.; Hawley, R. G.; Ho, S. N.: The NFAT-related
+protein NFATL1 (TonEBP/NFAT5) is induced upon T cell activation in
+a calcineurin-dependent manner. J. Immun. 165: 4884-4894, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 05/07/2013
+Marla J. F. O'Neill - updated: 7/6/2009
+Patricia A. Hartz - updated: 3/16/2004
+Patricia A. Hartz - updated: 10/25/2002
+Paul J. Converse - updated: 2/1/2001
+
+CREATED Paul J. Converse: 3/21/2000
+
+EDITED alopez: 05/07/2013
+carol: 7/7/2009
+terry: 7/6/2009
+mgross: 3/23/2004
+terry: 3/16/2004
+mgross: 10/22/2003
+mgross: 10/25/2002
+carol: 2/12/2001
+mgross: 2/7/2001
+mcapotos: 2/1/2001
+mgross: 3/22/2000
+mgross: 3/21/2000
+
+609837	TITLE *609837 SMALL NUCLEOLAR RNA, C/D BOX, 115-1; SNORD115-1
+;;RNA, HBII-52 SMALL NUCLEOLAR;;
+snoRNA, HBII-52;;
+MBII-52, MOUSE, HOMOLOG OF
+DESCRIPTION 
+CLONING
+
+By searching for small non-mRNAs specifically expressed in mouse brain,
+followed by searching human sequence databases, Cavaille et al. (2000)
+identified SNORD115, which they called HBII-52. HBII-52 is a C/D box
+small nucleolar RNA (snoRNA) with a 5-prime C box, followed by a D-prime
+box, a C-prime box, an antisense box, and a 3-prime D box. Northern blot
+analysis detected expression of HBII-52 in human brain, but not in
+liver, muscle, lung, kidney, and heart. Cavaille et al. (2000)
+determined that HBII-52 maps to an imprinted region of chromosome 15
+associated with Angelman syndrome (AS; 105830) and Prader-Willi syndrome
+(PWS; 176270). They concluded that HBII-52 is a paternally imprinted
+gene, since it was expressed in cortex RNA from a normal control brain
+and from an AS patient with a maternally inherited deletion, but was
+absent from cortex RNA from a PWS patient with a paternally inherited
+deletion and from a mouse model of PWS.
+
+GENE FUNCTION
+
+Cavaille et al. (2000) identified an 18-nucleotide phylogenetically
+conserved region in HBII-52 complementary to a critical segment of the
+serotonin-2C receptor mRNA (HTR2C; 312861), suggesting that HBII-52 may
+have a role in processing HTR2C mRNA.
+
+The snoRNA HBII-52 is contained within the Prader-Willi deleted region
+on chromosome 15q11 and exhibits sequence complementarity to the
+alternatively spliced exon Vb of the serotonin receptor HTR2C. Kishore
+and Stamm (2006) found that HBII-52 regulates alternative splicing of
+HTR2C by binding to a silencing element in exon Vb. Prader-Willi
+syndrome patients do not express HBII-52. They have different HTR2C mRNA
+isoforms than healthy individuals. Kishore and Stamm (2006) concluded
+that a snoRNA regulates the processing of an mRNA expressed from a gene
+located on a different chromosome, and the results indicate that a
+defect in pre-mRNA processing contributes to the Prader-Willi syndrome.
+
+Using bioinformatic predictions and experimental verification, Kishore
+et al. (2010) identified 5 pre-mRNAs (DPM2, 603564; TAF1, 313650;
+RALGPS1, 614444; PBRM1, 606083; and CRHR1, 122561) containing
+alternative exons that are regulated by MBII-52, the mouse homolog of
+HBII-52. Analysis of a single member of the MBII-52 cluster of snoRNAs
+by RNase protection and Northern blot analysis showed that the MBII-52
+expressing unit generated shorter RNAs that originate from the
+full-length MBII-52 snoRNA through additional processing steps. These
+novel RNAs associated with hnRNPs and not with proteins associated with
+canonical C/D box snoRNAs. Kishore et al. (2010) concluded that not a
+traditional C/D box snoRNA MBII-52, but a processed version lacking the
+snoRNA stem, is the predominant MBII-52 RNA missing in Prader-Willi
+syndrome. This processed snoRNA functions in alternative splice site
+selection.
+
+MAPPING
+
+By genomic sequence analysis, Cavaille et al. (2000) identified 47
+tandem copies of the SNORD115 gene on chromosome 15q11-q13. The SNORD115
+copies are slightly divergent units of about 1.9 kb regularly spaced
+within a stretch of 99 kb.
+
+Runte et al. (2001) determined that HBII-52 and several other snoRNAs
+are encoded within intronic segments of the SNURF-SNRPN (182279)
+transcript. HBII-52 is located within introns between exons 63 and 144
+of SNURF-SNRPN.
+
+MOLECULAR GENETICS
+
+Runte et al. (2005) found that individuals with complete deletion of all
+copies of HBII-52 had no obvious clinical phenotype, suggesting that
+HBII-52 does not play a major role in PWS.
+
+Sato et al. (2007) reported a Japanese family in which a boy with AS and
+his asymptomatic mother and maternal grandfather all had a 1,487-kb
+deletion on chromosome 15, encompassing HBII-52. The mother was
+evaluated with regard to diagnostic criteria for PWS but the diagnosis
+was considered unlikely, suggesting that HBII-52 may not be important in
+the pathogenesis of PWS.
+
+ANIMAL MODEL
+
+In a mouse model for PWS lacking expression of Mbii-52, Doe et al.
+(2009) showed an increase in editing, but not alternative splicing, of
+the Htr2c pre-RNA. This change in posttranscriptional modification was
+associated with alterations in a number of brain serotonin-related
+behaviors, including impulsive responding, locomotor activity and
+reactivity to palatable foodstuffs. For marble burying, a behavior not
+related to brain serotonin, loss of Mbii-52 was without effect. The
+specificity of the behavioral effects to changes in Htr2c function was
+further confirmed using drug challenges. These data illustrated the
+physiologic consequences of altered RNA editing of Htr2c linked to
+Mbii-52 loss that may underlie specific aspects of the complex PWS
+phenotype and point to an important functional role for this imprinted
+snoRNA.
+
+REFERENCE 1. Cavaille, J.; Buiting, K.; Kiefmann, M.; Lalande, M.; Brannan,
+C. I.; Horsthemke, B.; Bachellerie, J.-P.; Brosius, J.; Huttenhofer,
+A.: Identification of brain-specific and imprinted small nucleolar
+RNA genes exhibiting an unusual genomic organization. Proc. Nat.
+Acad. Sci. 97: 14311-14316, 2000.
+
+2. Doe, C. M.; Relkovic, D.; Garfield, A. S.; Dalley, J. W.; Theobald,
+D. E. H.; Humby, T.; Wilkinson, L. S.; Isles, A. R.: Loss of imprinted
+snoRNA mbii-52 leads to increased 5htr2c pre-RNA editing and altered
+5HT(2C)R-mediated behaviour. Hum. Molec. Genet. 18: 2140-2148, 2009.
+
+3. Kishore, S.; Khanna, A.; Zhang, Z.; Hui, J.; Balwierz, P. J.; Stefan,
+M.; Beach, C.; Nicholls, R. D.; Zavolan, M.; Stamm, S.: The snoRNA
+MBII-52 (SNORD 115) is processed into smaller RNAs and regulates alternative
+splicing. Hum. Molec. Genet. 19: 1153-1164, 2010.
+
+4. Kishore, S.; Stamm, S.: The snoRNA HBII-52 regulates alternative
+splicing of the serotonin receptor 2C. Science 311: 230-232, 2006.
+
+5. Runte, M.; Huttenhofer, A.; Gross, S.; Kiefmann, M.; Horsthemke,
+B.; Buiting, K.: The IC-SNURF-SNRPN transcript serves as a host for
+multiple small nucleolar RNA species and as an antisense RNA for UBE3A. Hum.
+Molec. Genet. 10: 2687-2700, 2001.
+
+6. Runte, M.; Varon, R.; Horn, D.; Horsthemke, B.; Buiting, K.: Exclusion
+of the C/D box snoRNA gene cluster HBII-52 from a major role in Prader-Willi
+syndrome. Hum. Genet. 116: 228-230, 2005.
+
+7. Sato, K.; Iwakoshi, M.; Shimokawa, O.; Sakai, H.; Ohta, T.; Saitoh,
+S.; Miyake, N.; Niikawa, N.; Harada, N.; Saitsu, H.; Mizuguchi, T.;
+Matsumoto, N.: Angelman syndrome caused by an identical familial
+1,487-kb deletion. (Letter) Am. J. Med. Genet. 143A: 98-101, 2007.
+
+CONTRIBUTORS George E. Tiller - updated: 11/14/2011
+George E. Tiller - updated: 3/2/2010
+Marla J. F. O'Neill - updated: 6/26/2007
+Ada Hamosh - updated: 4/18/2006
+
+CREATED Patricia A. Hartz: 1/19/2006
+
+EDITED mgross: 01/25/2012
+carol: 11/15/2011
+terry: 11/14/2011
+wwang: 3/11/2010
+terry: 3/2/2010
+wwang: 6/26/2007
+alopez: 4/21/2006
+terry: 4/18/2006
+mgross: 1/19/2006
+

@@ -1,0 +1,3014 @@
+607536	TITLE *607536 CREB-REGULATED TRANSCRIPTION COACTIVATOR 1; CRTC1
+;;MUCOEPIDERMOID CARCINOMA-TRANSLOCATED 1; MECT1;;
+TRANSDUCER OF REGULATED cAMP RESPONSE ELEMENT-BINDING PROTEIN 1; TORC1;;
+TRANSDUCER OF REGULATED CREB 1;;
+KIAA0616;;
+FLJ14027
+MECT1/MAML2 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Ishikawa et al. (1998) cloned MECT1, which they designated
+KIAA0616. The MECT1 mRNA contains a repetitive element in the 3-prime
+UTR. Following in vitro translation, the deduced 634-amino acid protein
+had an apparent molecular mass of 75 kD by SDS-PAGE. RT-PCR detected
+highest expression in brain and kidney, intermediate expression in
+heart, lung, liver, skeletal muscle, pancreas, testis, and ovary, and
+little to no expression in spleen.
+
+By searching for genes that could activate the IL8 (146930) promoter,
+Iourgenko et al. (2003) cloned TORC1. The deduced 650-amino acid protein
+contains an N-terminal coiled-coil domain and a protein kinase A (see
+176911) phosphorylation site. TORC1 shares 32% amino acid identity with
+TORC2 (608972) and TORC3 (608986).
+
+GENE STRUCTURE
+
+Tonon et al. (2003) determined that the CRTC1 gene contains 18 exons.
+
+MAPPING
+
+Using radiation hybrid analysis, Ishikawa et al. (1998) mapped the CRTC1
+gene to chromosome 19. By sequence analysis, Tonon et al. (2003) mapped
+the CRTC1 gene to chromosome 19p13.
+
+GENE FUNCTION
+
+Using a reporter gene assay driven by the IL8 promoter in transfected
+HeLa cells, Iourgenko et al. (2003) determined that TORC1 is a strong
+IL8 activator. Mutation of the CRE-like site in the IL8 promoter
+dramatically decreased induction. TORC1 activated expression through a
+variant CRE site and through consensus CRE sites. TORC1 potently induced
+CREB1 (123810) target genes, bound CREB1, and activated expression
+through a potent transcription activation domain.
+
+Wu et al. (2006) screened a human cDNA expression library for genes that
+could activate the mouse Pgc1-alpha (PPARGC1A; 604517) promoter
+following expression in HeLa cells and identified TORC1, TORC2, and
+TORC3 as potent Pgc1-alpha activators. Forced expression of these TORCs
+in mouse primary muscle cells induced endogenous Pgc1-alpha and its
+target genes, resulting in increased mitochondrial oxidative capacity.
+
+Kovacs et al. (2007) found that Torc1 was expressed in adult mouse brain
+and cultured neurons, and that it translocated to the nucleus upon
+concomitant activation of calcium and cAMP signaling pathways. Nuclear
+translocation of Torc1 resulted in synergistic activation of
+Creb-mediated transcription, and Torc1 played a role in activation of
+brain-derived neurotrophic factor (BDNF; 113505) by calcium and cAMP.
+Torc1 was involved in late-phase long-term potentiation maintenance at
+the Schaffer collateral-CA1 synapses in the hippocampus. Kovacs et al.
+(2007) concluded that TORC1 plays a role in synaptic plasticity and
+long-term memory.
+
+Mair et al. (2011) showed that both AMPK (see 602739) and calcineurin
+(see 114105) modulate longevity exclusively through posttranslational
+modification of CRTC1, the sole C. elegans CRTC. Mair et al. (2011)
+demonstrated that CRTC1 is a direct AMPK target, and interacts with the
+CREB homolog-1 (CRH1) transcription factor in vivo. The prolongevity
+effects of activating AMPK or deactivating calcineurin decrease CRTC1
+and CRH1 activity and induce transcriptional responses similar to those
+of CRH1-null worms. Downregulation of CRTC1 increases life span in a
+CRH1-dependent manner, and directly reducing CRH1 expression increases
+longevity, substantiating a role for CRTCs and CREB in aging. Mair et
+al. (2011) concluded that their findings indicated a novel role for
+CRTCs and CREB in determining life span downstream of AMPK and
+calcineurin, and illustrated the molecular mechanisms by which an
+evolutionarily conserved pathway responds to low energy to increase
+longevity.
+
+CYTOGENETICS
+
+- MECT1/MAML2 Fusion Gene
+
+Truncation of Notch1 (190198) causes a subtype of acute leukemia
+(Ellisen et al., 1991), and activation of Notch4 (164951) is associated
+with mammary and salivary gland carcinomas of mice (Jhappan et al.,
+1992). Tonon et al. (2003) identified a mechanism for disrupting Notch
+signaling in human tumorigenesis, characterized by altered function of a
+novel human ortholog of the Drosophila Notch coactivation molecule
+Mastermind. Tonon et al. (2003) cloned the t(11;19) translocation that
+underlies the most common type of human malignant salivary gland tumor.
+This rearrangement fuses exon 1 from the MECT1 gene at 19p13 with exons
+2 to 5 of the MAML2 gene (6075357), a novel member of the
+Mastermind-like gene family, at 11q21 (Wu et al., 2002). Similar to
+Drosophila Mastermind and MAML1 (605424), full-length MAML2 functions as
+a CSL-dependent transcriptional coactivator for ligand-stimulated Notch.
+In contrast, Tonon et al. (2003) found that the MECT1-MAML2 fusion
+protein activated transcription of the Notch target gene HES1 (139605)
+independently of both Notch ligand and CSL binding sites. MECT1-MAML2
+induced loci formation in RK3E epithelial cells, confirming a biologic
+effect for the fusion product. The data suggested a novel mechanism to
+disrupt the function of a Notch coactivator in a common type of
+malignant salivary gland tumor.
+
+Conkright et al. (2003) determined that the MECT1-MAML2 fusion protein,
+which they called TORC1-MAML2, bound CREB following transfection in
+HEK293 cells. Cotransfection of the TORC1-MAML2 expression vector
+strongly induced CRE reporter activity, but MAML2 alone, which lacks a
+CREB-binding domain, had no effect.
+
+Using expression arrays, Wu et al. (2005) found that MECT1/MAML2 induced
+expression of multiple genes involved in cAMP signaling in epithelial
+cells. The transforming activity of MECT1/MAML2 required both the
+CREB-binding domain from MECT1 and the TAD domain from MAML2.
+MECT1/MAML2 recruited p300 (EP300; 602700)/CBP (CREBBP; 600140) to the
+CRE transcriptional complex, and this recruitment activity was partially
+responsible for activation of the CREB pathway and transforming
+activity. Disruption of CREB activity reduced the ability of MECT1/MAML2
+to transform RK3E rat kidney epithelial cells and suppressed growth in 2
+human MECT1/MAML2-positive MEC cell lines.
+
+ANIMAL MODEL
+
+Altarejos et al. (2008) demonstrated that CRTC1 is required for energy
+balance and reproduction. Crtc1-null mice are hyperphagic, obese, and
+infertile. Hypothalamic Crtc1 was phosphorylated and inactive in leptin
+(164160)-deficient ob/ob mice, while leptin administration increased
+amounts of dephosphorylated nuclear Crtc1. Dephosphorylated Crtc1
+stimulated expression of the Cartpt (602606) and Kiss1 (603286) genes,
+which encode hypothalamic neuropeptides that mediate leptin's effects on
+satiety and fertility. Crtc1 overexpression in hypothalamic cells
+increased Cartpt and Kiss1 gene expression, whereas Crtc1 depletion
+decreased it. Indeed, leptin enhanced Crtc1 activity over the Cartpt and
+Kiss1 promoters in cells overexpressing leptin receptor (601007), and
+these effects were disrupted by expression of a dominant-negative Creb1
+polypeptide. As leptin administration increased recruitment of
+hypothalamic Crtc1 to Cartpt and Kiss1 promoters, Altarejos et al.
+(2008) concluded that the Creb1 (123810)-Crtc1 pathway mediates the
+central effects of hormones and nutrients on energy balance and
+fertility.
+
+REFERENCE 1. Altarejos, J. Y.; Goebel, N.; Conkright, M. D.; Inoue, H.; Xie,
+J.; Arias, C. M.; Sawchenko, P. E.; Montminy, M.: The Creb1 coactivator
+Crtc1 is required for energy balance and fertility. Nature Med. 14:
+1112-1117, 2008.
+
+2. Conkright, M. D.; Canettieri, G.; Screaton, R.; Guzman, E.; Miraglia,
+L.; Hogenesch, J. B.; Montminy, M.: TORCs: transducers of regulated
+CREB activity. Molec. Cell 12: 413-423, 2003.
+
+3. Ellisen, L. W.; Bird, J.; West, D. C.; Soreng, A. L.; Reynolds,
+T. C.; Smith, S. D.; Sklar, J.: TAN-1, the human homolog of the Drosophila
+Notch gene, is broken by chromosomal translocations in T lymphoblastic
+neoplasms. Cell 66: 649-661, 1991.
+
+4. Iourgenko, V.; Zhang, W.; Mickanin, C.; Daly, I.; Jiang, C.; Hexham,
+J. M.; Orth, A. P.; Miraglia, L.; Meltzer, J.; Garza, D.; Chirn, G.-W.;
+McWhinnie, E.; and 9 others: Identification of a family of cAMP
+response element-binding protein coactivators by genome-scale functional
+analysis in mammalian cells. Proc. Nat. Acad. Sci. 100: 12147-12152,
+2003.
+
+5. Ishikawa, K.; Nagase, T.; Suyama, M.; Miyajima, N.; Tanaka, A.;
+Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. X. The complete sequences of 100 new
+cDNA clones from brain which can code for large proteins in vitro. DNA
+Res. 5: 169-176, 1998.
+
+6. Jhappan, C.; Gallahan, D.; Stahle, C.; Chu, E.; Smith, G. H.; Merlino,
+G.; Callahan, R.: Expression of an activated Notch-related int-3
+transgene interferes with cell differentiation and induces neoplastic
+transformation in mammary and salivary glands. Genes Dev. 6: 345-355,
+1992.
+
+7. Kovacs, K. A. Steullet, P.; Steinmann, M.; Do, K. Q.; Magistretti,
+P. J.; Halfon, O.; Cardinaux, J.-R.: TORC1 is a calcium- and cAMP-sensitive
+coincidence detector involved in hippocampal long-term synaptic plasticity. Proc.
+Nat. Acad. Sci. 104: 4700-4705, 2007.
+
+8. Mair, W.; Morantte, I.; Rodrigues, A. P. C.; Manning, G.; Montminy,
+M.; Shaw, R. J.; Dillin, A.: Lifespan extension induced by AMPK and
+calcineurin is mediated by CRTC-1 and CREB. Nature 470: 404-408,
+2011.
+
+9. Tonon, G.; Modi, S.; Wu, L.; Kubo, A.; Coxon, A. B.; Komiya, T.;
+O'Neil, K.; Stover, K.; El-Naggar, A.; Griffin, J. D.; Kirsch, I.
+R.; Kaye, F. J.: t(11;19)(q21;p13) translocation in mucoepidermoid
+carcinoma creates a novel fusion product that disrupts a Notch signaling
+pathway. Nature Genet. 33: 208-213, 2003. Note: Erratum: Nature
+Genet. 33: 430 only, 2003.
+
+10. Wu, L.; Liu, J.; Gao, P.; Nakamura, M.; Cao, Y.; Shen, H.; Griffin,
+J. D.: Transforming activity of MECT1-MAML2 fusion oncoprotein is
+mediated by constitutive CREB activation. EMBO J. 24: 2391-2402,
+2005.
+
+11. Wu, L.; Sun, T.; Kobayashi, K.; Gao, P.; Griffin, J. D.: Identification
+of a family of mastermind-like transcriptional coactivators for mammalian
+Notch receptors. Molec. Cell. Biol. 22: 7688-7700, 2002.
+
+12. Wu, Z.; Huang, X.; Feng, Y.; Handschin, C.; Feng, Y.; Gullicksen,
+P. S.; Bare, O.; Labow, M.; Spiegelman, B.; Stevenson, S. C.: Transducer
+of regulated CREB-binding proteins (TORCs) induce PGC-1-alpha transcription
+and mitochondrial biogenesis in muscle cells. Proc. Nat. Acad. Sci. 103:
+14379-14384, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/31/2013
+Ada Hamosh - updated: 6/29/2011
+Ada Hamosh - updated: 11/12/2008
+Patricia A. Hartz - updated: 5/1/2007
+Patricia A. Hartz - updated: 2/1/2007
+Patricia A. Hartz - updated: 10/21/2004
+
+CREATED Victor A. McKusick: 1/31/2003
+
+EDITED mgross: 11/07/2013
+mcolton: 11/1/2013
+mcolton: 10/31/2013
+carol: 11/22/2011
+alopez: 7/5/2011
+terry: 6/29/2011
+alopez: 3/31/2011
+terry: 3/29/2011
+wwang: 1/14/2011
+terry: 1/5/2011
+wwang: 12/27/2010
+terry: 12/3/2010
+alopez: 11/19/2008
+terry: 11/12/2008
+mgross: 10/27/2008
+alopez: 7/23/2008
+terry: 7/11/2008
+wwang: 5/1/2007
+mgross: 2/1/2007
+mgross: 10/21/2004
+tkritzer: 7/10/2003
+alopez: 5/16/2003
+alopez: 5/15/2003
+alopez: 1/31/2003
+
+602055	TITLE *602055 INSULIN-INDUCED GENE 1; INSIG1
+;;CL6, RAT, HOMOLOG OF
+DESCRIPTION 
+CLONING
+
+By subtractive hybridization and differential screening following
+induction by insulin, Diamond et al. (1993) identified a 'delayed-early
+gene,' designated CL-6, from the rat H35 cell line. The deduced
+256-amino acid rat protein is highly hydrophobic. CL-6 is the most
+highly insulin-induced gene in H35 cells. Northern blot analysis showed
+that CL-6 is expressed in normal liver and kidney as well as in
+regenerating liver. Peng et al. (1997) isolated a human gene that they
+designated insulin-induced gene-1 (INSIG1). They found it to share 80%
+identity with the rat CL-6 gene within the translated region.
+
+By PCR of a HepG2 cell cDNA library, Yang et al. (2002) obtained a cDNA
+encoding INSIG1. The deduced 277-amino acid protein has at least 6
+membrane spanning regions and differs from the sequence reported by Peng
+et al. (1997) at residues 27 (ala vs thr), 31 (ala vs pro), 32 (ala vs
+pro), 99 (ala vs thr), 170 (val vs gly), and 172 (val vs gly). The human
+INSIG1 protein is 84.6% and 84.2% identical to rat and mouse Insig1,
+respectively. Northern blot analysis detected expression of INSIG1 in
+all tissues tested, with high expression in liver. Immunofluorescence of
+epitope-tagged INSIG1 in stably transfected CHO cells showed an
+endoplasmic reticulum (ER) localization when the cells were cultured in
+either the absence or presence of sterols.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation and tandem mass spectrometry, Yang et al.
+(2002) identified INSIG1 as an ER protein that binds the sterol-sensing
+domain of SREBP (see 184756) cleavage-activating protein (SCAP; 601510)
+and facilitates retention of the SCAP/SREBP complex in the ER. In
+sterol-depleted cells, SCAP escorts SREBPs from ER to Golgi for
+proteolytic processing, thereby allowing SREBPs to stimulate cholesterol
+synthesis. Using blue native-PAGE, Yang et al. (2002) showed that
+sterols induce binding of SCAP to INSIG1, and this binding was
+correlated with the inhibition of SCAP exit from the ER. Overexpression
+of INSIG1 increased the sensitivity of cells to sterol-mediated
+inhibition of SREBP processing. Mutant SCAP (tyr298 to cys) failed to
+bind INSIG1 and was resistant to sterol-mediated inhibition of ER exit.
+The authors concluded that by facilitating sterol-dependent ER retention
+of SCAP, INSIG1 plays a central role in cholesterol homeostasis.
+
+Sever et al. (2003) showed that degradation of HMG-CoA reductase
+(142910) is accelerated by the sterol-induced binding of its
+sterol-sensing domain to the ER protein INSIG1. Accelerated degradation
+was inhibited by overexpression of the sterol-sensing domain of SCAP,
+suggesting that both proteins bind to the same site on INSIG1. Whereas
+INSIG1 binding to SCAP led to ER retention, INSIG1 binding to HMG-CoA
+reductase led to accelerated degradation that could be blocked by
+proteasome inhibitors. The authors concluded that INSIG1 plays an
+essential role in the sterol-mediated trafficking of HMG-CoA reductase
+and SCAP.
+
+Song et al. (2005) found that rodent Gp78 (AMFR; 603243), a
+membrane-bound E3 ubiquitin ligase, associated with Insig1. Insig1 bound
+the membrane domain of Gp78 in the absence or presence of sterols, and
+upon addition of sterols, HMG-CoA reductase was recruited to the
+complex. Knockdown of Gp78 by RNA interference prevented
+sterol-dependent ubiquitination and degradation of endogenous reductase.
+Vcp (601023), an ATPase that participates in postubiquitination steps of
+ER-associated degradation and is required for reductase degradation,
+indirectly associated with Insig1 by binding Gp78. The results
+identified GP78 as a ubiquitin ligase that initiates sterol-dependent
+degradation of HMG-CoA reductase, and INSIG1 as the bridge between
+GP78/VCP and the reductase substrate.
+
+Li et al. (2003) presented experimental results suggesting that INSIG1
+expression restricts lipogenesis in mature adipocytes and blocks
+differentiation in preadipocytes. They examined gene expression in the
+fat tissue of normal mice at the onset of diet-induced obesity. INSIG1
+mRNA rose progressively with a high-fat diet and declined on a
+restricted diet. Transfection of mouse or human INSIG1 into 3T3-L1
+preadipocytes completely prevented oil red O staining and blocked
+upregulation of adipocyte fatty acid-binding protein-2 (FABP2; 134640),
+peroxisome proliferator-activated receptor gamma-2 (PPARG2; see 601487),
+and carbohydrate response element-binding protein, while reducing
+downregulation of preadipocyte factor-1 (PREF1; 176290).
+
+Asp205 in INSIG1 and asp149 in INSIG2 are conserved residues that abut
+the fourth transmembrane helix at the cytosolic side of the ER membrane.
+Gong et al. (2006) found that mutation of these residues to alanine
+resulted in INSIG proteins that were unable to bind SCAP and suppress
+cleavage of SREBPs. The mutant INSIGs were also ineffective in
+accelerating sterol-stimulated degradation of HMG CoA reductase.
+
+MAPPING
+
+By fluorescence in situ hybridization, Peng et al. (1997) mapped the
+INSIG1 gene to chromosome 7q36.
+
+ANIMAL MODEL
+
+Takaishi et al. (2004) infected Zucker diabetic fatty rats (see 601007)
+with recombinant adenovirus containing Insig1 or Insig2 (608660) cDNA.
+Triacylglycerols in the liver and plasma of control diabetic rats rose
+steeply, whereas the Insig-infected rats exhibited substantial
+attenuation of hepatic steatosis and hyperlipidemia. Insig
+overexpression was also associated with a reduction in the elevated
+level of nuclear Srebp1c and reduced expression of Srebp1c lipogenic
+target enzymes. In normal animals, overexpression of the Insigs reduced
+the increase in Srebp1c mRNA and its target enzymes caused by refeeding.
+Takaishi et al. (2004) concluded that both Insigs have antilipogenic
+action.
+
+Engelking et al. (2005) found that, whereas cholesterol feeding reduced
+nuclear Srebps and lipogenic mRNAs in wildtype mice, this feedback
+response was severely blunted in Insig1/Insig2 double-knockout mice, and
+synthesis of cholesterol and fatty acids was not repressed.
+
+In cortical neuron culture, Taghibiglou et al. (2009) found that
+activation of NMDA receptors resulted in increased activation and
+nuclear accumulation of SREBP1. The activation was primarily mediated by
+the NR2B (138252) subunit-containing receptor. Inhibition of
+NMDAR-dependent SREBP1 activation by cholesterol decreased NMDA-induced
+excitotoxic cell death. Similarly, shRNA against SREBP1 also resulted in
+decreased cell death in culture. These findings implicated SREBP1 as a
+mediator of NMDA-induced excitotoxicity. NMDAR-mediated activation of
+SREBP1 was shown to result from increased Insig1 degradation, which
+could be inhibited with an interference peptide. In a rat model of focal
+ischemic stroke, systemic administration of the INSIG1 interference
+peptide prevented SREBP1 activation, substantially reduced neuronal
+damage, and improved behavioral outcome.
+
+REFERENCE 1. Diamond, R. H.; Du, K.; Lee, V. M.; Mohn, K. L.; Haber, B. A.;
+Tewari, D. S.; Taub, R.: Novel delayed-early and highly insulin-induced
+growth response genes: identification of HRS, a potential regulator
+of alternative pre-mRNA splicing. J. Biol. Chem. 268: 15185-15192,
+1993.
+
+2. Engelking, L. J.; Liang, G.; Hammer, R. E.; Takaishi, K.; Kuriyama,
+H.; Evers, B. M.; Li, W.-P.; Horton, J. D.; Goldstein, J. L.; Brown,
+M. S.: Schoenheimer effect explained--feedback regulation of cholesterol
+synthesis in mice mediated by Insig proteins. J. Clin. Invest. 115:
+2489-2498, 2005.
+
+3. Gong, Y.; Lee, J. N.; Brown, M. S.; Goldstein, J. L.; Ye, J.:
+Juxtamembranous aspartic acid in Insig-1 and Insig-2 is required for
+cholesterol homeostasis. Proc. Nat. Acad. Sci. 103: 6154-6159, 2006.
+
+4. Li, J.; Takaishi, K.; Cook, W.; McCorkle, S. K.; Unger, R. H.:
+Insig-1 brakes lipogenesis in adipocytes and inhibits differentiation
+of preadipocytes. Proc. Nat. Acad. Sci. 100: 9476-9481, 2003.
+
+5. Peng, Y.; Schwarz, E. J.; Lazar, M. A.; Genin, A.; Spinner, N.
+B.; Taub, R.: Cloning, human chromosomal assignment, and adipose
+and hepatic expression of the CL-6/INSIG1 gene. Genomics 43: 278-284,
+1997.
+
+6. Sever, N.; Yang, T.; Brown, M. S.; Goldstein, J. L.; DeBose-Boyd,
+R. A.: Accelerated degradation of HMG CoA reductase mediated by binding
+of insig-1 to its sterol-sensing domain. Molec. Cell 11: 25-33,
+2003.
+
+7. Song, B.-L.; Sever, N.; DeBose-Boyd, R. A.: Gp78, a membrane-anchored
+ubiquitin ligase, associates with Insig-1 and couples sterol-regulated
+ubiquitination to degradation of HMG CoA reductase. Molec. Cell 19:
+829-840, 2005.
+
+8. Taghibiglou, C.; Martin, H. G. S.; Lai, T. W.; Cho, T.; Prasad,
+S.; Kojic, L.; Lu, J.; Liu, Y.; Lo, E.; Zhang, S.; Wu, J. Z. Z.; Li,
+Y. P.; Wen, Y. H.; Imm, J.-H.; Cynader, M. S.; Wang, Y. T.: Role
+of NMDA receptor-dependent activation of SREBP1 in excitotoxic and
+ischemic neuronal injuries. Nature Med. 15: 1399-1406, 2009.
+
+9. Takaishi, K.; Duplomb, L.; Wang, M.-Y.; Li, J.; Unger, R. H.:
+Hepatic insig-1 or -2 overexpression reduces lipogenesis in obese
+Zucker diabetic fatty rats and in fasted/refed normal rats. Proc.
+Nat. Acad. Sci. 101: 7106-7111, 2004.
+
+10. Yang, T.; Espenshade, P. J.; Wright, M. E.; Yabe, D.; Gong, Y.;
+Aebersold, R.; Goldstein, J. L.; Brown, M. S.: Crucial step in cholesterol
+homeostasis: sterols promote binding of SCAP to INSIG-1, a membrane
+protein that facilitates retention of SREBPs in ER. Cell 110: 489-500,
+2002.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 12/17/2009
+Patricia A. Hartz - updated: 9/26/2007
+Patricia A. Hartz - updated: 6/14/2006
+Patricia A. Hartz - updated: 10/26/2005
+Patricia A. Hartz - updated: 6/17/2004
+Victor A. McKusick - updated: 9/15/2003
+Stylianos E. Antonarakis - updated: 4/22/2003
+Stylianos E. Antonarakis - updated: 9/10/2002
+
+CREATED Victor A. McKusick: 10/15/1997
+
+EDITED wwang: 01/06/2010
+ckniffin: 12/17/2009
+mgross: 9/26/2007
+carol: 6/15/2007
+mgross: 6/14/2006
+terry: 6/14/2006
+mgross: 10/26/2005
+carol: 3/9/2005
+mgross: 6/28/2004
+terry: 6/17/2004
+cwells: 9/15/2003
+mgross: 4/22/2003
+mgross: 9/10/2002
+mark: 10/15/1997
+
+611665	TITLE *611665 DEAD/H BOX 54; DDX54
+;;DEAD BOX RNA HELICASE, 97-KD; DP97
+DESCRIPTION 
+DESCRIPTION
+
+DEAD box family members, including DDX54, are putative ATP-dependent RNA
+helicases that play important roles in a variety of cellular processes
+including cell development, differentiation, and proliferation. The name
+of the gene family is derived from the amino acid sequence
+Asp-Glu-Ala-Asp (DEAD), one of at least 8 highly conserved motifs shared
+by the family members. See also DDX8 (600396).
+
+CLONING
+
+By yeast 2-hybrid screening of human breast cancer cells using
+antiestrogen-liganded ER-alpha (ESR1; 133430) as bait, followed by
+screening a human muscle cDNA library, Rajendran et al. (2003) cloned
+DDX54, which they called DP97. The deduced 865-amino acid protein has a
+calculated molecular mass of 97 kD. DDX54 contains 2 bipartite nuclear
+localization signals, 3 nuclear receptor boxes (LXXLL motifs), a
+potential CoRNR box, and several stretches of glutamate and lysine
+residues. Northern blot analysis detected a 3.1-kb transcript and a
+minor 4.3-kb transcript in several human cancer cell lines and in all
+tissues examined, with highest expression in pancreas and lung.
+Immunocytochemical studies localized DDX54 to the nucleus where it was
+distributed throughout the nucleoplasm and concentrated at the nucleoli.
+DDX54 colocalized with ER-alpha to speckled structures in the
+nucleoplasm.
+
+GENE FUNCTION
+
+Rajendran et al. (2003) showed that DDX54 displayed ATP-dependent RNA
+helicase activity. In vitro binding and yeast 2-hybrid analysis showed
+stronger interaction for antiestrogen-liganded ER-alpha than for
+estradiol-liganded ER-alpha. In DDX54-transfected Chinese hamster ovary
+(CHO) cells, transactivation assays demonstrated that DDX54 repressed
+ER-alpha transcriptional activity, and DDX54 also displayed nuclear
+receptor corepressor activity against ER-beta (ESR2; 601663),
+progesterone (PGR; 607311), glucocorticoid (GCCR; 138040), and RARA
+(180240). Deletion studies and Gal4 fusion studies showed that DDX54
+amino acids 589-631 function as the transcriptional repression domain
+and that the C-terminal DDX54 amino acids 664-865 interact with the
+C-terminal portion of nuclear receptors. Both antisense and siRNA
+knockdown of DDX54 caused an increase in ER transcriptional activity and
+expression of estradiol-stimulated genes.
+
+MAPPING
+
+By genomic sequence analysis, Rajendran et al. (2003) mapped the DDX54
+gene to chromosome 12q22-q23.
+
+REFERENCE 1. Rajendran, R. R.; Nye, A. C.; Frasor, J.; Balsara, R. D.; Martin,
+P. G. V.; Katzenellenbogen, B. S.: Regulation of nuclear receptor
+transcriptional activity by a novel DEAD box RNA helicase (DP97). J.
+Biol. Chem. 278: 4628-4638, 2003.
+
+CREATED Dorothy S. Reilly: 12/12/2007
+
+EDITED wwang: 12/12/2007
+
+601311	TITLE *601311 STEROL O-ACYLTRANSFERASE 2; SOAT2
+;;ACYL-CoA:CHOLESTEROL ACYLTRANSFERASE 2; ACACT2;;
+ACAT2
+DESCRIPTION 
+DESCRIPTION
+
+Acyl-CoA:cholesterol acyltransferase (ACAT; EC 2.3.1.26), also known as
+sterol O-acyltransferase (SOAT), catalyzes the formation of cholesterol
+esters from long-chain fatty acyl CoA and cholesterol (Chang et al.,
+1997).
+
+CLONING
+
+The esterification of intracellular sterol by the membrane-bound SOAT1
+enzyme (102642) is a critical determinant of eukaryotic cell membrane
+fluidity and function. Using a consensus sequence found in human and
+yeast sterol O-acyltransferase genes, Yang et al. (1996) cloned the
+partial sequence of a second distinct human gene of the SOAT family
+(GenBank GENBANK R07932). The second human gene, designated SOAT2,
+shares 47% identity with the gene encoding human SOAT1 as well as with 2
+yeast sterol O-acyltransferase genes.
+
+MAPPING
+
+The human SOAT2 gene maps to chromosome 12q13 (Cases et al., 1998; Lee
+et al., 2000).
+
+Song et al. (2001) found that the ACAT2 gene is linked to the
+insulin-like growth factor binding protein-6 gene (IGFBP6; 146735) in a
+head-to-tail manner with a small intergenic region of about 1.2 kb.
+
+GENE STRUCTURE
+
+Song et al. (2001) determined that the ACAT2 gene spans over 18 kb and
+contains 15 exons. The 5-prime flanking region of the gene contains many
+cis-acting elements for multiple transcriptional regulatory factors but
+lacks TATA and CCAAT boxes.
+
+ANIMAL MODEL
+
+Deficiency of Soat2 (Acat2) in mice results in a reduction in
+cholesterol ester synthesis in the small intestine and liver, which in
+turn limits intestinal cholesterol absorption, hepatic cholesterol
+gallstone formation, and the accumulation of cholesterol esters in the
+plasma lipoproteins. Willner et al. (2003) examined the contribution of
+Soat2-derived cholesterol esters to atherosclerosis by crossing
+Soat2-deficient mice with apolipoprotein E (Apoe; 107741)-deficient
+mice, an atherosclerosis-susceptible strain that has impaired
+apoE-mediated clearance of apoB (107730)-containing lipoproteins. Doubly
+deficient mice and Soat2 +/+/apoE -/- control mice had similar
+elevations of plasma apoB and total plasma lipids; however, the lipid
+cores of the apoB-containing lipoproteins in doubly-null mice contained
+primarily triglycerides rather than cholesterol esters. At 30 weeks of
+age, only the control mice had significant atherosclerosis, which was
+nearly absent in doubly-null mice. The results demonstrated the crucial
+role of Soat2-derived cholesterol esters in the development of
+atherosclerosis in mice and suggested that triglyceride-rich
+apoB-containing lipoproteins are not as atherogenic as those containing
+cholesterol esters. The results also supported the rationale of
+pharmacologic inhibition of SOAT2 as a therapy for atherosclerosis.
+
+REFERENCE 1. Cases, S.; Novak, S.; Zheng, Y.-W.; Myers, H. M.; Lear, S. R.;
+Sande, E.; Welch, C. B.; Lusis, A. J.; Spencer, T. A.; Krause, B.
+R.; Erickson, S. K.; Farese, R. V., Jr.: ACAT-2, a second mammalian
+acyl-CoA:cholesterol acyltransferase: its cloning, expression, and
+characterization. J. Biol. Chem. 273: 26755-26764, 1998.
+
+2. Chang, T. Y.; Chang, C. C. Y.; Cheng, D.: Acyl-coenzyme A:cholesterol
+acyltransferase. Annu. Rev. Biochem. 66: 613-638, 1997.
+
+3. Lee, H.; Choi, E.; Seomun, Y.; Montgomery, K.; Huebner, A.; Lee,
+E.; Lau, S.; Joo, C.-K.; Kucherlapati, R.; Yoon, S.-J. K.: High-resolution
+transcript map of the region spanning D12S1629 and D12S312 at chromosome
+12q13: triple A syndrome-linked region. Genome Res. 10: 1561-1567,
+2000.
+
+4. Song, B.-L.; Qi, W.; Yang, X.-Y.; Chang, C. C. Y.; Zhu, J.-Q.;
+Chang, T.-Y.; Li, B.-L.: Organization of human ACAT-2 gene and its
+cell-type-specific promoter activity. Biochem. Biophys. Res. Commun. 282:
+580-588, 2001.
+
+5. Willner, E. L.; Tow, B.; Buhman, K. K.; Wilson, M.; Sanan, D. A.;
+Rudel, L. L.; Farese, R. V., Jr.: Deficiency of acyl CoA:cholesterol
+acyltransferase 2 prevents atherosclerosis in apolipoprotein E-deficient
+mice. Proc. Nat. Acad. Sci. 100: 1262-1267, 2003.
+
+6. Yang, H.; Bard, M.; Bruner, D. A.; Gleeson, A.; Deckelbaum, R.
+J.; Aljinovic, G.; Pohl, T. M.; Rothstein, R.; Sturley, S. L.: Sterol
+esterification in yeast: a two-gene process. Science 272: 1353-1356,
+1996.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 11/30/2004
+Anne M. Stumpf - updated: 8/28/2003
+
+CREATED Mark H. Paalman: 6/17/1996
+
+EDITED terry: 04/05/2005
+carol: 11/30/2004
+carol: 2/25/2004
+alopez: 8/28/2003
+alopez: 3/23/1999
+terry: 7/15/1996
+mark: 6/17/1996
+terry: 6/17/1996
+mark: 6/17/1996
+
+604178	TITLE *604178 RIBOSOMAL PROTEIN L18A; RPL18A
+DESCRIPTION 
+CLONING
+
+The mammalian ribosome is composed of 4 RNA species (see 180450) and
+approximately 80 different proteins (see 180466). Adams et al. (1992)
+isolated an RPL18A cDNA as a human brain EST. The complete coding
+sequence of the human RPL18A gene has been deposited in GenBank (GENBANK
+L05093). The deduced RPL18A protein has 176 amino acids.
+
+MAPPING
+
+By somatic cell hybrid and radiation hybrid mapping analyses, Kenmochi
+et al. (1998) mapped the human RPL18A gene to 19p.
+
+REFERENCE 1. Adams, M. D.; Dubnick, M.; Kerlavage, A. R.; Moreno, R.; Kelley,
+J. M.; Utterback, T. R.; Nagle, J. W.; Fields, C.; Venter, J. C.:
+Sequence identification of 2,375 human brain genes. Nature 355:
+632-634, 1992. Note: Comment: Nature 357: 367-368, 1992.
+
+2. Kenmochi, N.; Kawaguchi, T.; Rozen, S.; Davis, E.; Goodman, N.;
+Hudson, T. J.; Tanaka, T.; Page, D. C.: A map of 75 human ribosomal
+protein genes. Genome Res. 8: 509-523, 1998.
+
+CREATED Patti M. Sherman: 9/21/1999
+
+EDITED mgross: 02/06/2003
+psherman: 12/7/1999
+mgross: 9/23/1999
+psherman: 9/21/1999
+
+601786	TITLE *601786 PHOSPHOMANNOMUTASE 1; PMM1
+DESCRIPTION 
+CLONING
+
+Matthijs et al. (1997) cloned a cDNA encoding phosphomannomutase (EC
+5.4.2.8), the human homolog of SEC53 or yeast phosphomannomutase from a
+liver cDNA library. The deduced 262-amino acid protein has a predicted
+molecular mass of 29 kD and shares 54% sequence identity with yeast
+phosphomannomutase. Expression of the human cDNA in Escherichia coli
+yielded an active phosphomannomutase that was purified to homogeneity.
+Northern blot analysis of human tissues showed strong expression in
+liver, heart, brain, and pancreas, and a lower expression in skeletal
+muscle.
+
+Wada and Sakamoto (1997) cloned the PMM1 gene from a human placenta cDNA
+library.
+
+See also PMM2 (601785).
+
+MAPPING
+
+By use of hybrid cell lines and fluorescence in situ hybridization,
+Matthijs et al. (1997) assigned the PMM1 gene to chromosome 22q13.
+
+Wada and Sakamoto (1997) assigned the PMM1 gene to chromosome 22q13 by
+fluorescence in situ hybridization.
+
+REFERENCE 1. Matthijs, G.; Schollen, E.; Pirard, M.; Budarf, M. L.; Van Schaftingen,
+E.; Cassiman, J.-J.: PMM (PMM1), the human homologue of SEC53 or
+yeast phosphomannomutase, is localized on chromosome 22q13. Genomics 40:
+41-47, 1997.
+
+2. Wada, Y.; Sakamoto, M.: Isolation of the human phosphomannomutase
+gene (PMM1) and assignment to chromosome 22q13. Genomics 39: 416-417,
+1997.
+
+CONTRIBUTORS Jennifer P. Macke - updated: 1/16/1998
+
+CREATED Victor A. McKusick: 4/30/1997
+
+EDITED carol: 04/18/2007
+dholmes: 1/16/1998
+dholmes: 1/6/1998
+mark: 4/30/1997
+
+606428	TITLE *606428 UDP-GLYCOSYLTRANSFERASE 1 FAMILY, POLYPEPTIDE A3; UGT1A3
+;;UGT1C
+DESCRIPTION 
+DESCRIPTION
+
+Enzymes of the UDP glycosyltransferase (UGT; EC 2.4.1.17) superfamily
+covalently link glycosyl groups to lipophilic substrates. UGT1A enzymes,
+such as UGT1A3, efficiently use UDP-glucuronic acid as the glycosyl
+donor and are invaluable in detoxifying both endogenous and foreign
+chemicals, because the glycosylated chemical is more water soluble and
+therefore more readily excreted. Several UGT1A enzymes, including
+UGT1A3, are encoded by the UGT1A gene complex on chromosome 2q37. Within
+this complex, 9 viable first exons are independently spliced to 4 common
+exons to generate 9 UGT1A transcripts with unique 5-prime ends and
+identical 3-prime ends. UGT1A3, like each first exon within the UGT1A
+gene complex, is considered a unique gene linked to the 4 common exons
+(Gong et al., 2001; Mackenzie et al., 2005). See 191740 for further
+information on the UGT1A gene complex.
+
+CLONING
+
+By screening a colon cDNA library, followed by RT-PCR of liver mRNA,
+Mojarrabi et al. (1996) obtained a cDNA encoding UGT1A3. The deduced
+534-amino acid protein has 5 potential N-glycosylation sites and its
+first exon is identical to that of UGT1 exon 1c (Ritter et al., 1992).
+Expression in COS-7 cells revealed a major protein of 55 kD. By RT-PCR
+analysis, Mojarrabi et al. (1996) detected expression of UGT1A3 in human
+liver and colon.
+
+GENE FUNCTION
+
+Expression of UGT1A3 in COS-7 cells by Mojarrabi et al. (1996) revealed
+glucuronidation activity toward estrone, 2-hydroxyestrone, and
+metabolites of benzo[a]pyrene.
+
+MAPPING
+
+Using DNA probes prepared from the 5-prime terminal portion of 4 cDNA
+clones for UGT1 and a sequence common to all 4 clones isolated from the
+3-prime terminal portion of one of the clones, Moghrabi et al. (1992)
+analyzed a panel of 16 human/rodent somatic cell hybrid DNAs by Southern
+blot analysis to locate the gene on chromosome 2.
+
+REFERENCE 1. Gong, Q.-H.; Cho, J. W.; Huang, T.; Potter, C.; Gholami, N.; Basu,
+N. K.; Kubota, S.; Carvalho, S.; Pennington, M. W.; Owens, I. S.;
+Popescu, N. C.: Thirteen UDP-glucuronosyltransferase genes are encoded
+at the human UGT1 gene complex locus. Pharmacogenetics 11: 357-368,
+2001.
+
+2. Mackenzie, P. I.; Bock, K. W.; Burchell, B.; Guillemette, C.; Ikushiro,
+S.; Iyanagi, T.; Miners, J. O.; Owens, I. S.; Nebert, D. W.: Nomenclature
+update for the mammalian UDP glycosyltransferase (UGT) gene superfamily. Pharmacogenet.
+Genomics 15: 677-685, 2005.
+
+3. Moghrabi, N.; Sutherland, L.; Wooster, R.; Povey, S.; Boxer, M.;
+Burchell, B.: Chromosomal assignment of human phenol and bilirubin
+UDP glucuronosyltransferase genes (UGT1A-subfamily). Ann. Hum. Genet. 56:
+81-91, 1992.
+
+4. Mojarrabi, B.; Butler, R.; Mackenzie, P. I.: cDNA cloning and
+characterization of the human UDP-glucuronosyltransferase, UGT1A3. Biochem.
+Biophys. Res. Commun. 225: 785-790, 1996.
+
+5. Ritter, J. K.; Chen, F.; Sheen, Y. Y.; Tran, H. M.; Kimura, S.;
+Yeatman, M. T.; Owens, I. S.: A novel complex locus UGT1 encodes
+human bilirubin, phenol, and other UDP glucuronosyltransferase isozymes
+with identical carboxyl termini. J. Biol. Chem. 267: 3257-3261,
+1992.
+
+CONTRIBUTORS Matthew B. Gross - updated: 04/04/2008
+
+CREATED Paul J. Converse: 10/31/2001
+
+EDITED mgross: 04/04/2008
+carol: 2/11/2008
+carol: 9/27/2006
+carol: 11/1/2001
+terry: 10/31/2001
+carol: 10/31/2001
+
+609827	TITLE *609827 PELLINO, DROSOPHILA, HOMOLOG OF, 3; PELI3
+DESCRIPTION 
+DESCRIPTION
+
+Toll-like receptors (TLRs; see 603030) and IL1R (IL1R1; 147810) are part
+of the innate immune response aimed at mobilizing defense mechanisms in
+response in infection or injury. Pellino proteins, such as PELI3, are
+intermediate components in the signaling cascades initiated by TLRs and
+IL1R (Jensen and Whitehead, 2003).
+
+CLONING
+
+By searching for sequences similar to PELI1 (614797) and PELI2 (614798),
+followed by 3-prime RACE, Jensen and Whitehead (2003) cloned 2 splice
+variants of PELI3, which they called PELI3-alpha and PELI3-beta. The
+deduced 469-amino acid PELI3-alpha protein contains 24 amino acids
+encoded by exon 3 that are absent in the 445-amino acid PELI3-beta
+protein. Northern blot analysis detected a 2.5-kb transcript expressed
+at high levels in brain, heart, and testis, and at lower levels in
+kidney, liver, lung, placenta, small intestine, spleen, and stomach.
+RT-PCR, but not Northern blot analysis, also showed PELI3 expression in
+muscle and colon.
+
+GENE FUNCTION
+
+Jensen and Whitehead (2003) found that PELI3 interacted directly with
+IL1R-associated kinase-1 (IRAK1; 300283), TNF receptor-associated
+factor-6 (TRAF6; 602355), TNF-beta-activated kinase-1 (TAK1, or MAP3K7;
+602614), and NFKB-inducing kinase (NIK, or MAP3K14; 604655) in an IL1
+(see IL1A; 147760)-dependent manner. In reporter gene assays, PELI3
+activated JUN (165160) and ELK1 (311040), but not NFKB (see 164011).
+Jensen and Whitehead (2003) concluded that PELI3 plays a role in the
+innate immune response and may be a scaffolding protein.
+
+Butler et al. (2005) found that both isoforms of PELI3 could induce
+expression of a reporter gene dependent on p38 MAPK (MAPK14; 600289)
+activation in human embryonic kidney cells. Activation of p38 MAPK by
+PELI3 coincided with binding of PELI3 to IRAK1. TRAF6 and TAK1 were
+identified as downstream mediators of p38 MAPK activation by PELI3.
+PELI3 promoted translocation of the p38 MAPK substrate, MAPK-activated
+protein kinase-2 (MAPKAPK2; 602006), from the nucleus to the cytoplasm
+and activated the transcription factor CREB (123810) in a p38
+MAPK-dependent manner.
+
+GENE STRUCTURE
+
+Jensen and Whitehead (2003) determined that the PELI3 gene contains 8
+exons.
+
+MAPPING
+
+By genomic sequence analysis, Jensen and Whitehead (2003) mapped the
+PELI3 gene to chromosome 11.
+
+REFERENCE 1. Butler, M. P.; Hanly, J. A.; Moynagh, P. N.: Pellino3 is a novel
+upstream regulator of p38 MAPK and activates CREB in a p38-dependent
+manner. J. Biol. Chem. 280: 27759-27768, 2005.
+
+2. Jensen, L. E.; Whitehead, A. S.: Pellino3, a novel member of the
+pellino protein family, promotes activation of c-Jun and Elk-1 and
+may act as a scaffolding protein. J. Immun. 171: 1500-1506, 2003.
+
+CREATED Patricia A. Hartz: 1/18/2006
+
+EDITED alopez: 08/31/2012
+mgross: 1/18/2006
+
+611725	TITLE *611725 POTASSIUM CHANNEL TETRAMERIZATION DOMAIN-CONTAINING PROTEIN 7; KCTD7
+DESCRIPTION 
+DESCRIPTION
+
+Members of the KCTD gene family, including KCTD7, encode predicted
+proteins containing an N-terminal domain that is homologous to the T1
+domain in voltage-gated potassium channels (see KCNA1, 176260). KCTD7
+displays a primary sequence and hydropathy profile indicating
+intracytoplasmic localization. EST database analysis showed that KCTD7
+is expressed in human and mouse brain (Van Bogaert et al., 2007).
+
+CLONING
+
+Staropoli et al. (2012) detected expression of a full-length 31-kD Kctd7
+isoform in mouse brain. Other major immunoreactive bands included a
+28-kD species in the spleen, liver, and kidneys, a 37-kD species in the
+kidneys, and a 62-kD form most likely corresponding to a stable dimer.
+The presence of multiple bands was consistent with alternative splicing
+and tissue-specific regulation.
+
+Kousi et al. (2012) found expression of the Kctd7 gene in cultured mouse
+hippocampal cells. Expression was found in the cell soma, in neuritic
+varicosities along the developing neuronal extensions, and in neurite
+growth cones, but not in the nucleus. Kctd7 was widely expressed in
+neurons throughout the intact mouse brain, including in cortical
+neurons, in granular and pyramidal cell layers of the hippocampus, and
+in cerebellar Purkinje cells. However, not all neuronal cells were
+immunopositive for Kctd7, and expression was not seen in astrocytes or
+microglial cells. Expression was constant from P5 to 2 months in
+cerebellar lysates. Overexpression of KCTD7 in HeLa and COS-1 cells,
+which do not express endogenous KCTD7, showed diffuse cytosolic
+localization, with no colocalization with markers for endosomes, ER,
+Golgi, lysosomes, or the cytoskeleton.
+
+MAPPING
+
+The KCTD7 gene maps to chromosome 7q11.2 (Van Bogaert et al., 2007).
+
+GENE FUNCTION
+
+Azizieh et al. (2011) demonstrated that KCTD7 expression hyperpolarizes
+the cell membrane and reduces the excitability of transfected neurons in
+patch clamp experiments. Kctd7 was expressed in hippocampal and Purkinje
+cells of the murine brain. Immunoprecipitation assays showed that KCTD7
+directly interacted with cullin-3 (CUL3; 603136), a component of the
+ubiquitin ligase complex.
+
+MOLECULAR GENETICS
+
+In 3 affected members of a large consanguineous Moroccan family with
+progressive myoclonic epilepsy-3 (EPM3; 611726), Van Bogaert et al.
+(2007) identified a homozygous mutation in the KCTD7 gene (611725.0001).
+
+In 2 Mexican sibs with infantile onset of progressive myoclonic epilepsy
+and pathologic findings of neuronal ceroid lipofuscinosis in multiple
+cell types, Staropoli et al. (2012) identified a homozygous mutation in
+the KCTD7 gene (R184C; 611725.0002). The mutation was identified by
+whole-exome sequencing and confirmed by Sanger sequencing. Staropoli et
+al. (2012) designated the phenotype CLN14 (611726). KCTD7 mutations were
+not found in 32 additional CLN samples.
+
+In affected members of 7 unrelated families with progressive myoclonic
+epilepsy-3, Kousi et al. (2012) identified 6 different mutations in the
+KCTD7 gene (see, e.g., 611725.0003-611725.0007). All mutations were in
+the homozygous or compound heterozygous state. The initial mutations
+were found in 2 probands by homozygosity mapping followed by candidate
+gene sequencing, and the other mutations were found by screening of the
+gene in 108 Turkish patients and 1 Pakistani patient with the phenotype.
+Four mutations were missense, 1 was an in-frame deletion, and 1 was
+truncating. None of the patients with KCTD7 mutations tested had
+evidence of neuronal ceroid lipofuscinosis on skin biopsy, and none of
+22 additional patients with neuronal ceroid lipofuscinosis carried
+mutations in the KCTD7 gene.
+
+ALLELIC VARIANT .0001
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, ARG99TER
+
+In 3 affected members of a large consanguineous Moroccan family with
+progressive myoclonic epilepsy-3 (611726), Van Bogaert et al. (2007)
+identified a homozygous C-to-T transition in exon 2 of the KCTD7 gene,
+resulting in an arg99-to-ter (R99X) substitution. The patients had onset
+of myoclonic seizures and neurodegeneration between 16 and 24 months of
+age. The phenotype was severe and included mental retardation. The
+unaffected parents were heterozygous for the mutation. Ultrastructural
+analysis of a skin biopsy was normal.
+
+.0002
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITH INTRACELLULAR INCLUSIONS
+KCTD7, ARG184CYS
+
+In 2 Mexican sibs with infantile onset of progressive myoclonic epilepsy
+(611726) and intracellular inclusions, consistent with a diagnosis of
+neuronal ceroid lipofuscinosis (designated CLN14), Staropoli et al.
+(2012) identified a homozygous 550C-T transition in exon 4 of the KCTD7
+gene, resulting in an arg184-to-cys (R184C) substitution. The mutation
+was found by exome sequencing and confirmed by Sanger sequencing. Each
+unaffected parent was heterozygous for the mutation, which was not found
+in over 6,000 controls. In cerebellar cells, wildtype KCTD7 showed
+broad, punctate cytoplasmic localization and distinct signal at the
+plasma membrane, whereas mutant A184C showed more diffuse cytoplasmic
+localization, markedly diminished signaling at the plasma membrane, and
+prominent cytoplasmic aggregates. These results suggested that the
+mutation affects the trafficking and/or solubility of KCTD7. Studies in
+HEK293T cells showed that the R184C mutation abrogated the interaction
+with cullin-3 (CUL3; 603136), which Staropoli et al. (2012) suggested
+may lead to an accumulation of toxic intracellular proteins.
+
+.0003
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, ARG94TRP
+
+In a Turkish boy with progressive myoclonic epilepsy-3 (611726), Kousi
+et al. (2012) identified a homozygous 280C-T transition in exon 2 of the
+KCTD7 gene, resulting in an arg94-to-trp (R94W) substitution. The
+mutation was not found in 150 Turkish control chromosomes.
+
+.0004
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, 1-BP DEL, 594C
+
+In 2 unrelated Turkish patients with EPM3 (611726), Kousi et al. (2012)
+identified a homozygous 1-bp deletion (594delC) in exon 4 of the KCTD7
+gene, resulting in a frameshift and premature termination
+(Ile199SerfsTer74).
+
+.0005
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, ASN273ILE
+
+In a Turkish boy with EPM3 (611726), Kousi et al. (2012) identified a
+homozygous 818A-T transversion in exon 4 of the KCTD7 gene, resulting in
+an asn273-to-ile (N273I) substitution at a highly conserved residue.
+Another Turkish boy with the disorder was compound heterozygous for
+N273I and a 343G-T transversion, resulting in an asp115-to-tyr (D115Y;
+611725.0006) substitution. The D115Y substitution did not occur at a
+highly conserved residue and was predicted to be benign, but neither
+mutation was found in 150 Turkish control chromosomes.
+
+.0006
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, ASP115TYR
+
+See 611725.0005 and Kousi et al. (2012).
+
+.0007
+EPILEPSY, PROGRESSIVE MYOCLONIC 3, WITHOUT INTRACELLULAR INCLUSIONS
+KCTD7, LEU108MET
+
+In 2 Pakistani sibs, born of consanguineous parents, with EPM3 (611726),
+Kousi et al. (2012) identified a homozygous 322C-A transversion in exon
+3 of the KCTD7 gene, resulting in a leu108-to-met (L108M) substitution
+at a highly conserved residue. The mutation was not found in 150 Turkish
+control chromosomes.
+
+REFERENCE 1. Azizieh, R.; Orduz, D.; Van Bogaert, P.; Bouschet, T.; Rodriguez,
+W.; Schiffmann, S. N.; Pirson, I.; Abramowicz, M. J.: Progressive
+myoclonic epilepsy-associated gene KCTD7 is a regulator of potassium
+conductance in neurons. Molec. Neurobiol. 44: 111-121, 2011.
+
+2. Kousi, M.; Anttila, V.; Schulz, A.; Calafato, S.; Jakkula, E.;
+Riesch, E.; Myllykangas, L.; Kalimo, H.; Topcu, M.; Gokben, S.; Alehan,
+F.; Lemke, J. R.; Alber, M.; Palotie, A.; Kopra, O.; Lehesjoki, A.-E.
+: Novel mutations consolidate KCTD7 as a progressive myoclonus epilepsy
+gene. J. Med. Genet. 49: 391-399, 2012.
+
+3. Staropoli, J. F.; Karaa, A; Lim, E. T.; Kirby, A.; Elbalalesy,
+N.; Romansky, S. G.; Leydiker, K. B.; Coppel, S. H.; Barone, R.; Xin,
+W.; Macdonald, M. E.; Abdenur, J. E.; Daly, M. J.; Sims, K. B.; Cotman,
+S. L.: A homozygous mutation in KCTD7 links neuronal ceroid lipofuscinosis
+to the ubiquitin-proteasome system. Am. J. Hum. Genet. 91: 202-208,
+2012.
+
+4. Van Bogaert, P.; Azizieh, R.; Desir, J.; Aeby, A.; De Meirleir,
+L.; Laes, J.-F.; Christiaens, F.; Abramowicz, M. J.: Mutation of
+a potassium channel-related gene in progressive myoclonic epilepsy. Ann.
+Neurol. 61: 579-586, 2007.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/22/2012
+Cassandra L. Kniffin - updated: 7/31/2012
+
+CREATED Cassandra L. Kniffin: 1/15/2008
+
+EDITED carol: 09/12/2013
+carol: 8/22/2012
+ckniffin: 8/22/2012
+carol: 8/2/2012
+ckniffin: 7/31/2012
+wwang: 1/31/2008
+ckniffin: 1/16/2008
+
+604860	TITLE *604860 MUCOSA-ASSOCIATED LYMPHOID TISSUE LYMPHOMA TRANSLOCATION GENE 1; MALT1
+;;MLT;;
+PARACASPASE
+MALT1/API2 FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+The MALT1 gene encodes a caspase-like cysteine protease that is
+essential for nuclear factor-kappa-B (NFKB; see 164011) activation
+downstream of cell surface receptors (summary by Jabara et al., 2013).
+
+CLONING
+
+A t(11;18)(q21;q21) translocation is a characteristic cytogenetic
+abnormality in low-grade B-cell lymphoma of mucosa-associated lymphoid
+tissue (MALT) type (Ott et al., 1997). By FISH, Dierlamm et al. (1999)
+mapped the position of YAC probes on 11q21-q22.31 relative to the
+breakpoints on chromosome 18. By searching EST databases, they
+identified a 178-bp fragment that represented an exon of a human gene,
+which the authors called MLT (MALT lymphoma-associated translocation),
+that was disrupted by the translocation. The authors stated that a
+consensus MLT cDNA encodes a 729-amino acid protein, but later revised
+the number of amino acids to 824 (GenBank GENBANK AF130356). The 3-prime
+sequence of MLT encodes 2 putative Ig-like C2-type domains. Sequence
+analysis of amplified cDNA from a lymphoma patient showed that the
+3-prime end of MLT was fused to the 5-prime portion of API2 (601721), an
+inhibitor of apoptosis located at 11q22. The authors noted that API2 is
+highly expressed in adult lymphoid tissue.
+
+Using exon amplification and cDNA library screening, Akagi et al. (1999)
+also identified a cDNA encoding MALT1 at the 18q21 breakpoint region.
+They found that the cDNA encodes an 813-amino acid protein, apparently a
+splice variant of the sequence reported by Dierlamm et al. (1999).
+Northern blot analysis revealed 4.5- and 3.1-kb transcripts that showed
+highest expression in peripheral blood mononuclear cells, moderate or
+weak expression in bone marrow, thymus, lymph node, colon, and lung, and
+no expression in liver. Akagi et al. (1999) also detected expression in
+hematopoietic cell lines and aberrant expression of transcripts larger
+than 4.5 kb in 4 of 5 patients with MALT lymphoma; in the other patient,
+there was only weak expression of normal-sized transcripts.
+
+GENE FUNCTION
+
+Using mouse models, Ruland et al. (2003) demonstrated that MALT1 is
+essential for T-cell activation, proliferation, and IL2 (147680)
+production in response to T-cell receptor ligation and strictly required
+for signal-specific NF-kappa-B (NFKB; see 164011) activation induced by
+the T-cell receptor but not TNF-alpha (191160) or IL1 (see 147760)
+signaling. MALT1 operates downstream of BCL10 (603517), controls the
+catalytic activity of the canonical I-kappa-B kinase (see 600664)
+complex, and regulates the signaling of JNK (601158) and p38 (600289)
+MAP kinases. In contrast to BCL10 disruption, however, inactivation of
+MALT1 has only mild effects on B-cell activation and does not cause
+defects during neurodevelopment. Thus, Ruland et al. (2003) concluded
+that MALT1 is an essential regulator of BCL10 signaling that is
+differentially required depending on cellular context.
+
+Using biochemical and genetic approaches, Wegener et al. (2006)
+demonstrated that IKKB (IKBKB; 603258) is critical for regulation of the
+CARMA1 (CARD11; 607210)-BCL10-MALT1 (CBM) complex. They found that IKKB
+is required not only for initial complex formation, but also for
+triggering disengagement of BCL10 and MALT1 by phosphorylation of the C
+terminus of BCL10, thereby negatively influencing T-cell receptor
+signaling. Wegener et al. (2006) proposed a model in which IKKB is
+associated with BCL10-MALT1 in resting T cells. Following T-cell
+activation, protein kinase C-theta (PRKCQ; 600448) phosphorylates CARMA1
+and induces association of CARMA1 with BCL10-MALT1. Formation of the BCM
+complex induces maximal activation of IKK through activation of IKKG
+(IKBKG; 300248). IKKB phosphorylates BCL10 in its MALT1 interaction
+domain, causing BCL10 and MALT1 to disassociate, resulting in
+attenuation of NFKB signaling and cytokine production.
+
+By immunoblot analysis, Coornaert et al. (2008) showed that MALT1 is a
+functional cysteine protease activated by T-cell receptor stimulation
+and that it rapidly cleaves A20 (TNFAIP; 191163) after arg439, impairing
+its NFKB inhibitor function. Coornaert et al. (2008) concluded that A20
+is a substrate of MALT1 and that MALT1 proteolytic activity is important
+in the fine tuning of T cell antigen receptor signaling.
+
+Using immunoprecipitation, immunoblot, and FACS analysis, Ferch et al.
+(2009) showed that aggressive activated B cell-like (ABC) diffuse large
+B cell lymphoma (DLBCL) cells, but not germinal center B cell-like (GCB)
+DLBCL, possess constitutively assembled CARD11-BCL10-MALT1 (CBM)
+complexes that continuously and selectively process A20. Inhibition of
+MALT1 blocks A20 and BCL10 cleavage, reduces NFKB activity, and
+decreases the expression of NFKB targets BCLXL (BCL2L1; (600039), IL6
+(147620), and IL10 (124092)). Inhibition of MALT1 paracaspase leads to
+ABC-DLBCL cell death and growth retardation. Ferch et al. (2009)
+concluded that MALT1 paracaspase activity has a growth-promoting role,
+specifically in ABC-DLBCL cells, and proposed that MALT1 protease
+activity is a potential target for pharmacologic treatment of ABC-DLBCL.
+
+MAPPING
+
+Dierlamm et al. (1999) and Akagi et al. (1999) mapped the MALT1 gene to
+chromosome 18q21.
+
+CYTOGENETICS
+
+- API2/MALT1 Fusion Oncoprotein
+
+To gain insight into the mechanism that generates the t(11;18)
+translocation in MALT lymphomas, Sato et al. (2001) cloned and sequenced
+an API2-MALT1 fused transcript as well as genomic DNA of the t(11;18)
+translocation from a MALT lymphoma. They localized the API2 breakpoint
+within intron 7. Nucleotide sequence analysis revealed that the genomic
+breakpoint junction possesses the consensus heptamers of immunoglobulin
+V(D)J recombination signal sequences, all the matches being completely
+present on the API2 allele and 5 of 7 matches on the MALT1 allele. These
+data suggested that the translocation in the MALT lymphoma may have been
+mediated in part by an aberrant V(D)J recombination event.
+
+In approximately 5 to 10% of gastric MALT lymphomas, evidence of
+Helicobacter pylori infection is absent. Ye et al. (2003) reviewed the
+clinical data and histology of 17 such cases and examined them for the
+t(11;18)(q21;q21) translocation and BCL10 expression pattern. In each
+case, the absence of H. pylori was confirmed by negative serology and
+histology/immunohistochemistry. In 5 cases the disease was first treated
+with antibiotics, and none of them showed any endoscopic or histologic
+response. Review of the histology failed to identify any apparent
+difference between gastric MALT lymphomas with or without H. pylori
+infection. The t(11;18) translocation was identified in 9 (53%) of 17
+cases. Two translocation-positive lymphomas were treated by partial
+gastrectomy and more than 16 years later showed lymphoma relapse in the
+gastric stump with dissemination to other mucosal sites, poorly
+responsive to therapy.
+
+Rosebeck et al. (2011) demonstrated that the API2/MALT1 fusion
+oncoprotein created by the recurrent t(11;18)(q21;q21) in MALT lymphoma
+induces proteolytic cleavage of NF-kappa-B-inducing kinase (NIK; 604655)
+at arginine-325. NIK cleavage requires the concerted actions of both
+fusion partners and generates a C-terminal NIK fragment that retains
+kinase activity and is resistant to proteasomal degradation. The
+resulting deregulated NIK activity is associated with constitutive
+noncanonical NF-kappa-B signaling, enhanced B-cell adhesion, and
+apoptosis resistance. Rosebeck et al. (2011) concluded that their study
+revealed the gain-of-function proteolytic activity of a fusion
+oncoprotein and highlighted the importance of the noncanonical
+NF-kappa-B pathway in B lymphoproliferative disease.
+
+- Translocation t(14;18)(q32;q21)
+
+The MALT1 gene is located approximately 5 Mb centromeric to the BCL2
+gene (151430) on 18q21. Sanchez-Izquierdo et al. (2003) reported 2
+lymphoma patients, 1 with MALT lymphoma and the other with aggressive
+marginal zone lymphoma (MZL), with a t(14;18)(q32;q21) translocation
+cytogenetically identical to the frequent translocation involving BCL2
+in B-cell non-Hodgkin lymphoma (see 605027); however, in these 2 cases
+FISH indicated involvement of the MALT1 gene. There had been other
+evidence suggesting that genes other than BCL2 in the 18q21 band can
+account for lymphoma; see, e.g., the follicular-variant-translocation
+gene (FVT1; 136440).
+
+MOLECULAR GENETICS
+
+In 2 sibs, born of consanguineous Lebanese parents, with primary
+immunodeficiency-12 (IMD12; 615468), Jabara et al. (2013) identified a
+homozygous mutation in the MALT1 gene (S89I; 604860.0001). The mutation,
+which was found by homozygosity mapping and whole-exome sequencing,
+segregated with the disorder in the family. Patient T cells showed
+impaired degradation of the NFKB inhibitor I-kappa-B-alpha (NFKB1A;
+164008) and decreased IL2 (147680) expression after T-cell activation,
+and the mutant cDNA failed to rescue defective activation of T cells
+from Malt1-null mice, consistent with a loss of function. The patients
+had onset of recurrent bacterial and candidal infections in infancy. The
+patients died at ages 7 and 13.5 years. Laboratory studies showed normal
+numbers of lymphocytes, but poor antibody response and decreased T-cell
+proliferative responses to mitogens. The clinical and laboratory
+findings were similar to those of patients with IMD11 (615206), which is
+caused by loss-of-function mutations in the CARD11 gene (607210). The
+findings showed the importance of MALT1 and the CBM complex for
+activation of NFKB in proper T-cell function.
+
+ANIMAL MODEL
+
+Ruefli-Brasse et al. (2003) generated mice deficient in Malt1
+(paracaspase) by targeted disruption and found that primary T- and
+B-cell lymphocytes from these mice were defective in antigen
+receptor-induced NF-kappa-B activation, cytokine production, and
+proliferation. Paracaspase acts downstream of BCL10 to induce NF-kappa-B
+activation and is required for the normal development of B cells,
+indicating that paracaspase provides the missing link between BCL10 and
+activation of the I-kappa-B kinase complex.
+
+ALLELIC VARIANT .0001
+IMMUNODEFICIENCY 12 (1 family)
+MALT1, SER89ILE
+
+In 2 sibs, born of consanguineous Lebanese parents, with primary
+immunodeficiency-12 (IMD12; 615468), Jabara et al. (2013) identified a
+homozygous c.266G-T transversion in the MALT1 gene, resulting in a
+ser89-to-ile (S89I) substitution at a highly conserved residue in the
+CARD domain. The mutation was predicted to disrupt the structure of the
+domain and render the mutant protein susceptible to degradation. The
+mutation, which was found by homozygosity mapping and whole-exome
+sequencing, segregated with the disorder in the family. The mutation was
+not present in the dbSNP or 1000 Genomes databases, or in 150 ethnically
+matched controls. Cells from 1 of the patients showed normal amounts of
+mutant mRNA, but no detectable MALT1 protein. Patient T cells showed
+decreased expression of IL2 after T-cell activation, and the mutant cDNA
+failed to rescue defective activation of T cells from Malt1-null mice,
+consistent with a loss of function. The patients had onset of recurrent
+bacterial and candidal infections in infancy. The patients died at ages
+7 and 13.5 years. Laboratory studies showed normal numbers of
+lymphocytes, but poor antibody response and decreased T-cell
+proliferative responses to mitogens.
+
+REFERENCE 1. Akagi, T.; Motegi, M.; Tamura, A.; Suzuki, R.; Hosokawa, Y.; Suzuki,
+H.; Ota, H.; Nakamura, S.; Morishima, Y.; Taniwaki, M.; Seto, M.:
+A novel gene, MALT1 at 18q21, is involved in t(11;18) (q21;q21) found
+in low-grade B-cell lymphoma of mucosa-associated lymphoid tissue. Oncogene 18:
+5785-5794, 1999.
+
+2. Coornaert, B.; Baens, M.; Heyninck, K.; Bekaert, T.; Haegman, M.;
+Staal, J.; Sun, L.; Chen, Z. J.; Marynen, P.; Beyaert, R.: T cell
+antigen receptor stimulation induces MALT1 paracaspase-mediated cleavage
+of the NF-kappa-B inhibitor A20. Nature Immun. 9: 263-271, 2008.
+
+3. Dierlamm, J.; Baens, M.; Wlodarska, I.; Stefanova-Ouzounova, M.;
+Hernandez, J. M.; Hossfeld, D. K.; De Wolf-Peeters, C.; Hagemeijer,
+A.; Van den Berghe, H.; Marynen, P.: The apoptosis inhibitor gene
+API2 and a novel 18q gene, MLT, are recurrently rearranged in the
+t(11;18)(q21;q21) associated with mucosa-associated lymphoid tissue
+lymphomas. Blood 93: 3601-3609, 1999.
+
+4. Ferch, U.; Kloo, B.; Gewies, A.; Pfander, V.; Duwel, M.; Peschel,
+C.; Krappmann, D.; Ruland, J.: Inhibition of MALT1 protease activity
+is selectively toxic for activated B cell-like diffuse large B cell
+lymphoma cells. J. Exp. Med. 206: 2313-2320, 2009. Note: Erratum:
+J. Exp. Med. 206: 2851 only, 2009.
+
+5. Jabara, H. H.; Ohsumi, T.; Chou, J.; Massaad, M. J.; Benson, H.;
+Megarbane, A.; Chouery, E.; Mikhael, R.; Gorka, O.; Gewies, A.; Portales,
+P.; Nakayama, T.; Hosokawa, H.; Revy, P.; Herrod, H.; Le Deist, F.;
+Lefranc, G.; Ruland, J.; Geha, R. S.: A homozygous mucosa-associated
+lymphoid tissue 1 (MALT1) mutation in a family with combined immunodeficiency. J.
+Allergy Clin. Immun. 132: 151-158, 2013.
+
+6. Ott, G.; Katzenberger, T.; Greiner, A.; Kalla, J.; Rosenwald, A.;
+Heinrich, U.; Ott, M. M.; Muller-Hermelink, H. K.: The t(11;18)(q21;q21)
+chromosome translocation is a frequent and specific aberration in
+low-grade but not high-grade malignant non-Hodgkin's lymphomas of
+the mucosa-associated lymphoid tissue (MALT-) type. Cancer Res. 57:
+3944-3948, 1997.
+
+7. Rosebeck, S.; Madden, L.; Jin, X.; Gu, S.; Apel, I. J.; Appert,
+A.; Hamoudi, R. A.; Noels, H.; Sagaert, X.; Van Loo, P.; Baens, M.;
+Du, M.-Q.; Lucas, P. C.; McAllister-Lucas, L. M.: Cleavage of NIK
+by the API1-MALT1 fusion oncoprotein leads to noncanonical NF-kappa-B
+activation. Science 331: 468-472, 2011. Note: Erratum: Science 332:
+421 only, 2011.
+
+8. Ruefli-Brasse, A. A.; French, D. M.; Dixit, V. M.: Regulation
+of NF-kappaB-dependent lymphocyte activation and development by paracaspase. Science 302:
+1581-1584, 2003.
+
+9. Ruland, J.; Duncan, G. S.; Wakeham, A.; Mak, T. W.: Differential
+requirement for Malt1 in T and B cell antigen receptor signaling. Immunity 19:
+749-758, 2003.
+
+10. Sanchez-Izquierdo, D.; Buchonnet, G.; Siebert, R.; Gascoyne, R.
+D.; Climent, J.; Karran, L.; Marin, M.; Blesa, D.; Horsman, D.; Rosenwald,
+A.; Staudt, L. M.; Albertson, D. G.; Du, M.-Q.; Ye, H.; Marynen, P.;
+Garcia-Conde, J.; Pinkel, D.; Dyer, M. J. S.; Martinez-Climent, J.
+A.: MALT1 is deregulated by both chromosomal translocation and amplification
+in B-cell non-Hodgkin lymphoma. Blood 101: 4539-4546, 2003.
+
+11. Sato, Y.; Akiyama, Y.; Tanizawa, T.; Shibata, T.; Saito, K.; Mori,
+S.; Kamiyama, R.; Yuasa, Y.: Molecular characterization of the genomic
+breakpoint junction in the t(11;18)(q21;q21) translocation of a gastric
+MALT lymphoma. Biochem. Biophys. Res. Commun. 280: 301-306, 2001.
+
+12. Wegener, E.; Oeckinghaus, A.; Papadopoulou, N.; Lavitas, L.; Schmidt-Supprian
+, M.; Ferch, U.; Mak, T. W.; Ruland, J.; Heissmeyer, V.; Krappmann,
+D.: Essential role for I-kappa-B kinase beta in remodeling Carma1-Bcl10-Malt1
+complexes upon T cell activation. Molec. Cell 23: 13-23, 2006.
+
+13. Ye, H.; Liu, H.; Raderer, M.; Chott, A.; Ruskone-Fourmestraux,
+A.; Wotherspoon, A.; Dyer, M. J. S.; Chuang, S.-S.; Dogan, A.; Isaacson,
+P. G.; Du, M.-Q.: High incidence of t(11;18)(q21;q21) in Helicobacter
+pylori-negative gastric MALT lymphoma. Blood 101: 2547-2550, 2003.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/10/2013
+Ada Hamosh - updated: 3/30/2011
+Paul J. Converse - updated: 8/3/2010
+Paul J. Converse - updated: 8/22/2006
+Ada Hamosh - updated: 12/31/2003
+Victor A. McKusick - updated: 9/18/2003
+Victor A. McKusick - updated: 7/18/2003
+Victor A. McKusick - updated: 4/11/2001
+
+CREATED Paul J. Converse: 4/20/2000
+
+EDITED carol: 10/10/2013
+ckniffin: 10/10/2013
+terry: 3/15/2013
+terry: 7/27/2012
+alopez: 3/31/2011
+terry: 3/30/2011
+alopez: 8/5/2010
+terry: 8/3/2010
+terry: 5/11/2010
+mgross: 8/22/2006
+alopez: 1/8/2004
+terry: 12/31/2003
+tkritzer: 9/18/2003
+tkritzer: 7/29/2003
+terry: 7/18/2003
+mcapotos: 4/18/2001
+mcapotos: 4/11/2001
+terry: 4/11/2001
+mcapotos: 8/31/2000
+carol: 4/24/2000
+
+109280	TITLE *109280 SOLUTE CARRIER FAMILY 4 (ANION EXCHANGER), MEMBER 2; SLC4A2
+;;ANION EXCHANGER, NONERYTHROID; AE2;;
+ERYTHROCYTE MEMBRANE PROTEIN BAND 3-LIKE 1; EPB3L1;;
+BAND 3-LIKE PROTEIN; BND3L;;
+NONERYTHROID BAND 3; NBND3;;
+HKB3
+DESCRIPTION 
+CLONING
+
+Demuth et al. (1986) isolated a cDNA clone, designated pHKB3, encoding a
+human erythrocyte surface protein band 3-like gene product. Peptide
+mapping shows substantial sequence homology between the erythrocyte band
+3 protein (109270) and a band 3-like protein found in leukocytes.
+Palumbo et al. (1986) described the partial sequence of a 2.7-kb human
+cDNA clone encoding a band 3-related protein in nonerythroid cells.
+Comparison of the predicted amino acid sequence for this cDNA with the
+amino acid sequences of mouse and human erythroid band 3 proteins
+confirmed that the human clone is related to but distinct from erythroid
+band 3. Palumbo et al. (1986) symbolized the gene as HKB3, in part after
+the name of the human cell line studied.
+
+Tanner (1993) referred to this nonerythroid anion exchanger as AE2. The
+ability of AE2 to mediate anion transport has been confirmed. Northern
+blotting studies showed that the AE2 gene is transcribed in a wide
+variety of tissues. In the mouse, Lindsey et al. (1990) found that AE2
+is expressed only in choroid plexus, the site of cerebrospinal fluid
+production. Kudrycki et al. (1990) found that, in the rat, AE2 is
+particularly abundant in the stomach and portions of the
+gastrointestinal tract.
+
+GENE STRUCTURE
+
+Medina et al. (1997) determined that the AE2 gene spans approximately 17
+kb and consists of 23 exons.
+
+MAPPING
+
+Using somatic cell genetics and in situ hybridization, Palumbo et al.
+(1986) mapped the HKB3 gene to 7q35-q36. Showe et al. (1993) identified
+an MboI RFLP in the EPB3L1 gene. White et al. (1994) demonstrated that
+the murine AE2 gene is located on chromosome 5. This result was obtained
+by analysis of recombinant inbred lines and by interspecific backcross
+analysis.
+
+ANIMAL MODEL
+
+Medina et al. (2003) disrupted the mouse Ae2 gene in a manner that
+prevented the expression of 3 Ae2 isoforms normally found in testis.
+Male Ae2 -/- mice, but not female Ae2 -/- mice, were infertile.
+Histopathologic analysis of mutant testis showed an interruption in
+spermiogenesis, with only a few late spermatids and a complete absence
+of spermatozoa in the seminiferous tubules. The number of apoptotic
+bodies was increased in the seminiferous tubules and in the epididymis,
+which also showed squamous metaplasia of the epididymal epithelium.
+
+REFERENCE 1. Demuth, D. R.; Showe, L. C.; Ballantine, M.; Palumbo, A.; Fraser,
+P. J.; Cioe, L.; Rovera, G.; Curtis, P. J.: Cloning and structural
+characterization of a human non-erythroid band 3-like protein. EMBO
+J. 5: 1205-1214, 1986.
+
+2. Kudrycki, K. E.; Newman, P. R.; Schull, G. E.: cDNA cloning and
+tissue distribution of mRNAs for two proteins that are related to
+the band 3 chloride-bicarbonate exchanger. J. Biol. Chem. 265: 462-471,
+1990.
+
+3. Lindsey, A. E.; Schneider, K.; Simmons, D. M.; Baron, R.; Lee,
+B. S.; Kopito, R. R.: Functional expression and subcellular localization
+of an anion exchanger cloned from choroid plexus. Proc. Nat. Acad.
+Sci. 87: 5278-5282, 1990.
+
+4. Medina, J. F.; Acin, A.; Prieto, J.: Molecular cloning and characterization
+of the human AE2 anion exchanger (SLC4A2) gene. Genomics 39: 74-85,
+1997. Note: Erratum: Genomics 46: 535 only, 1997.
+
+5. Medina, J. F.; Recalde, S.; Prieto, J.; Lecanda, J.; Saez, E.;
+Funk, C. D.; Vecino, P.; van Roon, M. A.; Ottenhoff, R.; Bosma, P.
+J.; Bakker, C. T.; Oude Elferink, R. P. J.: Anion exchanger 2 is
+essential for spermiogenesis in mice. Proc. Nat. Acad. Sci. 100:
+15847-15852, 2003.
+
+6. Palumbo, A. P.; Isobe, M.; Huebner, K.; Shane, S.; Rovera, G.;
+Demuth, D.; Curtis, P. J.; Ballantine, M.; Croce, C. M.; Showe, L.
+C.: Chromosomal localization of a human band 3-like gene to region
+7q35-7q36. Am. J. Hum. Genet. 39: 307-316, 1986.
+
+7. Showe, M. K.; Williams, D.; Showe, L. C.: An MboI RFLP in the
+human erythrocyte surface protein band 3-like 1 gene (EPB3L1) on chromosome
+7q35-7q36. Hum. Molec. Genet. 2: 337 only, 1993.
+
+8. Tanner, M. J. A.: Molecular and cellular biology of the erythrocyte
+anion exchanger (AE1). Seminars Hemat. 30: 34-57, 1993.
+
+9. White, R. A.; Geissler, E. N.; Adkison, L. R.; Dowler, L. L.; Alper,
+S. L.; Lux, S. E.: Chromosomal location of the murine anion exchanger
+genes encoding AE2 and AE3. Mammalian Genome 5: 827-829, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 7/6/2004
+Rebekah S. Rasooly - updated: 2/9/1998
+
+CREATED Victor A. McKusick: 1/7/1987
+
+EDITED terry: 07/06/2012
+mgross: 7/13/2004
+terry: 7/6/2004
+carol: 3/8/2002
+terry: 3/8/2002
+alopez: 2/9/1998
+joanna: 1/22/1998
+carol: 2/17/1995
+carol: 6/28/1993
+carol: 4/26/1993
+carol: 2/19/1993
+carol: 2/18/1993
+supermim: 3/16/1992
+
+609159	TITLE *609159 NODAL MODULATOR 3; NOMO3
+;;PM5, MIDDLE COPY
+DESCRIPTION 
+MAPPING
+
+By sequence analysis, Loftus et al. (1999) mapped the PM5 gene (see
+NOMO1; 609157) to a region of chromosome 16p13.1-p11.2 that shows a high
+degree of gene duplication. Scott (2004) mapped 3 copies of the PM5
+gene, including NOMO3, within this region. The NOMO3 gene maps
+centromeric to the XYLT1 gene (608124) and telomeric to the SMG1 gene
+(607032).
+
+REFERENCE 1. Loftus, B. J.; Kim, U.-J.; Sneddon, V. P.; Kalush, F.; Brandon,
+R.; Fuhrmann, J.; Mason, T.; Crosby, M. L.; Barnstead, M.; Cronin,
+L.; Mays, A. D.; Cao, Y.; Xu, R. X.; Kang, H.-L.; Mitchell, S.; Eichler,
+E. E.; Harris, P. C.; Venter, J. C.; Adams, M. D.: Genome duplications
+and other features in 12 Mb of DNA sequence from human chromosome
+16p and 16q. Genomics 60: 295-308, 1999.
+
+2. Scott, A. F.: Personal Communication. Baltimore, Md.  9/9/2004.
+
+CREATED Patricia A. Hartz: 1/11/2005
+
+EDITED mgross: 01/11/2005
+
+607147	TITLE *607147 POLIOVIRUS RECEPTOR-LIKE 3; PVRL3
+;;POLIOVIRUS RECEPTOR-RELATED 3; PVRR3; PRR3;;
+NECTIN 3
+DESCRIPTION 
+DESCRIPTION
+
+Nectins (e.g., PVRL1, 600644) are immunoglobulin-like adhesion molecules
+that interact with afadin (AF6; 159559). Afadin is an actin
+filament-binding protein that connects nectins to the actin
+cytoskeleton. The nectin-afadin system organizes adherens junctions
+cooperatively with the cadherin (see 192090)-catenin (see 116805) system
+in epithelial cells.
+
+CLONING
+
+By searching an EST database using PRR1, PRR2 (PVRL2; 600798), and PVR
+(173850) as queries, followed by RT-PCR of placenta mRNA, Reymond et al.
+(2000) cloned a full-length cDNA encoding PRR3. The deduced 550-amino
+acid PRR3 protein has a calculated molecular mass of 55.4 kD and
+contains an N-terminal hydrophobic leader sequence; an ectodomain
+containing a V-type Ig domain and 2 C-type Ig domains bracketed by 6
+cysteine residues; a hydrophobic transmembrane region; and a long
+cytoplasmic sequence. PRR3 also has 6 potential N-glycosylation sites.
+Northern blot analysis revealed PRR3 expression predominantly in
+placenta and testis, with faint or no expression in other tissues. A
+major transcript of 2.8 kb and minor transcripts of 9.5, 6.0, and 4.7 kb
+were detected in placenta. PRR3 was also expressed in mammalian
+epithelial cell lines. Flow cytometry showed expression of PRR3 at the
+surface of transfected COS-1 cells.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation experiments, Reymond et al. (2000) found
+that PRR3 interacts with both the L- and S-afadin isoforms in a similar
+ratio.
+
+Using immunolocalization of adult mouse hippocampal sections Mizoguchi
+et al. (2002) found that the nectin-afadin system colocalizes with the
+cadherin-catenin system at synapses between mossy fiber terminals and
+dendrites of pyramidal cells in the CA3 area. Nectins-1 and -3
+asymmetrically localize at the pre- and postsynaptic sides of puncta
+adherentia junctions, respectively. During development, nectins-1 and -3
+asymmetrically localize not only at puncta adherentia junctions but also
+at synaptic junctions. Using rat hippocampal neurons in culture,
+Mizoguchi et al. (2002) observed that inhibition of the nectin-based
+adhesion results in a decrease in synapse size and a concomitant
+increase in synapse number.
+
+Togashi et al. (2011) found that mouse hair cells and supporting cells
+express the immunoglobulin-like adhesion molecules nectin-1 (600644) and
+-3, respectively, and that their interaction mediates the heterotypic
+adhesion between these 2 cell types. Genetic removal of nectin-1 or -3
+disrupted the checkerboard-like pattern, inducing aberrant attachment
+between hair cells. When cells expressing either nectin-1 or -3 were
+cocultured, they arranged themselves into a mosaic pattern. Thus,
+Togashi et al. (2011) concluded that nectin-1 and nectin-3 promote the
+formation of the checkerboard-like pattern of the auditory epithelia.
+
+ANIMAL MODEL
+
+Inagaki et al. (2006) found that male, but not female, nectin-3 -/- mice
+were infertile. Phase contrast microscopy revealed that spermatozoa of
+mutant mice showed severe malformation of the head and midpiece.
+Nectin-3 knockout resulted in defects in the later steps of sperm
+morphogenesis, including distorted nuclei and abnormal distribution of
+mitochondria, as well as loss of nectin-2 (PVRL2; 600798) at
+Sertoli-spermatid junctions. The localization of nectin-2 at
+Sertoli-Sertoli junctions was unaffected.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PVRL3
+gene to chromosome 3 (TMAP stSG2552).
+
+MOLECULAR GENETICS
+
+For discussion of a possible role of variation in the PVRL3 gene in
+Tourette syndrome/chronic tic disorder, see 137580.
+
+REFERENCE 1. Inagaki, M.; Irie, K.; Ishizaki, H.; Tanaka-Okamoto, M.; Miyoshi,
+J.; Takai, Y.: Role of cell adhesion molecule nectin-3 in spermatid
+development. Genes Cells 11: 1125-1132, 2006.
+
+2. Mizoguchi, A.; Nakanishi, H.; Kimura, K.; Matsubara, K.; Ozaki-Kuroda,
+K.; Katata, T.; Honda, T.; Kiyohara, Y.; Heo, K.; Higashi, M.; Tsutsumi,
+T.; Sonoda, S.; Ide, C.; Takai, Y.: Nectin: an adhesion molecule
+involved in formation of synapses. J. Cell Biol. 156: 555-565, 2002.
+
+3. Reymond, N.; Borg, J.-P.; Lecocq, E.; Adelaide, J.; Campadelli-Fiume,
+G.; Dubreuil, P.; Lopez, M.: Human nectin3/PRR3: a novel member of
+the PVR/PRR/nectin family that interacts with afadin. Gene 255:
+347-355, 2000.
+
+4. Togashi, H.; Kominami, K.; Waseda, M.; Komura, H.; Miyoshi, J.;
+Takeichi, M.; Takai, Y.: Nectins establish a checkerboard-like cellular
+pattern in the auditory epithelium. Science 333: 1144-1147, 2011.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/27/2012
+Ada Hamosh - updated: 9/21/2011
+Patricia A. Hartz - updated: 12/11/2006
+
+CREATED Patricia A. Hartz: 8/14/2002
+
+EDITED carol: 03/27/2012
+ckniffin: 3/8/2012
+alopez: 9/23/2011
+terry: 9/21/2011
+wwang: 12/12/2006
+terry: 12/11/2006
+terry: 7/20/2004
+mgross: 8/14/2002
+
+604434	TITLE *604434 KALLIKREIN-RELATED PEPTIDASE 11; KLK11
+;;KALLIKREIN 11;;
+PROTEASE, SERINE, 20; PRSS20;;
+TRYPSIN-LIKE SERINE PROTEASE; TLSP
+DESCRIPTION 
+DESCRIPTION
+
+KLK11 belongs to the kallikrein subfamily of serine proteases, which are
+involved in a variety of enzymatic processes (Gan et al., 2000).
+
+CLONING
+
+By PCR of human hippocampus cDNA using primers derived from mouse
+neuropsin cDNA sequences corresponding to conserved regions of serine
+proteases, Yoshida et al. (1998) identified a novel serine protease,
+KLK11, which they named TLSP. The deduced 260-amino acid protein
+contains a signal peptide, 3 key amino acids essential for serine
+protease activity, an asp residue in a position that suggests a
+trypsin-type substrate specificity for basic amino acids at the P1
+position, conserved amino acids that can form an oxyanion hole, and a
+potential N-glycosylation site. KLK11 shares 48% amino acid sequence
+identity with mouse neuropsin, 43% identity with both human trypsin-1
+(PRSS1; 276000) and human kallikrein (KLK1; 147910), and 38% identity
+with the mouse nerve growth factor gamma subunit. Western blot analysis
+of recombinant KLK11 suggested that the protein is secreted and
+posttranslationally processed. Northern blot analysis of RNA from
+keratinocyte primary cultures detected a 1.1-kb KLK11 transcript.
+
+By PCR of 35 adult and fetal tissues, Gan et al. (2000) detected high
+KLK11 expression in prostate, testis, trachea, pancreas, salivary gland,
+thyroid, parathyroid, lung, stomach, and adult and fetal skin. Weaker
+expression was detected in heart, mammary gland, uterus, colon, and
+small intestine, with little to no expression in other tissues examined.
+
+GENE STRUCTURE
+
+Elliott et al. (2006) determined that the KLK11 gene contains 6 exons,
+the first of which is noncoding.
+
+MAPPING
+
+Harvey et al. (2000) mapped the KLK11 gene to chromosome 19q13.4 in the
+KLK gene cluster between KLK10 (602673) and KLK12 (605539). They noted
+that KLK5 (605643) to KLK14 are transcribed telomere to centromere.
+
+REFERENCE 1. Elliott, M. B.; Irwin, D. M.; Diamandis, E. P.: In silico identification
+and Bayesian phylogenetic analysis of multiple new mammalian kallikrein
+gene families. Genomics 88: 591-599, 2006.
+
+2. Gan, L.; Lee, I.; Smith, R.; Argonza-Barrett, R.; Lei, H.; McCuaig,
+J.; Moss, P.; Paeper, B.; Wang, K.: Sequencing and expression analysis
+of the serine protease gene cluster located in chromosome 19q13 region. Gene 257:
+119-130, 2000.
+
+3. Harvey, T. J.; Hooper, J. D.; Myers, S. A.; Stephenson, S.-A.;
+Ashworth, L. K.; Clements, J. A.: Tissue-specific expression patterns
+and fine mapping of the human kallikrein (KLK) locus on proximal 19q13.4. J.
+Biol. Chem. 275: 37397-37406, 2000.
+
+4. Yoshida, S.; Taniguchi, M.; Suemoto, T.; Oka, T.; He, X.; Shiosaka,
+S.: cDNA cloning and expression of a novel serine protease, TLSP. Biochim.
+Biophys. Acta 1399: 225-228, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/8/2006
+Paul J. Converse - updated: 2/2/2001
+
+CREATED Patti M. Sherman: 1/14/2000
+
+EDITED mgross: 02/04/2009
+mgross: 11/28/2006
+terry: 11/8/2006
+carol: 2/16/2001
+mgross: 2/14/2001
+cwells: 2/7/2001
+cwells: 2/2/2001
+psherman: 3/20/2000
+mgross: 1/20/2000
+psherman: 1/18/2000
+
+606530	TITLE *606530 CYTOCHROME P450, SUBFAMILY XXVIIA, POLYPEPTIDE 1; CYP27A1
+;;CYP27;;
+STEROL 27-HYDROXYLASE
+DESCRIPTION 
+DESCRIPTION
+
+Sterol 27-hydroxylase, a mitochondrial cytochrome P450, together with 2
+protein cofactors, adrenodoxin (103260) and adrenodoxin reductase
+(103270), hydroxylates a variety of sterols at the C27 position. In the
+bile acid synthesis pathway, sterol 27-hydroxylase catalyzes the first
+step in the oxidation of the side chain of sterol intermediates (summary
+by Cali and Russell, 1991).
+
+CLONING
+
+Cali and Russell (1991) cloned cDNAs for human sterol 27-hydroxylase
+from a liver cDNA library by cross-hybridization with a previously
+cloned rabbit cDNA probe. DNA sequence predicted a protein with a
+33-amino acid mitochondrial signal sequence followed by a mature protein
+of 498 amino acids. RNA blotting experiments demonstrated mRNAs of
+approximately 1.8 to 2.2 kb in liver and fibroblast cells.
+
+GENE STRUCTURE
+
+Leitersdorf et al. (1993) demonstrated that the CYP27 gene contains 9
+exons and 8 introns and encompasses at least 18.6 kb of DNA. The
+putative promoter region was found to be rich in GC residues and
+contained potential binding sites for the transcription factor SP1
+(189906) and the liver transcription factor LF-B1.
+
+MAPPING
+
+Using the human CYP27 cDNA in a study of a panel of Chinese
+hamster/human hybrid cell clones, Cali and Russell (1991) assigned the
+CYP27A1 gene to chromosome 2 and further regionalized it to 2q33-qter by
+study of hybrid cells containing various parts of chromosome 2. The
+Cyp27 gene was similarly mapped to chromosome 1 of the mouse.
+
+GENE FUNCTION
+
+Shinkyo et al. (2004) compared vitamin D metabolism by recombinant human
+CYP2R1 (608713) and CYP27A1. A clear difference was observed between
+CYP2R1 and CYP27A1 in metabolism of vitamin D2: CYP2R1 showed
+hydroxylase activity at the C25 position, whereas CYP27A1 showed
+hydroxylase activity at the C24 and C27 positions. CYP2R1 also showed
+significantly higher affinity and C25 hydroxylation activity toward
+vitamin D3 than CYP27A1.
+
+MOLECULAR GENETICS
+
+In patients with cerebrotendinous xanthomatosis (CTX; 213700), Cali et
+al. (1991) identified mutations in the CYP27A1 gene
+(606530.0001-606530.0002).
+
+Guyant-Marechal et al. (2005) described a 53-year-old man with an
+unusual CTX phenotype, involving no mental retardation and a progressive
+neuropsychiatric disorder beginning at age 44, in whom they identified
+compound heterozygosity for mutations in the CYP27A1 gene
+(606530.0013-606530.0014).
+
+ANIMAL MODEL
+
+By targeted disruption, Rosen et al. (1998) generated mice deficient in
+sterol 27-hydroxylase. They found that mice with disrupted Cyp27 had
+normal plasma levels of cholesterol, retinol, tocopherol, and
+1,25-dihydroxyvitamin D. Excretion of fecal bile acids was decreased
+(less than 20% of normal), and formation of bile acids from
+tritium-labeled 7-alpha-hydroxycholesterol was less than 15% of normal.
+Compensatory upregulation of hepatic cholesterol 7-alpha-hydroxylase and
+hydroxymethylglutaryl-CoA reductase (9- and 2- to 3-fold increases in
+mRNA levels, respectively) was found. No CTX-related pathologic
+abnormalities were observed. In CTX, there was an increased formation of
+25-hydroxylated bile alcohols and cholestanol. In bile and feces of
+Cyp27 -/- mice, only traces of bile alcohols were found and there was no
+evidence of cholestanol accumulation. Rosen et al. (1998) concluded that
+sterol 27-hydroxylase is more important for bile acid synthesis in mice
+than in humans, and that their results did not support the contention
+that 27-hydroxylated steroids are critical for maintenance of
+cholesterol homeostasis or levels of vitamin D metabolites in the
+circulation.
+
+Meir et al. (2002) developed transgenic mice overexpressing human
+CYP27A1. Transgenic mice showed elevated blood and tissue levels of
+27-hydroxycholesterol and reduced blood levels of 24-hydroxycholesterol.
+There were no gross morphologic differences between the overexpressing
+mice and their controls. Total cholesterol and triglyceride levels were
+unaffected, as were serum lathosterol and 7-alpha-hydroxycholesterol
+levels. Biliary bile acid composition and fecal neutral steroids were
+slightly affected. Meir et al. (2002) concluded that levels of
+27-hydroxycholesterol are not critically important for cholesterol
+homeostasis in mice.
+
+ALLELIC VARIANT .0001
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG446CYS
+
+Cali et al. (1991) identified 2 different mutations in unrelated cases
+of cerebrotendinous xanthomatosis (213700). Both involved single
+basepair substitutions that converted arginine codons (CGPy) to cysteine
+codons (TGPy). One mutation, called by them CTX1, was at codon 446 near
+the heme ligand, cys444. The second, called CTX2, was at codon 362 in
+the adrenodoxin binding region.
+
+.0002
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG362CYS
+
+See 606530.0001 and Cali et al. (1991).
+
+.0003
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, 1-BP DEL
+
+A relatively high prevalence of CTX (213700) has been noted in Jews of
+Moroccan origin. By single-strand conformation polymorphism analysis
+followed by sequence analysis, Leitersdorf et al. (1993) identified 2
+mutations: deletion of a thymidine in exon 4 and a G-to-A transition at
+the 3-prime splice acceptor site of intron 4 (606530.0004). The deletion
+of the thymidine resulted in a frameshift and a premature termination
+codon 35 nucleotides downstream. Two patients were homozygous for the
+frameshift. In 4 families that were studied, 1 was homozygous for the
+splice mutation, 2 were homozygous for the frameshift mutation, and 1
+was a genetic compound for the 2 mutations. Only the fourth family was
+nonconsanguineous.
+
+.0004
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, IVS4DS, G-A, +1
+
+See 606530.0003 and Leitersdorf et al. (1993).
+
+.0005
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG441GLN
+
+In 2 Japanese homozygotes, as well as a heterozygous subject, with
+cerebrotendinous xanthomatosis (213700), Kim et al. (1994) identified a
+G-to-A transition, changing codon 441 from CGG (arg) to CAG (gln).
+
+.0006
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG441TRP
+
+In a Japanese homozygote with cerebrotendinous xanthomatosis (213700),
+Kim et al. (1994) demonstrated that the CYP27 gene contained a C-to-T
+transition that converted codon 441 from CGG (arg) to TGG (trp). Both
+this and the arg441-to-gln mutation (606530.0005) resulted in a change
+in the restriction pattern with the enzymes StuI or HpaII.
+
+.0007
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG372GLN
+
+In a Japanese family with CTX (213700), Chen et al. (1997) identified a
+G-to-A transition, resulting in an arg372-to-gln amino acid substitution
+in the CYP27 protein. The mutation, homozygous in 1 family, was found in
+compound heterozygous state in a second Japanese family with a G-to-A
+substitution at amino acid position 441 (arg441 to gln; 606530.0005).
+They stated that Japanese CTX patients accounted for nearly one-third of
+all the CTX patients reported in the world up to that time.
+
+.0008
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG362SER
+
+In a 57-year-old Japanese male with cerebrotendinous xanthomatosis
+(213700), Chen et al. (1998) identified a C-to-A transversion in the -2
+position of exon 6, leading to an arg-to-ser substitution at codon 362.
+This mutation, in addition to causing an amino acid substitution, also
+affected normal splicing of exon 6, causing activation of a cryptic
+5-prime splice site 88 bp upstream from the 5-prime end of exon 6.
+
+.0009
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, IVS7, G-A, +1
+
+In a Japanese family with CTX (213700), Shiga et al. (1999) found
+homozygosity for a G-to-A transition at the 5-prime end in intron 7.
+Sequencing disclosed a direct conjunction of exon 6 and exon 8, i.e.,
+skipping of exon 7.
+
+.0010
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG441TRP
+
+Toba et al. (2002) described a Japanese patient with cerebrotendinous
+xanthomatosis (213700) and compound heterozygosity for arg441-to-trp
+(R441W) and arg 372-to-gln (R372Q; 606530.0007) mutations in the CYP27A1
+gene. The R441W substitution was the result of a C-to-T transition at
+nucleotide 1441 in exon 8. The patient was a 33-year-old male who had
+tendon hypertrophy, gait instability, difficulty in swallowing, juvenile
+cataract, and mental retardation, but not the rapid speech phenomenon.
+Dysarthria and excessive salivation were unusual features.
+
+.0011
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, GLY112GLU
+
+In a 49-year-old woman of Portuguese and Cape Verdean descent who
+presented with elevated cholestanol levels, markedly reduced
+mitochondrial 27-hydroxylase activity, and altered bile acid
+composition, Lamon-Fava et al. (2002) found that cerebrotendinous
+xanthomatosis (213700) was associated with compound heterozygosity for a
+gly112-to-glu (G112E) mutation and a 5-nucleotide deletion in exon 5
+(from nucleotides 965 to 969) that resulted in frameshift and insertion
+of a premature codon at position 296 (606530.0012). The patient had a
+history of mild intellectual disability and the development of Achilles
+tendon xanthomas beginning in early adolescence. She had received more
+than 18 years of treatment with chenodeoxycholic acid, which effectively
+prevented progression of the disease.
+
+.0012
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, 5-BP DEL, NT965
+
+See 606530.0012 and Lamon-Fava et al. (2002).
+
+.0013
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, THR339MET
+
+In a 53-year-old man with an unusual cerebrotendinous xanthomatosis
+phenotype (213700), involving xanthomas since adolescence, no mental
+retardation, and a progressive neuropsychiatric disorder beginning at
+age 44, Guyant-Marechal et al. (2005) identified compound heterozygosity
+for a 1016C-T transition in exon 5 of the CYP27A1 gene, resulting in a
+thr339-to-met (T339M) substitution on 1 allele, and a 1435C-G
+transversion in exon 8, resulting in an arg479-to-gly (R479G)
+substitution on the other allele.
+
+.0014
+CEREBROTENDINOUS XANTHOMATOSIS
+CYP27A1, ARG479GLY
+
+See 606530.0013 and Guyant-Marechal et al. (2005).
+
+REFERENCE 1. Cali, J. J.; Hsieh, C.-L.; Francke, U.; Russell, D. W.: Mutations
+in the bile acid biosynthetic enzyme sterol 27-hydroxylase underlie
+cerebrotendinous xanthomatosis. J. Biol. Chem. 266: 7779-7783, 1991.
+
+2. Cali, J. J.; Russell, D. W.: Characterization of human sterol
+27-hydroxylase: a mitochondrial cytochrome P-450 that catalyzes multiple
+oxidation reactions in bile acid biosynthesis. J. Biol. Chem. 266:
+7774-7778, 1991.
+
+3. Chen, W.; Kubota, S.; Kim, K.-S.; Cheng, J.; Kuriyama, M.; Eggertsen,
+G.; Bjorkhem, I.; Seyama, Y.: Novel homozygous and compound heterozygous
+mutations of sterol 27-hydroxylase gene (CYP27) cause cerebrotendinous
+xanthomatosis in three Japanese patients from two unrelated families. J.
+Lipid Res. 38: 870-879, 1997.
+
+4. Chen, W.; Kubota, S.; Ujike, H.; Ishihara, T.; Seyama, Y.: A novel
+arg362ser mutation in the sterol 27-hydroxylase gene (CYP27): its
+effects on pre-mRNA splicing and enzyme activity. Biochemistry 37:
+15050-15056, 1998.
+
+5. Guyant-Marechal, L.; Verrips, A.; Girard, C.; Wevers, R. A.; Zijlstra,
+F.; Sistermans, E.; Vera, P.; Campion, D.; Hannequin, D.: Unusual
+cerebrotendinous xanthomatosis with fronto-temporal dementia phenotype. Am.
+J. Med. Genet. 139A: 114-117, 2005.
+
+6. Kim, K.-K.; Kubota, S.; Kuriyama, M.; Fujiyama, J.; Bjorkhem, I.;
+Eggertsen, G.; Seyama, Y.: Identification of new mutations in sterol
+27-hydroxylase gene in Japanese patients with cerebrotendinous xanthomatosis
+(CTX). J. Lipid Res. 35: 1031-1039, 1994.
+
+7. Lamon-Fava, S.; Schaefer, E. J.; Garuti, R.; Salen, G.; Calandra,
+S.: Two novel mutations in the sterol 27-hydroxylase gene causing
+cerebrotendinous xanthomatosis. Clin. Genet. 61: 185-191, 2002.
+
+8. Leitersdorf, E.; Reshef, A.; Meiner, V.; Levitzki, R.; Schwartz,
+S. P.; Dann, E. J.; Berkman, N.; Cali, J. J.; Klapholz, L.; Berginer,
+V. M.: Frameshift and splice-junction mutations in the sterol 27-hydroxylase
+gene cause cerebrotendinous xanthomatosis in Jews of Moroccan origin. J.
+Clin. Invest. 91: 2488-2496, 1993.
+
+9. Meir, K.; Kitsberg, D.; Alkalay, I.; Szafer, F.; Rosen, H.; Shpitzen,
+S.; Avi, L. B.; Staels, B.; Fievet, C.; Meiner, V.; Bjorkhem, I.;
+Leitersdorf, E.: Human sterol 27-hydroxylase (CYP27) overexpressor
+transgenic mouse model: evidence against 27-hydroxycholesterol as
+a critical regulator of cholesterol homeostasis. J. Biol. Chem. 277:
+34036-34041, 2002.
+
+10. Rosen, H.; Reshef, A.; Maeda, N.; Lippoldt, A.; Shpizen, S.; Triger,
+L.; Eggertsen, G.; Bjorkhem, I.; Leitersdorf, E.: Markedly reduced
+bile acid synthesis but maintained levels of cholesterol and vitamin
+D metabolites in mice with disrupted sterol 27-hydroxylase gene. J.
+Biol. Chem. 273: 14805-14812, 1998.
+
+11. Shiga, K.; Fukuyama, R.; Kimura, S.; Nakajima, K.; Fushiki, S.
+: Mutation of the sterol 27-hydroxylase gene (CYP27) results in truncation
+of mRNA expressed in leucocytes in a Japanese family with cerebrotendinous
+xanthomatosis. J. Neurol. Neurosurg. Psychiat. 67: 675-677, 1999.
+
+12. Shinkyo, R.; Sakaki, T.; Kamakura, M.; Ohta, M.; Inouye, K.:
+Metabolism of vitamin D by human microsomal CYP2R1. Biochem. Biophys.
+Res. Commun. 324: 451-457, 2004.
+
+13. Toba, H.; Fukuyama, R.; Sasaki, M.; Shiga, K.; Ishibashi, S.;
+Fushiki, S.: A Japanese patient with cerebrotendinous xanthomatosis
+has different mutations within two functional domains of CYP27. (Letter) Clin.
+Genet. 61: 77-78, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/7/2010
+Marla J. F. O'Neill - updated: 1/12/2006
+Patricia A. Hartz - updated: 2/4/2003
+Victor A. McKusick - updated: 8/12/2002
+Victor A. McKusick - updated: 5/9/2002
+
+CREATED Ada Hamosh: 12/6/2001
+
+EDITED mgross: 04/08/2010
+terry: 4/7/2010
+wwang: 1/19/2006
+terry: 1/12/2006
+tkritzer: 2/6/2004
+mgross: 2/4/2003
+carol: 8/15/2002
+tkritzer: 8/15/2002
+tkritzer: 8/13/2002
+terry: 8/12/2002
+alopez: 5/14/2002
+terry: 5/9/2002
+terry: 12/7/2001
+carol: 12/6/2001
+
+606570	TITLE *606570 SECRETED FRIZZLED-RELATED PROTEIN 4; SFRP4
+;;FRIZZLED-RELATED PROTEIN, HUMAN ENDOMETRIUM; FRPHE
+DESCRIPTION The WNT (e.g., WNT6; 604663) signaling cascade is involved in regulation
+of cytoskeletal rearrangements, apoptosis, and proliferation.
+WNT-mediated simulation of 'frizzled' receptors (e.g., FZD2; 600667) can
+activate the beta-catenin (CTNNB1; 116806) pathway, mitogen-activated
+protein kinase (MAPK) cascades, and G protein-dependent pathways. The
+signaling function of the WNT/frizzled pathway is antagonized by
+secreted frizzled-related proteins (e.g. SFRP1; 604156), which bind to
+either WNTs or frizzled receptors.
+
+CLONING
+
+Using differential display to compare uterine adenocarcinoma with normal
+proliferative endometrium, followed by screening a uterine cDNA library
+and 5-prime RACE, Abu Jawdeh et al. (1999) isolated a cDNA encoding
+SFRP4, which they termed FRPHE. Sequence analysis predicted that the
+346-amino acid SFRP4 protein contains an N-terminal signal peptide, no
+transmembrane domain, and a hydrophilic C terminus. In situ
+hybridization analysis demonstrated exclusive expression in stromal and
+myometrial cells, particularly in endometrium and breast. Upregulated
+expression was detected in endometrial and breast carcinomas. Northern
+blot analysis revealed wide expression of 3.0- and 2.2-kb SFRP4
+transcripts, and expression in endometrium correlated with phase of the
+menstrual cycle. Expression was highest in late proliferative
+endometrium. Function analysis in Xenopus embryos indicated that SFRP4
+inhibited WNT8 (606360)-mediated development of secondary axes.
+Abu-Jawdeh et al. (1999) proposed that SFRP4 may act in endometrium as a
+modulator of WNT-mediated signaling to regulate adult uterine morphology
+and function.
+
+GENE FUNCTION
+
+By RT-PCR analysis, Schumann et al. (2000) showed that expression of
+SFRP1, SFRP2 (604157), and FZD2 was unchanged in failing myocardium
+compared with nonfailing controls, whereas expression of SFRP3 (FRZB;
+605083) and SFRP4 was elevated. In situ RT-PCR analysis detected
+expression of SFRP3 and SFRP4 in cardiomyocytes. Western blot analysis
+indicated that CTNNB1 expression was decreased in myocardium with high
+SFRP3 and SFRP4 levels. Schumann et al. (2000) proposed that paracrine
+WNT/frizzled signaling is inhibited by SFRPs in overloaded myocardium
+and that this inhibition is associated with depletion of cytosolic
+CTNNB1 and the induction of apoptosis susceptibility.
+
+MAPPING
+
+Rattner et al. (1997) mapped the mouse Sfrp4 gene to chromosome 13 in a
+region showing homology of synteny to human chromosome 7p14-p13.
+
+REFERENCE 1. Abu-Jawdeh, G.; Comella, N.; Tomita, Y.; Brown, L. F.; Tognazzi,
+K.; Sokol, S. Y.; Kocher, O.: Differential expression of frpHE: a
+novel human stromal protein of the secreted frizzled gene family,
+during the endometrial cycle and malignancy. Lab. Invest. 79: 439-447,
+1999.
+
+2. Rattner, A.; Hsieh, J.-C.; Smallwood, P. M.; Gilbert, D. J.; Copeland,
+N. G.; Jenkins, N. A.; Nathans, J.: A family of secreted proteins
+contains homology to the cysteine-rich ligand-binding domain of frizzled
+receptors. Proc. Nat. Acad. Sci. 94: 2859-2863, 1997.
+
+3. Schumann, H.; Holtz, J.; Zerkowski, H.-R.; Hatzfeld, M.: Expression
+of secreted frizzled related proteins 3 and 4 in human ventricular
+myocardium correlates with apoptosis related gene expression. Cardiovasc.
+Res. 45: 720-728, 2000.
+
+CREATED Paul J. Converse: 12/18/2001
+
+EDITED mgross: 12/18/2001
+
+614169	TITLE *614169 NEUROBEACHIN-LIKE 2; NBEAL2
+;;KIAA0540
+DESCRIPTION 
+DESCRIPTION
+
+NBEAL2 belongs to the BEACH (beige and CHS1) domain-containing protein
+family, which includes NBEAL1 (609816), neurobeachin (NBEA; 604889),
+CHS1 (LYST; 606897), and LRBA (606453). NBEAL2 is predicted to have a
+role in alpha-granule biogenesis in megakaryocytes (Gunay-Aygun et al.,
+2011; Albers et al., 2011; Kahr et al., 2011).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Nagase et al. (1998) cloned NBEAL2, which they designated
+KIAA0540. The deduced 1,113-amino acid protein shares weak similarity
+with human beige-like protein (BGL, or LRBA; 606453). RT-PCR analysis
+detected variable NBEAL2 expression in all tissues examined. Expression
+was highest in lung, kidney, and thymus, lowest in brain, spleen, and
+testis, and intermediate in all other tissues.
+
+By database analysis, Gunay-Aygun et al. (2011) identified 15 NBEAL2
+mRNA transcripts, of which at least 7 are protein coding. The
+full-length 2,754-amino acid NBEAL2 protein has an armadillo (ARM; see
+611226)-type fold in its N-terminal half and a BEACH domain and WD40
+repeats in its C-terminal half. RT-PCR detected variable expression of
+most NBEAL2 transcripts in whole blood and in all hematopoietic cell
+types examined, including megakaryocytes and platelets. Electron
+microscopic analysis of fractionated normal human platelets revealed
+colocalization of NBEAL2 with markers of the dense tubular system and
+endoplasmic reticulum.
+
+By database analysis, Albers et al. (2011) found that NBEAL2 was
+expressed in hematopoietic cells, but not in adult or fetal brain. Among
+8 blood lineages and platelets, NBEAL2 showed highest expression in
+megakaryocytes and granulocytes, and it was upregulated during
+megakaryopoiesis.
+
+Kahr et al. (2011) stated that the 2,754-amino acid NBEAL2 protein has a
+calculated molecular mass of 302.5 kD. In addition to the BEACH domain
+and WD40 repeats, NBEAL2 has a concavalin A-like lectin domain and a
+pleckstrin (PLEK; 173570) homology domain.
+
+GENE STRUCTURE
+
+Gunay-Aygun et al. (2011) determined that the NBEAL2 gene contains 54
+exons.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the NBEAL2
+gene to chromosome 3. By genomic sequence analysis, Gunay-Aygun et al.
+(2011) mapped the NBEAL2 gene within the gray platelet syndrome (GPS;
+139090) locus on chromosome 3p22.1-p21.1. Albers et al. (2011) and Kahr
+et al. (2011) stated that the NBEAL2 gene maps to chromosome 3p21.
+
+MOLECULAR GENETICS
+
+Simultaneously and independently, Gunay-Aygun et al. (2011), Albers et
+al. (2011), and Kahr et al. (2011) identified biallelic mutations in the
+NBEAL2 gene in patients with gray platelet syndrome (GPS; 139090), a
+rare autosomal recessive disorder characterized by mild to moderate
+bleeding tendency, moderate thrombocytopenia, and a marked decrease or
+absence of platelet alpha-granules and of the proteins contained in
+alpha-granules. Using exome sequencing of the 3p21 locus, Gunay-Aygun et
+al. (2011) identified homozygous or compound heterozygous mutations in
+the NBEAL2 gene (see, e.g., 614169.0001-614169.0003) in 15 unrelated
+patients with the disorder who had been linked to the 3p21 locus
+(Gunay-Aygun et al., 2010). There were 5 missense, 3 nonsense, 4
+frameshift, and 3 splice site mutations. The mutations were not found in
+629 control genomes or 100 control individuals. There were no apparent
+genotype/phenotype correlations. Albers et al. (2011) also used exome
+sequencing of the 3p21 locus to identify homozygous or compound
+heterozygous NBEAL2 mutations (see, e.g., 614169.0003-614169.0005) in
+affected members of 4 families with GPS. The mutations occurred
+throughout the gene. Kahr et al. (2011) used platelet-derived mRNA to
+identify the NBEAL2 gene as mutant in a patient with GPS. Sequencing of
+the gene identified biallelic mutations (see, e.g., 614169.0006 and
+614169.0007) in affected individuals of 3 families with the disorder.
+One family was Pakistani, 1 was Native American, and a third was Native
+American/Mexican. All the authors noted that NBEAL2 belongs to a family
+of proteins involved in membrane dynamics and intracellular vesicle
+trafficking. One such protein, LYST (606897), is mutant in
+Chediak-Higashi syndrome (CHS; 214500), which is characterized by
+defects in platelet granules and other lysosome-related organelles. The
+findings indicated that NBEAL2 is critical for the development of
+platelet alpha-granules.
+
+ANIMAL MODEL
+
+Albers et al. (2011) found that knockout of zebrafish Nbeal2 via
+morpholino oligonucleotides resulted in spontaneous tail bleeding in 41%
+of embryos. Morpholino knockdown resulted in complete abrogation of
+thrombocytes, the zebrafish equivalent of platelets, whereas mature
+erythrocytes were not affected.
+
+ALLELIC VARIANT .0001
+GRAY PLATELET SYNDROME
+NBEAL2, ARG901TER
+
+In a Muslim Bedouin patient with gray platelet syndrome (GPS; 139090),
+Gunay-Aygun et al. (2011) identified a homozygous 2701C-T transition in
+exon 19 of the NBEAL2 gene, resulting in an arg901-to-ter (R901X)
+substitution. The patient had moderate bleeding.
+
+.0002
+GRAY PLATELET SYNDROME
+NBEAL2, SER294TER
+
+In a Mennonite patient with gray platelet syndrome (139090), Gunay-Aygun
+et al. (2011) identified a homozygous 881C-G transversion in exon 8 of
+the NBEAL2 gene, resulting in a ser294-to-ter (S294X) substitution. The
+patient had severe bleeding.
+
+.0003
+GRAY PLATELET SYNDROME
+NBEAL2, LEU388PRO
+
+In a French patient with moderate bleeding due to gray platelet syndrome
+(139090), Gunay-Aygun et al. (2011) identified a homozygous 1163T-C
+transition in exon 11 of the NBEAL2 gene, resulting in a leu388-to-pro
+(L388P) substitution at a highly conserved residue.
+
+Albers et al. (2011) identified a homozygous L388P mutation in a patient
+with GPS.
+
+.0004
+GRAY PLATELET SYNDROME
+NBEAL2, GLU643VAL
+
+In 3 sibs with moderate bleeding due to GPS (139090), Albers et al.
+(2011) identified compound heterozygosity for 2 mutations in the NBEAL2
+gene: an A-to-T transversion resulting in a glu643-to-val (E643V)
+substitution, and a C-to-T transition resulting in a pro2100-to-leu
+(P2100L; 614169.0005) substitution in the BEACH domain. Both
+substitutions occurred in highly conserved regions. The unaffected
+mother was heterozygous for the E643V substitution, but DNA from the
+father was unavailable.
+
+.0005
+GRAY PLATELET SYNDROME
+NBEAL2, PRO2100LEU
+
+See 614169.0004 and Albers et al. (2011).
+
+.0006
+GRAY PLATELET SYNDROME
+NBEAL2, TRP607TER
+
+In affected members of a Native American family with GPS (139090), Kahr
+et al. (2011) identified a homozygous 1820G-A transition in exon 13 of
+the NBEAL2 gene, resulting in a trp607-to-ter (W607X) substitution. Two
+sibs from a second family with the disorder were compound heterozygous
+for W607X and a 1-bp duplication in exon 33 (5413dupG; 614169.0007). The
+unaffected mother, who was Native American, carried the W607X mutation,
+whereas the unaffected father, who was of Mexican origin, carried the
+duplication.
+
+.0007
+GRAY PLATELET SYNDROME
+NBEAL2, 1-BP DUP, 5413G
+
+See 614169.0006 and Kahr et al. (2011).
+
+REFERENCE 1. Albers, C. A.; Cvejic, A.; Favier, R.; Boumans, E. E.; Alessi,
+M.-C.; Bertone, P.; Jordan, G.; Kettleborough, R. N. W.; Kiddle, G.;
+Kostadima, M.; Read, R. J.; Sipos, B.; Sivapalaratnam, S.; Smethurst,
+P. A.; Stephens, J.; Voss, K.; Nurden, A.; Rendon, A.; Nurden, P.;
+Ouwehand, W. H.: Exome sequencing identifies NBEAL2 as the causative
+gene for gray platelet syndrome. Nature Genet. 43: 735-737, 2011.
+
+2. Gunay-Aygun, M.; Falik-Zaccai, T. C.; Vilboux, T.; Zivony-Elboum,
+Y.; Gumruk, F.; Cetin, M.; Khayat, M.; Boerkoel, C. F.; Kfir, N.;
+Huang, Y.; Maynard, D.; Dorward, H.; and 12 others: NBEAL2 is mutated
+in gray platelet syndrome and is required for biogenesis of platelet
+alpha-granules. Nature Genet. 43: 732-734, 2011.
+
+3. Gunay-Aygun, M.; Zivony-Elboum, Y.; Gumruk, F.; Geiger, D.; Cetin,
+M.; Khayat, M.; Kleta, R.; Kfir, N.; Anikster, Y.; Chezar, J.; Arcos-Burgos,
+M.; Shalata, A.; and 24 others: Gray platelet syndrome: natural
+history of a large patient cohort and locus assignment to chromosome
+3p. Blood 116: 4990-5001, 2010.
+
+4. Kahr, W. H. A.; Hinckley, J.; Li, L.; Schwertz, H.; Christensen,
+H.; Rowley, J. W.; Pluthero, F. G.; Urban, D.; Fabbro, S.; Nixon,
+B.; Gadzinski, R.; Storck, M.; and 9 others: Mutations in NBEAL2,
+encoding a BEACH protein, cause gray platelet syndrome. Nature Genet. 43:
+738-740, 2011.
+
+5. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/17/2011
+
+CREATED Patricia A. Hartz: 8/16/2011
+
+EDITED terry: 09/29/2011
+joanna: 8/25/2011
+alopez: 8/22/2011
+ckniffin: 8/17/2011
+mgross: 8/16/2011
+
+609709	TITLE *609709 GLYCOSYLTRANSFERASE-LIKE 1B; GYLTL1B
+;;LIKE-GLYCOSYLTRANSFERASE 2;;
+LARGE2
+DESCRIPTION 
+CLONING
+
+By database searching, Fujimura et al. (2005) identified a sequence,
+which they designated LARGE2, that showed homology to LARGE (603590), a
+putative glycosyltransferase thought to be involved in the maturation of
+alpha-dystroglycan (alpha-DG, DAG1; 128239). Fujimura et al. (2005)
+identified and subsequently cloned the LARGE2 gene from human kidney
+RNA. LARGE2 encodes a deduced 721-amino acid protein with a topology
+typical of a type II membrane protein, and a DXD motif that is present
+in many glycosyltransferases. The LARGE2 and LARGE proteins share 64.2%
+sequence identity. Quantitative real-time PCR showed that LARGE2 and
+LARGE are expressed almost ubiquitously. LARGE2 exhibits highest
+expression in placenta, followed by pancreas, mammary gland, and kidney.
+Unlike LARGE, which is expressed most highly in fetal brain, LARGE2 is
+hardly detectable in the central nervous system.
+
+GENE FUNCTION
+
+Fujimura et al. (2005) coexpressed alpha-DG with LARGE and LARGE2 in
+human embryonic kidney 3T3 cells and observed that LARGE2 supported the
+maturation of alpha-DG more effectively than LARGE and exerted its
+activity in addition to LARGE. Using deletion mutants of alpha-DG,
+Fujimura et al. (2005) found that LARGE and/or LARGE2 facilitate the
+functional glycosylation of the mucin-like domain of alpha-DG. In vitro
+pull-down assays indicated that LARGE2 recognizes the N-terminal domain
+of alpha-DG. Fujimura et al. (2005) suggested that LARGE and LARGE2 have
+compensatory functions that can explain the residual functionally
+glycosylated alpha-DG in a patient with a form of muscular dystrophy
+(MDC1D; 608840) who had null LARGE alleles.
+
+Brockington et al. (2005) showed that GYLTL1B and LARGE localized to the
+Golgi apparatus and both stimulated alpha-dystroglycan
+hyperglycosylation and increased its affinity for laminin binding. The
+authors suggested that GYLTL1B may be a candidate gene for muscular
+dystrophy, and that its overexpression could compensate for the
+deficiency of both LARGE and other glycosyltransferases.
+
+MAPPING
+
+By sequence analysis, Fujimura et al. (2005) mapped the LARGE2 gene to
+chromosome 11p11.2.
+
+REFERENCE 1. Brockington, M.; Torelli, S.; Prandini, P.; Boito, C.; Dolatshad,
+N. F.; Longman, C.; Brown, S. C.; Muntoni, F.: Localization and functional
+analysis of the LARGE family of glycosyltransferases: significance
+for muscular dystrophy. Hum. Molec. Genet. 14: 657-665, 2005.
+
+2. Fujimura, K.; Sawaki, H.; Sakai, T.; Hiruma, T.; Nakanishi, N.;
+Sato, T.; Ohkura, T.; Narimatsu, H.: LARGE2 facilitates the maturation
+of alpha-dystroglycan more effectively than LARGE. Biochem. Biophys.
+Res. Commun. 329: 1162-1171, 2005.
+
+CONTRIBUTORS George E. Tiller - updated: 2/5/2008
+
+CREATED Jennifer L. Goldstein: 11/14/2005
+
+EDITED wwang: 02/12/2008
+terry: 2/5/2008
+carol: 11/14/2005
+
+601929	TITLE *601929 ATPase, Ca(2+)-TRANSPORTING, UBIQUITOUS; ATP2A3
+;;SARCOPLASMIC RETICULUM Ca(2+)-ATPase 3; SERCA3
+DESCRIPTION 
+DESCRIPTION
+
+Sarcoplasmic reticulum Ca(2+)-ATPases (SERCAs), such as ATP2A3, are
+membrane-spanning proteins that transport Ca(2+) across membranes
+bordering Ca(2+)-sequestering stores, such as the sarcoplasmic or
+endoplasmic reticulum (ER). Isoform diversity results by alternative
+processing of the primary gene transcripts in a developmentally
+modulated or tissue-specific manner.
+
+CLONING
+
+Dode et al. (1996) isolated cDNA and genomic clones of human SERCA3. The
+deduced 109,237-Da protein contains 999 amino acids and is 94% similar
+to rat SERCA3. Northern blot analysis provided evidence for alternative
+processing of the SERCA3 transcript.
+
+By RT-PCR, Santiago-Garcia et al. (1996) found variable expression of
+the PMCA (see 108731) and SERCA genes during human fetal heart
+development. SERCA3 was expressed at relatively constant levels at all
+stages of fetal heart development examined and in adult heart and
+placenta.
+
+Poch et al. (1998) cloned 2 SERCA3 splice variants from a kidney cDNA
+library and a Jurkat T-cell line cDNA library. The deduced proteins,
+which contain 999 and 1,029 amino acids, both have 10 transmembrane
+domains but differ at their C termini. They also cloned a third variant
+encoding a 998-amino acid protein that differs from the 999-amino acid
+protein at 3 amino acids; however, the origin of this variant was
+unclear. Northern blot analysis detected a major transcript of about 5
+kb expressed at highest levels in thymus, colon, pancreas, and spleen.
+Intermediate to low expression was detected in all other tissues
+examined. The SERCA3 proteins localized in the nuclear envelope and in
+the ER throughout human embryonic kidney and Jurkat T-cell lines.
+
+Dode et al. (1998) identified 3 SERCA3 splice variants that encode
+proteins with 999, 1,043, and 1,024 amino acids. The proteins, which the
+authors designated SERCA3a, SERCA3b, and SERCA3c, respectively, differ
+only in their C termini. Mouse Serca3 is also expressed as 3 variants of
+similar size.
+
+By RT-PCR of human platelets, Martin et al. (2002) identified and cloned
+2 additional SERCA3 splice variants, which they designated SERCA3d and
+SERCA3e. The deduced proteins contain 1,044 and 1,052 amino acids,
+respectively, and differ from each other and the previously identified
+SERCA3 isoforms only in their C termini. RT-PCR detected all 5 SERCA3
+splice variants in platelets, lung, and pancreas. Heart, brain,
+placenta, and kidney expressed 3 or 4 splice variants, and skeletal
+muscle expressed only 1 variant. Variation was also found in the
+expression of SERCA3 variants in established cell lines.
+
+Bobe et al. (2004) identified a sixth SERCA3 variant, which they
+designated SERCA3f, that lacks exon 21 but retains exon 22. The deduced
+SERCA3f protein contains 1,033-amino acids and differs from the other
+SERCA3 isoforms at the C terminus. RT-PCR detected SERCA3f expression in
+all tissues and cell lines examined.
+
+GENE FUNCTION
+
+Following isolation of the microsome fraction of transfected human
+embryonic kidney cells, Poch et al. (1998) demonstrated that proteins
+encoded by 2 SERCA3 splice variants supported Ca(2+) uptake and ATPase
+activity.
+
+Martin et al. (2002) found that all 5 SERCA3 isoforms pumped Ca(2+) with
+similar affinities, and all pumped Ca(2+) toward the ER. However, the
+isoforms modulated cytosolic Ca(2+) concentrations and ER Ca(2+)
+concentrations differently. Martin et al. (2002) concluded that the
+SERCA3 isoforms have widespread roles in cellular Ca(2+) signaling.
+
+Gelebart et al. (2002) found that expression of SERCA3 was significantly
+reduced or lost in colon carcinomas compared with normal colonic
+epithelial cells. Treatment of tumor cells with butyrate or other
+differentiation inducers resulted in increased SERCA3 expression,
+whereas SERCA2 (ATP2A2; 108740) expression was unaltered or was reduced.
+SERCA3 expression was increased along with other differentiation markers
+during spontaneous post-confluence differentiation of a colon carcinoma
+cell line.
+
+Because the SERCA3b and SERCA3f isoforms diverge at the beginning of the
+C-terminal domain but share the same last 21 amino acids, Bobe et al.
+(2004) investigated the relationship between structure, function, and
+location of these isoforms. Immunofluorescence and/or confocal
+microscopy showed that SERCA3f and SERCA3b localized in overlapping but
+distinct ER locations. By transfection in human embryonic kidney cells,
+Bobe et al. (2004) found that SERCA3b and SERCA3f created distinct
+resting cytosolic Ca(2+) concentrations and ER Ca(2+) content. SERCA3b
+and SERCA3f showed similar sensitivity to a SERCA inhibitor and similar
+kinetics of Ca(2+) release and reuptake. They both demonstrated low
+apparent Ca(2+) affinity and enhanced rates of dephosphorylation of the
+phosphoenzyme intermediate relative to other SERCA Ca(2+) channels.
+
+GENE STRUCTURE
+
+Dode et al. (1998) determined that the ATP2A3 gene contains 22 exons and
+spans more than 50 kb. Exon 21 is subject to alternative splicing and
+may be included, partially included, or excluded. The promoter region
+has no TATA box, but it has 14 putative Sp1 (189906) sites, 11 CACCC
+boxes, 5 AP2 (107580)-binding motifs, 3 GGCTGGGG motifs, 3 CANNTG boxes,
+a GATA (see 305371) site, and single sites for ETS1 (164720), MYC
+(190080), and TFIIIC (see 603246). The authors showed that the GC-rich
+region was critical for SERCA3 transcription in Jurkat cells.
+
+Martin et al. (2002) identified a novel exon within what was previously
+reported as the last intron of ATP2A3, indicating that the ATP2A3 gene
+contains 23 exons.
+
+MAPPING
+
+Dode et al. (1996) assigned the ATP2A3 gene to human chromosome 17p13.3
+by fluorescence in situ hybridization.
+
+ANIMAL MODEL
+
+Liu et al. (1997) found that Serca3-null mice were viable, fertile, and
+did not exhibit an overt disease phenotype. However, mutant aortic ring
+preparations showed diminished acetylcholine-induced intracellular
+Ca(2+) signaling and relaxation, with reduced Ca(2+) transient and
+nitric oxide production. Their response to other modifiers of vascular
+tone was unaltered. Liu et al. (1997) concluded that SERCA3 plays a role
+in Ca(2+) signaling mechanisms that mediate endothelium-dependent
+relaxation of vascular smooth muscle.
+
+Serca3 expression is restricted to beta cells in mouse pancreas.
+Arredouani et al. (2002) found the Serca3 ablation was insufficient in
+itself to alter glucose homeostasis or impair insulin secretion in mice.
+However, Serca3 ablation altered the reuptake of Ca(2+) into the ER and
+increased the insulin response of islets to glucose.
+
+REFERENCE 1. Arredouani, A.; Guiot, Y.; Jonas, J.-C.; Liu, L. H.; Nenquin, M.;
+Pertusa, J. A.; Rahier, J.; Rolland, J.-F.; Shull, G. E.; Stevens,
+M.; Wuytack, F.; Henquin, J.-C.; Gilon, P.: SERCA3 ablation does
+not impair insulin secretion but suggests distinct roles for different
+sarcoendoplasmic reticulum Ca(2+) pumps for Ca(2+) homeostasis in
+pancreatic beta-cells. Diabetes 51: 3245-3253, 2002.
+
+2. Bobe, R.; Bredoux, R.; Corvazier, E.; Andersen, J. P.; Clausen,
+J. D.; Dode, L.; Kovacs, T.; Enouf, J.: Identification, expression,
+function, and localization of a novel (sixth) isoform of the human
+sarco/endoplasmic reticulum Ca(2+) ATPase 3 gene. J. Biol. Chem. 279:
+24297-24306, 2004.
+
+3. Dode, L.; De Greef, C.; Mountian, I.; Attard, M.; Town, M. M.;
+Casteels, R.; Wuytack, F.: Structure of the human sarco/endoplasmic
+reticulum Ca(2+)-ATPase 3 gene: promoter analysis and alternative
+splicing of the SERCA3 pre-mRNA. J. Biol. Chem. 273: 13982-13994,
+1998.
+
+4. Dode, L.; Wuytack, F.; Kools, P. F. J.; Baba-Aissa, F.; Raeymaekers,
+L.; Brike, F.; Van de Ven, W. J. M.; Casteels, R.: cDNA cloning,
+expression and chromosomal localization of the human sarco/endoplasmic
+reticulum Ca(2+)-ATPase 3 gene. Biochem. J. 318: 689-699, 1996.
+Note: Erratum:  Biochem. J. 319: 1008 only, 1996.
+
+5. Gelebart, P.; Kovacs, T.; Brouland, J.-P.; van Gorp, R.; Grossmann,
+J.; Rivard, N.; Panis, Y.; Martin, V.; Bredoux, R.; Enouf, J.; Papp,
+B.: Expression of endomembrane calcium pumps in colon and gastric
+cancer cells: induction of SERCA3 expression during differentiation. J.
+Biol. Chem. 277: 26310-26320, 2002.
+
+6. Liu, L. H.; Paul, R. J.; Sutliff, R. L.; Miller, M. L.; Lorenz,
+J. N.; Pun, R. Y. K.; Duffy, J. J.; Doetschman, T.; Kimura, Y.; MacLennan,
+D. H.; Hoying, J. B.; Shull, G. E.: Defective endothelium-dependent
+relaxation of vascular smooth muscle and endothelial cell Ca(2+) signaling
+in mice lacking sarco(endo)plasmic reticulum Ca(2+)-ATPase isoform
+3. J. Biol. Chem. 272: 30538-30545, 1997.
+
+7. Martin, V.; Bredoux, R.; Corvazier, E.; van Gorp, R.; Kovacs, T.;
+Gelebart, P.; Enouf, J.: Three novel sarco/endoplasmic reticulum
+Ca(2+)-ATPase (SERCA) 3 isoforms: expression, regulation, and function
+of the members of the SERCA3 family. J. Biol. Chem. 277: 24442-24452,
+2002.
+
+8. Poch, E.; Leach, S.; Snape, S.; Cacic, T.; MacLennan, D. H.; Lytton,
+J.: Functional characterization of alternatively spliced human SERCA3
+transcripts. Am. J. Physiol. 275: C1449-C1458, 1998.
+
+9. Santiago-Garcia, J.; Mas-Oliva, J.; Saavedra, D.; Zarain-Herzberg,
+A.: Analysis of mRNA expression and cloning of a novel plasma membrane
+Ca(2+)-ATPase splice variant in human heart. Molec. Cell. Biol. 155:
+173-182, 1996.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/7/2005
+
+CREATED Lori M. Kelman: 8/6/1997
+
+EDITED alopez: 03/08/2013
+terry: 4/5/2005
+carol: 2/16/2005
+mgross: 2/8/2005
+mgross: 2/7/2005
+carol: 8/12/1998
+dholmes: 10/21/1997
+dholmes: 8/12/1997
+dholmes: 8/11/1997
+joanna: 8/6/1997
+dholmes: 8/6/1997
+
+605992	TITLE *605992 LIM HOMEOBOX PROTEIN 5; LHX5
+DESCRIPTION For background information on the LIM gene family, see LHX1 (601999).
+
+CLONING
+
+By screening a human fetal brain cDNA library with mouse Lhx5 PCR
+primers, Zhao et al. (2000) identified the human homolog, LHX5. The LHX5
+gene encodes a predicted 402-amino acid protein containing 2 LIM domains
+and a homeodomain. LHX5 shares 98.8% amino acid identity with the mouse
+Lhx5 gene product. Using RT-PCR, Zhao et al. (2000) detected LHX5
+expression in fetal brain as well as in various regions of the adult
+central nervous system including spinal cord, cerebellum, and thalamus.
+Using in situ hybridization, Sheng et al. (1997) detected Lhx5 mRNA
+expression in the developing central nervous system of mouse embryos and
+concluded that the expression pattern suggested a regulatory function in
+forebrain formation.
+
+GENE STRUCTURE
+
+Zhao et al. (2000) determined that the LHX5 gene contains 5 exons.
+
+MAPPING
+
+By fluorescence in situ hybridization, Zhao et al. (2000) mapped the
+LHX5 gene to chromosome 12q24.31-q24.32.
+
+ANIMAL MODEL
+
+Zhao et al. (1999) generated mice lacking functional Lhx5. Although most
+of the homozygous Lhx5 mutant mice died a few days after birth, some
+survived to adulthood. Histologic analysis of the surviving homozygous
+mutant mice revealed a defect in hippocampal development. Hippocampal
+neural precursor cells were specified and proliferated, but many of them
+failed either to exit the cell cycle or to differentiate and migrate
+properly. Zhao et al. (1999) concluded that Lhx5 is essential for the
+regulation of precursor cell proliferation and for the control of
+neuronal differentiation and migration during hippocampal development.
+
+REFERENCE 1. Sheng, H. Z.; Bertuzzi, S.; Chiang, C.; Shawlot, W.; Taira, M.;
+Dawid, I.; Westphal, H.: Expression of murine Lhx5 suggests a role
+in specifying the forebrain. Dev. Dyn. 208: 266-277, 1997.
+
+2. Zhao, Y.; Hermesz, E.; Yarolin, M. C.; Westphal, H.: Genomic structure,
+chromosomal localization and expression of the human LIM-homeobox
+gene LHX5. Gene 260: 95-101, 2000.
+
+3. Zhao, Y.; Sheng, H. Z.; Amini, R.; Grinberg, A.; Lee, E.; Huang,
+S.; Taira, M.; Westphal, H.: Control of hippocampal morphogenesis
+and neuronal differentiation by the LIM homeobox gene Lhx5. Science 284:
+115-158, 1999.
+
+CREATED Dawn Watkins-Chow: 6/6/2001
+
+EDITED alopez: 03/28/2012
+terry: 3/18/2004
+carol: 6/6/2001
+
+607289	TITLE *607289 BIOGENESIS OF LYSOSOME-RELATED ORGANELLES COMPLEX 1, SUBUNIT 5; BLOC1S5
+;;BLOC1, SUBUNIT 5; BLOS5;;
+MUTED, MOUSE, HOMOLOG OF; MUTED
+DESCRIPTION 
+DESCRIPTION
+
+The muted (mu) mouse is a model for Hermansky-Pudlak Syndrome (HPS;
+203300). Mice with mutations in the muted gene have light eyes at birth
+and fur of a muted brown shade.
+
+CLONING
+
+Zhang et al. (2002) identified and cloned the mouse muted gene.
+Full-length muted cDNA encodes a deduced 185-amino acid protein.
+Northern blot analysis revealed ubiquitous expression of a 1.8-kb
+transcript in normal mice, with higher levels in brain, bone marrow,
+kidney, and liver and lower levels in skeletal muscle. By transfection
+of mouse melanocytes with epitope-tagged muted constructs, Zhang et al.
+(2002) found muted protein in vesicles distributed throughout the cell
+body and dendrites. Comparison with bright field images established that
+the vesicles were not coincident with melanosomes. Transfected COS-7
+cells exhibited a similar vesicular pattern throughout the cell body.
+
+Zhang et al. (2002) cloned the human muted gene by RT-PCR, 5-prime RACE,
+and 3-prime RACE of human placenta mRNA. The deduced protein has 187
+amino acids and contains a possible vacuolar targeting motif (TLPK) that
+is absent from the mouse sequence. The mouse and human proteins share
+76% sequence identity.
+
+By Western blot analysis of wildtype mouse fibroblasts, Falcon-Perez et
+al. (2002) detected expression of a 23-kD muted protein.
+
+GENE FUNCTION
+
+By coimmunoprecipitation and immunodepletion experiments of mouse skin
+fibroblasts, Falcon-Perez et al. (2002) identified muted as a component
+of BLOC1 (biogenesis of lysosome-related organelles complex-1), which
+also contains pallidin (PLDN; 604310). A yeast 2-hybrid screen found no
+direct interaction between muted and pallidin, but pallidin was found to
+interact with itself.
+
+GENE STRUCTURE
+
+Zhang et al. (2002) determined that the mouse muted gene contains 5
+exons and spans 52 kb. The genomic structure of the human muted gene is
+similar.
+
+MAPPING
+
+Zhang et al. (2002) mapped the mouse muted gene to a segment of
+chromosome 13 that shows homology of synteny to human chromosome
+6p24-p23. By genomic sequence analysis, they mapped the human gene to
+chromosome 6p25.1-p24.3.
+
+ANIMAL MODEL
+
+Zhang et al. (2002) noted that 'muted' (mu) mice show hypopigmentation,
+hemorrhaging, and early death due to lung abnormalities. Ultrastructural
+examination revealed that the eyes of adult muted mice had reduced total
+number of melanosomes within the retinal pigment epithelium and
+significantly reduced number within the choroid. Northern blot analysis
+revealed a lack of muted transcript in tissues obtained from muted mice;
+intermediate amounts of transcript were detected in heterozygous mice.
+Zhang et al. (2002) determined that expression of muted was abrogated in
+a mutant allele containing an insertion of an early transposon (ETn)
+retrotransposon. Expression was likewise lost in the muted(J) allele,
+which has a 1-bp deletion within the coding region. The mu mouse is a
+model for Hermansky-Pudlak syndrome (HPS; see 203300). The mu gene
+encodes a ubiquitously expressed transcript, specifying a predicted
+185-amino acid protein, whose expression is abrogated in the mu allele
+by insertion of an early transposon (ETn) retrotransposon. Mu mice
+demonstrated structurally aberrant melanosomes in the eyes; the muted
+protein was localized by immunofluorescence within vesicles of the cell
+body and dendrites of transfected melanocytes, suggesting a role of the
+mu gene in vesicle trafficking. The mu gene was present only in mice and
+humans among analyzed genomes, and BACs containing the human homolog
+were previously localized to chromosome 6p24.3-p25.1. The authors
+concluded that the mu gene is a member of a novel gene set found among
+higher eukaryotes which regulates the synthesis/function of highly
+specialized subcellular organelles such as melanosomes and platelet
+dense granules.
+
+Falcon-Perez et al. (2002) detected no muted protein in fibroblasts from
+muted mice.
+
+REFERENCE 1. Falcon-Perez, J. M.; Starcevic, M.; Gautam, R.; Dell'Angelica,
+E. C.: BLOC-1, a novel complex containing the pallidin and muted
+proteins involved in the biogenesis of melanosomes and platelet-dense
+granules. J. Biol. Chem. 277: 28191-28199, 2002.
+
+2. Zhang, Q.; Li, W.; Novak, E. K.; Karim, A.; Mishra, V.; Kingsmore,
+S. F.; Roe, B. A.; Suzuki, T.; Swank, R. T.: The gene for the muted
+(mu) mouse, a model for Hermansky-Pudlak syndrome, defines a novel
+protein which regulates vesicle trafficking. Hum. Molec. Genet. 11:
+697-706, 2002.
+
+CREATED Patricia A. Hartz: 10/9/2002
+
+EDITED mgross: 04/15/2013
+alopez: 7/1/2011
+alopez: 1/9/2006
+mgross: 10/9/2002
+
+607096	TITLE *607096 SOLUTE CARRIER FAMILY 22 (URATE TRANSPORTER), MEMBER 12; SLC22A12
+;;ORGANIC ANION TRANSPORTER 4-LIKE; OAT4L;;
+URATE TRANSPORTER 1; URAT1
+DESCRIPTION 
+DESCRIPTION
+
+The SLC22A12 gene encodes URAT1, a renal urate-anion exchanger that
+regulates blood urate levels.
+
+CLONING
+
+Enomoto et al. (2002) isolated a SLC22A12 cDNA from a human kidney cDNA
+library. The cDNA, which they called URAT1 for 'urate transporter-1,'
+corresponds to a gene of 2,642 basepairs encoding a protein of 555 amino
+acids that is 42% identical to OAT4 (SLC22A11; 607097). The hydropathy
+plot predicts 12 membrane-spanning domains in URAT1, which are similar
+to those in members of the OAT family. URAT1 has 3 consensus sequences
+for N-glycosylation and 2 cyclic AMP-dependent protein kinase
+phosphorylation sites. High stringency Northern analysis revealed
+predominant expression of URAT1 mRNA in the human adult and fetal
+kidney, and immunohistochemical analysis revealed that URAT1 protein is
+prominent in epithelial cells of the proximal tubule of the renal
+cortex. Under high magnification, the protein was found to be located in
+the luminal membrane of the epithelium of proximal tubules but not in
+that of distal tubules.
+
+GENE FUNCTION
+
+Enomoto et al. (2002) demonstrated that Xenopus oocytes injected with
+URAT1 cRNA exhibited time-dependent transport activity of [14C]urate but
+not of various typical substrates of OATs or organic cation
+transporters. URAT1 was found to be a cotransporter with anions, in
+particular chloride, bromide, or iodine, but not fluoride. Enomoto et
+al. (2002) found that urate transport via URAT1 is inhibited selectively
+by organic anions such as lactate, nicotinate, acetoacetate,
+hydroxybutyrate, and succinate. Para-aminohippurate (PAH), the
+representative substrate of OATs, did not exert an inhibitory effect on
+urate uptake via URAT1, consistent with the observation that PAH has no
+effect on the fractional excretion of urate in humans. Benzbromarone,
+probenecid, phenylbutazone, sulfinpyrazone, nonsteroidal
+antiinflammatory drugs, and diuretics inhibited urate uptake.
+Trans-stimulation experiments indicated that the major counteranions
+that exchange for urate via URAT1 are organic anions rather than
+inorganic chloride.
+
+Thangaraju et al. (2006) found the urinary excretion of urate was
+significantly elevated in Cebpd (116898) -/- mice, although expression
+of Urat1 was unaltered. However, expression of the Na(+)/lactate
+cotransporters Slc5a8 (608044) and Slc5a12 (612455) was almost
+completely ablated in Cebpd -/- mice. Thangaraju et al. (2006) proposed
+that lactate reabsorption by SLC5A8 and SLC5A12 is coupled to urate
+reabsorption by URAT1 at the proximal tubule apical membrane.
+
+MAPPING
+
+Enomoto et al. (2002) identified a sequence representing the SLC22A12
+gene within a BAC clone (GenBank GENBANK AC044790) mapping to chromosome
+11q13, near the SLC22A11 gene.
+
+MOLECULAR GENETICS
+
+In patients with renal hypouricemia (220150), Enomoto et al. (2002) and
+Tanaka et al. (2003) identified mutations in the SLC22A12 gene
+(607096.0001-607096.0003).
+
+Ichida et al. (2008) identified SLC22A12 mutations in 66 of 71 71
+Japanese patients with hypouricemia. The W258X mutation (607096.0001)
+was by far the most common mutation, occurring in 93 alleles, including
+31 homozygotes and 23 compound heterozygotes. A total of 13 mutations,
+including 3 novel mutations, were identified (see, e.g. 607096.0005;
+607096.0006). Acute renal failure and urolithiasis occurred in 21.1% and
+8.5% of patients, respectively. Three patients had chronic renal
+failure. By haplotype analysis, Ichida et al. (2008) found that W258X
+was a founder mutation with an estimated age of 6,820 years.
+
+ALLELIC VARIANT .0001
+HYPOURICEMIA, RENAL, 1
+SLC22A12, TRP258TER
+
+In a 48-year-old male with idiopathic renal hypouricemia (220150),
+Enomoto et al. (2002) identified a G-to-A transition at nucleotide 774
+within exon 4 of the SLC22A12 gene, resulting in a tryptophan-to-stop
+substitution at codon 258 (W258X). This mutation was found in
+homozygosity and was not identified in 180 randomly chosen control
+Japanese individuals.
+
+In 2 brothers with hereditary renal hypouricemia and exercise-induced
+acute renal failure, Tanaka et al. (2003) identified homozygosity for
+the W258X mutation. The parents of the sibs and all of the sibs' 5
+children were heterozygous for the mutation.
+
+By haplotype analysis of 31 Japanese individuals homozygous for the
+W258X mutation, Ichida et al. (2008) estimated that the mutation is
+about 6,820 years old. This mutation dates back from between the time
+when the Jomon people predominated in Japan and the time when the Yayoi
+people started to migrate to Japan from the Korean peninsula.
+
+.0002
+HYPOURICEMIA, RENAL, 1
+SLC22A12, THR217MET
+
+In a patient with idiopathic renal hypouricemia (220150), Enomoto et al.
+(2002) identified a C-to-T transition at nucleotide 650 in exon 3 of the
+SLC22A12 gene, resulting in a threonine-to-methionine substitution at
+codon 217 (T217M). This mutation was found in homozygosity and was not
+identified in any of 180 randomly chosen control Japanese individuals.
+
+.0003
+HYPOURICEMIA, RENAL, 1
+SLC22A12, GLU298ASP
+
+In a patient with idiopathic renal hypouricemia (220150), Enomoto et al.
+(2002) identified a G-to-T transversion at nucleotide 894 in exon 5 of
+the SLC22A12 gene, resulting in a glutamic acid-to-aspartic acid
+substitution at codon 298 (E298D). This mutation was found in
+homozygosity and was not identified in any of 180 randomly chosen
+control Japanese individuals.
+
+.0004
+HYPOURICEMIA, RENAL, 1
+SLC22A12, LEU418ARG
+
+In the affected member of a Japanese family with renal hypouricemia
+(220150), Wakida et al. (2005) detected compound heterozygosity for
+W258X (607096.0001) and for a novel mutation, a 1253T-G transversion in
+the SLC22A12 gene that resulted in a leu418-to-arg (L418R) substitution
+in the tenth transmembrane domain of the protein. The L418R mutation had
+significantly reduced urate-transporting activities compared with
+wildtype (P less than 0.05), suggesting that it is a loss-of-function
+mutation.
+
+.0005
+HYPOURICEMIA, RENAL, 1
+SLC22A12, ARG90HIS
+
+In a Japanese man with renal hypouricemia (220150), Ichida et al. (2008)
+identified a homozygous 269G-A transition in the SLC22A12 gene,
+resulting in an arg90-to-his (R90H) substitution. Nine additional
+affected individuals were compound heterozygous for R90H and W258X
+(607096.0001).
+
+.0006
+HYPOURICEMIA, RENAL, 1
+SLC22A12, GLY361VAL
+
+In 2 unrelated Japanese individuals with renal hypouricemia (220150),
+Ichida et al. (2008) identified compound heterozygosity for 2 mutations
+in the SLC22A12 gene: a 1082G-T transversion resulting in a
+gly361-to-val (G361V) substitution, and W258X (607096.0001). In vitro
+functional expression assays showed that the G361V-mutant protein had
+decreased uric acid transport activity.
+
+REFERENCE 1. Enomoto, A.; Kimura, H.; Chairoungdua, A.; Shigeta, Y.; Jutabha,
+P.; Cha, S. H.; Hosoyamada, M.; Takeda, M.; Sekine, T.; Igarashi,
+T.; Matsuo, H.; Kikuchi, Y.; Oda, T.; Ichida, K.; Hosoya, T.; Shimokata,
+K.; Niwa, T.; Kanai, Y.; Endou, H.: Molecular identification of a
+renal urate-anion exchanger that regulates blood urate levels. Nature 417:
+447-452, 2002.
+
+2. Ichida, K.; Hosoyamada, M.; Kamatani, N.; Kamitsuji, S.; Hisatome,
+I.; Shibasaki, T.; Hosoya, T.: Age and origin of the G774A mutation
+in SLC22A12 causing renal hypouricemia in Japanese. Clin. Genet. 74:
+243-251, 2008.
+
+3. Tanaka, M.; Itoh, K.; Matsushita, K.; Matsushita, K.; Wakita, N.;
+Adachi, M.; Nonoguchi, H.; Kitamura, K.; Hosoyamada, M.; Endou, H.;
+Tomita, K.: Two male siblings with hereditary renal hypouricemia
+and exercise-induced ARF. Am. J. Kidney Dis. 42: 1287-1292, 2003.
+
+4. Thangaraju, M.; Ananth, S.; Martin, P. M.; Roon, P.; Smith, S.
+B.; Sterneck, E.; Prasad, P. D.; Ganapathy, V.: c/ebp-delta null
+mouse as a model for the double knock-out of slc5a8 and slc5a12 in
+kidney. J. Biol. Chem. 281: 26769-26773, 2006.
+
+5. Wakida, N.; Tuyen, D. G.; Adachi, M.; Miyoshi, T.; Nonoguchi, H.;
+Oka, T.; Ueda, O.; Tazawa, M.; Kurihara, S.; Yoneta, Y.; Shimada,
+H.; Oda, T.; Kikuchi, Y.; Matsuo, H.; Hosoyamada, M.; Endou, H.; Otagiri,
+M.; Tomita, K.; Kitamura, K.: Mutations in human urate transporter
+1 gene in presecretory reabsorption defect type of familial renal
+hypouricemia. J. Clin. Endocr. Metab. 90: 2169-2174, 2005.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 4/28/2009
+Ada Hamosh - updated: 10/28/2008
+John A. Phillips, III - updated: 7/24/2006
+Cassandra L. Kniffin - updated: 6/29/2004
+
+CREATED Ada Hamosh: 7/8/2002
+
+EDITED wwang: 05/11/2009
+ckniffin: 4/28/2009
+wwang: 4/20/2009
+carol: 1/22/2009
+mgross: 12/5/2008
+terry: 10/28/2008
+alopez: 7/24/2006
+wwang: 3/31/2006
+ckniffin: 6/29/2004
+mgross: 2/25/2003
+joanna: 8/14/2002
+alopez: 7/8/2002
+
+600076	TITLE *600076 TENSIN 1; TNS1
+;;TENSIN; TNS
+DESCRIPTION 
+DESCRIPTION
+
+Tensin is an actin-binding protein that is concentrated in some
+submembranous cytoskeletal focal contacts (Weigt et al., 1992). In
+addition to its 3 actin-binding domains, the 200-kD tensin protein
+contains an Src homology 2 (SH2) motif that mediates protein-protein
+contacts and is shared by a variety of signal transduction molecules. In
+addition, tensin can bind to phosphotyrosine-containing proteins and can
+itself be phosphorylated, suggesting that tensin may be a link between
+the cytoskeleton and a signal transduction pathway. Tensin
+phosphorylation occurs during cell adhesion to extracellular matrix
+proteins.
+
+CLONING
+
+Using avian tensin as probe, Chen et al. (2000) obtained overlapping
+clones of tensin from human heart and bovine pericyte cDNA libraries.
+The deduced 1,735-amino acid protein has a calculated molecular mass of
+185 kD. Human and bovine tensins share 82% amino acid identity. In
+addition to the actin-binding domains and SH2 domain, tensin contains a
+region similar to PTEN (601728) and a 9-amino acid sequence that is
+repeated 4 times. Northern blot analysis revealed a major 10-kb
+transcript expressed in most tissues, with highest levels in heart,
+skeletal muscle, kidney, and lung. Heart and skeletal muscle also
+expressed a 9-kb transcript. Western blot analysis revealed an apparent
+molecular mass of 220 kD, and mutation analysis revealed that the
+discrepancy between the calculated and the apparent molecular masses was
+due to the reduced electrophoretic mobility of the central region of the
+tensin polypeptide. Expression of tensin in mouse fibroblasts resulted
+in staining at focal adhesions.
+
+GENE FUNCTION
+
+Katz et al. (2000) presented evidence that overexpression of mammalian
+tensin activates both the JNK (601158) and p38 MAPK (600289) pathways.
+Tensin-mediated JNK activation was independent of the activities of Rac
+(602048) and Cdc42 (116952), but did depend on Sek (601335).
+
+Chen et al. (2002) determined that stable overexpression of both
+tensin-1 and -2 (TENC1; 607717) in HEK293 cells promoted cell migration
+on fibronectin (135600) in a cell migration assay. Fibroblasts from
+tensin-1-null mice migrated significantly slower than their normal
+counterparts in the cell migration assay, and tensin-2 expression was
+not upregulated to compensate for loss of tensin-1 function.
+
+Chen et al. (2000) found that tensin expression was reduced or absent in
+several prostate and breast cancer cell lines, while the levels of talin
+(186745) and focal adhesion kinase (600758) remained at normal levels.
+They also found that tensin is a substrate for a focal adhesion
+protease, calpain II (114230), and that incubation of cells with a
+calpain inhibitor prevented tensin cleavage and induced morphologic
+change. Chen et al. (2002) hypothesized that cleavage of tensin and
+other focal adhesion constituents by calpain disrupts maintenance of
+normal cell shape.
+
+GENE STRUCTURE
+
+Chen et al. (2002) determined that the tensin gene contains 33 exons and
+spans about 150 kb. Exon 6 contains the putative start codon.
+
+MAPPING
+
+Jankowski and Gumucio (1995) demonstrated that, in the mouse, genes for
+tensin, villin (193040), and desmin (125660) are closely linked on
+chromosome 1. This region is homologous to human chromosome 2; in the
+human, the desmin gene maps to 2q35 and the villin-1 gene to 2q35-q36.
+Jankowski and Gumucio (1995) used a rat DNA probe to study human/rodent
+somatic cell hybrids and obtained results consistent with location of
+the human TNS gene on chromosome 2. Homology of synteny would suggest
+that it is located in the 2q35-q36 region.
+
+ANIMAL MODEL
+
+Lo et al. (1997) generated tensin-null mice. These mice appeared normal
+and healthy for several months, but eventually developed cystic kidneys.
+Progressive cyst formation led to kidney degeneration and death from
+renal failure. The authors concluded that tensin is not necessary for
+mouse embryogenesis, but it is required for the maintenance of normal
+renal function.
+
+REFERENCE 1. Chen, H.; Duncan, I. C.; Bozorgchami, H.; Lo, S. H.: Tensin1 and
+a previously undocumented family member, tensin2, positively regulate
+cell migration. Proc. Nat. Acad. Sci. 99: 733-738, 2002.
+
+2. Chen, H.; Ishii, A.; Wong, W. K; Chen, L. B.; Lo, S. H.: Molecular
+characterization of human tensin. Biochem J. 351: 403-411, 2000.
+
+3. Jankowski, S. A.; Gumucio, D. L.: Genes for tensin, villin and
+desmin are linked on mouse chromosome 1. Mammalian Genome 6: 744-745,
+1995.
+
+4. Katz, B. Z.; Zohar, M.; Teramoto, H.; Matsumoto, K.; Gutkind, J.
+S.; Lin, D. C.; Lin, S.; Yamada, K. M.: Tensin can induce JNK and
+p38 activation. Biochem. Biophys. Res. Commun. 16: 717-720, 2000.
+
+5. Lo, S. H.; Yu, Q.-C.; Degenstein, L.; Chen, L. B.; Fuchs, E.:
+Progressive kidney degeneration in mice lacking tensin. J. Cell Biol. 136:
+1349-1361, 1997.
+
+6. Weigt, C.; Gaertner, A.; Wegner, A.; Korte, H.; Meyer, H. E.:
+Occurrence of an actin-inserting domain in tensin. J. Molec. Biol. 227:
+593-595, 1992.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/7/2003
+Patricia A. Hartz - updated: 4/23/2003
+
+CREATED Victor A. McKusick: 12/1/1995
+
+EDITED mgross: 02/18/2008
+alopez: 2/21/2007
+terry: 4/4/2005
+terry: 7/28/2003
+cwells: 5/21/2003
+cwells: 5/7/2003
+mgross: 4/24/2003
+terry: 4/23/2003
+dholmes: 6/8/1998
+

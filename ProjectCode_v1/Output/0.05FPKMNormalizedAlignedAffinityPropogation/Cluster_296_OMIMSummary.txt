@@ -1,0 +1,1166 @@
+604267	TITLE *604267 MULTIPLE EPIDERMAL GROWTH FACTOR-LIKE DOMAINS 8; MEGF8
+;;EPIDERMAL GROWTH FACTOR-LIKE 4, FORMERLY; EGFL4, FORMERLY
+DESCRIPTION 
+CLONING
+
+The domain that characterizes epidermal growth factor (EGF; 131530)
+consists of approximately 50 amino acids with 3 disulfide bonds.
+EGF-like domains are believed to play a critical role in a number of
+extracellular events, including cell adhesion and receptor-ligand
+interactions. Proteins with EGF-like domains often consist of more than
+1,000 amino acids, have multiple copies of the EGF-like domain, and
+contain additional domains known to be involved in specific
+protein-protein interactions. To identify proteins containing EGF-like
+domains, Nakayama et al. (1998) searched a database of long cDNA
+sequences randomly selected from a human brain cDNA library for those
+that encode an EGF-like motif. They identified several partial cDNAs
+encoding novel proteins with EGF-like domains, such as EGFL4, which they
+named MEGF8. The predicted partial EGFL4 protein has a laminin (e.g.,
+150240)-type EGF-like domain, 5 EGF-like domains, and a transmembrane
+domain.
+
+MAPPING
+
+Using a radiation hybrid mapping panel, Nakayama et al. (1998) mapped
+the EGFL4 gene to 19q12.
+
+MOLECULAR GENETICS
+
+In 4 unrelated probands with a form of Carpenter syndrome frequently
+associated with defective lateralization (CRPT2; 614976), Twigg et al.
+(2012) identified homozygous or compound heterozygous mutations in the
+MEGF8 gene (see, e.g., 604267.0001-604267.0004).
+
+ANIMAL MODEL
+
+Using N-ethyl-N-nitrosourea (ENU) mutagenesis in mice, Zhang et al.
+(2009) found a recessive phenotype characterized by heterotaxy, complex
+congenital heart defects, and preaxial polydactyly that was associated
+with a cys193-to-arg (C193R) substitution in the Megf8 gene on mouse
+chromosome 7. The authors used massively parallel sequencing to identify
+the mutation. The substitution eliminated an invariant cysteine situated
+in the second putative EGF domain and could disrupt formation of a
+disulfide bond required for proper protein folding. Megf8 transcripts
+were ubiquitously expressed in both wildtype and mutant mouse embryos.
+Immunostaining showed punctate nuclear localization with Gfi1b (604383)
+and Baf60c (SMARCD3; 601737), 2 proteins involved in chromatin
+remodeling. Mutant mice showed normal breaking of symmetry at the node,
+but Nodal (601265) signaling failed to be propagated to the left lateral
+plate mesoderm. Cilia motility was unaffected. Morpholino knockdown of
+Megf8 in zebrafish embryos resulted in a heterotaxic phenotype with
+discordant heart and gut situs. The findings suggested that MEGF8 is an
+essential regulator of left-right patterning.
+
+ALLELIC VARIANT .0001
+CARPENTER SYNDROME 2
+MEGF8, ARG1499HIS
+
+In a 9-year-old Turkish boy with features of Carpenter syndrome and
+dextrocardia (CRPT2; 614976), Twigg et al. (2012) identified
+homozygosity for a 4496G-A transition in exon 26 of the MEGF8 gene,
+resulting in an arg1499-to-his (R1499H) substitution at a highly
+conserved residue in a kelch domain. The mutation was present in
+heterozygosity in his unaffected parents and sister, but was not found
+in the dbSNP135 or Exome Variant Server databases. In zebrafish
+morpholino knockdown experiments, coinjection of the R1499H mutant did
+not result in effective rescue compared to wildtype, but the reduced
+proportion of epiboly defects (down to 60% from 83%) suggested that the
+mutant protein might retain some residual function.
+
+.0002
+CARPENTER SYNDROME 2
+MEGF8, SER2367GLY
+
+In a 6.5-year-old German girl with features of Carpenter syndrome
+(CRPT2; 614976), Twigg et al. (2012) identified compound heterozygosity
+for a missense and a nonsense mutation in the MEGF8 gene: a 7099A-G
+transition in exon 41, resulting in a ser2367-to-gly (S2367G)
+substitution at a highly conserved residue in an EGF-like laminin
+domain, and a 1342C-T transition in exon 7, resulting in an
+arg448-to-ter (R448X; 604267.0002) substitution. The patient's
+unaffected father was heterozygous for the S367G mutation, which was not
+found in 192 northern European controls, and her unaffected mother was
+heterozygous for the R448X mutation, which was not found in 189 Turkish
+controls; neither mutation was found in the dbSNP135 or Exome Variant
+Server databases. In zebrafish morpholino knockdown experiments,
+coinjection of the S236G mutant did not result in effective rescue
+compared to wildtype, but the reduced proportion of epiboly defects
+(down to 71% from 83%) suggested that the mutant protein might retain
+some residual function.
+
+.0003
+CARPENTER SYNDROME 2
+MEGF8, ARG448TER
+
+See 604267.0002 and Twigg et al. (2012).
+
+.0004
+CARPENTER SYNDROME 2
+MEGF8, GLY199ARG
+
+In a Turkish boy with features of Carpenter syndrome who also exhibited
+dextrocardia and situs inversus totalis (CRPT2; 604267), originally
+reported by Altunhan et al. (2011), Twigg et al. (2012) identified
+homozygosity for a 595G-C transversion in exon 4 of the MEGF8 gene,
+resulting in a gly199-to-arg (G199R) substitution at a highly conserved
+residue in an EGF domain. The proband's unaffected father and 2
+unaffected sisters were heterozygous for the mutation, which was not
+found in 189 Turkish controls or in the dbSNP135 or Exome Variant Server
+databases; his mother was deceased. In zebrafish morpholino knockdown
+experiments, coinjection of the G199R mutant did not result in effective
+rescue compared to wildtype, but the reduced proportion of epiboly
+defects (down to 73% from 83%) suggested that the mutant protein might
+retain some residual function.
+
+REFERENCE 1. Altunhan, H.; Annagur, A.; Ors, R.: The association of Carpenter
+syndrome and situs inversus totalis: first case report. Turk. Klin.
+J. Med. Sci. 31: 464-467, 2011.
+
+2. Nakayama, M.; Nakajima, D.; Nagase, T.; Nomura, N.; Seki, N.; Ohara,
+O.: Identification of high-molecular-weight proteins with multiple
+EGF-like motifs by motif-trap screening. Genomics 51: 27-34, 1998.
+
+3. Twigg, S. R. F.; Lloyd, D.; Jenkins, D.; Elcioglu, N. E.; Cooper,
+C. D. O.; Al-Sannaa, N.; Annagur, A.; Gillessen-Kaesbach, G.; Huning,
+I.; Knight, S. J. L.; Goodship, J. A.; Keavney, B. D.; Beales, P.
+L.; Gileadi, O.; McGowan, S. J.; Wilkie, A. O. M.: Mutations in multidomain
+protein MEGF8 identify a Carpenter syndrome subtype associated with
+defective lateralization. Am. J. Hum. Genet. 91: 897-905, 2012.
+
+4. Zhang, Z.; Alpert, D.; Francis, R.; Chatterjee, B.; Yu, Q.; Tansey,
+T.; Sabol, S. L.; Cui, C.; Bai, Y.; Koriabine, M.; Yoshinaga, Y.;
+Cheng, J.-F.; Chen, F.; Martin, J.; Schackwitz, W.; Gunn, T. M.; Kramer,
+K. L.; De Jong, P. J.; Pennacchio, L. A.; Lo, C. W.: Massively parallel
+sequencing identifies the gene Megf8 with ENU-induced mutation causing
+heterotaxy. Proc. Nat. Acad. Sci. 106: 3219-3224, 2009.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/10/2012
+Cassandra L. Kniffin - updated: 6/22/2009
+
+CREATED Patti M. Sherman: 10/28/1999
+
+EDITED carol: 12/10/2012
+wwang: 7/21/2009
+ckniffin: 6/22/2009
+joanna: 12/24/2008
+mgross: 12/4/2008
+mgross: 10/29/1999
+psherman: 10/29/1999
+
+179780	TITLE *179780 DIPEPTIDASE 1; DPEP1
+;;DIPEPTIDASE 1, RENAL;;
+RENAL DIPEPTIDASE; RDP;;
+DEHYDROPEPTIDASE I;;
+MICROSOMAL DIPEPTIDASE; MDP;;
+MEMBRANE-BOUND DIPEPTIDASE 1; MBD1
+DESCRIPTION 
+DESCRIPTION
+
+DPEP1 (EC 3.4.13.11) is a kidney membrane enzyme that hydrolyzes a
+variety of dipeptides and is implicated in renal metabolism of
+glutathione and its conjugates, e.g., leukotriene D4 (Kozak and Tate,
+1982). DPEP1 is responsible for hydrolysis of the beta-lactam ring of
+antibiotics, such as penem and carbapenem (Campbell et al., 1984).
+Earlier, beta-lactamase enzymes were thought to occur only in bacteria,
+where their probable function was in protecting the organisms against
+the action of beta-lactam antibiotics. These antibiotics exhibit
+selective toxicity against bacteria but virtual inertness against many
+eukaryotic cells (Adachi et al., 1990).
+
+CLONING
+
+Adachi et al. (1990) isolated and characterized cDNA clones for human
+DPEP1, which they called RDP. DNA and RNA blot analysis indicated the
+existence of a single gene.
+
+To isolate potential tumor/growth suppressor genes involved in Wilms
+tumor, Austruy et al. (1993) constructed a cDNA library by cloning a
+mature kidney cDNA subtracted with an excess of Wilms tumor mRNA. Clones
+were selected according to a differential pattern of expression, i.e.,
+positive with RNA from mature kidney and negative with RNA from several
+Wilms tumors. By comparison of sequences of these clones with database
+sequences, 1 clone was identified as DPEP1.
+
+Nitanai et al. (2002) stated that RDP is a homodimer of identical
+369-amino acid subunits. Each subunit has a calculated molecular mass of
+about 42 kD, but N-glycosylation at 4 possible sites results in a highly
+glycosylated peptide of about 63 kD. In addition, each RDP subunit has a
+C-terminal glycosylphosphatidylinositol membrane anchor.
+
+Habib et al. (2003) cloned mouse Dpep1, which they designated Mbd1.
+Northern blot analysis detected 3 transcripts that were differentially
+expressed in heart, lung, skeletal muscle, kidney, liver, and testis. No
+Mbd1 expression was detected in brain and spleen. The transcripts likely
+arise from the use of alternate poly(A) sites and variations in the
+5-prime UTR.
+
+BIOCHEMICAL FEATURES
+
+Nitanai et al. (2002) determined the crystal structure of human RDP.
+Each subunit appears to assume a barrel shape made up of 8 alpha helix
+and beta sheet pairs. Each monomer requires 2 zinc ions that are ligated
+to the catalytic residues (glu125, his198, and his219) at the bottom of
+the enzymatic pocket. His152 is not ligated to zinc, but it is
+responsible for recognition of a substrate or inhibitor. The pocket is
+reinforced by 2 adjacent disulfide bonds and by 3 proline residues.
+Cys361 is involved in a disulfide bridge between monomers.
+
+GENE FUNCTION
+
+Kera et al. (1999) measured dipeptidase activity in several human
+postmortem tissues and in rat tissues using glycyl-D-alanine as
+substrate. Highest activity in human tissues was detected in kidney
+cortex, pancreas, and testis. Much lower activity was detected in
+adrenal gland and liver, and very low activity was detected in lung,
+spleen, cerebrum, and cerebellum. The enzyme was also found in serum and
+urine from healthy volunteers. Activity in rats was similar, but was
+much higher in lung. The distribution of enzyme activity in various
+tissues changed in postnatal rats up to 8 weeks of age.
+
+Habib et al. (2003) demonstrated that COS-7 cells transfected with mouse
+Mbd1 were able to convert leukotriene D4 to leukotriene E4 and could
+hydrolyze cystinyl-bis-glycine (cys-bis-gly) and beta-lactam. Inhibition
+of Mbd1 by penicillamine indicated that it is a metallopeptidase.
+
+GENE STRUCTURE
+
+Satoh et al. (1993) determined that the DPEP1 gene contains 10 exons and
+spans about 6 kb.
+
+MAPPING
+
+By FISH, Nakagawa et al. (1991) mapped the RDP gene to chromosome 16q24.
+
+Austruy et al. (1993) used somatic cell hybrids carrying either
+different human chromosomes or chromosome 16 segments to confirm and
+refine the physical mapping of DPEP1 to 16q24.3. Two RFLPs were
+described and used to show linkage of DPEP1 to D16S7; maximum lod score
+was 5.8 at theta of 0.03.
+
+ANIMAL MODEL
+
+Habib et al. (1998) found that Mbd1-deficient mice retained partial
+ability to degrade cys-bis-gly and to convert leukotriene D4 to
+leukotriene E4 depending on the tissue examined. Habib et al. (2003)
+suggested that tissue- and substrate-specific activities of Mbd2 (DPEP2;
+609925) and Mbd3 (DPEP3; 609926) partially compensate for the loss of
+Mbd1 in these mice.
+
+REFERENCE 1. Adachi, H.; Tawaragi, Y.; Inuzuka, C.; Kubota, I.; Tsujimoto, M.;
+Nishihara, T.; Nakazato, H.: Primary structure of human microsomal
+dipeptidase deduced from molecular cloning. J. Biol. Chem. 265:
+3992-3995, 1990.
+
+2. Austruy, E.; Jeanpierre, C.; Antignac, C.; Whitmore, S. A.; Van
+Cong, N.; Bernheim, A.; Callen, D. F.; Junien, C.: Physical and genetic
+mapping of the dipeptidase gene DPEP1 to 16q24.3. Genomics 15: 684-687,
+1993.
+
+3. Campbell, B. J.; Forrester, L. J.; Zahler, W. L.; Burks, M.: Beta-lactamase
+activity of purified and partially characterized human renal dipeptidase. J.
+Biol. Chem. 259: 14586-14590, 1984.
+
+4. Habib, G. M.; Shi, Z.-Z.; Cuevas, A. A.; Lieberman, M. W.: Identification
+of two additional members of the membrane-bound dipeptidase family. FASEB
+J. 17: 1313-1315, 2003.
+
+5. Habib, G. M.; Shi, Z. Z.; Cuevas, A. A.; Guo, Q.; Matzuk, M. M.;
+Lieberman, M. W.: Leukotriene D4 and cystinyl-bis-glycine metabolism
+in membrane-bound dipeptidase-deficient mice. Proc. Nat. Acad. Sci. 95:
+4859-4863, 1998.
+
+6. Kera, Y.; Liu, Z.; Matsumoto, T.; Sorimachi, Y.; Nagasaki, H.;
+Yamada, R.: Rat and human membrane dipeptidase: tissue distribution
+and developmental changes. Comp. Biochem. Physiol. Part B 123: 53-58,
+1999.
+
+7. Kozak, E. M.; Tate, S. S.: Glutathione-degrading enzymes of microvillus
+membranes. J. Biol. Chem. 257: 6322-6327, 1982.
+
+8. Nakagawa, H.; Inazawa, J.; Inoue, K.; Misawa, S.; Kashima, K.;
+Adachi, H.; Nakazato, H.; Abe, T.: Assignment of the human renal
+dipeptidase gene (DPEP1) to band q24 of chromosome 16. (Abstract) Cytogenet.
+Cell Genet. 58: 2002 only, 1991.
+
+9. Nitanai, Y.; Satow, Y.; Adachi, H.; Tsujimoto, M.: Crystal structure
+of human renal dipeptidase involved in beta-lactam hydrolysis. J.
+Molec. Biol. 321: 177-184, 2002.
+
+10. Satoh, S.; Kusunoki, C.; Konta, Y.; Niwa, M.; Kohsaka, M.: Cloning
+and structural analysis of genomic DNA for human renal dipeptidase. Biochim.
+Biophys. Acta 1172: 181-183, 1993.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/22/2006
+
+CREATED Victor A. McKusick: 8/6/1991
+
+EDITED mgross: 02/23/2006
+mgross: 2/23/2006
+terry: 2/22/2006
+dkim: 7/21/1998
+mimadm: 3/25/1995
+carol: 4/14/1993
+supermim: 3/16/1992
+carol: 2/23/1992
+carol: 10/18/1991
+carol: 10/15/1991
+
+613753	TITLE *613753 MICRO RNA 211; MIR211
+;;miRNA211;;
+MIRN211
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR211, are small noncoding RNAs that
+commonly basepair with sequences in the 3-prime UTRs of target mRNAs and
+either inhibit mRNA translation or cause mRNA destabilization (Krol et
+al., 2010).
+
+CLONING
+
+Krol et al. (2010) found that Mir211, Mir204 (610942), and the Mir183
+(611608)/Mir96 (611606)/Mir182 (611607) cluster were highly expressed in
+mouse retina. Quantitative RT-PCR showed that expression of Mir204 and
+Mir211 was enriched in the microdissected inner nuclear layer, whereas
+the Mir183/Mir9/Mir182 cluster was most abundant in photoreceptors.
+
+GENE FUNCTION
+
+Using expression arrays and quantitative RT-PCR, Krol et al. (2010)
+showed that expression of Mir211, Mir204, and the Mir183/Mir96/Mir182
+cluster was reversibly up- and downregulated in mouse retina during
+light and dark adaptation, respectively. Increased accumulation of these
+miRNAs upon light adaptation occurred independently of circadian rhythm.
+The half-lives of these and other miRNAs appeared to be much shorter in
+retinal neurons than in rod bipolar cells or Muller glia cells. Similar
+rapid miRNA decay was observed in cultured rodent neurons and mouse
+embryonic stem cell-derived neurons. Inhibitor studies revealed that
+miRNA turnover was stimulated by neuronal activity.
+
+Chen et al. (2010) found that miR211 regulates the vascular endothelial
+growth factor angiopoietin-1 (ANGPT1; 601667).
+
+MAPPING
+
+Hartz (2011) mapped the MIR211 gene to chromosome 15q13.3 based on an
+alignment of the mature MIR211 sequence (UUCCCUUUGUCAUCCUUCGCCU) with
+the genomic sequence (GRCh37).
+
+Krol et al. (2010) noted that the mouse Mir211 gene is located within an
+intron of the Trpm1 gene (603576).
+
+REFERENCE 1. Chen, J.; Yang, T.; Yu, H.; Sun, K.; Shi, Y.; Song, W.; Bai, Y.;
+Wang, X.; Lou, K.; Song, Y.; Zhang, Y.; Hui, R.: A functional variant
+in the 3-prime-UTR of angiopoietin-1 might reduce stroke risk by interfering
+with the binding efficiency of microRNA 211. Hum. Molec. Genet. 19:
+2524-2533, 2010.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/5/2011.
+
+3. Krol, J.; Busskamp, V.; Markiewicz, I.; Stadler, M. B.; Ribi, S.;
+Richter, J.; Duebel, J.; Bicker, S.; Fehling, H. J.; Schubeler, D.;
+Oertner, T. G.; Schratt, G.; Bibel, M.; Roska, B.; Filipowicz, W.
+: Characterizing light-regulated retinal microRNAs reveals rapid turnover
+as a common property of neuronal microRNAs. Cell 141: 618-631, 2010.
+
+CONTRIBUTORS George E. Tiller - updated: 08/08/2013
+
+CREATED Patricia A. Hartz: 2/21/2011
+
+EDITED alopez: 08/08/2013
+mgross: 2/21/2011
+
+601572	TITLE *601572 CAPPING PROTEIN, BETA; CAPZB
+;;CAP PROTEIN, ACTIN, BETA; CAPPB
+DESCRIPTION 
+CLONING
+
+CapZ was identified in chicken as an actin-binding protein composed of
+alpha (see 601580) and beta subunits. From a human retina cDNA library,
+Barron-Casella et al. (1995) isolated cDNAs homologous for the beta
+subunit of chicken CapZ.
+
+MAPPING
+
+Barron-Casella et al. (1995) mapped the CAPZB gene to chromosome 1p36.1
+by fluorescence in situ hybridization.
+
+HISTORY
+
+In the course of mapping 39 ESTs on chromosome 6p24-p23, Olavesen et al.
+(1997) concluded that CAPZB is located in that region flanked by EDN1
+(131240) on the centromeric side and TFAP2 (107580) on the telomeric
+side. However, Cooper (1999) stated that a 'simple clerical error'
+occurred at the outset of this project; the EST in question does not
+share sequence similarity with the CAPZB gene and, therefore, the
+mapping of the CAPZB gene to chromosome 6p24-p23 is incorrect.
+
+REFERENCE 1. Barron-Casella, E. A.; Torres, M. A.; Scherer, S. W.; Heng, H.
+H. Q.; Tsui, L.-C.; Casella, J. F.: Sequence analysis and chromosomal
+localization of human Cap Z: conserved residues within the actin-binding
+domain may link Cap Z to gelsolin/severin and profilin protein families. J.
+Biol. Chem. 270: 21472-21479, 1995.
+
+2. Cooper, J. A.: Personal Communication. St. Louis, Mo.  3/8/1999.
+
+3. Olavesen, M. G.; Bentley, E.; Mason, R. V. F.; Stephens, R. J.;
+Ragoussis, J.: Fine mapping of 39 ESTs on human chromosome 6p23-p25. Genomics 46:
+303-306, 1997.
+
+CONTRIBUTORS Patti M. Sherman - updated: 9/8/2000
+Victor A. McKusick - updated: 2/11/1998
+
+CREATED Victor A. McKusick: 12/13/1996
+
+EDITED mgross: 11/21/2012
+terry: 10/26/2012
+joanna: 6/10/2004
+mgross: 6/10/2004
+mcapotos: 9/12/2000
+psherman: 9/8/2000
+mark: 2/11/1998
+mark: 12/17/1996
+mark: 12/16/1996
+
+171640	TITLE *171640 PHOSPHATASE, ACID, TYPE 5, TARTRATE-RESISTANT; ACP5
+;;TARTRATE-RESISTANT ACID PHOSPHATASE; TRAP
+DESCRIPTION 
+CLONING
+
+Ketcham et al. (1988) cloned a full-length cDNA for type 5
+tartrate-resistant acid phosphatase from human placenta and found that
+it contained an open reading frame of 969 basepairs (corresponding to a
+protein of 323 amino acids), a putative signal sequence of 19 amino
+acids, and 2 potential glycosylation sites. The deduced amino acid
+sequence of the human isozyme is 85% identical to the amino acid
+sequence of porcine uteroferrin and 82% identical to the corresponding
+regions of a partial amino acid sequence of the bovine spleen enzyme.
+The type 5 isozyme of acid phosphatase is the most basic of the acid
+phosphatases and is the only form insensitive to inhibition by
+L(+)-tartrate. Normally, it is detected as a minor intracellular
+component of spleen, lung, liver, and bone. High levels of acid
+phosphatase-5 are found within the spleen and monocytes of patients with
+Gaucher disease (230800). The type 5 isozyme is an iron-containing
+glycoprotein with a molecular mass of approximately 34 kD.
+
+Lord et al. (1990) also isolated a clone for ACP5, which is found
+principally in resident tissue macrophages. They found that an ACP5 cDNA
+clone contained an open reading frame of 975 bp, encoded a protein of
+325 amino acids, including a single peptide of 19 residues and 2
+potential sites for N-glycosylation.
+
+MAPPING
+
+Allen et al. (1989) assigned the ACP5 gene to 15q22-q26 by in situ
+hybridization both to normal metaphase chromosomes and to the
+chromosomes of an individual carrying an unbalanced translocation
+involving chromosome 15. However, Grimes et al. (1993) showed that the
+Acp5 gene maps to mouse chromosome 9 in a group of genes that are
+homologous to a group of genes on 19p13.3-p13.1. By Southern blot
+analysis of somatic cell hybrids and use of a PCR method, Leach et al.
+(1994) confirmed the assignment of ACP5 to chromosome 19. By isotopic in
+situ hybridization, Lord et al. (1990) mapped the APC5 gene to
+19p13.3-p13.2 with a peak at 19p13.2.
+
+GENE FUNCTION
+
+Lord et al. (1990) found that the expression of ACP5 mRNA was restricted
+to mononuclear phagocytes and that the enzyme was induced more than
+20-fold on transformation of normal human monocytes to macrophages by
+culture in serum-supplemented medium.
+
+MOLECULAR GENETICS
+
+In 10 patients with spondyloenchondrodysplasia with immune dysregulation
+(SPENCDI; 607944) from 8 families, Briggs et al. (2011) identified
+homozygosity or compound heterozygosity for mutations in the ACP5 gene
+(see, e.g., 171640.0001-171640.0004). In vivo testing confirmed a loss
+of expressed protein, and all 8 cases assayed showed elevated serum
+interferon alpha (see IFNA1, 147660) activity, with gene expression
+profiling in whole blood defining a type I interferon signature.
+
+Simultaneously and independently, Lausch et al. (2011) mapped SPENCDI to
+chromosome 19p13 and identified homozygous or compound heterozygous
+mutations in the ACP5 gene in 14 affected individuals from 11 families
+(see, e.g., 171640.0004-171640.0007). Lausch et al. (2011) demonstrated
+that the mutations abolished TRAP enzyme function in serum and cells of
+affected individuals, and that phosphorylated osteopontin accumulated in
+serum, urine, and cells cultured from TRAP-deficient individuals.
+Case-derived dendritic cells exhibited an altered cytokine profile and
+were more potent than matched controls in stimulating allogeneic T-cell
+proliferation in mixed lymphocyte reactions.
+
+ANIMAL MODEL
+
+Hayman et al. (1996) observed that mice with a targeted disruption of
+the Acp5 gene, or Trap, suffered from developmental deformities of the
+limb and axial skeleton and had osteoclasts defective in bone
+resorption, resulting in mild osteopetrosis.
+
+Bune et al. (2001) determined that macrophages of Acp5-deficient mice
+had compensatory acid phosphatase activity attributable to the Acp2 gene
+(171650) and enhanced proinflammatory responses in vitro. However, mice
+lacking Acp5 showed delayed clearance of Staphylococcus aureus in vivo,
+which was associated with reduced numbers of peritoneal macrophages, in
+spite of normal macrophage and neutrophil phagocytosis and killing in
+vitro.
+
+ALLELIC VARIANT .0001
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, THR89ILE
+
+In a Turkish brother and sister with spondyloenchondrodysplasia and
+immune dysregulation (607944), born of first-cousin parents, Briggs et
+al. (2011) identified homozygosity for a 266C-T transition in exon 4 of
+the ACP5 gene, resulting in a thr89-to-ile (T89I) substitution at a
+highly conserved residue. The brother, who was previously reported by
+Navarro et al. (2008), presented at age 22 months with spasticity and a
+vasculitic skin rash. Upon evaluation at 11 years of age, plasma levels
+of total TRAP protein were negligible and TRAP 5a protein was
+undetectable, and he had spasticity and intracranial calcifications,
+elevated antinuclear antibody and anti-double-stranded DNA antibody
+titers, and hypocomplementemia. His older sister, who was evaluated at
+14 years of age for short stature, had a history of Raynaud phenomenon
+but did not have elevated ANA or anti-dsDNA titers; she was, however,
+found to have a high level of interferon-alpha (147660) in serum.
+
+.0002
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLN223TER
+
+In an 11-year-old Pakistani boy with spondyloenchondrodysplasia and
+immune dysregulation (607944), born of first-cousin parents and
+previously reported by Renella et al. (2006) as 'patient 10' (Crow,
+2011), Briggs et al. (2011) identified homozygosity for a 667C-T
+transition in the ACP5 gene, resulting in a gln223-to-ter (Q223X)
+substitution. Plasma levels of total TRAP protein were negligible and
+TRAP 5a protein was undetectable in this patient, indicating an almost
+complete lack of TRAP synthesis or secretion. In addition to skeletal
+manifestations, the patient had elevated antinuclear antibody and
+anti-double-stranded DNA antibody titers and autoimmune hemolytic
+anemia.
+
+.0003
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, MET264LYS
+
+In a female patient with spondyloenchondrodysplasia and immune
+dysregulation (607944), who was born of first-cousin parents of
+Portuguese descent and was originally reported by Roifman and Melamed
+(2003), Briggs et al. (2011) identified homozygosity for a 791T-A
+transversion in exon 7 of the ACP5 gene, resulting in a met264-to-lys
+(M264K) substitution. Computational analysis indicated that this change
+was likely to destabilize the structure of the protein. In addition to
+skeletal changes, the patient had a history of recurrent infections,
+elevated antinuclear antibody and anti-double-stranded DNA antibody
+titers, thrombocytopenia requiring splenectomy, nonerosive arthropathy,
+systemic lupus erythematosus, and hypothyroidism.
+
+.0004
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLY215ARG
+
+In a female patient from Mali with spondyloenchondrodysplasia and immune
+dysregulation (607944), Briggs et al. (2011) identified homozygosity for
+a 643G-A transition in exon 6 of the ACP5 gene, resulting in a
+gly215-to-arg (G215R) substitution. This patient, who presented at 6
+years of age with nephropathy, also had severe short stature with
+metaphyseal dysplasia, elevated antinuclear antibody and
+anti-double-stranded DNA antibody titers, and systemic lupus
+erythematosus with class V lupus nephritis on renal biopsy.
+
+In 2 unrelated girls with spondyloenchondrodysplasia, 14 years and 10
+years of age, respectively, Lausch et al. (2011) identified homozygosity
+for the G215R mutation in the ACP5 gene. In addition to skeletal
+changes, the older girl had chronic thrombocytopenia, ataxia,
+leukodystrophy, and basal ganglia calcifications, whereas the younger
+girl had only calcifications of the left globus pallidus without
+immunologic or neurologic symptoms. The mutation was not found in 228
+control alleles.
+
+.0005
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, GLY109ARG
+
+In 2 sibs with spondyloenchondrodysplasia and immune dysregulation
+(607944), Lausch et al. (2011) identified homozygosity for a 325G-A
+transition in exon 7 of the ACP5 gene, resulting in a gly109-to-arg
+(G109R) substitution. In addition to skeletal changes, both sibs had
+systemic lupus erythematosus, the older sib also had arthralgia and
+vitiligo, and the younger sib had arthritis; the older sib also had mild
+developmental delay and diffuse intracranial calcifications as well as
+of the basal ganglia, and the younger sib had basal ganglia and right
+frontal lobe calcifications, but neither sib displayed neurologic signs.
+In 2 additional affected individuals from unrelated families, 1 of whom
+was the patient originally reported by Scharer (1958), Lausch et al.
+(2011) identified compound heterozygosity for the G109R mutation and
+another mutation in the ACP5 gene (see 171640.0006 and 171640.0007).
+None of the mutations was found in 228 control alleles.
+
+.0006
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, 3-BP DEL, 831CTA
+
+In a 64-year-old Ashkenazi Jewish man with spondyloenchondrodysplasia
+and immune dysregulation (607944), who was originally reported by
+Scharer (1958) and later studied by Renella et al. (2006), Lausch et al.
+(2011) identified compound heterozygosity for mutations in the ACP5
+gene: a 3-bp deletion (813delCTA) in exon 7 and a G109R substitution
+(171640.0005). The patient was diagnosed with systemic lupus
+erythematosus at 9.5 years of age but was subsequently lost to
+follow-up; the diagnosis of spondyloenchondrodysplasia was made 40 years
+later upon reevaluation of his radiographs. In adulthood he had
+continued to have recurrent fevers and arthralgias and developed
+antiphospholipid syndrome, steroid-dependent neutropenia, and
+thrombocytopenia.
+
+.0007
+SPONDYLOENCHONDRODYSPLASIA WITH IMMUNE DYSREGULATION
+ACP5, LEU201PRO
+
+In a 12-year-old patient with spondyloenchondrodysplasia and immune
+dysregulation (607944), Lausch et al. (2011) identified compound
+heterozygosity for mutations in the ACP5 gene: a 602T-C transition in
+exon 6, resulting in a leu201-to-pro (L201P) substitution, and a G109R
+substitution (171640.0005). In addition to skeletal manifestations, the
+patient had thrombocytopenia, leukopenia, hepatosplenomegaly, elevated
+antinuclear antibody titers, childhood-onset spastic diplegia, and
+calcification of the basal ganglia and frontal subcortical area.
+
+REFERENCE 1. Allen, B. S.; Ketcham, C. M.; Roberts, R. M.; Nick, H. S.; Ostrer,
+H.: Localization of the human type 5, tartrate-resistant acid phosphatase
+gene by in situ hybridization. Genomics 4: 597-600, 1989.
+
+2. Briggs, T. A.; Rice, G. I.; Daly, S.; Urquhart, J.; Gornall, H.;
+Bader-Meunier, B.; Baskar, K.; Baskar, S.; Baudouin, V.; Beresford,
+M. W.; Black, G. C. M.; Dearman, R. J.; and 28 others: Tartrate-resistant
+acid phosphatase deficiency causes a bone dysplasia with autoimmunity
+and a type I interferon expression signature. Nature Genet. 43:
+127-131, 2011.
+
+3. Bune, A. J.; Hayman, A. R.; Evans, M. J.; Cox, T. M.: Mice lacking
+tartrate-resistant acid phosphatase (Acp 5) have disordered macrophage
+inflammatory responses and reduced clearance of the pathogen, Staphylococcus
+aureus. Immunology 102: 103-113, 2001.
+
+4. Crow, Y.: Personal Communication. Baltimore, Md.  3/8/2011.
+
+5. Grimes, R.; Reddy, S. V.; Leach, R. J.; Scarcez, T.; Roodman, G.
+D.; Sakaguchi, A. Y.; Lalley, P. A.; Windle, J. J.: Assignment of
+the mouse tartrate-resistant acid phosphatase gene (Acp5) to chromosome
+9. Genomics 15: 421-422, 1993.
+
+6. Hayman, A. R.; Jones, S. J.; Boyde, A.; Foster, D.; Colledge, W.
+H.; Carlton, M. B.; Evans, M. J.; Cox, T. M.: Mice lacking tartrate-resistant
+acid phosphatase (Acp 5) have disrupted endochondral ossification
+and mild osteopetrosis. Development 122: 3151-3162, 1996.
+
+7. Ketcham, C. M.; Roberts, R. M.; Simmen, R. C.; Nick, H. S.: Molecular
+cloning of the type 5, iron-containing, tartrate-resistant acid phosphatase
+from human placenta. J. Biol. Chem. 264: 557-563, 1988.
+
+8. Lausch, E.; Janecke, A.; Bros, M.; Trojandt, S.; Alanay, Y.; De
+Laet, C.; Hubner, C. A.; Meinecke, P.; Nishimura, G.; Matsuo, M.;
+Hirano, Y.; Tenoutasse, S.; and 9 others: Genetic deficiency of
+tartrate-resistant acid phosphatase associated with skeletal dysplasia,
+cerebral calcifications and autoimmunity. Nature Genet. 43: 132-137,
+2011.
+
+9. Leach, R. J.; Reus, B. E.; Hundley, J. E.; Johnson-Pais, T. L.;
+Windle, J. J.: Confirmation of the assignment of the human tartrate-resistant
+acid phosphatase gene (ACP5) to chromosome 19. Genomics 19: 180-181,
+1994.
+
+10. Lord, D. K.; Cross, N. C. P.; Bevilacqua, M. A.; Rider, S. H.;
+Gorman, P. A.; Groves, A. V.; Moss, D. W.; Sheer, D.; Cox, T. M.:
+Type 5 acid phosphatase: sequence, expression and chromosomal localization
+of a differentiation-associated protein of the human macrophage. Europ.
+J. Biochem. 189: 287-293, 1990. Note: Erratum: Europ. J. Biochem.
+191: 775 only, 1990.
+
+11. Navarro, V.; Scott, C.; Briggs, T. A.; Barete, S.; Frances, C.;
+Lebon, P.; Maisonobe, T.; Rice, G. I.; Wouters, C. H.; Crow, Y. J.
+: Two further cases of spondyloenchondrodysplasia (SPENCD) with immune
+dysregulation. Am. J. Med. Genet. 146A: 2810-2815, 2008.
+
+12. Renella, R.; Schaefer, E.; LeMerrer, M.; Alanay, Y.; Kandemir,
+N.; Eich, G.; Costa, T.; Ballhausen, D.; Boltshauser, E.; Bonafe,
+L.; Giedion, A.; Unger, S.; Superti-Furga, A.: Spondyloenchondrodysplasia
+with spasticity, cerebral calcifications, and immune dysregulation:
+clinical and radiologic delineation of a pleiotropic disorder. Am.
+J. Med. Genet. 140A: 541-550, 2006.
+
+13. Roifman, C. M.; Melamed, I.: A novel syndrome of combined immunodeficiency,
+autoimmunity and spondylometaphyseal dysplasia. Clin. Genet. 63:
+522-529, 2003.
+
+14. Scharer, K.: A case of infantile generalized lupus erythematosus
+with unusual bone changes. Helv. Paediat. Acta 13: 40-68, 1958.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 5/3/2011
+Paul J. Converse - updated: 4/30/2001
+
+CREATED Victor A. McKusick: 4/4/1989
+
+EDITED terry: 03/14/2013
+carol: 5/3/2011
+mgross: 4/30/2001
+dkim: 12/11/1998
+jason: 6/27/1994
+carol: 2/9/1994
+carol: 10/5/1993
+carol: 9/27/1993
+supermim: 3/16/1992
+supermim: 3/20/1990
+
+604026	TITLE *604026 GOLGI SNAP RECEPTOR COMPLEX MEMBER 1; GOSR1
+;;GOS28;;
+GOLGI SNARE, 28-KD; GS28
+DESCRIPTION The specificity of vesicular transport is thought to be determined by
+correct pairing of vesicle-associated SNAREs (v-SNAREs) with those on
+the target membrane (t-SNAREs). This complex then recruits soluble NSF
+attachment proteins (SNAPs) and N-ethylmaleimide-sensitive factor (NSF;
+601633) to form a 20S fusion (or SNARE) complex. See SNAPA (603215).
+Nagahama et al. (1996) identified GOS28, a putative Golgi v-SNARE of 28
+kD that localized primarily to transport vesicles at the terminal rims
+of Golgi stacks. They demonstrated that GOS28 plays a role in
+intra-Golgi transport. Subramaniam et al. (1996) isolated cDNAs encoding
+rat GOS28, which they called p28 or GS28 (Golgi SNARE of 28 kD).
+Sequence analysis revealed that the predicted protein contained a
+central coiled-coil domain and a C-terminal membrane anchor. The authors
+found that GS28 is a core component of the Golgi 20S SNARE complex that
+participates in the docking or fusion stage of endoplasmic
+reticulum-Golgi transport. Lowe et al. (1997) reported that GS28 plays a
+role in transport from the endoplasmic reticulum to the cis- (inside
+face) and medial-Golgi, while the GS27 (604027) Golgi SNARE participates
+in protein movement from the medial-Golgi towards the trans- Golgi
+(plasma-membrane face) and the trans-Golgi network.
+
+By searching EST databases using the rat GS28 protein sequence, Bui et
+al. (1999) identified human GS28 cDNAs. The deduced 250-amino acid human
+protein is 97% identical to rat GS28. Independently, Mao et al. (1998)
+identified a human GOS28 cDNA among a collection of cDNAs expressed in
+hematopoietic stem/progenitor cells.
+
+By analysis of radiation hybrids and by fluorescence in situ
+hybridization, Bui et al. (1999) mapped the GS28 gene to 17q11.
+
+REFERENCE 1. Bui, T. D.; Levy, E. R.; Subramaniam, V. N.; Lowe, S. L.; Hong,
+W.: cDNA characterization and chromosomal mapping of human Golgi
+SNARE GS27 and GS28 to chromosome 17. Genomics 57: 285-288, 1999.
+
+2. Lowe, S. L.; Peter, F.; Subramaniam, V. N.; Wong, S. H.; Hong,
+W.: A SNARE involved in protein transport through the Golgi apparatus. Nature 389:
+881-884, 1997.
+
+3. Mao, M.; Fu, G.; Wu, J.-S.; Zhang, Q.-H.; Zhou, J.; Kan, L.-X.;
+Huang, Q.-H.; He, K.-L.; Gu, B.-W.; Han, Z.-G.; Shen, Y.; Gu, J.;
+Yu, Y.-P.; Xu, S.-H.; Wang, Y.-X.; Chen, S.-J.; Chen, Z.: Identification
+of genes expressed in human CD34+ hematopoietic stem/progenitor cells
+by expressed sequence tags and efficient full-length cDNA cloning. Proc.
+Nat. Acad. Sci. 95: 8175-8180, 1998.
+
+4. Nagahama, M.; Orci, L.; Ravazzola, M.; Amherdt, M.; Lacomis, L.;
+Tempst, P.; Rothman, J. E.; Sollner, T. H.: A v-SNARE implicated
+in intra-Golgi transport. J. Cell Biol. 133: 507-516, 1996.
+
+5. Subramaniam, V. N.; Peter, F.; Philp, R.; Wong, S. H.; Hong, W.
+: GS28, a 28-kilodalton Golgi SNARE that participates in ER-Golgi
+transport. Science 272: 1161-1163, 1996.
+
+CREATED Rebekah S. Rasooly: 7/19/1999
+
+EDITED alopez: 07/19/1999
+
+602587	TITLE *602587 ACYL-CoA THIOESTERASE 7; ACOT7
+;;ACYL-CoA THIOESTERASE, LONG-CHAIN, CYTOSOLIC;;
+CTE-II;;
+ACYL-CoA THIOESTER HYDROLASE, LONG-CHAIN, 2;;
+ACYL-CoA HYDROLASE, LONG-CHAIN, BRAIN; BACH;;
+ACYL-CoA HYDROLASE, LONG-CHAIN, LIVER; LACH;;
+ACYL-CoA THIOESTERASE 2, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Long-chain acyl-CoA thioesterases (EC 3.1.2.2), such as ACOT7, are found
+in all organisms and cleave fatty acyl-CoAs into free fatty acids and
+CoA.
+
+CLONING
+
+Engberg et al. (1997) purified a liver cytosolic isoform of long-chain
+acyl-CoA thioesterase from peroxisome proliferator-treated rats and
+named it CTE-II for 'cytosolic long-chain acyl-CoA thioesterase.'
+Antibodies against CTE-II were used to screen an expression library of
+peroxisome proliferator-induced rat liver cDNA. The predicted 338-amino
+acid protein migrated at 40 kD on SDS-PAGE. Engberg et al. (1997)
+observed many evenly distributed nucleotide differences and pronounced
+differences in the C-terminal regions between CTE-II and the closely
+related ACT (602586) and suggested that the 2 enzymes are encoded by
+different genes. Engberg et al. (1997) noted that there are human ESTs
+homologous to CTE-II.
+
+Yamada et al. (1997) isolated cDNAs encoding long-chain acyl-CoA
+hydrolases from rat brain and liver cDNA libraries and designated the
+clones Bach and Lach, respectively. Since the nucleotide sequences of
+the N-terminal regions were entirely different but the downstream
+sequences were virtually identical, Yamada et al. (1997) suggested that
+Bach and Lach are derived from the same gene by alternative splicing.
+
+Using a rat Bach cDNA to screen a human brain cDNA library, Yamada et
+al. (1999) cloned BACH. The deduced protein contains 338 amino acids and
+shares 95% identity with rat Bach. Northern blot analysis detected a
+1.9-kb BACH transcript in human brain RNA. Biochemical analysis of human
+brain homogenates showed that BACH is a cytosolic enzyme. SDS-PAGE
+detected BACH at 43 kD, but gel filtration detected BACH at about 100
+kD, indicating that the protein forms multimers.
+
+By 5-prime RACE and RT-PCR of human brain total RNA, Yamada et al.
+(2002) identified 6 BACH splice variants. Four variants, designated
+BACHa to BACHd, differ in their use of 1 of 4 alternate first exons
+(exons 1a through 1d, respectively) and encode proteins of 329 to 380
+amino acids. All 4 of these proteins contain the hydrolase domain and a
+bipartite nuclear localization signal (NLS) in their C-terminal halves,
+and BACHb and BACHc have N-terminal mitochondrial localization signals.
+The 2 remaining variants contain exon X, an alternatively spliced exon
+between exons 7 and 8 that causes a frameshift and introduces a
+premature stop codon. These C-terminally truncated proteins of 246 and
+283 amino acids lack the hydrolase domain and NLS. The BACH proteins
+containing the mitochondrial localization signal were detected in
+mitochondria of transfected mouse neuroblastoma cells, but those
+containing only the NLS did not localize to nuclei, even though the
+isolated NLS was functional when fused to a test protein.
+Immunohistochemical analysis of human brain detected BACHa in the
+cytosol of neurons such as pyramidal cells in the cerebral cortex and
+Purkinje cells in the cerebellum. In mouse brain, Bacha was also
+detected in nuclei as well as cytosol of certain large neurons in the
+cerebellum, medulla oblongata, and spinal cord. Yamada et al. (2002)
+suggested that the NLS of BACH may be masked by the full-length protein
+as a regulatory mechanism.
+
+GENE FUNCTION
+
+Yamada et al. (1997) found that bacterial extracts of E. coli expressing
+either rat Bach or Lach cDNAs had 100-fold higher acyl-CoA hydrolase
+activity, demonstrating that both cDNAs encode long-chain acyl-CoA
+hydrolases.
+
+By analyzing the activity of purified BACH against several fatty
+acyl-CoAs, Yamada et al. (1999) found that BACH showed a relatively
+broad specificity, with acyl-CoAs with carbon chains of C8 to C18 being
+good substrates. BACH activity was inhibited by a sulfhydryl blocking
+agent. Recombinant BACH was also active against palmitoyl-CoA.
+
+Yang et al. (2004) found significantly decreased levels of acyl-CoA
+hydrolase in hippocampal tissue from 5 patients with mesial temporal
+lobe epilepsy (608096) compared to controls.
+
+GENE STRUCTURE
+
+Yamada et al. (2002) determined that the ACOT7 gene contains 13 exons,
+including 4 alternative first exons (exons 1a through 1d) and exon X, an
+alternatively spliced exon between exons 7 and 8. The gene spans 129 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Yamada et al. (1999) mapped the ACOT7 gene
+to chromosome 1p36.2. Hunt et al. (2005) stated that the human ACOT7
+gene maps to chromosome 1p36.31-p36.11 and the mouse Acot7 gene maps to
+chromosome 4E2.
+
+NOMENCLATURE
+
+Hunt et al. (2005) noted that acyl-CoA thioesterases are referred to in
+the literature as acyl-CoA hydrolases, but the reaction catalyzed is the
+cleavage of a thioester bond. They presented a revised nomenclature for
+these enzymes using the name acyl-CoA thioesterase and the root gene
+symbol ACOT.
+
+REFERENCE 1. Engberg, S. T.; Aoyama, T.; Alexson, S. E. H.; Hashimoto, T.; Svensson,
+L. T.: Peroxisome proliferator-induced acyl-CoA thioesterase from
+rat liver cytosol: molecular cloning and functional expression in
+Chinese hamster ovary cells. Biochem. J. 323: 525-531, 1997.
+
+2. Hunt, M. C.; Yamada, J.; Maltais, L. J.; Wright, M. W.; Podesta,
+E. J.; Alexson, S. E. H.: A revised nomenclature for mammalian acyl-CoA
+thioesterases/hydrolases. J. Lipid Res. 46: 2029-2032, 2005.
+
+3. Yamada, J.; Furihata, T.; Iida, N.; Watanabe, T.; Hosokawa, M.;
+Satoh, T.; Someya, A.; Nagaoka, I.; Suga, T.: Molecular cloning and
+expression of cDNAs encoding rat brain and liver cytosolic long-chain
+acyl-CoA hydrolases. Biochem. Biophys. Res. Commun. 232: 198-203,
+1997.
+
+4. Yamada, J.; Kuramochi, Y.; Takagi, M.; Watanabe, T.; Suga, T.:
+Human brain acyl-CoA hydrolase isoforms encoded by a single gene. Biochem.
+Biophys. Res. Commun. 299: 49-56, 2002.
+
+5. Yamada, J.; Kurata, A.; Hirata, M.; Taniguchi, T.; Takama, H.;
+Furihata, T.; Shiratori, K.; Iida, N.; Takagi-Sakuma, M.; Watanabe,
+T.; Kurosaki, K.; Endo, T.; Suga, T.: Purification, molecular cloning,
+and genomic organization of human brain long-chain acyl-CoA hydrolase. J.
+Biochem. 126: 1013-1019, 1999.
+
+6. Yang, J. W.; Czech, T.; Yamada, J.; Csaszar, E.; Baumgartner, C.;
+Slavc, I.; Lubec, G.: Aberrant cytosolic acyl-CoA thioester hydrolase
+in hippocampus of patients with mesial temporal lobe epilepsy. Amino
+Acids 27: 269-275, 2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 6/6/2006
+Patricia A. Hartz - updated: 4/21/2006
+
+CREATED Rebekah S. Rasooly: 5/1/1998
+
+EDITED wwang: 06/23/2006
+ckniffin: 6/6/2006
+mgross: 6/6/2006
+terry: 4/21/2006
+carol: 3/17/2006
+alopez: 5/1/1998
+
+602224	TITLE *602224 EUKARYOTIC TRANSLATION INITIATION FACTOR 4E-BINDING PROTEIN 2; EIF4EBP2
+;;4EBP2
+DESCRIPTION 
+CLONING
+
+Pause et al. (1994) reported that the 4EBP2 gene encodes a 120-amino
+acid polypeptide that is 56% identical to that of 4EBP1 (602223). By
+Northern blot analysis, Tsukiyama-Kohara et al. (1996) showed that a
+major 3.5-kb transcript of 4EBP2 is expressed ubiquitously.
+
+GENE STRUCTURE
+
+Tsukiyama-Kohara et al. (1996) analyzed the genomic structure of the
+mouse EIF4EBP2 gene and showed that it consists of 3 exons and spans 20
+kb. Its intron/exon structure is identical to that of EIF4EBP1.
+
+Colina et al. (2008) showed that translational control is critical for
+induction of type I interferon (see 147570) production. In mouse
+embryonic fibroblasts lacking the translational repressors 4Ebp1 and
+4Ebp2, the threshold for eliciting type I interferon production is
+lowered. Consequently, replication of encephalomyocarditis virus,
+vesicular stomatitis virus, influenza virus, and Sindbis virus is
+markedly suppressed. Furthermore, Colina et al. (2008) showed that mice
+with both 4Ebp1 and 4Ebp2 genes knocked out are resistant to vesicular
+stomatitis virus infection, and this correlates with an enhanced type I
+interferon production in plasmacytoid dendritic cells and the expression
+of interferon-regulated genes in the lungs. The enhanced type I
+interferon response of 4Ebp1 -/- 4Ebp2 -/- double knockout mouse
+embryonic fibroblasts is caused by upregulation of interferon regulatory
+factor-7 (Irf7; 605047) mRNA translation. Colina et al. (2008) found
+that their findings highlighted the role of 4EBPs as negative regulators
+of type I interferon production, via translational repression of IRF7
+mRNA.
+
+GENE FUNCTION
+
+Dowling et al. (2010) inhibited the mTORC1 (601231) pathway in cells
+lacking EIF4EBP1, EIF4EBP2, and EIF4EBP3 (603483) and analyzed the
+effects on cell size, cell proliferation, and cell cycle progression.
+Although the EIF4EBPs had no effect on cell size, they inhibited cell
+proliferation by selectively inhibiting the translation of mRNAs that
+encode proliferation-promoting proteins and proteins involved in cell
+cycle progression. Thus, Dowling et al. (2010) concluded that control of
+cell size and cell cycle progression appear to be independent in
+mammalian cells, whereas in lower eukaryotes, EIF4E binding proteins
+influence both cell growth and proliferation.
+
+MAPPING
+
+Using fluorescence in situ hybridization, Tsukiyama-Kohara et al. (1996)
+mapped the EIF4EBP2 gene to human chromosome 10q21-q22. They noted that
+chromosomal alterations in this region have been found in some human
+cancers. Tsukiyama-Kohara et al. (1996) mapped the mouse 4EBP2 gene to
+chromosome 10B4-B5.
+
+ANIMAL MODEL
+
+Gkogkas et al. (2013) demonstrated that knockout of EIF4EBP2, (an EIF4E
+(133440) repressor downstream of MTOR), or EIF4E overexpression leads to
+increased translation of neuroligins, which are postsynaptic proteins
+that are causally linked to autism spectrum disorders (ASDs). Mice with
+knockout of Eif4ebp2 exhibit an increased ratio of excitatory to
+inhibitory synaptic inputs and autistic-like behaviors (i.e., social
+interaction deficits, altered communication, and repetitive/stereotyped
+behaviors). Pharmacologic inhibition of Eif4e activity or normalization
+of neuroligin-1 (600568), but not neuroligin-2 (606479), protein levels
+restored the normal excitation/inhibition ratio and rectified the social
+behavior deficits. Thus, Gkogkas et al. (2013) concluded that
+translational control by EIF4E regulates the synthesis of neuroligins,
+maintaining the excitation-to-inhibition balance, and its dysregulation
+engenders ASD-like phenotypes.
+
+REFERENCE 1. Colina, R.; Costa-Mattioli, M.; Dowling, R. J. O.; Jaramillo, M.;
+Tai, L.-H.; Breitbach, C. J.; Martineau, Y.; Larsson, O.; Rong, L.;
+Svitkin, Y. V.; Makrigiannis, A. P.; Bell, J. C.; Sonenberg, N.:
+Translational control of the innate immune response through IRF-7. Nature 452:
+323-328, 2008.
+
+2. Dowling, R. J. O.; Topisirovic, I.; Alain, T.; Bidinosti, M.; Fonseca,
+B. D.; Petroulakis, E.; Wang, X.; Larsson, O.; Selvaraj, A.; Liu,
+Y.; Kozma, S. C.; Thomas, G.; Sonenberg, N.: mTORC1-mediated cell
+proliferation, but not cell growth, controlled by the 4E-BPs. Science 328:
+1172-1176, 2010.
+
+3. Gkogkas, C. G.; Khoutorsky A.; Ran, I.; Rampakakis, E.; Nevarko,
+T.; Weatherill, D. B.; Vasuta, C.; Yee, S.; Truitt, M.; Dallaire,
+P.; Major, F.; Lasko, P.; Ruggero, D.; Nader, K.; Lacaille, J.-C.;
+Sonenberg, N.: Autism-related deficits via dysregulated eIF4E-dependent
+translational control. Nature 493: 371-377, 2013.
+
+4. Pause, A.; Belsham, G. J.; Gingras, A.-C.; Donze, O.; Lin, T.-A.;
+Lawrence, J. C., Jr.; Sonenberg, N.: Insulin-dependent stimulation
+of protein synthesis by phosphorylation of a regulator of 5-prime-cap
+function. Nature 371: 762-767, 1994.
+
+5. Tsukiyama-Kohara, K.; Vidal, S. M.; Gingras, A.-C.; Glover, T.
+W.; Hanash, S. M.; Heng, H.; Sonenberg, N.: Tissue distribution,
+genomic structure, and chromosome mapping of mouse and human eukaryotic
+initiation factor 4E-binding proteins 1 and 2. Genomics 38: 353-363,
+1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/20/2013
+Ada Hamosh - updated: 6/14/2010
+Ada Hamosh - updated: 5/22/2008
+
+CREATED Jennifer P. Macke: 1/6/1998
+
+EDITED alopez: 02/22/2013
+alopez: 2/22/2013
+terry: 2/20/2013
+alopez: 9/24/2012
+terry: 9/20/2012
+alopez: 6/18/2010
+terry: 6/14/2010
+alopez: 5/28/2008
+terry: 5/22/2008
+psherman: 12/1/1998
+alopez: 1/16/1998
+alopez: 1/6/1998
+
+614259	TITLE *614259 WD REPEAT-CONTAINING PROTEIN 65; WDR65
+DESCRIPTION 
+CLONING
+
+By database analysis and PCR of human and mouse testis cDNA libraries,
+Rorick et al. (2011) cloned 2 splice variants of human and mouse WDR65.
+The deduced full-length human protein contains 1,283 amino acids and has
+2 WD repeat domains. The shorter human variant encodes a deduced
+698-amino acid protein that is truncated after the 2 WD repeat domains.
+PCR analysis of mouse tissues revealed highest Wdr65 expression in lung,
+testis, and skin. Weaker expression was detected in brain and kidney,
+and no expression was detected in heart, liver, skeletal muscle, and
+spleen. Wdr65 was expressed in mouse embryonic stem cells and in whole
+mouse embryos beginning at about 15 days postcoitum. In situ
+hybridization revealed Wdr65 expression in mouse nasal epithelium and
+medial edge epithelium at 14.5 days postcoitum, and in nasal respiratory
+epithelium and epidermis, but not oral epithelium, at 15.5 days
+postcoitum. The increase in Wdr65 expression in these embryonic mouse
+craniofacial tissues correlated with development and dissolution of the
+epithelial seam.
+
+GENE STRUCTURE
+
+Rorick et al. (2011) determined that the WDR65 gene contains 24 exons.
+
+MAPPING
+
+Rorick et al. (2011) reported that the WDR65 gene maps to chromosome
+1p34.2. The mouse Wdr65 gene maps to a region of chromosome 4 that
+shares homology of synteny with human chromosome 1p36-p32.
+
+GENE FUNCTION
+
+Using microarray analysis, Rorick et al. (2011) showed that expression
+of Wdr65 was significantly downregulated in Irf6 (607199)-deficient
+mouse embryos compared with wildtype embryos. Database analysis revealed
+an IRF6-binding site for WDR65 in an exon of the EBNA1BP2 gene (614443),
+which is located 63 bp upstream of WDR65 on the opposite strand.
+
+MOLECULAR GENETICS
+
+In a Brazilian patient with van der Woude syndrome (606713), Rorick et
+al. (2011) identified heterozygosity for a possibly causative missense
+mutation at a conserved residue in the WDR65 gene (614259.0001).
+
+ALLELIC VARIANT .0001
+RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+WDR65, ASP523TYR
+
+This variant, formerly titled VAN DER WOUDE SYNDROME 2 (606713), has
+been reclassified because its contribution to the phenotype has not been
+confirmed.
+
+In a Brazilian patient with van der Woude syndrome-2, Rorick et al.
+(2011) identified a heterozygous 1567G-T transversion in exon 10 of the
+WDR65 gene, resulting in an asp523-to-tyr (D523Y) substitution at a
+conserved residue. Because the mutation was not found in controls and
+significantly changes the biochemical properties of a conserved residue,
+Rorick et al. (2011) concluded that it was potentially etiologic.
+
+REFERENCE 1. Rorick, N. K.; Kinoshita, A.; Weirather, J. L.; Peyrard-Janvid,
+M.; de Lima, R. L. L. F.; Dunnwald, M.; Shanske, A. L.; Moretti-Ferreira,
+D.; Koillinen, H.; Kere, J.; Mansilla, M. A.; Murray, J. C.; Goudy,
+S. L.; Schutte, B. C.: Genomic strategy identifies a missense mutation
+in WD-repeat domain 65 (WDR65) in an individual with van der Woude
+syndrome. Am. J. Med. Genet. 155A: 1314-1321, 2011.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 10/14/2011
+
+CREATED Patricia A. Hartz: 9/30/2011
+
+EDITED carol: 12/11/2012
+mgross: 1/24/2012
+carol: 10/14/2011
+mgross: 9/30/2011
+
+608879	TITLE *608879 VACUOLAR PROTEIN SORTING 13, YEAST, HOMOLOG OF, C; VPS13C
+;;KIAA1421
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (2000) cloned VPS13C, which they designated
+KIAA1421. The deduced protein contains 1,463 amino acids. RT-PCR ELISA
+detected VPS13C expression in all adult and fetal tissues and all
+specific brain regions examined. Expression was intermediate in most
+tissues, but it was lower in adult pancreas and lung and in fetal liver
+and brain.
+
+By searching databases for sequences similar to VPS13A (605978),
+followed by RT-PCR of lymphoid cell line and brain RNA, Velayos-Baeza et
+al. (2004) cloned VPS13C. They identified 2 main splice variants,
+variant 1A and variant 2A, as well as 4 different 3-prime end splice
+variants. Variant 1A encodes a deduced 3,710-amino acid protein, and
+variant 2A encodes a deduced 3,753-amino acid protein. VPS13C shares
+significant similarity with yeast Vps13 and other human VPS13 proteins,
+mostly in the N and C termini. Northern blot analysis detected
+expression of variant 1A in all tissues tested, whereas variant 2A was
+expressed only in brain, although at a higher level than variant 1A.
+
+GENE STRUCTURE
+
+Velayos-Baeza et al. (2004) determined that the VPS13C gene contains 86
+exons, including 1 alternative exon (exon 81b), and spans 208 kb.
+
+MAPPING
+
+Using radiation hybrid analysis, Nagase et al. (2000) mapped the VPS13C
+gene to chromosome 15. By genomic sequence analysis, Velayos-Baeza et
+al. (2004) mapped the VPS13C gene to chromosome 15q21.3. They mapped the
+mouse Vps13c gene to chromosome 9C.
+
+REFERENCE 1. Nagase, T.; Kikuno, R.; Ishikawa, K.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 65-73, 2000.
+
+2. Velayos-Baeza, A.; Vettori, A.; Copley, R. R.; Dobson-Stone, C.;
+Monaco, A. P.: Analysis of the human VPS13 gene family. Genomics 84:
+536-549, 2004.
+
+CREATED Patricia A. Hartz: 8/27/2004
+
+EDITED mgross: 08/27/2004
+mgross: 8/27/2004
+

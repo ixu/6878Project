@@ -1,0 +1,100 @@
+610558	TITLE *610558 MITOGEN-ACTIVATED PROTEIN KINASE-ASSOCIATED PROTEIN 1; MAPKAP1
+;;SAPK-INTERACTING PROTEIN 1; SIN1;;
+MEKK2-INTERACTING PROTEIN 1; MIP1;;
+JC310
+DESCRIPTION 
+DESCRIPTION
+
+SIN1, MTOR (FRAP1; 601231), RICTOR (609022), and LST8 (GBL; 612190) are
+components of TORC2, a protein kinase complex involved in AKT (164730)
+phosphorylation and cell signaling (Yang et al., 2006).
+
+CLONING
+
+By screening an expression library for cDNAs that suppressed the heat
+shock-sensitive phenotype of yeast with an activated Ras2 gene (see
+HRAS; 190020), Colicelli et al. (1991) obtained a partial cDNA encoding
+MAPKAP1, which they called JC310.
+
+By searching an EST database with the partial JC310 sequence, followed
+by RT-PCR, Schroder et al. (2004) obtained a full-length cDNA encoding
+MAPKAP1, which they called SIN1. The deduced 522-amino acid protein has
+a nuclear localization signal, 2 bipartite nuclear localization signals,
+a peroxisomal targeting signal, and a PEST motif for rapid protein
+degradation. Comparison of SIN1 with homologs from various species
+revealed a short, highly conserved region, designated Box1, located
+within a larger conserved domain, designated CRIM (conserved region in
+middle). Schroder et al. (2004) also identified several SIN1 splice
+variants, including SIN1-alpha, which encodes a 323-amino acid
+C-terminally truncated protein, and SIN1-beta and SIN1-gamma, which
+encode 487- and 475-amino acid proteins, respectively, with internal
+deletions. Two other variants, SIN1-delta and SIN1-epsilon, lack the
+first coding exon and the first 2 coding exons of SIN1, respectively.
+Northern blot analysis detected SIN1 transcripts of 3.8 and 2.6 kb in
+all tissues examined, with highest levels in skeletal muscle and heart.
+
+GENE FUNCTION
+
+Yang et al. (2006) identified SIN1 as an essential component of TORC2,
+but not TORC1. SIN1 specifically interacted with MTOR and RICTOR, but
+not RAPTOR (607130), the defining component of the TORC1 complex.
+Knockdown of SIN1 resulted in decreased RICTOR phosphorylation and
+protein levels, as well as disruption of binding between RICTOR and
+MTOR. RICTOR knockdown dramatically decreased SIN1 protein levels.
+Knockdown of SIN1 in both Drosophila and human cells diminished AKT
+phosphorylation, and SIN1-knockdown cells displayed less phosphorylation
+of AKT substrates and more sensitivity to apoptosis.
+
+Independently, Jacinto et al. (2006) identified SIN1 as an essential
+TORC2 subunit in human cells. Phosphorylation of Akt at ser473 was lost
+in Sin1 -/- mouse embryonic fibroblasts (MEFs), whereas phosphorylation
+of thr308 was unaffected. Defective ser473 phosphorylation affected only
+a subset of Akt targets in vivo, including Foxo1 (136533) and Foxo3a
+(602681). Sin1 -/- MEFs were more sensitive to stress-induced apoptosis,
+suggesting that phosphorylation of AKT at ser473 plays an important role
+in cell survival.
+
+GENE STRUCTURE
+
+Schroder et al. (2004) determined that the MAPKAP1 gene contains 13
+exons, the first of which is noncoding. The 5-prime region contains 2
+short open reading frames of 9 and 5 codons, and the 3-prime region
+contains 2 polyadenylation sites.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the MAPKAP1
+gene to chromosome 9 (TMAP RH41772).
+
+ANIMAL MODEL
+
+Jacinto et al. (2006) found that Sin1 deletion was embryonic lethal in
+mice due to early developmental problems.
+
+REFERENCE 1. Colicelli, J.; Nicolette, C.; Birchmeier, C.; Rodgers, L.; Riggs,
+M.; Wigler, M.: Expression of three mammalian cDNAs that interfere
+with RAS function in Saccharomyces cerevisiae. Proc. Nat. Acad. Sci. 88:
+2913-2917, 1991.
+
+2. Jacinto, E.; Facchinetti, V.; Liu, D.; Soto, N.; Wei, S.; Jung,
+S. Y.; Huang, Q.; Qin, J.; Su, B.: SIN1/MIP1 maintains rictor-mTOR
+complex integrity and regulates Akt phosphorylation and substrate
+specificity. Cell 127: 125-137, 2006.
+
+3. Schroder, W.; Cloonan, N.; Bushell, G.; Sculley, T.: Alternative
+polyadenylation and splicing of mRNAs transcribed from the human Sin1
+gene. Gene 339: 17-23, 2004.
+
+4. Yang, Q.; Inoki, K.; Ikenoue, T.; Guan, K.-L.: Identification
+of Sin1 as an essential TORC2 component required for complex formation
+and kinase activity. Genes Dev. 20: 2820-2832, 2006.
+
+CONTRIBUTORS Matthew B. Gross - updated: 5/7/2009
+
+CREATED Patricia A. Hartz: 11/9/2006
+
+EDITED wwang: 05/11/2009
+mgross: 5/7/2009
+mgross: 7/22/2008
+mgross: 11/9/2006
+

@@ -1,0 +1,1435 @@
+610325	TITLE *610325 NUCLEAR DISTRIBUTION GENE C, A. NIDULANS, HOMOLOG OF; NUDC
+DESCRIPTION 
+DESCRIPTION
+
+NudC was first identified as a regulator of nuclear movement in the
+asexual reproductive cycle of the filamentous fungus Aspergillus
+nidulans. Human NUDC is a nuclear movement protein that associates with
+dynein (see DYNC1H1; 600112) (Aumais et al., 2003).
+
+CLONING
+
+By searching an EST database for sequences similar to A. nidulans NudC,
+followed by 5-prime and 3-prime RACE of a heart cDNA library, Miller et
+al. (1999) cloned human NUDC. Northern blot analysis detected NUDC
+expression in all tissues examined, with highest levels in heart and
+skeletal muscle. However, Western blot analysis showed highest NUDC
+protein expression in brain and erythroid cells, with lower expression
+in other tissues examined. Immunohistochemical analysis of bone marrow
+biopsies detected high NUDC levels in early erythroid and myeloid cells,
+but little to none in most differentiated cells. Expression was
+primarily cytoplasmic, although punctate nuclear staining was also
+observed. In cultured human erythroid cells, NUDC mRNA and protein were
+highly expressed in rapidly proliferating cells and declined upon
+terminal differentiation.
+
+By searching an EST database for sequences similar to mouse and rat NudC
+Matsumoto and Ledbetter (1999) identified human NUDC. The deduced
+331-amino acid protein contains a basic stretch from lys68 to arg76, an
+acidic region from asp144 to asp155, and a 94-amino acid C terminus that
+is highly homologous to A. nidulans NudC. Human NUDC shares 94% and 95%
+amino acid identity with mouse and rat NudC, respectively. Northern blot
+analysis detected a major 1.6-kb transcript and a minor 2.0-kb
+transcript in all adult and fetal human tissues examined.
+
+GENE FUNCTION
+
+Miller et al. (1999) found that granulocyte-macrophage
+colony-stimulating factor (CSF2; 138960) increased expression of NUDC
+mRNA and protein in a human erythroleukemia cell line. NUDC expression
+was also significantly enhanced in lysates of bone marrow aspirates from
+patients with acute myelogenous and acute lymphoblastic leukemia
+compared with normal controls.
+
+Aumais et al. (2003) noted that, in rat T cells, NudC is an early
+mitogen-responsive gene and, in synchronized cultures, NudC mRNA
+increases during mid-G1 and protein levels double during G2/M. They
+found that silencing of NUDC through small interfering RNA or
+overexpression of rat NudC inhibited HeLa cell proliferation and led to
+an increase in the proportion of multinucleated cells. Complementary
+studies in C. elegans embryos demonstrated that cytokinetic furrows
+regressed when Nud1, the C. elegans ortholog of NUDC, was silenced by
+RNA-mediated interference, resulting in 1-celled embryos containing 2
+nuclei. Loss of midzone microtubule organization was observed in both
+HeLa cells and C. elegans embryos. Altering NUDC levels in HeLa cells
+resulted in mislocalization of PLK1 (602098) from mitotic structures,
+including the midbody during cytokinesis. Aumais et al. (2003) concluded
+that NUDC is crucial for mitotic progression and completion of
+cytokinesis.
+
+Using yeast 2-hybrid analysis, pull-down assays, and immunoprecipitation
+analysis, Pan et al. (2005) demonstrated that the extracellular domain
+of thrombopoietin receptor (MPL; 159530) bound amino acids 100 to 238 of
+NUDC. Immunofluorescence staining of a human megakaryocyte cell line
+showed colocalization of NUDC and MPL at all stages of megakaryocyte
+development. Substantial colocalization of NUDC with microtubules was
+detected around nuclei and elongated microtubular structures, especially
+in proplatelet extensions. Pan et al. (2005) also found that NUDC was
+secreted by human megakaryocyte cell lines and that Nudc was present in
+mouse sera. Administration of human NUDC protein enhanced the number of
+circulating platelets in mice.
+
+By mass spectrometry analysis of HeLa cell proteins that
+immunoprecipitated with NUDC, Zhu et al. (2010) found that NUDC
+interacted with about 130 different proteins, including chaperones,
+cytoskeletal proteins, and proteins involved in signal transduction,
+trafficking, protein synthesis, nucleic acid management, metabolism, and
+proteolysis. Some of these proteins were also HSP90-alpha (HSP90AA1;
+140571)-interacting proteins. Zhu et al. (2010) found that NUDC and
+HSP90-alpha interacted directly and formed an ATPase-dependent chaperone
+complex with LIS1 (PAFAH1B1; 601545). An inactivating mutation in the
+p23 (PTGES3; 607061) domain of NUDC or pharmacologic inhibition of
+HSP90-alpha resulted in LIS1 destabilization. Zhu et al. (2010)
+concluded that NUDC is a protein of diverse functions that acts as a
+cochaperone for HSP90-alpha.
+
+GENE STRUCTURE
+
+Matsumoto and Ledbetter (1999) determined that the NUDC gene contains at
+least 9 exons and spans about 8 kb.
+
+MAPPING
+
+By FISH, Matsumoto and Ledbetter (1999) mapped the NUDC gene to
+chromosome 1p35-p34. They mapped 2 intronless NUDC pseudogenes, NUDCP1
+and NUDCP2, to chromosomes 2q23-q24 and 2q31, respectively.
+
+REFERENCE 1. Aumais, J. P.; Williams, S. N.; Luo, W.; Nishino, M.; Caldwell,
+K. A.; Caldwell, G. A.; Lin, S.-H.; Yu-Lee, L.: Role for NudC, a
+dynein-associated nuclear movement protein, in mitosis and cytokinesis. J.
+Cell Sci. 116: 1991-2003, 2003.
+
+2. Matsumoto, N.; Ledbetter, D. H.: Molecular cloning and characterization
+of the human NUDC gene. Hum. Genet. 104: 498-504, 1999.
+
+3. Miller, B. A.; Zhang, M.-Y.; Gocke, C. D.; De Souza, C.; Osmani,
+A. H.; Lynch, C.; Davies, J.; Bell, L.; Osmani, S. A.: A homolog
+of the fungal nuclear migration gene nudC is involved in normal and
+malignant human hematopoiesis. Exp. Hemat. 27: 742-750, 1999.
+
+4. Pan, R.-M.; Yang, Y.; Wei, M.-X.; Yu, X.-B.; Ge, Y.-C.; Xu, P.
+: A microtubule associated protein (hNUDC) binds to the extracellular
+domain of thrombopoietin receptor (Mpl). J. Cell. Biochem. 96: 741-750,
+2005.
+
+5. Zhu, X.-J.; Liu, X.; Jin, Q.; Cai, Y.; Yang, Y.; Zhou, T.: The
+L279P mutation of nuclear distribution gene C (NudC) influences its
+chaperone activity and lissencephaly protein 1 (LIS1) stability. J.
+Biol. Chem. 285: 29903-29910, 2010.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/9/2012
+
+CREATED Patricia A. Hartz: 8/16/2006
+
+EDITED mgross: 02/22/2012
+terry: 2/9/2012
+mgross: 8/16/2006
+
+614848	TITLE *614848 CENTROSOMAL PROTEIN, 164-KD; CEP164
+;;KIAA1052
+DESCRIPTION 
+DESCRIPTION
+
+CEP164 is a basal body protein required for assembly of the primary
+cilium (Graser et al., 2007). CEP164 also has a critical role in DNA
+damage response (Sivasubramaniam et al., 2008).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Kikuno et al. (1999) cloned CEP164, which they designated
+KIAA1052. The deduced protein contains 1,455 amino acids. RT-PCR
+detected low to moderate CEP164 expression in all adult and fetal
+tissues and specific adult brain regions examined, except skeletal
+muscle.
+
+Andersen et al. (2003) identified CEP164 as a potential centrosomal
+protein in human lymphoblastic KE37 cells. The deduced protein contains
+7 coiled-coil domains and a WW motif. Epitope-tagged CEP164 localized to
+centrosomes.
+
+Graser et al. (2007) stated that the full-length 1,460-amino acid CEP164
+protein contains an N-terminal WW domain followed by 3 coiled-coil
+domains. It has a calculated molecular mass of 164 kD. Database analysis
+suggested the presence of splice variants. Western blot analysis of
+several human cell lines detected CEP164 at an apparent molecular mass
+of about 200 kD. Immunofluorescence and immunogold electron microscopy
+localized CEP164 to the very distally located appendage structure of a
+single mature centriole at the base of the primary cilium. Quantitative
+RT-PCR and Western blot analyses detected 2-fold elevated CEP164 mRNA
+and protein during mitosis, consistent with duplication of centrioles.
+
+Sivasubramaniam et al. (2008) stated that the 1,455- and 1,460-amino
+acid isoforms of CEP164 result from differential splicing of exons 9 and
+26, respectively. CEP164 contains an N-terminal WW domain, followed by a
+long coiled-coil region, part of which shares homology with RAD26
+(ERCC6; 609413). CEP164 also has 16 SQ/TQ motifs, which are potential
+ATM (607585) and ATR (601215) phosphorylation sites, spread throughout
+the molecule. Immunohistochemical analysis revealed localization of
+CEP164 at nuclei and centrioles.
+
+GENE FUNCTION
+
+Using small interfering RNA, Graser et al. (2007) found that depletion
+of pericentrin (PCNT; 605925), CEP290 (610142), or CEP164 in human
+retinal pigment epithelial cells prevented serum starvation-induced
+formation of a primary cilium. Knockdown of CEP164 had no effect on
+expression of the centriole subappendage proteins ninein (NIN; 608684)
+and CEP170 (613023), suggesting that CEP164 does not interact with these
+proteins.
+
+Sivasubramaniam et al. (2008) studied the 1,465-amino acid form of
+CEP164 and found that it had a critical role in mediating genomic
+stability. Coimmunoprecipitation analysis revealed that endogenous HeLa
+cell CEP164 interacted with the DNA damage response proteins ATR, ATRIP
+(606605), ATM, and MDC1 (607593). CEP164 was phosphorylated by ATR and
+ATM and accumulated in nuclear foci during ionizing or ultraviolet (UV)
+irradiation-induced replication stress in HeLa cells. Ser186 was the
+preferred ATM/ATR phosphorylation site. Inactivation of ATM and ATR
+reduced CEP164 foci formation upon radiation stress. Knockdown of CEP164
+altered phosphorylation of H2AX (H2AFX; 601772), RPA (see 179835), CHK2
+(CHEK2; 604373), and CHK1 (CHEK1; 603078) in the DNA damage-induced
+checkpoint signaling cascade and abrogated the G2/M checkpoint.
+
+XPA (611153) is an essential factor in the nucleotide excision repair
+pathway for removing UV-induced aberrant DNA structures, including
+cyclobutane pyrimidine dimers. Using chromatin immunoprecipitation
+analysis, Pan and Lee (2009) found that CEP164 localized to sites of UV
+radiation-induced DNA damage in HeLa cells in an XPA-regulated manner.
+CEP164 interacted directly with XPA and was recruited to sites of DNA
+damage early in the DNA damage response. Interaction of CEP164 with XPA
+was required for UV damage-induced CHK1 phosphorylation. Knockdown of
+CEP164 sensitized cells to UV irradiation and hampered the removal of
+UV-induced cyclobutane pyrimidine dimers. Pan and Lee (2009)
+hypothesized that, following UV-induced DNA damage, ATR phosphorylates
+XPA and CEP164, which serve as critical signals for efficient DNA damage
+repair.
+
+Using confocal microscopy, Chaki et al. (2012) found that CEP164
+colocalized with the mother centriole, mitotic spindle poles, and the
+abscission structure in a cell cycle-dependent manner in immortalized
+human retinal pigment epithelial (TERT-RPE) cells. Knockdown of Cep164
+in mouse kidney IMCD3 cells permitted normal growth of spheroids in
+3-dimensional culture. Cells showed overall normal architecture and
+size, but they had markedly reduced frequency of cilia. CEP164
+colocalized with the DNA damage response proteins TIP60 (KAT5; 601409)
+and SC35 (SRSF2; 600813) and with ZNF423 (604557) and NPHP10 (SDCCAG8;
+613524) at nuclear foci in TERT-RPE cells. Following UV
+radiation-induced DNA damage in HeLa cells, CEP164 colocalized with
+TIP60 and CHK1 in nuclear foci. Knockdown of Cep164 in IMCD3 cells
+caused defects in DNA damage response, increased gamma-H2ax intensity,
+and increased cell sensitivity to ionizing radiation. Yeast 2-hybrid,
+pull-down, and coimmunoprecipitation analyses also showed that CEP164
+interacted directly with CCDC92, TTBK2 (611695), NPHP3 (608002), NPHP2
+(INVS; 243305), and DVL3 (601368).
+
+MAPPING
+
+By radiation hybrid analysis, Kikuno et al. (1999) mapped the CEP164
+gene to chromosome 11. Graser et al. (2007) mapped the CEP164 gene to
+chromosome 11q23.3 by genomic sequence analysis.
+
+MOLECULAR GENETICS
+
+In a Saudi child, born of consanguineous parents, with a variant of
+nephronophthisis-15 (NPHP15; 614845) characterized by Leber congenital
+amaurosis and retinal degeneration resulting in blindness by age 2
+years, Chaki et al. (2012) identified a homozygous mutation in the
+CEP164 gene (614848.0001). Sequencing of this gene in 856 patients with
+different NPHP-related ciliopathies identified homozygous or compound
+heterozygous mutations in the CEP164 gene in 3 additional families
+(614848.0002-614848.0005). Most patients had NPHP and some form of
+retinal degeneration, sometimes resulting in blindness. Although the
+number of affected families was small, the findings supported a gradient
+of genotype/phenotype correlations in which null mutations cause the
+severe dysplastic phenotypes of Meckel syndrome and Joubert syndrome,
+whereas hypomorphic alleles cause the milder degenerative phenotypes of
+NPHP and Senior-Loken syndrome. Cellular studies showed that CEP164 is
+involved in the DNA repair response, suggesting that defects in the DNA
+repair response signaling pathway may contribute to the pathogenesis of
+NPHP and related ciliopathies. Chaki et al. (2012) suggested that loss
+of function of proteins that have a dual role in centrosome and DNA
+repair signaling could cause a disturbance of cell-cycle checkpoint
+controls, which is detrimental to progenitor cell survival both during
+embryogenesis and later during tissue maintenance.
+
+ANIMAL MODEL
+
+Chaki et al. (2012) found that knockdown of Cep164 in zebrafish resulted
+in a ciliopathy with ventral body axis curvature, cell death, abnormal
+heart looping, pronephric tubule cysts, hydrocephalus, and retinal
+dysplasia.
+
+ALLELIC VARIANT .0001
+NEPHRONOPHTHISIS 15
+CEP164, TER1460TRP
+
+In a Saudi child, born of consanguineous parents, with a variant of
+nephronophthisis-15 (NPHP15; 614845) characterized by Leber congenital
+amaurosis and retinal degeneration resulting in blindness by age 2
+years, Chaki et al. (2012) identified a homozygous 4383A-G transition in
+exon 33 of the CEP164 gene, resulting in extension of the protein beyond
+the normal termination signal with an addition of 57 residues
+(X1460WextX57). The mutation was found by homozygosity mapping and
+whole-exome sequencing, and was not found in more than 270 controls or
+in the exome variant server database.
+
+.0002
+NEPHRONOPHTHISIS 15
+CEP164, GLN11PRO
+
+In 2 patients, born of consanguineous Turkish parents, with NPHP15
+(614845), Chaki et al. (2012) identified a homozygous 32A-C transversion
+in exon 3 of the CEP164 gene, resulting in a gln11-to-pro (Q11P)
+substitution at a highly conserved residue. The mutation was not found
+in more than 270 controls or in the exome variant server database. Both
+patients had NPHP at age 8 years, and 1 had retinal degeneration at age
+11. Both were obese, and at least 1 had liver failure.
+
+.0003
+NEPHRONOPHTHISIS 15
+CEP164, ARG93TRP
+
+In 3 affected members of a family with NPHP15 (614845), Chaki et al.
+(2012) identified compound heterozygosity for 2 mutations in the CEP164
+gene: a 277C-T transition in exon 5 resulting in an arg93-to-trp (R93W)
+substitution at a highly conserved residue, and a 1573C-T transition in
+exon 13 resulting in a gln525-to-ter (Q525X; 614848.0004) substitution.
+Two patients had NPHP at ages 8 and 9 years, respectively, and all had
+some degree of retinal degeneration, with 1 child being legally blind at
+age 5 months. One of the children also had seizures and developmental
+delay. Neither mutation was found in more than 270 controls or in the
+exome variant server database.
+
+.0004
+NEPHRONOPHTHISIS 15
+CEP164, GLN525TER
+
+See 614848.0003 and Chaki et al. (2012).
+
+.0005
+NEPHRONOPHTHISIS 15
+CEP164, ARG576TER
+
+In a patient, born of consanguineous parents, with NPHP15 (614845),
+Chaki et al. (2012) identified a homozygous 1726C-T transition in exon
+15 of the CEP164 gene, resulting in an arg576-to-ter (R576X)
+substitution. The patient had NPHP by age 8 years, retinal degeneration,
+flat electroretinogram, cerebellar vermis hypoplasia, facial
+dysmorphism, polydactyly, abnormal liver function tests, bronchiectasis,
+and obesity. The mutation was found in 1 of 7,019 European American
+controls.
+
+REFERENCE 1. Andersen, J. S.; Wilkinson, C. J.; Mayor, T.; Mortensen, P.; Nigg,
+E. A.; Mann, M.: Proteomic characterization of the human centrosome
+by protein correlation profiling. Nature 426: 570-574, 2003.
+
+2. Chaki, M.; Airik, R.; Ghosh, A. K.; Giles, R. H.; Chen, R.; Slaats,
+G. G.; Wang, H.; Hurd, T. W.; Zhou, W.; Cluckey, A.; Gee, H. Y.; Ramaswami,
+G.; and 61 others: Exome capture reveals ZNF423 and CEP164 mutations,
+linking renal ciliopathies to DNA damage response signaling. Cell 150:
+533-548, 2012.
+
+3. Graser, S.; Stierhof, Y.-D.; Lavoie, S. B.; Gassner, O. S.; Lamla,
+S.; Le Clech, M.; Nigg, E. A.: Cep164, a novel centriole appendage
+protein required for primary cilium formation. J. Cell Biol. 179:
+321-330, 2007.
+
+4. Kikuno, R.; Nagase, T.; Ishikawa, K.; Hirosawa, M.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XIV. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 6: 197-205, 1999.
+
+5. Pan, Y.-R.; Lee, E. Y.-H. P.: UV-dependent interaction between
+Cep164 and XPA mediates localization of Cep164 at sites of DNA damage
+and UV sensitivity. Cell Cycle 8: 655-664, 2009.
+
+6. Sivasubramaniam, S.; Sun, X.; Pan, Y.-R.; Wang, S.; Lee, E. Y.-H.
+P.: Cep164 is a mediator protein required for the maintenance of
+genomic stability through modulation of MDC1, RPA, and CHK1. Genes
+Dev. 22: 587-600, 2008.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/4/2012
+
+CREATED Patricia A. Hartz: 10/4/2012
+
+EDITED joanna: 08/05/2013
+terry: 10/8/2012
+carol: 10/8/2012
+terry: 10/5/2012
+mgross: 10/5/2012
+ckniffin: 10/4/2012
+mgross: 10/4/2012
+
+191191	TITLE *191191 TUMOR NECROSIS FACTOR RECEPTOR SUBFAMILY, MEMBER 1B; TNFRSF1B
+;;TUMOR NECROSIS FACTOR RECEPTOR 2; TNFR2;;
+TUMOR NECROSIS FACTOR, BETA RECEPTOR; TNFBR;;
+TNFR, 75-KD;;
+TNFR, 80-KD
+DESCRIPTION 
+CLONING
+
+Schall et al. (1990) isolated a cDNA corresponding to TNFR2 using
+oligomer probes based on amino acid sequence from the purified protein.
+The receptor encodes a predicted 415-amino acid polypeptide with a
+single membrane-spanning domain and has an extracellular domain with
+sequence similarity to nerve growth factor receptor (162010) and B-cell
+activation protein Bp50 (164011). Recombinantly expressed receptor was
+shown by Schall et al. (1990) to bind TNF-alpha (191160). Northern blots
+showed expression in a variety of cell types.
+
+GENE STRUCTURE
+
+Beltinger et al. (1996) showed that TNFR2 contains 10 exons and spans
+about 26 kb of genomic DNA. Most of the functional domains, including
+the extracellular cysteine-rich motifs, occur in separate exons.
+Overall, the gene structure is similar to that of TNFR1 (191190). On the
+basis of a YAC contig for the region, they mapped TNFR2 to within 400 kb
+of the marker D1S434 on 1p36.
+
+Santee and Owen-Schaub (1996) characterized the complete gene structure
+for human TNFR p75, which spans nearly 43 kb. The gene consists of 10
+exons (ranging from 34 bp to 2.5 kb) and 9 introns (343 bp to 19 kb).
+Consensus elements for transcription factors involved in T-cell
+development and activation were noted in the putative promoter region.
+
+GENE FUNCTION
+
+TNFBR (TNFR75) is the larger of the 2 TNF receptors; see 191190. It is
+present on many cell types, especially those of myeloid origin, and is
+strongly expressed on stimulated T and B lymphocytes. Beltinger et al.
+(1996) noted that TNFR2 is the main TNF receptor found on circulating T
+cells and is the major mediator of autoregulatory apoptosis in CD8+
+cells. TNFR2 may act with TNFR1 to kill nonlymphoid cells.
+
+Preassembly or self-association of cytokine receptor dimers (e.g., IL1R,
+see 147810; IL2R, 147730; and EPOR, 133171) occurs via the same amino
+acid contacts that are critical for ligand binding. Chan et al. (2000)
+found that, in contrast, the p60 (TNFRSF1A; 191190) and p80 (TNFRSF1B)
+TNFA receptors self-assemble through a distinct functional domain in the
+TNFR extracellular domain, termed the pre-ligand assembly domain (PLAD),
+in the absence of ligand. Deletion of the PLAD results in monomeric
+presentation of p60 or p80. Flow cytometric analysis showed that
+efficient TNFA binding depends on receptor self-assembly. They also
+found that other members of the TNF receptor superfamily, including the
+extracellular domains of TRAIL (TNFRSF10A; 603611), CD40 (109535), and
+FAS (TNFRSF6; 134637), all self-associate but do not interact with
+heterologous receptors.
+
+Using Jurkat T cells, which express TNFR1 but little TNFR2, and Jurkat
+cells stably transfected with TNFR2, Li et al. (2002) confirmed that TNF
+stimulation, or stimulation with a TNFR2, but not TNFR1, agonist, causes
+a loss of TRAF2 (601895) in the TNFR2-expressing cells, but not the
+parental cell line, through a ubiquitination- and proteasome-dependent
+process. Binding analysis indicated that TRAF2 interacts with CIAP1
+(601712) and CIAP2 (601721), which possess E3 ubiquitin ligase (e.g.
+UBE3A, 601623) activity. Ubiquitination assays and SDS-PAGE analysis
+showed that in the presence of an E2-conjugating enzyme (e.g., UBCH7,
+603721), CIAP1, but not CIAP2, induces TRAF2 ubiquitination outside of
+its RING domain. Both CIAPs bind but neither ubiquitinates TRAF1
+(601711). CIAP1 expression fails to protect TNFR2-expressing cells from
+TNF-induced apoptosis, whereas an E3-inactive CIAP1 mutant and wildtype
+CIAP2 do protect cells from TRAF2 downregulation and cause a delay in
+cell death. Li et al. (2002) concluded that TNFR2 stimulation causes the
+ubiquitination of TRAF2 by CIAP1, which can play a proapoptotic role in
+TNF signaling.
+
+Tang et al. (2011) reported that PGRN (138945) bound directly to tumor
+necrosis factor receptors (TNFR1 and TNRF2) and disturbed the TNFA-TNFR
+interaction. Pgrn-deficient mice were susceptible to collagen-induced
+arthritis, and administration of PGRN reversed inflammatory arthritis.
+Atsttrin, an engineered protein composed of 3 PGRN fragments, exhibited
+selective TNFR binding. PGRN and Atsttrin prevented inflammation in
+multiple arthritis mouse models and inhibited TNFA-activated
+intracellular signaling. Tang et al. (2011) concluded that PGRN is a
+ligand of TNFR, an antagonist of TNFA signaling, and plays a critical
+role in the pathogenesis of inflammatory arthritis in mice.
+
+MAPPING
+
+By Southern blot analysis of human/Chinese hamster somatic cell hybrid
+DNA, Milatovich et al. (1991) mapped the TNFR2 gene to 1pter-p32. By in
+situ hybridization and Southern blot analysis of a series of human/mouse
+hybrid cell lines, Baker et al. (1991) refined the assignment of TNFR2
+to 1p36. By nonradioactive in situ hybridization, Kemper et al. (1991)
+assigned the gene to 1p36.3-p36.2. Using an SSCP polymorphism of the
+TNFR2 gene, Kaufman et al. (1994) demonstrated that TNFR2 is very
+closely linked to the pronatriodilatin gene (108780).
+
+White et al. (1995) showed that TNFR2 maps outside the region of
+1p36.3-p36.2 thought by loss of heterozygosity (LOH) studies to contain
+the neuroblastoma tumor suppressor locus (256700).
+
+By linkage analysis, Santee and Owen Schaub (1996) confirmed the mapping
+of the TNFR2 gene to 1p36.3-p36.2.
+
+MOLECULAR GENETICS
+
+Glenn et al. (2000) tested markers in and near the TNFR2 gene for
+linkage and association with hypertension (145500) as well as
+hypercholesterolemia and plasma levels of the shed soluble receptor
+(sTNF-R2). Using sib pair analysis, they reported a sharp, significant
+linkage peak centered at TNFRSF1B (multipoint maximum lod score = 2.6
+and 3.1 by weighted and unweighted MAPMAKER/SIBS, respectively). In a
+case-control study, they demonstrated a possible association of TNFRSF1B
+with hypertension by haplotype analysis. Plasma sTNF-R2 was
+significantly elevated in hypertensives and showed a correlation with
+systolic and diastolic blood pressure. A genotypic effect of TNFRSF1B on
+plasma sTNF-R2, as well as total, low, and high density lipoprotein
+cholesterol, and diastolic blood pressure was also observed. The authors
+proposed a scheme for involvement of TNF and its receptors in
+hypertension and hypercholesterolemia.
+
+Geurts et al. (2000) conducted a genomic scan in 18 Dutch familial
+combined hyperlipidemia (FCHL; 144250) families and identified several
+loci with evidence for linkage. Linear regression analysis using 79
+independent sib pairs showed linkage with a quantitative FCHL
+discriminant function and the intron 4 (CA)n polymorphism of TNFRSF1B (P
+= 0.032), and a case-control study demonstrated an association as well
+(P = 0.029). Mutation analysis of exon 6 in 73 FCHL family members
+delineated 2 TNFRSF1B alleles, coding for methionine (196M) and arginine
+(196R). Complete linkage disequilibrium between CA267, CA271, and CA273
+and this polymorphism was detected. In 85 hyperlipidemic FCHL subjects,
+an association was demonstrated between soluble TNFRSF1B plasma
+concentrations and the CA271-196M haplotype. The authors concluded that
+TNFRSF1B is associated with susceptibility to FCHL.
+
+In Japan, Sashio et al. (2002) examined polymorphisms of the tumor
+necrosis factor gene (TNFA; 191160) and the TNFRSF1B gene in patients
+with inflammatory bowel disease (see IBD1, 266600), including 124 with
+Crohn disease and 106 with ulcerative colitis, and 111 unrelated healthy
+controls. They studied 2 SNPs: 1466A-G and 1493C-T. They found a
+significant difference in carrier frequency for haplotype AT (1466A,
+1493T) of the TNFRSF1B gene between Crohn disease patients and the
+controls (odds ratio = 2.13). Significance proved to be greater in Crohn
+disease patients with both internal and external fistula, and in those
+who were poor responders to treatment, which consisted of nutritional,
+medical, and surgical therapy.
+
+Peral et al. (2002) evaluated serum soluble TNF receptor-2 levels, and
+several common polymorphisms in the TNFRSF1B gene, in women presenting
+with polycystic ovary syndrome (PCOS; 184700) or hyperandrogenic
+disorders. The 196R alleles of the M196R (676T-G) variant in exon 6 of
+TNFRSF1B, which is in linkage disequilibrium with a CA repeat
+microsatellite polymorphism in intron 4 of TNFRSF1B, tended to be more
+frequent in hyperandrogenic patients than in controls (P = 0.056),
+reaching statistical significance when the analysis was restricted to
+include only PCOS patients (P less than 0.03). Extended analysis
+including another 11 hyperandrogenic patients from Spain and 64 patients
+and 29 controls from Italy confirmed the association between 196R
+alleles of the M196R variant and hyperandrogenic disorders (P less than
+0.05), which was maintained when restricting the analysis to PCOS
+patients (P less than 0.02). On the contrary, the 3-prime-untranslated
+region (exon 10) variants 1663G-A, 1668T-G, and 1690T-C were not
+associated with hyperandrogenism. The authors concluded that the M196R
+variant in exon 6 of TNFRSF1B is associated with hyperandrogenism and
+PCOS, further suggesting a role for inflammatory cytokines in the
+pathogenesis of these disorders.
+
+One of the candidate loci for regulation of hip bone mineral density
+(BMD) is on chromosome 1p36 (BMND3; 606928). Albagha et al. (2002)
+studied several TNFRSF1B polymorphisms in a population-based cohort
+study of 1,240 perimenopausal women from the UK. The authors found no
+association between 676T-G (met196-to-arg) alleles and BMD at the spine
+or hip. However, subjects homozygous for the A593-T598-C620 haplotype in
+the 3-prime UTR region had femoral neck BMD values 5.7% lower than those
+who did not carry the haplotype (P less than 0.0001). Regression
+analysis showed that the ATC haplotype accounted for 1.2% of the
+population variance in hip BMD and was the second strongest predictor
+after body weight.
+
+Xu et al. (2005) analyzed the (CA)n polymorphism in intron 4 of the
+TNFRSF1B gene and BMD in 1,263 Chinese individuals from 402 nuclear
+families composed of both parents and at least 1 daughter. Significant
+within-family association was detected between the CA16 allele and BMD
+at the lumbar spine (p = 0.005); about 3.14% of lumbar spine BMD
+variation could be explained by the CA16 allele.
+
+Fairfax et al. (2011) identified a haplotype marked by a SNP (dbSNP
+rs522807) in the TNFR2 promoter that was strongly associated with
+reduced tolerance to lipopolysaccharide (LPS). The haplotype was
+associated with increased expression of TNFR2, and basal TNFR2
+expression was associated with secondary TNF release. Fairfax et al.
+(2011) reported that the tolerance-associated ancestral allele of dbSNP
+rs522807 is present at a frequency of 8% in northern Europeans, is
+absent in Asians, and is present at a frequency of approximately 50% in
+equatorial Africans.
+
+ANIMAL MODEL
+
+Bruce et al. (1996) used targeted gene disruption to generate mice
+lacking either the p55 (TNFR1) or the p75 (TNFR2) TNF receptor; mice
+lacking both p55 and p75 were generated from crosses of the singly
+deficient mice. The TNFR-deficient (TNFR-KO) mice exhibited no overt
+phenotype under unchallenged conditions. Bruce et al. (1996) reported
+that damage to neurons caused by focal cerebral ischemia and epileptic
+seizures was exacerbated in the TNFR-KO mice, indicating that TNF serves
+a neuroprotective function. Their studies indicated that TNF protects
+neurons by stimulating antioxidative pathways. Injury-induced microglial
+activation was suppressed in TNFR-KO mice. They concluded that drugs
+which target TNF signaling pathways may prove beneficial in treating
+stroke or traumatic brain injury.
+
+Vielhauer et al. (2005) studied immune complex-mediated
+glomerulonephritis in Tnfr1- and Tnfr2-deficient mice. Proteinuria and
+renal pathology were initially milder in Tnfr1-deficient mice, but at
+later time points were similar to those in wildtype controls, with
+excessive renal T-cell accumulation and reduced T-cell apoptosis. In
+contrast, Tnfr2-deficient mice were completely protected from
+glomerulonephritis at all time points, despite an intact immune system
+response. Tnfr2 expression on intrinsic renal cells, but not leukocytes,
+was essential for glomerulonephritis and glomerular complement
+deposition. Vielhauer et al. (2005) concluded that the proinflammatory
+and immunosuppressive properties of TNF segregate at the level of its
+receptors, with TNFR1 promoting systemic immune responses and renal
+T-cell death and intrinsic renal cell TNFR2 playing a critical role in
+complement-dependent tissue injury.
+
+REFERENCE 1. Albagha, O. M. E.; Tasker, P. N.; McGuigan, F. E. A.; Reid, D.
+M.; Ralston, S. H.: Linkage disequilibrium between polymorphisms
+in the human TNFRSF1B gene and their association with bone mass in
+perimenopausal women. Hum. Molec. Genet. 11: 2289-2295, 2002.
+
+2. Baker, E.; Chen, L. Z.; Smith, C. A.; Callen, D. F.; Goodwin, R.;
+Sutherland, G. R.: Chromosomal location of the human tumor necrosis
+factor receptor genes. Cytogenet. Cell Genet. 57: 117-118, 1991.
+
+3. Beltinger, C. P.; White, P. S.; Maris, J. M.; Sulman, E. P.; Jensen,
+S. J.; LePaslier, D.; Stallard, B. J.; Goeddel, D. V.; de Sauvage,
+F. J.; Brodeur, G. M.: Physical mapping and genomic structure of
+the human TNFR2 gene. Genomics 35: 94-100, 1996.
+
+4. Bruce, A. J.; Boling, W.; Kindy, M. S.; Peschon, J.; Kraemer, P.
+J.; Carpenter, M. K.; Holtsberg, F. W.; Mattson, M. P.: Altered neuronal
+and microglial responses to excitotoxic and ischemic brain injury
+in mice lacking TNF receptors. Nature Med. 2: 788-794, 1996.
+
+5. Chan, F. K.-M.; Chun, H. J.; Zheng, L.; Siegel, R. M.; Bui, K.
+L.; Lenardo, M. J.: A domain in TNF receptors that mediates ligand-independent
+receptor assembly and signaling. Science 288: 2351-2354, 2000.
+
+6. Fairfax, B. P.; Davenport, E. E.; Makino, S.; Hill, A. V. S.; Vannberg,
+F. O.; Knight, J. C.: A common haplotype of the TNF receptor 2 gene
+modulates endotoxin tolerance. J. Immun. 186: 3058-3065, 2011.
+
+7. Geurts, J. M. W.; Janssen, R. G. J. H.; van Greevenbroek, M. M.
+J.; van der Kallen, C. J. H.; Cantor, R. M.; Bu, X.; Aouizerat, B.
+E.; Allayee, H.; Rotter, J. I.; de Bruin, T. W. A.: Identification
+of TNFRSF1B as a novel modifier gene in familial combined hyperlipidemia. Hum.
+Molec. Genet. 9: 2067-2074, 2000.
+
+8. Glenn, C. L.; Wang, W. Y. S.; Benjafield, A. V.; Morris, B. J.
+: Linkage and association of tumor necrosis factor receptor 2 locus
+with hypertension, hypercholesterolemia and plasma shed receptor. Hum.
+Molec. Genet. 9: 1943-1949, 2000.
+
+9. Kaufman, B. A.; White, P. S.; Steinbrueck, T.; Donis-Keller, H.;
+Brodeur, G. M.: Linkage mapping of the tumor necrosis factor receptor
+2 (TNFR2) gene to 1p36.2 using the single-strand conformation polymorphism
+technique. Hum. Genet. 94: 418-422, 1994.
+
+10. Kemper, O.; Derre, J.; Cherif, D.; Engelmann, H.; Wallach, D.;
+Berger, R.: The gene for the type II (p75) tumor necrosis factor
+receptor (TNF-RII) is localized on band 1p36.2-p36.3. Hum. Genet. 87:
+623-624, 1991.
+
+11. Li, X.; Yang, Y.; Ashwell, J. D.: TNF-RII and c-IAP1 mediate
+ubiquitination and degradation of TRAF2. Nature 416: 345-349, 2002.
+
+12. Milatovich, A.; Song, K.; Heller, R. A.; Francke, U.: Tumor necrosis
+factor receptor genes, TNFR1 and TNFR2, on human chromosomes 12 and
+1. Somat. Cell Molec. Genet. 17: 519-523, 1991.
+
+13. Peral, B.; San Millan, J. L.; Castello, R.; Moghetti, P.; Escobar-Morreale,
+H. F.: The methionine 196 arginine polymorphism in exon 6 of the
+TNF receptor 2 gene (TNFRSF1B) is associated with the polycystic ovary
+syndrome and hyperandrogenism. J. Clin. Endocr. Metab. 87: 3977-3983,
+2002.
+
+14. Santee, S. M.; Owen-Schaub, L. B.: Human tumor necrosis factor
+receptor p75/80 (CD120b) gene structure and promoter characterization. J.
+Biol. Chem. 271: 21151-21159, 1996.
+
+15. Sashio, H.; Tamura, K.; Ito, R.; Yamamoto, Y.; Bamba, H.; Kosaka,
+T.; Fukui, S.; Sawada, K.; Fukuda, Y.; Tamura, K.; Satomi, M.; Shimoyama,
+T.; Furuyama, J.: Polymorphisms of the TNF gene and the TNF receptor
+superfamily member 1B gene are associated with susceptibility to ulcerative
+colitis and Crohn's disease, respectively. Immunogenetics 53: 1020-1027,
+2002.
+
+16. Schall, T. J.; Lewis, M.; Koller, K. J.; Lee, A.; Rice, G. C.;
+Wong, G. H. W.; Gatanaga, T.; Granger, G. A.; Lentz, R.; Raab, H.;
+Kohr, W. J.; Goeddel, D. V.: Molecular cloning and expression of
+a receptor for human tumor necrosis factor. Cell 61: 361-370, 1990.
+
+17. Tang, W.; Lu, Y.; Tian, Q.-Y.; Zhang, Y.; Guo, F.-J.; Liu, G.-Y.;
+Syed, N. M.; Lai, Y.; Lin, E. A.; Kong, L.; Su, J.; Yin, F.; and
+10 others: The growth factor progranulin binds to TNF receptors
+and is therapeutic against inflammatory arthritis in mice. Science 332:
+478-484, 2011.
+
+18. Vielhauer, V.; Stavrakis, G.; Mayadas, T. N.: Renal cell-expressed
+TNF receptor 2, not receptor 1, is essential for the development of
+glomerulonephritis. J. Clin. Invest. 115: 1199-1209, 2005.
+
+19. White, P. S.; Maris, J. M.; Beltinger, C.; Sulman, E.; Marshall,
+H. N.; Fujimori, M.; Kaufman, B. A.; Biegel, J. A.; Allen, C.; Hilliard,
+C.; Valentine, M. B.; Look, A. T.; Enomoto, H.; Sakiyama, S.; Brodeur,
+G. M.: A region of consistent deletion in neuroblastoma maps within
+human chromosome 1p36.2-36.3. Proc. Nat. Acad. Sci. 92: 5520-5524,
+1995.
+
+20. Xu, H.; Zhao, L.-J.; Lei, S.-F.; Li, M.-X.; Sun, X.; Deng, F.-Y.;
+Jiang, D.-K.; Deng, H.-W.: The (CA)n polymorphism of the TNFR2 gene
+is associated with peak bone density in Chinese nuclear families. J.
+Hum. Genet. 50: 301-304, 2005.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/8/2011
+Paul J. Converse - updated: 4/21/2011
+Marla J. F. O'Neill - updated: 8/30/2006
+Marla J. F. O'Neill - updated: 5/20/2005
+George E. Tiller - updated: 6/24/2003
+John A. Phillips, III - updated: 1/28/2003
+Victor A. McKusick - updated: 5/23/2002
+Paul J. Converse - updated: 3/20/2002
+George E. Tiller - updated: 11/17/2000
+George E. Tiller - updated: 10/25/2000
+Paul J. Converse - updated: 6/29/2000
+Lori M. Kelman - updated: 11/13/1996
+Alan F. Scott - updated: 9/19/1996
+Moyra Smith - updated: 9/11/1996
+
+CREATED Victor A. McKusick: 8/19/1991
+
+EDITED alopez: 07/11/2011
+terry: 7/8/2011
+mgross: 5/5/2011
+terry: 4/21/2011
+carol: 9/21/2009
+terry: 2/2/2009
+carol: 10/29/2008
+carol: 3/16/2007
+wwang: 9/7/2006
+terry: 8/30/2006
+wwang: 10/27/2005
+wwang: 5/23/2005
+terry: 5/20/2005
+cwells: 6/24/2003
+alopez: 1/28/2003
+cwells: 6/4/2002
+terry: 5/23/2002
+terry: 5/22/2002
+alopez: 3/20/2002
+mcapotos: 12/4/2000
+mcapotos: 11/27/2000
+terry: 11/17/2000
+mcapotos: 11/1/2000
+mcapotos: 10/25/2000
+carol: 6/29/2000
+carol: 12/21/1998
+terry: 6/1/1998
+terry: 7/10/1997
+jamie: 2/5/1997
+jamie: 11/13/1996
+terry: 9/20/1996
+mark: 9/19/1996
+mark: 9/11/1996
+mark: 8/27/1996
+mark: 6/29/1995
+terry: 12/19/1994
+carol: 2/5/1993
+supermim: 3/16/1992
+carol: 2/23/1992
+carol: 2/18/1992
+
+611432	TITLE *611432 DEDICATOR OF CYTOKINESIS 8; DOCK8
+DESCRIPTION 
+DESCRIPTION
+
+DOCK8 is a member of the DOCK180-related (DOCK1; 601403) protein family
+(Ruusala and Aspenstrom, 2004).
+
+CLONING
+
+By yeast 2-hybrid analysis using CDC42 (116952) as bait, followed by PCR
+of a Daudi cell cDNA library, Ruusala and Aspenstrom (2004) cloned
+DOCK8. They identified transcripts encoding a 1,701-amino acid protein
+with a calculated molecular mass of 190 kD and a 2,031-amino acid
+protein. DOCK8 contains the CZH1 and CZH2 domains characteristic of
+DOCK180-related proteins and shares 58% amino acid identity with DOCK7.
+Northern blot analysis detected an 8-kb transcript in placenta, lung,
+kidney, and pancreas with low expression in heart, brain, and skeletal
+muscle and a 9-kb transcript with very low expression in placenta, lung,
+and kidney. Immunofluorescence localized transiently transfected and
+endogenous DOCK8 to the cytoplasm at cell edges in areas undergoing
+lamellipodia formation, which increased when cells were treated with
+PDGF (see 190040) or fetal calf serum. Transient transfection of a
+C-terminal fragment of DOCK8 resulted in formation of vesicular
+structures, which also contained filamentous actin, suggesting that
+DOCK8 may play a role in the organization of filamentous actin.
+
+By Northern blot analysis of human adult and fetal tissues, Griggs et
+al. (2008) detected expression of an 8.0-kb transcript in all tissues
+examined, including adult and fetal brain with variable expression in
+specific brain regions tested. RT-PCR analysis detected variable
+expression of a splice variant containing exon 13a and 14a and a splice
+variant containing exon 13b but lacking exon 16.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis, Ruusala and Aspenstrom (2004) showed that
+DOCK8 interacted with GTP- and GDP-bound forms of CDC42, Rac1 (602048)
+mutants L61 and N17, and RHOJ (607653) and RHOQ (605857). None of these
+interactions was detected using GST pull-down assay, suggesting that the
+interaction between DOCK and Rho GTPases may be too transient to allow
+stable interaction in this assay.
+
+By quantitative RT-PCR analysis, Zhang et al. (2009) identified DOCK8
+expression in monocytes, B cells, and T cells from healthy blood donors.
+High levels were found in activated, expanded primary T-cell cultures
+and transformed lymphocyte lines.
+
+GENE STRUCTURE
+
+Griggs et al. (2008) determined that the DOCK8 gene contains 47 exons
+spanning 190 kb.
+
+MAPPING
+
+By genomic sequence analysis, Griggs et al. (2008) mapped the DOCK8 gene
+to chromosome 9p24.
+
+MOLECULAR GENETICS
+
+- Autosomal Dominant Mental Retardation 2
+
+Griggs et al. (2008) reported 2 unrelated patients with mental
+retardation and developmental disability (MRD2; 614113) associated with
+heterozygous disruption of the DOCK8 gene by deletion and by a
+translocation breakpoint, respectively. Mapping of the critical region
+shared by the 2 patients showed truncation of the longest isoform of
+DOCK8. One patient was a 55-year-old man with profound mental
+retardation, no speech, mild dysmorphic features, a history of seizures,
+and stooped posture. He had a genomic deletion of approximately 230 kb
+in subtelomeric 9p. The second patient was a girl with anhidrotic
+ectodermal dysplasia (ED1; 305100) previously reported by MacDermot and
+Hulten (1990). She carried a de novo balanced translocation
+t(X;9)(q13.1;p24), which also interrupted the EDA gene (300451). She was
+reported to have delayed speech and psychomotor development, but
+attended a special school.
+
+- Autosomal Recessive Hyper-IgE Recurrent Infection Syndrome
+
+In 11 affected individuals from 8 unrelated families with autosomal
+recessive hyper-IgE syndrome with recurrent infections (243700), Zhang
+et al. (2009) identified homozygosity or compound heterozygosity for
+deletions or mutations in the DOCK8 gene (see, e.g.,
+611432.0001-611432.0005). Patients had recurrent and severe bacterial,
+viral, and fungal infections, atopic dermatitis, and food and
+environmental allergies. Several developed viral-associated carcinomas.
+Laboratory studies showed decreased levels of T cells, variable decrease
+in B cells, and increased serum IgE. All the DOCK8 mutations resulted in
+loss of protein function. DOCK8 protein was not detected in primary T
+cell cultures or transformed lymphocyte lines from all 11 patients
+tested. CD8 T cells showed impaired proliferation and activation, with
+normal cytotoxic activity.
+
+ALLELIC VARIANT .0001
+HYPER-IgE RECURRENT INFECTION SYNDROME, AUTOSOMAL RECESSIVE
+DOCK8, LYS405ARG
+
+In 2 Mexican sibs, born of consanguineous parents, with autosomal
+recessive hyper-IgE syndrome (243700), Zhang et al. (2009) identified a
+homozygous 1214A-G transition in the DOCK8 gene, resulting in a
+lys405-to-arg (K405R) substitution. The patients had atopic dermatitis,
+recurrent bacterial, viral, and fungal infections, and multiple food and
+environmental allergies. One died at age 18 years. Patient T-cell
+cultures showed minimal amounts of a mutant protein, and CD8 T cells
+showed poor expansion and activation. However, CD8 T cell cytotoxic
+function appeared to be normal, and CD4 T cells showed normal
+proliferation.
+
+.0002
+HYPER-IgE RECURRENT INFECTION SYNDROME, AUTOSOMAL RECESSIVE
+DOCK8, EX10-23, DEL
+
+In a 6-year-old Yemeni girl, born of consanguineous parents, with
+autosomal recessive hyper-IgE syndrome (243700), Zhang et al. (2009)
+identified a homozygous large deletion (921_2765del) in the DOCK8 gene,
+resulting in the deletion of exons 10 through 23. She had atopic
+dermatitis, recurrent bacterial, viral, and fungal infections, and food
+and environmental allergies. Patient T-cell cultures showed minimal
+amounts of a truncated mutant protein, and CD8 T cells showed poor
+expansion and activation. However, CD8 T cell cytotoxic function
+appeared to be normal, and CD4 T cells showed normal proliferation.
+
+.0003
+HYPER-IgE RECURRENT INFECTION SYNDROME, AUTOSOMAL RECESSIVE
+DOCK8, EX5-24, DEL
+
+In a Lebanese boy, born of consanguineous parents, with autosomal
+recessive hyper-IgE syndrome (243700), Zhang et al. (2009) identified a
+homozygous large deletion (426_3017del) in the DOCK8 gene, resulting in
+the deletion of exons 5 through 24. He had atopic dermatitis, recurrent
+bacterial and viral infections, and multiple food and environmental
+allergies. He died of metastatic anal squamous cell carcinoma at age 21
+years. The DOCK8 protein was not detected in primary T-cell cultures.
+
+.0004
+HYPER-IgE RECURRENT INFECTION SYNDROME, AUTOSOMAL RECESSIVE
+DOCK8, 1-BP DEL, 3290C
+
+In a 13-year-old Caucasian girl with autosomal recessive hyper-IgE
+syndrome (243700), Zhang et al. (2009) identified compound heterozygous
+frameshift mutations in the DOCK8 gene: a 1-bp deletion (c.3290delC) and
+an 8-bp insertion (c.3303_3304insTGGCTGCT; 611432.0005).
+
+.0005
+HYPER-IgE RECURRENT INFECTION SYNDROME, AUTOSOMAL RECESSIVE
+DOCK8, 8-BP INS, NT3303
+
+See 611432.0004 and Zhang et al. (2009).
+
+REFERENCE 1. Griggs, B. L.; Ladd, S.; Saul, R. A.; DuPont, B. R.; Srivastava,
+A. K.: Dedicator of cytokinesis 8 is disrupted in two patients with
+mental retardation and developmental disabilities. Genomics 91:
+195-202, 2008.
+
+2. MacDermot, K. D.; Hulten, M.: Female with hypohidrotic ectodermal
+dysplasia and de novo (X;9) translocation: clinical documentation
+of the AnLy cell line case. Hum. Genet. 84: 577-579, 1990.
+
+3. Ruusala, A.; Aspenstrom, P.: Isolation and characterisation of
+DOCK8, a member of the DOCK180-related regulators of cell morphology. FEBS
+Lett. 572: 159-166, 2004.
+
+4. Zhang, Q.; Davis, J. C.; Lamborn, I. T.; Freeman, A. F.; Jing,
+H.; Favreau, A. J.; Matthews, H. F.; Davis, J.; Turner, M. L.; Uzel,
+G.; Holland, S. M.; Su, H. C.: Combined immunodeficiency associated
+with DOCK8 mutations. New Eng. J. Med. 361: 2046-2055, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 6/24/2013
+Cassandra L. Kniffin - updated: 11/23/2009
+Cassandra L. Kniffin - updated: 2/8/2008
+
+CREATED Dorothy S. Reilly: 9/13/2007
+
+EDITED carol: 08/09/2013
+tpirozzi: 7/3/2013
+ckniffin: 6/24/2013
+carol: 7/22/2011
+terry: 5/17/2011
+wwang: 11/30/2009
+ckniffin: 11/23/2009
+wwang: 2/20/2008
+ckniffin: 2/8/2008
+wwang: 9/14/2007
+
+120105	TITLE *120105 COLIPASE, PANCREATIC; CLPS
+DESCRIPTION 
+DESCRIPTION
+
+Pancreatic colipase is a 12-kD polypeptide cofactor for pancreatic
+lipase (EC 3.1.1.3; 246600), an enzyme essential for the absorption of
+dietary long-chain triglyceride fatty acids. Colipase is thought to
+anchor lipase noncovalently to the surface of lipid micelles,
+counteracting the destabilizing influence of intestinal bile salts
+(summary by Davis et al., 1991).
+
+CLONING
+
+Using primers derived from the known amino acid sequence, Davis et al.
+(1991) employed the PCR to produce a cDNA clone corresponding to the
+complete coding region of the human procolipase mRNA.
+
+GENE STRUCTURE
+
+Sims and Lowe (1992) found that the CLPS gene has 3 exons and that the
+5-prime-flanking region contains a TATA box, a GC box, and a 28-bp
+region with homology to the rat pancreatic-specific enhancer.
+
+MAPPING
+
+By the study of mouse/human somatic cell hybrids, Davis et al. (1991)
+determined that the CLPS gene is located in the region 6pter-p21.1.
+
+Sims and Lowe (1992) confirmed the assignment of the CLPS gene to
+chromosome 6 by blots of hamster-human somatic cell hybrid DNA using the
+entire colipase cDNA.
+
+ANIMAL MODEL
+
+Zhang et al. (2006) reported a mechanism by which constant darkness
+regulates the gene expression of fat catabolic enzymes in mice. Genes
+for murine procolipase (Clps) and pancreatic lipase-related protein-2
+(Plrp2; 604423) are activated in a circadian manner in peripheral organs
+during 12-hour dark:12-hour dark (DD) but not light-dark (LD) cycles.
+This mechanism is deregulated in circadian-deficient Per1/Per2 double
+mutant mice. Zhang et al. (2006) identified circadian-regulated
+5-prime-AMP, which is elevated in the blood of DD mice, as a key
+mediator of this response. Synthetic 5-prime-AMP induced torpor (a
+hibernation-like state) and murine Clps expression in LD mice. Torpor
+induced by metabolic stress was associated with elevated 5-prime-AMP
+levels in DD mice. Levels of glucose and nonesterified fatty acid in the
+blood were reversed in DD and LD mice. Induction of murine Clps
+expression by 5-prime-AMP in LD mice was reciprocally linked to blood
+glucose levels. Zhang et al. (2006) concluded that their findings
+uncovered a circadian metabolic rhythm in mammals.
+
+REFERENCE 1. Davis, R. C.; Xia, Y.; Mohandas, T.; Schotz, M. C.; Lusis, A. J.
+: Assignment of the human pancreatic colipase gene to chromosome 6p21.1
+to pter. Genomics 10: 262-265, 1991.
+
+2. Sims, H. F.; Lowe, M. E.: The human colipase gene: isolation,
+chromosomal location, and tissue-specific expression. Biochemistry 31:
+7120-7125, 1992.
+
+3. Zhang, J.; Kaasik, K.; Blackburn, M. R.; Lee, C. C.: Constant
+darkness is a circadian metabolic signal in mammals. Nature 439:
+340-343, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/26/2006
+
+CREATED Victor A. McKusick: 2/5/1991
+
+EDITED carol: 11/15/2011
+alopez: 6/7/2006
+terry: 5/26/2006
+mark: 11/27/1996
+carol: 10/26/1993
+carol: 10/1/1992
+supermim: 3/16/1992
+carol: 8/7/1991
+carol: 4/18/1991
+carol: 2/7/1991
+
+604661	TITLE *604661 POTASSIUM CHANNEL-INTERACTING PROTEIN 2; KCNIP2
+;;KCHIP2
+DESCRIPTION 
+CLONING
+
+In the brain and heart, rapidly inactivating (A-type) voltage-gated
+potassium (Kv) currents operate at subthreshold membrane potentials to
+control the excitability of neurons and cardiac myocytes. An et al.
+(2000) described 3 Kv channel-interacting proteins called KCHIPs that
+bind to the cytoplasmic amino termini of Kv4-alpha subunits. See KCHIP1
+(604660). The KCHIP2 cDNA encodes a 252-amino acid protein that has a
+distinct amino terminus but shares approximately 70% amino acid identity
+with KCHIP1 and KCHIP3 throughout a carboxy-terminal 185-amino acid core
+domain containing 4 EF-hand-like motifs. Expression of KCHIP2 and Kv4
+together reconstituted several features of native A-type currents by
+modulating the density, inactivation kinetics, and rate of recovery from
+inactivation of Kv4 channels in heterologous cells. The KCHIPs
+colocalized and coimmunoprecipitated with brain Kv4-alpha subunits and
+are thus integral components of native Kv4 channel complexes.
+
+GENE FUNCTION
+
+Jeyaraj et al. (2012) provided molecular evidence that links circadian
+rhythms to vulnerability in ventricular arrhythmias in mice.
+Specifically, they showed that cardiac ion channel expression and QT
+interval duration (an index of myocardial repolarization) exhibit
+endogenous circadian rhythmicity under the control of a clock-dependent
+oscillator, Kruppel-like factor-15 (KLF15; 606465). Klf15
+transcriptionally controls rhythmic expression of KChIP2, a critical
+subunit required for generating the transient outward potassium current.
+Deficiency or excess of Klf15 causes loss of rhythmic QT variation,
+abnormal repolarization, and enhanced susceptibility to ventricular
+arrhythmias. Jeyaraj et al. (2012) concluded that their findings
+identified circadian transcription of ion channels as a mechanism for
+cardiac arrhythmogenesis.
+
+ANIMAL MODEL
+
+Kuo et al. (2001) found that knockout mice deficient for Kchip2
+exhibited normal cardiac structure and function but displayed a
+prolonged elevation in the ST segment on the electrocardiogram. The
+Kchip2 -/- mice were highly susceptible to the induction of cardiac
+arrhythmias. Single-cell analysis revealed a substrate for
+arrhythmogenesis, including a complete absence of transient outward
+potassium current (I-to) and a marked increase in action potential
+duration. These studies demonstrated that a defect in KCHIP2 is
+sufficient to confer a marked genetic susceptibility to arrhythmias,
+establishing a novel genetic pathway for ventricular tachycardia via a
+loss of the transmural gradient of I-to.
+
+REFERENCE 1. An, W. F.; Bowlby, M. R.; Betty, M.; Cao, J.; Ling, H.-P.; Mendoza,
+G.; Hinson, J. W.; Mattsson, K. I.; Strassle, B. W.; Trimmer, J. S.;
+Rhodes, K. J.: Modulation of A-type potassium channels by a family
+of calcium sensors. Nature 403: 553-556, 2000.
+
+2. Jeyaraj, D.; Haldar, S. M.; Wan, X.; McCauley, M. D.; Ripperger,
+J. A.; Hu, K.; Lu, Y.; Eapen, B. L.; Sharma, N.; Ficker, E.; Cutler,
+M. J.; Gulick, J.; and 9 others: Circadian rhythms govern cardiac
+repolarization and arrhythmogenesis. Nature 483: 96-99, 2012.
+
+3. Kuo, H.-C.; Cheng, C.-F.; Clark, R. B.; Lin, J. J.-C.; Lin, J.
+L.-C.; Hoshijima, M.; Nguyen-Tran, V. T. B.; Gu, Y.; Ikeda, Y.; Chu,
+P.-H.; Ross, J., Jr.; Giles, W. R.; Chien, K. R.: A defect in the
+Kv channel-interacting protein 2 (KChIP2) gene leads to a complete
+loss of I-to, and confers susceptibility to ventricular tachycardia. Cell 107:
+801-813, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/29/2012
+Stylianos E. Antonarakis - updated: 1/7/2002
+
+CREATED Ada Hamosh: 3/7/2000
+
+EDITED alopez: 09/05/2012
+alopez: 9/5/2012
+terry: 8/29/2012
+mgross: 10/20/2003
+mgross: 1/7/2002
+alopez: 6/30/2000
+alopez: 3/8/2000
+alopez: 3/7/2000
+
+609959	TITLE *609959 MYELOID-ASSOCIATED DIFFERENTIATION MARKER; MYADM
+DESCRIPTION 
+CLONING
+
+Using differential display analysis, Pettersson et al. (2000) identified
+mouse myeloid-associated differentiation marker (Myadm) based upon its
+varied expression during differentiation of an Il3 (147740)-dependent
+myeloid progenitor cell line established from mouse bone marrow. The
+deduced protein contains 8 potential transmembrane domains and several
+potential phosphorylation sites. Northern blot analysis on hematopoietic
+cell lines revealed restricted expression of Myadm to cells belonging to
+the myeloid lineage. Expression was also seen in mature granulocytes and
+macrophages. Tissue analysis showed high expression of Myadm in lung and
+more moderate expression in bone marrow and brain. RT-PCR experiments
+demonstrated expression of Myadm in multipotent cells
+(c-kit+Sca-1+Lin-), erythroid progenitors, and early lymphoid
+progenitors.
+
+By database searching with mouse Myadm as query, Cui et al. (2002)
+identified human MYADM and cloned a full-length MYADM sequence from a
+human bone marrow cDNA library. The deduced 298-amino acid protein has a
+predicted molecular mass of 32 kD. It contains 7 predicted transmembrane
+domains and shows sequence homology with the T-cell differentiation
+protein MAL (188860) and plasmolipin (PLMP; 600340). MYADM shares 75.8%
+overall sequence identity with mouse Myadm, with highest levels of
+conservation seen in the predicted transmembrane regions. Northern blot
+analysis detected 3.3- and 2.2-kb MYADM transcripts. Expression of the
+longer transcript was seen in all tissues tested except thymus;
+expression of the shorter transcript was seen in heart, placenta, lung,
+pancreas, testis, and peripheral blood leukocytes and was undetectable
+in all other tissues. Semiquantitative PCR assays showed that expression
+of MYADM was not only significantly higher in peripheral blood
+leukocytes than in bone marrow cells, but was also upregulated in NB4
+cells (derived from a patient with acute promyelocytic leukemia) that
+were treated with the differentiation inducer all-trans retinoic acid
+(ATRA).
+
+GENE FUNCTION
+
+Using antisense Myadm oligonucleotides, Pettersson et al. (2000) showed
+that downregulation of mouse Myadm expression in pluripotent
+hematopoietic progenitor cells inhibited colony formation.
+
+GENE STRUCTURE
+
+Cui et al. (2002) determined that the MYADM gene contains 3 exons and
+spans 7.1 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Cui et al. (2002) mapped the MYADM gene to
+chromosome 19q13.33-q13.4.
+
+REFERENCE 1. Cui, W.; Yu, L.; He, H.; Chu, Y.; Gao, J.; Wan, B.; Tang, L.; Zhao,
+S.: Cloning of human myeloid-associated differentiation marker (MYADM)
+gene whose expression was up-regulated in NB4 cells induced by all-trans
+retinoic acid. Molec. Biol. Rep. 28: 123-138, 2002.
+
+2. Pettersson, M.; Dannaeus, K.; Nilsson, K.; Jonsson, J.-I.: Isolation
+of MYADM, a novel hematopoietic-associated marker gene expressed in
+multipotent progenitor cells and up-regulated during myeloid differentiation. J.
+Leuko. Biol. 67: 423-431, 2000.
+
+CREATED Laura L. Baxter: 3/15/2006
+
+EDITED carol: 03/15/2006
+
+614984	TITLE *614984 DEHYDROGENASE E1 AND TRANSKETOLASE DOMAINS-CONTAINING PROTEIN 1; DHTKD1
+;;KIAA1630
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2000) cloned DHTKD1, which they designated
+KIAA1630. The transcript contains several repetitive elements in its
+3-prime end. The deduced 901-amino acid DHTKD1 protein shares
+significant similarity with Arabidopsis thaliana 2-oxoglutarate
+dehydrogenase E1 subunit-like protein. RT-PCR ELISA detected variable
+DHTKD1 expression in all adult and fetal tissues examined, with highest
+expression in adult kidney, ovary, and brain and all specific adult
+brain regions examined. Lowest expression was in adult skeletal muscle.
+
+MAPPING
+
+By PCR of a human-rodent hybrid panel, Nagase et al. (2000) mapped the
+DHTKD1 gene to chromosome 10.
+
+Hartz (2012) mapped the DHTKD1 gene to chromosome 10p14 based on an
+alignment of the DHTK1 sequence (GenBank GENBANK AA009773) with the
+genomic sequence (GRCh37).
+
+MOLECULAR GENETICS
+
+- 2-Aminoadipic 2-Oxoadipic Aciduria
+
+Danhauser et al. (2012) identified compound heterozygous mutations in
+the DHTKD1 gene in patients with 2-aminoadipic 2-oxoadipic aciduria
+(204750). Whole-exome sequencing in 1 individual detected compound
+heterozygosity for an A-to-G transition altering the methionine at codon
+1, which the authors suggested might cause out-of-frame usage of an AUG
+triple 160 nucleotides downstream (614984.0001). The second mutation was
+a missense mutation, gly729 to arg (G729R; 614984.0002), which affected
+an amino acid residue evolutionarily conserved from Homo sapiens to C.
+elegans and D. melanogaster. This mutation was found with a minor allele
+frequency of 0.17%, corresponding to 19 heterozygous but no homozygous
+carriers among 5,379 individuals. The methionine mutation was present in
+the mother, but the missense mutation occurred as a de novo event.
+Sanger sequencing in the second patient detected the same G729R mutation
+as in the first patient, and a nonsense mutation, arg410 to ter (R410X;
+614984.0003), on the other allele. Functional assays showed that reduced
+DHTKD1 activity was responsible for the 2-aminoadipic and 2-oxoadipic
+aciduria in the affected individuals. Because of the much milder
+phenotype in patients with this disorder than in the disorder glutaric
+acidemia I (231670), caused by mutation in the next enzyme in the
+pathway, glutaryl CoA-dehydrogenase (608801), the authors suggested that
+pharmacologic inhibition of DHTKD1 might be an interesting drug target
+for glutaric aciduria type I.
+
+- Charcot-Marie-Tooth Disease Type 2Q
+
+Xu et al. (2012) identified a nonsense mutation in the DHTKD1 gene that
+segregated with a Charcot-Marie-Tooth disease type 2 phenotype (615025)
+in a large 5-generation Chinese family from Shandong. Affected
+individuals ranged in age from 13 to 71 years of age at the time of
+examination. The age of onset of symptomatology ranged from 13 to 25
+years of age; all displayed pes cavus. Upper and lower extremity
+symptoms appeared to be similar. The proband had distal upper and lower
+limb muscle atrophy and some angulated muscle fibers with increased
+connective tissue and fat around the muscle bundle and hematoxylin and
+eosin staining. Mitochondrial vacuolization was evident on electron
+microscopy analysis of muscle cells.
+
+ALLELIC VARIANT .0001
+2-@AMINOADIPIC 2-OXOADIPIC ACIDURIA
+DHTKD1, 1A-G
+
+In a patient with 2-aminoadipic 2-oxoadipic aciduria (204750), Danhauser
+et al. (2012) identified compound heterozygosity for mutation in the
+DHTKD1 gene, an A-to-G transition affecting the initiating methionine
+codon and a nonsense mutation (614984.0002). The 1A-G mutation was
+predicted to cause out-of-frame usage of the next AUG triplet 160
+nucleotides downstream and thus result in a nonfunctional protein. This
+mutation was also identified in the patient's mother.
+
+.0002
+2-@AMINOADIPIC 2-OXOADIPIC ACIDURIA
+DHTKD1, GLY729ARG (dbSNP rs117225135)
+
+In 2 patients with 2-aminoadipic 2-oxoadipic aciduria (204750),
+Danhauser et al. (2012) identified a heterozygous G-to-A transition at
+nucleotide 2185 of the DHTHD1 gene resulting in a gly-to-arg
+substitution at codon 729 (G729R). In 1 patient the G729R mutation was
+found in compound heterozygosity with a mutation involving the initiator
+methionine (614984.0001), and in the other patient a premature
+termination mutation was found (R410X; 614984.0003). In the first
+patient the G729R mutation occurred de novo and in the second it was
+maternally transmitted. Gly729 is evolutionarily conserved from Homo
+sapiens to C. elegans and D. melanogaster. This mutation (dbSNP
+rs117225135) was found in the NHLBI Exome Variant Server with a minor
+allele frequency of 0.17%, corresponding to 19 heterozygous but no
+homozygous carriers among 5,379 individuals.
+
+.0003
+2-@AMINOADIPIC 2-OXOADIPIC ACIDURIA
+DHTKD1, ARG410TER
+
+In a patient with 2-aminoadipic 2-oxoadipic aciduria (204750), Danhauser
+et al. (2012) identified compound heterozygosity for a missense mutation
+in the DHTKD1 gene (G729R; 614984.0002) and a C-to-T transition at
+nucleotide 1228, resulting in an arg-to-ter substitution at codon 410
+(R410X). The patient had mild psychomotor developmental delay but more
+significant speech delay, IQ of 87, and muscular hypotonia. The father
+was a carrier of the mutation.
+
+.0004
+CHARCOT-MARIE-TOOTH DISEASE, AXONAL, TYPE 2Q
+DHTKD1, TYR485TER
+
+Xu et al. (2012) reported a 5-generation Chinese family with 8 affected
+individuals segregating CMT disease type 2 (CMT2Q; 615025). All 8
+affected individuals but no unaffected individuals carried a
+heterozygous T-to-G transversion at nucleotide 1455 in exon 8 of the
+DHTKD1 gene, resulting in a tyr-to-ter substitution at codon 485
+(Y485X). This mutation was not detected in 250 unrelated normal
+individuals. The patients were found to have half-normal expression of
+DHTKD1 mRNA, and Xu et al. (2012) found that DHTKD1 silencing led to
+impaired energy production evidenced by decreased ATP, total NAD(+) and
+NADH, and NADH levels in vitro.
+
+REFERENCE 1. Danhauser, K.; Sauer, S. W.; Haack, T. B.; Wieland, T.; Staufner,
+C.; Graf, E.; Zschocke, J.; Strom, T. M.; Traub, T.; Okun, J. G.;
+Meitinger, T.; Hoffmann, G. F.; Prokisch, H.; Kolker, S.: DHTKD1
+mutations cause 2-aminoadipic and 2-oxoadipic aciduria. Am. J. Hum.
+Genet. 91: 1082-1087, 2012.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  12/6/2012.
+
+3. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+4. Xu, W.; Gu, M.; Sun, L.; Guo, W.; Zhu, H.; Ma, J.; Yuan, W.; Kuang,
+Y.; Ji, B.; Wu, X.; Chen, Y.; Zhang, H.; Sun, F.; Huang, W.; Huang,
+L.; Chen, S.; Wang, Z.: A nonsense mutation in DHTKD1 causes Charcot-Marie-Tooth
+disease type 2 in a large Chinese pedigree. Am. J. Hum. Genet. 91:
+1088-1094, 2012.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/8/2013
+
+CREATED Patricia A. Hartz: 12/17/2012
+
+EDITED carol: 10/25/2013
+alopez: 1/17/2013
+terry: 1/8/2013
+mgross: 12/17/2012
+
+607707	TITLE *607707 CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE II-BETA; CAMK2B
+DESCRIPTION 
+DESCRIPTION
+
+CAMK2B belongs to a family of type II multifunctional calcium- and
+calmodulin (see 114180)-dependent protein kinases. There are at least 4
+CAMK2 genes, and each yields several isoforms through alternative
+splicing. CAMK2B is a prominent kinase in the central nervous system and
+may function in long-term potentiation and neurotransmitter release.
+
+CLONING
+
+Tombes and Krystal (1997) cloned a number of CAMK2B variants from
+several human tumor cell line and brain cDNA libraries. CAMK2B showed
+wide tissue and cell distribution, but 1 variant predominated in adult
+brain. The expression of other variants depended upon the tissue of
+origin and whether the source was normal or tumor tissue.
+
+By searching an EST database using rat Camk2 as query, followed by
+screening a brain cDNA library, Li et al. (2001) obtained a full-length
+cDNA encoding CAMK2B. The deduced protein contains 542 amino acids. A
+comparison of CAMK2B and CAMK2A (114078) detected no amino acid changes
+within the functional domains, including the ATP-binding site, the
+calmodulin-binding domain, and autophosphorylation sites. Northern blot
+analysis detected a major 3.9-kb transcript in adult and fetal brain;
+expression was slightly lower in fetal brain. Using PCR primers designed
+to identify alternatively spliced isoforms, Li et al. (2001) identified
+3 CAMK2B isoforms in adult and fetal brain. Like other CAMK2 isoforms,
+the CAMK2B isoforms have an insertion or deletion of 11 to 39 amino
+acids within the central variable region.
+
+Wang et al. (2000) identified and cloned CAMK2B by searching an EST
+database using mouse Camk2b. They obtained a full-length cDNA by 5-prime
+RACE of a brain cDNA library. Wang et al. (2000) also identified 5
+splice variants resulting from alternative splicing within 7 central
+variable domains, termed V1 to V7. The deduced proteins have calculated
+molecular masses between 49 and 60 kD. Transient transfection of 3
+CAMK2B variants in HEK293 cells revealed that all 3 were cytosolic
+proteins.
+
+GENE FUNCTION
+
+Wang et al. (2000) showed that full-length CAMK2B and a variant lacking
+V1 displayed Ca(2+)/calmodulin-dependent kinase activity against a
+peptide substrate. Another variant lacking V1 through V5 did not exhibit
+significant kinase activity under the same conditions.
+
+By Western blot analysis, Thiagarajan et al. (2002) found that the
+protein levels of Camk2a and Camk2b were inversely related during
+activity in cultured rat pup hippocampal neurons. The levels of Camk2a
+increased with heightened activity, and the levels of Camk2b increased
+with suppression of activity. Thiagarajan et al. (2002) hypothesized
+that the change in the ratio may help tune the Camk2 holoenzyme to
+changing intensities of Ca(2+) signaling.
+
+Novak et al. (2000) determined that expression of CAMK2B mRNA was
+elevated about 2-fold in postmortem frontal cortex of schizophrenia
+(181500) patients relative to controls.
+
+Konig et al. (2010) used an integrative systems approach, based on
+genomewide RNA interference screening, to identify 295 cellular
+cofactors required for early-stage influenza virus replication. Within
+this group, those involved in kinase-regulated signaling,
+ubiquitination, and phosphatase activity are the most highly enriched,
+and 181 factors assemble into a highly significant host-pathogen
+interaction network. Moreover, 219 of the 295 factors were confirmed to
+be required for efficient wildtype influenza virus growth, and further
+analysis of a subset of genes showed 23 factors essential for viral
+entry, including members of the vacuolar ATPase (see 192132) and COPI
+(see 601924) protein families, fibroblast growth factor receptor (FGFR)
+proteins, and glycogen synthase kinase 3 (GSK3)-beta (605004).
+Furthermore, 10 proteins were confirmed to be involved in post-entry
+steps of influenza virus replication. These include nuclear import
+components, proteases, and CAMK2B. Notably, growth of swine-origin HIN1
+influenza virus is also dependent on the identified host factors, and
+Konig et al. (2010) showed that small molecule inhibitors of several
+factors, including vATPase and CAMK2B, antagonize influenza virus
+replication.
+
+GENE STRUCTURE
+
+Wang et al. (2000) determined that the variable region of the CAMK2B
+protein is encoded by at least 7 exons. Alternative splicing within this
+region gives rise to CAMK2B variants.
+
+MAPPING
+
+By genomic sequence analysis, Wang et al. (2000) mapped the CAMK2B gene
+to chromosome 7.
+
+REFERENCE 1. Konig, R.; Stertz, S.; Zhou, Y.; Inoue, A.; Hoffmann, H.-H.; Bhattacharyya,
+S.; Alamares, J. G.; Tscherne, D. M.; Ortigoza, M. B.; Liang, Y.;
+Gao, Q.; Andrews, S. E.; and 14 others: Human host factors required
+for influenza virus replication. Nature 463: 813-817, 2010.
+
+2. Li, G.; Laabich, A.; Liu, L. O.; Xue, J.; Cooper, N. G. F.: Molecular
+cloning and sequence analyses of calcium/calmodulin-dependent protein
+kinase II from fetal and adult human brain: sequence analyses of human
+brain calcium/calmodulin-dependent protein kinase II. Molec. Biol.
+Rep. 28: 35-41, 2001.
+
+3. Novak, G.; Seeman, P.; Tallerico, T.: Schizophrenia: elevated
+mRNA for calcium-calmodulin-dependent protein kinase II-beta in frontal
+cortex. Molec. Brain Res. 82: 95-100, 2000.
+
+4. Thiagarajan, T. C.; Piedras-Renteria, E. S.; Tsien, R. W.: Alpha-
+and beta-CaMKII: inverse regulation by neuronal activity and opposing
+effects on synaptic strength. Neuron 36: 1103-1114, 2002.
+
+5. Tombes, R. M.; Krystal, G. W.: Identification of novel human tumor
+cell-specific CaMK-II variants. Biochim. Biophys. Acta 1355: 281-292,
+1997.
+
+6. Wang, P.; Wu, Y.-L.; Zhou, T.-H.; Sun, Y.; Pei, G.: Identification
+of alternative splicing variants of the beta subunit of human Ca(2+)/calmodulin-dependent
+protein kinase II with different activities. FEBS Lett. 475: 107-110,
+2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/1/2011
+Ada Hamosh - updated: 3/5/2010
+
+CREATED Patricia A. Hartz: 4/23/2003
+
+EDITED carol: 12/20/2012
+terry: 7/19/2011
+alopez: 7/7/2011
+terry: 7/1/2011
+alopez: 3/8/2010
+terry: 3/5/2010
+mgross: 4/23/2003
+

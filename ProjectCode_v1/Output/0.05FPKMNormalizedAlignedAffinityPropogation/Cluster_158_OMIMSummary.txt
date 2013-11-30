@@ -1,0 +1,641 @@
+603322	TITLE *603322 NADH-UBIQUINONE OXIDOREDUCTASE 1 BETA SUBCOMPLEX, 6; NDUFB6
+;;COMPLEX I, MITOCHONDRIAL RESPIRATORY CHAIN, B17 SUBUNIT; B17
+DESCRIPTION 
+DESCRIPTION
+
+Complex I (NADH:ubiquinone oxidoreductase), the first multisubunit
+enzyme complex of the mitochondrial respiratory chain, has about 43
+subunits with a combined molecular mass of 970 kD. Of these, 7 subunits
+are encoded by the mitochondrial genome (ND1-6, ND4L). The remaining
+subunits are encoded by the nuclear genome (Smeitink et al., 1998)
+
+CLONING
+
+Smeitink et al. (1998) provided a table of 15 known nuclear subunits and
+reported the cloning of an additional subunit, B17. The B17 cDNA encodes
+a protein of 128 amino acids with a calculated relative mass of 15.5 kD.
+There was 82.7% and 78.1% homology, respectively, at the cDNA and amino
+acid levels with the bovine counterpart. Multi-tissue dot blots showed
+ubiquitous expression of B17 mRNA, with relatively higher expression in
+tissues known for their high energy demands. Of these, kidney showed the
+highest expression. Mutation analysis of the subunit revealed no
+mutations or polymorphisms in 20 patients with isolated enzymatic
+complex I deficiency in cultured skin fibroblasts.
+
+Smeitink and van den Heuvel (1999) reviewed the available molecular data
+regarding the human nuclear-encoding complex I subunits.
+
+MAPPING
+
+By searching the GenBank STS database using the cDNA sequence of the
+human B17 subunit, Smeitink et al. (1998) mapped the NDUFB6 gene
+(GenBank GENBANK G30177) to chromosome 2. However, by radiation hybrid
+analysis, Emahazion et al. (1998) mapped the NDUFB6 gene to 9p13.2.
+
+MOLECULAR GENETICS
+
+NDUFB6 is among the set of OXPHOS genes showing significant reduction in
+muscle from patients with type 2 diabetes (125853) compared with healthy
+control subjects (Mootha et al., 2003; see 604517). In a study of young
+and elderly twins with and without type 2 diabetes, Ling et al. (2007)
+found that expression of NDUFB6 in skeletal muscle decreased with age. A
+-544A-G polymorphism in the NDUFB6 promoter region (dbSNP rs629566) that
+creates a possible DNA methylation site was associated with a decline in
+muscle NDUFB6 expression with age; increased DNA methylation was found
+in the promoter of elderly but not young subjects carrying the G/G
+genotype. The degree of DNA methylation correlated negatively with
+muscle NDUFB6 expression, which, in turn, was associated with insulin
+sensitivity. Ling et al. (2007) suggested that genetic and epigenetic
+factors may interact to increase age-dependent susceptibility to insulin
+resistance.
+
+REFERENCE 1. Emahazion, T.; Beskow, A.; Gyllensten, U.; Brookes, A. J.: Intron
+based radiation hybrid mapping of 15 complex I genes of the human
+electron transport chain. Cytogenet. Cell Genet. 82: 115-119, 1998.
+
+2. Ling, C.; Poulsen, P.; Simonsson, S.; Ronn, T.; Holmkvist, J.;
+Almgren, P.; Hagert, P.; Nilsson, E.; Mabey, A. G.; Nilsson, P.; Vaag,
+A.; Groop, L.: Genetic and epigenetic factors are associated with
+expression of respiratory chain component NDUFB6 in human skeletal
+muscle. J. Clin. Invest. 117: 3427-3435, 2007.
+
+3. Mootha, V. K.; Lindgren, C. M.; Eriksson, K.-F.; Subramanian, A.;
+Sihag, S.; Lehar, J.; Puigserver, P.; Carlsson, E.; Ridderstrale,
+M.; Laurila, E.; Houstis, N.; Daly, M. J.; and 9 others: PGC-1-alpha-responsive
+genes involved in oxidative phosphorylation are coordinately downregulated
+in human diabetes. Nature Genet. 34: 267-273, 2003.
+
+4. Smeitink, J.; Loeffen, J.; Smeets, R.; Triepels, R.; Ruitenbeek,
+W.; Trijbels, F.; van den Heuvel, L.: Molecular characterization
+and mutational analysis of the human B17 subunit of the mitochondrial
+respiratory chain complex I. Hum. Genet. 103: 245-250, 1998.
+
+5. Smeitink, J.; van den Heuvel, L.: Human mitochondrial complex
+I in health and disease. Am. J. Hum. Genet. 64: 1505-1510, 1999.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 1/17/2008
+Victor A. McKusick - updated: 5/28/1999
+
+CREATED Victor A. McKusick: 11/30/1998
+
+EDITED wwang: 02/18/2008
+terry: 1/17/2008
+carol: 12/15/1999
+mgross: 6/14/1999
+mgross: 6/7/1999
+terry: 5/28/1999
+carol: 11/30/1998
+
+141251	TITLE *141251 HEME OXYGENASE 2; HMOX2
+;;HEMOXYGENASE 2
+DESCRIPTION 
+GENE FUNCTION
+
+Heme oxygenase is the rate-limiting enzyme in the heme degradative
+pathway (Kutty et al., 1994). This degradative process has 2 important
+products, biliverdin, the precursor of the bile pigment bilirubin, and
+carbon monoxide, a putative neurotransmitter. There are 2 isozymic forms
+of heme oxygenase, an inducible heme oxygenase-1 (HMOX1; 141250) and a
+constitutive heme oxygenase-2 (HMOX2).
+
+Heme oxygenase-2, which synthesizes carbon monoxide (CO), has been
+localized by immunohistochemistry to endothelial cells and adventitial
+nerves of blood vessels. It is also localized to neurons in autonomic
+ganglia, including the petrosal, superior cervical, and nodose ganglia,
+as well as ganglia in the myenteric plexus of the intestine. Zakhary et
+al. (1996) demonstrated by enzyme studies that tin protoporphyrin IX is
+a selective inhibitor of heme oxygenase with about 10-fold selectivity
+for heme oxygenase over endothelial nitric oxide synthase (NOS3; 163729)
+and soluble guanylyl cyclase. Inhibition of heme oxygenase activity by
+tin protoporphyrin IX reverses the component of endothelial-derived
+relaxation porcine distal pulmonary arteries not reversed by an
+inhibitor of NOS. Thus, the authors concluded that CO, like nitric oxide
+(NO), may have endothelial-derived relaxing activity; additionally, the
+similarity of NOS and heme oxygenase-2 localizations and functions in
+blood vessels and the autonomic nervous system implies complementary and
+possibly coordinated physiologic roles for these 2 mediators.
+
+Using immunoprecipitation studies, Takahashi et al. (2000) showed that
+amyloid precursor protein (APP; 104760) and amyloid precursor-like
+protein (APLP1; 104775) bound to HMOX1 and HMOX2 in the endoplasmic
+reticulum and inhibited heme oxygenase activity by 25 to 35% in vitro.
+Familial Alzheimer disease (AD; 104300)-associated APP mutations showed
+greater inhibition (45 to 50%) of heme oxygenase. As heme oxygenase
+shows antioxidative effects, the authors hypothesized that APP-mediated
+inhibition of heme oxygenase may result in increased oxidative
+neurotoxicity in AD.
+
+Williams et al. (2004) demonstrated that hemoxygenase-2 is part of the
+BK channel complex (600150) and enhances channel activity in normoxia.
+Knockdown of hemoxygenase-2 expression reduced channel activity, and
+carbon monoxide, a product of hemoxygenase-2 activity, rescued this loss
+of function. Inhibition of BK channels by hypoxia was dependent on
+hemoxygenase-2 expression and was augmented by hemoxygenase-2
+stimulation. Furthermore, carotid body cells demonstrated
+hemoxygenase-2-dependent hypoxic BK channel inhibition, which indicated
+that hemoxygenase-2 is an oxygen sensor that controls channel activity
+during oxygen deprivation.
+
+MAPPING
+
+Using the polymerase chain reaction for analysis of human/rodent somatic
+cell hybrids, Kutty et al. (1994) assigned the HMOX2 gene to chromosome
+16. They regionalized the assignment to 16p13.3 by fluorescence in situ
+hybridization (FISH). By FISH, Saito-Ohara et al. (1997) mapped the
+Hmox2 gene to mouse chromosome 16B1.
+
+ANIMAL MODEL
+
+Heme oxygenase activity leads to accumulation of the antioxidant
+bilirubin, and degradation of the preoxidant heme. Moderate
+overexpression of the inducible form, HMOX1, is associated with
+protection against oxidative injury. To evaluate the role of HMOX2
+(called HO-2 by the authors) in oxidative stress, Dennery et al. (1998)
+investigated Hmox2 null 'knockout' mice exposed to more than 95% O(2)
+compared with wildtype controls. Similar basal levels of lung
+antioxidants were observed, except that the knockouts had a 2-fold
+increase in total glutathione content. Despite increased Hmox1
+expression from Hmox1 induction, knockout animals were sensitized to
+hyperoxia-induced oxidative injury and mortality, and also had
+significantly increased markers of oxidative injury before hyperoxic
+exposure. The results suggested that Hmox2 functions to augment the
+turnover of lung iron during oxidative stress, and that this function
+does not appear to be compensated for by induction of Hmox1 in the
+knockouts.
+
+REFERENCE 1. Dennery, P. A.; Spitz, D. R.; Yang, G.; Tatarov, A.; Lee, C. S.;
+Shegog, M. L.; Poss, K. D.: Oxygen toxicity and iron accumulation
+in the lungs of mice lacking heme oxygenase-2. J. Clin. Invest. 101:
+1001-1011, 1998.
+
+2. Kutty, R. K.; Kutty, G.; Rodriguez, I. R.; Chader, G. J.; Wiggert,
+B.: Chromosomal localization of the human oxygenase genes: heme oxygenase-1
+(HMOX1) maps to chromosome 22q12 and heme oxygenase-2 (HMOX2) maps
+to chromosome 16p13.3. Genomics 20: 513-516, 1994.
+
+3. Saito-Ohara, F.; Ikeuchi, T.; Matsumoto, M.; Kurata, S.: Assignment
+of the mouse heme oxygenase genes: heme oxygenase-1 (Hmox1) to chromosome
+10 band C1 and heme oxygenase-2 (Hmox2) to chromosome 16 band B1. Cytogenet.
+Cell Genet. 77: 180-181, 1997.
+
+4. Takahashi, M.; Dore, S.; Ferris, C. D.; Tomita, T.; Sawa, A.; Wolosker,
+H.; Borchelt, D. R.; Iwatsubo, T.; Kim, S.-H.; Thinakaran, G.; Sisodia,
+S. S.; Snyder, S. H.: Amyloid precursor proteins inhibit heme oxygenase
+activity and augment neurotoxicity in Alheimer's disease. Neuron 28:
+461-473, 2000.
+
+5. Williams, S. E. J.; Wootton, P.; Mason, H. S.; Bould, J.; Iles,
+D. E.; Riccardi, D.; Peers, C.; Kemp, P. J.: Hemoxygenase-2 is an
+oxygen sensor for a calcium-sensitive potassium channel. Science 306:
+2093-2097, 2004.
+
+6. Zakhary, R.; Gaine, S. P.; Dinerman, J. L.; Ruat, M.; Flavahan,
+N. A.; Snyder, S. H.: Heme oxygenase 2: endothelial and neuronal
+localization and role in endothelium-dependent relaxation. Proc.
+Nat. Acad. Sci. 93: 795-798, 1996.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/1/2005
+Ada Hamosh - updated: 1/27/2005
+Victor A. McKusick - updated: 4/13/1998
+Victor A. McKusick - updated: 10/20/1997
+
+CREATED Victor A. McKusick: 4/18/1994
+
+EDITED wwang: 09/23/2005
+wwang: 9/19/2005
+ckniffin: 9/1/2005
+alopez: 2/10/2005
+alopez: 2/9/2005
+wwang: 2/7/2005
+wwang: 2/3/2005
+terry: 1/27/2005
+carol: 1/23/2003
+dkim: 7/2/1998
+carol: 4/13/1998
+terry: 3/30/1998
+mark: 10/21/1997
+terry: 10/20/1997
+alopez: 7/29/1997
+terry: 7/7/1997
+mark: 2/9/1996
+terry: 2/8/1996
+carol: 4/18/1994
+
+600756	TITLE *600756 PROTEIN PHOSPHATASE 2, REGULATORY SUBUNIT B-PRIME; PPP2R4
+;;PROTEIN PHOSPHATASE 2A, REGULATORY SUBUNIT B-PRIME;;
+PHOSPHOTYROSYL PHOSPHATASE ACTIVATOR; PTPA;;
+PR53
+DESCRIPTION 
+DESCRIPTION
+
+PPP2R4, or PTPA, encodes a specific phosphotyrosyl phosphatase activator
+of the dimeric form of protein phosphatase-2A (PP2A; see 176915) (Van
+Hoof et al., 1995).
+
+GENE FUNCTION
+
+The core component of PP2A consists of a catalytic (C) subunit (e.g.,
+PPP2CA; 176915) and a scaffold protein (A) subunit (e.g., PPP2R1A;
+605983). Using purified recombinant proteins, Chao et al. (2006) found
+that PTPA and PP2A A-C dimers constituted a composite ATPase, and the
+interaction was independent of ATP or magnesium ion. The inclusion of
+PTPA altered the substrate specificity of PP2A, with enhanced
+phosphotyrosine phosphatase activity and decreased phosphoserine
+phosphatase activity.
+
+BIOCHEMICAL FEATURES
+
+Chao et al. (2006) reported the 1.9-angstrom crystal structure of human
+PTPA, which revealed a fold consisting of a core, a lid, and an extended
+linker joining the core and lid. Structural analysis uncovered a highly
+conserved surface patch bordering these 3 subdomains, as well as an
+associated deep pocket between the core and linker subdomains. Further
+analysis showed that the surface patch binds the PP2A A-C dimer, and the
+deep pocket binds ATP.
+
+GENE STRUCTURE
+
+Van Hoof et al. (1995) demonstrated that human PTPA is encoded by a
+single-copy gene composed of 10 exons and 9 introns with a total length
+of about 60 kb. The 5-prime flanking sequence of the transcription start
+site was analyzed for its potential as a promoter. This region lacks a
+TATA sequence in the appropriate position relative to the transcription
+start. However, this region is very GC-rich and contains 4 Sp1 sites
+(SP1; 189906) upstream of the transcription start site, a feature common
+to many TATA-less promoters. Based on homology with DNA-binding
+consensus sequences of transcription factors, Van Hoof et al. (1995)
+identified several additional putative transcription factor binding
+sites in the promoter region. Transfection experiments with a construct
+containing the PTPA promoter region inserted 5-prime of a luciferase
+reporter gene demonstrated that the 5-prime flanking sequence of the
+PTPA gene indeed has promoter activity that seems to be cell-line
+dependent.
+
+MAPPING
+
+By fluorescence in situ hybridization, Van Hoof et al. (1995) mapped the
+PTPA gene to 9q34. Fluorescence in situ analysis of metaphase
+chromosomes of patients bearing the Philadelphia chromosome indicated
+that PTPA is positioned centromeric of ABL1 (189980) and probably is not
+involved in chronic myeloid leukemia.
+
+ADDITIONAL REFERENCES McCright et al. (1996)
+REFERENCE 1. Chao, Y.; Xing, Y.; Chen, Y.; Xu, Y.; Lin, Z.; Li, Z.; Jeffrey,
+P. D.; Stock, J. B.; Shi, Y.: Structure and mechanism of the phosphotyrosyl
+phosphatase activator. Molec. Cell 23: 535-546, 2006.
+
+2. McCright, B.; Rivers, A. M.; Audlin, S.; Virshup, D. M.: The B56
+family of protein phosphatase 2A (PP2A) regulatory subunits encodes
+differentiation-induced phosphoproteins that target PP2A to both nucleus
+and cytoplasm. J. Biol. Chem. 271: 22081-22089, 1996.
+
+3. Van Hoof, C.; Aly, M. S.; Garcia, A.; Cayla, X.; Cassiman, J. J.;
+Merlevede, W.; Goris, J.: Structure and chromosomal localization
+of the human gene of the phosphotyrosyl phosphatase activator (PTPA)
+of protein phosphatase 2A. Genomics 28: 261-272, 1995.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/1/2006
+Jennifer P. Macke - updated: 4/14/1997
+
+CREATED Victor A. McKusick: 8/29/1995
+
+EDITED mgross: 02/04/2009
+mgross: 12/1/2006
+terry: 11/1/2006
+mgross: 3/15/2006
+carol: 12/3/2004
+alopez: 5/5/1997
+alopez: 4/14/1997
+mark: 8/29/1995
+
+603632	TITLE *603632 RIBOSOMAL PROTEIN S10; RPS10
+DESCRIPTION 
+DESCRIPTION
+
+The mammalian ribosome is a macromolecular assembly of 4 RNA species
+(see 180450) and approximately 80 different proteins (see 180466).
+
+CLONING
+
+Adams et al. (1992) isolated an RPS10 cDNA as a human brain EST.
+
+By searching sequence databases with the partial sequences of randomly
+selected cDNAs from a human colorectal cDNA library, Frigerio et al.
+(1995) identified cDNAs encoding homologs of rat ribosomal proteins S5
+(RPS5; 603630), S9 (RPS9; 603631), S10 (RPS10), S29 (RPS29; 603633), L5
+(RPL5; 603634), L21 (RPL21; 603636), L27a (RPL27A; 603637), and L28
+(RPL28; 603638). Frigerio et al. (1995) completed the cDNA sequences of
+these human ribosomal proteins. The deduced 165-amino acid human RPS10
+differs from rat Rps10 by 2 amino acids; neither protein contains
+cysteine residues. Northern blot analysis suggested variable expression
+of RPS10 in colorectal cancers compared to adjacent normal tissues,
+although no correlation between the level of expression and the severity
+of the disease was found.
+
+GENE STRUCTURE
+
+Boria et al. (2010) stated that the RPS10 gene contains 6 exons spanning
+8.65 kb.
+
+MAPPING
+
+By somatic cell hybrid and radiation hybrid mapping analyses, Kenmochi
+et al. (1998) mapped the human RPS10 gene to chromosome 6p.
+
+Boria et al. (2010) stated that the RPS10 gene maps to chromosome
+6p21.31.
+
+GENE FUNCTION
+
+Using siRNA knockdown in HeLa cells to analyze the role of RPS10 in
+pre-rRNA processing, Doherty et al. (2010) found that depletion of RPS10
+led to decreased levels of 18S rRNA, indicating that RPS10 is necessary
+for production of the small subunit. RNA blot analysis showed
+accumulation of 43S, 26S, and 18S-E pre-rRNAs, consistent with defects
+in cleavage at both ends of the 18S rRNA.
+
+MOLECULAR GENETICS
+
+Doherty et al. (2010) sequenced 35 ribosomal protein genes in a cohort
+of 117 patients with Diamond-Blackfan anemia (see DBA9, 613308) who were
+negative for mutation in 7 known DBA genes and identified 3 mutations in
+the RPS10 gene (603632.0001-603632.0003) in 5 patients.
+
+ALLELIC VARIANT .0001
+DIAMOND-BLACKFAN ANEMIA 9
+RPS10, MET1ILE
+
+In a male patient with Diamond-Blackfan anemia (613308), Doherty et al.
+(2010) identified heterozygosity for a 3G-A transition in exon 1 of the
+RPS10 gene, causing a met1-to-thr (M1T) substitution that eliminates the
+start codon and is predicted to result in a truncated 144-residue
+protein. The mutation was not found in at least 520 control chromosomes.
+
+.0002
+DIAMOND-BLACKFAN ANEMIA 9
+RPS10, 1-BP INS, 260C
+
+In a female patient who was diagnosed with Diamond-Blackfan anemia
+(613308) at 2 months of age, Doherty et al. (2010) identified
+heterozygosity for a 1-bp insertion (260insC) in exon 3 of the RPS10
+gene, resulting in a frameshift and a premature termination codon. The
+mutation was not found in her unaffected father or in at least 520
+control chromosomes.
+
+.0003
+DIAMOND-BLACKFAN ANEMIA 9
+RPS10, ARG113TER
+
+In a male and 2 female probands with Diamond-Blackfan anemia (613308),
+Doherty et al. (2010) identified heterozygosity for a 337C-T transition
+in exon 4 of the RPS10 gene, resulting in an arg113-to-ter (R113X)
+substitution. Two of the patients were responsive to steroid therapy;
+the third, a female with a de novo mutation who was diagnosed at birth,
+was unresponsive to steroid therapy and was also noted to have a webbed
+neck. The mutation was not found in at least 520 control chromosomes.
+
+REFERENCE 1. Adams, M. D.; Dubnick, M.; Kerlavage, A. R.; Moreno, R.; Kelley,
+J. M.; Utterback, T. R.; Nagle, J. W.; Fields, C.; Venter, J. C.:
+Sequence identification of 2,375 human brain genes. Nature 355:
+632-634, 1992. Note: Comment: Nature 357: 367-368, 1992.
+
+2. Boria, I.; Garelli, E.; Gazda, H. T.; Aspesi, A.; Quarello, P.;
+Pavesi, E.; Ferrante, D.; Meerpohl, J. J.; Kartal, M.; Da Costa, L.;
+Proust, A.; Leblanc, T.; and 17 others: The ribosomal basis of
+Diamond-Blackfan anemia: mutation and database update. Hum. Mutat. 31:
+1269-1279, 2010.
+
+3. Doherty, L.; Sheen, M. R.; Vlachos, A.; Choesmel, V.; O'Donohue,
+M.-F.; Clinton, C.; Schneider, H. E.; Sieff, C. A.; Newburger, P.
+E.; Ball, S.  E.; Niewiadomska, E.; Matysiak, M.; Glader, B.; Arceci,
+R. J.; Farrar, J. E.; Atsidaftos, E.; Lipton, J. M.; Gleizes, P.-E.;
+Gazda, H. T.: Ribosomal protein genes RPS10 and RPS26 are commonly
+mutated in Diamond-Blackfan anemia. Am. J. Hum. Genet. 86: 222-228,
+2010. Note: Erratum: Am. J. Hum. Genet 86: 655-656, 2010.
+
+4. Frigerio, J.-M.; Berthezene, P.; Garrido, P.; Ortiz, E.; Barthellemy,
+S.; Vasseur, S.; Sastre, B.; Seleznieff, I.; Dagorn, J. C.; Iovanna,
+J. L.: Analysis of 2166 clones from a human colorectal cancer cDNA
+library by partial sequencing. Hum. Molec. Genet. 4: 37-43, 1995.
+
+5. Frigerio, J.-M.; Dagorn, J.-C.; Iovanna, J. L.: Cloning, sequencing
+and expression of the L5, L21, L27a, L28, S5, S9, S10 and S29 human
+ribosomal protein mRNAs. Biochim. Biophys. Acta 1262: 64-68, 1995.
+
+6. Kenmochi, N.; Kawaguchi, T.; Rozen, S.; Davis, E.; Goodman, N.;
+Hudson, T. J.; Tanaka, T.; Page, D. C.: A map of 75 human ribosomal
+protein genes. Genome Res. 8: 509-523, 1998.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 03/24/2011
+Marla J. F. O'Neill - updated: 3/18/2010
+Patti M. Sherman - updated: 9/10/1999
+
+CREATED Patti M. Sherman: 3/12/1999
+
+EDITED wwang: 03/24/2011
+alopez: 6/18/2010
+wwang: 5/12/2010
+carol: 3/18/2010
+alopez: 3/6/2001
+psherman: 12/7/1999
+mgross: 9/20/1999
+psherman: 9/10/1999
+carol: 3/19/1999
+
+125305	TITLE *125305 ERYTHROCYTE MEMBRANE PROTEIN BAND 4.9; EPB49
+;;DEMATIN
+DESCRIPTION 
+DESCRIPTION
+
+Dematin, or EPB49, is an actin-bundling protein originally identified in
+the erythroid membrane skeleton. Its actin-bundling activity is
+abolished upon phosphorylation by cAMP-dependent protein kinase and is
+restored after dephosphorylation (Rana et al., 1993).
+
+CLONING
+
+Chishti et al. (1989) proposed the name dematin (from the Greek 'dema,'
+a bundle) for an actin-bundling protein identified in the human
+erythroid membrane skeleton. Rana et al. (1993) noted that dematin
+consists of 2 polypeptide chains of 48 and 52 kD that were identified as
+protein 4.9 on SDS-polyacrylamide gels. In solution, dematin exists as a
+trimer and bundles actin filaments in a phosphorylation-dependent
+manner. Rana et al. (1993) cloned dematin from a human reticulocyte cDNA
+library. The deduced 383-amino acid protein has a calculated molecular
+mass of 43 kD. Dematin has a polyglutamine motif that may constitute a
+nuclear localization signal, a PEST sequence, a C-terminal domain highly
+similar to the C-terminal headpiece domain of villin (VIL; 193040), and
+several putative phosphorylation sites. Northern blot analysis detected
+variable dematin expression in all tissues examined. Immunofluorescence
+microscopy revealed punctate dematin staining around the cell nucleus in
+cultured human erythroblasts.
+
+Although dematin is an actin-bundling protein of the erythroid membrane
+skeleton, it is abundantly expressed in human brain, heart, skeletal
+muscle, kidney, and lung. Azim et al. (1995) reported the primary
+structure of the 52-kD subunit of dematin, which differs from the 48-kD
+subunit by a 22-amino acid insertion within its headpiece domain. A
+unique feature of the insertion sequence of the 52-kD subunit is its
+homology to erythrocyte protein 4.2 (177070).
+
+GENE FUNCTION
+
+Rana et al. (1993) confirmed that purified human dematin possessed
+actin-bundling activity in vitro. Protease treatment and microsequencing
+revealed that the C-terminal headpiece domain bound actin filaments, but
+it did not have actin-bundling activity.
+
+Azim et al. (1996) demonstrated that dematin and protein 4.2 bound ATP.
+
+Gilligan and Bennett (1993) provided a review.
+
+MAPPING
+
+Using somatic cell hybrid panels and fluorescence in situ hybridization,
+Azim et al. (1995) localized the dematin gene to chromosome 8p21.1, a
+site distal to the locus of ankyrin (612641) at chromosome 8p11.2.
+
+Peters et al. (1995) demonstrated that the murine dematin gene,
+symbolized Epb4.9, maps to chromosome 14. They raised the possibility
+that dematin mutations may be involved in neurologic abnormalities in
+the mouse.
+
+ANIMAL MODEL
+
+By using homologous recombination in mouse embryonic stem cells, Khanna
+et al. (2002) deleted the headpiece domain of dematin to evaluate its
+function in vivo. Dematin headpiece-null mice were viable and born at
+the expected mendelian ratio. Hematologic evaluation showed evidence of
+compensated anemia and spherocytosis in these mice, however. The
+headpiece-null erythrocytes were osmotically fragile, and displayed
+reduced deformability and filterability. In vitro, significantly greater
+membrane fragmentation of these erythrocytes was demonstrated.
+Biochemical characterization showed a weakened membrane skeleton
+evidenced by reduced association of spectrin and actin to the plasma
+membrane. Together, these results provided evidence for the physiologic
+significance of dematin and demonstrated a role for the headpiece domain
+in the maintenance of structural integrity and mechanical properties of
+red cells in vivo.
+
+Chen et al. (2007) created double-knockout mice lacking beta-adducin
+(ADD2; 102681) and the headpiece domain of dematin. Double-knockout pups
+were pale compared with wildtype pups, but otherwise they appeared
+grossly normal. Peripheral blood analysis showed severe hemolytic anemia
+with reduced number of erythrocytes/hematocrit/hemoglobin and an
+approximately 12-fold increase in the number of circulating
+reticulocytes. The presence of a variety of misshapen and fragmented
+erythrocytes correlated with increased osmotic fragility and reduced in
+vivo life span. Mutant erythrocyte membranes showed weak retention of
+spectrin-actin complexes, increased grain size, decreased filament
+number, and features consistent with the presence of large protein
+aggregates. Chen et al. (2007) concluded that dematin and adducin are
+essential for the maintenance of erythrocyte shape and membrane
+stability.
+
+REFERENCE 1. Azim, A. C.; Knoll, J. H. M.; Beggs, A. H.; Chisti, A. H.: Isoform
+cloning, actin binding, and chromosomal localization of human erythroid
+dematin, a member of the villin superfamily. J. Biol. Chem. 270:
+17407-17413, 1995.
+
+2. Azim, A. C.; Marfatia, S. M.; Korsgren, C.; Dotimas, E.; Cohen,
+C. M.; Chishti, A. H.: Human erythrocyte dematin and protein 4.2
+(pallidin) are ATP binding proteins. Biochemistry 35: 3001-3006,
+1996.
+
+3. Chen, H.; Khan, A. A.; Liu, F.; Gilligan, D. M.; Peters, L. L.;
+Messick, J.; Haschek-Hock, W. M.; Li, X.; Ostafin, A. E.; Chishti,
+A. H.: Combined deletion of mouse dematin-headpiece and beta-adducin
+exerts a novel effect on the spectrin-actin junctions leading to erythrocyte
+fragility and hemolytic anemia. J. Biol. Chem. 282: 4124-4135, 2007.
+
+4. Chishti, A. H.; Faquin, W.; Wu, C.-C.; Branton, D.: Purification
+of erythrocyte dematin (protein 4.9) reveals an endogenous protein
+kinase that modulates actin-bundling activity. J. Biol. Chem. 264:
+8985-8991, 1989.
+
+5. Gilligan, D. M.; Bennett, V.: The junctional complex of the membrane
+skeleton. Seminars Hemat. 30: 74-83, 1993.
+
+6. Khanna, R.; Chang, S. H.; Andrabi, S.; Azam, M.; Kim, A.; Rivera,
+A.; Brugnara, C.; Low, P. S.; Liu, S.-C.; Chishti, A. H.: Headpiece
+domain of dematin is required for the stability of the erythrocyte
+membrane. Proc. Nat. Acad. Sci. 99: 6637-6642, 2002.
+
+7. Peters, L. L.; Eicher, E. M.; Azim, A. C.; Chishti, A. H.: The
+gene encoding the erythrocyte membrane skeleton protein dematin (Epb4.9)
+maps to mouse chromosome 14. Genomics 26: 634-635, 1995.
+
+8. Rana, A. P.; Ruff, P.; Maalouf, G. J.; Speicher, D. W.; Chishti,
+A. H.: Cloning of human erythroid dematin reveals another member
+of the villin family. Proc. Nat. Acad. Sci. 90: 6651-6655, 1993.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/10/2009
+Victor A. McKusick - updated: 6/14/2002
+
+CREATED Victor A. McKusick: 2/18/1993
+
+EDITED mgross: 04/13/2009
+terry: 4/10/2009
+carol: 2/26/2009
+cwells: 6/27/2002
+terry: 6/14/2002
+mgross: 4/28/1999
+dkim: 9/11/1998
+mark: 4/26/1996
+terry: 4/24/1996
+mark: 12/6/1995
+mark: 10/19/1995
+terry: 4/27/1994
+carol: 8/25/1993
+carol: 2/19/1993
+carol: 2/18/1993
+
+613788	TITLE *613788 MICRO RNA 152; MIR152
+;;miRNA152;;
+MIRN152
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs, such as MIR152, are noncoding RNAs of 18 to 24 nucleotides
+that bind the 3-prime UTRs of target mRNAs and control protein
+expression through translational repression or mRNA degradation. MIR148B
+regulates the innate immune response (Liu et al., 2010).
+
+GENE FUNCTION
+
+Using computer and functional analyses, Liu et al. (2010) identified 3
+members of the MIR148 family, Mir148a (613786), Mir148b (613787), and
+Mir152, as negative regulators of the innate immune response and the
+antigen-presenting capacity of mouse dendritic cells (DCs). Expression
+of Mir148a, Mir148b, and Mir152 was upregulated in mouse DCs on
+maturation and activation induced by Tlr3 (603029), Tlr4 (603030), and
+Tlr9 (605474) agonists. In contrast, expression of Camk2a (114078), an
+important DC regulator, was downregulated in the presence of these
+agonists. Mir148/Mir152 overexpression inhibited production of
+cytokines, including Il12 (see 161560), Il6 (147620), Tnf (191160), and
+Ifnb, (147640), upregulation of major histocompatibility complex class
+II expression, and DC-initiated antigen-specific T-cell proliferation by
+targeting Camk2a expression. Liu et al. (2010) proposed that MIR148A,
+MIR148B, and MIR152 fine tune the innate immune response.
+
+MAPPING
+
+Gross (2011) mapped the MIR152 gene to chromosome 17q21.32 based on an
+alignment of the mature MIR152 sequence (UCAGUGCAUGACAGAACUUGG) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  3/2/2011.
+
+2. Liu, X.; Zhan, Z.; Xu, L.; Ma, F.; Li, D.; Guo, Z.; Li, N.; Cao,
+X.: MicroRNA-148/152 impair innate response and antigen presentation
+of TLR-triggered dendritic cells by targeting CaMKII-alpha. J. Immun. 185:
+7244-7251, 2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/2/2011
+
+CREATED Paul J. Converse: 3/2/2011
+
+EDITED terry: 03/07/2011
+mgross: 3/3/2011
+mgross: 3/2/2011
+

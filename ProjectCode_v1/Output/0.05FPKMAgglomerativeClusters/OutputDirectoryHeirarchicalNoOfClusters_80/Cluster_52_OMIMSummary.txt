@@ -1,0 +1,1753 @@
+611070	TITLE *611070 SMALL NUCLEOLAR RNA, C/D BOX, 83A; SNORD83A
+;;RNA, U83A SMALL NUCLEOLAR; RNU83A;;
+snoRNA, U83A
+DESCRIPTION 
+DESCRIPTION
+
+Intronic regions of ribosomal protein genes can harbor noncoding small
+nucleolar RNAs (snoRNAs), like SNORD83A, which are generated during
+pre-mRNA processing. snoRNAs form part of the small nucleolar
+ribonucleoprotein particles (snoRNPs) involved in pre-rRNA processing
+and modification. snoRNAs of the box C/D class, like SNORD83A, function
+in 2-prime-O-ribose methylation of rRNAs (Duga et al., 2000).
+
+CLONING
+
+Duga et al. (2000) identified several snoRNAs, including SNORD83A, which
+they called U83A, within introns of the bovine and human RPL3 (604163)
+genes. U83A originates from intron 5 of RPL3. The 95-nucleotide U83A has
+a region complementary to 18S RNA and contains canonical motifs of box
+C/D snoRNAs. Sequence analysis suggested that U83A forms a stem-loop
+structure through basepairing of the 5-prime and 3-prime terminal
+sequences. In this model, the loop contains boxes C and D on either side
+of the stem, with the sequence complementary to 18S rRNA located
+immediately upstream of box D. Northern blot analysis using a bovine
+probe detected U83A expression in HeLa cells, mouse fibroblasts, and
+bovine brain. RT-PCR detected U83A expression in a bovine kidney cell
+line.
+
+MAPPING
+
+Duga et al. (2000) identified SNORD83A within intron 5 of the RPL3 gene
+on chromosome 22q.
+
+REFERENCE 1. Duga, S.; Asselta, R.; Malcovati, M.; Tenchini, M. L.; Ronchi,
+S.; Simonic, T.: The intron-containing L3 ribosomal protein gene
+(RPL3): sequence analysis and identification of U43 and of two novel
+intronic small nucleolar RNAs. Biochim. Biophys. Acta 1490: 225-236,
+2000.
+
+CREATED Patricia A. Hartz: 5/31/2007
+
+EDITED alopez: 09/24/2008
+mgross: 5/31/2007
+
+608080	TITLE *608080 MAESTRO; MRO
+;;GENE BESIDE THE MA29 DELETION; B29;;
+C18ORF3
+DESCRIPTION 
+CLONING
+
+By sequencing a region of chromosome 18 that contains a segment deleted
+in the Ma29 lung cancer cell line, followed by screening a brain cDNA
+library, Yanaihara et al. (2001) cloned B29. B29 is located outside the
+Ma29 deletion. The deduced B29 protein contains 248 amino acids.
+Yanaihara et al. (2001) also identified 3 minor isoforms that differ in
+the reading frame utilized and in the presence or absence of exon 3
+and/or exon 6. Expression levels were below the limit of detection for
+Northern blot analysis, but RT-PCR found near ubiquitous expression.
+
+GENE STRUCTURE
+
+Yanaihara et al. (2001) determined that the B29 gene contains 8 exons.
+
+MAPPING
+
+By genomic sequence analysis, Yanaihara et al. (2001) mapped the B29
+gene to chromosome 18q21.
+
+REFERENCE 1. Yanaihara, N.; Kohno, T.; Takakura, S.; Takei, K.; Otsuka, A.;
+Sunaga, N.; Takahashi, M.; Yamazaki, M.; Tashiro, H.; Fukuzumi, Y.;
+Fujimori, Y.; Hagiwara, K.; Tanaka, T.; Yokota, J.: Physical and
+transcriptional map of a 311-kb segment of chromosome 18q21, a candidate
+lung tumor suppressor locus. Genomics 72: 169-179, 2001.
+
+CREATED Patricia A. Hartz: 9/8/2003
+
+EDITED carol: 08/27/2008
+mgross: 9/8/2003
+
+603157	TITLE *603157 PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT 2; PIK3R2
+;;PHOSPHATIDYLINOSITOL 3-KINASE, REGULATORY SUBUNIT, 85-KD, BETA;;
+p85-BETA
+PIK3R2/UPS8 FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Phosphatidylinositol 3-kinase (PI3K) is a lipid kinase that
+phosphorylates the inositol ring of phosphatidylinositol and related
+compounds at the 3-prime position. The products of these reactions serve
+as second messengers in growth signaling pathways. The kinase itself is
+made up of a catalytic subunit of molecular mass 110 kD (PIK3CA; 171834)
+and a regulatory subunit of either 85 kD, 55 kD, or 50 kD. Otsu et al.
+(1991) showed that the bovine PI3K p85 subunit consists of 2 closely
+related proteins, p85-alpha (171833) and p85-beta. They cloned cDNAs
+encoding both p85 subunits, each of which is 724 amino acids long. The
+subunits share 62% amino acid identity across their entire length. Both
+sequences contain an N-terminal SH3 region, 2 SH2 regions, and a region
+of homology to BCR (151410).
+
+Janssen et al. (1998) determined the human p85-beta cDNA sequence.
+
+GENE FUNCTION
+
+Functional expression studies by Otsu et al. (1991) showed that both
+bovine p85 subunits bound tyrosine kinase receptors.
+
+Hale et al. (2006) generated a laryngeal carcinoma cell line
+constitutively expressing influenza A virus NS1 protein and found that
+NS1 bound specifically to p85-beta. The NS1 protein from various
+influenza strains also bound p85-beta, but not p85-alpha. Expression of
+NS1 led to induction of PI3K signaling, including phosphorylation of AKT
+(164730) at ser473. Binding of p85-beta and activation of PI3K required
+tyr89 of NS1, and mutant viruses expressing NS1 with a tyr89-to-phe
+substitution grew more slowly in cell culture than wildtype viruses.
+Hale et al. (2006) proposed that activation of PI3K signaling in
+influenza A virus-infected cells is important for efficient virus
+replication.
+
+Using mouse embryonic fibroblasts, Park et al. (2010) showed that, in
+addition to regulating PI3K function, p85-alpha and p85-beta regulated
+the function of Xbp1s (XBP1; 194355), a transcription factor that
+orchestrates the unfolded protein response (UPR) following endoplasmic
+reticulum (ER) stress. Both p85-alpha and p85-beta bound Xbp1s and
+increased its nuclear translocation, and it appeared that the p110 PI3K
+catalytic subunit and Xbp1s competed for binding of these regulatory
+subunits. p85-alpha and p85-beta formed an inactive dimer that was
+disrupted by insulin in a time-dependent manner, which promoted their
+association with Xbp1s. Refeeding of wildtype mice after fasting induced
+ER stress that was quickly resolved, as measured by Xbp1s levels. In
+contrast, obese and insulin-resistant ob/ob (LEP; 164160) mice could not
+resolve the ER stress induced during refeeding, and nuclear
+translocation of Xbp1s was absent in ob/ob mice. Overexpression of
+p85-alpha or p85-beta in livers of ob/ob mice increased glucose
+tolerance and reduced blood glucose concentrations.
+
+To assess the impact of the AKT3 (611223), PIK3R2, and PIK3CA mutations
+in individuals with megalencephaly-capillary malformation-polymicrogyria
+syndrome (MCAP; 602501) and megalencephaly polymicrogyria-polydactyly
+hydrocephalus syndrome (MPPH; 603387) on PI3K activity, Riviere et al.
+(2012) used immunostaining to compare PIP3 amounts in lymphoblastoid
+cell lines derived from 4 mutation carriers with megalencephaly to those
+in control and PTEN (601728)-mutant cells. Consistent with elevated PI3K
+activity, and similar to what is seen with PTEN loss, all 3 lines with
+PIK3R2 or PIK3CA mutations showed significantly more PIP3 staining than
+control cells, as well as greater localization of active
+phosphoinositide-dependent kinase-1 (PDPK1; 605213) to the cell
+membrane. Treatment with the PI3K inhibitor PI-103 resulted in less PIP3
+in the PIK3R2 G373R (603157.0001) and PIK3CA E453del (171834.0014)
+mutant lines, confirming that these results are PI3K-dependent. Riviere
+et al. (2012) found no evidence for increased PI3K activity in the
+AKT3-mutant line, consistent with a mutation affecting a downstream
+effector of PI3K. Protein blot analysis showed higher amounts of
+phosphorylated S6 protein and 4E-BP1 in all mutant cell lines compared
+to controls. Although PI-103 treatment reduced S6 phosphorylation in
+control and mutant lines, the latter showed relative resistance to PI3K
+inhibition, consistent with elevated signaling through the pathway.
+Riviere et al. (2012) concluded that the megalencephaly-associated
+mutations result in higher PI3K activity and PI3K-mTOR signaling.
+
+MAPPING
+
+Volinia et al. (1992) used in situ hybridization to map the PIK3R2 gene
+to human chromosome 19q13.2-q13.4.
+
+CYTOGENETICS
+
+Janssen et al. (1998) analyzed DNA from a patient with chronic
+myeloproliferative disorder. They identified an oncogenic fusion of the
+5-prime end of p85-beta and the 3-prime end of HUMORF8 (USP8; 603158).
+
+MOLECULAR GENETICS
+
+Riviere et al. (2012) performed exome sequencing in the oldest of 3
+affected sibs with MPPH and identified a heterozygous mutation in the
+PIK3R2 gene (G373R; 603157.0001). Sanger sequencing confirmed the
+presence of the mutation in all 3 affected sibs and its absence in the
+saliva and blood of both parents and the unaffected sister, showing
+germline mosaicism in 1 parent. Sequencing of the PIK3R2 gene in 40
+individuals with megalencephaly identified the same nucleotide change in
+10 additional subjects with MPPH, and this mutation was shown to be de
+novo in all subjects for whom parental DNA was available. The mutation
+occurred at a CpG dinucleotide, which might explain its recurrence.
+
+ANIMAL MODEL
+
+Oak et al. (2006) crossed mice with a floxed Pik3r1 allele and a null
+Pik3r2 allele with Lck (153390)-Cre transgenic mice to generate a strain
+in which class IA Pi3k expression and function were essentially
+abrogated in T cells beginning at the double-negative stage.
+Histopathologic analysis of these mice showed development of
+organ-specific autoimmunity resembling Sjogren syndrome (SS; 270150). By
+3 to 8 months of age, mutant mice developed corneal opacity and eye
+lesions due to irritation and constant scratching. Mutant mice showed
+marked lymphocytic infiltration of lacrimal glands and serum antinuclear
+and anti-Ssa (SSA1; 109092) antibodies, but no kidney pathology.
+Cd4-positive T cells, which were the predominant infiltrating cells in
+lacrimal glands of mutant mice, exhibited aberrant differentiation in
+vitro. Oak et al. (2006) concluded that impaired class IA PI3K signaling
+in T cells can lead to organ-specific autoimmunity, and they proposed
+that class IA Pi3k-deficient mice manifest the cardinal features of
+human primary SS.
+
+ALLELIC VARIANT .0001
+MEGALENCEPHALY-POLYMICROGYRIA-POLYDACTYLY-HYDROCEPHALUS SYNDROME
+PIK3R2, GLY373ARG
+
+In 13 individuals with
+megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome (MPPH;
+603387) from 11 unrelated families, Riviere et al. (2012) identified a
+heterozygous 1117G-A transition in the PIK3R2 gene, resulting in a
+gly373-to-arg (G373R) substitution in the PIK3R2 gene. This mutation was
+shown to be de novo in all subjects for whom parental DNA was available.
+The mutation occurred at a CpG dinucleotide, which might explain its
+recurrence.
+
+REFERENCE 1. Hale, B. G.; Jackson, D.; Chen, Y.-H.; Lamb, R. A.; Randall, R.
+E.: Influenza A virus NS1 protein binds p85-beta and activates phosphatidylinositol-3-kinase
+signaling. Proc. Nat. Acad. Sci. 103: 14194-14199, 2006.
+
+2. Janssen, J. W. G.; Schleithoff, L.; Bartram, C. R.; Schulz, A.
+S.: An oncogenic fusion product of the phosphatidylinositol 3-kinase
+p85-beta subunit and HUMORF8, a putative deubiquitinating enzyme. Oncogene 16:
+1767-1772, 1998.
+
+3. Oak, J. S.; Deane, J. A.; Kharas, M. G.; Luo, J.; Lane, T. E.;
+Cantley, L. C.; Fruman, D. A.: Sjogren's syndrome-like disease in
+mice with T cells lacking class 1A phosphoinositide-3-kinase. Proc.
+Nat. Acad. Sci. 103: 16882-16887, 2006. Note: Erratum: Proc. Nat.
+Acad. Sci. 106: 10871 only, 2009.
+
+4. Otsu, M.; Hiles, I.; Gout, I.; Fry, M. J.; Ruiz-Larrea, F.; Panayotou,
+G.; Thompson, A.; Dhand, R.; Hsuan, J.; Totty, N.; Smith, A. D.; Morgan,
+S. J.; Courtneidge, S. A.; Parker, P. J.; Waterfield, M. D.: Characterization
+of two 85 kd proteins that associate with receptor tyrosine kinases,
+middle-T/pp60(c-src) complexes, and PI3-kinase. Cell 65: 91-104,
+1991.
+
+5. Park, S. W.; Zhou, Y.; Lee, J.; Lu, A.; Sun, C.; Chung, J.; Ueki,
+K.; Ozcan, U.: The regulatory subunits of PI3K, p85-alpha and p85-beta,
+interact with XBP-1 and increase its nuclear translocation. Nature
+Med. 16: 429-437, 2010.
+
+6. Riviere, J.-B.; Mirzaa, G. M.; O'Roak, B. J.; Beddaoui, M.; Alcantara,
+D.; Conway, R. L.; St-Onge, J.; Schwartzentruber, J. A.; Gripp, K.
+W.; Nikkel, S. M.; Worthylake, T.; Sullivan, C. T.; and 29 others
+: De novo germline and postzygotic mutations in AKT3, PIK3R2 and PIK3CA
+cause a spectrum of related megalencephaly syndromes. Nature Genet. 44:
+934-940, 2012.
+
+7. Volinia, S.; Patracchini, P.; Otsu, M.; Hiles, I.; Gout, I.; Calzolari,
+E.; Bernardi, F.; Rooke, L.; Waterfield, M. D.: Chromosomal localization
+of human p85-alpha, a subunit of phosphatidylinositol 3-kinase, and
+its homologue p85-beta. Oncogene 7: 789-793, 1992.
+
+CONTRIBUTORS Nara Sobreira - updated: 11/20/2012
+Nara Sobreira - updated: 11/14/2012
+Patricia A. Hartz - updated: 6/7/2010
+Paul J. Converse - updated: 2/5/2007
+Paul J. Converse - updated: 1/16/2007
+
+CREATED Jennifer P. Macke: 10/19/1998
+
+EDITED carol: 11/20/2012
+terry: 11/14/2012
+terry: 6/6/2012
+mgross: 6/10/2010
+terry: 6/7/2010
+mgross: 8/13/2007
+mgross: 2/5/2007
+mgross: 1/16/2007
+carol: 4/23/2003
+alopez: 10/19/1998
+
+614355	TITLE *614355 ACYL-CoA SYNTHETASE SHORT CHAIN FAMILY, MEMBER 1; ACSS1
+;;ACYL-CoA SYNTHETASE 1; ACECS1
+DESCRIPTION 
+DESCRIPTION
+
+Fatty acids are incorporated into membranes and signaling molecules and
+have roles in energy storage and metabolism. These essential functions
+require activation of the fatty acid by acyl-coenzyme A (CoA)
+synthetases, such as ACSS1, which form an activating thioester linkage
+between the fatty acid and CoA (Watkins et al., 2007).
+
+CLONING
+
+Fujino et al. (2001) cloned mouse Acss1 and Acss2 (605832), which they
+called Acecs1 and Acecs2, respectively. The deduced 701-amino acid Acss1
+protein shares 45.8% identity with Acss2. Northern blot analysis
+detected high expression of a 3.6-kb Acss1 transcript in liver, kidney,
+and testis. Lower expression was detected in heart, brain, spleen, lung,
+and skeletal muscle. Fractionation of mouse kidney revealed cytosolic
+localization for Acss1 and mitochondrial localization for Acss2.
+
+By database analysis, Watkins et al. (2007) identified human ACSS1. The
+deduced 689-amino acid protein contains 4 of 5 motifs characteristic of
+acyl-CoA synthetases. Phylogenetic analysis revealed that ACSS1 belongs
+to a short chain clade of acyl-CoA synthetases.
+
+GENE FUNCTION
+
+By assaying proteins purified from transfected COS-7 cells, Fujino et
+al. (2001) showed that both mouse Acss1 and Acss2 preferred acetate as
+substrate for the synthesis of acetyl-CoA. Little to no activity was
+detected with other short or medium chain fatty acids. Acss1 expression,
+but not Acss2 expression, was induced by differentiation of mouse 3T3-L1
+cells. In contrast, Acss2 expression, but not Acss1 expression, was
+induced by fasting in mice and by diabetes in Zucker rats.
+
+GENE STRUCTURE
+
+Watkins et al. (2007) determined that the ACSS1 gene contains 14 exons.
+
+MAPPING
+
+By genomic sequence analysis, Watkins et al. (2007) mapped the ACSS1
+gene to the minus strand of chromosome 20p11.23-p11.21.
+
+REFERENCE 1. Fujino, T.; Kondo, J.; Ishikawa, M.; Morikawa, K.; Yamamoto, T.
+T.: Acetyl-CoA synthetase 2, a mitochondrial matrix enzyme involved
+in the oxidation of acetate. J. Biol. Chem. 276: 11420-11426, 2001.
+
+2. Watkins, P. A.; Maiguel, D.; Jia, Z.; Pevsner, J.: Evidence for
+26 distinct acyl-coenzyme A synthetase genes in the human genome. J.
+Lipid Res. 48: 2736-2750, 2007.
+
+CREATED Patricia A. Hartz: 11/23/2011
+
+EDITED mgross: 12/02/2011
+mgross: 11/23/2011
+
+131370	TITLE *131370 ENOLASE 3; ENO3
+;;ENOLASE, BETA;;
+ENOLASE, MUSCLE-SPECIFIC; MSE
+DESCRIPTION 
+CLONING
+
+Peshavaria and Day (1991) determined that the ENO3 gene encodes a
+deduced 433-amino acid protein.
+
+MAPPING
+
+Chen and Giblett (1976) and Pearce et al. (1976) presented evidence for
+3 enolase loci. By in situ hybridization studies using a probe for ENO2
+(131360), Craig et al. (1989) found small aggregates of grains at
+1pter-p36, the site of ENO1 (172430), and some at 17pter-p12.
+
+Feo et al. (1990) mapped the muscle-specific beta-enolase (ENO3) to
+chromosome 17pter-p11 by analysis of rodent-human somatic cell hybrids
+and transfectant cell lines carrying different portions of chromosome
+17. This muscle-specific enzyme maps to the region encoding the gene
+cluster for the sarcomeric myosin heavy chains (MYH1; 160730).
+
+GENE STRUCTURE
+
+Peshavaria and Day (1991) determined that the ENO3 gene contains 12
+exons and spans approximately 6 kb.
+
+MOLECULAR GENETICS
+
+In a man with glycogen storage disease XIII (GSD13; 612932), Comi et al.
+(2001) identified compound heterozygosity for 2 mutations in the ENO3
+gene (G156D, 131370.0001; G374E, 131370.0002). Immunohistochemistry and
+immunoblotting detected dramatically reduced beta-enolase protein in
+this patient, while alpha-enolase was normally represented.
+
+ALLELIC VARIANT .0001
+GLYCOGEN STORAGE DISEASE XIII
+ENO3, GLY156ASP
+
+In a 47-year-old man with adult onset of exercise-induced myalgias,
+generalized muscle weakness, and fatigability (612932), Comi et al.
+(2001) identified compound heterozygosity for 2 mutations in the ENO3
+gene: a 467G-A transition resulting in a gly156-to-asp (G156D)
+substitution and a 1121G-A transition resulting in a gly374-to-glu
+(G374E; 131370.0002) substitution.
+
+.0002
+GLYCOGEN STORAGE DISEASE XIII
+ENO3, GLY374GLU
+
+See 131370.0001 and Comi et al. (2001).
+
+REFERENCE 1. Chen, S.-H.; Giblett, E. R.: Enolase: human tissue distribution
+and evidence for three different loci. Ann. Hum. Genet. 39: 277-280,
+1976.
+
+2. Comi, G. P.; Fortunato, F.; Lucchiari, S.; Bordoni, A.; Prelle,
+A.; Jann, S.; Keller, A.; Ciscato, P.; Galbiati, S.; Chiveri, L.;
+Torrente, Y.; Scarlato, G.; Bresolin, N.: Beta-enolase deficiency,
+a new metabolic myopathy of distal glycolysis. Ann. Neurol. 50:
+202-207, 2001.
+
+3. Craig, S. P.; Day, I. N. M.; Thompson, R. J.; Craig, I. W.: Localization
+of human neurone-specific enolase to chromosome 12p13. (Abstract) Cytogenet.
+Cell Genet. 51: 980 only, 1989.
+
+4. Feo, S.; Oliva, D.; Barbieri, G.; Xu, W.; Fried, M.; Giallongo,
+A.: The gene for the muscle-specific enolase is on the short arm
+of human chromosome 17. Genomics 6: 192-194, 1990.
+
+5. Pearce, J. M.; Edwards, Y. H.; Harris, H.: Human enolase isozymes:
+electrophoretic and biochemical evidence for three loci. Ann. Hum.
+Genet. 39: 263-276, 1976.
+
+6. Peshavaria, M.; Day, I. N. M.: Molecular structure of the human
+muscle-specific enolase gene (ENO3). Biochem. J. 275: 427-433, 1991.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/24/2001
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 07/28/2009
+ckniffin: 7/27/2009
+joanna: 3/17/2004
+alopez: 9/25/2001
+terry: 9/24/2001
+carol: 4/14/1999
+dkim: 6/30/1998
+supermim: 3/16/1992
+carol: 12/10/1991
+carol: 2/13/1991
+supermim: 3/20/1990
+supermim: 1/20/1990
+supermim: 1/19/1990
+
+613583	TITLE *613583 WD REPEAT-CONTAINING PROTEIN 62; WDR62
+;;C19ORF14
+DESCRIPTION 
+DESCRIPTION
+
+The WDR62 gene encodes a protein that localizes to the centrosome and to
+the nucleus, depending on the cell phase and on the cell type (summary
+by Bhat et al., 2011).
+
+CLONING
+
+Bilguvar et al. (2010) identified the WDR62 gene in mutation analysis of
+a patient with microcephaly and cortical abnormalities. The WDR62 gene
+encodes a 1,523-amino acid protein. Immunohistochemical staining of
+human fetal brain at 20 weeks' gestation demonstrated enriched WDR62
+expression within the ventricular and subventricular zones. Stainings
+suggested predominantly nuclear localization, which was confirmed by
+immunofluorescence microscopy and Western blot analysis. WDR62 is
+expressed by neural stem cells and intermediate progenitors, marked by
+SOX2 (184429) and TBR2 (604615) expression. Expression of WDR62 in the
+neocortex is transient, spanning the period of embryonic neurogenesis.
+Unlike other microcephaly genes, WDR62 apparently does not associate
+with centrosomes.
+
+Nicholas et al. (2010) noted that WDR62 contains at least 15 WD repeats.
+In HeLa, HEK293, and B lymphoblastoid cells, they found that WDR62 had
+weak, diffuse cytoplasmic expression and was not found in the nucleus
+during interphase. However, during mitosis, WDR62 accumulated strongly
+at the spindle poles, although it was not present at the midbody in
+cytokinesis. The expression pattern of WDR62 was identical to that of
+ASPM (605481), which is mutant in primary microcephaly-5 (MCPH5;
+608716). Immunohistochemistry and confocal microscopy of mouse embryonic
+brain showed Wdr62 expression exclusively in apical precursors
+undergoing mitosis at the apical-ventricular surface in the
+neuroepithelium of the future cerebral cortex. Wdr62 expression was also
+found exclusively in intermediate neural precursors found in the
+subventricular zone during mitosis. Similar localization to mitotic
+neural precursor cells was observed in human embryonic brain tissue.
+WDR62 expression was also found in newborn neurons and in the outermost
+layer of neurons that had just migrated to the cortical plate.
+
+Yu et al. (2010) found widespread expression of Wdr62 in the developing
+mouse brain, with highest expression in the forebrain. Expression was
+seen in the ventricular zone and cortical plate, consistent with roles
+in progenitor cells and postmitotic neurons.
+
+GENE STRUCTURE
+
+Bilguvar et al. (2010) determined that the WDR62 gene contains 32 exons.
+
+There are alternative WDR62 transcripts in humans: exon 27 contains an
+in-frame intraexonic alternative splice acceptor site, resulting in the
+exclusion of the first 12 nucleotides (Nicholas et al., 2010).
+
+MAPPING
+
+The WDR62 gene maps to chromosome 19q13.12 (Bilguvar et al., 2010).
+
+GENE FUNCTION
+
+Yu et al. (2010) found notable cell-cycle dependent cellular
+localization of WDR62 in HeLa and HEK cells. During interphase, there
+was punctate, perinuclear expression, suggesting localization to the
+Golgi apparatus, whereas during M phase, WDR62 was found at the spindle
+poles. The subcellular localization resembled that of CEP170 (613023).
+The findings suggested a major centrosomal role for WDR62.
+
+In cellular studies, Bhat et al. (2011) found that WDR62 localized to
+centrosomes throughout mitotic progression. No staining was observed at
+the midbody during cytokinesis. During interphase, WDR62 localized to
+nucleoli. The findings indicated that WDR62 is a centrosomal as well as
+a nuclear protein and that localization is dependent both on the cell
+phase and on the cell type.
+
+MOLECULAR GENETICS
+
+Bilguvar et al. (2010) identified 2 missense, 2 nonsense, and 2
+frameshift mutations (613583.0001-613583.0005) in the WDR62 gene in 10
+patients with microcephaly-2 with cortical malformations (MCPH2;
+604317). All patients were from consanguineous Turkish families and
+manifested with microcephaly, moderate to severe mental retardation, and
+cortical malformation including pachygyria with cortical thickening,
+microgyria, lissencephaly, hypoplasia of the corpus callosum,
+schizencephaly, and in 1 instance, cerebellar hypoplasia.
+
+In affected members of 2 consanguineous Pakistani families with primary
+microcephaly showing linkage to chromosome 19q13 (MCPH2) (Roberts et
+al., 1999), Nicholas et al. (2010) identified 2 different homozygous
+mutations in the WDR62 gene (613583.0006 and 613583.0007, respectively).
+In 5 additional consanguineous families of Pakistani, Arab, and
+Caucasian ancestry with primary microcephaly, they identified 4
+different homozygous WDR62 mutations (see, e.g.,
+613583.0008-613583.0009, 613583.0011). Overall, the findings indicated
+that WDR62 is a key protein in enabling spindle poles to position the
+cytokinetic furrow and prolong neural precursor generation, a process
+that is uniquely vital to the proper growth of the human cerebral
+cortex.
+
+Yu et al. (2010) identified 6 different homozygous mutations in the
+WDR62 gene (see, e.g., 613583.0009-613583.0011) in affected members of 6
+consanguineous families with microcephaly-2 with cortical malformations,
+including polymicrogyria, schizencephaly, and subcortical heterotopia.
+
+Bhat et al. (2011) identified 2 different homozygous truncating WDR62
+mutations in 2 unrelated consanguineous Indian families with MCPH2 with
+cortical malformations, bringing the total number of pathogenic
+mutations in the gene to 17. Six of the 17 mutations are missense, and
+mutations occur throughout the gene sequence. Bhat et al. (2011)
+emphasized the wide phenotypic spectrum of cortical malformations in
+mutation carriers.
+
+ALLELIC VARIANT .0001
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 4-BP DEL, TGCC
+
+In 2 sibs with autosomal recessive microcephaly-2 and cortical
+malformations (604317) and in an affected child from another family, all
+from consanguineous Turkish unions, Bilguvar et al. (2010) identified
+homozygosity for a 4-basepair deletion (TGCC) in exon 31 of the WDR62
+gene. This deletion occurred at amino acid 1,402 and resulted in
+frameshift and premature termination (V1402GfsX12). The mutation was
+heterozygous in all parents. It was not observed in 1,290 Turkish
+control chromosomes. The index patient was a 4-year, 6-month-old female
+who initially presented at 4 months of age with small head size. At 2
+years, 3 months she showed micrognathia and a bulbous nose, and suffered
+from severe mental retardation. She had had no seizures. MRI showed
+diffuse cortical thickening and pachygyria. The patient from the second
+family was a 2-year, 4 month-old male. He had microcephaly and
+developmental delay but no seizures. Coronal images of this patient
+showed findings of microlissencephaly including prominent microcephaly,
+bilateral Sylvian clefts, hypoplastic corpus callosum, and thickened
+cortex. The kinship coefficients between affected individuals from both
+families were consistent with fourth-degree relatedness.
+
+.0002
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, GLU526LYS
+
+In a 15-year, 5-month old female with microcephaly-2 and cortical
+malformations (604317), the child of consanguineous Turkish parents,
+Bilguvar et al. (2010) identified homozygosity for a G-to-A substitution
+in exon 12 of the WDR62 gene, resulting in a glutamic acid-to-lysine
+substitution at codon 526 (E526K). The glutamic acid at codon 526 was
+invariant in all species examined from human to zebrafish and lamprey.
+This mutation was found in heterozygosity in 3 apparently unrelated
+neurologically normal Turkish individuals, giving an allele frequency of
+0.2%. The patient presented to medical attention at age 3.5 years with
+poor verbal skills. She had microcephaly, severe mental retardation,
+prognathism, dysconjugate gaze, and dysarthria, and was able to ambulate
+independently. Although abnormal electroencephalograms were noted, the
+patient never suffered an overt seizure.
+
+.0003
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, TRP224SER
+
+In 2 sibs and their cousin with microcephaly-2 and cortical
+malformations (604317), Bilguvar et al. (2010) identified homozygosity
+for a missense mutation in the WDR62 gene, a G-to-C transversion in exon
+6 that converted tryptophan to serine at codon 224 (W224S). All parents
+were heterozygous. The mutation was not identified in 1,290 Turkish and
+1,500 Caucasian control chromosomes. Tryptophan-224 was invariant in all
+species examined from human to zebrafish and lamprey. The proband was a
+6-year, 5-month-old boy who presented at 2 years of age with
+hyperactivity, seizures, and inability to sleep. He experienced 4 to 8
+seizures per day and had microcephaly, micrognathia, and severe mental
+retardation, and could ambulate only with assistance. The sibs were
+cousins of the proband. One was an 8-year, 7-month-old female who
+presented at age 3 with seizures. She was microcephalic, hyperactive,
+and had dysconjugate gaze. She was able to walk independently and had no
+obvious dysmorphic features but had moderate mental retardation. Her
+brother was 12 years, 11 months old. He had seizures, self-mutilating
+behavior, and severe mental retardation, but could ambulate
+independently.
+
+.0004
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, GLN470TER
+
+In a 14-year, 6-month-old male with microcephaly-2 and cortical
+malformations (604317), the product of a consanguineous Turkish union,
+Bilguvar et al. (2010) identified homozygosity for a C-to-T transition
+in exon 11 of the WDR62 gene, resulting in a glutamine-to-termination
+substitution at codon 470 (Q470X). This mutation was not identified in
+1,290 Turkish and 1,500 Caucasian control chromosomes. The patient was
+severely mentally retarded but had never had seizures. He had required
+surgery for hernia repair and cryptorchidism.
+
+.0005
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 17-BP DEL
+
+In a 10-year, 10-month-old female with microcephaly-2 and cortical
+malformations (604317), the product of a consanguineous Turkish union,
+Bilguvar et al. (2010) identified homozygosity for a 17-bp deletion in
+exon 30 of the WDR62 gene, leading to a frameshift at codon 1,280 with
+premature termination following a novel peptide of 20 amino acids
+(G1280AfsX21). She presented to medical attention at 3 months of age
+with failure to thrive and small head size. On neurologic examination
+she was noted to have good head control. She recognized her mother and
+had a social smile. This mutation was not identified in 1,290 Turkish
+and 1,500 Caucasian control chromosomes.
+
+.0006
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE
+WDR62, ARG438HIS
+
+In affected members of a consanguineous Pakistani family with primary
+microcephaly-2 (MCPH2; 604317), originally reported by Roberts et al.
+(1999), Nicholas et al. (2010) identified a homozygous 1313G-A
+transition in exon 10 of the WDR62 gene, resulting in an arg438-to-his
+(R438H) substitution in a highly conserved residue. In vitro functional
+expression assays showed that the mutant protein did not localize
+correctly to the spindle poles during mitosis. The mutation was not
+found in 298 Pakistani control chromosomes. Brain scan from 1 patient
+showed a simplified gyral pattern.
+
+.0007
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE
+WDR62, 1-BP DUP, 4241T
+
+In affected members of a consanguineous Pakistani family with MCPH2
+(604317), originally reported by Roberts et al. (1999), Nicholas et al.
+(2010) identified a homozygous 1-bp duplication (4241dupT) in exon 31 of
+the WDR62 gene, resulting in a frameshift and premature termination. The
+mutation was predicted to result in a stable transcript with C-terminal
+deletion of 109 amino acids in a region that contains neither predicted
+protein domains nor posttranslational modification sites. The mutation
+was not found in 298 Pakistani control chromosomes. In vitro functional
+expression assays showed that the mutant protein did not localize
+correctly to the spindle poles during mitosis. Brain scans of patients
+were not available.
+
+.0008
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE
+WDR62, ASP511ASN
+
+In affected individuals from 2 unrelated Pakistani families with MCPH2
+(604317), Nicholas et al. (2010) identified a homozygous 1531G-A
+transition in exon 11 of the WDR62 gene, resulting in an asp511-to-asn
+(D511N) substitution in a highly conserved residue. The mutation was
+found in 1 of 284 Pakistani control chromosomes. Brain scans of the
+affected individuals were not available.
+
+.0009
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 1-BP INS, 3936C
+
+In a Turkish boy, born of consanguineous parents, with microcephaly-2
+with cortical malformations (604317), Yu et al. (2010) identified a
+homozygous 1-bp insertion (3936insC) in exon 30 of the WDR62 gene,
+resulting in a frameshift and premature termination. The mutation was
+not identified in 508 control individuals. He had severely delayed
+psychomotor development, and brain MRI showed polymicrogyria, simplified
+gyral pattern, volume loss, and a corpus callosum with incomplete genu
+and small splenium. A second pregnancy was terminated after the
+ultrasound showed microcephaly and abnormal gyral pattern in the fetus.
+
+In a Caucasian girl, born of consanguineous parents, with microcephaly,
+thickened cerebral cortex, and severe developmental delay, Nicholas et
+al. (2010) identified homozygosity for the 3936insC mutation, which they
+termed 3936dupC. The mutation was not identified in 396 Caucasian
+control chromosomes.
+
+.0010
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 1-BP DEL, 363T
+
+In 3 affected Mexican sibs, born of consanguineous parents, with
+microcephaly-2 with cortical malformations (604317), Yu et al. (2010)
+identified a homozygous 1-bp deletion (363delT) in exon 4 of the WDR62
+gene, resulting in a frameshift and premature termination. The mutation
+was not identified in 508 control individuals. There was some phenotypic
+variability: 2 sibs had small heads with a simplified gyral pattern on
+brain MRI, 1 of whom had also had generalized tonic-clonic seizures and
+severe psychomotor retardation. The third sib did not have seizures but
+had more severe microcephaly (-5.4 SD), normal early psychomotor
+development with later delay, and more complex MRI changes, including a
+simplified gyral pattern, thin corpus callosum, and subcortical band
+heterotopia.
+
+.0011
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH OR WITHOUT CORTICAL
+MALFORMATIONS
+WDR62, VAL65MET
+
+In 3 affected Saudi Arabian sibs, born of consanguineous parents, with
+microcephaly-2 with cortical malformations (604317), Yu et al. (2010)
+identified homozygosity for a 193G-A transition in exon 2 of the WDR62
+gene, resulting in a val65-to-met (V65M) substitution in a highly
+conserved residue. The mutation was not identified in 508 control
+individuals. Two sibs were more severely affected, with severe
+microcephaly (-9.2 to -9.8 SD), profound psychomotor delay with spastic
+quadriparesis, and polymicrogyria and open lip schizencephaly on brain
+MRI. The third patient had microcephaly (-5.3 SD), developmental delay,
+and simplified gyral pattern on brain MRI. All had relative preservation
+of the cerebellum and brainstem.
+
+In 3 Arab sibs, born of consanguineous parents, with primary
+microcephaly (MCPH2; 604317), Nicholas et al. (2010) identified
+homozygosity for the V65M mutation. The mutation was not identified in
+184 Arab control chromosomes. Brain scans of these patients were not
+available.
+
+.0012
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 1-BP DEL, 2083A
+
+In 2 brothers with MCPH2 with polymicrogyria (604317), who were born of
+unrelated parents of northern European descent, Murdock et al. (2011)
+identified compound heterozygosity for 2 truncating mutations in the
+WDR62 gene: a 1-bp deletion (2083delA) in exon 17 and a 2-bp deletion
+(2472delAG; 613583.0013) in exon 23. Both mutations were predicted to
+cause nonsense-mediated mRNA decay and loss of function. Each unaffected
+parent was heterozygous for 1 of the mutations. The mutations were
+identified by exome sequencing. The phenotype of the sibs varied. The
+first sib, whose pregnancy was complicated by gestational diabetes, had
+a more severe phenotype, with extensive bilateral polymicrogyria,
+abnormal corpus callosum, global developmental delay, intractable
+seizures, and spastic quadriparesis. The second sib had extensive
+polymicrogyria and gray matter heterotopia, but did not have seizures;
+he had age-appropriate cognition and only mild unilateral hemiparesis.
+Both patients had head circumferences less than the fifth percentile.
+
+.0013
+MICROCEPHALY 2, PRIMARY, AUTOSOMAL RECESSIVE, WITH CORTICAL MALFORMATIONS
+WDR62, 2-BP DEL, 2472AG
+
+See 613583.0012 and Murdock et al. (2011).
+
+REFERENCE 1. Bhat, V.; Girimaji, S.; Mohan, G.; Arvinda, H.; Singhmar, P.; Duvvari,
+M.; Kumar, A.: Mutations in WDR62, encoding a centrosomal and nuclear
+protein, in Indian primary microcephaly families with cortical malformations. Clin.
+Genet. 80: 532-540, 2011.
+
+2. Bilguvar, K.; Ozturk, A. K.; Louvi, A.; Kwan, K. Y.; Choi, M.;
+Tatli, B.; Yalnizoglu, D.; Tuysuz, B.; Caglayan, A. O.; Gokben, S.;
+Kaymakcalan, H.; Barak, T.; and 21 others: Whole-exome sequencing
+identifies recessive WDR62 mutations in severe brain malformations. Nature 467:
+207-210, 2010.
+
+3. Murdock, D. R.; Clark, G. D.; Bainbridge, M. N.; Newsham, I.; Wu,
+Y.-Q.; Muzny, D. M.; Cheung, S. W.; Gibbs, R. A.; Ramocki, M. B.:
+Whole-exome sequencing identifies compound heterozygous mutations
+in WDR62 in siblings with recurrent polymicrogyria. Am. J. Med. Genet. 155:
+2071-2077, 2011.
+
+4. Nicholas, A. K.; Khurshid, M.; Desir, J.; Carvalho, O. P.; Cox,
+J. J.; Thornton, G.; Kausar, R.; Ansar, M.; Ahmad, W.; Verloes, A.;
+Passemard, S.; Misson, J.-P.; Lindsay, S.; Gergely, F.; Dobyns, W.
+B.; Roberts, E.; Abramowicz, M.; Woods, C. G.: WDR62 is associated
+with the spindle pole and is mutated in human microcephaly. Nature
+Genet. 42: 1010-1014, 2010.
+
+5. Roberts, E.; Jackson, A. P.; Carradice, A. C.; Deeble, V. J.; Mannan,
+J.; Rashid, Y.; Jafri, H.; McHale, D. P.; Markham, A. F.; Lench, N.
+J.; Woods, C. G.: The second locus for autosomal recessive primary
+microcephaly (MCPH2) maps to chromosome 19q13.1-13.2. Europ. J. Hum.
+Genet. 7: 815-820, 1999.
+
+6. Yu, T. W.; Mochida, G. H.; Tischfield, D. J.; Sgaier, S. K.; Flores-Sarnat,
+L.; Sergi, C. M.; Topcu, M.; McDonald, M. T.; Barry, B. J.; Felie,
+J. M.; Sunu, C.; Dobyns, W. B.; Folkerth, R. D.; Barkovich, A. J.;
+Walsh, C. A.: Mutations in WDR62, encoding a centrosome-associated
+protein, cause microcephaly with simplified gyri and abnormal cortical
+architecture. Nature Genet. 42: 1015-1020, 2010.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/6/2011
+Cassandra L. Kniffin - updated: 5/12/2011
+
+CREATED Ada Hamosh: 10/7/2010
+
+EDITED carol: 08/30/2013
+alopez: 11/2/2011
+alopez: 10/4/2011
+carol: 9/7/2011
+ckniffin: 9/6/2011
+carol: 7/6/2011
+wwang: 6/8/2011
+ckniffin: 6/7/2011
+wwang: 6/7/2011
+ckniffin: 5/12/2011
+alopez: 10/7/2010
+
+607430	TITLE *607430 DAZ-ASSOCIATED PROTEIN 1; DAZAP1
+DESCRIPTION 
+CLONING
+
+Using a yeast 2-hybrid screen of a human testis cDNA library with the
+coding region of DAZ (400003) as bait, Tsui et al. (2000) cloned cDNAs
+encoding DAZAP1 and DAZAP2 (607431). DAZAP1 is an RNA-binding protein of
+407 amino acids. It contains 2 RNP motifs in the N terminus and has a
+proline-rich C terminus. The protein shares high sequence homology in
+the RNP regions with hnRNP A/B proteins (see 600124), but differs from
+these proteins in the C terminus. Northern blot analysis detected
+expression of 2 DAZAP1 transcripts of 2.75 and 2.4 kb that were most
+abundant in the testis and to a lesser degree in the thymus. All other
+tissues expressed low levels of the transcript. RT-PCR of RNA samples
+from testicular biopsies of 4 infertile men detected expression of
+DAZAP1 only in samples with normal spermatogenesis, suggesting that
+DAZAP1 is expressed mainly in the germ cells.
+
+GENE FUNCTION
+
+Using GST-fusion binding analysis, Tsui et al. (2000) determined that
+both DAZAP1 and DAZAP2 interact with DAZ and DAZL (601486). Deletion
+constructs indicated that DAZ and DAZL bind to DAZAP1/DAZAP2 mainly
+through the DAZ repeat region.
+
+MAPPING
+
+By FISH, Tsui et al. (2000) mapped the DAZAP1 gene to chromosome
+19p13.3.
+
+REFERENCE 1. Tsui, S.; Dai, T.; Roettger, S.; Schempp, W.; Salido, E. C.; Yen,
+P. H.: Identification of two novel proteins that interact with germ-cell-specific
+RNA-binding proteins DAZ and DAZL1. Genomics 65: 266-273, 2000.
+
+CREATED Carol A. Bocchini: 12/18/2002
+
+EDITED cwells: 12/20/2002
+mgross: 12/20/2002
+carol: 12/18/2002
+
+603616	TITLE *603616 RAB GTPase-BINDING EFFECTOR PROTEIN 1; RABEP1
+;;RABAPTIN 5; RABPT5
+RABEP1/PDGFRB FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+The small GTPase RAB5 (179512) is a rate-limiting component in membrane
+docking or fusion in the early endocytic pathway. The GTP-bound form of
+RAB5 is the active conformation. Using a yeast 2-hybrid screen, Stenmark
+et al. (1995) identified HeLa cell cDNAs encoding a protein that
+interacted with the GTP-bound form of RAB5. The predicted 862-amino acid
+protein was designated rabaptin-5, a name combining the Greek word
+'apto,' meaning 'touch', with RAB5. Both the N- and C-terminal regions
+of rabaptin-5 are predicted to be mainly alpha-helical and contain
+heptad repeats characteristic of coiled-coil domains. Western blot
+analysis of mammalian cell extracts indicated that the 115-kD protein is
+ubiquitously expressed and is present in a major cytosolic and minor
+endosome-bound pool.
+
+GENE FUNCTION
+
+Stenmark et al. (1995) demonstrated that rabaptin-5 binds directly to
+RAB5 and preferentially to its GTP-bound form. RAB5 recruits rabaptin-5
+to early endosomes in a GTP-dependent manner. Overexpression of
+rabaptin-5 leads to morphologic alterations of the early endosome
+compartment similar to those induced by overexpression of RAB5. The
+authors concluded that rabaptin-5 is an effector of RAB5 that transmits
+the signal of the active GTP-bound RAB5 conformation to the membrane
+docking and/or fusion apparatus. They proposed a model in which RAB5-GDP
+is converted by a membrane-bound GDP/GTP exchange factor into the active
+GTP-bound conformation. Once activated, GTP-bound RAB5 then recruits
+rabaptin-5 from the cytosol, thereby positioning rabaptin-5 to exert its
+function in membrane docking or fusion.
+
+Xiao et al. (1997) reported that tuberin (191092) exhibits substantial
+GTPase-activating protein activity towards RAB5, and that rabaptin-5
+mediates the tuberin association with RAB5.
+
+Using immunodepletion experiments, Horiuchi et al. (1997) found that the
+RABGEF1 (609700)-RABPT5 complex was essential for both homotypic and
+heterotypic endosome fusions. Both RABGEF1 and RABPT5 bound RAB5
+preferentially in the presence of GTP rather than GDP. RABGEF1 displayed
+specific GDP/GTP exchange activity on RAB5 upon delivery of RAB5 to the
+membrane.
+
+Mattera et al. (2003) found that the GGAs (e.g., GGA1; 606004), a family
+of ARF (see 103180)-dependent clathrin adaptors involved in selection of
+trans-Golgi network cargo, interacted with the RABGEF1-RABPT5 complex in
+vitro and in vivo.
+
+Omori et al. (2008) identified elipsa, the zebrafish ortholog of
+TRAF3IP1 (607380), as a component of intraflagellar transport particles,
+which are involved in the formation and function of cilia. Elipsa
+interacted with rabaptin-5, which in turn interacted with Rab8 (RAB8A;
+165040), a small GTPase localized to cilia. Omori et al. (2008)
+concluded that elipsa, rabaptin-5, and Rab8 provide a bridge between the
+intraflagellar transport particle and protein complexes that assemble at
+the ciliary membrane.
+
+Endocytosis plays a major role in the deactivation of receptors
+localized to the plasma membrane. Wang et al. (2009) found that hypoxia,
+via the VHL (608537)-HIF2A (EPAS1; 603349) signaling pathway,
+downregulated rabaptin-5 expression, leading to decelerated endocytosis
+and prolonged activation of ligand-bound EGFR (131550). Primary kidney
+and breast tumors with strong hypoxic signatures showed significantly
+lower expression of rabaptin-5 RNA and protein. Wang et al. (2009)
+identified a conserved hypoxia-responsive element (HRE) in the
+rabaptin-5 promoter that bound in vitro-translated HIF1A (603348) and
+HIF2A, leading to displacement of RNA polymerase II and attenuating
+rabaptin-5 transcription.
+
+MAPPING
+
+The RABEP1 gene maps to chromosome 17p13 (Magnusson et al., 2001).
+
+CYTOGENETICS
+
+In a patient with chronic myelomonocytic leukemia (CMML; see 607785) and
+an acquired t(5;17)(q33;p13), Magnusson et al. (2001) demonstrated
+rabaptin-5 as a novel partner fused in-frame to the 5-prime portion of
+the PDGFBR gene (173410). The fusion protein included more than 85% of
+the native rabaptin-5 fused to the transmembrane and intracellular
+tyrosine kinase domains of PDGFRB. Rabaptin-5 is an essential and
+rate-limiting component of early endosomal fusion. The RABEP1/PDGFRB
+fusion protein links 2 important pathways of growth regulation.
+
+REFERENCE 1. Horiuchi, H.; Lippe, R.; McBride, H. M.; Rubino, M.; Woodman, P.;
+Stenmark, H.; Rybin, V.; Wilm, M.; Ashman, K.; Mann, M.; Zerial, M.
+: A novel Rab5 GDP/GTP exchange factor complexed to rabaptin-5 links
+nucleotide exchange to effector recruitment and function. Cell 90:
+1149-1159, 1997.
+
+2. Magnusson, M. K.; Meade, K. E.; Brown, K. E.; Arthur, D. C.; Krueger,
+L. A.; Barrett, A. J.; Dunbar, C. E.: Rabaptin-5 is a novel fusion
+partner to platelet-derived growth factor beta receptor in chronic
+myelomonocytic leukemia. Blood 98: 2518-2525, 2001.
+
+3. Mattera, R.; Arighi, C. N.; Lodge, R.; Zerial, M.; Bonifacino,
+J. S.: Divalent interaction of the GGAs with the Rabaptin-5-Rabex-5
+complex. EMBO J. 22: 78-88, 2003.
+
+4. Omori, Y.; Zhao, C.; Saras, A.; Mukhopadhyay, S.; Kim, W.; Furukawa,
+T.; Sengupta, P.; Veraksa, A.; Malicki, J.: elipsa is an early determinant
+of ciliogenesis that links the IFT particle to membrane-associated
+small GTPase Rab8. Nature Cell Biol. 10: 437-444, 2008.
+
+5. Stenmark, H.; Vitale, G.; Ullrich, O.; Zerial, M.: Rabaptin-5
+is a direct effector of the small GTPase Rab5 in endocytic membrane
+fusion. Cell 83: 423-432, 1995.
+
+6. Wang, Y.; Roche, O.; Yan, M. S.; Finak, G.; Evans, A. J.; Metcalf,
+J. L.; Hast, B. E.; Hanna, S. C.; Wondergem, B.; Furge, K. A.; Irwin,
+M. S.; Kim, W. Y.; Teh, B. T.; Grinstein, S.; Park, M.; Marsden, P.
+A.; Ohh, M.: Regulation of endocytosis via the oxygen-sensing pathway. Nature
+Med. 15: 319-324, 2009.
+
+7. Xiao, G.-H.; Shoarinejad, F.; Jin, F.; Golemis, E. A.; Yeung, R.
+S.: The tuberous sclerosis 2 gene product, tuberin, functions as
+a Rab5 GTPase activating protein (GAP) in modulating endocytosis. J.
+Biol. Chem. 272: 6097-6100, 1997.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/8/2009
+Patricia A. Hartz - updated: 6/4/2009
+Paul J. Converse - updated: 11/7/2005
+Victor A. McKusick - updated: 9/27/2002
+Victor A. McKusick - updated: 9/16/2002
+
+CREATED Rebekah S. Rasooly: 3/9/1999
+
+EDITED wwang: 05/18/2011
+ckniffin: 5/3/2011
+ckniffin: 5/2/2011
+wwang: 6/11/2009
+terry: 6/8/2009
+mgross: 6/4/2009
+terry: 6/4/2009
+carol: 2/29/2008
+mgross: 11/7/2005
+cwells: 11/5/2003
+alopez: 9/27/2002
+tkritzer: 9/25/2002
+tkritzer: 9/16/2002
+mgross: 3/10/1999
+mgross: 3/9/1999
+
+613742	TITLE *613742 GLUCOSE-6-PHOSPHATASE, CATALYTIC; G6PC
+;;GLUCOSE-6-PHOSPHATASE, CATALYTIC, 1; G6PC1;;
+G6PT, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Glucose-6-phosphatase (EC 3.1.3.9), the key enzyme in the homeostasis
+regulation of blood glucose concentrations, catalyzes the terminal step
+in gluconeogenesis and glycogenolysis (summary by Lei et al., 1993).
+
+CLONING
+
+Lei et al. (1993) cloned human G6PC from a liver cDNA library. G6PC
+encodes a predicted 357-amino acid protein with an endoplasmic reticulum
+(ER) retention signal and 6 putative membrane-spanning segments. The
+expressed protein is indistinguishable from human microsomal G6Pase. Lei
+et al. (1993) stated that the gene had previously eluded molecular
+characterization primarily because of its tight association with the ER
+and nuclear membranes.
+
+Shelly et al. (1993) isolated cDNAs encoding G6Pase by taking advantage
+of an albino deletion mutant mouse that is known to express markedly
+reduced levels of G6Pase activity. The primary defect of this mutant
+mouse is a loss of the fumarylacetoacetate hydrolase gene (FAH; 613871)
+located near the albino locus on chromosome 7. Fumarylacetoacetate
+hydrolase (or fumarylacetoacetase) is the final enzyme in the tyrosine
+degradation pathway, and a deficiency of this enzyme leads to the
+accumulation of toxic tyrosine metabolites, resulting in reduced
+expression of a group of liver-specific proteins, including G6Pase.
+Newborn homozygous deletion mice develop hypoglycemia shortly after
+birth, correlating with undetectable levels of G6Pase activity. Shelly
+et al. (1993) isolated a full-length cDNA encoding murine liver
+microsomal G6Pase by screening a normal mouse liver cDNA library
+differentially with probes representing mRNA populations from the normal
+and the albino deletion mutant mouse. They showed that the murine G6Pase
+transcription unit spans approximately 10 kb and consists of 5 exons.
+
+GENE STRUCTURE
+
+Lei et al. (1993) determined that the G6PC gene contains 5 exons and
+spans approximately 12.5 kb.
+
+MAPPING
+
+By analysis of somatic cell hybrids, Lei et al. (1994) mapped the G6PC
+gene to chromosome 17.
+
+In the course of constructing a transcription map of approximately 600
+kb of genomic DNA surrounding the BRCA1 gene (113705), Brody et al.
+(1995) identified the G6PC gene, thus regionalizing its assignment to
+17q21.
+
+MOLECULAR GENETICS
+
+In 2 patients with glycogen storage disease Ia (GSD1a; 232200), Lei et
+al. (1993) identified homozygous and compound heterozygous mutations,
+respectively, in the G6PC gene (613742.0001-613742.0003).
+
+Lei et al. (1995) used SSCP analysis and DNA sequencing to characterize
+the G6PC gene of 70 unrelated patients with enzymatically confirmed
+diagnosis of type Ia GSD and detected mutations in all except 17 alleles
+(88%). They uncovered 16 mutations that were shown by expression to
+abolish or greatly reduce G6Pase activity and that, therefore, were
+responsible for the clinical disorder. R83C (613742.0002) and Q347X
+(613742.0004) were the most prevalent mutations found in Caucasians;
+130X (613742.0001) and R83C were most prevalent in Hispanics; R83H was
+most prevalent in Chinese. The Q347X mutation was identified only in
+Caucasians, and the 130X mutation was identified only in Hispanic
+patients.
+
+Kajihara et al. (1995) identified a splice mutation in exon 5 (727G-T)
+of the G6PC cDNA from the liver of a Japanese patient with GSD type Ia
+(613742.0005). Another 8 unrelated Japanese families with a total of 9
+affected individuals were found to have the same mutation, thus
+representing 91% of patients and carriers of GSD Ia in Japan.
+
+Chevalier-Porst et al. (1996) sequenced both alleles of 24 French GSD
+type Ia patients; 14 different mutations were found, allowing the
+identification of complete genotypes for all the patients. These
+included 9 new mutations. Five mutations, Q347X, R83C, D38V
+(613742.0006), G188R (613742.0012), and 158Cdel, accounted for 75% of
+the mutated alleles.
+
+Parvari et al. (1997) reported the biochemical and clinical
+characteristics as well as mutation analyses of 12 Israeli GSD Ia
+patients of different families, who represent most of the GSD Ia
+patients in Israel. All 9 Jewish patients, as well as a Muslim Arab
+patient, were found to have the R83C mutation (613742.0002). Two Muslim
+Arab patients had the val166-to-gly (V166G) mutation (613742.0014),
+which had not been found in other populations.
+
+Akanuma et al. (2000) identified G6PC mutations in all alleles from 51
+unrelated Japanese patients with GSD Ia. A total of 7 mutations were
+identified, including 3 novel mutations. The most prevalent mutation,
+727G-T, accounting for 88 of 102 mutant alleles, creates an aberrant
+3-prime splice site within exon 5. The authors demonstrated that
+ectopically transcribed G6Pase mRNA can be detected in lymphoblastoid
+cells and may be used for the characterization of mutations that affect
+mRNA splicing. They concluded that noninvasive molecular diagnosis may
+ultimately replace the conventional method of enzymatic diagnosis that
+requires liver biopsy in Japanese patients.
+
+Stroppiano et al. (1999) analyzed the G6Pase gene in 53 unrelated
+Italian patients and identified 88 mutant alleles (82.6%) with 18
+(17.4%) remaining unidentified. The most prevalent mutation was R83C
+(46.2%), followed by Q347X (20.7%); 3 other mutations (R295C, D38V, and
+G270V) accounted for 5.6% of disease alleles. The authors suggested that
+noninvasive screening could be used in Italian patients clinically
+suspected of having GSD Ia, particularly in those from Sicily, where the
+R83C mutation was present in 80% of mutant alleles. In all of 13
+unrelated Korean patients with GSD Ia, Ki et al. (2004) identified
+mutant alleles of the G6PC gene. Three known mutations and 2 novel
+mutations were identified. The most frequent mutant allele was 727G-T,
+present in 21 of 26 alleles (81%), which was slightly lower than that in
+Japanese, where it was present in 86 alleles (92%), but much higher than
+that in Taiwan Chinese (present in 44.4% of alleles).
+
+ALLELIC VARIANT .0001
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, 2-BP INS, 459AT
+
+In a patient with type Ia glycogen storage disease (232200), Lei et al.
+(1993) found a 2-bp insertion at nucleotide 459 (ATins459) in exon 3 of
+the G6PC gene. The insertion caused a frameshift with generation of a
+stop codon at nucleotides 467-469. The predicted gene product was a
+severely truncated protein of 129 amino acids. The patient was
+homozygous for the TA insertion and the mother, the only parent
+available, was heterozygous. Lei et al. (1995) referred to this mutation
+as 130X referring to the number of the stop codon that was generated by
+the frameshift. The 130X mutation had been identified only in Hispanic
+patients.
+
+.0002
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, ARG83CYS
+
+Lei et al. (1993) concluded that a patient with type Ia glycogen storage
+disease (232200) was a compound heterozygote for 2 different G6PC
+mutations: arg83-to-cys (R83C) and arg295-to-cys (R295C; 613742.0003),
+located in exons 2 and 5, respectively. The exon 5 mutation came from
+the father and the exon 2 mutation from the mother. Both mutations were
+thought to involve a CpG doublet. Lei et al. (1994) demonstrated that
+the R83C mutant has no detectable phosphohydrolase activity.
+
+In a patient originally reported by Burchell and Waddell (1990) as
+having a novel form of type 1 glycogen storage disease due to a defect
+in the 21-kD stabilizing protein SP, Lei et al. (1995) demonstrated that
+in fact there was an R83C mutation in exon 2 of the G6PC gene. They
+found the same mutation in both homozygous and heterozygous form in
+patients with standard GSD type Ia.
+
+Qu et al. (1996) performed prenatal diagnosis by chorionic villus
+sampling in an Ashkenazi Jewish family in which a previous child was
+homoallelic and both parents were heterozygous for the R83C mutation.
+Molecular analysis showed that the fetus was not affected.
+
+Parvari et al. (1997) found that the R83C mutation was present in all
+Ashkenazi Jewish patients studied in Israel, suggesting that DNA-based
+diagnosis may be used as an initial diagnostic step in this population,
+thus avoiding liver biopsy.
+
+Ekstein et al. (2004) tested 20,719 Ashkenazi Jewish subjects for the
+R83C mutation and identified 290 carriers, giving a carrier frequency of
+0.014. The authors noted that this carrier frequency translates into a
+predicted disease prevalence of 1 in 20,000, 5 times higher than that
+for the general Caucasian population, confirming a founder effect and
+elevated frequency of type Ia glycogen storage disease in the Ashkenazi
+population. They also tested 4,290 Ashkenazi subjects for the Q347X
+(613742.0004) mutation and found no carriers. Of 30 Ashkenazi Jewish
+patients with type Ia glycogen storage disease, all were homozygous for
+the R83C mutation. Ekstein et al. (2004) concluded that R83C is the only
+prevalent mutation for this disease in the Ashkenazi population.
+
+.0003
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, ARG295CYS
+
+See 613742.0002 and Lei et al. (1993).
+
+.0004
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, GLN347TER
+
+In a patient with type Ia glycogen storage disease (232200), Lei et al.
+(1994) demonstrated compound heterozygosity for an arg83-to-cys mutation
+(613742.0002) in exon 2 and a gln347-to-ter mutation in exon 5. The
+latter mutation was detected in homozygous form in 2 sibs of an
+unrelated family. The predicted Q347X mutant G6Pase is a truncated
+protein of 346 amino acids, 11 amino acids shorter than the wildtype
+G6Pase. Site-directed mutagenesis and transient expression assays
+demonstrated that the mutant protein is devoid of G6Pase activity.
+
+.0005
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, IVS4AS, G-T, +86
+
+In a 26-year-old man with GSD Ia (232200) and in 9 other Japanese
+patients from 8 unrelated families, Kajihara et al. (1995) identified a
+splicing mutation in the G6PC gene. The first patient was the progeny of
+first-cousin parents and had a history of hepatomegaly and hypoglycemia
+since childhood. The diagnosis of GSD Ia was based on the findings of
+hypoglycemia, hypertriglyceridemia, hyperuricemia and liver biopsy
+abnormalities. Residual G6Pase activity in the liver was 18% of normal
+in both fresh and previously frozen liver biopsy specimens. A younger
+brother was also affected. The cDNA prepared from the patient's liver
+had a deletion of 91 nucleotides with no normal-sized cDNA. The mutation
+resulted in a G6Pase polypeptide 146 amino acids shorter at the
+carboxy-terminal portion than the normal gene product of 357 residues.
+It was thought that the 18% of normal activity reflected nonspecific
+phosphatase activity since the G6Pase activity was low or not detectable
+in several unrelated GSD Ia patients homozygous for this mutation.
+Analysis of mutant genomic DNA demonstrated a G-to-T transversion at
+nucleotide 727 of their G6PC sequence. Although the patient's splice
+site in intron 4 and exon 5 had a normal consensus sequence, normal
+splicing did not occur. It is thought that the single base substitution,
+located far from the splice junction, altered the splice site. Kajihara
+et al. (1995) cited data indicating that 11% of aberrant splice
+mutations represent the creation of new splice sites with no alteration
+in the authentic splice site sequences. Nakai and Sakamoto (1994) found
+that new 5-prime and 3-prime sites were created only in the upstream
+region of the authentic 5-prime and 3-prime splice sites. However, this
+characteristically Japanese GSD Ia mutation is an exception; a new
+3-prime site occurred in the downstream region of a normal splice site.
+
+Akanuma et al. (2000) found that the most prevalent mutation in a study
+of 51 unrelated Japanese patients with GSD Ia was 727G-T, accounting for
+88 of 102 mutant alleles.
+
+.0006
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, ASP38VAL
+
+In 4 unrelated French patients with GSD type Ia (232200),
+Chevalier-Porst et al. (1996) found compound heterozygosity for a D38V
+missense mutation in the G6PC gene. This resulted from an A-to-T
+transversion of nucleotide 192 in exon 1. The mutation was predicted to
+change an acidic amino acid (aspartic acid) to a nonpolar hydrophobic
+amino acid (valine) in the middle of the first predicted transmembrane
+spanning domain.
+
+.0007
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, TRP77ARG
+
+In a French patient with GSD type Ia (232200), Chevalier-Porst et al.
+(1996) found compound heterozygosity for a W77R missense mutation in the
+G6PC gene. The mutation changed a nonpolar hydrophobic amino acid
+(tryptophan) to a basic one (arginine). The amino acid substitution
+resulted from a T-to-C transition of nucleotide 308 in exon 1.
+
+.0008
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, IVS1DS, A-G, +4
+
+In a French patient with GSD Ia (232200), Chevalier-Porst et al. (1996)
+found an A-to-G transition at position +4 of the 5-prime donor splice
+site of intron 1 of the G6PC gene. The patient was a compound
+heterozygote for this mutation and for the G188R mutation (613742.0012).
+
+.0009
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, GLU110LYS
+
+In a French patient with GSD Ia (232200), Chevalier-Porst et al. (1996)
+found a E110K missense mutation in the G6PC gene. The mutation changed
+an acidic amino acid (glutamic acid) to a basic amino acid (lysine). It
+was due to a G-to-A transition of nucleotide 407 in exon 2. The mutation
+was present in compound heterozygous state.
+
+.0010
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, ALA124THR
+
+In a French patient with GSD type Ia (232200), Chevalier-Porst et al.
+(1996) identified a G-to-A transition of nucleotide 449 in exon 3 which
+changed a nonpolar amino acid (alanine-124) to a polar one (threonine).
+This mutation, inherited from the mother, was associated with the Q347X
+mutation (613742.0004) in 2 sibs with GSD Ia.
+
+.0011
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, GLY184GLU
+
+In a French patient with type Ia glycogen storage disease (232200),
+Chevalier-Porst et al. (1996) found a G-to-A transition of nucleotide
+630 changing a nonpolar hydrophobic amino acid (glycine-184) to an
+acidic one (glutamic acid). The G184E mutation is located in the
+putative cytoplasmic domain of the enzyme. The mutation was present in
+homozygous state in a family with no known consanguinity.
+
+.0012
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, GLY188ARG
+
+In 3 unrelated French patients with glycogen storage disease type Ia
+(232200), Chevalier-Porst et al. (1996) found compound heterozygosity
+for a G-to-C transversion of nucleotide 641, resulting in change of a
+nonpolar hydrophobic amino acid (glycine-188) to a basic one (arginine).
+This mutation, like G184E (613742.0011), is located in the putative
+cytoplasmic domain of the enzyme.
+
+Weston et al. (2000) identified a 5-month-old girl with hypoglycemia,
+hepatomegaly, and lactic acidemia who was diagnosed with GSD Ia. She
+also developed neutropenia, neutrophil dysfunction, and recurrent
+infections characteristic of GSD Ib, but was found to be homozygous for
+the G188R mutation of the G6PC gene. No mutations in the G6PC
+translocase gene were identified. Weston et al. (2000) subsequently
+identified a sib of this proband and 2 unrelated patients with similar
+genotype-phenotype characteristics. They concluded that the unusual
+association of neutrophil abnormalities in patients with homozygous
+G188R mutations in the G6PC gene supports the modified
+translocase/catalytic unit model.
+
+.0013
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, ILE341ASP
+
+In 2 sibs with type Ia GSD (232200), Lee et al. (1996) found compound
+heterozygosity for an R83C substitution in exon 2 (613742.0002) and an
+ile341-to-asp substitution in exon 5 of the G6PC gene. The nucleotide
+substitutions were a G-to-A transition at base position 327 in exon 2
+and a T-to-A transversion at base position 1101 in exon 5. The father
+was heterozygous for the exon 2 mutation, while the mother was
+heterozygous for the exon 5 mutation.
+
+.0014
+GLYCOGEN STORAGE DISEASE Ia
+G6PC, VAL166GLY
+
+In 2 Muslim Arab patients in Israel with glycogen storage disease Ia
+(232200), Parvari et al. (1997) identified a val166-to-gly (V166G)
+missense mutation in the G6PC gene.
+
+REFERENCE 1. Akanuma, J.; Nishigaki, T.; Fujii, K.; Matsubara, Y.; Inui, K.;
+Takahashi, K.; Kure, S.; Suzuki, Y.; Ohura, T.; Miyabayashi, S.; Ogawa,
+E.; Iinuma, K.; Okada, S.; Narisawa, K.: Glycogen storage disease
+type Ia: molecular diagnosis of 51 Japanese patients and characterization
+of splicing mutations by analysis of ectopically transcribed mRNA
+from lymphoblastoid cells. Am. J. Med. Genet. 91: 107-112, 2000.
+
+2. Brody, L. C.; Abel, K. J.; Castilla, L. H.; Couch, F. J.; McKinley,
+D. R.; Yin, G.-Y.; Ho, P. P.; Merajver, S.; Chandrasekharappa, S.
+C.; Xu, J.; Cole, J. L.; Struewing, J. P.; Valdes, J. M.; Collins,
+F. S.; Weber, B. L.: Construction of a transcription map surrounding
+the BRCA1 locus of human chromosome 17. Genomics 25: 238-247, 1995.
+
+3. Burchell, A.; Waddell, I. D.: Diagnosis of a novel glycogen storage
+disease: type 1aSP. J. Inherit. Metab. Dis. 13: 247-249, 1990.
+
+4. Chevalier-Porst, F.; Bozon, D.; Bonardot, A.-M.; Bruni, N.; Mithieux,
+G.; Mathieu, M.; Maire, I.: Mutation analysis in 24 French patients
+with glycogen storage disease type 1a. J. Med. Genet. 33: 358-360,
+1996.
+
+5. Ekstein, J.; Rubin, B. Y.; Anderson, S. L.; Weinstein, D. A.; Bach,
+G.; Abeliovich, D.; Webb, M.; Risch, N.: Mutation frequencies for
+glycogen storage disease Ia in the Ashkenazi Jewish population. Am.
+J. Med. Genet. 129A: 162-164, 2004.
+
+6. Kajihara, S.; Matsuhashi, S.; Yamamoto, K.; Kido, K.; Tsuji, K.;
+Tanae, A.; Fujiyama, S.; Itoh, T.; Tanigawa, K.; Uchida, M.; Setoguchi,
+Y.; Motomura, M.; Mizuta, T.; Sakai, T.: Exon redefinition by a point
+mutation within exon 5 of the glucose-6-phosphatase gene is the major
+cause of glycogen storage disease type 1a in Japan. Am. J. Hum. Genet. 57:
+549-555, 1995.
+
+7. Ki, C.-S.; Han, S.-H.; Kim, H.-J.; Lee, S.-G.; Kim, E.-J.; Kim,
+J.-W.; Choe, Y. H.; Seo, J. K.; Chang, Y. J.; Park, J. Y.: Mutation
+spectrum of the glucose-6-phosphatase gene and its implication in
+molecular diagnosis of Korean patients with glycogen storage disease
+type Ia. Clin. Genet. 65: 487-489, 2004.
+
+8. Lee, W.-J.; Lee, H.-M.; Chi, C.-S.; Shu, S.-G.; Lin, L.-Y.; Lin,
+W.-H.: Genetic analysis of the glucose-6-phosphatase mutation of
+type 1a glycogen storage disease in a Chinese family. Clin. Genet. 50:
+206-211, 1996.
+
+9. Lei, K.-J.; Chen, Y.-T.; Chen, H.; Wong, L.-J. C.; Liu, J.-L.;
+McConkie-Rosell, A.; Van Hove, J. L. K.; Ou, H. C.-Y.; Yeh, N. J.;
+Pan, L. Y.; Chou, J. Y.: Genetic basis of glycogen storage disease
+type 1a: prevalent mutations at the glucose-6-phosphatase locus. Am.
+J. Hum. Genet. 57: 766-771, 1995.
+
+10. Lei, K.-J.; Pan, C.-J.; Shelly, L. L.; Liu, J.-L.; Chou, J. Y.
+: Identification of mutations in the gene for glucose-6-phosphatase,
+the enzyme deficient in glycogen storage disease type 1A. J. Clin.
+Invest. 93: 1994-1999, 1994.
+
+11. Lei, K.-J.; Shelly, L. L.; Pan, C.-J.; Sidbury, J. B.; Chou, J.
+Y.: Mutations in the glucose-6-phosphatase gene that cause glycogen
+storage disease type 1a. Science 262: 580-583, 1993.
+
+12. Nakai, K.; Sakamoto, H.: Construction of a novel database containing
+aberrant splicing mutations of mammalian genes. Gene 141: 171-177,
+1994.
+
+13. Parvari, R.; Lei, K.-J.; Bashan, N.; Hershkovitz, E.; Korman,
+S. H.; Barash, V.; Lerman-Sagie, T.; Mandel, H.; Chou, J. Y.; Moses,
+S. W.: Glycogen storage disease type 1a in Israel: biochemical, clinical,
+and mutational studies. Am. J. Med. Genet. 72: 286-290, 1997.
+
+14. Qu, Y.; Abdenur, J. E.; Eng, C. M.; Desnick, R. J.: Molecular
+prenatal diagnosis of glycogen storage disease type Ia. Prenatal
+Diag. 15: 333-336, 1996.
+
+15. Shelly, L. L.; Lei, K.-J.; Pan, C.-J.; Sakata, S. F.; Ruppert,
+S.; Schutz, G.; Chou, J. Y.: Isolation of the gene for murine glucose-6-phosphatase,
+the enzyme deficient in glycogen storage disease type 1A. J. Biol.
+Chem. 268: 21482-21485, 1993.
+
+16. Stroppiano, M.; Regis, S.; DiRocco, M.; Caroli, F.; Gandullia,
+P.; Gatti, R.: Mutations in the glucose-6-phosphatase gene of 53
+Italian patients with glycogen storage disease type Ia. J. Inherit.
+Metab. Dis. 22: 43-49, 1999.
+
+17. Weston, B. W.; Lin, J.-L.; Muenzer, J.; Cameron, H. S.; Arnold,
+R. R.; Seydewitz, H. H.; Mayatepek, E.; Van Schaftingen, E.; Veiga-da-Cunha,
+M.; Matern, D.; Chen, Y. T.: Glucose-6-phosphatase mutation G188R
+confers an atypical glycogen storage disease type 1b phenotype. Pediat.
+Res. 48: 329-334, 2000.
+
+CREATED Carol A. Bocchini: 2/14/2011
+
+EDITED alopez: 04/07/2011
+terry: 2/15/2011
+carol: 2/15/2011
+
+603721	TITLE *603721 UBIQUITIN-CONJUGATING ENZYME E2L 3; UBE2L3
+;;UBIQUITIN-CONJUGATING ENZYME UBCH7; UBCH7
+DESCRIPTION 
+DESCRIPTION
+
+Ubiquitin-conjugating enzymes (E2s or UBCs) are essential components of
+the posttranslational protein ubiquitination pathway, mediating the
+transfer of activated ubiquitin to substrate proteins.
+
+CLONING
+
+The S. cerevisiae UBC1, UBC4, and UBC5 enzymes appear to participate in
+the degradation of short-lived and abnormal proteins. Human UBE2L1
+(600012) is a homolog of yeast UBC4 and UBC5. By screening a genomic
+library with a UBE2L1 probe, Moynihan et al. (1996) isolated clones
+corresponding to a novel gene, UBE2L3.
+
+Nuber et al. (1996) cloned human keratinocyte cDNAs encoding UBE2L3,
+which they referred to as UBCH7. The predicted 154-amino acid protein
+has 64% sequence similarity to UBCH5. UBCH7 efficiently mediated E6AP
+(UBE3A; 601623)-dependent ubiquitination in an in vitro assay.
+
+By RT-PCR, Moynihan et al. (1998) determined that UBE2L3 is expressed as
+4 mRNAs that differ in the length of the 3-prime untranslated region
+(UTR). Sequence comparisons revealed that the human and mouse UBE2L3
+cDNAs share 97% DNA sequence identity in the coding region and 93%
+identity for 287 nucleotides extending into the 3-prime UTR. The
+predicted mouse and human UBE2L3 proteins are identical.
+
+GENE STRUCTURE
+
+Moynihan et al. (1996) demonstrated that the UBE2L3 and UBE2L1 genes are
+identical except that the UBE2L1 gene is intronless, while the UBE2L3
+coding sequence is interrupted by 3 introns. Moynihan et al. (1998)
+determined that the UBE2L3 gene spans approximately 57 kb.
+
+MAPPING
+
+By analysis of somatic cell hybrids and by FISH, Moynihan et al. (1996)
+mapped the UBE2L3 gene to chromosome 22q11.2-q13.1. They also mapped a
+pseudogene, UBE2L2, to 12q12. Ardley et al. (1997) found that another
+pseudogene, UBE2L4, was located at 19q13.1-q13.2.
+
+GENE FUNCTION
+
+Shimura et al. (2001) hypothesized that alpha-synuclein (163890) and
+parkin (602544) interact functionally, namely, that parkin ubiquitinates
+alpha-synuclein normally and that this process is altered in autosomal
+recessive Parkinson disease (600116). Shimura et al. (2001) identified a
+protein complex in normal human brain that includes parkin as the E3
+ubiquitin ligase, UBCH7 as its associated E2 ubiquitin-conjugating
+enzyme, and a novel 22-kD glycosylated form of alpha-synuclein
+(alpha-Sp22) as its substrate. In contrast to normal parkin, mutant
+parkin associated with autosomal recessive Parkinson disease failed to
+bind alpha-Sp22. In an in vitro ubiquitination assay, alpha-Sp22 was
+modified by normal, but not mutant, parkin into polyubiquitinated, high
+molecular weight species. Accordingly, alpha-Sp22 accumulated in a
+nonubiquitinated form in parkin-deficient Parkinson disease brains.
+Shimura et al. (2001) concluded that alpha-Sp22 is a substrate for
+parkin's ubiquitin ligase activity in normal human brain and that loss
+of parkin function causes pathologic accumulation of alpha-Sp22. These
+findings demonstrated a critical biochemical reaction between the 2
+Parkinson disease-linked gene products and suggested that this reaction
+underlies the accumulation of ubiquitinated alpha-synuclein in
+conventional Parkinson disease.
+
+Carrano et al. (2009) identified the E3 ubiquitin ligase Wwp1 (602307)
+as a positive regulator of life span in C. elegans in response to
+dietary restriction. Overexpression of Wwp1 in worms extended life span
+by up to 20% under conditions of ad libitum feeding. Conversely,
+reduction of Wwp1 completely suppressed the extended longevity of
+diet-restricted animals. The E2 ubiquitin-conjugating enzyme Ubc18,
+which is homologous to human UBE2L3, interacted with Wwp1 and was
+required for Wwp1 ubiquitin ligase activity and the extended longevity
+of worms overexpressing Wwp1. Carrano et al. (2009) concluded that Wwp1
+and Ubc18 function to ubiquitinate substrates that regulate longevity
+induced by diet restriction.
+
+Wenzel et al. (2011) showed that, unlike many ubiquitin-conjugating
+enzymes (E2s) that transfer ubiquitin with RINGs, UBCH7 lacks intrinsic
+ubiquitin ligase (E3)-independent reactivity with lysine, explaining its
+preference for HECTs. Despite lacking lysine reactivity, UBCH7 exhibits
+activity with the RING-in-between-RING (RBR) family of E3s that includes
+parkin (602544) and human homolog of ariadne (HHARI; 605624). Found in
+all eukaryotes, RBRs regulate processes such as translation and immune
+signaling. RBRs contain a canonical C3HC4-type RING, followed by 2
+conserved cys/his-rich zinc-binding domains, in-between-RING (IBR) and
+RING2 domains, which together define this E3 family. Wenzel et al.
+(2011) showed that RBRs function like RING/HECT hybrids: they bind E2s
+via a RING domain, but transfer ubiquitin through an obligate
+thioester-linked ubiquitin, requiring a conserved cysteine residue in
+RING2. Wenzel et al. (2011) concluded that their results defined the
+functional cadre of E3s for UBCH7, an E2 involved in cell proliferation
+and immune function, and indicated a novel mechanism for an entire class
+of E3s.
+
+REFERENCE 1. Ardley, H. C.; Moynihan, T. P.; Thompson, J.; Leek, J. P.; Markham,
+A. F.; Robinson, P. A.: Rapid isolation of genomic clones for individual
+members of human multigene families: identification and localisation
+of UBE2L4, a novel member of a ubiquitin conjugating enzyme dispersed
+gene family. Cytogenet. Cell Genet. 79: 188-192, 1997.
+
+2. Carrano, A. C.; Liu, Z.; Dillin, A.; Hunter, T.: A conserved ubiquitination
+pathway determines longevity in response to diet restriction. Nature 460:
+396-399, 2009.
+
+3. Moynihan, T. P.; Ardley, H. C.; Leek, J. P.; Thompson, J.; Brindle,
+N. S.; Markham, A. F.; Robinson, P. A.: Characterization of a human
+ubiquitin-conjugating enzyme gene UBE2L3. Mammalian Genome 7: 520-525,
+1996.
+
+4. Moynihan, T. P.; Cole, C. G.; Dunham, I.; O'Neil, L.; Markham,
+A. F.; Robinson, P. A.: Fine-mapping, genomic organization, and transcript
+analysis of the human ubiquitin-conjugating enzyme gene UBE2L3. Genomics 51:
+124-127, 1998.
+
+5. Nuber, U.; Schwarz, S.; Kaiser, P.; Schneider, R.; Scheffner, M.
+: Cloning of human ubiquitin-conjugating enzymes UbcH6 and UbcH7 (E2-F1)
+and characterization of their interaction with E6-AP and RSP5. J.
+Biol. Chem. 271: 2795-2800, 1996.
+
+6. Shimura, H.; Schlossmacher, M. G.; Hattori, N.; Frosch, M. P.;
+Trockenbacher, A.; Schneider, R.; Mizuno, Y.; Kosik, K. S.; Selkoe,
+D. J.: Ubiquitination of a new form of alpha-synuclein by parkin
+from human brain: implications for Parkinson's disease. Science 293:
+263-269, 2001.
+
+7. Wenzel, D. M.; Lissounov, A.; Brzovic, P. S.; Klevit, R. E.: UBCH7
+reactivity profile reveals parkin and HHARI to be RING/HECT hybrids. Nature 474:
+105-108, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/22/2011
+Patricia A. Hartz - updated: 8/17/2009
+Ada Hamosh - updated: 8/13/2001
+
+CREATED Rebekah S. Rasooly: 4/12/1999
+
+EDITED alopez: 06/23/2011
+terry: 6/22/2011
+wwang: 9/1/2009
+mgross: 8/17/2009
+alopez: 8/13/2001
+terry: 8/13/2001
+mgross: 4/15/1999
+
+610396	TITLE *610396 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 6A; TRAPPC6A
+;;TRAPP COMPLEX, SUBUNIT 6A
+DESCRIPTION 
+DESCRIPTION
+
+TRAPPC6A is a subunit of the TRAPPI and TRAPPII complexes (Gwynn et al.,
+2006).
+
+CLONING
+
+Gwynn et al. (2006) cloned mouse Trappc6a, and they identified human
+TRAPPC6A by database analysis. Mouse and human TRAPPC6A encode deduced
+159-amino acid proteins that share 83% identity and have calculated
+molecular masses of 17.4 kD. Both proteins contain 2 motifs conserved in
+TRAPPC6B (610397) and several yeast TRAPP subunits, including Trs33, the
+putative homolog of TRAPPC6A and TRAPPC6B. Northern blot analysis
+detected Trappc6a expression in all mouse tissues examined, with highest
+expression in kidney, liver, and testis. Expression of mouse Trappc6a
+was higher in cultured melanocytes than in kidney.
+
+GENE STRUCTURE
+
+Gwynn et al. (2006) determined that the mouse Trappc6a gene contains 6
+exons.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the
+TRAPPC6A gene to chromosome 19 (TMAP RH98840). Gwynn et al. (2006)
+mapped the mouse Trappc6a gene to chromosome 7.
+
+ANIMAL MODEL
+
+Gwynn et al. (2006) identified a recessive mutation in mice, designated
+'mosaic hypopigmentation' (Mhyp), that caused mosaic loss of coat
+pigmentation and patchy loss of pigmentation with abnormal melanosomes
+in the retinal pigmented epithelial layer of the eye. They determined
+that Mhyp resulted from integration of an 8.4-kb retrovirus into intron
+1 of the Trappc6a gene.
+
+REFERENCE 1. Gwynn, B.; Smith, R. S.; Rowe, L. B.; Taylor, B. A.; Peters, L.
+L.: A mouse TRAPP-related protein is involved in pigmentation. Genomics 88:
+196-203, 2006.
+
+CREATED Patricia A. Hartz: 9/11/2006
+
+EDITED alopez: 05/24/2011
+mgross: 9/11/2006
+
+602644	TITLE *602644 TETRASPANIN 4; TSPAN4
+;;TRANSMEMBRANE 4 SUPERFAMILY, MEMBER 7; TM4SF7;;
+TETRASPAN;;
+NOVEL ANTIGEN 2; NAG2
+DESCRIPTION 
+DESCRIPTION
+
+TSPAN4 belongs to the large family of tetraspanins, so named because
+they contain 4 transmembrane domains. Tetraspanins are frequently
+expressed at the cell surface in association with each other and with
+other molecules, such as integrins (see ITGB1; 135630), and they
+function to regulate cell adhesion, migration, proliferation, and
+differentiation (summary by Todd et al., 1998).
+
+CLONING
+
+Tachibana et al. (1997) generated monoclonal antibodies against proteins
+that coimmunoprecipitated with CD81 (TAPA1; 186845) from a human breast
+cancer cell line. Two antibodies recognized a 28- to 35-kD protein,
+which Tachibana et al. (1997) named NAG2 for 'novel antigen-2.' Using
+the antibodies to screen a cDNA expression library derived from the
+breast cancer cell line, the authors cloned cDNAs encoding NAG2. The
+predicted 238-amino acid NAG2 protein contains 4 hydrophobic domains and
+shows homology to transmembrane 4 superfamily (TM4SF) proteins. Northern
+blot analysis detected a 1.5-kb NAG2 mRNA, and together with flow
+cytometry and immunohistochemistry, showed that NAG2 was expressed in
+multiple tissues but was absent in brain, lymphoid cells, and platelets.
+Immunofluorescence analysis showed that NAG2 colocalized with CD81 on
+the cell surface. Tachibana et al. (1997) identified mouse ESTs encoding
+the mouse homolog of NAG2. The human and mouse NAG2 proteins have 95%
+amino acid identity.
+
+By searching an EST database for sequences containing a tetraspanin
+consensus sequence, Todd et al. (1998) identified human TSPAN4. The
+deduced 238-amino acid protein contains 4 transmembrane domains and
+other features characteristic of tetraspanins, including conservation of
+charged residues in or near the transmembrane domains, similar to ion
+channels, and of 4 cysteines in the second extracellular domain.
+Northern blot analysis detected highest TSPAN4 expression in heart and
+placenta. EST database analysis suggested that TSPAN4 is also expressed
+in brain, melanocytes, pancreas, and fetal liver/spleen, in addition to
+pregnant uterus and adult and fetal heart.
+
+GENE FUNCTION
+
+Tachibana et al. (1997) found that NAG2 coimmunoprecipitated with
+integrins and other TM4SF members, indicating that NAG2 is present in
+TM4SF-TM4SF and TM4SF-integrin complexes.
+
+MAPPING
+
+Hartz (2009) mapped the TSPAN4 gene to chromosome 11p15.5 based on an
+alignment of the TSPAN4 sequence (GenBank GENBANK AF022813) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  11/23/2009.
+
+2. Tachibana, I.; Bodorova, J.; Berditchevski, F.; Zutter, M. M.;
+Hemler, M. E.: NAG-2, a novel transmembrane-4 superfamily (TM4SF)
+protein that complexes with integrins and other TM4SF proteins. J.
+Biol. Chem. 272: 29181-29189, 1997.
+
+3. Todd, S. C.; Doctor, V. S.; Levy, S.: Sequences and expression
+of six new members of the tetraspanin/TM4SF family. Biochim. Biophys.
+Acta 1399: 101-104, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/20/2009
+
+CREATED Rebekah S. Rasooly: 5/20/1998
+
+EDITED mgross: 12/03/2009
+mgross: 11/23/2009
+terry: 11/20/2009
+alopez: 1/19/2006
+psherman: 1/11/1999
+carol: 8/10/1998
+psherman: 5/29/1998
+psherman: 5/21/1998
+psherman: 5/20/1998
+
+611412	TITLE *611412 N-ACETYLNEURAMINATE PYRUVATE LYASE; NPL
+;;CHROMOSOME 1 OPEN READING FRAME 13; C1ORF13;;
+DIHYDRODIPICOLINATE SYNTHASE;;
+C112
+DESCRIPTION 
+DESCRIPTION
+
+N-acetylneuraminate pyruvate lyase (EC 4.1.3.3) controls the cellular
+concentration of sialic acid by catalyzing the conversion of sialic acid
+into acylmannosamines and pyruvate (Wu et al., 2005).
+
+CLONING
+
+By searching for genes in a region of chromosome 1 associated with
+hereditary prostate cancer (HPC1; 601518), followed by screening cDNA
+libraries, Sood et al. (2001) cloned NPL, which they called C112. The
+deduced protein contains 320 amino acids. Northern blot analysis
+detected weak expression of a 5-kb transcript in all human tissues
+examined.
+
+By large-scale sequence analysis of clones obtained from a fetal brain
+cDNA library, Wu et al. (2005) cloned a splice variant of NPL. The
+deduced 301-amino acid splice variant, which they called NPLV2, contains
+an N-terminal dihydrodipicolinate synthase (DHDPS) domain and 5 putative
+N-terminal phosphorylation sites. RT-PCR detected highest expression in
+liver, kidney, and peripheral blood leukocytes, and lower expression in
+placenta, pancreas, spleen, thymus, ovary, and small intestine. By
+database analysis, Wu et al. (2005) identified 3 other NPL splice
+variants.
+
+GENE STRUCTURE
+
+Wu et al. (2005) determined that the NPL gene contains 11 exons and
+spans over 40 kb.
+
+MAPPING
+
+By genomic sequence analysis, Sood et al. (2001) mapped the NPL gene to
+chromosome 1q25.
+
+REFERENCE 1. Sood, R.; Bonner, T. I.; Makalowska, I.; Stephan, D. A.; Robbins,
+C. M.; Connors, T. D.; Morgenbesser, S. D.; Su, K.; Faruque, M. U.;
+Pinkett, H.; Graham, C.; Baxevanis, A. D.; Klinger, K. W.; Landes,
+G. M.; Trent, J. M.; Carpten, J. D.: Cloning and characterization
+of 13 novel transcripts and the human RGS8 gene from the 1q25 region
+encompassing the hereditary prostate cancer (HPC1) locus. Genomics 73:
+211-222, 2001.
+
+2. Wu, M.; Gu, S.; Xu, J.; Zou, X.; Zheng, H.; Jin, Z.; Xie, Y.; Ji,
+C.; Mao, Y.: A novel splice variant of human gene NPL, mainly expressed
+in human liver, kidney and peripheral blood leukocyte. DNA Seq. 16:
+137-142, 2005.
+
+CREATED Patricia A. Hartz: 9/7/2007
+
+EDITED wwang: 09/07/2007
+

@@ -1,0 +1,138 @@
+605434	TITLE *605434 CLASPIN, XENOPUS, HOMOLOG OF; CLSPN
+DESCRIPTION 
+CLONING
+
+Kumagai and Dunphy (2000) identified a Xenopus protein, which they
+designated claspin, that binds to Xenopus Chk1 (CHEK1; 603078). By
+searching an EST database for sequences related to Xenopus claspin, they
+identified the human homolog. The full-length cDNA sequence of human
+claspin encodes a predicted 1,332-amino acid polypeptide that is 49%
+identical to Xenopus claspin.
+
+GENE FUNCTION
+
+Kumagai and Dunphy (2000) found that binding of claspin to Xenopus Chk1
+was highly elevated in the presence of DNA templates that triggered a
+checkpoint arrest of the cell cycle in Xenopus egg extracts. Xenopus
+Chk1 became phosphorylated during a checkpoint response, and this
+phosphorylation resulted in the activation of Xenopus Chk1.
+Immunodepletion of claspin from egg extracts abolished both the
+phosphorylation and activation of Xenopus Chk1. Furthermore,
+claspin-depleted extracts were unable to arrest the cell cycle in
+response to DNA replication blocks. These findings indicated that
+claspin is an essential upstream regulator of Chk1 in Xenopus.
+
+Lee et al. (2003) showed that Xenopus claspin associates with chromatin
+in a regulated manner during S phase. Binding of claspin to chromatin
+depended on the prereplication complex and Cdc45 (603465), but not on
+replication protein A (RPA; 179835). These dependencies suggested that
+binding of claspin occurs around the time of initial DNA unwinding at
+replication origins. By contrast, both Atr (601215) and Rad17 (603139)
+required Rpa for association with DNA. Claspin, Atr, and Rad17 all bound
+to chromatin independently. These findings suggested that claspin plays
+a role in monitoring DNA replication during S phase.
+
+Chini and Chen (2003) observed that human claspin is a cell
+cycle-regulated protein that peaks at S/G2 phase. Claspin localized in
+nuclei and associated with CHK1 following replication stress or other
+types of DNA damage. Claspin was phosphorylated in response to
+replication stress, and phosphorylation appeared to be required for the
+association between claspin and CHK1. In addition, claspin interacted
+with the checkpoint proteins ATR and RAD9 (603761). Since ATR and the
+RAD9-RAD1 (603153)-HUS1 (603760) complex are involved in CHK1
+activation, the authors hypothesized that claspin may be an adaptor that
+brings these molecules together. Downregulation of claspin by small
+interfering RNA inhibited CHK1 activation in response to replication
+stress, augmented the premature chromatin condensation induced by
+hydroxyurea, inhibited ultraviolet-induced reduction of DNA synthesis,
+and decreased cell survival.
+
+Yoo et al. (2004) showed that, during checkpoint response, Xenopus
+claspin becomes phosphorylated on thr906, creating a docking site for
+Plx1, the Xenopus homolog of PLK1 (602098). This interaction promotes
+phosphorylation of claspin on ser934 by Plx1. Yoo et al. (2004) stated
+that, after a prolonged interphase arrest, aphidicolin-treated egg
+extracts typically undergo adaptation and enter into mitosis despite the
+presence of incompletely replicated DNA. In this process, claspin
+dissociates from chromatin, and Chk1 undergoes inactivation. By
+contrast, aphidicolin-treated extracts containing mutants of claspin
+with thr906-to-ala or ser934-to-ala substitutions were unable to undergo
+adaptation. Under such adaptation-defective conditions, claspin
+accumulated on chromatin at high levels, and Chk1 did not decrease in
+activity. These results indicated that the Plx1-dependent inactivation
+of claspin results in termination of a DNA replication checkpoint
+response.
+
+Wang et al. (2006) found that phosphorylated RAD17 interacted with
+claspin and regulated its phosphorylation. Phosphorylation of RAD17 was
+differentially required in response to different DNA-damaging agents and
+was particularly important in stress due to hydroxyurea exposure.
+
+Mailand et al. (2006) and Peschiaroli et al. (2006) found that claspin
+became degraded at the onset of mitosis. Claspin degradation was
+triggered by its interaction with and ubiquitylation by BTRC (603482).
+The BTRC-claspin interaction was phosphorylation dependent and required
+PLK1 activity and integrity of the BTRC degradation motif in the N
+terminus of claspin. Mailand et al. (2006) found that uncoupling claspin
+from BTRC by mutating the conserved serines in the degradation motif or
+by BTRC knockdown stabilized claspin in mitosis, impaired CHK1
+dephosphorylation, and delayed G2/M transition during recovery from cell
+cycle arrest imposed by DNA damage or replication stress. The inability
+to degrade claspin allowed partial reactivation of CHK1 in cells exposed
+to DNA damage after passing the G2/M transition. Peschiaroli et al.
+(2006) found that expression of a stable claspin mutant unable to bind
+BTRC prolonged activation of CHK1, thereby attenuating recovery from the
+DNA replication stress response and significantly delaying entry into
+mitosis.
+
+MAPPING
+
+Kumagai and Dunphy (2000) mapped the human claspin gene to 1p34.3-p34.1
+based on sequence similarity between the claspin sequence (GenBank
+GENBANK AF297866) and the chromosome 1 clone RP4-555P23 (GenBank GENBANK
+AL139143).
+
+REFERENCE 1. Chini, C. C. S.; Chen, J.: Human Claspin is required for replication
+checkpoint control. J. Biol. Chem. 278: 30057-30062, 2003.
+
+2. Kumagai, A.; Dunphy, W. G.: Claspin, a novel protein required
+for the activation of Chk1 during a DNA replication checkpoint response
+in Xenopus egg extracts. Molec. Cell 6: 839-849, 2000.
+
+3. Lee, J.; Kumagai, A.; Dunphy, W. G.: Claspin, a Chk1-regulatory
+protein, monitors DNA replication on chromatin independently of RPA,
+ATR, and Rad17. Molec. Cell 11: 329-340, 2003.
+
+4. Mailand, N.; Bekker-Jensen, S.; Bartek, J.; Lukas, J.: Destruction
+of claspin by SCF-beta-TrCP restrains Chk1 activation and facilitates
+recovery from genotoxic stress. Molec. Cell 23: 307-318, 2006.
+
+5. Peschiaroli, A.; Dorrello, N. V.; Guardavaccaro, D.; Venere, M.;
+Halazonetis, T.; Sherman, N. E.; Pagano, M.: SCF-beta-TrCP-mediated
+degradation of claspin regulates recovery from the DNA replication
+checkpoint response. Molec. Cell 23: 319-329, 2006.
+
+6. Wang, X.; Zou, L.; Lu, T.; Bao, S.; Hurov, K. E.; Hittelman, W.
+N.; Elledge, S. J.; Li, L.: Rad17 phosphorylation is required for
+claspin recruitment and Chk1 activation in response to replication
+stress. Molec. Cell 23: 331-341, 2006.
+
+7. Yoo, H. Y.; Kumagai, A.; Shevchenko, A.; Shevchenko, A.; Dunphy,
+W. G.: Adaptation of a DNA replication checkpoint response depends
+upon inactivation of Claspin by the Polo-like kinase. Cell 117:
+575-588, 2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/1/2006
+Stylianos E. Antonarakis - updated: 8/6/2004
+Patricia A. Hartz - updated: 10/10/2003
+Stylianos E. Antonarakis - updated: 4/18/2003
+
+CREATED Stylianos E. Antonarakis: 11/29/2000
+
+EDITED mgross: 09/07/2006
+terry: 9/1/2006
+mgross: 8/6/2004
+mgross: 10/10/2003
+mgross: 4/18/2003
+mgross: 11/29/2000
+

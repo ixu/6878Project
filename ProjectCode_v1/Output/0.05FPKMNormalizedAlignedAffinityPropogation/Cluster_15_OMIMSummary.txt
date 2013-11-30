@@ -1,0 +1,79 @@
+613568	TITLE *613568 ZINC FINGER, MYM-TYPE 4; ZMYM4
+;;ZINC FINGER PROTEIN 262; ZNF262;;
+KIAA0425
+CELL DEATH-INHIBITING RNA, INCLUDED; CDIR, INCLUDED
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Ishikawa et al. (1997) cloned ZNF262, which they designated
+KIAA0425. The deduced protein contains 1,224 amino acids. RT-PCR
+detected variable ZNF262 expression in all tissues examined, with
+highest expression in kidney and lowest expression in spleen.
+
+By searching an EST database for sequences encoding zinc finger-like
+proteins, Smedley et al. (1999) identified ZNF262. The deduced protein
+contains 5 tandem myeloproliferative and mental retardation (MYM)
+motifs, conserved motifs that closely resemble zinc-binding sequences.
+Northern blot analysis detected variable expression of several ZNF262
+transcripts in all tissues examined, with highest expression in heart,
+skeletal muscle, kidney, and liver.
+
+By screening for cDNAs that inhibited interferon-gamma (147570)-induced
+cell death in HeLa cells, Shchors et al. (2002) obtained a
+441-nucleotide ZNF262 splice variant that they called CDIR. CDIR
+contains only nucleotides 4,416 through 4,856 from the 3-prime UTR of
+the full-length 6,108-nucleotide ZNF262 transcript. CDIR has a short ORF
+encoding a putative 70-amino acid peptide and 14 stretches of 3 or more
+consecutive U nucleobases characteristic of a U- or AU-rich element.
+
+GENE FUNCTION
+
+Shchors et al. (2002) showed that expression of CDIR in HeLa cells
+inhibited interferon-gamma-induced apoptosis in a dose-dependent manner.
+Domain analysis revealed that only full-length CDIR, and not its
+isolated 3-prime or 5-prime ends or ORF, confers resistance to cell
+killing. Mutation analysis revealed that the U-rich motifs AUUUUC and
+UUUCAUUUU are required for this protection. Resistance to cell killing
+was accompanied by elevated levels of p21 (CDKN1A; 116899) and BCL2
+(151430) mRNA and protein. In vitro RNA-protein binding assays and
+Western blot analysis revealed that HSP27 (HSPB1; 602195) and all
+isoforms of AUF1 (HNRNPD; 601324) are components of a protein complex
+that binds CDIR. Use of recombinant proteins revealed that AUF1, but not
+HSP27, directly bound CDIR. Transfection of HeLa cells with another AUF1
+target, the 3-prime UTR of MYC (190080), also inhibited
+interferon-gamma-induced cell killing, but in a limited manner. Shchors
+et al. (2002) concluded that the antiapoptotic effect of CDIR is due to
+the sequestration of AUF1 by CDIR, resulting in elevated levels and
+activity of p21 and BCL2.
+
+MAPPING
+
+Using fluorescence in situ hybridization and genomic sequence analysis,
+Smedley et al. (1999) and Sohal et al. (1999) independently mapped the
+ZNF262 gene to chromosome 1p34-p32.
+
+REFERENCE 1. Ishikawa, K.; Nagase, T.; Nakajima, D.; Seki, N.; Ohira, M.; Miyajima,
+N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of
+the coding sequences of unidentified human genes. VIII. 78 new cDNA
+clones from brain which code for large proteins in vitro. DNA Res. 4:
+307-313, 1997.
+
+2. Shchors, K.; Yehiely, F.; Kular, R. K.; Kotlo, K. U.; Brewer, G.;
+Deiss, L. P.: Cell death inhibiting RNA (CDIR) derived from a 3-prime-untranslated
+region binds AUF1 and heat shock protein 27. J. Biol. Chem. 277:
+47061-47072, 2002.
+
+3. Smedley, D.; Hamoudi, R.; Lu, Y.-J.; Cooper, C.; Shipley, J.:
+Cloning and mapping of members of the MYM family. Genomics 60: 244-247,
+1999.
+
+4. Sohal, J.; Chase, A.; Goldman, J. M.; Cross, N. C. P.: Assignment
+of ZNF262 to human chromosome band 1p34-p32 by in situ hybridization. Cytogenet.
+Cell Genet. 85: 306-307, 1999.
+
+CREATED Patricia A. Hartz: 9/20/2010
+
+EDITED alopez: 10/19/2010
+alopez: 9/20/2010
+

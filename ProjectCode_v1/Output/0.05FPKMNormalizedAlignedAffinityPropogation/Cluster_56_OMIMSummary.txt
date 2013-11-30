@@ -1,0 +1,694 @@
+611973	TITLE *611973 MITOCHONDRIAL RIBOSOMAL PROTEIN S6; MRPS6
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+proteins essential for oxidative phosphorylation. MRPS6 is 1 of more
+than 70 protein components of mitochondrial ribosomes that are encoded
+by the nuclear genome (Kenmochi et al., 2001).
+
+CLONING
+
+By proteolytic digestion of whole bovine 28S subunits, followed by
+peptide analysis and EST database analysis, Koc et al. (2001) identified
+full-length human MRPS6. The deduced 125-amino acid MRPS6 protein has a
+calculated molecular mass of 14.2 kD. Koc et al. (2001) identified MRPS6
+orthologs in mouse, Drosophila, C. elegans, yeast, and E. coli. Highest
+conservation is in the N-terminal end and central region of MRPS6
+orthologs. Mouse and human MRPS6 share 84.8% amino acid identity.
+
+MAPPING
+
+By radiation hybrid analysis and analysis of an integrated BAC-STS map,
+Kenmochi et al. (2001) mapped the MRPS6 gene to chromosome
+21q21.3-q22.1.
+
+REFERENCE 1. Kenmochi, N.; Suzuki, T.; Uechi, T.; Magoori, M.; Kuniba, M.; Higa,
+S.; Watanabe, K.; Tanaka, T.: The human mitochondrial ribosomal protein
+genes: mapping of 54 genes to the chromosomes and implications for
+human disorders. Genomics 77: 65-70, 2001.
+
+2. Koc, E. C.; Burkhart, W.; Blackburn, K.; Moseley, A.; Spremulli,
+L. L.: The small subunit of the mammalian mitochondrial ribosome:
+identification of the full complement of ribosomal proteins present. J.
+Biol. Chem. 276: 19363-19374, 2001.
+
+CREATED Patricia A. Hartz: 4/21/2008
+
+EDITED mgross: 04/21/2008
+
+602677	TITLE *602677 RING FINGER PROTEIN 5; RNF5
+;;RING5;;
+RMA1
+DESCRIPTION 
+CLONING
+
+The RING finger is a unique zinc-chelating domain involved in mediating
+protein-protein interactions. The extensive sequence homology within the
+RING finger domain permitted Kyushiki et al. (1997) to clone RNF5, a
+novel member of the RING finger family of genes. RNF5 encodes a
+predicted 1,620-amino acid protein that shares significant homology with
+a hypothetical protein encoded by Caenorhabditis elegans. Expression of
+RNF5 was detected as a 1.2-kb transcript in a variety of human tissues.
+
+GENE FUNCTION
+
+Cystic fibrosis (219700) arises from misfolding and premature
+degradation of CFTR (602421) containing a deletion of phe508 (delF508;
+602421.0001). Younger et al. (2006) identified an endoplasmic reticulum
+(ER) membrane-associated ubiquitin ligase complex containing the E3
+RMA1, the E2 UBC6E (UBE2J1), and derlin-1 (DERL1; 608813) that
+cooperated with the cytosolic HSC70 (HSPA8; 600816)/CHIP (STUB1; 607207)
+E3 complex to triage CFTR and delFl508. Derlin-1 retained CFTR in the ER
+membrane and interacted with RMA1 and UBC6E to promote proteasomal
+degradation of CFTR. RMA1 could recognize folding defects in delF508
+coincident with translation, whereas CHIP appeared to act
+posttranslationally. A folding defect in delF508 detected by RMA1
+involved the inability of the second membrane-spanning domain of CFTR to
+productively interact with N-terminal domains. Younger et al. (2006)
+concluded that the RMA1 and CHIP E3 ubiquitin ligases act sequentially
+in ER membrane and cytosol to monitor the folding status of CFTR and
+delF508.
+
+Using a yeast 2-hybrid screen, Zhong et al. (2009) identified RNF5 as an
+MITA (TMEM173; 612374)-interacting protein. Coimmunoprecipitation and
+mutation analyses showed that the RNF5 C terminus was required for the
+interaction, which was induced by viral infection. RNF5 ubiquitinated
+MITA at lys150, leading to MITA degradation and inhibition of
+virus-induced IRF3 (603734) activation, IFNB1 (147640) expression, and
+cellular antiviral response. Zhong et al. (2009) concluded that RNF5
+negatively regulates virus-induced signaling by targeting MITA for
+ubiquitination and degradation at the mitochondria.
+
+GENE STRUCTURE
+
+Kyushiki et al. (1997) determined that the RNF5 gene contains 6 exons.
+
+MAPPING
+
+Kyushiki et al. (1997) mapped the RNF5 gene to chromosome 6p21.31 by
+fluorescence in situ hybridization. Radiation hybrid mapping likewise
+assigned RNF5 to a region proximal to the major histocompatibility
+complex (MHC) on chromosome 6p. RNF5 was the third RING finger gene
+identified in the region proximal to MHC, raising the possibility that
+this family of genes may exist as a cluster in that area of the genome.
+The others are RING finger protein-1 (602045) and RING finger protein-3
+(601540).
+
+REFERENCE 1. Kyushiki, H.; Kuga, Y.; Suzuki, M.; Takahashi, E.; Horie, M.:
+Cloning, expression and mapping of a novel RING-finger gene (RNF5),
+a human homologue of a putative zinc-finger gene from Caenorhabditis
+elegans. Cytogenet. Cell Genet. 79: 114-117, 1997.
+
+2. Younger, J. M.; Chen, L.; Ren, H.-Y.; Rosser, M. F. N.; Turnbull,
+E. L.; Fan, C.-Y.; Patterson, C.; Cyr, D. M.: Sequential quality-control
+checkpoints triage misfolded cystic fibrosis transmembrane conductance
+regulator. Cell 126: 571-582, 2006.
+
+3. Zhong, B.; Zhang, L.; Lei, C.; Li, Y.; Mao, A.-P.; Yang, Y.; Wang,
+Y.-Y.; Zhang, X.-L.; Shu, H.-B.: The ubiquitin ligase RNF5 regulates
+antiviral responses by mediating degradation of the adaptor protein
+MITA. Immunity 30: 397-407, 2009.
+
+CONTRIBUTORS Paul J. Converse - updated: 1/20/2010
+Patricia A. Hartz - updated: 2/8/2007
+
+CREATED Victor A. McKusick: 6/2/1998
+
+EDITED mgross: 01/26/2010
+mgross: 1/26/2010
+terry: 1/20/2010
+mgross: 2/8/2007
+carol: 6/2/1998
+
+139110	TITLE *139110 CHEMOKINE, CXC MOTIF, LIGAND 2; CXCL2
+;;GRO2 ONCOGENE; GRO2;;
+SMALL INDUCIBLE CYTOKINE SUBFAMILY B, MEMBER 2; SCYB2;;
+MACROPHAGE INFLAMMATORY PROTEIN 2; MIP2;;
+GRO PROTEIN, BETA; GROB;;
+MIP2-ALPHA; MIP2A
+DESCRIPTION 
+DESCRIPTION
+
+Chemokines are a group of small (approximately 8 to 14 kD), mostly
+basic, structurally related molecules that regulate cell trafficking of
+various types of leukocytes through interactions with a subset of
+7-transmembrane, G protein-coupled receptors. Chemokines also play
+fundamental roles in the development, homeostasis, and function of the
+immune system, and they have effects on cells of the central nervous
+system as well as on endothelial cells involved in angiogenesis or
+angiostasis. Chemokines are divided into 2 major subfamilies, CXC and
+CC, based on the arrangement of the first 2 of the 4 conserved cysteine
+residues; the 2 cysteines are separated by a single amino acid in CXC
+chemokines and are adjacent in CC chemokines. CXC chemokines are further
+subdivided into ELR and non-ELR types based on the presence or absence
+of a glu-leu-arg sequence adjacent and N terminal to the CXC motif
+(summary by Zlotnik and Yoshie, 2000).
+
+CLONING
+
+The GRO1 gene (CXCL1; 155730) was initially identified by Anisowicz et
+al. (1987) by its constitutive overexpression in spontaneously
+transformed Chinese hamster fibroblasts. (The name GRO stood for
+growth-related.) Subsequently, a protein with melanoma
+growth-stimulating activity (MGSA) was shown to be identical. Haskill et
+al. (1990) reported the identification of 2 other GRO genes, which they
+called GRO-beta and GRO-gamma (GRO3, CXCL3; 139111). These 2 share 90%
+and 86% identity at the deduced amino acid level with the original
+GRO-alpha isolate. One amino acid substitution, proline in GRO-alpha by
+leucine in GRO-beta and GRO-gamma, leads to a large predicted change in
+protein conformation. Significant differences were also found in the
+3-prime untranslated region, including different numbers of ATTTA
+repeats associated with mRNA instability. DNA hybridization with
+oligonucleotide probes and partial sequence analysis of the genomic
+clones confirmed that the 3 forms are derived from related but different
+genes. Expression studies revealed tissue-specific regulation as well as
+regulation by specific inducing agents, including interleukin-1, tumor
+necrosis factor, and lipopolysaccharide.
+
+Wolpe et al. (1989) showed that macrophages, in response to endotoxin,
+secrete a protein with a molecular mass of about 6,000 daltons and with
+an affinity for heparin. They termed this protein macrophage
+inflammatory protein-2 (MIP2). It is a potent chemotactic agent for
+polymorphonuclear leukocytes. Subcutaneous administration caused a
+localized inflammatory reaction. Partial N-terminal sequence data showed
+similarity to the family of proteins of which the archetype is platelet
+factor-4 (PF4; 173460). The sequence of the MIP2 gene was found to be
+most closely related to that of the GRO-beta gene.
+
+Tekamp-Olson et al. (1990) used a cDNA clone of murine Mip2 to clone
+cDNAs for 2 human homologs, MIP2-alpha and MIP2-beta, which are highly
+homologous to each other and to the previously isolated gene for MGSA.
+Thus, the 3 GRO genes represent the human homologs of the murine Mip2
+gene.
+
+GENE STRUCTURE
+
+Haskill et al. (1990) reported the identification of 2 other GRO The
+GROB gene consists of 4 exons, 3 introns, and a 3-prime untranslated
+region of about 700 bp terminating at the polyadenylation site.
+
+MAPPING
+
+Studies by Haskill et al. (1990) indicated that the 3 GRO genes, GRO1,
+GRO2, AND GRO3, map to chromosome 4q21.
+
+By PCR analysis and mapping of YAC clones, O'Donovan et al. (1999)
+localized a number of CXC chemokine genes to 4q12-q21. They proposed
+that the order in this region is centromere--IL8--GRO1/PPBP
+(121010)/PF4--SCYB5 (600324)/SCYB6 (138965)--GRO2/GRO3--SCYB11
+(604852)--SCYB10 (147310)--MIG (601704)--telomere. The GRO2 gene was
+localized to 4q12-q13.
+
+ANIMAL MODEL
+
+Nieuwenhuis et al. (2002) showed that clearance of intranasally applied
+Pseudomonas aeruginosa is impaired in the lungs of CD1d
+(188410)-deficient mice as well as in T cell-deficient mice. Failure to
+clear the bacteria was associated with a markedly reduced influx of
+neutrophils in the bronchoalveolar lavage fluid in the early stages of
+the infection, which was thought to result from impaired production of
+chemokines such as Mip2 by alveolar macrophages. Prior administration of
+alpha-galactosylceramide to wildtype mice induced almost complete
+eradication of P. aeruginosa from their lungs, indicating that
+activation of CD1d-restricted T cells by alpha-galactosylceramide is
+critical in host defense against these bacteria. Sequential radiologic,
+macroscopic pathology, and histopathologic analyses confirmed early
+enhanced inflammation and resolution of inflammation and bacterial
+phagocytosis by alveolar macrophages in the
+alpha-galactosylceramide-treated mice, whereas control mice exhibited
+higher numbers of bacteria, lung hemorrhage, and swelling. Flow
+cytometric analysis demonstrated that the macrophage activation in
+alpha-galactosylceramide-treated mice was associated with increased
+numbers of Ifng (147570)-producing NKT cells. Nieuwenhuis et al. (2002)
+concluded that activation of CD1d-restricted T cells is crucial in
+regulating the antimicrobial immune functions of macrophages at the lung
+mucosal surface and suggested that this activity may help in preventing
+colonization in diseases such as cystic fibrosis (219700) and in
+patients undergoing chemotherapy.
+
+In diseased mouse and human arteries, Zhao et al. (2004) demonstrated
+that 5-lipoxygenase (5-LO; 152390)-positive macrophages localize to
+areas of neoangiogenesis and that these cells constitute a main
+component of aortic aneurysms induced by an atherogenic diet containing
+cholate in Apoe (107741) -/- mice. 5-LO deficiency markedly attenuated
+the formation of these aneurysms and was associated with reduced matrix
+metalloproteinase-2 (MMP2; 120360) activity and diminished plasma
+macrophage inflammatory protein-1-alpha (CCL3; 182283), but only
+minimally affected the formation of lipid-rich lesions. The leukotriene
+LTD4 strongly stimulated expression of CCL3 in macrophages and CXCL2 in
+endothelial cells. Zhao et al. (2004) concluded that the 5-LO pathway is
+linked to hyperlipidemia-dependent inflammation of the arterial wall and
+to the pathogenesis of aortic aneurysms through a potential chemokine
+intermediary route.
+
+REFERENCE 1. Anisowicz, A.; Bardwell, L.; Sager, R.: Constitutive overexpression
+of a growth-regulated gene in transformed Chinese hamster and human
+cells. Proc. Nat. Acad. Sci. 84: 7188-7192, 1987.
+
+2. Haskill, S.; Peace, A.; Morris, J.; Sporn, S. A.; Anisowicz, A.;
+Lee, S. W.; Smith, T.; Martin, G.; Ralph, P.; Sager, R.: Identification
+of three related human GRO genes encoding cytokine functions. Proc.
+Nat. Acad. Sci. 87: 7732-7736, 1990.
+
+3. Nieuwenhuis, E. E. S.; Matsumoto, T.; Exley, M.; Schleipman, R.
+A.; Glickman, J.; Bailey, D. T.; Corazza, N.; Colgan, S. P.; Onderdonk,
+A. B.; Blumberg, R. S.: CD1d-dependent macrophage-mediated clearance
+of Pseudomonas aeruginosa from lung. Nature Med. 8: 588-593, 2002.
+
+4. O'Donovan, N.; Galvin, M.; Morgan, J. G.: Physical mapping of
+the CXC chemokine locus on human chromosome 4. Cytogenet. Cell Genet. 84:
+39-42, 1999.
+
+5. Tekamp-Olson, P.; Gallegos, C.; Bauer, D.; McClain, J.; Sherry,
+B.; Fabre, M.; van Deventer, S.; Cerami, A.: Cloning and characterization
+of cDNAs for murine macrophage inflammatory protein 2 and its human
+homologues. J. Exp. Med. 172: 911-919, 1990.
+
+6. Wolpe, S. D.; Sherry, B.; Juers, D.; Davatelis, G.; Yurt, R. W.;
+Cerami, A.: Identification and characterization of macrophage inflammatory
+protein 2. Proc. Nat. Acad. Sci. 86: 612-616, 1989.
+
+7. Zhao, L.; Moos, M. P. W.; Grabner, R.; Pedrono, F.; Fan, J.; Kaiser,
+B.; John, N.; Schmidt, S.; Spanbroek, R.; Lotzer, K.; Huang, L.; Cui,
+J.; Rader, D. J.; Evans, J. F.; Habenicht, A. J. R.; Funk, C. D.:
+The 5-lipoxygenase pathway promotes pathogenesis of hyperlipidemia-dependent
+aortic aneurysm. Nature Med. 10: 966-973, 2004.
+
+8. Zlotnik, A.; Yoshie, O.: Chemokines: a new classification system
+and their role in immunity. Immunity 12: 121-127, 2000.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 9/30/2004
+Paul J. Converse - updated: 5/31/2002
+Paul J. Converse - updated: 4/19/2000
+
+CREATED Victor A. McKusick: 11/26/1990
+
+EDITED terry: 08/22/2012
+carol: 8/17/2012
+mgross: 7/20/2005
+carol: 9/30/2004
+mgross: 9/26/2002
+alopez: 5/31/2002
+mgross: 5/31/2002
+mgross: 4/19/2000
+dkim: 7/23/1998
+mark: 9/15/1996
+carol: 11/9/1992
+supermim: 3/16/1992
+carol: 1/24/1992
+carol: 8/22/1991
+carol: 11/26/1990
+
+603646	TITLE *603646 CYTOCHROME c OXIDASE ASSEMBLY PROTEIN COX15; COX15
+;;COX15, S. CEREVISIAE, HOMOLOG OF
+DESCRIPTION 
+DESCRIPTION
+
+Cytochrome c oxidase (COX; EC 1.9.3.1), the terminal component of the
+mitochondrial respiratory chain, is a multiheteromeric enzyme embedded
+in the mitochondrial inner membrane. COX consists of a protein backbone
+bound to 2 copper-containing prosthetic groups, the cytochromes a and
+a-3. See 123864. The S. cerevisiae cox15 protein is a constituent of the
+inner mitochondrial membrane and may be involved in the assembly of the
+COX protein backbone (Petruzzella et al., 1998).
+
+CLONING
+
+By searching an EST database for sequences related to cox15, Petruzzella
+et al. (1998) identified cDNAs encoding human COX15. The cDNAs encoded 2
+COX15 isoforms, COX15.1 and COX15.2, with different C termini. The amino
+acid sequences of both isoforms are 42% identical to that of yeast
+cox15. Sequence analysis indicated that COX15 contains a mitochondrial
+leader peptide and 5 transmembrane domains. Using in vitro mitochondrial
+import and trypsin-protection assays, the authors demonstrated that the
+COX15 protein is targeted to mitochondria. Northern blot analysis
+revealed that COX15 is expressed as 1.5-, 1.8-, and 3-kb mRNAs
+predominantly in tissues characterized by high rates of oxidative
+phosphorylation (OXPHOS), including muscle, heart, and brain.
+
+MAPPING
+
+Based on sequence similarity to ESTs, Petruzzella et al. (1998)
+tentatively mapped the COX15 gene to 10q24.
+
+MOLECULAR GENETICS
+
+Deficiencies in the activity of COX are a frequent cause of autosomal
+recessive mitochondrial disease in infants (220110). These patients are
+clinically and genetically heterogeneous. The defects identified in this
+group have mostly involved genes coding for accessory proteins that play
+important roles in the assembly of the COX holoenzyme complex. Antonicka
+et al. (2003) used a panel of retroviral vectors expressing COX assembly
+factors in these patients to identify the molecular basis of the COX
+deficiency by functional complementation. They showed that
+overexpression of COX15, a protein involved in the synthesis of heme A,
+the heme prosthetic group for COX, could functionally complement the
+isolated COX deficiency in fibroblasts from a patient with fatal
+infantile who had predominantly cardiac involvement and relative sparing
+of skeletal muscle (CEMCOX2; 615119).
+
+Mutation analysis of COX15 in the patient identified an arg217-to-trp
+(R217W; 603646.0001) mutation in 1 allele and a splice site mutation in
+intron 3 on the other allele (C447-3G), resulting in deletion of exon 4
+(603646.0002). In the patient, mitochondrial heme A content was reduced
+in heart and fibroblast mitochondria, and levels of heme O were
+increased in heart. COX activity and the total amount of fully assembled
+enzyme were reduced by 50 to 70% in fibroblasts. Expression of COX15
+increased heme A content and rescued COX activity. Thus, it appeared
+that reduced availability of heme A stalls the assembly of COX. This
+study established COX15 as an additional cause, along with SCO2, of
+fatal infantile hypertrophic cardiomyopathy associated with isolated COX
+deficiency.
+
+Oquendo et al. (2004) reported a patient with Leigh syndrome (256000)
+due to cytochrome c oxidase deficiency who was homozygous for the R217W
+mutation in the COX15 gene.
+
+Bugiani et al. (2005) reported a 16-year-old Italian boy with Leigh
+syndrome who was compound heterozygous for a nonsense mutation (S151X;
+603646.0003) and a missense mutation (S344P; 603646.0004) in the COX15
+gene. The authors noted that defects in the COX15 gene appear to be
+associated with considerable clinical and biochemical heterogeneity.
+
+In an infant girl with isolated complex IV deficiency that was more
+marked in cardiac than skeletal muscle, who died at day 9 of life with
+encephalopathy, respiratory depression, and marked cardiac hypertrophy
+of all walls, Alfadhel et al. (2011) analyzed 6 candidate genes and
+identified compound heterozygosity for the R217W missense mutation and a
+nonsense mutation (S151X; 603646.0003) in the COX15 gene.
+
+ALLELIC VARIANT .0001
+CARDIOENCEPHALOMYOPATHY, FATAL INFANTILE, DUE TO CYTOCHROME c OXIDASE
+DEFICIENCY 2
+LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX IV DEFICIENCY, INCLUDED
+COX15, ARG217TRP
+
+In a female infant who had fatal infantile cytochrome c oxidase
+deficiency with predominantly cardiac involvement and relative sparing
+of skeletal muscle (CEMCOX2; 615119), originally reported by Kennaway et
+al. (1990), Antonicka et al. (2003) identified compound heterozygosity
+for a 700C-T transition on 1 allele, resulting in an arg217-to-trp
+(R217W) substitution, and a splice site mutation in intron 3 on the
+other allele (C447-3G), resulting in deletion of exon 4 (603646.0002).
+The splicing error introduced a frameshift and a premature stop codon,
+resulting in an unstable mRNA and, likely, a null allele.
+
+In an infant girl with isolated complex IV deficiency that was more
+marked in cardiac than skeletal muscle, who died at day 9 of life with
+encephalopathy, respiratory depression, and marked cardiac hypertrophy,
+Alfadhel et al. (2011) identified compound heterozygosity for the R217W
+missense mutation and a nonsense mutation (S151X; 603646.0003) in the
+COX15 gene.
+
+In a patient with Leigh syndrome due to cytochrome c oxidase deficiency
+(256000), Oquendo et al. (2004) identified homozygosity for the R217W
+mutation. Both parents were heterozygous for the mutation. The authors
+noted the phenotypic variation associated with this mutation.
+
+.0002
+CARDIOENCEPHALOMYOPATHY, FATAL INFANTILE, DUE TO CYTOCHROME c OXIDASE
+DEFICIENCY 2
+COX15, IVS3, C-G, -3
+
+See 603646.0001 and Antonicka et al. (2003).
+
+.0003
+LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX IV DEFICIENCY
+COX15, SER151TER
+
+In a 16-year-old Italian boy with Leigh syndrome (256000), Bugiani et
+al. (2005) identified compound heterozygosity for a 452C-G transversion
+in exon 4 of the COX15 gene, resulting in a ser151-to-ter (S151X)
+substitution, and a 1030T-C transition in exon 8, resulting in a
+ser344-to-pro (S344P; 603646.0004) substitution at a conserved residue
+in the C-terminal end of the fifth predicted transmembrane domain. The
+patient failed to thrive in infancy, with poor sucking and feeding
+difficulties, and was noted to have severe psychomotor delay at 4 months
+of age, with diffuse hypotonia and muscle wasting and weakness. MRI at
+18 months of age showed symmetric signal changes in the posterior part
+of the putamina and bilateral cerebellar white matter abnormalities.
+Plasma lactate and pyruvate levels were markedly elevated. Symptoms
+worsened thereafter with virtual arrest of body growth, progressive loss
+of postural control, and onset of dystonic postures in the upper limbs,
+whereas cognitive functions remained relatively better preserved.
+Clinical features remained grossly unchanged thereafter, and apart from
+central nervous system and skeletal muscle, the patient showed no
+abnormality in other tissues or organs, including the heart,
+gastrointestinal tract, liver, kidneys, or hematopoietic system.
+
+See 603646.0001 and Alfadhel et al. (2011).
+
+.0004
+LEIGH SYNDROME DUE TO MITOCHONDRIAL COMPLEX IV DEFICIENCY
+COX15, SER344PRO
+
+See 603646.0003 and Bugiani et al. (2005).
+
+REFERENCE 1. Alfadhel, M.; Lillquist, Y. P.; Waters, P. J.; Sinclair, G.; Struys,
+E.; McFadden, D.; Hendson, G.; Hyams, L.; Shoffner, J.; Vallance,
+H. D.: Infantile cardioencephalopathy due to a COX15 gene defect:
+report and review. Am. J. Med. Genet. 155A: 840-844, 2011.
+
+2. Antonicka, H.; Mattman, A.; Carlson, C. G.; Glerum, D. M.; Hoffbuhr,
+K. C.; Leary, S. C.; Kennaway, N. G.; Shoubridge, E. A.: Mutations
+in COX15 produce a defect in the mitochondrial heme biosynthetic pathway,
+causing early-onset fatal hypertrophic cardiomyopathy. Am. J. Hum.
+Genet. 72: 101-114, 2003.
+
+3. Bugiani, M.; Tiranti, V.; Farina, L.; Uziel, G.; Zeviani, M.:
+Novel mutations in COX15 in a long surviving Leigh syndrome patient
+with cytochrome c oxidase deficiency. J. Med. Genet. 42: e28, 2005.
+Note: Electronic Article. Erratum published online.
+
+4. Kennaway, N. G.; Carrero-Valenzuela, R. D.; Ewart, G.; Balan, V.
+K.; Lightowlers, R.; Zhang, Y. Z.; Powell, B. R.; Capaldi, R. A.;
+Buist, N. R.: Isoforms of mammalian cytochrome c oxidase: correlation
+with human cytochrome c oxidase deficiency. Pediat. Res. 28: 529-535,
+1990.
+
+5. Oquendo, C. E.; Antonicka, H.; Shoubridge, E. A.; Reardon, W.;
+Brown, G. K.: Functional and genetic studies demonstrate that mutation
+in the COX15 gene can cause Leigh syndrome. (Letter) J. Med. Genet. 41:
+540-544, 2004.
+
+6. Petruzzella, V.; Tiranti, V.; Fernandez, P.; Ianna, P.; Carrozzo,
+R.; Zeviani, M.: Identification and characterization of human cDNAs
+specific to BCS1, PET112, SCO1, COX15, and COX11, five genes involved
+in the formation and function of the mitochondrial respiratory chain. Genomics 54:
+494-504, 1998.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 3/12/2013
+Marla J. F. O'Neill - updated: 11/12/2008
+Victor A. McKusick - updated: 1/22/2003
+
+CREATED Rebekah S. Rasooly: 3/15/1999
+
+EDITED carol: 08/05/2013
+carol: 3/13/2013
+terry: 3/12/2013
+alopez: 8/25/2009
+wwang: 11/14/2008
+terry: 11/12/2008
+carol: 9/2/2004
+ckniffin: 9/2/2004
+ckniffin: 7/26/2004
+terry: 6/3/2004
+tkritzer: 1/31/2003
+tkritzer: 1/23/2003
+terry: 1/22/2003
+psherman: 4/10/2000
+alopez: 3/15/1999
+
+604450	TITLE *604450 PROTEASOME 26S SUBUNIT, NON-ATPase, 12; PSMD12
+;;p55
+DESCRIPTION The 26S proteasome is responsible for the ATP-dependent degradation of a
+variety of cellular proteins. Selective breakdown of these proteins is
+mediated by the ubiquitin pathway. The 26S proteasome is a 2,000-kD
+protein complex composed of the 20S proteasome, which is the catalytic
+subcomplex, and PA700, which is the regulatory subcomplex. The
+approximately 700-kD PA700 complex consists of approximately 20
+heterogeneous proteins ranging from 25 to 112 kD. These subunits can be
+divided into 2 classes, those that are members of the AAA (ATPases
+associated with various cellular activities) family and those that are
+not.
+
+Saito et al. (1997) sequenced peptides from the p55 subunit of the
+bovine PA700 complex. They identified a human EST encoding a homologous
+protein and used this EST to isolate hepatoblastoma HepG2 cell cDNAs
+encoding human p55, also called PSMD12. The deduced 456-amino acid
+PSMD12 protein has a calculated molecular mass of 52,903 Da. The authors
+identified a putative S. cerevisiae homolog, which they named NAS5, that
+shares 41.1% amino acid sequence identity with PSMD12. Disruption of the
+NAS5 gene resulted in lethality.
+
+REFERENCE 1. Saito, A.; Watanabe, T. K.; Shimada, Y.; Fujiwara, T.; Slaughter,
+C. A.; DeMartino, G. N.; Tanahashi, N.; Tanaka, K.: cDNA cloning
+and functional analysis of p44.5 and p55, two regulatory subunits
+of the 26S proteasome. Gene 203: 241-250, 1997.
+
+CREATED Patti M. Sherman: 1/20/2000
+
+EDITED mgross: 01/21/2000
+psherman: 1/20/2000
+
+162096	TITLE *162096 MIDKINE; MDK
+;;MIDGESTATION AND KIDNEY; MK;;
+NEURITE GROWTH-PROMOTING FACTOR 2, FORMERLY; NEGF2, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Midkine is a retinoic acid-responsive, heparin-binding growth factor
+expressed in various cell types during embryogenesis. It promotes
+angiogenesis, cell growth, and cell migration. Midkine is also expressed
+in several carcinomas, suggesting that it may play a role in
+tumorigenesis, perhaps through its effects on angiogenesis (summary by
+Reynolds et al., 2004).
+
+CLONING
+
+Using mouse Mk to screen a midgestation human embryonic kidney cDNA
+library, followed by screening a placenta genomic library, Tsutsui et
+al. (1991) cloned human MDK, which they called MK. The deduced 121-amino
+acid protein has a signal sequence and shares 87% identity with mouse
+Mk. Orthologs of MK were detected in rat, cow, and chicken. The chicken
+ortholog, Rihb, is a retinoic acid-induced heparin-binding protein. MK
+shares about 50% amino acid homology with the human heparin-binding
+protein pleiotrophin (PTN; 162095), with highest conservation in the
+central part of the molecule and complete conservation of cysteine
+residues. Northern blot analysis detected a transcript of about 1 kb in
+adult human kidney and PA1 human teratocarcinoma cells.
+
+GENE FUNCTION
+
+Reynolds et al. (2004) found that hypoxia induced midkine expression in
+alveolar epithelial cells and pulmonary vasculature in a strain of mice
+sensitive to hypoxia. Hypoxia induced expression of both HIF1-alpha
+(603348) and midkine in human placental adenocarcinoma, mouse fetal lung
+mesenchyme, and human pulmonary adenocarcinoma cell lines. HIF1-alpha
+induced midkine expression via regulatory elements in the mouse midkine
+promoter. Chronic expression of midkine during embryonic development in
+transgenic mice resulted in pulmonary arterial remodeling and
+muscularization, but only during the postnatal phase of lung
+development. In fetal mouse lung mesenchymal cells and transgenic mice,
+midkine upregulated expression of myocardin (MYOCD; 606127), a regulator
+of smooth muscle cell differentiation.
+
+Intraperitoneal adhesions between organs or between organs and
+peritoneal walls occur in more than 90% of cases involving major
+abdominal operations. Using a model of postoperative adhesions and
+Mk-null mice, Inoh et al. (2004) showed that midkine was fundamentally
+involved in the formation of intraperitoneal adhesions, at least partly
+by promoting migration of macrophages and neutrophils to the omentum.
+
+Hobo et al. (2009) found that 5/6 nephrectomy in mice, a model of
+chronic kidney disease, induced expression of midkine in lung, leading
+to elevated angiotensin-converting enzyme (ACE; 106180) activity and
+plasma angiotensin II (106150) levels and subsequent hypertension.
+Exposure to midkine enhanced ACE expression in primary cultured human
+lung microvascular endothelial cells. Oxidative stress may have
+contributed to midkine expression, since 5/6 nephrectomy induced
+expression of NADH/NADPH oxidase-1 (NOX1; 300225), Nox2 (CYBB; 300481),
+and Nox4 (605261). Furthermore, an antioxidant reduced midkine
+expression and plasma angiotensin II levels and ameliorated hypertension
+in 5/6 nephrectomized mice.
+
+GENE STRUCTURE
+
+Uehara et al. (1992) determined that the MDK gene contains 4 exons. The
+5-prime flanking region adjacent to the start site contains 5 GC boxes,
+a steroid/thyroid hormone receptor-binding site, and an A/T-rich island,
+but there is no obvious CAAT box. Further upstream there is a region
+with high GC content. The mouse Mdk gene has a similar organization,
+with conservation of exons and significant homology in the 5-prime
+region adjacent to the start site. There are 3 additional regions of
+homology between mouse and human MDK in the 5-prime UTR.
+
+MAPPING
+
+By study of somatic cell hybrids, Eddy et al. (1991) demonstrated that
+the MDK gene segregates concordantly with chromosome 11 and, using cell
+hybrids carrying translocations involving chromosome 11, they mapped the
+gene regionally to 11p13-p11. Kaname et al. (1993) mapped the MDK gene
+to human chromosome 11p11.2 by fluorescence in situ hybridization.
+Simon-Chazottes et al. (1992) mapped the mouse Mdk gene to chromosome 2,
+using an interspecific backcross panel and microsatellite polymorphisms
+as markers. O'Hara et al. (1995) used somatic cell hybrid analysis and
+interspecific backcross analysis, respectively, to map human Mdk to
+chromosome 11p13-p11 and mouse Mdk to a syntenic region of mouse
+chromosome 2. They also mapped an Mdk pseudogene to mouse chromosome 11.
+
+ANIMAL MODEL
+
+Using microarray analysis, Ezquerra et al. (2005) found that aortae of
+Mk -/- mice showed elevated expression of renin (REN; 179820),
+angiotensinogen (106150), angiotensin II receptor-1 (AGTR1; 106165), and
+angiotensin II receptor-2 (AGTR2; 300034) and decreased expression of
+Ace.
+
+REFERENCE 1. Eddy, R. L.; Kretschmer, P. J.; Fairhurst, J. L.; Shows, T. B.;
+Bohlen, P.; O'Hara, B.; Kovesdi, I.: A human gene family of neurite
+outgrowth-promoting proteins: heparin-binding neurite outgrowth promoting
+factor maps to 11p11-11p13. (Abstract) Cytogenet. Cell Genet. 58:
+1958 only, 1991.
+
+2. Ezquerra, L.; Herradon, G.; Nguyen, T.; Silos-Santiago, I.; Deuel,
+T. F.: Midkine, a newly discovered regulator of the renin-angiotensin
+pathway in mouse aorta: significance of the pleiotrophin/midkine developmental
+gene family in angiotensin II signaling. Biochem. Biophys. Res. Commun. 333:
+636-643, 2005.
+
+3. Hobo, A.; Yuzawa, Y.; Kosugi, T.; Kato, N.; Asai, N.; Sato, W.;
+Maruyama, S.; Ito, Y.; Kobori, H.; Ikematsu, S.; Nishiyama, A.; Matsuo,
+S.; Kadomatsu, K.: The growth factor midkine regulates the renin-angiotensin
+system in mice. J. Clin. Invest. 119: 1616-1625, 2009.
+
+4. Inoh, K.; Muramatsu, H.; Ochiai, K.; Torii, S.; Muramatsu, T.:
+Midkine, a heparin-binding cytokine, plays key roles in intraperitoneal
+adhesions. Biochem. Biophys. Res. Commun. 317: 108-113, 2004.
+
+5. Kaname, T.; Kuwano, A.; Murano, I.; Uehara, K.; Muramatsu, T.;
+Kajii, T.: Midkine gene (MDK), a gene for prenatal differentiation
+and neuroregulation, maps to band 11p11.2 by fluorescence in situ
+hybridization. Genomics 17: 514-515, 1993.
+
+6. O'Hara, B.; Jenkins, N. A.; Gilbert, D. J.; Copeland, N. G.; Shows,
+T. B.; Eddy, R. L.; Bohlen, P.; Kovesdi, I.: Chromosomal assignment
+of the heparin-binding cytokine genes MDK and PTN in mouse and man. Cytogenet.
+Cell Genet. 69: 40-43, 1995.
+
+7. Reynolds, P. R.; Mucenski, M. L.; Le Cras, T. D.; Nichols, W. C.;
+Whitsett, J. A.: Midkine is regulated by hypoxia and causes pulmonary
+vascular remodeling. J. Biol. Chem. 279: 37124-37132, 2004.
+
+8. Simon-Chazottes, D.; Matsubara, S.; Miyauchi, T.; Muramatsu, T.;
+Guenet, J.-L.: Chromosomal localization of two cell surface-associated
+molecules of potential importance in development: midkine (Mdk) and
+basigin (Bsg). Mammalian Genome 2: 269-271, 1992.
+
+9. Tsutsui, J.; Uehara, K.; Kadomatsu, K.; Matsubara, S.; Muramatsu,
+T.: A new family of heparin-binding factors: strong conservation
+of midkine (MK) sequences between the human and the mouse. Biochem.
+Biophys. Res. Commun. 176: 792-797, 1991.
+
+10. Uehara, K.; Matsubara, S.; Kadomatsu, K.; Tsutsui, J.; Muramatsu,
+T.: Genomic structure of human midkine (MK), a retinoic acid-responsive
+growth/differentiation factor. J. Biochem. 111: 563-567, 1992.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/2/2010
+Patricia A. Hartz - updated: 11/16/2010
+
+CREATED Victor A. McKusick: 9/30/1991
+
+EDITED mgross: 12/06/2010
+terry: 12/2/2010
+mgross: 11/19/2010
+terry: 11/16/2010
+dkim: 7/24/1998
+mark: 4/5/1995
+carol: 9/13/1993
+supermim: 3/16/1992
+carol: 3/2/1992
+carol: 2/22/1992
+carol: 9/30/1991
+

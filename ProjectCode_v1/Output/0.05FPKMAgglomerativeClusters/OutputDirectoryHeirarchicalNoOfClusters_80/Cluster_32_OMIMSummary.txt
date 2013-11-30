@@ -1,0 +1,1704 @@
+614479	TITLE *614479 MALONYL CoA:ACP ACYLTRANSFERASE, MITOCHONDRIAL; MCAT
+;;MITOCHONDRIAL MALONYLTRANSFERASE;;
+MT, MITOCHONDRIAL
+DESCRIPTION 
+DESCRIPTION
+
+MCAT (EC 2.3.1.39) is the catalytic subunit of the type II
+malonyl-CoA-dependent system for biosynthesis of fatty acids in
+mitochondria (Zhang et al., 2003).
+
+CLONING
+
+Zhang et al. (2003) cloned human MCAT, which they called mitochondrial
+MT. The deduced 390-amino acid protein has an N-terminal cleavable
+mitochondrial targeting signal, a GxSxG serine esterase active-site
+motif, and conserved arg and his residues required for activity.
+Fluorescence-tagged MCAT colocalized with a mitochondrial marker
+following expression in HeLa cells.
+
+GENE FUNCTION
+
+Zhang et al. (2003) found that human mitochondrial MT expressed in
+insect cells had a narrower substrate specificity than cytosolic MT
+(FASN; 600212) and transferred a malonyl moiety to the mitochondrial
+malonyl acceptor ACP (NDUFAB1; 603836) only.
+
+GENE STRUCTURE
+
+Zhang et al. (2003) determined that the MCAT gene contains 4 exons.
+
+MAPPING
+
+By genomic sequence analysis, Zhang et al. (2003) mapped the MCAT gene
+to chromosome 22q13.31.
+
+REFERENCE 1. Zhang, L.; Joshi, A. K.; Smith, S.: Cloning, expression, characterization,
+and interaction of two components of a human mitochondrial fatty acid
+synthase: malonyltransferase and acyl carrier protein. J. Biol. Chem. 278:
+40067-40074, 2003.
+
+CREATED Patricia A. Hartz: 2/13/2012
+
+EDITED joanna: 08/30/2012
+mgross: 2/13/2012
+
+611966	TITLE *611966 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 9; TRAPPC9
+;;NIK- AND IKBKB-BINDING PROTEIN; NIBP;;
+KIAA1882
+DESCRIPTION 
+DESCRIPTION
+
+NIBP binds NIK (604655) and IKK-beta (IKBKB; 603258) and plays a role in
+the neuronal NF-kappa-B (see 164011) signaling pathway (Hu et al.,
+2005).
+
+CLONING
+
+By sequencing clones obtained from an adult amygdala cDNA library,
+Nagase et al. (2001) cloned a partial cDNA encoding NIBP, which they
+designated KIAA1882. RT-PCR ELISA detected moderate expression in all
+tissues and specific brain regions examined.
+
+By yeast 2-hybrid screening of a human brain cDNA library using
+N-terminal NIK (MAP3K14; 604655) as bait, followed by database analysis,
+Hu et al. (2005) cloned NIBP. The deduced 1,246-amino acid protein has a
+calculated molecular mass of 139.4 kD and shares 80 to 90% homology with
+the corresponding rodent sequences. Northern blot analysis of human
+tissues detected a 4.5-kb transcript with high expression in muscle and
+kidney, and lower levels in brain, heart, and placenta; 2 smaller
+transcripts of 2.1 and 1.5 kb were also detected. Immunohistochemical
+studies detected NIBP protein in neuronal cells in mouse brain with
+staining localized to cell bodies and neuronal processes in the
+pyramidal layer of mouse cortex, spinal cord motor neurons, and white
+matter neurons.
+
+Mochida et al. (2009) noted that there are 2 transcript variants of
+TRAPPC9 in humans. Variant 1 is the longer form and encodes a
+1,246-amino acid protein. Variant 2 uses an alternate 5-prime exon
+initiating translation at a downstream start codon and encodes a
+1,148-amino acid protein. In situ hybridization showed low levels of
+expression in mouse embryonic brain with strong expression in adult
+brain. Trappc9 was found in neurons of the cerebral cortex, hippocampus,
+and deep gray matter. Trappc9 immunoreactivity was widespread in the
+cytoplasm, without specific localization to any particular organelle,
+and was not found in the nucleus. In 11.5-week human embryonic brain,
+there was higher expression in the developing cortical plate compared to
+the ventricular zone, indicating higher expression in postmitotic
+neurons than in progenitor cells.
+
+GENE STRUCTURE
+
+Hu et al. (2005) determined that the TRAPPC9 gene contains 23 exons.
+
+MAPPING
+
+By genomic sequence analysis, Hu et al. (2005) mapped the TRAPPC9 gene
+to chromosome 8q24.3.
+
+GENE FUNCTION
+
+By coimmunoprecipitation and GST pull-down assays, Hu et al. (2005)
+showed that NIBP interacted with NIK and IKK-beta but showed no
+interaction with IKK-alpha (CHUK; 600664) or IKK-gamma (IKBKG; 300248).
+NIBP overexpression in HEK293T cells potentiated TNFA (191160)-induced
+NF-kappa-B activation through increased phosphorylation of the IKK
+complex and its downstream substrates IKBA (NFKBIA; 164008) and p65
+(NFKB3; 164014). Mobility shift assays demonstrated increased NF-kappa-B
+DNA binding. Knockdown of NIBP by siRNA reduced TNFA-induced NF-kappa-B
+activation, prevented NGF (see 162030)-induced neuronal differentiation,
+and decreased BCLXL (see BCL2L1; 600039) gene expression in PC12 cells.
+Hu et al. (2005) suggested that NIBP may act as an adaptor to recruit
+NIK or other kinases to the IKK complex, and that NIBP acts as a
+downstream component of NGF in neuronal cells.
+
+MOLECULAR GENETICS
+
+By genomewide linkage analysis, followed by candidate gene sequencing,
+of an Israeli Arab family with nonsyndromic mental retardation (MRT13;
+613192), Mochida et al. (2009) identified a homozygous truncating
+mutation in the TRAPPC9 gene (R475X; 611966.0001).
+
+Mir et al. (2009) identified the R475X mutation in affected members of a
+Pakistani family with MRT13 and identified a 4-bp deletion (611966.0003)
+in affected members of an Iranian family with MRT13, previously reported
+by Najmabadi et al. (2007).
+
+Philippe et al. (2009) identified a nonsense mutation in the TRAPPC9
+gene (611966.0002) in 3 Tunisian brothers with autosomal recessive
+mental retardation.
+
+In 2 sisters, born of unrelated parents from southern Italy, with MRT13,
+Marangi et al. (2013) identified a homozygous truncating mutation in the
+TRAPPC9 gene (611966.0004).
+
+ALLELIC VARIANT .0001
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, ARG475TER
+
+In affected members of an Israeli Arab family with nonsyndromic
+autosomal recessive mental retardation and postnatal microcephaly
+(MRT13; 613192), Mochida et al. (2009) identified a homozygous 1423C-T
+transition in exon 7 of the TRAPPC9 gene, resulting in an arg475-to-ter
+(R475X) substitution in TRAPPC9 variant 1. The same change represents
+1129C-T, resulting in an arg377-to-ter (R377X) substitution, in TRAPPC9
+variant 2. Each unaffected parent was heterozygous for the mutation, and
+it was not identified in 306 control chromosomes. The protein was not
+detected in patient lymphoblast cell lines.
+
+Mir et al. (2009) identified a homozygous 1422C-T transition in the
+TRAPPC9 gene, resulting in an R475X mutation, in affected members of a
+large consanguineous Pakistani family with mental retardation. The
+mutant protein was not expressed, consistent with nonsense-mediated mRNA
+decay. Affected individuals had borderline microcephaly, delayed
+walking, and white matter abnormalities on brain MRI.
+
+Abou Jamra et al. (2011) identified homozygosity for the R475X mutation
+in affected members of a large consanguineous Syrian family with
+autosomal recessive mental retardation. The patients had neonatal
+hypotonia, severe motor delay with walking between ages 5 and 7 years,
+single words or no speech, growth retardation, stereotypic movements,
+and hand flapping. They also shared some dysmorphic features, including
+low frontal hairline, synophrys, and microcephaly.
+
+.0002
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, ARG570TER
+
+In 3 brothers, born of consanguineous Tunisian parents, with autosomal
+recessive mental retardation (MRT13; 613192), Philippe et al. (2009)
+identified a homozygous 1708C-T transition in exon 9 of the TRAPPC9
+gene, resulting in an arg570-to-ter (R570X) substitution. The mutation
+was not found in 1,120 control chromosomes. The protein was not detected
+in patient fibroblasts, and the authors postulated nonsense-mediated
+mRNA decay. In cultured patient fibroblasts, stimulation with TNF-alpha
+(191160) showed a defect in IKBA (NFKBIA; 164008) degradation,
+suggesting impaired function of the NF-kappa-B (see 164011) signaling
+pathway.
+
+.0003
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, 4-BP DEL, 2311TGTT
+
+In affected members of an Iranian family (M001) with mental retardation
+(613192), previously reported by Najmabadi et al. (2007) as showing
+linkage to chromosome 8q24, Mir et al. (2009) identified a 4-bp deletion
+(2311delTGTT) in the TRAPPC9 gene, resulting in a frameshift and
+premature termination. Affected members had severe nonsyndromic mental
+retardation, were ambulatory but nonverbal, and had microcephaly. There
+were no seizures or dysmorphic features.
+
+.0004
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, IVS17AS, A-C, -2
+
+In 2 sisters, born of unrelated parents from southern Italy, with MRT13
+(613192), Marangi et al. (2013) identified a homozygous A-to-C
+transversion in intron 17 of the TRAPPC9 gene (2851-2A-C), resulting in
+the skipping of exon 18, a frameshift, and premature termination
+(Thr951TyrfsTer17). Each unaffected parent was heterozygous for the
+mutation, which was identified by exome sequencing. PCR analysis of
+patient cells did not show reduction of the TRAPPC9 transcript in the 2
+sisters.
+
+REFERENCE 1. Abou Jamra, R. A.; Wohlfart, S.; Zweier, M.; Uebe, S.; Priebe,
+L.; Ekici, A.; Giesebrecht, S.; Abboud, A.; Al Khateeb, M. A.; Fakher,
+M.; Hamdan, S.; Ismael, A.; Muhammad, S.; Nothen, M. M.; Schumacher,
+J.; Reis, A.: Homozygosity mapping in 64 Syrian consanguineous families
+with non-specific intellectual disability reveals 11 novel loci and
+high heterogeneity. Europ. J. Hum. Genet. 19: 1161-1166, 2011.
+
+2. Hu, W.-H.; Pendergast, J. S.; Mo, X.-M.; Brambilla, R.; Bracchi-Ricard,
+V.; Li, F.; Walters, W. M.; Blits, B.; He, L.; Schaal, S. M.; Bethea,
+J. R.: NIBP, a novel NIK and IKK-beta-binding protein that enhances
+NF-kappa-B activation. J. Biol. Chem. 280: 29233-29241, 2005.
+
+3. Marangi, G.; Leuzzi, V.; Manti, F.; Lattante, S.; Orteschi, D.;
+Pecile, V.; Neri, G.; Zollino, M.: TRAPPC9-related autosomal recessive
+intellectual disability: report of a new mutation and clinical phenotype. Europ.
+J. Hum. Genet. 21: 229-232, 2013.
+
+4. Mir, A.; Kaufman, L.; Noor, A.; Motazacker, M. M.; Jamil, T.; Azam,
+M.; Kahrizi, K.; Rafiq, M. A.; Weksberg, R.; Nasr, T.; Naeem, F.;
+Tzschach, A.; Kuss, A. W.; Ishak, G. E.; Doherty, D.; Ropers, H. H.;
+Barkovich, A. J.; Najmabadi, H.; Ayub, M.; Vincent, J. B.: Identification
+of mutations in TRAPPC9, which encodes the NIK- and IKK-beta-binding
+protein, in nonsyndromic autosomal-recessive mental retardation. Am.
+J. Hum. Genet. 85: 909-915, 2009.
+
+5. Mochida, G. H.; Mahajnah, M.; Hill, A. D.; Basel-Vanagaite, L.;
+Gleason, D.; Hill, R. S.; Bodell, A.; Crosier, M.; Straussberg, R.;
+Walsh, C. A.: A truncating mutation of TRAPPC9 is associated with
+autosomal-recessive intellectual disability and postnatal microcephaly. Am.
+J. Hum. Genet. 85: 897-902, 2009.
+
+6. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXI. The complete sequences of 60 new
+cDNA clones from brain which code for large proteins. DNA Res. 8:
+179-187, 2001.
+
+7. Najmabadi, H.; Motazacker, M. M.; Garshasbi, M.; Kahrizi, K.; Tzschach,
+A.; Chen, W.; Behjati, F.; Hadavi, V.; Nieh, S. E.; Abedini, S. S.;
+Vazifehmand, R.; Firouzabadi, S. G.; and 9 others: Homozygosity
+mapping in consanguineous families reveals extreme heterogeneity of
+non-syndromic autosomal recessive mental retardation and identifies
+8 novel gene loci. Hum. Genet. 121: 43-48, 2007.
+
+8. Philippe, O.; Rio, M.; Carioux, A.; Plaza, J.-M.; Guigue, P.; Molinari,
+F.; Boddaert, N.; Bole-Feysot, C.; Nitschke, P.; Smahi, A.; Munnich,
+A.; Colleaux, L.: Combination of linkage mapping and microarray-expression
+analysis identifies NF-kappa-B signaling defect as a cause of autosomal-recessive
+mental retardation. Am. J. Hum. Genet. 85: 903-908, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/20/2013
+Cassandra L. Kniffin - updated: 11/17/2011
+Cassandra L. Kniffin - updated: 12/21/2009
+
+CREATED Dorothy S. Reilly: 4/18/2008
+
+EDITED carol: 09/13/2013
+carol: 5/8/2013
+carol: 3/27/2013
+ckniffin: 3/20/2013
+carol: 1/3/2012
+carol: 11/17/2011
+ckniffin: 11/17/2011
+wwang: 12/30/2009
+ckniffin: 12/21/2009
+mgross: 12/17/2009
+carol: 4/18/2008
+wwang: 4/18/2008
+
+611596	TITLE *611596 SHORT-CHAIN DEHYDROGENASE/REDUCTASE FAMILY, MEMBER 4; DHRS4
+;;SDR FAMILY, MEMBER 4;;
+NADPH-DEPENDENT RETINOL DEHYDROGENASE/REDUCTASE; NRDR
+DESCRIPTION 
+DESCRIPTION
+
+Short-chain dehydrogenase/reductase enzymes, like DHRS4, are
+NAD/NADP-dependent oxidoreductases that function in the breakdown of
+steroids, retinoids, prostaglandins, and xenobiotics. DHRS2 also has a
+noncatalytic role in the regulation of the cell cycle and apoptosis
+(summary by Gabrielli and Tofanelli, 2012).
+
+CLONING
+
+By searching databases for homologs of rat Dhrs4, Fransen et al. (1999)
+identified 3 variants of human DHRS4, which they called SDR-SRL because
+the protein belongs to the short-chain dehydrogenase/reductase (SDR)
+family and has a C-terminal SRL peroxisome-targeting sequence.
+Fluorescence-tagged rat Dhrs4 localized to peroxisomes in transfected
+Chinese hamster ovary cells.
+
+By RT-PCR and RACE of a human liver cDNA library, Du et al. (2004)
+cloned full-length DHRS4, which they called NRDR, and a shorter variant
+lacking exons 4, 5, and 6. Both deduced proteins contain a classical
+alcohol dehydrogenase (ADH)-short domain, a short-chain ADH (SCAD)
+motif, phosphorylation and fatty acylation sites, and a peroxisomal
+targeting signal. RT-PCR detected variable expression of both
+transcripts in most tissues examined.
+
+By RT-PCR and RACE of a HeLa cell cDNA library, Song et al. (2007)
+cloned full-length NRDR and a variant lacking exon 3, which they called
+NRDRB1. The deduced NRDR and NRDRB1 proteins have calculated molecular
+masses of 29 and 27 kD, respectively. Song et al. (2007) detected NRDRB1
+mRNA expression in 14 (53.9%) of 26 cervical cancer tissues, but
+expression was not detected in 12 normal cervical tissues.
+Immunohistochemical analysis detected NRDRB1 protein only in tumor
+tissues. The full-length NRDR mRNA was observed in both normal and
+neoplastic cervical tissues, but NRDR protein was only expressed in
+normal cervical epithelium, where it localized in peroxisomes.
+
+Gabrielli and Tofanelli (2012) reported that the full-length DHRS4
+protein contains 278 amino acids.
+
+GENE FUNCTION
+
+Gabrielli and Tofanelli (2012) noted that differences in the
+substrate-binding sites of DHRS2 (615194) and DHRS4 are associated with
+different substrate specificities. In general, DHRS4 accepts a broader
+range of substrates than DHRS2.
+
+GENE STRUCTURE
+
+Du et al. (2004) determined that the DHRS4 gene contains 8 exons.
+
+MAPPING
+
+By genomic sequence analysis, Du et al. (2004) mapped the DHRS4 gene to
+chromosome 14q11.2.
+
+EVOLUTION
+
+Gabrielli and Tofanelli (2012) found that DHRS2 and DHRS4, which are
+located within 315 kb of each other on chromosome 14, originated from a
+duplication of the DHRS4 gene that took place before the formation of
+the mammalian clade. DHRS2 evolved more rapidly and underwent positive
+selection on more sites than the DHRS4 gene. DHRS2 sites under positive
+selection were mainly located in the enzyme active site. Two other
+duplicated DHRS4 genes, DHRS4L2 (615196) and DHRS4L1 (615195), are
+located 20 and 47 kb downstream of DHRS4, respectively.
+
+REFERENCE 1. Du, J.; Huang, D.-Y.; Liu, G.-F.; Wang, G.-L.; Xu, X.-L.; Wang,
+B.; Zhu, L.: cDNA cloning of a short isoform of human liver NADP(H)-dependent
+retinol dehydrogenase/reductase and analysis of its characteristics. Acta
+Genet. Sin. 31: 661-667, 2004.
+
+2. Fransen, M.; Van Veldhoven, P. P.; Subramani, S.: Identification
+of peroxisomal proteins by using M13 phage protein VI phage display:
+molecular evidence that mammalian peroxisomes contain a 2,4-dienoyl-CoA
+reductase. Biochem. J. 340: 561-568, 1999.
+
+3. Gabrielli, F.; Tofanelli, S.: Molecular and functional evolution
+of human DHRS2 and DHRS4 duplicated genes. Gene 511: 461-469, 2012.
+
+4. Song, X.-H.; Liang, B.; Liu, G.-F.; Li, R.; Xie, J.-P.; Du, K.;
+Huang, D.-Y.: Expression of a novel alternatively spliced variant
+of NADP(H)-dependent retinol dehydrogenase/reductase with deletion
+of exon 3 in cervical squamous carcinoma. Int. J. Cancer 120: 1618-1626,
+2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 04/24/2013
+
+CREATED Patricia A. Hartz: 11/13/2007
+
+EDITED mgross: 04/24/2013
+terry: 11/21/2008
+mgross: 11/13/2007
+
+602120	TITLE *602120 CHROMODOMAIN HELICASE DNA-BINDING PROTEIN 3; CHD3
+;;Mi2-ALPHA
+DESCRIPTION See CHD1 (602118) for a description of this gene family.
+
+CLONING
+
+Anti-Mi2 autoantibody is strongly associated with dermatomyositis and is
+found in sera of 20% of dermatomyositis patients. Mi2 antigen consists
+of at least 8 components. By immunoscreening human thymocyte and HeLa
+cell cDNA expression libraries with anti-Mi2 patient sera, Ge et al.
+(1995) isolated a partial cDNA encoding Mi2-alpha, or CHD3. The deduced
+partial protein contains 4 potential zinc finger domains. Antibodies
+against recombinant Mi2-alpha reacted with a 240-kD HeLa cell protein.
+Northern blot analysis detected a single 7.5- to 8.0-kb Mi2-alpha
+transcript in HeLa cells.
+
+GENE FUNCTION
+
+Seelig et al. (1996) noted that the Mi2-alpha and Mi2-beta (CHD4;
+603277) proteins react with most or all dermatomyositis patient anti-Mi2
+sera. While these proteins are distinct, they have stretches of
+identical sequence that could result in shared epitopes.
+
+Woodage et al. (1997) characterized the CHD3 gene. The predicted
+1,944-amino acid protein shares 22.9% identity and 34.5% similarity
+overall with the mouse Chd1 gene product.
+
+MAPPING
+
+Woodage et al. (1997) mapped the CHD3 gene to 17p13 by PCR screening of
+the Genebridge 4 radiation hybrid mapping panel.
+
+REFERENCE 1. Ge, Q.; Nilasena, D. S.; O'Brien, C. A.; Frank, M. B.; Targoff,
+I. N.: Molecular analysis of a major antigenic region of the 240-kD
+protein of Mi-2 autoantigen. J. Clin. Invest. 96: 1730-1737, 1995.
+
+2. Seelig, H. P.; Renz, M.; Targoff, I. N.; Ge, Q.; Frank, M. B.:
+Two forms of the major antigenic protein of the dermatomyositis-specific
+Mi-2 autoantigen. (Letter) Arthritis Rheum. 39: 1769-1771, 1996.
+
+3. Woodage, T.; Basrai, M. A.; Baxevanis, A. D.; Hieter, P.; Collins,
+F. S.: Characterization of the CHD family of proteins. Proc. Nat.
+Acad. Sci. 94: 11472-11477, 1997.
+
+CONTRIBUTORS Patti M. Sherman - updated: 11/25/1998
+
+CREATED Victor A. McKusick: 11/13/1997
+
+EDITED alopez: 03/15/2010
+carol: 11/25/1998
+psherman: 11/25/1998
+psherman: 11/6/1998
+mark: 11/13/1997
+
+611430	TITLE *611430 TETRATRICOPEPTIDE REPEAT DOMAIN-CONTAINING PROTEIN 21A; TTC21A
+;;STRESS-INDUCIBLE PROTEIN 2; STI2
+DESCRIPTION 
+CLONING
+
+By database analysis to identify putative coding sequences in a region
+of chromosome 3 associated with carcinomas, Protopopov et al. (2003)
+identified TTC21A, which they called ST12. The deduced 1,320-amino acid
+protein contains 10 N-terminal tetratricopeptide repeats of about 34
+amino acids each. Northern blot analysis detected strong expression of a
+6.5-kb transcript only in testis.
+
+GENE STRUCTURE
+
+Protopopov et al. (2003) determined that the TTC21A gene contains 27
+exons and spans about 27 kb.
+
+MAPPING
+
+Using FISH and a deletion cell hybrid panel, Protopopov et al. (2003)
+mapped the TTC21A gene to chromosome 3p21.3.
+
+REFERENCE 1. Protopopov, A.; Kashuba, V.; Zabarovska, V. I.; Muravenko, O. V.;
+Lerman, M. I.; Klein, G.; Zabarovsky, E. R.: An integrated physical
+and gene map of the 3.5-Mb chromosome 3p21.3 (AP20) region implicated
+in major human epithelial malignancies. Cancer Res. 63: 404-412,
+2003.
+
+CREATED Patricia A. Hartz: 9/13/2007
+
+EDITED mgross: 02/26/2013
+alopez: 9/13/2007
+
+607074	TITLE *607074 PROTEIN KINASE D2; PRKD2
+;;PKD2
+DESCRIPTION 
+CLONING
+
+By EST database searching with the conserved C-terminal sequence of
+serine kinases and screening of a human ductal pancreatic cDNA library,
+Sturany et al. (2001) cloned a novel serine/threonine protein kinase,
+which they called PKD2. The deduced 878-amino acid protein, which has a
+predicted molecular mass of 97 kD, contains an N-terminal hydrophobic
+area predicted to be a transmembrane region, 2 cysteine-rich motifs that
+form zinc finger-like repeats, a pleckstrin homology domain, and a
+putative kinase domain containing the ATP-binding consensus sequence. An
+invariant aspartate essential for kinase activity is located within a
+motif conserved in serine/threonine kinases. The first zinc finger-like
+domain shares 88% identity to the corresponding domains in PKD/PKC-mu
+(PRKCM; 605435) and PKC-nu (PRKCN; 607077). Northern blot analysis
+detected constitutive low expression of a 4-kb transcript; higher levels
+were observed in pancreas, heart, lung, smooth muscle, and brain, and
+lower levels kidney and liver. SDS-PAGE revealed a protein with a
+molecular mass of 105 kD, as did Western blot analysis of endogenous
+PRKD2 or protein expressed following transfection.
+
+GENE FUNCTION
+
+Sturany et al. (2001) demonstrated phorbol ester binding to the duplex
+zinc finger-like motif of PRKD2 as well as autophosphorylation following
+phorbol ester stimulation. The addition of phosphatidyl-L-serine caused
+synergistic stimulation. Phorbol ester-activated PRKD2 migrated more
+slowly than inactive PRKD2 by SDS-PAGE, suggesting hyperphosphorylation
+upon activation.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PRKD2
+gene to chromosome 19 (TMAP R67403).
+
+REFERENCE 1. Sturany, S.; Van Lint, J.; Muller, F.; Wilda, M.; Hameister, H.;
+Hocker, M.; Brey, A.; Gern, U.; Vandenheede, J.; Gress, T.; Adler,
+G.; Seufferlein, T.: Molecular cloning and characterization of the
+human protein kinase D2: a novel member of the protein kinase D family
+of serine threonine kinases. J. Biol. Chem. 276: 3310-3318, 2001.
+
+CREATED Patricia A. Hartz: 6/26/2002
+
+EDITED alopez: 04/20/2011
+carol: 6/27/2002
+
+603916	TITLE *603916 EUKARYOTIC TRANSLATION INITIATION FACTOR 3, SUBUNIT C; EIF3C
+;;EIF3-p110;;
+EUKARYOTIC TRANSLATION INITIATION FACTOR 3, SUBUNIT 8, FORMERLY; EIF3S8,
+FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Eukaryotic initiation factor-3 (eIF3) is the largest of the eIFs and
+consists of at least 10 nonidentical subunits, including EIF2C (Asano et
+al., 1997).
+
+CLONING
+
+Asano et al. (1997) demonstrated that the 115-kD component of HeLa cell
+eIF3 is actually composed of 2 proteins, p116 (PRT1; 603917) and p110.
+By screening a HeLa cell expression library with antibodies against the
+115-kD band, these authors identified cDNAs encoding p110. The predicted
+913-amino acid p110 protein has a pI of 5.8 and is unrelated to p116.
+p110 shares 31% identity to the S. cerevisiae Nip1 protein, which is
+thought to be involved in nuclear import and the initiation phase of
+protein synthesis. Asano et al. (1997) found that the p116, p110, and
+p36 (603911) subunits localize on 40S ribosomes in cells active in
+translation and coimmunoprecipitate with p170 (602039), indicating that
+these proteins are integral components of eIF3. Northern blot analysis
+revealed that p110 is expressed as a 3-kb mRNA.
+
+GENE FUNCTION
+
+By reciprocal yeast 2-hybrid and coimmunoprecipitation analyses of the
+human STS26T malignant schwannoma cell line, Scoles et al. (2006) showed
+that isoforms 1 and 2 of schwannomin (NF2; 607379) interacted with
+EIF3C. Mutation analysis revealed that the FERM domain of schwannomin
+interacted with the C-terminal half of EIF3C. Immunofluorescence
+microscopy of STS26T cells showed that the 2 proteins partly colocalized
+at punctate perinuclear structures and at some membranous structures.
+Overexpression of EIF3C in STS26T cells elevated cell proliferation, and
+schwannomin countered this effect. Western blot analysis revealed an
+inverse abundance of schwannomin and EIF3C in human meningiomas.
+
+MAPPING
+
+Gross (2011) mapped the EIF3C gene to chromosome 16p11.2 based on an
+alignment of the EIF3C sequence (GenBank GENBANK BC000533) with the
+genomic sequence (GRCh37). A nearly identical copy of EIF3C, designated
+EIF3CL, also maps to chromosome 16p11.2.
+
+REFERENCE 1. Asano, K.; Kinzy, T. G.; Merrick, W. C.; Hershey, J. W. B.: Conservation
+and diversity of eukaryotic translation initiation factor eIF3. J.
+Biol. Chem. 272: 1101-1109, 1997.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  5/20/2011.
+
+3. Scoles, D. R.; Yong, W. H.; Qin, Y.; Wawrowsky, K.; Pulst, S. M.
+: Schwannomin inhibits tumorigenesis through direct interaction with
+the eukaryotic initiation factor subunit c (elF3c). Hum. Molec. Genet. 15:
+1059-1070, 2006.
+
+CONTRIBUTORS Matthew B. Gross - updated: 05/20/2011
+Patricia A. Hartz - updated: 4/28/2011
+
+CREATED Rebekah S. Rasooly: 6/16/1999
+
+EDITED mgross: 05/20/2011
+mgross: 5/19/2011
+terry: 4/28/2011
+mgross: 10/2/2007
+cwells: 9/17/2003
+alopez: 6/17/1999
+
+608487	TITLE *608487 TRIPARTITE MOTIF-CONTAINING PROTEIN 5; TRIM5
+;;RNF88
+DESCRIPTION 
+DESCRIPTION
+
+TRIM5 belongs to the large tripartite motif protein family, members of
+which typically are composed of 3 zinc-binding domains, a RING, unique
+B-box type 1 and B-box type 2 domains, followed by a coiled-coil (CC)
+region. TRIM proteins use homomultimerization to identify specific cell
+compartments.
+
+CLONING
+
+Using a consensus B-box domain to screen dbEST databases, Reymond et al.
+(2001) identified 37 TRIM members in mammals, 21 of which were novel, as
+well as 34 splice variants. TRIM5 has 6 variants termed alpha, beta,
+gamma, delta, epsilon, and zeta, all of which lack a B-box type 1
+domain. Additional domains C-terminal to the CC region are variably
+present. TRIM5-zeta lacks RING, B-box, and CC domains, but possesses 3
+RFP-like domains. Northern blot analysis of adult human tissues detected
+ubiquitous expression of TRIM5. Using interaction mating and mutation
+analysis, Reymond et al. (2001) confirmed that TRIM5, like most TRIMs,
+homointeracts through the CC region. Interaction was also detected with
+TRIM6 (607564). Green fluorescent protein microscopy demonstrated
+expression as cytoplasmic speckles, possibly in novel subcellular
+compartments.
+
+Stremlau et al. (2004) determined that human TRIM5-alpha contains 493
+amino acids and includes a C-terminal b30.2 (SPRY) domain missing in
+other TRIM5 isoforms.
+
+GENE FUNCTION
+
+By fluorescence microscopy and mutation analysis, Xu et al. (2003)
+showed that TRIM5-delta interacts with BTBD1 (608530) and BTBD2
+(608531), apparently serving as a scaffold for the assembly of
+endogenous BTBD1/2 proteins, dependent on the presence of the CC region
+and a wildtype RING domain. TRIM5-delta exhibits ubiquitylation in the
+presence of UBCH5B (UBE2D2; 602962), dependent on the presence of
+zinc-coordinating cysteines in the RING domain.
+
+Kaiser et al. (2007) reported the reconstruction of the core protein of
+a 4-million-year-old endogenous virus from the chimpanzee genome
+(PtERV1) and showed that the human variant of the intrinsic immune
+protein TRIM5-alpha can actively prevent infection by this virus.
+However, Kaiser et al. (2007) suggested that the selective changes that
+have occurred in the human lineage during the acquisition of resistance
+to this virus, and perhaps similar viruses, may have left our species
+more susceptible to infection by HIV-1.
+
+Pertel et al. (2011) demonstrated that TRIM5 promotes innate immune
+signaling and that this activity is amplified by retroviral infection
+and interaction with the capsid lattice. Acting with the heterodimeric
+ubiquitin-conjugating enzyme UBC13-UEV1A, TRIM5 catalyzes the synthesis
+of unattached K63-linked ubiquitin chains that activate the TAK1
+(602614) kinase complex and stimulate AP1 (see 165160) and NF-kappa-B
+(see 164011) signaling. Interaction with the HIV-1 capsid lattice
+greatly enhanced the UBC13-UEV1A-dependent E3 activity of TRIM5, and
+challenge with retroviruses induced the transcription of AP1- and
+NF-kappa-B-dependent factors with a magnitude that tracked with TRIM5
+avidity for the invading capsid. Finally, TAK1 and UBC13-UEV1A
+contributed to capsid-specific restriction by TRIM5. Pertel et al.
+(2011) concluded that the retroviral restriction factor TRIM5 has 2
+additional activities that are linked to restriction: it constitutively
+promotes innate immune signaling, and it acts as a pattern recognition
+receptor specific for the retrovirus capsid lattice.
+
+MAPPING
+
+By radiation hybrid analysis, Reymond et al. (2001) mapped the TRIM5
+gene to chromosome 11p15, in a cluster with TRIM6, TRIM21 (109092),
+TRIM22 (606559), TRIM34 (605684), and a TRIM pseudogene. The authors
+noted that, apart from another cluster in the HLA region (chromosome
+6p21-23), TRIM genes are dispersed throughout the genome.
+
+ANIMAL MODEL
+
+Stremlau et al. (2004) noted that HIV-1, the cause of acquired
+immunodeficiency syndrome (AIDS) in humans, efficiently enters the cells
+of Old World monkeys but encounters a block before reverse
+transcription. The block acts on the HIV-1 capsid and is mediated by a
+dominant repressive factor. By screening HeLa cell lines transduced with
+a cDNA library from rhesus fibroblasts, Stremlau et al. (2004)
+identified HeLa cells expressing rhesus TRIM5-alpha. These cells were
+resistant to HIV-1 but not simian immunodeficiency virus (SIV)
+infection. PCR analysis indicated a disruption of viral cDNA synthesis
+in rhesus TRIM5-alpha-expressing cells. Mutation analysis suggested that
+both the N-terminal RING and C-terminal SPRY domains of rhesus
+TRIM5-alpha contribute to its HIV-1 inhibitory activity. Short
+interfering (si) RNA experiments reducing rhesus TRIM5-alpha expression
+resulted in increased efficiency of HIV-1 infection. Stremlau et al.
+(2004) concluded that monkey TRIM5-alpha is the repressive factor
+inhibiting HIV-1 reverse transcription and proposed that rhesus
+TRIM5-alpha may directly bind and ubiquitinate the HIV-1 viral capsid.
+
+Sayah et al. (2004) showed that knockdown of owl monkey CYPA (123840) by
+RNA interference (RNAi) correlated with suppression of anti-HIV-1
+activity. However, reintroduction of CYPA to RNAi-treated cells did not
+restore antiviral activity. A search for additional RNAi targets
+identified TRIMCYP, an RNAi-responsive mRNA encoding a TRIM5/CYPA fusion
+protein. TRIMCYP accounts for post-entry restriction of HIV-1 in owl
+monkeys and blocks HIV-1 infection when transferred to otherwise
+infectable human or rat cells. Sayah et al. (2004) suggested that
+TRIMCYP arose after the divergence of New and Old World primates when a
+LINE-1 retrotransposon catalyzed the insertion of a CYPA cDNA into the
+TRIM5 locus. They concluded that this was the first vertebrate example
+of a chimeric gene generated by this mechanism of exon shuffling.
+
+Sakuma et al. (2007) showed that rhesus Trim5-alpha, but not human
+TRIM5-alpha, blocked late-phase HIV-1 production through rapid
+degradation of HIV-1 Gag polyproteins. In agreement with Sakuma et al.
+(2007), Zhang et al. (2008) found that rhesus Trim5-alpha could block
+late-stage HIV-1, but not macaque SIV, production. However, the amount
+of Trim5-alpha required for this effect was much higher than that
+endogenously expressed, and they questioned the biologic significance of
+the finding. In a reply, Sakuma et al. (2008) suggested that technical
+differences, such as cell lines and capsid sequences, may explain the
+need for high Trim5-alpha expression in the experiments of Zhang et al.
+(2008).
+
+REFERENCE 1. Kaiser, S. M.; Malik, H. S.; Emerman, M.: Restriction of an extinct
+retrovirus by the human TRIM5-alpha antiviral protein. Science 316:
+1756-1758, 2007. Note: Erratum: Science 317: 1036 only, 2007.
+
+2. Pertel, T.; Hausmann, S.; Morger, D.; Zuger, S.; Guerra, J.; Lascano,
+J.; Reinhard, C.; Santoni, F. A.; Uchil, P. D.; Chatel, L.; Bisiaux,
+A.; Albert, M. L.; Strambio-De-Castillia, C.; Mothes, W.; Pizzato,
+M.; Grutter, M. G.; Luban, J.: TRIM5 is an innate immune sensor for
+the retrovirus capsid lattice. Nature 472: 361-365, 2011.
+
+3. Reymond, A.; Meroni, G.; Fantozzi, A.; Merla, G.; Cairo, S.; Luzi,
+L.; Riganelli, D.; Zanaria, E.; Messali, S.; Cainarca, S.; Guffanti,
+A.; Minucci, S.; Pelicci, P. G.; Ballabio, A.: The tripartite motif
+family identifies cell compartments. EMBO J. 20: 2140-2151, 2001.
+
+4. Sakuma, R.; Noser, J. A.; Ohmine, S.; Ikeda, Y.: Rhesus monkey
+TRIM5-alpha restricts HIV-1 production through rapid degradation of
+viral Gag polyproteins. Nature Med. 13: 631-635, 2007.
+
+5. Sakuma, R.; Ohmine, S.; Mael, A. A.; Noser, J. A.; Ikeda, Y.:
+Reply to Zhang et al. (Letter) Nature Genet. 236-238, 2008.
+
+6. Sayah, D. M.; Sokolskaja, E.; Berthoux, L.; Luban, J.: Cyclophilin
+A retrotransposition into TRIM5 explains owl monkey resistance to
+HIV-1. Nature 430: 569-573, 2004.
+
+7. Stremlau, M.; Owens, C. W.; Perron, M. J.; Kiessling, M.; Autissier,
+P.; Sodroski, J.: The cytoplasmic body component TRIM5-alpha restricts
+HIV-1 infection in Old World monkeys. Nature 427: 848-853, 2004.
+
+8. Xu, L.; Yang, L.; Moitra, P. K.; Hashimoto, K.; Rallabhandi, P.;
+Kaul, S.; Meroni, G.; Jensen, J. P.; Weissman, A. M.; D'Arpa, P.:
+BTBD1 and BTBD2 colocalize to cytoplasmic bodies with the RBCC/tripartite
+motif protein, TRIM5-delta. Exp. Cell Res. 288: 84-93, 2003.
+
+9. Zhang, F.; Perez-Caballero, D.; Hatziioannou,T.; Bieniasz, P. D.
+: No effect of endogenous TRIM5-alpha on HIV-1 production. (Letter) Nature
+Med. 14: 235-236, 2008.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/8/2011
+Paul J. Converse - updated: 5/29/2008
+Ada Hamosh - updated: 7/24/2007
+Ada Hamosh - updated: 8/26/2004
+
+CREATED Paul J. Converse: 2/26/2004
+
+EDITED alopez: 11/13/2012
+alopez: 7/12/2011
+terry: 7/8/2011
+mgross: 6/2/2008
+terry: 5/29/2008
+alopez: 7/25/2007
+terry: 7/24/2007
+tkritzer: 8/27/2004
+terry: 8/26/2004
+mgross: 3/16/2004
+alopez: 2/26/2004
+
+159557	TITLE *159557 AF4/FMR2 FAMILY, MEMBER 1; AFF1
+;;MYELOID/LYMPHOID OR MIXED LINEAGE LEUKEMIA, TRANSLOCATED TO, 2; MLLT2;;
+MIXED LINEAGE LEUKEMIA, TRANSLOCATED TO, 2;;
+ALL1-FUSED GENE FROM CHROMOSOME 4; AF4
+DESCRIPTION The ALL1 gene (MLL; 159555), located at 11q23, is rearranged in acute
+leukemias with reciprocal translocations between this region and
+chromosomes 1, 4, 6 (159559), 9 (159558), 10, or 19 (159556). Gu et al.
+(1992) studied the t(4;11) translocation which results in 2 reciprocal
+fusion products coding for chimeric proteins derived from ALL1 and from
+a gene on chromosome 4. They referred to the latter as AF4 for
+'ALL1-fused gene from chromosome 4.' Fused RNAs were found in the three
+t(4;11) cells lines studied; therefore, Gu et al. (1992) could not
+establish which of the 2 products is oncogenic.
+
+Nakamura et al. (1993) found that the gene on chromosome 4q21 that is
+fused with the ALL1 gene in patients with acute lymphoblastic leukemia
+and translocation t(4;11)(q21;q23) and the gene on chromosome 9 that is
+fused with the ALL1 gene on chromosome 11 in patients with leukemia and
+the t(9;11)(p22;q23) show high sequence homology with the ENL gene on
+chromosome 19, which is fused to the ALL1 gene in patients with leukemia
+and the translocation t(11;19)(q23;p13). They found further that the
+protein products of the AF4, AF9 (MLLT3), and ENL (MLLT1) genes
+contained nuclear targeting sequences as well as serine-rich and
+proline-rich regions. Stretches abundant in basic amino acids were also
+present in the 3 proteins. These results indicated that the different
+proteins fused to ALL1 polypeptides in leukemia provide similar
+functional domains.
+
+Domer et al. (1993) independently demonstrated that the derivative
+chromosome 11, carrying a translocated segment of chromosome 4, encodes
+a fusion RNA which predicts a chimeric protein with features of the MLL
+gene on 11q23 and the AF4 gene on 4q21. The sequence of the complete
+open reading frame for this fusion transcript revealed that the MLL
+protein is homologous with DNA methyltransferase, the Drosophila
+trithorax gene product, and the 'AT-hook' motif of high mobility group
+proteins. An alternative splice that deletes the AT-hook region of MLL
+was identified. AF4 is a serine- and proline-rich putative transcription
+factor with a glutamine-rich carboxyl terminus. The composition of the
+complete MLL-AF4 fusion product argues that it may act through either a
+gain-of-function or a dominant-negative mechanism in leukemogenesis.
+This gene is also symbolized MLLT2.
+
+Uckun et al. (1998) analyzed bone marrow leukemic cells of 17 infants
+and 127 children with newly diagnosed acute lymphatic leukemia (ALL), as
+well as fetal liver and bone marrow and normal infant bone marrow
+samples for the presence of a t(4;11) translocation, using standard
+cytogenetic techniques and expression of an MLL-AF4 fusion transcript by
+standard RT-PCR assays as well as nested RT-PCR that is 100-fold more
+sensitive than the standard RT-PCR. Overall, 9 of the 17 infants and 17
+of 127 noninfant pediatric ALL patients were positive for expression of
+MLL-AF4 fusion transcripts. None of the MLL-AF4(+) cases were positive
+for E2A-PBX1 (147141; 176310) or BCR-ABL (151410; 189980) fusion
+transcript expression. Although 8 of 9 MLL-AF4(+) infants had
+cytogenetically detectable t(4;11) translocation, 15 of the 17
+MLL-AF4(+) noninfants were t(4;11) negative. Infants with MLL-AF4(+) ALL
+had poor outcomes, whereas noninfant fusion-gene-positive,
+translocation-negative patients has favorable outcomes similar to
+MLL-AF4(-) patients. Notably, MLL-AF4 transcripts also were detected by
+nested RT-PCR in 4 of 16 fetal bone marrows, 5 of 13 fetal livers, and 1
+of 6 normal infant bone marrows, but not in any of the 44 remission bone
+marrow specimens from pediatric ALL patients. These results represented
+unprecedented evidence that MLL-AF4 fusion transcripts can be present in
+normal hematopoietic cells, indicating that their expression is
+insufficient for leukemic transformation of normal lymphocyte
+precursors.
+
+Isnard et al. (1998) isolated cDNA clones of the mouse Af4 gene. By
+Northern analysis, they detected a single transcript of approximately 10
+kb in all adult tissues examined, with highest expression in thymus,
+lymph nodes, and kidney. They also studied expression in fetal thymus
+and liver. By fluorescence in situ hybridization, they showed that the
+Af4 gene maps to the E region of mouse chromosome 5, which is syntenic
+with human 4q21.
+
+To gain insight into the translocation mechanism and the relevant drug
+exposure in treatment-related leukemia, Lovett et al. (2001) analyzed
+the der(11) and der(4) genomic breakpoint junctions of a t(4;11)
+translocation in the leukemia of a patient previously administered
+etoposide and dactinomycin for the chemotherapy of primary alveolar
+rhabdomyosarcoma (268220). The genomic breakpoint junctions involved
+intron 6 of the MLL gene and intron 3 of the AF4 gene. Recombination was
+precise at the sequence level except for the overall gain of a single
+templated nucleotide. The translocation breakpoints in MLL and AF4 were
+DNA topoisomerase II cleavage sites. Etoposide and its metabolites, but
+not dactinomycin, enhanced cleavage at these sites on in vitro
+incubation. The findings were inconsistent with a translocation
+mechanism involving interchromosomal recombination by simple exchange of
+DNA topoisomerase II subunits and DNA-strand transfer. Etoposide and/or
+its metabolites were considered the relevant exposures in this patient.
+
+REFERENCE 1. Domer, P. H.; Fakharzadeh, S. S.; Chen, C.-S.; Jockel, J.; Johansen,
+L.; Silverman, G. A.; Kersey, J. H.; Korsmeyer, S. J.: Acute mixed-lineage
+leukemia t(4;11)(q21;q23) generates an MLL-AF4 fusion product. Proc.
+Nat. Acad. Sci. 90: 7884-7888, 1993.
+
+2. Gu, Y.; Nakamura, T.; Alder, H.; Prasad, R.; Canaani, O.; Cimino,
+G.; Croce, C. M.; Canaani, E.: The t(4;11) chromosome translocation
+of human acute leukemias fuses the ALL-1 gene, related to Drosophila
+trithorax, to the AF-4 gene. Cell 71: 701-708, 1992.
+
+3. Isnard, P.; Depetris, D.; Mattei, M.-G.; Ferrier, P.; Djabali,
+M.: cDNA cloning, expression and chromosomal localization of the
+murine AF-4 gene involved in human leukemia. Mammalian Genome 9:
+1065-1068, 1998.
+
+4. Lovett, B. D.; Lo Nigro, L.; Rappaport, E. F.; Blair, I. A.; Osheroff,
+N.; Zheng, N.; Megonigal, M. D.; Williams, W. R.; Nowell, P. C.; Felix,
+C. A.: Near-precise interchromosomal recombination and functional
+DNA topoisomerase II cleavage sites at MLL and AF-4 genomic breakpoints
+in treatment-related acute lymphoblastic leukemia with t(4;11) translocation. Proc.
+Nat. Acad. Sci. 98: 9802-9807, 2001.
+
+5. Nakamura, T.; Alder, H.; Gu, Y.; Prasad, R.; Canaani, O.; Kamada,
+N.; Gale, R. P.; Lange, B.; Crist, W. M.; Nowell, P. C.; Croce, C.
+M.; Canaani, E.: Genes on chromosomes 4, 9, and 19 involved in 11q23
+abnormalities in acute leukemia share sequence homology and/or common
+motifs. Proc. Nat. Acad. Sci. 90: 4631-4635, 1993.
+
+6. Uckun, F. M.; Herman-Hatten, K.; Crotty, M.-L.; Sensel, M. G.;
+Sather, H. N.; Tuel-Ahlgren, L.; Sarquis, M. B.; Bostrom, B.; Nachman,
+J. B.; Steinherz, P. G.; Gaynon, P. S.; Heerema, N.: Clinical significance
+of MLL-AF4 fusion transcript expression in the absence of a cytogenetically
+detectable t(4;11)(q21;q23) chromosomal translocation. Blood 92:
+810-821, 1998.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/15/2001
+Victor A. McKusick - updated: 2/26/1999
+Victor A. McKusick - updated: 11/4/1998
+
+CREATED Victor A. McKusick: 2/1/1993
+
+EDITED carol: 06/25/2009
+carol: 6/25/2009
+mcapotos: 10/15/2001
+mcapotos: 10/8/2001
+carol: 5/27/1999
+carol: 2/27/1999
+terry: 2/26/1999
+carol: 11/12/1998
+terry: 11/4/1998
+dkim: 9/11/1998
+carol: 7/30/1998
+mark: 3/11/1997
+mark: 10/18/1996
+mimadm: 12/2/1994
+carol: 3/24/1994
+carol: 9/20/1993
+carol: 6/17/1993
+carol: 2/2/1993
+carol: 2/1/1993
+
+604511	TITLE *604511 CHROMOBOX HOMOLOG 1; CBX1
+;;CBX;;
+HP1, DROSOPHILA, HOMOLOG OF, BETA;;
+HP1-BETA
+DESCRIPTION 
+DESCRIPTION
+
+Heterochromatin protein-1 (HP1) is localized at heterochromatin sites,
+where it mediates gene silencing.
+
+CLONING
+
+Some autoimmune sera recognize antigens located near the centromere
+(CENPA, 117139; CENPB, 117140; CENPC1, 117141) as well as
+heterochromatin protein-1 (HP1). Using human autoimmune serum to screen
+a HepG2 library, Furuta et al. (1997) isolated a cDNA encoding CBX1, a
+human homolog of Drosophila HP1, which the authors called HP1-beta. CBX1
+encodes a 185-amino acid protein that has 66% sequence identity and 80%
+similarity to CBX5 (604478). CBX1 is 100% identical to mouse M31 and to
+human HSM1, which was identified by Singh et al. (1991). CBX1 has a
+conserved 37-amino acid region called the chromodomain, or chromobox, in
+the N-terminal region. Immunofluorescence studies demonstrated that only
+antibodies directed against the C terminus of CBX1 showed nucleoplasmic
+and heterochromatin staining. N-terminal-specific antibodies were
+nonreactive. The C-terminal domain antibodies were also reactive with
+the centromeric region during metaphase and anaphase and with whole
+chromosomes during telophase.
+
+GENE FUNCTION
+
+Lachner et al. (2001) showed that mammalian methyltransferases that
+selectively methylate histone H3 (see 602810) on lysine-9 (Suv39h
+HMTases; see SUV39H1, 300254) generate a binding site for HP1 proteins,
+a family of heterochromatic adaptor molecules implicated in both gene
+silencing and supranucleosomal chromatin structure. High-affinity in
+vitro recognition of a methylated histone H3 peptide by HP1 requires a
+functional chromodomain; thus, the HP1 chromodomain is a specific
+interaction motif for the methyl epitope on lysine-9 of histone H3. In
+vivo, heterochromatin association of HP1 proteins is lost in Suv39h
+double-null primary mouse fibroblasts but is restored after
+reintroduction of a catalytically active SUV39H1 HMTase. Lachner et al.
+(2001) concluded that their data define a molecular mechanism through
+which the SUV39H-HP1 methylation system can contribute to the
+propagation of heterochromatic subdomains in native chromatin.
+
+Bannister et al. (2001) demonstrated that HP1 can bind with high
+affinity to histone H3 methylated at lysine-9 but not at lysine-4. They
+identified the chromodomain of HP1 as its methyl-lysine-binding domain.
+A point mutation in the chromodomain, which destroys the gene silencing
+activity of HP1 in Drosophila, abolished methyl-lysine-binding activity.
+Genetic and biochemical analysis in S. pombe showed that the methylase
+activity of Clr4 (the SUV39H1 homolog) is necessary for the correct
+localization of Swi6 (the HP1 equivalent) at centromeric heterochromatin
+and for gene silencing. Bannister et al. (2001) concluded that these
+results provide a stepwise model for the formation of a
+transcriptionally silent heterochromatin: SUV39H1 places a methyl marker
+on histone H3, which is then recognized by HP1 through its chromodomain.
+This model may also explain the stable inheritance of the
+heterochromatic state.
+
+Eukaryotic genomes are organized into discrete structural and functional
+chromatin domains. Noma et al. (2001) demonstrated that distinct
+site-specific histone H3 methylation patterns define euchromatic and
+heterochromatic chromosomal domains within an 47-kb region of the mating
+type locus in fission yeast. H3 methylated at lysine-9, and its
+interacting Swi6 protein, are strictly localized to a 20-kb silent
+heterochromatic interval. In contrast, H3 methylated at lysine-4 is
+specific to the surrounding euchromatic regions. Two inverted repeats
+flanking the silent interval serve as boundary elements to mark the
+borders between heterochromatin and euchromatin. Deletions of these
+boundary elements leads to spreading of H3 lys9 methylation and Swi6
+into neighboring sequences. Furthermore, the H3 lys6 methylation and
+corresponding heterochromatin-associated complexes prevent H3 lys4
+methylation in the silent domain.
+
+Festenstein et al. (2003) used fluorescence recovery after
+photobleaching to demonstrate that a GFP-HP1-beta fusion protein is
+highly mobile within both the euchromatin and heterochromatin of ex vivo
+resting murine T cells. Moreover, T cell activation greatly increased
+this mobility, indicating that such a process may facilitate
+(hetero)chromatin remodeling and permit access of epigenetic modifiers
+and transcription factors to the many genes that are consequently
+derepressed.
+
+Cheutin et al. (2003) demonstrated that maintenance of stable
+heterochromatin domains in living cells involves the transient binding
+and dynamic exchange of HP1 from chromatin. HP1 exchange kinetics
+correlated with the condensation level of chromatin and were dependent
+on the histone methyltransferase Suv39h (300254). The chromodomain and
+the chromoshadow domain of HP1 are both required for binding to native
+chromatin in vivo, but they contribute differentially to binding in
+euchromatin and heterochromatin. Cheutin et al. (2003) suggested that
+their data argue against HP1 repression of transcription by formation of
+static, higher order oligomeric networks but support a dynamic
+competition model, and demonstrate that heterochromatin is accessible to
+regulatory factors.
+
+Fischle et al. (2005) demonstrated that HP1-alpha (604478), HP1-beta,
+and HP1-gamma (604477) are released from chromatin during the M phase of
+the cell cycle even though trimethylation levels of histone H3 lys9
+remain unchanged. However, the additional transient modification of
+histone H3 by phosphorylation of ser10 next to the more stable
+methyl-lys9 mark is sufficient to eject HP1 proteins from their binding
+sites. Inhibition or depletion of the mitotic kinase Aurora B (604970),
+which phosphorylates histone H3 on ser10, causes retention of HP1
+proteins on mitotic chromosomes, suggesting that H3 ser10
+phosphorylation is necessary for the dissociation of HP1 from chromatin
+in M phase. Fischle et al. (2005) concluded that their findings
+establish a regulatory mechanism of protein-protein interactions,
+through a combinatorial readout of 2 adjacent posttranslational
+modifications: a stable methylation and a dynamic phosphorylation mark.
+
+Smallwood et al. (2007) demonstrated that DNMT1 (126375) could interact
+with HP1-alpha, HP1-beta, and HP1-gamma in a human colon carcinoma cell
+line, resulting in stimulation of DNMT1 methyltransferase activity. The
+HP1 proteins were sufficient to target DNMT1 activity in vivo, and
+HP1-dependent repression required DNMT1. Smallwood et al. (2007)
+demonstrated that HP1-alpha and HP1-beta were recruited to the survivin
+(BIRC5; 603352) promoter in a DNMT1-dependent manner. They concluded
+that direct interactions between HP1 proteins and DNMT1 mediate
+silencing of euchromatic genes.
+
+Ayoub et al. (2008) identified a dynamic change in chromatin that
+promotes H2AX (601772) phosphorylation in mammalian cells. DNA breaks
+swiftly mobilized HP1-beta, a chromatin factor bound to histone H3
+methylated on lysine-9 (H3K9me; see 601128). Local changes in histone
+tail modifications were not apparent. Instead, phosphorylation of
+HP1-beta on amino acid thr51 accompanied mobilization, releasing
+HP1-beta from chromatin by disrupting hydrogen bonds that fold its
+chromodomain around H3K9me. Inhibition of casein kinase-2 (CK2; see
+115442), an enzyme implicated in DNA damage sensing and repair,
+suppressed thr51 phosphorylation and HP1-beta mobilization in living
+cells. CK2 inhibition, or a constitutively chromatin-bound HP1-beta
+mutant, diminished H2AX phosphorylation. Ayoub et al. (2008) concluded
+that their findings revealed a signaling cascade that helps to initiate
+the DNA damage response, altering chromatin by modifying a histone code
+mediator protein, HP1, but not the code itself.
+
+BIOCHEMICAL FEATURES
+
+Nielsen et al. (2002) showed that HP1 uses an induced-fit mechanism to
+recognize the methylation of lys9, as revealed by the structure of its
+chromodomain bound to a histone H3 peptide dimethylated at N-zeta of
+lys9. The binding pocket for the N-methyl groups is provided by 3
+aromatic side chains, tyr21, trp42, and phe45, which reside in 2 regions
+that become ordered on binding of the peptide. The side chain of lys9 is
+almost fully extended and surrounded by residues that are conserved in
+many other chromodomains. The QTAR peptide sequence preceding lys9
+performs most of the additional interactions with the chromodomain, with
+HP1 residues val23, leu40, trp42, leu58, and cys60 appearing to be a
+major determinant of specificity by binding the key buried ala7. Nielsen
+et al. (2002) concluded that their findings predict which other
+chromodomains will bind methylated proteins and suggest a motif that
+they might recognize.
+
+REFERENCE 1. Ayoub, N.; Jeyasekharan, A. D.; Bernal, J. A.; Venkitaraman, A.
+R.: HP1-beta mobilization promotes chromatin changes that initiate
+the DNA damage response. Nature 453: 682-686, 2008.
+
+2. Bannister, A. J.; Zegerman, P.; Partridge, J. F.; Miska, E. A.;
+Thomas, J. O.; Allshire, R. C.; Kouzarides, T.: Selective recognition
+of methylated lysine 9 on histone H3 by the HP1 chromo domain. Nature 410:
+120-124, 2001.
+
+3. Cheutin, T.; McNairn, A. J.; Jenuwein, T.; Gilbert, D. M.; Singh,
+P. B.; Misteli, T.: Maintenance of stable heterochromatin domains
+by dynamic HP1 binding. Science 299: 721-725, 2003.
+
+4. Festenstein, R.; Pagakis, S. N.; Hiragami, K.; Lyon, D.; Verreault,
+A.; Sekkali, B.; Kioussis, D.: Modulation of heterochromatin protein
+1 dynamics in primary mammalian cells. Science 299: 719-721, 2003.
+
+5. Fischle, W.; Tseng, B. S.; Dormann, H. L.; Ueberheide, B. M.; Garcia,
+B. A.; Shabanowitz, J.; Hunt, D. F.; Funabiki, H.; Allis, C. D.:
+Regulation of HP1-chromatin binding by histone H3 methylation and
+phosphorylation. Nature 438: 1116-1122, 2005.
+
+6. Furuta, K.; Chan, E. K. L.; Kiyosawa, K.; Reimer, G.; Luderschmidt,
+C.; Tan, E. M.: Heterochromatin protein HP1-Hsbeta (p25beta) and
+its localization with centromeres in mitosis. Chromosoma 106: 11-19,
+1997.
+
+7. Lachner, M.; O'Carroll, D.; Rea, S.; Mechtler, K.; Jenuwein, T.
+: Methylation of histone H3 lysine 9 creates a binding site for HP1
+proteins. Nature 410: 116-120, 2001.
+
+8. Nielsen, P. R.; Nietilspach, D.; Mott, H. R.; Callaghan, J.; Bannister,
+A.; Kouzarides, T.; Murzin, A. G.; Murzina, N. V.; Laue, E. D.: Structure
+of the Hp1 chromodomain bound to histone H3 methylated at lysine 9. Nature 416:
+103-107, 2002.
+
+9. Noma, K.; Allis, C. D.; Grewal, S. I. S.: Transitions in distinct
+histone H3 methylation patterns at the heterochromatin domain boundaries. Science 293:
+1150-1155, 2001.
+
+10. Singh, P. B.; Miller, J. R.; Pearce, J.; Kothary, R.; Burton,
+R. D.; Paro, R.; James, T. C.; Gaunt, S. J.: A sequence motif found
+in a Drosophila heterochromatin protein is conserved in animals and
+plants. Nucleic Acids Res. 19: 789-794, 1991.
+
+11. Smallwood, A.; Esteve, P.-O.; Pradhan, S.; Carey, M.: Functional
+cooperation between HP1 and DNMT1 mediates gene silencing. Genes
+Dev. 21: 1169-1178, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/11/2008
+Patricia A. Hartz - updated: 7/10/2007
+Ada Hamosh - updated: 1/12/2006
+Ada Hamosh - updated: 2/13/2003
+Ada Hamosh - updated: 2/26/2002
+Ada Hamosh - updated: 8/14/2001
+Ada Hamosh - updated: 3/1/2001
+
+CREATED Paul J. Converse: 2/4/2000
+
+EDITED mgross: 02/05/2013
+alopez: 7/15/2008
+terry: 7/11/2008
+mgross: 7/10/2007
+alopez: 1/13/2006
+terry: 1/12/2006
+alopez: 2/19/2003
+terry: 2/13/2003
+alopez: 3/12/2002
+alopez: 3/1/2002
+terry: 2/26/2002
+alopez: 8/20/2001
+terry: 8/14/2001
+alopez: 3/1/2001
+terry: 10/4/2000
+alopez: 8/9/2000
+carol: 2/22/2000
+carol: 2/4/2000
+
+179490	TITLE *179490 RAS-ASSOCIATED PROTEIN RAB3A; RAB3A
+DESCRIPTION 
+CLONING
+
+The RAS gene superfamily is divided into 3 main branches according to
+protein homology. In mammals the first branch includes the classic RAS
+genes as well as RAL (179550) and RRAS (165090). The RHO genes (165370,
+165380, 165390) belong to the second branch and the RAB genes to the
+third. The RAB genes were so named because they were first isolated from
+a rat brain library. Zahraoui et al. (1989) isolated cDNAs encoding
+RAB3A and several other human RAB proteins. See RAB5A (179512). The
+predicted 220-amino acid human RAB3A protein shares 99% and 78% identity
+with rat Rab3A and human RAB3B (179510), respectively.
+
+GENE FUNCTION
+
+Giovedi et al. (2004) found that interaction between mammalian synapsin
+I (SYN1; 313440) and Rab3a regulated the activities of both proteins.
+Synapsin I stimulated the Rab3a cycle by increasing GTP binding, GTPase
+activity, and Rab3a recruitment to the synaptic vesicle membrane.
+Conversely, Rab3a inhibited synapsin I binding to actin and synapsin
+I-induced synaptic vesicle clustering.
+
+Corticoamygdala long-term potentiation (LTP) and late-phase LTP at
+hippocampal synapses are 2 forms of LTP that require both postsynaptic
+NMDA receptor (see, e.g., 138249) activation and presynaptic protein
+kinase A (PKA; see 176911) activation. By in vitro analysis of
+transverse slices from the hippocampus and lateral amygdala of
+Rab3a-null mice, Huang et al. (2005) found that Rab3a was necessary for
+both forms of synaptic plasticity. Rim1-alpha (606629), a
+Rab3a-interacting molecule, was also required for hippocampal late-phase
+LTP. The findings indicated that presynaptic proteins also play a role
+in plasticity that is dependent on postsynaptic activity, thus adding a
+layer of complexity to synaptic interactions.
+
+Ruediger et al. (2011) investigated how mossy fiber terminal complexes
+at the entry of hippocampal and cerebellar circuits rearrange upon
+learning in mice, and the functional role of the rearrangements.
+Ruediger et al. (2011) showed that one-trial and incremental learning
+lead to robust, circuit-specific, long-lasting, and reversible increases
+in the numbers of filopodial synapses onto fast-spiking interneurons
+that trigger feedforward inhibition. The increase in feedforward
+inhibition connectivity involved a majority of the presynaptic
+terminals, restricted the number of c-Fos (164810)-expressing
+postsynaptic neurons at memory retrieval, and correlated temporally with
+the quality of the memory. Ruediger et al. (2011) then showed that for
+contextual fear conditioning and Morris water maze learning, increased
+feedforward inhibition connectivity by hippocampal mossy fibers has a
+critical role for the precision of the memory and the learned behavior.
+In the absence of mossy fiber long-term potentiation in Rab3a-null mice,
+c-Fos ensemble reorganization and feedforward inhibition growth were
+both absent in CA3 upon learning, and the memory was imprecise. By
+contrast, in the absence of adducin-2 (ADD2; 102681), c-Fos
+reorganization was normal, but feedforward inhibition growth was
+abolished. In parallel, c-Fos ensembles in CA3 were greatly enlarged,
+and the memory was imprecise. Feedforward inhibition growth and memory
+precision were both rescued by re-expression of Add2 specifically in
+hippocampal mossy fibers. Ruediger et al. (2011) concluded that their
+results established a causal relationship between learning-related
+increases in the numbers of defined synapses and the precision of
+learning and memory in the adult. The results further related plasticity
+and feedforward inhibition growth at hippocampal mossy fibers to the
+precision of hippocampus-dependent memories.
+
+GENE STRUCTURE
+
+Sullivan et al. (1999) found that the RAB3A gene consists of 5 exons
+spanning 7.9 kb, and is located 3.7 kb from PDE4C (600128).
+
+MAPPING
+
+Rousseau-Merck et al. (1989, 1989) used the cloned human RAB3A cDNA as a
+probe to map the corresponding gene by hybridization to flow sorted
+chromosomes and by in situ hybridization. They concluded that RAB3A is
+located on 19p13.2. The RAB genes may serve a regulatory function in the
+developing nervous system. No oncogenic activity has been demonstrated
+as yet for any of the RAB branch family genes. It is noteworthy,
+however, that the 19p13.2 site is involved in malignant processes such
+as acute leukemias. By fluorescence in situ hybridization, Trask et al.
+(1993) assigned the RAB3A gene to 19p13.1-p12.
+
+ANIMAL MODEL
+
+In brain, RAB3A is found specifically in synaptic vesicles. Geppert et
+al. (1997) generated Rab3a-deficient mice. They found that the size of
+the readily releasable pool of vesicles was normal, but that
+calcium-triggered fusion was altered in the absence of Rab3a such that a
+greater number of exocytic events occurred within a brief time after
+arrival of the nerve impulse. They concluded that RAB3A regulates a late
+step in synaptic vesicle fusion.
+
+Kapfhamer et al. (2002) identified a semidominant mouse mutation called
+'earlybird' (Ebd) that shortens the circadian period of locomotor
+activity. Sequence analysis of Rab3a identified a point mutation in the
+conserved amino acid (asp77 to gly) within the GTP-binding domain of the
+Rab3a protein in earlybird mutants, resulting in significantly reduced
+levels of Rab3a protein. Phenotypic assessment of earlybird mice and a
+null allele of Rab3a revealed anomalies in circadian period and sleep
+homeostasis, providing evidence that Rab3a-mediated synaptic
+transmission is involved in these behaviors.
+
+REFERENCE 1. Geppert, M.; Goda, Y.; Stevens, C. F.; Sudhof, T. C.: The small
+GTP-binding protein Rab3A regulates a late step in synaptic vesicle
+fusion. Nature 387: 810-814, 1997.
+
+2. Giovedi, S.; Darchen, F.; Valtorta, F.; Greengard, P.; Benfenati,
+F.: Synapsin is a novel Rab3 effector protein on small synaptic vesicles.
+II. Functional effects of the Rab3A-synapsin I interaction. J. Biol.
+Chem. 279: 43769-43779, 2004.
+
+3. Huang, Y.-Y.; Zakharenko, S. S.; Schoch, S.; Kaeser, P. S.; Janz,
+R.; Sudhof, T. C.; Siegelbaum, S. A.; Kandel, E. R.: Genetic evidence
+for a protein-kinase-A-mediated presynaptic component in NMDA-receptor-dependent
+forms of long-term synaptic potentiation. Proc. Nat. Acad. Sci. 102:
+9365-9370, 2005.
+
+4. Kapfhamer, D.; Valladares, O.; Sun, Y.; Nolan, P. M.; Rux, J. J.;
+Arnold, S. E.; Veasey, S. C.; Bucan, M.: Mutations in Rab3a alter
+circadian period and homeostatic response to sleep loss in the mouse. Nature
+Genet. 32: 290-295, 2002.
+
+5. Rousseau-Merck, M. F.; Zahraoui, A.; Bernheim, A.; Touchot, N.;
+Miglierina, R.; Tavitian, A.; Berger, R.: Chromosome mapping of the
+human RAS-related RAB3A gene to 19p13.2. Genomics 5: 694-698, 1989.
+
+6. Rousseau-Merck, M. F.; Zahraoui, A.; Bernheim, A.; Touchot, N.;
+Miglierina, R.; Tavitian, A.; Berger, R.: Chromosome mapping of the
+human RAS related RAB3A and RAB3B genes to chromosomes 19p13.2 and
+1p31-p32, respectively. (Abstract) Cytogenet. Cell Genet. 51: 1070
+only, 1989.
+
+7. Ruediger, S.; Vittori, C.; Bednarek, E.; Genoud, C.; Strata, P.;
+Sacchetti, B.; Caroni, P.: Learning-related feedforward inhibitory
+connectivity growth required for memory precision. Nature 473: 514-518,
+2011.
+
+8. Sullivan, M.; Olsen, A. S.; Houslay, M. D.: Genomic organisation
+of the human cyclic AMP-specific phosphodiesterase PDE4C gene and
+its chromosomal localisation to 19p13.1, between RAB3A and JUND. Cell.
+Signal. 11: 735-742, 1999.
+
+9. Trask, B.; Fertitta, A.; Christensen, M.; Youngblom, J.; Bergmann,
+A.; Copeland, A.; de Jong, P.; Mohrenweiser, H.; Olsen, A.; Carrano,
+A.; Tynan, K.: Fluorescence in situ hybridization mapping of human
+chromosome 19: cytogenetic band location of 540 cosmids and 70 genes
+or DNA markers. Genomics 15: 133-145, 1993.
+
+10. Zahraoui, A.; Touchot, N.; Chardin, P.; Tavitian, A.: The human
+rab genes encode a family of GTP-binding proteins related to yeast
+YPT1 and SEC4 products involved in secretion. J. Biol. Chem. 264:
+12394-12401, 1989.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/22/2011
+Cassandra L. Kniffin - updated: 7/12/2005
+Patricia A. Hartz - updated: 1/25/2005
+Victor A. McKusick - updated: 9/16/2002
+Victor A. McKusick - updated: 12/7/1999
+Rebekah S. Rasooly - updated: 3/9/1999
+
+CREATED Victor A. McKusick: 9/6/1989
+
+EDITED alopez: 06/24/2011
+alopez: 6/24/2011
+terry: 6/22/2011
+wwang: 7/28/2005
+ckniffin: 7/12/2005
+mgross: 1/25/2005
+alopez: 10/18/2002
+alopez: 9/16/2002
+carol: 9/16/2002
+carol: 12/10/1999
+mcapotos: 12/10/1999
+terry: 12/7/1999
+mgross: 3/9/1999
+carol: 2/11/1993
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/14/1989
+carol: 12/12/1989
+ddp: 10/27/1989
+
+610626	TITLE *610626 PPAP2 DOMAIN-CONTAINING PROTEIN 1B; PPAPDC1B
+;;HTPAP
+DESCRIPTION 
+CLONING
+
+Previous studies of hepatocellular carcinoma (HCC) suggested that
+deletion of a region of human chromosome 8p contributes to HCC
+metastasis. Using cDNA microarray analysis of chromosome 8 ESTs from HCC
+cell lines to identify genes with downregulated expression in high
+metastatic potential versus low metastatic potential cell lines,
+followed by database analysis and RT-PCR, Wu et al. (2006) cloned
+PPAPDC1B, which they called HTPAP. The 175-amino acid protein contains
+an N-terminal transmembrane domain, an acid phosphatase homology region,
+2 PKC phosphorylation sites, and a tyrosine kinase phosphorylation site.
+RT-PCR analysis of 16 metastatic HCC tissues paired with 16 primary HCC
+tissues showed downregulation of PPAPDC1B expression in 11 of 16
+metastatic lesions compared to primary HCC tissues, with 9 of 16
+metastatic lesions showing significant downregulation of PPAPDC1B (P
+less than 0.05).
+
+GENE FUNCTION
+
+Using in vitro matrigel assays, Wu et al. (2006) showed that
+PPAPDC1B-transfected metastatic HCC cells showed significantly lower
+invasion activity. Transfection and expression of PPAPDC1B in nude mice
+bearing human HCC significantly decreased the incidence and degree of
+pulmonary metastasis of HCC.
+
+MAPPING
+
+By genomic sequence analysis, Wu et al. (2006) mapped the PPAPDC1B gene
+to chromosome 8p12.
+
+REFERENCE 1. Wu, X.; Jia, H.-L.; Wang, Y.-F.; Ren, N.; Ye, Q.-H.; Sun, H.-C.;
+Wang, L.; Liu, Y.-K.; Tang, Z.-Y.; Qin, L.-X.: HTPAP gene on chromosome
+8p is a candidate metastasis suppressor for human hepatocellular carcinoma. Oncogene 25:
+1832-1840, 2006.
+
+CREATED Laura L. Baxter: 12/1/2006
+
+EDITED wwang: 12/01/2006
+
+609590	TITLE *609590 QUAKING, MOUSE, HOMOLOG OF; QKI
+;;QK1;;
+QK
+DESCRIPTION 
+DESCRIPTION
+
+QKI belongs to a family of RNA-binding proteins that have an HNRNPK
+(600712) homology (KH) domain embedded in a 200-amino acid region called
+the GSG domain. Other members of this family include SAM68 (KHDRBS1;
+602489) and SF1 (601516) (Chen and Richard, 1998). QKI proteins regulate
+RNA splicing, export of target RNAs from the nucleus, translation of
+proteins, and RNA stability (Lauriat et al., 2008).
+
+CLONING
+
+Ebersole et al. (1996) identified several splice variants of mouse Qki
+that could be grouped into 2 classes based on size. The longer mRNAs (7,
+6, and 5 kb) were abundant in mouse brain, whereas the shorter mRNAs
+(1.5 to 1.9 kb) were less abundant. The longer variants encode deduced
+proteins containing an N-terminal proline-rich domain, followed by 2 RG
+boxes, a second proline-rich region, a central GSG/STAR domain, a third
+proline-rich domain, and 5 tyrosines preceding alternative C-terminal
+ends. The GSG domain consists of a KH domain flanked by evolutionarily
+conserved quaking (QUA) domains 1 and 2. Qki also has 7 SH3-binding
+sites dispersed throughout its sequence. Qki expression peaked in
+16-day-old myelinating mouse brain. A splice variant was also detected
+in newborn testis. In situ hybridization of normal mouse brain showed
+Qki transcripts in myelinating tracts in the cerebellum. Ebersole et al.
+(1996) identified multiple QKI transcripts in human, rodent, chicken,
+and frog.
+
+By Northern blot analysis, Hardy et al. (1996) found that the 5-, 6-,
+and 7-kb Qki mRNAs, which they designated Qki-5, Qki-6, and Qki-7,
+respectively, were variably expressed in developing and adult mouse
+brain. Levels of Qki-5 declined dramatically after the second postnatal
+week, whereas levels of Qki-6 and Qki-7 declined modestly thereafter.
+Immunohistochemical analysis detected all 3 proteins in myelinating
+cells of the central and peripheral nervous system and in astrocytes.
+The isoforms showed distinct intracellular distributions, however, with
+Qki-6 and Qki-7 localized to perikaryal cytoplasm and Qki-5 restricted
+to nucleus.
+
+Noveroske et al. (2002) found that Qki was expressed in the yolk sac
+endoderm in mice, adjacent to developing blood islands.
+
+Using quantitative RT-PCR, Lauriat et al. (2008) found that QKI-5 showed
+no significant differences in expression across various age groups in
+human prefrontal cortex (PFC) and hippocampus. However, QKI-5 was the
+only QKI variant expressed at high levels in fetal PFC. QKI-6 expression
+increased in PFC in a linear fashion with age, with a substantial
+increase between 1 to 2 months and 1 to 2 years of age. In human
+hippocampus, QKI-6 expression increased at 1 to 2 years of age, remained
+high during childhood, and decreased in adulthood. QKI-7a generally
+showed a linear trend toward increased expression in PFC with age, but
+there was a peak at 1 to 2 years of age. QKI-7b expression in PFC did
+not vary significantly with age due to greater variability between
+individuals, but there was a trend toward an increase with age. In
+hippocampus, QKI-7a and QKI-7b showed a trend toward decreased
+expression in adulthood, similar to QKI-6, but there was greater
+variability between individuals. Lauriat et al. (2008) noted that
+expression of QKI-6 and QKI-7 in PFC increased during the period of
+active myelination.
+
+By sequencing mRNAs expressed in primary cultures of human astrocytes,
+Radomska et al. (2013) identified QKI5, QKI6, QKI7, QKI7b, and a novel
+variant that they called QKI6b. QKI6b differs from other QKI variants in
+the 3-prime UTR and encodes a protein identical to that encoded by QKI6.
+QKI6 and QKI6b were the most abundant QKI transcripts detected in human
+astrocytes, and QKI5 was the least abundant. Immunohistochemical
+analysis with isoform-specific antibodies revealed that QKI6 and QKI7
+were uniformly distributed throughout the nucleus, cell body, and
+processes, whereas QKI5 localized to nuclei and was excluded from
+nucleoli. Western blot analysis detected QKI6 at an apparent molecular
+mass of 38 kD. Both QKI5 and QKI7 had apparent molecular masses of about
+40 kD.
+
+GENE STRUCTURE
+
+Backx et al. (2010) noted that the QKI gene contains 8 exons.
+
+MAPPING
+
+Backx et al. (2010) stated that the QKI gene maps to chromosome 6q26.
+
+The mouse Qki gene maps to chromosome 17 (Ebersole et al., 1996).
+
+GENE FUNCTION
+
+Chen and Richard (1998) showed that the mouse Qk1 proteins homodimerized
+in vivo, and they determined that the GSG domain mediated dimerization
+and RNA binding. Self-association was mediated by a region of QUA1
+predicted to form coiled coils.
+
+Larocque et al. (2002) found that mouse Qk1 proteins bound a short
+element in the 3-prime UTR of Mbp (159430). The balance between the
+nuclear and cytoplasmic isoforms of Qk1 controlled the nuclear export of
+Mbp mRNAs and the cellular localization of the 17- and 21.5-kD Mbp
+isoforms. Overexpression of Qki-5 in cultured rodent oligodendrocytes
+recreated the Mbp defects observed in qk(v) mice, with retention of Mbp
+in the nucleus. Larocque et al. (2002) concluded that the QKI proteins
+have a role in myelination.
+
+In an mRNA analysis of 55 control human brains, Aberg et al. (2006)
+found that QKI mRNA levels accounted for 47% of the coordinated
+variation of mRNA levels of 6 oligodendrocyte-related genes, PLP1
+(300401), MAG (159460), MBP, TF (190000), SOX10 (602229), and CDKN1B
+(600778). In silico analysis identified potential QKI-binding sites in
+all of the genes except TF. Variation in the relative expression of
+splice variant QKI-7 explained a large fraction of additional mRNA
+variation in 3 highly coexpressed genes, MAG, PLP1, and TF. Analysis of
+55 brains from patients with schizophrenia (see 181500) showed
+significantly decreased expression of MAG, PLP1, and TF compared to
+control brains that was associated with decreased levels of QKI-7. Aberg
+et al. (2006) concluded that QKI is a regulator of oligodendrocyte
+differentiation and maturation in the human brain, and suggested that
+splice variants of QKI may play a role in myelin and oligodendrocyte
+dysfunction in schizophrenia.
+
+Using yeast 2-hybrid screens, coaffinity purification analysis of
+transfected HEK293 cells, and bioinformatic analysis, Lim et al. (2006)
+developed an interaction network for 54 human proteins involved in 23
+inherited ataxias. By database analysis, they expanded the core network
+to include more distantly related interacting proteins that could
+function as genetic modifiers. RBPMS (601558) was a main hub in the
+network and interacted with many proteins, including the cerebellar
+ataxia-associated proteins ATN1 (607462) and QK1.
+
+Using a rat cell line and primary mixed glial cultures from neonatal rat
+brain, Chen et al. (2007) showed that Qk1 was necessary and sufficient
+for oligodendroglia progenitor cell differentiation. Qk1 isoforms 5, 6,
+and 7 differed in their ability to promote oligodendroglia
+differentiation, which was dependent on the RNA-binding ability of Qk1.
+RNA interference-mediated Qk1 knockdown abrogated differentiation
+without affecting proliferation capacity or cell cycle progression.
+
+Using qualitative RT-PCR, Lauriat et al. (2008) examined expression of
+putative QKI target mRNAs, including MAGI1 (602625), BCAS1 (602968),
+CDKN1B, PLP1, and MAG, in human prefrontal cortex and hippocampus from
+fetus to adulthood (up to 46 years of age). Most of the putative QKI
+target mRNAs showed increased expression with increasing age in
+prefrontal cortex. However, there was little evidence of developmental
+regulation of these mRNAs in hippocampus.
+
+Using small interfering RNA, Radomska et al. (2013) found that knockdown
+of QKI7 in cultured human astrocytes reduced expression of an astrocyte
+differentiation marker, GFAP (137780), but did not reduce cell
+viability. The dominant GFAP variant expressed in the astrocytes,
+GFAP-alpha, was the most highly downregulated. Radomska et al. (2013)
+identified a core QKI regulatory element (QRE) in the 3-prime UTR of the
+GFAP-alpha transcript and a potential upstream half-site. The QRE, but
+not the half-site, was conserved in mouse Gfap. Exposure of astrocytes
+to the antipsychotic drug haloperidol specifically increased expression
+of QKI7 and GFAP transcripts.
+
+CYTOGENETICS
+
+Backx et al. (2010) reported a woman with borderline mental retardation
+and dysmorphic features who had a de novo reciprocal balanced
+translocation t(5;6)(q23.1;q26) disrupting the QKI gene. The 5q
+breakpoint occurred in a gene desert. RNA studies showed a 50% reduction
+in QKI expression, consistent with haploinsufficiency. She presented at
+birth with hypotonia, short neck, genital hypoplasia with underdeveloped
+labia majora, and facial dysmorphism including epicanthal folds, narrow
+palpebral fissures, broad nasal bridge with small nose and bulbous tip,
+small mouth with downturned corners, a long philtrum, and small
+protruding cupped ears. She attended special education schools.
+Evaluation at age 23 years showed relative microcephaly,
+microretrognathia, small mouth with high-arched palate, myopia, and
+nasal speech. She also had inverted nipples and irregular menses.
+Seizures and brain anomalies were not present.
+
+Backx et al. (2010) provided a literature review of 18 patients reported
+with chromosome 6qter deletions and 2 patients reported with
+interstitial 6q deletion. All deletions included the QKI gene. They
+noted that while the deletion sizes varied a common recognizable
+phenotype of intellectual disabilities, hypotonia, seizures, brain
+anomalies, and specific dysmorphic facial features could be distilled
+for the chromosome 6qter deletion syndrome.
+
+ANIMAL MODEL
+
+Recessive mutations in the mouse quaking gene affect myelination and
+embryogenesis and can be embryonic lethal. A spontaneous, recessive
+quaking mutation, qk(v), results in viable mice with a severe deficit in
+myelin, leading to rapid tremor by postnatal day 10. By Northern blot
+analysis, Ebersole et al. (1996) detected a truncated Qki message in
+brains of qk(v) mice.
+
+Hardy et al. (1996) found that Qki-6 and Qki-7 were absent from
+myelin-forming cells in qk(v) mice. Qki-5 was absent only from
+oligodendrocytes of tracts from severely affected qk(v) brain regions.
+
+Wu et al. (2002) found misregulated alternative splicing of several
+myelin genes in qk(v) mice.
+
+Lu et al. (2003) presented evidence that the qk(v) mutation affects an
+enhancer required for expression of Qki in myelinating cells but not in
+other tissues.
+
+Chen and Richard (1998) determined that a point mutation within the QUA1
+region of Qk1 caused embryonic lethality in mice. The mutation abolished
+Qk1 self-association but had no effect on RNA-binding activity.
+Expression of wildtype Qk1 or a lethal mutant Qk1 deficient in
+self-association but not RNA binding induced cell death by apoptosis in
+a mouse fibroblast cell line. The lethal Qk1 mutant was more potent at
+inducing apoptosis.
+
+Noveroske et al. (2002) found that embryonic mice with a lethal point
+mutation in Qki had defective yolk sac vascular remodeling and abnormal
+vessels in the embryo proper at midgestation, coinciding with embryonic
+death.
+
+Noveroske et al. (2005) isolated qk(e5), an N-ethyl-N-nitrosurea-induced
+viable allele of mouse Qki. Unlike qk(v)/qk(v) mice, qk(e5)/qk(e5) mice
+had early-onset seizures, severe ataxia, and a dramatically reduced life
+span. Ultrastructural analysis of qk(e5)/qk(e5) brains revealed severe
+dysmyelination when compared with both wildtype and qk(v)/qk(v) brains.
+Young adult qk(e5)/qk(e5) mice exhibited Purkinje cell axonal swellings
+indicative of neurodegeneration, which is not seen in young adult
+qk(v)/qk(v) mice. The molecular defect in the qk(e5) allele was not
+evident, but protein expression studies showed that qk(e5)/qk(e5)
+postnatal oligodendrocytes lacked Qki-6 and Qki-7 and had reduced Qki-5
+levels. Several oligodendrocyte developmental markers were present in
+qk(e5)/qk(e5) postnatal brain, but Cnp (123830) and Mbp levels were
+considerably reduced. Noveroske et al. (2005) noted that qk(v) is a
+large deletion that affects expression of Pacrg (608427) and Parkin
+(PARK2; 602544) in addition to Qki, complicating interpretation of its
+neuropathology. Thus, they suggested that qk(e5) may be useful in
+studying QKI regulation in the developing central nervous system and its
+role in myelination.
+
+Wilson et al. (2010) noted that the qk(v) phenotype, which includes
+dysmyelination of the central nervous system and male sterility, is due
+to reduced expression of Qk and a complete lack of Pacrg expression,
+respectively. Since Pacrg is required for correct development of the
+spermatozoan flagella (a specialized type of motile cilia), Wilson et
+al. (2010) analyzed qk(v) mutant mice for evidence of cilial
+dysfunction. Histologic and magnetic resonance imaging analyses
+demonstrated that qk(v) mutant mice were affected by acquired,
+communicating hydrocephalus (HC). Structure of axonemal microtubules and
+density of ciliated cells were normal, and cilia length was similar to
+wildtype littermates. There was a reduction in ependymal cilial beat
+frequency and cilial-mediated flow in qk(v) mutant mice compared with
+wildtype littermate controls. Transgenic expression of Pacrg was
+necessary and sufficient to correct this deficit and rescue the HC
+phenotype in the qk(v) mutant. Wilson et al. (2010) concluded that Pacrg
+is required for motile cilia function and may be involved in the
+pathogenesis of human ciliopathies, such as HC, asthenospermia, and
+primary ciliary dyskinesia.
+
+REFERENCE 1. Aberg, K.; Saetre, P.; Jareborg, N.; Jazin, E.: Human QKI, a potential
+regulator of mRNA expression of human oligodendrocyte-related genes
+involved in schizophrenia. Proc. Nat. Acad. Sci. 103: 7482-7487,
+2006.
+
+2. Backx, L.; Fryns, J. P.; Marcelis, C.; Devriendt, K.; Vermeesch,
+J.; Van Esch, H.: Haploinsufficiency of the gene Quaking (QKI) is
+associated with the 6q terminal deletion syndrome. Am. J. Med. Genet. 152A:
+319-326, 2010.
+
+3. Chen, T.; Richard, S.: Structure-function analysis of Qk1: a lethal
+point mutation in mouse quaking prevents homodimerization. Molec.
+Cell. Biol. 18: 4863-4871, 1998.
+
+4. Chen, Y.; Tian, D.; Ku, L.; Osterhout, D. J.; Feng, Y.: The selective
+RNA-binding protein quaking I (QKI) is necessary and sufficient for
+promoting oligodendroglia differentiation. J. Biol. Chem. 282: 23553-23560,
+2007.
+
+5. Ebersole, T. A.; Chen, Q.; Justice, M. J.; Artzt, K.: The quaking
+gene product necessary in embryogenesis and myelination combines features
+of RNA binding and signal transduction proteins. Nature Genet. 12:
+260-265, 1996.
+
+6. Hardy, R. J.; Loushin, C. L.; Friedrich, V. L., Jr.; Chen, Q.;
+Ebersole, T. A.; Lazzarini, R. A.; Artzt, K.: Neural cell type-specific
+expression of QKI proteins is altered in quakingviable mutant mice. J.
+Neurosci. 16: 7941-7949, 1996.
+
+7. Larocque, D.; Pilotte, J.; Chen, T.; Cloutier, F.; Massie, B.;
+Pedraza, L.; Couture, R.; Lasko, P.; Almazan, G.; Richard, S.: Nuclear
+retention of MBP mRNAs in the quaking viable mice. Neuron 36: 815-829,
+2002.
+
+8. Lauriat, T. L.; Shiue, L.; Haroutunian, V.; Verbitsky, M.; Ares,
+M., Jr.; Ospina, L.; McInnes, L. A.: Developmental expression profile
+of quaking, a candidate gene for schizophrenia, and its target genes
+in human prefrontal cortex and hippocampus shows regional specificity. J.
+Neurosci. Res. 86: 785-796, 2008.
+
+9. Lim, J.; Hao, T.; Shaw, C.; Patel, A. J.; Szabo, G.; Rual, J.-F.;
+Fisk, C. J.; Li, N.; Smolyar, A.; Hill, D. E.; Barabasi, A.-L.; Vidal,
+M.; Zoghbi, H. Y.: A protein-protein interaction network for human
+inherited ataxias and disorders of Purkinje cell degeneration. Cell 125:
+801-814, 2006.
+
+10. Lu, Z.; Zhang, Y.; Ku, L.; Wang, H.; Ahmadian, A.; Feng, Y.:
+The quakingviable mutation affects qkI mRNA expression specifically
+in myelin-producing cells of the nervous system. Nucleic Acids Res. 31:
+4646-4624, 2003.
+
+11. Noveroske, J. K.; Hardy, R.; Dapper, J. D.; Vogel, H.; Justice,
+M. J.: A new ENU-induced allele of mouse quaking causes severe CNS
+dysmyelination. Mammalian Genome 16: 672-682, 2005.
+
+12. Noveroske, J. K.; Lai, L.; Gaussin, V.; Northrop, J. L.; Nakamura,
+H.; Hirschi, K. K.; Justice, M. J.: Quaking is essential for blood
+vessel development. Genesis 32: 218-230, 2002.
+
+13. Radomska, K. J.; Halvardson, J.; Reinius, B.; Carlstrom, E. L.;
+Emilsson, L.; Feuk, L.; Jazin, E.: RNA-binding protein QKI regulates
+Glial fibrillary acidic protein expression in human astrocytes. Hum.
+Molec. Genet. 22: 1373-1382, 2013.
+
+14. Wilson, G. R.; Wang, H. X.; Egan, G. F.; Robinson, P. J.; Delatycki,
+M. B.; O'Bryan, M. K.; Lockhart, P. J.: Deletion of the Parkin co-regulated
+gene causes defects in ependymal ciliary motility and hydrocephalus
+in the quaking(viable) mutant mouse. Hum. Molec. Genet. 19: 1593-1602,
+2010.
+
+15. Wu, J. I.; Reed, R. B.; Grabowski, P. J.; Artzt, K.: Function
+of quaking in myelination: regulation of alternative splicing. Proc.
+Nat. Acad. Sci. 99: 4233-4238, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/5/2013
+George E. Tiller - updated: 11/21/2011
+Cassandra L. Kniffin - updated: 6/28/2011
+Matthew B. Gross - updated: 2/24/2009
+Patricia A. Hartz - updated: 2/24/2009
+Patricia A. Hartz - updated: 1/15/2009
+Cassandra L. Kniffin - updated: 6/1/2006
+
+CREATED Patricia A. Hartz: 9/19/2005
+
+EDITED mgross: 09/05/2013
+mgross: 9/5/2013
+carol: 11/21/2011
+terry: 11/21/2011
+wwang: 7/14/2011
+ckniffin: 6/28/2011
+mgross: 2/24/2009
+terry: 2/24/2009
+mgross: 1/15/2009
+wwang: 6/26/2006
+ckniffin: 6/1/2006
+mgross: 9/19/2005
+

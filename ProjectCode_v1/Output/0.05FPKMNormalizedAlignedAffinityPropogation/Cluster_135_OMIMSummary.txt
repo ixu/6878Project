@@ -1,0 +1,554 @@
+600027	TITLE *600027 SYNTROPHIN, BETA-2; SNTB2
+;;SNT2B2;;
+SYNTROPHIN-LIKE; SNTL
+DESCRIPTION The syntrophin family of dystrophin (300377)-associated proteins
+consists of 3 isoforms, alpha-1 (601017), beta-1 (600026), and beta-2,
+each encoded by a distinct gene. Each syntrophin has approximately 50%
+amino acid identity with the other 2. The 3 syntrophins can be separated
+into 2 classes based on isoelectric point: the acidic isoform,
+alpha-1-syntrophin (pI = 6.7) and the 2 basic forms, beta-1 and beta-2
+(pI = 9.0). Adams et al. (1995) cloned the mouse beta-2-syntrophin gene,
+which they found to be 33 kb long with 7 exons, all of which have
+homologs at the corresponding position in the alpha-1-syntrophin gene.
+Primer extension analysis revealed a single transcription initiation
+site in the beta-2 gene.
+
+Ahn et al. (1996) found that the deduced amino acid sequences of human
+beta-2-syntrophin and alpha-1-syntrophin are nearly identical to their
+homologs in mouse, suggesting a strong functional conservation among the
+individual isoforms. Much like beta-1-syntrophin, human
+beta-2-syntrophin has multiple transcript classes and is expressed
+widely, although in a distinct pattern of relative abundance. In
+contrast, human alpha-1-syntrophin is most abundant in heart and
+skeletal muscle, and less so in other tissues.
+
+By analysis of interspecific backcrosses, Adams et al. (1995) mapped the
+mouse Sntb2 gene to chromosome 8. By Southern blot analysis of
+hamster/human somatic cell hybrid DNAs, they mapped the human SNTB2 gene
+to chromosome 16. By PCR analysis of somatic cell hybrids and
+fluorescence in situ hybridization, Ahn et al. (1996) localized the
+SNTB2 gene to 16q22-q23.
+
+REFERENCE 1. Adams, M. E.; Dwyer, T. M.; Dowler, L. L.; White, R. A.; Froehner,
+S. C.: Mouse alpha-1- and beta-2-syntrophin gene structure, chromosome
+localization, and homology with a discs large domain. J. Biol. Chem. 270:
+25859-25865, 1995.
+
+2. Ahn, A. H.; Freener, C. A.; Gussoni, E.; Yoshida, M.; Ozawa, E.;
+Kunkel, L. M.: The three human syntrophin genes are expressed in
+diverse tissues, have distinct chromosomal locations, and each bind
+to dystrophin and its relatives. J. Biol. Chem. 271: 2724-2730,
+1996.
+
+CREATED Victor A. McKusick: 7/13/1994
+
+EDITED carol: 03/13/2002
+carol: 2/15/2001
+mark: 4/24/1995
+carol: 1/23/1995
+carol: 10/19/1994
+mimadm: 7/30/1994
+
+614387	TITLE *614387 ZINC FINGER PROTEIN 526; ZNF526
+;;KIAA1951
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2001) cloned ZNF526, which they designated
+KIAA1951. The cDNA has several repetitive elements in its 3-prime UTR.
+The deduced protein contains 679 amino acids. RT-PCR ELISA detected
+variable ZNF526 expression in all adult and fetal tissues and specific
+adult brain regions examined. Highest expression was in ovary, followed
+by lung, pancreas, spleen, testis, spinal cord, and fetal liver.
+
+MAPPING
+
+Hartz (2011) mapped the ZNF526 gene to chromosome 19q13.2 based on an
+alignment of the ZNF526 sequence (GenBank GENBANK AB075831) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  12/9/2011.
+
+2. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+CREATED Patricia A. Hartz: 12/9/2011
+
+EDITED mgross: 12/09/2011
+
+607583	TITLE *607583 PEROXISOME BIOGENESIS FACTOR 11G; PEX11G
+;;PEX11-GAMMA
+DESCRIPTION 
+CLONING
+
+By genomic sequence analysis and EST database searching using PEX11B
+(603867) as query, Li et al. (2002) identified PEX11G and obtained the
+full-length human and mouse cDNAs. Both human and mouse PEX11G contain
+241 amino acids. Phylogenic analysis determined that PEX11G represents a
+subfamily of PEX11 proteins distinct from the branch that includes
+PEX11A (603866) and PEX11B. Northern blot analysis of mouse tissues
+detected tissue-specific expression, with high levels in liver and much
+lower levels in other tissues. Pex11g expression was below the level of
+detection in mouse fibroblasts. Transfection of epitope-tagged PEX11G
+into a human fibroblast cell line revealed colocalization with PEX14
+(601791), a peroxisome marker protein. Analysis of PEX11G domains
+detected in permeabilized cells suggested that PEX11G is a peroxisomal
+membrane protein with both the N and C termini exposed to the cytoplasm.
+
+Using homology with PEX11A, Tanaka et al. (2003) identified PEX11G. They
+cloned the full-length PEX11G cDNA by RT-PCR of fibroblasts from a
+patient with peroxisome biogenesis disorder, complementation group 11
+(601757). The deduced 241-amino acid protein has a calculated molecular
+mass of about 27 kD. PEX11G contains 2 membrane-spanning segments. By
+differential permeabilization, Tanaka et al. (2003) confirmed that the N
+and C termini of PEX11G are exposed to the cytosol.
+
+GENE FUNCTION
+
+Li et al. (2002) found that Pex11g expression in mouse liver was not
+induced by ciprofibrate, and no change in Pex11g expression was detected
+in cells lacking either Pex11a or Pex11b. Overexpression of PEX11G did
+not increase peroxisome abundance, but induced tubulation, enlargement,
+and clustering of peroxisomes.
+
+MAPPING
+
+By genomic sequence analysis, Tanaka et al. (2003) mapped the PEX11G
+gene to chromosome 19p13.3.
+
+REFERENCE 1. Li, X.; Baumgart, E.; Dong, G.-X.; Morrell, J. C.; Jimenez-Sanchez,
+G.; Valle, D.; Smith, K. D.; Gould, S. J.: PEX11-alpha is required
+for peroxisome proliferation in response to 4-phenylbutyrate but is
+dispensable for peroxisome proliferator-activated receptor alpha-mediated
+peroxisome proliferation. Molec. Cell. Biol. 22: 8226-8240, 2002.
+
+2. Tanaka, A.; Okumoto, K.; Fujiki, Y.: cDNA cloning and characterization
+of the third isoform of human peroxin Pex11p. Biochem. Biophys. Res.
+Commun. 300: 819-823, 2003.
+
+CREATED Patricia A. Hartz: 2/26/2003
+
+EDITED alopez: 06/18/2007
+mgross: 2/26/2003
+
+603482	TITLE *603482 BETA-TRANSDUCIN REPEAT-CONTAINING PROTEIN; BTRC
+;;BETA-TRCP;;
+BTRCP; BTRCP1;;
+SLIMB, DROSOPHILA, HOMOLOG OF;;
+F-BOX AND WD40 DOMAIN PROTEIN 1A; FBXW1A; FBW1A;;
+FBXW1
+DESCRIPTION 
+CLONING
+
+HIV-1 Vpu interacts with CD4 (186940) in the endoplasmic reticulum and
+triggers CD4 degradation, presumably by proteasomes. Margottin et al.
+(1998) identified a human beta-transducin repeat-containing protein
+(BTRCP), consisting of 569 amino acids, that interacts with Vpu and
+connects CD4 to the proteolytic machinery. The human BTRCP is homologous
+to Xenopus bTrCP1, yeast Met30, and Neurospora Scon2 proteins.
+CD4-Vpu-BTRCP complexes have been detected by coimmunoprecipitation.
+BTRCP-binding to Vpu and its recruitment to membranes require 2
+phosphoserine residues (ser52 and ser56) in Vpu essential for CD4
+degradation. BTRCP contains 7 WD repeats at the C terminus which mediate
+binding to Vpu, and an F box near the N terminus which is involved in
+interaction with SKP1 (601434), a targeting factor for
+ubiquitin-mediated proteolysis. An F-box deletion mutant of BTRCP had a
+dominant-negative effect on Vpu-mediated CD4 degradation. These data
+suggest that BTRCP and SKP1 represent components of an ER-associated
+protein degradation pathway that mediates CD4 proteolysis.
+
+Activation of nuclear factor kappa-B (NFKB; see 164011) requires
+phosphorylation of the NFKB inhibitor IKB-alpha (IKBA, or NFKBIA;
+164008) at N-terminal serines 32 and 36 by IKB kinase-alpha (IKBKA;
+600664) or IKB kinase-beta (IKBKB; 603258). Phosphorylated IKBA (pIKBA)
+is then targeted for ubiquitination and destruction in the 26S
+proteasome. Using affinity purification, Yaron et al. (1998) isolated a
+ligase, which they denoted pIKBA-E3, from HeLa cells that binds strongly
+to pIKBA and attaches ubiquitin to lysines 21 and 22. By peptide
+sequencing, they identified the component of the ligase that recognizes
+and ubiquitinates pIKBA as an F-box/WD40 domain from BTRC, which they
+called E3RS-IKB (E3 receptor subunit for IKB). An F-box deletion mutant
+of BTRC bound to but did not ubiquitinate pIKBA and acted as a
+dominant-negative molecule, i.e., NFKB activation was inhibited, in
+stimulated Jurkat cells in vivo.
+
+Using SKP1 as bait in a yeast 2-hybrid screen and by searching DNA
+databases, Cenciarelli et al. (1999) identified several genes encoding
+F-box proteins, including FBW1A. Northern blot analysis detected
+variable expression of 7.5-, 4.4-, and 2.5-kb FBW1A transcripts in
+nearly all tissues examined. Epitope-tagged FBW1A distributed to both
+the cytoplasm and nucleus of transfected HeLa cells.
+
+GENE FUNCTION
+
+Winston et al. (1999) determined by biochemical dissection and
+expression of assembled recombinants that BTRC, and not other F-box
+proteins, is the F protein in the SCF (SKP1, CUL1 (603134), and F
+protein) complex. They showed that the SCF complex recognizes, in a
+phosphorylation-dependent manner, a 21-amino acid destruction motif
+(residues 21 to 41) in IKBA, as well as a conserved destruction motif in
+beta-catenin (CTNNB1; 116806), which is also regulated by
+phosphorylation-dependent ubiquitination. Winston et al. (1999) noted
+that CTNNB1 is a component of the WNT (see WNT1; 164820) signaling
+pathway, and its levels are regulated by AXIN (603816) and GSK3B
+(605004). Whole mount in situ hybridization analysis revealed that Btrc
+is expressed throughout the mouse embryo at day 11.5 postcoitum, with
+highest levels in brain, lung, and liver. Immunofluorescence analysis
+demonstrated that BTRC is expressed largely, if not exclusively, in the
+cytoplasm, where pIKBA ubiquitination is thought to occur.
+
+Spencer et al. (1999) pointed out that BTRC is the vertebrate homolog of
+the Drosophila Slimb protein. They found that BTRC ubiquitinates pIKBA
+at specific lysines in the presence of ubiquitin-activating and
+-conjugating enzymes (see 603890).
+
+Maniatis (1999) reviewed the roles of BTRC and the SCF complex in the
+NFKB, WNT, and hedgehog (see 600725) signaling pathways.
+
+Cenciarelli et al. (1999) showed that in vitro translated FBW1A
+interacted with SKP1 in an in vitro pull-down assay. The F box of FBW1A
+was required for this interaction.
+
+Neish et al. (2000) observed abrogation of ubiquitination of
+phosphorylated CTNNB1 and IKBA, but not of other proteins, in a model
+epithelial system with nonpathogenic Salmonella, suggesting that the
+effect of the nonpathogenic bacteria is specific to the SCF complex
+substrates CTNNB1 and IKBA.
+
+The Drosophila circadian clock is driven by daily fluctuations of the
+proteins Period (Per; 602260) and Timeless (Tim; 603887), which
+associate in a complex and negatively regulate the transcription of
+their own genes. Protein phosphorylation has a central role in this
+feedback loop, by controlling Per stability in both cytoplasmic and
+nuclear compartments, as well as Per/Tim nuclear transfer. Grima et al.
+(2002) demonstrated that the product of the slimb (slmb) gene is an
+essential component of the Drosophila circadian clock. slmb mutants are
+behaviorally arrhythmic, and can be rescued by targeted expression of
+slmb in the clock neurons. In constant darkness, highly phosphorylated
+forms of the Per and Tim proteins are constitutively present in the
+mutants, indicating that the control of their cyclic degradation is
+impaired. Because levels of Per and Tim oscillate in slmb mutants
+maintained in light:dark conditions, light- and clock-controlled
+degradation of Per and Tim do not rely on the same mechanisms.
+
+Casein kinase I-epsilon (600863) has a prominent role in regulating the
+phosphorylation and abundance of Per proteins in animals. Using a
+Drosophila cell culture system, Ko et al. (2002) demonstrated that
+Double-time, the Drosophila homolog of CKI-epsilon, promotes the
+progressive phosphorylation of Per, leading to the rapid degradation of
+hyperphosphorylated isoforms by the ubiquitin-proteasome pathway. Slimb,
+an F-box/WD40-repeat protein functioning in the ubiquitin-proteasome
+pathway, interacts preferentially with phosphorylated Per and stimulates
+its degradation. Overexpression of slimb or expression in clock cells of
+a dominant-negative version of slimb disrupts normal rhythmic activity
+in flies. Ko et al. (2002) concluded that hyperphosphorylated Per is
+targeted to the proteasome by interactions with Slimb.
+
+Noubissi et al. (2006) demonstrated that beta-catenin stabilizes the
+mRNA encoding the F-box protein BTRCP1 and identified the RNA-binding
+protein CRDBP (608288) as a target of beta catenin/Tcf transcription
+factor. CRDBP binds to the coding region of BTRCP1 mRNA. Overexpression
+of CRDBP stabilized BTRCP1 mRNA and elevated BTRCP1 levels both in cells
+and in vivo, resulting in the activation of the Skp1-Cullin1-F-box
+protein (SCF)-BTRCP1 E3 ubiquitin ligase and in accelerated turnover of
+its substrates including I-kappa-B (see 164008) and beta-catenin. CRDBP
+is essential for the induction of both BTRCP1 and c-Myc (190080) by
+beta-catenin signaling in colorectal cancer cells. Noubissi et al.
+(2006) concluded that high levels of CRDBP that are found in primary
+human colorectal tumors exhibiting active beta-catenin/Tcf signaling
+implicates CRDBP induction in the upregulation of BTRCP1, in the
+activation of dimeric transcription factor NF-kappa-B (see 164011), and
+in the suppression of apoptosis in these cancers.
+
+Claspin (CLSPN; 605434) is an adaptor protein required for activation of
+CHK1 (CHEK1; 603078), a central component of DNA checkpoint signaling.
+Mailand et al. (2006) and Peschiaroli et al. (2006) found that claspin
+became degraded at the onset of mitosis. Claspin degradation was
+triggered by its interaction with and ubiquitylation by BTRC. The
+BTRC-claspin interaction was phosphorylation dependent and required PLK1
+(602098) activity and integrity of the BTRC degradation motif in the N
+terminus of claspin. Mailand et al. (2006) found that uncoupling claspin
+from BTRC by mutating the conserved serines in the degradation motif or
+by BTRC knockdown stabilized claspin in mitosis, impaired CHK1
+dephosphorylation, and delayed G2/M transition during recovery from cell
+cycle arrest imposed by DNA damage or replication stress. The inability
+to degrade claspin allowed partial reactivation of CHK1 in cells exposed
+to DNA damage after passing the G2/M transition. Peschiaroli et al.
+(2006) found that expression of a stable claspin mutant unable to bind
+BTRC prolonged activation of CHK1, thereby attenuating recovery from the
+DNA replication stress response and significantly delaying entry into
+mitosis.
+
+Dorrello et al. (2006) found that the tumor suppressor programmed cell
+death protein-4 (PDCD4; 608610) inhibits the translation initiation
+factor EIF4A (see 602641), an RNA helicase that catalyzes the unwinding
+of secondary structure at the 5-prime untranslated region of mRNAs. In
+response to mitogens, PDCD4 was rapidly phosphorylated on ser67 by the
+protein kinase S6K1 (608938) and subsequently degraded via the ubiquitin
+ligase SCF-beta(TRCP). Expression in cultured cells of a stable PDCD4
+mutant that was unable to bind beta-TRCP inhibited translation of an
+mRNA with a structured 5-prime untranslated region, resulted in smaller
+cell size, and slowed down cell cycle progression. Dorrello et al.
+(2006) proposed that regulated degradation of PDCD4 in response to
+mitogens allows efficient protein synthesis and consequently cell
+growth.
+
+Using an unbiased screen, Guardavaccaro et al. (2008) demonstrated that
+REST (600571) is an interactor with the F-box protein beta-TRCP. REST is
+degraded by means of the ubiquitin ligase beta-TRCP during the G2 phase
+of the cell cycle to allow transcriptional derepression of Mad2
+(601467), an essential component of the spindle assembly checkpoint. The
+expression in cultured cells of a stable REST mutant, which is unable to
+bind beta-TRCP, inhibited Mad2 expression and resulted in a phenotype
+analogous to that observed in Mad2 heterozygous cells. In particular,
+Guardavaccaro et al. (2008) observed defects that were consistent with
+faulty activation of the spindle checkpoint, such as shortened mitosis,
+premature sister-chromatid separation, chromosome bridges and
+missegregation in anaphase, tetraploidy, and a faster mitotic slippage
+in the presence of a spindle inhibitor. An indistinguishable phenotype
+was observed by expressing the oncogenic REST-FS mutant, which does not
+bind beta-TRCP. Thus, beta-TRCP-dependent degradation of REST during G2
+permits the optimal activation of the spindle checkpoint, and
+consequently it is required for the fidelity of mitosis.
+
+Westbrook et al. (2008) showed that REST is regulated by
+ubiquitin-mediated proteolysis, and used an RNA interference screen to
+identify a Skp1-Cul1-F-box protein complex containing the F-box protein
+beta-TRCP as an E3 ubiquitin ligase responsible for REST degradation.
+Beta-TRCP binds and ubiquitinates REST and controls its stability
+through a conserved phospho-degron. During neural differentiation, REST
+is degraded in a beta-TRCP-dependent manner. Beta-TRCP is required for
+proper neural differentiation only in the presence of REST, indicating
+that beta-TRCP facilitates this process through degradation of REST.
+Conversely, failure to degrade REST attenuates differentiation.
+Furthermore, Westbrook et al. (2008) found that beta-TRCP
+overexpression, which is common in human epithelial cancers, causes
+oncogenic transformation of human mammary epithelial cells and that this
+pathogenic function requires REST degradation. Thus, Westbrook et al.
+(2008) concluded that REST is a key target in beta-TRCP-driven
+transformation and that the beta-TRCP-REST axis is a new regulatory
+pathway controlling neurogenesis.
+
+Pierce et al. (2009) developed a quantitative framework based on product
+distribution that predicted that the really interesting new gene (RING)
+E3 enzymes SCF(Cdc4) (see 606278) and SCF-beta-TrCP work with the E2
+Cdc34 (116948) to build polyubiquitin chains on substrates by sequential
+transfers of single ubiquitins. Measurements with millisecond time
+resolution directly demonstrated that substrate polyubiquitylation
+proceeds sequentially. Pierce et al. (2009) concluded that their results
+presented an unprecedented glimpse into the mechanism of RING ubiquitin
+ligases and illuminated the quantitative parameters that underlie the
+rate and pattern of ubiquitin chain assembly.
+
+MOLECULAR GENETICS
+
+De Mollerat et al. (2003) conducted mutation analysis of the dactylin
+gene (DAC; 608071) in 7 patients with split-hand/split-foot malformation
+(SHFM3; 246560) and found no point mutations. However, Southern blot,
+pulsed field gel electrophoresis, and dosage analyses demonstrated a
+complex rearrangement associated with a 0.5-Mb tandem duplication in all
+the patients. This duplicated region contained a disrupted extra copy of
+the dactylin gene and the entire LBX1 (604255), BTRC, and POLL (606343)
+genes. Similar to BTRC, DAC has been shown to be an F-box/WD40-repeat
+protein involved in NFKB signaling. The authors hypothesized that
+dysregulation of DAC and/or BTRC expression may be responsible for the
+defect in limb development seen in these patients.
+
+Lyle et al. (2006) used FISH and quantitative PCR to narrow the SHFM3
+locus to a minimal 325-kb duplication containing only the BTRC and POLL
+genes. Expression analysis of 13 candidate genes within and flanking the
+duplicated region showed that BTRC and SUFU (607035), present in 3
+copies and 2 copies, respectively, were overexpressed in SHFM3 patients
+compared to controls. Lyle et al. (2006) suggested that SHFM3 may be
+caused by overexpression of BTRC and SUFU, both of which are involved in
+beta-catenin signaling.
+
+MAPPING
+
+By radiation hybrid analysis and FISH, Fujiwara et al. (1999) mapped the
+BTRC gene to chromosome 10q24-q25. Winston et al. (1999) mapped the BTRC
+gene to 10q24 by FISH. They noted that this region displays genetic
+abnormalities in a limited number of prostate, melanocyte, and neural
+cancers.
+
+Jin et al. (2004) reported that the BTRC gene maps to chromosome
+10q24.32 and the mouse Btrc gene maps to chromosome 19C3.
+
+ANIMAL MODEL
+
+Guardavaccaro et al. (2003) found that loss of Btrc in mice did not
+affect viability, but it induced an impairment of spermatogenesis and
+reduced male fertility.
+
+Kudo et al. (2004) found that mammary glands of female Btrc -/- mice
+showed reduced branching and hypoplasia. They observed no differences
+between mutant and wildtype mammary glands during pubertal ductal
+elongation, pregnancy, and lactation, the times of maximal hormonal
+stimulation. To further investigate the role of Btrc in mammary gland
+development, Kudo et al. (2004) generated transgenic mice expressing
+human BTRC targeted to mammary epithelia. Transgenic mammary glands
+displayed increased lateral ductal branching and extensive arrays of
+alveolus-like protuberances. The mammary epithelia of transgenic mice
+proliferated more and showed increased NFKB DNA-binding activity and
+higher nuclear levels of NFKB p65 (RELA; 164014). In addition, 38% of
+transgenic mice developed tumors, including mammary, ovarian, and
+uterine carcinomas. Targeting the BTRC gene to lymphoid organs produced
+no effects in these tissues.
+
+REFERENCE 1. Cenciarelli, C.; Chiaur, D. S.; Guardavaccaro, D.; Parks, W.; Vidal,
+M.; Pagano, M.: Identification of a family of human F-box proteins. Curr.
+Biol. 9: 1177-1179, 1999.
+
+2. de Mollerat, X. J.; Gurrieri, F.; Morgan, C. T.; Sangiorgi, E.;
+Everman, D. B.; Gaspari, P.; Amiel, J.; Bamshad, M. J.; Lyle, R.;
+Blouin, J.-L.; Allanson, J. E.; Le Marec, B.; and 11 others: A
+genomic rearrangement resulting in a tandem duplication is associated
+with split hand-split foot malformation 3 (SHFM3) at 10q24. Hum.
+Molec. Genet. 12: 1959-1971, 2003.
+
+3. Dorrello, N. V.; Peschiaroli, A.; Guardavaccaro, D.; Colburn, N.
+H.; Sherman, N. E.; Pagano, M.: S6K1- and beta-TRCP-mediated degradation
+of PDCD4 promotes protein translation and cell growth. Science 314:
+467-471, 2006.
+
+4. Fujiwara, T.; Suzuki, M.; Tanigami, A.; Ikenoue, T.; Omata, M.;
+Chiba, T.; Tanaka, K.: The BTRC gene, encoding a human F-box/WD40-repeat
+protein, maps to chromosome 10q24-q25. Genomics 58: 104-105, 1999.
+
+5. Grima, B.; Lamouroux, A.; Chelot, E.; Papin, C.; Limbourg-Bouchon,
+B.; Rouyer, F.: The F-box protein Slimb controls the levels of clock
+proteins Period and Timeless. Nature 420: 178-182, 2002.
+
+6. Guardavaccaro, D.; Frescas, D.; Dorrello, N. V.; Peschiaroli, A.;
+Multani, A. S.; Cardozo, T.; Lasorella, A.; Iavarone, A.; Chang, S.;
+Hernando, E.; Pagano, M.: Control of chromosome stability by the
+beta-TrCP-REST-Mad2 axis. Nature 452: 365-369, 2008.
+
+7. Guardavaccaro, D.; Kudo, Y.; Boulaire, J.; Barchi, M.; Busino,
+L.; Donzelli, M.; Margottin-Goguet, F.; Jackson, P. K.; Yamasaki,
+L.; Pagano, M.: Control of meiotic and mitotic progression by the
+F box protein beta-Trcp1 in vivo. Dev. Cell 4: 799-812, 2003.
+
+8. Jin, J.; Cardozo, T.; Lovering, R. C.; Elledge, S. J.; Pagano,
+M.; Harper, J. W.: Systematic analysis and nomenclature of mammalian
+F-box proteins. Genes Dev. 18: 2573-2580, 2004.
+
+9. Ko, H. W.; Jiang, J.; Edery, I.: Role for Slimb in the degradation
+of Drosophila Period protein phosphorylated by Doubletime. Nature 420:
+673-678, 2002.
+
+10. Kudo, Y.; Guardavaccaro, D.; Santamaria, P. G.; Koyama-Nasu, R.;
+Latres, E.; Bronson, R.; Yamasaki, L.; Pagano, M.: Role of F-box
+protein beta-Trcp1 in mammary gland development and tumorigenesis. Molec.
+Cell. Biol. 24: 8184-8194, 2004.
+
+11. Lyle, R.; Radhakrishna, U.; Blouin, J.-L.; Gagos, S.; Everman,
+D. B.; Gehrig, C.; Delozier-Blanchet, C.; Solanki, J. V.; Patel, U.
+C.; Nath, S. K.; Gurrieri, F.; Neri, G.; Schwartz, C. E.; Antonarakis,
+S. E.: Split-hand/split-foot malformation 3 (SHFM3) at 10q24, development
+of rapid diagnostic methods and gene expression from the region. Am.
+J. Med. Genet. 140A: 1384-1395, 2006.
+
+12. Mailand, N.; Bekker-Jensen, S.; Bartek, J.; Lukas, J.: Destruction
+of claspin by SCF-beta-TrCP restrains Chk1 activation and facilitates
+recovery from genotoxic stress. Molec. Cell 23: 307-318, 2006.
+
+13. Maniatis, T.: A ubiquitin ligase complex essential for the NF-kappa-B,
+Wnt/Wingless, and Hedgehog signaling pathways. Genes Dev. 13: 505-510,
+1999.
+
+14. Margottin, F.; Bour, S. P.; Durand, H.; Selig, L.; Benichou, S.;
+Richard, V.; Thomas, D.; Strebel, K.; Benarous, R.: A novel human
+WD protein, h-beta TrCp, that interacts with HIV-1 Vpu connects CD4
+to the ER degradation pathway through an F-box motif. Molec. Cell 1:
+565-574, 1998.
+
+15. Neish, A. S..; Gewirtz, A. T.; Zeng, H.; Young, A. N.; Hobert,
+M. E.; Karmali, V.; Rao, A. S.; Madara, J. L.: Prokaryotic regulation
+of epithelial responses by inhibition of I-kappa-B-alpha ubiquitination. Science 289:
+1560-1563, 2000.
+
+16. Noubissi, F. K.; Elcheva, I.; Bhatia, N.; Shakoori, A.; Ougolkov,
+A.; Liu, J.; Minamoto, T.; Ross, J.; Fuchs, S. Y.; Spiegelman, V.
+S.: CRD-BP mediates stabilization of beta-TrCP1 and c-myc mRNA in
+response to beta-catenin signalling. Nature 441: 898-901, 2006.
+
+17. Peschiaroli, A.; Dorrello, N. V.; Guardavaccaro, D.; Venere, M.;
+Halazonetis, T.; Sherman, N. E.; Pagano, M.: SCF-beta-TrCP-mediated
+degradation of claspin regulates recovery from the DNA replication
+checkpoint response. Molec. Cell 23: 319-329, 2006.
+
+18. Pierce, N. W.; Kleiger, G.; Shan, S.; Deshaies, R. J.: Detection
+of sequential polyubiquitylation on a millisecond timescale. Nature 462:
+615-619, 2009.
+
+19. Spencer, E.; Jiang, J.; Chen, Z. J.: Signal-induced ubiquitination
+of I-kappa-B-alpha by the F-box protein Slimb/beta-TrCP. Genes Dev. 13:
+284-294, 1999.
+
+20. Westbrook, T. F.; Hu, G.; Ang, X. L.; Mulligan, P.; Pavlova, N.
+N.; Liang, A.; Leng, Y.; Maehr, R.; Shi, Y.; Harper, J. W.; Elledge,
+S. J.: SCF-(beta-TRCP) controls oncogenic transformation and neural
+differentiation through REST degradation. Nature 452: 370-374, 2008.
+
+21. Winston, J. T.; Strack, P.; Beer-Romero, P.; Chu, C. Y.; Elledge,
+S. J.; Harper, J. W.: The SCF(beta-TRCP)-ubiquitin ligase complex
+associates specifically with phosphorylated destruction motifs in
+I-kappa-B-alpha and beta-catenin and stimulates I-kappa-B-alpha ubiquitination
+in vitro. Genes Dev. 13: 270-283, 1999. Note: Erratum: Genes Dev.
+13: 1050 only, 1999.
+
+22. Yaron, A.; Hatzubai, A.; Davis, M.; Lavon, I.; Amit, S.; Manning,
+A. M.; Andersen, J. S.; Mann, M.; Mercurio, F.; Ben-Neriah, Y.: Identification
+of the receptor component of the I-kappa-B-alpha-ubiquitin ligase. Nature 396:
+590-594, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/6/2010
+Ada Hamosh - updated: 5/22/2008
+Marla J. F. O'Neill - updated: 4/13/2007
+Ada Hamosh - updated: 10/31/2006
+Patricia A. Hartz - updated: 9/7/2006
+Ada Hamosh - updated: 7/21/2006
+Patricia A. Hartz - updated: 12/10/2004
+Patricia A. Hartz - updated: 10/6/2004
+George E. Tiller - updated: 11/13/2003
+Ada Hamosh - updated: 11/25/2002
+Ada Hamosh - updated: 11/12/2002
+Paul J. Converse - updated: 9/1/2000
+Carol A. Bocchini - updated: 7/12/1999
+
+CREATED Stylianos E. Antonarakis: 2/3/1999
+
+EDITED terry: 03/14/2013
+wwang: 8/30/2010
+alopez: 1/12/2010
+terry: 1/6/2010
+alopez: 5/28/2008
+terry: 5/22/2008
+wwang: 5/2/2007
+wwang: 4/20/2007
+terry: 4/13/2007
+alopez: 11/6/2006
+terry: 10/31/2006
+mgross: 9/7/2006
+alopez: 7/26/2006
+terry: 7/21/2006
+mgross: 12/10/2004
+mgross: 10/6/2004
+cwells: 11/13/2003
+alopez: 12/19/2002
+alopez: 11/25/2002
+terry: 11/25/2002
+alopez: 11/13/2002
+terry: 11/12/2002
+mgross: 2/15/2001
+alopez: 9/1/2000
+mgross: 9/1/2000
+alopez: 11/30/1999
+terry: 7/12/1999
+kayiaros: 7/7/1999
+carol: 2/3/1999
+

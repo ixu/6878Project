@@ -1,0 +1,3987 @@
+609178	TITLE *609178 MIS12, S. POMBE, HOMOLOG OF; MIS12
+DESCRIPTION 
+CLONING
+
+By searching for sequences similar to yeast Mis12, followed by PCR of a
+HeLa cell cDNA library, Goshima et al. (2003) cloned MIS12. The deduced
+205-amino acid protein contains 2 conserved blocks in its N-terminal 100
+amino acids, followed by a coiled-coil region of about 50 amino acids.
+Endogenous HeLa cell MIS12 had an apparent molecular mass of about 25
+kD. Immunolocalization showed MIS12 colocalized at kinetochores with
+CENPA (117139) and CENPC (117141), and its position during the cell
+cycle was that of a typical kinetochore protein. The level of MIS12 did
+not fluctuate during the cell cycle.
+
+GENE FUNCTION
+
+Using RNA interference (RNAi) in HeLa cells, Goshima et al. (2003)
+demonstrated that reduced MIS12 resulted in misaligned metaphase
+chromosomes, abnormally extended metaphase spindle length, lagging
+anaphase chromosomes, and interphase micronuclei without mitotic delay.
+Spindle checkpoint protein MAD2 (601467) temporally localized at
+kinetochores at early mitotic stages after MIS12 RNAi. Kinetochore
+localization of MIS12 was unaffected by CENPA RNAi.
+
+Following MIS12 overexpression in HeLa cells, Obuse et al. (2004)
+immunoprecipitated MIS12 in a kinetochore-associated complex that
+contained PMF1 (609176), DC8 (609174), C20ORF172 (609175), and HP1-alpha
+(CBX5; 604478). ZWINT (609177) also associated with the complex at
+kinetochores during mitosis. Immunoprecipitation of transfected cells
+indicated that MIS12 could form stable complexes with C20ORF172 and DC8.
+Much weaker interaction was detected between MIS12 and ZWINT. Exclusion
+chromatography revealed 3 peaks containing MIS12 and C20ORF172, but only
+the middle peak, which had a mass of 669 kD, contained HP1-alpha. MIS12
+knockdown by RNAi abolished the kinetochore association of ZWINT, DC8,
+and C20ORF172.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the MIS12
+gene to chromosome 17 (TMAP SHGC-36031).
+
+REFERENCE 1. Goshima, G.; Kiyomitsu, T.; Yoda, K.; Yanagida, M.: Human centromere
+chromatin protein hMis12, essential for equal segregation, is independent
+of CENP-A loading pathway. J. Cell Biol. 160: 25-39, 2003.
+
+2. Obuse, C.; Iwasaki, O.; Kiyomitsu, T.; Goshima, G.; Toyoda, Y.;
+Yanagida, M.: A conserved Mis12 centromere complex is linked to heterochromatic
+HP1 and outer kinetochore protein Zwint-1. Nature Cell Biol. 6:
+1135-1141, 2004.
+
+CREATED Patricia A. Hartz: 1/27/2005
+
+EDITED mgross: 01/28/2005
+mgross: 1/27/2005
+
+609542	TITLE *609542 ATPase, CLASS I, TYPE 8A, MEMBER 1; ATP8A1
+;;ATPase II
+DESCRIPTION 
+CLONING
+
+By screening a human skeletal muscle cDNA library using bovine ATPase
+II, a presumed aminophospholipid translocase, followed by 5-prime RACE,
+Mouro et al. (1999) cloned ATP8A1, which they called ATPase II. The
+deduced 1,164 amino acid protein contains characteristics of members of
+the third subfamily of P-type ATPases. Northern blot analysis detected a
+9.5-kb transcript in most adult and fetal tissues examined. Highest
+expression was in heart, brain, and skeletal muscle, and no expression
+was detected in adult liver, testis, and placenta. RT-PCR revealed an
+ATP8A1 splice variant that encodes a protein lacking 15 amino acids in
+the predicted second intracytoplasmic loop near a phosphorylation site.
+Transcripts encoding proteins with the insert were detected in brain,
+skeletal muscle, and heart, and transcripts encoding proteins without
+the sequence were detected in all tissues examined.
+
+GENE STRUCTURE
+
+Sobocki et al. (2005) determined that the ATP8A1 gene contains 37 exons
+and spans 244 kb. A CpG island covers the entire 5-prime UTR, the entire
+first exon, and part of the first intron. The promoter region lacks a
+TATA box, but it contains a core promoter region for CPBP (602053)
+binding and many other enhancer and repressor elements. The promoter
+also has multiple transcription start sites. Sobocki et al. (2005)
+identified 2 promoter variants distinguished by the presence or absence
+of a 15-bp direct repeat within the GC-rich core promoter region.
+Reporter gene assays showed strong promoter activity in human
+oligodendroglioma, neuroblastoma, and endothelial cell lines.
+
+MAPPING
+
+By in situ hybridization, Mouro et al. (1999) mapped the ATP8A1 gene to
+chromosome 4p14-p12.
+
+REFERENCE 1. Mouro, I.; Halleck, M. S.; Schlegel, R. A.; Mattei, M. G.; Williamson,
+P.; Zachowski, A.; Devaux, P.; Cartron, J.-P.; Colin, Y.: Cloning,
+expression, and chromosomal mapping of a human ATPase II gene, member
+of the third subfamily of P-type ATPases and orthologous to the presumed
+bovine and murine aminophospholipid translocase. Biochem. Biophys.
+Res. Commun. 257: 333-339, 1999.
+
+2. Sobocki, T.; Jayman, F.; Sobocka, M. B.; Duchatellier, R.; Banerjee,
+P.: Isolation, sequencing, and functional analysis of the TATA-less
+human ATPase II promoter. Biochim. Biophys. Acta 1728: 186-198,
+2005.
+
+CREATED Patricia A. Hartz: 8/22/2005
+
+EDITED mgross: 08/22/2005
+
+608230	TITLE *608230 CALCIUM CHANNEL, VOLTAGE-DEPENDENT, T TYPE, ALPHA-1I SUBUNIT; CACNA1I
+;;KIAA1120
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-dependent calcium channels control the rapid entry of Ca(2+)
+into a variety of cell types and are therefore involved in both
+electrical and cellular signaling. T-type channels, such as CACNA1I, are
+activated by small membrane depolarizations and can generate burst
+firing and pacemaker activity.
+
+CLONING
+
+By searching a database for T-type alpha-1 sequences, followed by PCR of
+a brain cDNA library, Mittman et al. (1999) cloned CACNA1I. The deduced
+2,016-amino acid protein shows a membrane topology with 4 domains, each
+consisting of 6 membrane-spanning segments, a pore loop, and cytoplasmic
+and extracellular connecting loops. The N and C termini are cytoplasmic.
+The putative extracellular loops contain 5 potential N-glycosylation
+sites and 17 cysteines that may contribute to proper protein
+conformation. The long intracellular interdomain loops contain 28
+potential phosphorylation sites. The membrane-spanning segments of
+CACNA1I are 84% identical to the membrane-spanning segments of CACNA1G
+(604065) and CACNA1H (607904).
+
+By screening a database for sequences weakly homologous to alpha-1
+calcium channel subunits, followed by PCR of a brain cDNA library,
+Monteil et al. (2000) cloned CACNA1I. The deduced 1,981-amino acid
+protein has a calculated molecular mass of about 220.8 kD. Northern blot
+analysis detected a 10.5-kb transcript almost exclusively in brain.
+Northern and mRNA dot blot analyses detected expression in most
+individual brain regions examined, and dot blot analysis also detected
+expression in adrenal gland and thyroid gland.
+
+By screening brain cDNA libraries using rat Cacna1i as probe, followed
+by genomic sequence analysis and PCR, Gomora et al. (2002) cloned
+CACNA1I, which they called Ca(v)3.3. The deduced 2,188-amino acid
+protein differs from those reported by Mittman et al. (1999) and Monteil
+et al. (2000) in that it has a C-terminal extension containing a leucine
+zipper motif.
+
+GENE FUNCTION
+
+By functional expression in human embryonic kidney cells, Monteil et al.
+(2000) determined that CACNA1I was activated at a more positive voltage
+than CACNA1G. Activation and inactivation kinetics were up to 6 times
+slower in CACNA1I-transfected cells than in CACNA1G-transfected cells,
+while deactivation kinetics were faster and showed little voltage
+dependence. Other characteristics of CACNA1I currents included a slower
+recovery from inactivation, lower sensitivity to Ni(2+), and a larger
+channel conductance. Monteil et al. (2000) concluded that CACNA1I is a
+T-type channel with distinct channel properties.
+
+Gomora et al. (2002) determined that the full-length 2,188-amino acid
+CACNA1I protein and 2 CACNA1I constructs with truncated C termini showed
+similar kinetics of channel activation, inactivation, deactivation, and
+recovery. A major difference was that the 2,188-amino acid protein
+generated 2-fold more current than the truncated isoforms. A fraction of
+the CACNA1I channels did not gate as low voltage-activated channels but
+required stronger depolarizations to open. A strong depolarizing
+prepulse increased the fraction of channels that gated at low voltage.
+The C-terminally truncated CACNA1I isoforms were less affected by a
+prepulse. Gomora et al. (2002) concluded that CACNA1I is similar to high
+voltage-activated Ca(2+) channels in that depolarizing prepulses can
+regulate its activity and its C terminus plays a role in modulating
+channel activity.
+
+By action potential clamp studies, Chemin et al. (2002) found
+significant differences in the biochemical properties of CACNA1G,
+CACNA1H, and CACNA1I following transient transfection in human embryonic
+kidney cells. Using firing activities recorded in dissociated rat
+cerebellar Purkinje neurons and thalamocortical relay neurons as
+voltage-clamp waveforms, they showed that CACNA1I currents contributed
+to sustained electrical activities, while CACNA1G and CACNA1H currents
+generated short burst firing. Chemin et al. (2002) hypothesized that
+each of the T-channel pore-forming subunits displays specific gating
+properties that uniquely contribute to neuronal firing and that CACNA1I
+channels provide pacemaker activity.
+
+GENE STRUCTURE
+
+Mittman et al. (1999) determined that the CACNA1I gene contains at least
+36 exons and spans more than 115 kb. Exon 1 is untranslated. Mittman et
+al. (1999) stated that alternative splicing occurs in at least 2 exons.
+Gomora et al. (2002) identified an additional exon in the CACNA1I gene,
+exon 37, which encodes a C-terminal extension.
+
+MAPPING
+
+By genomic sequence analysis, Mittman et al. (1999) and Monteil et al.
+(2000) mapped the CACNA1I gene to chromosome 22q12.3-q13.2. Gomora et
+al. (2002) stated that the CACNA1I gene maps to chromosome 22q13.1.
+
+REFERENCE 1. Chemin, J.; Monteil, A.; Perez-Reyes, E.; Bourinet, E.; Nargeot,
+J.; Lory, P.: Specific contribution of human T-type calcium channel
+isotypes (alpha-1G, alpha-1H, and alpha-1I) to neuronal excitability. J.
+Physiol. 540: 3-14, 2002.
+
+2. Gomora, J. C.; Murbartian, J.; Arias, J. M.; Lee, J.-H.; Perez-Reyes,
+E.: Cloning and expression of the human T-type channel Ca(v)3.3:
+insights into prepulse facilitation. Biophys. J. 83: 229-241, 2002.
+
+3. Mittman, S.; Guo, J.; Emerick, M. C.; Agnew, W. S.: Structure
+and alternative splicing of the gene encoding alpha-1I, a human brain
+T calcium channel alpha-1 subunit. Neurosci. Lett. 269: 121-124,
+1999.
+
+4. Monteil, A.; Chemin, J.; Leuranguer, V.; Altier, C.; Mennessier,
+G.; Bourinet, E.; Lory, P.; Nargeot, J.: Specific properties of T-type
+calcium channels generated by the human alpha-1I subunit. J. Biol.
+Chem. 275: 16530-16535, 2000.
+
+CREATED Patricia A. Hartz: 11/6/2003
+
+EDITED mgross: 11/06/2003
+
+308380	TITLE *308380 INTERLEUKIN 2 RECEPTOR, GAMMA; IL2RG
+;;INTERLEUKIN RECEPTOR, COMMON GAMMA CHAIN;;
+INTERLEUKIN RECEPTOR, GAMMA-C;;
+CD132 ANTIGEN; CD132
+DESCRIPTION 
+DESCRIPTION
+
+Cytokines are potent, soluble mediators that regulate homeostasis of the
+immune system. IL2RG is known as the interleukin receptor common gamma
+chain, or gamma-c, because it heterodimerizes with at least 6 unique
+cytokine-specific interleukin receptor alpha chains, IL2RA (147730),
+IL4RA (147781), IL7RA (146661), IL9RA (300007), IL15RA (601070), and
+IL21RA (605383), to form distinct receptor complexes for the cytokines
+IL2 (147680), IL4 (147780), IL7 (146660), IL9 (146931), IL15 (600554),
+and IL21 (605384), respectively. The IL2 and IL21 receptor complexes are
+heterotrimers that also include a shared beta chain, IL2RB/IL15RB
+(146710) (Brandt et al., 2007).
+
+CLONING
+
+IL2 affects the growth and differentiation of T cells, B cells, natural
+killer cells, glioma cells, and cells of the monocyte lineage after
+specifically interacting with its receptors. The IL2 receptor (IL2R)
+consists of 2 subunits, alpha (IL2RA) and beta (IL2RB). Takeshita et al.
+(1992) identified a third IL2R subunit, the gamma chain, and isolated
+the corresponding cDNA from a human T-cell line. The deduced 369-amino
+acid protein has a molecular mass of 39.9 kD and shows sequence
+similarity to members of the cytokine receptor family. Northern blot
+analysis detected a dominant 1.8-kb mRNA transcript in human T and B
+cells; a second 3.6-kb mRNA transcript was also detected. No IL2RG mRNA
+transcripts were detected in human nonlymphoid cells, such as
+promonocytes, epithelial cells, or hepatocytes.
+
+Noguchi et al. (1993) found that the IL2RG protein, like the IL2RB
+protein, contains 2 pairs of conserved cysteines typical of cytokine
+receptor superfamily proteins.
+
+GENE STRUCTURE
+
+Noguchi et al. (1993) determined that the IL2RG gene contains 8 exons
+and spans approximately 4.2 kb. Southern blot analysis suggested that
+the gene is present in single copy.
+
+Puck et al. (1993) sequenced the IL2RG gene and elucidated its genomic
+organization.
+
+MAPPING
+
+By study of somatic cell hybrids, Noguchi et al. (1993) and Puck et al.
+(1993) independently mapped the IL2RG gene to chromosome Xq13.
+Relationships to markers in linkage studies suggested that IL2RG and
+XSCID, the locus for X-linked severe combined immunodeficiency (300400),
+had the same location. By fluorescence in situ hybridization and PCR
+amplification of somatic cell hybrid DNAs, Puck et al. (1993) mapped
+IL2RG to Xq13.1.
+
+Cao et al. (1993) localized the murine Il2rg gene to the X chromosome
+between Rsvp and Plp and demonstrated that a defect in the gene is not
+responsible for the X-linked xid mutation, which maps to the same
+region; see 300300.
+
+GENE FUNCTION
+
+Functional expression studies by Takeshita et al. (1992) showed that the
+IL2 receptor gamma chain was necessary for formation of high- and
+intermediate-affinity IL2 receptors, which consist of alpha-beta-gamma
+heterotrimers and beta-gamma heterodimers, respectively. Takeshita et
+al. (1992) concluded that the gamma chain is an indispensable component
+of the functional IL2 receptor.
+
+The gamma subunit of the IL2 receptor is a subunit also of the IL4
+receptor and of the IL7 receptor, i.e., it is a shared or common
+component of at least 3 cytokine receptors. The designation 'common
+gamma chain' (gamma-c) was proposed (Kondo et al., 1993; Noguchi et al.,
+1993; Russell et al., 1993).
+
+Russell et al. (1993) suggested that the gamma-c subunit may be shared
+with the interleukin-9 receptor. The sharing of the gamma subunit by
+several receptors explained why humans and mice that lack IL2 entirely
+show milder symptoms than those with IL2RG deficiency.
+
+Sharfe et al. (1997) stated that the gamma-c chain is shared by 5
+interleukin receptor complexes: IL2, IL4, IL7, IL9, and IL15.
+
+Asao et al. (2001) showed that IL21 binds to IL21R in IL2RG-deficient
+cell lines, but fails to transduce signals. In cell lines expressing
+IL2RG, binding and activation of JAK1 (147795), JAK3 (600173), STAT1
+(600555), and STAT3 (102582) occurs, indicating that IL2RG is an
+indispensable subunit of the functional IL21R complex.
+
+Lamaze et al. (2001) selectively blocked clathrin (see 118960)-dependent
+endocytosis using dominant-negative mutants of EPS15 (600051) and showed
+that clathrin-mediated endocytosis of transferrin (190000) was
+inhibited, while endocytosis of the IL2Rs proceeded normally.
+Ultrastructural and biochemical experiments showed that
+clathrin-independent endocytosis of IL2Rs existed constitutively in
+lymphocytes and was coupled to their association with
+detergent-resistant membrane domains. Clathrin-independent endocytosis
+required dynamin (see 602377) and was specifically regulated by Rho
+family GTPases (see 604980). These results defined novel properties of
+receptor-mediated endocytosis and established that IL2R is efficiently
+internalized through this clathrin-independent pathway.
+
+Using flow cytometry, Corrigall et al. (2001) detected expression of a
+functional IL2R of intermediate affinity composed solely of IL2RB and
+IL2RG on fibroblast-like synoviocytes (FLS) obtained from rheumatoid
+arthritis and osteoarthritis patients. Addition of recombinant IL2, IL1B
+(147720), or TNFA (191160) independently did not upregulate expression
+of the receptors on FLS, but IL2 or IL1B significantly increased
+expression of intracellular tyrosine-phosphorylated proteins and the
+production of MCP1 (158105). Corrigall et al. (2001) proposed that MCP1
+in the synovial membrane serves to recruit macrophages and perpetuate
+inflammation in the joints of patients with rheumatoid arthritis.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Wang et al. (2005) reported the crystal structure of the quaternary
+complex of IL2 with IL2RA, IL2RB, and IL2RG at a resolution of 2.3
+angstroms.
+
+LaPorte et al. (2008) reported the crystal structures of the complete
+set of IL4 and IL13 (147683) type I (IL4RA/IL2RG/IL4) and type II
+(IL4RA/IL13RA1/IL4 and IL4RA/IL13RA1/IL13) ternary signaling complexes
+at the 3.0-angstrom level. They noted that the type I receptor complex
+is more active in regulating Th2 development, whereas the type II
+receptor complex is not found on T cells and is more active in
+regulating cells that mediate airway hypersensitivity and mucus
+secretion. The type I complex revealed a structural basis for the
+ability of IL2RG to recognize 6 different IL2RG cytokines.
+
+MOLECULAR GENETICS
+
+In 3 unrelated patients with X-linked severe combined immunodeficiency
+(300400), Noguchi et al. (1993) identified 3 different mutations in the
+IL2RG gene (308380.0001-308380.0003).
+
+In 4 unrelated affected males with SCID Puck et al. (1993) identified
+unique mutations in the IL2RG gene (308380.0004-308380.0007).
+
+Pepper et al. (1995) found that of 40 IL2RG mutations found in unrelated
+SCID males, 6 were point mutations at the CpG dinucleotide at cDNA
+residues 690-691 encoding amino acid arg226. This residue lies in the
+extracellular domain of the protein in a region not previously
+recognized to be significantly conserved in the cytokine receptor gene
+family, 11 amino acids upstream from the highly conserved WSXWS motif.
+Three additional instances of mutation at another CpG dinucleotide at
+cDNA residue 879 produced a premature termination signal in the
+intracellular domain of IL2RG, resulting in loss of the SH2-homologous
+intracellular domain known to be essential for signaling from the IL2
+receptor complex. Pepper et al. (1995) stated that mutations at these 2
+hotspots constituted more than 20% of all XSCID mutations.
+
+Leonard (1996) provided a review of the molecular basis of X-linked SCID
+with a listing of the mutations identified in the IL2RG gene. Fugmann et
+al. (1998) studied the IL2RG gene in 31 patients with SCID. Among 11
+patients with XSCID, 10 different mutations were identified in the IL2RG
+gene, including 8 novel mutations.
+
+In a patient with X-linked combined immunodeficiency (312863), Sharfe et
+al. (1997) identified a mutation in the IL2RG gene (308380.0012), which
+resulted in a protein that was sufficiently stable to be expressed at
+the cell surface. Although clinically immunodeficient, the patient had
+normal numbers of peripheral T and B cells, responded normally to
+mitogenic stimuli, and had a normal thymus gland. While the T-cell
+receptor repertoire appeared complete, suggesting normal T-cell
+differentiation, the patient's T cells demonstrated a reduced ability to
+bind IL2, resulting in immunodeficiency.
+
+Cacalano and Johnston (1999) reviewed IL2 signaling in relation to
+inherited immunodeficiency. Formal genetic proof that the IL2R
+components are critical for T-cell development came with the
+identification of patients lacking either IL2RG or JAK3 (600173). These
+patients presented with phenotypically identical
+T-negative/B-positive/NK-negative SCID, inherited as an X-linked
+recessive or an autosomal recessive (600802) disorder, respectively.
+
+ALLELIC VARIANT .0001
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, LYS97TER
+
+In a patient with X-linked SCID (300400), Noguchi et al. (1993)
+identified an A-to-T transversion in exon 3 of the IL2RG gene, resulting
+in a lys97-to-ter (K97X) substitution and a truncation of the C-terminal
+251 amino acids of the interleukin-2 receptor gamma chain.
+
+.0002
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, ARG267TER
+
+In a patient with X-linked SCID (300400), Noguchi et al. (1993)
+identified a C-to-T transition in exon 7 of the IL2RG gene, resulting in
+an arg267-to-ter (R267X) substitution and truncation of 81 amino acids
+of the protein.
+
+.0003
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, SER286TER
+
+In a patient with X-linked SCID (300400), Noguchi et al. (1993)
+identified a C-to-A transversion in exon 7 of the IL2RG gene, resulting
+in a ser286-to-ter (S286X) substitution and the truncation of 62 amino
+acids of the protein. This patient became known as Bubble Boy David
+because he lived in an isolation bubble in Houston for a long time and
+his disease became known as Bubble Boy disease. His early clinical
+course and immune function were reported by South et al. (1977) and
+Shearer et al. (1985). A male sib was also affected. His
+immunodeficiency was characterized by panhypogammaglobulinemia,
+lymphopenia with diminished T cells (varying from 10 to 40% over 12
+years), elevated B cells, and essentially absent proliferation to
+mitogens or antigens. Following T-depleted haploidentical bone marrow
+transplantation from his sister, there was no improvement in immune
+function. He died 124 days posttransplant from an EBV-associated
+lymphoproliferative syndrome.
+
+.0004
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, CYS62TER
+
+In a patient with X-linked SCID (300400), Puck et al. (1993) identified
+a 200T-A transversion in exon 2 of the IL2RG gene, resulting in a
+cys62-to-ter (C62X) substitution.
+
+.0005
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, GLY114ASP
+
+In a patient with X-linked SCID (300400), Puck et al. (1993) identified
+a 355G-A transition in exon 3 of the IL2RG gene, resulting in a
+gly114-to-asp (G114D) substitution.
+
+.0006
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, IVS3DS, G-A, +1
+
+In a boy with X-linked SCID (300400) and no detectable IL2RG mRNA, Puck
+et al. (1993) identified a G-to-A transition in the first position of
+the splice donor site of intron 3 of the IL2RG gene.
+
+.0007
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, ILE153ASN
+
+In a boy with X-linked SCID (300400), Puck et al. (1993) identified a
+472T-A transversion in exon 4 of the IL2RG gene, resulting in an
+ile153-to-asn (I153N) substitution.
+
+.0008
+COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, LEU271GLN
+
+In 3 affected males with X-linked combined immunodeficiency (XCID;
+312863), which is phenotypically milder than X-linked severe combined
+immunodeficiency (300400), Schmalstieg et al. (1995) identified a
+leu271-to-gln (L271Q) substitution in exon 7 of the IL2RG gene. A normal
+brother did not have the mutation.
+
+.0009
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, 9-BP DUP, GLN-HIS-TRP INS
+
+By genetic linkage studies in a large Canadian pedigree with XSCID
+(300400), Puck et al. (1995) found the source of the mutation in the
+proband's grandmother. Despite her having 1 affected son and 2 carrier
+daughters with skewed X inactivation, her T cells did not show the
+expected skewed inactivation. Single-strand conformation polymorphism
+analysis of IL2RG in the affected proband demonstrated an abnormality in
+exon 5; sequencing demonstrated a 9-nucleotide in-frame
+duplication-insertion resulting in a duplication of 3 extracellular
+amino acids (glutamine, histidine, and tryptophan) just adjacent to and
+including the first tryptophan of the WSXWS motif found in all members
+of the cytokine receptor gene superfamily. The 3 additional amino acids
+were inserted just before residue 235. Mutation detection in the
+pedigree confirmed that the founder grandmother's somatic cells had only
+normal IL2RG, and that the SCID-associated X-chromosome haplotype was
+inherited by 3 daughters, 1 with a wildtype IL2RG gene and 2 others with
+the insertional mutation. The findings indicated that the grandmother
+had germline mosaicism, an unusual finding in females. This X-linked
+SCID family emphasized the limitations of genetic diagnosis by linkage
+as compared with direct mutation analysis.
+
+.0010
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, CYS115ARG
+
+In a male infant in whom XSCID (300400) was suspected at 1 year of age,
+Stephan et al. (1996) identified a 343T-C transition in exon 3 of the
+IL2RG gene, resulting in a cys115-to-arg (C115R) substitution. The
+patient's mother was heterozygous for the mutation. A maternal uncle and
+a maternal granduncle had died of pneumonia at ages 4 months and 6
+months, respectively. The affected child had BCG vaccination at the age
+of 2 weeks. At 6 months of age, he was hospitalized for severe
+interstitial pneumonia. Physical examination at 1 year of age showed no
+signs of graft-versus-host disease (GVHD; see 614395) and no
+abnormalities except for a large abscess in the left lumbar region from
+which acid-fast bacilli with genetic characteristics of the
+Calmette-Guerin bacillus were identified. Immunologic investigations
+showed a normal number of T cells, a high B-cell count, and
+hypogammaglobulinemia with no detectable specific antibody responses.
+The skin test for purified protein derivative was positive and there
+were at least attenuated proliferative responses to antigens and
+mitogens. These unusual findings led to genetic analysis which showed
+that the gamma chain of IL2R was not expressed in the patient's B cells.
+Because of the unexpected presence of circulating mature T cells,
+Stephan et al. (1996) sorted and analyzed the patient's CD3+ T cells for
+expression of the gamma-c chain. Surprisingly, expression of this chain
+by T cells with either the CD4+ or CD8+ phenotype was normal, and
+sequencing of the IL2RG gene revealed the wildtype sequence at position
+343. In contrast, the sorted CD19+ B cells, the sorted CD14+ monocytes,
+and the polymorphonuclear-cell population had no detectable expression
+of the gamma-c chain on their surface and contained the C115R mutation.
+The possibility that the patient's circulating T-cell population was
+derived from the engraftment of T cells in the mother in utero was
+excluded by T-cell karyotyping and HLA typing. In addition, the X
+chromosome present in the patient's T-cell and B-cell populations was
+assessed by study of 2 microsatellites flanking the IL2RG locus. These
+cell populations had only 1 X chromosome derived from the mother with
+the same X chromosome present in both T-cell and B-cell populations.
+Stephan et al. (1996) suggested that a single reversion event had
+occurred in a T-cell progenitor that gave rise to a number of
+diversified T-cell clones.
+
+.0011
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, ARG285GLN
+
+In a patient with T-, B+ X-linked SCID (300400), Clark et al. (1995)
+identified a 2943G-A transition in the IL2RG gene, resulting in an
+arg285-to-gln (R285Q) substitution.
+
+Jones et al. (1997) noted that X-linked SCID is characterized by the
+absence, or very low numbers, of T cells, with normal or even high
+numbers of B cells. However, in a boy with SCID who had very low numbers
+of both B cells and T cells, Jones et al. (1997) identified the R285Q
+mutation. The patient's mother and a maternal aunt were both found to
+have unilateral X inactivation in their T cells. Jones et al. (1997)
+stated that in about one-third of the cases of typical SCIDX1, there is
+no previous family history. In these families, the suspicion of SCIDX1
+is raised by the phenotype and may be confirmed by X inactivation in T
+cells and/or by mutation analysis. The authors cautioned that the
+unexpected finding of low B cells may mistakenly suggest an autosomal
+form of SCID.
+
+.0012
+COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, ARG222CYS
+
+In a 1-year-old Caucasian male with X-linked combined immunodeficiency
+(312863), Sharfe et al. (1997) identified an arg222-to-cys (R222C)
+mutation in the IL2RG gene. The mutation occurs in the extracellular
+domain of the protein, which was predicted to affect ligand binding. The
+authors noted that the mutation was distinctive in that the protein was
+stable enough to be expressed at the cell surface.
+
+.0013
+SEVERE COMBINED IMMUNODEFICIENCY, X-LINKED
+IL2RG, LEU151PRO
+
+In a boy with a relatively mild form of X-linked SCID (300400),
+Speckmann et al. (2008) identified a 466T-C transition in the IL2RG
+gene, resulting in a leu151-to-pro (L151P) substitution. The mutation
+was inherited from his unaffected mother. Genetic analysis of peripheral
+blood cells in the patient showed a dual signal, with the wildtype IL2RG
+gene in T cells and a mutant IL2RG gene in B cells, NK cells, and
+granulocytes. The findings were consistent with reversion of the L151P
+mutation within a common T-cell precursor in the patient. The patient
+had normal T-cell function, despite low levels of T cells, and impaired
+B cell antibody response. Functional analysis with mutant IL2RG showed a
+poor response to IL2 in B cells. The absence of mutated T cells in the
+patient suggested that mutant IL2RG did not allow proper T-cell
+development. In addition, X-inactivation studies in the mother showed
+that her T cells exclusively expressed the wildtype allele. A similar
+patient with reversion of mutation in a T-cell progenitor was reported
+by Stephan et al. (1996) (see 308380.0010). However, Speckmann et al.
+(2008) noted that the patient reported by Stephan et al. (1996)
+ultimately showed a deteriorating course and required bone marrow stem
+cell transplantation at almost 7 years of age. The findings indicated
+that close immunologic surveillance is still needed in patients with
+mutation reversion.
+
+ADDITIONAL REFERENCES Cavazzano-Calvo et al. (2000); Dave et al. (2004); Hacein-Bey-Abina
+et al. (2002)
+REFERENCE 1. Asao, H.; Okuyama, C.; Kumaki, S.; Ishii, N.; Tsuchiya, S.; Foster,
+D.; Sugamura, K.: Cutting edge: the common gamma-chain is an indispensable
+subunit of the IL-21 receptor complex. J. Immun. 167: 1-5, 2001.
+
+2. Brandt, K.; Singh, P. B.; Bulfone-Paus, S.; Ruckert, R.: Interleukin-21:
+a new modulator of immunity, infection, and cancer. Cytokine Growth
+Factor Rev. 18: 223-232, 2007.
+
+3. Cacalano, N. A.; Johnston, J. A.: Interleukin-2 signaling and
+inherited immunodeficiency. Am. J. Hum. Genet. 65: 287-293, 1999.
+
+4. Cao, X.; Kozak, C. A.; Liu, Y.-J.; Noguchi, M.; O'Connell, E.;
+Leonard, W. J.: Characterization of cDNAs encoding the murine interleukin
+2 receptor (IL-2R) gamma chain: chromosomal mapping and tissue specificity
+of IL-2R gamma chain expression. Proc. Nat. Acad. Sci. 90: 8464-8468,
+1993.
+
+5. Cavazzano-Calvo, M.; Hacein-Bey, S.; de Saint Basile, G.; Gross,
+F.; Yvon, E.; Nusbaum, P.; Selz, F.; Hue, C.; Certain, S.; Casanova,
+J.-L.; Bousso, P.; Le Deist, F.; Fischer, A.: Gene therapy of human
+severe combined immunodeficiency (SCID)-X1 disease. Science 288:
+669-672, 2000.
+
+6. Clark, P. A.; Lester, T.; Genet, S.; Jones, A. M.; Hendriks, R.;
+Levinsky, R. J.; Kinnon, C.: Screening for mutations causing X-linked
+severe combined immunodeficiency in the IL-2R-gamma chain gene by
+single-strand conformation polymorphism analysis. Hum. Genet. 96:
+427-432, 1995.
+
+7. Corrigall, V. M.; Arastu, M.; Khan, S.; Shah, C.; Fife, M.; Smeets,
+T.; Tak, P.-P.; Panayi, G. S.: Functional IL-2 receptor beta (CD122)
+and gamma (CD132) chains are expressed by fibroblast-like synoviocytes:
+activation by IL-2 stimulates monocyte chemoattractant protein-1 production. J.
+Immun. 166: 4141-4147, 2001.
+
+8. Dave, U. P.; Jenkins, N. A.; Copeland, N. G.: Gene therapy insertional
+mutagenesis insights. Science 303: 333 only, 2004.
+
+9. Fugmann, S. D.; Muller, S.; Friedrich, W.; Bartram, C. R.; Schwarz,
+K.: Mutations in the gene for the common gamma chain (gamma-c) in
+X-linked severe combined immunodeficiency. Hum. Genet. 103: 730-731,
+1998.
+
+10. Hacein-Bey-Abina, S.; Le Deist, F.; Carlier, F.; Bouneaud, C.;
+Hue, C.; De Villartay, J.-P.; Thrasher, A. J.; Wulffraat, N.; Sorensen,
+R.; Dupuis-Girod, S.; Fischer, A.; Cavazzana-Calvo, M.: Sustained
+correction of X-linked severe combined immunodeficiency by ex vivo
+gene therapy. New Eng. J. Med. 346: 1185-1193, 2002.
+
+11. Jones, A. M.; Clark, P. A.; Katz, F.; Genet, S.; McMahon, C.;
+Alterman, L.; Cant, A.; Kinnon, C.: B-cell-negative severe combined
+immunodeficiency associated with a common gamma chain mutation. Hum.
+Genet. 99: 677-680, 1997.
+
+12. Kondo, M.; Takeshita, T.; Ishii, N.; Nakamura, M.; Watanabe, S.;
+Arai, K.; Sugamura, K.: Sharing of the interleukin-2 (IL-2) receptor
+gamma chain between receptors for IL-2 and IL-4. Science 262: 1874-1877,
+1993.
+
+13. Lamaze, C.; Dujeancourt, A.; Baba, T.; Lo, C. G.; Benmerah, A.;
+Dautry-Varsat, A.: Interleukin 2 receptors and detergent-resistant
+membrane domains define a clathrin-independent endocytic pathway. Molec.
+Cell 7: 661-671, 2001.
+
+14. LaPorte, S. L.; Juo, Z. S.; Vaclavikova, J.; Colf, L. A.; Qi,
+X.; Heller, N. M.; Keegan, A. D.; Garcia, K. C.: Molecular and structural
+basis of cytokine receptor pleiotropy in the interleukin-4/13 system. Cell 132:
+259-272, 2008.
+
+15. Leonard, W. J.: The molecular basis of X-linked severe combined
+immunodeficiency: defective cytokine receptor signaling. Annu. Rev.
+Med. 47: 229-239, 1996.
+
+16. Noguchi, M.; Adelstein, S.; Cao, X.; Leonard, W. J.: Characterization
+of the human interleukin-2 receptor gamma chain gene. J. Biol. Chem. 268:
+13601-13608, 1993.
+
+17. Noguchi, M.; Nakamura, Y.; Russell, S. M.; Ziegler, S. F.; Tsang,
+M.; Cao, X.; Leonard, W. J.: Interleukin-2 receptor gamma chain:
+a functional component of the interleukin-7 receptor. Science 262:
+1877-1880, 1993.
+
+18. Noguchi, M.; Yi, H.; Rosenblatt, H. M.; Filipovich, A. H.; Adelstein,
+S.; Modi, W. S.; McBride, O. W.; Leonard, W. J.: Interleukin-2 receptor
+gamma chain mutation results in X-linked severe combined immunodeficiency
+in humans. Cell 73: 147-157, 1993.
+
+19. Pepper, A. E.; Buckley, R. H.; Small, T. N.; Puck, J. M.: Two
+mutational hotspots in the interleukin-2 receptor gamma chain gene
+causing human X-linked severe combined immunodeficiency. Am. J. Hum.
+Genet. 57: 564-571, 1995.
+
+20. Puck, J. M.; Deschenes, S. M.; Porter, J. C.; Dutra, A. S.; Brown,
+C. J.; Willard, H. F.; Henthorn, P. S.: The interleukin-2 receptor
+gamma chain maps to Xq13.1 and is mutated in X-linked severe combined
+immunodeficiency, SCIDX1. Hum. Molec. Genet. 2: 1099-1104, 1993.
+
+21. Puck, J. M.; Pepper, A. E.; Bedard, P.-M.; Laframboise, R.: Female
+germ line mosaicism as the origin of a unique IL-2 receptor gamma-chain
+mutation causing X-linked severe combined immunodeficiency. J. Clin.
+Invest. 95: 895-899, 1995.
+
+22. Russell, S. M.; Keegan, A. D.; Harada, N.; Nakamura, Y.; Noguchi,
+M.; Leland, P.; Friedmann, M. C.; Miyajima, A.; Puri, R. K.; Paul,
+W. E.; Leonard, W. J.: Interleukin-2 receptor gamma-chain: a functional
+component of the interleukin-4 receptor. Science 262: 1880-1883,
+1993.
+
+23. Schmalstieg, F. C.; Leonard, W. J.; Noguchi, M.; Berg, M.; Rudloff,
+H. E.; Denney, R. M.; Dave, S. K.; Brooks, E. G.; Goldman, A. S.:
+Missense mutation in exon 7 of the common gamma chain gene causes
+a moderate form of X-linked combined immunodeficiency. J. Clin. Invest. 95:
+1169-1173, 1995.
+
+24. Sharfe, N.; Shahar, M.; Roifman, C. M.: An interleukin-2 receptor
+gamma chain mutation with normal thymus morphology. J. Clin. Invest. 100:
+3036-3043, 1997.
+
+25. Shearer, W. T.; Ritz, J.; Finegold, M. J.; Guerra, I. C.; Rosenblatt,
+H. H.; Lewis, D. E.; Pollack, M. S.; Taber, L. H.; Suyama, C. V.;
+Grumet, F. C.; Cleary, M. L.; Warnke, R.; Sklar, J.: Epstein-Barr
+virus-associated B-cell proliferations of diverse clonal origins after
+bone marrow transplantation in a 12-year-old patient with severe combined
+immunodeficiency. New Eng. J. Med. 312: 1151-1159, 1985.
+
+26. South, M. A.; Montgomery, J. R.; Richie, E.; Mukhopadhyay, N.;
+Criswell, B. S.; Mackler, B. F.; De Fazio, S. R.; Bealmear, P.; Heim,
+L. R.; Trentin, J. J.; Dressman, G. R.; O'Neill, P.: Four-year study
+of a boy with combined immune deficiency maintained in strict reverse
+isolation from birth. IV. Immunologic studies. Pediat. Res. 11:
+71-78, 1977.
+
+27. Speckmann, C.; Pannicke, U.; Wiech, E.; Schwarz, K.; Fisch, P.;
+Friedrich, W.; Neihues, T.; Gilmour, K.; Buiting, K.; Schlesier, M.;
+Eibel, H.; Rohr, J.; Superti-Furga, A.; Gross-Wieltsch, U.; Ehl, S.
+: Clinical and immunological consequences of a somatic reversion in
+a patient with X-linked severe combined immunodeficiency. Blood 112:
+4090-4097, 2008.
+
+28. Stephan, V.; Wahn, V.; Le Deist, F.; Dirksen, U.; Broker, B.;
+Muller-Fleckenstein, I.; Horneff, G.; Schroten, H.; Fischer, A.; de
+Saint Basile, G.: Atypical X-linked severe combined immunodeficiency
+due to possible spontaneous reversion of the genetic defect in T cells. New
+Eng. J. Med. 335: 1563-1567, 1996.
+
+29. Takeshita, T.; Asao, H.; Ohtani, K.; Ishii, N.; Kumaki, S.; Tanaka,
+N.; Munakata, H.; Nakamura, M.; Sugamura, K.: Cloning of the gamma
+chain of the human IL-2 receptor. Science 257: 379-382, 1992.
+
+30. Wang, X.; Rickert, M.; Garcia, K. C.: Structure of the quaternary
+complex of interleukin-2 with its alpha, beta, and gamma-c receptors. Science 310:
+1159-1163, 2005.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/9/2009
+Paul J. Converse - updated: 5/5/2008
+Paul J. Converse - updated: 3/21/2008
+Paul J. Converse - updated: 1/10/2006
+Cassandra L. Kniffin - reorganized: 10/28/2004
+Ada Hamosh - updated: 2/2/2004
+Victor A. McKusick - updated: 5/14/2002
+Jane Kelly - updated: 1/25/2002
+Paul J. Converse - updated: 10/22/2001
+Paul J. Converse - updated: 4/27/2001
+Stylianos E. Antonarakis - updated: 4/17/2001
+Ada Hamosh - updated: 5/4/2000
+Victor A. McKusick - updated: 2/2/2000
+Victor A. McKusick - updated: 1/21/1999
+Victor A. McKusick - updated: 2/3/1998
+Victor A. McKusick - updated: 5/16/1997
+
+CREATED Victor A. McKusick: 4/13/1993
+
+EDITED mgross: 12/16/2011
+wwang: 3/18/2009
+ckniffin: 3/9/2009
+mgross: 5/5/2008
+mgross: 3/21/2008
+mgross: 4/4/2006
+terry: 3/16/2006
+mgross: 1/10/2006
+carol: 10/28/2004
+terry: 10/28/2004
+ckniffin: 10/27/2004
+ckniffin: 10/20/2004
+alopez: 2/2/2004
+alopez: 11/10/2003
+alopez: 6/10/2003
+terry: 5/14/2002
+carol: 2/15/2002
+terry: 1/25/2002
+mgross: 10/22/2001
+mgross: 4/27/2001
+mgross: 4/17/2001
+alopez: 5/4/2000
+mgross: 2/2/2000
+terry: 1/21/1999
+dkim: 7/2/1998
+terry: 6/4/1998
+alopez: 5/21/1998
+psherman: 5/20/1998
+mark: 2/5/1998
+terry: 2/3/1998
+carol: 6/23/1997
+mark: 5/26/1997
+terry: 5/16/1997
+terry: 2/13/1997
+jamie: 12/17/1996
+jamie: 12/6/1996
+terry: 11/26/1996
+terry: 11/6/1996
+mark: 1/31/1996
+mark: 9/10/1995
+carol: 5/16/1994
+terry: 4/21/1994
+warfield: 3/31/1994
+mimadm: 2/27/1994
+carol: 12/6/1993
+
+137780	TITLE *137780 GLIAL FIBRILLARY ACIDIC PROTEIN; GFAP
+DESCRIPTION 
+CLONING
+
+Glial fibrillary acidic protein is an intermediate-filament (IF) protein
+that is highly specific for cells of astroglial lineage. Reeves et al.
+(1989) isolated a cDNA encoding GFAP and determined its nucleotide
+sequence. The predicted amino acid sequence indicated that GFAP shares
+structural similarities--particularly in the central rod domain and to a
+lesser degree in the carboxyl-terminal domain--with other IF proteins
+found in nonepithelial cell types. Considerable sequence divergence in
+the amino-terminal region of GFAP suggested that the tissue-specific
+functions of this IF protein may be mediated through this region of the
+molecule. GFAP is a useful marker of astroglia in the brain.
+
+Using PS1 (104311) as bait in a yeast 2-hybrid screen, Nielsen et al.
+(2002) cloned a splice variant of GFAP, which they called GFAP-epsilon,
+from a fetal brain cDNA library. GFAP-epsilon contains 42 amino acids
+encoded by exon 7a at its C terminus in place of the 43-amino acid C
+terminus encoded by exons 8 and 9 of GFAP-alpha, the originally
+identified GFAP transcript.
+
+MAPPING
+
+Bernier et al. (1988) used cDNA probes to determine the chromosomal
+location of the GFAP gene in the mouse by following its segregation in a
+panel of interspecies somatic cell hybrids. Furthermore, they defined
+RFLPs associated with the gene. Patterns of inheritance of these RFLPs
+in recombinant inbred strains of mice showed that GFAP is encoded by a
+single genetic locus on mouse chromosome 11. The murine gene is in close
+proximity to the genes encoding p53 and myeloperoxidase. By Southern
+blot hybridization of somatic cell hybrids and by in situ hybridization,
+Bongcam-Rudloff et al. (1991) mapped the GFAP gene to human 17q21.
+Brownell et al. (1991) also assigned the GFAP gene to chromosome 17 by
+screening a mouse/human somatic cell hybrid panel with a GFAP cDNA
+fragment.
+
+GENE FUNCTION
+
+Using binding assays with recombinant proteins, Nielsen et al. (2002)
+determined that the unique C terminus of the GFAP-epsilon splice variant
+was required for interaction with PS1, as were the coiled-coil 2 and
+linker 1-2 regions shared with GFAP-alpha. GFAP-alpha did not interact
+with PS1. Yeast 2-hybrid analysis of point mutations introduced into PS1
+indicated that 2 nonconservative amino acid substitutions abolished
+interaction with GFAP-epsilon, but 2 conservative substitutions, both
+associated with Alzheimer disease, did not effect GFAP-epsilon binding.
+By transfection in human embryonic kidney cells and in mouse
+neuroblastoma cells, Nielsen et al. (2002)found that GFAP-epsilon
+associated with intermediate filaments and perfectly colocalized with
+GFAP-alpha, suggesting that both isoforms are polymerized into the same
+filamentous structures. A subpopulation of GFAP-epsilon also colocalized
+with PS1 in the perinuclear region and in cytoplasmic granules.
+
+Radomska et al. (2013) stated that 3 major GFAP splice variants,
+GFAP-alpha, -delta, and -kappa, are present in human central nervous
+system. They found that GFAP-alpha was the dominant GFAP variant in
+primary cultured human astrocytes. Knockdown of the RNA-binding protein
+QKI (609590), predominantly the QKI7 variant, reduced astrocyte content
+of GFAP-alpha mRNA. Treatment of astrocytes with the antipsychotic drug
+haloperidol increased the expression of both QKI7 and GFAP-alpha.
+
+MOLECULAR GENETICS
+
+Alexander disease (203450) is a rare disorder of the central nervous
+system. Infants with Alexander disease develop a leukoencephalopathy
+with macrocephaly, seizures, and psychomotor retardation, leading to
+death usually within the first decade; patients with juvenile or adult
+forms typically experience ataxia, bulbar signs and spasticity, and a
+more slowly progressive course. The pathologic hallmark of all forms of
+Alexander disease is the presence of Rosenthal fibers, cytoplasmic
+inclusions in astrocytes that contain the intermediate filament protein
+GFAP in association with small heat-shock proteins. By sequence analysis
+of DNA from patients representing different Alexander disease
+phenotypes, Brenner et al. (2001) found that most cases were associated
+with nonconservative mutations in the coding region of the GFAP gene.
+Alexander disease, therefore, represents the first example of a primary
+genetic disorder of astrocytes, one of the major cell types in the
+vertebrate CNS. Each mutation identified in the GFAP gene was
+heterozygous, suggesting a dominant mutation. Because parental DNA was
+normal in all instances where it was available, the authors concluded
+that most cases of Alexander disease result from de novo mutations. It
+was noteworthy that mutations in only 4 codons accounted for Alexander
+disease in 10 of 11 patients, and these were all arginine codons.
+Arginine codons are recognized as particularly prone to mutation,
+presumably due to methylation of the CpG dinucleotide. Brenner et al.
+(2001) suggested that the GFAP mutations in Alexander disease most
+likely act in a dominant gain-of-function manner, as the phenotype of
+Gfap-null mice is subtle and does not resemble Alexander disease. They
+pointed out that the results do not exclude the possibility that defects
+in other genes may be responsible for some cases of Alexander disease.
+For example, Schuelke et al. (1999) reported a child with a phenotype
+resembling Alexander disease (but without pathologic confirmation) who
+was homozygous for a mutation in the NDUFV1 gene (161015.0003).
+
+Rodriguez et al. (2001) searched for GFAP mutations in a series of
+patients who had heterogeneous clinical symptoms but were candidates for
+Alexander disease on the basis of suggestive neuroimaging abnormalities.
+De novo heterozygous missense GFAP mutations were found in exon 1 or
+exon 4 in 14 of the 15 patients analyzed, including patients without
+macrocephaly. Nine patients carried arginine mutations that had been
+described elsewhere: 4 had arg239 to cys (137780.0001); 1 had arg239 to
+his (137780.0002); and 1 had arg79 to his (137780.0004). The other 5
+patients had 1 of 4 novel mutations, of which 2 affected arginine and 2
+affected nonarginine residues. All mutations were located in the rod
+domain of GFAP, and there was a correlation between clinical severity
+and the affected amino acid.
+
+Li et al. (2005) identified mutations in the GFAP gene in 41 patients
+with Alexander disease. They stated that a total of 42 different GFAP
+mutations had been identified, and almost all mutations resulted in a
+gain-of-function dominant effect. There was a suggestion of male
+predominance of the disorder.
+
+Li et al. (2006) determined that the paternal chromosome carried the
+GFAP mutation in 24 of 28 unrelated cases of Alexander disease analyzed,
+suggesting that most mutations occur during spermatogenesis rather than
+in the embryo. No effect of paternal age was observed.
+
+In 13 unrelated Italian patients with Alexander disease, including 8
+with the infantile, 2 with the juvenile, and 3 with the adult form,
+Caroli et al. (2007) identified 11 different mutations in the GFAP gene
+(see, e.g., 137780.0005), including 4 novel mutations. Ten mutations
+occurred in the rod domains and 1 in the tail domain.
+
+GENOTYPE/PHENOTYPE CORRELATIONS
+
+Rodriguez et al. (2001) could discern a genotype-phenotype correlation
+for the 2 most frequently mutated arginine residues, R79 (8 patients)
+and R239 (10 patients), with the phenotype of the R79 mutations
+appearing much less severe than that of the R239 mutations. The 4
+patients they found with R79 mutations appeared to be the least severely
+affected: none developed macrocephaly, 3 achieved independent walking,
+and, at the time of report, all were alive at ages 2.5 to 20 years.
+Similarly, among the 4 patients with R79 mutations who were reported by
+Brenner et al. (2001), 2 lived until the ages of 14 and 48 years, the
+other 2 were still alive, at ages 7 and 8 years, at the time of report
+by Rodriguez et al. (2001). Patients with R239 mutations, reported by
+both Brenner et al. (2001) and Rodriguez et al. (2001), had marked
+impairment of psychomotor development, and some had progressive
+macrocephaly.
+
+Gorospe et al. (2002) reported 12 genetically confirmed cases of
+Alexander disease caused by 9 heterozygous point mutations in the GFAP
+gene. The cases demonstrated variable ages of onset and symptoms. The
+authors stated that no clear-cut genotype-phenotype correlations were
+apparent.
+
+ANIMAL MODEL
+
+Messing et al. (1998) found that overexpression of human GFAP in
+astrocytes of transgenic mice was fatal and was accompanied by the
+presence of inclusion bodies indistinguishable from human Rosenthal
+fibers, the pathologic hallmark of all forms of Alexander disease. These
+results suggested that a primary alteration in the GFAP gene may be
+responsible for Alexander disease.
+
+Gomi et al. (1995), Pekny et al. (1995), Shibuki et al. (1996), and
+Liedtke et al. (1996) independently reported generation of
+GFAP-deficient mice. In all cases, the mutant mice are normal at birth
+and develop grossly normal. Using immunohistochemical analysis, Pekny et
+al. (1995) concluded that GFAP knockout mice are lacking intermediate
+filaments in astrocytes of the hippocampus and in the white matter of
+the spinal cord. Using microscopic analysis of brain sections, Liedtke
+et al. (1996) observed a mutant phenotype characterized by abnormal
+myelination, alterations in the blood-brain barrier, disorganization of
+white matter architecture and vascularization, and hydrocephalus in
+older mice associated with loss of white matter. They concluded that
+GFAP is necessary for the long-term maintenance of normal CNS
+myelination. Shibuki et al. (1996) observed that long-term depression at
+parallel fiber-Purkinje cell synapses is deficient in GFAP knockout
+mice. Furthermore, GFAP mutant mice exhibited a significant impairment
+of eyeblink conditioning without any detectable deficits in motor
+coordination tasks. They concluded that GFAP may be required for
+communications between Bergmann glia and Purkinje cells during long-term
+depression induction and maintenance.
+
+Hagemann et al. (2005) performed gene expression analysis on olfactory
+bulbs of transgenic mice overexpressing wildtype human GFAP at 2
+different ages. Expression profiles revealed a stress response that
+included genes involved in glutathione metabolism, peroxide
+detoxification, and iron homeostasis. Many of these genes are regulated
+by the transcription factor Nfe2l2 (600492), which is also increased in
+expression at 3 weeks. An immune-related response occurred with
+activation of cytokine and cytokine receptor genes, complement
+components, and acute phase response genes. These transcripts were
+further elevated with age, with additional induction of
+macrophage-specific markers, such as Mac1 (ITGAM; 120980) and CD68
+(153634), suggesting activation of microglia. At 4 months, decreased
+expression of genes for microtubule-associated proteins, vesicular
+trafficking proteins, and neurotransmitter receptors became apparent.
+Interneuron-specific transcription factors, including Dlx family members
+and Pax6 (607108), were downregulated as well as Gad1 (605363) and Gad2
+(138275), suggesting impairment of GABAergic granule cells. Hagemann et
+al. (2005) proposed a mechanism wherein an initial stress response by
+astrocytes results in the activation of microglia and compromised
+neuronal function.
+
+Hagemann et al. (2009) noted that Rosenthal fibers in the complex
+astrocytic inclusions characteristic of Alexander disease contain GFAP,
+vimentin (VIM; 193060), plectin (PLEC1; 601282), ubiquitin (UBB;
+191339), HSP27 (HSPB1; 602195), and alpha-B-crystallin (CRYAB; 123590).
+CRYAB regulates GFAP assembly, and elevation of CRYAB is a consistent
+feature of Alexander disease; however, its role in Rosenthal fibers and
+disease pathology is not known. In a mouse model of Alexander disease,
+Hagemann et al. (2009) showed that loss of Cryab resulted in increased
+mortality, whereas elevation of Cryab rescued animals from terminal
+seizures. When mice with Rosenthal fibers induced by overexpression of
+GFAP were crossed into a Cryab-null background, over half died at 1
+month of age. Restoration of Cryab expression through the GFAP promoter
+reversed this outcome, showing the effect was astrocyte-specific.
+Conversely, in mice carrying an Alexander disease-associated mutation
+and in mice overexpressing wildtype GFAP, which, despite natural
+induction of Cryab also died at 1 month, transgenic overexpression of
+Cryab resulted in a markedly reduced CNS stress response, restored
+expression of the glutamate transporter Glt1 (SLC1A2; 600300), and
+protected these animals from death.
+
+ALLELIC VARIANT .0001
+ALEXANDER DISEASE
+GFAP, ARG239CYS
+
+Brenner et al. (2001) found that 5 unrelated patients with Alexander
+disease (203450) were heterozygous for mutations in codon 239 of the
+GFAP gene. In 4 of these, a C-to-T transition at nucleotide 729 led to
+an arg239-to-cys mutation (R239C). Age at death in these 4 patients
+varied from 4 years to 11 years. The fifth patient had an arg239-to-his
+mutation (137780.0002). DNA was normal in the parents where available.
+
+In a 1-year-old female with typical features of Alexander disease,
+Shiroma et al. (2001) identified the frequent R239C missense mutation.
+The patient was born of nonconsanguineous parents. Early developmental
+milestones were normal, but at the age of 1 year she had the first
+febrile seizure, and after 2 weeks she had status epilepticus with
+fever. Thereafter, she lost the ability to stand with help and to speak
+words. Examination showed increased head circumference (+2.3 SD) and
+good social response. Plantar responses were bilaterally extensor. In
+addition to the typical manifestations of macrocephaly, psychomotor
+retardation, spasticity, and seizures, the radiologic findings were
+typical of Alexander disease.
+
+Rodriguez et al. (2001) found the arg239-to-cys mutation in heterozygous
+state in 4 of 14 patients with infantile Alexander disease. One of the
+patients was 18 months old at the time of onset, underwent deterioration
+of psychomotor development at the age of 6 years, had a head
+circumference of 1.5 standard deviations above the mean, and was alive
+at age 8 years.
+
+Li et al. (2005) reported 2 unrelated patients with juvenile-onset
+Alexander disease who were heterozygous for the R239C mutation. One
+patient had onset at age 2 years and the other at age 4 years.
+
+.0002
+ALEXANDER DISEASE
+GFAP, ARG239HIS
+
+In a patient with Alexander disease (203450), Brenner et al. (2001)
+identified a G-to-A transition at nucleotide 730 of the GFAP gene,
+causing an arg239-to-his substitution. This infant died at the age of 11
+months. Four other patients had an arg239-to-cys mutation; see
+137780.0001.
+
+Li et al. (2005) reported 5 unrelated patients with Alexander disease
+resulting from the R239H mutation. All patients had a severe form of the
+disease, with onset by age 6 months and death by age 5 years.
+
+.0003
+ALEXANDER DISEASE
+GFAP, ARG416TRP
+
+In 2 unrelated patients with Alexander disease (203450) that led to
+death at ages 7 and 8, respectively, Brenner et al. (2001) identified a
+C-to-T transition at nucleotide 1260 of the GFAP gene, resulting in an
+arg416-to-trp substitution.
+
+Li et al. (2005) noted that the R416W mutation had been identified in
+patients with infantile-, juvenile-, and adult-onset Alexander disease.
+
+A pathologic hallmark of Alexander disease is the abundance of protein
+aggregates in astrocytes. These aggregates, termed Rosenthal fibers,
+contain the protein chaperones alpha-B crystallin (123590) and HSP27
+(602195) as well as GFAP. Perng et al. (2006) showed that the R416W
+mutation in GFAP significantly perturbs in vitro filament assembly. The
+filamentous structures formed resemble assembly intermediates but
+aggregated more strongly. Consistent with the heterozygosity of the
+mutation, this effect was dominant over wildtype GFAP in coassembly
+experiments. Transient transfection studies demonstrated that R416W GFAP
+induces the formation of GFAP-containing cytoplasmic aggregates in a
+wide range of different cell types, including astrocytes. Monoclonal
+antibodies specific for R146W GFAP revealed, for the first time for any
+intermediate filament-based disease, the presence of the mutant protein
+in the characteristic histopathologic features of the disease, namely,
+Rosenthal fibers. The data confirmed that the effects of the R416W GFAP
+are dominant, changing the assembly process in a way that encourages
+aberrant filament-filament interactions that then lead to protein
+aggregation and chaperone sequestration as early events in Alexander
+disease.
+
+.0004
+ALEXANDER DISEASE
+GFAP, ARG79HIS
+
+In a patient with Alexander disease (203450) with onset at age 10 years
+and death at age 48 years, Brenner et al. (2001) identified a G-to-A
+transition at nucleotide 250 of the GFAP gene, leading to an
+arg79-to-his substitution. Brenner et al. (2001) found the same mutation
+in a patient with Alexander disease still living at the age of 8 years.
+
+.0005
+ALEXANDER DISEASE
+GFAP, ARG79CYS
+
+In a patient with Alexander disease (203450) with onset at 3 months and
+death at 14 years, Brenner et al. (2001) identified a C-to-T transition
+at nucleotide 249 of the GFAP gene, leading to an arg79-to-cys (R79C)
+substitution. Brenner et al. (2001) found the same mutation in a patient
+with Alexander disease still living at the age of 7 years.
+
+Caroli et al. (2007) identified the R79C mutation in 3 unrelated Italian
+boys with Alexander disease. All had onset before age 10 months. One of
+the patients died at age 19 years.
+
+.0006
+ALEXANDER DISEASE
+GFAP, ARG88CYS
+
+In 2 unrelated patients with Alexander disease (203450), Rodriguez et
+al. (2001) found an arg88-to-cys (R88C) mutation in the GFAP gene.
+
+.0007
+ALEXANDER DISEASE
+GFAP, ARG88SER
+
+In a patient with Alexander disease (203450), Rodriguez et al. (2001)
+found an arg88-to-ser (R88S) missense mutation in heterozygous state in
+the GFAP gene.
+
+.0008
+ALEXANDER DISEASE
+GFAP, LEU76PHE
+
+In a patient with Alexander disease (203450), Rodriguez et al. (2001)
+found a leu76-to-phe (L76F) heterozygous missense mutation in the GFAP
+gene.
+
+.0009
+ALEXANDER DISEASE
+GFAP, ASN77TYR
+
+In a patient with Alexander disease (203450), Rodriguez et al. (2001)
+found a de novo, heterozygous missense mutation, asn77-to-tyr (N77Y), in
+the GFAP gene.
+
+.0010
+ALEXANDER DISEASE
+GFAP, GLU362ASP
+
+In a patient with juvenile-onset Alexander disease (203450), Sawaishi et
+al. (2002) identified a homozygous 1100G-C transition in the GFAP gene,
+resulting in a glu362-to-asp substitution. A brother and the parents did
+not carry the mutation. The mutation occurred in the C-terminal end of
+the central rod domain, a highly conserved region of GFAP and other
+types of intermediate filaments (e.g., vimentin (193060), desmin
+(125660), keratin-1 (139350)).
+
+.0011
+ALEXANDER DISEASE
+GFAP, ARG276LEU
+
+In 2 Japanese brothers with Alexander disease (203450), Namekawa et al.
+(2002) described an 841G-T transition at nucleotide 841, resulting in an
+arg276-to-leu (R276L) substitution. Both brothers had spastic paresis
+without palatal myoclonus, and MRI showed marked atrophy of the medulla
+oblongata and cervicothoracic cord. The autopsy showed severely involved
+shrunken pyramids but scarce Rosenthal fibers. Moderate numbers of
+Rosenthal fibers were observed in the stratum subcallosum and
+hippocampal fimbria. One patient was well until age 33; the second
+brother developed regressive spastic gait at the age of 48 years and
+gradually noticed that he could not raise his left arm. The parents were
+nonconsanguineous and both died in their eighth decade without apparent
+evidence of a neurologic disorder. They had only the 2 offspring, both
+of whom had no children. The R276L mutation was heterozygous in both
+brothers. Assuming accurate attribution of paternity, one might suggest
+that this represented an example of parental gonadal mosaicism.
+
+.0012
+ALEXANDER DISEASE
+GFAP, LEU352PRO
+
+In a patient with a severe form of infantile Alexander disease (203450),
+Bassuk et al. (2003) identified a heterozygous 1055T-C transition in the
+GFAP gene, resulting in a leu352-to-pro (L352P) substitution. Residue
+352 is a highly conserved amino acid that is found in all intermediate
+filament proteins and across species.
+
+.0013
+ALEXANDER DISEASE
+GFAP, ASP78GLU
+
+In a family with an autosomal dominant adult form of Alexander disease
+(203450), Stumpf et al. (2003) identified a heterozygous C-to-A change
+in exon 1 of the GFAP gene, resulting in an asp78-to-glu (D78E)
+substitution. Amino acid 78 lies in the rod domain of the protein. The
+clinical phenotype varied in severity, but the pattern of evolution was
+similar in all affected members. Although sleep disturbances and
+dysautonomia, primarily constipation, began in childhood, the major
+neurologic features began in the third or fourth decade of life. MRI of
+the older patients showed atrophy of the medulla without signal
+abnormalities.
+
+REFERENCE 1. Bassuk, A. G.; Joshi, A.; Burton, B. K.; Larsen, M. B.; Burrowes,
+D. M.; Stack, C.: Alexander disease with serial MRS and a new mutation
+in the glial fibrillary acidic protein gene. Neurology 61: 1014-1015,
+2003.
+
+2. Bernier, L.; Colman, D. R.; D'Eustachio, P.: Chromosomal locations
+of genes encoding 2-prime,3-prime cyclic nucleotide 3-prime-phosphodiesterase
+and glial fibrillary acidic protein in the mouse. J. Neurosci. Res. 20:
+497-504, 1988.
+
+3. Bongcam-Rudloff, E.; Nister, M.; Betsholtz, C.; Wang, J.-L.; Stenman,
+G.; Huebner, K.; Croce, C. M.; Westermark, B.: Human glial fibrillary
+acidic protein: complementary DNA cloning, chromosome localization,
+and messenger RNA expression in human glioma cell lines of various
+phenotypes. Cancer Res. 51: 1553-1560, 1991.
+
+4. Brenner, M.; Johnson, A. B.; Boespflug-Tanguy, O.; Rodriguez, D.;
+Goldman, J. E.; Messing, A.: Mutations in GFAP, encoding glial fibrillary
+acidic protein, are associated with Alexander disease. Nature Genet. 27:
+117-120, 2001.
+
+5. Brownell, E.; Lee, A. S.; Pekar, S. K.; Pravtcheva, D.; Ruddle,
+F. H.; Bayney, R. M.: Glial fibrillary acid protein, an astrocytic-specific
+marker, maps to human chromosome 17. Genomics 10: 1087-1089, 1991.
+
+6. Caroli, F.; Biancheri, R.; Seri, M.; Rossi, A.; Pessagno, A.; Bugiani,
+M.; Corsolini, F.; Savasta, S.; Romano, S.; Antonelli, C.; Romano,
+A.; Pareyson, D.; Gambero, P.; Uziel, G.; Ravazzolo, R.; Ceccherini,
+I.; Filocamo, M.: GFAP mutations and polymorphisms in 13 unrelated
+Italian patients affected by Alexander disease. Clin. Genet. 72:
+427-433, 2007.
+
+7. Gomi, H.; Yokoyama, T.; Fujimoto, K.; Ikeda, T.; Katoh, A.; Itoh,
+T.; Itohara, S.: Mice devoid of the glial fibrillary acidic protein
+develop normally and are susceptible to scrapie prions. Neuron 14:
+29-41, 1995.
+
+8. Gorospe, J. R.; Naidu, S.; Johnson, A. B.; Puri, V.; Raymond, G.
+V.; Jenkins, S. D.; Pedersen, R. C.; Lewis, D.; Knowles, P.; Fernandez,
+R.; De Vivo, D.; van der Knapp, M. S.; Messing, A.; Brenner, M.; Hoffman,
+E. P.: Molecular findings in symptomatic and pre-symptomatic Alexander
+disease patients. Neurology 58: 1494-1500, 2002.
+
+9. Hagemann, T. L.; Boelens, W. C.; Wawrousek, E. F.; Messing, A.
+: Suppression of GFAP toxicity by alpha-B-crystallin in mouse models
+of Alexander disease. Hum. Molec. Genet. 18: 1190-1199, 2009.
+
+10. Hagemann, T. L.; Gaeta, S. A.; Smith, M. A.; Johnson, D. A.; Johnson,
+J. A.; Messing, A.: Gene expression analysis in mice with elevated
+glial fibrillary acidic protein and Rosenthal fibers reveals a stress
+response followed by glial activation and neuronal dysfunction. Hum.
+Molec. Genet. 14: 2443-2458, 2005.
+
+11. Li, R.; Johnson, A. B.; Salomons, G.; Goldman, J. E.; Naidu, S.;
+Quinlan, R.; Cree, B.; Ruyle, S. Z.; Banwell, B.; D'Hooghe, M.; Siebert,
+J. R.; Rolf, C. M.; Cox, H.; Reddy, A.; Gutierrez-Solana, L. G.; Collins,
+A.; Weller, R. O.; Messing, A.; van der Knaap, M. S.; Brenner, M.
+: Glial fibrillary acidic protein mutations in infantile, juvenile,
+and adult forms of Alexander disease. Ann. Neurol. 57: 310-326,
+2005.
+
+12. Li, R.; Johnson, A. B.; Salomons, G. S.; van der Knapp, M. S.;
+Rodriguez, D.; Boespflug-Tanguy, O.; Gorospe, J. R.; Goldman, J. E.;
+Messing, A.; Brenner, M.: Propensity for paternal inheritance of
+de novo mutations in Alexander disease. Hum. Genet. 119: 137-144,
+2006.
+
+13. Liedtke, W.; Edelmann, W.; Bieri, P. L.; Chiu, F.-C.; Cowan, N.
+J.; Kucherlapati, R.; Raine, C. S.: GFAP is necessary for the integrity
+of CNS white matter architecture and long-term maintenance of myelination. Neuron 17:
+607-615, 1996.
+
+14. Messing, A.; Head, M. W.; Galles, K.; Galbreath, E. J.; Goldman,
+J. E.; Brenner, M.: Fatal encephalopathy with astrocyte inclusions
+in GFAP transgenic mice. Am. J. Path. 152: 391-398, 1998.
+
+15. Namekawa, M.; Takiyama, Y.; Aoki, Y.; Takayashiki, N.; Sakoe,
+K.; Shimazaki, H.; Taguci, T.; Tanaka, Y.; Nishizawa, M.; Saito, K.;
+Matsubara, Y.; Nakano, I.: Identification of GFAP gene mutation in
+hereditary adult-onset Alexander's disease. Ann. Neurol. 52: 779-785,
+2002.
+
+16. Nielsen, A. L.; Holm, I. E.; Johansen, M.; Bonven, B.; Jorgensen,
+P.; Jorgensen, A. L.: A new splice variant of glial fibrillary acidic
+protein, GFAP-epsilon, interacts with the presenilin proteins. J.
+Biol. Chem. 277: 29983-29991, 2002.
+
+17. Pekny, M.; Leveen, P.; Pekna, M.; Eliasson, C.; Berthold, C.-H.;
+Westermark, B.; Betsholtz, C.: Mice lacking glial fibrillary acidic
+protein display astrocytes devoid of intermediate filaments but develop
+and reproduce normally. EMBO J. 14: 1590-1598, 1995.
+
+18. Perng, M. D.; Su, M.; Wen, S. F.; Li, R.; Gibbon, T.; Prescott,
+A. R.; Brenner, M.; Quinlan, R. A.: The Alexander disease-causing
+glial fibrillary acidic protein mutant, R416W, accumulates into Rosenthal
+fibers by a pathway that involves filament aggregation and the association
+of alpha-B-crystallin and HSP27. Am. J. Hum. Genet. 79: 197-213,
+2006.
+
+19. Radomska, K. J.; Halvardson, J.; Reinius, B.; Carlstrom, E. L.;
+Emilsson, L.; Feuk, L.; Jazin, E.: RNA-binding protein QKI regulates
+Glial fibrillary acidic protein expression in human astrocytes. Hum.
+Molec. Genet. 22: 1373-1382, 2013.
+
+20. Reeves, S. A.; Helman, L. J.; Allison, A.; Israel, M. A.: Molecular
+cloning and primary structure of human glial fibrillary acidic protein. Proc.
+Nat. Acad. Sci. 86: 5178-5182, 1989.
+
+21. Rodriguez, D.; Gauthier, F.; Bertini, E.; Bugiani, M.; Brenner,
+M.; N'guyen, S.; Goizet, C.; Gelot, A.; Surtees, R.; Pedespan, J.-M.;
+Hernandorena, X.; Troncoso, M.; Uziel, G.; Messing, A.; Ponsot, G.;
+Pham-Dinh, D.; Dautigny, A.; Boespflug-Tanguy, O.: Infantile Alexander
+disease: spectrum of GFAP mutations and genotype-phenotype correlation. Am.
+J. Hum. Genet. 69: 1134-1140, 2001. Note: Erratum: Am. J. Hum. Genet.
+69: 1413 only, 2001.
+
+22. Sawaishi, Y.; Yano, T.; Takaku, I.; Takada, G.: Juvenile Alexander
+disease with a novel mutation in glial fibrillary acidic protein gene. Neurology 58:
+1541-1543, 2002.
+
+23. Schuelke, M.; Smeitink, J.; Mariman, E.; Loeffen, J.; Plecko,
+B.; Trijbels, F.; Stockler-Ipsiroglu, S.; van den Heuvel, L.: Mutant
+NDUFV1 subunit of mitochondrial complex I causes leukodystrophy and
+myoclonic epilepsy. (Letter) Nature Genet. 21: 260-261, 1999.
+
+24. Shibuki, K.; Gomi, H.; Chen, L.; Bao, S.; Kim, J. J.; Wakatsuki,
+H.; Fujisaki, T.; Fujimoto, K.; Katoh, A.; Ikeda, T.; Chen, C.; Thompson,
+R. F.; Itohara, S.: Deficient cerebellar long-term depression, impaired
+eyeblink conditioning, and normal motor coordination in GFAP mutant
+mice. Neuron 16: 587-599, 1996.
+
+25. Shiroma, N.; Kanazawa, N.; Izumi, M.; Sugai, K.; Fukumizu, M.;
+Sasaki, M.; Hanaoka, S.; Kaga, M.; Tsujino, S.: Diagnosis of Alexander
+disease in a Japanese patient by molecular genetic analysis. J. Hum.
+Genet. 46: 579-582, 2001.
+
+26. Stumpf, E.; Masson, H.; Duquette, A.; Berthelet, F.; McNabb, J.;
+Lortie, A.; Lesage, J.; Montplaisir, J.; Brais, B.; Cossette, P.:
+Adult Alexander disease with autosomal dominant transmission: a distinct
+entity caused by mutation in the glial fibrillary acid protein gene. Arch.
+Neurol. 60: 1307-1312, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 09/05/2013
+George E. Tiller - updated: 10/27/2009
+George E. Tiller - updated: 1/12/2009
+Cassandra L. Kniffin - updated: 8/21/2008
+Victor A. McKusick - updated: 7/7/2006
+Cassandra L. Kniffin - updated: 5/18/2006
+Cassandra L. Kniffin - updated: 1/21/2004
+Victor A. McKusick - updated: 1/22/2003
+Cassandra L. Kniffin - updated: 11/27/2002
+Patricia A. Hartz - updated: 11/8/2002
+Victor A. McKusick - updated: 11/27/2001
+Dawn Watkins-Chow - updated: 11/25/2001
+Victor A. McKusick - updated: 10/30/2001
+Victor A. McKusick - updated: 1/2/2001
+
+CREATED Victor A. McKusick: 11/23/1988
+
+EDITED mgross: 09/05/2013
+wwang: 11/10/2009
+terry: 10/27/2009
+wwang: 1/12/2009
+wwang: 9/2/2008
+ckniffin: 8/21/2008
+alopez: 7/14/2006
+terry: 7/7/2006
+wwang: 5/18/2006
+wwang: 6/16/2005
+wwang: 6/2/2005
+ckniffin: 5/24/2005
+tkritzer: 1/23/2004
+ckniffin: 1/21/2004
+tkritzer: 1/14/2004
+ckniffin: 1/7/2004
+cwells: 1/30/2003
+tkritzer: 1/22/2003
+carol: 12/4/2002
+ckniffin: 12/4/2002
+carol: 12/4/2002
+ckniffin: 11/27/2002
+tkritzer: 11/14/2002
+tkritzer: 11/8/2002
+carol: 7/31/2002
+carol: 5/8/2002
+alopez: 12/3/2001
+terry: 11/27/2001
+carol: 11/25/2001
+carol: 11/9/2001
+mcapotos: 11/7/2001
+terry: 10/30/2001
+alopez: 4/5/2001
+alopez: 3/26/2001
+terry: 3/21/2001
+mgross: 1/2/2001
+supermim: 3/16/1992
+carol: 8/9/1991
+carol: 5/22/1991
+supermim: 3/20/1990
+ddp: 10/27/1989
+root: 9/6/1989
+
+602947	TITLE *602947 SUPPRESSOR OF TY 3, S. CEREVISIAE, HOMOLOG OF; SUPT3H
+;;SPT3
+DESCRIPTION 
+CLONING
+
+Ogryzko et al. (1998) identified a human polypeptide, which they called
+SPT3, as a subunit of the P/CAF complex (602303). The predicted
+317-amino acid protein shows 51% amino acid sequence similarity with
+yeast SPT3. Struhl and Moqtaderi (1998) reviewed the potential roles of
+the PCAF complex in transcription.
+
+By searching for genes within a region of chromosome 6 associated with
+cleidocranial dysplasia (119600), followed by database analysis and
+screening of a human craniofacial cDNA library, Yu et al. (1998) cloned
+the SUPT3H gene. The deduced protein contains 399 amino acids.
+
+MAPPING
+
+By genomic sequence analysis, Yu et al. (1998) mapped the SUPT3H gene to
+chromosome 6p21.3-p21.1.
+
+REFERENCE 1. Ogryzko, V. V.; Kotani, T.; Zhang, X.; Schiltz, R. L.; Howard,
+T.; Yang, X.-J.; Howard, B. H.; Qin, J.; Nakatani, Y.: Histone-like
+TAFs within the PCAF histone acetylase complex. Cell 94: 35-44,
+1998.
+
+2. Struhl, K.; Moqtaderi, Z.: The TAFs in the HAT. Cell 94: 1-4,
+1998.
+
+3. Yu, J.; Madison, J. M.; Mundlos, S.; Winston, F.; Olsen, B. R.
+: Characterization of a human homologue of the Saccharomyces cerevisiae
+transcription factor Spt3 (SUPT3H). Genomics 53: 90-96, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/19/2005
+
+CREATED Stylianos E. Antonarakis: 8/6/1998
+
+EDITED wwang: 12/19/2005
+carol: 10/9/1998
+carol: 8/6/1998
+
+134935	TITLE *134935 FIBROBLAST GROWTH FACTOR RECEPTOR 4; FGFR4
+;;TYROSINE KINASE RELATED TO FIBROBLAST GROWTH FACTOR RECEPTOR; TKF
+DESCRIPTION 
+CLONING
+
+Partanen et al. (1991) reported the cDNA cloning and analysis of a novel
+member of the fibroblast growth factor receptor (FGFR) gene family
+expressed in K562 erythroleukemia cells. Its deduced amino acid sequence
+was 55% identical with the previously characterized FGFRs, FLG (FGFR1;
+136350) and BEK (176943), and had the structural characteristics of an
+FGFR family member including 3 immunoglobulin-like domains in its
+extracellular part. The expression pattern of FGFR4 was found to be
+distinct from that of FLG and BEK and also distinct from that of FGFR3
+(134934), which they (Keegan et al., 1991) had also cloned from K562
+erythroleukemia cells.
+
+To elucidate further the physiologic relevance of protein-tyrosine
+kinases and to search for additional members of the gene family as
+possible factors in carcinogenesis, Holtrich et al. (1991) amplified
+mRNA from lung tissue by the polymerase chain reaction (PCR) using
+PTK-specific primers followed by sequencing of the clones. They
+identified a novel protein-tyrosine kinase, which they called TKF
+(tyrosine kinase related to fibroblast growth factor receptor). Among a
+wide variety of cells and tissues tested, including human lymphocytes
+and macrophages, TKF was found to be expressed only in lung and in some
+tumors of lung origin as well as in malignancies not derived from lung
+tissues. Sequence comparison has demonstrated that TKF is identical to
+FGFR4 (Scott, 1999).
+
+GENE STRUCTURE
+
+Vainikka et al. (1992) described structural and functional peculiarities
+that are specific to FGFR4 within the FGFR family. Kostrzewa and Muller
+(1998) found that the FGFR4 gene spans approximately 11.3 kb and is
+composed of 18 exons ranging in size from 17 to 600 bp. Exon 1 is
+untranslated and preceded by structural elements characteristic of a
+TATA-free promoter. Short tandem repeat polymorphisms were identified in
+introns 2 and 16 of FGFR4.
+
+MAPPING
+
+By analysis of somatic cell hybrids and by in situ hybridization,
+Armstrong et al. (1992) mapped the FGFR4 gene to 5q33-qter, an area
+involved in leukemias and lymphomas. In a radiation hybrid mapping of 18
+genes on distal 5q, Warrington et al. (1992) found that the FGFR4 gene
+lies distal to DRD1 with high probability. Assuming that the mapping of
+DRD1 is correct, FGFR4 would be located in the segment 5q35.1-qter.
+Using an interspecific backcross mapping panel, Avraham et al. (1994)
+mapped the Fgfr4 gene to mouse chromosome 13 in a region of homology of
+synteny with distal human 5q.
+
+GENE FUNCTION
+
+Jung et al. (1999) studied the initiation of mammalian liver development
+from endoderm by fibroblast growth factors. The hepatogenic response was
+restricted to endoderm tissue, which selectively coexpresses FGFR1 and
+FGFR4.
+
+MOLECULAR GENETICS
+
+In the FGFR4 gene transcript from a mammary carcinoma cell line, Bange
+et al. (2002) discovered a G-to-A transition that resulted in the
+substitution of glycine by arginine at position 388 in the transmembrane
+domain of the receptor. The arg388 allele was also found in cell lines
+derived from a variety of other tumor types as well as in the germline
+of cancer patients and healthy individuals. Analysis of 3 geographically
+separated groups indicated that it occurs in approximately 50% of
+humans. Investigation of the clinical data of 84 breast cancer patients
+revealed that homo- or heterozygous carriers of the arg388 allele had a
+significantly reduced disease-free survival time (P = 0.01) within a
+median follow-up of 62 months. Moreover, the FGFR4 arg388 allele was
+associated with early metastasis and advanced tumor-node metastasis
+stage in 82 colon cancer patients. Consistent with this finding, the
+mammary tumor cell line expressing FGFR4 arg388 exhibited increased
+motility relative to cells expressing the FGFR4 gly388 isotype. The
+results supported the conclusion that the FGFR4 arg388 allele represents
+a determinant that is innocuous in healthy individuals but predisposes
+cancer patients for significantly accelerated disease progression.
+
+Taylor et al. (2009) noted that FGFR4 is expressed in myoblasts during
+normal development, in regenerating muscle following injury, and in
+rhabdomyosarcomas, but not in normal mature skeletal muscle. They found
+that FGFR4 was significantly overexpressed in rhabdomyosarcoma tumors of
+high metastatic potential, and higher FGFR4 expression was associated
+with a lower rate of survival. Taylor et al. (2009) identified 6
+missense mutations in the FGFR4 tyrosine kinase domain among 7 of 94
+(7.5%) primary rhabdomyosarcomas, and none of these substitutions were
+found in normal controls. Comparison with the available genomic data
+suggested that the mutations were somatic. Four of the mutations
+affected residues asn535 and val550 and were predicted to be activating
+mutations that would alter conformational dynamics during
+phosphorylation, in the case of asn535 substitutions, and ATP binding,
+in the case of val550 substitutions. Using human and mouse
+rhabdomyosarcoma cell lines, Taylor et al. (2009) found that 2 of these
+mutations, asn535 to lys (N535K) and val550 to glu (V550E), increased
+autophosphorylation, Stat3 (102582) signaling, cell growth, tumor
+proliferation, and metastatic potential when injected into nude mice.
+These mutants also transformed mouse NIH3T3 cells and led to enhanced
+metastatic phenotype.
+
+ALLELIC VARIANT .0001
+CANCER PROGRESSION AND TUMOR CELL MOTILITY
+FGFR4, GLY388ARG
+
+Bange et al. (2002) found a relationship between the gly388-to-arg
+substitution in FGFR4 and cancer progression and tumor cell motility.
+The arg388 allele was associated with metastasis and poor prognosis in
+breast cancer and in colon cancer. In a control group of 123 subjects,
+the frequencies of the gly/gly, gly/arg, and arg/arg genotypes were 45%,
+49%, and 6%, respectively.
+
+REFERENCE 1. Armstrong, E.; Partanen, J.; Cannizzaro, L.; Huebner, K.; Alitalo,
+K.: Localization of the fibroblast growth factor receptor-4 gene
+to chromosome region 5q33-qter. Genes Chromosomes Cancer 4: 94-98,
+1992.
+
+2. Avraham, K. B.; Givol, D.; Avivi, A.; Yayon, A.; Copeland, N. G.;
+Jenkins, N. A.: Mapping of murine fibroblast growth factor receptors
+refines regions of homology between mouse and human chromosomes. Genomics 21:
+656-658, 1994.
+
+3. Bange, J.; Prechtl, D.; Cheburkin, Y.; Specht, K.; Harbeck, N.;
+Schmitt, M.; Knyazeva, T.; Muller, S.; Gartner, S.; Sures, I.; Wang,
+H.; Imyanitov, E.; Haring, H.-U.; Knayzev, P.; Iacobelli, S.; Hofler,
+H.; Ullrich, A.: Cancer progression and tumor cell motility are associated
+with the FGFR4 Arg388 allele. Cancer Res. 62: 840-847, 2002.
+
+4. Holtrich, U.; Brauninger, A.; Strebhardt, K.; Rubsamen-Waigmann,
+H.: Two additional protein-tyrosine kinases expressed in human lung:
+fourth member of the fibroblast growth factor receptor family and
+an intracellular protein-tyrosine kinase. Proc. Nat. Acad. Sci. 88:
+10411-10415, 1991.
+
+5. Jung, J.; Zheng, M.; Goldfarb, M.; Zaret, K. S.: Initiation of
+mammalian liver development from endoderm by fibroblast growth factors. Science 284:
+1998-2003, 1999.
+
+6. Keegan, K.; Johnson, D. E.; Williams, L. T.; Hayman, M. J.: Isolation
+of an additional member of the fibroblast growth factor receptor family,
+FGFR-3. Proc. Nat. Acad. Sci. 88: 1095-1099, 1991.
+
+7. Kostrzewa, M.; Muller, U.: Genomic structure and complete sequence
+of the human FGFR4 gene. Mammalian Genome 9: 131-135, 1998.
+
+8. Partanen, J.; Makela, T. P.; Eerola, E.; Korhonen, J.; Hirvonen,
+H.; Claesson-Welsh, L.; Alitalo, K.: FGFR-4, a novel acidic fibroblast
+growth factor receptor with a distinct expression pattern. EMBO J. 10:
+1347-1354, 1991.
+
+9. Scott, A. F.: Personal Communication. Baltimore, Md.  10/12/1999.
+
+10. Taylor, J. G., VI; Cheuk, A. T.; Tsang, P. S.; Chung, J.-Y.; Song,
+Y. K.; Desai, K.; Yu, Y.; Chen, Q.-R.; Shah, K.; Youngblood, V.; Fang,
+J.; Kim, S. Y.; and 13 others: Identification of FGFR4-activating
+mutations in human rhabdomyosarcomas that promote metastasis in xenotransplanted
+models. J. Clin. Invest. 119: 3395-3407, 2009.
+
+11. Vainikka, S.; Partanen, J.; Bellosta, P.; Coulier, F.; Basilico,
+C.; Jaye, M.; Alitalo, K.: Fibroblast growth factor receptor-4 shows
+novel features in genomic structure, ligand binding and signal transduction. EMBO
+J. 11: 4273-4280, 1992. Note: Erratum: EMBO J. 12: 810 only, 1993.
+
+12. Warrington, J. A.; Bailey, S. K.; Armstrong, E.; Aprelikova, O.;
+Alitalo, K.; Dolganov, G. M.; Wilcox, A. S.; Sikela, J. M.; Wolfe,
+S. F.; Lovett, M.; Wasmuth, J. J.: A radiation hybrid map of 18 growth
+factor, growth factor receptor, hormone receptor, or neurotransmitter
+receptor genes on the distal region of the long arm of chromosome
+5. Genomics 13: 803-808, 1992.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/28/2010
+Victor A. McKusick - updated: 4/23/2002
+Alan F. Scott - updated: 10/12/1999
+Ada Hamosh - updated: 6/18/1999
+Victor A. McKusick - updated: 3/27/1998
+
+CREATED Victor A. McKusick: 6/26/1991
+
+EDITED terry: 11/27/2012
+mgross: 1/11/2011
+terry: 12/28/2010
+alopez: 5/3/2002
+terry: 4/23/2002
+carol: 10/12/1999
+alopez: 6/18/1999
+carol: 4/10/1998
+dholmes: 3/27/1998
+jason: 7/1/1994
+carol: 12/22/1993
+carol: 7/20/1992
+carol: 5/4/1992
+carol: 3/25/1992
+supermim: 3/16/1992
+
+610276	TITLE *610276 PHOSPHATIDYLINOSITOL GLYCAN, CLASS X; PIGX
+DESCRIPTION 
+DESCRIPTION
+
+Glycosylphosphatidylinositol (GPI) is a complex glycolipid that anchors
+many proteins to the cell surface. PIGX is a subunit of a GPI
+mannosyltransferase complex involved in the synthesis of the core GPI
+structure in the endoplasmic reticulum (ER) (Ashida et al., 2005).
+
+CLONING
+
+Ashida et al. (2005) cloned rat Pigx cDNA, which contained an unusual
+CTG (leu) initiation codon. The deduced 252-amino acid protein has a
+22-amino acid signal peptide, a C-terminal transmembrane region, and 2
+N-glycosylation sites. Human and rat Pigx proteins share 77% sequence
+identity. Pigx colocalized with an ER marker in transfected CHO cells.
+
+GENE FUNCTION
+
+Using coprecipitation experiments, Ashida et al. (2005) determined that
+rat Pigx bound Pigm (610273). The expression of Pigm in CHO cells was
+very low in the absence of coexpressed Pigx, suggesting that Pigx
+stabilizes Pigm.
+
+GENE STRUCTURE
+
+Ashida et al. (2005) determined that the PIGX gene contains 6 exons and
+spans 25 kb.
+
+MAPPING
+
+By genomic sequence analysis, Ashida et al. (2005) mapped the PIGX gene
+to chromosome 3q29.
+
+REFERENCE 1. Ashida, H.; Hong, Y.; Murakami, Y.; Shishioh, N.; Sugimoto, N.;
+Kim, Y. U.; Maeda, Y.; Kinoshita, T.: Mammalian PIG-X and yeast Pbn1p
+are the essential components of glycosylphosphatidylinositol-mannosyltransferase
+I. Molec. Biol. Cell 16: 1439-1448, 2005.
+
+CREATED Patricia A. Hartz: 7/23/2006
+
+EDITED carol: 07/23/2006
+carol: 7/23/2006
+
+603551	TITLE *603551 HYALURONOGLUCOSAMINIDASE 2; HYAL2
+;;LUCA2;;
+HYALURONIDASE 2
+DESCRIPTION 
+DESCRIPTION
+
+Hyaluronidases degrade hyaluronic acid (HA), a glycosaminoglycan present
+in the extracellular matrix of vertebrates. However, hyaluronidase-2
+exhibits very low hyaluronidase activity.
+
+CLONING
+
+By searching an EST database for sequences related to the PH-20 (600930)
+hyaluronidase, Lepperdinger et al. (1998) identified HYAL2 cDNAs. The
+HYAL2 cDNAs encode a preprotein with an N-terminal signal peptide. The
+predicted 452-amino acid mature protein is 36.5% identical to PH-20.
+Northern blot analysis indicated that HYAL2 was expressed in all human
+tissues tested except adult brain, and Western blot analysis detected
+Hyal2 protein in all mouse tissues examined except adult brain.
+
+Strobl et al. (1998) characterized Hyal2, the mouse homolog of HYAL2.
+The deduced proteins are 82% identical.
+
+GENE FUNCTION
+
+Lepperdinger et al. (1998) found that, unlike HYAL1 (607071), whose
+properties suggested that it was membrane associated, a fusion protein
+of HYAL2 and green fluorescent protein (GFP) localized to lysosomes of
+mammalian cells. HYAL2 hyaluronidase activity had a pH optimum below 4.
+Also in contrast to HYAL1, the HYAL2 enzyme hydrolyzed only HA of high
+molecular mass, yielding intermediate-sized HA fragments of
+approximately 20 kD, which were further hydrolyzed to small
+oligosaccharides by PH-20. The authors noted that the intermediate-sized
+HA fragments have specific biologic functions. Lepperdinger et al.
+(1998) concluded that HYAL2 encodes a lysosomal hyaluronidase that is
+present in many cell types.
+
+Rai et al. (2001) and Dirks et al. (2002) showed that HYAL2 is a
+glycosylphosphatidylinositol (GPI)-anchored protein on the cell surface
+and serves as a receptor for entry into the cell of the jaagsiekte sheep
+retrovirus (JSRV). In sheep, JSRV causes a contagious form of lung
+cancer that arises from epithelial cells in the lower airway, including
+type II aveolar and bronchiolar epithelial cells. De las Heras et al.
+(2000) reported that antiserum directed against the JSRV capsid protein
+crossreacted with 30% of human pulmonary adenocarcinoma samples but not
+with normal lung tissue or adenocarcinomas from other tissues. These
+findings supported the possibility of a viral etiology of some human
+lung cancers, particularly the bronchioloalveolar adenocarcinoma type,
+which is morphologically very similar to the sheep tumors. The viral
+envelope (Env) protein alone can transform cultured cells, and
+Danilkovitch-Miagkova et al. (2003) hypothesized that Env could bind and
+sequester the HYAL2 receptor and thus liberate a potential oncogenic
+factor bound and negatively controlled by HYAL2. They showed that the
+HYAL2 receptor protein is associated with the RON receptor tyrosine
+kinase, also called macrophage stimulating-1 receptor (MST1R; 600168),
+rendering it functionally silent. In human cells expressing a JSRV Env
+transgene, the Env protein physically associated with HYAL2. RON
+liberated from the association with HYAL2 becomes functionally active
+and consequently activates the AKT1 (164730) and mitogen-activated
+protein kinase-1 (MAPK1; 176948) pathways, leading to oncogenic
+transformation of immortalized human bronchial epithelial cells.
+Danilkovitch-Miagkova et al. (2003) demonstrated activated RON in a
+subset of human bronchioloalveolar carcinoma tumors, suggesting RON
+involvement in this type of human lung cancer.
+
+Miller (2002) provided an explanation for the discrepancy between the
+conclusions of Lepperdinger et al. (1998) and Rai et al. (2001), the
+former that HYAL2 is a lysosomal enzyme and the latter that it is a cell
+surface enzyme. Lepperdinger et al. (1998) linked GFP to the carboxy end
+of HYAL2 and found GFP in the lysosome, leading to the conclusion that
+HYAL2 is also in the lysosome. The findings of Rai et al. (2001) that
+HYAL2 is a GPI-anchored protein on the cell surface showed that GFP
+would likely be cleaved from HYAL2 during GPI addition, leaving HYAL2 on
+the cell surface and resulting in GFP transit to the lysosome for
+degradation. Rai et al. (2001) also showed that HYAL2 has very low
+hyaluronidase activity, if any, compared to serum hyaluronidase HYAL1,
+and that HYAL2 serves as a receptor for JSRV.
+
+Using hyaluronan as substrate, Vigdorovich et al. (2007) demonstrated
+that recombinant soluble HYAL2 had hyaluronidase activity, with a sharp
+pH optimum of 5.6. Mutation analysis showed that hyaluronidase activity
+was not required for HYAL2 to function as JSRV receptor.
+
+GENE STRUCTURE
+
+Strobl et al. (1998) found that the human and mouse HYAL2 genes contain
+4 exons and have the same exon-intron organization.
+
+MAPPING
+
+Lepperdinger et al. (1998) stated that the HYAL2 gene is identical to
+LUCA2, which Wei et al. (1996) positioned on a contig of human
+chromosome 3p21.3, a region frequently deleted in lung cancer (see
+182280). Wei et al. (1996) observed that LUCA2 is located near LUCA1
+(HYAL1; 607071). By analysis of an interspecific backcross, Strobl et
+al. (1998) mapped the Hyal2 gene to mouse chromosome 9 in a region
+showing homology of synteny with human 3p21.
+
+ANIMAL MODEL
+
+Jaagsiekte sheep retrovius (JSRV) causes a contagious lung cancer in
+sheep and goats, with significant animal health and economic
+consequences. The host range of JSRV is in part limited by
+species-specific differences in the virus entry receptor,
+hyaluronidase-2 (Hyal2), which is not functional as a receptor in mice
+but is functional in humans. Sheep are immunotolerant of JSRV because of
+expression of closely related endogenous retroviruses, which are not
+present in humans and most other species, and that may facilitate
+oncogenesis. Using a replication-incompetent adeno-associated virus
+vector, Wootton et al. (2005) showed that expression of the JSRV
+envelope (Env) protein alone in lungs of mice results in tumors with a
+brochioloalveolar localization like those seen in sheep. Whereas lethal
+disease was observed in immunodeficient mice, tumor development was
+almost entirely blocked in immunocompetent mice. Wootton et al. (2005)
+concluded that their results provided a rare example of an oncogenic
+viral structural protein, showed that interaction of the viral Env
+protein with the virus entry receptor Hyal2 is not required for
+tumorigenesis, and indicated that immune recognition of Env can protect
+against JSRV tumorigenesis.
+
+The naked mole rat (Heterocephalus glaber) displays exceptional
+longevity, with a maximum lifespan exceeding 30 years. In addition, it
+is unusually resistant to cancer. Tian et al. (2013) identified a
+mechanism responsible for the cancer resistance. Tian et al. (2013)
+found that naked mole rat fibroblasts secrete extremely high molecular
+mass hyaluronan (HA), which is over 5 times larger than human or mouse
+HA. This high molecular mass HA accumulates abundantly in naked mole rat
+tissues owing to the decreased activity of HA-degrading enzymes and a
+species-specific sequence of hyaluranan synthase-2 (HAS2; 601636).
+Furthermore, the naked mole rat cells are more sensitive to HA
+signaling, as they have a higher affinity to HA compared to mouse or
+human cells. Perturbation of the signaling pathways sufficient for
+malignant transformation of mouse fibroblasts failed to transform naked
+mole rat cells. However, once high molecular mass HA was removed by
+either knocking down HAS2 or overexpressing the HA-degrading enzyme
+HYAL2, naked mole rat cells became susceptible to malignant
+transformation and readily formed tumors in mice. Tian et al. (2013)
+speculated that naked mole rats have evolved a higher concentration of
+HA in the skin to provide skin elasticity needed for life in underground
+tunnels and that this trait may have then been coopted to provide cancer
+resistance and longevity to this species.
+
+REFERENCE 1. Danilkovitch-Miagkova, A.; Duh, F.-M.; Kuzmin, I.; Angeloni, D.;
+Liu, S.-L.; Miller, A. D.; Lerman, M. I.: Hyaluronidase 2 negatively
+regulates RON receptor tyrosine kinase and mediates transformation
+of epithelial cells by jaagsiekte sheep retrovirus. Proc. Nat. Acad.
+Sci. 100: 4580-4585, 2003.
+
+2. De las Heras, M.; Barsky, S. H.; Hasleton, P.; Wagner, M.; Larson,
+E.; Egan, J.; Ortin, A.; Gimenez-Mas, J. A.; Palmarini, M.; Sharp,
+J. M.: Evidence for a protein related immunologically to the jaagsiekte
+sheep retrovirus in some human lung tumours. Europ. Resp. J. 15:
+330-332, 2000.
+
+3. Dirks, C.; Duh, F.-M.; Rai, S. K.; Lerman, M. I.; Miller, A. D.
+: Mechanism of cell entry and transformation by enzootic nasal tumor
+virus. J. Virol. 76: 2141-2149, 2002.
+
+4. Lepperdinger, G.; Strobl, B.; Kreil, G.: HYAL2, a human gene expressed
+in many cells, encodes a lysosomal hyaluronidase with a novel type
+of specificity. J. Biol. Chem. 273: 22466-22470, 1998.
+
+5. Miller, A. D.: Personal Communication. Seattle, Wash.  12/10/2002.
+
+6. Rai, S. K.; Duh, F.-M.; Vigdorovich, V.; Danilkovitch-Miagkova,
+A.; Lerman, M. I.; Miller, A. D.: Candidate tumor suppressor HYAL2
+is a glycosylphosphatidylinositol (GPI)-anchored cell-surface receptor
+for jaagsiekte sheep retrovirus, the envelope protein of which mediates
+oncogenic transformation. Proc. Nat. Acad. Sci. 98: 4443-4448, 2001.
+
+7. Strobl, B.; Wechselberger, C.; Beier, D. R.; Lepperdinger, G.:
+Structural organization and chromosomal localization of Hyal2, a gene
+encoding a lysosomal hyaluronidase. Genomics 53: 214-219, 1998.
+
+8. Tian, X.; Azpurua, J.; Hine, C.; Vaidya, A.; Myakishev-Rempel,
+M.; Ablaeva, J.; Mao, Z.; Nevo, E.; Gorbunova, V.; Seluanov, A.:
+High-molecular-mass hyaluronan mediates the cancer resistance of the
+naked mole rat. Nature 499: 346-349, 2013.
+
+9. Vigdorovich, V.; Miller, A. D.; Strong, R. K.: Ability of hyaluronidase
+2 to degrade extracellular hyaluronan is not required for its function
+as a receptor for jaagsiekte sheep retrovirus. J. Virol. 81: 3124-3129,
+2007.
+
+10. Wei, M.-H.; Latif, F.; Bader, S.; Kashuba, V.; Chen, J.-Y.; Duh,
+F.-M.; Sekido, Y.; Lee, C.-C.; Geil, L.; Kuzmin, I.; Zabarovsky, E.;
+Klein, G.; Zbar, B.; Minna, J. D.; Lerman, M. I.: Construction of
+a 600-kilobase cosmid clone contig and generation of a transcriptional
+map surrounding the lung cancer tumor suppressor gene (TSG) locus
+on human chromosome 3p21.3: progress toward the isolation of a lung
+cancer TSG. Cancer Res. 56: 1487-1492, 1996.
+
+11. Wootton, S. K.; Halbert, C. L.; Miller, A. D.: Sheep retrovirus
+structural protein induces lung tumours. Nature 434: 904-907, 2005.
+
+CONTRIBUTORS Ada Hamosh - updated: 09/20/2013
+Patricia A. Hartz - updated: 6/5/2007
+Ada Hamosh - updated: 9/19/2005
+Victor A. McKusick - updated: 6/6/2003
+
+CREATED Rebekah S. Rasooly: 2/18/1999
+
+EDITED alopez: 09/20/2013
+terry: 4/2/2010
+mgross: 6/21/2007
+terry: 6/5/2007
+alopez: 9/20/2005
+terry: 9/19/2005
+alopez: 9/23/2004
+tkritzer: 10/15/2003
+tkritzer: 6/13/2003
+terry: 6/6/2003
+mgross: 6/26/2002
+mgross: 7/16/1999
+terry: 7/14/1999
+psherman: 2/18/1999
+
+179730	TITLE *179730 RELAXIN 1; RLN1
+;;RELAXIN H1; RLXH1
+DESCRIPTION 
+DESCRIPTION
+
+Relaxin is a peptide hormone produced by the corpora lutea of ovaries
+during pregnancy in many mammalian species, including man. The secretion
+of the hormone into the blood stream just before parturition results in
+a marked softening and lengthening of the pubic symphysis and a
+softening of the cervix, which facilitates the birth process. By
+inhibiting uterine contractions, relaxin may influence the timing of
+parturition. Like insulin, relaxin consists of two peptide chains, A and
+B, covalently linked by disulfide bonds. By further analogy to insulin,
+the two peptides are synthesized as a single-chain precursor polypeptide
+with the B chain at the NH2-terminus.
+
+CLONING
+
+Hudson et al. (1981) sequenced the rat relaxin gene. Later, Hudson et
+al. (1983) determined the structure of the entire coding region of a
+human preprorelaxin gene and synthesized biologically active relaxin
+with the structure predicted from that of the genomic clone. Hudson et
+al. (1984) isolated a second human relaxin gene sequence (RLN2; 179740)
+from a cDNA clone band prepared from human pregnant ovarian tissue. This
+(designated H2) appeared to be different from the gene first recovered,
+called H1, and to be selectively expressed in the ovary during
+pregnancy. Nucleotide sequence showed striking differences in the
+predicted structure of relaxin encoded by the 2 genes. There was no
+evidence of expression of the H1 gene in ovary; whether H1 is expressed
+in other tissues or is a pseudogene is unclear.
+
+GENE FUNCTION
+
+See review by Schwabe and Bullesbach (1994).
+
+BIOCHEMICAL FEATURES
+
+By treating cells expressing LGR7 (606654) or LGR8 (606655) with pig
+relaxin, Hsu et al. (2002) observed a dose-dependent increase in cAMP
+production. In contrast, treatment with insulin was ineffective. They
+concluded that LGR7 and LGR8 are receptors for relaxin.
+
+MAPPING
+
+By study of mouse-human cell hybrids, Crawford et al. (1984) found that
+both relaxin genes are on 9p (9pter-9q12). Only a single relaxin gene is
+found in the pig, rat and mouse. In the case of the growth hormone
+genes, 'extra' genes not predicted by known gene products are found in
+man only. Structural similarities of relaxin to insulin exist at the
+level of both the gene and the product.
+
+Naggert and Mu (1994) stated that the relaxin gene maps to mouse
+chromosome 19 near D19Mit23.
+
+ANIMAL MODEL
+
+Zhao et al. (1999) used gene targeting to generate Rln -/- mice. These
+mice were fertile but had deficient mammary development such that pups
+were unable to suckle and died within 24 hrs unless cross-fostered with
+a wildtype foster mother. Nipple enlargement during pregnancy was slight
+and histologic analysis demonstrated an appearance of the virgin state,
+though mammary ducts were grossly dilated and milk was produced.
+Heterozygous mice lactated normally. Zhao et al. (1999) also noted that
+the intrapubic ligament failed to relax during pregnancy in Rln -/-
+mice.
+
+By treating mice with 7BP, the soluble 60-kD extracellular domain of
+LGR7, from days 17 to 20 after conception, Hsu et al. (2002) blocked
+parturition for more than a day and caused underdevelopment of nipples,
+as seen in relaxin null mice. They suggested that analogs of relaxin
+agonists and antagonists could be useful for the treatment of disorders
+of labor onset and other conditions affecting organs expressing relaxin
+receptors.
+
+REFERENCE 1. Crawford, R. J.; Hudson, P.; Shine, J.; Niall, H. D.; Eddy, R.
+L.; Shows, T. B.: Two human relaxin genes are on chromosome 9. EMBO
+J. 3: 2341-2345, 1984.
+
+2. Hsu, S. Y.; Nakabayashi, K.; Nishi, S.; Kumagai, J.; Kudo, M.;
+Sherwood, O. D.; Hsueh, A. J. W.: Activation of orphan receptors
+by the hormone relaxin. Science 295: 671-674, 2002.
+
+3. Hudson, P.; Haley, J.; Cronk, M.; Shine, J.; Niall, H.: Molecular
+cloning and characterization of cDNA sequences coding for rat relaxin. Nature 291:
+127-131, 1981.
+
+4. Hudson, P.; Haley, J.; John, M.; Cronk, M.; Crawford, R.; Haralambidis,
+J.; Tregear, G.; Shine, J.; Niall, H.: Structure of a genomic clone
+encoding biologically active human relaxin. Nature 301: 628-831,
+1983.
+
+5. Hudson, P.; John, M.; Crawford, R.; Haralambidis, J.; Scanlon,
+D.; Gorman, J.; Tregear, G.; Shine, J.; Niall, H.: Relaxin gene expression
+in human ovaries and the predicted structure of a human preprorelaxin
+by analysis of cDNA clones. EMBO J. 3: 2333-2339, 1984.
+
+6. Naggert, J. K.; Mu, J.-L.: The mouse very low density lipoprotein
+receptor (Vldlr) gene maps to chromosome 19. Mammalian Genome 5:
+453-455, 1994.
+
+7. Schwabe, C.; Bullesbach, E. E.: Relaxin: structures, functions,
+promises, and nonevolution. FASEB J. 8: 1152-1160, 1994.
+
+8. Zhao, L.; Roche, P. J.; Gunnerson, J. M.; Hammond, V. E.; Tregear,
+G. W.; Wintour, E. M.; Beck, F.: Mice without a functional relaxin
+gene are unable to deliver milk to their pups. Endocrinology 140:
+445-453, 1999.
+
+CONTRIBUTORS Paul J. Converse - updated: 1/31/2002
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED mgross: 01/31/2002
+mgross: 1/31/2002
+alopez: 3/8/2001
+terry: 11/6/1995
+mimadm: 3/25/1995
+supermim: 3/16/1992
+carol: 3/5/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+
+609381	TITLE *609381 SYNTAXIN-BINDING PROTEIN 5-LIKE; STXBP5L
+;;LETHAL GIANT LARVAE, DROSOPHILA, HOMOLOG OF, 4; LLGL4
+DESCRIPTION 
+CLONING
+
+The Drosophila gene Lethal giant larvae (Lgl) regulates epithelial
+polarity, and when mutated leads to tumor formation. Using homology
+searches with the human Lgl homolog LLGL1 (600966) as query, Katoh and
+Katoh (2004) identified the cDNA KIAA1006, which contained a homologous
+open reading frame that the authors named LLGL4. The LLGL4 gene encodes
+a protein of 1,186 amino acids that shares 95.8% and 68.4% amino acid
+identity with mouse Llgl4 and human LLGL3, respectively. Based on the
+sources of ESTs derived from the human LLGL4 gene, Katoh and Katoh
+(2004) determined that LLGL4 mRNA is expressed in hippocampus, kidney,
+lung carcinoid, and germ cell tumors. Sequence comparisons of LGL family
+members identified 3 conserved domains. In addition to these domains,
+LLGL4 contains 5 WD40 repeats and a C-terminal syntaxin-binding (STXB)
+domain.
+
+GENE STRUCTURE
+
+Using cDNA and genomic sequence alignment, Katoh and Katoh (2004) showed
+that the LGL4 gene contains 28 exons.
+
+MAPPING
+
+Using BLAST analysis, Katoh and Katoh (2004) showed that the STXBP5L
+gene maps to 3q13.33.
+
+REFERENCE 1. Katoh, M.; Katoh, M.: Identification and characterization of human
+LLGL4 gene and mouse Llgl4 gene in silico. Int. J. Oncol. 24: 737-742,
+2004.
+
+CREATED Laura L. Baxter: 5/23/2005
+
+EDITED alopez: 05/23/2005
+
+607581	TITLE *607581 SOLUTE CARRIER FAMILY 22 (ORGANIC ANION TRANSPORTER), MEMBER 8; SLC22A8
+;;ORGANIC ANION TRANSPORTER 3; OAT3
+DESCRIPTION 
+CLONING
+
+Using homology with rat Oat1 (SLC22A6; 607582), Race et al. (1999)
+identified ESTs for SLC22A8, which they designated OAT3. They obtained
+the full-length clone from a kidney cDNA library. The deduced 568-amino
+acid protein has a calculated molecular mass of 62.1 kD. SLC22A8
+contains 12 transmembrane-spanning domains that are separated by 5
+intracellular loops and 6 extracellular loops, and the N and C termini
+are intracellular. It also has 3 motifs conserved in the amphiphilic
+solute facilitator family of proteins. SLC22A8 shares 42 to 43% amino
+acid similarity with human, mouse, and rat OAT1 and 25% similarity with
+the organic cation transporters OCT1 (SLC22A1; 602607) and OCT2
+(SLC22A2; 602608). Northern blot analysis revealed strong expression of
+a 3.0-kb transcript in kidney, with weaker expression in brain.
+
+By screening liver and kidney cDNA libraries for homology with rat Oat1,
+Sun et al. (2001) cloned what they considered to be a splice variant of
+the OAT3 sequence reported by Race et al. (1999). The deduced protein
+contains 542 amino acids. Northern blot analysis detected expression of
+a major 2.6-kb OAT3 transcript and a minor 4.5-kb OAT3 transcript only
+in kidney.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the SLC22A8
+gene to chromosome 11 (TMAP WI-14966).
+
+REFERENCE 1. Race, J. E.; Grassl, S. M.; Williams, W. J.; Holtzman, E. J.:
+Molecular cloning and characterization of two novel human renal organic
+anion transporters (hOAT1 and hOAT3). Biochem. Biophys. Res. Commun. 255:
+508-514, 1999.
+
+2. Sun, W.; Wu, R. R.; van Poelje, P. D.; Erion, M. D.: Isolation
+of a family of organic anion transporters from human liver and kidney. Biochem.
+Biophys. Res. Commun. 283: 417-422, 2001.
+
+CREATED Patricia A. Hartz: 2/25/2003
+
+EDITED mgross: 02/25/2003
+mgross: 2/25/2003
+
+600617	TITLE *600617 STEROIDOGENIC ACUTE REGULATORY PROTEIN; STAR
+;;START DOMAIN-CONTAINING PROTEIN 1; STARD1
+DESCRIPTION 
+DESCRIPTION
+
+STAR appears to mediate the rapid increase in pregnenolone synthesis
+stimulated by tropic hormones (Sugawara et al., 1995).
+
+CLONING
+
+Clark et al. (1994) had previously identified a 37-kD precursor protein
+and several forms of a 30-kD mature protein that were synthesized in
+response to luteinizing hormone (LH; see 152780) and that were localized
+to mitochondria in the MA10 mouse Leydig tumor cell line. They cloned a
+full-length cDNA encoding the precursor protein, which they called Star,
+from mouse MA10 cells. The deduced protein contains 284 amino acids,
+including a mitochondrial targeting sequence, and has a calculated
+molecular mass of 31.6 kD. In vitro transcription/translation confirmed
+that Star encodes the 37-kD precursor protein and all forms of the
+mature 30-kD protein previously observed in MA10 cells.
+
+Sugawara et al. (1995) isolated cDNAs encoding STAR from a human adrenal
+cortex library. A major STAR transcript of 1.6 kb and less abundant
+transcripts of 4.4 and 7.5 kb were detected in ovary and testis. Kidney
+had a lower amount of the 1.6-kb message. STAR mRNA was not detected in
+other tissues, including placenta. Sugawara et al. (1995) concluded that
+STAR expression is restricted to tissues that carry out mitochondrial
+sterol oxidations subject to acute regulation by cAMP and that STAR mRNA
+levels are regulated by cAMP.
+
+MAPPING
+
+Using somatic cell hybrid mapping panels, Sugawara et al. (1995) mapped
+the STAR gene to chromosome 8p. Fluorescence in situ hybridization
+placed the STAR gene in the 8p11.2 region. A pseudogene was mapped to
+chromosome 13.
+
+GENE FUNCTION
+
+Clark et al. (1994) found that expression of mouse Star in MA10 cells in
+the absence of hormone stimulation was sufficient to induce steroid
+production. They concluded that Star is required for hormone-induced
+steroidogenesis.
+
+Sugawara et al. (1995) found that coexpression of human STAR in COS-1
+cells with cytochrome P450scc (118485) and adrenodoxin (103260)
+increased pregnenolone synthesis more than 4-fold.
+
+MOLECULAR GENETICS
+
+In 3 unrelated patients with lipoid congenital adrenal hyerplasia, Lin
+et al. (1995) demonstrated homozygous mutations in the STAR gene
+(600617.0002; 600617.0014).
+
+Tee et al. (1995) described an unusual intronic mutation (600617.0001)
+that resulted in an mRNA splicing error in a patient with lipoid CAH. At
+the time of report, all patients studied had mutations in STAR,
+suggesting that such mutations are the sole cause of lipoid CAH.
+
+From a study of 15 patients with congenital lipoid adrenal hyperplasia
+from 10 countries, Bose et al. (1996) concluded that the primary defect
+in this disorder resides in STAR. However, the congenital lipoid adrenal
+hyperplasia phenotype is the result of 2 separate events. The genetic
+loss of steroidogenesis resulting from mutation in the STAR gene is the
+primary defect; there is a subsequent loss of steroidogenesis that is
+independent of STAR due to cellular damage from accumulated cholesterol
+esters in the adrenal cortex, leading to salt wasting, hyponatremia,
+hypovolemia, hyperkalemia, acidosis, and death in infancy, although
+patients can survive to adulthood with appropriate mineralocorticoid-
+and glucocorticoid-replacement therapy. Bose et al. (1996) identified 15
+different mutations in the STAR gene among 14 patients. The
+gln258-to-ter mutation (600617.0002) was found in 80% of affected
+alleles from Japanese and Korean patients, while the mutation arg182leu
+(600617.0003) was found in 78% of affected alleles from Palestinian
+patients.
+
+Nakae et al. (1997) did a genomic mutation screen of the STAR gene in 19
+Japanese patients with lipoid CAH from 16 different families. Ten
+patients had a 46,XX karyotype and 9 had a 46,XY karyotype. Six of the
+46,XX patients experienced spontaneous pubertal changes, including
+breast development and irregular menstruation, whereas none of the 46,XY
+subjects displayed pubertal changes. Eight different mutations were
+identified. Sixteen patients were either homozygotes or compound
+heterozygotes for the gln258-to-ter (Q258X) mutation (600617.0002). The
+7 other mutations identified were 189delG, 246insG, 564del13bp, 838delA,
+gln212-to-ter (Q212X), ala218-to-val (A218V; 600617.0008), and
+met225-to-thr (M225T). COS-1 cells transfected with expression vectors
+encoding cDNAs for the mutant STAR proteins that affected the C terminus
+(838delA, A218V, and Q258X) exhibited no steroidogenesis-enhancing
+activity. However, the M225T mutant retained some steroidogenic
+activity. The patient with the M225T mutation had late onset of the
+disorder and some capacity to secrete testosterone in response to
+chorionic gonadotropin. Nakae et al. (1997) suggested that the Q258X
+mutation can be used as a genetic marker for the screening of Japanese
+for lipoid CAH since it occurred in 16 of 19 patients; that the C
+terminus of STAR plays an important role in the protein's activity; and
+that there are differences in the extent of functional impairment of the
+testis and ovaries in lipoid CAH, with more severe effects in the male.
+
+Lipoid CAH is common among the Japanese, Korean, and Palestinian Arab
+populations, but is rare elsewhere. Bose et al. (2000) described 6
+patients with lipoid CAH: 4 Japanese, 1 Palestinian, and 1 Guatemalan
+Native American. All had classical clinical presentations of normal
+female external genitalia in both genetic sexes, with severe
+glucocorticoid and mineralocorticoid deficiency presenting in the first
+month of life. Quite atypically, one patient had small adrenal glands
+shown by computed tomographic scanning. The STAR genes were
+characterized in all 6 patients. Three of the Japanese patients were
+compound heterozygotes for the common Japanese mutation gln258 to ter
+(600617.0002) in association with 3 different novel frameshift
+mutations; the fourth Japanese patient was homozygous for the mutation
+arg182 to leu (600617.0003), which is common among Palestinian patients
+but had not been described previously in a Japanese patient. The
+Palestinian and Native American patients were each homozygous for novel
+frameshift mutations. Thus, the authors found 5 new frameshift
+mutations, but no new missense mutations. The authors concluded that
+this was consistent with the view that only a small number of residues
+in the STAR protein are crucial for biologic activity. They also
+inferred that the tomographic finding of small adrenals in a patient
+with genetically proven lipoid CAH due to a STAR mutation suggested a
+substantially broader spectrum of clinical findings in this disease than
+had been appreciated previously.
+
+Calvo et al. (2001) used heteroduplex analysis to screen the genes
+encoding STAR, SF1 (184757), DAX1 (300473), and CYP11A (118485) for
+mutations in genomic DNA from 19 women presenting with hirsutism and
+increased serum androgen levels. They identified a basepair change in
+the STAR gene. Three of 48 patients and 3 of 43 controls presented this
+variant. No mutations were found in coding regions of the STAR gene. The
+authors concluded that mutations in STAR, SF1, CYP11A, and DAX1 are
+seldom found in hirsute patients and do not explain the steroidogenic
+abnormalities found in these women.
+
+Gonzalez et al. (2004) reported a 2-month-old female patient, karyotype
+46,XY, who presented with growth failure, convulsions, dehydration,
+hypoglycemia, hyponatremia, hypotension, and severe hyperpigmentation
+suggestive of adrenal insufficiency. Serum cortisol,
+17-hydroxyprogesterone, dehydroepiandrosterone sulfate, testosterone,
+17-hydroxypregnenolone, and aldosterone levels were undetectable in the
+presence of high ACTH and plasma renin activity levels.
+Immunohistochemical analysis of testis tissues revealed the absence of
+STAR protein. Molecular analysis of the STAR gene demonstrated a
+homozygous G-to-T mutation within the splice donor site of exon 1
+(600617.0009).
+
+Baker et al. (2006) studied the gene encoding STAR in 3 children from 2
+families who presented with primary adrenal insufficiency at 2 to 4
+years of age; the males had normal genital development. DNA sequencing
+identified homozygous STAR mutations val187 to met (600617.0011) and
+arg188 to cys (600617.0012) in these 2 families. Functional studies of
+STAR activity in cells and in vitro and cholesterol-binding assays
+showed these mutants retained approximately 20% of wildtype activity.
+The authors referred to these patients as cases of nonclassic lipoid
+congenital adrenal hyperplasia, and stated that they represented a new
+cause of nonautoimmune Addison disease (primary adrenal failure).
+
+ANIMAL MODEL
+
+Caron et al. (1997) used targeted gene disruption to produce STAR
+knockout mice. Initially, the knockout mice were indistinguishable from
+wildtype littermates, except that males and females had female external
+genitalia. After birth, they failed to grow normally and died from
+adrenocortical insufficiency. Hormone assays confirmed severe defects in
+adrenal steroids--with loss of negative feedback regulation at
+hypothalamic-pituitary levels--whereas hormones constituting the gonadal
+axis did not differ significantly from levels in wildtype littermates.
+Histologically, the adrenal cortex of STAR knockout mice contained
+florid lipid deposits, with lesser deposits in the steroidogenic
+compartment of the testis and none in the ovary. The sex-specific
+differences in gonadal involvement supported a 2-stage model of the
+pathogenesis of STAR deficiency, with trophic hormone stimulation
+inducing progressive accumulation of lipids within the steroidogenic
+cells and ultimately causing their death.
+
+ALLELIC VARIANT .0001
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, IVS4AS, T-A, -11
+
+Tee et al. (1995) described a splice acceptor site mutation in a 46,XY
+patient of Vietnamese ancestry with lipoid CAH (201710) of somewhat
+milder form than the usual. Diagnosis was at 10 weeks of age. Testicular
+RNA for STAR demonstrated a 185-bp deletion corresponding to all of exon
+5. The mRNA did not encode active protein in transfected cells. Genomic
+DNA revealed only a T-to-A transversion in intron 4, 11 bp from the
+splice acceptor site of exon 5. This transversion destroyed an NcoI
+restriction site; digestion of PCR-amplified genomic DNA from the
+patient and both parents confirmed that the patient was homozygous and
+the parents were heterozygous. RNase protection assays showed that
+expression of a vector with normal intron 4 yielded correctly spliced
+STAR mRNA in transfected COS-1 cells, while most, but not all, STAR mRNA
+from a vector with the T-to-A transversion in intron 4 was abnormally
+spliced. The same was true for the patient's testicular RNA. The authors
+noted that the low level of normal STAR mRNA produced in this patient
+may account for the later clinical presentation and the low but not
+absent levels of steroid hormones detected in the patient. They also
+noted that splicing errors as remote as this from the splice junction
+site are easily missed but, despite that fact, are probably unusual.
+Another notable example is the A-to-G mutation 13 bp from the junction
+between intron 2 and exon 3 of the human gene for steroid
+21-hydroxylase, which is the most common single cause of virilizing
+congenital adrenal hyperplasia (201910.0006).
+
+.0002
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, GLN258TER
+
+In 2 unrelated patients with lipoid congenital adrenal hyperplasia
+(201710), Lin et al. (1995) identified a homozygous C-to-T transition in
+the STAR gene, resulting in a gln258-to-ter (Q258X) substitution. One
+patient was Korean and the other was Japanese.
+
+Bose et al. (1996) found that 8 of 10 affected STAR alleles in patients
+with lipoid congenital adrenal hyperplasia from Japan and Korea (where
+congenital lipoid adrenal hyperplasia is not as rare as it is in U.S.)
+had the gln258-to-ter mutation, suggesting a founder effect. The
+responsible C-to-T mutation destroyed the recognition site for 3
+restriction enzymes. Bose et al. (1996) estimated that the carrier rate
+for this mutation in Japan is about 1 in 200.
+
+Bose et al. (2000) described 6 patients with lipoid CAH: 4 Japanese, 1
+Palestinian, and 1 Guatemalan Native American. All had classical
+clinical presentations of normal female external genitalia in both
+genetic sexes, with severe glucocorticoid and mineralocorticoid
+deficiency presenting in the first month of life. Three of the Japanese
+patients were compound heterozygotes for the common Japanese mutation
+Q258X in association with 3 different novel frameshift mutations.
+
+.0003
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG182LEU
+
+Six of 15 patients with lipoid congenital adrenal hyperplasia (201710)
+studied by Bose et al. (1996) were of Palestinian ancestry. Two were
+sibs and another patient was from a consanguineous marriage. Thus, 6
+patients represented 9 unique alleles, 7 of which had the arg182-to-leu
+mutation. These apparently unrelated patients were from Jordan, Israel,
+Kuwait, and Denmark. Identification of intronic polymorphisms and other
+mutations within the STAR gene showed that the arg182-to-leu mutation
+was found in various sequence contexts, confirming that the patients
+were unrelated.
+
+Bose et al. (2000) described 6 patients with lipoid CAH: 4 Japanese, 1
+Palestinian, and 1 Guatemalan Native American. All had classical
+clinical presentations of normal female external genitalia in both
+genetic sexes, with severe glucocorticoid and mineralocorticoid
+deficiency presenting in the first month of life. One Japanese patient
+was homozygous for the R182L mutation, which is common among Palestinian
+patients but had not been described previously in a Japanese patient.
+
+.0004
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, 1-BP DEL, 261T
+
+Bose et al. (1997) reported a 15.5-year-old 46,XX female with a classic
+history of lipoid congenital adrenal hyperplasia (CAH; 201710) who
+underwent spontaneous feminization and developed cyclical vaginal
+bleeding at age 13. Genetic analysis of the patient and her parents
+showed that she was homozygous for a novel STAR gene (261delT)
+frameshift mutation. Finding an inactive STAR gene in this patient
+confirmed their 2-hit model of the pathogenesis of lipoid CAH, in which
+loss of STAR activity initially preserves STAR-independent
+steroidogenesis, which is lost only after cells undergo chronic tropic
+stimulation and subsequent damage from accumulation of cholesterol
+esters.
+
+.0005
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, IVS2, 1-BP INS, T, +3
+
+Okuyama et al. (1997) sequenced the cytochrome P450scc (118485) and STAR
+genes in a patient from a Korean family with a mild form of lipoid CAH
+(201710). The only mutation found in the 2 genes was a thymine (T)
+insertion into intron 2 of the STAR gene, 3 bp from the splice donor
+site of exon 2. Northern and reverse transcriptase-PCR analyses showed
+that mRNA transcribed from the mutant STAR gene construct retained
+intron 2, while that from the normal STAR gene construct spliced exons 2
+and 3 correctly. The authors concluded that the T insertion into the
+STAR gene accounts for the lipoid CAH phenotype in this patient.
+
+.0006
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, TRP250TER
+
+Korsch et al. (1999) described a 15-year-old 46,XY phenotypic female
+with lack of pubertal development (lipoid CAH; 201710). ACTH and
+gonadotropin concentrations were elevated. Aldosterone, cortisol and its
+precursors, and sex steroids before and after stimulation were below the
+lower limit of detection. Homozygosity for a nonsense mutation (TGG to
+TAG) encoding a trp250-to-ter substitution was identified in exon 7 of
+the STAR gene. Histologic examination after gonadectomy showed
+seminiferous tubules containing immature Sertoli cells and a few single
+germ cells with positive placental-like alkaline phosphatase
+immunoreactivity, indicating carcinoma in situ.
+
+.0007
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG217THR
+
+Katsumata et al. (1999) reported a Japanese patient with lipoid
+congenital adrenal hyperplasia (201710) who was a compound heterozygote
+for mutations in the STAR gene. In one allele, they identified a G-to-C
+transversion in codon 217, involving the last base of exon 5, which
+resulted in an arg217-to-thr substitution. This mutation also was
+predicted to alter the splice donor site sequence. The other allele, a
+C-to-T transition in codon 218, was predicted to encode an ala218-to-val
+substitution (600617.0008), which abolishes STAR activity. In vitro
+expression analysis of a construct harboring the arg217-to-thr mutation
+disrupted normal splicing, resulting in the complete skipping of exon 5,
+which alters the translation reading frame of exon 6, introduces a stop
+codon at amino acid position 174, and thus impairs activity. A
+functional expression study of the arg217-to-thr mutation revealed that
+it has no steroidogenesis-enhancing activity if its transcripts are ever
+spliced normally and translated into protein.
+
+.0008
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG218VAL
+
+See 600617.0007 and Katsumata et al. (1999).
+
+.0009
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, IVS1, G-T, +1
+
+In a 2-month-old Chilean female, karyotype 46,XY, with lipoid congenital
+adrenal hyperplasia (201710), Gonzalez et al. (2004) found a homozygous
+G-to-T mutation within the splice donor site of exon 1 of the STAR gene
+(IVS1+1G-T). RT-PCR analyses of the mutant gene showed an abnormal mRNA
+transcript of 2430 bp (normal size 433 bp). Sequence analysis of the
+mutant mRNA demonstrated the retention of intron 1. The authors
+concluded that this mutation gives rise to a truncated STAR protein,
+which lacks an important N-terminal region and the entire lipid transfer
+domain.
+
+.0010
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG182HIS
+
+Among 8 patients with congenital lipoid adrenal hyperplasia (201710)
+from 6 apparently unrelated Saudi Arabian families, Chen et al. (2005)
+reported that 7 were homozygous for an arg182-to-his (R182H) mutation in
+the steroidogenic acute regulatory protein (STAR). Onset of symptoms
+ranged from 1 month to 14 months. The R182H mutation was recreated in a
+human STAR cDNA expression vector and found to be wholly inactive in a
+standard assay of COS-1 cells cotransfected with the cholesterol
+side-chain cleavage enzyme system. Thus, the loss of all assayable
+activity in vitro correlated poorly with the later onset of clinical
+symptoms in these patients. Chen et al. (2005) concluded that lipoid CAH
+may present much later in life than previously thought.
+
+Achermann et al. (2001) described this mutation in a patient from Qatar
+with onset of clinical symptoms and laboratory evidence of salt loss
+noted at 3 weeks of age.
+
+.0011
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, VAL187MET
+
+In a Pakistani 46,XX phenotypic female with lipoid congenital adrenal
+hyperplasia (201710), Baker et al. (2006) detected homozygosity for a
+G-to-A transition in the STAR gene that resulted in a val-to-met
+substitution at codon 187 of the steroidogenic acute regulatory protein
+(V187M). The patient presented with fever and vomiting at 2 years of age
+and was hypoglycemic during a viral illness at 4 years of age.
+Progressive hyperpigmentation prompted a referral at 4.5 years, at which
+time basal cortisol was undetectable.
+
+.0012
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG188CYS
+
+In 2 Pakistani brothers with lipoid congenital adrenal hyperplasia
+(201710), Baker et al. (2006) found homozygosity for a C-to-T transition
+in the STAR gene that resulted in a substitution of cys for arg at codon
+188 of the steroidogenic acute regulatory protein (R188C). The karyotype
+of both brothers was 46,XY, and genital development was normal. The
+older brother presented with hyperpigmentation at 1.5 years; at 2.2
+years low basal cortisol and other signs of compensated primary adrenal
+failure were detected.
+
+.0013
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, 2-BP DEL, 201CT
+
+Abdulhadi-Atwan et al. (2007) studied 8 Palestinians from 4 unrelated
+families with congenital lipoid adrenal hyperplasia (210710). All
+affected individuals (3 XY, 5 XX) presented neonatally with undetectable
+adrenocortical hormones and are responding to replacement therapy. Only
+2 sisters, originally reported by Bhangoo et al. (2005), had
+neurodevelopmental deficits. Histopathologic findings of excised XY
+gonads included accumulation of fat in Leydig cells. As early as 1 year
+of age, positive placental alkaline phosphatase and octamer binding
+transcription factor staining indicated neoplastic potential. Sequence
+analysis of STAR revealed homozygosity for a 2-bp deletion
+(201_202delCT) in all 8 cases, causing premature termination at amino
+acid 68 of the STAR protein. All of the parents were carriers of the
+mutation, which was confirmed to be a founder mutation. The mutation was
+not found in 100 normal Jerusalem Palestinians. Abdulhadi-Atwan et al.
+(2007) noted that Bhangoo et al. (2005) had reported this mutation in
+the 2 sisters as 327_328delCT based on a different numbering system.
+
+.0014
+LIPOID CONGENITAL ADRENAL HYPERPLASIA
+STAR, ARG193TER
+
+In a Caucasian patient with lipoid congenital adrenal hyperplasia
+(201710), Lin et al. (1995) identified a homozygous C-to-T transition in
+the STAR gene, resulting in an arg193-to-ter (R193X) substitution. Both
+parents were carriers of the mutation.
+
+REFERENCE 1. Abdulhadi-Atwan, M.; Jean, A.; Chung, W. K.; Meir, K.; Neriah,
+Z. B.; Stratigopoulos, G.; Oberfield, S. E.; Fennoy, I.; Hirsch, H.
+J.; Bhangoo, A.; Ten, S.; Lerer, I.; Zangen, D. H.: Role of a founder
+c.201-202delCT mutation and new phenotypic features of congenital
+lipoid adrenal hyperplasia in Palestinians. J. Clin. Endocr. Metab. 92:
+4000-4008, 2007.
+
+2. Achermann, J. C.; Meeks, J. J.; Jeffs, B.; Das, U.; Clayton, P.
+E.; Brook, C. G.; Jameson, J. L.: Molecular and structural analysis
+of two novel StAR mutations in patients with lipoid congenital adrenal
+hyperplasia. Molec. Genet. Metab. 73: 354-357, 2001.
+
+3. Baker, B. Y.; Lin, L.; Kim, C. J.; Raza, J.; Smith, C. P.; Miller,
+W. L.; Achermann, J. C.: Nonclassic congenital lipoid adrenal hyperplasia:
+a new disorder of the steroidogenic acute regulatory protein with
+very late presentation and normal male genitalia. J. Clin. Endocr.
+Metab. 91: 4781-4785, 2006.
+
+4. Bhangoo, A.; Gu, W.-X.; Pavlakis, S.; Anhalt, H.; Heier, L.; Ten,
+S.; Jameson, J. L.: Phenotypic features associated with mutations
+in steroidogenic acute regulatory protein. J. Clin. Endocr. Metab. 90:
+6303-6309, 2005.
+
+5. Bose, H. S.; Pescovitz, O. H.; Miller, W. L.: Spontaneous feminization
+in a 46,XX female patient with congenital lipoid adrenal hyperplasia
+due to a homozygous frameshift mutation in the steroidogenic acute
+regulatory protein. J. Clin. Endocr. Metab. 82: 1511-1515, 1997.
+
+6. Bose, H. S.; Sato, S.; Aisenberg, J.; Shalev, S. A.; Matsuo, N.;
+Miller, W. L.: Mutations in the steroidogenic acute regulatory protein
+(StAR) in six patients with congenital lipoid adrenal hyperplasia. J.
+Clin. Endocr. Metab. 85: 3636-3639, 2000.
+
+7. Bose, H. S.; Sugawara, T.; Strauss, J. F., III; Miller, W. L.:
+The pathophysiology and genetics of congenital lipoid adrenal hyperplasia. New
+Eng. J. Med. 335: 1870-1878, 1996.
+
+8. Calvo, R. M.; Asuncion, M.; Telleria, D.; Sancho, J.; Millan, J.
+L. S.; Escobar-Morreale, H. F.: Screening for mutations in the steroidogenic
+acute regulatory protein and steroidogenic factor-1 genes, and in
+CYP11A and dosage-sensitive sex reversal-adrenal hypoplasia gene on
+the X chromosome, gene-1 (DAX-1), in hyperandrogenic hirsute women. J.
+Clin. Endocr. Metab. 86: 1746-1749, 2001.
+
+9. Caron, K. M.; Soo, S.-C.; Wetsel, W. C.; Stocco, D. M.; Clark,
+B. J.; Parker, K. L.: Targeted disruption of the mouse gene encoding
+steroidogenic acute regulatory protein provides insights into congenital
+lipoid adrenal hyperplasia. Proc. Nat. Acad. Sci. 94: 11540-11545,
+1997.
+
+10. Chen, X.; Baker, B. Y.; Abduljabbar, M. A.; Miller, W. L.: A
+genetic isolate of congenital lipoid adrenal hyperplasia with atypical
+clinical findings. J. Clin. Endocr. Metab. 90: 835-840, 2005.
+
+11. Clark, B. J.; Wells, J.; King, S. R.; Stocco, D. M.: The purification,
+cloning, and expression of a novel luteinizing hormone-induced mitochondrial
+protein in MA-10 mouse Leydig tumor cells: characterization of the
+steroidogenic acute regulatory protein (StAR). J. Biol. Chem. 269:
+28314-28322, 1994.
+
+12. Gonzalez, A. A.; Reyes, M. L.; Carvajal, C. A.; Tobar, J. A.;
+Mosso, L. M.; Baquedano, P.; Solar, A.; Venegas, A.; Fardella, C.
+E.: Congenital lipoid adrenal hyperplasia caused by a novel splicing
+mutation in the gene for the steroidogenic acute regulatory protein. J.
+Clin. Endocr. Metab. 89: 946-951, 2004.
+
+13. Katsumata, N.; Kawada, Y.; Yamamoto, Y.; Noda, M.; Nimura, A.;
+Horikawa, R.; Tanaka, T.: A novel compound heterozygous mutation
+in the steroidogenic acute regulatory protein gene in a patient with
+congenital lipoid adrenal hyperplasia. J. Clin. Endocr. Metab. 84:
+3983-3987, 1999.
+
+14. Korsch, E.; Peter, M.; Hiort, O.; Sippell, W. G.; Ure, B. M.;
+Hauffa, B. P.; Bergmann, M.: Gonadal histology with testicular carcinoma
+in situ in a 15-year-old 46,XY female patient with a premature termination
+in the steroidogenic acute regulatory protein causing congenital lipoid
+adrenal hyperplasia. J. Clin. Endocr. Metab. 84: 1628-1632, 1999.
+
+15. Lin, D.; Sugawara, T.; Strauss, J. F., III; Clark, B. J.; Stocco,
+D. M.; Saenger, P.; Rogol, A.; Miller, W. L.: Role of steroidogenic
+acute regulatory protein in adrenal and gonadal steroidogenesis. Science 267:
+1828-1831, 1995.
+
+16. Nakae, J.; Tajima, T.; Sugawara, T.; Arakane, F.; Hanaki, K.;
+Hotsubo, T.; Igarashi, N.; Igarashi, Y.; Ishii, T.; Koda, N.; Kondo,
+T.; Kohno, H.; Nakagawa, Y.; Tachibana, K.; Takeshima, Y.; Tsubouchi,
+K.; Strauss, J. F., III; Fujieda, K.: Analysis of the steroidogenic
+acute regulatory protein (StAR) gene in Japanese patients with congenital
+lipoid adrenal hyperplasia. Hum. Molec. Genet. 6: 571-576, 1997.
+
+17. Okuyama, E.; Nishi, N.; Onishi, S.; Itoh, S.; Ishii, Y.; Miyanaka,
+H.; Fujita, K.; Ichikawa, Y.: A novel splicing junction mutation
+in the gene for the steroidogenic acute regulatory protein causes
+congenital lipoid adrenal hyperplasia. J. Clin. Endocr. Metab. 82:
+2337-2342, 1997.
+
+18. Sugawara, T.; Holt, J. A.; Driscoll, D.; Strauss, J. F., III;
+Lin, D.; Miller, W. L.; Patterson, D.; Clancy, K. P.; Hart, I. M.;
+Clark, B. J.; Stocco, D. M.: Human steroidogenic acute regulatory
+protein: functional activity in COS-1 cells, tissue-specific expression,
+and mapping of the structural gene to 8p11.2 and a pseudogene to chromosome
+13. Proc. Nat. Acad. Sci. 92: 4778-4782, 1995.
+
+19. Tee, M.-K.; Lin, D.; Sugawara, T.; Holt, J. A.; Guiguen, Y.; Buckingham,
+B.; Strauss, J. F., III; Miller, W. L.: T-to-A transversion 11 bp
+from a splice acceptor site in the human gene for steroidogenic acute
+regulatory protein causes congenital lipoid adrenal hyperplasia. Hum.
+Molec. Genet. 4: 2299-2305, 1995.
+
+CONTRIBUTORS Matthew B. Gross - updated: 7/20/2011
+John A. Phillips, III - updated: 5/20/2008
+John A. Phillips, III - updated: 11/9/2007
+John A. Phillips, III - updated: 8/22/2006
+John A. Phillips, III - updated: 4/11/2005
+John A. Phillips, III - updated: 7/13/2001
+John A. Phillips, III - updated: 3/26/2001
+John A. Phillips, III - updated: 10/2/2000
+John A. Phillips, III - updated: 3/20/2000
+Victor A. McKusick - updated: 11/6/1997
+John A. Phillips, III - updated: 10/30/1997
+John A. Phillips, III - updated: 5/29/1997
+Victor A. McKusick - updated: 4/24/1997
+
+CREATED Victor A. McKusick: 6/19/1995
+
+EDITED carol: 07/24/2012
+carol: 7/24/2012
+mgross: 7/20/2011
+carol: 5/20/2008
+alopez: 11/9/2007
+carol: 5/31/2007
+alopez: 8/22/2006
+alopez: 4/11/2005
+carol: 2/23/2004
+mgross: 6/25/2002
+cwells: 6/25/2002
+cwells: 7/13/2001
+alopez: 3/26/2001
+mgross: 10/13/2000
+terry: 10/2/2000
+mgross: 3/31/2000
+terry: 3/20/2000
+terry: 8/11/1998
+terry: 6/18/1998
+terry: 11/6/1997
+dholmes: 10/30/1997
+dholmes: 10/24/1997
+jenny: 6/20/1997
+jamie: 5/29/1997
+jenny: 5/29/1997
+alopez: 4/30/1997
+alopez: 4/24/1997
+terry: 4/23/1997
+mark: 1/6/1997
+terry: 1/3/1997
+mark: 1/16/1996
+mark: 1/10/1996
+terry: 1/5/1996
+mark: 6/19/1995
+
+612697	TITLE *612697 VAULT RNA 1-3; VTRNA1-3
+;;HVG3;;
+VAULT RNA COMPONENT 3; VAULTRC3
+DESCRIPTION 
+CLONING
+
+Vaults are large cytoplasmic ribonucleoproteins composed largely of MVP
+(605088) and a nontranslated vault RNA component. By PCR of a human
+genomic DNA library, Kickhoefer et al. (1998) cloned 3 vault RNA genes,
+HVG1 (VTRNA1-1; 612695), HVG2 (VTRNA1-2; 612696), and HVG3 (VTRNA1-3).
+Both HVG2 and HVG3 contain 86 bases and have an internal RNA polymerase
+III (see 606007)-type promoter element and a typical polymerase III
+termination signal. They both have an internal 10-base deletion compared
+with HVG1.
+
+Kickhoefer et al. (1999) found that only HVG1 was expressed in all human
+cell lines examined. When expressed, HVG2 and HVG3 were often associated
+with the supernatant fraction rather than microsomal pellets containing
+vaults.
+
+Nandy et al. (2009) described the structure of VTRNA1-3. The
+89-nucleotide RNA forms an extended stem-loop structure with asymmetric
+internal bulges. It contains characteristic internal polymerase III
+A-box and B-box promoter elements and a downstream B2-box motif.
+
+GENE FUNCTION
+
+Kickhoefer et al. (1998) found that HVG1, but not HVG2 or HVG3,
+associated with vaults in human cell lines.
+
+Nandy et al. (2009) found that expression of VTRNA1-1, VTRNA1-2,
+VTRNA1-3, and CBL3 (VTRNA2-1; 614938) was upregulated in cord blood
+lymphocytes infected with Epstein-Barr virus. Upregulation was highest
+for VTRNA1-1 (about 1,100-fold) and lowest for CBL3 (about 3-fold).
+
+GENE STRUCTURE
+
+Kickhoefer et al. (2003) determined that the upstream region of the
+VTRNA1-3 gene contains a TATA-like element, a consensus proximal
+sequence, and a cAMP response element.
+
+MAPPING
+
+Kickhoefer et al. (2003) stated that the VTRNA1-1, VTRNA1-2, and
+VTRNA1-3 genes map to a 16-kb region of chromosome 5.
+
+Nandy et al. (2009) stated that the VTRNA1-3 gene is located near the
+PCDHA gene cluster (604966), which Wu and Maniatis (1999) mapped to
+chromosome 5q31.
+
+REFERENCE 1. Kickhoefer, V. A.; Emre, N.; Stephen, A. G.; Poderycki, M. J.;
+Rome, L. H.: Identification of conserved vault RNA expression elements
+and a non-expressed mouse vault RNA gene. Gene 309: 65-70, 2003.
+
+2. Kickhoefer, V. A.; Rajavel, K. S.; Scheffer, G. L.; Dalton, W.
+S.; Scheper, R. J.; Rome, L. H.: Vaults are up-regulated in multidrug-resistant
+cancer cell lines. J. Biol. Chem. 273: 8971-8974, 1998.
+
+3. Kickhoefer, V. A.; Stephen, A. G.; Harrington, L.; Robinson, M.
+O.; Rome, L. H.: Vaults and telomerase share a common subunit, TEP1. J.
+Biol. Chem. 274: 32712-32717, 1999.
+
+4. Nandy, C.; Mrazek, J.; Stoiber, H.; Grasser, F. A.; Huttenhofer,
+A.; Polacek, N.: Epstein-Barr virus-induced expression of a novel
+human vault RNA. J. Molec. Biol. 388: 776-784, 2009.
+
+5. Wu, Q.; Maniatis, T.: A striking organization of a large family
+of human neural cadherin like cell adhesion genes. Cell 97: 779-790,
+1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/19/2012
+
+CREATED Patricia A. Hartz: 3/25/2009
+
+EDITED mgross: 11/15/2012
+terry: 10/19/2012
+mgross: 3/26/2009
+
+300162	TITLE *300162 ACETYLSEROTONIN METHYLTRANSFERASE-LIKE; ASMTL
+;;ACETYLSEROTONIN METHYLTRANSFERASE-LIKE, X-LINKED; ASMTLX
+DESCRIPTION The human Y chromosome is an extreme case with respect to recombination
+frequencies. Over most of its entire length, the Y chromosome is
+virtually a nonrecombining chromosome. At its distal ends, however,
+within the 2 X-Y homologous pseudoautosomal regions (PAR1 and PAR2),
+recombination frequencies are extremely high. Indeed, PAR1 on Xp/Yp
+exhibits one of the highest recombination rates in male meiosis in the
+human genome. This is due to the fact that males have an obligatory
+crossover within the 2.6-Mb region of PAR1 (Rappold, 1993). The
+preponderance of gene families expressed specifically in the testes has
+been described on the nonrecombining portion of the human Y chromosome
+(Lahn and Page, 1997). This has raised questions about the evolutionary
+forces that led to their creation as well as to the molecular mechanisms
+involved. In contrast, the evolution of genes and gene families in the
+recombining portion of Y is likely to follow very different principles.
+For example, the high frequency of recombination may have rendered this
+region more prone to unequal crossing over, leading to gene duplications
+in the ancestral PAR1 region. Ried et al. (1998) stated that to that
+time 9 genes and 1 pseudogene had been characterized within PAR1. Only 2
+of them, ASMT (300015) and XE7 (312095), had been characterized as
+'single' genes, whereas all the others had close relatives in the genome
+or were duplicated within PAR1. In this connection, Ried et al. (1998)
+isolated a novel pseudoautosomal gene, ASMTL (N-acetylserotonin
+O-methyltransferase-like), showing significant homology to the ASMT
+gene. ASMT is an enzyme catalyzing the last step in the synthesis of
+melatonin, a hormone that depresses body temperature and facilitates
+sleep onset by inducing the circadian rhythm. It is exclusively
+expressed in brain, retina, and pineal gland. Besides the homology of
+ASMTL to ASMT in its 3-prime part, the N-terminal part of ASMTL is
+similar to the entire length of the multicopy associated filamentation
+(maf) protein of Bacillus subtilis and to orfE of Escherichia coli, gene
+products involved in the regulation of cell division and growth. The
+bipartite structure suggested that ASMTL is the product of a gene fusion
+event, during which 2 different full-length genes are joined to form a
+single gene. Ried et al. (1998) also detected the identity of 1 exon
+(1A) of ASMT to exon 3 in yet another pseudoautosomal gene, XE7. The
+data suggested that exon duplication and exon shuffling as well gene
+fusion may represent common characteristics of the evolution of the
+pseudoautosomal region.
+
+Ried et al. (1998) found that ASMTL resides proximal to and in the close
+vicinity of ANT3 (300151). The cosmid used in the initial cDNA selection
+approach contained not only the 3-prime end of ASMTL but also the entire
+ANT3 gene. ANT3 had previously been shown to be associated with a CpG
+island located approximately 1,300 kb from the telomere. Sequencing
+indicated that the 5-prime end of ASMTL is located approximately 1,350
+kb from Xptel. Thus, the homologous genes ASMTL and ASMT (previously
+mapped 1,700-1,800 kb from Xptel) reside within 500 kb in the middle
+portion of PAR1.
+
+REFERENCE 1. Lahn, B. T.; Page, D. C.: Functional coherence of the human Y
+chromosome. Science 278: 675-680, 1997.
+
+2. Rappold, G. A.: The pseudoautosomal regions of the human sex chromosomes. Hum.
+Genet. 92: 315-324, 1993.
+
+3. Ried, K.; Rao, E.; Schiebel, K.; Rappold, G. A.: Gene duplications
+as a recurrent theme in the evolution of the human pseudoautosomal
+region 1: isolation of the gene ASMTL. Hum. Molec. Genet. 7: 1771-1778,
+1998.
+
+CREATED Victor A. McKusick: 11/30/1998
+
+EDITED alopez: 06/21/1999
+carol: 12/2/1998
+
+605890	TITLE *605890 EH DOMAIN-CONTAINING 2; EHD2
+DESCRIPTION 
+CLONING
+
+By screening a human fetal brain cDNA library with exons derived from a
+BAC mapping to the 19q13.3 glioma tumor suppressor candidate region,
+Pohl et al. (2000) identified 3 novel genes, designated EHD2, EHD3
+(605891), and EHD4 (605892), which are homologous to human EHD1
+(605888). The deduced protein identities between EHD1 and EHD2, between
+EHD1 and EHD3, and between EHD1 and EHD4, are 71%, 86%, and 76%,
+respectively. All contain multiple conserved regions, including a
+nucleotide-binding consensus site at the N terminus, a bipartite nuclear
+localization signal, and an EPS15 (600051) homology (EH) protein-binding
+domain with an EF-hand motif at the C terminus. EHD2 encodes a deduced
+543-amino acid protein. Northern blot analysis detected a 3.6-kb EHD2
+transcript that was highly expressed in heart and moderately expressed
+in placenta, lung, and skeletal muscle, as well as an approximately
+6.0-kb transcript that was expressed at low levels in heart and skeletal
+muscle.
+
+Guilherme et al. (2004) cloned mouse Ehd2. Northern blot analysis
+detected highest expression in lung, fat, skeletal muscle, and heart.
+Subcellular fractionation of mouse adipocytes showed Ehd2 associated
+with plasma membrane and microsomal fractions. Endogenous Ehd2 localized
+near the plasma membrane in tubulovesicular ring-shaped structures that
+appeared to be linked to the plasma membrane through actin filaments.
+
+GENE STRUCTURE
+
+Pohl et al. (2000) determined that the EHD2 gene contains 5 exons.
+
+MAPPING
+
+By PCR-amplification of sequences from EHD2 using a BAC as a template,
+Pohl et al. (2000) confirmed that EHD2 maps to 19q13.3.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Daumke et al. (2007) demonstrated that EHD-containing proteins share
+many common features with the dynamin superfamily, such as a low
+affinity for nucleotides, the ability to tubulate liposomes in vitro,
+oligomerization around lipid tubules in ring-like structures, and
+stimulated nucleotide hydrolysis in response to lipid binding. Daumke et
+al. (2007) presented the structure of EHD2, bound to a nonhydrolyzable
+ATP analog, and provided evidence consistent with a role for EHDs in
+nucleotide-dependent membrane remodeling in vivo. The nucleotide-binding
+domain is involved in dimerization, which creates a highly curved
+membrane-binding region in the dimer. Oligomerization of dimers occurs
+on another interface of the nucleotide-binding domain, and this allowed
+Daumke et al. (2007) to model the EHD oligomer.
+
+GENE FUNCTION
+
+Guilherme et al. (2004) found Ehd2 mRNA elevated upon differentiation of
+a mouse preadipocyte cell line. Overexpression of Ehd2 interfered with
+internalization and recycling of the glucose transporter Glut4 (SLC2A4;
+138190) following its insulin-stimulated surface expression. Using
+protein pull-down assays, Guilherme et al. (2004) showed that the NPF
+motifs of human EHBP1 (609922) bound the EH domain of Ehd2.
+Overexpression of the EH domain of Ehd2 or the NPF motifs of EHBP1
+disrupted cortical actin structures, and depletion of Ehd2 or Ehbp1 in
+mouse adipocytes by small interfering RNA inhibited endocytosis.
+Guilherme et al. (2004) concluded that EHD2 and EHBP1 function in
+endocytic trafficking.
+
+REFERENCE 1. Daumke, O.; Lundmark, R.; Vallis, Y.; Martens, S.; Butler, P. J.
+G.; McMahon, H. T.: Architectural and mechanistic insights into an
+EHD ATPase involved in membrane remodelling. Nature 449: 923-927,
+2007.
+
+2. Guilherme, A.; Soriano, N. A.; Bose, S.; Holik, J.; Bose, A.; Pomerleau,
+D. P.; Furcinitti, P.; Leszyk, J.; Corvera, S.; Czech, M. P.: EHD2
+and the novel EH domain binding protein EHBP1 couple endocytosis to
+the actin cytoskeleton. J. Biol. Chem. 279: 10593-10605, 2004.
+
+3. Pohl, U.; Smith, J. S.; Tachibana, I.; Ueki, K.; Lee, H. K.; Ramaswamy,
+S.; Wu, Q.; Mohrenweiser, H. W.; Jenkins, R. B.; Louis, D. N.: EHD2,
+EHD3, and EHD4 encode novel members of a highly conserved family of
+EH domain-containing proteins. Genomics 63: 255-262, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/21/2008
+Patricia A. Hartz - updated: 2/22/2006
+
+CREATED Carol A. Bocchini: 5/1/2001
+
+EDITED carol: 02/29/2008
+terry: 2/21/2008
+mgross: 2/23/2006
+terry: 2/22/2006
+carol: 5/1/2001
+
+602214	TITLE *602214 CASEIN KINASE I, GAMMA-2; CSNK1G2
+DESCRIPTION 
+CLONING
+
+Kitabayashi et al. (1997) isolated a clone of immature cDNA encoding
+human casein kinase I gamma-2 (CSNK1G2) by screening a human testis cDNA
+library with a PCR-amplified probe representing the kinase domain of rat
+casein kinase I gamma-2. The predicted amino acid sequence consists of
+416 residues, 94% of which are identical to those of the rat homolog.
+
+MAPPING
+
+Kitabayashi et al. (1997) mapped the human CSNK1G2 gene to 19p13.3 by
+fluorescence in situ hybridization and PCR analysis of a human/rodent
+hybrid cell panel.
+
+REFERENCE 1. Kitabayashi, A. N.; Kusuda, J.; Hirai, M.; Hashimoto, K.: Cloning
+and chromosomal mapping of human casein kinase I gamma 2 (CSNK1G2). Genomics 46:
+133-137, 1997.
+
+CREATED Victor A. McKusick: 12/22/1997
+
+EDITED alopez: 05/03/2010
+psherman: 10/25/1999
+psherman: 10/22/1999
+mark: 12/22/1997
+
+136539	TITLE *136539 FORMYL PEPTIDE RECEPTOR 3; FPR3
+;;FORMYL PEPTIDE RECEPTOR-LIKE 2; FPRL2;;
+FORMYL PEPTIDE RECEPTOR HOMOLOG 2; FPRH2
+DESCRIPTION 
+CLONING
+
+Bao et al. (1992) identified 2 structural homologs of FMLP receptor
+(FPR1; 136537), FPRL1 (FPR2; 136538) and FPRL2 (FPR3). Since these 2
+structural homologs did not recognize the ligand FMLP, Bao et al. (1992)
+referred to them as orphan receptors. Nonetheless, they probably
+function as chemotactic receptors.
+
+GENE FUNCTION
+
+By screening organ extracts on cell lines expressing FPRL2, Migeotte et
+al. (2005) isolated F2L (FPRL2 ligand) from spleen. F2L is an acetylated
+21-amino acid peptide derived from the N terminus of intracellular
+heme-binding protein (HEBP1; 605826). F2L bound and activated FPRL2 in
+the nanomolar range, triggering intracellular calcium release,
+inhibition of cAMP accumulation, and phosphorylation of MAP kinases.
+Testing on monocytes and monocyte-derived dendritic cells showed that
+F2L promoted calcium mobilization and chemotaxis. Migeotte et al. (2005)
+concluded that F2L is a natural chemoattractant peptide for dendritic
+cells and monocytes and is specific for FPRL2.
+
+MAPPING
+
+By somatic cell hybrid analysis, Bao et al. (1992) showed that, like
+FPR1, FPR2 and FPR3 map to chromosome 19.
+
+REFERENCE 1. Bao, L.; Gerard, N. P.; Eddy, R. L., Jr.; Shows, T. B.; Gerard,
+C.: Mapping of genes for the human C5a receptor (C5AR), human FMLP
+receptor (FPR), and two FMLP receptor homologue orphan receptors (FPRH1,
+FPRH2) to chromosome 19. Genomics 13: 437-440, 1992.
+
+2. Migeotte, I.; Riboldi, E.; Franssen, J.-D.; Gregoire, F.; Loison,
+C.; Wittamer, V.; Detheux, M.; Robberecht, P.; Costagliola, S.; Vassart,
+G.; Sozzani, S.; Parmentier, M.; Communi, D.: Identification and
+characterization of an endogenous chemotactic ligand specific for
+FPRL2. J. Exp. Med. 201: 83-93, 2005.
+
+CONTRIBUTORS Paul J. Converse - updated: 3/31/2006
+
+CREATED Victor A. McKusick: 6/3/1992
+
+EDITED alopez: 08/24/2009
+mgross: 4/3/2006
+terry: 3/31/2006
+dkim: 7/2/1998
+mark: 3/6/1998
+jason: 6/17/1994
+carol: 8/25/1992
+carol: 6/3/1992
+
+600641	TITLE *600641 SULFOTRANSFERASE FAMILY 1A, PHENOL-PREFERRING, MEMBER 3; SULT1A3
+;;SULFOTRANSFERASE, MONOAMINE-PREFERRING; STM
+DESCRIPTION 
+DESCRIPTION
+
+Sulfate conjugation is a key metabolic process controlled by a number of
+genes. These include STD (125263), the dehydroepiandrosterone
+(DHEA)-preferring sulfotransferase; STE (600043), the
+estrogen-preferring form; STP1 (171150) and STP2 (601292), the
+phenol-preferring forms; and STM, the monoamine-preferring form. STM,
+the thermolabile or monoamine-metabolizing form of phenol
+sulfotransferase, is responsible for the sulfate conjugation of
+monoamine neurotransmitters such as dopamine, over 95% of which is
+sulfate conjugated (Aksoy and Weinshilboum, 1995).
+
+CLONING
+
+Zhu et al. (1993) and Wood et al. (1994) cloned the STM cDNA from brain
+and liver libraries, respectively. The same cDNA was later isolated by
+Jones et al. (1995). The 3 sequences were in agreement and predicted a
+295-amino acid protein.
+
+Aksoy et al. (1994) expressed the STM cDNA in COS-1 cells as a 35.5-kD
+protein. Northern blots showed a 1.4-kb mRNA in liver, kidney, lung,
+small intestine, spleen and leukocytes.
+
+GENE STRUCTURE
+
+Aksoy and Weinshilboum (1995) determined that the STM gene has a total
+length of approximately 8.4 kb and includes 10 exons, the first 3 of
+which are untranslated. Many of the exon-intron borders are at the same
+positions as in the human DHEA sulfotransferase gene. The first 2 exons
+are present in the 5-prime UTR of a longer mRNA expressed in brain and
+liver, while exon 3 is present in the 5-prime UTR of a shorter mRNA also
+present in these tissues.
+
+Dooley and Huang (1996) determined the genomic organization of the human
+STP1, STP2, and STM genes. These 3 genes each have 8 exons with the
+initiator methionine on exon 2. All 3 colocalize on a single cosmid from
+chromosome 16p12.1-p11.2 and have a high degree of sequence homology,
+suggesting that these 3 genes arose by gene duplication. Dooley and
+Huang (1996) stated that the previously identified PST gene sequences
+HAST3 and M-PST are isolates of the STM gene.
+
+GENE FUNCTION
+
+Weinshilboum et al. (1997) reviewed the molecular biology of the
+sulfotransferases. These enzymes catalyze sulfate conjugation of many
+hormones, neurotransmitters, drugs, and xenobiotic compounds. They
+stated that at that time the 5 known human cytosolic sulfotransferases
+were STE (symbolized EST by them), a hydroxysteroid sulfotransferase
+STD, and 3 phenol-preferring sulfotransferases (STP1, STP2, and STM).
+The genes for these human enzymes, as well as those of other mammalian
+cytosolic sulfotransferases that had been cloned, showed a high degree
+of structural homology, with conservation of location of most
+intron-exon splice junctions. Genetic polymorphisms of several of these
+that have been demonstrated through family studies are suspected on the
+basis of large differences among individuals in the expression.
+
+MAPPING
+
+Aksoy et al. (1994) used PCR screening of DNAs from human-rodent somatic
+cell hybrid mapping panels to assign the STM gene to chromosome 16.
+Regional localization to 16p11.2 was achieved by PCR analysis of a
+high-resolution mouse-human somatic cell hybrid panel containing defined
+portions of human chromosome 16.
+
+Bernier et al. (1994) assigned the placental estrogen sulfotransferase
+to chromosome 16 using DNA from panels of human/rodent somatic cell
+hybrids and PCR amplification. Weinshilboum (1995) pointed out that the
+'placental estrogen sulfotransferase' gene that Bernier et al. (1994)
+mapped to chromosome 16 is, in fact, the STM gene. Bernier et al. (1994)
+reported, on the basis of expression data, that the mRNA encoded by
+their gene can catalyze the sulfate conjugation of estrogens, although
+with a much lower affinity than the mRNA encoded by the human STE gene
+that is localized on 4q13.1 (600043).
+
+The STM gene, a thermolabile phenol sulfotransferase, maps very near the
+location of the thermostable phenol sulfotransferase, STP1. Her et al.
+(1996) showed that a second thermolabile phenol sulfotransferase, STP2
+(601292), also maps to chromosome 16.
+
+REFERENCE 1. Aksoy, I. A.; Callen, D. F.; Apostolou, S.; Her, C.; Weinshilboum,
+R. M.: Thermolabile phenol sulfotransferase gene (STM) localization
+to human chromosome 16p11.2. Genomics 23: 275-277, 1994.
+
+2. Aksoy, I. A.; Weinshilboum, R. M.: Human thermolabile phenol sulfotransferase
+gene (STM): molecular cloning and structural characterization. Biochem.
+Biophys. Res. Commun. 208: 786-795, 1995.
+
+3. Aksoy, I. A.; Wood, T. C.; Weinshilboum, R.: Human liver estrogen
+sulfotransferase: identification by cDNA cloning and expression. Biochem.
+Biophys. Res. Commun. 200: 1621-1629, 1994.
+
+4. Bernier, F.; Leblanc, G.; Labrie, F.; Luu-The, V.: Structure of
+human estrogen and aryl sulfotransferase gene: two mRNA species issued
+from a single gene. J. Biol. Chem. 269: 28200-28205, 1994.
+
+5. Dooley, T. P.; Huang, Z.: Genomic organization and DNA sequences
+of two human phenol sulfotransferase genes (STP1 and STP2) on the
+short arm of chromosome 16. Biochem. Biophys. Res. Commun. 228:
+134-140, 1996.
+
+6. Her, C.; Raftogianis, R.; Weinshilboum, R. M.: Human phenol sulfotransferase
+STP2 gene: molecular cloning, structural characterization, and chromosomal
+localization. Genomics 33: 409-420, 1996.
+
+7. Jones, A. L.; Hagen, M.; Coughtrie, M. W. H.; Roberts, R. C.; Glatt,
+H.: Human platelet phenolsulfotransferases: cDNA cloning, stable
+expression in V79 cells and identification of a novel allelic variant
+of the phenol-sulfating form. Biochem. Biophys. Res. Commun. 208:
+855-862, 1995.
+
+8. Weinshilboum, R.: Personal Communication. Rochester, Minn.
+10/9/1995.
+
+9. Weinshilboum, R. M.; Otterness, D. M.; Aksoy, I. A.; Wood, T. C.;
+Her, C.; Raftogianis, R. B.: Sulfotransferase molecular biology:
+cDNAs and genes. FASEB J. 11: 3-14, 1997.
+
+10. Wood, T. C.; Aksoy, I. A.; Aksoy, S.; Weinshilboum, R. M.: Human
+liver thermolabile phenol sulfotransferase: cDNA cloning, expression
+and characterization. Biochem. Biophys. Res. Commun. 198: 1119-1127,
+1994.
+
+11. Zhu, X.; Veronese, M. E.; Bernard, C. C. A.; Sansom, L. N.; McManus,
+M. E.: Identification of two human brain aryl sulfotransferase cDNAs. Biochem.
+Biophys. Res. Commun. 195: 120-127, 1993.
+
+CONTRIBUTORS Jennifer P. Macke - updated: 5/20/1997
+Victor A. McKusick - updated: 5/16/1997
+
+CREATED Alan F. Scott: 7/9/1995
+
+EDITED alopez: 04/09/2009
+alopez: 6/14/1999
+alopez: 7/24/1997
+mark: 6/9/1997
+alopez: 5/27/1997
+alopez: 5/19/1997
+terry: 5/16/1997
+jamie: 5/8/1997
+terry: 6/6/1996
+terry: 5/30/1996
+joanna: 12/8/1995
+terry: 10/27/1995
+carol: 7/20/1995
+
+614605	TITLE *614605 ZINC FINGER DHHC DOMAIN-CONTAINING PROTEIN 21; ZDHHC21
+;;DHHC21
+DESCRIPTION 
+DESCRIPTION
+
+The classical sex steroid receptors, estrogen receptor (ER)-alpha (ESR1;
+133430), progesterone receptor (PGR; 607311), and androgen receptor (AR;
+313700), translocate from the plasma membrane to the nucleus following
+ligand binding and influence gene transcription. Sex steroid receptors
+also engage in cell signaling at the plasma membrane, and this function
+requires both ligand binding and receptor palmitoylation at a conserved
+cysteine residue. ZDHHC21 is a palmitoylacyltransferase that functions
+in palmitoylation of sex steroid receptors (Pedram et al., 2012).
+
+CLONING
+
+By immunofluorescence analysis, Pedram et al. (2012) found that
+endogenous DHHC21 and DHHC7 (614604) localized to the Golgi apparatus in
+human MCF-7 breast cancer cells.
+
+GENE FUNCTION
+
+Palmitoylacyltransferases contain an asp-his-his-cys (DHHC) signature
+sequence. By expressing plasmids encoding each mouse DHHC protein in
+MCF-7 cells, Pedram et al. (2012) found that only Dhhc7 and Dhhc21
+functioned in ER-alpha palmitoylation. Knockdown of endogenous DHHC7 and
+DHHC21 via small interfering RNA reduced ER-alpha localization at the
+plasma membrane and impaired intracellular signaling by
+17-beta-estradiol via ERK (see 176948) and AKT (see 164730) kinases and
+cAMP generation. Nuclear ER-alpha localization and transcriptional
+activation were unaffected. Mutation of a cysteine in the C-terminal
+region of mouse ER-alpha abrogated palmitoylation by Dhhc7 and Dhhc21
+and inhibited cell signaling from the plasma membrane. Knockdown studies
+revealed that DHHC7 and DHHC21 also functioned as specific
+palmitoylacyltransferases for progesterone and androgen receptors.
+
+MAPPING
+
+Hartz (2012) mapped the ZDHHC21 gene to chromosome 9p22.3 based on an
+alignment of the ZDHHC21 sequence (GenBank GENBANK AK096860) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  4/26/2012.
+
+2. Pedram, A.; Razandi, M.; Deschenes, R. J.; Levin, E. R.: DHHC-7
+and -21 are palmitoylacyltransferases for sex steroid receptors. Molec.
+Biol. Cell 23: 188-199, 2012.
+
+CREATED Patricia A. Hartz: 4/27/2012
+
+EDITED mgross: 04/27/2012
+
+600944	TITLE *600944 DEOXYHYPUSINE SYNTHASE; DHPS
+DESCRIPTION 
+DESCRIPTION
+
+Joe et al. (1995) stated that the unusual amino acid hypusine is formed
+posttranslationally and is only found in a single cellular protein,
+eukaryotic translation initiation factor-5A (EIF5A; see 600187).
+Hypusine biosynthesis involves 2 enzymatic steps. In the first step,
+deoxyhypusine synthase (EC 2.5.1.46) catalyzes the NAD-dependent
+transfer of the butylamine moiety of spermidine to the epsilon-amino
+group of a specific lysine residue of the EIF5A precursor protein to
+form the intermediate deoxyhypusine residue. In the second step,
+mediated by deoxyhypusine hydroxylase (611262), the conversion of the
+deoxyhypusine residue to the hypusine residue completes EIF5A
+maturation. Hypusine is found in all eukaryotes and in some
+archaebacteria, but not in eubacteria. The amino acid sequence of EIF5A
+is highly conserved, especially in the region surrounding the hypusine
+residue, suggesting an important fundamental function for this protein
+throughout eukaryotic evolution. Hypusine and EIF5A appear to be vital
+for cell proliferation in eukaryotes.
+
+CLONING
+
+Joe et al. (1995) isolated cDNA clones encoding deoxyhypusine synthase
+from a human HeLa cell library. Full-length cDNA clones encoding a
+369-amino acid protein (calculated molecular mass of 40,970 Da) and a
+shorter cDNA clone (that would potentially encode a protein with an
+internal deletion of 56 amino acids) were isolated. The deduced amino
+acid sequence of the human enzyme showed a high degree of identity to
+that of the yeast enzyme.
+
+From a human peripheral blood mononuclear cell cDNA library, Bevec et
+al. (1996) isolated 2 independent sequences encoding biologically active
+deoxyhypusine synthase. DNA sequence analysis predicted a 369-amino acid
+protein with a molecular mass of 41,055 Da.
+
+GENE FUNCTION
+
+Bevec et al. (1996) demonstrated that recombinant DHPS showed
+significant catalytic activity in synthesis of deoxyhypusine after in
+vitro transcription and translation as well as on expression in
+Escherichia coli.
+
+Hauber et al. (2005) demonstrated that inhibition of DHPS by the
+experimental drug CNI-1493 or RNA interference efficiently suppressed
+retroviral replication in cell culture and primary cells with no
+measurable drug-induced adverse effects on cell cycle transition,
+apoptosis, or general cytotoxicity. They showed that the antiviral
+effect of CNI-1493 was due to inhibition of the HIV-1 Rev regulatory
+protein, for which the hypusine-requiring EIF5A is a cofactor.
+
+MAPPING
+
+Using a panel of somatic rodent/human cell hybrids, Bevec et al. (1996)
+localized the DHPS gene to human chromosome 19. Jones et al. (1996)
+localized the DHPS gene to 19p13.12-p13.11, using fluorescence in situ
+hybridization analysis in a combination with somatic human/rodent
+translocation hybrid analysis.
+
+REFERENCE 1. Bevec, D.; Kappel, B.; Jaksche, H.; Csonga, R.; Hauber, J.; Klier,
+H.; Steinkasserer, A.: Molecular characterization of a cDNA encoding
+functional human deoxyhypusine synthase and chromosomal mapping of
+the corresponding gene locus. FEBS Lett. 378: 195-198, 1996.
+
+2. Hauber, I.; Bevec, D.; Heukeshoven, J.; Kratzer, F.; Horn, F.;
+Choidas, A.; Harrer, T.; Hauber, J.: Identification of cellular deoxyhypusine
+synthase as a novel target for antiretroviral therapy. J. Clin. Invest. 115:
+76-85, 2005.
+
+3. Joe, Y. A.; Wolff, E. C.; Park, M. H.: Cloning and expression
+of human deoxyhypusine synthase cDNA: structure-function studies with
+the recombinant enzyme and mutant proteins. J. Biol. Chem. 270:
+22386-22392, 1995.
+
+4. Jones, T.; Sheer, D.; Kapetanopoulos, A.; Hauber, J.; Bevec, D.;
+Steinkasserer, A.: The gene coding for human deoxyhypusine synthase
+(DHPS) maps to chromosome 19p13.11-p13.12. Genomics 35: 635-636,
+1996.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 2/2/2005
+
+CREATED Victor A. McKusick: 11/13/1995
+
+EDITED carol: 07/27/2007
+terry: 2/2/2005
+terry: 9/10/1996
+terry: 8/23/1996
+mark: 3/18/1996
+terry: 3/6/1996
+mark: 12/11/1995
+mark: 11/13/1995
+
+614241	TITLE *614241 LYSOCARDIOLIPIN ACYLTRANSFERASE 1; LCLAT1
+;;ACYL-CoA:LYSOCARDIOLIPIN ACYLTRANSFERASE 1; ALCAT1;;
+1-@ACYLGLYCEROL-3-PHOSPHATE O-ACYLTRANSFERASE 8; AGPAT8
+DESCRIPTION 
+DESCRIPTION
+
+Phospholipids are remodeled through the Lands cycle to attain
+appropriate fatty acid composition for biologic activity. LCLAT1
+functions as an acyltransferase in the endoplasmic reticulum (ER) and
+predominantly remodels anionic phospholipids, including
+phosphatidyinositol and phosphatidylglycerol (Zhao et al., 2009).
+
+CLONING
+
+Cao et al. (2004) cloned mouse Lclat1, which they called Alcat1. The
+deduced 376-amino acid protein has a calculated molecular mass of 44.4
+kD. Alcat1 has an N-terminal signal peptide, a C-terminal transmembrane
+domain, and an ER retention motif (KKxx) at its C terminus. Northern
+blot analysis detected a 4.3-kb Alcat1 transcript in most mouse tissues
+examined, with highest expression in heart and kidney. A slightly
+shorter Alcat1 variant was also detected in heart. Immunohistochemical
+analysis of transfected COS-7 cells showed that Alcat1 colocalized with
+ER marker proteins. EST database analysis revealed orthologs of Alcat1
+from humans to fish.
+
+By database analysis and PCR of a skeletal muscle cDNA library, Agarwal
+et al. (2006) cloned human LCLAT1, which they called AGPAT8. The deduced
+376-amino acid protein has a calculated molecular mass of 44.4 kD.
+AGPAT8 has 2 conserved motifs seen in AGPATs, NHx4D and an EGTR-like
+motif (EGTD), which are involved in catalysis and substrate binding,
+respectively. AGPAT8 shares 89.1% amino acid identity with mouse Agpat8.
+Northern blot analysis detected a 5-kb AGPAT8 transcript in most tissues
+examined, with highest expression in heart and kidney. Quantitative
+real-time PCR detected AGPAT8 in all tissues examined, with highest
+expression in heart, skeletal muscle, kidney, ovary, small intestine,
+leukocytes, brain, and placenta. Database analysis revealed orthologs of
+AGPAT8 in plants, nematode worms, and cyanobacteria.
+
+Using quantitative RT-PCR, Zhao et al. (2009) detected ALCAT1 expression
+in all tissues examined except skeletal muscle. Highest expression was
+detected in pancreas. Epitope-tagged ALCAT1 localized to the ER of
+transfected COS-7 cells.
+
+GENE FUNCTION
+
+Cao et al. (2004) showed that mouse Alcat1 expressed in insect or
+mammalian cells catalyzed acylation of lysocardiolipin and
+dilysocardiolipin and preferentially used the unsaturated C18 acyl
+donors linoleoyl-CoA and oleoyl-CoA as substrates. Similar activity was
+detected in rat liver and heart microsomes, with much lower activity in
+isolated liver and heart mitochondria.
+
+Agarwal et al. (2006) showed that human AGPAT8 expressed in Chinese
+hamster ovary cells could acylate lysophosphatidic acids with C16 or C18
+chains in either the sn-1 or sn-2 position, with variable tolerance for
+unsaturation. AGPAT8 did not appear to acylate lysocardiolipin. AGPAT8
+used linoleoyl-CoA to synthesize phosphatidylethanolamine,
+phosphatidylcholine, and phosphatidic acid.
+
+By assaying membrane preparations of HEK293 cells overexpressing human
+ALCAT1, Zhao et al. (2009) found that ALCAT1 possessed acyltransferase
+activity toward lysocardiolipin, dilysocardiolipin,
+lysophosphatidylinositol, and lysophosphatidylglycerol, but not
+lysophosphatidylcholine and lisophosphatidylethanolamine. ALCAT1
+accepted these substrates with varying chain lengths in the sn-1
+position. ALCAT1 transferred the acyl groups from several fatty
+acid-CoAs of long chain length, but not from fatty acid-CoAs with short
+chain length (8:0) or highly unsaturated arachidonyl-CoA. Knockdown of
+ALCAT1 in HeLa cells via small interfering RNA reduced in vitro
+synthesis of phosphatidylglycerol and phosphatidylinositol, but not
+cardiolipin. Mutation of asp168 to arg or cys completely abolished
+ALCAT1 activity, whereas mutation of thr169 to leu reduced synthesis of
+phosphatidylinositol, but not phosphatidylglycerol. Taking into account
+the localization of ALCAT1 in ER membranes, Zhao et al. (2009) concluded
+that ALCAT1 predominantly remodels phosphatidylinositol and
+phosphatidylglycerol in the ER, but that it is unlikely to remodel
+cardiolipin, a mitochondrial lipid.
+
+GENE STRUCTURE
+
+Agarwal et al. (2006) determined that the LCLAT1 gene contains 6 exons
+and spans around 170 kb.
+
+MAPPING
+
+By genomic sequence analysis, Agarwal et al. (2006) mapped the LCLAT1
+gene to chromosome 2p. Gross (2011) mapped the LCLAT1 gene to chromosome
+2p23.1 based on an alignment of the LCLAT1 sequence (GenBank GENBANK
+BC146817) and the genomic sequence (GRCh37).
+
+Agarwal et al. (2006) mapped the mouse Lclat1 gene to chromosome 17.
+
+REFERENCE 1. Agarwal, A. K.; Barnes, R. I.; Garg, A.: Functional characterization
+of human 1-acylglycerol-3-phosphate acyltransferase isoform 8: cloning,
+tissue distribution, gene structure, and enzymatic activity. Arch.
+Biochem. Biophys. 449: 64-76, 2006.
+
+2. Cao, J.; Liu, Y.; Lockwood, J.; Burn, P.; Shi, Y.: A novel cardiolipin-remodeling
+pathway revealed by a gene encoding an endoplasmic reticulum-associated
+acyl-CoA:lysocardiolipin acyltransferase (ALCAT1) in mouse. J. Biol.
+Chem. 279: 31727-31734, 2004.
+
+3. Gross, M. B.: Personal Communication. Baltimore, Md.  9/22/2011.
+
+4. Zhao, Y.; Chen, Y.-Q.; Li, S.; Konrad, R. J.; Cao, G.: The microsomal
+cardiolipin remodeling enzyme acyl-CoA lysocardiolipin acyltransferase
+is an acyltransferase of multiple anionic lysophospholipids. J. Lipid
+Res. 50: 945-956, 2009.
+
+CONTRIBUTORS Matthew B. Gross - updated: 9/22/2011
+
+CREATED Patricia A. Hartz: 9/22/2011
+
+EDITED mgross: 09/22/2011
+mgross: 9/22/2011
+
+612212	TITLE *612212 PLASMINOGEN-LIKE A; PLGLA
+;;PLASMINOGEN-RELATED GENE A; PRGA
+DESCRIPTION 
+CLONING
+
+Using primers based on PRGB (PLGLB1; 173340) for PCR amplification of
+placental genomic DNA, Lewis et al. (1999) cloned PLGLA, which they
+called PRGA. The deduced 96-amino peptide has a signal sequence followed
+by a 77-amino acid stretch that is identical to the N terminus of
+plasminogen (PLG; 173350) and differs from the homologous PRGB sequence
+at only 4 positions. Northern blot analysis using a probe that did not
+differentiate between PRGA and PRGB detected PRG only in liver and in a
+lymphoblastic leukemia cell line.
+
+GENE STRUCTURE
+
+Lewis et al. (1999) determined that the PLGLA gene contains 4 coding
+exons.
+
+Kida et al. (1997) characterized the 5-prime flanking region of the
+human PLGLA gene and found 3 TATA boxes 550 to 600 bp upstream of the
+transcription initiation site, a TATA-like sequence (TGTAA) at position
+-16, and putative binding sites for several transcription factors. The
+1.1-kb 5-prime flanking sequence directed basal liver-specific
+expression in HepG2 cells, and deletion analysis identified 2 negative
+elements in the PLGLA promoter.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PLGLA
+gene to chromosome 2 (TMAP D2S2643)
+
+REFERENCE 1. Kida, M.; Wakabayashi, S.; Ichinose, A.: Characterization of the
+5-prime-flanking regions of plasminogen-related genes A and B. FEBS
+Lett. 404: 95-99, 1997.
+
+2. Lewis, V. O.; Gehrmann, M.; Weissbach, L.; Hyman, J. E.; Rielly,
+A.; Jones, D. G.; Llinas, M.; Schaller, J.: Homologous plasminogen
+N-terminal and plasminogen-related gene A and B peptides: characterization
+of cDNAs and recombinant fusion proteins. Europ. J. Biochem. 259:
+618-625, 1999.
+
+CREATED Patricia A. Hartz: 7/31/2008
+
+EDITED carol: 07/01/2010
+wwang: 7/31/2008
+
+608388	TITLE *608388 EVOLUTIONARILY-CONSERVED SIGNALING INTERMEDIATE IN TOLL PATHWAY; ECSIT
+;;SITPEC
+DESCRIPTION 
+DESCRIPTION
+
+The ECSIT protein interacts with the TLR signaling adaptor TRAF6
+(602355), localizes to mitochondria, and has a role in oxidative
+phosphorylation complex I assembly (summary by West et al., 2011).
+
+CLONING
+
+Using mouse Traf6 as bait in a yeast 2-hybrid screen, Kopp et al. (1999)
+cloned 3 splice variants of mouse Ecsit from liver and pre-B-cell cDNA
+libraries. The longest deduced protein contains 435 amino acids, and the
+variants differ in their C termini. Northern blot analysis detected a
+transcript of about 1.6 kb in all mouse tissues examined.
+
+Vogel et al. (2007) stated that 10 ECSIT splice variants are predicted,
+but only the 2 longest have been identified in experimental studies. The
+longest, called variant 1, utilizes all 8 exons and encodes a deduced
+431-amino acid protein with a calculated molecular mass of 50 kD.
+Variant 2 lacks exon 6 and encodes a deduced 382-amino acid protein with
+a calculated molecular mass of 33 kD. Western blot analysis of
+fractionated human embryonic kidney cells detected a protein of about 50
+kD in the cytoplasm/nuclear fraction and a protein of about 45 kD in the
+mitochondrial fraction. The first 48 amino acids of ECSIT constitute a
+mitochondrial targeting signal.
+
+GENE FUNCTION
+
+Kopp et al. (1999) determined that mouse Ecsit is an intermediate in the
+activation of the Toll (see 603030)/Il1 (see 147760) pathway and
+regulates Mekk1 (600982) processing for activation of Nfkb (see 164011).
+Expression of wildtype Ecsit accelerated the processing of Mekk1, and a
+dominant-negative fragment of Ecsit blocked Mekk1 processing and
+activation of Nfkb.
+
+Using 2-dimensional native PAGE analysis of mitochondria enriched from
+HEK293 and HeLa cells, Vogel et al. (2007) found that the 45-kD
+mitochondrial ECSIT protein, but not the 50-kD cytosolic protein, was a
+component of higher molecular mass complexes of about 500, 600, and 850
+kD. ECSIT copurified with the mitochondrial complex I assembly chaperone
+NDUFAF1 (606934), and knockdown of ECSIT resulted in impaired complex I
+assembly and disturbed mitochondrial function.
+
+West et al. (2011) demonstrated that engagement of a subset of Toll-like
+receptors (TLR1, 601194; TLR2, 603028; and TLR4, 603030) results in the
+recruitment of mitochondria to macrophage phagosomes and augments
+mitochondrial reactive oxygen species (mROS) production. This response
+involves translocation of a TLR signaling adaptor, TRAF6, to
+mitochondria, where it engages the protein ECSIT, which is implicated in
+mitochondrial respiratory chain assembly. Interaction with TRAF6 leads
+to ECSIT ubiquitination and enrichment at the mitochondrial periphery,
+resulting in increased mitochondrial and cellular ROS generation. ECSIT-
+and TRAF6-depleted macrophages have decreased levels of TLR-induced ROS
+and are significantly impaired in their ability to kill intracellular
+bacteria. Additionally, reducing macrophage mROS levels by expressing
+catalase (115500) in mitochondria results in defective bacterial
+killing, confirming the role of mROS in bactericidal activity. West et
+al. (2011) concluded that their results revealed a novel pathway linking
+innate immune signaling to mitochondria, implicated mROS as an important
+component of antibacterial responses, and further established
+mitochondria as hubs for innate immune signaling.
+
+GENE STRUCTURE
+
+Vogel et al. (2007) stated that the ECSIT gene contains 8 exons.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the ECSIT
+gene to chromosome 19 (TMAP RH98319).
+
+ANIMAL MODEL
+
+Xiao et al. (2003) found that targeted disruption of Ecsit in mice led
+to reduced cell proliferation, altered epiblast patterning, impaired
+mesoderm formation, and lethality at embryonic day 7.5. The phenotype
+mimicked that of Bmpr1a (601299) null mice. Biochemical analysis
+demonstrated that Ecsit associated constitutively with Smad4 (600993)
+and Smad1 (601595) in a Bmp-inducible manner. Together with Smad1 and
+Smad4, Ecsit bound to the promoter of specific Bmp target genes.
+Knockdown of Ecsit expression with short hairpin RNA inhibited both Bmp
+and Toll signaling.
+
+REFERENCE 1. Kopp, E.; Medzhitov, R.; Carothers, J.; Xiao, C.; Douglas, I.;
+Janeway, C. A.; Ghosh, S.: ECSIT is an evolutionarily conserved intermediate
+in the Toll/IL-1 signal transduction pathway. Genes Dev. 13: 2059-2071,
+1999.
+
+2. Vogel, R. O.; Janssen, R. J. R. J.; van den Brand, M. A. M.; Dieteren,
+C. E. J.; Verkaart, S.; Koopman, W. J. H.; Willems, P. H. G. M.; Pluk,
+W.; van den Heuvel, L. P. W. J.; Smeitink, J. A. M.; Nijtmans, L.
+G. J.: Cytosolic signaling protein Ecsit also localizes to mitochondria
+where it interacts with chaperone NDUFAF1 and functions in complex
+I assembly. Genes Dev. 21: 615-624, 2007.
+
+3. West, A. P.; Brodsky, I. E.; Rahner, C.; Woo, D. K.; Erdjument-Bromage,
+H.; Tempst, P.; Walsh, M. C.; Choi, Y.; Shadel, G. S.; Ghosh, S.:
+TLR signalling augments macrophage bactericidal activity through mitochondrial
+ROS. Nature 472: 476-480, 2011.
+
+4. Xiao, C.; Shim, J.; Kluppel, M.; Zhang, S. S.-M.; Dong, C.; Flavell,
+R. A.; Fu, X.-Y.; Wrana, J. L.; Hogan, B. L. M.; Ghosh, S.: Ecsit
+is required for Bmp signaling and mesoderm formation during mouse
+embryogenesis. Genes Dev. 17: 2933-2949, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/7/2007
+
+CREATED Patricia A. Hartz: 1/9/2004
+
+EDITED alopez: 06/21/2011
+wwang: 5/7/2007
+mgross: 1/9/2004
+
+605101	TITLE *605101 TAK1-BINDING PROTEIN 2; TAB2
+;;TGF-BETA ACTIVATED KINASE 1/MAP3K7-BINDING PROTEIN 2;;
+MITOGEN-ACTIVATED PROTEIN KINASE KINASE KINASE 7-INTERACTING PROTEIN
+2; MAP3K7IP2;;
+KIAA0733
+DESCRIPTION 
+CLONING
+
+Using a yeast 2-hybrid screen, Shibuya et al. (1996) isolated cDNAs
+encoding 2 TAK1 (MAP3K7; 602614)-binding proteins, TAB1 (602615) and
+TAB2. Takaesu et al. (2000) isolated a full-length cDNA encoding TAB2 by
+screening a kidney cell cDNA library. Sequence analysis predicted that
+the TAB2 protein contains 693 amino acids and has a molecular mass of 77
+kD. One distinctive feature of the TAB2 protein is the presence of amino
+acids (residues 535 to 609) that have the potential to form an
+amphipathic alpha helix (coiled-coil structure). Northern blot analysis
+detected a single 5-kb TAB2 transcript in a variety of tissues.
+
+Thienpont et al. (2010) used immunohistochemistry to analyze TAB2
+expression in 5.5-week and 7.5-week human embryos and found cytoplasmic
+expression of TAB2 in cells of the ventricular trabeculae, in
+endothelial cells of the conotruncal cushions of the outflow tract, and
+in the endothelial cells lining the developing aortic valves.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TAB2
+gene to chromosome 6 (TMAP WI-20522).
+
+GENE FUNCTION
+
+Takaesu et al. (2000) showed that TAB2 functionally links TAK1 to TRAF6
+(602355). Expression of TAB2 induced JNK (see 601158) and nuclear factor
+kappa-B (NFKB; see 164011) activation, whereas a dominant-negative TAB2
+mutant impaired JNK and NFKB activation by interleukin-1 (IL1; see IL1B,
+147720). IL1 stimulates translocation of TAB2 from the membrane to the
+cytosol, where it mediates the IL1-dependent association of TAK1 with
+TRAF6. These results defined TAB2 as an adaptor linking TAK1 and TRAF6
+and as a mediator of TAK1 activation in the IL1 signaling pathway.
+
+Baek et al. (2002) demonstrated that IL1B causes nuclear export of a
+specific NCOR (600849) corepressor complex, resulting in derepression of
+a specific subset of NFKB-regulated genes. These genes are exemplified
+by the tetraspanin KAI1 (600623), which regulates membrane receptor
+function. Nuclear export of the NCOR/TAB2/HDAC3 (605166) complex by IL1B
+is temporally linked to selective recruitment of a TIP60 (601409)
+coactivator complex. KAI1 is also directly activated by a ternary
+complex, dependent on the acetyltransferase activity of TIP60, that
+consists of the presenilin-dependent C-terminal cleavage product of the
+beta amyloid precursor protein (APP; 104760), FE65 (602709), and TIP60,
+identifying a specific in vivo gene target of an APP-dependent
+transcription complex in the brain.
+
+Activation of the NF-kappa-B pathway by the TNF-receptor EDAR (604095)
+and its downstream adaptor EDARADD (606603) is essential for the
+development of hair follicles, teeth, exocrine glands, and other
+ectodermal derivatives. Morlon et al. (2005) performed a yeast 2-hybrid
+screen and isolated TAB2 as a binding partner of EDARADD. TAB2 bridges
+TRAF6 to TAK1 (NR2C2; 601426), allowing TAK1 activation and subsequent
+IKK activation. Endogenous and overexpressed TAB2, TRAF6, and TAK1
+coimmunoprecipitated with EDARADD in HEK293 cells. Moreover,
+dominant-negative forms of TAB2, TRAF6, and TAK1 blocked the NF-kappa-B
+activation induced by EDARADD. Morlon et al. (2005) concluded that the
+TAB2/TRAF6/TAK1 signaling complex is involved in the EDAR signal
+transduction pathway.
+
+Using transfected mouse and human cells, Sardi et al. (2006) found that,
+upon NRG1 (142445)-induced activation and presenilin (PSEN1;
+104311)-dependent cleavage of ERBB4 (600543), the ERBB4 intracellular
+domain formed a complex with TAB2 and NCOR. This complex translocated to
+the nucleus of undifferentiated rat neural precursors and inhibited
+their differentiation into astrocytes by repressing transcription of
+glial genes. Consistent with this observation, cortical astrogenesis
+occurred precociously in Erbb4-knockout mice, and this phenotype could
+be rescued by reexpression of a cleavable isoform of human ERBB4, but
+not by reexpression of an uncleavable ERBB4 isoform.
+
+Zhu et al. (2006) reported that specific interactions between prostate
+cancer cells and macrophages occurred in most human prostate cancers
+examined and converted selective androgen receptor (AR; 313700)
+antagonists/modulators to agonists. This effect required TAB2, which was
+recruited as a component of an NCOR corepressor complex to steroid
+hormone receptors by an evolutionarily conserved N-terminal motif
+selectively present in sex steroid receptors, but not other nuclear
+receptors. TAB2 acted as a sensor for inflammatory signals by serving as
+a molecular beacon for recruitment of MEKK1 (MAP3K1; 600982), which in
+turn mediated dismissal of the NCOR/HDAC complex and permitted
+derepression of AR and estrogen receptor (see 133430) target genes.
+
+By reconstituting TAK1 (602614) activation in vitro using purified
+proteins, Xia et al. (2009) demonstrated that free lys63 polyubiquitin
+chains, which are not conjugated to any target protein, directly
+activate TAK1 by binding to the ubiquitin receptor TAB2. This binding
+leads to autophosphorylation and activation of TAK1. Furthermore, Xia et
+al. (2009) found that unanchored polyubiquitin chains synthesized by
+TRAF6 (602355) and UBCH5C (also known as UBE2D3, 602963) activate the
+IKK (see 600664) complex. Disassembly of the polyubiquitin chains by
+deubiquitination enzymes prevented TAK1 and IKK activation. Xia et al.
+(2009) concluded that unanchored polyubiquitin chains directly activate
+TAK1 and IKK, suggesting a new mechanism of protein kinase regulation.
+
+Using whole-mount in situ hybridization (WISH) on staged wildtype
+zebrafish embryos, Thienpont et al. (2010) observed ubiquitous tab2
+expression during early development followed by a more restricted
+pattern, with expression in the developing cardiac outflow tract, the
+dorsal aorta, and the posterior cardinal vein. The authors noted that
+this expression pattern is reminiscent of expression during human heart
+development and thus suggests a conserved role for TAB2 in the cardiac
+outflow tract. Zebrafish embryos with tab2 knockdown showed defects
+during gastrulation that included delayed epiboly progression and
+convergent extension defects; later in development, severe heart failure
+became apparent, with a thin, elongated heart tube and blood pooling in
+the common cardinal vein before entry into the heart. Titrated knockdown
+of tab2 in zebrafish embryos revealed a critical, dosage-sensitive role
+during development, with phenotypes becoming apparent at a dose
+corresponding to 41 to 58% reduction of normal expression, thus showing
+that haploinsufficiency of tab2 causes developmental defects.
+
+Zhang et al. (2012) showed that human TAB2 and TAB3 (300480), ubiquitin
+chain sensory proteins involved in NF-kappa-B (see 164011) signaling,
+are directly inactivated by enteropathogenic E. coli NleE, a conserved
+bacterial type III-secreted effector responsible for blocking host
+NF-kappa-B signaling. NleE harbored an unprecedented
+S-adenosyl-L-methionine-dependent methyltransferase activity that
+specifically modified a zinc-coordinating cysteine in the Npl4 zinc
+finger (NZF) domains in TAB2 and TAB3. Cysteine-methylated TAB2-NZF and
+TAB3-NZF (truncated proteins comprising only the NZF domain) lost the
+zinc ion as well as the ubiquitin chain binding activity. Ectopically
+expressed or type III secretion system-delivered NleE methylated TAB2
+and TAB3 in host cells and diminished their ubiquitin chain binding
+activity. Replacement of the NZF domain of TAB3 with the NleE
+methylation-insensitive Npl4 NZF domain resulted in NleE-resistant
+NF-kappa-B activation. Zhang et al. (2012) postulated that, given the
+prevalence of zinc finger motifs and activation of cysteine thiol by
+zinc binding, methylation of zinc finger cysteine might regulate other
+eukaryotic pathways in addition to NF-kappa-B signaling.
+
+MOLECULAR GENETICS
+
+Thienpont et al. (2010) analyzed the TAB2 gene in 402 patients with
+cardiac outflow tract defects and identified heterozygosity for missense
+mutations in 2 patients (605101.0001 and 604101.0002), neither of which
+was found in 658 ethnically matched control chromosomes. In addition, in
+a family with congenital aortic stenosis and cardiac arrhythmias
+segregating with a balanced t(2;6)(q21;q25) translocation, mapping of
+the breakpoints showed that the translocation disrupted TAB2. Thienpont
+et al. (2010) concluded that taken together, their data clearly
+demonstrated a role for TAB2 in human cardiac development.
+
+ANIMAL MODEL
+
+Sanjo et al. (2003) found that Tab2 deficiency in mice was embryonic
+lethal due to liver degeneration and apoptosis. The phenotype was
+similar to that of Nfkb-, Ikk-beta (603258)-, and Ikk-gamma
+(300248)-deficiency. However, the Il1 (see 147810)-induced activation of
+Nfkb and MAP kinases (see 176948) was not impaired in Tab2-deficient
+embryonic fibroblasts. Sanjo et al. (2003) concluded that Tab2 is
+essential for embryonic liver development but not for the Il1
+receptor-mediated signaling pathway.
+
+ALLELIC VARIANT .0001
+CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2
+TAB2, PRO208SER
+
+In a woman with nonsyndromic congenital heart disease (CHTD2; 614980),
+Thienpont et al. (2010) identified heterozygosity for a 622C-T
+transition in the TAB2 gene, resulting in a pro208-to-ser (P208S)
+substitution at a highly conserved residue. The patient had left
+ventricular outflow tract obstruction, subaortic stenosis due to a
+fibromuscular shelf, residual aortic regurgitation, and atrial
+fibrillation; she died from heart failure at 61 years of age. Family
+members were not available for phenotypic data or DNA samples, but the
+mutation was not found in 658 ethnically matched control chromosomes.
+
+.0002
+CONGENITAL HEART DISEASE, MULTIPLE TYPES, 2
+TAB2, GLN230LYS
+
+In a man with nonsyndromic congenital heart disease (CHTD2; 614980),
+Thienpont et al. (2010) identified heterozygosity for a 688C-A
+transversion in the TAB2 gene, resulting in a gln230-to-lys (Q230K)
+substitution at a highly conserved residue. The patient had a bicuspid
+aortic valve and aortic dilation. Family members were not available for
+phenotypic data or DNA samples, but the mutation was not found in 658
+ethnically matched control chromosomes.
+
+REFERENCE 1. Baek, S. H.; Ohgi, K. A.; Rose, D. W.; Koo, E. H.; Glass, C. K.;
+Rosenfeld, M. G.: Exchange of N-CoR corepressor and Tip60 coactivator
+complexes links gene expression by NF-kappa-B and beta-amyloid precursor
+protein. Cell 110: 55-67, 2002.
+
+2. Morlon, A.; Munnich, A.; Smahi, A.: TAB2, TRAF6 and TAK1 are involved
+in NF-kappa-B activation induced by the TNF-receptor, Edar and its
+adaptator (sic) Edaradd. Hum. Molec. Genet. 14: 3751-3757, 2005.
+
+3. Sanjo, H.; Takeda, K.; Tsujimura, T.; Ninomiya-Tsuji, J.; Matsumoto,
+K.; Akira, S.: TABS is essential for prevention of apoptosis in fetal
+liver but not for interleukin-1 signaling. Molec. Cell. Biol. 23:
+1231-1238, 2003.
+
+4. Sardi, S. P.; Murtie, J.; Koirala, S.; Patten, B. A.; Corfas, G.
+: Presenilin-dependent ErbB4 nuclear signaling regulates the timing
+of astrogenesis in the developing brain. Cell 127: 185-197, 2006.
+
+5. Shibuya, H.; Yamaguchi, K.; Shirakabe, K.; Tonegawa, A.; Gotoh,
+Y.; Ueno, N.; Irie, K.; Nishida, E.; Matsumoto, K.: TAB1: an activator
+of the TAK1 MAPKKK in TGF-beta signal transduction. Science 272:
+1179-1182, 1996.
+
+6. Takaesu, G.; Kishida, S.; Hiyama, A.; Yamaguchi, K.; Shibuya, H.;
+Irie, K.; Ninomiya-Tsuji, J.; Matsumoto, K.: TAB2, a novel adaptor
+protein, mediates activation of TAK1 MAPKKK by linking TAK1 to TRAF6
+in the IL-1 signal transduction pathway. Molec. Cell 5: 649-658,
+2000.
+
+7. Thienpont, B.; Zhang, L.; Postma, A. V.; Breckpot, J.; Tranchevent,
+L.-C.; Van Loo, P.; Mollgard, K.; Tommerup, N.; Bache, I.; Tumer,
+Z.; van Engelen, K.; Menten, B.; Mortier, G.; Waggoner, D.; Gewillig,
+M.; Moreau, Y.; Devriendt, K.; Larsen, L. A.: Haploinsufficiency
+of TAB2 causes congenital heart defects in humans. Am. J. Hum. Genet. 86:
+839-849, 2010.
+
+8. Xia, Z.-P.; Sun, L.; Chen, X.; Pineda, G.; Jiang, X.; Adhikari,
+A.; Zeng, W.; Chen, Z. J.: Direct activation of protein kinases by
+unanchored polyubiquitin chains. Nature 461: 114-119, 2009.
+
+9. Zhang, L.; Ding, X.; Cui, J.; Xu, H.; Chen, J.; Gong, Y.-N.; Hu,
+L.; Zhou, Y.; Ge, J.; Lu, Q.; Liu, L.; Chen, S.; Shao, F.: Cysteine
+methylation disrupts ubiquitin-chain sensing in NF-kappa-B activation. Nature 481:
+204-208, 2012.
+
+10. Zhu, P.; Baek, S. H.; Bourk, E. M.; Ohgi, K. A.; Garcia-Bassets,
+I.; Sanjo, H.; Akira, S.; Kotol, P. F.; Glass, C. K.; Rosenfeld, M.
+G.; Rose, D. W.: Macrophage/cancer cell interactions mediate hormone
+resistance by a nuclear receptor derepression pathway. Cell 124:
+615-629, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/7/2012
+Marla J. F. O'Neill - updated: 7/15/2010
+Ada Hamosh - updated: 10/13/2009
+George E. Tiller - updated: 6/16/2009
+Matthew B. Gross - updated: 5/21/2009
+Matthew B. Gross - updated: 5/8/2009
+Patricia A. Hartz - updated: 4/21/2003
+Stylianos E. Antonarakis - updated: 7/29/2002
+Joanna S. Amberger - updated: 3/7/2002
+
+CREATED Stylianos E. Antonarakis: 6/30/2000
+
+EDITED carol: 12/11/2012
+alopez: 11/30/2012
+alopez: 2/13/2012
+terry: 2/7/2012
+carol: 7/15/2010
+alopez: 10/23/2009
+terry: 10/13/2009
+wwang: 6/16/2009
+wwang: 5/28/2009
+mgross: 5/21/2009
+wwang: 5/12/2009
+mgross: 5/8/2009
+cwells: 4/24/2003
+terry: 4/21/2003
+mgross: 7/29/2002
+joanna: 3/7/2002
+mgross: 6/30/2000
+
+194536	TITLE *194536 ZINC FINGER PROTEIN 12; ZNF12
+;;KOX3
+DESCRIPTION 
+MAPPING
+
+Seite et al. (1991) localized 1 member of the human zinc finger Kruppel
+family, ZNF12 (KOX3), to chromosome 7p22-p21 by a combination of
+analysis of mouse-human somatic cell hybrids and in situ hybridization.
+Rousseau-Merck et al. (1993) described pulsed field gel electrophoresis
+experiments indicating that ZNF12 and ZNF26 (194537) are within the same
+DNA fragment less than 300 kb long.
+
+HISTORY
+
+The control of gene expression in prokaryotes and eukaryotes is
+mediated, at least in part, by the binding of regulatory proteins to
+specific DNA sequences. Many of these proteins share evolutionarily
+conserved DNA binding domains, e.g. homeodomains (Gehring, 1987) or zinc
+finger structures (Schuh et al., 1986). These homologies have been used
+to clone individual genes of these multigene families from higher
+eukaryotic organisms.
+
+REFERENCE 1. Gehring, W. J.: Homeo boxes in the study of development. Science 236:
+1245-1252, 1987.
+
+2. Rousseau-Merck, M.-F.; Hillion, J.; Jonveaux, P.; Couillin, P.;
+Seite, P.; Thiesen, H.-J.; Berger, R.: Chromosomal localization of
+9 KOX zinc finger genes: physical linkages suggest clustering of KOX
+genes on chromosomes 12, 16, and 19. Hum. Genet. 92: 583-587, 1993.
+
+3. Schuh, R.; Aicher, W.; Gaul, U.; Cote, S.; Preiss, A.; Maier, D.;
+Seifert, E.; Nauber, U.; Schroder, C.; Kemler, R.; Jackle, H.: A
+conserved family of nuclear proteins containing structural elements
+of the finger protein encoded by Kruppel, a Drosophila segmentation
+gene. Cell 47: 1025-1032, 1986.
+
+4. Seite, P.; Huebner, K.; Rousseau-Merck, M. F.; Berger, R.; Thiesen,
+H. J.: Two human genes encoding zinc finger proteins, ZNF12 (KOX3)
+and ZNF26 (KOX20), map to chromosomes 7p22-p21 and 12q24.33, respectively. Hum.
+Genet. 86: 585-590, 1991.
+
+CREATED Victor A. McKusick: 5/28/1991
+
+EDITED alopez: 07/07/2010
+terry: 3/19/2004
+dkim: 6/25/1998
+mark: 5/14/1996
+carol: 2/24/1994
+supermim: 3/16/1992
+carol: 5/28/1991
+
+610837	TITLE *610837 BCL2-LIKE 12; BCL2L12
+DESCRIPTION 
+DESCRIPTION
+
+BCL2L12 belongs to the BCL2 family of apoptosis-regulating proteins (see
+BCL2; 151430) (Scorilas et al., 2001).
+
+CLONING
+
+Scorilas et al. (2001) identified a BAC clone encoding a BH2 domain,
+which is conserved among BCL2 proteins, and by database analysis,
+RT-PCR, and 3-prime and 5-prime RACE, they obtained a full-length cDNA
+encoding BCL2L12. The deduced 334-amino acid protein has a calculated
+molecular mass of 36.8 kD. It contains several PxxP motifs, a C-terminal
+BH2 domain, and multiple sites for O-glycosylation, phosphorylation, and
+N-myristoylation. Scorilas et al. (2001) also cloned a BCL2L12 splice
+variant lacking exon 3, which encodes a C-terminally truncated 176-amino
+acid protein that lacks several PxxP motifs and the BH2 domain. RT-PCR
+detected both variants in all adult and fetal tissues examined. The
+full-length transcript showed highest expression in thymus, prostate,
+fetal liver, mammary gland, colon, placenta, small intestine, kidney,
+and bone marrow. The splice variant showed highest expression in
+skeletal muscle, fetal liver, and spinal cord. The full-length
+transcript was expressed at higher levels than the splice variant in all
+tissues examined except skeletal muscle.
+
+GENE FUNCTION
+
+By microarray analysis, Stegh et al. (2007) found that BCL2L12
+expression was upregulated in 53 of 55 human primary glioblastomas
+relative to surrounding normal brain tissue. Immunohistochemical
+analysis detected BCL2L12 in tumor cell cytoplasm and in endothelial
+cells within abnormal tumor vasculature. A modest amount was detected in
+normal neurons, but no staining was detected in normal glia. Expression
+of human BCL2L12 conferred marked resistance to apoptosis in mouse
+primary cortical astrocytes. Conversely, knockdown of BCL2L12 via RNA
+interference sensitized human glioma cell lines to apoptotic stimuli and
+impaired tumor growth in mouse xenografts via increased intratumoral
+apoptosis. BCL2L12 expression did not affect cytochrome c (123970)
+release or protect the mitochondrial membrane, but instead inhibited
+postmitochondrial apoptotic signaling at the level of effector caspase
+activation. BCL2L12 interacted directly with and neutralized caspase-7
+(CASP7; 601761), and it neutralized caspase-3 (CASP3; 600636) by an
+indirect mechanism. While BCL2L12 overexpression inhibited apoptosis, it
+also induced a necrotic state following activation of apoptotic
+signaling.
+
+GENE STRUCTURE
+
+Scorilas et al. (2001) determined that the SLC2L12 gene contains 7
+coding exons and spans 8.8 kb. The promoter region contains a TATA box.
+
+MAPPING
+
+By genomic sequence analysis, Scorilas et al. (2001) mapped the BCL2L12
+gene to chromosome 19q13.3, between the RRAS gene (165090) and the PRMT1
+gene (602950).
+
+REFERENCE 1. Scorilas, A.; Kyriakopoulou, L.; Yousef, G. M.; Ashworth, L. K.;
+Kwamie, A.; Diamandis, E. P.: Molecular cloning, physical mapping,
+and expression analysis of a novel gene, BCL2L12, encoding a proline-rich
+protein with a highly conserved BH2 domain of the Bcl-2 family. Genomics 72:
+217-221, 2001.
+
+2. Stegh, A. H.; Kim, H.; Bachoo, R. M.; Forloney, K. L.; Zhang, J.;
+Schulze, H.; Park, K.; Hannon, G. J.; Yuan, J.; Louis, D. N.; DePinho,
+R A.; Chin, L.: Bcl2L12 inhibits post-mitochondrial apoptosis signaling
+in glioblastoma. Genes Dev. 21: 98-111, 2007. Note: Erratum: Genes
+Dev. 21: 481 only, 2007.
+
+CREATED Patricia A. Hartz: 3/7/2007
+
+EDITED carol: 04/11/2013
+mgross: 3/7/2007
+

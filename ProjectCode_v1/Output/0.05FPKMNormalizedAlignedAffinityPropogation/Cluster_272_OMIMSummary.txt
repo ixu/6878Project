@@ -1,0 +1,102 @@
+615393	TITLE *615393 MTERF DOMAIN-CONTAINING PROTEIN 2; MTERFD2
+;;MITOCHONDRIAL TRANSCRIPTION TERMINATION FACTOR 4; MTERF4
+DESCRIPTION 
+DESCRIPTION
+
+MTERFD2 forms a stoichiometric complex with the 5-methylcytosine RNA
+methyltransferase NSUN4 (615394). By binding to both ribosomal RNA and
+NSUN4, MTERFD2 recruits NSUN4 to the large ribosomal subunit, an
+essential step in ribosomal biogenesis (Spahr et al., 2012).
+
+CLONING
+
+By RT-PCR of HeLa cell total RNA, Yu et al. (2011) cloned MTERFD2, which
+they called MTERF4. The deduced 381-amino acid protein has a predicted
+mitochondrial localization signal, multiple leucine zipper motifs, 2
+basic DNA-binding domains, and a C terminus with many acidic amino acids
+not found in other MTERF proteins. Fluorescence-tagged MTERF4 localized
+to mitochondria in transfected HeLa cells.
+
+Using Northern blot analysis, Camara et al. (2011) detected variable
+Mterf4 expression in all mouse tissues examined. Fluorescence-tagged
+mouse or human MTERF4 colocalized with mitochondrial markers following
+transfection of HeLa cells. Sequence analysis revealed that MTERF4 was
+processed into mature proteins beginning with either leu43 or asn48
+following targeting to mitochondria.
+
+MAPPING
+
+Hartz (2013) mapped the MTERFD2 gene to chromosome 2q37.3 based on an
+alignment of the MTERFD2 sequence (Genbank GENBANK AF161359) with the
+genomic sequence (GRCh37).
+
+GENE FUNCTION
+
+Using small interfering RNA, Yu et al. (2011) found that knockdown of
+MTERF4 in HeLa cells suppressed cell growth and induced accumulation of
+cells in sub-G1. Downregulation of MTERF4 also significantly induced
+necrosis, but not apoptosis.
+
+By immunoprecipitation analysis and size-exclusion chromatography,
+Camara et al. (2011) showed that the mature mitochondrial forms of NSUN4
+and MTERF4 (beginning with asn48) interacted in HeLa cells to form a
+dimer with an apparent molecular mass of 112 kD . The epitope-tagged
+MTERF4-NSUN4 complex comigrated with the large (39S) mitochondrial
+ribosomal subunit following transfection in HeLa cells. Knockdown of
+MTERF4 via RNA interference reduced targeting of NSUN4 to the 39S
+subunit. RNA immunoprecipitation showed that epitope-tagged MTERF4
+cross-linked with several ribosomal RNA species, including 16S, 12S, and
+7S RNA. Camara et al. (2011) concluded that MTERF4 targets NSUN4 to
+ribosomal RNA through to its ability to bind both NSUN4 and ribosomal
+RNA.
+
+BIOCHEMICAL FEATURES
+
+Spahr et al. (2012) described the structure of the NSUN4-MTERF4
+heterodimeric complex at 2.9-angstrom resolution. They found that MTERF4
+is an all alpha-helical protein that adopts a half-doughnut shape with a
+right-handed superhelical twist. MTERF4 bound NSUN4 through conserved
+polar and hydrophobic interactions. A positively-charged RNA-binding
+path extended along the concave and convex sides of MTERF4 and into the
+active site of NSUN4 near the the binding site for the methyl donor
+S-adenosyl-L-methionine.
+
+ANIMAL MODEL
+
+Camara et al. (2011) found that knockout of Mterf4 in mice was embryonic
+lethal. At embryonic day 8.5, Mterf4 -/- embryos were smaller than
+wildtype and lacked a heart and optic discs. Targeted knockout of Mterf4
+in cardiac tissue caused gradual accumulation of myocardial mitochondria
+with abnormal morphology from 5 weeks of age, and reduced life span to
+21 weeks of age. Analysis of steady-state levels of respiratory chain
+complexes in Mterf4 -/- hearts revealed reduced assembly of
+mitochondrial encoded subunits (complex I, III, IV, and V) compared with
+exclusively nuclear-encoded complex II, accompanied by reduced
+respiratory chain activities. Mterf4 -/- hearts also showed massively
+increased transcription of mitochondrial DNA coupled with impaired
+translation, as well as dramatically increased levels of the 28S and 39S
+mitochondrial ribosomes without a corresponding increase in the
+assembled 55S ribosome.
+
+REFERENCE 1. Camara, Y.; Asin-Cayuela, J.; Park, C. B.; Metodiev, M. D.; Shi,
+Y.; Ruzzenente, B.; Kukat, C.; Habermann, B.; Wibom, R.; Hultenby,
+K.; Franz, T.; Erdjument-Bromage, H.; Tempst, P.; Hallberg, B. M.;
+Gustafsson, C. M.; Larsson, N.-G.: MTERF4 regulates translation by
+targeting the methyltransferase NSUN4 to the mammalian mitochondrial
+ribosome. Cell Metab. 13: 527-539, 2011.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  8/30/2013.
+
+3. Spahr, H.; Habermann, B.; Gustafsson, C. M.; Larsson, N.-G.; Hallberg,
+B. M.: Structure of the human MTERF4-NSUN4 protein complex that regulates
+mitochondrial ribosome biogenesis. Proc. Nat. Acad. Sci. 109: 15253-15258,
+2012.
+
+4. Yu, M.; Dai, J.; Huang, W.; Jiao, Y.; Liu, L.; Wu, M.; Tan, D.
+: hMTERF4 knockdown in HeLa cells results in sub-G1 cell accumulation
+and cell death. Acta Biochim. Biophys. Sin. 43: 372-379, 2011.
+
+CREATED Patricia A. Hartz: 8/30/2013
+
+EDITED mgross: 08/30/2013
+

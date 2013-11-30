@@ -1,0 +1,174 @@
+603184	TITLE *603184 CYCLIN-DEPENDENT KINASE 8; CDK8
+;;K35
+DESCRIPTION 
+CLONING
+
+To identify human protein kinases with a role in cell cycle control,
+Schultz and Nigg (1993) performed PCR with degenerate oligonucleotides
+based on conserved motifs in the catalytic domain of the Aspergillus
+nidulans NIMA protein kinase. They isolated 41 distinct promyelocytic
+leukemia cell line cDNAs, including 1 partial cDNA designated K35.
+Tassan et al. (1995) noted that K35 appears to be structurally related
+to cyclin-dependent kinases (CDKs). By screening a human testis cDNA
+library with K35, they isolated cDNAs corresponding to the entire coding
+region of CDK8. The predicted 464-amino acid protein contains the
+sequence motifs and 11 subdomains characteristic of a
+serine/threonine-specific kinase. The protein sequence of CDK8 shares
+48% identity over subdomains III to XI with the S. cerevisiae CDK SRB10,
+and the 2 proteins have several common features. CDK8 migrated as a
+53-kD protein on Western blots of HeLa cell extracts.
+
+GENE FUNCTION
+
+Cyclins are positive regulatory subunits of CDKs. In S. cerevisiae, the
+CDK SRB10, a homolog of CDK8, interacts with SRB11, a cyclin related to
+mammalian cyclin C (CCNC; 123838). The SRB10-SRB11 complex is part of
+the RNA polymerase II holoenzyme and acts as a regulator of
+transcription. Coimmunoprecipitation experiments by Tassan et al. (1995)
+demonstrated that CDK8 interacted with cyclin C both in vitro and in
+vivo. Tassan et al. (1995) proposed that CDK8-cyclin C might be
+functionally associated with the mammalian transcription apparatus.
+
+Mammalian CDK8 and cyclin C are components of the RNA polymerase II
+holoenzyme complex, where they function as a protein kinase that
+phosphorylates the C-terminal domain of the largest subunit of RNA
+polymerase II. The CDK8/cyclin C protein complex is also found in a
+number of mammalian Mediator-like protein complexes, which repress
+activated transcription independently of the C-terminal domain in vitro.
+Akoulitchev et al. (2000) demonstrated that CDK8/cyclin C can regulate
+transcription by targeting the CDK7 (601955)/cyclin H (601953) subunits
+of the general transcription initiation factor IIH (189972). CDK8
+phosphorylates mammalian cyclin H at serine 5 and serine 304 both in
+vitro and in vivo, in the vicinity of its functionally unique N- and
+C-terminal alpha-helical domains. This phosphorylation represses both
+the ability of TFIIH to activate transcription and its C-terminal kinase
+activity. In addition, mimicking CDK8 phosphorylation of cyclin H in
+vivo has a dominant-negative effect on cell growth. Akoulitchev et al.
+(2000) concluded that their results linked the Mediator complex and the
+basal transcription machinery by a regulatory pathway involving 2
+cyclin-dependent kinases. This pathway appears to be unique to higher
+organisms.
+
+p21 (CDKN1A; 116899) is a key mediator of p53 (TP53; 191170)-dependent
+cell cycle arrest. Donner et al. (2007) found that transcriptional
+activity of the p21 promoter in human cell lines varied in response to
+distinct p53-activating stimuli. Core Mediator subunits MED1 (PPARBP;
+604311) and MED17 (603810) were recruited to the p21 gene regardless of
+the p53-activating stimuli used. In contrast, 3 subunits of the CDK
+module of Mediator, CDK8, MED12 (300188), and cyclin C, were recruited
+following treatment with nutlin-3, a nongenotoxic drug that activates
+p53, but not in response to DNA damage induced by ultraviolet light C.
+CDK8 recruitment was also observed during p53-dependent activation of
+the HDM2 gene (MDM2; 164785), and the levels of CDK8 occupancy at p53
+target genes correlated positively with their transcriptional
+activities. RNA interference experiments demonstrated that CDK8
+functioned as a positive regulator of p21 and HDM2 transcription.
+
+To identify genes that both modulate beta-catenin (see 116806) activity
+and are essential for colon cancer cell proliferation, Firestein et al.
+(2008) conducted 2 loss-of-function screens in human colon cancer cells
+and compared genes identified in these screens with an analysis of copy
+number alterations in colon cancer specimens. One of these genes, CDK8,
+which encodes a member of the mediator complex, is located at 13q12.13,
+a region of recurrent copy number gain in a substantial fraction of
+colon cancers. Firestein et al. (2008) showed that suppression of CDK8
+expression inhibits proliferation in colon cancer cells characterized by
+high levels of CDK8 and beta-catenin hyperactivity. CDK8 kinase activity
+was necessary for beta-catenin-driven transformation and for expression
+of several beta-catenin transcriptional targets.
+
+Morris et al. (2008) demonstrated that the transcription factor E2F1
+(189971) is a potent and specific inhibitor of beta-catenin/T cell
+factor (TCF)-dependent transcription and that this function contributes
+to E2F1-induced apoptosis. E2F1 deregulation suppresses beta-catenin
+activity in an adenomatous polyposis coli (APC; 611731)/glycogen
+synthase kinase-3 (GSK3; see 606784)-independent manner, reducing the
+expression of key beta-catenin targets including c-MYC (190080). This
+interaction explains why colorectal tumors, which depend on beta-catenin
+transcription for their abnormal proliferation, keep RB1 (614041)
+intact. Remarkably, E2F1 activity is also repressed by CDK8, a
+colorectal oncoprotein. Elevated levels of CDK8 protect
+beta-catenin/TCF-dependent transcription from inhibition by E2F1. Morris
+et al. (2008) concluded that thus, by retaining RB1 and amplifying CDK8,
+colorectal tumor cells select conditions that collectively suppress E2F1
+and enhance the activity of beta-catenin.
+
+Kapoor et al. (2010) reported that the histone variant macroH2A (mH2A;
+610054) suppresses tumor progression of malignant melanoma. Loss of mH2A
+isoforms, histone variants generally associated with condensed chromatin
+and fine-tuning of developmental gene expression programs, was
+positively correlated with increasing malignant phenotype of melanoma
+cells in culture and human tissue samples. Knockdown of mH2A isoforms in
+melanoma cells of low malignancy resulted in significantly increased
+proliferation and migration in vitro and growth and metastasis in vivo.
+Restored expression of mH2A isoforms rescued these malignant phenotypes
+in vitro and in vivo. Kapoor et al. (2010) demonstrated that the
+tumor-promoting function of mH2A loss is mediated, at least in part,
+through direct transcriptional upregulation of CDK8. Suppression of
+CDK8, a colorectal cancer oncogene, inhibits proliferation of melanoma
+cells, and knockdown of CDK8 in cells depleted of mH2A suppresses the
+proliferative advantage induced by mH2A loss. Moreover, a significant
+inverse correlation between mH2A and CDK8 expression levels exists in
+melanoma patient samples. Kapoor et al. (2010) concluded that mH2A is a
+critical component of chromatin that suppresses the development of
+malignant melanoma.
+
+MAPPING
+
+Tassan et al. (1995) noted that a DNA fragment corresponding to the CDK8
+gene maps to chromosome 13q12.
+
+REFERENCE 1. Akoulitchev, S.; Chuikov, S.; Reinberg, D.: TFIIH is negatively
+regulated by cdk8-containing mediator complexes. Nature 407: 102-106,
+2000.
+
+2. Donner, A. J.; Szostek, S.; Hoover, J. M.; Espinosa, J. M.: CDK8
+is a stimulus-specific positive coregulator of p53 target genes. Molec.
+Cell 27: 121-133, 2007.
+
+3. Firestein, R.; Bass, A. J.; Kim, S. Y.; Dunn, I. F.; Silver, S.
+J.; Guney, I.; Freed, E.; Ligon, A. H.; Vena, N.; Ogino, S.; Chheda,
+M. G.; Tamayo, P.; and 16 others: CDK8 is a colorectal cancer oncogene
+that regulates beta-catenin activity. Nature 455: 547-551, 2008.
+
+4. Kapoor, A.; Goldberg, M. S.; Cumberland, L. K.; Ratnakumar, K.;
+Segura, M. F.; Emanuel, P. O.; Menendez, S.; Vardabasso, C.; LeRoy,
+G.; Vidal, C. I.; Polsky, D.; Osman, I.; Garcia, B. A.; Hernando,
+E.; Bernstein, E.: The histone variant macroH2A suppresses melanoma
+progression through regulation of CDK8. Nature 468: 1105-1109, 2010.
+
+5. Morris, E. J.; Ji, J.-Y.; Yang, F.; DiStefano, L.; Herr, A.; Moon,
+N.-S.; Kwon, E.-J.; Haigis, K. M.; Naar, A. M.; Dyson, N. J.: E2F1
+represses beta-catenin transcription and is antagonized by both pRB
+and CDK8. Nature 455: 552-556, 2008.
+
+6. Schultz, S. J.; Nigg, E. A.: Identification of 21 novel human
+protein kinases, including 3 members of a family related to the cell
+cycle regulator nimA of Aspergillus nidulans. Cell Growth Differ. 4:
+821-830, 1993.
+
+7. Tassan, J.-P.; Jaquenoud, M.; Leopold, P.; Schultz, S. J.; Nigg,
+E. A.: Identification of human cyclin-dependent kinase 8, a putative
+protein kinase partner for cyclin C. Proc. Nat. Acad. Sci. 92: 8871-8875,
+1995.
+
+CONTRIBUTORS Ada Hamosh - updated: 3/29/2011
+Ada Hamosh - updated: 10/20/2008
+Patricia A. Hartz - updated: 8/6/2007
+Ada Hamosh - updated: 9/6/2000
+
+CREATED Rebekah S. Rasooly: 10/22/1998
+
+EDITED alopez: 06/17/2011
+alopez: 3/31/2011
+terry: 3/29/2011
+alopez: 10/8/2010
+alopez: 10/22/2008
+terry: 10/20/2008
+mgross: 8/10/2007
+terry: 8/6/2007
+alopez: 9/6/2000
+alopez: 6/28/1999
+psherman: 10/23/1998
+psherman: 10/22/1998
+

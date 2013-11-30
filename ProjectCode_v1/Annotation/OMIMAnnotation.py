@@ -1,8 +1,11 @@
 
+OMIMDict = {}
+
 def GetOMIMDictionary():
+    if(len(OMIMDict.keys()) > 2):
+        return OMIMDict
     FILE=open("Annotation\omim.txt","r")
     control1=0
-    OMIMDict = {}
     GeneKey = "NONE"
     GeneText = ""
     lines = FILE.readlines()

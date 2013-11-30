@@ -1,0 +1,1026 @@
+602688	TITLE *602688 HETEROGENEOUS NUCLEAR RIBONUCLEOPROTEIN A/B; HNRNPAB
+;;APOLIPOPROTEIN B mRNA-EDITING ENZYME, CATALYTIC POLYPEPTIDE 1-BINDING
+PROTEIN 1;;
+APOBEC1-BINDING PROTEIN 1; ABBP1;;
+HNRPAB
+DESCRIPTION 
+CLONING
+
+Apolipoprotein B (APOB; 107730) mRNA editing is an intranuclear function
+and is mediated by a multiprotein editosome complex (see APOBEC1;
+600130). Using the yeast 2-hybrid system, Lau et al. (1997) identified
+an APOBEC1-binding protein (ABBP1) that interacts with APOB mRNA. The
+ABBP1 cDNA encodes a 331-amino acid protein that is identical to the
+human type A/B heterogeneous nuclear ribonucleoprotein (hnRNP) reported
+by Khan et al. (1991), except for a 47-residue insertion in its
+C-terminal region. Khan et al. (1991) identified the type A/B hnRNP as
+an RNA-binding protein of unknown function in HeLa cells. Northern blot
+analysis indicated that ABBP1 mRNA is distributed in multiple human
+tissues as an approximately 2-kb transcript. The 47-amino acid insertion
+of ABBP1 is encoded by an alternatively spliced exon.
+
+GENE FUNCTION
+
+Lau et al. (1997) found that ABBP1 contains typical RNP-type RNA-binding
+motifs in its N-terminal half and glycine-rich motifs, which house the
+APOBEC1-binding region, in its C-terminal region. ABBP1 binds to APOB
+mRNA transcripts around the editing site and can be UV-crosslinked to
+them. Editing is inhibited by ABBP1 immunodepletion or antisense ABBP1
+cDNA transfection.
+
+REFERENCE 1. Khan, F. A.; Jaiswal, A. K.; Szer, W.: Cloning and sequence analysis
+of a human type A/B hnRNP protein. FEBS Lett. 290: 159-161, 1991.
+
+2. Lau, P. P.; Zhu, H.-J.; Nakamuta, M.; Chan, L.: Cloning of an
+apobec-1-binding protein that also interacts with apolipoprotein B
+mRNA and evidence for its involvement in RNA editing. J. Biol. Chem. 272:
+1452-1455, 1997.
+
+CREATED Ethylin Wang Jabs: 6/4/1998
+
+EDITED carol: 06/11/2012
+wwang: 8/27/2008
+mgross: 5/5/2003
+alopez: 2/12/2001
+psherman: 6/5/1998
+psherman: 6/4/1998
+
+602297	TITLE *602297 EPHRIN B3; EFNB3
+;;EPH-RELATED RECEPTOR TYROSINE KINASE LIGAND 8; EPLG8;;
+LIGAND OF EPH-RELATED KINASE 8; LERK8;;
+EFL6
+DESCRIPTION 
+DESCRIPTION
+
+Members of the ephrin family are ligands for EPH-related receptor
+tyrosine kinases and are attached to the cell membrane by either a
+glycosylphosphatidylinositol linkage or a single transmembrane domain.
+See 179610 for additional information on ephrins and the Eph receptor
+family.
+
+CLONING
+
+Tang et al. (1997) isolated a cDNA encoding ephrin-B3 (EFNB3), named
+LERK8 by them, by screening a human fetal brain cDNA library using mouse
+Efnb1 cDNA as a probe. The EFNB3 protein contains a predicted
+transmembrane region, and its 340-amino acid sequence shares 38% and 40%
+identity with those of the transmembrane ephrins EFNB1 (300035) and
+EFNB2 (600527), respectively. Since the N-terminal halves of EFNB1,
+EFNB2, and EFNB3 are especially conserved, Tang et al. (1997) suggested
+that these proteins bind the same subclass of EPH-related receptor
+tyrosine kinases. In addition, a C-terminal region containing 5
+conserved tyrosine residues is strikingly similar among these ephrins,
+and the authors speculated that this region may function in signal
+transduction. Using Northern blot analysis, Tang et al. (1997) found
+that the EFNB3 gene is expressed as a major 3.5-kb transcript. In the
+midterm fetus, the highest EFNB3 mRNA level is in brain, followed by
+heart, kidney, and lung; expression in the adult is restricted to brain
+and is particularly high in forebrain subregions. Tang et al. (1997)
+suggested that EFNB3 is important in both brain development and
+maintenance and that it may play a pivotal role in forebrain function.
+
+GENE FUNCTION
+
+Palmer et al. (2002) showed that SRC family kinases, or SFKs (see SRC;
+190090), are positive regulators of ephrin-B phosphorylation and
+phosphotyrosine-mediated reverse signaling. EphB receptor engagement of
+ephrin-B caused rapid recruitment of SFKs to ephrin-B expression domains
+and transient SFK activation. With delayed kinetics, ephrin-B ligands
+recruited the cytoplasmic PDZ domain-containing protein tyrosine
+phosphatase PTPBL (see 600267) and were dephosphorylated. These data
+suggested the presence of a switch mechanism that allows a shift from
+phosphotyrosine-/SFK-dependent signaling to PDZ-dependent signaling.
+
+Local circuits in the spinal cord that generate locomotion are termed
+central pattern generators. These provide coordinated bilateral control
+over the normal limb alternation that underlies walking. Isolated spinal
+cords from mice lacking either the EphA4 receptor (602188) or its ligand
+ephrin B3 have lost left-right limb alternation and instead exhibit
+synchrony. Kullander et al. (2003) identified EphA4-positive neurons as
+an excitatory component of the locomotor central pattern generator.
+Kullander et al. (2003) concluded that dramatic locomotor changes can
+occur as a consequence of local genetic rewiring and identified genes
+required for the development of normal locomotor behavior.
+
+In mouse hippocampal neurons, Grunwald et al. (2004) showed that ephrin
+B2 and B3 are predominantly located postsynaptically and are required
+for synaptic plasticity, including both long-term potentiation and
+long-term depression. The EphA4 receptor is also critically involved in
+long-term plasticity independent of its cytoplasmic domain, suggesting
+that the ephrin B proteins are the active signaling partner. Grunwald et
+al. (2004) suggested that ephrins can be used in converse manners,
+depending on the synaptic site.
+
+MAPPING
+
+Tang et al. (1997) mapped the EFNB3 gene to chromosome 17 by PCR
+screening of somatic cell hybrid DNAs. They refined the localization to
+17p13.1-p11.2 by PCR screening of a chromosome 17 regional mapping
+panel.
+
+REFERENCE 1. Grunwald, I. C.; Korte, M.; Adelmann, G.; Plueck, A.; Kullander,
+K.; Adams, R. H.; Frotscher, M.; Bonhoeffer, T.; Klein, R.: Hippocampal
+plasticity requires postsynaptic ephrinBs. Nature Neurosci. 7: 33-40,
+2004.
+
+2. Kullander, K.; Butt, S. J. B.; Lebret, J. M.; Lundfald, L.; Restrepo,
+C. E.; Rydstrom, A.; Klein, R.; Kiehn, O.: Role of EphA4 and ephrinB3
+in local neuronal circuits that control walking. Science 299: 1889-1892,
+2003.
+
+3. Palmer, A.; Zimmer, M.; Erdmann, K. S.; Eulenburg, V.; Porthin,
+A.; Heumann, R.; Deutsch, U.; Klein, R.: EphrinB phosphorylation
+and reverse signaling: regulation by Src kinases and PTP-BL phosphatase. Molec.
+Cell 9: 725-737, 2002.
+
+4. Tang, X. X.; Pleasure, D. E.; Ikegaki, N.: cDNA cloning, chromosomal
+localization, and expression pattern of EPLG8, a new member of the
+EPLG gene family encoding ligands of EPH-related protein-tyrosine
+kinase receptors. Genomics 41: 17-24, 1997.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 1/22/2004
+Ada Hamosh - updated: 4/2/2003
+Stylianos E. Antonarakis - updated: 9/20/2002
+
+CREATED Patti M. Sherman: 1/29/1998
+
+EDITED tkritzer: 02/03/2004
+ckniffin: 1/22/2004
+alopez: 4/7/2003
+terry: 4/2/2003
+mgross: 9/20/2002
+psherman: 3/16/1999
+psherman: 7/14/1998
+psherman: 4/23/1998
+psherman: 4/20/1998
+dholmes: 1/29/1998
+
+607723	TITLE *607723 SAD1 AND UNC84 DOMAIN-CONTAINING PROTEIN 1; SUN1
+;;SUN DOMAIN-CONTAINING PROTEIN 1;;
+UNC84, C. ELEGANS, HOMOLOG OF, A; UNC84A;;
+KIAA0810
+DESCRIPTION 
+DESCRIPTION
+
+SUN1 and SUN2 (613569) are inner nuclear membrane (INM) proteins that
+play a major role in nuclear-cytoplasmic connection by formation of a
+'bridge' across the nuclear envelope, known as the LINC complex, via
+interaction with the conserved luminal KASH domain of nesprins (e.g.,
+SYNE1; 608441) located in the outer nuclear membrane (ONM). The LINC
+complex provides a direct connection between the nuclear lamina and the
+cytoskeleton, which contributes to nuclear positioning and cellular
+rigidity (summary by Haque et al., 2010).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1998) cloned UNC84A, which they called KIAA0810.
+The deduced protein contains 824 amino acids. UNC84A shares about 32%
+identity over 191 amino acids with Sad1 of Saccharomyces pombe. RT-PCR
+ELISA revealed weak to moderate expression in most tissues examined.
+Highest expression was detected in heart, skeletal muscle, kidney, and
+ovary, and weakest expression was detected in spleen.
+
+By searching databases for homologs of C. elegans Unc84, followed by
+5-prime RACE of a brain cDNA library, Malone et al. (1999) cloned human
+SUN1 and SUN2. The predicted proteins contain 824 and 724 amino acids,
+respectively, and their C termini share homology with the C termini of
+C. elegans Unc84 and S. pombe Sad1. Both SUN1 and SUN2 contain a
+transmembrane region.
+
+Using a yeast 2-hybrid screen with Trax (602964) as bait, Bray et al.
+(2002) cloned Unc84a, which they designated Sun1, from a mouse testis
+cDNA library. The deduced protein contains 310 amino acids. Overall the
+mouse and human proteins share 75% homology, and they share 89% homology
+in the C-terminal Sad1/Unc84 (SUN) domain. Northern blot analysis of
+mouse tissues detected a 4.3-kb transcript in all tissues examined, with
+highest levels in heart, brain, and testis, and a 2.5-kb transcript only
+in testis. Northern blot analysis of isolated testicular germ cells
+detected the 4.3-kb transcript in pachytene spermatocytes and the 2.5-kb
+transcript primarily in postmeiotic cells. Unc84a transfected into
+NIH-3T3 mouse fibroblasts showed 2 patterns of distribution. One pattern
+was predominantly cytoplasmic with perinuclear accumulation, and the
+other exhibited both nuclear and cytoplasmic staining, but no
+accumulation in the nucleoli. Bray et al. (2002) noted that these
+expression profiles may reflect regulation of expression during the cell
+cycle, since the transfected cells were not synchronized.
+
+By peptide mass fingerprint spectra, Dreger et al. (2001) identified
+Unc84a in a TX100-resistant fraction of nuclear envelope proteins
+isolated from a mouse neuroblastoma cell line. Mouse Unc84a contains a
+C2H2 zinc finger domain and 3 to 4 putative transmembrane segments. The
+apparent molecular mass of mouse Unc84a is about 100 kD. Indirect
+immunofluorescence of transiently transfected COS-7 cells detected
+Unc84a fluorescence in a rim-like pattern around the nucleus, typical
+for integral inner nuclear membrane proteins.
+
+By immunofluorescence analysis, Ding et al. (2007) found that the
+distribution of Sun1 changed during development of mouse spermatids. In
+primary spermatocytes, but not in round spermatids, Sun1 colocalized
+with telomeres. Sun1 associated with chromosome ends from early
+leptotene stage to diplotene stage, including homolog pairing, synapsis,
+and desynapsis, but it was absent from telomeres during diakinesis.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis and in vitro binding assays, Bray et al.
+(2002) determined that the C terminus of Unc84a interacts directly with
+Trax.
+
+Haque et al. (2010) stated that SUN1 and SUN2 interact with lamin A
+(LMNA; 150330) and that LMNA is required for the nuclear envelope
+localization of SUN2, but not SUN1. By immunoprecipitation of
+transfected human osteosarcoma cells and mouse fibroblasts, followed by
+in vitro pull-down assays and immunofluorescence microscopy, Haque et
+al. (2010) identified emerin (EMD; 300384) and short isoforms of
+nesprin-2 (SYNE2; 608442) as novel nucleoplasmic binding partners of
+mouse Sun1 and human SUN2. Emerin and nesprin-2 had overlapping binding
+sites, distinct from the LMNA-binding site, in Sun1 and SUN2. LMNA
+mutations associated with Emery-Dreifuss muscular dystrophy-2 (EDMD2;
+181350) and Hutchinson-Gilford progeria syndrome (HGPS; 176670)
+disrupted interaction of LMNA with Sun1 and SUN2. Nuclear localization
+of SUN1 and SUN2 was not impaired in EDMD2 or HGPS cell lines.
+Expression of SUN1, but not SUN2, at the nuclear envelope was enhanced
+in some HGPS cells, likely due to increased interaction of SUN1 with
+accumulated prelamin A. Haque et al. (2010) proposed that different
+perturbations in LMNA-SUN protein interactions may underlie the opposing
+effects of EDMD and HGPS mutations on nuclear and cellular mechanics.
+
+Chen et al. (2012) showed that cells from Lmna -/- mice, which represent
+EDMD2, cells from Lmna(L530P/L530P) mice, which represent HGPS, and
+cells from HGPS patients all had overaccumulation of the inner nuclear
+envelope SUN1 protein. In wildtype cells, Lmna and Sun1 colocalized at
+the nuclear envelope. In Lmna -/- cells, larger amounts of Sun1 were
+found at the nuclear envelope and also in the Golgi. The larger amounts
+of Sun1 appeared to result from reduced protein turnover. Transfection
+of increasing amounts of mouse Sun1 into Lmna-null/Sun1-null murine
+cells resulted in increased prevalence of nuclear herniations and
+apoptosis, and the herniations appeared to result from Sun1 accumulation
+in the Golgi. Loss of the Sun1 gene in both mouse models extensively
+rescued cellular, tissue, organ, and lifespan abnormalities. Similarly,
+knockdown of overaccumulated SUN1 protein in primary human HGPS cells
+corrected nuclear defects and cellular senescence. The findings
+indicated that accumulation of SUN1 is a common pathogenetic event in
+these disorders.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the UNC84A
+gene to chromosome 7.
+
+ANIMAL MODEL
+
+Ding et al. (2007) obtained Sun1-null mouse embryos in the expected
+mendelian ratio. Both male and female Sun1-null mice developed normally,
+but they were sterile. Histologic examination showed that germ cells
+were largely depleted in seminiferous tubules of Sun1-null mice.
+Spermatids and spermatozoa were completely absent, and only abnormal
+spermatocyte-like cells accumulated in some tubules. TUNEL staining
+revealed that massive apoptosis accounted for the absence of spermatids
+and spermatozoa in Sun1-null testis.
+
+Lei et al. (2009) found that anchorage of skeletal muscle nuclei at
+neuromuscular junctions was partially disrupted in Sun1-null mice, but
+not in Sun2-null mice. Anchorage of nonsynaptic nuclei was normal in
+both Sun1-null mice and Sun2-null mice. Sun1/Sun2 double-knockout mice
+died soon after birth, with enhanced loss of synaptic nuclei, disrupted
+organization of nonsynaptic nuclei, and mislocalization of Syne1 at
+synaptic junctions. Disruption of 3 or all 4 wildtype Sun1 and Sun2
+alleles revealed a gene dosage effect on synaptic nuclear anchorage. Lei
+et al. (2009) concluded that SUN1 and SUN2 have partially redundant
+functions on synaptic nuclear anchorage in skeletal muscle fibers.
+
+Zhang et al. (2009) showed that Sun1 and Sun2 double-knockout (Sun1/2
+DKO) mice and Syne1 and Syne2 double-knockout (Syne1/2 DKO) mice had
+similar defects in brain development. Sun1/2 DKO and Syne1/2 DKO brains
+were small and showed defective laminary structures in many brain
+regions. Examination of neocortex revealed failure of radial neuronal
+migration, but not tangential migration of interneurons, in both Sun1/2
+DKO and Syne1/2 DKO mice. Intracellular movement of nuclei is a
+prerequisite for proper neuron migration and development, and Zhang et
+al. (2009) found that Sun1 and Sun2 anchored Syne2 to the nuclear
+envelope, while Syne1 and Syne2 connected the nuclear envelope to the
+microtubule network, permitting nuclear movement. Zhang et al. (2009)
+concluded that a complex made up of SUN1, SUN2, SYNE1, and SYNE2 is
+required for neuronal nuclear movement and for neuronal migration and
+development.
+
+REFERENCE 1. Bray, J. D.; Chennathukuzhi, V. M.; Hecht, N. B.: Identification
+and characterization of cDNAs encoding four novel proteins that interact
+with translin associated factor-X. Genomics 79: 799-808, 2002.
+
+2. Chen, C.-Y.; Chi, Y.-H.; Mutalif, R. A.; Starost, M. F.; Myers,
+T. G.; Anderson, S. A.; Stewart, C. L.; Jeang, K.-T.: Accumulation
+of the inner nuclear envelope protein Sun1 is pathogenic in progeric
+and dystrophic laminopathies. Cell 149: 565-577, 2012.
+
+3. Ding, X.; Xu, R.; Yu, J.; Xu, T.; Zhuang, Y.; Han, M.: SUN1 is
+required for telomere attachment to nuclear envelope and gametogenesis
+in mice. Cell 12: 863-872, 2007.
+
+4. Dreger, M.; Bengtsson, L.; Schoneberg, T.; Otto, H.; Hucho, F.
+: Nuclear envelope proteomics: novel integral membrane proteins of
+the inner nuclear membrane. Proc. Nat. Acad. Sci. 98: 11943-19948,
+2001.
+
+5. Haque, F.; Mazzeo, D.; Patel, J. T.; Smallwood, D. T.; Ellis, J.
+A.; Shanahan, C. M.; Shackleton, S.: Mammalian SUN protein interaction
+networks at the inner nuclear membrane and their role in laminopathy
+disease processes. J. Biol. Chem. 285: 3487-3498, 2010.
+
+6. Lei, K.; Zhang, X.; Ding, X.; Guo, X.; Chen, M.; Zhu, B.; Xu, T.;
+Zhuang, Y.; Xu, R.; Han, M.: SUN1 and SUN2 play critical but partially
+redundant roles in anchoring nuclei in skeletal muscle cells in mice. Proc.
+Nat. Acad. Sci. 106: 10207-10212, 2009.
+
+7. Malone, C. J.; Fixsen, W. D.; Horvitz, H. R.; Han, M.: UNC-84
+localizes to the nuclear envelope and is required for nuclear migration
+and anchoring during C. elegans development. Development 126: 3171-3181,
+1999.
+
+8. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XI. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 5: 277-286, 1998.
+
+9. Zhang, X.; Lei, K.; Yuan, X.; Wu, X.; Zhuang, Y.; Xu, T.; Xu, R.;
+Han, M.: SUN1/2 and Syne/Nesprin-1/2 complexes connect centrosome
+to the nucleus during neurogenesis and neuronal migration in mice. Neuron 64:
+173-187, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/3/2012
+Patricia A. Hartz - updated: 11/8/2011
+Patricia A. Hartz - updated: 12/2/2010
+Paul J. Converse - updated: 9/20/2010
+Patricia A. Hartz - updated: 6/26/2007
+
+CREATED Patricia A. Hartz: 4/25/2003
+
+EDITED carol: 10/17/2012
+carol: 10/16/2012
+ckniffin: 10/3/2012
+mgross: 11/15/2011
+terry: 11/8/2011
+mgross: 12/7/2010
+terry: 12/2/2010
+mgross: 9/20/2010
+mgross: 7/12/2007
+terry: 6/26/2007
+terry: 7/20/2004
+mgross: 4/25/2003
+
+182205	TITLE *182205 SEX HORMONE-BINDING GLOBULIN; SHBG
+;;ANDROGEN-BINDING PROTEIN; ABP;;
+TESTOSTERONE-BINDING BETA-GLOBULIN; TEBG
+DESCRIPTION 
+CLONING
+
+Using a previously characterized liver cDNA as a probe, Gershagen et al.
+(1989) isolated a liver-secreted plasma glycoprotein that binds sex
+steroids. Screening of a human testis cDNA library resulted in the
+isolation of 2 distinct cDNA forms. One was identical to the previously
+characterized liver SHBG cDNA, thus suggesting that human SHBG and the
+androgen-binding protein (ABP) produced by Sertoli cells are encoded by
+the same gene. The second cDNA differed from the first by having exon 1
+exchanged with a completely different sequence and exon 7 deleted.
+Primer extension experiments showed that the alternatively spliced
+transcript corresponding to the second cDNA is present in both liver and
+testis. From the primary structure of the putative SHBG-gene-related
+protein, Gershagen et al. (1989) deduced that the protein is very
+different from SHBG and probably without steroid-binding activity.
+
+GENE STRUCTURE
+
+By Southern blot analysis of genomic DNA, Gershagen et al. (1989) found
+evidence indicating that only 1 SHBG is present in the human haploid
+genome. The gene has 8 exons.
+
+MAPPING
+
+By in situ hybridization, Berube et al. (1990) localized the SHBG gene
+to chromosome 17p13-p12. By the study of intersubspecies backcrosses,
+Joseph et al. (1991) found that Shbg is located on mouse chromosome 11
+in close linkage to several neurologic mutations, one of which, Tr, is
+associated with male sterility. The fact that ABP-SHBG is found
+throughout the rat brain suggested that these mutations may represent a
+defect in Shbg.
+
+GENE FUNCTION
+
+Testosterone in plasma is present in both bound and unbound form; only
+the unbound hormone is biologically active and available to tissues.
+About 66% of testosterone is bound to testosterone-binding beta-globulin
+(TEBG), 31% to albumin, and 1.5% to transcortin; 2% is unbound. The
+regulatory function of TEBG is said to be well illustrated by female
+hirsutism; although many hirsute women have normal levels of total
+plasma testosterone, nearly all have depressed levels of TEBG, resulting
+in increased levels of unbound testosterone (Wenn et al., 1977; Raj et
+al., 1978).
+
+In mice expressing an 11-kb human SHBG transgene and in HepG2
+hepatoblastoma cells, Selva et al. (2007) demonstrated that the
+monosaccharides glucose and fructose reduced human SHBG production by
+hepatocytes, irrespective of the presence of insulin, by downregulation
+of hepatocyte nuclear factor-4A (HNF4A; 600281) and replacement of HNF4A
+by COUP-TFI (NR2F1; 132890) at a cis-element within the human SHBG
+promoter, coincident with repression of its transcriptional activity.
+Dose-dependent reduction of HNF4A in HepG2 cells occurred in concert
+with parallel increases in cellular palmitate levels and could be
+mimicked by treatment with palmitoyl-CoA; inhibition of lipogenesis
+prevented monosaccharide-induced downregulation of HNF4A and reduced
+SHBG expression in HepG2 cells. Selva et al. (2007) concluded that
+monosaccharide-induced lipogenesis reduces hepatic HNF4A levels, which
+in turn attenuates SHBG expression, and noted that this provides a
+biologic explanation for the sensitivity of SHBG as a biomarker of the
+metabolic syndrome.
+
+BIOCHEMICAL FEATURES
+
+Cavalli-Sforza et al. (1977) developed an ingenious method for detection
+of genetic variation in plasma proteins, namely, electrophoretic
+screening after treatment with radioactive ligands such as vitamins,
+hormones, metal ions and drugs. This is essentially a method of
+'staining' the protein comparable to the methods using dyes. With this
+approach they identified polymorphism of testosterone-binding
+beta-globulin, as well as a possible silent allele. By polyacrylamide
+gel electrophoresis (PAGE), Luckock and Cavalli-Sforza (1983) identified
+4 electrophoretic variants, which they suggested result from
+combinations of 3 alleles, designated N ('normal'), S ('slow'), and O
+('absent'). The first 2 are codominant and the third recessive. The
+frequencies of the 3 alleles in white Americans were, respectively,
+0.68, 0.11, 0.21; in black Americans, 0.65, 0.14, 0.22; in Japanese
+Americans, 0.59, 0.09, 0.32. Phenotype frequencies and segregation from
+various crosses supported simple mendelian inheritance of an autosomal
+gene.
+
+By investigating neuraminidase-treated serum samples using isoelectric
+focusing (IEF) followed by transfer to nitrocellulose membranes and
+immunostaining, van Baelen et al. (1992) distinguished 3 patterns
+consistent with the expression of a biallelic autosomal system. They
+published data on allele frequencies in many populations and found
+frequencies of the common allele (SHBG*1) varying from 0.848 in Chinese
+to 0.985 in Balinese; monomorphism was found only in Australian
+Aborigines, all 47 of whom were SHBG*1 homozygotes. Van Baelen et al.
+(1992) found no significant difference for allele frequencies among
+hirsute Belgian women. They also presented evidence that the subunit
+produced by the SHBG*2 allele has a higher molecular mass than the one
+produced by the SHBG*1 allele and that the 3 SHBG genotypes have
+identical binding characteristics for 5-alpha-dihydrotestosterone.
+
+MOLECULAR GENETICS
+
+Power et al. (1992) demonstrated in a Belgian patient homozygous for a
+variant isoelectric focusing pattern that a point mutation was present
+in exon 8, creating an additional site for N-linked glycosylation.
+Expression studies showed that steroid binding was not affected. Hardy
+et al. (1995) found the same mutation in Mexican subjects who were
+heterozygous for the variant IEF phenotype. Denaturing gradient gel
+electrophoresis (DGGE) was used to localize the mutation in these
+subjects and to purify the variant allele for DNA sequence analysis. A
+GAC-to-AAC transition in codon 327 caused an asp-to-asn substitution in
+the protein (D327N). The site of the mutation does not lie within the
+predicted steroid-binding site of the molecule. The finding in these
+widely separated populations suggested that the SHBG gene is biallelic
+worldwide. The polymorphism was not associated with any pathologic
+condition.
+
+Xita et al. (2003) investigated the possible association of the
+functional (TAAAA)n polymorphism in the promoter of the SHBG gene
+(Hogeveen et al., 2001) with polycystic ovary syndrome (PCOS; 184700)
+and SHBG levels. They studied 185 women with PCOS and 324 normal
+controls. Genotyping revealed 6 (TAAAA)n alleles containing 6 to 11
+repeats. The distribution of these alleles was different in the 2
+groups. Women with PCOS had a significantly greater frequency of longer
+(TAAAA)n alleles (more than 8 repeats) than normal women who had shorter
+alleles (fewer than 8 repeats) in higher frequency (P = 0.001). In the
+PCOS group, carriers of the longer allele genotypes had lower SHBG
+levels than those with shorter alleles. The authors concluded that SHBG
+may be a susceptibility gene for PCOS and may provide the genetic link
+for the developmental origin hypothesis for PCOS that was proposed on
+the basis of experimental observations in prenatally androgenized sheep
+and primates (Abbott et al., 2002).
+
+In a population of 303 women referred for hirsutism, Cousin et al.
+(2004) investigated the relationship between the D327N mutation in SHBG
+exon 8, the pentanucleotide repeat polymorphism (TAAAA)n in the SHBG
+5-prime untranslated region, and SHBG levels. The D327N mutant allele
+was associated with higher SHBG levels than was the wildtype.
+Multivariate analysis showed that BMI, PCOS status, and D327N
+polymorphism influenced plasma SHBG concentrations, each of these
+parameters contributing independently of the others. A strong
+disequilibrium linkage was found between the D327N variant allele and an
+allele with 8 TAAAA repeats (P less than 0.0001). The authors suggested
+that this linkage disequilibrium could mask the effect of the TAAAA
+repeat polymorphism on SHBG concentration in vivo. Nevertheless, SHBG
+levels in patients who were homozygous for 6 repeats were significantly
+(P = 0.043) higher than in 9-repeat homozygous patients and lay between
+the two for 8-repeat homozygous patients. Results supported the notion
+that polymorphism within the coding sequence and, potentially, in the
+regulatory sequence of the SHBG gene is associated with circulating SHBG
+levels and may represent part of the genetic background of sex steroid
+hormone activity in humans.
+
+For discussion of a possible association between variation in the SHBG
+gene and type 2 diabetes, see 125853.
+
+- SHBG Circulating Level Quantitative Trait Locus
+
+Eriksson et al. (2006) studied whether either of 2 polymorphisms in the
+SHBG gene promoter, a (TAAAA)n microsatellite and the SNP dbSNP
+rs1799941, are associated with serum levels of SHBG (613498), sex
+steroids, or bone mineral density (BMD) in men. In both cohorts,
+(TAAAA)n and dbSNP rs1799941 genotypes were associated with serum levels
+of SHBG (P less than 0.001), dihydrotestosterone (P less than 0.05), and
+5-alpha-androstane-3-alpha,17-beta-diol glucuronides (P less than 0.05).
+In the elderly men, they were also associated with testosterone and BMD
+at all hip bone sites. Eriksson et al. (2006) concluded that
+polymorphisms in the SHBG promoter predict serum levels of SHBG,
+androgens, and glucuronidated androgen metabolites, and hip BMD in men.
+
+In the NCI-Breast and Prostate Cancer Cohort Consortium using 874 SNPs
+in 37 candidate genes in the sex steroid hormone pathway, Ahn et al.
+(2009) identified a G-A variant (dbSNP rs1799941) located 67 bp upstream
+from the transcription start site of the SHBG gene associated with
+increased mean circulating levels of SHBG in 4,720 Caucasian men (p =
+4.52 x 10(-21); 26.9% increase in AA homozygotes versus wildtype
+homozygotes). The relationship between dbSNP rs1799941 was consistent
+across the 5 cohorts in the study, age, BMI, and case-control status.
+Additionally, dbSNP rs1799941 was also strongly associated with
+increased mean circulating levels of testosterone in 4,678 Caucasian men
+(p = 7.54 x 10(-15); 14.3% increase in AA homozygotes versus wildtype
+homozygotes). Since clearance and bioavailability of testosterone are
+related to SHBG levels, Ahn et al. (2009) used regression analysis to
+show that also tended to predict SHBG adjusted-testosterone levels (p =
+1.33 x 10(-3)).
+
+HISTORY
+
+Gross and Horton (1971) presented evidence indicating 'dominant'
+segregation of the trait and low testosterone-binding protein, and
+suggested Y-linkage. Hecht and Kimberling (1971) pointed out that since
+the Y chromosome represents only about 2% of the human male haploid
+genome, Bayesian correction of the estimate of Y-linkage reduces the
+value to 1 in 3.
+
+REFERENCE 1. Abbott, D. H.; Dumesic, D. A.; Franks, S.: Developmental origin
+of polycystic ovary syndrome--a hypothesis. J. Endocr. 174: 1-5,
+2002.
+
+2. Ahn, J.; Schumacher, F. R.; Berndt, S. I.; Pfeiffer, R.; Albanes,
+D.; Andriole, G. L.; Ardanaz, E.; Boeing, H.; Bueno-de-Mesquita, B.;
+Chanock, S. J.; Clavel-Chapelon, F.; Diver, W. R.: and 25 others:
+Quantitative trait loci predicting circulating sex steroid hormones
+in men from the NCI-Breast and Prostate Cancer Cohort Consortium (BPC3). Hum.
+Molec. Genet. 18: 3749-3757, 2009.
+
+3. Berube, D.; Seralini, G. E.; Gagne, R.; Hammond, G. L.: Localization
+of the human sex hormone-binding globulin gene (SHBG) to the short
+arm of chromosome 17 (17p12-p13). Cytogenet. Cell Genet. 54: 65-67,
+1990.
+
+4. Cavalli-Sforza, L. L.; Daiger, S. P.; Rummel, D. P.: Detection
+of genetic variation with radioactive ligands. I. Electrophoretic
+screening of plasma proteins with a selected panel of compounds. Am.
+J. Hum. Genet. 29: 581-592, 1977.
+
+5. Cousin, P.; Calemard-Michel, L.; Lejeune, H.; Raverot, G.; Yessaad,
+N.; Emptoz-Bonneton, A.; Morel, Y.; Pugeat, M.: Influence of SHBG
+gene pentanucleotide TAAAA repeat and D327N polymorphism on serum
+sex hormone-binding globulin concentration in hirsute women. J. Clin.
+Endocr. Metab. 89: 917-924, 2004.
+
+6. Eriksson, A. L.; Lorentzon, M.; Mellstrom, D.; Vandenput, L.; Swanson,
+C.; Andersson, N.; Hammond, G. L.; Jakobsson, J.; Rane, A.; Orwoll,
+E. S.; Ljunggren, O.; Johnell, O.; Labrie, F.; Windahl, S. H.; Ohlsson,
+C.: SHBG gene promoter polymorphisms in men are associated with serum
+sex hormone-binding globulin, androgen and androgen metabolite levels,
+and hip bone mineral density. J. Clin. Endocr. Metab. 91: 5029-5037,
+2006.
+
+7. Gershagen, S.; Lundwall, A.; Fernlund, P.: Characterization of
+the human sex hormone binding globulin (SHBG) gene and demonstration
+of two transcripts in both liver and testis. Nucleic Acids Res. 17:
+9245-9258, 1989.
+
+8. Gross, H.; Horton, R.: Low testosterone binding protein: possibly
+Y-linked trait. Lancet 297: 346-347, 1971. Note: Originally Volume
+I.
+
+9. Hardy, D. O.; Carino, C.; Catterall, J. F.; Larrea, F.: Molecular
+characterization of a genetic variant of the steroid hormone-binding
+globulin gene in heterozygous subjects. J. Clin. Endocr. Metab. 80:
+1253-1256, 1995.
+
+10. Hecht, F.; Kimberling, W. J.: Testosterone-binding protein probably
+not Y-linked. (Letter) Lancet 297: 1300 only, 1971. Note: Originally
+Volume I.
+
+11. Hogeveen, K. N.; Talikka, M.; Hammond, G. L.: Human sex hormone-binding
+globulin promoter activity is influenced by a (TAAAA)n repeat element
+within an Alu sequence. J. Biol. Chem. 276: 36383-36390, 2001.
+
+12. Joseph, D. R.; Adamson, M. C.; Kozak, C. A.: Genetic mapping
+of the gene for androgen-binding protein/sex hormone-binding globulin
+to mouse chromosome 11. Cytogenet. Cell Genet. 56: 122-124, 1991.
+
+13. Luckock, A.; Cavalli-Sforza, L. L.: Detection of genetic variation
+with radioactive ligands. V. Genetic variants of testosterone-binding
+globulin in human serum. Am. J. Hum. Genet. 35: 49-57, 1983.
+
+14. Power, S. G.A.; Bocchinfuso, W. P.; Pallesen, M.; Warmels-Rodenhiser,
+S.; Van Baelen, H.; Hammond, G. L.: Molecular analyses of a human
+sex hormone-binding globulin variant: evidence for an additional carbohydrate
+chain. J. Clin. Endocr. Metab. 75: 1066-1070, 1992.
+
+15. Raj, S. G.; Thompson, I. E.; Berger, M. J.; Talert, L. M.; Taymor,
+M. L.: Diagnostic value of androgen measurements in polycystic ovary
+syndrome. Obstet. Gynec. 52: 169-171, 1978.
+
+16. Selva, D. M.; Hogeveen, K. N.; Innis, S. M.; Hammond, G. L.:
+Monosaccharide-induced lipogenesis regulates the human hepatic sex
+hormone-binding globulin gene. J. Clin. Invest. 117: 3979-3987,
+2007.
+
+17. van Baelen, H.; Convents, R.; Cailleau, J.; Heyns, W.: Genetic
+variation of human sex hormone-binding globulin: evidence for a worldwide
+bi-allelic gene. J. Clin. Endocr. Metab. 75: 135-139, 1992.
+
+18. Wenn, R. V.; Kamberi, I. A.; Vossough, P.; Kariminejad, M. H.;
+Torabee, E.; Ayoughi, F.; Keyvanjah, M.; Sarberi, N.: Human testosterone-oestradiol
+binding globulin in health and disease. Acta Endocr. 84: 850-859,
+1977.
+
+19. Xita, N.; Tsatsoulis, A.; Chatzikyriakidou, A.; Georgiou, I.:
+Association of the (TAAAA)n repeat polymorphism in the sex hormone-binding
+globulin (SHBG) gene with polycystic ovary syndrome and relation to
+SHBG serum levels. J. Clin. Endocr. Metab. 88: 5976-5980, 2003.
+
+CONTRIBUTORS George E. Tiller - updated: 7/8/2010
+Marla J. F. O'Neill - updated: 9/16/2009
+John A. Phillips, III - updated: 10/2/2007
+John A. Phillips, III - updated: 4/13/2005
+John A. Phillips, III - updated: 3/31/2005
+
+CREATED Victor A. McKusick: 7/2/1990
+
+EDITED wwang: 07/23/2010
+terry: 7/8/2010
+carol: 9/16/2009
+terry: 2/9/2009
+wwang: 5/16/2008
+alopez: 10/2/2007
+alopez: 4/13/2005
+alopez: 3/31/2005
+carol: 5/14/2004
+alopez: 5/24/1999
+mark: 6/9/1995
+carol: 9/1/1992
+carol: 8/31/1992
+supermim: 3/16/1992
+carol: 5/16/1991
+carol: 1/23/1991
+
+190010	TITLE *190010 TRANSFERRIN RECEPTOR; TFRC
+;;TRANSFERRIN RECEPTOR 1; TFR1;;
+TFR;;
+TRFR;;
+CD71
+DESCRIPTION 
+CLONING
+
+A monoclonal antibody, OKT-9, recognizes an antigen ubiquitously
+distributed on the cell surface of actively growing human cells. It is a
+glycoprotein composed of disulfide-linked polypeptide chains, each of
+90,000 daltons molecular weight. Immunoprecipitation of the OKT-9
+antigen in the presence of labeled transferrin results in specific
+precipitation of transferrin (Sutherland et al., 1981); thus, the OKT-9
+antigen is presumably transferrin receptor. Nikinmaa and Schroder (1987)
+concluded that p90 and TFRC are the same protein: studies using
+monoclonal antibodies indicated that exhaustive precipitation of
+radioactively labeled lysates with one antibody removed all activity of
+lysates with the other. Peptide maps of antigens recognized with both
+antibodies showed great similarity and indicated that both antibodies
+react with the same antigen, the human transferrin receptor, but with
+different antigenic sites of the molecule.
+
+GENE FUNCTION
+
+Casey et al. (1988) analyzed the regulation by iron of the TFRC gene by
+examining mouse cells transformed with chimeric constructs containing
+the human transferrin receptor gene's promoter and either the structural
+gene for bacterial chloramphenicol acetyltransferase or the human TFRC
+cDNA. They concluded that at least 2 genetic elements, one 5-prime and
+one 3-prime to the gene, are involved in the regulation of the TFRC gene
+by iron.
+
+Radoshitzky et al. (2007) demonstrated a specific high-affinity
+association between TFR1 and the entry glycoprotein of Machupo virus (a
+New World arenavirus). Expression of human TFR1, but not human TFR2
+(604720), in hamster cell lines markedly enhanced the infection of
+viruses pseudotyped with the glycoprotein of Machupo, Guanarito, and
+Junin viruses, but not with those of Lassa or lymphocytic
+choriomeningitis viruses. An anti-TFR1 antibody efficiently inhibited
+the replication of Machupo, Guanarito, Junin, and Sabia viruses, but not
+that of Lassa virus. Iron depletion of culture medium enhanced, and iron
+supplementation decreased, the efficiency of infection by Junin and
+Machupo but not Lassa pseudoviruses. Radoshitzky et al. (2007) concluded
+that TFR1 is a cellular receptor for New World hemorrhagic fever
+arenaviruses.
+
+Ishii et al. (2009) found that knockdown of Ppargc1b (608886) in primary
+mouse osteoclasts impaired their differentiation and mitochondrial
+biogenesis. Transferrin receptor expression was induced in osteoclasts
+via iron regulatory protein-2 (IREB2; 147582), and Tfrc-mediated iron
+uptake promoted osteoclast differentiation and bone-resorbing activity,
+which was associated with the induction of mitochondrial respiration,
+production of reactive oxygen species, and accelerated Ppargc1b
+transcription. Iron chelation inhibited osteoclastic bone resorption and
+protected female mice against bone loss following estrogen deficiency
+resulting from ovariectomy. Ishii et al. (2009) concluded that
+mitochondrial biogenesis, which is induced by PPARGC1B and supported by
+TFRC-mediated iron uptake for utilization by mitochondrial respiratory
+proteins, is fundamental to osteoclast activation and bone metabolism.
+
+MAPPING
+
+By somatic cell hybrid studies, Goodfellow et al. (1982) assigned the
+TFR locus to chromosome 3. Miller et al. (1983) confirmed the assignment
+to chromosome 3, specifically 3q22-qter. By in situ hybridization, Rabin
+et al. (1985) narrowed the assignment to 3q26.2-qter. Adriaansen et al.
+(1990) confirmed the assignment to chromosome 3 by study of somatic cell
+hybrids. Using linkage analysis, somatic cell hybrid and radiation
+hybrid mapping panels, and fluorescence in situ hybridization, Kashuba
+et al. (1997) refined the localization of the TFRC gene to 3q29.
+
+Valenzuela et al. (1991) found highly significant association between Rh
+(111700) phenotypes and total iron binding capacity, i.e., transferrin.
+Children with the C Rh specificity had higher values than non-C or c
+individuals. Valenzuela et al. (1991) suggested that this finding may be
+significant in relation to maintenance of the Rh polymorphism and
+fetomaternal incompatibility.
+
+BIOCHEMICAL FEATURES
+
+Athletes such as racing cyclists sometimes use erythropoietin, which has
+been officially included in the International Olympic Committee list of
+banned substances since 1990, as a booster drug. Gareau et al. (1994)
+presented evidence that the level of transferrin receptor in the blood
+can be used as a means of detecting Epo misuse.
+
+ANIMAL MODEL
+
+Levy et al. (1999) disrupted the transferrin receptor gene, which they
+termed Trfr, in mice. Homozygous mutant mice were not viable beyond
+embryonic day 12.5 and had severe anemia with hydrops as well as diffuse
+neurologic abnormalities. There was some variation of onset of severe
+anemia, and in nonanemic embryos without tissue edema and necrosis
+(E9.5), both stressed erythropoiesis and neurologic abnormalities were
+apparent. The authors concluded that inadequate iron led to neuronal
+apoptosis, but that tissues other than erythrocytes and neurons can
+obtain sufficient iron for growth and development through mechanisms
+independent of the transferrin cycle. Haploinsufficiency for the
+transferrin receptor resulted in microcytic, hypochromic erythrocytes;
+normal hemoglobin and hematocrit values were due to compensatory
+increase in red cell numbers. Although iron saturation of serum
+transferrin was indistinguishable from that of wildtype, heterozygotes
+had significantly less tissue iron.
+
+ADDITIONAL REFERENCES Enns et al. (1982); Larrick and Hyman (1984); Newman et al. (1982);
+Omary and Trowbridge (1981); Schneider et al. (1983); Schneider et
+al. (1984); Vodinelich et al. (1983)
+REFERENCE 1. Adriaansen, H. J.; Geurts Van Kessel, A. H. M.; Wijdenes-De Bresser,
+J. H. F. M.; Van Drunen-Schoenmaker, E.; Van Dongen, J. J. M.: Expression
+of the myeloid differentiation antigen CD33 depends on the presence
+of human chromosome 19 in human-mouse hybrids. Ann. Hum. Genet. 54:
+115-119, 1990.
+
+2. Casey, J. L.; Di Jeso, B.; Rao, K.; Klausner, R. D.; Harford, J.
+B.: Two genetic loci participate in the regulation by iron of the
+gene for the human transferrin receptor. Proc. Nat. Acad. Sci. 85:
+1787-1791, 1988.
+
+3. Enns, C. A.; Suomalainen, H. A.; Gebhardt, J. E.; Schroder, J.;
+Sussman, H. H.: Human transferrin receptor: expression of the receptor
+is assigned to chromosome 3. Proc. Nat. Acad. Sci. 79: 3241-3245,
+1982.
+
+4. Gareau, R.; Gagnon, M. G.; Thellend, C.; Chenard, C.; Audran, M.;
+Chanal, J.-L.; Ayotte, C.; Brisson, G. R.: Transferrin soluble receptor:
+a possible probe for detection of erythropoietin abuse by athletes. Horm.
+Metab. Res. 26: 311-312, 1994.
+
+5. Goodfellow, P. N.; Banting, G.; Sutherland, R.; Greaves, M.; Solomon,
+E.; Povey, S.: Expression of human transferrin receptor is controlled
+by a gene on chromosome 3: assignment using species specificity of
+a monoclonal antibody. Somat. Cell Genet. 8: 197-206, 1982.
+
+6. Ishii, K.; Fumoto, T.; Iwai, K.; Takeshita, S.; Ito, M.; Shimohata,
+N.; Aburatani, H.; Taketani, S.; Lelliott, C. J.; Vidal-Puig, A.;
+Ikeda, K.: Coordination of PGC-1-beta and iron uptake in mitochondrial
+biogenesis and osteoclast activation. Nature Med. 15: 259-266, 2009.
+
+7. Kashuba, V. I.; Gizatullin, R. Z.; Protopopov, A. I.; Allikmets,
+R.; Korolev, S.; Li, J.; Boldog, F.; Tory, K.; Zabarovska, V.; Marcsek,
+Z.; Sumegi, J.; Klein, G.; Zabarovsky, E. R.; Kisselev, L.: NotI
+linking/jumping clones of human chromosome 3: mapping of the TFRC,
+RAB7 and HAUSP genes to regions rearranged in leukemia and deleted
+in solid tumors. FEBS Lett. 419: 181-185, 1997.
+
+8. Larrick, J. W.; Hyman, E. S.: Acquired iron-deficiency anemia
+caused by an antibody against the transferrin receptor. New Eng.
+J. Med. 311: 214-218, 1984.
+
+9. Levy, J. E.; Jin, O.; Fujiwara, Y.; Kuo, F.; Andrews, N. C.: Transferrin
+receptor is necessary for development of erythrocytes and the nervous
+system. Nature Genet. 21: 396-399, 1999.
+
+10. Miller, Y. E.; Jones, C.; Scoggin, C.; Morse, H.; Seligman, P.
+: Chromosome 3q (22-ter) encodes the human transferrin receptor. Am.
+J. Hum. Genet. 35: 573-583, 1983.
+
+11. Newman, R.; Schneider, C.; Sutherland, R.; Vodinelich, L.; Greaves,
+M.: The transferrin receptor. Trends Biochem. Sci. 7: 397-400,
+1982.
+
+12. Nikinmaa, B.; Schroder, J.: Two antigens, the transferrin receptor
+and p90 assigned to human chromosome 3, are probably the same protein. Hereditas 107:
+55-58, 1987.
+
+13. Omary, M. B.; Trowbridge, I. S.: Biosynthesis of the human transferrin
+receptor in cultured cells. J. Biol. Chem. 256: 12888-12892, 1981.
+
+14. Rabin, M.; McClelland, A.; Kuhn, L.; Ruddle, F. H.: Regional
+localization of the human transferrin receptor gene to 3q26.2-qter. Am.
+J. Hum. Genet. 37: 1112-1116, 1985.
+
+15. Radoshitzky, S. R.; Abraham, J.; Spiropoulou, C. F.; Kuhn, J.
+H.; Nguyen, D.; Li, W.; Nagel, J.; Schmidt, P. J.; Nunberg, J. H.;
+Andrews, N. C.; Farzan, M.; Choe, H.: Transferrin receptor 1 is a
+cellular receptor for New World haemorrhagic fever arenaviruses. Nature 446:
+92-96, 2007.
+
+16. Schneider, C.; Kurkinen, M.; Greaves, M.: Isolation of cDNA clones
+for the human transferrin receptor. EMBO J. 2: 2259-2263, 1983.
+
+17. Schneider, C.; Owen, M. J.; Banville, D.; Williams, J. G.: Primary
+structure of human transferrin receptor deduced from the mRNA sequence. Nature 311:
+675-678, 1984.
+
+18. Sutherland, R.; Delia, D.; Schneider, C.; Newman, R.; Kemshead,
+J.; Greaves, M.: Ubiquitous cell-surface glycoprotein on tumor cells
+is proliferation-associated receptor for transferrin. Proc. Nat.
+Acad. Sci. 78: 4515-4519, 1981.
+
+19. Valenzuela, C. Y.; Avendano, A.; Harb, Z.: Association between
+Rh and plasma iron binding (transferrin). Hum. Genet. 87: 438-440,
+1991.
+
+20. Vodinelich, L.; Sutherland, R.; Schneider, C.; Newman, R.; Greaves,
+M.: Receptor for transferrin may be a 'target' structure for natural
+killer cells. Proc. Nat. Acad. Sci. 80: 835-839, 1983.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/8/2009
+Ada Hamosh - updated: 6/20/2007
+Ada Hamosh - updated: 3/30/1999
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED wwang: 06/11/2009
+terry: 6/8/2009
+carol: 4/23/2008
+alopez: 6/27/2007
+terry: 6/20/2007
+joanna: 3/14/2007
+alopez: 3/30/1999
+terry: 6/5/1998
+dholmes: 4/14/1998
+alopez: 2/26/1998
+carol: 9/20/1994
+supermim: 3/16/1992
+carol: 2/22/1992
+carol: 10/18/1991
+carol: 10/16/1991
+carol: 10/5/1990
+
+610635	TITLE *610635 COLLAGEN TRIPLE-HELIX REPEAT-CONTAINING PROTEIN 1; CTHRC1
+DESCRIPTION 
+DESCRIPTION
+
+CTHRC1 is specifically expressed in vascular calcifications of carotid
+artery lesions and may contribute to vascular remodeling of injured
+arteries (Pyagay et al., 2005).
+
+CLONING
+
+By suppressive subtractive hybridization to identify genes
+preferentially expressed in balloon-injured rat arteries, Pyagay et al.
+(2005) cloned Cthrc1. Using 5-prime RACE, they cloned human CTHRC1 from
+smooth muscle cell RNA. The deduced 243-amino acid human protein has an
+N-terminal signal peptide and a short collagen (see COL1A1; 120150)
+domain containing gly-X-Y repeats. Northern blot analysis revealed
+Cthrc1 expression in rat lung and brain, with much lower levels in other
+tissues examined. In situ hybridization and immunohistochemistry
+localized rat Cthrc1 mRNA and protein to blood vessel adventitia at 8
+and 14 days after balloon injury, with lower levels in developing
+neointima. Significantly less Cthrc1 mRNA expression was detected 4
+weeks after injury. Rat Cthrc1 protein was not detected in normal
+arteries. Immunohistochemistry of human carotid artery lesion
+endarterectomy samples detected CTHRC1 in vascular calcifications,
+particularly at the outer margins of the calcification fronts, and in
+chondrocyte-like cells surrounding the calcified tissue. Human CTHR1 was
+not detected in noncalcified plaque regions.
+
+GENE FUNCTION
+
+By SDS-PAGE, glycosidase treatment, and collagenase analysis, Pyagay et
+al. (2005) found that in vitro translated rat Cthrc1 was glycosylated
+and formed a trimer, rendering it susceptible to cleavage by collagenase
+(see 120353). Endogenous Cthrc1 mRNA levels increased in NIH3T3 mouse
+fibroblasts following stimulation with BMP4 (112262) or TGFB1 (190180).
+Scratch wound assays using Cthrc1-overexpressing rat smooth muscle cells
+and mouse primary embryonic fibroblasts showed that Cthrc1 promoted cell
+migration.
+
+Yamamoto et al. (2008) found that Cthrc1 -/- mice appeared normal and
+were fertile, but Cthrc1 -/- Vangl2 (600533) +/- mice displayed defects
+in planar cell polarity comparable to those in Vangl2 -/- mice,
+including midbrain neural tube closure defects and misorientation of
+cochlear sensory hair cells. Since planar cell polarity requires Wnt
+signaling, Yamamoto et al. (2008) examined interaction of mouse Cthrc1
+with several components of the Wnt signaling pathway in transfected
+HEK293T cells. They found that cell surface-anchored Cthrc1 bound to
+specific Wnt proteins (e.g., WNT3A; 606359), Fzd proteins (e.g., FZD3;
+606143), and Ror2 (602337), and that Cthrc1 enhanced the interaction of
+Wnt proteins with Fzd-Ror2 by forming the Cthrc1-Wnt-Fzd-Ror2 complex.
+Consistent with these findings, Ror2 -/- mice also showed planar cell
+polarity-related abnormalities in the inner ear. Yamamoto et al. (2008)
+concluded that CTHRC1 is a Wnt cofactor that selectively activates the
+Wnt/planar cell polarity pathway by stabilizing ligand-receptor
+interaction.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CTHRC1
+gene to chromosome 8 (TMAP RH102528).
+
+MOLECULAR GENETICS
+
+Orloff et al. (2011) identified a germline gln44-to-pro (Q44P;
+610635.0001) mutation in the CTHRC1 gene in 1 (1.1%) of 116 patients of
+European descent with Barrett esophagus and/or esophageal adenocarcinoma
+(614266). The mutation was not found in 125 controls. The same mutation
+was found in 1 (1.7%) of 58 independent cases in a replication study.
+This genomic region was studied after being identified by genomewide
+linkage analysis of 21 concordant and 11 discordant sib pairs with the
+disorder. Orloff et al. (2011) suggested that variation in the CTHRC1
+gene may be important in the host tissue repair response to
+gastroesophageal reflux disease (GERD; 109350).
+
+ALLELIC VARIANT .0001
+BARRETT ESOPHAGUS/ESOPHAGEAL ADENOCARCINOMA
+CTHRC1, GLN44PRO
+
+Orloff et al. (2011) identified a germline 131A-C transversion in exon 1
+of the CTHRC1 gene, resulting in a gln44-to-pro (Q44P) substitution, in
+1 (1.1%) of 116 patients of European descent with Barrett esophagus
+and/or esophageal adenocarcinoma (614266). The mutation was not found in
+125 controls. The same mutation was found in 1 (1.7%) of 58 independent
+cases in a replication study. This genomic region was studied after
+being identified by genomewide linkage analysis of 21 concordant and 11
+discordant sib pairs with the disorders. Orloff et al. (2011) suggested
+that variation in the CTHRC1 gene may be important in the host tissue
+repair response to gastroesophageal reflux disease (GERD).
+
+REFERENCE 1. Orloff, M.; Peterson, C.; He, X.; Ganapathi, S.; Heald, B.; Yang,
+Y.; Bebek, G.; Romigh, T.; Song, J. H.; Wu, W.; David, S.; Cheng,
+Y.; Meltzer, S. J.; Eng, C.: Germline mutations in MSR1, ASCC1, and
+CTHRC1 in patients with Barrett esophagus and esophageal adenocarcinoma. JAMA 306:
+410-419, 2011.
+
+2. Pyagay, P.; Heroult, M.; Wang, Q.; Lehnert, W.; Belden, J.; Liaw,
+L.; Friesel, R. E.; Lindner, V.: Collagen triple helix repeat containing
+1, a novel secreted protein in injured and disease arteries, inhibits
+collagen expression and promotes cell migration. Circ. Res. 96:
+261-268, 2005.
+
+3. Yamamoto, S.; Nishimura, O.; Misaki, K.; Nishita, M.; Minami, Y.;
+Yonemura, S.; Tarui, H.; Sasaki, H.: Cthrc1 selectively activates
+the planar cell polarity pathway of Wnt signaling by stabilizing the
+Wnt-receptor complex. Dev. Cell 15: 23-36, 2008.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/21/2011
+Patricia A. Hartz - updated: 9/5/2008
+
+CREATED Dorothy S. Reilly: 12/8/2006
+
+EDITED carol: 10/04/2011
+carol: 10/4/2011
+ckniffin: 10/4/2011
+carol: 10/4/2011
+ckniffin: 10/4/2011
+ckniffin: 9/21/2011
+mgross: 9/9/2008
+terry: 9/5/2008
+mgross: 12/8/2006
+

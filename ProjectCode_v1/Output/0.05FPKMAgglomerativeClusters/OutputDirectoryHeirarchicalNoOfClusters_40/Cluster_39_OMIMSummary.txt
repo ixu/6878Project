@@ -1,0 +1,559 @@
+614471	TITLE *614471 UBIQUITIN-SPECIFIC PROTEASE 19; USP19
+;;KIAA0891
+DESCRIPTION 
+DESCRIPTION
+
+USP19 is a ubiquitin protein ligase (EC 3.4.19.12) with a role in
+regulating cell cycle progression (Lu et al., 2009).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (1998) cloned USP19, which they designated
+KIAA0891. The deduced 1,371-amino acid protein shares significant
+similarity with the ubiquitin protease UNPH (USP4; 603486). RT-PCR ELISA
+detected highest expression in fetal liver, followed by adult spinal
+cord. All other tissues, including adult and fetal brain, showed much
+lower expression, and no expression was detected in spleen.
+
+GENE FUNCTION
+
+p27(KIP1) (CDKN1B; 600778) is a cyclin-dependent kinase inhibitor that
+regulates the G1/S transition. Using rat myoblast and fibroblast cell
+lines, Lu et al. (2009) showed that Usp19 regulated p27(KIP1) levels by
+deubiquitinating and stabilizing Kpc1 (RNF123; 614472), an E3 ubiquitin
+ligase that ubiquitinates cytosolic p27(KIP1) and targets it for
+proteasomal degradation at G1 phase. Immunoprecipitation analysis
+revealed that Usp19 interacted directly with Kpc1. Knockdown of Usp19
+resulted in loss of Kpc1, accumulation of p27(KIP1), inhibition of cell
+proliferation, and slower progression from G0/G1 to S phase.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the USP19 gene
+to chromosome 3.
+
+Hartz (2011) mapped the USP19 gene to chromosome 3p21.31 based on an
+alignment of the USP19 sequence (GenBank GENBANK AB020698) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/24/2011.
+
+2. Lu, Y.; Adegoke, O. A. J.; Nepveu, A.; Nakayama, K. I.; Bedard,
+N.; Cheng, D.; Peng, J.; Wing, S. S.: USP19 deubiquitinating enzyme
+supports cell proliferation by stabilizing KPC1, a ubiquitin ligase
+for p27(Kip1). Molec. Cell. Biol. 29: 547-558, 2009. Note: Erratum:
+Molec. Cell. Biol. 29: 3241 only, 2009.
+
+3. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Oharo, O.: Prediction
+of the coding sequences of unidentified human genes. XII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 5: 355-364, 1998.
+
+CREATED Patricia A. Hartz: 2/6/2012
+
+EDITED terry: 11/28/2012
+mgross: 2/6/2012
+
+604318	TITLE *604318 GTF2I REPEAT DOMAIN-CONTAINING PROTEIN 1; GTF2IRD1
+;;GENERAL TRANSCRIPTION FACTOR II-I REPEAT DOMAIN-CONTAINING PROTEIN
+1;;
+GENERAL TRANSCRIPTION FACTOR III; GTF3;;
+MUSCLE TFII-I REPEAT DOMAIN-CONTAINING PROTEIN 1; MUSTRD1;;
+WBSCR11;;
+BINDING FACTOR FOR EARLY ENHANCER; BEN
+DESCRIPTION 
+DESCRIPTION
+
+The GTF2IRD1 gene was identified within the chromosomal region on
+7q11.23 commonly deleted in Williams syndrome (194050) and is involved
+in mammalian craniofacial and cognitive development (Tassabehji et al.,
+2005).
+
+CLONING
+
+Tassabehji et al. (1999) isolated and characterized a 3.4-kb gene, which
+they called general transcription factor III (GTF3), which occupies
+about 140 kb of the region deleted in Williams syndrome. Northern blot
+analysis showed that the gene is expressed in skeletal muscle and heart,
+and RT-PCR analysis showed expression in a range of adult tissues with
+stronger expression in fetal tissues. Part of the conceptual GTF3
+protein sequence was found to be almost identical to a slow muscle-fiber
+enhancer binding protein identified by O'Mahoney et al. (1998) and
+termed MusTRD1. GTF3 showed significant homology to the 90-amino acid
+putative helix-loop-helix repeat (HLH) domains of the transcription
+factor TFII-I (GTF2I; 601679), which maps distal to GTF4 within the
+Williams syndrome deleted region.
+
+Osborne et al. (1999) identified the same gene, which they termed
+WBSCR11, by genomic DNA sequence analysis and screening of 2 colon
+carcinoma cell line cDNA libraries. The cDNA sequence predicts an
+895-amino acid protein.
+
+Franke et al. (1999) cloned GTF2IRD1 from cDNA libraries representing
+several diverse tissues, and they obtained a full-length cDNA by 5-prime
+RACE of an adult brain cDNA library. They also identified several splice
+variants arising from exon skipping. The longest deduced protein
+contains 944 amino acids. In addition to the repeated GTF2I motifs and
+HLH repeats, Franke et al. (1999) identified a myc (190080)-type HLH
+dimerization domain, a number of putative phosphorylation sites and
+N-myristoylation sites, an amidation site, and several putative nuclear
+localization signals. Northern blot analysis detected expression of
+GTF2IRD1 in all adult and fetal tissues except leukocytes. The dominant
+transcript was 3.6 kb long, with sizes ranging from 1.5 kb to 5.0 kb.
+
+By Western blot analysis, Yan et al. (2000) found that endogenous
+GTF2IRD1, which they designated CREAM1, was expressed at low levels as a
+120-kD protein in a variety of human cell lines and tissues. GTF2IRD1
+was expressed in the nucleus of transfected cells, and deletion of the
+C-terminal nuclear localization signal resulted in cytoplasmic
+expression.
+
+Bayarsaihan and Ruddle (2000) cloned mouse Gtf2ird1, which they
+designated Ben. The deduced full-length 1,072-amino acid protein
+contains an N-terminal leucine zipper motif, followed by 6
+helix-loop-helix domains, a nuclear localization signal, and a
+C-terminal serine-rich region. Northern blot analysis detected several
+Ben transcripts in all mouse tissues examined. Western blot analysis
+showed several Ben isoforms with apparent molecular masses of 40 to 165
+kD.
+
+GENE STRUCTURE
+
+Osborne et al. (1999) determined that the WBSCR11 gene spans 95 kb of
+genomic DNA and consists of 26 exons, not including the last noncoding
+exon.
+
+Franke et al. (1999) determined that the GTF2IRD1 gene contains up to 30
+exons and spans about 105 kb. The coding sequence uses 26 exons.
+
+Palmer et al. (2010) determined that the region upstream of the GTF2IRD1
+gene contains a well-conserved CCAAT box and 3 canonical
+GTF2IRD1-recognition sequences (GGATTA), one of which is inverted.
+
+MAPPING
+
+Franke et al. (1999) reported that the GF2IRD1 gene maps within the WBS
+deletion region on chromosome 7q11.23 and is oriented 5-prime to 3-prime
+in the centromeric to telomeric orientation.
+
+Tassabehji et al. (1999) tabulated 11 genes in addition to GTF3 that had
+been mapped to the deleted area of chromosome 7 in classic Williams
+syndrome.
+
+Lazebnik et al. (2008) stated that the mouse Gtf2ird1 gene maps to a
+region of chromosome 5 that shares homology of synteny with human
+chromosome 7.
+
+GENE FUNCTION
+
+Yan et al. (2000) determined that GTF2IRD1 interacted with the RB1
+protein (614041) in vitro and in vivo. They also showed that full length
+GTF2IRD1 stimulated transcription of a reporter gene and, by mutation
+analysis, they localized the activation domain to the N terminus.
+
+Using yeast 1-hybrid analysis, Bayarsaihan and Ruddle (2000) showed that
+in vitro-translated mouse Ben interacted with an early enhancer upstream
+of the Hoxc8 (142970) transcription start site.
+
+Ring et al. (2002) characterized the Xenopus homolog of GTF2IRD1,
+Xwbscr11. They determined that Xwbscr11 binds DNA via selective HLH
+repeats and interacts with the transcription factor FOXH1 (603621) and
+the signal transduction molecules Smad2 (601366) and Smad3 (603109) to
+affect activin (147290)/nodal-mediated induction of the distal element
+of the Xenopus goosecoid promoter.
+
+Vullhorst and Buonanno (2003) characterized mouse Gtf3 splice variants.
+They determined that HLH domain 4 is necessary and sufficient for
+binding the bicoid-like motif of the troponin (191042) enhancer. An
+isoform that lacks exon 23 and exons 26 through 28 interacted most
+avidly with the bicoid-like motif. Isoforms that included these exons
+failed to bind in gel retardation assays. The authors also determined
+that Gtf3 polypeptides associate with each other via the leucine zipper.
+
+Lazebnik et al. (2008) showed that BEN bound the 8-bp core consensus
+sequence CAG(C/G)G(C/A)GA, surrounded by G- and C-rich sequences. BEN
+repressed expression of a reporter gene containing 3 copies of the
+sequence 5-prime-GGGGGCAGCGACAGCCCCC-3-prime. Knockdown of Ben
+expression in C2C12 mouse myoblasts enhanced expression of Bmpr1b
+(603248), Sox4 (184430), En1 (131290), and Fgf15, the mouse ortholog of
+FGF19 (603891). Chromatin immunoprecipitation analysis followed by
+quantitative PCR confirmed binding of BEN to Fgf15.
+
+Palmer et al. (2010) found that GTF2IRD1 is subject to negative
+autoregulation. All isoforms of mouse or human GTF2IRD1 bound 3
+canonical GTF2IRD1-binding sites (GGATTA) in the region upstream of the
+GTF2IRD1 gene. EMSA using artificial DNA probes and in vitro-translated
+GTF2IRD1 revealed enhanced binding in the presence of 3 GGATTA sites and
+dimerization of GTF2IRD1 proteins via an N-terminal leucine zipper
+region. Binding by GTF2IRD1 repressed expression of a reporter gene.
+
+MOLECULAR GENETICS
+
+Tassabehji et al. (1999) found that GTF3 was deleted in patients with
+classic Williams syndrome, but not in patients with partial deletions
+who had only supravalvular aortic stenosis. They suggested that
+haploinsufficiency of the GTF3 gene may be the cause of the abnormal
+muscle fatigability that is characteristic of Williams syndrome.
+
+Tassabehji et al. (2005) reported a rare WBS individual with an atypical
+deletion, including the GTF2IRD1 gene, showed facial dysmorphism and
+cognitive deficits that differed from those of classic WBS cases. They
+proposed a mechanism of cumulative dosage effects of duplicated and
+diverged genes applicable to other human chromosomal disorders.
+
+ANIMAL MODEL
+
+Tassabehji et al. (2005) demonstrated that GTF2IRD1 is involved in
+mammalian craniofacial and cognitive development. Gtf2ird1-null mice
+exhibited phenotypic abnormalities reminiscent of the human
+microdeletion disorder Williams-Beuren syndrome; craniofacial imaging
+revealed abnormalities in both skull and jaws that may arise through
+misregulation of goosecoid (138890), a downstream target of Gtf2ird1.
+
+Palmer et al. (2010) found that mutant mice lacking Gtf2ird1 exon 2
+expressed a mutant Gtf2ird1 transcript. The mutant transcript was
+expressed at wildtype levels due to escape from nonsense mediated decay
+and escape from negative autoregulation by Gtf2ird1 itself.
+
+REFERENCE 1. Bayarsaihan, D.; Ruddle, F. H.: Isolation and characterization
+of BEN, a member of the TFII-I family of DNA-binding proteins containing
+distinct helix-loop-helix domains. Proc. Nat. Acad. Sci. 97: 7342-7347,
+2000.
+
+2. Franke, Y; Peoples, R. J.; Francke, U.: Identification of GTF2IRD1,
+a putative transcription factor within the Williams-Beuren syndrome
+deletion at 7q11.23. Cytogenet Cell Genet. 86: 296-304, 1999.
+
+3. Lazebnik, M. B.; Tussie-Luna, M. I.; Roy, A. L.: Determination
+and functional analysis of the consensus binding site for TFII-I family
+member BEN, implicated in Williams-Beuren syndrome. J. Biol. Chem. 283:
+11078-11082, 2008.
+
+4. O'Mahoney, J. V.; Guven, K. L.; Lin, J.; Joya, J. E.; Robinson,
+C. S.; Wade, R. P.; Hardeman, E. C.: Identification of a novel slow-muscle-fiber
+enhancer binding protein, MusTRD1. Molec. Cell. Biol. 18: 6641-6652,
+1998. Note: Erratum: Molec. Cell. Biol. 20: 5361 only, 2000.
+
+5. Osborne, L. R.; Campbell, T.; Daradich, A.; Scherer, S. W.; Tsui,
+L.-C.: Identification of a putative transcription factor gene (WBSCR11)
+that is commonly deleted in Williams-Beuren syndrome. Genomics 57:
+279-284, 1999.
+
+6. Palmer, S. J.; Santucci, N.; Widagdo, J.; Bontempo, S. J.; Taylor,
+K. M.; Tay, E. S. E.; Hook, J.; Lemckert, F.; Gunning, P. W.; Hardeman,
+E. C.: Negative autoregulation of GTF2IRD1 in Williams-Beuren syndrome
+via a novel DNA binding mechanism. J. Biol. Chem. 285: 4715-4724,
+2010.
+
+7. Ring, C; Ogata, S.; Meek, L.; Song, J.; Ohta, T.; Miyazono, K.;
+Cho, K. W.: The role of a Williams-Beuren syndrome-associated helix-loop-helix
+domain-containing transcription factor in activin/nodal signaling. Genes
+Dev. 16: 820-835, 2002.
+
+8. Tassabehji, M.; Carette, M.; Wilmot, C.; Donnai, D.; Read, A. P.;
+Metcalfe, K.: A transcription factor involved in skeletal muscle
+gene expression is deleted in patients with Williams syndrome. Europ.
+J. Hum. Genet. 7: 737-747, 1999.
+
+9. Tassabehji, M.; Hammond, P.; Karmiloff-Smith, A.; Thompson, P.;
+Thorgeirsson, S. S.; Durkin, M. E.; Popescu, N. C.; Hutton, T.; Metcalfe,
+K.; Rucka, A.; Stewart, H.; Read, A. P.; Maconochie, M.; Donnai, D.
+: GTF2IRD1 in craniofacial development of humans and mice. Science 310:
+1184-1187, 2005.
+
+10. Vullhorst, D.; Buonanno, A.: Characterization of general transcription
+factor 3, a transcription factor involved in slow muscle-specific
+gene expression. J Biol. Chem. 278: 8370-8379, 2003.
+
+11. Yan, X; Zhao, X.; Qian, M.; Guo, N; Gong, X.; Zhu, X.: Characterization
+and gene structure of a novel retinoblastoma-protein-associated protein
+similar to the transcription regulator TFII-I. Biochem J. 345: 749-757,
+2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/26/2012
+Ada Hamosh - updated: 1/30/2006
+Patricia A. Hartz - updated: 5/8/2003
+Carol A. Bocchini - updated: 12/7/1999
+
+CREATED Victor A. McKusick: 11/29/1999
+
+EDITED alopez: 11/26/2012
+mgross: 3/14/2012
+terry: 1/26/2012
+alopez: 6/17/2011
+alopez: 1/31/2006
+terry: 1/30/2006
+cwells: 5/8/2003
+carol: 12/7/1999
+carol: 11/30/1999
+
+607082	TITLE *607082 CALCIUM CHANNEL, VOLTAGE-DEPENDENT, ALPHA-2/DELTA SUBUNIT 2; CACNA2D2
+;;KIAA0558
+DESCRIPTION 
+DESCRIPTION
+
+The CACNA2D2 gene encodes the alpha-2-delta-2 auxiliary subunit of high
+voltage-gated calcium channels. Auxiliary subunits modulate calcium
+current and channel activation and inactivation kinetics, and may be
+involved in proper assembly and membrane localization of the channels.
+Alpha-2-delta-2 is a receptor for the antiepileptic drug gabapentin
+(summary by Edvardson et al., 2013).
+
+CLONING
+
+By searching for sequences with the potential to encode large proteins
+expressed in brain, Nagase et al. (1998) identified a cDNA encoding
+CACNA2D2, which they called KIAA0558. The deduced 1,145-amino acid
+protein was predicted to be 45% identical to mouse Cacna2d2. RT-PCR
+analysis detected ubiquitous expression.
+
+Using a positional cloning strategy to identify a putative tumor
+suppressor gene on chromosome 3p21.3, Gao et al. (2000) obtained a cDNA
+encoding CACNA2D2. The CACNA2D2 protein is 56% identical to CACNA2D1
+(114204), and 17 of 22 cysteines in CACNA2D2 are conserved in CACNA2S1,
+suggesting similar secondary structures. CACNA2D2 also has multiple
+putative N-glycosylation sites. Northern blot analysis revealed
+expression of a 5.5-kb transcript that was most abundant in lung and
+testis, followed by brain, heart, and pancreas, with low levels in
+prostate and skeletal muscle. Some lung cancer lines expressed CACNA2D2.
+Western blot analysis showed expression of a 150-kD protein, larger than
+the predicted 130 kD, presumably due to glycosylation. Functional
+analysis indicated that CACNA2D2 is able to act as an auxiliary subunit
+of all 3 subfamilies of voltage-gated calcium channels.
+
+By physical cloning methodologies and bioinformatic computational
+analyses, Lerman and Minna (2000) identified a number of genes,
+including CACNA2D2, in a region of chromosome 3p21.3 that is associated
+with a putative lung cancer tumor suppressor gene. They did not detect
+CACNA2D2 mutations in any lung cancer cell lines tested.
+
+Each alpha-2-delta subunit is encoded by a single gene and
+post-translationally cleaved into a long, N-terminal, extracellular
+alpha-2 protein and a shorter, membrane-anchored delta polypeptide; the
+alpha-2 and delta proteins are covalently linked by disulfide bonds
+(summary by Brill et al., 2004).
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Lerman and Minna (2000) determined that
+the CACNA2D2 gene contains at least 40 exons and spans approximately 140
+kb.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the CACNA2D2
+gene to chromosome 3. By genomic sequence analysis, Gao et al. (2000)
+refined the localization to 3p21.3, a site of frequent deletions in
+breast and lung cancers.
+
+GENE FUNCTION
+
+Hoppa et al. (2012) showed that a trafficking step probably sets
+synaptic voltage-gated calcium channel (VGCC) levels in rats, because
+overexpression of the pore-forming alpha-1A VGCC subunit (CACNA1A;
+601011) fails to change synaptic VGCC abundance or function.
+Alpha-2-deltas are a family of glycosylphosphatidylinositol
+(GPI)-anchored VGCC-associated subunits that, in addition to being the
+target of the potent neuropathic analgesics gabapentin and pregabalin
+(alpha-2-delta-1 (CACNA2D1) and alpha-2-delta-2 (CACNA2D2)), were also
+identified in a forward genetic screen for pain genes (alpha-2-delta-3
+(CACNA2D3; 606399)). Hoppa et al. (2012) showed that these proteins
+confer powerful modulation of presynaptic function through 2 distinct
+molecular mechanisms. First, alpha-2-delta subunits set synaptic VGCC
+abundance, as predicted from their chaperone-like function when
+expressed in nonneuronal cells. Second, alpha-2-deltas configure
+synaptic VGCCs to drive exocytosis through an extracellular metal
+ion-dependent adhesion site (MIDAS), a conserved set of amino acids
+within the predicted von Willebrand A domain of alpha-2-delta.
+Expression of alpha-2-delta with an intact MIDAS motif leads to an 80%
+increase in release probability, while simultaneously protecting
+exocytosis from blockade by an intracellular calcium chelator.
+Alpha-2-deltas harboring MIDAS site mutations still drive synaptic
+accumulation of VGCCs; however, they no longer change release
+probability or sensitivity to intracellular calcium chelators. Hoppa et
+al. (2012) concluded that their data reveal dual functionality of these
+clinically important VGCC subunits, allowing synapses to make more
+efficient use of calcium entry to drive neurotransmitter release.
+
+ANIMAL MODEL
+
+Brodbeck et al. (2002) showed that mice with the 'ducky' (du) mutation,
+a model for absence epilepsy (see 600131), had a mutation in Cacna2d2
+gene. The mutation resulted in the introduction of a premature stop
+codon and the expression of a truncated protein encoded by the first 3
+exons of Cacna2d2, followed by 8 novel amino acids. The shortened mRNA
+and protein were expressed in mutant mouse cerebellum and Purkinje
+cells. Brodbeck et al. (2002) detected high expression of the normal
+protein in cerebellar Purkinje cells, but found that ducky mice had
+abnormalities in their Purkinje cell dendritic trees. Functional
+analysis indicated that the mutant Cacna2d2 protein failed to increase
+or even decreased the peak current density of the voltage-gated Ca(V)2.1
+(CACNA1A; 601011)/beta-4 (CACNB4; 601949) channel combination,
+suggesting that it may contribute to the ducky phenotype.
+
+Brill et al. (2004) identified a recessive mouse phenotype, 'entla,'
+caused by an in-frame duplication of 39 amino acids in the Cacna2d2
+gene, resulting in expression of a full-length, membrane-associated
+protein, but with loss of the disulfide linkage between the 2 derived
+proteins. Mutant mice developed ataxia by postnatal day 13 to 15
+followed by paroxysmal dyskinesia. The mice showed reduced size and
+weight, increased mortality before weaning, and female infertility. EEG
+studies suggested absence epilepsy, with 2- and 4-Hz spike-wave
+discharges in the cortex and hippocampus. Cerebellar Purkinje cells
+isolated from mutant mice showed about a 50% reduction in current, as
+well as a reduction of gabapentin binding to the membrane compared to
+wildtype and to heterozygous mice. Entla (ent) mice showed no
+neuroanatomical abnormalities.
+
+ALLELIC VARIANT .0001
+VARIANT OF UNKNOWN SIGNIFICANCE
+CACNA2D2, LEU1040PRO
+
+This variant is classified as a variant of unknown significance because
+its contribution to early infantile epileptic encephalopathy has not
+been confirmed.
+
+In 3 sibs, born of consanguineous Arab-Palestinian parents, with early
+infantile epileptic encephalopathy, global developmental delay, and
+cerebellar atrophy, Edvardson et al. (2013) identified a homozygous
+3119A-G transition in the CACNA2D2 gene, resulting in a leu1040-to-pro
+(L1040P) substitution at a highly conserved residue. The variant, which
+was identified by linkage analysis combined with whole-exome sequencing,
+was not found in 102 controls or in 6,503 control exomes. In vitro
+expression studies in Xenopus oocytes showed that the variant protein
+decreased currents of N- and L-type calcium channels and caused slower
+inactivation in N-type channels. Although the variant protein was
+expressed, it showed decreased localization to the plasma membrane
+compared to wildtype, suggesting that it may not properly associate with
+the alpha-1 subunit. Edvardson et al. (2013) postulated that prolonged
+channel opening and calcium influx during depolarization associated with
+delayed inactivation may underlie the epileptic phenotype observed in
+these patients. There was no evidence for a dominant-negative effect.
+Exome sequencing in 1 of the 3 affected sibs also identified a
+homozygous C-to-T transition in the CELSR3 gene (604264), resulting in a
+met2630-to-ile (M2630I; 604264.0001) substitution at a highly conserved
+residue. This variant also segregated with the disease state in the
+family. Inactivation of Celsr3 in mice causes abnormalities in
+connectivity in the cerebral cortex (Zhou et al., 2008). Edvardson et
+al. (2013) could not exclude a role for the CELSR3 mutation in the
+epileptic phenotype in this family.
+
+REFERENCE 1. Brill, J.; Klocke, R.; Paul, D.; Boison, D.; Gouder, N.; Klugbauer,
+N.; Hofmann, F.; Becker, C.-M.; Becker, K.: Entla, a novel epileptic
+and ataxic Cacna2d2 mutant of the mouse. J. Biol. Chem. 279: 7322-7330,
+2004.
+
+2. Brodbeck, J.; Davies, A.; Courtney, J.-M.; Meir, A.; Balaguero,
+N.; Canti, C.; Moss, F. J.; Page, K. M.; Pratt, W. S.; Hunt, S. P.;
+Barclay, J.; Rees, M.; Dolphin, A. C.: The ducky mutation in Cacna2d2
+results in altered Purkinje cell morphology and is associated with
+the expression of a truncated alpha-2/delta-2 protein with abnormal
+function. J. Biol. Chem. 277: 7684-7693, 2002.
+
+3. Edvardson, S.; Oz, S.; Abulhijaa, F. A.; Taher, F. B.; Shaag, A.;
+Zenvirt, S.; Dascal, N.; Elpeleg, O.: Early infantile epileptic encephalopathy
+associated with a high voltage gated calcium channelopathy. J. Med.
+Genet. 50: 118-123, 2013.
+
+4. Gao, B.; Sekido, Y.; Maximov, A.; Saad, M.; Forgacs, E.; Latif,
+F.; Wei, M. H.; Lerman, M.; Lee, J.-H.; Perez-Reyes, E.; Bezprozvanny,
+I.; Minna, J. D.: Functional properties of a new voltage-dependent
+calcium channel alpha-2/delta auxiliary subunit gene (CACNA2D2). J.
+Biol. Chem. 275: 12237-12242, 2000.
+
+5. Hoppa, M. B.; Lana, B.; Margas, W.; Dolphin, A. C.; Ryan, T. A.
+: Alpha-2-delta expression sets presynaptic calcium channel abundance
+and release probability. Nature 486: 122-125, 2012.
+
+6. Lerman, M. I.; Minna, J. D.: The 630-kb lung cancer homozygous
+deletion region on human chromosome 3p21.3: identification and evaluation
+of the resident candidate tumor suppressor genes. Cancer Res. 60:
+6116-6133, 2000.
+
+7. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+8. Zhou, L.; Bar, I.; Achouri, Y.; Campbell, K.; De Backer, O.; Hebert,
+J. M.; Jones, K.; Kessaris, N.; Lambert de Rouvroit, C.; O'Leary,
+D.; Richardson, W. D.; Goffinet, A. M.; Tissir, F.: Early forebrain
+wiring: genetic dissection using conditional Celsr3 mutant mice. Science 320:
+946-949, 2008.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/25/2013
+Ada Hamosh - updated: 7/17/2012
+
+CREATED Paul J. Converse: 6/28/2002
+
+EDITED carol: 03/11/2013
+ckniffin: 3/5/2013
+ckniffin: 2/25/2013
+alopez: 7/17/2012
+terry: 7/17/2012
+mgross: 6/28/2002
+
+610611	TITLE *610611 GINS COMPLEX SUBUNIT 4; GINS4
+;;SLD5, S. CEREVISIAE, HOMOLOG OF; SLD5
+DESCRIPTION 
+DESCRIPTION
+
+The yeast heterotetrameric GINS complex is made up of Sld5, Psf1 (GINS1;
+610608), Psf2 (GINS2; 610609), and Psf3 (GINS3; 610610). The formation
+of the GINS complex is essential for the initiation of DNA replication
+in yeast and Xenopus egg extracts (Ueno et al., 2005). See GINS1 for
+additional information about the GINS complex.
+
+CLONING
+
+By searching a human database for sequences similar to yeast SLD5,
+Takayama et al. (2003) identified GINS4, which they called SLD5. The
+deduced protein contains 223 amino acids.
+
+Using mouse Psf1 as bait in a yeast 2-hybrid analysis of an 11-day mouse
+embryo cDNA library, Kong et al. (2006) cloned Sld5. The deduced
+223-amino acid protein contains an N-terminal coiled-coil domain, a
+central basic region, and a C-terminal domain that is conserved between
+the mouse and yeast proteins. RT-PCR of mouse tissues detected abundant
+expression in adult testis, and weak expression in thymus and bone
+marrow. No Sld5 was detected in brain, lung, liver, spleen, kidney, and
+heart. Immunohistochemical analysis detected Psf1 and Sld5 in the
+cytoplasm of transfected NIH3T3 mouse fibroblast.
+
+GENE FUNCTION
+
+By coimmunoprecipitation analysis, Kong et al. (2006) demonstrated that
+mouse Sld5 and Psf1 interacted in transfected NIH3T3 cells.
+
+MAPPING
+
+International Radiation Hybrid Mapping Consortium mapped the GINS4 gene
+to chromosome 8 (TMAP RH102031).
+
+NOMENCLATURE
+
+The GINS complex derives its name from the Japanese words Go, Ichi, Nii,
+and San, which mean 5, 1, 2, and 3, respectively, and refer to the
+numbering of the yeast homologs of the GINS complex (Takayama et al.,
+2003).
+
+REFERENCE 1. Kong, L.; Ueno, M.; Itoh, M.; Yoshioka, K.; Takakura, N.: Identification
+and characterization of mouse PSF1-binding protein, SLD5. Biochem.
+Biophys. Res. Commun. 339: 1204-1207, 2006.
+
+2. Takayama, Y.; Kamimura, Y.; Okawa, M.; Muramatsu, S.; Sugino, A.;
+Araki, H.: GINS, a novel multiprotein complex required for chromosomal
+DNA replication in budding yeast. Genes Dev. 17: 1153-1165, 2003.
+
+3. Ueno, M.; Itoh, M.; Kong, L.; Sugihara, K.; Asano, M.; Takakura,
+N.: PSF1 is essential for early embryogenesis in mice. Molec. Cell
+Biol. 25: 10528-10532, 2005.
+
+CREATED Patricia A. Hartz: 11/29/2006
+
+EDITED wwang: 12/04/2006
+wwang: 11/29/2006
+

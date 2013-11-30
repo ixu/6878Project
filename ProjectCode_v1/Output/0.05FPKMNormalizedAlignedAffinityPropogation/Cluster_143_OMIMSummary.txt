@@ -1,0 +1,317 @@
+611282	TITLE *611282 DYNAMIN-BINDING PROTEIN; DNMBP
+;;TUBA;;
+KIAA1010
+DESCRIPTION 
+DESCRIPTION
+
+DNMBP belongs to the DBL (311030) family of guanine nucleotide exchange
+factors and plays a role in the regulation of cell junctions (Otani et
+al., 2006).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1999) cloned DNMBP, which they designated
+KIAA1010. The transcript contains a repetitive element in its 3-prime
+UTR, and the deduced protein contains motifs suggesting it is a guanine
+nucleotide regulatory protein. RT-PCR ELISA detected moderate expression
+in ovary, testis, liver, and lung and low expression in all other
+tissues examined. Expression was low in all specific brain regions
+examined and moderate in spinal cord.
+
+Using the partial KIAA1010 sequence for 5-prime RACE of muscle and brain
+cDNA libraries, Salazar et al. (2003) obtained a full-length cDNA
+encoding DNMBP, which they called Tuba, in line with the tradition of
+naming large synaptic proteins after musical instruments. The deduced
+1,577-amino acid protein has a calculated molecular mass of 178 kD. It
+has 4 N-terminal SH3 domains, followed by a proline-rich region, a
+coiled-coil domain, a DBL homology (DH) domain, a BIN (see 601248)/
+amphiphysin (see 600418)/Rvs (BAR) domain, and 2 C-terminal SH3 domains.
+Northern blot analysis detected variable expression of 7.3- and 6.0-kb
+transcripts in all tissues examined. Mouse tissues expressed an
+additional smaller transcript. Immunohistochemical analysis of rat brain
+cryosections revealed colocalization of Dnmbp with synaptic markers in
+neuronal perikarya and dendrites. In addition, Dnmbp localized with the
+Golgi complex in neuronal cell bodies.
+
+GENE FUNCTION
+
+Salazar et al. (2003) found that the isolated N-terminal SH3 domains of
+Tuba interacted with dynamin-1 (DNM1; 602377) in rat brain extracts and
+Chinese hamster ovary cells. The C-terminal SH3 domain of Tuba bound a
+variety of actin regulatory proteins, including N-Wasp (WASL; 605056),
+Wire (WIPF2; 609692), Wave1 (WASF1; 605035), and Mena (ENAH; 609061), in
+rat brain extracts, and it promoted F-actin (see 102610) recruitment in
+a mouse neuronal cell line. The isolated DH domain of Tuba showed
+concentration-dependent guanyl nucleotide exchange activity with Cdc42
+(116952), but not with Rho (ARHA; 165390) or Rac (602048).
+
+Otani et al. (2006) showed that Tuba concentrated at the apical-most
+region of cell junctions in a human colon carcinoma cell line via its
+interaction with ZO1 (TJP1; 601009). RNA interference (RNAi)-mediated
+depletion of Tuba altered the geometric configuration of cell junctions,
+resulting in a curved and slack appearance. At the subcellular level,
+Tuba inactivation modified the assembly of junctional F-actin and
+E-cadherin (CDH1; 192090). Tuba RNAi also retarded cell junction
+formation in calcium-switch experiments. Suppression of CDC42 activity
+or depletion of N-WASP, an effector of CDC42, mimicked the effect of
+Tuba depletion. Conversely, overexpression of dominant-active CDC42 or
+N-WASP enhanced junction formation in Tuba-depleted cells. Otani et al.
+(2006) concluded that Tuba controls the shaping of cell junctions
+through local activation of CDC42 and its effectors.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the DNMBP gene
+to chromosome 10. Salazar et al. (2003) stated that the mouse Dnmbp gene
+maps to chromosome 19.
+
+REFERENCE 1. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+2. Otani, T.; Ichii, T.; Aono, S.; Takeichi, M.: Cdc42 GEF Tuba regulates
+the junctional configuration of simple epithelial cells. J. Cell
+Biol. 175: 135-146, 2006.
+
+3. Salazar, M. A.; Kwiatkowski, A. V.; Pellegrini, L.; Cestra, G.;
+Butler, M. H.; Rossman, K. L.; Serna, D. M.; Sondek, J.; Gertler,
+F. B.; De Camilli, P.: Tuba, a novel protein containing Bin/amphiphysin/Rvs
+and Dbl homology domains, links dynamin to regulation of the actin
+cytoskeleton. J. Biol. Chem. 278: 49031-49043, 2003.
+
+CREATED Patricia A. Hartz: 8/1/2007
+
+EDITED mgross: 08/01/2007
+
+120105	TITLE *120105 COLIPASE, PANCREATIC; CLPS
+DESCRIPTION 
+DESCRIPTION
+
+Pancreatic colipase is a 12-kD polypeptide cofactor for pancreatic
+lipase (EC 3.1.1.3; 246600), an enzyme essential for the absorption of
+dietary long-chain triglyceride fatty acids. Colipase is thought to
+anchor lipase noncovalently to the surface of lipid micelles,
+counteracting the destabilizing influence of intestinal bile salts
+(summary by Davis et al., 1991).
+
+CLONING
+
+Using primers derived from the known amino acid sequence, Davis et al.
+(1991) employed the PCR to produce a cDNA clone corresponding to the
+complete coding region of the human procolipase mRNA.
+
+GENE STRUCTURE
+
+Sims and Lowe (1992) found that the CLPS gene has 3 exons and that the
+5-prime-flanking region contains a TATA box, a GC box, and a 28-bp
+region with homology to the rat pancreatic-specific enhancer.
+
+MAPPING
+
+By the study of mouse/human somatic cell hybrids, Davis et al. (1991)
+determined that the CLPS gene is located in the region 6pter-p21.1.
+
+Sims and Lowe (1992) confirmed the assignment of the CLPS gene to
+chromosome 6 by blots of hamster-human somatic cell hybrid DNA using the
+entire colipase cDNA.
+
+ANIMAL MODEL
+
+Zhang et al. (2006) reported a mechanism by which constant darkness
+regulates the gene expression of fat catabolic enzymes in mice. Genes
+for murine procolipase (Clps) and pancreatic lipase-related protein-2
+(Plrp2; 604423) are activated in a circadian manner in peripheral organs
+during 12-hour dark:12-hour dark (DD) but not light-dark (LD) cycles.
+This mechanism is deregulated in circadian-deficient Per1/Per2 double
+mutant mice. Zhang et al. (2006) identified circadian-regulated
+5-prime-AMP, which is elevated in the blood of DD mice, as a key
+mediator of this response. Synthetic 5-prime-AMP induced torpor (a
+hibernation-like state) and murine Clps expression in LD mice. Torpor
+induced by metabolic stress was associated with elevated 5-prime-AMP
+levels in DD mice. Levels of glucose and nonesterified fatty acid in the
+blood were reversed in DD and LD mice. Induction of murine Clps
+expression by 5-prime-AMP in LD mice was reciprocally linked to blood
+glucose levels. Zhang et al. (2006) concluded that their findings
+uncovered a circadian metabolic rhythm in mammals.
+
+REFERENCE 1. Davis, R. C.; Xia, Y.; Mohandas, T.; Schotz, M. C.; Lusis, A. J.
+: Assignment of the human pancreatic colipase gene to chromosome 6p21.1
+to pter. Genomics 10: 262-265, 1991.
+
+2. Sims, H. F.; Lowe, M. E.: The human colipase gene: isolation,
+chromosomal location, and tissue-specific expression. Biochemistry 31:
+7120-7125, 1992.
+
+3. Zhang, J.; Kaasik, K.; Blackburn, M. R.; Lee, C. C.: Constant
+darkness is a circadian metabolic signal in mammals. Nature 439:
+340-343, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/26/2006
+
+CREATED Victor A. McKusick: 2/5/1991
+
+EDITED carol: 11/15/2011
+alopez: 6/7/2006
+terry: 5/26/2006
+mark: 11/27/1996
+carol: 10/26/1993
+carol: 10/1/1992
+supermim: 3/16/1992
+carol: 8/7/1991
+carol: 4/18/1991
+carol: 2/7/1991
+
+611883	TITLE *611883 BRCA2- AND CDKN1A-INTERACTING PROTEIN; BCCIP
+;;p21- AND CDK-ASSOCIATED PROTEIN 1; TOK1
+DESCRIPTION 
+CLONING
+
+Using the C-terminal half of p21 (CDK1A; 116899) as bait in a yeast
+2-hybrid screen of a brain cDNA library, Ono et al. (2000) cloned BCCIP,
+which they called TOK1. EST database analysis and PCR of a brain cDNA
+library revealed 2 TOK1 variants, TOK1-alpha and -beta. The deduced
+proteins contain 322 and 314 amino acids, respectively, and are
+identical for the first 259 amino acids. Northern blot analysis using a
+probe common to both TOK1 variants detected a major 1.5-kb transcript
+and a minor 3-kb transcript. Specific probes detected both TOK1 variants
+as 1.5-kb transcripts. TOK1-alpha was highly expressed in skeletal
+muscle, with little to no expression in other tissues examined.
+TOK1-beta was highly expressed in skeletal muscle and heart, moderately
+expressed in placenta and pancreas, and weakly expressed in brain,
+kidney, and liver. Western blot analysis detected TOK1-alpha and
+TOK1-beta as 50- and 45-kD proteins, respectively. In synchronized HeLa
+cells, expression of TOK1-alpha began after G2/M phase and peaked before
+S phase. TOK1-beta was expressed throughout the cell cycle, but like
+TOK1-alpha, its expression increased before S phase.
+
+Using an internal conserved region of BRCA2 (600185) as bait in a yeast
+2-hybrid screen, followed by database analysis, Liu et al. (2001) cloned
+BCCIP-alpha and -beta, which correspond to TOK1-alpha and -beta,
+respectively. Both BCCIP isoforms have an N-terminal acidic domain and
+an evolutionarily conserved internal domain, followed by the C-terminal
+variable domain. The internal domain contains a putative calcium-binding
+domain. Western blot analysis detected both BCCIP proteins in all
+tissues examined. Immunohistochemical analysis of several human cell
+lines showed nuclear expression of endogenous BCCIP.
+
+GENE FUNCTION
+
+Using mutation analysis, Ono et al. (2000) found that TOK1-alpha bound
+to the C-terminal proximal region of p21. However, TOK1-beta did not
+bind p21. TOK1-alpha formed a ternary complex with p21 and an active
+form of CDK2 (116953) in human embryonic kidney cells via its
+interaction with p21. TOK1-alpha enhanced the inhibitory activity of p21
+toward the histone H1 (see 142709) kinase activity of CDK2.
+
+By coimmunoprecipitation analysis of transfected human embryonic kidney
+cells, Liu et al. (2001) confirmed that BCCIP-alpha interacted with
+endogenous BRCA2. Expression of BCCIP-beta protein was relatively
+consistent among various tumor cell lines examined. In contrast,
+expression of BCCIP-alpha protein was reduced in some brain, breast, and
+endometrial tumor cell lines and increased in some endometrial tumor
+cell lines, with relatively consistent expression among lung cancer cell
+lines. BCCIP-alpha expression inhibited growth of some breast and brain
+tumor cells, but it had no effect on other types of cancer cells.
+
+Lu et al. (2007) stated that BCCIP regulates BRCA2 and RAD51 (179617)
+nuclear focus formation, DNA double-strand break-induced homologous
+recombination, and cell cycle progression. They transfected full-length
+and truncated fragments of BCCIP into a human fibrosarcoma cell line and
+found that BCCIP fragments that interacted with either BRCA2 or p21
+inhibited homologous recombination similarly. Transient downregulation
+of BCCIP in human cells did not affect nonspecific integration of
+transfected DNA, but it significantly inhibited homology-directed gene
+targeting. Cells with constitutive downregulation of BCCIP showed
+increased levels of spontaneous single-stranded DNA and double-strand
+breaks. Lu et al. (2007) concluded that multiple domains of BCCIP are
+involved in homologous recombination and that BCCIP plays a critical
+role in resolving spontaneous DNA damage.
+
+Using a matched normal/tumor cDNA array, Meng et al. (2003) found
+reduced expression of both BCCIP-alpha and -beta in kidney tumors.
+
+GENE STRUCTURE
+
+Meng et al. (2003) determined that the BCCIP gene contains 9 exons and
+spans about 30 kb. The 5-prime end of the BCCIP gene abuts the UROS gene
+(606938) on the opposite strand in a head-to-head manner. BCCIP and UROS
+share a functional intergenic bidirectional promoter that contains
+binding sites for various transcription factors. The last 3 exons of
+BCCIP overlap with seven 3-prime exons of the DHX32 gene (607960) on the
+opposite strand.
+
+MAPPING
+
+By FISH and genomic sequence analysis, Liu et al. (2001) mapped the
+BCCIP gene to chromosome 10q25.3-q26.2.
+
+REFERENCE 1. Liu, J.; Yuan, Y.; Huan, J.; Shen, Z.: Inhibition of breast and
+brain cancer cell growth by BCCIP-alpha, an evolutionarily conserved
+nuclear protein that interacts with BRCA2. Oncogene 20: 336-345,
+2001.
+
+2. Lu, H.; Yue, J.; Meng, X.; Nickoloff, J. A.; Shen, Z.: BCCIP regulates
+homologous recombination by distinct domains and suppresses spontaneous
+DNA damage. Nucleic Acids Res. 35: 7160-7170, 2007.
+
+3. Meng, X.; Liu, J.; Shen, Z.: Genomic structure of the human BCCIP
+gene and its expression in cancer. Gene 302: 139-146, 2003.
+
+4. Ono, T.; Kitaura, H.; Ugai, H.; Murata, T.; Yokoyama, K. K.; Iguchi-Ariga,
+S. M. M.; Ariga, H.: TOK-1, a novel p21(Cip1)-binding protein that
+cooperatively enhances p21-dependent inhibitory activity toward CDK2
+kinase. J. Biol. Chem. 275: 31145-31154, 2000.
+
+CREATED Patricia A. Hartz: 3/7/2008
+
+EDITED wwang: 03/31/2010
+mgross: 3/7/2008
+
+613771	TITLE *613771 TRANSMEMBRANE PROTEIN 205; TMEM205
+DESCRIPTION 
+CLONING
+
+By screening for genes upregulated in cisplatin-resistant human cancer
+cell lines compared with parental cell lines, Shen et al. (2010) cloned
+TMEM205. The deduced 189-amino acid protein has 4 transmembrane domains.
+Quantitative real-time PCR detected variable TMEM205 expression in all
+29 human tissues examined, with highest expression in pancreas, followed
+by adrenal gland, thyroid, liver, mammary gland, prostate, kidney, and
+retina. Lowest expression was detected in skeletal muscle. Western blot
+analysis detected TMEM205 at an apparent molecular mass of about 21 kD
+in membrane fractions of early cisplatin-resistant cells. Immunoelectron
+microscopy showed that TMEM205 localized to cell surface microvilli.
+
+GENE FUNCTION
+
+Using RT-PCR and immunoblot analyses, Shen et al. (2010) confirmed that
+expression of TMEM205 was upregulated in cisplatin-resistant human and
+mouse cells compared with parental cell lines. Transfection of TMEM205
+into naive cells induced cisplatin resistance. Development of cisplatin
+resistance was associated with reduced intracellular cisplatin levels
+and redistribution of TMEM205 from the cell surface to the trans-Golgi
+region. Shen et al. (2010) hypothesized that TMEM205 may be a cisplatin
+transporter that permits drug resistance by reducing the intracellular
+cisplatin concentration.
+
+MAPPING
+
+Hartz (2011) mapped the TMEM205 gene to chromosome 19p13.2 based on an
+alignment of the TMEM205 sequence (GenBank GENBANK AY358949) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/23/2011.
+
+2. Shen, D.-W.; Ma, J.; Okabe, M.; Zhang, G.; Xia, D.; Gottesman,
+M. M.: Elevated expression of TMEM205, a hypothetical membrane protein,
+is associated with cisplatin resistance. J. Cell. Physiol. 225:
+822-828, 2010.
+
+CREATED Patricia A. Hartz: 2/24/2011
+
+EDITED mgross: 02/24/2011
+mgross: 2/24/2011
+

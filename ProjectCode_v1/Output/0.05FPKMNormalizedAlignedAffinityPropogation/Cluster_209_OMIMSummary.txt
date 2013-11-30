@@ -1,0 +1,2940 @@
+608172	TITLE *608172 DEHYDRODOLICHYL DIPHOSPHATE SYNTHASE; DHDDS
+;;DEDOL-PP SYNTHASE;;
+HDS
+DESCRIPTION 
+DESCRIPTION
+
+Dehydrodolichyl diphosphate (dedol-PP) synthase catalyzes cis-prenyl
+chain elongation to produce the polyprenyl backbone of dolichol, a
+glycosyl carrier lipid required for the biosynthesis of several classes
+of glycoproteins (summary by Endo et al., 2003).
+
+CLONING
+
+By searching databases for sequences similar to E. coli undecaprenyl
+diphosphate synthase (UPS) and S. cerevisiae dedol-PP synthase, followed
+by RT-PCR of a testis cDNA library, Endo et al. (2003) cloned DHDDS,
+which they designated HDS. The deduced 333-amino acid DHDDS protein
+contains all 5 regions conserved among cis-prenyl chain-elongating
+enzymes in several eukaryotic and prokaryotic species. DHDDS shares
+41.8% homology with yeast dedol-PP synthase and 37.6% homology with E.
+coli UPS. Northern blot analysis detected high DHDDS expression in
+testis and kidney, with lower levels in heart, spleen, and thymus.
+
+Zelinger et al. (2011) performed RT-PCR analysis in 21 human tissues and
+observed ubiquitous expression of DHDDS, with a band of higher intensity
+in the retinal sample compare to other tissues. The analysis confirmed
+the expression of the full-length transcript in the retina as well as 3
+alternatively spliced variants, 2 of which were in-frame and likely to
+encode a protein.
+
+GENE STRUCTURE
+
+Endo et al. (2003) determined that the DHDDS gene contains 8 coding
+exons and spans more than 37 kb. Zelinger et al. (2011) noted that the
+DHDDS gene contains 9 exons and that exon 1 is noncoding.
+
+MAPPING
+
+By genomic sequence analysis, Endo et al. (2003) mapped the DHDDS gene
+to chromosome 1p35.
+
+By genomic sequence analysis, Zelinger et al. (2011) mapped the DHDDS
+gene to chromosome 1p36.11.
+
+GENE FUNCTION
+
+By in vitro assay, Endo et al. (2003) demonstrated cis-prenyltransferase
+activity in DHDDS-transformed yeast membrane fractions incubated with
+radiolabeled isopentenyl diphosphate and farnesyl diphosphate as
+substrates. Thin-layer chromatography detected synthesis of high levels
+of dolichols with major chain lengths of C90, C95, and C100, consistent
+with dolichols isolated from human tissues.
+
+Zelinger et al. (2011) performed immunohistochemical analysis of the
+human retina with anti-DHDDS antibodies and observed intense labeling of
+the cone and rod photoreceptor inner segments.
+
+MOLECULAR GENETICS
+
+In 3 affected sibs from an Ashkenazi Jewish family with retinitis
+pigmentosa (RP59; 613861), in whom mutation in all known RP genes had
+been excluded, Zuchner et al. (2011) performed whole-exome sequencing
+and identified homozygosity for a missense mutation in the DDHS gene
+(K42E; 608172.0001) that was not present in their unaffected sib. The
+unaffected parents were heterozygous for the mutation, which was
+detected in heterozygosity in 8 of 717 Ashkenazi Jewish controls but was
+not found in 6,977 confirmed non-Ashkenazi white controls; the variant
+was also found once in 5,893 additional white controls for whom
+genomewide genotype data were not available. Zuchner et al. (2011)
+stated that E42K likely arose from an ancestral founder.
+
+In 15 (12%) of 123 Ashkenazi Jewish (AJ) probands with RP, Zelinger et
+al. (2011) identified homozygosity for the K42E founder mutation. The
+K42E mutation was found in heterozygosity in 1 of 322 ethnically matched
+controls, indicating a carrier frequency of 0.3% in the AJ population,
+but was not detected in an additional set of 109 AJ patients with RP, in
+20 AJ patients with other inherited retinal diseases, or in 70 patients
+with retinal degeneration of other ethnic origins.
+
+ANIMAL MODEL
+
+By morpholino-knockdown of Dhdds in zebrafish, Zuchner et al. (2011)
+observed failure to exhibit the typical escape response to light on-off
+switches, and microscopic examination of the morphant retina revealed
+that photoreceptor outer segments were very short or completely missing;
+in addition, one-third of zebrafish morphants had smaller eyes and a
+slight ventral flexion to the body axis.
+
+ALLELIC VARIANT .0001
+RETINITIS PIGMENTOSA 59
+DHDDS, LYS42GLU
+
+In 3 affected sibs from an Ashkenazi Jewish family with retinitis
+pigmentosa (RP59; 613861), Zuchner et al. (2011) identified homozygosity
+for a 124A-G transition in exon 3 of the DHDDS gene, resulting in a
+lys42-to-glu (K42E) substitution at a highly conserved residue located
+close to the catalytic center and the substrate binding site for
+farnesyl phosphate. The unaffected parents were heterozygous for the
+mutation, which was also detected in heterozygosity in 8 of 717
+Ashkenazi Jewish controls but not found in 6,977 confirmed non-Ashkenazi
+white controls; the variant was also found once in 5,893 additional
+white controls for whom genomewide genotype data were not available.
+
+In 20 Ashkenazi Jewish patients with RP from 15 families, Zelinger et
+al. (2011) identified homozygosity for the E42K founder mutation in exon
+3 of the DHDDS gene.
+
+REFERENCE 1. Endo, S.; Zhang, Y.-W.; Takahashi, S.; Koyama, T.: Identification
+of human dehydrodolichyl diphosphate synthase gene. Biochim. Biophys.
+Acta 1625: 291-295, 2003.
+
+2. Zelinger, L.; Banin, E.; Obolensky, A.; Mizrahi-Meissonnier, L.;
+Beryozkin, A.; Bandah-Rozenfeld, D.; Frenkel, S.; Ben-Yosef, T.; Merin,
+S.; Schwartz, S. B.; Cideciyan, A. V.; Jacobson, S. G.; Sharon, D.
+: A missense mutation in DHDDS, encoding dehydrodolichyl diphosphate
+synthase, is associated with autosomal-recessive retinitis pigmentosa
+in Ashkenazi Jews. Am. J. Hum. Genet. 88: 207-215, 2011.
+
+3. Zuchner, S.; Dallman, J.; Wen, R.; Beecham, G.; Naj, A.; Farooq,
+A.; Kohli, M. A.; Whitehead, P. L.; Hulme, W.; Konidari, I.; Edwards,
+Y. J. K.; Cai, G.: Whole-exome sequencing links a variant in DHDDS
+to retinitis pigmentosa. Am. J. Hum. Genet. 88: 201-206, 2011.
+
+CREATED Patricia A. Hartz: 10/24/2003
+
+EDITED carol: 09/16/2013
+wwang: 4/4/2011
+mgross: 10/24/2003
+
+609249	TITLE *609249 HECT DOMAIN AND RCC1-LIKE DOMAIN 6; HERC6
+DESCRIPTION 
+DESCRIPTION
+
+HERC6 belongs to the HERC family of ubiquitin ligases, all of which
+contain a HECT domain and at least 1 RCC1 (179710)-like domain (RLD).
+The 350-amino acid HECT domain is predicted to catalyze the formation of
+a thioester with ubiquitin before transferring it to a substrate, and
+the RLD is predicted to act as a guanine nucleotide exchange factor for
+small G proteins (Hochrainer et al., 2005).
+
+CLONING
+
+Hochrainer et al. (2005) cloned a partial HERC6 cDNA from an endothelial
+cell cDNA library and obtained the full-length sequence by 5-prime and
+3-prime RACE. The deduced 1,022-amino acid protein contains an
+N-terminal RLD and a C-terminal HECT domain. Hochrainer et al. (2005)
+identified several alternatively spliced HERC6 transcripts in the human
+Jurkat T-cell line, in human skin microvascular endothelial cells, and
+in HeLa cells. Most of these splicing events cause frameshifts,
+resulting in truncated proteins containing only the RLD. Confocal
+immunofluorescence microscopy of transiently transfected HeLa cells
+showed HERC6 in a punctate cytoplasmic distribution.
+
+GENE STRUCTURE
+
+Hochrainer et al. (2005) determined that the HERC6 gene contains 23
+exons, with the initiation codon in exon 1.
+
+MAPPING
+
+Using somatic cell hybridization, Hochrainer et al. (2005) mapped the
+HERC6 gene to chromosome 4. By genomic sequence analysis, they
+determined that HERC3 (605200), HERC5 (608242), and HERC6 are clustered
+within a 330-kb region on chromosome 4q22. HERC6 and HERC5 are separated
+by 14 kb, and HERC5 and HERC3 are separated by 86 kb.
+
+REFERENCE 1. Hochrainer, K.; Mayer, H.; Baranyi, U.; Binder, B. R.; Lipp, J.;
+Kroismayr, R.: The human HERC family of ubiquitin ligases: novel
+members, genomic organization, expression profiling, and evolutionary
+aspects. Genomics 85: 153-164, 2005.
+
+CREATED Patricia A. Hartz: 3/9/2005
+
+EDITED mgross: 03/09/2005
+mgross: 3/9/2005
+
+139160	TITLE *139160 GUANINE NUCLEOTIDE-BINDING PROTEIN, ALPHA Z POLYPEPTIDE; GNAZ
+DESCRIPTION 
+CLONING
+
+By cDNA cloning, Blatt et al. (1988) identified a G protein-encoding
+gene which they called G(z-alpha) and symbolized GNAZ. The corresponding
+protein was found to differ strikingly from other G-alpha subunits in
+amino acid sequence in a number of regions, and it appeared to be highly
+enriched in neural tissue (Fong et al., 1988; Matsuoka et al., 1988).
+
+MAPPING
+
+Blatt et al. (1988) assigned the GNAZ locus to chromosome 22 by
+hybridization to the DNA from a panel of rodent-human cell hybrids. By
+in situ hybridization, Wilkie et al. (1992) demonstrated that the GNAZ
+gene is located in band 22q11. By the analysis of RFLVs in an
+interspecific backcross, they showed that the corresponding gene is
+located on mouse chromosome 10. Budarf et al. (1991) further narrowed
+the localization to 22q11.2 by fluorescence in situ hybridization on
+reverse banded metaphase chromosomes. They confirmed the localization by
+means of a regional mapping panel of somatic cell hybrids.
+
+REFERENCE 1. Blatt, C.; Eversole-Cire, P.; Cohn, V. H.; Zollman, S.; Fournier,
+R. E. K.; Mohandas, L. T.; Nesbitt, M.; Lugo, T.; Jones, D. T.; Reed,
+R. R.; Weiner, L. P.; Sparkes, R. S.; Simon, M. I.: Chromosomal localization
+of genes encoding guanine nucleotide-binding protein subunits in mouse
+and human. Proc. Nat. Acad. Sci. 85: 7642-7646, 1988.
+
+2. Budarf, M. L.; Korenberg, J. R.; Simon, M.; Emanuel, B. S.: Regional
+assignment of the guanine nucleotide binding protein, GNAZ, to chromosome
+22 (22q11.1-q11.2). (Abstract) Cytogenet. Cell Genet. 58: 2046-2047,
+1991.
+
+3. Fong, H. K. W.; Yoshimoto, K. K.; Eversole-Cire, P.; Simon, M.
+I.: Identification of a GTP-binding protein alpha subunit that lacks
+an apparent ADP-ribosylation site for pertussis toxin. Proc. Nat.
+Acad. Sci. 85: 3066-3070, 1988.
+
+4. Matsuoka, M.; Itoh, H.; Kozasa, T.; Kaziro, Y.: Sequence analysis
+of cDNA and genomic DNA for a putative pertussis toxin-insensitive
+guanine nucleotide-binding regulatory protein alpha subunit. Proc.
+Nat. Acad. Sci. 85: 5384-5388, 1988.
+
+5. Wilkie, T. M.; Gilbert, D. J.; Olsen, A. S.; Chen, X.-N.; Amatruda,
+T. T.; Korenberg, J. R.; Trask, B. J.; de Jong, P.; Reed, R. R.; Simon,
+M. I.; Jenkins, N. A.; Copeland, N. G.: Evolution of the mammalian
+G protein alpha subunit multigene family. Nature Genet. 1: 85-91,
+1992.
+
+CREATED Victor A. McKusick: 11/23/1988
+
+EDITED carol: 11/28/2012
+carol: 7/2/1998
+alopez: 5/12/1998
+carol: 4/7/1993
+carol: 8/11/1992
+carol: 6/15/1992
+carol: 5/19/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+
+601074	TITLE *601074 CUGBP- AND ELAV-LIKE FAMILY, MEMBER 1; CELF1
+;;CUG TRIPLET REPEAT, RNA-BINDING PROTEIN 1; CUGBP1;;
+CUG-BINDING PROTEIN; CUGBP;;
+NUCLEAR POLYADENYLATED RNA-BINDING PROTEIN, 50-KD; NAB50;;
+BRUNO-LIKE 2; BRUNOL2
+DESCRIPTION 
+DESCRIPTION
+
+Members of the CELF family, such as CELF1, play various roles in
+cotranscriptional and posttranscriptional RNA processing. All CELF
+proteins appear to affect pre-mRNA splicing, but individual CELFs have
+divergent roles in regulating mRNA stability and translation (summary by
+Wagnon et al., 2012).
+
+CLONING
+
+An unstable CTG triplet repeat expansion in the DMPK gene (605377) is
+responsible for myotonic dystrophy (DM1; 160900). To detect proteins
+that bind to CTG triplet repeats, Timchenko et al. (1996) performed
+bandshift analysis using as probes double-stranded DNA fragments having
+CTG repeats and single-stranded oligonucleotides having CTG repeats or
+RNA CUG repeats. The proteins were derived from nuclear and cytoplasmic
+extracts of HeLa cells, fibroblasts, and myotubes. Proteins binding to
+the double-stranded DNA repeat were inhibited by the nonlabeled repeat
+but not by a nonspecific DNA fragment. Another protein binding to the
+single-stranded CTG probe and the RNA CUG probe was inhibited by
+nonlabeled CTG(8) and CUG(8) repeats. The protein binding only to the
+RNA repeat (CUG)8 was inhibited by nonlabeled (CUG)8 but not by
+nonlabeled single- or double-stranded CTG repeats. Furthermore, the
+protein, designated CUG-binding protein (CUGBP) by the authors,
+exhibited no binding to an RNA oligonucleotide of triplet repeats of the
+same length but having a different sequence, CGG. The CUG-binding
+protein was localized to the cytoplasm, whereas double-stranded DNA
+binding proteins were localized to the nuclear extract. Thus, Timchenko
+et al. (1996) concluded that several trinucleotide-binding proteins
+exist and their specificity is determined by the triplet sequence.
+
+CTG trinucleotide repeats encode CUG repeat regions in the corresponding
+mRNAs. Timchenko et al. (1996) identified 2 proteins, termed CUGBP1 and
+CUGBP2, that bind specifically to CUG repeats in RNA. They suggested
+that these 2 proteins, with masses of 49 kD and 51 kD, respectively, are
+isoforms encoded by the same gene. Timchenko et al. (1996) cloned a
+gene, termed NAB50 by them, based on the interaction between its protein
+product and the yeast Nab2 protein. The authors stated that the NAB50
+gene encodes the CUGBP1 and CUGBP2 proteins because anti-Nab50
+antibodies crossreacted with both CUGBP isoforms. The gene predicts a
+482-amino acid protein with a calculated molecular mass of 52 kD. The
+predicted protein contains 3 RNA-binding domains and is homologous to
+the hnRNPs.
+
+Good et al. (2000) identified CUGBP1 as BRUNOL2, a member of a human
+gene family related to the transcriptional regulator 'Bruno' of
+Drosophila. By PCR, they cloned BRUNOL2 from a brain cDNA library. The
+deduced protein contains 2 N-terminal RNA recognition motifs (RRMs), a
+long linker region, and a C-terminal RRM. BRUNOL2 and BRUNOL3 (CUGBP2;
+602538) share 80% amino acid identity overall and more than 92% identity
+in their RRMs. Good et al. (2000) determined that the BRUNOL2 cDNA and
+the CUGBP1 cDNA reported by Timchenko et al. (1996) differ in their
+3-prime UTRs due to alternative splicing. Good et al. (2000) also
+identified a BRUNOL2 splice variant with an additional 12 bp, resulting
+in a 4-amino acid insertion in the linker region. Northern blot analysis
+detected variable expression of 3 major BRUNOL2 transcripts of about
+9.5, 7.5, and 2.4 kb in all tissues examined.
+
+Using RNA dot blot analysis, Ladd et al. (2004) confirmed ubiquitous
+expression of CUGBP1.
+
+GENE FUNCTION
+
+Timchenko et al. (1996) showed that the NAB50 gene product bound the CUG
+repeat region of DMPK.
+
+Using 2 biologic systems with reduced DMPK levels, a homozygous DM
+patient and DMPK knockout mice, Roberts et al. (1997) demonstrated that
+the intracellular distribution of CUGBP isoforms was altered in the
+absence of DMPK. DMPK phosphorylated the CUGBP protein in vitro,
+suggesting regulation of nuclear CUGBP localization via phosphorylation.
+
+Using ultraviolet light crosslinking and gel mobility shift assays, Good
+et al. (2000) showed that BRUNOL2 bound RNA containing a BRUNO response
+element (BRE).
+
+Dudaronek et al. (2007) showed that Ifnb (147720) induced expression of
+Lip, a truncated, dominant-negative isoform of Cebpb (189965), and
+suppressed active simian immunodeficiency virus (SIV) replication in
+macaque macrophages. In a human monocyte cell line, IFNB induced
+phosphorylation of CUGBP1 and formation of CUGBP1-CEBPB mRNA complexes.
+Depletion of Cugbp1 in macaque macrophages via small interfering RNA
+showed that Cugbp1 was required for Ifnb-mediated induction of Lip and
+for Ifnb-mediated suppression of SIV replication. Dudaronek et al.
+(2007) concluded that CUGBP1 is a downstream effector of IFNB signaling
+in primary macrophages that plays an important role in innate immune
+responses controlling acute human immunodeficiency virus (HIV) or SIV
+replication in brain.
+
+A transgenic fly model of fragile X-associated tremor/ataxia syndrome
+(FXTAS; 300623) in which the 5-prime UTR of human FMR1 (309550)
+containing 90 CGG repeats is expressed specifically in the eye results
+in disorganized ommatidia, depigmentation, and progressive loss of
+photoreceptor neurons. Sofola et al. (2007) found that overexpression of
+human CUGBP1 suppressed the neurodegenerative eye phenotype in
+transgenic flies. CUGBP1 did not interact directly with the CGG repeats,
+but did so via HNRNPA2B1 (600124). Expression of the A2 isoform of human
+HNRNPA2B1, or the Drosophila orthologs, also suppressed the eye
+phenotype of FXTAS flies. CUGBP1 did not interact with other HNRNPs
+examined.
+
+Tang et al. (2012) observed altered splicing of the calcium channel
+subunit CAV1.1 (CACNA1S; 114208) in muscle of patients with DM1 and DM2
+(602668) compared with normal adult muscle and muscle of patients with
+facioscapulohumeral muscular dystrophy (FSHD; see 158900). A significant
+fraction of CAV1.1 transcripts in DM1 and DM2 muscle showed skipping of
+exon 29, which represents a fetal splicing pattern. Forced exclusion of
+exon 29 in normal mouse skeletal muscle altered channel gating
+properties and increased current density and peak electrically evoked
+calcium transient magnitude. Downregulation of Mbnl1 (606516) in mouse
+cardiac muscle or overexpression of Cugbp1 in mouse tibialis anterior
+muscle enhanced skipping of exon 29, suggesting that these splicing
+factors may be involved in the CAV1.1 splicing defect in myotonic
+dystrophy.
+
+MAPPING
+
+By genomic sequence analysis, Good et al. (2000) mapped the CUGBP1 gene
+to chromosome 11p11.
+
+ANIMAL MODEL
+
+Wang et al. (2007) generated an inducible and heart-specific mouse model
+of DM1 that expressed expanded human DMPK CUG-repeat RNA and
+recapitulated pathologic features of the human disorder, including
+dilated cardiomyopathy, arrhythmias, and systolic and diastolic
+dysfunction. The mice also showed misregulation of developmental
+alternative splicing transitions, including the Tnnt2 (191045) and Fxr1
+(600819) genes. All died of heart failure within 2 weeks.
+Immunohistochemical studies showed increased CUGBP1 protein levels
+specifically in nuclei containing foci of DMPK CUG-repeat RNA. A
+time-course study showed that increased CUGBP1 cooccurred within hours
+of induced expression of the CUG repeat and coincided with reversion to
+embryonic splicing patterns. The results indicated that increased CUGBP1
+is a specific and early event of DM1 pathogenesis and represents a
+primary response to expression of DMPK CUG-repeat mutant RNA.
+
+Koshelev et al. (2010) expressed human CUGBP1 in adult mouse heart.
+Upregulation of CUGBP1 was sufficient to reproduce molecular,
+histopathologic, and functional changes observed in a DM1 mouse model
+that expressed expanded CUG RNA repeats (Wang et al., 2007) as well as
+in individuals with DM1. The authors concluded that CUGBP1 upregulation
+plays an important role in DM1 pathogenesis.
+
+By inducing expression of human CUGBP1 in adult skeletal muscle of
+transgenic mice, Ward et al. (2010) showed that the pathogenic features
+of DM1 could be explained by upregulated CUGBP1 expression. Within weeks
+of induction of CUGBP1 expression, transgenic mice exhibited impaired
+movement, reduced muscle function, abnormal gait, and reduced total body
+weight compared with uninduced controls. Histologic analysis of
+transgenic muscle overexpressing CUGBP1 revealed centrally located
+nuclei, myofiber degeneration with inflammatory infiltrate, and pyknotic
+nuclear clumps. RT-PCR analysis revealed reversion to embryonic splicing
+patterns in several genes in transgenic muscle overexpressing CUGBP1.
+Ward et al. (2010) concluded that CUGBP1 has a major role in DM1
+skeletal muscle pathogenesis.
+
+REFERENCE 1. Dudaronek, J. M.; Barber, S. A.; Clements, J. E.: CUGBP1 is required
+for IFN-beta-mediated induction of dominant-negative CEBP-beta and
+suppression of SIV replication in macrophages. J. Immun. 179: 7262-7269,
+2007.
+
+2. Good, P. J.; Chen, Q.; Warner, S. J.; Herring, D. C.: A family
+of human RNA-binding proteins related to the Drosophila Bruno transcriptional
+regulator. J. Biol. Chem. 275: 28583-28592, 2000.
+
+3. Koshelev, M.; Sarma, S.; Price, R. E.; Wehrens, X. H. T.; Cooper,
+T. A.: Heart-specific overexpression of CUGBP1 reproduces functional
+and molecular abnormalities of myotonic dystrophy type 1. Hum. Molec.
+Genet. 19: 1066-1075, 2010.
+
+4. Ladd, A. N.; Nguyen, N. H.; Malhotra, K.; Cooper, T. A.: CELF6,
+a member of the CELF family of RNA-binding proteins, regulates muscle-specific
+splicing enhancer-dependent alternative splicing. J. Biol. Chem. 279:
+17756-17764, 2004.
+
+5. Roberts, R.; Timchenko, N. A.; Miller, J. W.; Reddy, S.; Caskey,
+C. T.; Swanson, M. S.; Timchenko, L. T.: Altered phosphorylation
+and intracellular distribution of a (CUG)n triplet repeat RNA-binding
+protein in patients with myotonic dystrophy and in myotonin protein
+kinase knockout mice. Proc. Nat. Acad. Sci. 94: 13221-13226, 1997.
+
+6. Sofola, O. A.; Jin, P.; Qin, Y.; Duan, R.; Liu, H.; de Haro, M.;
+Nelson, D. L.; Botas, J.: RNA-binding proteins hnRNP A2/B1 and CUGBP1
+suppress fragile X CGG premutation repeat-induced neurodegeneration
+in a Drosophila model of FXTAS. Neuron 55: 565-571, 2007.
+
+7. Tang, Z. Z.; Yarotskyy, V.; Wei, L.; Sobczak, K.; Nakamori, M.;
+Eichinger, K.; Moxley, R. T.; Dirksen, R. T.; Thornton, C. A.: Muscle
+weakness in myotonic dystrophy associated with misregulated splicing
+and altered gating of CaV1.1 calcium channel. Hum. Molec. Genet. 21:
+1312-1324, 2012.
+
+8. Timchenko, L. T.; Miller, J. W.; Timchenko, N. A.; DeVore, D. R.;
+Datar, K. V.; Lin, L.; Roberts, R.; Caskey, C. T.; Swanson, M. S.
+: Identification of a (CUG)n triplet repeat RNA-binding protein and
+its expression in myotonic dystrophy. Nucleic Acids Res. 24: 4407-4414,
+1996.
+
+9. Timchenko, L. T.; Timchenko, N. A.; Caskey, C. T.; Roberts, R.
+: Novel proteins with binding specificity for DNA CTG repeats and
+RNA CUG repeats: implications for myotonic dystrophy. Hum. Molec.
+Genet. 5: 115-121, 1996.
+
+10. Wagnon, J. L.; Briese, M.; Sun, W.; Mahaffey, C. L.; Curk, T.;
+Rot, G.; Ule, J.; Frankel, W. N.: CELF4 regulates translation and
+local abundance of a vast set of mRNAs, including genes associated
+with regulation of synaptic function. PLoS Genet. 8: e1003067, 2012.
+Note: Electronic Article.
+
+11. Wang, G.-S.; Kearney, D. L.; De Biasi, M.; Taffet, G.; Cooper,
+T. A.: Elevation of RNA-binding protein CUGBP1 is an early event
+in an inducible heart-specific mouse model of myotonic dystrophy. J.
+Clin. Invest. 117: 2802-2811, 2007.
+
+12. Ward, A. J.; Rimer, M.; Killian, J. M.; Dowling, J. J.; Cooper,
+T. A.: CUGBP1 overexpression in mouse skeletal muscle reproduces
+features of myotonic dystrophy type 1. Hum. Molec. Genet. 19: 3614-3622,
+2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 7/26/2013
+Patricia A. Hartz - updated: 7/17/2013
+Patricia A. Hartz - updated: 4/26/2012
+George E. Tiller - updated: 11/10/2011
+Patricia A. Hartz - updated: 9/10/2009
+Patricia A. Hartz - updated: 2/23/2009
+Paul J. Converse - updated: 11/21/2008
+Cassandra L. Kniffin - updated: 10/29/2007
+Anne M. Stumpf - updated: 8/27/2001
+Jennifer P. Macke - updated: 9/25/1998
+Victor A. McKusick - updated: 2/24/1998
+
+CREATED Victor A. McKusick: 2/15/1996
+
+EDITED mgross: 07/26/2013
+mgross: 7/26/2013
+mgross: 7/17/2013
+mgross: 5/2/2012
+terry: 4/26/2012
+alopez: 11/16/2011
+terry: 11/10/2011
+mgross: 9/17/2009
+terry: 9/10/2009
+mgross: 3/20/2009
+terry: 2/23/2009
+mgross: 12/18/2008
+terry: 11/21/2008
+carol: 11/5/2007
+ckniffin: 10/29/2007
+alopez: 8/27/2001
+mgross: 8/11/1999
+mgross: 2/24/1999
+alopez: 9/28/1998
+carol: 9/25/1998
+dholmes: 4/16/1998
+alopez: 2/25/1998
+terry: 2/24/1998
+mark: 2/15/1996
+
+607074	TITLE *607074 PROTEIN KINASE D2; PRKD2
+;;PKD2
+DESCRIPTION 
+CLONING
+
+By EST database searching with the conserved C-terminal sequence of
+serine kinases and screening of a human ductal pancreatic cDNA library,
+Sturany et al. (2001) cloned a novel serine/threonine protein kinase,
+which they called PKD2. The deduced 878-amino acid protein, which has a
+predicted molecular mass of 97 kD, contains an N-terminal hydrophobic
+area predicted to be a transmembrane region, 2 cysteine-rich motifs that
+form zinc finger-like repeats, a pleckstrin homology domain, and a
+putative kinase domain containing the ATP-binding consensus sequence. An
+invariant aspartate essential for kinase activity is located within a
+motif conserved in serine/threonine kinases. The first zinc finger-like
+domain shares 88% identity to the corresponding domains in PKD/PKC-mu
+(PRKCM; 605435) and PKC-nu (PRKCN; 607077). Northern blot analysis
+detected constitutive low expression of a 4-kb transcript; higher levels
+were observed in pancreas, heart, lung, smooth muscle, and brain, and
+lower levels kidney and liver. SDS-PAGE revealed a protein with a
+molecular mass of 105 kD, as did Western blot analysis of endogenous
+PRKD2 or protein expressed following transfection.
+
+GENE FUNCTION
+
+Sturany et al. (2001) demonstrated phorbol ester binding to the duplex
+zinc finger-like motif of PRKD2 as well as autophosphorylation following
+phorbol ester stimulation. The addition of phosphatidyl-L-serine caused
+synergistic stimulation. Phorbol ester-activated PRKD2 migrated more
+slowly than inactive PRKD2 by SDS-PAGE, suggesting hyperphosphorylation
+upon activation.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PRKD2
+gene to chromosome 19 (TMAP R67403).
+
+REFERENCE 1. Sturany, S.; Van Lint, J.; Muller, F.; Wilda, M.; Hameister, H.;
+Hocker, M.; Brey, A.; Gern, U.; Vandenheede, J.; Gress, T.; Adler,
+G.; Seufferlein, T.: Molecular cloning and characterization of the
+human protein kinase D2: a novel member of the protein kinase D family
+of serine threonine kinases. J. Biol. Chem. 276: 3310-3318, 2001.
+
+CREATED Patricia A. Hartz: 6/26/2002
+
+EDITED alopez: 04/20/2011
+carol: 6/27/2002
+
+607281	TITLE *607281 LSM1 PROTEIN; LSM1
+;;CANCER-ASSOCIATED SM-LIKE PROTEIN; CASM
+DESCRIPTION 
+DESCRIPTION
+
+Sm-like proteins, such as LSM1, were identified in a variety of
+organisms based on sequence homology with the Sm protein family (see
+SNRPD2; 601061). Sm-like proteins contain the Sm sequence motif, which
+consists of 2 regions separated by a linker of variable length that
+folds as a loop. Sm-like proteins are thought to form a stable heteromer
+present in tri-snRNP particles, which are important for pre-mRNA
+splicing (Achsel et al., 1999). LSM1 localizes to cytoplasmic processing
+bodies (P bodies) involved in mRNA storage, processing, regulation, and
+degradation and is required for P-body formation (Scheller et al.,
+2007).
+
+CLONING
+
+LSM1 was first isolated from human pancreatic cancers as an upregulated
+gene and termed 'cancer-associated Sm-like protein' (CASM) by
+Schweinfest et al. (1997). The deduced LSM1 protein contains 133 amino
+acids.
+
+In a search for human Sm-like proteins, Achsel et al. (1999)
+fractionated proteins present in purified (U4/U6.U5) tri-snRNPs and
+isolated 7 Sm-like proteins, which they named LSm2-LSm8. Using partial
+peptide sequence for database searches, they identified and sequenced
+EST clones. Using additional sequence obtained by PCR amplification of a
+HeLa cDNA library, they assembled full-length cDNA sequences for
+LSM2-LSM8.
+
+Salgado-Garrido et al. (1999) searched database sequence for Sm proteins
+and identified 16 potential Sm-related genes in yeast as well as some
+Sm-related genes in human and archaebacteria. Using a multiple sequence
+alignment of Sm domains, they built a phylogenetic tree of yeast, human,
+and archaeal Sm and Sm-like proteins.
+
+Using Northern blot analysis, Scheller et al. (2007) detected variable
+expression of a 0.95-kb LSM1 transcript in all human tissues examined.
+In HeLa cells, LSM1 colocalized with PATL1 (614660), DCP1 (see 607010),
+and RCK (DDX6; 600326) in cytoplasmic P bodies.
+
+GENE FUNCTION
+
+Using electron-microscopy, Achsel et al. (1999) observed that purified
+LSm proteins form a heteromer that is stable even in the absence of RNA
+and exhibits a doughnut-shaped structure similar to the Sm core RNP
+structure. They demonstrated that the purified LSm heteromer binds
+specifically to the U6 snRNA at its 3-prime-terminal U-tract. They also
+showed that the LSm proteins facilitate the formation of U4/U6 RNA
+duplexes in vitro and concluded that the LSm proteins may play a role in
+U4/U6 snRNP formation.
+
+Using immunoprecipitation experiments, Salgado-Garrido et al. (1999)
+concluded that there is a complex of 7 Sm-like proteins bound to RNA in
+yeast. Lsm2-Lsm8 coprecipitate the U4, U5 and U6 snRNAs and directly
+associate with the U6 snRNA present in the free U6 snRNP. Additionally,
+the yeast Lsm2-Lsm7 proteins were found to be associated with the
+pre-RNase P RNA but not the mature RNase RNA. Using immunoprecipitation
+experiments from human cell extracts, Salgado-Garrido et al. (1999)
+showed that the LSM3 and LSM4 proteins are specifically associated with
+snRNP complexes containing the U6 snRNA. Salgado-Garrido et al. (1999)
+concluded that Sm and Sm-like proteins assemble in at least 2
+functionally conserved complexes of deep evolutionary origin.
+
+By disrupting the Sm and Sm-like genes in yeast, Salgado-Garrido et al.
+(1999) concluded that disruption of genes encoding Sm-like proteins
+directly associated with the U6 snRNA (Lsm2-8) generated variable
+phenotypes. Lsm2, Lsm3, Lsm4, and Lsm8 are essential for vegetative
+growth. Lsm5, Lsm6, and Lsm7 are not essential for growth; however,
+their disruptions lead to slow growth especially at elevated
+temperature. The levels of the U6 snRNA were strongly reduced in the
+strains harboring the Lsm5, Lsm6, and Lsm7 disruptions. Lsm1 and Lsm9
+are dispensable for vegetative growth, but Lsm1 is required for optimal
+vegetative growth at 30 degrees and is temperature sensitive.
+
+Ingelfinger et al. (2002) determined that human LSM1 to LSM7, but not
+LSM8, were expressed in HeLa cells within cytoplasmic foci. The foci
+also contained a decapping enzyme (DCP1/2) and the exonuclease XRN1
+(607994). Coexpression of wildtype and mutant LSM proteins, as well as
+fluorescence resonance energy transfer, indicated that the LSM proteins
+form a complex similar to one found in yeast. Ingelfinger et al. (2002)
+concluded that the foci contain a partially or fully assembled machinery
+for the degradation of mRNA.
+
+Using cDNA-representational difference analysis, Takahashi et al. (2002)
+searched for genes differentially expressed in advanced prostate cancers
+and thereby isolated the LSM1 gene as 1 that is downregulated. They
+transfected an LSM1 expression vector into PC3 cells, which normally
+feature downregulated LSM1. In the transfectants, no differences in
+morphology or cell proliferation were evident in comparison with parent
+PC3 or PC3/mock-transfectants. In contrast, significant suppression of
+invasive potential or metastatic ability of LSM1 transfectants was
+observed in the Matrigel chemoinvasion assay and in nude mice,
+respectively. In studies of human prostate cancers, Takahashi et al.
+(2002) found that almost all informative prostatectomized cases without
+neoadjuvant therapy showed allelic retention in the LSM1 region, whereas
+refractory cancers frequently showed allelic loss in this region. No
+critical gene mutations were found in the open reading frame of LSM1 in
+prostate cancers, including localized and refractory cancers. These
+results suggested that LSM1 is deeply involved in prostate cancer
+progression through its downregulation, independent of any gene
+mutation.
+
+By array CGH, Yang et al. (2006) analyzed the copy number and expression
+level of genes in the 8p12-p11 amplicon in 22 human breast cancer
+(114480) specimens and 7 breast cancer cell lines. Of the 21 potential
+genes identified, PCR analysis and functional analysis indicated that 3
+genes, LSM1, BAG4 (603884), and C8ORF4 (607702), are breast cancer
+oncogenes that can work in combination to influence a transformed
+phenotype in human mammary epithelial cells.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the LSM1
+gene to chromosome 8 (TMAP stSG26021). Most of the genes encoding the
+Lsm proteins map to different chromosomes.
+
+REFERENCE 1. Achsel, T.; Brahms, H.; Kastner, B.; Bachi, A.; Wilm, M.; Luhrmann,
+R.: A doughnut-shaped heteromer of human Sm-like proteins binds to
+the 3-prime end of U6 snRNA, thereby facilitating U4/U6 duplex formation
+in vitro. EMBO J. 18: 5789-5802, 1999.
+
+2. Ingelfinger, D.; Arndt-Jovin, D. J.; Luhrmann, R.; Achsel, T.:
+The human LSm1-7 proteins colocalize with the mRNA-degrading enzymes
+Dcp1/2 and Xrn1 in distinct cytoplasmic foci. RNA 8: 1489-1501,
+2002.
+
+3. Salgado-Garrido, J.; Bragado-Nilsson, E.; Kandels-Lewis, S.; Seraphin,
+B.: Sm and Sm-like proteins assemble in two related complexes of
+deep evolutionary origin. EMBO J. 18: 3451-3462, 1999.
+
+4. Scheller, N.; Resa-Infante, P.; de la Luna, S.; Galao, R. P.; Albrecht,
+M.; Kaestner, L.; Lipp, P.; Lengauer, T.; Meyerhans, A.; Diez, J.
+: Identification of PatL1, a human homolog to yeast P body component
+Pat1. Biochim. Biophys. Acta 1773: 1786-1792, 2007.
+
+5. Schweinfest, C. W.; Graber, M. W.; Chapman, J. M.; Papas, T. S.;
+Baron, P. L.; Watson, D. K.: CaSm: an Sm-like protein that contributes
+to the transformed state in cancer cells. Cancer Res. 57: 2961-2965,
+1997.
+
+6. Takahashi, S.; Suzuki, S.; Inaguma, S.; Cho, Y.-M.; Ikeda, Y.;
+Hayashi, N.; Inoue, T.; Sugimura, Y.; Nishiyama, N.; Fujita, T.; Ushijima,
+T.; Shirai, T.: Down-regulation of Lsm1 is involved in human prostate
+cancer progression. Brit. J. Cancer 86: 940-946, 2002.
+
+7. Yang, Z. Q.; Streicher, K. L.; Ray, M. E.; Abrams, J.; Ethier,
+S. P.: Multiple interacting oncogenes on the 8p11-p12 amplicon in
+human breast cancer. Cancer Res. 66: 11632-11643, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/15/2012
+Cassandra L. Kniffin - updated: 5/4/2007
+Patricia A. Hartz - updated: 7/29/2003
+Victor A. McKusick - updated: 12/3/2002
+
+CREATED Dawn Watkins-Chow: 10/9/2002
+
+EDITED mgross: 05/23/2012
+terry: 5/15/2012
+wwang: 5/10/2007
+ckniffin: 5/4/2007
+alopez: 1/2/2007
+mgross: 7/29/2003
+carol: 12/6/2002
+tkritzer: 12/5/2002
+terry: 12/3/2002
+carol: 10/9/2002
+
+601772	TITLE *601772 H2A HISTONE FAMILY, MEMBER X; H2AFX
+;;H2AX HISTONE;;
+H2AX
+DESCRIPTION 
+DESCRIPTION
+
+Histones wrap DNA to form nucleosome particles that compact eukaryotic
+genomes. Each nucleosome core particle consists of DNA wrapped by an
+octamer containing 2 molecules each of the highly conserved histones H2A
+(see 613499), H2B (see 609904), H3 (see 602810), and H4 (see 602822). H1
+histones (see 142709) occupy the linker DNA between nucleosomes.
+Canonical histone genes are clustered in repeat arrays and their
+transcription is tightly coupled to DNA replication. In contrast,
+noncanonical variant histone genes are found singly in the genome, are
+constitutively expressed, and encode histones that differ in primary
+amino acid sequence from their canonical paralogs. Unlike canonical
+histones that function primarily in genome packaging and gene
+regulation, variant histones have roles in DNA repair, meiotic
+recombination, chromosome segregation, transcription initiation and
+termination, sex chromosome condensation, and sperm chromatin packaging.
+H2AFX is variant histone of the H2A family (review by Talbert and
+Henikoff, 2010).
+
+For additional background information on histones, histone gene
+clusters, and the H2A histone family, see HIST1H2AA (613499).
+
+CLONING
+
+Ivanova et al. (1994) stated that this gene, termed H2A.X by them, is 1
+of 3 whose synthesis is not linked to DNA replication. They stated that
+H2AX is encoded by an alternatively processed transcript that yields 2
+mRNA species, a 0.6-kb stemloop transcript indistinguishable from those
+of replication-linked histones, and a 1.6-kb read-through polyadenylated
+transcript. Ivanova et al. (1994) noted that the gene encodes a
+142-amino acid protein having a unique C-terminal sequence, QASQEY,
+which has been conserved from lower eukaryotes.
+
+GENE FUNCTION
+
+Chen et al. (2000) reported that the Nijmegen breakage syndrome protein
+(NBS1; 602667) and phosphorylated H2AX (gamma-H2AX), which associate
+with irradiation-induced DNA double-strand breaks (DSBs), are also found
+at sites of V(D)J (variable, diversity, joining) recombination-induced
+DSBs. In developing thymocytes, NBS1 and gamma-H2AX form nuclear foci
+that colocalize with the T-cell receptor-alpha (TCRA; see 186880) locus
+in response to recombination-activating gene-1 (RAG1; 179615)
+protein-mediated V(D)J cleavage. Chen et al. (2000) concluded that their
+results suggest that surveillance of T-cell receptor recombination
+intermediates by NBS1 and gamma-H2AX may be important for preventing
+oncogenic translocations.
+
+Class switch recombination is a region-specific DNA recombination
+reaction that replaces one immunoglobulin heavy-chain constant region
+gene with another. This enables a single variable region gene to be used
+in conjunction with different downstream heavy-chain constant region
+genes, each having a unique biologic activity. Activation-induced
+cytidine deaminase (AID; 605257), a putative RNA editing enzyme, is
+required for this action. Petersen et al. (2001) reported that the NBS1
+protein and gamma-H2AX, which facilitate DNA double-strand break repair,
+form nuclear foci at the heavy-chain constant region in the G1 phase of
+the cell cycle in cells undergoing class switch recombination. Class
+switch recombination is impaired in H2AX -/- mice. Localization of NBS1
+and gamma-H2AX to the immunoglobulin heavy-chain locus during class
+switch recombination is dependent on AID. In addition, AID is required
+for induction of switch region-specific DNA lesions that precede class
+switch recombination. Petersen et al. (2001) concluded that AID
+functions upstream of the DNA modifications that initiate class switch
+recombination.
+
+Chowdhury et al. (2005) found that protein phosphatase-2A (PP2A) is
+involved in removing gamma-H2AX from DNA foci during double-stranded
+break repair. The PP2A catalytic subunit (PPP2CA; 176915) and gamma-H2AX
+coimmunoprecipitated from human cell lines and colocalized in DNA damage
+foci, and PP2A dephosphorylated gamma-H2AX in vitro. Recruitment of
+PPP2CA to DNA damage foci was H2AX dependent. Inhibition of PPP2CA by
+RNA interference led to the persistence of gamma-H2AX foci, inefficient
+DNA repair, and cells that were hypersensitive to DNA damage.
+
+Gorgoulis et al. (2005) analyzed a panel of human lung hyperplasias, all
+of which retained wildtype p53 (191170) genes and had no signs of gross
+chromosomal instability, and found signs of a DNA damage response,
+including histone H2AX and CHK2 (604373) phosphorylation, p53
+accumulation, focal staining of p53 binding protein-1 (53BP1; 605230),
+and apoptosis. Progression to carcinoma was associated with p53 or 53BP1
+inactivation and decreased apoptosis. A DNA damage response was also
+observed in dysplastic nevi and in human skin xenografts, in which
+hyperplasia was induced by overexpression of growth factors. Both lung
+and experimentally-induced skin hyperplasias showed allelic imbalance at
+loci that are prone to DNA double-strand break formation when DNA
+replication is compromised (common fragile sites). Gorgoulis et al.
+(2005) proposed that, from its earliest stages, cancer development is
+associated with DNA replication stress, which leads to DNA double-strand
+breaks, genomic instability, and selective pressure for p53 mutations.
+
+By examining immunoglobulin heavy chain (see 147100) class switch
+recombination in mouse B-lymphocytes deficient in H2ax, Atm (607585),
+53bp1, or Mdc1 (607593), Franco et al. (2006) determined that these
+factors promote end joining and thereby prevent DNA double-strand breaks
+from progressing into chromosomal breaks and translocations.
+
+Keogh et al. (2006) described a 3-protein complex in S. cerevisiae,
+which they called HTP-C for histone H2A phosphatase complex, containing
+the phosphatase Pph3 that regulates the phosphorylation status of
+gamma-H2AX in vivo and efficiently dephosphorylates gamma-H2AX in vitro.
+Gamma-H2AX is lost from chromatin surrounding a double-strand break
+independently of the HTP-C, indicating that the phosphatase targets
+gamma-H2AX after its displacement from DNA. The dephosphorylation of
+gamma-H2AX by the HTP-C is necessary for efficient recovery from the DNA
+damage checkpoint.
+
+Using a combination of proteomics, cytology, and functional analysis in
+C. elegans, Chu et al. (2006) reduced 1,099 proteins copurified with
+spermatogenic chromatin to 132 proteins for functional analysis. This
+strategy to find fertility factors conserved from C. elegans to mammals
+achieved its goal: of mouse gene knockouts corresponding to nematode
+proteins, 37% (7 of 19) cause male sterility. This list includes PPP1CC
+(176914), H2AX, SON (182465), TOP1 (126420), DDX4 (605281), DBY
+(400010), and CENPC (117141).
+
+GABA(A) receptors signal through S-phase checkpoint kinases of the
+phosphatidylinositol-3-OH kinase-related kinase family and the histone
+variant H2AX. This signaling pathway critically regulates proliferation
+independently of differentiation, apoptosis, and overt damage to DNA.
+Andang et al. (2008) demonstrated that autocrine/paracrine
+gamma-aminobutyric acid (GABA) signaling by means of GABA(A) receptors
+negatively controls embryonic stem (ES) cell and peripheral neural crest
+stem (NCS) cell proliferation, preimplantation embryonic growth, and
+proliferation in the boundary-cap stem cell niche, resulting in an
+attenuation of neuronal progenies from this stem cell niche. Activation
+of GABA(A) receptors leads to hyperpolarization, increased cell volume,
+and accumulation of stem cells in S phase, thereby causing a rapid
+decrease in cell proliferation. Andang et al. (2008) concluded that
+their results indicated the presence of a fundamentally different
+mechanism of proliferation control in these stem cells, in comparison
+with most somatic cells, involving proteins in the DNA damage checkpoint
+pathway.
+
+Ayoub et al. (2008) identified a dynamic change in chromatin that
+promotes H2AX phosphorylation in mammalian cells. DNA breaks swiftly
+mobilized heterochromatin protein-1-beta (HP1-beta; 604511), a chromatin
+factor bound to histone H3 methylated on lysine-9 (H3K9me; see 602810).
+Local changes in histone tail modifications were not apparent. Instead,
+phosphorylation of HP1-beta on amino acid thr51 accompanied
+mobilization, releasing HP1-beta from chromatin by disrupting hydrogen
+bonds that fold its chromodomain around H3K9me. Inhibition of casein
+kinase-2 (CK2; see 115442), an enzyme implicated in DNA damage sensing
+and repair, suppressed thr51 phosphorylation and HP1-beta mobilization
+in living cells. CK2 inhibition, or a constitutively chromatin-bound
+HP1-beta mutant, diminished H2AX phosphorylation. Ayoub et al. (2008)
+concluded that their findings revealed a signaling cascade that helps to
+initiate the DNA damage response, altering chromatin by modifying a
+histone code mediator protein, HP1, but not the code itself.
+
+During the double-strand break response, mammalian chromatin undergoes
+reorganization demarcated by H2A.X ser139 phosphorylation. Xiao et al.
+(2009) reported a regulatory mechanism mediated by WSTF (BAZ1B; 605681),
+a component of the WICH (WSTF-ISWI ATP-dependent chromatin-remodeling)
+complex. Xiao et al. (2009) showed that WSTF has intrinsic tyrosine
+kinase activity by means of a domain that shares no sequence homology to
+any known kinase fold. They showed that WSTF phosphorylates tyr142 of
+H2A.X, and that WSTF activity has an important role in regulating
+several events that are critical for the DNA damage response. Xiao et
+al. (2009) concluded that their work demonstrated a novel mechanism that
+regulates the DNA damage response and expanded the knowledge of domains
+that contain intrinsic tyrosine kinase activity. The kinase domain of
+WSTF consists of an N motif containing the conserved WAC domain, and a
+novel C motif.
+
+Cook et al. (2009) reported that the protein-tyrosine phosphatase EYA
+(601653) is involved in promoting efficient DNA repair rather than
+apoptosis in response to genotoxic stress in mammalian embryonic kidney
+cells by executing a damage signal-dependent dephosphorylation of an
+H2AX carboxy-terminal tyrosine phosphate (Y142). This posttranslational
+modification determines the relative recruitment of either DNA repair or
+proapoptotic factors to the tail of serine-phosphorylated histone H2AX
+and allows it to function as an active determinant of repair/survival
+versus apoptotic responses to DNA damage, revealing an additional
+phosphorylation-dependent mechanism that modulates survival/apoptotic
+decisions during mammalian organogenesis.
+
+In vivo, Helmink et al. (2011) demonstrated that in murine cells the
+histone protein H2AX prevents nucleases other than Artemis (605988) from
+processing hairpin-sealed coding ends; in the absence of H2AX, CtIP
+(604124) can efficiently promote the hairpin opening and resection of
+DNA ends generated by RAG (see 179615) cleavage. This CtIP-mediated
+resection is inhibited by gamma-H2AX and by MDC1 (607593), which binds
+to gamma-H2AX in chromatin flanking DNA double-strand breaks. Moreover,
+the ataxia-telangiectasia mutated kinase (ATM; 607585) activates
+antagonistic pathways that modulate this resection. CtIP DNA end
+resection activity is normally limited to cells at postreplicative
+stages of the cell cycle, in which it is essential for homology-mediated
+repair. In G1-phase lymphocytes, DNA ends that are processed by CtIP are
+not efficiently joined by classical nonhomologous end joining and the
+joints that do form frequently use microhomologies and show significant
+chromosomal deletions. Helmink et al. (2011) concluded that H2AX
+preserves the structural integrity of broken DNA ends in G1-phase
+lymphocytes, thereby preventing these DNA ends from accessing repair
+pathways that promote genomic instability.
+
+Pei et al. (2011) found that H4K20 methylation actually increases
+locally upon the induction of double-strand breaks and that methylation
+of H4K20 at double-strand breaks is mediated by the histone
+methyltransferase MMSET (602952) in mammals. Downregulation of MMSET
+significantly decreases H4K20 methylation at double-strand breaks and
+the subsequent accumulation of 53BP1 (605230). Furthermore, Pei et al.
+(2011) found that the recruitment of MMSET to double-strand breaks
+requires the gamma-H2AX-MDC1 pathway; specifically, the interaction
+between the MDC1 BRCT domain and phosphorylated ser102 of MMSET. Thus,
+Pei et al. (2011) proposed that a pathway involving
+gamma-H2AX-MDC1-MMSET regulates the induction of H4K20 methylation on
+histones around double-strand breaks, which, in turn, facilitates 53BP1
+recruitment.
+
+GENE STRUCTURE
+
+Ivanova et al. (1994) cloned the human genomic region encompassing the
+H2AX gene. They reported that the upstream region of this gene contains
+2 CCAAT boxes, the more proximal of which shares homology and binding
+factors with another replication-unlinked histone, H2A.Z (142763).
+
+MAPPING
+
+Ivanova et al. (1994) mapped the human H2AX gene to chromosome
+11q23.2-q23.3 using fluorescence in situ hybridization. This
+localization is not near clusters of other human histone genes on
+chromosomes 1, 6, and 12. They also noted that the downstream sequence
+of the H2AX gene overlaps the hydroxymethylbilane synthase gene (HMBS;
+609806), which has also been mapped to chromosome 11q.
+
+Porcher and Grandchamp (1995) reported that in both mouse and human, the
+H2AX and AIP genes are arranged in an opposite, tail-to-tail,
+orientation, with less than 340 nucleotides separating their 3-prime
+ends. They mapped mouse H2AX to chromosome 9 based on its proximity to
+the previously mapped mouse AIP, or UPS, gene.
+
+MOLECULAR GENETICS
+
+Srivastava et al. (2008) found an alteration of the H2AFX gene copy
+number in 25 (37%) of 65 breast cancer (114480) tissues derived from
+patients with sporadic forms of the disorder. Gene deletion accounted
+for 19 (29%) of total cases and gene amplification for 6 (9%). Patients
+with estrogen (ES1R1; 133430) and progesterone receptor (PGR;
+607311)-positive tumors had more significantly altered copy numbers of
+H2AFX compared to those with ER/PR-negative tumors. None of the tissues
+contained H2AFX sequence alterations.
+
+ANIMAL MODEL
+
+Celeste et al. (2002) generated mice deficient in H2AX by targeted
+disruption. Although H2AX is not essential for irradiation-induced
+cell-cycle checkpoints, H2ax -/- mice were radiation sensitive, growth
+retarded, and immune deficient, and mutant males were infertile. These
+pleiotropic phenotypes were associated with chromosomal instability,
+repair defects, and impaired recruitment of NBS1 (602667), TP53BP1
+(605230), and BRCA1 (113705), but not RAD51 (179617), to
+irradiation-induced foci. Thus, Celeste et al. (2002) concluded that
+H2AX is critical for facilitating the assembly of specific DNA-repair
+complexes on damaged DNA.
+
+Phosphorylation of the human histone variant H2AX and H2Av, its homolog
+in Drosophila melanogaster, occurs rapidly at sites of DNA double-strand
+breaks. Kusch et al. (2004) demonstrated that the Drosophila Tip60
+(HTATIP; 601409) chromatin-remodeling complex acetylated nucleosomal
+phospho-H2Av and exchanged it with an unmodified H2Av. Both the histone
+acetyltransferase Tip60 as well as the ATPase Domino/p400 (606265)
+catalyzed the exchange of phospho-H2Av. Thus, Kusch et al. (2004)
+concluded that their data reveal a previously unknown mechanism for
+selective histone exchange that uses the concerted action of 2 distinct
+chromatin-remodeling enzymes within the same multiprotein complex.
+
+During meiotic prophase in males, the X and Y chromosomes condense to
+form a macrochromatin body, termed the sex (or XY) body, within which X-
+and Y-linked genes are transcriptionally repressed. Fernandez-Capetillo
+et al. (2003) found that H2ax-null mouse spermatocytes did not form a
+sex body and failed to undergo sex chromosome inactivation. Moreover,
+apoptotic elimination of H2ax-null spermatocytes occurred at the
+pachytene stage via a p53 (191170)-independent pathway.
+Fernandez-Capetillo et al. (2003) concluded that H2AX is essential for
+condensation and silencing of the sex chromosomes during male meiosis.
+
+Fernandez-Capetillo et al. (2003) found that H2ax was dispensable for
+mitotic telomere maintenance and chromosome fusions arising from either
+shortened or deprotected telomeres. However, telomeres of H2ax-deficient
+mouse spermatocytes showed abnormally lengthy clustering along the
+nuclear periphery during the first meiotic prophase. Atm (607585)-null
+leptotene/zygotene-stage spermatocytes showed a similar lengthy telomere
+clustering in addition to absence of H2ax staining. Fernandez-Capetillo
+et al. (2003) concluded that ATM facilitates telomere-promoted homolog
+pairing via phosphorylation of H2AX.
+
+Celeste et al. (2003) found that loss of a single H2ax allele
+compromised genomic integrity and enhanced susceptibility to cancer in
+mice lacking p53. Compared with heterozygotes, tumors arose earlier in
+the H2ax homozygous null background, and H2ax -/- p53 -/- lymphomas
+harbored an increased frequency of clonal nonreciprocal translocations
+and amplifications, including complex rearrangements that juxtaposed the
+Myc oncogene (190080) to antigen receptor loci. Restoration of the
+H2ax-null allele with wildtype H2ax restored genomic stability and
+radiation resistance, but this effect was abolished by substitution of
+the conserved serine phosphorylation sites in H2ax with alanine or
+glutamic acid. Celeste et al. (2003) concluded that H2AX is a genomic
+caretaker that requires the function of both alleles for optimal
+protection against tumorigenesis. Bassing et al. (2003) presented
+similar findings.
+
+Hypoxia induces neovascularization and can also induce a DNA-damage
+response. Economopoulou et al. (2009) showed that hypoxia-induced
+replication-associated generation of phosphorylated gamma-H2AX in human
+umbilical vein endothelial cells in vitro and in mice. In mice, this was
+associated with retinal neovascularization. H2ax-null mice showed
+decreased endothelial cell proliferation under hypoxic conditions,
+including deficient hypoxia-induced neovascularization in proliferative
+retinopathy, in response to hind-limb ischemia, and in tumor
+angiogenesis. In contrast, developmental angiogenesis was not affected.
+Endothelial-specific H2ax deletion resulted in reduced hypoxia-driven
+retinal neovascularization and tumor neovascularization. Economopoulou
+et al. (2009) suggested that H2AX and activation of the DNA repair
+response is needed for endothelial cells to maintain their proliferation
+under hypoxic conditions, and that H2AX is crucial for hypoxia-driven
+neovascularization.
+
+REFERENCE 1. Andang, M.; Hjerling-Leffler, J.; Moliner, A.; Lundgren, T. K.;
+Castelo-Branco, G.; Nanou, E.; Pozas, E.; Bryja, V.; Halliez, S.;
+Nishimaru, H.; Wilbertz, J.; Arenas, E.; Koltzenburg, M.; Charnay,
+P.; El Manira, A.; Ibanez, C. F.; Ernfors, P.: Histone H2AX-dependent
+GABA(A) receptor regulation of stem cell proliferation. Nature 451:
+460-464, 2008.
+
+2. Ayoub, N.; Jeyasekharan, A. D.; Bernal, J. A.; Venkitaraman, A.
+R.: HP1-beta mobilization promotes chromatin changes that initiate
+the DNA damage response. Nature 453: 682-686, 2008.
+
+3. Bassing, C. H.; Suh, H.; Ferguson, D. O.; Chua, K. F.; Manis, J.;
+Eckersdorff, M.; Gleason, M.; Bronson, R.; Lee, C.; Alt, F. W.: Histone
+H2AX: a dosage-dependent suppressor of oncogenic translocations and
+tumors. Cell 114: 359-370, 2003.
+
+4. Celeste, A.; Difilippantonio, S.; Difilippantonio, M. J.; Fernandez-Capetillo,
+O.; Pilch, D. R.; Sedelnikova, O. A.; Eckhaus, M.; Ried, T.; Bonner,
+W. M.; Nussenzweig, A.: H2AX haploinsufficiency modifies genomic
+stability and tumor susceptibility. Cell 114: 371-383, 2003.
+
+5. Celeste, A.; Petersen, S.; Romanienko, P. J.; Fernandez-Capetillo,
+O.; Chen, H. T.; Sedelnikova, O. A.; Reina-San-Martin, B.; Coppola,
+V.; Meffre, E.; Difilippantonio, M. J.; Redon, C.; Pilch, D. R.; and
+9 others: Genomic instability in mice lacking histone H2AX. Science 296:
+922-927, 2002.
+
+6. Chen, H. T.; Bhandoola, A.; Difilippantonio, M. J.; Zhu, J.; Brown,
+M. J.; Tai, X.; Rogakou, E. P.; Brotz, T. M.; Bonner, W. M.; Ried,
+T.; Nussenzweig, A.: Response to RAG-mediated V(D)J cleavage by NBS1
+and gamma-H2AX. Science 290: 1962-1964, 2000.
+
+7. Chowdhury, D.; Keogh, M.-C.; Ishii, H.; Peterson, C. L.; Buratowski,
+S.; Lieberman, J.: Gamma-H2AX dephosphorylation by protein phosphatase
+2A facilitates DNA double-strand break repair. Molec. Cell 20: 801-809,
+2005.
+
+8. Chu, D. S.; Liu, H.; Nix, P.; Wu, T. F.; Ralston, E. J.; Yates,
+J. R., III; Meyer, B. J.: Sperm chromatin proteomics identifies evolutionarily
+conserved fertility factors. Nature 443: 101-105, 2006.
+
+9. Cook, P. J.; Ju, B. G.; Telese, F.; Wang, X.; Glass, C. K.; Rosenfeld,
+M. G.: Tyrosine dephosphorylation of H2AX modulates apoptosis and
+survival decisions. Nature 458: 591-596, 2009.
+
+10. Economopoulou, M.; Langer, H. F.; Celeste, A.; Orlova, V. V.;
+Choi, E. Y.; Ma, M.; Vassilopoulos, A.; Callen, E.; Deng, C.; Bassing,
+C. H.; Boehm, M.; Nussenzweig, A.; Chavakis, T.: Histone H2AX is
+integral to hypoxia-driven neovascularization. Nature Med. 15: 553-558,
+2009.
+
+11. Fernandez-Capetillo, O.; Liebe, B.; Scherthan, H.; Nussenzweig,
+A.: H2AX regulates meiotic telomere clustering. J. Cell Biol. 163:
+15-20, 2003. Note: Erratum: J. Cell Biol. 163: 673 only, 2003.
+
+12. Fernandez-Capetillo, O.; Mahadevaiah, S. K.; Celeste, A.; Romanienko,
+P. J.; Camerini-Otero, R. D.; Bonner, W. M.; Manova, K.; Burgoyne,
+P.; Nussenzweig, A.: H2AX is required for chromatin remodeling and
+inactivation of sex chromosomes in male mouse meiosis. Dev. Cell 4:
+497-508, 2003.
+
+13. Franco, S.; Gostissa, M.; Zha, S.; Lombard, D. B.; Murphy, M.
+M.; Zarrin, A. A.; Yan, C.; Tepsuporn, S.; Morales, J. C.; Adams,
+M. M.; Lou, Z.; Bassing, C. H.; Manis, J. P.; Chen, J.; Carpenter,
+P. B.; Alt, F. W.: H2AX prevents DNA breaks from progressing to chromosome
+breaks and translocations. Molec. Cell 21: 201-214, 2006.
+
+14. Gorgoulis, V. G.; Vassiliou, L.-V. F.; Karakaidos, P.; Zacharatos,
+P.; Kotsinas, A.; Liloglou, T.; Venere, M.; DiTullio, R. A., Jr.;
+Kastrinakis, N. G.; Levy, B.; Kletsas, D.; Yoneta, A.; Herlyn, M.;
+Kittas, C.; Halazonetis, T. D.: Activation of the DNA damage checkpoint
+and genomic instability in human precancerous lesions. Nature 434:
+907-913, 2005.
+
+15. Helmink, B. A.; Tubbs, A. T.; Dorsett, Y.; Bednarski, J. J.; Walker,
+L. M.; Feng, Z.; Sharma, G. G.; McKinnon, P. J.; Zhang, J.; Bassing,
+C. H.; Sleckman, B. P.: H2AX prevents CtIP-mediated DNA end resection
+and aberrant repair in G1-phase lymphocytes. Nature 469: 245-249,
+2011. Note: Erratum: Nature 472: 247 only, 2011.
+
+16. Ivanova, V. S.; Hatch, C. L.; Bonner, W. M.: Characterization
+of the human histone H2A.X gene: comparison of its promoter with other
+H2A gene promoters. J. Biol. Chem. 269: 24189-24194, 1994.
+
+17. Ivanova, V. S.; Zimonjic, D.; Popescu, N.; Bonner, W. M.: Chromosomal
+localization of the human histone H2A.X gene to 11q23.2-q23.3 by fluorescence
+in situ hybridization. Hum. Genet. 94: 303-306, 1994.
+
+18. Keogh, M.-C.; Kim, J.-A.; Downey, M.; Fillingham, J.; Chowdhury,
+D.; Harrison, J. C.; Onishi, M.; Datta, N.; Galicia, S.; Emili, A.;
+Lieberman, J.; Shen, X.; Buratowski, S.; Haber, J. E.; Durocher, D.;
+Greenblatt, J. F.; Krogan, N. J.: A phosphatase complex that dephosphorylates
+gamma-H2AX regulates DNA damage checkpoint recovery. Nature 439:
+497-501, 2006. Note: Erratum: Nature 441: 120 only, 2006.
+
+19. Kusch, T.; Florens, L.; MacDonald, W. H.; Swanson, S. K.; Glaser,
+R. L.; Yates, J. R., III; Abmayr, S. M.; Washburn, M. P.; Workman,
+J. L.: Acetylation by Tip60 is required for selective histone variant
+exchange at DNA lesions. Science 306: 2084-2087, 2004.
+
+20. Pei, H.; Zhang, L.; Luo, K.; Qin, Y.; Chesi, M.; Fei, F.; Bergsagel,
+P. L.; Wang, L.; You, Z.; Lou, Z.: MMSET regulates histone H4K20
+methylation and 53BP1 accumulation at DNA damage sites. Nature 470:
+124-128, 2011.
+
+21. Petersen, S.; Casellas, R.; Reina-San-Martin, B.; Chen, H. T.;
+Difilippantonio, M. J.; Wilson, P. C.; Hanitsch, L.; Celeste, A.;
+Muramatsu, M.; Pilch, D. R.; Redon, C.; Ried, T.; Bonner, W. M.; Honjo,
+T.; Nussenzweig, M. C.; Nussenzweig, A.: AID is required to initiate
+Nbs1/gamma-H2AX focus formation and mutations at sites of class switching. Nature 414:
+660-665, 2001.
+
+22. Porcher, C.; Grandchamp, B.: Structure of the mouse H2A.X gene
+and physical linkage to the UPS locus on chromosome 9: assignment
+of the human H2A.X gene to 11q23 by sequence analysis. Genomics 25:
+312-313, 1995.
+
+23. Srivastava, N.; Gochhait, S.; Gupta, P.; Bamezai, R. N. K.: Copy
+number alterations of the H2AFX gene in sporadic breast cancer patients. Cancer
+Genet. Cytogenet. 180: 121-128, 2008.
+
+24. Talbert, P. B.; Henikoff, S.: Histone variants--ancient wrap
+artists of the epigenome. Nature Rev. Molec. Cell Biol. 11: 264-275,
+2010.
+
+25. Xiao, A.; Li, H.; Shechter, D.; Ahn, S. H.; Fabrizio, L. A.; Erdjument-Bromage,
+H.; Ishibe-Murakami, S.; Wang, B.; Tempst, P.; Hofmann, K.; Patel,
+D. J.; Elledge, S. J.; Allis, C. D.: WSTF regulates the H2A.X DNA
+damage response via a novel tyrosine kinase activity. Nature 457:
+57-62, 2009.
+
+CONTRIBUTORS Matthew B. Gross - updated: 1/14/2013
+Ada Hamosh - updated: 6/22/2011
+Ada Hamosh - updated: 2/3/2011
+George E. Tiller - updated: 4/21/2009
+Ada Hamosh - updated: 4/16/2009
+Ada Hamosh - updated: 1/27/2009
+Cassandra L. Kniffin - updated: 9/9/2008
+Ada Hamosh - updated: 7/11/2008
+Ada Hamosh - updated: 2/16/2008
+Ada Hamosh - updated: 10/3/2006
+Ada Hamosh - updated: 8/1/2006
+Patricia A. Hartz - updated: 5/8/2006
+Patricia A. Hartz - updated: 2/9/2006
+Patricia A. Hartz - updated: 1/24/2006
+Ada Hamosh - updated: 9/19/2005
+Patricia A. Hartz - updated: 9/2/2005
+Ada Hamosh - updated: 1/27/2005
+Ada Hamosh - updated: 5/8/2002
+Ada Hamosh - updated: 1/2/2002
+Ada Hamosh - updated: 12/18/2000
+Rebekah S. Rasooly - updated: 7/8/1998
+
+CREATED Jennifer P. Macke: 4/21/1997
+
+EDITED mgross: 10/04/2013
+mgross: 2/5/2013
+mgross: 1/14/2013
+terry: 12/21/2012
+terry: 11/28/2012
+alopez: 6/22/2011
+alopez: 6/10/2011
+alopez: 2/3/2011
+wwang: 6/5/2009
+ckniffin: 5/21/2009
+wwang: 5/4/2009
+alopez: 4/21/2009
+terry: 4/16/2009
+alopez: 1/29/2009
+terry: 1/27/2009
+wwang: 9/10/2008
+ckniffin: 9/9/2008
+alopez: 7/15/2008
+terry: 7/11/2008
+alopez: 2/18/2008
+terry: 2/16/2008
+alopez: 10/3/2006
+alopez: 8/3/2006
+terry: 8/1/2006
+mgross: 6/6/2006
+terry: 5/8/2006
+mgross: 2/24/2006
+terry: 2/9/2006
+mgross: 2/2/2006
+terry: 1/24/2006
+ckniffin: 1/5/2006
+alopez: 9/20/2005
+terry: 9/19/2005
+mgross: 9/7/2005
+terry: 9/2/2005
+wwang: 2/7/2005
+wwang: 2/2/2005
+terry: 1/27/2005
+cwells: 1/14/2004
+alopez: 5/8/2002
+terry: 5/8/2002
+alopez: 1/8/2002
+terry: 1/2/2002
+mgross: 12/18/2000
+alopez: 8/26/1998
+alopez: 7/8/1998
+alopez: 5/12/1997
+alopez: 5/2/1997
+
+611888	TITLE *611888 ETS2 REPRESSOR FACTOR; ERF
+;;PE2
+DESCRIPTION 
+DESCRIPTION
+
+Members of the ETS family of transcription factors, such as ERF,
+regulate cell proliferation and differentiation. They share a highly
+conserved DNA-binding domain, the ETS domain, that recognizes the
+sequence GGAA/T (de Castro et al., 1997). For further information on ETS
+transcription factors, see ETS1 (164720).
+
+CLONING
+
+By screening a myelogenous leukemia cell line cDNA library with an
+ETS-binding site in the ETS2 (164740) promoter, followed by screening a
+placenta cDNA library, Sgouras et al. (1995) obtained full-length ERF.
+The deduced 548-amino acid protein contains an N-terminal ETS domain
+structurally similar to the ETS domains of ELK1 (311040) and SAP1 (ELK4
+600246). It also has a central proline-rich region, 2 putative SH3
+interaction sites, and several putative phosphorylation sites. Northern
+blot analysis detected a 2.7-kb transcript in all tissues and cell lines
+examined. Western blot analysis showed multiple phosphorylated forms of
+ERF ranging from 75 to 85 kD.
+
+By RT-PCR of human leukemia cell lines using degenerate oligonucleotides
+based on the ETS domains of FLI1 (193067) and ERG (165080), followed by
+screening leukemia cell line and testis cDNA libraries, de Castro et al.
+(1997) cloned ERF, which they called PE2. The ETS domain of ERF is most
+similar to the ETS domains of PE1 (ETV3; 164873), FLI1, and ERG.
+Northern blot analysis detected ERF expression in all human tissues and
+cell lines examined, with highest levels in heart, testis, ovary, and
+pancreas.
+
+Liu et al. (1997) cloned mouse Erf. The human and mouse ERF proteins
+share 98% amino acid identity, with most of the differences in the
+C-terminal transcriptional repressor domain.
+
+By whole-mount RNA in situ hybridization and RT-PCR, Twigg et al. (2013)
+observed Erf expression in wildtype mice along the osteogenic margins of
+developing calvarial bones, in a similar distribution to that seen for
+the master osteogenic regulator Runx2 (600211).
+
+GENE STRUCTURE
+
+De Castro et al. (1997) determined that the ERF gene contains 4 exons
+and spans more than 9 kb. The 5-prime flanking region is GC rich. It has
+no canonical TATA-binding motif, but contains several binding motifs for
+AP-1 (see 165160) and CREB (see 123810) factors and a single MYB
+(189990)-binding site.
+
+Liu et al. (1997) identified a conserved TATA element in mouse and human
+ERF. Several transcription factor-binding sites are also conserved,
+including 2 SP1 (189906) sites and an ETS-binding site.
+
+MAPPING
+
+By somatic cell hybrid analysis and FISH, de Castro et al. (1997) mapped
+the ERF gene to chromosome 19q13.2-q13.31.
+
+Using FISH, Liu et al. (1997) mapped the ERF gene to chromosome 19q13.1.
+They mapped the mouse Erf gene to a region of chromosome 7 that shares
+homology of synteny with human chromosome 19q13.
+
+GENE FUNCTION
+
+Using transfection assays of HeLa cells, Sgouras et al. (1995) found
+that ERF repressed the ETS2 promoter more than 30-fold. ERF also
+repressed the GATA1 (605371) promoter in the presence of its
+transactivator, GATA1. ERF suppressed the ETS-dependent transforming
+activity of the gag-myb (18990)-ets fusion oncogene of the avian E26
+virus. The level of transcriptional repression by ERF was proportional
+to its affinity for the ERF target sequence in the promoter. The
+isolated DNA-binding domain of ERF strongly inhibited the ETS2 promoter,
+whereas removal of the DNA-binding domain of ERF abrogated its repressor
+activity. Sgouras et al. (1995) mapped the ERF repressor domain between
+amino acids 472 and 530. Although the ERF protein level remained
+constant throughout the cell cycle, ERF phosphorylation status was
+altered as a function of the cell cycle and after mitogenic stimulation.
+ERF was hyperphosphorylated in cells transformed by the activated Ha-ras
+(HRAS; 190020) and v-src (SRC; 190090) genes, and the transcription
+repressor activity of ERF was decreased after cotransfection with
+activated Ha-ras or the kinase domain of RAF1 (164760), indicating that
+ERF activity is probably regulated by the Ras/MAPK pathway. Consistent
+with the in vivo phosphorylation and inactivation by Ha-ras, ERF was
+efficiently phosphorylated in vitro by Erk2 (MAPK1; 176948) and CDC2
+(116940)/cyclin B (see CCNB1; 123836) kinases at sites similar to those
+detected in vivo. Mutation of thr526 to ala eliminated a major ERF
+phosphoprotein in vivo, after phorbol ester induction, and in vitro,
+after ERK2 phosphorylation. Substitution of thr526 for glu also
+decreased the repression ability of ERF. Sgouras et al. (1995) concluded
+that ERF is involved in transcriptional regulation of genes activated
+during entry into G1 phase.
+
+MOLECULAR GENETICS
+
+In 12 families with craniosynostosis (CRS4; 600775), Twigg et al. (2013)
+identified heterozygosity for mutations in the ERF gene (see, e.g.,
+611888.0001-611888.0005).
+
+ANIMAL MODEL
+
+Papadaki et al. (2007) found that mouse Erf was expressed throughout
+embryonic development and adulthood. However, in situ hybridization of
+developing placenta showed that, after 7.5 days postcoitum, expression
+of Erf was restricted to extraembryonic ectoderm, and after 9.5 days
+postcoitum, it was restricted to a subpopulation of labyrinth cells. Erf
++/- mice appeared normal and were fertile, but Erf -/- embryos died in
+utero at day 10 due to severe placenta defects. Erf -/- embryos failed
+to undergo chorioallantoic attachment and labyrinth development and
+instead had an expanded chorion layer that failed to further
+differentiate. These mice also failed to close the ectoplacental cone
+cavity. Erf -/- placentas had abnormalities in the giant cell and
+spongiotrophoblast layers. Erf -/- trophoblast stem cells showed delayed
+differentiation compared with wildtype cells and failed to express
+specific differentiation markers.
+
+Twigg et al. (2013) generated mice with a conditional Erf allele and
+observed that mice heterozygous or homozygous for the conditional allele
+were grossly normal, whereas mice that were compound heterozygous for
+the conditional allele and a null allele had domed heads that became
+apparent during the first 3 to 6 weeks of life. Micro-CT scanning showed
+craniosynostosis affecting multiple calvarial sutures. No other specific
+skeletal abnormalities were evident. Quantification of transcripts in
+embryonic day 16.5 calvariae showed up to 2-fold downregulation of
+multiple osteogenic markers in conditional/null mutants compared to
+wildtype littermates. Despite this mildly delayed embryonic
+ossification, by postnatal day 14 there was variable fusion of the
+cranial sutures of mutant, but not of wildtype, pups.
+
+ALLELIC VARIANT .0001
+CRANIOSYNOSTOSIS 4
+ERF, ARG183TER
+
+In 2 brothers with craniosynostosis (CRS4; 600775), Twigg et al. (2013)
+identified heterozygosity for a c.547C-T transition in exon 4 of the ERF
+gene, resulting in an arg183-to-ter (R183X) substitution. The mutation
+was also present in their mother, who had exorbitism and midface
+hypoplasia suggestive of Crouzon syndrome (123500) but was negative for
+mutation in the FGFR2 gene (176943); she had inherited the R183X ERF
+mutation from her mother, who exhibited only macrocephaly.
+Immunoblotting of fibroblasts or lymphoblastoid cells from affected
+individuals showed lower expression of full-length ERF compared to
+wildtype cells. The older brother had craniosynostosis affecting all
+sutures of the cranial vault, whereas the younger brother had metopic,
+sagittal, and left coronal synostosis.
+
+.0002
+CRANIOSYNOSTOSIS 4
+ERF, 2-BP DEL, 891AG
+
+In 4 affected individuals from 3 unrelated families with
+craniosynostosis (CRS4; 600775), Twigg et al. (2013) identified
+heterozygosity for a 2-bp deletion (c.891_892delAG) in exon 4 of the ERF
+gene, causing a frameshift predicted to result in a premature
+termination codon (Gly299ArgfsTer9) within the ERK interaction domain.
+Haplotype analysis in 2 of the families revealed different
+microsatellite genotypes. One 10-year-old male proband was diagnosed
+with syndromic pansynostosis and had a copper-beaten appearance of the
+skull, hypertelorism, exorbitism, downslanting palpebral fissures, and
+global developmental delay involving poor attention span and receptive
+language, and behavioral difficulties. The 9.4-year-old male proband
+from a second family, who was diagnosed with nonsyndromic
+craniosynostosis involving the sagittal and bilateral lambdoid sutures,
+had elevated intracranial pressure preoperatively as well as specific
+language impairment. In the third family, there were 2 affected sisters
+diagnosed with syndromic craniosynostosis: the elder, who had features
+suggestive of Crouzon syndrome (123500) but was negative for mutation in
+the FGFR2 gene (176943), exhibited bilateral coronal and lambdoid
+synostosis, hypertelorism, exorbitism, and midface hypoplasia, whereas
+the younger had bilateral lambdoid involvement with hypertelorism,
+hyperactivity, and poor concentration. Their mother, who also carried
+the 2-bp deletion in the ERF gene, exhibited exorbitism and short
+digits.
+
+.0003
+CRANIOSYNOSTOSIS 4
+ERF, ARG86CYS
+
+In 2 unrelated boys with craniosynostosis (CRS4; 600775), Twigg et al.
+(2013) identified heterozygosity for a c.256C-T transition in exon 2 of
+the ERF gene, resulting in an arg86-to-cys (R86C) substitution at a
+highly conserved residue in the ETS domain. One of the boys, who was
+diagnosed with nonsyndromic synostosis of the right lambdoid suture, had
+a Chiari type I malformation (see 118420), macrocephaly, speech and
+language delay, and middle ear effusions; he had inherited the mutation
+from his unaffected mother. The other boy, who had been diagnosed with
+Crouzon (123500)-like syndromic craniosynostosis but was negative for
+mutation in the FGFR2 gene (176943), had synostosis of the sagittal and
+bilateral lambdoid sutures with elevated intracranial pressure at the
+time of his first operative procedure, and exhibited hypertelorism,
+exorbitism, class I dental malocclusion, broad thumbs and halluces, and
+a speech articulation disorder with verbal dyspraxia and general motor
+development dyspraxia. The R86C mutation arose de novo in both the
+second proband and in the first proband's mother.
+
+.0004
+CRANIOSYNOSTOSIS 4
+ERF, ARG65GLN
+
+In a 9.9-year-old boy with craniosynostosis (CRS4; 600775), Twigg et al.
+(2013) identified heterozygosity for a c.194G-A transition in exon 2 of
+the ERF gene, resulting in an arg65-to-gln (R65Q) substitution at a
+conserved residue in the ETS domain. The boy, who was diagnosed with
+nonsyndromic craniosynostosis involving the sagittal and right coronal
+sutures, also had a platelet disorder. He inherited the mutation from
+his mother, who was macrocephalic without known craniosynostosis.
+
+.0005
+CRANIOSYNOSTOSIS 4
+ERF, GLN424TER
+
+In a 10-year-old girl with craniosynostosis (CRS4; 600775), Twigg et al.
+(2013) identified heterozygosity for a c.1270C-T transition in exon 4 of
+the ERF gene, resulting in a gln424-to-ter (Q424X) substitution.
+Immunoblotting of fibroblasts or lymphoblastoid cells from affected
+individuals showed lower expression of full-length ERF compared to
+wildtype cells. The girl, who had been diagnosed with a Crouzon
+(123500)-like syndromic craniosynostosis but was negative for mutation
+in the FGFR2 gene (176943), had synostosis of all sutures of the cranial
+vault, a Chiari type I malformation (see 118420), copper-beaten
+appearance of skull, hypertelorism, exorbitism, thoracic and lumbar
+scoliosis, and broad toes. Her 8-year-old brother, who also carried the
+mutation, did not have craniosynostosis but did have a Chiari I
+malformation, as well as hypertelorism, exorbitism, and broad toes. The
+sibs inherited the Q424X mutation from their mother, who exhibited only
+hypertelorism, and also had an unspecified cardiac septal defect and von
+Willebrand disease (see 193400).
+
+REFERENCE 1. de Castro, C. M.; Rabe, S. M.; Langdon, S. D.; Fleenor, D. E.;
+Slentz-Kesler, K.; Ahmed, M. N.; Qumsiyeh, M. B.; Kaufman, R. E.:
+Genomic structure and chromosomal localization of the novel ETS factor,
+PE-2 (ERF). Genomics 42: 227-235, 1997.
+
+2. Liu, D.; Pavlopoulos, E.; Modi, W.; Moschonas, N.; Mavrothalassitis,
+G.: ERF: genomic organization, chromosomal localization and promoter
+analysis of the human and mouse genes. Oncogene 14: 1445-1451, 1997.
+
+3. Papadaki, C.; Alexiou, M.; Cecena, G.; Verykokakis, M.; Bilitou,
+A.; Cross, J. C.; Oshima, R. G.; Mavrothalassitis, G.: Transcriptional
+repressor Erf determines extraembryonic ectoderm differentiation. Molec.
+Cell. Biol. 27: 5201-5213, 2007.
+
+4. Sgouras, D. N.; Athanasiou, M. A.; Beal, G. J., Jr.; Fisher, R.
+J.; Blair, D. G.; Mavrothalassitis, G. J.: ERF: an ETS domain protein
+with strong transcriptional repressor activity, can suppress ets-associated
+tumorigenesis and is regulated by phosphorylation during cell cycle
+and mitogenic stimulation. EMBO J. 14: 4781-4793, 1995.
+
+5. Twigg, S. R. F.; Vorgia, E.; McGowan, S. J.; Peraki, I.; Fenwick,
+A. L.; Sharma, V. P.; Allegra, M.; Zaragkoulias, A.; Sadighi Akha,
+E.; Knight, S. J. L.; Lord, H.; Lester, T.; and 15 others: Reduced
+dosage of ERF causes complex craniosynostosis in humans and mice and
+links ERF1/2 signaling to regulation of osteogenesis. Nature Genet. 45:
+308-313, 2013.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 07/18/2013
+
+CREATED Patricia A. Hartz: 3/11/2008
+
+EDITED carol: 07/18/2013
+mgross: 3/11/2008
+
+612898	TITLE *612898 COENZYME Q4, S. CEREVISIAE, HOMOLOG OF; COQ4
+DESCRIPTION 
+DESCRIPTION
+
+Coenzyme Q (CoQ) is a small lipophilic molecule that transports
+electrons between mitochondrial respiratory chain complexes and
+functions as a cofactor for mitochondrial enzymes. COQ4 is an enzyme
+involved in CoQ biosynthesis (Casarin et al., 2008).
+
+CLONING
+
+By searching an EST database for sequences similar to yeast Coq4,
+followed by PCR of fibroblast cDNA, Casarin et al. (2008) cloned human
+COQ4. The deduced 265-amino acid protein has an N-terminal mitochondrial
+localization sequence with a consensus cleavage site at pro22. COQ4 was
+predicted to be a soluble protein. Northern blot analysis detected a
+transcript of 1.3 to 1.4 kb in all tissues examined, with highest
+expression in liver, lung, and pancreas. EST database analysis and
+5-prime RACE detected a splice variant that lacks exon 1 and initiates
+translation from an ATG codon within exon 2. The isoform encoded by this
+variant, COQ4 isoform-2, lacks the first 24 amino acids of full-length
+COQ4 isoform-1. Fluorescence-tagged COQ4 isoform-1 localized to
+mitochondria in transfected HeLa cells, whereas COQ4 isoform-2 localized
+mainly to the cytosol and to some extent the nucleus, but not to
+mitochondria.
+
+GENE FUNCTION
+
+Casarin et al. (2008) showed that full-length COQ4, but not COQ4
+isoform-2, restored growth in Coq4-deficient yeast.
+
+GENE STRUCTURE
+
+Casarin et al. (2008) determined that the COQ4 gene contains 7 exons and
+spans about 12 kb. The 5-prime flanking region lacks a TATA box, but it
+contains numerous consensus transcription factor binding sites and 4
+transcription initiation sites. Intron 1 also contains several consensus
+transcriptional elements and an additional transcription initiation
+site.
+
+MAPPING
+
+By genomic sequence analysis, Casarin et al. (2008) mapped the COQ4 gene
+to chromosome 9q34.13.
+
+CYTOGENETICS
+
+Salviati et al. (2012) reported a boy with a severe encephalomyopathic
+disorder, including poor growth, hypotonia, and delayed psychomotor
+development with moderate mental retardation and an inability to walk at
+age 3 years, associated with a de novo heterozygous 3.9-Mb deletion of
+chromosome 9q34; the deleted region included at least 80 genes, 1 of
+which was COQ4. Laboratory studies showed a reduction of mitochondrial
+respiratory complexes II and III in fibroblasts and a decrease of
+coenzyme Q content (43% of control), consistent with coenzyme Q
+deficiency (607426). Supplementation of coenzyme Q in patient
+fibroblasts resulted in correction of the complex II and III
+deficiencies. A 50% knockdown of COQ4 mRNA in HeLa cells resulted in an
+approximately 50% decrease in COQ4 protein, and haploinsufficiency of
+Coq4 in yeast caused a reduction in complex II and III activity. Oral
+supplementation with coenzyme Q using ubiquinone and subsequently
+ubiquinol in the patient resulted in clinical improvement. Salviati et
+al. (2012) maintained that haploinsufficiency for the COQ4 gene in this
+patient caused the CoQ deficiency, while noting that the disorder is
+usually inherited as an autosomal recessive trait.
+
+REFERENCE 1. Casarin, A.; Jimenez-Ortega, J. C.; Trevisson, E.; Pertegato, V.;
+Doimo, M.; Ferrero-Gomez, M. L.; Abbadi, S.; Artuch, R.; Quinzii,
+C.; Hirano, M.; Basso, G.; Ocana, C. S.; Navas, P.; Salviati, L.:
+Functional characterization of human COQ4, a gene required for coenzyme
+Q10 biosynthesis. Biochem. Biophys. Res. Commun. 372: 35-39, 2008.
+
+2. Salviati, L.; Trevisson, E.; Hernandez, M. A. R.; Casarin, A.;
+Pertegato, V.; Doimo, M.; Cassina, M.; Agosto, C.; Desbats, M. A.;
+Sartori, G.; Sacconi, S.; Memo, L.; Zuffardi, O.; Artuch, R.; Quinzii,
+C.; DiMauro, S.; Hirano, M.; Santos-Ocana, C.; Navas, P.: Haploinsufficiency
+of COQ4 causes coenzyme Q10 deficiency. J. Med. Genet. 49: 187-191,
+2012.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 4/17/2012
+
+CREATED Patricia A. Hartz: 7/7/2009
+
+EDITED ckniffin: 06/19/2012
+ckniffin: 6/11/2012
+carol: 4/18/2012
+ckniffin: 4/17/2012
+mgross: 7/7/2009
+
+605453	TITLE *605453 ATP-BINDING CASSETTE, SUBFAMILY B, MEMBER 9; ABCB9
+DESCRIPTION For background information on the ATP-binding cassette (ABC) family of
+transporter proteins, see ABCA4 (601691). In addition to the 'full' ABC
+transporters with 2 transmembrane domains and 2 nucleotide-binding
+domains, there are 'half' proteins that contain only 1 of each domain
+(e.g., ABCB1; 171050). Full transporters are usually found in the plasma
+membrane, whereas half transporters are found in subcellular organelles.
+
+By searching an EST database and screening a T-lymphoblast cDNA library,
+Zhang et al. (2000) obtained a cDNA encoding ABCB9. Sequence analysis
+predicted that the 766-amino acid ABCB9 protein has 10 potential
+N-terminal transmembrane segments. ABCB9 shares 94% identity with the
+rodent sequences and is approximately 39% identical to 2 human
+endoplasmic reticulum half transporters, TAP1 (ABCB2; 170260) and TAP2
+(ABCB3; 170261). RT-PCR and genomic sequence analysis established the
+existence of a splice variant with a 129-bp deletion expressed in testis
+and brain. Northern blot analysis detected low expression of a 3.7-kb
+transcript in most tissues tested, with an additional 2.2-kb transcript
+detected in tissues with relatively high expression, such as testis.
+Western blot analysis showed expression of a 72-kD nonglycosylated
+protein, significantly smaller than the predicted mass of 84.5 kD, that
+was enriched in lysosomes. Immunofluorescence microscopy demonstrated
+colocalization of ABCB9 with the lysosomal proteins LAMP1 (153330) and
+LAMP2 (309060). Immunohistochemical analysis detected ABCB9 expression
+in Sertoli cells of rodent seminiferous tubules.
+
+Allikmets et al. (1996) mapped an EST corresponding to the ABCB9 gene to
+12q24.
+
+REFERENCE 1. Allikmets, R.; Gerrard, B.; Hutchinson, A.; Dean, M.: Characterization
+of the human ABC superfamily: isolation and mapping of 21 new genes
+using the expressed sequence tags database. Hum. Molec. Genet. 5:
+1649-1655, 1996.
+
+2. Zhang, F.; Zhang, W.; Liu, L.; Fisher, C. L.; Hui, D.; Childs,
+S.; Dorovini-Zis, K.; Ling, V.: Characterization of ABCB9, an ATP
+binding cassette protein associated with lysosomes. J. Biol. Chem. 275:
+23287-23294, 2000.
+
+CREATED Paul J. Converse: 12/5/2000
+
+EDITED mgross: 12/05/2000
+
+606926	TITLE *606926 LYSOPHOSPHATIDIC ACID RECEPTOR 5; LPAR5
+;;LPA5;;
+G PROTEIN-COUPLED RECEPTOR 92; GPR92;;
+GPR93
+DESCRIPTION 
+DESCRIPTION
+
+G protein-coupled receptors (GPCRs, or GPRs) contain 7 transmembrane
+domains and transduce extracellular signals through heterotrimeric G
+proteins.
+
+CLONING
+
+Lee et al. (2001) identified GPR92, which they designated GPR93, in a
+genomic database using the sequences of the cysteinyl leukotriene-2
+receptor (605666) as query. GPR92 encodes a deduced 372-amino acid
+protein that shares 36 to 40% sequence identity in the transmembrane
+regions with the G protein-coupled purinergic receptor P2Y5 (P2RY5;
+609239), GPR23 (300086), and GPR17 (603071).
+
+MAPPING
+
+Lee et al. (2001) mapped the GPR92 gene to chromosome 12 based on
+sequence similarity between the GPR92 sequence and a BAC clone (GenBank
+GENBANK AC006087) localized to chromosome 12. White et al. (2000)
+identified GPR92 near the FGF23 gene on chromosome 12p13.
+
+REFERENCE 1. Lee, D. K.; Nguyen, T.; Lynch, K. R.; Cheng, R.; Vanti, W. B.;
+Arkhitko, O.; Lewis, T.; Evans, J. F.; George, S. R.; O'Dowd, B. F.
+: Discovery and mapping of ten novel G protein-coupled receptor genes. Gene 275:
+83-91, 2001.
+
+2. White, K. E.; Evans, W. E.; O'Riordan, J. L. H.; Speer, M. C.;
+Econs, M. J.; Lorenz-Depiereux, B.; Grabowski, M.; Meitinger, T.;
+Strom, T. M.: Autosomal dominant hypophosphataemic rickets is associated
+with mutations in FGF23. Nature Genet. 26: 345-348, 2000.
+
+CREATED Patricia A. Hartz: 5/9/2002
+
+EDITED alopez: 04/22/2008
+mgross: 3/4/2005
+terry: 11/22/2002
+carol: 5/10/2002
+
+194558	TITLE *194558 ZINC FINGER PROTEIN 83; ZNF83
+DESCRIPTION 
+MAPPING
+
+Marine et al. (1994) assigned the ZNF83 gene (also known as HPF1) to
+chromosome 19 by screening a human/rodent hybrid panel and localized the
+gene further to 19q13.3-q13.4 by fluorescence in situ hybridization and
+digital imaging microscopy.
+
+HISTORY
+
+Conserved structural motifs define large families of nucleic acid
+binding proteins in eukaryotes. The C2H2-type zinc finger motif,
+conferring both specific RNA and DNA binding activities, was first
+detected within the amino acid sequence of the Xenopus transcription
+factor IIIA (Miller et al., 1985). Thereafter, vertebrate genomes were
+shown to encode hundreds of so-called zinc finger proteins (ZFPs).
+Subfamilies were defined on the basis of conserved sequence elements
+outside the finger repeat, such as the KRAB domain. Several members of
+these subfamilies were found to have a clustered genomic organization.
+
+REFERENCE 1. Marine, J.-C.; Bellefroid, E. J.; Bourguignon, C.; Riviere, M.;
+Lecoq, P. J.; Poncelet, D. A.; Szpirer, J.; Martial, J. A.; Szpirer,
+C.: Assignment of the human ZNF83 (HPF1) zinc finger gene to chromosome
+19q13.3-q13.4. Genomics 21: 285-286, 1994.
+
+2. Miller, J.; McLachlan, A. D.; Klug, A.: Repetitive zinc-binding
+domains in the protein transcription factor IIIA from Xenopus oocytes. EMBO
+J. 4: 1609-1614, 1985.
+
+CREATED Victor A. McKusick: 6/17/1994
+
+EDITED alopez: 07/07/2010
+dkim: 6/26/1998
+jason: 6/17/1994
+
+604695	TITLE *604695 ADP-RIBOSYLATION FACTOR-LIKE 3; ARL3
+;;ARFL3
+DESCRIPTION 
+CLONING
+
+ADP-ribosylation factors (ARFs) are low molecular weight GTP-binding
+proteins belonging to the RAS superfamily; see ARF1 (103180). By
+sequence analysis of clones randomly isolated from a fetal brain cDNA
+library, Cavenagh et al. (1994) obtained an EST encoding ARL3. The
+predicted 182-amino acid ARL3 protein shares 97% amino acid identity
+with rat Arl3 and 43% identity with human ARF1. Like the ARFs, ARL3 has
+a glycine at position 2, the site of N myristoylation, and lacks
+cysteine residues near the C terminus, which are found in other members
+of the RAS family. Northern blot analysis detected a 1-kb ARL3
+transcript in all tissues tested, with highest expression in heart and
+lung, and lower expression in brain, liver, kidney, ovary, and testis. A
+5.5-kb transcript was also detected in most tissues, with highest
+expression in brain. Immunoblot analysis detected ARL3 in human tumor
+cell lines but not in normal rodent cells. Although ARL3 binds GTP, it
+is devoid of activity in the cholera toxin-dependent ADP-ribosylation of
+Gs (see 139320), and is therefore classified as an ARF-like protein.
+
+By immunohistochemical analysis of several mammalian cell lines,
+including human, Zhou et al. (2006) found that both ARL2 (601175) and
+ARL3 were expressed at centrosomes, in cytoplasmic punctae, and in the
+nucleus. ARL3 was also expressed at Golgi membranes and at the mitotic
+spindle, particularly in metaphase and anaphase. Both ARL2 and ARL3
+localized to centrosomes throughout the cell cycle, and their expression
+in other structures was cell type specific.
+
+MAPPING
+
+By somatic cell hybrid and radiation hybrid analyses, Kim (1998) mapped
+the ARL3 gene to chromosome 10q23.3.
+
+GENE FUNCTION
+
+Mutations in the retinitis pigmentosa-2 gene (RP2; 300757) cause a
+severe form of X-linked retinal degeneration (see 312600). RP2 is a
+plasma membrane-associated protein which shares homology with
+tubulin-specific chaperone cofactor C (TBCC; 602971). The RP2 protein,
+like cofactor C, stimulates the GTPase activity of tubulin in
+combination with cofactor D. RP2 has also been shown to interact with
+ARL3 in a nucleotide- and myristoylation-dependent manner. Grayson et
+al. (2002) examined the relationship between RP2, cofactor C, and ARL3
+in patient-derived cell lines and in the retina. In human retina, RP2
+was localized to the plasma membrane in both rod and cone
+photoreceptors, extending from the outer segment through the inner
+segment to the synaptic terminals. In contrast, cofactor C and ARL3
+localized predominantly to the photoreceptor-connecting cilium in rod
+and cone photoreceptors. Cofactor C was cytoplasmic in distribution,
+whereas ARL3 localized to other microtubule structures within all cells.
+Grayson et al. (2002) suggested that RP2 may function in concert with
+ARL3 to link the cell membrane with the cytoskeleton in photoreceptors
+as part of the cell signaling or vesicular transport machinery.
+
+Veltel et al. (2008) found that recombinant human RP2 formed a complex
+with murine Arl3 and with human HRG4 (UNC119; 604011), the retinal
+homolog of PDE-delta (PDE6D; 602676). RP2 induced hydrolysis of Arl3-GTP
+in the Arl3-HRG4 complex, leading to the release of HRG4, which bound
+only weakly to Arl3-GDP.
+
+Zhou et al. (2006) stated that ARL2 and ARL3 arose from a common
+ancestor early in eukaryotic evolution and that they remain highly
+related. However, Zhou et al. (2006) found that the 2 GTPases had
+distinct effects on microtubule function in mammalian cells. Knockdown
+of ARL3 using RNA interference changed HeLa cell morphology, caused
+Golgi fragmentation, and increased acetylation of alpha-tubulin (see
+602529), which resulted in failure of cytokinesis, with increased number
+of binucleated cells. Overexpression of ARL3 had little effect. In
+contrast, knockdown of ARL2 in HeLa cells showed little effect, but
+expression of ARL2 with a dominant activating mutation caused failure of
+tubulin polymerization, with loss of microtubules and microtubule-based
+mitotic spindle, resulting in cell cycle arrest in M phase.
+
+Ismail et al. (2011) stated that PDE-delta binds to farnesylated small G
+proteins. They presented the 1.7-angstrom structure of human PDE-delta
+in complex with C-terminally farnesylated human RHEB (601293). PDE-delta
+interacted almost exclusively with the C-terminal farnesyl moiety of
+RHEB, which was inserted within the farnesyl-binding pocket of
+PDE-delta. The interaction did not require guanine nucleotide, which
+bound RHEB on a surface nearly opposite to the PDE-delta-binding site.
+PDE-delta also interacted with mouse Arl2. The interaction of PDE-delta
+with Arl2 was dependent upon GTP and caused a conformational change in
+PDE-delta that closed its farnesyl-binding pocket. In solution, addition
+of Arl2-GTP dissociated the PDE-delta-farnesylated RHEB complex.
+Addition of Arl3-GTP also caused release of farnesylated RHEB from
+PDE-delta. In transfected canine kidney cells, fluorescence-labeled RHEB
+showed endoplasmic reticulum (ER) and Golgi localization. Addition of
+PDE-delta relocalized RHEB into a cytoplasmic and nuclear distribution,
+and subsequent addition of Arl2-GTP restored RHEB localization to ER and
+Golgi membranes. Ismail et al. (2011) concluded that PDE-delta functions
+as a solubilization factor for farnesylated RHEB and that ARL2 and ARL3
+act in a GTP-dependent manner as allosteric release factors for
+farnesylated RHEB.
+
+BIOCHEMICAL FEATURES
+
+Veltel et al. (2008) solved the crystal structure of the central G
+domain of mouse Arl3 bound to a GTP analog and human RP2 to 2.6-angstrom
+resolution. Both switch regions of Arl3 interacted with the N-terminal
+beta-helix domain of RP2. Biochemical analysis showed that Arl3 had a
+slow intrinsic rate of GTP hydrolysis, which was accelerated more than
+1,400-fold by catalytic amounts of RP2. Veltel et al. (2008) also
+determined that arg118 of RP2 and gln71 of Arl3 were crucial active site
+catalytic residues. They concluded that RP2 is a GTPase-activating
+protein (GAP) for ARL3.
+
+ANIMAL MODEL
+
+Schrick et al. (2006) found that while Arl3 +/- mice appeared normal,
+Arl3 -/- mice were obtained at a submendelian ratio, were small and
+sickly, and had markedly swollen abdomens. Arl3 -/- mice failed to
+thrive and all died by 3 weeks of age. They exhibited abnormal
+development of renal, hepatic, and pancreatic epithelial tubule
+structures, with abnormal epithelial cell proliferation and cyst
+formation characteristic of ARPKD (263200). Moreover, mice lacking Arl3
+exhibited photoreceptor degeneration as early as postnatal day 14.
+Schrick et al. (2006) concluded that absence of Arl3 causes a ciliary
+disease affecting the kidney, biliary tract, pancreas, and retina.
+
+REFERENCE 1. Cavenagh, M. M.; Breiner, M.; Schurmann, A.; Rosenwald, A. G.;
+Terui, T.; Zhang, C.; Randazzo, P. A.; Adams, M.; Joost, H. G.; Kahn,
+R. A.: ADP-ribosylation factor (ARF)-like 3, a new member of the
+ARF family of GTP-binding proteins cloned from human and rat tissues. J.
+Biol. Chem. 269: 18937-18942, 1994.
+
+2. Grayson, C.; Bartolini, F.; Chapple, J. P.; Willison, K. R.; Bhamidipati,
+A.; Lewis, S. A.; Luthert, P. J.; Hardcastle, A. J.; Cowan, N. J.;
+Cheetham, M. E.: Localization in the human retina of the X-linked
+retinitis pigmentosa protein RP2, its homologue cofactor C and the
+RP2 interacting protein Arl3. Hum. Molec. Genet. 11: 3065-3074,
+2002.
+
+3. Ismail, S. A.; Chen, Y.-X.; Rusinova, A.; Chandra, A.; Bierbaum,
+M.; Gremer, L.; Triola, G.; Waldmann, H.; Bastiaens, P. I. H.; Wittinghofer,
+A.: Arl2-GTP and Arl3-GTP regulate a GDI-like transport system for
+farnesylated cargo. Nature Chem. Biol. 7: 942-949, 2011.
+
+4. Kim, H.-S.: Assignment of the human ADP-ribosylation factor-like
+3 (ARL3) gene to chromosome 10 band q23.3 by radiation hybrid mapping. Cytogenet.
+Cell Genet. 83: 246 only, 1998.
+
+5. Schrick, J. J.; Vogel, P.; Abuin, A.; Hampton, B.; Rice, D. S.
+: ADP-ribosylation factor-like 3 is involved in kidney and photoreceptor
+development. Am. J. Path. 168: 1288-1298, 2006.
+
+6. Veltel, S.; Gasper, R.; Eisenacher, E.; Wittinghofer, A.: The
+retinitis pigmentosa 2 gene product is a GTPase-activating protein
+for Arf-like 3. Nature Struct. Molec. Biol. 15: 373-380, 2008.
+
+7. Veltel, S.; Kravchenko, A.; Ismail, S.; Wittinghofer, A.: Specificity
+of Arl2/Arl3 signaling is mediated by a ternary Arl3-effector-GAP
+complex. FEBS Letters 582: 2501-2507, 2008.
+
+8. Zhou, C.; Cunningham, L.; Marcus, A. I.; Li, Y.; Kahn, R. A.:
+Arl2 and Arl3 regulate different microtubule-dependent processes. Molec.
+Biol. Cell 17: 2476-2487, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/2/2013
+Patricia A. Hartz - updated: 6/30/2009
+George E. Tiller - updated: 8/25/2004
+
+CREATED Paul J. Converse: 3/17/2000
+
+EDITED mgross: 10/23/2013
+tpirozzi: 10/2/2013
+alopez: 7/6/2009
+terry: 6/30/2009
+alopez: 2/16/2009
+tkritzer: 8/25/2004
+mgross: 3/21/2000
+mgross: 3/20/2000
+mgross: 3/17/2000
+
+103020	TITLE *103020 ADENYLATE KINASE 2; AK2
+;;ADENYLATE KINASE, MITOCHONDRIAL MYOKINASE
+DESCRIPTION 
+DESCRIPTION
+
+Nucleoside monophosphate kinases, including adenylate kinases, catalyze
+the reversible phosphorylation between nucleoside triphosphates and
+monophosphates.
+
+CLONING
+
+Bruns and Regina (1977) analyzed the subcellular compartmentalization of
+adenylate kinase-2 (EC 2.7.4.3) in HeLa cells, mouse RAG cells, and
+RAG-human hybrids expressing human AK2. The results indicated that AK2
+is a mitochondrial enzyme.
+
+Noma et al. (1998) isolated cDNAs encoding human adenylate kinase-2 from
+a HeLa cell cDNA library, using bovine AK2 cDNA as probe. Two
+transcripts were identified: one, designated AK2A, encodes a deduced
+239-amino acid protein with a predicted molecular mass of 26.5 kD, and
+the other, designated AK2B, encodes a deduced 232-amino acid protein
+with a predicted molecular mass of 25.6 kD. Northern blot analysis
+demonstrated 3 strong hybridizing signals of 0.9 (AK2A), 1.7 (AK2B), and
+3.5 kb, with high expression in liver, heart, skeletal muscle, and
+pancreas, moderate expression in kidney, placenta, and brain, and weak
+expression in lung. However, Western blot analysis showed high levels of
+AK2 protein in liver, heart, and kidney, low levels in lung, and
+undetectable levels in brain and skeletal muscle.
+
+MAPPING
+
+The existence of a second adenylate kinase locus linked to PGM1 and
+peptidase C, i.e., on chromosome 1, was suggested by cell hybridization
+studies by Van Cong et al. (1972). The Goss-Harris method of mapping
+combines features of recombinational study in families and synteny tests
+in hybrid cells. As applied to chromosome 1, the method shows that AK2
+and UMPK are distal to PGM1 and that the order of the loci is PGM1:
+UMPK: (AK2, alpha-FUC): ENO1 (Goss and Harris, 1977). Carritt et al.
+(1982) presented evidence that AK2 is in 1p34.
+
+GENE FUNCTION
+
+Lee et al. (2007) showed that intrinsic apoptosis in human cells that
+was induced by the chemotherapeutic agent etoposide or the antibiotic
+staurosporine, but not by FAS ligand (TNFSF6; 134638) or TRAIL (TNFSF10;
+603598), caused translocation of AK2 from mitochondria to the cytoplasm,
+followed by formation of a complex between AK2, FADD (602457), and
+CASP10 (601762). Yeast 2-hybrid analysis, protein pull-down assays, and
+immunoprecipitation analysis showed that the N- and C-terminal domains
+of AK2, which include nucleoside- and substrate-binding domains,
+respectively, bound the C-terminal death domain of FADD. AK2 binding
+promoted association of CASP10 with FADD, and addition of purified AK2
+protein to cell extracts induced activation of CASP10 via FADD, leading
+to subsequent activation of CASP9 (602234) and CASP3 (600636). Apoptosis
+through the AK2 complex did not correlate with the adenylate kinase
+activity of AK2, did not require CASP8 (601763)-mediated apoptotic
+responses, and did not involve mitochondrial cytochrome c release.
+Immunodepletion or knockdown of AK2, FADD, or CASP10 abrogated
+etoposide-induced apoptosis, and AK2 complexes were not observed in
+several etoposide-resistant human tumor cell lines that were deficient
+in expression of FADD, CASP10, or CASP3. In contrast to the findings in
+human cells, etoposide-induced apoptosis was observed in mouse embryonic
+fibroblasts that lacked Fadd expression. Since mice also lack Casp10,
+Lee et al. (2007) concluded that mice lack an apoptotic pathway
+comparable to the AK2-FADD-CASP10 pathway in humans.
+
+Pannicke et al. (2009) showed that knockdown of zebrafish ak2 also leads
+to aberrant leukocyte development, demonstrating the evolutionarily
+conserved role of AK2. They concluded that their results provide in vivo
+evidence for AK2 selectivity in leukocyte differentiation.
+
+MOLECULAR GENETICS
+
+In 6 affected individuals from 5 families segregating reticular
+dysgenesis (267500), Pannicke et al. (2009) identified 6 causative
+mutations in homozygous or compound heterozygous state
+(103020.0001-103020.0006).
+
+Lagresle-Peyrou et al. (2009) identified biallelic mutations in AK2
+(103020.0007-103020.0013) in 7 individuals with reticular dysgenesis.
+These mutations resulted in absent or strongly decreased protein
+expression. The authors then demonstrated that restoration of AK2
+expression in the bone marrow cells of individuals with reticular
+dysgenesis overcomes the neutrophil differentiation arrest, underlining
+its specific requirement in the development of a restricted set of
+hematopoietic lineages. Finally, Lagresle-Peyrou et al. (2009)
+established that AK2 is specifically expressed in the stria vascularis
+region of the inner ear, which provides an explanation for the
+sensorineural deafness in these individuals. Lagresle-Peyrou et al.
+(2009) concluded that their results identified a previously unknown
+mechanism involved in regulation of hematopoietic cell differentiation
+in one of the most severe human immunodeficiency syndromes.
+
+ALLELIC VARIANT .0001
+RETICULAR DYSGENESIS
+AK2, 5,038-BP DEL
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified a homozygous 5,038-bp deletion encompassing parts of
+exon 6, all of intron 6 and parts of exon 7 reaching into the 3-prime
+UTR of the AK2 gene. The mutation led to a complete loss of detectable
+AK2 protein in fibroblasts and in bone marrow mononuclear cells. The
+parents were heterozygous for the mutation, which was not found in 112
+German or 50 Turkish healthy subjects.
+
+.0002
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 118T
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified compound heterozygosity for 2 mutations in the AK2
+gene: a 1-bp deletion (118delT) leading to a frameshift and early
+truncation of the protein, and a 1A-G transition leading to a
+met1-to-val (M1V) substitution (103020.0003). The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. Each parent was heterozygous for one of the
+mutations. The mutations were not found in 112 German or 50 Turkish
+healthy subjects.
+
+.0003
+RETICULAR DYSGENESIS
+AK2, MET1VAL
+
+See 103020.0002 and Pannicke et al. (2009).
+
+.0004
+RETICULAR DYSGENESIS
+AK2, 331, G-A, -1
+
+In a German male with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 331-1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0005
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 453C
+
+In male and female Turkish sibs with reticular dysgenesis (267500), the
+offspring of consanguineous parents, Pannicke et al. (2009) identified
+homozygosity for a 1-bp deletion (453delC) in the AK2 gene, leading to a
+frameshift and early truncation of the protein. The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0006
+RETICULAR DYSGENESIS
+AK2, 498, G-A, +1
+
+In a Turkish female with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 498+1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0007
+RETICULAR DYSGENESIS
+AK2, ASP165GLY
+
+In 2 separate pedigrees with reticular dysgenesis (267500), each of whom
+was consanguineous, Lagresle-Peyrou et al. (2009) identified
+homozygosity for an A-to-G transition at nucleotide 546 in exon 5 of the
+AK2 gene, resulting in an asp-to-gly substitution in codon 165 (D165G)
+within the LID domain. This mutation changed a highly conserved amino
+acid. The parents were found to be carriers, and unaffected sibs were
+heterozygous or homozygous for the wildtype allele.
+
+.0008
+RETICULAR DYSGENESIS
+AK2, LEU183TER
+
+In a female from a consanguineous family affected with reticular
+dysgenesis (267500), Lagresle-Peyrou et al. (2009) identified a 1-bp
+deletion of C at nucleotide 523 in exon 6 of the AK2 gene (523delC),
+resulting in a substitution of a termination codon for a leucine at
+codon 183 (L183X). This mutation was not detected in her sister and each
+parent was found to be a carrier.
+
+.0009
+RETICULAR DYSGENESIS
+AK2, ARG186CYS
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) found compound heterozygosity for mutations in the AK2 gene: a
+C-to-T transition at nucleotide 556 in exon 6, resulting in an
+arg-to-cys substitution at codon 186 (R186C), and an exon 2 deletion
+(see 103020.0010).
+
+.0010
+RETICULAR DYSGENESIS
+AK2, EX2 DEL
+
+In a female with reticular dysgenesis (267500) from a nonconsanguineous
+family, Lagresle-Peyrou et al. (2009) identified compound heterozygosity
+for deletion of exon 2 of the AK2 gene and an arg186-to-cys substitution
+(103020.0009). Each parent was a carrier of one of the mutations.
+
+.0011
+RETICULAR DYSGENESIS
+AK2, ARG103TRP
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a C-to-T transition at nucleotide 307 in exon 3 of the
+AK2 gene, resulting in an arg-to-trp substitution at codon 103 (R103W).
+Each of her parents was a carrier for this mutation, which occurs in a
+highly conserved amino acid residue.
+
+.0012
+RETICULAR DYSGENESIS
+AK2, LYS233TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a 5-kb deletion following nucleotide 633 (633del5kb),
+resulting in a lys-to-ter substitution at codon 233 (K233X). The patient
+was homozygous for this mutation. Two of her 3 unaffected sibs, and each
+of her unaffected parents, were carriers.
+
+.0013
+RETICULAR DYSGENESIS
+AK2, GLU9TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified homozygosity for a G-to-T transversion at nucleotide
+25 in exon 1 of the AK2 gene, resulting in a glu-to-ter codon
+substitution at amino acid 9 (E9X). The child was homozygous for this
+mutation. Each of her parents was a carrier.
+
+REFERENCE 1. Bruns, G. A. P.; Regina, V. M.: Adenylate kinase-2, a mitochondrial
+enzyme. Biochem. Genet. 15: 477-486, 1977.
+
+2. Carritt, B.; King, J.; Welch, H. M.: Gene order and localization
+of enzyme loci on the short arm of chromosome 1. Ann. Hum. Genet. 46:
+329-335, 1982.
+
+3. Goss, S. J.; Harris, H.: Gene transfer by means of cell fusion.
+II. The mapping of 8 loci on human chromosome 1 by statistical analysis
+of gene assortment in somatic cell hybrids. J. Cell Sci. 25: 39-57,
+1977.
+
+4. Lagresle-Peyrou, C.; Six, E. M.; Picard, C.; Rieux-Laucat, F.;
+Michel, V.; Ditadi, A.; Chappedelaine, C. D.; Morillon, E.; Valensi,
+F.; Simon-Stoos, K. L.; Mullikin, J. C.; Noroski, L. M.; and 10 others
+: Human adenylate kinase 2 deficiency causes a profound hematopoietic
+defect associated with sensorineural deafness. Nature Genet. 41:
+106-111, 2009.
+
+5. Lee, H.-J.; Pyo, J.-O.; Oh, Y.; Kim, H.-J.; Hong, S.; Jeon, Y.-J.;
+Kim, H.; Cho, D.-H.; Woo, H.-N.; Song, S.; Nam, J.-H.; Kim, H. J.;
+Kim, K.-S.; Jung, Y.-K.: AK2 activates a novel apoptotic pathway
+through formation of a complex with FADD and caspase-10. Nature Cell
+Biol. 9: 1303-1310, 2007.
+
+6. Noma, T.; Song, S.; Yoon, Y.-S.; Tanaka, S.; Nakazawa, A.: cDNA
+cloning and tissue-specific expression of the gene encoding human
+adenylate kinase isozyme 2. Biochim. Biophys. Acta 1395: 34-39,
+1998.
+
+7. Pannicke, U.; Honig, M.; Hess, I.; Friesen, C.; Holzmann, K.; Rump,
+E.-M.; Barth, T. F.; Rojewski, M. T.; Schulz, A.; Boehm, T.; Friedrich,
+W.; Schwarz, K.: Reticular dysgenesis (aleukocytosis) is caused by
+mutations in the gene encoding mitochondrial adenylate kinase 2. Nature
+Genet. 41: 101-105, 2009.
+
+8. Van Cong, N.; Billardon, C.; Rebourcet, R.; Kaouel, C. L.-B.; Picard,
+J. Y.; Weil, D.; Frezal, J.: The existence of a second adenylate
+kinase locus linked to PGM-1 and peptidase-C. Ann. Genet. 15: 213-218,
+1972.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/15/2010
+Ada Hamosh - updated: 8/4/2009
+Patricia A. Hartz - updated: 10/28/2008
+Carol A. Bocchini - updated: 8/6/2003
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 06/11/2012
+alopez: 1/26/2010
+terry: 1/15/2010
+terry: 8/13/2009
+carol: 8/12/2009
+terry: 8/4/2009
+mgross: 10/28/2008
+ckniffin: 6/1/2004
+tkritzer: 8/8/2003
+carol: 8/6/2003
+psherman: 4/15/1998
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+reenie: 2/9/1987
+marie: 1/7/1987
+
+610669	TITLE *610669 TNFAIP3-INTERACTING PROTEIN 2; TNIP2
+;;A20-BINDING INHIBITOR OF NFKB 2; ABIN2;;
+FLIP1
+DESCRIPTION 
+DESCRIPTION
+
+TNIP2 binds to the C-terminal zinc finger domain of A20 (TNFAIP3;
+191163) and is involved in activation of the ERK (see MAPK3; 601795) MAP
+kinase pathway in various cell types (Van Huffel et al., 2001;
+Papoutsopoulou et al., 2006).
+
+CLONING
+
+By yeast 2-hybrid screening of a mouse fibrosarcoma cDNA library using
+A20 as bait, followed by database analysis, Van Huffel et al. (2001)
+identified human TNIP2, which they called ABIN2. The mouse and human
+proteins share 76% amino acid identity. Northern blot analysis of mouse
+tissues revealed ubiquitous expression, with highest expression in
+kidney and weakest expression in skeletal muscle. Western blot analysis
+revealed a 50-kD endogenous Abin2 protein in mouse macrophages and
+fibrosarcoma cells.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis and coimmunoprecipitation analysis in
+transfected human embryonic kidney cells, Van Huffel et al. (2001)
+showed that the C-terminal region of mouse Abin2 interacted with the
+zinc finger-containing C-terminal half of A20. Fluorescence microscopy
+demonstrated cytoplasmic colocalization of Abin2 and A20 following
+ectopic expression in HeLa cells. Ectopically expressed Abin2 inhibited
+induction of NFKB (see 164011) activation upstream of the IKK (see
+IKBKB; 603258) complex. RT-PCR analysis showed that, unlike A20,
+expression of Abin2 was not induced by treatment with TNF (191160) or
+IFNG (147570).
+
+Chien et al. (2003) found that full-length human ABIN2 could function as
+a transcriptional coactivator when expressed in yeast. In contrast, only
+a C-terminal fragment of ABIN2, and not the full-length protein, had
+transactivating activity when expressed in human embryonic kidney cells.
+Chien et al. (2003) showed that the N-terminal 195 amino acids of ABIN2
+functioned as a regulatory domain in mammalian cells, retaining the
+protein in the cytoplasm and thereby rendering it unable to
+transactivate.
+
+Interaction of TPL2 (MAP3K8; 191195) with NFKB1 p105 (164011) is
+required to maintain TPL2 metabolic stability and also negatively
+regulates TPL2 MEK kinase activity. By affinity purification in HeLa
+cells, Lang et al. (2004) identified ABIN2 as a protein associated with
+p105. Cotransfection studies in HeLa cells showed that ABIN2 also
+interacted with TPL2 and preferentially formed a ternary complex with
+both proteins. In bone marrow-derived macrophages, a substantial
+fraction of endogenous ABIN2 was associated with both p105 and TPL2.
+Mutation and binding analysis showed that ABIN2 interacted with the
+death domain and PEST region of p105 and with the C terminus of TPL2.
+Depletion of ABIN2 by RNA interference in HeLa cells and human embryonic
+kidney cells dramatically reduced TPL2 protein levels, but did not alter
+TPL2 mRNA or p105 protein levels. ABIN2 increased the half-life of
+cotransfected TPL2 in human embryonic kidney cells. Lang et al. (2004)
+concluded that optimal TPL2 stability requires interaction with both
+ABIN2 and p105.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TNIP2
+protein to chromosome 4 (TMAP SHGC-68050).
+
+ANIMAL MODEL
+
+Papoutsopoulou et al. (2006) generated healthy mice lacking Tnip2. Using
+antigen-presenting cells from these mice, they found that Abin2 was
+required for optimal activation of Erk induced by receptors that signal
+via Tpl2, including Tlr4 (603030) and Tnfr1 (TNFRSF1A; 191190) in
+macrophages, and Cd40 (109535) in B cells. In contrast, Abin2 deficiency
+did not affect agonist-induced regulation of Nfkb. Challenge of Tnip2
+-/- mice with lipopolysaccharide resulted in serum concentrations of Tnf
+equivalent to those in wildtype mice, whereas Il1b (147720)
+concentrations were much lower than in wildtype mice. Papoutsopoulou et
+al. (2006) concluded that ABIN2 acts to positively regulate ERK
+signaling potential by stabilizing TPL2.
+
+REFERENCE 1. Chien, C.-Y.; Liu, W.-K.; Chou, C.-K.; Su, J.-Y.: The A20-binding
+protein ABIN-2 exerts unexpected function in mediating transcriptional
+coactivation. FEBS Lett. 543: 55-60, 2003.
+
+2. Lang, V.; Symons, A.; Watton, S. J.; Janzen, J.; Soneji, Y.; Beinke,
+S.; Howell, S.; Ley, S. C.: ABIN-2 forms a ternary complex with TPL-2
+and NF-kappa-B1 p105 and is essential for TPL-2 protein stability. Molec.
+Cell. Biol. 24: 5235-5248, 2004.
+
+3. Papoutsopoulou, S.; Symons, A.; Tharmalingham, T.; Belich, M. P.;
+Kaiser, F.; Kioussis, D.; O'Garra, A.; Tybulewicz, V.; Ley, S. C.
+: ABIN-2 is required for optimal activation of Erk MAP kinase in innate
+immune responses. Nature Immun. 7: 606-615, 2006.
+
+4. Van Huffel, S.; Delaei, F.; Heyninck, K.; De Valck, D.; Beyaert,
+R.: Identification of a novel A20-binding inhibitor of nuclear factor-kappa-B
+activation termed ABIN-2. J. Biol. Chem. 276: 30216-30223, 2001.
+
+CREATED Paul J. Converse: 12/21/2006
+
+EDITED alopez: 04/23/2007
+mgross: 12/21/2006
+
+601045	TITLE *601045 CATENIN, DELTA-1; CTNND1
+;;CATENIN, DELTA; CTNND;;
+CADHERIN-ASSOCIATED SRC SUBSTRATE; CAS;;
+p120(CTN)
+DESCRIPTION 
+DESCRIPTION
+
+Catenins were discovered as proteins that are linked ('catena' means
+'chain' in Latin) to the cytoplasmic domain of transmembrane cadherin
+(see 601120) proteins. Delta-catenin, also called CAS, p120(cas), or
+p120(ctn), is a tyrosine kinase substrate implicated in ligand-induced
+receptor signaling through the EGF receptor (131550), the PDGF receptor
+(PDGFR; see 173490), and the CSF1 receptor (164770), as well as in cell
+transformation by SRC (190090). Delta-catenin is a major component of
+multiprotein cell-cell adhesion complexes containing E-cadherin
+(192090), alpha-catenin (116805), beta-catenin (116806), and
+gamma-catenin, also known as plakoglobin (173325) (summary by
+Keirsebilck et al., 1998).
+
+CLONING
+
+Reynolds et al. (1992) isolated a mouse p120(ctn) cDNA. Like
+beta-catenin and plakoglobin, the predicted protein contains copies of a
+repeat originally identified in the Drosophila 'Armadillo' protein.
+
+Keirsebilck et al. (1998) identified human p120(ctn) isoforms, which
+they designated 1 to 4, that arise by alternative use of start codons
+and additional isoforms that differ due to alternative splicing of 3
+exons, which they named A, B, and C. The longest isoform was of type
+1ABC and contained 968 amino acids. Isoform 1A contains 933 amino acids
+and is 97% identical to mouse p120(ctn). Human p120(ctn) contains up to
+10 Armadillo repeats. Keirsebilck et al. (1998) used RT-PCR to
+demonstrate tissue-specific and cell line-specific expression of various
+isoforms.
+
+Independently, Nagase et al. (1997) identified KIAA0384, a human
+p120(ctn) cDNA that encodes isoform 1AC, in a screen for brain cDNAs
+encoding proteins larger than 100 kD. RT-PCR detected expression in all
+tissues examined except skeletal muscle. Highest expression was detected
+in placenta, lung, liver, and kidney, followed by ovary and small
+intestine.
+
+GENE FUNCTION
+
+Dillon et al. (1998) reported that a complete loss of p120(ctn)
+expression was observed in approximately 10% of invasive ductal breast
+carcinomas investigated.
+
+Wildenberg et al. (2006) found that depletion of p120-catenin in NIH3T3
+mouse fibroblasts by small interfering RNA caused constitutive
+activation of Rho (RHOA; 165390), cell transformation, loss of contact
+inhibition, and growth in the absence of serum. Moreover, Pdgfr and
+integrin (see 135630) signaling pathways involved in remodeling the
+actin cytoskeleton were selectively impaired. Wildenberg et al. (2006)
+traced these effects to obligatory roles of p120-catenin and Arhgap5
+(602680) in a pathway that connects Rac (RAC1; 602048) activation to Rho
+inhibition. They concluded that p120-catenin and ARHGAP5 use Rho GTPases
+to mediate crosstalk between a wide variety of receptors to coordinate
+cadherin function with other activities that direct cell adhesion,
+motility, and proliferation.
+
+GENE STRUCTURE
+
+Keirsebilck et al. (1998) determined that the human p120(ctn) gene
+contains 21 exons, potentially encoding up to 32 protein isoforms as
+products of alternative splicing.
+
+MAPPING
+
+By fluorescence in situ hybridization, Reynolds et al. (1996) determined
+that the human gene, symbolized CTNND, is localized immediately adjacent
+to the centromere in band 11q11. By interspecific backcross analysis,
+they assigned the murine gene, symbolized Catns, to the middle of mouse
+chromosome 2. By analysis of radiation hybrids, Nagase et al. (1997)
+confirmed that the p120 gene maps to human chromosome 11. By
+fluorescence in situ hybridization and analysis of a somatic cell hybrid
+mapping panel, Bonne et al. (1998) mapped the CTNND1 gene to chromosome
+11q11.
+
+ANIMAL MODEL
+
+Using conditional targeting of p120(ctn) in mouse epidermis,
+Perez-Moreno et al. (2006) found that p120-null neonatal epidermis
+exhibited reduced intercellular adherens junction components, but no
+overt disruption in barrier function or intercellular adhesion. As the
+mice aged, they displayed epidermal hypoplasia and chronic inflammation,
+typified by hair degeneration and loss of body fat. Use of skin
+engraftments and antiinflammatory drugs showed that these features were
+not due to reductions in junctional cadherins and catenins, but rather
+to NF-kappa-B (see 164011) activation. Both in vivo and in vitro,
+p120-null epidermal cells activated NF-kappa-B, triggering a cascade of
+proinflammatory NF-kappa-B targets. NF-kappa-B activation in p120-null
+keratinocytes was accompanied by alterations in Rho GTPase activity that
+appeared to reside upstream from NF-kappa-B activation and downstream
+from p120 loss.
+
+REFERENCE 1. Bonne, S.; van Hengel, J.; van Roy, F.: Chromosomal mapping of
+human armadillo genes belonging to the p120(ctn)/plakophilin subfamily. Genomics 51:
+452-454, 1998.
+
+2. Dillon, D. A.; D'Aquila, T.; Reynolds, A. B.; Fearon, E. R.; Rimm,
+D. L.: The expression of p120ctn protein in breast cancer is independent
+of alpha- and beta-catenin and E-cadherin. Am. J. Path. 152: 75-82,
+1998.
+
+3. Keirsebilck, A.; Bonne, S.; Staes, K.; van Hengel, J.; Nollet,
+F.; Reynolds, A.; van Roy, F.: Molecular cloning of the human p120(ctn)
+catenin gene (CTNND1): expression of multiple alternatively spliced
+isoforms. Genomics 50: 129-146, 1998.
+
+4. Nagase, T.; Ishikawa, K.; Nakajima, D.; Ohira, M.; Seki, N.; Miyajima,
+N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of
+the coding sequences of unidentified human genes. VII. The complete
+sequences of 100 new cDNA clones from brain which can code for large
+proteins in vitro. DNA Res. 4: 141-150, 1997.
+
+5. Perez-Moreno, M.; Davis, M. A.; Wong, E.; Pasolli, H. A.; Reynolds,
+A. B.; Fuchs, E.: p120-catenin mediates inflammatory responses in
+the skin. Cell 124: 631-644, 2006.
+
+6. Reynolds, A. B.; Herbert, L.; Cleveland, J. L.; Berg, S. T.; Gaut,
+J. R.: p120, a novel substrate of protein tyrosine kinase receptors
+and of p60v-src, is related to cadherin-binding factors beta-catenin,
+plakoglobin and armadillo. Oncogene 7: 2439-2445, 1992.
+
+7. Reynolds, A. B.; Jenkins, N. A.; Gilbert, D. J.; Copeland, N. G.;
+Shapiro, D. N.; Wu, J.; Daniel,  J. M.: The gene encoding p120(cas),
+a novel catenin, localizes on human chromosome 11q11 (CTNND) and mouse
+chromosome 2 (Catns). Genomics 31: 127-129, 1996.
+
+8. Wildenberg, G. A.; Dohn, M. R.; Carnahan, R. H.; Davis, M. A.;
+Lobdell, N. A.; Settleman, J.; Reynolds, A. B.: p120-catenin and
+p190RhoGAP regulate cell-cell adhesion by coordinating antagonism
+between Rac and Rho. Cell 127: 1027-1039, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/2/2011
+Matthew B. Gross - updated: 5/22/2009
+Patricia A. Hartz - updated: 4/30/2009
+Sheryl A. Jankowski - updated: 11/2/1999
+Rebekah S. Rasooly - updated: 6/7/1999
+
+CREATED Victor A. McKusick: 2/7/1996
+
+EDITED mgross: 05/21/2013
+mgross: 9/27/2011
+terry: 9/2/2011
+mgross: 12/9/2010
+wwang: 5/28/2009
+mgross: 5/22/2009
+mgross: 5/4/2009
+terry: 4/30/2009
+mgross: 11/12/2008
+terry: 10/31/2008
+psherman: 11/3/1999
+psherman: 11/2/1999
+alopez: 6/7/1999
+dkim: 10/12/1998
+alopez: 9/8/1998
+carol: 6/2/1998
+terry: 4/23/1998
+mark: 2/7/1996
+
+601463	TITLE *601463 HYALURONAN SYNTHASE 1; HAS1
+DESCRIPTION 
+DESCRIPTION
+
+The glycosaminoglycan hyaluronan (HA) is a high-molecular-mass
+polysaccharide made up of alternating D-glucuronic acid and
+D-N-acetylglucosamine residues linked via alternating beta-1,4 and
+beta-1,3 glycosidic bonds. Unlike other glycosaminoglycans, HA is
+synthesized at the plasma membrane rather than the Golgi by the HA
+synthases HAS1, HAS2 (601636), and HAS3 (602428). HA is thought to be
+elongated at the reducing, as opposed to the nonreducing, terminus, and
+the linear polymer is extruded to the outside of the cell. HA has been
+implicated in a wide range of extracellular matrix-mediated processes,
+including cell adhesion, migration, and proliferation, and HA may also
+function intracellularly (summary by Monslow et al., 2003).
+
+CLONING
+
+Itano and Kimata (1996) used a transient expression system in a mouse
+mammary carcinoma cell line lacking HA expression to isolate cDNA clones
+capable of restoring HA synthesis activity. The mouse cDNA sequence
+identified predicted a 583-amino acid protein with similarity to the
+Xenopus DG42 protein and a bacterial HA synthase.
+
+Itano and Kimata (1996) isolated a cDNA encoding human hyaluronan
+synthase from a human fetal brain cDNA library by screening with a DNA
+probe generated from the coding sequence of murine hyaluronan synthase.
+The clone contains a 2,107-bp cDNA insert that is composed of a 1,629-bp
+open reading frame and a short segment of the 3-prime untranslated
+region. The gene was predicted to encode a 543-amino acid polypeptide.
+Comparative analysis of the predicted coding region with the murine
+hyaluronan synthase sequence indicated 84.4% and 96.0% identity in
+nucleotide sequence and amino acid sequences, respectively. Northern
+analysis indicated that the gene is ubiquitously expressed in human
+tissues.
+
+Shyjan et al. (1996) also used an expression cloning strategy to obtain
+the HAS1 cDNA. However, the reading frame was extended at the 5-prime
+end to predict a protein of 578 amino acids.
+
+GENE STRUCTURE
+
+Monslow et al. (2003) determined that the HAS1 gene has 5 coding exons
+and spans about 10.9 kb. The 500-bp region upstream of the transcription
+start site contains 46 transcription factor-binding sites. The 5-prime
+splice junction of intron 1 contains a (GT)n microsatellite repeat
+sequence.
+
+MAPPING
+
+By somatic cell hybrid analysis, hybridization to a cosmid contig, and
+fluorescence in situ hybridization, Spicer et al. (1997) localized the
+human HAS1 gene to chromosome 19q13.3-q13.4. Monslow et al. (2003)
+mapped the HAS1 gene to chromosome 19q13.41 by genomic sequence
+analysis.
+
+By interspecific backcross analysis, Spicer et al. (1997) mapped the
+mouse Has1 gene to chromosome 17.
+
+REFERENCE 1. Itano, N.; Kimata, K.: Expression cloning and molecular characterization
+of HAS protein, a eukaryotic hyaluronan synthase. J. Biol. Chem. 271:
+9875-9878, 1996.
+
+2. Itano, N.; Kimata, K.: Molecular cloning of human hyaluronan synthase. Biochem.
+Biophys. Res. Commun. 222: 816-820, 1996.
+
+3. Monslow, J.; Williams, J. D.; Norton, N.; Guy, C. A.; Price, I.
+K.; Coleman, S. L.; Williams, N. M.; Buckland, P. R.; Spicer, A. P.;
+Topley, N.; Davies, M.; Bowen, T.: The human hyaluronan synthase
+genes: genomic structures, proximal promoters and polymorphic microsatellite
+markers. Int. J. Biochem. Cell Biol. 35: 1272-1283, 2003.
+
+4. Shyjan, A. M.; Heldin, P.; Bucher, E. C.; Yoshino, T.; Briskin,
+M. J.: Functional cloning of the cDNA for a human hyaluronan synthase. J.
+Biol. Chem. 271: 23395-23399, 1996.
+
+5. Spicer, A. P.; Seldin, M. F.; Olsen, A. S.; Brown, N.; Wells, D.
+E.; Doggett, N. A.; Itano, N.; Kimata, K.; Inazawa, J.; McDonald,
+J. A.: Chromosomal localization of the human and mouse hyaluronan
+synthase genes. Genomics 41: 493-497, 1997.
+
+CONTRIBUTORS Matthew B. Gross - updated: 11/21/2011
+Patricia A. Hartz - updated: 9/22/2011
+Patti M. Sherman - updated: 3/9/1998
+Alan F. Scott - updated: 2/26/1997
+
+CREATED Victor A. McKusick: 10/10/1996
+
+EDITED mgross: 11/21/2011
+terry: 9/22/2011
+kayiaros: 7/13/1999
+dholmes: 3/9/1998
+mark: 2/26/1997
+jenny: 1/28/1997
+jenny: 1/21/1997
+mark: 11/4/1996
+mark: 10/18/1996
+mark: 10/11/1996
+
+614516	TITLE *614516 DOLICHYL PYROPHOSPHATE PHOSPHATASE 1; DOLPP1
+;;LSFR2, PUFFERFISH, HOMOLOG OF; LSFR2
+DESCRIPTION 
+DESCRIPTION
+
+Cotranslational N-glycosylation of nascent polypeptides in the
+endoplasmic reticulum (ER) requires the transfer of a complex
+oligosaccharide chain from its dolichyl pyrophosphate (Dol-P-P) carrier
+lipid to the nitrogen of an asparagine residue, concomitant with the
+release of Dol-P-P into the lumen of the ER. DOLPP1 (EC 3.6.1.43)
+converts Dol-P-P to dolichyl phosphate (Dol-P), which is subsequently
+translocated to the cytoplasmic leaflet of the ER for regeneration and
+participation in subsequent rounds of N-glycosylation (Rush et al.,
+2002).
+
+CLONING
+
+Rush et al. (2002) obtained a mouse brain cDNA encoding Dolpp1. The
+deduced 238-amino acid protein has 4 putative transmembrane domains and
+a consensus lipid-phosphate phosphatase motif. The N and C termini are
+predicted to be on the cytosolic face of the ER, and the catalytic
+domain is predicted to be on the luminal face of the ER. Northern blot
+analysis detected a 2.0-kb transcript in all mouse tissues examined,
+with highest expression in brain, kidney, lung, and intestine.
+Sedimentation and immunofluorescence analyses revealed that Dolpp1 was
+expressed in the ER of transfected COS cells. Protease digestion studies
+suggested that the active site was oriented within the lumen of the ER.
+
+GENE FUNCTION
+
+Rush et al. (2002) found that microsomes isolated from yeast or insect
+cells expressing mouse Dolpp1 readily dephosphorylated Dol-P-P to Dol-P,
+whereas Dol-P and phosphatidic acid were relatively poor substrates.
+Expression of mouse Dolpp1 complemented the defect in growth and protein
+N-glycosylation in yeast lacking Cwh8, the ortholog of Dolpp1.
+Overexpression of either Dolpp1 or Cwh8 in mutant yeast reversed the
+accumulation of Dol-P-P.
+
+MAPPING
+
+By radiation hybrid analysis and FISH, Gilley and Fried (1999) mapped
+the DOLPP1 gene to chromosome 9q34.1.
+
+REFERENCE 1. Gilley, J.; Fried, M.: Extensive gene order differences within
+regions of conserved synteny between the Fugu and human genomes: implications
+for chromosomal evolution and the cloning of disease genes. Hum.
+Molec. Genet. 8: 1313-1320, 1999.
+
+2. Rush, J. S.; Cho, S. K.; Jiang, S.; Hofmann, S. L.; Waechter, C.
+J.: Identification and characterization of a cDNA encoding a dolichyl
+pyrophosphate phosphatase located in the endoplasmic reticulum of
+mammalian cells. J. Biol. Chem. 277: 45226-45234, 2002.
+
+CREATED Patricia A. Hartz: 3/1/2012
+
+EDITED mgross: 03/01/2012
+
+610663	TITLE *610663 SET AND MYND DOMAIN-CONTAINING PROTEIN 2; SMYD2
+DESCRIPTION 
+DESCRIPTION
+
+SET domain-containing proteins, such as SMYD2, catalyze lysine
+methylation (Brown et al., 2006).
+
+CLONING
+
+By database analysis, Brown et al. (2006) identified mammalian Smyd2.
+The deduced 433-amino acid protein has a SET domain that is split into 2
+segments by a MYND domain, followed by a cysteine-rich domain. Northern
+blot analysis of mouse tissues detected highest expression in heart,
+brain, liver, kidney, and ovary. In situ hybridization of day-13.5 mouse
+embryos showed Smyd2 expression in heart and hypothalamus.
+
+GENE FUNCTION
+
+Brown et al. (2006) showed that the SET domain of mammalian Smyd2
+mediated demethylation of lys36 of histone H3 (see 602810), and Smyd2
+repressed transcription from an SV40 reporter plasmid. Exogenous
+expression of Smyd2 in mouse fibroblasts decreased cell growth.
+
+Huang et al. (2006) reported that the lysine methyltransferase SMYD2
+methylates a previously unidentified site, lys370, in p53 (191170). This
+methylation site, in contrast to the known site lys372, is repressing to
+p53-mediated transcriptional regulation. SMYD2 helps to maintain low
+concentrations of promoter-associated p53. Huang et al. (2006) showed
+that reducing SMYD2 concentrations by siRNA enhances p53-mediated
+apoptosis. They further found that SET9 (606594)-mediated methylation of
+lys372 inhibits SMYD2-mediated methylation of lys370, providing
+regulatory crosstalk between posttranslational modifications. In
+addition, Huang et al. (2006) showed that the inhibitory effect of
+lys372 methylation on lys370 methylation is caused, in part, by blocking
+the interaction between p53 and SMYD2. Thus, similar to histones, p53 is
+subject to both activating and repressing lysine methylation. Huang et
+al. (2006) suggested that their results also predicted that Smyd2 may
+function as a putative oncogene by methylating p53 and repressing its
+tumor suppressive function.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the SMYD2
+gene to chromosome 1 (TMAP SHGC-76339).
+
+REFERENCE 1. Brown, M. A.; Sims, R. J., III; Gottlieb, P. D.; Tucker, P. W.
+: Identification and characterization of Smyd2: a split SET/MYND domain-containing
+histone H3 lysine 36-specific methyltransferase that interacts with
+the Sin3 histone deacetylase complex. Molec. Cancer 5: 26, 2006.
+Note: Electronic Article.
+
+2. Huang, J.; Perez-Burgos, L.; Placek, B. J.; Sengupta, R.; Richter,
+M.; Dorsey, J. A.; Kubicek, S.; Opravil, S.; Jenuwein, T.; Berger,
+S. L.: Repression of p53 activity by Smyd2-mediated methylation. Nature 444:
+629-632, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/1/2007
+
+CREATED Patricia A. Hartz: 12/19/2006
+
+EDITED mgross: 02/04/2013
+alopez: 2/5/2007
+terry: 2/1/2007
+mgross: 12/19/2006
+
+607991	TITLE *607991 SOLUTE CARRIER FAMILY 8 (SODIUM-CALCIUM EXCHANGER), MEMBER 3; SLC8A3
+;;SODIUM-CALCIUM EXCHANGER 3; NCX3
+DESCRIPTION 
+DESCRIPTION
+
+Plasma membrane sodium-calcium exchangers, such as SLC8A3, are
+reversible transporters controlling Ca(2+) homeostasis. The forward
+sodium-calcium exchange extrudes 1 Ca(2+) for 3 extracellular Na(+)
+ions, using the Na(+) gradient and the electrical potential across the
+plasma membrane as an energy source.
+
+CLONING
+
+Nicoll et al. (1996) cloned rat Slc8a3, which they designated Ncx3. The
+deduced 927-amino acid protein contains an N-terminal signal peptide, 11
+transmembrane segments, a long cytoplasmic loop between transmembrane
+segments 5 and 6, and alpha and beta repeat sequences characteristic of
+exchange proteins. The authors predicted that the N terminus is
+extracellular and the C terminus is intracellular. Slc8a3 contains 5
+N-glycosylation sites and 4 phosphorylation sites. Northern blot
+analysis of rat tissues detected a 6.0-kb transcript only in brain and
+skeletal muscle.
+
+By searching databases for sequences similar to rat Slc8a3, followed by
+RT-PCR of neuroblastoma cell line total RNA, Gabellini et al. (2002)
+cloned SLC8A3, which they designated NCX3. The deduced 921-amino acid
+protein contains an N-terminal cluster of 5 transmembrane domains and a
+C-terminal cluster of 5 transmembrane domains. The clusters are
+separated by a large hydrophilic intracellular loop. Gabellini et al.
+(2002) identified complex alternative splicing in the exons encoding the
+intracellular loop. The form expressed in brain and the neuroblastoma
+cell line has 7 of 9 exons, lacking exons 3 and 5. In addition to this
+isoform, 2 other isoforms were expressed in skeletal muscle: one lacking
+only exon 3, and the other lacking exons 3, 4, and 5, resulting in a
+terminating frameshift. The predicted proteins range in size from 68 to
+100 kD. The coding region of SLC8A3 shares 68% and 71% amino acid
+identity with SLC8A1 (182305) and SLC8A2 (601901), respectively, and 97%
+identity with rat Slc8a3.
+
+GENE FUNCTION
+
+Nicoll et al. (1996) determined that transfection of rat Slc8a3 into
+baby hamster kidney cells mediated a 12-fold increase in Na(+)
+gradient-dependent Ca(2+) uptake relative to control cells.
+
+Using promoter-reporter constructs, Gabellini et al. (2002) found that
+expression of the SLC8A3 promoter in neuroblastoma cells was promoted by
+retinoic acid, brain-derived neurotrophic factor (113505), and rising
+cAMP levels. Ca(2+) was inhibitory, and inhibition was mediated by CAMK2
+(see 114078)-directed phosphorylation of CREB (see 123810).
+
+GENE STRUCTURE
+
+Gabellini et al. (2002) determined that the SLC8A3 gene contains 9 exons
+and spans about 150 kb. Exon 1 is untranslated.
+
+Gabellini et al. (2002) determined that the promoter region of SLC8A3
+contains a TATA box and several GC boxes, indicating constitutive
+transcription. It also includes binding sites for brain-specific AP2
+(107580) transcription factor and for muscle-specific MyoD (159970),
+GATA2 (137295), and GATA3 (131320).
+
+MAPPING
+
+By genomic sequence analysis, Gabellini et al. (2002) mapped the SLC8A3
+gene to chromosome 14q24.2. Nicoll et al. (1996) mapped the mouse Slc8a3
+gene to chromosome 12.
+
+ANIMAL MODEL
+
+Sokolow et al. (2004) produced mice deficient in Ncx3. Ncx3-deficient
+mice presented a skeletal muscle fiber necrosis and a defective
+neuromuscular transmission, reflecting the absence of Ncx3 in the
+sarcolemma of the muscle fibers and at the neuromuscular junction. The
+defective neuromuscular transmission was characterized by the presence
+of electromyographic abnormalities. The findings indicated that NCX3
+plays an important role in vivo in the control of Ca(2+) concentrations
+in skeletal muscle fibers and at the neuromuscular junction.
+
+Molinaro et al. (2008) demonstrated that homozygous ablation of the Ncx3
+gene in mice increased the extent of ischemic brain lesions after middle
+cerebral artery occlusion, particularly in the temporoparietal cortex,
+compared to controls. Cultured hippocampal cells from Ncx3-deficient
+mice showed significantly increased cell death in response to oxygen
+glucose deprivation compared to wildtype cells. Hypoxic conditions
+increased the reverse mode of the transporter in wildtype cells, but
+this reverse current was significantly decreased in Ncx3-deficient
+cells. The findings indicated impaired Ca(2+) and Na(+) homeostasis
+resulting from absence of Ncx3. Molinaro et al. (2008) noted that NCX3
+activity is ATP-independent and can thus function normally even during
+ischemic conditions, and suggested that wildtype Ncx3 may have
+beneficial effects during hypoxic conditions by decreasing cellular
+Na(+) content in the initial stages.
+
+REFERENCE 1. Gabellini, N.; Bortoluzzi, S.; Danieli, G. A.; Carafoli, E.: The
+gene promoter of human Na(+)/Ca(2+) exchanger isoform 3 (SLC8A3) is
+controlled by cAMP and calcium. Ann. New York Acad. Sci. 976: 282-284,
+2002.
+
+2. Gabellini, N.; Bortoluzzi, S.; Danieli, G. A.; Carafoli, E.: The
+human SLC8A3 gene and the tissue-specific Na(+)/Ca(2+) exchanger 3
+isoforms. Gene 298: 1-7, 2002.
+
+3. Molinaro, P.; Cuomo, O.; Pignataro, G.; Boscia, F.; Sirabella,
+R.; Pannaccione, A.; Secondo, A.; Scorziello, A.; Adornetto, A.; Gala,
+R.; Viggiano, D.; Sokolow, S.; Herchuelz, A.; Schurmans, S.; Di Renzo,
+G.; Annunziato, L.: Targeted disruption of Na(+)/Ca(2+) exchanger
+3 (NCX3) gene leads to a worsening of ischemic brain damage. J. Neurosci. 28:
+1179-1184, 2008.
+
+4. Nicoll, D. A.; Quednau, B. D.; Qui, Z.; Xia, Y.-R.; Lusis, A. J.;
+Philipson, K. D.: Cloning of a third mammalian Na(+)-Ca(2+) exchanger,
+NCX3. J. Biol. Chem. 271: 24914-24921, 1996.
+
+5. Sokolow, S.; Manto, M.; Gailly, P.; Molgo, J.; Vandebrouck, C.;
+Vanderwinden, J.-M.; Herchuelz, A.; Schurmans, S.: Impaired neuromuscular
+transmission and skeletal muscle fiber necrosis in mice lacking Na/Ca
+exchanger 3. J. Clin. Invest. 113: 265-273, 2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 7/30/2008
+Victor A. McKusick - updated: 2/10/2004
+
+CREATED Patricia A. Hartz: 7/28/2003
+
+EDITED wwang: 08/01/2008
+ckniffin: 7/30/2008
+carol: 7/22/2008
+tkritzer: 2/16/2004
+terry: 2/10/2004
+cwells: 11/5/2003
+mgross: 7/28/2003
+
+609089	TITLE *609089 F-BOX ONLY PROTEIN 3; FBXO3
+;;FBX3;;
+FBA
+DESCRIPTION 
+DESCRIPTION
+
+Members of the F-box protein family, such as FBXO3, are characterized by
+an approximately 40-amino acid F-box motif. SCF complexes, formed by
+SKP1 (601434), cullin (see CUL1; 603134), and F-box proteins, act as
+protein-ubiquitin ligases. F-box proteins interact with SKP1 through the
+F box, and they interact with ubiquitination targets through other
+protein interaction domains (Jin et al., 2004).
+
+CLONING
+
+Using SKP1 as bait in a yeast 2-hybrid screen, and by searching an EST
+database, Winston et al. (1999) identified a partial FBXO3 cDNA, which
+they designated FBX3.
+
+By searching for genes in a region of chromosome 11 associated with WAGR
+syndrome (194072), Gawin et al. (1999) identified and cloned FBXO3,
+which they designated clone 29944. Northern blot analysis detected
+variable expression of a 2.5-kb transcript in all human tissues
+examined, with highest expression in heart. Fbxo3 was also detected in
+all adult mouse tissues examined. In developing mouse, expression was
+low at embryonic day 10 and rose thereafter.
+
+Ilyin et al. (2000) cloned mouse Fbxo3, which they designated Fba. The
+deduced 415-amino acid protein contains an N-terminal F box and a
+C-terminal domain that shares similarity with bacterial ApaG proteins.
+
+GENE FUNCTION
+
+Winston et al. (1999) showed that in vitro translated FBXO3 interacted
+with SKP1 in an in vitro binding assay and in transfected human
+embryonic kidney cells.
+
+MAPPING
+
+By analyzing a PAC contig covering chromosome 11p14.1-p13, Gawin et al.
+(1999) mapped the FBXO3 gene to chromosome 11p13, centromeric to the
+C11ORF41 gene (612297) and telomeric to the LMO2 gene (180385).
+
+Jin et al. (2004) stated that the FBXO3 gene maps to chromosome 11p13
+and the mouse Fbxo3 gene maps to chromosome 2E2.0.
+
+REFERENCE 1. Gawin, B.; Niederfuhr, A.; Schumacher, N.; Hummerich, H.; Little,
+P. F. R.; Gessler, M.: A 7.5 Mb sequence-ready PAC contig and gene
+expression map of human chromosome 11p13-p14.1. Genome Res. 9: 1074-1086,
+1999.
+
+2. Ilyin, G. P.; Rialland, M.; Pigeon, C.; Guguen-Guillouzo, C.:
+cDNA cloning and expression analysis of new members of the mammalian
+F-box protein family. Genomics 67: 40-47, 2000.
+
+3. Jin, J.; Cardozo, T.; Lovering, R. C.; Elledge, S. J.; Pagano,
+M.; Harper, J. W.: Systematic analysis and nomenclature of mammalian
+F-box proteins. Genes Dev. 18: 2573-2580, 2004.
+
+4. Winston, J. T.; Koepp, D. M.; Zhu, C.; Elledge, S. J.; Harper,
+J. W.: A family of mammalian F-box proteins. Curr. Biol. 9: 1180-1182,
+1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/16/2008
+
+CREATED Patricia A. Hartz: 12/14/2004
+
+EDITED mgross: 09/18/2008
+terry: 9/16/2008
+mgross: 12/15/2004
+
+614176	TITLE *614176 ZINC FINGER FYVE DOMAIN-CONTAINING PROTEIN 28; ZFYVE28
+;;LST2, C. ELEGANS, ORTHOLOG OF; LST2;;
+KIAA1643
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (2000) cloned ZFYVE28, which they designated
+KIAA1643. The deduced protein contains 993 amino acids. RT-PCR ELISA of
+human tissues detected very high ZFYVE28 expression in whole adult
+brain, followed by fetal brain, with much lower expression in all other
+tissues examined. Within specific adult brain regions, highest
+expression was detected in amygdala, caudate nucleus, hippocampus, and
+thalamus, followed by substantia nigra and subthalamic nucleus.
+
+By searching a human database for sequences similar to C. elegans Lst2,
+Mosesson et al. (2009) identified ZFYVE28, which they called LST2. The
+deduced 887-amino acid protein contains a C-terminal FYVE domain and 2
+conserved regions, an N-terminal domain, called NDom, and a central
+domain, called the CBox. RT-PCR and Western blot analysis of mouse
+tissues detected high Lst2 expression in brain. LST2 was also detected
+in human cell lines. The most prominent protein had an apparent
+molecular mass of 130 to 140 kD.
+
+GENE FUNCTION
+
+Mosesson et al. (2009) found that LST2 regulated internalization and
+degradation of EGFR (131550), thereby terminating EGFR signaling. LST2
+was monoubiquitinated on lys87 within the NDom domain, and
+ubiquitination required the CBox. In the absence of ubiquitination, the
+FYVE domain of LST2 bound the endosomal phospholipid
+phosphoinositol-3-phosphate (PI3P), and LST2 localized to early
+endosomes with EGFR and promoted receptor degradation. Ubiquitination of
+LST2 inhibited its PI3P-binding ability and released it from endosomes.
+Yeast 2-hybrid analysis of mouse brain lysates showed LST2 also bound
+Trim3 (605493), a coordinator of endosomal trafficking.
+
+MAPPING
+
+Using radiation hybrid analysis, Nagase et al. (2000) mapped the ZFYVE28
+gene to chromosome 4. Mosesson et al. (2009) stated that the ZFYVE28
+gene maps to chromosome 4p16.
+
+REFERENCE 1. Mosesson, Y.; Chetrit, D.; Schley, L.; Berghoff, J.; Ziv, T.; Carvalho,
+S.; Milanezi, F.; Admon, A.; Schmitt, F.; Ehrlich, M.; Yarden, Y.
+: Monoubiquitinylation regulates endosomal localization of Lst2, a
+negative regulator of EGF receptor signaling. Dev. Cell 16: 687-698,
+2009.
+
+2. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+CREATED Patricia A. Hartz: 8/18/2011
+
+EDITED wwang: 08/18/2011
+

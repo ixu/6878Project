@@ -1,0 +1,848 @@
+612890	TITLE *612890 LEUCINE-RICH REPEAT-CONTAINING PROTEIN 8D; LRRC8D
+;;LEUCINE-RICH REPEAT-CONTAINING PROTEIN 5; LRRC5
+DESCRIPTION 
+CLONING
+
+By searching protein and nucleotide databases for sequences similar to
+LRRC8 (LRRC8A; 608360), followed by RT-PCR of peripheral blood
+mononuclear cell and monocyte total RNA, Kubota et al. (2004) identified
+LRRC8D as LRRC5. The deduced 858-amino acid protein contains 4
+N-terminal transmembrane domains and 16 C-terminal leucine-rich repeats.
+LRRC8D shares 55% identity with LRRC8A and 95% identity with the
+859-amino acid mouse ortholog. Semiquantitative PCR detected variable
+LRRC8D expression in all tissues examined except skeletal muscle.
+
+GENE FUNCTION
+
+Kubota et al. (2004) found that expression of LRRC8D in isolated human
+peripheral blood mononuclear cells or monocytes was increased following
+exposure to phytohemagglutinin, phorbol ester, or lipopolysaccharide.
+
+MAPPING
+
+By genomic sequence analysis, Kubota et al. (2004) mapped the LRRC8D
+gene to chromosome 1p22.2. They mapped the mouse Lrrc8d gene to
+chromosome 5.
+
+REFERENCE 1. Kubota, K.; Kim, J. Y.; Sawada, A.; Tokimasa, S.; Fujisaki, H.;
+Matsuda-Hashii, Y.; Ozono, K.; Hara, J.: LRRC8 involved in B cell
+development belongs to a novel family of leucine-rich repeat proteins. FEBS
+Lett. 564: 147-152, 2004.
+
+CREATED Patricia A. Hartz: 6/30/2009
+
+EDITED alopez: 07/06/2009
+alopez: 6/30/2009
+
+611883	TITLE *611883 BRCA2- AND CDKN1A-INTERACTING PROTEIN; BCCIP
+;;p21- AND CDK-ASSOCIATED PROTEIN 1; TOK1
+DESCRIPTION 
+CLONING
+
+Using the C-terminal half of p21 (CDK1A; 116899) as bait in a yeast
+2-hybrid screen of a brain cDNA library, Ono et al. (2000) cloned BCCIP,
+which they called TOK1. EST database analysis and PCR of a brain cDNA
+library revealed 2 TOK1 variants, TOK1-alpha and -beta. The deduced
+proteins contain 322 and 314 amino acids, respectively, and are
+identical for the first 259 amino acids. Northern blot analysis using a
+probe common to both TOK1 variants detected a major 1.5-kb transcript
+and a minor 3-kb transcript. Specific probes detected both TOK1 variants
+as 1.5-kb transcripts. TOK1-alpha was highly expressed in skeletal
+muscle, with little to no expression in other tissues examined.
+TOK1-beta was highly expressed in skeletal muscle and heart, moderately
+expressed in placenta and pancreas, and weakly expressed in brain,
+kidney, and liver. Western blot analysis detected TOK1-alpha and
+TOK1-beta as 50- and 45-kD proteins, respectively. In synchronized HeLa
+cells, expression of TOK1-alpha began after G2/M phase and peaked before
+S phase. TOK1-beta was expressed throughout the cell cycle, but like
+TOK1-alpha, its expression increased before S phase.
+
+Using an internal conserved region of BRCA2 (600185) as bait in a yeast
+2-hybrid screen, followed by database analysis, Liu et al. (2001) cloned
+BCCIP-alpha and -beta, which correspond to TOK1-alpha and -beta,
+respectively. Both BCCIP isoforms have an N-terminal acidic domain and
+an evolutionarily conserved internal domain, followed by the C-terminal
+variable domain. The internal domain contains a putative calcium-binding
+domain. Western blot analysis detected both BCCIP proteins in all
+tissues examined. Immunohistochemical analysis of several human cell
+lines showed nuclear expression of endogenous BCCIP.
+
+GENE FUNCTION
+
+Using mutation analysis, Ono et al. (2000) found that TOK1-alpha bound
+to the C-terminal proximal region of p21. However, TOK1-beta did not
+bind p21. TOK1-alpha formed a ternary complex with p21 and an active
+form of CDK2 (116953) in human embryonic kidney cells via its
+interaction with p21. TOK1-alpha enhanced the inhibitory activity of p21
+toward the histone H1 (see 142709) kinase activity of CDK2.
+
+By coimmunoprecipitation analysis of transfected human embryonic kidney
+cells, Liu et al. (2001) confirmed that BCCIP-alpha interacted with
+endogenous BRCA2. Expression of BCCIP-beta protein was relatively
+consistent among various tumor cell lines examined. In contrast,
+expression of BCCIP-alpha protein was reduced in some brain, breast, and
+endometrial tumor cell lines and increased in some endometrial tumor
+cell lines, with relatively consistent expression among lung cancer cell
+lines. BCCIP-alpha expression inhibited growth of some breast and brain
+tumor cells, but it had no effect on other types of cancer cells.
+
+Lu et al. (2007) stated that BCCIP regulates BRCA2 and RAD51 (179617)
+nuclear focus formation, DNA double-strand break-induced homologous
+recombination, and cell cycle progression. They transfected full-length
+and truncated fragments of BCCIP into a human fibrosarcoma cell line and
+found that BCCIP fragments that interacted with either BRCA2 or p21
+inhibited homologous recombination similarly. Transient downregulation
+of BCCIP in human cells did not affect nonspecific integration of
+transfected DNA, but it significantly inhibited homology-directed gene
+targeting. Cells with constitutive downregulation of BCCIP showed
+increased levels of spontaneous single-stranded DNA and double-strand
+breaks. Lu et al. (2007) concluded that multiple domains of BCCIP are
+involved in homologous recombination and that BCCIP plays a critical
+role in resolving spontaneous DNA damage.
+
+Using a matched normal/tumor cDNA array, Meng et al. (2003) found
+reduced expression of both BCCIP-alpha and -beta in kidney tumors.
+
+GENE STRUCTURE
+
+Meng et al. (2003) determined that the BCCIP gene contains 9 exons and
+spans about 30 kb. The 5-prime end of the BCCIP gene abuts the UROS gene
+(606938) on the opposite strand in a head-to-head manner. BCCIP and UROS
+share a functional intergenic bidirectional promoter that contains
+binding sites for various transcription factors. The last 3 exons of
+BCCIP overlap with seven 3-prime exons of the DHX32 gene (607960) on the
+opposite strand.
+
+MAPPING
+
+By FISH and genomic sequence analysis, Liu et al. (2001) mapped the
+BCCIP gene to chromosome 10q25.3-q26.2.
+
+REFERENCE 1. Liu, J.; Yuan, Y.; Huan, J.; Shen, Z.: Inhibition of breast and
+brain cancer cell growth by BCCIP-alpha, an evolutionarily conserved
+nuclear protein that interacts with BRCA2. Oncogene 20: 336-345,
+2001.
+
+2. Lu, H.; Yue, J.; Meng, X.; Nickoloff, J. A.; Shen, Z.: BCCIP regulates
+homologous recombination by distinct domains and suppresses spontaneous
+DNA damage. Nucleic Acids Res. 35: 7160-7170, 2007.
+
+3. Meng, X.; Liu, J.; Shen, Z.: Genomic structure of the human BCCIP
+gene and its expression in cancer. Gene 302: 139-146, 2003.
+
+4. Ono, T.; Kitaura, H.; Ugai, H.; Murata, T.; Yokoyama, K. K.; Iguchi-Ariga,
+S. M. M.; Ariga, H.: TOK-1, a novel p21(Cip1)-binding protein that
+cooperatively enhances p21-dependent inhibitory activity toward CDK2
+kinase. J. Biol. Chem. 275: 31145-31154, 2000.
+
+CREATED Patricia A. Hartz: 3/7/2008
+
+EDITED wwang: 03/31/2010
+mgross: 3/7/2008
+
+607657	TITLE *607657 CYSTATHIONINE GAMMA-LYASE; CTH
+;;CYSTATHIONASE
+DESCRIPTION 
+DESCRIPTION
+
+The CTH gene encodes cystathionine gamma-lyase (EC 4.4.1.1.), an enzyme
+that transforms cystathionine derived from methionine into cysteine.
+This reaction is preceded by the condensation of homocysteine and serine
+to form cystathionine, a process catalyzed by cystathionine
+beta-synthase (CBS; 613381). Cysteine is considered a nonessential amino
+acid because it can be synthesized in the body in this way.
+Biosynthesized cysteine is further metabolized in the liver to yield
+glutathione and taurine (summary by Ishii et al., 2010).
+
+CLONING
+
+Lu et al. (1992) cloned and sequenced a 1,083-bp cDNA encoding human
+liver cystathionine gamma-lyase. The human sequence presented a deletion
+of 132 bases (44 amino acids) compared to the cystathionase sequence
+reported for the rat, and a deletion of 135 bases (45 amino acids)
+compared to the sequence reported for yeast. After realignment for the
+missing nucleotides, the human cDNA sequence showed significant amino
+acid homology to the rat (85%) and yeast (50%) enzymes. Using PCR, Lu et
+al. (1992) isolated a second clone which contained the missing 132
+bases. Flanking nucleotides in the latter clone were identical to those
+in the cDNA clone containing the deletion. Alternative splicing as the
+basis of the 2 forms of cystathionase is plausible.
+
+GENE FUNCTION
+
+Yang et al. (2008) demonstrated that hydrogen sulfide (H2S) is
+physiologically generated by CTH.
+
+MOLECULAR GENETICS
+
+Wang and Hegele (2003) sequenced the CTH gene in 4 unrelated patients
+with cystathioninuria (219500) and identified 2 nonsense and 2 missense
+mutations (607657.0001-607657.0004). All affected subjects were either
+simple homozygotes or compound heterozygotes. The authors also
+identified a common nonsynonymous SNP in exon 12, a 1364G-T transition
+in the cDNA sequence, resulting in a ser403-to-ile (S403I) mutation, in
+4 ethnic groups.
+
+In 496 Caucasian subjects, Wang et al. (2004) studied the association of
+genotypes of the S403I SNP in the CTH gene with plasma total
+homocysteine concentrations. T/T homozygotes had significantly higher
+mean plasma total homocysteine concentrations than subjects with other
+genotypes, and this association had approximately the same effect size
+as the association between plasma total homocysteine concentration and
+MTHFR (607093) genotype.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CTH
+gene to chromosome 1 (TMAP stSG39248). The CTH gene had earlier been
+assigned to chromosome 16 by study of somatic cell hybrids (Donald et
+al., 1982).
+
+ANIMAL MODEL
+
+Yang et al. (2008) demonstrated that hydrogen sulfide (H2S) is
+physiologically generated by CTH and that genetic deletion of this
+enzyme in mice markedly reduced H2S levels in the serum, heart, aorta,
+and other tissues. Mutant mice lacking CTH displayed pronounced
+hypertension and diminished endothelium-dependent vasorelaxation.
+Cystathionine was physiologically activated by calcium and calmodulin
+(see 114180), which is a mechanism for H2S formation in response to
+vascular activation. Yang et al. (2008) concluded that their findings
+provided direct evidence that H2S is a physiologic vasodilator and
+regulator of blood pressure.
+
+In contrast to the findings of Yang et al. (2008), Ishii et al. (2010)
+found that Cth-null mice mice developed normally and did not show
+hypertension. Both male and female mutant mice showed
+hypercystathioninemia and hyperhomocysteinemia, but not
+hypermethioninemia. Ishii et al. (2010) also found that Cth-null mice
+developed acute skeletal muscle atrophy and myopathy resulting in severe
+paralysis and death when fed a low cysteine diet. Both Cth-null mice and
+hepatocytes derived from these mice showed increased vulnerability to
+oxidative injury. Glutathione levels were reduced in liver and skeletal
+muscle. The findings indicated that cysteine is an essential amino acid
+in Cth-null mice. The phenotype of Cth-null mice differed from that of
+Cbs-null mice (613381; Namekata et al., 2004), who showed abnormal lipid
+metabolism. Ishii et al. (2010) postulated that the severe myopathic
+reaction in Cth-null mice may be present in unknown cases of human CTH
+deficiency, and noted that these patients may have hyperhomocysteinemia,
+which may be an independent risk factor for disease.
+
+ALLELIC VARIANT .0001
+CYSTATHIONINURIA
+CTH, 2-BP DEL, 940CT
+
+In an Oriental patient with cystathioninuria (219500), Wang and Hegele
+(2003) identified a 2-bp deletion in exon 8 of the CTH cDNA sequence,
+940-941delCT, in homozygous state.
+
+.0002
+CYSTATHIONINURIA
+CTH, 1-BP DEL, 1220C
+
+In a proband of European descent with cystathioninuria (219500), Wang
+and Hegele (2003) identified a 1-bp deletion in exon 11 of the CTH cDNA
+sequence, 1220delC, which the patient carried in compound heterozygous
+state with a thr67-to-ile mutation (T67I; 607657.0003). Each parent was
+heterozygous for one or the other of the mutations.
+
+.0003
+CYSTATHIONINURIA
+CTH, THR67ILE (dbSNP rs28941785)
+
+In a patient of European descent with cystathioninuria (219500), Wang
+and Hegele (2003) found homozygosity for a 356C-T transition in exon 2
+of the CTH cDNA sequence, resulting in a thr67-to-ile (T67I) mutation.
+The same mutation was found in compound heterozygosity with a
+gln240-to-glu mutation (Q240E; 607657.0004) in another patient of
+European descent.
+
+Espinos et al. (2010) identified a homozygous T67I mutation in 3
+unrelated Spanish girls with cystathioninuria. Haplotype analysis of
+these 3 patients and of 2 Czech patients with the mutation suggested a
+founder effect, and the age of the mutation was estimated at 7,336 years
+(262 generations old). The event may have occurred during the spread of
+the European population in the Neolithic era. Espinos et al. (2010)
+noted that the 200C-T transition, which is the most common change in the
+CTH gene and has been observed in the heterozygous state in 1.5% of
+controls in the Czech population, has been considered a polymorphism
+(dbSNP rs28941785).
+
+.0004
+CYSTATHIONINURIA
+CTH, GLN240GLU
+
+In a patient of European descent with cystathioninuria (219500), Wang
+and Hegele (2003) identified compound heterozygosity for an 874C-G
+transversion in exon 7 of the CTH cDNA sequence, resulting in a
+gln240-to-glu (Q240E) mutation, and a T67I mutation (607657.0003).
+
+.0005
+HOMOCYSTEINE, TOTAL PLASMA, ELEVATED
+CTH, 1364G-T, SER403ILE
+
+Wang et al. (2004) found a relationship between the common SNP
+polymorphism in exon 12 of CTH and plasma total homocysteine
+concentration in a study of 496 Caucasian subjects. CTH 1364T/T
+homozygotes had significantly higher concentrations than did subjects
+with other genotypes.
+
+REFERENCE 1. Donald, L. J.; Wang, H. S.; Hamerton, J. L.: Assignment of the
+gene for cystathionase (CYS) to human chromosome 16. (Abstract) Cytogenet.
+Cell Genet. 32: 268 only, 1982.
+
+2. Espinos, C.; Garcia-Cazorla, A.; Martinez-Rubio, D.; Martinez-Martinez,
+E.; Vilaseca, M. A.; Perez-Duenas, B.; Kozich, V.; Palau, F.; Artuch,
+R.: Ancient origin of the CTH alelle (sic) carrying the c.200C-T
+(p.T67I) variant in patients with cystathioninuria. Clin. Genet. 78:
+554-559, 2010.
+
+3. Ishii, I.; Akahoshi, N.; Yamada, H.; Nakano, S.; Izumi, T.; Suematsu,
+M.: Cystathionine gamma-Lyase-deficient mice require dietary cysteine
+to protect against acute lethal myopathy and oxidative injury. J.
+Biol. Chem. 285: 26358-26368, 2010.
+
+4. Lu, Y.; O'Dowd, B. F.; Orrego, H.; Israel, Y.: Cloning and nucleotide
+sequence of human liver cDNA encoding for cystathionine gamma-lyase. Biochem.
+Biophys. Res. Commun. 189: 749-758, 1992.
+
+5. Namekata, K.; Enokido, Y.; Ishii, I.; Nagai, Y.; Harada, T.; Kimura,
+H.: Abnormal lipid metabolism in cystathionine beta-synthase-deficient
+mice, an animal model for hyperhomocysteinemia. J. Biol. Chem. 279:
+52961-52969, 2004.
+
+6. Wang, J.; Hegele, R. A.: Genomic basis of cystathioninuria (MIM
+219500) revealed by multiple mutations in cystathionine gamma-lyase
+(CTH). Hum. Genet. 112: 404-408, 2003.
+
+7. Wang, J.; Huff, A. M.; Spence, J. D.; Hegele, R. A.: Single nucleotide
+polymorphism in CTH associated with variation in plasma homocysteine
+concentration. Clin. Genet. 65: 483-486, 2004.
+
+8. Yang, G.; Wu, L.; Jiang, B.; Yang, W.; Qi, J.; Cao, K.; Meng, Q.;
+Mustafa, A. K.; Mu, W.; Zhang, S.; Snyder, S. H.; Wang, R.: H2S as
+a physiologic vasorelaxant: hypertension in mice with deletion of
+cystathionine gamma-lyase. Science 322: 587-590, 2008.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/17/2012
+Cassandra L. Kniffin - updated: 10/22/2010
+Ada Hamosh - updated: 11/12/2008
+Victor A. McKusick - updated: 6/23/2004
+
+CREATED Victor A. McKusick: 3/26/2003
+
+EDITED carol: 09/26/2012
+ckniffin: 5/17/2012
+wwang: 11/1/2010
+ckniffin: 10/22/2010
+alopez: 11/19/2008
+terry: 11/12/2008
+tkritzer: 6/28/2004
+terry: 6/23/2004
+carol: 3/27/2003
+tkritzer: 3/26/2003
+
+176992	TITLE *176992 S100 CALCIUM-BINDING PROTEIN A3; S100A3
+;;S100E
+DESCRIPTION Engelkamp et al. (1993) demonstrated that the S100E protein is encoded
+by a gene located in a tight cluster of genes of similar structure in a
+15-kb region of 1q21. The order of the genes from 5-prime to 3-prime was
+found to be S100E, CAPL (S100A4; 114210), S100D (S100A5; 176991), CACY
+(S100A6; 114110). The product of the S100E gene is cysteine-rich. The 4
+genes were arranged in head-to-tail order. Despite the tight clustering,
+each of the genes was expressed in different human tissues and probably
+even at different times. Disruption of the cluster may occur in
+neoplasia since the region 1q21 often shows structural alterations.
+
+Schafer et al. (1995) isolated a YAC clone from 1q21 on which 9
+different genes coding for S100 calcium-binding proteins could be
+localized. Clustered organization allowed introduction of a new logical
+nomenclature for these genes, based on their physical arrangement on the
+chromosome. S100E became S100A3 in the new nomenclature. The 9 genes are
+in sequence with S100A1 (176940) being closest to the telomere and
+S100A9 (123886) being closest to the centromere.
+
+REFERENCE 1. Engelkamp, D.; Schafer, B. W.; Mattei, M. G.; Erne, P.; Heizmann,
+C. W.: Six S100 genes are clustered on human chromosome 1q21: identification
+of two genes coding for the two previously unreported calcium-binding
+proteins S100D and S100E. Proc. Nat. Acad. Sci. 90: 6547-6551, 1993.
+
+2. Schafer, B. W.; Wicki, R.; Engelkamp, D.; Mattei, M.-G.; Heizmann,
+C. W.: Isolation of a YAC clone covering a cluster of nine S100 genes
+on human chromosome 1q21: rationale for a new nomenclature of the
+S100 calcium-binding protein family. Genomics 25: 638-643, 1995.
+
+CREATED Victor A. McKusick: 8/25/1993
+
+EDITED alopez: 10/12/1998
+mark: 12/21/1996
+mark: 6/15/1995
+carol: 1/23/1995
+carol: 8/25/1993
+
+605936	TITLE *605936 BRIDGING INTEGRATOR 2; BIN2
+DESCRIPTION 
+DESCRIPTION
+
+BAR proteins, such as BIN2, which are characterized by a common
+N-terminal BAR domain, are adaptor proteins involved in diverse cellular
+processes. BIN1 (601248), a member of the BAR family, interacts with and
+inhibits the oncogenic properties of MYC (190080) (summary by Ge and
+Prendergast, 2000).
+
+CLONING
+
+By searching an EST database for sequences similar to BIN1, followed by
+screening a leukocyte phage cDNA library, Ge and Prendergast (2000)
+identified a cDNA encoding BIN2. Sequence analysis predicted that the
+564-amino acid protein has a BAR motif that is 61% identical to that of
+BIN1 and slightly less similar to that of AMPH (600418). BIN2 has acidic
+and serine/proline-rich stretches but lacks a C-terminal SH3 domain or a
+MYC-interacting region. Northern blot analysis revealed expression of a
+major 2.6-kb transcript that was highest in spleen and peripheral blood
+leukocytes and also high in thymus, colon, and placenta, suggesting
+preferential expression in hematopoietic tissues. Strong expression was
+detected in lymphoid and granulocytic cell lines but not other cell
+lines. Coimmunoprecipitation and Western blot analyses showed expression
+of an 80-kD protein that interacts with the N-terminal portion of the
+BAR domain of BIN1 isoforms but not with AMPH. Immunofluorescence
+microscopy demonstrated cytosolic expression and lack of
+receptor-mediated endocytic function for BIN2. Functional analysis
+showed that BIN2 lacks tumor suppressor features.
+
+MAPPING
+
+Using FISH, Ge and Prendergast (2000) mapped the BIN2 gene to 4q22.1.
+
+REFERENCE 1. Ge, K.; Prendergast, G. C.: Bin2, a functionally nonredundant
+member of the BAR adaptor gene family. Genomics 67: 210-220, 2000.
+
+CREATED Paul J. Converse: 5/15/2001
+
+EDITED alopez: 03/22/2012
+mgross: 5/15/2001
+
+602026	TITLE *602026 PHYTANOYL-CoA HYDROXYLASE; PHYH
+;;PAHX;;
+LNAP1, MOUSE, HOMOLOG OF
+DESCRIPTION 
+DESCRIPTION
+
+The PHYH gene encodes phytanoyl-CoA hydroxylase, a peroxisomal protein
+that catalyzes the first step in the alpha-oxidation of phytanic acid, a
+branched-chain fatty acid. Because beta-oxidation is blocked by the
+methyl group at C-3, phytanic acid must first undergo decarboxylation
+via an alpha-oxidation mechanism catalyzed by PHYH (Jansen et al.,
+1997).
+
+CLONING
+
+The gene encoding the PHYH enzyme was identified by Mihalik et al.
+(1997) starting from studies of peroxisomal genes and gene defects in
+yeast and independently by Jansen et al. (1997) working back from the
+partial amino acid sequence of the purified rat protein. Both groups
+made use of expressed sequence tag (EST) database searching for
+identification of the full-length human cDNA sequence. The open reading
+frame encodes a 41.2-kD protein of 338 amino acids, which contains a
+cleavable peroxisomal targeting signal type 2 (PTS2).
+
+GENE STRUCTURE
+
+Jansen et al. (2000) determined that the PHYH gene spans approximately
+21 kb and contains 9 exons.
+
+MAPPING
+
+Radiation hybrid data studies by Mihalik et al. (1997) placed the PAHX
+gene on chromosome 10 between markers D10S249 and D10S466.
+
+GENE FUNCTION
+
+The structure and subcellular localization of the phytanic acid
+alpha-oxidation pathway long remained enigmatic, although it was
+generally assumed to involve phytanic acid and not its CoA-ester.
+However, this view was challenged by the finding in rat liver that
+phytanic acid must first be activated to its CoA ester, phytanoyl-CoA,
+before it can be oxidized (Watkins et al., 1994).
+
+Mihalik et al. (1995) identified an enzyme activity (phytanoyl-CoA
+hydroxylase) in rat-liver peroxisomes by which phytanoyl-CoA is
+converted to 2-hydroxyphytanoyl-CoA. Jansen et al. (1996) showed that
+phytanoyl-CoA hydroxylase is present in human liver. Furthermore, they
+showed that it is located in peroxisomes and is deficient in liver from
+Zellweger syndrome (see 214100) patients, who lack morphologically
+distinguishable peroxisomes, providing an explanation for the long-known
+deficient oxidation of phytanic acid in these patients. They also showed
+that phytanic acid alpha-oxidation is peroxisomal and that it utilizes
+the CoA derivative as substrate, thus giving support in favor of the
+revised pathway of phytanic acid alpha-oxidation.
+
+Mihalik et al. (1997) found that human PAHX is targeted to peroxisomes,
+requires the PTS2 receptor PEX7 (601757) for peroxisomal localization,
+interacts with the PTS2 receptor in the yeast 2-hybrid assay, and has
+intrinsic phytanoyl-CoA alpha-hydroxylase activity that requires the
+dioxygenase cofactor iron and cosubstrate 2-oxoglutarate.
+
+Using the yeast 2-hybrid system to investigate the physiologic function
+of FKBP52 (600611), Chambraud et al. (1999) found that PAHX is an
+FKBP-associated protein. They found, furthermore, that the protein
+corresponds to the mouse protein Lnap1, which, based on studies of the
+MRL/lpr mouse, may be involved in the progression of lupus nephritis
+(Iwano et al., 1996). Chambraud et al. (1999) suggested that PAHX is a
+serious candidate for studying the cellular signaling pathway(s)
+involving FKBP52 in the presence of immunosuppressant drugs.
+
+McDonough et al. (2005) stated that both the pro and mature forms of
+human PAHX are enzymatically active and show similar substrate
+specificity.
+
+BIOCHEMICAL FEATURES
+
+McDonough et al. (2005) solved the x-ray crystallographic structure of
+human PAHX complexed with Fe(2+) and 2-oxoglutarate to 2.5-angstrom
+resolution. PAHX has a double-stranded beta-helix core with 3
+iron-binding residues, his175, asp177, and his264. The 2-oxoacid group
+of 2-oxoglutarate binds to Fe(2+) in a bidentate manner. Cys191 is
+positioned 6.7-angstrom from Fe(2+), and his155 and his281 form part of
+the active site. Of the 15 PAHX residues mutated in Refsum disease
+(266500) patients, 11 cluster in 2 distinct groups around the binding
+sites for Fe(2+) (e.g., gln176; see 602026.0007) and 2-oxoglutarate
+(e.g., gly204; see 602026.0008).
+
+MOLECULAR GENETICS
+
+Mihalik et al. (1997) and Jansen et al. (1997) identified homozygous or
+compound heterozygous mutations in the PHYH gene
+(602026.0001-602026.0004) in a total of 7 patients with Refsum disease
+(266500).
+
+In 22 patients with Refsum disease, Jansen et al. (2000) identified
+mutations in the PHYH gene, including 14 different missense mutations, a
+3-bp insertion, and a 1-bp deletion, which were all confirmed at the
+genome level. A 111-bp deletion identified in the PHYH cDNA of several
+patients with Refsum disease was due to either 1 of 2 different
+mutations in the same splice acceptor site, which result in skipping of
+exon 3. Six mutations were expressed in S. cerevisiae, and all led to an
+enzymatically inactive PhyH protein.
+
+Mukherji et al. (2001) relied on crystallographic data for other members
+of the 2-oxoglutarate-dependent oxygenase superfamily to generate
+secondary structural predictions for the PHYH gene, which were tested by
+site-directed mutagenesis. Constructed H175A and D177A mutants did not
+catalyze hydroxylation of phytanoyl-CoA, consistent with the assigned
+role of these residues as iron(II) binding ligands. The clinically
+observed mutations pro29 to ser (P29S; 602026.0006), gln176 to lys
+(Q176K; 602026.0007), gly204 to ser (G204S; 602026.0008), asn269 to his
+(N269H; 602026.0004), arg275 to gln (R275Q; 602026.0009), and arg275 to
+trp (R275W; 602026.0001) were assayed for both 2-oxoglutarate and
+phytanoyl-CoA oxidation. The P29S mutant was fully active, implying that
+the mutation may result in defective targeting of the protein to
+peroxisomes. Mutation of arg275 resulted in impaired 2-oxoglutarate
+binding. The Q176K, G204S, and N269H mutations caused partial uncoupling
+of 2-oxoglutarate conversion from phytanoyl-CoA oxidation. The authors
+cautioned that the diagnosis of Refsum disease should not solely rely
+upon PHYH assays for 2-oxoglutarate or phytanoyl-CoA oxidation.
+
+Jansen et al. (2004) reviewed mutations in the PHYH gene causing Refsum
+disease.
+
+ALLELIC VARIANT .0001
+REFSUM DISEASE, ADULT, 1
+PHYH, ARG275TRP
+
+In a Ukrainian patient with Refsum disease (266500), whose parents
+originated from the same region, Mihalik et al. (1997) identified a
+homozygous 823C-T transition in the PHYH gene, predicted to result in an
+arg275-to-trp (R275W) amino acid substitution. The mutation also
+eliminated a unique BspEI restriction site. The arginine-275 residue is
+conserved in both the mouse and the C. elegans forms of the protein. In
+vitro functional expression studies showed that the mutant enzyme was
+inactive.
+
+Jansen et al. (2000) expressed the mutant R275W allele in S. cerevisiae
+and determined that no enzymatic activity was present.
+
+.0002
+REFSUM DISEASE, ADULT, 1
+PHYH, IVS2AS, A-G, -2
+
+In a patient with Refsum disease (266500), Mihalik et al. (1997)
+discovered a truncated form of PHYH mRNA lacking 111 nucleotides of the
+open reading frame (residues 158-269 of the cDNA sequence), deleting
+codons 46-82. (Jansen et al. (1997) stated that this nucleotide
+numbering was incorrect; see below.) Sequence analysis of genomic DNA
+spanning this region of the gene revealed the absence of a single exon
+in the cDNA. An A-to-G transition was found at the penultimate residue
+of the upstream intron, altering the consensus splice acceptor sequence
+of AG to GG. The patient was homozygous for the mutation.
+
+In 3 unrelated patients with Refsum disease, Jansen et al. (1997)
+observed a 111-bp deletion covering residues 135 to 246 of their PHYH
+cDNA. The deletion did not cause a frameshift, but resulted in a protein
+lacking 37 internal amino acids (Y46-R82del) that was presumed to be
+enzymatically inactive. The deletion was thought to be the result of the
+missplicing and skipping of 1 or more exons, as analysis of the putative
+exon boundaries showed a perfect match with the 5-prime exon boundary
+consensus. The deletion was homozygous in 2 patients and present in
+compound heterozygous state in the third.
+
+.0003
+REFSUM DISEASE, ADULT, 1
+PHYH, 1-BP DEL, 164T
+
+In a brother and sister with Refsum disease (266500) born to healthy
+first-cousin Pakistani parents, Jansen et al. (1997) identified a
+homozygous deletion of nucleotide 164T in the PHYH gene, leading to a
+frameshift and a premature stop codon after amino acid 66. The first
+manifestation in the sister was nystagmus at the age of 6 months. Night
+blindness and retinitis pigmentosa were found at the age of 8 years. At
+the age of 10 years, she had ataxia, deafness, ichthyosis, and short
+metacarpal bones, as well as peripheral neuropathy but normal
+intellectual performance. Plasma phytanic acid level was elevated. The
+brother showed elevated plasma phytanic acid when first measured at 7
+weeks. He was placed on a low phytanic acid diet with vitamin C
+supplement. His development was good and he appeared to see well.
+Although the appearance of his retina was normal, visual evoked
+responses were delayed and ERG response was poor.
+
+.0004
+REFSUM DISEASE, ADULT, 1
+PHYH, ASN269HIS
+
+In a Caucasian male with Refsum disease (266500) reported by Skjeldal et
+al. (1987), Jansen et al. (1997) identified a heterozygous 805A-C
+transition in the PHYH gene, resulting in an asn269-to-his (N269H)
+substitution. The patient was a compound heterozygote for this missense
+mutation and for a 111-bp deletion (602026.0002), which was observed in
+2 other unrelated patients.
+
+.0005
+REFSUM DISEASE, ADULT, 1
+PHYH, 3-BP INS, 576GCC
+
+In 2 sibs with Refsum disease (266500), Jansen et al. (2000)
+demonstrated homozygosity for a 3-bp insertion (576insGCC) in exon 6 of
+the PHYH gene, resulting in addition of an alanine residue after amino
+acid 192.
+
+.0006
+RECLASSIFIED - PHYTANOYL-CoA HYDROXYLASE POLYMORPHISM (dbSNP rs28938169)
+PHYH, PRO29SER
+
+This variant, formerly titled REFSUM DISEASE, ADULT, 1, has been
+reclassified as a polymorphism. As of December 2012, the pro29-to-ser
+(P29S) variant had an overall population frequency of 20% (Exome Variant
+Server, 2012). In addition, the patients reported by Jansen et al.
+(2000) with this mutation had additional mutations in the PHYH gene that
+may have been causative and the P29S mutant was found to be fully
+active.
+
+In 2 patients with Refsum disease (266500), Jansen et al. (2000) found
+an 85C-T transition in the PHYH gene, leading to a P29S substitution.
+The patients also had a truncating mutation (602026.0002) and either
+589G-C or 648C-T leading to missense mutations E197Q or H220Y,
+respectively.
+
+.0007
+REFSUM DISEASE, ADULT, 1
+PHYH, GLN176LYS
+
+In the cDNA of a patient with Refsum disease (266500), Jansen et al.
+(2000) described a 526C-A transversion in the PHYH gene, leading to a
+gln176-to-lys (Q176K) substitution.
+
+.0008
+REFSUM DISEASE, ADULT, 1
+PHYH, GLY204SER
+
+In the cDNA of a patient with Refsum disease (266500), Jansen et al.
+(2000) described a 610G-A transition in the PHYH gene, leading to a
+gly204-to-ser (G204S) substitution.
+
+.0009
+REFSUM DISEASE, ADULT, 1
+PHYH, ARG275GLN
+
+In the cDNA of patients with Refsum disease (266500), Jansen et al.
+(2000) described an 824G-A transition in the PHYH gene, leading to an
+arg275-to-gln (R275Q) mutation.
+
+REFERENCE 1. Chambraud, B.; Radanyi, C.; Camonis, J. H.; Rajkowski, K.; Schumacher,
+M.; Baulieu, E.-E.: Immunophilins, Refsum disease, and lupus nephritis:
+the peroxisomal enzyme phytanoyl-COA alpha-hydroxylase is a new FKBP-associated
+protein. Proc. Nat. Acad. Sci. 96: 2104-2109, 1999.
+
+2. Exome Variant Server: NHLBI GO Exome Sequencing Project (ESP),
+Seattle, WA. http://evs.gs.washington.edu/EVS/ , 12/2012.
+
+3. Iwano, M.; Ueno, S.; Miyazaki, M.; Harada, T.; Nagai, Y.; Hirano,
+M.; Dohi, Y.; Akai, Y.; Kurioka, H.; Dohi, K.: Molecular cloning
+and expression of a novel peptide (LN1) gene: reduced expression in
+the renal cortex of lupus nephritis in MRL/lpr mouse. Biochem. Biophys.
+Res. Commun. 229: 355-360, 1996.
+
+4. Jansen, G. A.; Hogenhout, E. M.; Ferdinandusse, S.; Waterham, H.
+R.; Ofman, R.; Jakobs, C.; Skjeldal, O. H.; Wanders, R. J. A.: Human
+phytanoyl-CoA hydroxylase: resolution of the gene structure and the
+molecular basis of Refsum's disease. Hum. Molec. Genet. 9: 1195-1200,
+2000.
+
+5. Jansen, G. A.; Mihalik, S. J.; Watkins, P. A.; Moser, H. W.; Jakobs,
+C.; Denis, S.; Wanders, R. J. A.: Phytanoyl-CoA hydroxylase is present
+in human liver, located in peroxisomes, and deficient in Zellweger
+syndrome: direct, unequivocal evidence for the new, revised pathway
+of phytanic acid alpha-oxidation in humans. Biochem. Biophys. Res.
+Commun. 229: 205-210, 1996.
+
+6. Jansen, G. A.; Ofman, R.; Ferdinandusse, S.; Ijlst, L.; Muijsers,
+A. O.; Skjeldal, O. H.; Stokke, O.; Jakobs, C.; Besley, G. T. N.;
+Wraith, J. E.; Wanders, R. J. A.: Refsum disease is caused by mutations
+in the phytanoyl-CoA hydroxylase gene. Nature Genet. 17: 190-193,
+1997.
+
+7. Jansen, G. A.; Waterham, H. R.; Wanders, R. J. A.: Molecular basis
+of Refsum disease: sequence variations in phytanoyl-CoA hydroxylase
+(PHYH) and the PTS2 receptor (PEX7). Hum. Mutat. 23: 209-218, 2004.
+
+8. McDonough, M. A.; Kavanagh, K. L.; Butler, D.; Searls, T.; Oppermann,
+U.; Schofield, C. J.: Structure of human phytanoyl-CoA 2-hydroxylase
+identifies molecular mechanisms of Refsum disease. J. Biol. Chem. 280:
+41101-41110, 2005.
+
+9. Mihalik, S. J.; Morrell, J. C.; Kim. D.; Sacksteder, K. A.; Watkins,
+P. A.; Gould, S. J.: Identification of PAHX, a Refsum disease gene. Nature
+Genet. 17: 185-189, 1997.
+
+10. Mihalik, S. J.; Rainville, A. M.; Watkins, P. A.: Phytanic acid
+alpha-oxidation in rat liver peroxisomes: production of alpha-hydroxyphytanoyl-CoA
+and formate is enhanced by dioxygenase cofactors. Europ. J. Biochem. 232:
+545-551, 1995.
+
+11. Mukherji, M.; Chien, W.; Kershaw, N. J.; Clifton, I. J.; Schofield,
+C. J.; Wierzbicki, A. S.; Lloyd, M. D.: Structure-function analysis
+of phytanoyl-CoA 2-hydroxylase mutations causing Refsum's disease. Hum.
+Molec. Genet. 10: 1971-1982, 2001.
+
+12. Skjeldal, O. H.; Stokke, O.; Refsum, S.; Norseth, J.; Petit, H.
+: Clinical and biochemical heterogeneity in conditions with phytanic
+acid accumulation. J. Neurol. Sci. 77: 87-96, 1987.
+
+13. Watkins, P. A.; Howard, A. E.; Mihalik, S. J.: Phytanic acid
+must be activated to phytanoyl-CoA prior to its alpha-oxidation in
+rat liver peroxisomes. Biochim. Biophys. Acta 1214: 288-294, 1994.
+
+CONTRIBUTORS Joanna S. Amberger - updated: 12/4/2012
+Patricia A. Hartz - updated: 3/11/2010
+Cassandra L. Kniffin - reorganized: 11/25/2009
+Cassandra L. Kniffin - updated: 11/19/2009
+Victor A. McKusick - updated: 4/7/2004
+George E. Tiller - updated: 2/4/2002
+George E. Tiller - updated: 6/7/2000
+Victor A. McKusick - updated: 7/13/1999
+Victor A. McKusick - updated: 2/27/1998
+Victor A. McKusick - updated: 10/7/1997
+
+CREATED Victor A. McKusick: 9/30/1997
+
+EDITED carol: 12/10/2012
+alopez: 12/5/2012
+carol: 12/5/2012
+carol: 12/4/2012
+joanna: 12/4/2012
+alopez: 10/25/2012
+carol: 1/12/2012
+mgross: 3/15/2010
+terry: 3/11/2010
+carol: 11/25/2009
+ckniffin: 11/19/2009
+wwang: 10/4/2007
+carol: 5/6/2004
+terry: 4/7/2004
+cwells: 2/6/2002
+cwells: 2/4/2002
+alopez: 6/7/2000
+jlewis: 7/28/1999
+terry: 7/13/1999
+alopez: 3/23/1998
+terry: 2/27/1998
+mark: 10/23/1997
+terry: 10/7/1997
+mark: 10/1/1997
+jenny: 9/30/1997
+
+614259	TITLE *614259 WD REPEAT-CONTAINING PROTEIN 65; WDR65
+DESCRIPTION 
+CLONING
+
+By database analysis and PCR of human and mouse testis cDNA libraries,
+Rorick et al. (2011) cloned 2 splice variants of human and mouse WDR65.
+The deduced full-length human protein contains 1,283 amino acids and has
+2 WD repeat domains. The shorter human variant encodes a deduced
+698-amino acid protein that is truncated after the 2 WD repeat domains.
+PCR analysis of mouse tissues revealed highest Wdr65 expression in lung,
+testis, and skin. Weaker expression was detected in brain and kidney,
+and no expression was detected in heart, liver, skeletal muscle, and
+spleen. Wdr65 was expressed in mouse embryonic stem cells and in whole
+mouse embryos beginning at about 15 days postcoitum. In situ
+hybridization revealed Wdr65 expression in mouse nasal epithelium and
+medial edge epithelium at 14.5 days postcoitum, and in nasal respiratory
+epithelium and epidermis, but not oral epithelium, at 15.5 days
+postcoitum. The increase in Wdr65 expression in these embryonic mouse
+craniofacial tissues correlated with development and dissolution of the
+epithelial seam.
+
+GENE STRUCTURE
+
+Rorick et al. (2011) determined that the WDR65 gene contains 24 exons.
+
+MAPPING
+
+Rorick et al. (2011) reported that the WDR65 gene maps to chromosome
+1p34.2. The mouse Wdr65 gene maps to a region of chromosome 4 that
+shares homology of synteny with human chromosome 1p36-p32.
+
+GENE FUNCTION
+
+Using microarray analysis, Rorick et al. (2011) showed that expression
+of Wdr65 was significantly downregulated in Irf6 (607199)-deficient
+mouse embryos compared with wildtype embryos. Database analysis revealed
+an IRF6-binding site for WDR65 in an exon of the EBNA1BP2 gene (614443),
+which is located 63 bp upstream of WDR65 on the opposite strand.
+
+MOLECULAR GENETICS
+
+In a Brazilian patient with van der Woude syndrome (606713), Rorick et
+al. (2011) identified heterozygosity for a possibly causative missense
+mutation at a conserved residue in the WDR65 gene (614259.0001).
+
+ALLELIC VARIANT .0001
+RECLASSIFIED - VARIANT OF UNKNOWN SIGNIFICANCE
+WDR65, ASP523TYR
+
+This variant, formerly titled VAN DER WOUDE SYNDROME 2 (606713), has
+been reclassified because its contribution to the phenotype has not been
+confirmed.
+
+In a Brazilian patient with van der Woude syndrome-2, Rorick et al.
+(2011) identified a heterozygous 1567G-T transversion in exon 10 of the
+WDR65 gene, resulting in an asp523-to-tyr (D523Y) substitution at a
+conserved residue. Because the mutation was not found in controls and
+significantly changes the biochemical properties of a conserved residue,
+Rorick et al. (2011) concluded that it was potentially etiologic.
+
+REFERENCE 1. Rorick, N. K.; Kinoshita, A.; Weirather, J. L.; Peyrard-Janvid,
+M.; de Lima, R. L. L. F.; Dunnwald, M.; Shanske, A. L.; Moretti-Ferreira,
+D.; Koillinen, H.; Kere, J.; Mansilla, M. A.; Murray, J. C.; Goudy,
+S. L.; Schutte, B. C.: Genomic strategy identifies a missense mutation
+in WD-repeat domain 65 (WDR65) in an individual with van der Woude
+syndrome. Am. J. Med. Genet. 155A: 1314-1321, 2011.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 10/14/2011
+
+CREATED Patricia A. Hartz: 9/30/2011
+
+EDITED carol: 12/11/2012
+mgross: 1/24/2012
+carol: 10/14/2011
+mgross: 9/30/2011
+

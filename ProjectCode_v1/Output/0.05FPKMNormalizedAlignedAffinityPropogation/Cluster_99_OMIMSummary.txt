@@ -1,0 +1,346 @@
+608221	TITLE *608221 MICROTUBULE-ASSOCIATED SERINE/THREONINE KINASE-LIKE; MASTL
+;;FLJ14813;;
+GREATWALL; GWL
+DESCRIPTION 
+CLONING
+
+Gandhi et al. (2003) identified MASTL, which they called FLJ14813,
+within the region of chromosome 10p where Drachman et al. (2000) had
+mapped autosomal dominant thrombocytopenia, also known as
+thrombocytopenia-2 (THC2; 188000), by linkage analysis. The protein
+product of the MASTL gene is a putative kinase that contains 2 highly
+conserved kinase domains. Gandhi et al. (2003) noted that a similar
+gene, 'greatwall,' had been described in Drosophila. EMS-induced
+mutations in the greatwall gene cause a metaphase-arrest phenotype and
+problems in chromosome condensation.
+
+GENE FUNCTION
+
+A particular form of protein phosphatase-2A (PP2A; see 176915)
+containing a B55-delta subunit (PPP2R2D; 613992) is the major protein
+phosphatase that acts on model CDK substrates in Xenopus egg extracts
+and has antimitotic activity. The activity of PP2A-B55-delta is high in
+interphase and low in mitosis, exactly the opposite of CDK1 (116940).
+Mochida et al. (2010) reported that inhibition of PP2A-B55-delta results
+from a small protein known as alpha-endosulfine (ENSA; 603061), that is
+phosphorylated in mitosis by the protein kinase Greatwall (Gwl, also
+known as MASTL). This converts Ensa into a potent and specific inhibitor
+of PP2A-B55-delta. Mochida et al. (2010) concluded that this pathway
+represents a previously unknown element in the control of mitosis.
+Mochida et al. (2010) also showed that Arpp19 (605487) is a substrate of
+Gwl.
+
+Initiation and maintenance of mitosis require the inhibition of PP2A,
+which dephosphorylates mitotic substrates. The protein kinase Greatwall
+is required to maintain mitosis through PP2A inhibition. Gharbi-Ayachi
+et al. (2010) described how Gwl activation results in PP2A inhibition.
+They identified Arpp19 and Ensa as 2 substrates of Gwl that, when
+phosphorylated by this kinase, associate with and inhibit PP2A, thus
+promoting mitotic entry. Conversely, in the absence of Gwl activity,
+Arpp19 and Ensa are dephosphorylated and lose their capacity to bind and
+inhibit PP2A. Gharbi-Ayachi et al. (2010) stated that although both
+proteins can inhibit PP2A, endogenous Arpp19, but not Ensa, is
+responsible for PP2A inhibition and mitotic entry in Xenopus egg
+extracts.
+
+MOLECULAR GENETICS
+
+By extensive sequencing of multiple genes located in the critical
+segment on 10p, Gandhi et al. (2003) demonstrated a missense mutation in
+the MASTL gene (608221.0001) in a family with thrombocytopenia-2 (THC2;
+188000) mapping to this region.
+
+However, Pippucci et al. (2011) found no mutations in the MASTL gene in
+4 families with autosomal dominant thrombocytopenia mapping to
+chromosome 10p. Instead, Pippucci et al. (2011) identified 6 different
+heterozygous mutations in the 5-prime promoter region of the ANKRD26
+gene (see, e.g., 610855.0001-610855.0003), which maps to the THC2 locus
+on chromosome 10p12-p11.2, in 9 of 20 unrelated families with autosomal
+dominant nonsyndromic thrombocytopenia-2.
+
+ALLELIC VARIANT .0001
+THROMBOCYTOPENIA 2
+MASTL, GLU167ASP
+
+By sequencing multiple genes in the critical region of autosomal
+dominant thrombocytopenia (188000), also known as thrombocytopenia-2
+(Drachman et al., 2000), Gandhi et al. (2003) found a missense mutation
+in the MASTL gene: a 565G-C transversion predicted to result in a
+glu167-to-asp (E167D) amino acid substitution.
+
+REFERENCE 1. Drachman, J. G.; Jarvik, G. P.; Mehaffey, M. G.: Autosomal dominant
+thrombocytopenia: incomplete megakaryocyte differentiation and linkage
+to human chromosome 10. Blood 96: 118-125, 2000.
+
+2. Gandhi, M. J.; Cummings, C. L.; Drachman, J. G.: FLJ14813 missense
+mutation: a candidate for autosomal dominant thrombocytopenia on human
+chromosome 10. Hum. Hered. 55: 66-70, 2003.
+
+3. Gharbi-Ayachi, A.; Labbe, J.-C.; Burgess, A.; Vigneron, S.; Strub,
+J.-M.; Brioudes, E.; Van-Dorsselaer, A.; Castro, A.; Lorca, T.: The
+substrate of Greatwall kinase, Arpp19, controls mitosis by inhibiting
+protein phosphatase 2A. Science 330: 1673-1677, 2010.
+
+4. Mochida, S.; Maslen, S. L.; Skehel, M.; Hunt, T.: Greatwall phosphorylates
+an inhibitor of protein phosphatase 2A that is essential for mitosis. Science 330:
+1670-1673, 2010.
+
+5. Pippucci, T.; Savoia, A.; Perrotta, S.; Pujol-Moix, N.; Noris,
+P.; Castegnaro, G.; Pecci, A.; Gnan, C.; Punzo, F.; Marconi, C.; Gherardi,
+S.; Loffredo, G.; and 11 others: Mutations in the 5-prime UTR of
+ANKRD26, the ankirin repeat domain 26 gene, cause an autosomal-dominant
+form of inherited thrombocytopenia, THC2. Am. J. Hum.  Genet. 88:
+115-120, 2011.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/2/2011
+Ada Hamosh - updated: 1/28/2011
+
+CREATED Victor A. McKusick: 10/31/2003
+
+EDITED mgross: 05/23/2011
+wwang: 2/24/2011
+ckniffin: 2/2/2011
+alopez: 2/1/2011
+terry: 1/28/2011
+alopez: 4/23/2008
+wwang: 10/6/2006
+alopez: 10/31/2003
+
+610754	TITLE *610754 WINGS APART-LIKE PROTEIN, DROSOPHILA, HOMOLOG OF; WAPAL
+;;KIAA0261;;
+WAPL;;
+FRIEND OF EBNA2; FOE
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from an immature myeloid leukemia cell
+line cDNA library, Nagase et al. (1996) cloned WAPAL, which they
+designated KIAA0261. The WAPAL protein contains 1,287 amino acids. By
+Northern blot analysis, moderate expression was detected in placenta,
+lung, liver, thymus, prostate, skeletal muscle, kidney, pancreas,
+spleen, testis, ovary, small intestine, and peripheral blood leukocytes
+with weak expression in heart, brain, and colon.
+
+Using yeast 2-hybrid analysis with Epstein-Barr virus (EBV) nuclear
+antigen-2 (EBNA2) sequence as bait to screen an EBV-immortalized B cell
+cDNA library, followed by PCR, Kwiatkowski et al. (2004) cloned WAPAL,
+which they called FOE. The deduced 1227-amino acid protein has a
+predicted molecular mass of 137 kD. WAPAL contains an N-terminal
+arginine-rich motif (ARM), a bipartite nuclear localization sequence, 3
+highly acidic domains, 4 predicted coiled-coil domains, and a C-terminal
+nuclear export signal. WAPAL shares shares 38% amino acid identity over
+the C-terminal region with the parallel sister chromatid product (PASC)
+of the Drosophila wapl gene. Northern blot analysis detected 6.5- and
+4.4-kb transcripts in all human tissues examined. Multiple tissue
+expression array confirmed ubiquitous expression in 72 human tissues
+with highest expression in testis and lowest in ovary. Western blot
+analysis of hematopoietic and epithelial cell lines detected WAPAL at
+approximately 140 kD. Immunofluorescence studies localized WAPAL
+throughout the nucleus in HeLa cells with exclusion from regions
+adjacent to nucleoli. In mitotic cells, WAPAL was concentrated around
+condensed chromosomes in metaphase and in later stages around separating
+chromosomes in anaphase. Using subcellular fractionation as well as
+immunohistochemical studies, Kwiatkowski et al. (2004) colocalized WAPAL
+and EBNA2 to the nuclear matrix and showed partial colocalization of
+both WAPAL and EBNA2 in a diffuse granular nuclear-staining pattern
+excluded from nucleoli.
+
+Oikawa et al. (2004) independently cloned WAPAL from human testis cDNA
+library by PCR using primers derived from the Drosophila wapl sequence.
+The deduced protein contains 1,190 amino acids. Northern blot analysis
+and quantitative real-time PCR of human cancers and normal tissues
+detected significantly higher expression in cervical tumors compared to
+normal cervix and normal and tumor tissue from uterine body, ovary,
+breast, lung, stomach, kidney, and colon. Immunohistochemistry showed
+nuclear localization of WAPAL in all samples.
+
+GENE FUNCTION
+
+Oikawa et al. (2004) showed that WAPL localized to the basal and
+parabasal cell layers in benign squamous epithelia but displayed
+increased expression and localization extending to more superficial cell
+layers in cervical dysplasia and invasive carcinoma, suggesting a role
+for WAPL in cervical carcinogenesis and tumor progression. Oikawa et al.
+(2004) showed that RNAi of WAPL in cervical carcinoma-derived cell lines
+resulted in repressed cell growth and induced cell death. Flow cytometry
+of siRNA-transfected cells showed an increase in the number of cells
+exhibiting S phase DNA content, which may also be apoptotic cells at
+G2-M phase, and an increase in apoptotic cells displaying sub-G1 DNA
+content. Oikawa et al. (2004) suggested that malfunction of the WAPL
+pathway may activate an S phase checkpoint or other apoptotic pathway
+leading to cell death.
+
+Using immunohistochemical analysis in mouse testis, Kuroda et al. (2005)
+showed that Wapl localized to large pachytene spermatocytes, with no
+staining in condensing forms of sperm. Mouse Wapl localized to the
+synaptonemal complex and partially synapsed X and Y chromosomes in early
+zygotene and pachytene stage spermatocytes. Kuroda et al. (2005)
+suggested that Wapl may play a role in spermatogenesis, possibly in
+homologous recombination and DNA recombination.
+
+Kueng et al. (2006) showed that human WAPL interacted with cohesin
+throughout the cell cycle in HeLa cells via cohesin's SCC1 (RAD21;
+606462) and SA1 (STAG1; 604358)/SA2 (STAG2; 300826) subunits. WAPL also
+formed a subcomplex with PDS5A (613200). Like cohesin, WAPL associated
+with chromatin from telophase until prophase of the next mitosis.
+Depletion of WAPL by RNA interference inhibited dissociation of cohesin
+from chromosomes during prophase, prometaphase, and metaphase.
+Resolution of chromosome arms was severely impaired in WAPL-depleted
+cells until anaphase, which occurred after a delay, implying that
+separase (ESPL1; 604143) was activated in the absence of WAPL. Depletion
+of WAPL also resulted in increased levels of cohesin on chromatin in
+interphase, and cohesin remained bound to chromatin longer in the
+absence of WAPL. Kueng et al. (2006) concluded that WAPL is required for
+release of cohesin from both interphase chromatin and mitotic
+chromosomes.
+
+Rolef Ben-Shahar et al. (2008) identified spontaneous suppressors of the
+thermosensitive eco1-1 allele (see 609674) in budding yeast. An
+acetylation-mimicking mutation of a conserved lysine in cohesin's Smc3
+(606062) subunit makes Eco1 dispensable for cell growth, and Rolef
+Ben-Shahar et al. (2008) showed that Smc3 is acetylated in an
+Eco1-dependent manner during DNA replication to promote sister chromatid
+cohesion. A second set of eco1-1 suppressors inactivate the budding
+yeast ortholog of the cohesin destabilizer Wapl. Rolef Ben-Shahar et al.
+(2008) concluded that Eco1 modifies cohesin to stabilize sister
+chromatid cohesion in parallel with a cohesion establishment reaction
+that is in principle Eco1-independent.
+
+Through single-molecule analysis, Terret et al. (2009) demonstrated that
+a replication complex, the RFC-CTF18 clamp loader, controls the velocity
+spacing and restart activity of replication forks in human cells and is
+required for robust acetylation of cohesin's SMC3 subunit and sister
+chromatid cohesion. Unexpectedly, Terret et al. (2009) discovered that
+cohesin acetylation itself is a central determinant of fork
+processivity, as slow-moving replication forks were found in cells
+lacking the Eco1-related acetyltransferases ESCO1 or ESCO2 (609353)
+(including those derived from Roberts syndrome (268300) patients, in
+whom ESCO2 is biallelically mutated), and in cells expressing a form of
+SMC3 that cannot be acetylated. This defect was a consequence of
+cohesin's hyperstable interaction with 2 regulatory cofactors, WAPL and
+PDS5A (613200); removal of either cofactor allowed forks to progress
+rapidly without ESCO1, ESCO2, or RFC-CTF18. Terret et al. (2009)
+concluded that their results showed a novel mechanism for clamp
+loader-dependent fork progression, mediated by the posttranslational
+modification and structural remodeling of the cohesin ring. Loss of this
+regulatory mechanism leads to the spontaneous accrual of DNA damage and
+may contribute to the abnormalities of the Roberts syndrome
+cohesinopathy.
+
+Using HeLa cells and Xenopus oocytes, Nishiyama et al. (2010) showed
+that the function of WAPL in destabilizing chromosome cohesion was
+countered by sororin (CDCA5; 609374), which functioned to maintain
+sister chromatid cohesion. Immunoprecipitation studies showed that
+sororin interacted with PDS5 and displaced WAPL from its interaction
+with PDS5. Nishiyama et al. (2010) concluded that sororin maintains
+sister chromatid cohesion by inhibiting WAPL-induced dissociation of
+cohesin from DNA.
+
+Using conditional mutagenesis in the mouse, Tedeschi et al. (2013)
+demonstrated that depletion of the cohesin-associated protein Wapl
+stably locks cohesin on DNA, leads to clustering of cohesin in axial
+structures, and causes chromatin condensation in interphase chromosomes.
+The findings revealed that the stability of cohesin-DNA interactions is
+an important determinant of chromatin structure and indicated that
+cohesin has an architectural role in interphase chromosome territories.
+Tedeschi et al. (2013) also showed that regulation of cohesin-DNA
+interactions by Wapl is important for embryonic development, expression
+of genes such as c-myc, and cell cycle progression. In mitosis,
+Wapl-mediated release of cohensin from DNA is essential for proper
+chromosome segregation and protects cohesin from cleavage by the
+protease separase, thus enabling mitotic exit in the presence of
+functional cohesin complexes.
+
+GENE STRUCTURE
+
+Kwiatkowski et al. (2004) determined that the WAPAL gene contains 21
+exons and spans 90 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1996) mapped the WAPAL gene
+to chromosome 10. By genomic sequence analysis, Kwiatkowski et al.
+(2004) mapped the WAPAL gene to chromosome 10q23.2.
+
+ANIMAL MODEL
+
+Oikawa et al. (2004) showed that WAPL-transfected NIH3T3 cells induced
+tumors in nude mice and concluded that WAPL has oncogenic
+characteristics. Oikawa et al. (2004) stated that Wapl-deficient mice
+displayed embryonic lethality.
+
+Kuroda et al. (2005) showed that the dioxin TCDD induced Wapl expression
+in Ahr (600253) -/- mouse embryonic fibroblasts. Higher levels of TCDD
+decreased Wapl levels in Ahr +/+ cells, but further increased Wapl
+levels in Ahr -/- cells. Following a single peritoneal injection of TCDD
+into male C57/BL6 mice, the authors analyzed testes samples and found
+decreased levels of Wapl expression, suggesting that Wapl may be a
+target gene mediating the reproductive toxicity of TCDD.
+
+REFERENCE 1. Kueng, S.; Hegemann, B.; Peters, B. H.; Lipp, J. J.; Schleiffer,
+A.; Mechtler, K.; Peters, J.-M.: Wapl controls the dynamic association
+of cohesin with chromatin. Cell 127: 955-967, 2006.
+
+2. Kuroda, M.; Oikawa, K.; Ohbayashi, T.; Yoshida, K.; Yamada, K.;
+Mimura, J.; Matsuda, Y.; Fujii-Kuriyama, Y.; Mukai, K.: A dioxin
+sensitive gene, mammalian WAPL, is implicated in spermatogenesis. FEBS
+Lett. 579: 167-172, 2005.
+
+3. Kwiatkowski, B. A.; Ragoczy, T.; Ehly, J.; Schubach, W. H.: Identification
+of cloning of a novel chromatin-associated protein partner of Epstein-Barr
+nuclear protein 2. Exp. Cell Res. 300: 223-233, 2004.
+
+4. Nagase, T.; Seki, N.; Ishikawa, K.; Ohira, M.; Kawarabayasi, Y.;
+Ohara, O.; Tanaka, A.; Kotani, H.; Miyajima, N.; Nomura, N.: Prediction
+of the coding sequences of unidentified human genes. VI. The coding
+sequences of 80 new genes (KIAA0201-KIAA0280) deduced by analysis
+of cDNA clones from cell line KG-1 and brain. DNA Res. 3: 321-329,
+1996.
+
+5. Nishiyama, T.; Ladurner, R.; Schmitz, J.; Kreidl, E.; Schleiffer,
+A.; Bhaskara, V.; Bando, M.; Shirahige, K.; Hyman, A. A.; Mechtler,
+K.; Peters, J.-M.: Sororin mediates sister chromatid cohesion by
+antagonizing Wapl. Cell 143: 737-749, 2010.
+
+6. Oikawa, K.; Ohbayashi, T.; Kiyono, T.; Nishi, H.; Isaka, K.; Umezawa,
+A.; Kuroda, M.; Mukai, K.: Expression of a novel human gene, human
+wings apart-like (hWAPL), is associated with cervical carcinogenesis
+and tumor progression. Cancer Res. 64: 3545-3549, 2004.
+
+7. Rolef Ben-Shahar, T.; Heeger, S.; Lehane, C.; East, P.; Flynn,
+H.; Skehel, M.; Uhlmann, F.: Eco1-dependent cohesin acetylation during
+establishment of sister chromatid cohesion. Science 321: 563-566,
+2008.
+
+8. Tedeschi, A.; Wutz, G.; Huet, S.; Jaritz, M.; Wuensche, A.; Schirghuber,
+E.; Davidson, I. F.; Tang, W.; Cisneros, D. A.; Bhaskara, V.; Nishiyama,
+T.; Vaziri, A.; Wutz, A.; Ellenberg, J.; Peters, J.-M.: Wapl is an
+essential regulator of chromatin structure and chromosome segregation. Nature 501:
+564-568, 2013.
+
+9. Terret, M.-E.; Sherwood, R.; Rahman, S.; Qin, J.; Jallepalli, P.
+V.: Cohesin acetylation speeds the replication fork. Nature 462:
+231-234, 2009.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/28/2013
+Patricia A. Hartz - updated: 2/11/2011
+Ada Hamosh - updated: 1/6/2010
+Ada Hamosh - updated: 12/29/2009
+Patricia A. Hartz - updated: 4/30/2009
+Ada Hamosh - updated: 8/27/2008
+
+CREATED Dorothy S. Reilly: 2/12/2007
+
+EDITED alopez: 10/28/2013
+mgross: 4/5/2011
+terry: 2/11/2011
+carol: 11/8/2010
+alopez: 1/6/2010
+wwang: 12/30/2009
+terry: 12/29/2009
+mgross: 5/4/2009
+terry: 4/30/2009
+alopez: 8/27/2008
+terry: 8/27/2008
+wwang: 2/12/2007
+

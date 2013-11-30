@@ -1,0 +1,863 @@
+611600	TITLE *611600 PROTEIN REGULATING SYNAPTIC MEMBRANE EXOCYTOSIS 3; RIMS3
+;;RIM3-GAMMA;;
+NIM3;;
+KIAA0237
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a human immature myeloid cell line
+cDNA library, Nagase et al. (1996) cloned RIMS3, which they designated
+KIAA0237. The deduced 308-amino acid protein has a glycosyl hydrolase
+motif. Northern blot analysis detected RIMS3 expression in all tissues
+examined, with highest expression in brain.
+
+Wang et al. (2000) cloned rat Rims3, which they called Nim3, and
+identified human RIMS3 by database analysis. The deduced protein
+contains a C2B domain and is highly homologous to the C-terminal parts
+of RIMS1 and RIMS2, but it lacks all of the N-terminal domains of RIMS1
+and RIMS2. Northern blot analysis of rat tissues detected Rims3
+expression in brain only.
+
+GENE FUNCTION
+
+Wang et al. (2000) found that rat Nim3 enhanced Ca(2+)-dependent
+secretion from transfected rat pheochromocytoma cells.
+
+GENE STRUCTURE
+
+Wang and Sudhof (2003) determined that the RIMS3 gene contains 6 exons
+and spans 15.4 kb.
+
+MAPPING
+
+Using radiation hybrid analysis, Nagase et al. (1996) mapped the RIMS3
+gene to chromosome 1. By genomic sequence analysis, Wang and Sudhof
+(2003) mapped the RIMS3 gene to human chromosome 1p34.1 and to mouse
+chromosome 4D2.2.
+
+REFERENCE 1. Nagase, T.; Seki, N.; Ishikawa, K.; Ohira, M.; Kawarabayasi, Y.;
+Ohara, O.; Tanaka, A.; Kotani, H.; Miyajima, N.; Nomura, N.: Prediction
+of the coding sequences of unidentified human genes. VI. The coding
+sequences of 80 new genes (KIAA0201-KIAA0280) deduced by analysis
+of cDNA clones from cell line KG-1 and brain. DNA Res. 3: 321-329,
+1996.
+
+2. Wang, Y.; Sudhof, T. C.: Genomic definition of RIM proteins: evolutionary
+amplification of a family of synaptic regulatory proteins. Genomics 81:
+126-137, 2003.
+
+3. Wang, Y.; Sugita, S.; Sudhof, T. C.: The RIM/NIM family of neuronal
+C2 domain proteins: interactions with Rab3 and a new class of Src
+homology 3 domain proteins. J. Biol. Chem. 275: 20033-20044, 2000.
+
+CREATED Patricia A. Hartz: 11/19/2007
+
+EDITED mgross: 11/19/2007
+
+169720	TITLE *169720 PEPSINOGEN 4, GROUP I; PGA4
+DESCRIPTION See 169700.
+
+CREATED Victor A. McKusick: 6/2/1986
+EDITED supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+marie: 3/25/1988
+reenie: 6/2/1986
+605453	TITLE *605453 ATP-BINDING CASSETTE, SUBFAMILY B, MEMBER 9; ABCB9
+DESCRIPTION For background information on the ATP-binding cassette (ABC) family of
+transporter proteins, see ABCA4 (601691). In addition to the 'full' ABC
+transporters with 2 transmembrane domains and 2 nucleotide-binding
+domains, there are 'half' proteins that contain only 1 of each domain
+(e.g., ABCB1; 171050). Full transporters are usually found in the plasma
+membrane, whereas half transporters are found in subcellular organelles.
+
+By searching an EST database and screening a T-lymphoblast cDNA library,
+Zhang et al. (2000) obtained a cDNA encoding ABCB9. Sequence analysis
+predicted that the 766-amino acid ABCB9 protein has 10 potential
+N-terminal transmembrane segments. ABCB9 shares 94% identity with the
+rodent sequences and is approximately 39% identical to 2 human
+endoplasmic reticulum half transporters, TAP1 (ABCB2; 170260) and TAP2
+(ABCB3; 170261). RT-PCR and genomic sequence analysis established the
+existence of a splice variant with a 129-bp deletion expressed in testis
+and brain. Northern blot analysis detected low expression of a 3.7-kb
+transcript in most tissues tested, with an additional 2.2-kb transcript
+detected in tissues with relatively high expression, such as testis.
+Western blot analysis showed expression of a 72-kD nonglycosylated
+protein, significantly smaller than the predicted mass of 84.5 kD, that
+was enriched in lysosomes. Immunofluorescence microscopy demonstrated
+colocalization of ABCB9 with the lysosomal proteins LAMP1 (153330) and
+LAMP2 (309060). Immunohistochemical analysis detected ABCB9 expression
+in Sertoli cells of rodent seminiferous tubules.
+
+Allikmets et al. (1996) mapped an EST corresponding to the ABCB9 gene to
+12q24.
+
+REFERENCE 1. Allikmets, R.; Gerrard, B.; Hutchinson, A.; Dean, M.: Characterization
+of the human ABC superfamily: isolation and mapping of 21 new genes
+using the expressed sequence tags database. Hum. Molec. Genet. 5:
+1649-1655, 1996.
+
+2. Zhang, F.; Zhang, W.; Liu, L.; Fisher, C. L.; Hui, D.; Childs,
+S.; Dorovini-Zis, K.; Ling, V.: Characterization of ABCB9, an ATP
+binding cassette protein associated with lysosomes. J. Biol. Chem. 275:
+23287-23294, 2000.
+
+CREATED Paul J. Converse: 12/5/2000
+
+EDITED mgross: 12/05/2000
+
+605088	TITLE *605088 MAJOR VAULT PROTEIN, RAT, HOMOLOG OF; MVP
+;;LUNG RESISTANCE-RELATED PROTEIN; LRP
+DESCRIPTION 
+DESCRIPTION
+
+Vaults are hollow intracellular organelles with dimensions of about 57
+by 32 nm and a nuclear mass of about 13 MD, 3 times the size of a
+ribosome. They are composed of a small RNA (VTRNA1-1; 612695), the
+100-kD major vault protein (MVP), and minor vault proteins of 193 kD
+(PARP4; 607519) and 240 kD (TEP1; 601686). MVP accounts for over 70% of
+the particle mass (Izquierdo et al., 1996; Kickhoefer et al., 1999).
+
+CLONING
+
+Multidrug-resistant (MDR) cancer cells frequently overexpress the 110-kD
+lung resistance-related protein (LRP). Overexpression of LRP often
+predicts a poor response to chemotherapy. By screening a
+multidrug-resistant non-P-glycoprotein (see ABCB1; 171050) fibrosarcoma
+cell line with an LRP-specific monoclonal antibody, Scheffer et al.
+(1995) isolated a cDNA encoding LRP. The deduced 896-amino acid LRP
+protein shares 88% amino acid identity with the rat major vault protein
+(Mvp). RNase protection assays showed that LRP expression was enhanced
+4- to 8-fold in non-P-glycoprotein MDR cell lines.
+
+Using immunohistochemical analysis, Izquierdo et al. (1996) found that
+LRP was widely expressed in normal and tumor tissues and showed a
+characteristic cytoplasmic granular pattern. High LRP expression was
+detected in the epithelial lining of bronchioles and upper and lower
+digestive tract, renal proximal tubules, epidermal keratinocytes and
+melanocytes, macrophages, and adrenal cortex. Lower and variable
+expression of LRP was detected in other tissues. LRP was expressed in
+all tumor types tested, and its level of expression fairly reflected the
+chemosensitivity of the tumors, with lower expression in highly
+chemosensitive tumors. Immunoprecipitated LRP had an apparent molecular
+mass of 110 kD by SDS-PAGE.
+
+By EST database analysis, Holzmann et al. (2001) identified a long MVP
+splice variant, L-MVP, that contains a 41-bp stretch in the 5-prime
+region that is intronic in the shorter S-MVP splice variant. This 41-bp
+stretch introduces an upstream ORF encoding a deduced 18-amino acid
+peptide. RT-PCR detected ubiquitous expression of both variants, and
+S-MVP was always the major variant.
+
+Van Zon et al. (2002) identified a central calcium-binding EF-hand motif
+and a C-terminal coiled-coil domain in MVP.
+
+Using confocal immunocytochemistry with anti-MVP antibody, Slesina et
+al. (2005) found a dense distribution of vault particles in the
+cytoplasm of human U373 astroglioma cell line. A punctate staining
+pattern was also detected in the nucleus. Cryoimmunoelectron microscopy
+revealed clusters of immunogold particles at nuclear pores and in the
+nucleoplasm, suggesting that nuclear MVP was also associated with
+vaults. Quantification of fluorescent MVP in the cytosol and nucleus of
+U373 cells revealed about 5% of MVP in the nucleus.
+
+GENE FUNCTION
+
+Kickhoefer et al. (1998) found that expression of MVP and VTRNA1-1 and
+assembly of vaults increased up to 15-fold in several drug-resistant
+cell lines compared with the parental cell lines. They hypothesized that
+the absolute vault level in cell lines may dictate the extent of drug
+resistance.
+
+Abbondanza et al. (1998) found that MVP coprecipitated with estrogen
+receptor (ER, or ESR1; 133430) from nuclear extracts of MCF-7 human
+breast cancer cells and that ER associated with intact vaults. Mutation
+analysis showed that a central region of ER containing nuclear
+localization signals was involved in the interaction. A limited amount
+of ER molecules in the nuclear extract appeared to be associated with
+MVP. Physiologic concentrations of estradiol increased the amount of MVP
+present in MCF-7 nuclear extracts and coimmunoprecipitated with ER. The
+hormone-dependent interaction of vaults with ER was reproduced in vitro.
+Antibodies to progesterone receptor (PGR; 607311) and glucocorticoid
+receptor (GCCR; 138040) also coimmunoprecipitated MVP, but more weakly.
+
+By yeast 2-hybrid analysis and by in vitro binding assays with
+recombinant proteins, Kickhoefer et al. (1999) confirmed direct
+interaction between MVP and PARP4, which they called VPARP. The
+C-terminal domain was the smallest sequence of PARP4 that could bind
+MVP. The PARP-like catalytic domain, when expressed as a recombinant
+protein in E. coli, showed ADP-ribosylase activity. Vault particles
+purified from rat liver and incubated with radiolabeled NAD showed
+prominent ADP-ribosylation of Mvp and some automodification of Parp4.
+
+Holzmann et al. (2001) showed that in vitro translation of L-MVP was low
+relative to translation of S-MVP. Mutation of the start codon of the
+upstream ORF in the L-MVP transcript reversed the suppression of MVP
+translation, suggesting that translation of the upstream ORF controls
+expression of the larger protein.
+
+Using yeast 2- and 3-hybrid analysis and mutation analysis, van Zon et
+al. (2002) found that MVP molecules interacted with each other via their
+coiled-coil domains. MVP also bound calcium, likely via its EF-hand
+motif. The N-terminal half of MVP bound a C-terminal domain of VPARP,
+but TEP1 did not appear to interact with either MVP or VPARP.
+
+Using a yeast 2-hybrid screen, Yu et al. (2002) showed that MPV
+interacted with PTEN (601728), a protein phosphatase that can function
+as a tumor suppressor. Endogenous PTEN associated with vault particles
+isolated from HeLa cells. Coimmunoprecipitation analysis confirmed the
+interaction between PTEN and MVP. Deletion analysis mapped the
+interacting regions to the C2 domain of PTEN and the EF-hand motifs of
+MVP. The interaction was independent of tyrosine phosphorylation, but
+required calcium, consistent with a calcium-induced conformational
+change in the MVP EF-hand motifs.
+
+Using human airway epithelial cells, Kowalski et al. (2007) showed that
+MVP accumulated rapidly into lipid rafts during Pseudomonas aeruginosa
+infection, and this accumulation was markedly reduced in cells from
+cystic fibrosis (219700) patients expressing the delF508 mutation
+(602421.0001) in CFTR (602421). Immunofluorescence microscopy and
+coimmunoprecipitation experiments demonstrated colocalization of
+bacteria, CFTR, and MVP, without direct physical association. The outer
+core oligosaccharide of P. aeruginosa bound CFTR and was required for
+recruitment of MVP to lipid rafts. Small interfering RNA-mediated
+knockdown of MVP decreased recruitment of MVP to lipid rafts following
+P. aeruginosa infection without affecting NFKB (see 164011) activation,
+IL8 (146930) secretion, or apoptosis induction, suggesting a key role
+for MVP in bacterial uptake.
+
+GENE STRUCTURE
+
+Lange et al. (2000) determined that the MVP gene contains 15 exons. They
+found that the promoter region has an inverted CCAAT box but no TATA
+box. They identified several putative promoter binding sites including
+an SP1 (189901)-binding site located close to a p53 (191170)-binding
+motif. An alternative 3-prime splice site of intron 1 results in a
+splicing variant within the 5-prime untranslated region of MVP mRNA.
+
+MAPPING
+
+By FISH, Scheffer et al. (1995) mapped the LRP gene to chromosome
+16p13.1-p11.2, in the same chromosomal region as the MDR-associated
+genes MRP (ABCC1; 158343) and PRKCB1 (176970). The authors noted that
+acute myeloid leukemia patients with a deletion of an MRP gene,
+resulting from a chromosome 16 inversion, often have a favorable
+outcome.
+
+ANIMAL MODEL
+
+Kowalski et al. (2007) found that Mvp -/- mice infected with P.
+aeruginosa internalized fewer bacteria in lung epithelial cells than
+wildtype mice, resulting in increased bacterial burden in the lung. Mvp
+-/- mice also had increased mortality after P. aeruginosa infection.
+Kowalski et al. (2007) concluded that MVP contributes to resistance
+against P. aeruginosa lung infection.
+
+REFERENCE 1. Abbondanza, C.; Rossi, V.; Roscigno, A.; Gallo, L.; Belsito, A.;
+Piluso, G.; Medici, N.; Nigro, V.; Molinari, A. M.; Moncharmont, B.;
+Puca, G. A.: Interaction of vault particles with estrogen receptor
+in the MCF-7 breast cancer cell. J. Cell Biol. 141: 1301-1310, 1998.
+
+2. Holzmann, K.; Ambrosch, I.; Elbling, L.; Micksche, M.; Berger,
+W.: A small upstream open reading frame causes inhibition of human
+major vault protein expression from a ubiquitous mRNA splice variant. FEBS
+Lett. 494: 99-104, 2001.
+
+3. Izquierdo, M. A.; Scheffer, G. L.; Flens, M. J.; Giaccone, G.;
+Broxterman, H. J.; Meijer, C. J. L. M.; van der Valk, P.; Scheper,
+R. J.: Broad distribution of the multidrug resistance-related vault
+lung resistance protein in normal human tissues and tumors. Am. J.
+Path. 148: 877-887, 1996.
+
+4. Kickhoefer, V. A.; Rajavel, K. S.; Scheffer, G. L.; Dalton, W.
+S.; Scheper, R. J.; Rome, L. H.: Vaults are up-regulated in multidrug-resistant
+cancer cell lines. J. Biol. Chem. 273: 8971-8974, 1998.
+
+5. Kickhoefer, V. A.; Siva, A. C.; Kedersha, N. L.; Inman, E. M.;
+Ruland, C.; Streuli, M.; Rome, L. H.: The 193-kD vault protein, VPARP,
+is a novel poly(ADP-ribose) polymerase. J. Cell Biol. 146: 917-928,
+1999.
+
+6. Kickhoefer, V. A.; Stephen, A. G.; Harrington, L.; Robinson, M.
+O.; Rome, L. H.: Vaults and telomerase share a common subunit, TEP1. J.
+Biol. Chem. 274: 32712-32717, 1999.
+
+7. Kowalski, M. P.; Dubouix-Bourandy, A.; Bajmoczi, M.; Golan, D.
+E.; Zaidi, T.; Coutinho-Sledge, Y. S.; Gygi, M. P.; Gygi, S. P.; Wiemer,
+E. A. C.; Pier, G. B.: Host resistance to lung infection mediated
+by major vault protein in epithelial cells. Science 317: 130-132,
+2007.
+
+8. Lange, C.; Walther, W.; Schwabe, H.; Stein, U.: Cloning and initial
+analysis of the human multidrug resistance-related MVP/LRP gene promoter. Biochem.
+Biophys. Res. Commun. 278: 125-133, 2000.
+
+9. Scheffer, G. L.; Wijngaard, P. L. J.; Flens, M. J.; Izquierdo,
+M. A.; Slovak, M. L.; Pinedo, H. M.; Meijer, C. J. L. M.; Clevers,
+H. C.; Scheper, R. J.: The drug resistance-related protein LRP is
+the human major vault protein. Nature Med. 1: 578-582, 1995.
+
+10. Slesina, M.; Inman, E. M.; Rome, L. H.; Volknandt, W.: Nuclear
+localization of the major vault protein in U373 cells. Cell Tissue
+Res. 321: 97-104, 2005.
+
+11. van Zon, A.; Mossink, M. H.; Schoester, M.; Scheffer, G. L.; Scheper,
+R. J.; Sonneveld, P.; Wiemer, E. A. C.: Structural domains of vault
+proteins: a role for the coiled coil domain in vault assembly. Biochem.
+Biophys. Res. Commun. 291: 535-541, 2002.
+
+12. Yu, Z.; Fotouhi-Ardakani, N.; Wu, L.; Maoui, M.; Wang, S.; Banville,
+D.; Shen, S.-H.: PTEN associates with the vault particles in HeLa
+cells. J. Biol. Chem. 277: 40247-40252, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/6/2009
+Paul J. Converse - updated: 7/17/2007
+Patricia A. Hartz - updated: 7/30/2002
+
+CREATED Paul J. Converse: 6/28/2000
+
+EDITED mgross: 03/26/2009
+terry: 3/6/2009
+mgross: 7/18/2007
+terry: 7/17/2007
+carol: 7/30/2002
+mgross: 8/11/2000
+mgross: 6/29/2000
+mgross: 6/28/2000
+
+153390	TITLE *153390 LYMPHOCYTE-SPECIFIC PROTEIN-TYROSINE KINASE; LCK
+;;ONCOGENE LCK;;
+p56(LCK)
+DESCRIPTION 
+DESCRIPTION
+
+The LCK gene encodes p56(LCK), a nonreceptor protein-tyrosine kinase of
+the SRC (190090) oncogene family that is involved in transduction of
+T-cell receptor (TCR; see 186880)-mediated activation. The p56(LCK)
+protein is anchored to the plasma membrane and interacts with the
+intracellular domains of CD4 (186940)/CD8 (see 186910) coreceptors. It
+is composed of 4 SRC homology (SH) domains that are variably conserved
+among members of the SRC family (Germani et al., 2003).
+
+CLONING
+
+Using RT-PCR, Rouer et al. (1999) identified the full-length LCK
+transcript and a splice variant lacking exon 7 in various T-cell lines
+and in peripheral blood lymphocytes (PBLs) from healthy donors.
+
+By RT-PCR of PBLs from diabetic patients and healthy controls, Nervi et
+al. (2005) obtained cDNAs corresponding to full-length LCK, LCK lacking
+exon 7 (LCK delta-7), and a novel LCK variant lacking exon 7 but
+containing an additional 174 bp corresponding intron B between exons 2
+and 3 (LCKB+7-). LCKB+7- encodes a 516-amino acid protein that, compared
+with the full-length 509-amino acid protein, has a proline-rich 58-amino
+acid insertion upstream of the SH3 domain and, like LCK delta-7, a
+deletion of the ATP-binding site upstream of the catalytic domain. Far
+Western blot analysis showed that the 58-amino acid insertion reduced
+SH3 binding ability. RT-PCR analysis suggested that LCKB+7- is present
+in all individuals but is sequestered in the nucleus. Nervi et al.
+(2005) concluded that LCKB+7- is a rare transcript that may be present
+in conditions with T-cell dysfunction.
+
+GENE FUNCTION
+
+Welte et al. (1999) analyzed the role of STAT (signal transducer and
+activator of transcription) proteins in TCR signaling. STAT5 (601511)
+became immediately and transiently phosphorylated on tyrosine-694 in
+response to TCR stimulation. Expression of the protein-tyrosine kinase
+LCK, a key signaling protein in the TCR complex, activated DNA binding
+of transfected STAT5A and STAT5B to specific STAT-inducible elements.
+The role of LCK in STAT5 activation was confirmed in a LCK-deficient
+T-cell line in which the activation of STAT5 by TCR stimulation was
+abolished. Inhibition of STAT5 function by expression of a
+dominant-negative mutant STAT5 reduced antigen-stimulated proliferation
+of T cells. Thus, TCR stimulation appears to directly activate STAT5,
+which may participate in the regulation of gene transcription and T-cell
+proliferation during immunologic responses.
+
+Animals deficient in pre-TCR-alpha have few alpha-beta lineage cells but
+an increased number of gamma-delta T cells. These gamma-delta T cells
+exhibit more extensive TCR-beta rearrangement than gamma-delta T cells
+from wildtype mice. These observations are consistent with the idea that
+different signals emanating from the gamma-delta-TCR and pre-TCR
+instruct lineage commitment. Using confocal microscopy and biochemistry
+to analyze the initiation of signaling, Saint-Ruf et al. (2000) showed
+that the pre-TCR, but not the gamma-delta TCR, colocalizes with the
+p56(lck) Src kinase into glycolipid-enriched membrane domains (rafts)
+apparently without any need for ligation. This results in the
+phosphorylation of CD3-epsilon (186830) and ZAP70 signal transducing
+molecules. Saint-Ruf et al. (2000) stated that their results indicated
+clear differences between pre-TCR and gamma-delta-TCR signaling.
+
+Type 1 diabetic (IDDM1; 222100) patients have diminished responses
+following T-cell activation. By immunoblot analysis, Nervi et al. (2000)
+found reduced levels of phosphorylated CD3Z (186780) in IDDM1 patients
+after T-cell stimulation. Immunoblot, immunoprecipitation, and
+densitometric analyses revealed significantly reduced LCK expression in
+unstimulated peripheral blood cells of IDDM1 patients compared to
+controls. The reduced LCK expression correlated with a lower
+proliferative response. Very low LCK expression may also correlate with
+the HLA-DQB1*0201/0302 (see 604305) genotype. Confocal microscopy
+demonstrated normal plasma membrane expression of LCK in patients and
+controls. Downstream signal transducing molecules were not affected in
+these patients.
+
+Kim et al. (2003) noted that the T-cell coreceptors CD4 and CD8 each
+associate via their cytoplasmic tails with the N terminus of LCK in a
+zinc-dependent manner. These interactions are required for T-cell
+development and activation. By structural analysis, Kim et al. (2003)
+showed that, in the absence of zinc, the coreceptor tails and the LCK N
+terminus lack structure, but they assemble in the presence of zinc to
+form compactly folded heterodimeric domains.
+
+Using flow cytometry, Germani et al. (2003) deduced that the LCK delta-7
+protein accounted for 15% of the total LCK protein in the Jurkat T-cell
+line. Exon 7 encodes the first 51 amino acids of the LCK catalytic
+domain, and deletion of this region reduced kinase activity of the
+recombinant protein. However, the residual activity could be enhanced by
+addition of Mn(2+). Enforced production of LCK delta-7 in transfected
+Jurkat cells resulted in slower cell proliferation than did transfection
+with full-length LCK. Germani et al. (2003) proposed that LCK delta-7 is
+a cell signaling regulator. They noted that a case of severe combined
+immunodeficiency (SCID) had been reported in which levels of full-length
+LCK were low and LCK delta-7 appeared as the main LCK transcript (see
+Goldman et al. (1998) and MOLECULAR GENETICS).
+
+Using protein pull-down assays, Park et al. (2002) showed that the
+N-terminal ser-rich portion of the herpesvirus Tip protein interacted
+with the N terminus of the lysosomal protein WDR48 (612167). Interaction
+of Tip with WDR48 induced lysosomal vesicle formation and, via the
+C-terminal region of Tip, recruitment of LCK to these lysosomal vesicles
+for degradation. Tip interactions with WDR48 and LCK resulted in
+downregulation of TCR and CD4 surface expression, respectively, leading
+to inhibition of T-lymphocyte signal transduction.
+
+GENE STRUCTURE
+
+Nervi et al. (2005) stated that the LCK gene contains 12 exons and spans
+14 kb. Expression of LCK is controlled by 2 distinct promoters separated
+by 35 kb. Alternate usage of the promoters produces 2 major classes of
+mRNAs that differ only in their noncoding 5-prime ends. Alternative
+splicing and the use of alternative transcription initiation sites
+generates several variants in each mRNA class.
+
+MAPPING
+
+Marth et al. (1986) mapped the mouse Lck gene to distal chromosome 4.
+Using molecular analysis by somatic cell hybridization and in situ
+hybridization, they mapped the human LCK gene to chromosome 1p35-p32.
+They noted that LCK closely resembles other protein-tyrosine kinase
+oncogenes, notably SRC, YES (164880), and FGR (164940), and that
+virus-induced murine lymphomas have been found with rearrangement of the
+Lck gene, suggesting that aberrant expression of LCK may contribute to
+lymphoid transformation. In man, chromosome abnormalities, deletions, or
+translocations are seen in 1p34 in neuroblastomas (Gilbert et al., 1982)
+and in non-Hodgkin lymphoma (Levine et al., 1985).
+
+Volpi et al. (1994) mapped the LCK gene to 1p35-p34.3 by fluorescence in
+situ hybridization. By dual-color in situ hybridization with an LCK
+probe and a probe for D1S57, which was mapped to 1p34.3-p34.2 by Van Roy
+et al. (1993), they found that the LCK gene was telomeric to the
+anonymous marker.
+
+MOLECULAR GENETICS
+
+Goldman et al. (1998) noted that the T-cell antigen receptor plays a
+crucial role in thymocyte differentiation and T-cell activation. After
+antigen binding to the TCR, and in concert with engagement of other
+coreceptors and their associated ligands (such as CD4 and major
+histocompatibility complex (MHC) class II, CD28 (186760), B7 (112203),
+CD8, and MHC I), signal transduction cascades are activated. The
+earliest measurable biochemical event is the activation of
+protein-tyrosine kinases, resulting in the phosphorylation of multiple
+cellular substrates. At least 3 protein-tyrosine kinases are known to be
+involved in TCR signaling at the level of the receptor, including
+p59(fyn) (FYN; 137025), p56(lck), and ZAP70 (176947). Individuals with
+mutations in the gene coding for the ZAP70 protein show severe combined
+immunodeficiency (SCID), a heterogeneous disorder characterized by
+profound defects in cellular and humoral immunity, due to selective
+T-cell defect, e.g., 176947.0001. Patients present with an absence of
+peripheral CD8(+) T cells and normal to high levels of peripheral CD4(+)
+T cells which are unable to signal through the TCR. SCID-like phenotypes
+have also been observed in mice rendered p56(lck) or p59(fyn) deficient
+by homologous recombination. Mice lacking p56(lck) as well as transgenic
+mice expressing dominant-negative mutations of p56(lck) demonstrate
+severe T-cell developmental defects (Molina et al., 1992; Levin et al.,
+1993).
+
+Goldman et al. (1998) described an infant with clinical and laboratory
+features of SCID and selective CD4 lymphopenia and lack of CD28
+expression on CD8(+) T cells. T cells from this patient showed poor
+blastogenic responses to various mitogens and to interleukin-2 (IL2;
+147680). Other T-cell antigen receptor-induced responses, including
+upregulation of CD69 (107273), were similarly inhibited. However, more
+proximal T-cell antigen receptor signaling events, such as anti-CD3
+induced protein-tyrosine phosphorylation, phosphorylation of
+mitogen-associated protein kinase, and calcium mobilization, were
+intact. Although p59(fyn) and ZAP70 protein-tyrosine kinases were
+expressed at normal levels, a marked decrease in the level of p56(lck)
+was noted. Furthermore, this decrease was associated with the presence
+of an alternatively spliced LCK transcript lacking the exon 7
+kinase-encoding domain. These data suggested that deficiency in p56(lck)
+expression can produce a SCID phenotype in humans. The patient was a
+male infant from a nonconsanguineous union who was noted to have loose
+stools and poor weight gain at 1 month of age. He was first hospitalized
+at 2 months of age for dehydration, failure to thrive, and sepsis. Oral
+candidiasis and weight below the fifth percentile were found at that
+time. Rotavirus was isolated from the stool, Enterobacter cloacae from
+the blood, and cytomegalovirus from the urine and intestinal biopsies.
+Lymphopenia and hypogammaglobulinemia were noted. Tests for HIV and for
+other causes of SCID, including deficiencies of adenosine deaminase and
+purine nucleoside phosphorylase, excluded those diagnoses. A 2-month
+trial of IL2, begun when the patient was 26 months old, elicited neither
+a clinical response nor an improvement in lymphocyte numbers (total
+lymphocyte count ranged between 780 and 1,890). At the age of 32 months,
+the patient underwent an allogeneic bone marrow transplant from a
+matched unrelated donor. All sequences normally found in exon 7 were
+absent in the patient. To test whether the skipping of exon 7 was due to
+splice site mutations, intron 6, exon 7, and intron 7 were PCR amplified
+from patient and control genomic DNA and then sequenced. No differences
+were observed in the splice sequences flanking exon 7 or within 20 bp on
+either side. The RT-PCR products generated from the patient's cDNA using
+forward and reverse primers within the 5-prime and 3-prime ends of the
+molecule yielded 2 bands of approximately equal intensity, whereas 1
+band was barely detectable or absent when cDNA from control peripheral
+blood mononuclear cells, the parents, or Jurkat cDNA was used. While the
+precise genetic defect responsible for the decreased expression p56(lck)
+in this patient was not fully understood, Goldman et al. (1998) thought
+it likely that aberrant alternative splicing of exon 7 was responsible.
+
+CYTOGENETICS
+
+In a patient with T-lymphoblastic leukemia (T-ALL) and a translocation
+t(1;7)(p34;q34) as the sole karyotypic abnormality, Tycko et al. (1991)
+found evidence of joining of the LCK gene with the gene encoding the
+T-cell antigen receptor beta subunit (TCRB; see 186930). The chromosomal
+breakpoint was located 2 kb upstream of the LCK upstream promoter and
+first nontranslated exon. In a second t(1;7) translocation, the
+breakpoint was found between 2 alternative LCK promoters, upstream of
+the second exon. Relative to normal thymus and activated T cells, levels
+of LCK mRNA were greatly elevated in the first case and moderately
+elevated in the second. Burnett et al. (1991) also studied involvement
+of the LCK gene in a t(1;7) leukemia translocation.
+
+Burnett et al. (1994) provided a molecular analysis of the
+t(1;7)(p34;q34) in T-cell acute lymphoblastic leukemia that fuses LCK
+and TCRB.
+
+ANIMAL MODEL
+
+During T-cell development, assembly and expression of a complete gene
+for the beta chain of the T-cell receptor blocks further rearrangement
+at the TCRB locus (a process referred to as allelic exclusion) and
+drives the generation and expansion of cells positive for CD4 and CD8.
+Studies in transgenic animals suggested that the lymphocyte-specific
+protein-tyrosine kinase p56(lck) may impinge on the same pathway used by
+TCR-beta chains to deliver such signals. This hypothesis predicts that
+interference with p56(lck) function would mitigate the effects of a
+simultaneously expressed TCR-beta chain. Anderson et al. (1993)
+confirmed this prediction through examination of allelic exclusion in
+mice expressing both a functional TCRB transgene and a catalytically
+inactive form of p56(lck). Thus, the oncogene LCK is the
+protein-tyrosine kinase that regulates allelic exclusion at the T-cell
+receptor beta locus.
+
+By creating a lck-knockout mouse with a doxycycline-inducible lck
+transgene, Seddon et al. (2000) assessed the role of LCK in T cell
+development and population of the peripheral T cell pool. Knockout mice
+fed doxycycline (dox) had functional T cell phenotypes similar to those
+of wildtype control mice, whereas the phenotype of knockout mice that
+had dox removed from their diets (Lck1 OFF) resembled that of
+Lck-negative mice. Analysis of thymic cellularity revealed a rapid
+atrophy in the Lck1 OFF mice due to loss of double-positive (CD4+/CD8+)
+cells. Although expression of lck is essential for full activation of
+naive T cells, flow cytometric and immunoblot analyses showed that
+continued expression of lck is not required for their prolonged
+survival. Adoptive transfer experiments showed that homeostatic
+proliferation of naive T cells does require sustained lck expression.
+Therefore, the signals that mediate survival and homeostasis appear to
+be distinct.
+
+By flow cytometric analysis of mice expressing an inducible Lck
+transgene in T cells, Tewari et al. (2006) found that immunologically
+naive mice lacking Lck were unable to activate or expand viral
+antigen-specific Cd8-positive T cells. The magnitude of primary
+Cd8-positive T-cell expansion depended on the duration of Lck-dependent
+signaling. Memory Cd8-positive T cells, however, did not require Lck for
+functional avidity, maintenance, or reactivation. Tewari et al. (2006)
+concluded that naive, but not memory, CD8-positive T cells require LCK
+for activation, possibly accounting for the hyperreactivity to antigen
+of memory cells and accelerated immune control during secondary
+infections.
+
+ADDITIONAL REFERENCES Marth et al. (1988)
+REFERENCE 1. Anderson, S. J.; Levin, S. D.; Perlmutter, R. M.: Protein tyrosine
+kinase p56(lck) controls allelic exclusion of T-cell receptor beta-chain
+genes. Nature 365: 552-554, 1993.
+
+2. Burnett, R. C.; David, J.-C.; Harden, A. M.; Le Beau, M. M.; Rowley,
+J. D.; Diaz, M. O.: The LCK gene is involved in the t(1;7)(p34;q34)
+in the T-cell acute lymphoblastic leukemia derived cell line, HSB-2. Genes
+Chromosomes Cancer 3: 461-467, 1991.
+
+3. Burnett, R. C.; Thirman, M. J.; Rowley, J. D.; Diaz, M. O.: Molecular
+analysis of the T-cell acute lymphoblastic leukemia-associated t(1;7)(p34;q34)
+that fuses LCK and TCRB. Blood 84: 1232-1236, 1994.
+
+4. Germani, A.; Malherbe, S.; Rouer, E.: The exon 7-spliced Lck isoform
+in T lymphocytes: a potential regulator of p56lck signaling pathways. Biochem.
+Biophys. Res. Commun. 301: 680-685, 2003.
+
+5. Gilbert, F.; Balaban, G.; Moorhead, P.; Bianchi, D.; Schlesinger,
+H.: Abnormalities of chromosome 1p in human neuroblastoma tumors
+and cell lines. Cancer Genet. Cytogenet. 7: 33-42, 1982.
+
+6. Goldman, F. D.; Ballas, Z. K.; Schutte, B. C.; Kemp, J.; Hollenback,
+C.; Noraz, N.; Taylor, N.: Defective expression of p56lck in an infant
+with severe combined immunodeficiency. J. Clin. Invest. 102: 421-429,
+1998.
+
+7. Kim, P. W.; Sun, Z.-Y. J.; Blacklow, S. C.; Wagner, G.; Eck, M.
+J.: A zinc clasp structure tethers Lck to T cell coreceptors CD4
+and CD8. Science 301: 1725-1728, 2003.
+
+8. Levin, S. D.; Anderson, S. J.; Forbush, K. A.; Perlmutter, R. M.
+: A dominant-negative transgene defines a role for p56lck in thymopoiesis. EMBO
+J. 12: 1671-1680, 1993.
+
+9. Levine, E. G.; Arthur, D. S.; Frizzera, G.; Peterson, B. A.; Hurd,
+D. D.; Bloomfield, C. D.: There are differences in cytogenetic abnormalities
+among histologic subtypes of the non-Hodgkin's lymphomas. Blood 66:
+1414-1422, 1985.
+
+10. Marth, J. D.; Disteche, C.; Pravtcheva, D.; Ruddle, F.; Krebs,
+E. G.; Perlmutter, R. M.: Localization of a lymphocyte-specific protein
+tyrosine kinase gene (lck) at a site of frequent chromosomal abnormalities
+in human lymphomas. Proc. Nat. Acad. Sci. 83: 7400-7404, 1986.
+
+11. Marth, J. D.; Overell, R. W.; Meier, K. E.; Krebs, E. G.; Perlmutter,
+R. M.: Translational activation of the lck proto-oncogene. Nature 332:
+171-173, 1988.
+
+12. Molina, T. J.; Kishihara, K.; Siderovski, D. P.; van Ewijk, W.;
+Narendran, A.; Timms, E.; Wakeham, A.; Paige, C. J.; Hartmann, K.-U.;
+Veillette, A.; Davidson, D.; Mak, T. W.: Profound block in thymocyte
+development in mice lacking p56'lck'. Nature 357: 161-164, 1992.
+
+13. Nervi, S.; Atlan-Gepner, C.; Kahn-Perles, B.; Lecine, P.; Vialettes,
+B.; Imbert, J.; Naquet, P.: Specific deficiency of p56(lck) expression
+in T lymphocytes from type 1 diabetic patients. J. Immun. 165: 5874-5883,
+2000.
+
+14. Nervi, S.; Guinamard, R.; Delaval, B.; Lecine, P.; Vialettes,
+B.; Naquet, P.; Imbert, J.: A rare mRNA variant of the human lymphocyte-specific
+protein tyrosine kinase LCK gene with intron B retention and exon
+7 skipping encodes a putative protein with altered SH3-dependent molecular
+interactions. Gene 359: 18-25, 2005.
+
+15. Park, J.; Lee, B.-S.; Choi, J.-K.; Means, R. E.; Choe, J.; Jung,
+J. U.: Herpesviral protein targets a cellular WD repeat endosomal
+protein to downregulate T lymphocyte receptor expression. Immunity 17:
+221-233, 2002.
+
+16. Rouer, E.; Brule, F.; Benarous, R.: A single base mutation in
+the 5-prime splice site of intron 7 of the lck gene is responsible
+for the deletion of exon 7 in lck mRNA of the JCaM1 cell line. Oncogene 18:
+4262-4268, 1999.
+
+17. Saint-Ruf, C.; Panigada, M.; Azogui, O.; Debey, P.; von Boehmer,
+H.; Grassi, F.: Different initiation of pre-TCR and gamma-delta-TCR
+signalling. Nature 406: 524-527, 2000.
+
+18. Seddon, B.; Legname, G.; Tomlinson, P.; Zamoyska, R.: Long-term
+survival but impaired homeostatic proliferation of naive T cells in
+the absence of p56(lck). Science 290: 127-131, 2000.
+
+19. Tewari, K.; Walent, J.; Svaren, J.; Zamoyska, R.; Suresh, M.:
+Differential requirement for Lck during primary and memory CD8+ T
+cell responses. Proc. Nat. Acad. Sci. 103: 16388-16393, 2006.
+
+20. Tycko, B.; Smith, S. D.; Sklar, J.: Chromosomal translocations
+joining LCK and TCRB loci in human T cell leukemia. J. Exp. Med. 174:
+867-873, 1991.
+
+21. Van Roy, N.; Laureys, G.; Versteeg, R.; Opdenakker, G.; Speleman,
+F.: High-resolution fluorescence mapping of 46 DNA markers to the
+short arm of human chromosome 1. Genomics 18: 71-78, 1993.
+
+22. Volpi, E. V.; Romani, M.; Siniscalco, M.: Subregional mapping
+of the human lymphocyte-specific protein tyrosine kinase gene (LCK)
+to 1p35-p34.3 and its position relative to the 1p marker D1S57. Cytogenet.
+Cell Genet. 67: 187-189, 1994.
+
+23. Welte, T.; Leitenberg, D.; Dittel, B. N.; al-Ramadi, B. K.; Xie,
+B.; Chin, Y. E.; Janeway, C. A., Jr.; Bothwell, A. L. M.; Bottomly,
+K.; Fu, X.-Y.: STAT5 interaction with the T cell receptor complex
+and stimulation of T cell proliferation. Science 283: 222-225, 1999.
+
+CONTRIBUTORS Paul J. Converse - updated: 7/10/2008
+Matthew B. Gross - updated: 1/19/2007
+Paul J. Converse - updated: 1/19/2007
+Paul J. Converse - updated: 9/24/2003
+Paul J. Converse - updated: 2/16/2001
+Paul J. Converse - updated: 10/24/2000
+Ada Hamosh - updated: 8/2/2000
+Victor A. McKusick - updated: 1/7/1999
+Victor A. McKusick - updated: 8/13/1998
+
+CREATED Victor A. McKusick: 6/25/1986
+
+EDITED mgross: 10/07/2013
+mgross: 7/10/2008
+mgross: 1/19/2007
+mgross: 9/24/2003
+mcapotos: 2/21/2001
+mcapotos: 2/20/2001
+terry: 2/16/2001
+alopez: 10/24/2000
+alopez: 8/2/2000
+alopez: 1/7/1999
+terry: 1/7/1999
+terry: 8/20/1998
+carol: 8/18/1998
+carol: 8/17/1998
+terry: 8/13/1998
+carol: 1/17/1995
+mimadm: 11/6/1994
+terry: 10/31/1994
+supermim: 3/16/1992
+carol: 2/5/1992
+carol: 1/22/1992
+
+611859	TITLE *611859 MITOCHONDRIAL RIBOSOMAL PROTEIN L55; MRPL55
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+inner membrane proteins essential for oxidative phosphorylation. MRPL55
+is a component of the large subunit of the mitochondrial ribosome that
+is encoded by the nuclear genome (Koc et al., 2001).
+
+CLONING
+
+By searching databases using bovine Mrpl55 as query, Koc et al. (2001)
+identified human MRPL55. They also identified MRPL55 homologs in mouse,
+Drosophila, and C. elegans, but not in yeast, E. coli, or Arabidopsis.
+Mouse and human MRPL55 share 71.7% amino acid identity.
+
+MAPPING
+
+Hartz (2008) mapped the MRPL55 gene to chromosome 1q42.13 based on an
+alignment of the MRPL55 sequence (GenBank GENBANK AY358771) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  3/5/2008.
+
+2. Koc, E. C.; Burkhart, W.; Blackburn, K.; Moyer, M. B.; Schlatzer,
+D. M.; Moseley, A.; Spremulli, L. L.: The large subunit of the mammalian
+mitochondrial ribosome: analysis of the complement of ribosomal proteins
+present. J. Biol. Chem. 276: 43958-43969, 2001.
+
+CREATED Patricia A. Hartz: 2/26/2008
+
+EDITED mgross: 03/05/2008
+
+612220	TITLE *612220 BETA-1,4-N-ACETYLGALACTOSAMINYLTRANSFERASE 3; B4GALNT3
+;;B4GalNAcT3
+DESCRIPTION 
+DESCRIPTION
+
+B4GALNT3 transfers N-acetylgalactosamine (GalNAc) onto glucosyl residues
+to form N,N-prime-diacetyllactosediamine (LacdiNAc, or LDN), a unique
+terminal structure of cell surface N-glycans (Ikehara et al., 2006).
+
+CLONING
+
+By searching a human database for sequences encoding
+beta-1,4-glycosyltransferase (beta-4GT) motifs, followed by 5-prime RACE
+and PCR of a human stomach cDNA library, Sato et al. (2003) cloned
+B4GALNT3, which they designated B4GalNAcT3. The deduced 999-amino acid
+protein has a typical type II topology, with an N-terminal transmembrane
+domain, 4 potential N-glycosylation sites, a DXH sequence thought to
+participate in divalent cation binding, and a C-terminal WGGED motif
+characteristic of beta-4GTs. Sato et al. (2003) also identified mouse
+B4galnt3, which encodes a deduced 986-amino acid protein that shares
+82.2% identity with human B4GALNT3. RT-PCR of human tissues detected
+high B4GALNT3 expression in stomach, colon, and testis, and lower
+expression in other tissues. B4GALNT3 was also expressed in colon and
+stomach cancer cell lines and some other cell lines.
+
+Using Western blot analysis with reducing and nonreducing SDS-PAGE,
+Ikehara et al. (2006) found that recombinant soluble B4GalNAcT3, lacking
+the N-terminal transmembrane domain, was processed into N- and
+C-terminal fragments that were coupled through disulfide bonds.
+Immunohistochemical analysis of human gastric tissues showed that
+B4GalNAcT3 was expressed only in surface mucous cells of pyloric and
+fundic glands and in the glandular compartment of fundic glands.
+Confocal microscopy showed that B4GalNAcT3 localized specifically to the
+trans-Golgi region.
+
+GENE FUNCTION
+
+Using a variety of UDP donors and monosaccharide acceptors, Sato et al.
+(2003) found that a soluble form of B4GalNAcT3 expressed in human
+embryonic kidney cells transferred GalNAc to N-acetylglucosyl (GlcNAc)
+beta-benzyl through a beta-1,4-linkage to form LDN. B4GalNAcT3
+transferred GalNAc to all N- and O-glycans examined that contained
+GlcNAc at their nonreducing termini. Some glycohormones contain
+N,N-prime-LDN structures in their N-glycans. Sato et al. (2003) showed
+that B4GalNAcT3 could synthesize this structure using modified fetal
+calf fetuin as a model protein substrate.
+
+Using fluorescence-labeled plant lectin Wisteria floribunda agglutinin
+(WFA), which binds to terminal GalNAc residues of N-glycans, and an
+anti-B4GalNAcT3 monoclonal antibody, Ikehara et al. (2006) showed that
+LDN and B4GalNAcT3 localized to the same human gastric mucous cells,
+with LDN appearing on the cell surface and B4GalNAcT3 in the apical side
+of the nucleus in association with the trans-Golgi network.
+
+Using real-time RT-PCR, Huang et al. (2007) found that expression of
+B4GalNAcT3 was upregulated in 29 (72.5%) of 40 primary colon tumors
+compared with normal colon tissue. B4GalNAcT3 overexpression in a human
+colon cancer cell line enhanced cell-extracellular matrix adhesion,
+migration, anchorage-independent growth, and invasion. B4GalNAcT3
+overexpression increased tumor growth and metastasis and decreased
+survival of tumor-bearing nude mice. The increase in malignant
+phenotypes was associated with activation of focal adhesion kinase
+(PTK2; 600758) and ERK/MAPK signaling. Huang et al. (2007) concluded
+that upregulation of B4GalNAcT3 may contribute to the malignant behavior
+of colon cancer cells.
+
+GENE STRUCTURE
+
+Sato et al. (2003) determined that the B4GALNT3 gene contains at least
+20 exons.
+
+MAPPING
+
+By genomic sequence analysis, Sato et al. (2003) mapped the B4GALNT3
+gene to chromosome 12p13.3.
+
+REFERENCE 1. Huang, J.; Liang, J.-T.; Huang, H.-C.; Shen, T.-L.; Chen, H.-Y.;
+Lin, N.-Y.; Che, M.; Lin, W.-C.; Huang, M.-C.: Beta-1,4-N-acetylgalactosaminyltransferase
+III enhances malignant phenotypes of colon cancer cells. Molec. Cancer
+Res. 5: 543-552, 2007.
+
+2. Ikehara, Y.; Sato, T.; Niwa, T.; Nakamura, S.; Gotoh, M.; Ikehara,
+S. K.; Kiyohara, K.; Aoki, C.; Iwai, T.; Nakanishi, H.; Hirabayashi,
+J.; Tatematsu, M.; Narimatsu, H.: Apical Golgi localization of N,N-prime-diacetyllactosediamine
+synthase, beta-4GalNAc-T3, is responsible for LacdiNAc expression
+on gastric mucosa. Glycobiology 16: 777-785, 2006.
+
+3. Sato, T.; Gotoh, M.; Kiyohara, K.; Kameyama, A.; Kubota, T.; Kikuchi,
+N.; Ishizuka, Y.; Iwasaki, H.; Togayachi, A.; Kudo, T.; Ohkura, T.;
+Nakanishi, H.; Narimatsu, H.: Molecular cloning and characterization
+of a novel human beta-1,4-N-acetylgalactosaminyltransferase, beta-4GalNAc-T3,
+responsible for the synthesis of N,N-prime-diacetyllactosediamine,
+GalNAc-beta-1-4GlcNAc. J. Biol. Chem. 278: 47534-47544, 2003.
+
+CREATED Patricia A. Hartz: 8/1/2008
+
+EDITED carol: 07/01/2010
+wwang: 8/1/2008
+

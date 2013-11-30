@@ -1,0 +1,1356 @@
+600664	TITLE *600664 CONSERVED HELIX-LOOP-HELIX UBIQUITOUS KINASE; CHUK
+;;INHIBITOR OF KAPPA LIGHT POLYPEPTIDE GENE ENHANCER IN B CELLS, KINASE
+OF, ALPHA; IKBKA;;
+NUCLEAR FACTOR OF KAPPA LIGHT CHAIN GENE ENHANCER IN B CELLS INHIBITOR,
+KINASE OF, ALPHA; NFKBIKA;;
+I-KAPPA-B KINASE-ALPHA;;
+IKK-ALPHA; IKKA;;
+I-KAPPA-B KINASE 1; IKK1
+DESCRIPTION 
+DESCRIPTION
+
+NFKB1 (164011) or NFKB2 (164012) is bound to REL (164910), RELA
+(164014), or RELB (604758) to form the NFKB complex. The NFKB complex is
+inhibited by I-kappa-B proteins (NFKBIA, 164008, or NFKBIB, 604495),
+which inactivate NF-kappa-B by trapping it in the cytoplasm.
+Phosphorylation of serine residues on the I-kappa-B proteins by kinases
+(IKBKA or IKBKB, 603258) marks them for destruction via the
+ubiquitination pathway, thereby allowing activation of the NF-kappa-B
+complex. Activated NFKB complex translocates into the nucleus and binds
+DNA at kappa-B-binding motifs such as 5-prime GGGRNNYYCC 3-prime or
+5-prime HGGARNYYCC 3-prime (where H is A, C, or T; R is an A or G
+purine; and Y is a C or T pyrimidine).
+
+CLONING
+
+Helix-loop-helix proteins contain stretches of DNA that encode 2
+amphipathic alpha-helices joined by a loop structure and are involved in
+protein dimerization and transcriptional regulation essential to a
+variety of cellular processes. Mock et al. (1995) performed mapping
+studies of a new member of this family of proteins in the human and
+mouse. The protein contains a serine/threonine kinase domain; due to its
+ubiquitous expression in a broad array of tissues and high degree of
+conservation across species, it was designated CHUK for 'conserved
+helix-loop-helix ubiquitous kinase.' The multidomain polypeptide encoded
+by the CHUK gene also contains leucine zipper motifs.
+
+DiDonato et al. (1997) purified a cytokine-activated protein kinase
+complex, IKK (for I-kappa-B kinase), that phosphorylates I-kappa-B
+proteins on the sites that trigger their degradation. They molecularly
+cloned and identified a component of IKK, IKK-alpha (CHUK), as a serine
+kinase. Mercurio et al. (1997) independently purified CHUK, which they
+called IKK1, from HeLa cells. They found that mutant forms of IKK1 had
+less effect upon NFKB activation than did mutant forms of IKK2 (also
+called IKBKB, IKK-beta, or IKKB). IKK-alpha is approximately 50%
+identical to IKK-beta (603258), and both contain kinase, leucine zipper,
+and helix-loop-helix domains. Although IKK-alpha and IKK-beta can
+homodimerize, heterodimerization appears to be favored over
+homodimerization (Mercurio et al., 1997).
+
+By use of NF-kappa-B-inducing kinase (NIK; 604655) as bait in a yeast
+2-hybrid screen of a human B-cell line to identify NIK-interacting
+proteins, Regnier et al. (1997) isolated CHUK, which phosphorylates
+NFKBIA at ser32 and ser36 and NFKBIB at ser19 and ser23. The
+phosphorylation of these proteins leads to the release of NFKB and
+activation of nuclear genes. By screening a Jurkat T-cell cDNA library,
+Regnier et al. (1997) obtained a full-length CHUK cDNA encoding a
+745-amino acid protein that is 96% identical to mouse Chuk. A
+catalytically inactive CHUK mutant acts as a dominant-negative inhibitor
+of TNF (191160)-, IL1 (see 147760)-, TRAF2 (601895)-, and NIK-induced
+NFKB activation.
+
+Hu and Wang (1998) cloned and characterized IKKA and IKKB. Northern blot
+analysis revealed expression of major 3.6- and minor 7.0-kb IKKA
+transcripts in all tissues tested, with highest levels in heart,
+placenta, skeletal muscle, kidney, pancreas, spleen, thymus, prostate,
+testis, and peripheral blood. IKKB was also ubiquitously expressed as
+major 3.4- and minor 6.5-kb transcripts. Expression of both transcripts
+was highest in 7-day mouse embryonic tissue. Hu and Wang (1998)
+suggested that IKKA and IKKB may be functionally related and cooperate
+in cells.
+
+GENE FUNCTION
+
+Delhase et al. (1999) demonstrated that in mammalian cells,
+phosphorylation of 2 sites at the activation loop of IKK-beta was
+essential for activation of IKK by TNF and IL1. Elimination of
+equivalent sites in IKK-alpha did not interfere with IKK activation.
+Thus IKK-beta, not IKK-alpha, is the target for proinflammatory stimuli.
+Once activated, IKK-beta autophosphorylated at a carboxy-terminal serine
+cluster. This phosphorylation decreased IKK activity and was suggested
+to prevent prolonged activation of the inflammatory response.
+
+Ozes et al. (1999) showed that AKT1 (164730) is involved in the
+activation of NFKB1 by TNF, following the activation of
+phosphatidylinositol 3-kinase (PIK3; see 171834). Constitutively active
+AKT1 induces NFKB1 activity, mediated by phosphorylation of IKK-alpha at
+threonine 23, which can be blocked by activated NIK. Conversely, NIK
+activation of NFKB1, mediated by phosphorylation of IKK-alpha at serine
+176, is blocked by an AKT1 mutant lacking kinase activity (i.e., kinase
+dead AKT), indicating that both AKT1 and NIK are necessary for TNF
+activation of NFKB1 through the phosphorylation of IKK-alpha. IKK-beta
+is not phosphorylated by either NIK or AKT1 and is apparently
+differentially regulated.
+
+May et al. (2000) determined that an N-terminal alpha-helical region of
+NEMO (300248) associates with a region of IKKA and IKKB that they termed
+the NBD for 'NEMO-binding domain.' The NBD is a 6-amino acid C-terminal
+segment within the region denoted alpha-2 of IKKA and IKKB. Wildtype,
+but not mutant, NDB peptide inhibited cytokine-induced NFKB activation
+and ameliorated experimental acute inflammation.
+
+Anest et al. (2003) demonstrated nuclear accumulation of IKKA after
+cytokine exposure, suggesting a nuclear function for this protein.
+Consistent with this, chromatin immunoprecipitation assays revealed that
+IKKA was recruited to the promoter regions of NF-kappa-B-regulated genes
+on stimulation with TNFA (191160). Notably, NF-kappa-B-regulated gene
+expression was suppressed by the loss of IKKA, and this correlated with
+a complete loss of gene-specific phosphorylation of histone H3 (see
+602810) on serine-10, a modification previously associated with positive
+gene expression. Furthermore, Anest et al. (2003) showed that IKKA can
+directly phosphorylate histone H3 in vitro, suggesting a new substrate
+for this kinase. Anest et al. (2003) proposed that IKKA is an essential
+regulator of NFKB-dependent gene expression through control of
+promoter-associated histone phosphorylation after cytokine exposure.
+
+Yamamoto et al. (2003) independently demonstrated that IKKA functions in
+the nucleus to activate the expression of NF-kappa-B-responsive genes
+after stimulation with cytokines. IKKA interactions with CREB-binding
+protein (600140) and in conjunction with RELA (164014) is recruited to
+NF-kappa-B-responsive promoters and mediates the cytokine-induced
+phosphorylation and subsequent acetylation of specific residues in
+histone H3. Yamamoto et al. (2003) concluded that their results define a
+new nuclear role of IKKA in modifying histone function that is critical
+for the activation of NF-kappa-B-directed gene expression.
+
+Using mouse embryo fibroblasts lacking both Ikbkb and Ikbka, Sizemore et
+al. (2004) found that both proteins were required for induction of a
+subset of Ifng (147570)-stimulated genes independent of Nfkb activation
+and with no defect in Stat1 (600555) activation or function. Sizemore et
+al. (2004) concluded that the IKK-dependent pathway is an additional
+important pathway for IFNG-stimulated gene expression.
+
+Hoberg et al. (2004) presented evidence that IKK-alpha phosphorylates
+chromatin-bound SMRT (NCOR2; 600848), stimulating its removal from
+chromatin and allowing recruitment of NFKB to promoters and
+transcription of NFKB-dependent genes.
+
+Park et al. (2005) presented evidence that IKKA is important for the
+activation of estrogen-mediated gene expression.
+
+Lawrence et al. (2005) described a role for IKK-alpha in the negative
+regulation of macrophage activation and inflammation. IKK-alpha
+contributes to suppression of NF-kappa-B activity by accelerating both
+the turnover of the NF-kappa-B subunits Rela and c-Rel and their removal
+from proinflammatory gene promoters. Inactivation of IKK-alpha in mice
+enhanced inflammation and bacterial clearance. Lawrence et al. (2005)
+concluded that the 2 IKK catalytic subunits have evolved opposing but
+complementary roles needed for the intricate control of inflammation and
+innate immunity.
+
+Werner et al. (2005) demonstrated that different inflammatory stimuli
+induce distinct IKK profiles, and they examined the underlying molecular
+mechanisms. Although TNFA-induced IKK activity was rapidly attenuated by
+negative feedback, lipopolysaccharide signaling and
+lipopolysaccharide-specific gene expression programs were dependent on a
+cytokine-mediated positive feedback mechanism. Thus, Werner et al.
+(2005) concluded that the distinct biologic responses to LPS and TNFA
+depend on signaling pathway-specific mechanisms that regulate the
+temporal profile of IKK activity.
+
+Using an RNA interference-based screen, Tang et al. (2006) found 4
+negative regulators of insulin-responsive glucose transport in mouse
+adipocytes: Pctk1 (311550), Pftk1 (610679), Ikbka, and Map4k4 (604666).
+
+Wu et al. (2006) demonstrated that NEMO (300248), the regulatory subunit
+of the IKK complex, associates with activated ATM (607585) after the
+induction of DNA double-strand breaks. ATM is exported in a
+NEMO-dependent manner to the cytoplasm, where it associates with and
+causes the activation of IKK in a manner dependent on another IKK
+regulator, a protein rich in glutamate, leucine, lysine, and serine
+(ELKS; 607127). Thus, Wu et al. (2006) concluded that regulated nuclear
+shuttling of NEMO links 2 signaling kinases, ATM and IKK, to activate
+NF-kappa-B by genotoxic signals.
+
+TLR7 (300365) and TLR9 (605474) associate with the cytoplasmic adaptor
+protein MYD88 (602170), which associates with IRF7 (605047). IRF7
+associates with TRAF6 (602355) and IRAK1 (300283), and these 3 proteins
+are critical for induction of IFNA (IFNA1; 147660) production, but not
+cytokine production. Hoshino et al. (2006) found that mouse plasmacytoid
+dendritic cells deficient in Ikka were severely impaired in Tlr7- or
+Tlr9-induced Ifna production, but were able to produce detectable
+inflammatory cytokines. Expression of a kinase-deficient Ikka inhibited
+the ability of Myd88 or Traf6 to activate the Ifna promoter in synergy
+with Irf7. Coimmunoprecipitation analysis showed that Ikka associated
+with and phosphorylated Irf7. Hoshino et al. (2006) concluded that IKKA
+is a critical component of the cytoplasmic
+transductional-transcriptional processor leading to induction of IFNA
+production.
+
+Liu et al. (2006) identified somatic mutations in IKKA exon 15 in 8 of 9
+squamous cell carcinomas (SCCs) examined. More transition mutations than
+transversion mutations were detected. In chemical carcinogen-induced
+skin cancer in mice, overexpression of wildtype human IKKA reduced
+development of SCCs and metastases. The IKKA transgene increased
+terminal differentiation and reduced mitogenic activity in the
+epidermis, and decreased angiogenic activity in the skin stroma. Liu et
+al. (2006) concluded that IKKA in the epidermis antagonizes mitogenic
+and angiogenic signals and represses tumor progression and metastases.
+
+Zhu et al. (2007) identified 14-3-3-sigma (SFN; 601290) as a downstream
+target of Ikka in cell cycle regulation in response to DNA damage and
+found that the 14-3-3-sigma locus was hypermethylated in Ikka -/- mouse
+keratinocytes, but not in wildtype keratinocytes. Trimethylated histone
+H3-lys9 associated with Suv39h1 (300254) and Dnmt3a (602769) in the
+methylated 14-3-3-sigma locus. Reintroduction of Ikka restored
+14-3-3-sigma expression by associating with H3 and preventing access of
+Suv39h1 to H3, thereby preventing hypermethylation of 14-3-3-sigma. Zhu
+et al. (2007) concluded that IKKA protects the 14-3-3-sigma locus from
+hypermethylation, which serves as a mechanism of maintaining genomic
+stability in keratinocytes.
+
+Mittal et al. (2006) found that the Yersinia YopJ virulence factor
+inhibited the host inflammatory response and induced apoptosis of immune
+cells by catalyzing acetylation of 2 ser residues in the activation loop
+of MEK2 (MAP2K2; 601263), thereby blocking MEK2 activation and signal
+propagation. YopJ also caused acetylation of a thr residue in the
+activation loop of both IKKA and IKKB. Mittal et al. (2006) concluded
+that ser/thr acetylation is a mode of action for bacterial toxins that
+may also occur under nonpathogenic conditions to regulate protein
+function.
+
+Luo et al. (2007) examined IKK-alpha involvement in prostate cancer (see
+176807) and its progression. They demonstrated that a mutation that
+prevents IKK-alpha activation slowed down prostate cancer growth and
+inhibited metastatogenesis in TRAMP mice, which express SV40 T antigen
+in the prostate epithelium. Decreased metastasis correlated with
+elevated expression of the metastasis suppressor Maspin (154790), the
+ablation of which restored metastatic activity. IKK-alpha activation by
+RANK ligand (RANKL; 602642) inhibited Maspin expression in prostate
+epithelial cells, whereas repression of Maspin transcription required
+nuclear translocation of active IKK-alpha. The amount of active nuclear
+IKK-alpha in mouse and human prostate cancer correlated with metastatic
+progression, reduced Maspin expression, and infiltration of prostate
+tumors with RANKL-expressing inflammatory cells. Luo et al. (2007)
+proposed that tumor-infiltrating RANKL-expressing cells leads to nuclear
+IKK-alpha activation and inhibition of Maspin transcription, thereby
+promoting the metastatic phenotype.
+
+GENE STRUCTURE
+
+Lahtela et al. (2010) detected 21 exons in the CHUK gene.
+
+MAPPING
+
+By somatic cell hybrid analyses, Mock et al. (1995) mapped the CHUK gene
+to 10q24-q25. By a combination of somatic cell hybrid, recombinant
+inbred, and backcross analyses, they mapped Chuk and a related sequence,
+Chuk-rs1, to mouse chromosomes 19 and 16, respectively.
+
+By FISH, Hu and Wang (1998) mapped the CHUK gene to chromosome 10q24.
+
+MOLECULAR GENETICS
+
+Lahtela et al. (2010) identified homozygosity for a nonsense mutation
+(600664.0001) in 2 fetuses from 1 family with autosomal recessive cocoon
+syndrome (613630).
+
+ANIMAL MODEL
+
+Takeda et al. (1999) disrupted the Ikka gene in mice. Ikka -/- mice died
+within 4 hours of birth. They had abnormal limb and craniofacial
+development despite normal skeletal development. The skin appeared
+abnormally shiny. The epidermal cells of Ikka-deficient mouse fetuses
+were highly proliferative with dysregulated epidermal differentiation.
+In the basal layer of the epidermis, degradation of I-kappa-B and
+nuclear localization of NFKB were not observed. Thus, Ikka is essential
+for NFKB activation in the limb and skin during embryogenesis.
+Surprisingly, there was no impairment of NFKB activation in response to
+either TNF-alpha or IL1 in Ikka-deficient embryonic fibroblasts or
+thymocytes, indicating that Ikka is not essential for cytokine-induced
+activation of NFKB.
+
+Hu et al. (1999) generated Ikka-deficient mice. Homozygous mutant mice
+died within 30 minutes of birth. At embryonic day 18, Ikka -/- mice had
+rudimentary protrusions instead of normal limbs. They lacked well-formed
+tails and their heads were shorter than normal, with a truncated snout
+and no external ears. They had an omphalocele and taut skin. At autopsy,
+there were no morphologic abnormalities of heart, lung, liver, kidneys,
+spleen, brain, and spinal cord; however, the placentae were severely
+congested with bulging vessels and blood sinuses on the maternal surface
+and normal fetal surface. Skeletal preparations revealed fused sacral
+and cervical vertebrae and a short sternum with delayed ossification and
+split xiphoid. Microscopic examination of the skin revealed hyperplasia
+of the stratum spinosum, and mutant epidermis lacked a stratum
+granulosum and stratum corneum. The lack of Ikka appeared to completely
+disrupt keratinocyte differentiation. Hu et al. (1999) hypothesized that
+the increased thickness and adhesiveness of mutant skin prevented the
+emergence of limb outgrowths.
+
+Yoshida et al. (2000) examined wildtype and Ikka -/- mice on embryonic
+days 18 and 19 by light and electron microscopy or immunocytochemistry.
+During normal development of the conjunctiva and cornea, nuclear
+localization of NFKB1 p50 was seen in areas where basal undifferentiated
+cells give rise to differentiated cell types. However, in the Ikka -/-
+tissues, no nuclear p50 staining was detected. The authors concluded
+that IKKA is specifically required for formation of cornea and
+conjunctiva. They stated that this function might be exerted through an
+effect on NFKB activity.
+
+Using an ex vivo mouse keratinocyte culture system, immunofluorescence
+microscopy, and Western blot analysis, Hu et al. (2001) showed that
+keratinocytes derived from Ikka-deficient mice exhibit a
+hyperproliferative phenotype, fail to undergo terminal differentiation,
+and do not express the appropriate differentiation markers, loricrin
+(152445) and filaggrin (135940). This phenotype was observed in the
+absence of a defect in NFKB activation. Introduction of Ikka into Ikka
+-/- keratinocytes restores keratinocyte differentiation and filaggrin
+expression. Mutation and immunoblot analysis established that induction
+of keratinocyte differentiation does not require the protein kinase
+activity of Ikka. Fetal Ikka -/- skin transplanted to immunodeficient
+mice differentiated normally and expressed proliferation and
+differentiation markers including Pcna (176740), Krt5 (148040), Krt1
+(139350), and filaggrin, suggesting that normal skin contains a factor
+that induces terminal differentiation of Ikka-deficient keratinocytes.
+The authors demonstrated that wildtype keratinocytes produce,
+independently of NFKB activation, a keratinocyte
+differentiation-inducing factor (kDIF) protein. Hu et al. (2001)
+concluded that the defect in Ikka -/- keratinocytes is continuous
+proliferation even in the presence of growth-inhibiting levels of
+extracellular calcium. Although Ikka is replaceable by, and is less
+efficient than, Ikkb for activating NFKB, it is essential for normal
+epidermal development.
+
+By radiation chimera and flow cytometric analyses, Senftleben et al.
+(2001) found reduced levels of mature B lymphocytes in spleen and lymph
+nodes correlated with high turnover and apoptosis rates in immature B
+cells in Ikka -/- reconstituted mice. In vivo, the spleens of chimeric
+animals exhibited poor germinal center formation in response to
+immunization. Immunoblot and electrophoretic mobility shift analyses
+showed that Ikka -/- B cells contained little p52 and increased amounts
+of p100, indicative of defective processing of NFKB2. Viable mice
+carrying mutations in the activating phosphorylation sites of Ikka
+(ser176 to ala and ser180 to ala) expressed a similar, sometimes more
+severe, phenotype, suggesting a requirement for the phosphorylation of
+these residues either by Ikka itself or by NIK. Recombinant Ikka was
+much more efficient than Ikkb or NIK in phosphorylation of the
+C-terminal regulatory domain of NFKB2, whereas it was less efficient in
+the phosphorylation of IKBA. Senftleben et al. (2001) proposed that
+defective NFKB2 processing likely interferes with B-cell maturation.
+They concluded that IKKA is required for the activation of NFKB2, which
+leads to B-cell maturation and germinal center formation.
+
+Matsushima et al. (2001) found that both Nik -/- and Ikka -/- mice had
+impaired NFKB activation in response to lymphotoxin B receptor (600979)
+stimulation but not TNF receptor-1 (191190) stimulation. These mice also
+had defective development of Peyer patches.
+
+Cao et al. (2001) generated an Ikka(AA) knockin allele containing
+alanines instead of serines in the activation loop. Ikka(AA/AA) mice
+were healthy and fertile, but females displayed a severe lactation
+defect due to impaired proliferation of mammary epithelial cells. Ikka
+activity was required for NFKB activation in mammary epithelial cells
+during pregnancy and in response to RANK ligand but not TNF. Ikka and
+NFKB activation were also required for optimal cyclin D1 (168461)
+induction. Defective RANK signaling or cyclin D1 expression resulted in
+the same phenotypic effect as the Ikka(AA) mutation, which could be
+completely suppressed by a mammary-specific cyclin D1 transgene. Thus,
+IKKA is a critical intermediate in a pathway that controls mammary
+epithelial proliferation in response to RANK signaling via cyclin D1.
+
+Sil et al. (2004) postulated that the morphogenetic defects in
+Ikk-alpha-deficient mice are not caused by reduced NF-kappa-B activity
+but instead are due to failed epidermal differentiation that disrupts
+proper epidermal-mesodermal interactions. Sil et al. (2004) tested this
+hypothesis by introducing an epidermal-specific Ikka transgene into
+Ikk-alpha-deficient mice. Mice lacking Ikk-alpha in all cell types
+including bone and cartilage, but not in basal epidermal keratinocytes,
+exhibit normal epidermal differentiation and skeletal morphology. Thus,
+epidermal differentiation is required for proper morphogenesis of
+mesodermally derived skeletal elements. One way by which IKK-alpha
+controls skeletal and craniofacial morphogenesis is by repressing
+expression of fibroblast growth factor family members, such as FGF8
+(600483), whose expression is specifically elevated in the limb bud
+ectoderm of Ikk-alpha-deficient mice.
+
+Ohazama et al. (2004) determined that Ikka is expressed in mouse tooth
+epithelium and has an essential role in incisor and molar tooth
+development. Molar teeth in Ikka mutant mice had abnormal cusp
+morphology due to a reduction of the Nfkb pathway. Incisors, however,
+had a more severe and earlier phenotype where tooth buds failed to
+invaginate into the underlying mesenchyme but instead evaginated into
+the developing oral cavity. A similar evagination of epithelium was also
+observed in whisker follicles. Unlike cusp morphogenesis, the Nfkb
+pathway was not involved in the invagination of incisor tooth
+epithelium. Changes in the expression of Notch1 (190198), Notch2
+(600275), Wnt7b (601967), and Shh (600725) in incisor epithelium of Ikka
+mutants suggested that the Nfkb-independent function is mediated by
+Notch/Wnt/Shh signaling pathways.
+
+ALLELIC VARIANT .0001
+COCOON SYNDROME
+CHUK, GLN422TER
+
+In 2 fetuses with cocoon syndrome (613630) from a Finnish family,
+Lahtela et al. (2010) identified homozygosity for a C-to-T transition at
+nucleotide 1264 in exon 12 of the CHUK gene, resulting in a glu-to-stop
+substitution at codon 422 (E422X). This mutation was identified in
+heterozygosity in both of the carrier parents and was not identified in
+any of 100 ancestrally-matched control subjects. Fibroblast DNA from the
+affected fetuses had no CHUK protein expression.
+
+REFERENCE 1. Anest, V.; Hanson, J. L.; Cogswell, P. C.; Steinbrecher, K. A.;
+Strahl, B. D.; Baldwin, A. S.: A nucleosomal function for I-kappa-B
+kinase-alpha in NF-kappa-B-dependent gene expression. Nature 423:
+659-663, 2003.
+
+2. Cao, Y.; Bonizzi, G.; Seagroves, T. N.; Greten, F. R.; Johnson,
+R.; Schmidt, E. V.; Karin, M.: IKK-alpha provides an essential link
+between RANK signaling and cyclin D1 expression during mammary gland
+development. Cell 107: 763-775, 2001.
+
+3. Delhase, M.; Hayakawa, M.; Chen, Y.; Karin, M.: Positive and negative
+regulation of I-kappa-B kinase activity through IKK-beta subunit phosphorylation. Science 284:
+309-312, 1999.
+
+4. DiDonato, J. A.; Hayakawa, M.; Rothwarf, D. M.; Zandi, E.; Karin,
+M.: A cytokine-responsive IkappaB kinase that activates the transcription
+factor NF-kappaB. Nature 388: 548-554, 1997.
+
+5. Hoberg, J. E.; Yeung, F.; Mayo, M. W.: SMRT derepression by the
+I-kappa-B kinase alpha: a prerequisite to NF-kappa-B transcription
+and survival. Molec. Cell 16: 245-255, 2004.
+
+6. Hoshino, K.; Sugiyama, T.; Matsumoto, M.; Tanaka, T.; Saito, M.;
+Hemmi, H.; Ohara, O.; Akira, S.; Kaisho, T.: I-kappa-B kinase-alpha
+is critical for interferon-alpha production induced by Toll-like receptors
+7 and 9. Nature 440: 949-953, 2006.
+
+7. Hu, M. C.-T.; Wang, Y.: I-kappa-B kinase-alpha and -beta genes
+are coexpressed in adult and embryonic tissues but localized to different
+human chromosomes. Gene 222: 31-40, 1998.
+
+8. Hu, Y.; Baud, V.; Delhase, M.; Zhang, P.; Deerinck, T.; Ellisman,
+M.; Johnson, R.; Karin, M.: Abnormal morphogenesis but intact IKK
+activation in mice lacking the IKK-alpha subunit of I-kappa-B kinase. Science 284:
+316-320, 1999.
+
+9. Hu, Y.; Baud, V.; Oga, T.; Kim, K. I.; Yoshida, K.; Karin, M.:
+IKK-alpha controls formation of the epidermis independently of NF-kappa-B. Nature 410:
+710-714, 2001.
+
+10. Lahtela, J.; Nousiainen, H. O.; Stefanovic, V.; Tallila, J.; Viskari,
+H.; Karikoski, R.; Gentile, M.; Saloranta, C.; Varilo, T.; Salonen,
+R.; Kestila, M.: Mutant CHUK and severe fetal encasement malformation. New
+Eng. J. Med. 363: 1631-1637, 2010.
+
+11. Lawrence, T.; Bebien, M.; Liu, G. Y.; Nizet, V.; Karin, M.: IKK-alpha
+limits macrophage NF-kappa-B activation and contributes to the resolution
+of inflammation. Nature 434: 1138-1143, 2005.
+
+12. Liu, B.; Park, E.; Zhu, F.; Bustos, T.; Liu, J.; Shen, J.; Fischer,
+S. M.; Hu, Y.: A critical role for I-kappa-B kinase alpha in the
+development of human and mouse squamous cell carcinomas. Proc. Nat.
+Acad. Sci. 103: 17202-17207, 2006.
+
+13. Luo, J.-L.; Tan, W.; Ricono, J. M.; Korchynskyi, O.; Zhang, M.;
+Gonias, S. L.; Cheresh, D. A.; Karin, M.: Nuclear cytokine-activated
+IKK-alpha controls prostate cancer metastasis by repressing Maspin. Nature 446:
+690-694, 2007. Note: Erratum: Nature 457: 920 only, 2009.
+
+14. Matsushima, A.; Kaisho, T.; Rennert, P. D.; Nakano, H.; Kurosawa,
+K.; Uchida, D.; Takeda, K.; Akira, S.; Matsumoto, M.: Essential role
+of nuclear factor (NF)-kappa-B-inducing kinase and inhibitor of kappa-B
+(I-kappa-B) kinase alpha in NF-kappa-B activation through lymphotoxin
+beta receptor, but not through tumor necrosis factor receptor I. J.
+Exp. Med. 193: 631-636, 2001.
+
+15. May, M. J.; D'Acquisto, F.; Madge, L. A.; Glockner, J.; Pober,
+J. S.; Ghosh, S.: Selective inhibition of NF-kappa-B activation by
+a peptide that blocks the interaction of NEMO with the I-kappa-B kinase
+complex. Science 289: 1550-1554, 2000.
+
+16. Mercurio, F.; Zhu, H.; Murray, B. W.; Shevchenko, A.; Bennett,
+B. L.; Li, J.; Young, D. B.; Barbosa, M.; Mann, M.; Manning, A.; Rao,
+A.: IKK-1 and IKK-2: cytokine-activated I-kappa-B kinases essential
+for NF-kappa-B activation. Science 278: 860-866, 1997.
+
+17. Mittal, R.; Peak-Chew, S.-Y.; McMahon, H. T.: Acetylation of
+MEK2 and I-kappa-B kinase (IKK) activation loop residues by YopJ inhibits
+signaling. Proc. Nat. Acad. Sci. 18574-18579, 2006.
+
+18. Mock, B. A.; Connelly, M. A.; McBride, O. W.; Kozak, C. A.; Marcu,
+K. B.: CHUK, a conserved helix-loop-helix ubiquitous kinase, maps
+to human chromosome 10 and mouse chromosome 19. Genomics 27: 348-351,
+1995.
+
+19. Ohazama, A.; Hu, Y.; Schmidt-Ullrich, R.; Cao, Y.; Scheidereit,
+C.; Karin, M.; Sharpe, P. T.: A dual role for Ikk-alpha in tooth
+development. Dev. Cell 6: 219-227, 2004.
+
+20. Ozes, O. N.; Mayo, L. D.; Gustin, J. A.; Pfeffer, S. R.; Pfeffer,
+L. M.; Donner, D. B.: NF-kappa-B activation by tumour necrosis factor
+requires the Akt serine-threonine kinase. Nature 401: 82-85, 1999.
+
+21. Park, K.-J.; Krishnan, V.; O'Malley, B. W.; Yamamoto, Y.; Gaynor,
+R. B.: Formation of an IKK-alpha-dependent transcription complex
+is required for estrogen receptor-mediated gene activation. Molec.
+Cell 18: 71-82, 2005.
+
+22. Regnier, C. H.; Song, H. Y.; Gao, X.; Goeddel, D. V.; Cao, Z.;
+Rothe, M.: Identification and characterization of an I-kappa-B kinase. Cell 90:
+373-383, 1997.
+
+23. Senftleben, U.; Cao, Y.; Xiao, G.; Greten, F. R.; Krahn, G.; Bonizzi,
+G.; Chen, Y.; Hu, Y.; Fong, A.; Sun, S.-C.; Karin, M.: Activation
+by IKK-alpha of a second, evolutionarily conserved, NF-kappa-B signaling
+pathway. Science 293: 1495-1499, 2001.
+
+24. Sil, A. K.; Maeda, S.; Sano, Y.; Roop, D. R.; Karin, M.: I-kappa-B
+kinase-alpha acts in the epidermis to control skeletal and craniofacial
+morphogenesis. Nature 428: 660-664, 2004.
+
+25. Sizemore, N.; Agarwal, A.; Das, K.; Lerner, N.; Sulak, M.; Rani,
+S.; Ransohoff, R.; Shultz, D.; Stark, G. R.: Inhibitor of kappa-B
+kinase is required to activate a subset of interferon gamma-stimulated
+genes. Proc. Nat. Acad. Sci. 101: 7994-7998, 2004.
+
+26. Takeda, K.; Takeuchi, O.; Tsujimura, T.; Itami, S.; Adachi, O.;
+Kawai, T.; Sanjo, H.; Yoshikawa, K.; Terada, N.; Akira, S.: Limb
+and skin abnormalities in mice lacking IKK-alpha. Science 284: 313-316,
+1999.
+
+27. Tang, X.; Guilherme, A.; Chakladar, A.; Powelka, A. M.; Konda,
+S.; Virbasius, J. V.; Nicoloro, S. M. C.; Straubhaar, J.; Czech, M.
+P.: An RNA interference-based screen identifies MAP4K4/NIK as a negative
+regulator of PPAR-gamma, adipogenesis, and insulin-responsive hexose
+transport. Proc. Nat. Acad. Sci. 103: 2087-2092, 2006.
+
+28. Werner, S. L.; Barken, D.; Hoffmann, A.: Stimulus specificity
+of gene expression programs determined by temporal control of IKK
+activity. Science 309: 1857-1861, 2005.
+
+29. Wu, Z.-H.; Shi, Y.; Tibbetts, R. S.; Miyamoto, S.: Molecular
+linkage between the kinase ATM and NF-kappaB signaling in response
+to genotoxic stimuli. Science 311: 1141-1146, 2006.
+
+30. Yamamoto, Y.; Verma, U. N.; Prajapati, S.; Kwak, Y.-T.; Gaynor,
+R. B.: Histone H3 phosphorylation by IKK-alpha is critical for cytokine-induced
+gene expression. Nature 423: 655-659, 2003.
+
+31. Yoshida, K.; Hu, Y.; Karin, M.: I-kappa-B kinase alpha is essential
+for development of the mammalian cornea and conjunctiva. Invest.
+Ophthal. Vis. Sci. 41: 3665-3669, 2000.
+
+32. Zhu, F.; Xia, X.; Liu, B.; Shen, J.; Hu, Y.; Person, M.; Hu, Y.
+: IKK-alpha shields 14-3-3-sigma, a G2/M cell cycle checkpoint gene,
+from hypermethylation, preventing its silencing. Molec. Cell 27:
+214-227, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/8/2010
+Patricia A. Hartz - updated: 9/19/2007
+Paul J. Converse - updated: 5/1/2007
+Ada Hamosh - updated: 4/27/2007
+Patricia A. Hartz - updated: 12/20/2006
+Patricia A. Hartz - updated: 6/8/2006
+Paul J. Converse - updated: 5/24/2006
+Ada Hamosh - updated: 4/19/2006
+Patricia A. Hartz - updated: 3/28/2006
+Ada Hamosh - updated: 11/16/2005
+Ada Hamosh - updated: 5/27/2005
+Patricia A. Hartz - updated: 5/4/2005
+Paul J. Converse - updated: 6/16/2004
+Patricia A. Hartz - updated: 4/20/2004
+Ada Hamosh - updated: 4/7/2004
+Ada Hamosh - updated: 6/17/2003
+Paul J. Converse - updated: 12/16/2002
+Stylianos E. Antonarakis - updated: 1/7/2002
+Paul J. Converse - updated: 10/4/2001
+Paul J. Converse - updated: 8/29/2001
+Paul J. Converse - updated: 4/4/2001
+Jane Kelly - updated: 1/18/2001
+Paul J. Converse - updated: 8/31/2000
+Paul J. Converse - updated: 3/7/2000
+Paul J. Converse - updated: 2/15/2000
+Ada Hamosh - updated: 4/8/1999
+Ada Hamosh - updated: 2/24/1999
+
+CREATED Victor A. McKusick: 7/19/1995
+
+EDITED mgross: 02/05/2013
+alopez: 11/8/2010
+terry: 11/8/2010
+alopez: 7/16/2010
+alopez: 3/11/2009
+mgross: 9/28/2007
+terry: 9/19/2007
+alopez: 5/11/2007
+mgross: 5/1/2007
+terry: 4/27/2007
+carol: 1/3/2007
+wwang: 12/20/2006
+mgross: 6/8/2006
+mgross: 5/24/2006
+alopez: 4/20/2006
+terry: 4/19/2006
+wwang: 3/28/2006
+alopez: 11/16/2005
+carol: 5/27/2005
+wwang: 5/27/2005
+terry: 5/4/2005
+mgross: 6/16/2004
+mgross: 4/20/2004
+alopez: 4/8/2004
+terry: 4/7/2004
+carol: 9/17/2003
+alopez: 6/19/2003
+terry: 6/17/2003
+mgross: 12/16/2002
+mgross: 1/7/2002
+mgross: 10/4/2001
+mgross: 8/29/2001
+alopez: 4/4/2001
+cwells: 1/25/2001
+terry: 1/18/2001
+alopez: 8/31/2000
+alopez: 4/14/2000
+carol: 3/7/2000
+carol: 2/15/2000
+alopez: 4/9/1999
+alopez: 4/8/1999
+alopez: 3/23/1999
+alopez: 2/24/1999
+alopez: 11/5/1998
+mark: 7/19/1995
+
+610932	TITLE *610932 TWINFILIN, DROSOPHILA, HOMOLOG OF, 1; TWF1
+;;PROTEIN TYROSINE KINASE 9; PTK9;;
+A6 PROTEIN TYROSINE KINASE
+DESCRIPTION 
+CLONING
+
+By screening a human embryonic lung fibroblast bacteria expression
+library with antiphosphotyrosine antibody, Beeler et al. (1994) cloned
+TWF1, which they called A6. The deduced 350-amino acid protein has a
+calculated molecular mass of 40.3 kD. TWF1 has an N-myristoylation site
+and several sites for threonine, serine, and tyrosine phosphorylation,
+but it lacks a conserved protein kinase catalytic domain. Northern blot
+analysis detected a 3.4-kb transcript that was highly expressed in
+colon, testis, uterus, ovary, prostate, and lung. Lower expression was
+detected in brain, bladder, and heart, and no expression was detected in
+liver. In vitro transcription/translation resulted in a 40-kD TWF1
+protein, as determined by SDS-PAGE. Southern blot analysis indicated
+that TWF1 is conserved in vertebrates.
+
+By searching databases for homologs of yeast twinfilin, Vartiainen et
+al. (2000) identified mouse and human TWF1. The mouse and human TWF1
+proteins contain 2 cofilin (see CFL1; 601442)-like repeats called
+actin-depolymerizing factor (DSTN; 609114) homology (ADFH) domains.
+Immunofluorescence microscopy localized Twf1 in a punctate perinuclear
+distribution in mouse fibroblasts and neuroblastoma cells. Twf1 also
+localized to globular (G)-actin (see 102610)-rich areas of the actin
+cytoskeleton in fibroblasts and to filamentous (F)-actin-rich filopodia
+in neuroblastoma cells.
+
+GENE FUNCTION
+
+Beeler et al. (1994) showed that recombinant TWF1 underwent
+autophosphorylation on tyrosines and serines in an in vitro kinase
+assay, and it phosphorylated exogenous substrates on tyrosines.
+Recombinant TWF1 had kinase activity similar to that of recombinant
+FGFR2 (176943), with optimal activity over pH 6.5 to 7.4 and a
+preference for manganese over magnesium as a divalent cofactor.
+
+In contrast to the findings of Beeler et al. (1994), Vartiainen et al.
+(2000) found that recombinant mouse Twf1 lacked tyrosine kinase
+activity. They showed that Twf1 bound G-actin in a 1:1 stoichiometry and
+prevented F-actin assembly in a concentration-dependent manner.
+Overexpression of Twf1 in mouse fibroblasts decreased the amount of
+stress fibers and caused the appearance of abnormal cytoplasmic actin
+filaments. In mouse fibroblasts, Twf1 colocalized with GTP-bound forms
+of Cdc42 (116952) and Rac1 (602048) at membrane ruffles and cell-cell
+contacts, respectively, and localization of Twf1 in these cells appeared
+to be regulated by Rac1.
+
+Paavilainen et al. (2007) showed that the N- and C-terminal ADFH domains
+of mouse Twf1, which they called TWF-N and TWF-C, respectively, were
+required for actin barbed-end capping. NMR and mutagenesis analyses,
+together with biochemical and motility assays, showed that TWF-C bound
+G-actin and interacted with the sides of F-actin like ADF and cofilins,
+whereas TWF-N bound only G-actin. During filament barbed-end capping,
+TWF-N interacted with the terminal actin subunit, and TWF-C bound
+between 2 adjacent subunits at the side of the filament. The domain
+requirement for actin filament capping by Twf1 was similar to that of
+gelsolin (GSN; 137350)-type proteins, suggesting the existence of a
+general barbed-end capping mechanism.
+
+In an adaptation of loss-of-function screening to mouse models of
+cancer, Meacham et al. (2009) introduced a library of shRNAs into
+individual mice using transplantable E-mu-myc lymphoma cells. This
+approach allowed them to screen nearly 1,000 genetic alterations in the
+context of a single tumor-bearing mouse. Their experiments identified a
+central role for regulators of actin dynamics and cell motility in
+lymphoma cell homeostasis in vivo. Validation experiments confirmed that
+these proteins represent bona fide lymphoma drug targets. Additionally,
+suppression of 2 of these targets, Rac2 (602049) and twinfilin
+potentiated the action of the front-line chemotherapeutic vincristine,
+suggesting a critical relationship between cell motility and tumor
+relapse in hematopoietic malignancies.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TWF1
+gene to chromosome 12 (TMAP RH70527).
+
+REFERENCE 1. Beeler, J. F.; LaRochelle, W. J.; Chedid, M.; Tronick, S. R.; Aaronson,
+S. A.: Prokaryotic expression cloning of a novel human tyrosine kinase. Molec.
+Cell. Biol. 14: 982-988, 1994.
+
+2. Meacham, C. E.; Ho, E. E.; Dubrovsky, E.; Gertler, F. B.; Hemann,
+M. T.: In vivo RNAi screening identifies regulators of actin dynamics
+as key determinants of lymphoma progression. Nature Genet. 41: 1133-1137,
+2009.
+
+3. Paavilainen, V. O.; Hellman, M.; Helfer, E.; Bovellan, M.; Annila,
+A.; Carlier, M.-F.; Permi, P.; Lappalainen, P.: Structural basis
+and evolutionary origin of actin filament capping by twinfilin. Proc.
+Nat. Acad. Sci. 104: 3113-3118, 2007.
+
+4. Vartiainen, M.; Ojala, P. J.; Auvinen, P.; Peranen, J.; Lappalainen,
+P.: Mouse A6/twinfilin is an actin monomer-binding protein that localizes
+to the regions of rapid actin dynamics. Molec. Cell. Biol. 20: 1772-1783,
+2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/12/2010
+
+CREATED Patricia A. Hartz: 4/16/2007
+
+EDITED alopez: 01/14/2010
+terry: 1/12/2010
+mgross: 4/16/2007
+
+601745	TITLE *601745 POTASSIUM CHANNEL, SUBFAMILY K, MEMBER 1; KCNK1
+;;POTASSIUM CHANNEL, WEAKLY INWARD-RECTIFYING, WITH TWIN P DOMAINS,
+1; TWIK1;;
+K2P1
+DESCRIPTION 
+DESCRIPTION
+
+KCNK1 is a potassium-selective, pH-sensitive, openly rectifying channel
+regulated by sumoylation (see SUMO1; 601912) (Rajan et al., 2005).
+
+CLONING
+
+Lesage et al. (1996) cloned a member of a new class of potassium
+channels by computer identification of an EST with predicted sequence
+similarity to the P domain, a region involved in the potassium
+conduction pathway, of other channels. A cDNA, designated TWIK1 by the
+authors, was obtained from a human kidney library and shown to encode a
+predicted 336-amino acid protein. Unlike other potassium channels, TWIK1
+has 4, rather than 6, transmembrane domains and 2, rather than 1, P
+domains. Two genes from C. elegans are related. Northern blot analysis
+showed that TWIK1 was widely expressed, with high levels in brain and
+heart.
+
+GENE FUNCTION
+
+Lesage et al. (1996) found that human TWIK1 could direct expression of
+weakly inward-rectifying potassium currents when expressed in Xenopus
+oocytes. They speculated that TWIK1 channels may be involved in the
+control of background potassium membrane conductances.
+
+Rajan et al. (2005) found that K2P1 was sumoylated on intracellular
+lys274 by Xenopus or human UBC9 (UBE2I; 601661) at the cell surface, and
+that sumoylation rendered the channel inactive. Mutation of lys274 or
+desumoylation of K2P1 by SENP1 (612157) activated the mute pore,
+allowing its characterization. K2P1 functioned as a potassium-selective
+leak channel with unitary conductance that passed larger outward than
+inward currents under physiologic conditions. K2P1 was active at all
+physiologic voltages and was sensitive to external pH via protonation of
+conserved his122 in the first P loop. Rajan et al. (2005) concluded that
+K2P1 is an openly rectifying potassium channel that is sensitive to pH
+and regulated by sumoylation.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Miller and Long (2012) presented the 3.4-angstrom resolution crystal
+structure of a human K2P channel, K2P1 (TWIK1). Unlike other potassium
+channel structures, K2P1 is dimeric. An extracellular cap domain located
+above the selectivity filter forms an ion pathway in which potassium
+ions flow through side portals. Openings within the transmembrane region
+expose the pore to the lipid bilayer and are filled with electron
+density attributable to alkyl chains. An interfacial helix appears
+structurally poised to affect gating.
+
+MAPPING
+
+Lesage et al. (1996) mapped the KCNK1 gene by in situ hybridization to
+1q42-q43.
+
+REFERENCE 1. Lesage, F.; Guillemare, E.; Fink, M.; Duprat, F.; Lazdunski, M.;
+Romey, G.; Barhanin, J.: TWIK-1, a ubiquitous human weakly inward
+rectifying K+ channel with a novel structure. EMBO J. 15: 1004-1011,
+1996.
+
+2. Lesage, F.; Mattei, M.-G.; Fink, M.; Barhanin, J.; Lazdunski, M.
+: Assignment of the human weak inward rectifier K+ channel TWIK-1
+gene to chromosome 1q42-q43. Genomics 34: 153-155, 1996.
+
+3. Miller, A. N.; Long, S. B.: Crystal structure of the human two-pore
+domain potassium channel K2P1. Science 335: 432-436, 2012.
+
+4. Rajan, S.; Plant, L. D.; Rabin, M. L.; Butler, M. H.; Goldstein,
+S. A. N.: Sumoylation silences the plasma membrane leak K(+) channel
+K2P1. Cell 121: 37-47, 2005. Note: Erratum: Cell 141: 368 only 2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/27/2012
+Patricia A. Hartz - updated: 9/15/2010
+
+CREATED Alan F. Scott: 4/9/1997
+
+EDITED terry: 09/17/2012
+alopez: 3/1/2012
+terry: 2/27/2012
+mgross: 9/21/2010
+terry: 9/15/2010
+mgross: 6/29/1999
+alopez: 10/28/1998
+carol: 5/6/1998
+alopez: 5/7/1997
+alopez: 5/5/1997
+alopez: 4/15/1997
+alopez: 4/10/1997
+
+615088	TITLE *615088 AUTOPHAGY 13, S. CEREVISIAE, HOMOLOG OF; ATG13
+;;KIAA0652;;
+PARAPROTEIN TARGET 8; PARATARG8;;
+PARATARG 8
+DESCRIPTION 
+DESCRIPTION
+
+Macroautophagy is a catabolic process for lysosome-mediated degradation
+of cytoplasmic proteins, organelles, and macromolecules. ATG proteins,
+such as ATG13, are required for formation of autophagosomes,
+double-membrane vesicles that surround and sequester cytoplasmic cargo
+prior to fusion with lysosomes (Mercer et al., 2009).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Ishikawa et al. (1998) cloned ATG13, which they designated
+KIAA0652. The deduced protein contains 517 amino acids. RT-PCR detected
+high ATG13 expression in all 10 human tissues examined. SDS-PAGE
+detected in vitro-translated ATG13 at an apparent molecular mass of 67
+kD.
+
+By searching databases for orthologs of yeast Atg13, Mercer et al.
+(2009) identified human ATG13. The deduced protein contains 480 amino
+acids. Database analysis showed that ATG13 is conserved from mammals to
+lower eukaryotes.
+
+GENE FUNCTION
+
+Using protein interaction assays, Mercer et al. (2009) found that ATG13
+interacted with ATG101 (615089) and with the macroautophagy proteins
+ULK1 (603168) and FIP200 (RB1CC1; 606837). Immunoprecipitation analysis
+revealed that ATG13, ATG101, ULK1, and FIP200 formed a complex that
+redistributed to punctate structures following starvation-induced
+autophagy in HEK293 cells. Knockdown of ATG13 or ATG101 in starved
+HEK293 cells reduced accumulation of a lipid-modified form of LC3B
+(MAP1LC3B; 609604) that associates with autophagosomes. ATG13 was
+required for ATG101 stabilization and localization in the autophagy
+complex. ATG13 and ATG101 were required for formation of autophagosomes,
+but not for downstream vesicle trafficking or fusion with lysosomes.
+Incorporation of radiolabeled PO4 and phosphatase treatment showed that
+ATG13 is phosphoprotein, but phosphorylation status of ATG13 had no
+effect on the function of the autophagy complex or on ATG101 stability.
+
+Using gel filtration and Western blot analysis of HeLa cell lysates,
+Hosokawa et al. (2009) independently identified ATG101 as part of an
+approximately 3-MDa autophagy complex including ULK1, ATG13, and FIP200.
+ATG101 was also detected in complex with ATG13 only and as a monomer.
+The distribution of ATG101 in the 3 fractions was unaltered by
+starvation in HeLa cells. Use of small interfering RNA revealed that
+ATG13 mediated interaction between ATG101 and ULK1 and that ATG101 was
+required for the stability and basal phosphorylation of ATG13 and ULK1.
+Knockdown of ATG101 inhibited formation of LC3-containing autophagosome
+puncta.
+
+Chan et al. (2009) found that human ATG13 interacted with mouse Ulk1 and
+Ulk2 (608650), both of which phosphorylated ATG13.
+
+Antigenic targets of paraproteins, or paratargs, may play a role in the
+pathogenesis of monoclonal gammopathy of unknown significance (see
+153600), Waldenstrom macroglobulinemia (see 153600), and multiple
+myeloma (254500). Preuss et al. (2011) noted that all autoantigenic
+paratargs, including ATG13, which they called paratarg-8, are
+hyperphosphorylated in patients compared with healthy controls,
+suggesting a general pathogenic mechanism. Using coimmunoprecipitation
+analysis, Preuss et al. (2011) identified phosphokinase C (PKC)-zeta
+(PRKCZ; 176982) as the kinase responsible for hyperphosphorylation of
+paratarg-8 and most other autoantigenic paratargs tested. They
+identified phosphatase-2A (PP2A; see 176915) as the phosphatase
+responsible for dephosphorylation of all hyperphosphorylated
+autoantigenic paratargs tested. Studies of carriers of
+hyperphosphorylated and wildtype paratarg-7 (STOML2; 608292) suggested
+that inactivation of the catalytic subunit of PP2A (PPP2CA; 176915) via
+tyr307 phosphorylation causes hyperphosphorylation of autoantigenic
+paratargs.
+
+MAPPING
+
+By radiation hybrid analysis, Ishikawa et al. (1998) mapped the ATG13
+gene to chromosome 11.
+
+Hartz (2013) mapped the ATG13 gene to chromosome 11p11.2 based on an
+alignment of the ATG13 sequence (GenBank GENBANK AB014552) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Chan, E. Y. W.; Longatti, A.; McKnight, N. C.; Tooze, S. A.: Kinase-inactivated
+ULK proteins inhibit autophagy via their conserved C-terminal domains
+using an Atg13-independent mechanism. Molec. Cell. Biol. 29: 157-171,
+2009.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/20/2013.
+
+3. Hosokawa, N.; Sasaki, T.; Iemura, S.; Natsume, T.; Hara, T.; Mizushima,
+N.: Atg101, a novel mammalian autophagy protein interacting with
+Atg13. Autophagy 5: 973-979, 2009.
+
+4. Ishikawa, K.; Nagase, T.; Suyama, M.; Miyajima, N.; Tanaka, A.;
+Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. X. The complete sequences of 100 new
+cDNA clones from brain which can code for large proteins in vitro. DNA
+Res. 5: 169-176, 1998.
+
+5. Mercer, C. A.; Kaliappan, A.; Dennis, P. B.: A novel, human Atg13
+binding protein, Atg101, interacts with ULK1 and is essential for
+macroautophagy. Autophagy 5: 1-14, 2009.
+
+6. Preuss, K.-D.; Pfreundschuh, M.; Fadle, N.; Regitz, E.; Raudies,
+S.; Murwaski, N.; Ahlgrimm, M.; Bittenbring, J.; Klotz, M.; Schafer,
+K.-H.; Held, G.; Neumann, F.; Grass, S.: Hyperphosphorylation of
+autoantigenic targets of paraproteins is due to inactivation of PP2A. Blood 118:
+3340-3346, 2011.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/12/2013
+
+CREATED Patricia A. Hartz: 2/20/2013
+
+EDITED mgross: 03/13/2013
+mgross: 3/12/2013
+mgross: 3/11/2013
+mgross: 2/20/2013
+
+601328	TITLE *601328 SODIUM CHANNEL, NONVOLTAGE-GATED 1, DELTA SUBUNIT; SCNN1D
+;;SODIUM CHANNEL, EPITHELIAL, DELTA SUBUNIT; SCNED
+DESCRIPTION 
+CLONING
+
+Amiloride-sensitive sodium channels (ASCs) are nonvoltage-gated
+sodium-permeable ion channels inhibited by the diuretic amiloride. They
+are well characterized in epithelia where they constitute the
+rate-limiting step for sodium ion reabsorption. Waldmann et al. (1995)
+identified a novel homolog of the alpha (600228), beta (600760), and
+gamma (600761) amiloride-sensitive sodium channels in the EST sequence
+database and cloned the gene from a human kidney cDNA library. This
+3.4-kb cDNA encodes a protein of 638 amino acids. Waldmann et al. (1995)
+termed this channel the delta isoform and they determined by Northern
+analysis that it is expressed mainly in ovary, testis, pancreas, and
+brain. After expression in Xenopus oocytes, the delta isoform induced an
+amiloride-sensitive sodium current. The current produced by the delta
+isoform was increased by a factor of 100 after coexpression of the beta
+subunit and gamma subunit, suggesting to Waldmann et al. (1995) that the
+delta subunit is part of a novel heteromultimeric channel formed of 3
+subunits with the same overall structure but no more than 27-29%
+sequence identity among them. The pharmacology, sensitivity to
+amiloride, conductance, and ionic selectivity of the delta/beta-gamma
+channel were different from those of the alpha/beta-gamma channel.
+
+GENE FAMILY
+
+Molecular cloning of the epithelial amiloride-sensitive sodium channel
+demonstrated that it is made up of at least 3 homologous subunits,
+termed alpha, beta, and gamma, which are also homologs of the degenerins
+of C. elegans, proteins considered to be probable neuronal ion channels
+(Waldmann et al., 1996). Gain-of-function mutations of members of this
+group of ion channels are involved in hereditary diseases. Mutations of
+the C. elegans degenerins are the major known cause of neurodegeneration
+in the nematode, and gain of function of the amiloride-sensitive sodium
+channel beta-subunit or gamma-subunit is the cause of Liddle syndrome
+(177200), a form of hereditary hypertension. The gene encoding the alpha
+subunit (SCNN1A) maps to 12p13; the genes encoding the beta subunit
+(SCNN1B) and gamma subunit (SCNN1G) map within a 400-kb fragment on
+16p12.
+
+MAPPING
+
+By isotopic in situ hybridization, Waldmann et al. (1996) mapped the
+gene encoding delta (SCNN1D) to 1p36.3-p36.2.
+
+REFERENCE 1. Waldmann, R.; Bassilana, F.; Voilley, N.; Lazdunski, M.; Mattei,
+M.-G.: Assignment of the human amiloride-sensitive Na(+) channel
+delta isoform to chromosome 1p36.3-p36.2. Genomics 34: 262-263,
+1996.
+
+2. Waldmann, R.; Champigny, G.; Bassilana, F.; Voilley, N.; Lazdunski,
+M.: Molecular cloning and functional expression of a novel amiloride-sensitive
+Na(+) channel. J. Biol. Chem. 270: 27411-27414, 1995.
+
+CONTRIBUTORS Jennifer P. Macke - updated: 9/5/1996
+
+CREATED Victor A. McKusick: 6/26/1996
+
+EDITED alopez: 04/13/2009
+kayiaros: 7/8/1999
+terry: 8/24/1998
+mark: 5/30/1997
+mark: 9/5/1996
+marlene: 9/4/1996
+mark: 6/26/1996
+terry: 6/26/1996
+mark: 6/26/1996
+
+125240	TITLE *125240 CD55 ANTIGEN; CD55
+;;DECAY-ACCELERATING FACTOR FOR COMPLEMENT; DAF
+DESCRIPTION 
+DESCRIPTION
+
+The major isoform of DAF, or CD55, is a 70-kD plasma membrane protein
+that is widely distributed on all blood cells and on endothelial and
+epithelial tissues. The physiologic role of DAF is to inhibit the
+complement cascade at the level of the critical C3 (120700) convertase
+step. By this mechanism, DAF protects autologous cells and tissues from
+complement-mediated damage and thereby plays a role in preventing or
+modulating autoimmune disease and inflammation. DAF also serves as a
+receptor for certain strains of E. coli and certain types of
+enteroviruses. Variation in DAF forms the basis of the Cromer blood
+group system (CROM; 613793) (review by Lublin, 2005). In addition to the
+major membrane-bound isoform of DAF, several other minor soluble and
+membrane-bound DAF isoforms are produced by alternative splicing (Osuka
+et al., 2006)
+
+CLONING
+
+Avoidance by host tissues of attack by autologous complement proteins is
+dependent in part on the activities of membrane regulatory factors. One
+molecule involved in this control is a 70-kD glycoprotein termed
+decay-accelerating factor (DAF). Interruption by DAF of the complement
+sequence at an early step in activation effectively halts progression of
+the cascade and prevents consequent cell injury. In man, a
+glycolipid-anchored form of DAF is expressed on the plasma membrane of
+all cell types that are in intimate contact with plasma complement
+proteins. DAF is also found on the surfaces of epithelial cells lining
+extracellular compartments, and variants of DAF are present in body
+fluids and in extracellular matrix. Medof et al. (1987) cloned cDNAs for
+human DAF. The deduced 376-amino acid protein contains a 29-amino acid
+N-terminal leader peptide, followed by 4 approximately 61-amino acid
+repeats of internal homology, a 70-amino acid serine- and threonine-rich
+segment with multiple potential O-glycosylation sites, and a C-terminal
+hydrophobic segment. However, the sequence lacks an initiation codon,
+indicating it is incomplete. Northern blot analysis of HeLa cells and
+myeloid leukemia cells detected transcripts of 3.1, 2.7, and 2.0 kb.
+
+Osuka et al. (2006) noted that glycosylphosphatidylinositol
+(GPI)-anchored DAF (gDAF) and soluble DAF (sDAF) are generated by
+alternative splicing. Insertion of a unique exon (exon 10) into the sDAF
+cDNA causes a frameshift that results in a unique C-terminal sequence
+lacking the GPI-anchored portion of gDAF. By RT-PCR of a lung cDNA
+library, Osuka et al. (2006) cloned 5 additional minor DAF variants.
+Three of the variants, vDAF1, vDAF2, and vDAF3, include novel exons
+(exons 11, 12, and 13, respectively) compared with gDAF and, like sDAF,
+encode proteins lacking the GPI-anchored portion in the C terminus.
+Variants vDAF4 and vDAF5 include part or all of intron 7, respectively,
+and encode proteins that retain the GPI-anchored portion of the C
+terminus but have expanded central STP-rich regions. PCR analysis
+detected expression of the DAF variants in almost all tissues examined,
+with higher expression of all variants in lung, liver, and peripheral
+blood compared with colon and stomach. The main band was derived from
+gDAF. Transfection of vDAF1, vDAF2, and vDAF3 into Chinese hamster ovary
+cells resulted in the secretion of these isoforms into the culture
+medium. Each was highly O-glycosylated prior to secretion. vDAF4 was
+expressed as a highly O-glycosylated membrane-bound protein.
+
+GENE FUNCTION
+
+CD55 is deficient in red blood cells from patients with paroxysmal
+nocturnal hemoglobinuria (300818). Hamann et al. (1996) found that CD55
+is the cellular ligand for CD97 (601211). Erythrocytes from patients
+with paroxysmal nocturnal hemoglobinuria failed to adhere to cells
+expressing CD97.
+
+The placenta is an immunologically privileged site. Using DNA
+microarrays to compare gene expression patterns, Sood et al. (2006)
+found that 3 regulators of complement, CD55, CD59 (107271), and MCP, are
+expressed at higher levels in normal placental villus sections compared
+with other normal human tissues. Within the placenta, CD55 and CD59 are
+expressed at greatest levels in amnion, followed by chorion and villus
+sections, whereas MCP is expressed at higher levels only in villus
+sections. These inhibitors of complement are expressed on
+syncytiotrophoblasts, the specialized placental cells lining the villi
+that are in direct contact with maternal blood. The amnion compared with
+chorion is remarkably nonimmunogenic, and the immune properties of the
+amnion are intriguing because it is not in direct contact with maternal
+cells. Sood et al. (2006) suggested that the amnion may secrete the
+complement inhibitors themselves or in the form of protected exosomes
+into the amniotic fluid or the neighboring maternofetal junction.
+
+Capasso et al. (2006) showed that stimulation of CD4 (186940) cells
+through engagement of CD55, either with monoclonal antibodies or with
+CD97, together with anti-CD3, led to enhanced T-cell proliferation,
+cytokine production, and expression of activation markers. This
+activation did not affect CD55-mediated complement inhibition and
+suggested a novel role for CD55.
+
+Using differential display PCR, Brandt et al. (2005) identified a CD55
+splice variant that was overexpressed in a breast cancer cell line
+displaying increased transendothelial invasiveness. In situ
+hybridization of tissue microarrays and RT-PCR analysis showed the
+splice variant was expressed in a proportion of invasive breast cancer
+tissues but not in normal mammary tissue. Western blot analysis detected
+the dominant full-length protein at an apparent molecular mass of 70 kD
+and the isoform at about 45 kD. The isoform was detected in cytoplasm
+and secreted into the culture medium.
+
+Group B coxsackieviruses (CVBs) must cross the epithelium to initiate
+infection. Coxsackievirus and adenovirus receptor (CAR, or CXADR;
+602621), which mediates attachment and infection by all CVBs, is a
+component of the tight junction (TJ) and is inaccessible to virus
+approaching from the apical surface. Using Caco2 human colorectal
+carcinoma cells, Coyne and Bergelson (2006) showed that CVB attachment
+to DAF on the apical cell surface activated ABL (189980), triggering
+RAC1 (602048)-dependent actin rearrangements that permitted virus
+movement to the TJ. Within the TJ, interaction with CAR promoted
+conformational changes in the virus capsid that were essential for virus
+entry and release of viral RNA. Interaction with DAF also activated FYN
+(137025), which was required for phosphorylation of caveolin-1 (CAV1;
+601047) and transport of the virus into the cell within caveolar
+vesicles. Coyne and Bergelson (2006) concluded that CVBs exploit
+DAF-mediated signaling pathways to surmount the epithelial barrier.
+
+GENE STRUCTURE
+
+Osuka et al. (2006) determined that the CD55 gene contains 14 exons.
+
+MAPPING
+
+Lublin et al. (1987) and Lemons et al. (1987) found by study of
+hamster-human somatic cell hybrids with DAF cDNA clones and by in situ
+hybridization using the same clones that the gene is located at 1q32.
+Thus, DAF is closely linked to structural genes for 4 other complement
+proteins, C4-binding protein (C4BPA; 120830), CR1 (120620), CR2
+(120650), and factor H (CFH; 134370), with which it shares 60-amino acid
+repeats as well as functional similarities. Their close genetic linkage
+suggests that this complement regulatory gene family evolved from an
+ancestral C3b-binding molecule.
+
+Hourcade et al. (1992) described 9 overlapping YACs that encompassed a
+genomic region of 800 kb, encoding 4 RCA (regulator of complement
+activation) genes and 3 RCA-gene-like elements. An arrangement of CR1,
+MCP-like, CR1-like, and MCP (120920), in that order, strongly suggested
+that this region of 1q was generated by a single duplication of
+neighboring CR1/CR1-like and MCP/MCP-like forerunners.
+
+MOLECULAR GENETICS
+
+- Cromer Blood Group System: Inab Phenotype
+
+The Cromer Inab phenotype, or Cromer null, in which red blood cells lack
+all Cromer system antigens, is very rare. The red blood cells of
+individuals with Inab phenotype have a deficiency of DAF, but they are
+not known to have any associated hematologic or other abnormalities. In
+the individual in which the Inab phenotype was first detected, Lublin et
+al. (1994) demonstrated a nonsense mutation in exon 2 of the DAF gene
+(125240.0001). The mutation truncated DAF near the N terminus,
+explaining the complete absence of surface DAF in the red cells of the
+individual.
+
+In a 28-year-old Japanese woman, Wang et al. (1998) demonstrated that
+the Cromer Inab phenotype was due to homozygosity for a 1579C-A
+transversion at the position 24 bp upstream of the 3-prime end of exon 2
+of the CD55 gene (125240.0002). This substitution resulted in an mRNA
+with a 26-bp deletion, which introduced a frameshift and created a stop
+codon immediately downstream of the deletion. Translation of the mRNA
+would be terminated at the first amino acid of the second short
+consensus repeat (SCR2) domain of DAF. The woman and her brother, who
+also had the Cromer-null phenotype, had no history of intestinal
+disease.
+
+ANIMAL MODEL
+
+Lin et al. (2002) demonstrated enhanced susceptibility to experimental
+autoimmune myasthenia gravis (254200) in mice lacking Daf. Following
+anti-AChR Ab injection, Daf1 -/- mice (devoid of neuromuscular DAF
+protein) showed dramatically greater muscle weakness than their Daf1 +/+
+littermates. Reversal of the weakness by edrophonium was consistent with
+a myasthenic disorder. Immunohistochemistry revealed greatly augmented
+C3b deposition localized at postsynaptic junctions, and
+radioimmunoassays showed more profound reductions in AChR levels.
+Electron microscopy demonstrated markedly greater junctional damage in
+the Daf1 -/- mice compared with the Daf1 +/+ littermates.
+
+Liu et al. (2005) found that Daf -/- mice had significantly enhanced
+T-cell responses after immunization. This phenotype was characterized by
+hypersecretion of Ifng (147570) and Il2 (147680), as well as
+downregulation of Il10 (124092) upon restimulation of lymphocytes in
+vitro. Daf1 -/- mice also displayed exacerbated disease progression and
+pathology in the T cell-dependent experimental autoimmune
+encephalomyelitis (EAE) model. Both T-cell responses and EAE disease
+severity could be attenuated by neutralization of the complement system.
+Liu et al. (2005) concluded that there is a critical link between the
+complement system and T-cell immunity and proposed that DAF may have a
+role in organ transplantation and vaccine development.
+
+ALLELIC VARIANT .0001
+CROMER BLOOD GROUP SYSTEM, Inab PHENOTYPE
+CD55, TRP53TER
+
+In the first individual discovered to have the Cromer Inab phenotype
+(613793), i.e., absence of all Cromer system antigens on red blood
+cells, Lublin et al. (1994) found a G-to-A transition, converting codon
+53 in the CD55 gene from TGG (trp) to TGA (stop). The resulting
+truncation near the amino terminus explained the complete absence of
+surface DAF in the subject.
+
+.0002
+CROMER BLOOD GROUP SYSTEM, Inab PHENOTYPE
+CD55, 26-BP DEL
+
+In a 28-year-old Japanese woman, Wang et al. (1998) demonstrated that
+the Cromer Inab phenotype (613793) was due to homozygosity for a 1579C-A
+transversion at the position 24 bp upstream of the 3-prime end of exon 2
+of the CD55 gene. This substitution caused the activation of a novel
+cryptic splice site and resulted in the production of mRNA with a 26-bp
+deletion. The deletion introduced a frameshift and created a stop codon
+immediately downstream of the deletion. Translation of mRNA would be
+terminated at the first amino acid residue of the second short consensus
+repeat (SCR2) domain (exon 3) of DAF. The functional domains of DAF's
+complement regulatory activity and the C-terminal signal domains for
+glycosylphosphatidylinositol (GPI) anchoring were predicted to be
+lacking in the subject. The subject and her brother, who also had the
+Cromer-null phenotype, had no history of intestinal disease.
+
+ADDITIONAL REFERENCES Reid et al. (1996)
+REFERENCE 1. Brandt, B.; Mikesch, J.-H.; Simon, R.; Rotger, A.; Kemming, D.;
+Schier, K.; Sauter, G.; Burger, H.: Selective expression of a splice
+variant of decay-accelerating factor in c-erbB-2-positive mammary
+carcinoma cells showing increased transendothelial invasiveness. Biochem.
+Biophys. Res. Commun. 329: 318-323, 2005.
+
+2. Capasso, M.; Durrant, L. G.; Stacey, M.; Gordon, S.; Ramage, J.;
+Spendlove, I.: Costimulation via CD55 on human CD4+ T cells mediated
+by CD97. J. Immun. 177: 1070-1077, 2006.
+
+3. Coyne, C. B.; Bergelson, J. M.: Virus-induced Abl and Fyn kinase
+signals permit coxsackievirus entry through epithelial tight junctions. Cell 124:
+119-131, 2006.
+
+4. Hamann, J.; Vogel, B.; van Schijndel, G. M.; van Lier, R. A.:
+The seven-span transmembrane receptor CD97 has a cellular ligand (CD55,
+DAF). J. Exp. Med. 184: 1185-1189, 1996.
+
+5. Hourcade, D.; Garcia, A. D.; Post, T. W.; Taillon-Miller, P.; Holers,
+V. M.; Wagner, L. M.; Bora, N. S.; Atkinson, J. P.: Analysis of the
+human regulators of complement activation (RCA) gene cluster with
+yeast artificial chromosomes (YACs). Genomics 12: 289-300, 1992.
+
+6. Lemons, R. S.; Le Beau, M. M.; Lublin, D. M.; Holers, V. M.; Tykocinski,
+M. L.; Medof, M. E.; Atkinson, J. P.: The gene encoding decay-accelerating
+factor (DAF) is located in the complement regulatory locus on the
+long arm of chromosome 1. (Abstract) Cytogenet. Cell Genet. 46:
+646-647, 1987.
+
+7. Lin, F.; Kaminski, H. J.; Conti-Fine, B. M.; Wang, W.; Richmonds,
+C.; Medof, M. E.: Markedly enhanced susceptibility to experimental
+autoimmune myasthenia gravis in the absence of decay-accelerating
+factor protection. J. Clin. Invest. 110: 1269-1274, 2002.
+
+8. Liu, J.; Miwa, T.; Hilliard, B.; Chen, Y.; Lambris, J. D.; Wells,
+A. D.; Song, W.-C.: The complement inhibitory protein DAF (CD55)
+suppresses T cell immunity in vivo. J. Exp. Med. 201: 567-577, 2005.
+
+9. Lublin, D. M.: Review: Cromer and DAF: role in health and disease. Immunohematology 21:
+39-47, 2005.
+
+10. Lublin, D. M.; Lemons, R. S.; Le Beau, M. M.; Holers, V. M.; Tykocinski,
+M. L.; Medof, M. E.; Atkinson, J. P.: The gene encoding decay-accelerating
+factor (DAF) is located in the complement-regulatory locus on the
+long arm of chromosome 1. J. Exp. Med. 165: 1731-1736, 1987.
+
+11. Lublin, D. M.; Mallinson, G.; Poole, J.; Reid, M. E.; Thompson,
+E. S.; Ferdman, B. R.; Telen, M. J.; Anstee, D. J.; Tanner, M. J.
+A.: Molecular basis of reduced or absent expression of decay-accelerating
+factor in Cromer blood group phenotypes. Blood 84: 1276-1282, 1994.
+
+12. Medof, M. E.; Lublin, D. M.; Holers, V. M.; Ayers, D. J.; Getty,
+R. R.; Leykam, J. F.; Atkinson, J. P.; Tykocinski, M. L.: Cloning
+and characterization of cDNAs encoding the complete sequence of decay-accelerating
+factor of human complement. Proc. Nat. Acad. Sci. 84: 2007-2011,
+1987.
+
+13. Osuka, F.; Endo, Y.; Higuchi, M.; Suzuki, H.; Shio, Y.; Fujiu,
+K.; Kanno, R.; Oishi, A.; Terashima, M.; Fujita, T.; Gotoh, M.: Molecular
+cloning and characterization of novel splicing variants of human decay-accelerating
+factor. Genomics 88: 316-322, 2006.
+
+14. Reid, M. E.; Chandrasekaran, V.; Sausais, L.; Pierre, J.; Bullock,
+R.: Disappearance of antibodies to Cromer blood group system antigens
+during mid pregnancy. Vox Sang. 71: 48-50, 1996.
+
+15. Sood, R.; Zehnder, J. L.; Druzin, M. L.; Brown, P. O.: Gene expression
+patterns in human placenta. Proc. Nat. Acad. Sci. 103: 5478-5483,
+2006.
+
+16. Wang, L.; Uchikawa, M.; Tsuneyama, H.; Tokunaga, K.; Tadokoro,
+K.; Juji, T.: Molecular cloning and characterization of decay-accelerating
+factor deficiency in Cromer blood group Inab phenotype. Blood 91:
+680-684, 1998.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/4/2011
+Matthew B. Gross - updated: 5/14/2009
+Patricia A. Hartz - updated: 7/23/2008
+Paul J. Converse - updated: 4/4/2007
+Paul J. Converse - updated: 10/30/2006
+Patricia A. Hartz - updated: 10/3/2006
+Anne M. Stumpf - updated: 8/8/2006
+Ada Hamosh - updated: 8/8/2006
+Denise L. M. Goh - updated: 1/6/2003
+Rebekah S. Rasooly - updated: 8/10/1999
+Victor A. McKusick - updated: 3/31/1998
+
+CREATED Victor A. McKusick: 4/29/1987
+
+EDITED carol: 03/10/2011
+mgross: 3/4/2011
+mgross: 7/1/2010
+wwang: 5/29/2009
+mgross: 5/14/2009
+wwang: 7/25/2008
+terry: 7/23/2008
+mgross: 4/10/2007
+terry: 4/4/2007
+mgross: 10/30/2006
+mgross: 10/4/2006
+terry: 10/3/2006
+alopez: 8/8/2006
+carol: 3/10/2006
+joanna: 11/5/2004
+carol: 2/5/2003
+carol: 1/6/2003
+mgross: 8/10/1999
+dholmes: 4/17/1998
+alopez: 3/31/1998
+terry: 3/24/1998
+jamie: 1/15/1997
+terry: 1/10/1997
+terry: 11/15/1996
+terry: 11/4/1996
+supermim: 3/16/1992
+carol: 2/11/1992
+carol: 2/1/1992
+carol: 1/31/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+

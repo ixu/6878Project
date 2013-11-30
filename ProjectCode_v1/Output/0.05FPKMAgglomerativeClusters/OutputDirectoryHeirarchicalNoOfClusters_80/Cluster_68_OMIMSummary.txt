@@ -1,0 +1,977 @@
+609374	TITLE *609374 CELL DIVISION CYCLE-ASSOCIATED PROTEIN 5; CDCA5
+;;SORORIN
+DESCRIPTION 
+CLONING
+
+By differential expression analysis for genes coexpressed with cell
+cycle genes (e.g., CDC2; 116940), Walker (2001) identified CDCA5.
+
+Rankin et al. (2005) identified Xenopus Cdca5, which they called p35, by
+a proteomic screen for anaphase-promoting complex (APC) substrates. By
+searching databases for sequences similar to Xenopus p35, they
+identified human and mouse CDCA5. The deduced human and mouse proteins
+contain 252 and 264 amino acids, respectively. Both contain a KEN box
+for APC-dependent ubiquitination. Immunofluorescence analysis revealed a
+punctate nuclear distribution of CDCA5 during interphase and a diffuse
+distribution of CDCA5 throughout the cell during mitosis. There was no
+apparent concentration of CDCA5 on chromatin in mitotic cells. The level
+of CDCA5 dropped in synchronized HeLa cells during interphase.
+
+Nishiyama et al. (2010) found that epitope-tagged mouse sororin
+accumulated on chromatin in transfected HeLa cells between early S and
+G2 phases and became dispersed in the cytoplasm following nuclear
+envelope breakdown. It was also enriched at centromeres in prometaphase
+and metaphase.
+
+GENE FUNCTION
+
+Rankin et al. (2005) found that overexpression of CDCA5 in Xenopus
+embryos caused failure to resolve and segregate sister chromatids in
+mitosis and increased the amount of cohesin associated with metaphase
+chromosomes. In cultured human and mouse cells, depletion of CDCA5
+caused mitotic arrest and the complete failure of sister chromatid
+cohesion. Rankin et al. (2005) hypothesized that CDCA5 regulates the
+ability of the cohesin complex to mediate sister chromatid cohesion.
+They proposed calling the CDCA5 protein sororin, from the Latin word
+soror, meaning sister, because of its role in sister chromatid cohesion.
+
+Using RNA interference, Nishiyama et al. (2010) found that knockdown of
+sororin in HeLa cells caused failure of chromosome congression,
+consistent with a cohesion defect prior to metaphase. Depletion of Scc1
+(RAD21; 606462) or Sgo1 (SGOL1; 609168) in Xenopus oocytes reduced
+chromosomal sororin staining, suggesting that association of sororin
+with mitotic chromosomes depends upon cohesin. Geminin (GMNN; 602842), a
+protein that inhibits cohesin loading onto DNA, abolished association of
+sororin with chromatin. Inhibition of DNA replication in HeLa cells also
+reduced sororin levels on chromatin. Knockdown studies revealed that
+sororin was only required for chromosome cohesion in the presence of
+WAPL (WAPAL; 610754), which functions to destabilize chromosome
+cohesion. Immunoprecipitation studies showed that sororin interacted
+with the WAPL-binding protein PDS5 (see PDS5A; 613200) and displaced
+WAPL from its interaction with PDS5. Nishiyama et al. (2010) concluded
+that sororin maintains sister chromatid cohesion by inhibiting
+WAPL-induced dissociation of cohesin from DNA.
+
+MAPPING
+
+Hartz (2011) mapped the CDCA5 gene to chromosome 11q13.1 based on an
+alignment of the CDCA5 sequence (GenBank GENBANK BC011000) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/11/2011.
+
+2. Nishiyama, T.; Ladurner, R.; Schmitz, J.; Kreidl, E.; Schleiffer,
+A.; Bhaskara, V.; Bando, M.; Shirahige, K.; Hyman, A. A.; Mechtler,
+K.; Peters, J.-M.: Sororin mediates sister chromatid cohesion by
+antagonizing Wapl. Cell 143: 737-749, 2010.
+
+3. Rankin, S.; Ayad, N. G.; Kirschner, M. W.: Sororin, a substrate
+of the anaphase-promoting complex, is required for sister chromatid
+cohesion in vertebrates. Molec. Cell 18: 185-200, 2005. Note: Erratum:
+Molec. Cell 18: 609 only, 2005.
+
+4. Walker, M. G.: Drug target discovery by gene expression analysis:
+cell cycle genes. Curr. Cancer Drug Targets 1: 73-83, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/11/2011
+
+CREATED Patricia A. Hartz: 5/16/2005
+
+EDITED mgross: 04/05/2011
+mgross: 4/5/2011
+terry: 2/11/2011
+wwang: 6/28/2005
+mgross: 5/18/2005
+
+601437	TITLE *601437 Fc FRAGMENT OF IgG, RECEPTOR TRANSPORTER, ALPHA; FCGRT
+;;IMMUNOGLOBULIN RECEPTOR, INTESTINAL, HEAVY CHAIN
+DESCRIPTION 
+CLONING
+
+The intestinal epithelium of neonatal mice and rats expresses an Fc
+receptor (FcRn) that mediates the selective uptake of immunoglobulin G
+(IgG) in mothers' milk, thereby helping newborn animals to acquire
+passive immunity. Kandil et al. (1996) noted that the IgG in the milk is
+bound to FcRn at the apical surface of the intestinal epithelium, and
+the resultant FcRn-IgG complexes are transcytosed across the epithelium.
+At the basolateral surface of intestinal epithelial cells, IgG is
+released from FcRn into blood or tissue fluids. FcRn is structurally
+similar to the major histocompatibility complex class I molecule, which
+presents antigenic peptides to T cells. Like the MHC class I molecule,
+FcRn is made up of a heavy chain (approximately 48 kD) and
+beta-2-microglobulin (109700; approximately 12 kD). Its heavy chain
+shows approximately 35% amino acid sequence identity to that of a
+typical MHC class I molecule. Furthermore, the genomic organizations of
+the MHC class I and mouse FcRn heavy chain genes are similar in that the
+signal peptide, the 3 extracellular domains, the transmembrane region,
+and the cytoplasmic region are all encoded by separate exons. Story et
+al. (1994) cloned a cDNA encoding the human gene and symbolized it FcRn.
+Kandil et al. (1996) isolated human genomic clones for the gene
+(symbolized FCGRT by them) using 2 murine Fcgrt probes. The exonic
+sequences of the genomic clones are identical to the cDNA sequence
+described by Story et al. (1994).
+
+GENE FUNCTION
+
+Plasma protein catabolism occurs in vascular endothelium by endocytotic
+processing of plasma contents. Vascular endothelium is the most active
+endocytic tissue in the body and the principal site for plasma protein
+catabolism. Plasma proteins diffusing or transported into extravascular
+sites are isolated from catabolism while extravascular. The receptor
+encoded by the FCGRT gene, alternatively called the Brambell receptor,
+the protection receptor, or the neonatal receptor, is located in
+endosomes of vascular endothelial cells and selectively recycles IgG to
+the cell surface, thus protecting IgG from lysosomal catabolism that is
+the fate of other, nonprotected plasma proteins. In mice with knockout
+of this receptor, the fractional catabolic rate for IgG may be
+accelerated up to 10-fold relative to wildtype animals in which
+protection is intact (Junghans and Anderson, 1996). This protection
+mechanism is directly responsible for making IgG the longest lived of
+all plasma proteins (Waldmann and Strober, 1969).
+
+Junghans et al. (2001) postulated that long-range cis inactivation of
+the FCGRT gene is responsible for hypercatabolism of IgG in myotonic
+dystrophy (DM; 160900). The FCGRT gene is closely situated to the DMPK
+gene (605377), which is mutant in DM.
+
+MAPPING
+
+Ahouse et al. (1993) found that the mouse FcRn heavy chain gene,
+designated Fcgrt, maps to chromosome 7 and thus is not encoded by the
+MHC. Kandil et al. (1996) showed by fluorescence in situ hybridization
+that the human gene, FCGRT, maps to 19q13.3. Thus, like its mouse
+counterpart, FCGRT is not encoded by the MHC.
+
+ANIMAL MODEL
+
+Akilesh et al. (2004) showed that mice lacking FcRn were resistant to
+transient inflammatory arthritis induced in wildtype mice upon transfer
+of serum from arthritic K/BxN mice, which are universally susceptible to
+autoimmune arthritis due to pathogenic anti-GPI (172400) IgG antibodies.
+K/BxN mice deficient in FcRn had significantly delayed onset of
+arthritis or only intermittent ankle inflammation without arthritic
+disease, and they had low anti-GPI antibody titers without high B-cell
+levels in popliteal lymph nodes during the experimental period.
+Heterozygote and sick homozygote mice had lymphocytes expressing the
+B-cell maturation markes Prdm1 (603423) and Tnfrsf17 (109545), the Th2
+cytokines IL1b (147720) and IL10 (124092), the chemokines Scya20 (CCL20;
+601960) and Scya3 (CCL3; 182283), and Fcgr1 (146760). Treatment of mice
+with high-dose intravenous Ig (IVIg) reduced or eliminated arthritis
+dependent on the presence of Fcgr2 (146790) and/or FcRn. Akilesh et al.
+(2004) concluded that these findings provide a rational basis for the
+use of IVIg and suggested that FcRn is a potential therapeutic target
+linking the initiation and effector phases of humoral autoimmune
+disease.
+
+In contrast to rodents, in humans FcRn is expressed in adults, in
+placenta--where it serves to transport IgG from mother to fetus (Story
+et al., 1994)--and in several absorptive epithelial tissues, including
+the lung, kidney, and intestine. The expression of FcRn in absorptive
+epithelia, coupled with the description by Dickinson et al. (1999) of
+FcRn transport of IgG through human intestinal epithelial cells in
+vitro, suggested to Bitonti et al. (2004) that FcRn might be exploited
+for the delivery of therapeutic proteins by conjugation of the proteins
+to an FcRn-binding ligand, such as the Fc fragment of IgG1, which would
+allow their transport across the epithelium. Bitonti et al. (2004)
+showed that FcRn-mediated transport is functional in the lung of
+nonhuman primates and that this transport system can be used to deliver
+erythropoietin (EPO; 133170) when it is conjugated to the Fc region of
+IgG1. Erythropoietin is a hormone used to stimulate red blood cell
+production but requiring chronic therapy with either intravenous or
+subcutaneous injection, making an alternative noninvasive method of
+delivery desirable. FcRn-dependent absorption was more efficient when
+the EPO-Fc fusion protein was deposited predominantly in the upper and
+central airways of the lung, where epithelial expression FcRn was most
+prominently detected. The bioavailability of an EPO-Fc monomer when
+delivered through the lung was approximately equal to that reported for
+unconjugated EPO delivered subcutaneously in humans. These studies
+showed that FcRn can be harnessed to noninvasively deliver bioactive
+proteins into the systemic circulation in therapeutic quantities.
+
+REFERENCE 1. Ahouse, J. J.; Hagerman, C. L.; Mittal, P.; Gilbert, D. J.; Copeland,
+N. G.; Jenkins, N. A.; Simister, N. E.: Mouse MHC class I-like Fc
+receptor encoded outside the MHC. J. Immun. 151: 6076-6088, 1993.
+
+2. Akilesh, S.; Petkova, S.; Sproule, T. J.; Shaffer, D. J.; Christianson,
+G. J.; Roopenian, D.: The MHC class I-like Fc receptor promotes humorally
+mediated autoimmune disease. J. Clin. Invest. 113: 1328-1333, 2004.
+
+3. Bitonti, A. J.; Dumont, J. A.; Low, S. C.; Peters, R. T.; Kropp,
+K. E.; Palombella, V. J.; Stattel, J. M.; Lu, Y.; Tan, C. A.; Song,
+J. J.; Garcia, A. M.; Simister, N. E.; Spiekermann, G. M.; Lencer,
+W. I.; Blumberg, R. S.: Pulmonary delivery of an erythropoietin Fc
+fusion protein in non-human primates through an immunoglobulin transport
+pathway. Proc. Nat. Acad. Sci. 101: 9763-9768, 2004.
+
+4. Dickinson, B. L.; Badizadegan, K.; Wu, Z.; Ahouse, J. C.; Zhu,
+X.; Simister, N. E.; Blumberg, R. S.; Lencer, W. I.: Bidirectional
+FcRn-dependent IgG transport in a polarized human intestinal epithelial
+cell line. J. Clin. Invest. 104: 903-911, 1999.
+
+5. Junghans, R. P.; Anderson, C. L.: The protection receptor for
+IgG catabolism is the beta-2-microglobulin-containing neonatal intestinal
+transport receptor. Proc. Nat. Acad. Sci. 93: 5512-5516, 1996.
+
+6. Junghans, R. P.; Ebralidze, A.; Tiwari, B.: Does (CUG)n repeat
+in DMPK mRNA 'paint' chromosome 19 to suppress distant genes to create
+the diverse phenotype of myotonic dystrophy? A new hypothesis of long-range
+cis autosomal inactivation. Neurogenetics 3: 59-67, 2001.
+
+7. Kandil, E.; Egashira, M.; Miyoshi, O.; Niikawa, N.; Ishibashi,
+T.; Kasahara, M.: The human gene encoding the heavy chain of the
+major histocompatibility complex class I-like Fc receptor (FCGRT)
+maps to 19q13.3. Cytogenet. Cell Genet. 73: 97-98, 1996. Note: Erratum:
+Cytogenet. Cell Genet. 81: 179 only, 1998.
+
+8. Story, C. M.; Mikulska, J. E.; Simister, N. E.: A major histocompatibility
+complex class I-like Fc receptor cloned from human placenta: possible
+role in transfer of immunoglobulin G from mother to fetus. J. Exp.
+Med. 180: 2377-2381, 1994.
+
+9. Waldmann, T. A.; Strober, W.: Metabolism of immunoglobulins. Prog.
+Allergy 13: 1-110, 1969.
+
+CONTRIBUTORS Victor A. McKusick - updated: 7/19/2004
+Paul J. Converse - updated: 7/1/2004
+Victor A. McKusick - updated: 5/11/2001
+
+CREATED Victor A. McKusick: 9/20/1996
+
+EDITED alopez: 11/27/2012
+terry: 8/3/2004
+tkritzer: 7/27/2004
+terry: 7/19/2004
+mgross: 7/1/2004
+cwells: 5/31/2001
+mcapotos: 5/23/2001
+mcapotos: 5/18/2001
+terry: 5/11/2001
+mark: 5/14/1997
+jamie: 10/23/1996
+jamie: 10/16/1996
+mark: 9/20/1996
+
+186973	TITLE *186973 IL2-INDUCIBLE T-CELL KINASE; ITK
+;;TYROSINE KINASE EXPRESSED MAINLY IN T CELLS; EMT;;
+T-CELL ITK/TSK TYROSINE KINASE, MOUSE, HOMOLOG OF
+DESCRIPTION 
+DESCRIPTION
+
+The ITK gene encodes IL2 (147680)-inducible T-cell kinase, which is
+important for proper T-cell development, T-cell receptor (TCR)
+signaling, cytokine release, and regulation of differentiation. ITK is
+analogous to Bruton tyrosine kinase (BTK; 300300), which is specifically
+expressed in B cells and instrumental for their undisturbed development,
+differentiation, and signaling (summary by Linka et al., 2012).
+
+CLONING
+
+Signal transduction through the T-cell receptor (TCR; see 186880) and
+cytokine receptors on the surface of T lymphocytes occurs largely via
+tyrosine phosphorylation of intracellular substrates. Signal
+transduction is thought to occur via association of these receptors with
+intracellular protein tyrosine kinases. To identify unique T-cell
+tyrosine kinases, Gibson et al. (1993) used PCR-based cloning with
+degenerate oligonucleotides directed at highly conserved motifs of
+tyrosine kinase domains. In this way, they cloned the complete cDNA for
+a unique human tyrosine kinase that is expressed mainly in T lymphocytes
+and natural killer (NK) cells. The cDNA predicted an open reading frame
+of 1,866 bp encoding a protein with a predicted size of 72 kD, which was
+in keeping with its size on Western blotting. A single 6.2-kb mRNA and
+72-kD protein were detected in T lymphocytes and NK-like cell lines, but
+were not detected in other cell lineages. Sequence comparisons suggested
+that the protein is probably the human homolog of a murine
+interleukin-2-inducible T-cell kinase (ITK). However, unlike ITK, the
+message and protein levels for the new entity did not vary markedly on
+stimulation of human IL-2 responsive T cells with IL-2. They referred to
+the gene and its protein product as EMT ('expressed mainly in T cells').
+They concluded that EMT is a member of a new family of intracellular
+kinases that includes BPK (the kinase mutant in X-linked
+agammaglobulinemia, 300300). The expression of EMT message and protein
+in thymocytes and mature T cells, combined with its homology to BPK and
+its chromosomal localization, suggested that EMT may play a role in
+thymic ontogeny and growth regulation of mature T cells.
+
+BIOCHEMICAL FEATURES
+
+ITK is the T-cell-specific homolog of Bruton tyrosine kinase (BTK),
+which is mutant in X-linked agammaglobulinemia (300300). Cheng et al.
+(1994) showed that BTK interacts with 3 protein-tyrosine kinases that
+get activated upon stimulation of B- and T-cell receptors. These
+interactions are mediated by two 10-amino acid motifs in BTK; an
+analogous site with the same specificity is also present in ITK.
+
+GENE FUNCTION
+
+Integrin adhesion receptors mediate critical interactions of T cells
+with other cells and extracellular matrix components during trafficking,
+as well as during antigen-specific recognition events in tissue.
+Phosphatidylinositol 3-kinase (PI3K; see 601232) has a role in the
+regulation of integrin activity by CD3 (see 186790)-TCR and in the
+regulation of ITK. Woods et al. (2001) determined that TCR-mediated
+activation of beta-1 integrins (see ITGB1; 135630) requires activation
+of ITK and PI3K-dependent recruitment of ITK to detergent-insoluble
+glycosphingolipid-enriched microdomains (DIGs) via binding of the
+pleckstrin homology domain of ITK to the PI3K product PI(3,4,5)-P3.
+Likewise, activation of PI3K and LCK (153390) via CD4 (186940)
+coreceptor stimulation can initiate beta-1 integrin activation dependent
+on ITK function. CD4 stimulation, together with targeting of ITK to
+DIGs, also activates TCR-independent beta-1 integrin function. Changes
+in beta-1 integrin function mediated by TCR-induced activation of ITK
+are accompanied by ITK-dependent modulation of the actin cytoskeleton.
+Woods et al. (2001) concluded that TCR-mediated activation of beta-1
+integrin involves membrane relocalization and activation of ITK via
+coordinate action of PI3K and an SRC family tyrosine kinase.
+
+Hwang et al. (2005) reported that TBET (604895) represses Th2 lineage
+commitment through tyrosine kinase-mediated interaction between itself
+and GATA3 (131320) that interferes with the binding of GATA3 to its
+target DNA. Hwang et al. (2005) concluded that their results provide a
+novel function for tyrosine phosphorylation of a transcription factor in
+specifying alternate fates of a common progenitor cell. Hwang et al.
+(2005) showed that TBET phosphorylation is restricted to the TEC kinases
+ITK and RLK (600058). Coexpression studies demonstrated that this was
+most efficiently performed by ITK. In primary CD4 T cells isolated from
+ITK-, RLK-, or double ITK/RLK-deficient mice, the greatest diminution of
+TBET tyrosine phosphorylation was seen in the absence of ITK.
+Furthermore, mutation of TBET at tyrosine residue 525, but not control
+tyrosine residue 437, resulted in greatly reduced phosphorylation by
+ITK, revealing that ITK phosphorylates TBET at residue Y525 after T cell
+receptor stimulation.
+
+Huang et al. (2007) showed that phosphorylation of inositol
+1,4,5-trisphosphate (IP3) into IP4 promoted pleckstrin homology domain
+binding to phosphatidylinositol 3,4,5-trisphosphate and was required for
+full activation of Itk in primary mouse thymocytes. They proposed that
+IP4 establishes a feedback loop of phospholipase C-gamma-1 (PLCG1;
+172420) activation through ITK that is essential for T-cell development.
+
+MAPPING
+
+Gibson et al. (1993) mapped the EMT gene to chromosome 5q31-q32 by
+fluorescence in situ hybridization. By fluorescence in situ
+hybridization, Janis et al. (1994) mapped the human ITK gene to
+5q32-q33. By Southern blot analysis of DNA from the progeny of 2
+multilocus crosses, the murine Itk gene was mapped to chromosome 11 in a
+region of homology to human 5q. The region in humans is frequently
+deleted in the myelodysplastic syndrome.
+
+MOLECULAR GENETICS
+
+In 2 sisters with autosomal recessive fatal EBV-associated
+lymphoproliferative syndrome-1 (LPFS1; 613011), Huck et al. (2009)
+identified a homozygous mutation in the ITK gene (R355W; 186973).
+
+In 3 members of a consanguineous Arab family with lymphoproliferative
+syndrome-1, Stepensky et al. (2011) identified a homozygous truncating
+mutation in the ITK gene (Y588X; 186973.0002). The mutation, which was
+found by homozygosity mapping followed by candidate gene sequencing,
+segregated with the disorder in the family.
+
+In a patient, born of consanguineous Moroccan parents, with
+lymphoproliferative syndrome-1, Linka et al. (2012) identified a
+homozygous missense mutation in the ITK gene (R29H; 186973.0003). Linka
+et al. (2012) performed functional studies on cells from the patients
+reported by Huck et al. (2009), Stepensky et al. (2011), and Linka et
+al. (2012), and found that all had a reduced calcium signaling response
+after TCR stimulation and were unable to enhance calcium response in
+Itk-null mouse cells, consistent with a loss of function. In vitro
+studies showed that all mutant proteins had reduced half-lives; the R29H
+mutation impeded membrane targeting of ITK.
+
+ANIMAL MODEL
+
+By homologous recombination, Schaeffer et al. (1999) disrupted the Rlk
+(TXK; 600058) gene in mice. Heterozygotes were completely normal.
+Homozygous null Rlk mice showed increased amounts of Itk mRNA. The
+authors hypothesized that upregulation of related Tec kinases may
+partially compensate for the lack of Rlk. Schaeffer et al. (1999)
+therefore generated Rlk -/- Itk -/- mice by interbreeding. Itk-deficient
+mice have reduced numbers of mature T cells, particularly CD4+ cells,
+causing a decreased CD4-to-CD8 ratio. Rlk -/- Itk -/- mutants, however,
+had normal T cell numbers. Both CD4+ and CD8+ cell numbers are increased
+relative to Itk -/- mice. The persistent abnormal ratio of CD4+ to CD8+
+cells suggested an altered regulation of lymphoid development and
+homeostasis in the double mutants. The double mutants had marked defects
+in T-cell receptor responses including proliferation, cytokine
+production, and apoptosis in vitro and adaptive immune responses to
+Toxoplasma gondii in vivo. Molecular events immediately downstream from
+the T-cell receptor were intact in Rlk -/- Itk -/- cells, but
+intermediate events including inositol trisphosphate production, calcium
+mobilization, and mitogen-activated protein kinase activation were
+impaired, establishing Tec kinases as critical regulators of T-cell
+receptor signaling required for phospholipase C-gamma activation.
+
+Using flow cytometry, Dubois et al. (2006) found that Il15 (600554) -/-
+mice lacked Cd44 (107269)-hi/Cd122 (IL2RB; 146710)-hi memory phenotype
+Cd8-positive T cells in both the periphery and thymus, whereas Itk -/-
+mice lacked Cd44-lo/Cd122-lo naive Cd8-positive T cells in the periphery
+and thymus. Mice lacking both Itk and Il15 had a severe reduction of all
+CD8-positive T cells. Dubois et al. (2006) proposed that there are 2
+distinct populations of CD8-positive T cells dependent on ITK or IL15,
+and that the IL15-dependent CD44-hi/CD122-hi memory phenotype
+CD8-positive T cells have functions in both innate and adaptive
+immunity.
+
+Broussard et al. (2006) found that Cd8-positive T cells from mice
+lacking Itk or both Itk and Rlk expressed memory markers (e.g., Cd44 and
+Cd122) and rapidly produced Ifng (147570). Itk deficiency greatly
+increased the number of cells selected by MHC class Ib. Broussard et al.
+(2006) concluded that the absence of TEC kinases prevents conventional
+CD8-positive T-cell development and leads to generation of a large
+population of nonconventional innate-type CD8-positive T cells. Atherly
+et al. (2006) presented similar findings.
+
+ALLELIC VARIANT .0001
+LYMPHOPROLIFERATIVE SYNDROME 1
+ITK, ARG335TRP
+
+In 2 Turkish sisters, born of consanguineous parents, with fatal
+EBV-associated lymphoproliferative syndrome-1 (LPFS1; 613011), Huck et
+al. (2009) identified a homozygous 1085C-T transition in exon 11 of the
+ITK gene, resulting in an arg335-to-trp (R335W) substitution in a highly
+conserved residue in the BG loop of the SH2 domain. Attempts to
+functionally express the R335W mutant in bacteria failed due to
+aggregation of the recombinant protein, whereas wildtype protein was
+stable and expressed functionally at high levels. Functional expression
+in 293T cells showed mRNA expression of the mutant transcript, but
+nearly undetectable ITK protein, consistent with severe protein
+instability. Both girls developed chronic active EBV infection in early
+childhood that was resistant to treatment. The disorder progressed to
+lymphadenopathy, hepatosplenomegaly, B-cell proliferation, and Hodgkin
+lymphoma in 1 girl. There were extremely low levels of the protein in
+lymph node biopsy from 1 of the girls. Both unaffected parents were
+heterozygous for the mutation. The mutation was not identified in 100
+Turkish and 100 German children.
+
+Linka et al. (2012) showed that cells from the patients reported by Huck
+et al. (2009) had a reduced calcium signaling response after TCR
+stimulation and were unable to enhance calcium response in Itk-null
+mouse cells, consistent with a loss of function.
+
+.0002
+LYMPHOPROLIFERATIVE SYNDROME 1
+ITK, TYR588TER
+
+In 3 members of a consanguineous Arab family with lymphoproliferative
+syndrome-1 (613011), Stepensky et al. (2011) identified a homozygous
+c.1764C-G transversion in exon 16 of the ITK gene, resulting in a
+tyr588-to-ter (Y588X) substitution that would disrupt the ITK kinase
+domain. The mutation, which was found by homozygosity mapping followed
+by candidate gene sequencing, segregated with the disorder in the
+family. The patients presented between ages 3 and 5 years with fever,
+lymphadenopathy, and Hodgkin lymphoma associated with EBV infection. One
+patient was treated successfully with chemotherapy but later developed
+fatal hemophagocytic lymphohistiocytosis; the second patient was treated
+successfully with chemotherapy but later developed autoimmune renal
+disease and was treated successfully with antiviral therapy; and the
+third patient underwent successful bone marrow transplant from a donor
+sib who was heterozygous for the mutation.
+
+Linka et al. (2012) showed that cells from the patient reported by
+Stepensky et al. (2011) had a reduced calcium signaling response after
+TCR stimulation and were unable to enhance calcium response in Itk-null
+mouse cells, consistent with a loss of function.
+
+.0003
+LYMPHOPROLIFERATIVE SYNDROME 1
+ITK, ARG29HIS
+
+In a patient, born of consanguineous Moroccan parents, with
+lymphoproliferative syndrome-1 (613011), Linka et al. (2012) identified
+a homozygous c.86G-A transition in the ITK gene, resulting in an
+arg29-to-his (R29H) substitution in the pleckstrin homology domain. The
+patient was diagnosed at age 11 years with an EBV-associated B-cell
+lymphoproliferative disorder. He also had autoimmune hemolytic anemia,
+thrombocytopenia, and progressive lymphopenia. He died at age 26 years.
+Patient cells had a reduced calcium signaling response after TCR
+stimulation and were unable to enhance calcium response in Itk-null
+mouse cells, consistent with a loss of function. In vitro studies showed
+that the R29H mutation impeded membrane targeting of ITK.
+
+REFERENCE 1. Atherly, L. O.; Lucas, J. A.; Felices, M.; Yin, C. C.; Reiner,
+S. L.; Berg, L. J.: The Tec family kinases Itk and Rlk regulate the
+development of conventional CD8+ T cells. Immunity 25: 79-91, 2006.
+
+2. Broussard, C.; Fleischacker, C.; Horai, R.; Chetana, M.; Venegas,
+A. M.; Sharp, L. L.; Hedrick, S. M.; Fowlkes, B. J.; Schwartzberg,
+P. L.: Altered development of CD8+ T cell lineages in mice deficient
+for the Tec kinases Itk and Rlk. Immunity 25: 93-104, 2006. Note:
+Erratum: Immunity 25: 849 only, 2006.
+
+3. Cheng, G.; Ye, Z.-S.; Baltimore, D.: Binding of Bruton's tyrosine
+kinase to Fyn, Lyn, or Hck through a Src homology 3 domain-mediated
+interaction. Proc. Nat. Acad. Sci. 91: 8152-8155, 1994.
+
+4. Dubois, S.; Waldmann, T. A.; Muller, J. R.: ITK and IL-15 support
+two distinct subsets of CD8+ T cells. Proc. Nat. Acad. Sci. 103:
+12075-12080, 2006.
+
+5. Gibson, S.; Leung, B.; Squire, J. A.; Hill, M.; Arima, N.; Goss,
+P.; Hogg, D.; Mills, G. B.: Identification, cloning, and characterization
+of a novel human T-cell-specific tyrosine kinase located at the hematopoietin
+complex on chromosome 5q. Blood 82: 1561-1572, 1993.
+
+6. Huang, Y. H.; Grasis, J. A.; Miller, A. T.; Xu, R.; Soonthornvacharin,
+S.; Andreotti, A. H.; Tsoukas, C. D.; Cooke, M. P.; Sauer, K.: Positive
+regulation of Itk PH domain function by soluble IP4. Science 316:
+886-889, 2007.
+
+7. Huck, K.; Feyen, O; Niehues, T.; Ruschendorf, F.; Hubner, N.; Laws,
+H.-J.; Telieps, T.; Knapp, S.; Wacker, H.-H.; Meindl, A.; Jumaa, H.;
+Borkhardt, A.: Girls homozygous for an IL-2-inducible T cell kinase
+mutation that leads to protein deficiency develop fatal EBV-associated
+lymphoproliferation. J. Clin. Invest. 119: 1350-1358, 2009.
+
+8. Hwang, E. S.; Szabo, S. J.; Schwartzberg, P. L.; Glimcher, L. H.
+: T helper cell fate specified by kinase-mediated interaction of T-bet
+with GATA-3. Science 307: 430-433, 2005.
+
+9. Janis, E. M.; Siliciano, J. D.; Isaac, D. D.; Griffin, C. A.; Hawkins,
+A. L.; Kozak, C. A.; Desiderio, S.: Mapping of the gene for the tyrosine
+kinase Itk to a region of conserved synteny between mouse chromosome
+11 and human chromosome 5q. Genomics 23: 269-271, 1994.
+
+10. Linka, R. M.; Risse, S. L.; Bienemann, K.; Werner, M.; Linka,
+Y.; Krux, F.; Synaeve, C.; Deenen, R.; Ginzel, S.; Dvorsky, R.; Gombert,
+M.; Halenius, A.; and 13 others: Loss-of-function mutations within
+the IL-2 inducible kinase ITK in patients with EBV-associated lymphoproliferative
+diseases. :Leukemia 26: 963-971, 2012.
+
+11. Schaeffer, E. M.; Debnath, J.; Yap, G.; McVicar, D.; Liao, X.
+C.; Littman, D. R.; Sher, A.; Varmus, H. E.; Lenardo, M. J.; Schwartzberg,
+P. L.: Requirement for Tec kinases Rlk and Itk in T cell receptor
+signaling and immunity. Science 284: 638-641, 1999.
+
+12. Stepensky, P.; Weintraub, M.; Yanir, A.; Revel-Vilk, S.; Krux,
+F.; Huck, K.; Linka, R. M.; Shaag, A.; Elpeleg, O.; Borkhardt, A.;
+Resnick, I. B.: IL-2-inducible T-cell kinase deficiency: clinical
+presentation and therapeutic approach. Haematologica 96: 472-476,
+2011.
+
+13. Woods, M. L.; Kivens, W. J.; Adelsman, M. A.; Qiu, Y.; August,
+A.; Shimizu, Y.: A novel function for the Tec family tyrosine kinase
+Itk in activation of beta-1 integrins by the T-cell receptor. EMBO
+J. 20: 1232-1244, 2001.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/29/2013
+Paul J. Converse - updated: 6/7/2007
+Paul J. Converse - updated: 1/8/2007
+Paul J. Converse - updated: 9/15/2006
+Ada Hamosh - updated: 2/2/2005
+Paul J. Converse - updated: 2/1/2002
+Ada Hamosh - updated: 5/7/1999
+
+CREATED Victor A. McKusick: 11/2/1993
+
+EDITED carol: 08/30/2013
+ckniffin: 8/29/2013
+carol: 3/20/2013
+ckniffin: 3/19/2013
+wwang: 9/23/2009
+ckniffin: 9/15/2009
+mgross: 6/7/2007
+mgross: 1/8/2007
+mgross: 9/28/2006
+terry: 9/15/2006
+alopez: 2/22/2005
+terry: 2/2/2005
+mgross: 2/4/2002
+terry: 2/1/2002
+alopez: 5/7/1999
+terry: 5/7/1999
+terry: 11/7/1994
+carol: 9/9/1994
+carol: 11/17/1993
+carol: 11/2/1993
+
+611575	TITLE *611575 STERILE ALPHA MOTIF DOMAIN-CONTAINING 8; SAMD8
+;;SPHINGOMYELIN SYNTHASE-RELATED; SMSR
+DESCRIPTION 
+CLONING
+
+By searching databases for sequences encoding motifs characteristic of
+SM synthases (see 611573), Huitema et al. (2004) identified SAMD8, which
+they called SMSR. The deduced 415-amino acid protein contains 5
+membrane-spanning alpha helices connected by hydrophilic extramembrane
+loops. SMSR also contains 4 highly conserved motifs, designated D1 to
+D4.
+
+MAPPING
+
+Hartz (2007) mapped the SAMD8 gene to chromosome 10q22.2 based on an
+alignment of the SAMD8 sequence (GenBank GENBANK AK057811) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/12/2007.
+
+2. Huitema, K.; van den Dikkenberg, J.; Brouwers, J. F. H. M.; Holthuis,
+J. C. M.: Identification of a family of animal sphingomyelin synthases. EMBO
+J. 23: 33-44, 2004.
+
+CREATED Patricia A. Hartz: 10/31/2007
+
+EDITED wwang: 11/05/2007
+
+609451	TITLE *609451 ZINC FINGER PROTEIN 90, MOUSE, HOMOLOG OF; ZFP90
+;;NK10;;
+KIAA1954
+DESCRIPTION 
+CLONING
+
+Lange et al. (1995) cloned mouse Zfp90, which they designated Nk10. The
+predominant cDNA encodes a protein with a calculated molecular mass of
+72.4 kD. The N-terminal half of Zfp90 contains KRAB A and B domains, and
+the C-terminal half contains 13 C2H2-type zinc finger motifs. Lange et
+al. (1995) also identified alternatively spliced Zfp90 cDNAs with
+5-prime extensions of exons 4 and 5. Northern blot analysis detected a
+2.4-kb transcript expressed at highest levels in brain, heart, spleen,
+and thymus. RT-PCR of mouse embryos detected Zfp90 expression
+predominantly in brain. At about postnatal week 2, it was expressed in
+most other tissues tested. At postnatal days 18 to 20, it was detected
+in testicular tissue, simultaneous with the appearance of haploid cells.
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2001) obtained a partial ZFP90 clone, which they
+designated KIAA1954. The transcript contains 2 SINEs in its 3-prime UTR.
+The deduced protein shares 50% identity with ZNF471 and 85% identity
+with Halobacterium transcription initiation factor IIB5. RT-PCR ELISA
+detected intermediate to high expression in all adult and fetal tissues
+and specific brain regions examined. Within whole tissues, highest ZPF90
+expression was in spleen. Within specific brain regions, highest
+expression was in caudate nucleus and substantia nigra.
+
+GENE FUNCTION
+
+Lange et al. (1995) demonstrated that mouse Zfp90 could bind DNA.
+Binding was zinc dependent and required zinc fingers 2 through 8. The
+KRAB domains of Zfp90 repressed reporter gene expression. The KRAB A
+domain alone reduced reporter gene expression by 75 to 80%, and the KRAB
+B domain reduced expression by 10 to 20%. Both domains together
+repressed reporter gene expression nearly completely.
+
+GENE STRUCTURE
+
+Lange et al. (1995) determined that the mouse Zfp90 gene contains 5
+exons.
+
+MAPPING
+
+By genomic sequence analysis, Nagase et al. (2001) mapped the ZFP90 gene
+to chromosome 16. Using backcross analysis, Lange et al. (1995) mapped
+the mouse Zfp90 gene to a region of chromosome 8D3 that shares homology
+of synteny with human chromosome 16q22.1.
+
+REFERENCE 1. Lange, R.; Christoph, A.; Thiesen, H.-J.; Vopper, G.; Johnson,
+K. R.; Lemaire, L.; Plomann, M.; Cremer, H.; Barthels, D.; Heinlein,
+U. A. O.: Developmentally regulated mouse gene NK10 encodes a zinc
+finger repressor protein with differential DNA-binding domains. DNA
+Cell Biol. 14: 971-981, 1995.
+
+2. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+CREATED Patricia A. Hartz: 6/28/2005
+
+EDITED mgross: 06/28/2005
+
+146740	TITLE *146740 Fc FRAGMENT OF IgG, LOW AFFINITY IIIa, RECEPTOR FOR; FCGR3A
+;;IMMUNOGLOBULIN G Fc RECEPTOR III-2;;
+FCRIII-2;;
+CD16A
+DESCRIPTION 
+DESCRIPTION
+
+The Fc receptor with low affinity for IgG (FCGR3, or CD16) is encoded by
+2 nearly identical genes, FCGR3A and FCGR3B (610665), resulting in
+tissue-specific expression of alternative membrane-anchored isoforms.
+FCGR3A encodes a transmembrane protein expressed on activated
+monocytes/macrophages, natural killer (NK) cells, and a subset of T
+cells. In contrast, FCGR3B encodes a glycosylphosphatidylinositol
+(GPI)-anchored protein that is expressed constitutively by neutrophils
+and after gamma-interferon (IFNG; 147570) stimulation by eosinophils
+(summary by Gessner et al., 1995).
+
+CLONING
+
+By Western blot and flow cytometric analyses, Ravetch and Perussia
+(1989) demonstrated differential expression of FCGR3 on
+polymorphonuclear neutrophils (PMNs) and NK cells. The glycoprotein on
+NK cells (FCGR3A) had a molecular mass 6 to 10 kD larger than that on
+neutrophils (FCGR3B) and was resistant to phosphatidylinositol-specific
+phospholipase C. Transcripts derived from FCGR3A and FCGR3B in NK cells
+and PMNs, respectively, have multiple single nucleotide differences,
+including 1 that converts a termination codon to a codon encoding arg,
+thereby extending the cytoplasmic domain by 21 amino acids and
+introducing a transmembrane anchor for FCGR3A in NK cells. The deduced
+FCGR3A protein contains 254 amino acids, whereas the deduced FCGR3B
+protein contains 233 amino acids. Ravetch and Perussia (1989) concluded
+that cell type-specific expression of 2 genes encoding alternative FCGR3
+proteins has a significant effect on the biologic functions of the
+molecules.
+
+GENE STRUCTURE
+
+Gessner et al. (1995) isolated and sequenced genomic clones of FCGR3A
+and FCGR3B, located their transcription initiation sites, identified the
+different organizations of their 5-prime regions, and demonstrated 4
+distinct classes of FCGR3A transcripts compared with a single class of
+FCGR3B transcripts. The gene promoters displayed different
+tissue-specific transcriptional activities reflecting expression of
+FCGR3A in NK cells and FCGR3B in neutrophils.
+
+MAPPING
+
+Le Coniat et al. (1990) mapped the FCGR3A gene to chromosome 1q23 by in
+situ hybridization.
+
+GENE FUNCTION
+
+Anderson et al. (1990) concluded that CD16 is included in the zeta
+natural killer cell receptor complex (CD3Z; 186780).
+
+Some gamma-delta T cells (see TCRG, 186970 and TCRD, 186810) express
+CD16. Using flow cytometric analysis, Bodman-Smith et al. (2000)
+examined the relative proportions of CD16+ gamma-delta T cells in the
+blood and synovial fluid of rheumatoid arthritis (RA; 180300) patients
+and the blood of control subjects. There was a significant reduction in
+CD16+ gamma-delta T cells in synovial fluid compared with the
+circulation. Mitogenic stimulation of circulating gamma-delta T cells
+resulted in an increased expression of the HLA-DR activation marker and
+a concomitant time-dependent decrease in the expression of CD16.
+Bodman-Smith et al. (2000) concluded that CD16 expression is lost in the
+synovial compartment as a result of activation.
+
+MOLECULAR GENETICS
+
+On the natural killer (NK) cells of a 3-year-old boy who suffered from
+recurrent viral respiratory tract infections since birth, de Vries et
+al. (1996) found an unusual CD16 phenotype. The child also had severe
+clinical problems with BCG vaccination and after Epstein-Barr virus and
+varicella-zoster virus infections. His peripheral blood lymphocytes
+contained a normal percentage and absolute number of CD3(-)CD7(+) cells,
+which were positively stained with CD16 monoclonal antibodies. FCGR3
+expression on granulocytes appeared to be normal. Sequence analysis of
+the FCGR3A gene, encoding CD16 on NK cells and macrophages, showed a
+T-to-A nucleotide substitution at position 230 on both alleles,
+predicting a leucine to histidine amino acid change at position 48
+(146740.0002).
+
+By cloning and sequencing FCGR3A cDNA from NK cells and macrophages of a
+heterozygous donor, de Haas et al. (1996) identified a 230T-G SNP that
+resulted in a leu48-to-arg (L48R) substitution in the first
+extracellular Ig-like domain and caused a higher electrophoretic
+mobility of deglycosylated FCGR3A. PCR and restriction analysis
+identified a 230T-A SNP, resulting in a leu48-to-his (L48H)
+substitution, in another donor. Genotype analysis revealed a gene
+frequency of 86% for 230T (L48), 6% for 230G (R48), and 8% for 230A
+(H48) in 93 FCGR3B-positive individuals. In contrast, the frequency of
+the 230G allele was significantly higher in 12 FCGR3B-deficient donors.
+The H48 and R48 variants exhibited a higher binding capacity for IgG1,
+IgG3, and IgG4 than did the common L48 variant. De Haas et al. (1996)
+concluded that SNPs at position 230 of FCGR3A influence IgG binding, as
+well as reactivity of CD16 monoclonal antibodies.
+
+Koene et al. (1997) used PCR-based restriction analysis to genotype 87
+donors for a 559T-G SNP in FCGR3A that results in a phe158-to-val
+(F158V) substitution. They found gene frequencies of 57% and 43% for
+F158 and V158, respectively. F158 was linked to L48, and V158 was linked
+to R48 or H48. Through functional analysis, Koene et al. (1997)
+determined that the previously identified differences in IgG binding
+among the 3 FCGR3A variants at position 48 are a consequence of the
+linked polymorphism at position 158.
+
+Among 1,115 patients with rheumatoid arthritis (RA; 180300) and 654
+controls, Robinson et al. (2012) found no significant association
+between FCGR3A copy number and disease.
+
+Although nearly all adults have been exposed to herpes simplex virus
+(HSV)-1, the clinical course of infection varies remarkably. By
+analyzing the contribution of gene families on chromosomes 1, 6, 12, and
+19 to susceptibility to HSV-1 infection in 302 individuals, Moraru et
+al. (2012) identified no specific susceptibility locus. However, they
+found that the risk of suffering clinical HSV-1 infection was modified
+by MHC class I allotypes, HLA-C1 (142840) interaction with KIR2DL2
+(604937), and the phe/val polymorphism at codon 158 of CD16A.
+
+EVOLUTION
+
+By determining the nature and rate of copy number variation (CNV)
+mutation and investigating the global variation of disease-associated
+variation at the FCGR locus, Machado et al. (2012) determined that CNV
+of the FCGR3 genes is mediated by recurrent nonallelic homologous
+recombination between the 2 segmental duplications that carry FCGR3A and
+FCGR3B. They showed that pathogen richness, particularly helminth
+pathogens, is likely to have influenced the patterns of variation in
+FCGRs in humans. Machado et al. (2012) proposed that alterations to IgG
+binding in the context of helminth infection have driven positive
+selection in FCGR among different mammalian species, linking
+evolutionary pressure of helminth infection with autoimmune disease via
+adaptation at the genetic level. This model supports the 'hygiene
+hypothesis,' which states that in the absence of chronic helminth
+infection in modern populations, previously selected alleles respond to
+immune system challenges differently and therefore may alter
+susceptibility to autoimmune disease.
+
+ANIMAL MODEL
+
+Pinheiro da Silva et al. (2007) found that Fcrg (FCER1G; 147139) -/-
+mice showed reduced mortality in an acute peritonitis model caused by
+cecal ligation and puncture (CLP) compared with wildtype mice. The
+reduced mortality in Fcrg -/- mice was associated with lower serum and
+peritoneal Tnf (191160) and significantly increased capacity of
+neutrophils and macrophages to phagocytose E. coli. Fcgr3 -/- mice also
+had reduced sepsis after CLP. Fcgr3 bound E. coli, inducing Fcrg
+phosphorylation, recruitment of tyrosine phosphatase Shp1 (PTPN6;
+176883), and dephosphorylation of phosphatidylinositol 3-kinase (PI3K;
+see 171834). Decreased Pi3k activity inhibited E. coli phagocytosis and
+increased Tnf production through Tlr4 (603030). Confocal microscopy
+demonstrated negative regulation of Marco (604870) by Fcrg. Interaction
+of E. coli with Fcgr3 induced recruitment of Shp1 to Marco and inhibited
+E. coli phagocytosis. Pinheiro da Silva et al. (2007) concluded that
+binding of E. coli to FCGR3 triggers an inhibitory FCRG pathway that
+impairs MARCO-mediated bacterial clearance and activates TNF secretion.
+
+ALLELIC VARIANT .0001
+MOVED TO 610665.0001
+.0002
+VIRAL INFECTIONS, RECURRENT, SUSCEPTIBILITY TO
+FCGR3A, LEU48HIS
+
+In a 3-year-old boy who had suffered from recurrent viral respiratory
+tract infections since birth, de Vries et al. (1996) found an unusual
+CD16 phenotype on the natural killer (NK) cells. Sequence analysis of
+the IGFR3 gene showed a T-to-A nucleotide substitution at position 230
+on both alleles, predicting a leucine-to-histidine amino acid change at
+position 48 in the first extracellular Ig-like domain of the FCGR3A
+protein. The child had also had severe problems with BCG vaccination and
+with Epstein-Barr virus and varicella-zoster virus infections. The
+clinical pattern was considered compatible with an in vivo dysfunction
+of NK cells. Only 1 patient with absolute NK cell deficiency had been
+previously described. Biron et al. (1989) reported the case of an
+adolescent with recurrent life-threatening herpesvirus infections, who
+completely lacked CD16 and/or CD56 positive cells in vivo and
+NK-activity in vitro. In a note added in proof, de Vries et al. (1996)
+called attention to the case of homozygosity for a IGFR3 mutation
+reported by Jawahar et al. (1996).
+
+REFERENCE 1. Anderson, P.; Caligiuri, M.; O'Brien, C.; Manley, T.; Ritz, J.;
+Schlossman, S. F.: Fc-gamma receptor type III (CD16) is included
+in the zeta NK receptor complex expressed by human natural killer
+cells. Proc. Nat. Acad. Sci. 87: 2274-2278, 1990.
+
+2. Biron, C. A.; Byron, K. S.; Sullivan, J. L.: Severe herpesvirus
+infections in an adolescent without natural killer cells. New Eng.
+J. Med. 320: 1731-1735, 1989.
+
+3. Bodman-Smith, M. D.; Anand, A.; Durand, V.; Youinou, P. Y.; Lydyard,
+P. M.: Decreased expression of Fc-gamma-RIII (CD16) by gamma/delta
+T cells in patients with rheumatoid arthritis. Immunology 99: 498-503,
+2000.
+
+4. de Haas, M.; Koene, H. R.; Kleijer, M.; de Vries, E.; Simsek, S.;
+van Tol, M. J. D.; Roos, D.; von dem Borne, A. E. G. K.: A triallelic
+Fc-gamma receptor type IIIA polymorphism influences the binding of
+human IgG by NK cell Fc-gamma-RIIIa. J. Immun. 156: 2948-2955, 1996.
+
+5. de Vries, E.; Koene, H. R.; Vossen, J. M.; Gratama, J.-W.; von
+dem Borne, A. E. G. K.; Waaijer, J. L. M.; Haraldsson, A.; de Haas,
+M.; van Tol, M. J. D.: Identification of an unusual Fc-gamma receptor
+IIIa (CD16) on natural killer cells in a patient with recurrent infections. Blood 88:
+3022-3027, 1996.
+
+6. Gessner, J. E.; Grussenmeyer, T.; Kolanus, W.; Schmidt, R. E.:
+The human low affinity immunoglobulin G Fc receptor III-A and III-B
+genes: molecular characterization of the promoter regions. J. Biol.
+Chem. 270: 1350-1361, 1995.
+
+7. Jawahar, S.; Moody, C.; Chan, M.; Finberg, R.; Geha, R.; Chatila,
+T.: Natural Killer (NK) cell deficiency associated with an epitope-deficient
+Fc receptor IIIA (CD16-II). Clin. Exp. Immun. 103: 408-413, 1996.
+
+8. Koene, H. R.; Kleijer, M.; Algra, A.; Roos, D.; von dem Borne,
+A. E. G. K.; de Haas, M.: Fc-gamma-RIIIa-158V/F polymorphism influences
+the binding of IgG by natural killer cell Fc-gamma-RIIIa, independently
+of the Fc-gamma-RIIIa-48L/R/H phenotype. Blood 90: 1109-1114, 1997.
+
+9. Le Coniat, M.; Kinet, J.-P.; Berger, R.: The human genes for the
+alpha and gamma subunits of the mast cell receptor for immunoglobulin
+E are located on human chromosome band 1q23. Immunogenetics 32:
+183-186, 1990.
+
+10. Machado, L. R.; Hardwick, R. J.; Bowdrey, J.; Bogle, H.; Knowles,
+T. J.; Sironi, M.; Hollox, E. J.: Evolutionary history of copy-number-variable
+locus for the low-affinity Fc-gamma receptor: mutation rate, autoimmune
+disease, and the legacy of helminth infection. Am. J. Hum. Genet. 90:
+973-985, 2012.
+
+11. Moraru, M.; Cisneros, E.; Gomez-Lozano, N.; de Pablo, R.; Portero,
+F.; Canizares, M.; Vaquero, M.; Roustan, G.; Millan, I.; Lopez-Botet,
+M.; Vilches, C.: Host genetic factors in susceptibility to herpes
+simplex type 1 virus infection: contribution of polymorphic genes
+at the interface of innate and adaptive immunity. J Immun. 188:
+4412-4420, 2012.
+
+12. Pinheiro da Silva, F.; Aloulou, M.; Skurnik, D.; Benhamou, M.;
+Andremont, A.; Velasco, I. T.; Chiamolera, M.; Verbeek, J. S.; Launay,
+P.; Monteiro, R. C.: CD16 promotes Escherichia coli sepsis through
+an FcR-gamma inhibitory pathway that prevents phagocytosis and facilitates
+inflammation. Nature Med. 13: 1368-1374, 2007.
+
+13. Ravetch, J. V.; Perussia, B.: Alternative membrane forms of Fc-gamma-RIII(CD16)
+on human natural killer cells and neutrophils: cell type-specific
+expression of two genes that differ in single nucleotide substitutions. J.
+Exp. Med. 170: 481-497, 1989.
+
+14. Robinson, J. I.; Carr, I. M.; Cooper, D. L.; Rashid, L. H.; Martin,
+S. G.; Emery, P.; Isaacs, J. D.; Barton, A.; BRAGGSS; Wilson, A.
+G.; Barrett, J. H.; Morgan, A. W.: Confirmation of association of
+FCGR3B but not FCGR3A copy number with susceptibility to autoantibody
+positive rheumatoid arthritis. Hum. Mutat. 33: 741-749, 2012.
+
+CONTRIBUTORS Paul J. Converse - updated: 05/06/2013
+Matthew B. Gross - updated: 9/4/2012
+Paul J. Converse - updated: 8/9/2012
+Matthew B. Gross - updated: 8/2/2012
+Paul J. Converse - updated: 7/26/2012
+Cassandra L. Kniffin - updated: 4/16/2012
+Paul J. Converse - updated: 9/5/2008
+Paul J. Converse - updated: 1/7/2008
+Ada Hamosh - updated: 7/31/2000
+Paul J. Converse - updated: 6/15/2000
+
+CREATED Victor A. McKusick: 10/4/1988
+
+EDITED mgross: 05/06/2013
+mgross: 9/4/2012
+terry: 8/9/2012
+mgross: 8/3/2012
+mgross: 8/2/2012
+mgross: 7/30/2012
+terry: 7/26/2012
+alopez: 4/23/2012
+terry: 4/17/2012
+ckniffin: 4/16/2012
+mgross: 9/15/2008
+terry: 9/5/2008
+mgross: 2/4/2008
+terry: 1/7/2008
+alopez: 7/31/2000
+carol: 6/15/2000
+alopez: 6/23/1998
+alopez: 7/29/1997
+terry: 7/7/1997
+mark: 6/14/1997
+jamie: 1/8/1997
+terry: 12/18/1996
+terry: 12/9/1996
+mark: 11/14/1996
+terry: 7/10/1995
+carol: 7/9/1995
+mark: 6/16/1995
+carol: 12/14/1993
+carol: 12/6/1993
+carol: 8/27/1992
+
