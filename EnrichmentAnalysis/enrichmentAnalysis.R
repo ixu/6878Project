@@ -16,3 +16,4 @@ setGeneMatrix <- t(as.matrix(setGeneMatrix));
 results <- fisherTestGeneSets(setGeneMatrix, geneAnnotationMatrix);
 save(results, file=paste('output/results',cluster,'.RData',sep=""))
 write.csv(t(results$pValueMatrix),file=paste('output/results',cluster,'.csv',sep="")) 
+
