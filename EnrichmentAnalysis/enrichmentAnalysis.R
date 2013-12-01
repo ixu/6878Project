@@ -19,3 +19,4 @@ maxSetSize <- Inf;
 results <- fisherTestGeneSets(setGeneMatrix, geneAnnotationMatrix);
 print(dim(results$pValueMatrix))
 save(results, file=paste('output/results',cluster,'.RData',sep=""))
+write.table(t(results$pValueMatrix),file=paste('output/results',cluster,'.csv',sep=","))
