@@ -1,0 +1,719 @@
+600702	TITLE *600702 SODIUM CHANNEL, VOLTAGE-GATED, TYPE VIII, ALPHA SUBUNIT; SCN8A
+;;NAV1.6
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-dependent sodium channels, such as SCN8A, are responsible for
+the initial membrane depolarization that occurs during generation of
+action potentials in most electrically excitable cells (Plummer et al.,
+1998).
+
+CLONING
+
+Plummer et al. (1998) isolated and sequenced genomic fragments
+containing the exons of a novel human voltage-gated sodium channel
+designated SCN8A. SCN8A encodes a 1,980-amino acid protein that shares
+close to 99% sequence identity with the mouse protein. It contains
+several consensus sites for phosphorylation of serine and threonine
+residues that are also conserved in other sodium channel family members.
+
+Plummer et al. (1997) identified 2 alternatively spliced exons of SCN8A,
+18N and 18A, that encode transmembrane segments S3 and S4 in domain III.
+Exon 18N is expressed in fetal brain and nonneuronal tissues.
+Transcripts with exon 18N have a conserved in-frame stop codon that
+predicts the synthesis of a truncated, 2-domain protein. The proportion
+of transcripts containing exon 18N is highest in mouse fetal brain
+between embryonic day (E) 12.5 and E14.5; at E18.5 and later, the 18A
+transcript predominates.
+
+GENE STRUCTURE
+
+Plummer et al. (1998) determined that the SCN8A gene contains 28 exons
+and identified an additional pair of alternatively spliced exons, 5N and
+5A, that encode transmembrane segments of domain I. Exons 5N and 5A
+differ by a single amino acid difference at position 7. Plummer et al.
+(1998) also found that major and minor protein transcripts are generated
+by 2 alternative splice donor sites for exon 10B; the minor transcript
+contains 11 extra amino acids.
+
+Drews et al. (2007) identified 4 untranslated 5-prime exons, which they
+designated 1a through 1d, in the mouse and human SCN8A genes. These
+exons are mutually exclusive, and each is alternatively spliced to the
+first coding exon. Exon 1a overlaps with an inserted LINE element, and
+the 70-kb interval between the 5-prime noncoding exons and the first
+coding exon contains 58% repetitive elements and simple repeats. The
+Scn8a genes of lower vertebrates contain only a single 5-prime
+untranslated exon that corresponds to mouse and human exon 1c. Exon 1c
+contains conserved functional YY1 (600013) and REST (600571) sites.
+
+GENE FUNCTION
+
+Active invasion of the dendritic tree by action potentials generated in
+the axon is essential for associative synaptic plasticity and neuronal
+ensemble formation. In cortical pyramidal cells, this action potential
+back-propagation is supported by dendritic voltage-gated sodium
+channels. Using a highly sensitive electron microscopic immunogold
+technique, Lorincz and Nusser (2010) revealed the presence of the Nav1.6
+subunit in hippocampal CA1 pyramidal cell proximal and distal dendrites.
+Here, the subunit density is lower by a factor of 35 to 80 than that
+found in axon initial segments. A gradual decrease in Nav1.6 density
+along the proximodistal axis of the dendritic tree was also detected
+without any labeling in dendritic spines. Lorincz and Nusser (2010)
+concluded that their results revealed the characteristic subcellular
+distribution of the Nav1.6 subunit, identifying this molecule as a key
+substrate enabling dendritic excitability.
+
+MAPPING
+
+Kohrman et al. (1995) assigned the mouse Scn8a gene to chromosome 15 by
+interspecific backcross analysis and the human SCN8A gene to chromosome
+12 by hybridization to a somatic cell hybrid mapping panel. Burgess et
+al. (1995) mapped the human homolog to 12q13 by fluorescence in situ
+hybridization. By physical mapping on a YAC contig, Plummer et al.
+(1998) localized the SCN8A gene to 12q13.1.
+
+MOLECULAR GENETICS
+
+Because SCN8A is widely expressed in neurons of the central and
+peripheral nervous systems, and because mutations in the mouse ortholog
+result in ataxia and other movement disorders, Trudeau et al. (2006)
+screened the 26 coding exons of SCN8A in 151 patients with inherited or
+sporadic ataxia. They found a 2-bp deletion in exon 24 (600702.0001) in
+a 9-year-old boy with mental retardation, pancerebellar atrophy, and
+ataxia (CIAT; 614306). Three additional family members who were
+heterozygous for this mutation exhibited milder cognitive behavioral
+deficits including attention deficit-hyperactivity disorder (ADHD;
+143465). No additional occurrence of this mutation was observed in 625
+unrelated DNA samples (1,250 chromosomes).
+
+In a girl with infantile epileptic encephalopathy-13 (EIEE13; 614558),
+Veeramah et al. (2012) identified a de novo heterozygous mutation in the
+SCN8A gene (N1768D; 600702.0002). In vitro functional expression studies
+showed that the mutation caused a dominant gain-of-function effect, with
+neuronal hyperexcitability, persistent sodium currents, incomplete
+channel inactivation, increased spontaneous firing,
+paroxysmal-depolarizing-shift-like complexes, and an increased firing
+frequency.
+
+Carvill et al. (2013) identified a heterozygous mutation in the SCN8A
+gene (L12890V; 600702.0003) in a boy with EIEE13. The mutation was
+inherited from his father, who was found to be somatic mosaic for the
+mutation. No further clinical information was provided. The patient was
+part of a cohort of 500 cases of epileptic encephalopathy who underwent
+sequencing of candidate genes; he was the only patient found to carry an
+SCN8A mutation.
+
+ANIMAL MODEL
+
+The mouse neurologic mutant 'motor endplate disease' (med) is
+characterized by early-onset progressive paralysis of the hindlimbs,
+severe muscle atrophy, degeneration of Purkinje cells, and juvenile
+lethality. Burgess et al. (1995) isolated a voltage-gated sodium channel
+gene, Scn8a, from the flanking region of a transgene-induced allele of
+med. Scn8a is expressed in brain and spinal cord but not in skeletal
+muscle or heart, and encodes a predicted protein of 1,732 amino acids.
+An intragenic deletion at the site of transgene insertion resulted in
+loss of expression. The gene is closely related to other sodium channel
+alpha subunits: SCN1A (182389), SCN2A (182390), SCN3A (182391), SCN4A
+(603967), SCN5A (600163), and SCN6A (182392). Kohrman et al. (1996)
+identified a missense mutation in Scn8a that is associated with
+cerebellar ataxia in the 'jolting' mutant, a mild allele of the med
+locus. Kohrman et al. (1996) described the molecular changes in Scn8a
+underlying 2 other spontaneous mutants, med and med(J). The med mutation
+was caused by insertion of a truncated LINE element into exon 2 of
+Scn8a. The med transcript was spliced from exon 1 to a cryptic acceptor
+site in intron 2. In the med(J) allele, a 4-bp deletion within 5-prime
+donor site of exon 3 resulted in splicing from exon 1 to exon 4. Both
+mutant transcripts altered the reading frame with premature stop codons
+close to the N terminus of the protein. Loss of Scn8a expression
+resulted in progressive paralysis and early death. Intron 2 of Scn8a is
+flanked by minor class AT-AC splice sites. The observed splicing
+patterns of the med and med(J) mutant transcripts provided evidence for
+preferential in vivo splicing between donor and acceptor sites of the
+same class. The apparent functional incompatibility may be a consequence
+of the different composition of spliceosomes bound to major and minor
+splice sites. The unusual pattern of exon skipping in these mutant
+identified Scn8a as a member of a small group of genes containing
+introns with nonstandard AT-AC splice sites. AT-AC introns are processed
+by alternative splicing machinery that includes U11 and U12 snRNPs.
+Meisler et al. (1997) reviewed how the analysis of molecular defects in
+mouse mutants can identify candidate genes for human neurologic
+disorders, as illustrated by Scn8a among other genes.
+
+Sprunger et al. (1999) studied the mouse mutant med(J), which contains a
+splice site mutation in the neuronal sodium channel Scn8a that results
+in a very low level of expression. On the C57BL/6J genetic background,
+med(J) homozygotes exhibited progressive paralysis and juvenile
+lethality. The C3H genetic background had an ameliorating effect,
+producing viable adults with a novel dystonic phenotype. The dystonic
+mice exhibited movement-induced, sustained abnormal postures of the
+trunk and limbs. Sprunger et al. (1999) mapped a dominant modifier locus
+responsible for the difference between strains to a 4.5 +/- 1.3-cM
+interval on mouse chromosome 3. These findings established a role for
+ion channels in dystonia and demonstrated the impact of genetic
+background on its severity and progression. This new model suggested to
+Sprunger et al. (1999) that SCN8A on 12q13 and SCNM1 (which by
+comparative mapping is presumably located on 1p21-q21) may contribute to
+human inherited dystonia.
+
+The dystonia demonstrated by Sprunger et al. (1999) in association with
+the Scn8a mutation was the first to be related to mutation in an ion
+channel. Furthermore, the med(J) mouse differed from other animal models
+with dystonia in that the condition persisted to adulthood and was not
+associated with neurodegeneration. Sprunger et al. (1999) suggested that
+the med(J) mutation should be classified as a hypomorphic allele because
+a low level of full-length Scn8a transcripts was demonstrated in
+homozygotes, indicating normal splicing at low efficiency. Homozygotes
+for null alleles of Scn8a could not survive even in the presence of 2
+copies of the Scnm1(H) modifier allele. Thus, prevention of paralysis
+and survival to adulthood required both a low level of wildtype
+transcript and at least 1 copy of the dominant allele of Scnm1. C57BL/6J
+carries a recessive allele of Scmn1 that, in combination with a
+hypomorphic level of Scn8a, resulted in paralysis and lethality.
+
+DeRepentigny et al. (2001) described a spontaneous autosomal recessive
+mutation in the mouse, which they termed 'degenerating muscle' (dmu),
+that is characterized by skeletal and cardiac muscle degeneration. Dmu
+mice are weak and have great difficulty in moving due to muscle atrophy
+and wasting in the hindquarters. Histopathologic observations and
+ultrastructural analysis revealed muscle degeneration in both skeletal
+and cardiac muscle, but no abnormalities in sciatic nerves. Using
+linkage analysis, the authors mapped the dmu locus to the distal portion
+of mouse chromosome 15 in a region syntenic to human chromosome 12q13.
+The human disorder scapuloperoneal myopathy (SPM; 181430) has been
+linked to this region, and SPM patients with associated cardiomyopathy
+have been described. Intact transcripts for Scn8a were present in dmu
+mice, but their levels were dramatically reduced. Furthermore, genetic
+complementation crosses between dmu and med mice revealed that they are
+allelic. The authors concluded that at least a portion of the dmu
+phenotype may be caused by a downregulation of Scn8a, and that SCN8A is
+a candidate gene for human SPM.
+
+Kearney et al. (2002) described a sensitive allele of the unlinked
+modifier locus, Scnm1, which results in juvenile lethality in C57BL/6J
+mice carrying the med(J) mutation. The modifier acts on the splicing
+efficiency of the mutant splice donor site in Scn8a, and mutant mice
+display either 90% or 95% reduction in the proportion of correctly
+spliced mRNA, depending on modifier genotype. The abundance of the
+channel protein, NaV1.6, is also reduced by an order of magnitude in
+med(J) mice, resulting in delayed maturation of nodes of Ranvier, slowed
+nerve conduction velocity, reduced muscle mass, and reduction of brain
+metabolic activity.
+
+Martin et al. (2007) showed that Scn8a(med) and Scn8a(med-jo) mice,
+which carry the heterozygous 'jolting' point mutation, were more
+resistant to pharmacologically induced seizures than wildtype
+littermates, suggesting that altered Scn8a function reduces neuronal
+excitability. They also showed that the seizure severity of heterozygous
+Scn1a +/- mice (see Yu et al., 2006), which is a mouse model for severe
+myoclonic epilepsy of infancy (SMEI; 607208), was ameliorated by the
+Scn8a(med-jo) allele. Double-heterozygous Scn1a +/- and Scn8a +/(med-jo)
+mice had seizure thresholds that were comparable to wildtype
+littermates, and the Scn8a(med-jo) allele was also able to rescue the
+premature lethality of Scn1a +/- mice and extended the life span of
+Scn1a -/- mice. The authors hypothesized that the opposing effects of
+Scn1a and Scn8a dysfunction on seizure thresholds result from
+differences in the cell types that are influenced by the respective
+sodium channel subtypes. Scn1a mutants result in reduced sodium currents
+in inhibitory GABAergic interneurons of the hippocampus and cortex,
+whereas Scn8a mutants affect excitatory pyramidal cells of the
+hippocampus and cortex, suggesting that reduced excitability of these
+cells may underlie the elevated seizure resistance of Scn8a-mutant mice.
+Martin et al. (2007) suggested that their results demonstrated that
+genetic interactions can alter seizure severity, and supported the
+hypothesis that genetic modifiers, including the SCN8A gene, contribute
+to the clinical variability observed in SMEI and GEFS+.
+
+By ENU-induced mutagenesis screen in mice, Papale et al. (2009)
+generated a val929-to-phe (V929F) mutation in the Scn8a gene. This
+residue in the pore loop of domain 2 is evolutionarily conserved.
+Electroencephalography (EEG) revealed well-defined spike-wave discharges
+(SWD), the hallmark of absence epilepsy (see 600131), in
+V929F-heterozygous mice and in mice heterozygous for either the
+Scn8a(med) or Scn8a(med-jo) mutations. Genetic background had a
+significant effect on SWD, with mutants on the C3HeB/FeJ strain showing
+a higher incidence than on C57BL/6J. Papale et al. (2009) suggested that
+the SCN8A gene may be a candidate gene for absence epilepsy in humans.
+
+ALLELIC VARIANT .0001
+COGNITIVE IMPAIRMENT WITH OR WITHOUT CEREBELLAR ATAXIA
+SCN8A, 2-BP DEL, 5157CT
+
+In a 9-year-old boy with mental retardation, pancerebellar atrophy, and
+ataxia (614306), Trudeau et al. (2006) identified heterozygosity for a
+2-bp deletion in exon 4 of the SCN8A gene, which introduced a
+translation termination codon into the pore loop of domain 4, resulting
+in removal of the C-terminal cytoplasmic domain and predicting loss of
+channel function (pro1719argfsX6). Three additional heterozygous family
+members exhibited milder cognitive and behavioral deficits including
+attention deficit-hyperactivity disorder (ADHD; 143465). Trudeau et al.
+(2006) noted that it was unclear whether the relatives of the proband
+had a milder version of the neurologic abnormalities seen in the proband
+due to haploinsufficiency for SCN8A, or if the proband's symptoms were
+caused by an unrelated developmental disorder.
+
+.0002
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 13
+SCN8A, ASN1768ASP
+
+In a girl with infantile epileptic encephalopathy-13 (EIEE13; 614558),
+Veeramah et al. (2012) identified a de novo heterozygous 5302A-G
+transition in the SCN8A gene, resulting in an asn1768-to-asp (N1768D)
+substitution in a highly conserved residue in the final transmembrane
+segment adjacent to the C-terminal cytoplasmic domain. The mutation was
+identified by whole-genome sequencing. Expression of the mutant protein
+in a neuronal cell line showed that it caused persistent sodium
+currents, incomplete channel inactivation, and a depolarizing shift in
+the voltage dependence of steady-state fast inactivation. Current-clamp
+analysis in rat hippocampal neurons transfected with the mutant protein
+showed increased spontaneous firing, paroxysmal-depolarizing-shift-like
+complexes, and an increased firing frequency, consistent with a dominant
+gain-of-function phenotype. All of these studies were consistent with
+neuronal hyperexcitability. Whole-genome sequencing also identified
+putative recessive variants in the NRP2 (602070) and UNC13C (614568)
+genes in the proband, which may have contributed to the phenotype. The
+patient developed refractory generalized seizures at age 6 months. At
+age 4 years, the seizure phenotype changed to epileptic spasms, followed
+by regression of speech and language skills. She also had developmental
+delay, intellectual disability, autism, hypotonia, and difficulties with
+coordination and balance. Initial electroencephalogram (EEG) showed
+bifrontal spikes and brief bursts of generalized spike-wave activity.
+Later EEG showed diffuse slowing, multifocal spikes, and frontally
+predominant generalized spikes. Brain MRI was normal. The patient died
+suddenly at age 15 years. There was no family history of a similar
+disorder.
+
+.0003
+EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 13
+SCN8A, LEU1290VAL
+
+In a boy with EIEE13 (614558), Carvill et al. (2013) identified a
+heterozygous c.3868C-G transversion in the SCN8A gene, resulting in a
+leu1290-to-val (L1290V) substitution. The patient had onset of seizures
+at age 18 months. The mutation was inherited from the father, who was
+found to be somatic mosaic for the mutation.
+
+REFERENCE 1. Burgess, D. L.; Kohrman, D. C.; Galt, J.; Plummer, N. W.; Jones,
+J. M.; Spear, B.; Meisler, M. H.: Mutation of a new sodium channel
+gene, Scn8a, in the mouse mutant 'motor endplate disease'. Nature
+Genet. 10: 461-465, 1995.
+
+2. Carvill, G. L.; Heavin, S. B.; Yendle, S. C.; McMahon, J. M.; O'Roak,
+B. J.; Cook, J.; Khan, A.; Dorschner, M. O.; Weaver, M.; Calvert,
+S.; Malone, S.; Wallace, G.; and 22 others: Targeted resequencing
+in epileptic encephalopathies identifies de novo mutations in CHD2
+and SYNGAP1. Nature Genet. 45: 825-830, 2013.
+
+3. DeRepentigny, Y.; Cote, P. D.; Pool, M.; Bernier, G.; Girard, S.;
+Vidal, S. M.; Kothary, R.: Pathological and genetic analysis of the
+degenerating muscle (dmu) mouse: a new allele of Scn8a. Hum. Molec.
+Genet. 10: 1819-1827, 2001.
+
+4. Drews, V. L.; Shi, K.; de Haan, G.; Meisler, M. H.: Identification
+of evolutionarily conserved, functional noncoding elements in the
+promoter region of the sodium channel gene SCN8A. Mammalian Genome 18:
+723-731, 2007.
+
+5. Kearney, J. A.; Buchner, D. A.; de Haan, G.; Adamska, M.; Levin,
+S. I.; Furay, A. R.; Albin, R. L.; Jones, J. M.; Montal, M.; Stevens,
+M. J.; Sprunger, L. K.; Meisler, M. H.: Molecular and pathological
+effects of a modifier gene on deficiency of the sodium channel Scn8a
+(Nav1.6). Hum. Molec. Genet. 11: 2765-2775, 2002.
+
+6. Kohrman, D. C.; Harris, J. B.; Meisler, M. H.: Mutation detection
+in the med and med(J) alleles of the sodium channel Scn8a: unusual
+splicing due to a minor class AT-AC intron. J. Biol. Chem. 271:
+17576-17581, 1996.
+
+7. Kohrman, D. C.; Plummer, N. W.; Schuster, T.; Jones, J. M.; Jang,
+W.; Burgess, D. L.; Galt, J.; Spear, B. T.; Meisler, M. H.: Insertional
+mutation of the motor endplate disease (med) locus on mouse chromosome
+15. Genomics 26: 171-177, 1995.
+
+8. Kohrman, D. C.; Smith, M. R.; Goldin, A. L.; Harris, J.; Meisler,
+M. H.: A missense mutation in the sodium channel Scn8a is responsible
+for cerebellar ataxia in the mouse mutant jolting. J. Neurosci. 16:
+5993-5999, 1996.
+
+9. Lorincz, A.; Nusser, Z.: Molecular identify of dendritic voltage-gated
+sodium channels. Science 328: 906-909, 2010.
+
+10. Martin, M. S.; Tang, B.; Papale, L. A.; Yu, F. H.; Catterall,
+W. A.; Escayg, A.: The voltage-gated sodium channel Scn8a is a genetic
+modifier of severe myoclonic epilepsy of infancy. Hum. Molec. Genet. 16:
+2892-2899, 2007.
+
+11. Meisler, M. H.; Sprunger, L. K.; Plummer, N. W.; Escayg, A.; Jones,
+J. M.: Ion channel mutations in mouse models of inherited neurological
+disease. Ann. Med. 29: 569-574, 1997.
+
+12. Papale, L. A.; Beyer, B.; Jones, J. M.; Sharkey, L. M.; Tufik,
+S.; Epstein, M.; Letts, V. A.; Meisler, M. H.; Frankel, W. N.; Escayg,
+A.: Heterozygous mutations of the voltage-gated sodium channel SCN8A
+are associated with spike-wave discharges and absence epilepsy in
+mice. Hum. Molec. Genet. 18: 1633-1641, 2009.
+
+13. Plummer, N. W.; Galt, J.; Jones, J. M.; Burgess, D. L.; Sprunger,
+L. K.; Kohrman, D. C.; Meisler, M. H.: Exon organization, coding
+sequence, physical mapping, and polymorphic intragenic markers for
+the human neuronal sodium channel gene SCN8A. Genomics 54: 287-296,
+1998.
+
+14. Plummer, N. W.; McBurney, M. W.; Meisler, M. H.: Alternative
+splicing of the sodium channel SCN8A predicts a truncated two-domain
+protein in fetal brain and non-neuronal cells. J. Biol. Chem. 272:
+24008-24015, 1997.
+
+15. Sprunger, L. K.; Escayg, A.; Tallaksen-Greene, S.; Albin, R. L.;
+Meisler, M. H.: Dystonia associated with mutation of the neuronal
+sodium channel Scn8a and identification of the modifier locus Scnm1
+on mouse chromosome 3. Hum. Molec. Genet. 8: 471-479, 1999.
+
+16. Trudeau, M. M.; Dalton, J. C.; Day, J. W.; Ranum, L. P. W.; Meisler,
+M. H.: Heterozygosity for a protein truncation mutation of sodium
+channel SCN8A in a patient with cerebellar atrophy, ataxia, and mental
+retardation. (Letter) J. Med. Genet. 43: 527-530, 2006.
+
+17. Veeramah, K. R.; O'Brien, J. E.; Meisler, M. H.; Cheng, X.; Dib-Hajj,
+S. D.; Waxman, S. G.; Talwar, D.; Girirajan, S.; Eichler, E. E.; Restifo,
+L. L.; Erickson, R. P.; Hammer, M. F.: De novo pathogenic SCN8A mutation
+identified by whole-genome sequencing of a family quartet affected
+by infantile epileptic encephalopathy and SUDEP. Am. J. Hum. Genet. 90:
+502-512, 2012.
+
+18. Yu, F. H.; Mantegazza, M.; Westenbroek, R. E.; Robbins, C. A.;
+Kalume, F.; Burton, K. A.; Spain, W. J.; McKnight, G. S.; Scheuer,
+T.; Catterall, W. A.: Reduced sodium current in GABAergic interneurons
+in a mouse model of severe myoclonic epilepsy in infancy. Nature
+Neurosci. 9: 1142-1149, 2006. Note: Erratum: Nature Neurosci. 10:
+134 only, 2007.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/15/2013
+Cassandra L. Kniffin - updated: 3/28/2012
+Cassandra L. Kniffin - updated: 10/31/2011
+Ada Hamosh - updated: 5/27/2010
+George E. Tiller - updated: 11/25/2009
+Cassandra L. Kniffin - updated: 9/2/2009
+Patricia A. Hartz - updated: 9/10/2008
+Victor A. McKusick - updated: 7/5/2006
+George E. Tiller - updated: 2/13/2004
+George E. Tiller - updated: 2/5/2002
+Carol A. Bocchini - updated: 5/30/2001
+Michael J. Wright - updated: 2/5/2001
+Victor A. McKusick - updated: 3/19/1999
+Victor A. McKusick - updated: 11/30/1998
+Victor A. McKusick - updated: 11/23/1998
+
+CREATED Victor A. McKusick: 7/31/1995
+
+EDITED carol: 08/19/2013
+ckniffin: 8/15/2013
+carol: 5/29/2013
+mgross: 4/13/2012
+carol: 4/2/2012
+ckniffin: 3/28/2012
+carol: 10/31/2011
+ckniffin: 10/31/2011
+joanna: 7/27/2010
+carol: 6/11/2010
+alopez: 6/1/2010
+terry: 5/27/2010
+wwang: 12/4/2009
+terry: 11/25/2009
+wwang: 9/10/2009
+ckniffin: 9/2/2009
+mgross: 9/10/2008
+terry: 9/10/2008
+carol: 10/4/2006
+alopez: 7/10/2006
+alopez: 7/7/2006
+terry: 7/5/2006
+cwells: 2/13/2004
+cwells: 2/14/2002
+cwells: 2/5/2002
+carol: 6/14/2001
+carol: 5/30/2001
+alopez: 2/5/2001
+kayiaros: 7/8/1999
+carol: 7/7/1999
+terry: 4/29/1999
+mgross: 3/29/1999
+mgross: 3/26/1999
+terry: 3/19/1999
+carol: 11/30/1998
+carol: 11/23/1998
+terry: 9/6/1995
+mark: 7/31/1995
+
+602809	TITLE *602809 KINESIN FAMILY MEMBER 5B; KIF5B
+;;KINESIN 1 HEAVY CHAIN; KNS1;;
+KINESIN, HEAVY CHAIN, UBIQUITOUS; UKHC;;
+KINH
+DESCRIPTION 
+DESCRIPTION
+
+Kinesins are microtubule-based motor proteins involved in the transport
+of organelles in eukaryotic cells. They typically consist of 2
+identical, approximately 110- to 120-kD heavy chains, such as KIF5B, and
+2 identical, approximately 60- to 70-kD light chains. The heavy chain
+contains 3 domains: a globular N-terminal motor domain, which converts
+the chemical energy of ATP into a motile force along microtubules in 1
+fixed direction; a central alpha-helical rod domain, which enables the 2
+heavy chains to dimerize; and a globular C-terminal domain, which
+interacts with light chains and possibly an organelle receptor (summary
+by Navone et al. (1992) and Niclas et al. (1994)).
+
+CLONING
+
+By screening a human placenta cDNA library with a probe based on a
+conserved region of the Drosophila and squid kinesin heavy chains
+(KHCs), Navone et al. (1992) isolated cDNAs encoding KNS1. The predicted
+963-amino acid protein has 63% sequence identity to the Drosophila KHC.
+Immunoblot analysis using antibodies against squid KHC detected a 120-kD
+protein in CV-1 monkey kidney epithelial cells. Immunofluorescence
+studies showed that KNS1 expressed in CV-1 cells had both a diffuse
+distribution and a filamentous staining pattern that coaligned with
+microtubules but not vimentin (VIM; 193060) intermediate filaments; the
+KNS1 N- and C-terminal domains, but not the alpha-helical rod domain,
+also colocalized with microtubules.
+
+By Northern blot analysis, Niclas et al. (1994) demonstrated that Ukhc
+was expressed as multiple transcripts in all rat tissues examined.
+Immunoblot analysis of rat tissue extracts using antibodies specific for
+UKHC detected a 120-kD protein in all examined tissues. Niclas et al.
+(1994) found that UKHC is distributed uniformly between the cell body
+and processes of cultured hippocampal neurons.
+
+MAPPING
+
+Niclas et al. (1994) stated that the placenta UKHC cDNA isolated by
+Navone et al. (1992) hybridizes to a region on mouse chromosome 18 that
+shows homology of synteny with human 18q. However, Gross (2013) mapped
+the human KIF5B gene to chromosome 10p11.22 based on an alignment of the
+KIF5B sequence (GenBank GENBANK BC126279) with the genomic sequence
+(GRCh37).
+
+NOMENCLATURE
+
+Lawrence et al. (2004) presented a standardized kinesin nomenclature
+based on 14 family designations. Under this system, KIF5B belongs to the
+kinesin-1 family.
+
+GENE FUNCTION
+
+Kamal et al. (2000) demonstrated that the axonal transport of APP in
+neurons is mediated by the direct binding of APP to the kinesin light
+chain (600025) subunit of kinesin-I. Kamal et al. (2001) identified an
+axonal membrane compartment that contains APP, beta-secretase (604252),
+and presenilin-1 (104311). The fast anterograde axonal transport of this
+compartment is mediated by APP and kinesin-I. Proteolytic processing of
+APP can occur in the compartment in vitro and in vivo in axons. This
+proteolysis generates amyloid-beta and a carboxy-terminal fragment of
+APP, and liberates kinesin-I from the membrane. Kamal et al. (2001)
+concluded that APP functions as a kinesin-I membrane receptor, mediating
+the axonal transport of beta-secretase and presenilin-1, and that
+processing of APP to amyloid-beta by secretases can occur in an axonal
+membrane compartment transported by kinesin-I.
+
+Kanai et al. (2004) found that the hinge and C-terminal tail regions of
+Kif5a (602821), Kif5b, and Kif5c (604593) bound a large
+detergent-resistant RNase-sensitive granule from mouse brain. Mass
+spectrometric analysis showed that the granule contained mRNAs for
+Camk2-alpha (CAMK2A; 114078) and Arc (NOL3; 605235) and 42 proteins,
+including those for RNA transport, protein synthesis, and translational
+silencing. The granule localized to dendrites and underwent
+bidirectional movement. Distally directed movement of the granule was
+enhanced by Kif5 overexpression and reduced by Kif5 functional blockage.
+Kanai et al. (2004) concluded that kinesins transport RNA in dendrites
+via this large granule.
+
+Kural et al. (2005) used fluorescence imaging with 1-nanometer accuracy
+(FIONA) to analyze organelle movement by conventional kinesin and
+cytoplasmic dynein (see 600112) in a cell. They located a green
+fluorescent protein (GFP)-tagged peroxisome in cultured Drosophila S2
+cells to within 1.5 nanometers in 1.1 milliseconds, a 400-fold
+improvement in temporal resolution, sufficient to determine the average
+step size to be approximately 8 nanometers for both dynein and kinesin.
+Furthermore, Kural et al. (2005) found that dynein and kinesin do not
+work against each other in vivo during peroxisome transport. Rather,
+multiple kinesins or multiple dyneins work together, producing up to 10
+times the in vitro speed.
+
+To determine the effects of tau (157140) on dynein and kinesin motility,
+Dixit et al. (2008) conducted single-molecule studies of motor proteins
+moving along tau-decorated microtubules. Dynein tended to reverse
+direction, whereas kinesin tended to detach at patches of bound tau.
+Kinesin was inhibited at about a tenth of the tau concentration that
+inhibited dynein, and the microtubule-binding domain of tau was
+sufficient to inhibit motor activity. The differential modulation of
+dynein and kinesin motility suggests that microtubule-associated
+proteins (MAPs) can spatially regulate the balance of
+microtubule-dependent axonal transport.
+
+Metzger et al. (2012) identified the microtubule-associated protein MAP7
+(604108) and KIF5B as essential, evolutionarily conserved regulators of
+myonuclear positioning in Drosophila and cultured mammalian myotubes.
+Metzger et al. (2012) found that these proteins interact physically and
+that expression of the KIF5B motor domain fused to the MAP7
+microtubule-binding domain rescues nuclear positioning defects in
+MAP7-depleted cells. This suggested that MAP7 links KIF5B to the
+microtubule cytoskeleton to promote nuclear positioning. Finally,
+Metzger et al. (2012) showed that myonuclear positioning is
+physiologically important. Drosophila ensconsin (ens; homolog of MAP7)
+mutant larvae have decreased locomotion and incorrect myonuclear
+positioning, and these phenotypes are rescued by muscle-specific
+expression of ens. Metzger et al. (2012) concluded that improper nuclear
+positioning contributes to muscle dysfunction in a cell-autonomous
+fashion.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Kull et al. (1996) reported the crystal structure of the human kinesin
+motor domain with bound ADP. The motor consists primarily of a single
+alpha/beta arrowhead-shaped domain. It has striking structural
+similarity to the core of the catalytic domain of the actin-based motor
+myosin, although kinesin and myosin have virtually no amino acid
+sequence identity and exhibit distinct enzymatic and motile properties.
+
+Mori et al. (2007) developed 2 different single-molecule fluorescence
+resonance energy transfer sensors to detect whether kinesin is bound to
+its microtubule track by 1 or 2 heads. Their FRET results indicated
+that, while moving in the presence of saturating ATP, kinesin spends
+most of its time bound to the microtubule with both heads. However, when
+nucleotide binding becomes rate-limiting at low ATP concentrations,
+kinesin waits for ATP in a one-head-bound state and makes brief
+transitions to a 2-head-bound intermediate as it walks along the
+microtubule. On the basis of these results, Mori et al. (2007) suggested
+a model for how transitions in the ATPase cycle position the 2 kinesin
+heads and drive their hand-over-hand motion.
+
+Pernigo et al. (2013) presented the crystal structure of the
+tetratricopeptide repeat domain of kinesin light chain-2 (611729) in
+complex with a cargo peptide harboring a tryptophan-acidic motif derived
+from SKIP (609613), a critical host determinant in Salmonella
+pathogenesis and a regulator of lysosomal positioning. Structural data
+together with biophysical, biochemical, and cellular assays allowed
+Pernigo et al. (2013) to propose a framework for intracellular transport
+based on the binding by kinesin-1 of W-acidic cargo motifs through a
+combination of electrostatic interactions and sequence-specific
+elements, providing direct molecular evidence of the mechanisms for
+kinesin-1:cargo recognition.
+
+ANIMAL MODEL
+
+Tanaka et al. (1998) disrupted the mouse kif5B gene by homologous
+recombination. The kif5B -/- mice were embryonic lethal with a severe
+growth retardation at 9.5 to 11.5 days postcoitum. To analyze the
+significance of this conventional kinesin heavy chain in organelle
+transport, the authors studied the distribution of major organelles in
+the extraembryonic cells. The null mutant cells impaired lysosomal
+dispersion, while brefeldin A could normally induce the breakdown of
+their Golgi apparatus. More prominently, their mitochondria abnormally
+clustered in the perinuclear region. This mitochondrial phenotype was
+reversed by an exogenous expression of KIF5B, and a subcellular
+fractionation revealed that KIF5B was associated with mitochondria.
+These data indicated that kinesin is essential for mitochondrial and
+lysosomal dispersion rather than for the Golgi-to-endoplasmic reticulum
+traffic in these cells.
+
+REFERENCE 1. Dixit, R.; Ross, J. L.; Goldman, Y. E.; Holzbaur, E. L. F.: Differential
+regulation of dynein and kinesin motor proteins by tau. Science 319:
+1086-1089, 2008.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  9/18/2013.
+
+3. Kamal, A.; Almenar-Queralt, A.; LeBlanc, J. F.; Roberts, E. A.;
+Goldstein, L. S. B.: Kinesin-mediated axonal transport of a membrane
+compartment containing beta-secretase and presenilin-1 requires APP. Nature 414:
+643-648, 2001.
+
+4. Kamal, A.; Stokin, G. B.; Yang, Z.; Xia, C.; Goldstein, L. S.:
+Axonal transport of amyloid precursor protein is mediated by direct
+binding to the kinesin light chain subunit of kinesin-I. Neuron 28:
+449-459, 2000.
+
+5. Kanai, Y.; Dohmae, N.; Hirokawa, N.: Kinesin transports RNA: isolation
+and characterization of an RNA-transporting granule. Neuron 43:
+513-525, 2004.
+
+6. Kull, F. J.; Sablin, E. P.; Lau, R.; Fletterick, R. J.; Vale, R.
+D.: Crystal structure of the kinesin motor domain reveals a structural
+similarity to myosin. Nature 380: 550-555, 1996.
+
+7. Kural, C.; Kim, H.; Syed, S.; Goshima, G.; Gelfand, V. I.; Selvin,
+P. R.: Kinesin and dynein move a peroxisome in vivo: a tug-of-war
+or coordinated movement? Science 308: 1469-1472, 2005.
+
+8. Lawrence, C. J.; Dawe, R. K.; Christie, K. R.; Cleveland, D. W.;
+Dawson, S. C.; Endow, S. A.; Goldstein, L. S. B.; Goodson, H. V.;
+Hirokawa, N.; Howard, J.; Malmberg, R. L.; McIntosh, J. R.; and 10
+others: A standardized kinesin nomenclature. J. Cell Biol. 167:
+19-22, 2004.
+
+9. Metzger, T.; Gache, V.; Xu, M.; Cadot, B.; Folker, E. S.; Richardson,
+B. E.; Gomes, E. R.; Baylies, M. K.: MAP and kinesin-dependent nuclear
+positioning is required for skeletal muscle function. Nature 484:
+120-124, 2012.
+
+10. Mori, T.; Vale, R. D.; Tomishige, M.: How kinesin waits between
+steps. Nature 450: 750-754, 2007.
+
+11. Navone, F.; Niclas, J.; Hom-Booher, N.; Sparks, L.; Bernstein,
+H. D.; McCaffrey, G.; Vale, R. D.: Cloning and expression of a human
+kinesin heavy chain gene: interaction of the COOH-terminal domain
+with cytoplasmic microtubules in transfected CV-1 cells. J. Cell
+Biol. 117: 1263-1275, 1992.
+
+12. Niclas, J.; Navone, F.; Hom-Booher, N.; Vale, R. D.: Cloning
+and localization of a conventional kinesin motor expressed exclusively
+in neurons. Neuron 12: 1059-1072, 1994.
+
+13. Pernigo, S.; Lamprecht, A.; Steiner, R. A.; Dodding, M. P.: Structural
+basis for kinesin-1:cargo recognition. Science 340: 356-359, 2013.
+
+14. Tanaka, Y.; Kanai, Y.; Okada, Y.; Nonaka, S.; Takeda, S.; Harada,
+A.; Hirokawa, N.: Targeted disruption of mouse conventional kinesin
+heavy chain, kif5B, results in abnormal perinuclear clustering of
+mitochondria. Cell 93: 1147-1158, 1998.
+
+CONTRIBUTORS Matthew B. Gross - updated: 09/18/2013
+Ada Hamosh - updated: 5/2/2013
+Matthew B. Gross - updated: 6/21/2012
+Ada Hamosh - updated: 4/24/2012
+Patricia A. Hartz - updated: 5/4/2011
+Ada Hamosh - updated: 4/4/2008
+Ada Hamosh - updated: 1/22/2008
+Ada Hamosh - updated: 8/2/2005
+Ada Hamosh - updated: 1/2/2002
+Stylianos E. Antonarakis - updated: 7/17/1998
+
+CREATED Patti M. Sherman: 7/9/1998
+
+EDITED mgross: 09/18/2013
+alopez: 5/3/2013
+alopez: 5/2/2013
+mgross: 6/21/2012
+alopez: 4/26/2012
+terry: 4/24/2012
+mgross: 5/20/2011
+terry: 5/4/2011
+alopez: 4/11/2008
+terry: 4/4/2008
+alopez: 1/24/2008
+terry: 1/22/2008
+alopez: 8/3/2005
+terry: 8/2/2005
+alopez: 10/3/2002
+terry: 3/6/2002
+alopez: 1/8/2002
+terry: 1/2/2002
+psherman: 2/22/2000
+alopez: 5/18/1999
+psherman: 4/16/1999
+psherman: 12/2/1998
+carol: 7/17/1998
+carol: 7/16/1998
+carol: 7/13/1998
+

@@ -1,0 +1,2406 @@
+614182	TITLE *614182 HEART OF GLASS, ZEBRAFISH, HOMOLOG OF, 1; HEG1
+;;KIAA1237
+DESCRIPTION 
+CLONING
+
+By sequencing clones from a size-fractionated adult brain cDNA library,
+Nagase et al. (1999) obtained a partial HEG1 clone. The transcript
+contains a short interspersed element (SINE) in its 3-prime end. RT-PCR
+ELISA detected HEG1 expression all tissues examined, with highest
+expression in lung, followed by kidney, ovary, heart, brain, and
+pancreas. Expression was high in all specific adult brain regions
+examined, with highest expression in amygdala, thalamus, subthalamic
+nucleus, and caudate nucleus. Fetal brain showed much lower HEG1
+expression than adult brain.
+
+By searching databases for orthologs of zebrafish Heg, Mably et al.
+(2003) identified a partial human cDNA encoding HEG1. The deduced
+1,296-amino acid protein is N-terminally truncated. It has a large
+extracellular region containing 2 EGF-like domains, followed by a
+C-terminal transmembrane domain and a short intracellular tail. The
+deduced full-length 977-amino acid zebrafish Heg protein has a similar
+domain structure as human HEG1, and it also contains an N-terminal
+signal peptide. Mably et al. (2003) identified 2 other less abundant
+splice variants of zebrafish Heg that encode secreted proteins lacking
+the transmembrane domain.
+
+Using in situ hybridization, Kleaveland et al. (2009) found that Heg1
+was expressed in the endothelium of developing mouse heart and aorta and
+in neural tube.
+
+GENE FUNCTION
+
+Using mice and zebrafish lacking Ccm2 (607929) and/or Heg1 (see ANIMAL
+MODEL) and CCM2-knockdown human umbilical vein endothelial cells,
+Kleaveland et al. (2009) showed that CCM2-HEG1 signaling regulated
+endothelial tube formation and endothelial junction formation.
+Coimmunoprecipitation experiments and pull-down assays in transfected
+HEK293T cells suggested a model in which HEG1 coupled with CCM2
+primarily through interaction with KRIT1 (604214) at endothelial
+cell-cell junctions. Loss of both Ccm2 and Heg1 resulted in closed
+branching endothelial structures that lacked luminal openings.
+
+MAPPING
+
+Hartz (2011) mapped the HEG1 gene to chromosome 3q21.2 based on an
+alignment of the HEG1 sequence (GenBank GENBANK AB033063) with the
+genomic sequence (GRCh37).
+
+ANIMAL MODEL
+
+The zebrafish N-ethyl-N-nitrosourea-induced mutation 'heart of glass'
+(heg) is characterized by embryonic lethality with a massively enlarged
+heart. The heart enlargement results from abnormal addition of
+myocardial cells in a single layer over the endocardium instead of in a
+concentric manner, which normally generates myocardial thickening. Using
+a positional cloning approach, Mably et al. (2003) identified the Heg
+gene and showed that the heg mutation results in a severe truncation
+that eliminates most of the protein sequence, including the predicted
+EGF repeats. Using selective morpholino perturbation, they showed that
+the Heg isoform containing the transmembrane domain was critical for
+normal cardiac patterning and growth. Overexpression of all Heg isoforms
+in zebrafish resulted in gastrulation defects.
+
+Kleaveland et al. (2009) found that Heg1 deletion in mice resulted in
+embryonic and postnatal lethality. At embryonic day 15, Heg1 -/- hearts
+showed abnormal invagination of the ventricular cavity and other
+structural defects, with blood pooling between the epicardial and
+myocardial cell layers. Hearts of neonatal Heg1 -/- mice exhibited
+defective cardiac integrity, with rupture of the low-pressure atrial
+chamber and blood-filled pericardial sac. Heg1 -/- neonates also showed
+dilated intestinal and mesenteric lymphatic vessels that leaked chyle
+into the intestinal wall and peritoneal space. Although most Heg1 -/-
+mice survived to birth, about half died before weaning as a result of
+pulmonary hemorrhage. Embryonic Heg1 -/- mice homozygous for a Ccm2 null
+allele had more severe cardiovascular defects and died early in
+development due to failure of nascent endothelial cells to associate
+into patent vessels. These compound knockout embryos showed complete or
+near-complete circulatory block in blood and lymphatic vessels.
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  5/26/2011.
+
+2. Kleaveland, B.; Zheng, X.; Liu, J. J.; Blum, Y.; Tung, J. J.; Zou,
+Z.; Sweeney, S. M.; Chen, M.; Guo, L.; Lu, M.; Zhou, D.; Kitajewski,
+J.; Affolter, M.; Ginsberg, M. H.; Kahn, M. L.: Regulation of cardiovascular
+development and integrity by the heart of glass-cerebral cavernous
+malformation protein pathway. Nature Med. 15: 169-176, 2009. Note:
+Erratum: Nature Med. 15: 584 only, 2009.
+
+3. Mably, J. D.; Mohideen, M.-A. P. K.; Burns, C. G.; Chen, J.-N.;
+Fishman, M. C.: heart of glass regulates the concentric growth of
+the heart of zebrafish. Curr. Biol. 13: 2138-2147, 2003.
+
+4. Nagase, T.; Ishikawa, K.; Kikuno, R.; Hirosawa, M.; Nomura, N.;
+Ohara, O.: Prediction of the coding sequences of unidentified human
+genes. XV. The complete sequences of 100 new cDNA clones from brain
+which code for large proteins in vitro. DNA Res. 6: 337-345, 1999.
+
+CREATED Patricia A. Hartz: 8/19/2011
+
+EDITED mgross: 08/19/2011
+
+610564	TITLE *610564 PRENYL DIPHOSPHATE SYNTHASE, SUBUNIT 2; PDSS2
+;;DECAPRENYL DIPHOSPHATE SYNTHASE, SUBUNIT 2;;
+D-LESS POLYPRENYL PYROPHOSPHATE SYNTHASE 1; DLP1;;
+CHROMOSOME 6 OPEN READING FRAME 210; C6ORF210
+DESCRIPTION 
+DESCRIPTION
+
+The isoprenoid chain of ubiquinone (coenzyme Q) varies in length between
+species and is determined by trans-polyprenyl diphosphate synthase.
+Humans possess a heterotetrameric decaprenyl diphosphate synthase
+composed of DPS1 (PDSS1; 607429) and DLP1 (PDSS2) that produces coenzyme
+Q10 ubiquinone (Saiki et al., 2005).
+
+CLONING
+
+By searching EST databases for homologs of S. pombe Dlp1, Saiki et al.
+(2005) identified human PDSS2, which they called DLP1. The predicted
+399-amino acid protein shares 88% identity with its mouse homolog. DLP1
+contains the 7 conserved domains typically found in trans-prenyl
+diphosphate synthases, but it lacks DDxxD motifs. Saiki et al. (2005)
+also identified a DLP1 splice variant, which they called DLP2, that
+encodes a 240-amino acid protein with a unique C-terminal end.
+
+GENE FUNCTION
+
+Saiki et al. (2005) found that expression of human DPS1 and DLP1 in E.
+coli resulted in production of Q10 ubiquinone and decaprenol, whereas
+expression of mouse Sps1 and Dlp1 produced Q9 ubiquinone and solanesol.
+Western blot analysis showed that the proteins were expressed as a
+heterotetramer. Expression in E. coli of heterologous combinations of
+human and mouse proteins generated both Q9 and Q10, indicating that both
+DPS1/Sps1 and DLP1/Dlp1 are involved in determining the ubiquinone side
+chain. Expression of the DLP2 splice variant with DPS1 did not result in
+Q10 production. Although human DPS1 and mouse Sps1 could complement S.
+pombe lacking Dps1, neither human DLP1 nor mouse Dlp1 could complement
+S. pombe lacking Dlp1. Saiki et al. (2005) concluded that both DPS1 and
+DLP1 are required for generation of decaprenyl diphosphate synthase.
+
+GENE STRUCTURE
+
+Saiki et al. (2005) determined that the DLP1 gene contains 8 exons.
+
+MAPPING
+
+Saiki et al. (2005) stated that the DLP1 gene maps to chromosome 6q21.
+
+MOLECULAR GENETICS
+
+In an infant with fatal encephalomyopathy and nephrotic syndrome due to
+coenzyme Q10 deficiency-3 (COQ10D3; 614652), Lopez et al. (2006)
+identified compound heterozygous mutations in the PDSS2 gene
+(610564.0001 and 610564.0002). Biochemical assays with radiolabeled
+substrates indicated a severe defect in decaprenyl diphosphate synthase
+in the patient's fibroblasts. Coenzyme Q10 (CoQ10) is a vital lipophilic
+molecule that transfers electrons from mitochondrial respiratory chain
+complexes I and II to complex III, and the PDSS2 gene encodes a subunit
+of the first enzyme in the coenzyme Q10 biosynthetic pathway.
+
+ANIMAL MODEL
+
+Peng et al. (2008) found that Pdss2 knockout in mice was embryonically
+lethal, with no homozygous embryos surviving beyond embryonic day 10.5.
+Pdss2 knockout targeted to renal glomerular podocytes resulted in
+nephrotic syndrome but did not alter coenzyme Q levels in whole kidney
+homogenates, likely due to the small number of kidney cells affected.
+Pdss2 knockout targeted to hepatocytes caused coenzyme Q depletion in
+whole liver homogenates, impairment of mitochondrial respiratory chain
+function, and disturbance of basic metabolic processes.
+
+ALLELIC VARIANT .0001
+COENZYME Q10 DEFICIENCY, PRIMARY, 3
+PDSS2, GLN322TER
+
+In an infant with primary coenzyme Q10 deficiency-3 (COQ10D3; 614652)
+resulting in fatal encephalomyopathy and nephrotic syndrome, Lopez et
+al. (2006) found compound heterozygosity for 2 mutations in the PDSS2
+gene: a 964C-T transition resulting in a gln322-to-ter (Q322X)
+substitution inherited from the unaffected father, and a 1145C-T
+transition resulting in a ser382-to-leu (S382L; 610564.0002)
+substitution in the seventh conserved domain inherited from the
+unaffected mother. Neither mutation was found in 210 control
+chromosomes.
+
+Quinzii et al. (2010) studied fibroblasts derived from the patient
+reported by Lopez et al. (2006). CoQ10 levels were decreased to 22.4% of
+normal, and the cells showed reduced ATP levels, but no increase in
+reactive oxygen species or oxidative stress-induced cell death. Quinzii
+et al. (2010) concluded that the pathology caused by these mutations was
+related to the marked bioenergetic defect, but not to oxidative stress.
+The authors suggested that very low mitochondrial respiratory activity
+may even confer some resistance to stress-induced apoptosis.
+
+.0002
+COENZYME Q10 DEFICIENCY, PRIMARY, 3
+PDSS2, SER382LEU
+
+See Lopez et al. (2006) and 610564.0001.
+
+.0003
+REMOVED FROM DATABASE
+REFERENCE 1. Lopez, L. C.; Schuelke, M.; Quinzii, C. M.; Kanki, T.; Rodenburg,
+R. J. T.; Naini, A.; DiMauro, S.; Hirano, M.: Leigh syndrome with
+nephropathy and CoQ10 deficiency due to decaprenyl diphosphate synthase
+subunit 2 (PDSS2) mutations. Am. J. Hum. Genet. 79: 1125-1129, 2006.
+
+2. Peng, M.; Falk, M. J.; Haase, V. H.; King, R.; Polyak, E.; Selak,
+M.; Yudkoff, M.; Hancock, W. W.; Meade, R.; Saiki, R.; Lunceford,
+A. L.; Clarke, C. F.; Gasser, D. L.: Primary coenzyme Q deficiency
+in Pdss2 mutant mice causes isolated renal disease. PLoS Genet. 4:
+e1000061, 2008. Note: Electronic Article.
+
+3. Quinzii, C. M.; Lopez, L. C.; Gilkerson, R. W.; Dorado, B.; Coku,
+J.; Naini, A. B.; Lagier-Tourenne, C.; Schuelke, M.; Salviati, L.;
+Carrozzo, R.; Santorelli, F.; Rahman, S.; Tazir, M.; Koenig, M.; DiMauro,
+S.; Hirano, M.: Reactive oxygen species, oxidative stress, and cell
+death correlate with level of CoQ10 deficiency. FASEB J. 24: 3733-3743,
+2010.
+
+4. Saiki, R.; Nagata, A.; Kainou, T.; Matsuda, H.; Kawamukai, M.:
+Characterization of solanesyl and decaprenyl diphosphate synthases
+in mice and humans. FEBS J. 272: 5606-5622, 2005.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/13/2013
+Cassandra L. Kniffin - updated: 5/23/2012
+Patricia A. Hartz - updated: 6/30/2009
+Victor A. McKusick - updated: 6/11/2007
+Victor A. McKusick - updated: 11/28/2006
+
+CREATED Paul J. Converse: 11/14/2006
+
+EDITED alopez: 03/15/2013
+ckniffin: 3/13/2013
+carol: 5/24/2012
+terry: 5/24/2012
+ckniffin: 5/23/2012
+alopez: 7/7/2009
+terry: 6/30/2009
+alopez: 11/19/2007
+terry: 9/20/2007
+alopez: 6/15/2007
+terry: 6/11/2007
+alopez: 12/5/2006
+terry: 11/28/2006
+mgross: 11/14/2006
+
+606735	TITLE *606735 OXYSTEROL-BINDING PROTEIN-LIKE PROTEIN 7; OSBPL7
+;;OSBP-RELATED PROTEIN 7; ORP7
+DESCRIPTION 
+DESCRIPTION
+
+OSBPL7 is a member of the OSBP family of intracellular lipid receptors.
+For background information on OSBPs, see OSBP2 (606729).
+
+CLONING
+
+Lehto et al. (2001) used RT-PCR analysis with specific primers to
+isolate a full-length cDNA encoding OSBPL7, which they called ORP7.
+Sequence analysis predicted that the 842-amino acid protein contains a
+C-terminal sterol-binding (SB) domain of approximately 400 residues that
+includes the OSBP motif (EQVSHHPP). It has a pleckstrin homology (PH)
+domain in its N terminus. OSBPL7 is approximately 76% identical to
+OSBPL3 (606732) and OSBPL6 (606734) in the SB domain and 62% and 69%
+identical, respectively, in the PH domain. Dot blot analysis revealed
+wide expression that was strongest in small intestine and colon,
+followed by thymus, spleen, and peripheral blood leukocytes.
+
+Jaworski et al. (2001) cloned multiple OSBPs, including OSBPL7. RT-PCR
+analysis detected preferential expression in retina and pineal tissues.
+
+GENE STRUCTURE
+
+By sequence analysis, Lehto et al. (2001) determined that the OSBPL7
+gene contains 23 exons. Jaworski et al. (2001) found that it contains 24
+exons.
+
+MAPPING
+
+By sequence analysis, Lehto et al. (2001) mapped the OSBPL7 gene to
+chromosome 17. Jaworski et al. (2001) localized the gene to 17q21.2 or
+17pter-p13.1.
+
+REFERENCE 1. Jaworski, C. J.; Moreira, E.; Li, A.; Lee, R.; Rodriguez, I. R.
+: A family of 12 human genes containing oxysterol-binding domains. Genomics 78:
+185-196, 2001.
+
+2. Lehto, M.; Laitinen, S.; Chinetti, G.; Johansson, M.; Ehnholm,
+C.; Staels, B.; Ikonen, E.; Olkkonen, V. M.: The OSBP-related protein
+family in humans. J. Lipid Res. 42: 1203-1213, 2001.
+
+CREATED Paul J. Converse: 2/28/2002
+
+EDITED mgross: 02/28/2002
+
+123840	TITLE *123840 PEPTIDYL-PROLYL ISOMERASE A; PPIA
+;;CYCLOPHILIN A; CYPA;;
+CYPH
+DESCRIPTION 
+CLONING
+
+Cyclophilin is a specific high-affinity binding protein for the
+immunosuppressant agent cyclosporin A. Because of its dramatic effects
+on decreasing morbidity and increasing survival rates in human
+transplants, the molecular mechanism of immunosuppression by cyclosporin
+A has been a matter of much interest. Liu et al. (1990) cloned human
+cDNA for T-cell CYPH and constructed an expression vector under control
+of the tac promoter for efficient expression in E. coli.
+
+GENE FUNCTION
+
+Cyclophilin A (also designated peptidyl-prolyl cis/trans isomerase A or
+PPIA) is a member of the immunophilin class of proteins that all possess
+peptidyl-prolyl cis/trans isomerase activity and, therefore, are
+believed to be involved in protein folding and/or intracellular protein
+transport. Luban et al. (1993) showed that cyclophilin A binds to the
+Gag protein of human immunodeficiency virus type 1 (HIV-1). This
+interaction can be inhibited by the immunosuppressant cyclosporin A and
+also by nonimmunosuppressive, cyclophilin A-binding cyclosporin A
+derivatives, which were also shown to exhibit potent anti-HIV-1
+activity. Thus, cyclophilin A may have an essential function in HIV-1
+replication.
+
+Pushkarsky et al. (2001) identified CD147 (BSG; 109480) as a receptor
+for extracellular CYPA. They found that CD147 enhanced HIV-1 infection
+through interaction with CYPA incorporated into virions.
+Virus-associated CYPA coimmunoprecipitated with CD147 from infected
+cells, and antibody to CD147 inhibited HIV-1 entry. Viruses whose
+replication did not require CYPA were resistant to the inhibitory effect
+of anti-CD147 antibody. Pushkarsky et al. (2001) concluded that HIV-1
+entry depends on an interaction between virus-associated CYPA and CD147
+on a target cell.
+
+Towers et al. (2003) demonstrated that HIV-1 sensitivity to restriction
+factors is modulated by CYPA. In certain nonhuman primate cells, the
+HIV-1 capsid protein (CA)-CYPA interaction is essential for restriction:
+HIV-1 infectivity is increased greater than 100-fold by cyclosporin A, a
+competitive inhibitor of the interaction, or by an HIV-1 CA mutation
+that disrupts CYPA binding. Conversely, disruption of CA-CYPA
+interaction in human cells reveals that CYPA protects HIV-1 from the
+Ref-1 restriction factor. Towers et al. (2003) concluded that their
+findings suggest that HIV-1 has coopted a host cell protein to
+counteract restriction factors expressed by human cells and this
+adaptation can confer sensitivity to restriction in unnatural hosts.
+
+Manel et al. (2010) showed that, when dendritic cell resistance to
+infection is circumvented, HIV-1 induces dendritic cell maturation, an
+antiviral type I interferon response, and activation of T cells. This
+innate response is dependent on the interaction of newly synthesized
+HIV-1 capsid with cellular cyclophilin A (CYPA) and the subsequent
+activation of the transcription factor IRF3 (603734). Because the
+peptidylprolyl isomerase CYPA also interacts with HIV-1 capsid to
+promote infectivity, the results of Manel et al. (2010) indicated that
+capsid conformation has evolved under opposing selective pressures for
+infectivity versus furtiveness. Thus, a cell-intrinsic sensor for HIV-1
+exists in dendritic cells and mediates an antiviral immune response, but
+it is not typically engaged owing to the absence of dendritic cell
+infection.
+
+Using different Apoe (107741) transgenic mice, including mice with
+ablation and/or inhibition of CypA, Bell et al. (2012) showed that
+expression of Apoe4 and lack of murine Apoe, but not Apoe2 and Apoe3,
+leads to blood brain barrier breakdown by activating a proinflammatory
+CypA-Nfkb (164011)-Mmp9 (120361) pathway in pericytes. This, in turn,
+leads to neuronal uptake of multiple blood-derived neurotoxic proteins,
+and microvascular and cerebral blood flow reductions. Bell et al. (2012)
+showed that the vascular defects in Apoe-deficient and Apoe4-expressing
+mice precede neuronal dysfunction and can initiate neurodegenerative
+changes. Astrocyte-secreted Apoe3, but not Apoe4, suppressed the
+CypA-Nfkb-Mmp9 pathway in pericytes through a lipoprotein receptor. Bell
+et al. (2012) concluded that CypA is a key target for treating
+APOE4-mediated neurovascular injury and the resulting neuronal
+dysfunction and degeneration.
+
+MAPPING
+
+Using a panel of somatic rodent/human cell hybrids and PCR technology,
+Willenbrink et al. (1995) mapped the cyclophilin gene (designated PPIA)
+on chromosome 7 and 4 pseudogenes (PPIP2, PPIP3, PPIP4, and PPIP6) to
+chromosomes 14, 10, 18, and 3, respectively. Using chromosome 7 and
+chromosome 10 deletion hybrid panels, they further localized the PPIA
+coding gene to 7p13-p11.2, as confirmed by fluorescence in situ
+hybridization (FISH) analysis, and a pseudogene (PPIP3) to the region
+10q11.2-q23.
+
+Braaten et al. (1996) mapped the PPIA gene to 7p13 by FISH.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Fraser et al. (2009) introduced dual strategies of ambient temperature
+x-ray crystallographic data collection and automated electron density
+sampling to structurally unravel interconverting substrates of the human
+proline isomerase cyclophilin A. A conservative mutation outside the
+active site was designed to stabilize features of the previously hidden
+minor conformation. This mutation not only inverted the equilibrium
+between the substrates, but also caused large, parallel reductions in
+the conformational interconversion rates and the catalytic rate. Fraser
+et al. (2009) concluded that their studies introduced crystallographic
+approaches to define functional minor protein conformations and, in
+combination with NMR analysis of the enzyme dynamics in solution, show
+how collective motions directly contribute to the catalytic power of an
+enzyme.
+
+ANIMAL MODEL
+
+Sayah et al. (2004) showed that knockdown of owl monkey CYPA by RNA
+interference (RNAi) correlated with suppression of anti-HIV-1 activity.
+However, reintroduction of CYPA to RNAi-treated cells did not restore
+antiviral activity. A search for additional RNAi targets identified
+TRIMCYP, an RNAi-responsive mRNA encoding a TRIM5 (608487)/CYPA fusion
+protein. TRIMCYP accounts for post-entry restriction of HIV-1 in owl
+monkeys and blocks HIV-1 infection when transferred to otherwise
+infectable human or rat cells. Sayah et al. (2004) suggested that
+TRIMCYP arose after the divergence of New and Old World primates when a
+LINE-1 retrotransposon catalyzed the insertion of a CYPA cDNA into the
+TRIM5 locus. They concluded that this was the first vertebrate example
+of a chimeric gene generated by this mechanism of exon shuffling.
+
+Colgan et al. (2005) found that mice deficient in Cypa were resistant to
+immunosuppression by cyclosporine both in vitro and in vivo, as assessed
+by proliferation, IL2 (147680) secretion, signal transduction, and tumor
+rejection. Cypa-deficient mice remained sensitive to FK506. Colgan et
+al. (2005) concluded that CYPA is the primary mediator of
+immunosuppression by cyclosporine.
+
+ADDITIONAL REFERENCES Takahashi et al. (1989)
+REFERENCE 1. Bell, R. D.; Winkler, E. A.; Singh, I.; Sagare, A. P.; Deane, R.;
+Wu, Z.; Holtzman, D. M.; Betsholtz, C.; Armulik, A.; Sallstrom, J.;
+Berk, B. C.; Zlokovic, B. V.: Apolipoprotein E controls cerebrovascular
+integrity via cyclophilin A. Nature 485: 512-516, 2012.
+
+2. Braaten, D.; Wellington, S.; Warburton, D.; Luban, J.: Assignment
+of cyclophilin A (PPIA) to human chromosome band 7p13 by in situ hybridization. Cytogenet.
+Cell Genet. 74: 262 only, 1996.
+
+3. Colgan, J.; Asmal, M.; Yu, B.; Luban, J.: Cyclophilin A-deficient
+mice are resistant to immunosuppression by cyclosporine. J. Immun. 174:
+6030-6038, 2005.
+
+4. Fraser, J. S.; Clarkson, M. W.; Degnan, S. C.; Erion, R.; Kern,
+D.; Alber, T.: Hidden alternative structures of proline isomerase
+essential for catalysis. Nature 462: 669-673, 2009.
+
+5. Liu, J.; Albers, M. W.; Chen, C.-M.; Schreiber, S. L.; Walsh, C.
+T.: Cloning, expression, and purification of human cyclophilin in
+Escherichia coli and assessment of the catalytic role of cysteines
+by site-directed mutagenesis. Proc. Nat. Acad. Sci. 87: 2304-2308,
+1990.
+
+6. Luban, J.; Bossolt, K. L.; Franke, E. K.; Kalpana, G. V.; Goff,
+S. P.: Human immunodeficiency virus type 1 gag protein binds to cyclophilins
+A and B. Cell 73: 1067-1078, 1993.
+
+7. Manel, N.; Hogstad, B.; Wang, Y.; Levy, D. E.; Unutmaz, D.; Littman,
+D. R.: A cryptic sensor for HIV-1 activates antiviral innate immunity
+in dendritic cells. Nature 467: 214-217, 2010. Note: Erratum: Nature
+470: 424 only, 2011.
+
+8. Pushkarsky, T.; Zybarth, G.; Dubrovsky, L.; Yurchenko, V.; Tang,
+H.; Guo, H.; Toole, B.; Sherry, B.; Bukrinsky, M.: CD147 facilitates
+HIV-1 infection by interacting with virus-associated cyclophilin A. Proc.
+Nat. Acad. Sci. 98: 6360-6365, 2001.
+
+9. Sayah, D. M.; Sokolskaja, E.; Berthoux, L.; Luban, J.: Cyclophilin
+A retrotransposition into TRIM5 explains owl monkey resistance to
+HIV-1. Nature 430: 569-573, 2004.
+
+10. Takahashi, N.; Hayano, T.; Suzuki, M.: Peptidyl-prolyl cis-trans
+isomerase is the cyclosporin A-binding protein cyclophilin. Nature 337:
+473-475, 1989.
+
+11. Towers, G. J.; Hatziioannou, T.; Cowan, S.; Goff, S. P.; Luban,
+J.; Bieniasz, P. D.: Cyclophilin A modulates the sensitivity of HIV-1
+to host restriction factors. Nature Med. 9: 1138-1143, 2003.
+
+12. Willenbrink, W.; Halaschek, J.; Schuffenhauer, S.; Kunz, J.; Steinkasserer,
+A.: Cyclophilin A, the major intracellular receptor for the immunosuppressant
+cyclosporin A, maps to chromosome 7p11.2-p13: four pseudogenes map
+to chromosomes 3, 10, 14, and 18. Genomics 28: 101-104, 1995.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/5/2012
+Ada Hamosh - updated: 10/6/2010
+Ada Hamosh - updated: 1/6/2010
+Paul J. Converse - updated: 8/4/2006
+Patricia A. Hartz - updated: 7/14/2005
+Ada Hamosh - updated: 8/26/2004
+Ada Hamosh - updated: 8/26/2003
+Victor A. McKusick - updated: 3/12/1997
+
+CREATED Victor A. McKusick: 5/11/1990
+
+EDITED alopez: 06/07/2012
+terry: 6/5/2012
+alopez: 7/6/2011
+alopez: 10/7/2010
+terry: 10/6/2010
+alopez: 1/15/2010
+terry: 1/6/2010
+mgross: 8/29/2006
+terry: 8/4/2006
+mgross: 7/14/2005
+tkritzer: 8/27/2004
+terry: 8/26/2004
+alopez: 9/2/2003
+alopez: 8/26/2003
+terry: 8/26/2003
+carol: 7/10/2001
+terry: 3/12/1997
+terry: 3/3/1997
+terry: 6/11/1996
+terry: 5/24/1996
+mark: 10/2/1995
+terry: 9/11/1995
+supermim: 3/16/1992
+carol: 12/20/1991
+carol: 12/12/1991
+carol: 3/15/1991
+
+611914	TITLE *611914 TSC22 DOMAIN FAMILY, MEMBER 4; TSC22D4
+;;TSC22 HOMOLOGOUS GENE 1; THG1;;
+TSC22-LIKE
+DESCRIPTION 
+DESCRIPTION
+
+TSC22D4 is a member of the TSC22 domain family of leucine zipper
+transcriptional regulators (see TSC22D3; 300506) (Kester et al., 1999;
+Fiorenza et al., 2001).
+
+CLONING
+
+By yeast 2-hybrid screening of a mouse brain cDNA library using TSC22D1
+(607715) as bait, followed by database analysis, Kester et al. (1999)
+cloned human and mouse TSC22D4, which they called THG1. The deduced
+395-amino acid human protein contains a TSC box and leucine zipper
+region and has a calculated molecular mass of 41 kD. TSC22D4 shares
+similarity with TSC22D1, TSC22D3, KIAA0669, and Drosophila
+'shortsighted' shs over the TSC box leucine zipper domain.
+
+Fiorenza et al. (2001) used differential screening by subtractive
+hybridization of cDNAs isolated from embryonic day 12.5 wildtype and
+Lhx3 (LHX4; 602146) mutant mouse pituitaries to clone mouse Tsc22d4,
+which they called Thg-1pit. The 387-amino acid mouse protein shares 79%
+amino acid identity with human TSC22D4.
+
+Fiorenza et al. (2001) showed that mouse Tsc22d4 expression in the
+pituitary cell line GH3 was induced in response to TGF-beta (TGFB1;
+190180). RT-PCR assays detected Tsc22d4 expression during mouse
+embryonic development with expression first detected at stage 98.5
+followed by a sharp increase during the next 24 hours that coincided
+with initiation of Lhx3 expression and preceded formation of the
+pituitary rudiment. A second increase in Tsc22d4 expression at embryonic
+day 12.5 coincided with development of Rathke's pouch. Tsc22d4
+expression was also detected in the entire central nervous system. In
+contrast, Tsc22d4 expression in Lhx3 mutant mouse embryos showed an
+absence of pituitary expression of Tsc22d4 although expression in the
+rest of the brain was no different from wildtype. Fiorenza et al. (2001)
+concluded that Tsc22d4 is regulated by Lhx3 during pituitary
+organogenesis.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis, gel shift assay, and GST pull-down
+experiments, Kester et al. (1999) confirmed that TSC22D4 interacts with
+TSC22D1 by forming heterodimers. They demonstrated that TSC22D4 has
+transcriptional repressor activity.
+
+REFERENCE 1. Fiorenza, M. T.; Mukhopadhyay, M.; Westphal, H.: Expression screening
+for Lhx3 downstream genes identifies Thg-1pit as a novel mouse gene
+involved in pituitary development. Gene 278: 125-130, 2001.
+
+2. Kester, H. A.; Blanchetot, C.; den Hertog, J.; van der Saag, P.
+T.; van der Burg, B.: Transforming growth factor-beta-stimulated
+clone-22 is a member of a family of leucine zipper proteins that can
+homo- and heterodimerize and has transcriptional repressor activity. J.
+Biol. Chem. 274: 27439-27447, 1999.
+
+CREATED Dorothy S. Reilly: 3/24/2008
+
+EDITED wwang: 03/24/2008
+
+103880	TITLE *103880 ALDO-KETO REDUCTASE FAMILY 1, MEMBER B1; AKR1B1
+;;ALDOSE REDUCTASE; AR;;
+ALDEHYDE REDUCTASE 1; ALDR1
+DESCRIPTION 
+DESCRIPTION
+
+See aldehyde reductase (103830). Aldose reductase (EC 1.1.1.21) is a
+member of the monomeric, NADPH-dependent aldo-keto reductase family and
+participates in glucose metabolism and osmoregulation. It is believed to
+play a protective role against toxic aldehydes derived from lipid
+peroxidation and steroidogenesis that could affect cell
+growth/differentiation when accumulated (Lefrancois-Martinez et al.,
+2004). It is the first enzyme of the polyol pathway of sugar metabolism,
+is most abundantly expressed in adrenal gland, and has been implicated
+in diabetic complications (Shah et al., 1997).
+
+CLONING
+
+Chung and LaMendola (1989) cloned and sequenced the aldose reductase
+gene from a human placental cDNA library using antibodies against the
+bovine lens aldose reductase. The deduced amino acid sequence indicated
+that maturation of aldose reductase involves removal of the N-terminal
+methionine. Nishimura et al. (1990) also cloned the aldose reductase
+gene using synthetic oligonucleotide probes based on partial amino acid
+sequences of purified human psoas muscle aldose reductase. Bohren et al.
+(1989) isolated aldose reductase and aldehyde reductase cDNAs. They
+reported that the 2 proteins are 51% identical. Northern blot analysis
+revealed that aldose reductase was expressed as an approximately 1.4-kb
+mRNA in placenta.
+
+Graham et al. (1991) determined the sequence of the ALDR1 gene by
+analysis of cDNA and genomic clones. The gene codes for a 316-amino acid
+protein with a molecular mass of 35,858 Da. A major site of
+transcription initiation in liver was mapped to an adenine residue 31
+nucleotides upstream from the A of the ATG initiation codon.
+
+GENE STRUCTURE
+
+Graham et al. (1991) determined that the ALDR1 gene extends over
+approximately 18 kb and consists of 10 exons, giving rise to a 1,384
+nucleotide mRNA, excluding the poly(A) tail. The exons range in size
+from 82 to 168 bp, whereas the introns range from 325 to about 7,160 bp.
+The promoter region of the gene contains a TATA (TATTTA) box and a CCAAT
+box, located 37 and 104 nucleotides upstream, respectively, from the
+transcription initiation site. Graham et al. (1991) found 4 Alu elements
+in the ALDR1 gene: 2 in intron 1 and 1 each in introns 4 and 9.
+
+GENE FUNCTION
+
+Using specific antibodies, Northern blot analysis, and enzymatic assays,
+Lefrancois-Martinez et al. (2004) presented evidence that AKR1B1
+detectable in 15-week-old fetal glands is regulated by cAMP in human
+adrenocortical cells and thus that AKR1B1 is functionally related to the
+ACTH-responsive murine akr1b7/mvdp (mouse vas deferens protein) gene
+rather than to its direct ortholog, the mouse aldose reductase akr1b3
+gene.
+
+BIOCHEMICAL FEATURES
+
+Aldose reductase catalyzes the reduction of a number of aldehydes,
+including the aldehyde form of glucose, which is reduced to the
+corresponding sugar alcohol, sorbitol (Chung and LaMendola, 1989).
+Sorbitol is subsequently metabolized to fructose by sorbitol
+dehydrogenase. Under normal conditions, this pathway plays a minor role
+in glucose metabolism in most tissues. In diabetic hyperglycemia,
+however, cells undergoing insulin-independent uptake of glucose produce
+significant quantities of sorbitol. The sorbitol accumulates in cells
+because of its poor penetration across cellular membranes and its slow
+metabolism by sorbitol dehydrogenase. The resulting hyperosmotic stress
+to cells may be a cause of diabetic complications such as neuropathy,
+retinopathy, and cataracts.
+
+Epidemiology studies in patients with insulin-dependent diabetes (IDDM;
+222100) and noninsulin-dependent diabetes mellitus (NIDDM; 125853) are
+consistent with the hypothesis that a genetic factor influences the risk
+for kidney disease of diabetes mellitus (see 603933). Aldose reductase,
+the rate-limiting enzyme in the polyol pathway, catalyzes the
+NADPH-dependent reduction of sugar aldehydes to their corresponding
+sugar polyols. Shah et al. (1997) explored the hypothesis that increased
+AR gene expression is a risk factor for nephropathy associated with
+IDDM. They studied the following 4 groups: normal subjects, those with
+IDDM and no evidence of nephropathy, those with IDDM and nephropathy,
+and nondiabetics with nephropathy. They quantitated AR mRNA from
+peripheral blood mononuclear cells by RNase protection assay. The
+AR/beta-actin mRNA ratio was higher in the group with diabetic
+nephropathy (603933) (0.088; CI, 0.06-80.108) than in the group of
+normal subjects (0.045; CI, 0.033-0.057; P less than 0.01), the group
+with IDDM without nephropathy (0.045; CI, 0.030-0.060; P less than
+0.01), or the group of nondiabetics with kidney disease (0.019; CI,
+0.011-0.027; P less than 0.001). In contrast, among nondiabetics, the
+AR/beta-actin mRNA ratios were 2-fold lower in those with kidney disease
+than in the group of normal subjects (P less than 0.01). The authors
+concluded that the degree of AR gene expression modulates the risk for
+nephropathy in IDDM subjects.
+
+Lefrancois-Martinez et al. (2004) studied if changes in AKR1B1
+expression could be associated with adrenal disorders. Relative
+abundance of AKR1B1 mRNA was decreased in adrenocortical carcinomas when
+compared with adenomas. Most (7 of 8) adrenocortical carcinomas had very
+low relative AKR1B1 protein levels when compared with benign tumors
+(cortisol-producing adenomas, nonfunctional adenomas,
+aldosterone-producing adenomas), Cushing hyperplasia (see 219080), or
+normal adrenals.
+
+MAPPING
+
+Using PCR to amplify specifically the human AR sequence in hamster/human
+hybrid DNA and also in mouse/human monochromosome hybrids, Graham et al.
+(1991) assigned the gene to chromosome 7. The assignment was confirmed
+and regionalized to 7q35 by in situ hybridization to human metaphase
+chromosomes using a novel, rapid method.
+
+Using a cDNA clone encoding human aldose reductase, Bateman et al.
+(1993) mapped gene sequences to human chromosomes 1, 3, 7, 9, 11, 13,
+14, and 18 by analysis of somatic cell hybrids. By in situ
+hybridization, sequences were localized to 1q32-q42, 3p12, 7q31-q35,
+9q22, 11p14-p15, and 13q14-q21. As a putative functional ALDR1 gene had
+been mapped to chromosome 7 and a putative pseudogene (ALDRP1) to
+chromosome 3, the sequences on the other 7 chromosomes were thought to
+represent other active genes, non-aldose reductase homologous sequences,
+or pseudogenes.
+
+- PSEUDOGENES
+
+Brown et al. (1992) identified a putative pseudogene (ALDRP1) that
+contained no intronic sequences; the functional aldose reductase has 9
+introns. In addition, the homology was absent in the region 5-prime to
+the transcription start site for the cDNA, implying that regulatory
+elements such as the promoter were missing from the pseudogene. They
+mapped the pseudogene to chromosome 3 by PCR, using amplimers specific
+for it to amplify DNA from somatic cell hybrids.
+
+REFERENCE 1. Bateman, J. B.; Kojis, T.; Heinzmann, C.; Klisak, I.; Diep, A.;
+Carper, D.; Nishimura, C.; Mohandas, T.; Sparkes, R. S.: Mapping
+of aldose reductase gene sequences to human chromosomes 1, 3, 7, 9,
+11, and 13. Genomics 17: 560-565, 1993.
+
+2. Bohren, K. M.; Bullock, B.; Wermuth, B.; Gabbay, K. H.: The aldo-keto
+reductase superfamily: cDNAs and deduced amino acid sequences of human
+aldehyde and aldose reductases. J. Biol. Chem. 264: 9547-9551, 1989.
+
+3. Brown, L.; Hedge, P. J.; Markham, A. F.; Graham, A.: A human aldehyde
+dehydrogenase (aldose reductase) pseudogene: nucleotide sequence analysis
+and assignment to chromosome 3. Genomics 13: 465-468, 1992.
+
+4. Chung, S.; LaMendola, J.: Cloning and sequence determination of
+human placental aldose reductase gene. J. Biol. Chem. 264: 14775-14777,
+1989.
+
+5. Graham, A.; Brown, L.; Hedge, P. J.; Gammack, A. J.; Markham, A.
+F.: Structure of the human aldose reductase gene. J. Biol. Chem. 266:
+6872-6877, 1991.
+
+6. Graham, A.; Heath, P.; Morten, J. E. N.; Markham, A. F.: The human
+aldose reductase gene maps to chromosome region 7q35. Hum. Genet. 86:
+509-514, 1991.
+
+7. Lefrancois-Martinez, A.-M.; Bertherat, J.; Val, P.; Tournaire,
+C.; Gallo-Payet, N.; Hyndman, D.; Veyssiere, G.; Bertagna, X.; Jean,
+C.; Martinez, A.: Decreased expression of cyclic adenosine monophosphate-regulated
+aldose reductase (AKR1B1) is associated with malignancy in human sporadic
+adrenocortical tumors. J. Clin. Endocr. Metab. 89: 3010-3019, 2004.
+
+8. Nishimura, C.; Matsuura, Y.; Kokai, Y.; Akera, T.; Carper, D.;
+Morjana, N.; Lyons, C.; Flynn, T. G.: Cloning and expression of human
+aldose reductase. J. Biol. Chem. 265: 9788-9792, 1990.
+
+9. Shah, V. O.; Dorin, R. I.; Sun, Y.; Braun, M.; Zager, P. G.: Aldose
+reductase gene expression is increased in diabetic nephropathy. J.
+Clin. Endocr. Metab. 82: 2294-2298, 1997.
+
+CONTRIBUTORS John A. Phillips, III - updated: 10/26/2005
+Rebekah S. Rasooly - updated: 7/20/1999
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 07/09/2009
+carol: 2/13/2009
+alopez: 10/26/2005
+carol: 4/30/2001
+alopez: 11/15/1999
+mgross: 7/20/1999
+carol: 5/18/1999
+alopez: 10/20/1997
+alopez: 9/5/1997
+mark: 11/27/1996
+mark: 2/26/1996
+carol: 4/6/1994
+carol: 9/21/1993
+carol: 12/21/1992
+carol: 6/3/1992
+supermim: 3/16/1992
+carol: 8/19/1991
+
+176420	TITLE *176420 PREGNANCY ZONE PROTEIN; PZP
+;;COMPLEMENT COMPONENT 3- AND PREGNANCY ZONE PROTEIN-LIKE ALPHA-2-MACROGLOBULIN
+DOMAIN-CONTAINING PROTEIN 6; CPAMD6;;
+C3- AND PZP-LIKE ALPHA-2-MACROGLOBULIN DOMAIN-CONTAINING PROTEIN 6
+DESCRIPTION 
+GENE FUNCTION
+
+Pregnancy zone protein (PZP), one of the major pregnancy-associated
+plasma proteins (see 260100 for another example), was described by
+Smithies (1959), who used zone-electrophoresis in starch gels. PZP is a
+prominent constituent of late-pregnancy sera. In healthy, nonpregnant
+females and in males, PZP is present in trace amounts only: females,
+10-30 mg/l; males, less than 10 mg/l. During pregnancy, PZP levels may
+reach 1000-1400 mg/l just before term.
+
+Sottrup-Jensen et al. (1984) showed that PZP closely resembles
+alpha-2-macroglobulin (103950) in structure. Both have a quaternary
+structure of 2 covalently bound 180-kD subunits which are further
+noncovalently assembled into a tetramer of 720 kD. Amino acid sequence
+of the 2 proteins are extensively homologous.
+
+MAPPING
+
+Marynen et al. (1989) used in situ hybridization and somatic cell hybrid
+DNA analysis to demonstrate that PZP, alpha-2-macroglobulin, and an
+alpha-2-macroglobulin pseudogene mapped to human chromosome 12p13-p12.2.
+
+REFERENCE 1. Marynen, P.; Zhang, J.; Devriendt, K.; Cassiman, J.-J.: Alpha-2-macroglobulin,
+pregnancy zone protein and an alpha-2-macroglobulin pseudogene map
+to chromosome 12p12.2-13. (Abstract) Cytogenet. Cell Genet. 51:
+1040 only, 1989.
+
+2. Smithies, O.: Zone electrophoresis in starch gels and its application
+to studies of serum proteins. Adv. Protein Chem. 14: 65-113, 1959.
+
+3. Sottrup-Jensen, L.; Folkersen, J.; Kristensen, T.; Tack, B. F.
+: Partial primary structure of human pregnancy zone protein: extensive
+sequence homology with human alpha-2-macroglobulin. Proc. Nat. Acad.
+Sci. 81: 7353-7357, 1984.
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED alopez: 09/14/2010
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/12/1989
+ddp: 10/27/1989
+root: 6/30/1989
+root: 5/31/1989
+
+608640	TITLE *608640 ZINC FINGER PROTEIN 461; ZNF461
+;;GONADOTROPIN-INDUCIBLE TRANSCRIPTION REPRESSOR 1, RAT, HOMOLOG OF;;
+GIOT1, RAT, HOMOLOG OF; GIOT1
+DESCRIPTION 
+CLONING
+
+By large-scale sequence analysis of a fetal brain cDNA library, Dai et
+al. (2003) cloned ZNF461. The deduced 563-amino acid protein has a
+calculated molecular mass of 66 kD. ZNF461 contains a double KRAB domain
+at the N terminus and 11 C2H2-type zinc finger motifs at the C terminus,
+suggesting a role in DNA binding. It shares 68% amino acid identity with
+rat Giot1. RT-PCR detected ubiquitous expression, with highest levels in
+liver, kidney, pancreas, thymus, and small intestine.
+
+GENE STRUCTURE
+
+Dai et al. (2003) determined that the ZNF461 gene contains 6 exons and
+spans about 26 kb.
+
+MAPPING
+
+By genomic sequence analysis, Dai et al. (2003) mapped the ZNF461 gene
+to chromosome 19q13.4.
+
+REFERENCE 1. Dai, J.; Li, Y.; Ji, C.; Jin, F.; Zheng, Z.; Wang, X.; Sun, X.;
+Xu, X.; Gu, S.; Xie, Y.; Mao, Y.: Characterization of two novel KRAB-domain-containing
+zinc finger genes, ZNF460 and ZNF461, on human chromosome 19q13.1-q13.4. Cytogenet.
+Genome Res. 103: 74-78, 2003.
+
+CREATED Patricia A. Hartz: 5/6/2004
+
+EDITED alopez: 09/29/2009
+mgross: 5/6/2004
+
+606555	TITLE *606555 TRIPARTITE MOTIF-CONTAINING PROTEIN 9; TRIM9
+;;SNAP25-INTERACTING RING FINGER, RAT, HOMOLOG OF; SPRING;;
+KIAA0282
+DESCRIPTION TRIM proteins are composed of 3 zinc-binding domains, a RING, a B-box
+type 1, and a B-box type 2, followed by a coiled-coil region. They are
+involved in development and cell growth.
+
+CLONING
+
+By EST database searching for B-box-containing proteins, Reymond et al.
+(2001) identified 37 TRIM members, including 3 isoforms of TRIM9.
+Northern blot analysis revealed high expression of a 4.4-kb TRIM9
+transcript in brain. Fluorescence microscopy demonstrated expression of
+TRIM9 in cytoplasmic speckles. Interaction mating analysis indicated
+that TRIM9 can form a homodimer.
+
+Using a yeast 2-hybrid screen of a rat hippocampal/cortical cDNA library
+with mouse SNAP25b (see 600322) as bait, Li et al. (2001) isolated a
+cDNA encoding rat Spring (SNAP25-interacting ring finger protein). The
+deduced 710-amino acid rat protein is 98% identical to TRIM9. Expression
+array analysis showed exclusive expression and wide distribution in
+fetal and adult human brain
+
+MAPPING
+
+By radiation hybrid analysis, Reymond et al. (2001) mapped the TRIM9
+gene to chromosome 14q21-q24.
+
+REFERENCE 1. Li, Y.; Chin, L.-S.; Weigel, C.; Li, L.: Spring, a novel RING
+finger protein that regulates synaptic vesicle exocytosis. J. Biol.
+Chem. 276: 40824-40833, 2001.
+
+2. Reymond, A.; Meroni, G.; Fantozzi, A.; Merla, G.; Cairo, S.; Luzi,
+L.; Riganelli, D.; Zanaria, E.; Messali, S.; Cainarca, S.; Guffanti,
+A.; Minucci, S.; Pelicci, P. G.; Ballabio, A.: The tripartite motif
+family identifies cell compartments. EMBO J. 20: 2140-2151, 2001.
+
+CREATED Paul J. Converse: 12/13/2001
+
+EDITED mgross: 12/13/2001
+
+608130	TITLE *608130 NUAK FAMILY, SNF1-LIKE KINASE, 1; NUAK1
+;;AMPK-RELATED PROTEIN KINASE 5; ARK5;;
+KIAA0537
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1998) cloned KIAA0537. The deduced 661-amino
+acid protein shares about 52% identity over 252 amino acids with plant
+SNF1-related protein kinase (605705). The KIAA0537 protein had an
+apparent molecular mass of about 75 kD by SDS-PAGE. RT-PCR detected
+highest expression in heart and brain, followed by skeletal muscle,
+kidney, ovary, placenta, lung, and liver. Little to no expression was
+detected in other tissues examined.
+
+Suzuki et al. (2003) found that an antibody directed against SNARK
+(608131) cross-reacted with a 74-kD protein that they called ARK5. By
+screening databases, they determined that KIAA0537 and ARK5 are
+identical. Overall, SNARK and ARK5 share 55% amino acid homology,
+including 84% similarity within the N-terminal catalytic domains. ARK5
+also shares significant homology with several other AMP-activated
+protein kinases, including AMPK-alpha-1 (PRKAA1; 602739), AMPK-alpha-2
+(PRKAA2; 600497), and MELK (607025).
+
+GENE FUNCTION
+
+By in vitro assay of ARK5 expressed by transfected HepG2 colon cancer
+cells, Suzuki et al. (2003) demonstrated phosphorylation of a synthetic
+test peptide. The phosphorylation was stimulated by AMP and did not
+require accessory binding proteins. Transfection of ARK5 also increased
+the survival of HepG2 cells exposed to glucose starvation and reduced
+oxygen tension. Increased cell survival was accompanied by
+phosphorylation of ARK5 on ser600 by AKT (see 164730), which activated
+ARK5 kinase activity. Activated ARK5 phosphorylated ATM (607585), which
+led to phosphorylation of p53 (191170). The authors proposed that ARK5
+is a tumor cell survival factor that is activated by AKT and acts as an
+ATM kinase under conditions of nutrient starvation.
+
+Liu et al. (2012) showed in human and murine cell lines that oncogenic
+levels of MYC (190080) establish a dependence on ARK5 for maintaining
+metabolic homeostasis and for cell survival. ARK5 is an upstream
+regulator of AMPK and limits protein synthesis via the mTOR complex-1
+(see 601231) signaling pathway. ARK5 also maintains expression of
+mitochondrial respiratory chain complexes and respiratory capacity,
+which is required for efficient glutamine metabolism. Inhibition of ARK5
+leads to a collapse of cellular ATP levels in cells expressing
+deregulated MYC, inducing multiple proapoptotic responses as a secondary
+consequence. Depletion of ARK5 prolonged survival in MYC-driven mouse
+models of hepatocellular carcinoma, demonstrating that targeting
+cellular energy homeostasis is a valid therapeutic strategy to eliminate
+tumor cells that express deregulated MYC.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the NUAK1 gene
+to chromosome 12.
+
+REFERENCE 1. Liu, L.; Ulbrich, J.; Muller, J.; Wustefeld, T.; Aeberhard, L.;
+Kress, T. R.; Muthalagu, N.; Rycak, L.; Rudalska, R.; Mull, R.; Kempa
+S.; Zender, L.; Eilers, M.; Murphy, D. J.: Deregulated MYC expression
+induces dependence upon AMPK-related kinase 5. Nature 483: 608-612,
+2012.
+
+2. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+3. Suzuki, A.; Kusakai, G.; Kishimoto, A.; Lu, J.; Ogura, T.; Lavin,
+M. F.; Esumi, H.: Identification of a novel protein kinase mediating
+Akt survival signaling to the ATM protein. J. Biol. Chem. 278: 48-53,
+2003.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/15/2012
+
+CREATED Patricia A. Hartz: 9/29/2003
+
+EDITED alopez: 05/16/2012
+alopez: 5/15/2012
+terry: 5/15/2012
+mgross: 9/29/2003
+
+603051	TITLE *603051 ALKYLGLYCERONE-PHOSPHATE SYNTHASE; AGPS
+;;ALKYLDIHYDROXYACETONEPHOSPHATE SYNTHASE; ADHAPS;;
+ALKYL-DHAP SYNTHASE
+DESCRIPTION 
+CLONING
+
+The first 2 steps of ether lipid biosynthesis, which occurs in
+peroxisomes, are the acylation of dihydroxyacetonephosphate (DHAP),
+followed by the introduction of the ether linkage by alkyl-DHAP synthase
+(EC 2.5.1.26), which exchanges the acyl chain for a long-chain fatty
+alcohol. The importance of peroxisomes in mammalian ether lipid
+synthesis is demonstrated by human genetic diseases in which peroxisome
+biogenesis is disturbed and the patients are ether lipid-deficient (see
+600121). To begin understanding alkyl-DHAP synthase and its role in
+human peroxisomal disorders, de Vet et al. (1997) cloned cDNAs encoding
+alkyl-DHAP synthase from a human liver cDNA library using the guinea pig
+alkyl-DHAP synthase cDNA sequence as a starting point. The deduced human
+alkyl-DHAP synthase protein has 658 amino acids. Human and guinea pig
+alkyl-DHAP synthase have 92% amino acid identity, with completely
+identical peroxisomal targeting signal 2 (PTS2) sequences in their
+respective N-terminal presequences. The authors reported homology
+between human alkyl-DHAP synthase, S. cerevisiae D-lactate dehydrogenase
+(cytochrome C) precursor, and E. coli glycolate oxidase subunit D.
+
+De Vet et al. (1998) isolated a C. elegans cDNA encoding a homolog of
+mammalian alkyl-DHAP synthase. The deduced 597-amino acid C. elegans
+protein is 52% identical to the mammalian enzymes in the overlapping
+regions. However, the C. elegans protein carries a consensus peroxisomal
+targeting signal-1 (PTS1) at its C terminus.
+
+GENE STRUCTURE
+
+Thai et al. (2001) determined that the AGPS gene contains 16 exons and
+spans 30 kb.
+
+MAPPING
+
+De Vet et al. (1998) mapped the human alkyl-DHAP synthase gene to 2q31
+by fluorescence in situ hybridization. Thai et al. (2001) mapped the
+AGPS gene to human chromosome 2q33 by fluorescence in situ
+hybridization.
+
+Liegel et al. (2011) mapped the mouse Agps gene to chromosome 2.
+
+GENE FUNCTION
+
+Using fluorescence-activated cytotoxicity selection followed by colony
+autoradiographic screening of the surviving population, Nagan et al.
+(1997) isolated a unique plasmalogen-deficient Chinese hamster ovary
+cell line. The mutant showed a 90% reduction in the rate of biosynthesis
+and levels of plasmalogens. Further studies showed that the mutant is
+defective in a single step in the biosynthetic pathway for plasmalogens,
+namely the step catalyzed by DHAP synthase. Unlike previously described
+plasmalogen-deficient mutants, this mutant contained peroxisomes, as
+confirmed by immunofluorescence microscopy and catalase release by
+digitonin. Peroxisomal functions, including the breakdown of very
+long-chain fatty acids, phytanic acid oxidation, and the acylation of
+DHAP, were normal. Cell fusion studies revealed that the mutation is
+recessive and belongs to a new complementation group.
+
+MOLECULAR GENETICS
+
+Using polyclonal antiserum against alkyl-DHAP synthase, de Vet et al.
+(1998) examined levels of this enzyme in fibroblasts derived from
+patients with peroxisomal disorders. They found strongly reduced levels
+of alkyl-DHAP synthase in both Zellweger syndrome (see 214100) and
+rhizomelic chondrodysplasia punctata (see 215100) patients. A neonatal
+adrenoleukodystrophy (NALD; see 601539) patient with an isolated PTS1
+import deficiency and a patient with an isolated deficiency in
+alkyl-DHAP synthase activity (Wanders et al., 1994; see 600121) had
+normal alkyl-DHAP synthase levels. De Vet et al. (1998) analyzed the
+cDNA sequence encoding alkyl-DHAP synthase from the latter patient and
+found a missense mutation in codon 419, resulting in an arg-to-his
+substitution (603051.0001). The authors expressed the recombinant mutant
+protein in E. coli and did not detect alkyl-DHAP synthase activity. They
+concluded that the arg419-to-his substitution is responsible for the
+inactivity of the enzyme in this patient and that arg419 is critical for
+alkyl-DHAP synthase enzymatic activity. The arginine-modifying agent
+phenylglyoxal efficiently inhibited alkyl-DHAP synthase activity, while
+the substrate palmitoyl-DHAP protected the enzyme against
+phenylglyoxal-mediated inactivation.
+
+Thai et al. (2001) identified 2 missense mutations in an
+ADHAPS-deficient patient: thr309 to ile (603051.0002) and leu469 to pro
+(603051.0003). As a consequence of plasmalogen deficiency, structural
+alterations of caveolae, clathrin-coated pits, endoplasmic reticulum,
+and Golgi cisternae were observed, as well as a reduced rate of
+transferrin receptor cycling. The authors hypothesized that
+plasmalogens, analogous to cholesterol, are essential for correct
+membrane functioning, and their deficiency results in impaired membrane
+trafficking.
+
+Itzkovitz et al. (2012) studied 6 new patients with RCDP, 3 with RCDP2
+(222765) and 3 with RCDP3, and identified homozygosity or compound
+heterozygosity for mutations in the GNPAT gene (see, e.g.,
+603744.0007-603744.0009) or AGPS gene (see, e.g., 603051.0004).
+Comparison of phenotypic severity and GNPAT and AGPS protein levels
+indicated that milder RCDP phenotypes are likely to be associated with
+residual protein function. In RCDP2 patient cell lines, GNPAT protein
+was undetectable, although AGPS amounts were normal, indicating that the
+absence of GNPAT does not affect levels of AGPS at steady state. In
+contrast, in RCDP3 patient cell lines, GNPAT protein levels correlated
+generally with the amount of AGPS protein present; Itzkovitz et al.
+(2012) concluded that at steady state, the amount of wildtype GNPAT was
+highly dependent on the presence of AGPS.
+
+ANIMAL MODEL
+
+Blind sterile-2 (bs2) is a spontaneous autosomal recessive mouse
+mutation characterized by cataracts and male sterility. Histologic
+evaluation revealed that cataracts in bs2 mice were caused by severely
+disrupted lens fiber cells. Sterility in bs2 mice was caused by lack of
+mature sperm associated with large multinucleate cells within the lumens
+of seminiferous tubules. Liegel et al. (2011) identified the bs2
+mutation as a G-to-A transition at the +5 position of Agps intron 14.
+The mutation resulted in 2 abundantly expressed, aberrantly spliced Agps
+transcripts that lacked either exon 14 or both exons 13 and 14. About 7%
+of all Agps transcripts were spliced normally. Both aberrantly spliced
+transcripts resulted in a frameshift, premature stop, and putative
+proteins lacking the enzymatic FAD domain. Mass spectrometry of bs2
+showed reduced content of ether-phosphatidylethanolamine and
+ether-phosphatidylcholine and increased content of
+phosphatidylethanolamine, the precursor for
+ether-phosphatidylethanolamine. Elevated phosphatidylcholine was not
+observed.
+
+ALLELIC VARIANT .0001
+RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 3
+AGPS, ARG419HIS
+
+In a patient with rhizomelic chondrodysplasia punctata and isolated
+alkyl-DHAP synthase deficiency (RCDP3; 600121), originally described by
+Wanders et al. (1994), de Vet et al. (1998) detected a 1256G-A
+transition in the AGPS gene, resulting in an arg419-to-his (R419H)
+substitution.
+
+.0002
+RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 3
+AGPS, THR309ILE
+
+In a girl with rhizomelic chondrodysplasia punctata and isolated
+alkyl-DHAP synthase deficiency (600121), Thai et al. (2001) detected a
+C926T transition, resulting in a thr309-to-ile substitution. The other
+mutant allele carried a T1406C transition, resulting in a leu469-to-pro
+substitution (603051.0003). The patient was admitted to the hospital at
+11 months of age with a phenotype similar to that of her brother who had
+died at 2 years of age: short proximal arms, bilateral cataracts,
+developmental delay, failure to thrive, gastroesophageal efflux,
+microcephaly, and epiphyseal stippling in humeral and femoral bones.
+
+.0003
+RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 3
+AGPS, LEU469PRO
+
+See 603051.0002 and Thai et al. (2001).
+
+.0004
+RHIZOMELIC CHONDRODYSPLASIA PUNCTATA, TYPE 3
+AGPS, THR568MET
+
+In a 7-year-old Brazilian girl with rhizomelic chondroplasia punctata
+and residual GNPAT (602744) activity (RCDP3; 600121), born to parents
+without known consanguinity but from close villages, Itzkovitz et al.
+(2012) identified homozygosity for a 1703C-T transition in exon 18 of
+the AGPS gene, resulting in a thr568-to-met (T568M) substitution at a
+highly conserved residue. The mutation was not present as a polymorphism
+in dbSNP (build 133). In a cell line from the patient, GNPAT and AGPS
+protein levels were normal. At birth, the patient had a wide anterior
+fontanel, simple ears, anteverted nares, long philtrum, and thin upper
+lip. She had bilateral cataracts, limb contractures with mild pterygium,
+slender fingers that were radially deviated, and clubfeet. X-rays showed
+short humeri and femurs, stippling at the knees, elbows, scapulae, and
+hips, and vertebral coronal clefts. Her general health was good except
+for febrile seizures. She smiled responsively at 6 months, and when last
+examined at 27 months of age, she had no head support, could not roll
+over or hold objects, and had no speech.
+
+REFERENCE 1. de Vet, E. C. J. M.; IJlst, L.; Oostheim, W.; Wanders, R. J. A.;
+van den Bosch, H.: Alkyl-dihydroxyacetonephosphate synthase: fate
+in peroxisome biogenesis disorders and identification of the point
+mutation underlying a single enzyme deficiency. J. Biol. Chem. 273:
+10296-10301, 1998.
+
+2. de Vet, E. C. J. M.; Prinsen, H. C. M. T.; van den Bosch, H.:
+Nucleotide sequence of a cDNA clone encoding a Caenorhabditis elegans
+homolog of mammalian alkyl-dihydroxyacetonephosphate synthase: evolutionary
+switching of peroxisomal targeting signals. Biochem. Biophys. Res.
+Commun. 242: 277-281, 1998.
+
+3. de Vet, E. C. J. M.; van den Broek, B. T. E.; van den Bosch, H.
+: Nucleotide sequence of human alkyl-dihydroxyacetonephosphate synthase
+cDNA reveals the presence of a peroxisomal targeting signal 2. Biochim.
+Biophys. Acta 1346: 25-29, 1997.
+
+4. Itzkovitz, B.; Jiralerspong, S.; Nimmo, G.; Loscalzo, M.; Horovitz,
+D. D. G.; Snowden, A.; Moser, A.; Steinberg, S.; Braverman, N.: Functional
+characterization of novel mutations in GNPAT and AGPS, causing rhizomelic
+chondrodysplasia punctata (RCDP) types 2 and 3. Hum. Mutat. 33:
+189-197, 2012.
+
+5. Liegel, R.; Chang, B.; Dubielzig, R.; Sidjanin, D. J.: Blind sterile
+2 (bs2), a hypomorphic mutation in Agps, results in cataracts and
+male sterility in mice. Molec. Genet. Metab. 103: 51-59, 2011.
+
+6. Nagan, N.; Hajra, A. K.; Das, A. K.; Moser, H. W.; Moser, A.; Lazarow,
+P.; Purdue, P. E.; Zoeller, R. A.: A fibroblast cell line defective
+in alkyl-dihydroxyacetone phosphate synthase: a novel defect in plasmalogen
+biosynthesis. Proc. Nat. Acad. Sci. 94: 4475-4480, 1997.
+
+7. Thai, T.-P.; Rodemer, C.; Jauch, A.; Hunziker, A.; Moser, A.; Gorgas,
+K.; Just, W. W.: Impaired membrane traffic in defective ether lipid
+biosynthesis. Hum. Molec. Genet. 10: 127-136, 2001.
+
+8. Wanders, R. J. A.; Dekker, C.; Hovarth, V. A. P.; Schutgens, R.
+B. H.; Tager, J. M.; van Laer, P.; Lecoutere, D.: Human alkyldihydroxyacetone
+phosphate synthase deficiency: a new peroxisomal disorder. J. Inherit.
+Metab. Dis. 17: 315-318, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 05/22/2013
+Marla J. F. O'Neill - updated: 7/10/2012
+George E. Tiller - updated: 3/13/2001
+
+CREATED Sheryl A. Jankowski: 9/22/1998
+
+EDITED mgross: 05/22/2013
+alopez: 10/25/2012
+carol: 7/10/2012
+cwells: 3/27/2001
+cwells: 3/13/2001
+terry: 6/8/1999
+psherman: 10/14/1998
+psherman: 9/23/1998
+psherman: 9/22/1998
+
+607889	TITLE *607889 CKLF-LIKE MARVEL TRANSMEMBRANE DOMAIN-CONTAINING 6; CMTM6
+;;CHEMOKINE-LIKE FACTOR SUPERFAMILY, MEMBER 6; CKLFSF6
+DESCRIPTION 
+DESCRIPTION
+
+Members of the chemokine-like factor superfamily, including CKLFSF6,
+share similarity with both the chemokine (see 604852) and the
+transmembrane 4 (see 300191) superfamilies of signaling molecules.
+
+CLONING
+
+By screening databases for sequences that share homology with
+chemokine-like factor (CKLF), followed by RT-PCR of a prostate cDNA
+library, Han et al. (2003) cloned CKLFSF6. The deduced 183-amino acid
+CKLFSF6 protein has 4 transmembrane segments. It shares about 31%
+sequence identity with CKLFSF4 (607887). Northern blot analysis detected
+a transcript of 3.88 kb expressed in leukocytes, placenta, and testis. A
+smaller transcript was also detected in leukocytes. Han et al. (2003)
+cloned mouse Cklfsf6, which shares about 88.5% sequence similarity with
+CKLFSF6.
+
+MAPPING
+
+By genomic sequence analysis, Han et al. (2003) mapped the CKLFSF6 gene
+to chromosome 3, where it resides within a gene cluster with the CKLFSF7
+(607890) and CKLFSF8 (607891) genes. They mapped the mouse Cklfsf6 gene
+to chromosome 9, where it is located within a similar gene cluster.
+
+REFERENCE 1. Han, W.; Ding, P.; Xu, M.; Wang, L.; Rui, M.; Shi, S.; Liu, Y.;
+Zheng, Y.; Chen, Y.; Yang, T.; Ma, D.: Identification of eight genes
+encoding chemokine-like factor superfamily members 1-8 (CKLFSF1-8)
+by in silico cloning and experimental validation. Genomics 81: 609-617,
+2003.
+
+CREATED Patricia A. Hartz: 6/16/2003
+
+EDITED carol: 11/30/2011
+mgross: 6/17/2003
+
+190182	TITLE *190182 TRANSFORMING GROWTH FACTOR-BETA RECEPTOR, TYPE II; TGFBR2
+DESCRIPTION 
+CLONING
+
+By screening a human hepatoma cell cDNA library with a porcine TGFBR2
+cDNA as probe, Lin et al. (1992) isolated a TGFBR2 cDNA encoding a
+deduced 567-amino acid protein. The protein contains a predicted
+cysteine-rich extracellular domain, a single hydrophobic transmembrane
+domain, and a cytoplasmic serine/threonine kinase domain. The human and
+porcine proteins share 88% sequence identity.
+
+GENE FUNCTION
+
+Growth factor-induced protein phosphorylation plays a key role in the
+signal transduction that leads to mitogenic responses. Most growth
+factor receptors are transmembrane tyrosine kinases or are associated
+with cytoplasmic tyrosine kinases. However, another class of
+transmembrane receptors is predicted to function as serine-threonine
+kinases. The type II activin receptor (102581) and the types I (190181)
+and II TGF-beta receptors (Lin et al., 1992) belong to the
+serine-threonine kinase family. The many activities of TGF-beta (TGFB1;
+190180) in regulating cell proliferation and differentiation and
+extracellular matrix production are mediated through these receptors.
+With the use of cells overexpressing truncated type II receptors as
+dominant-negative mutants to block type II receptor signaling
+selectively, Chen et al. (1993) demonstrated the existence of 2 receptor
+pathways. The type II receptors, possibly in conjunction with type I
+receptors, mediate the induction of growth inhibition and
+hypophosphorylation of the retinoblastoma gene product. The type I
+receptors are responsible for effects on extracellular matrix, such as
+the induction of fibronectin and plasminogen activator inhibitor I, and
+for increased JUNB (165161) expression. Selective inactivation of the
+type II receptors alters the response to TGF-beta in a manner similar to
+the functional inactivation of the RB protein (614041), suggesting a
+role for RB in the type II, but not the type I, receptor pathway.
+
+Expression of the TGFBR2 gene, a putative tumor suppressor gene, is
+regulated by ETS transcription factors, of which FLI1 (193067) is one.
+Hahm et al. (1999) performed experiments to test the hypothesis that
+TGFBR2 may be a target of the EWS-FLI1 fusion protein found in Ewing
+sarcoma and related peripheral primitive neuroectodermal tumors (see
+612219). Their experiments led them to conclude that indeed TGFBR2 is a
+direct target of EWS-FLI1.
+
+Ozdamar et al. (2005) demonstrated that PAR6 (607484), a regulator of
+epithelial cell polarity and tight-junction assembly, interacts with
+TGF-beta receptors and is a substrate of TGFBR2. Phosphorylation of PAR6
+is required for TGF-beta-dependent epithelial-mesenchymal transition in
+mammary gland epithelial cells and controls the interaction of PAR6 with
+the E3 ubiquitin ligase Smurf1 (605568). Smurf1, in turn, targets the
+guanosine triphosphatase RhoA (165390) for degradation, leading to a
+loss of tight junctions. Ozdamar et al. (2005) concluded that an
+extracellular cue signals to the polarity machinery to control
+epithelial cell morphology.
+
+Tesseur et al. (2006) found significantly decreased levels of TGFBR2 in
+human brain extracts from patients with Alzheimer disease (AD; 104300)
+brain compared to controls; the decrease was correlated with pathologic
+hallmarks of the disease. Similar decreases were not seen in brain
+extracts from patients with other forms of dementia. In a mouse model of
+AD, reduced neuronal TGFBR2 signaling resulted in accelerated
+age-dependent neurodegeneration and promoted beta-amyloid accumulation
+and dendritic loss. Reduced TGFBR2 signaling in neuroblastoma cell
+cultures resulted in increased levels of secreted beta-amyloid and
+soluble APP (104760). The findings suggested a role for TGFB1 signaling
+in the pathogenesis of AD.
+
+GENE STRUCTURE
+
+Takenoshita et al. (1996) determined that the TGFBR2 gene comprises 7
+coding exons.
+
+MAPPING
+
+Using a full-length cDNA and a genomic probe in Southern blot analysis
+of a human/rodent somatic cell hybrid panel and by direct fluorescence
+in situ hybridization to normal metaphase chromosomes, Mathew et al.
+(1994) showed that the TGFBR2 gene maps to 3p22. Bonyadi et al. (1996)
+mapped the mouse Tgfbr2 gene to distal mouse chromosome 9 within a
+region of synteny with human 3p22-p21. The mapping was done by linkage
+studies.
+
+MOLECULAR GENETICS
+
+- Role in Carcinogenesis
+
+Germline (190182.0002) and somatic (e.g., 190182.0001) mutations in the
+TGFBR2 gene can result in hereditary nonpolyposis colorectal cancer-6
+(HNPCC6; 614331).
+
+Markowitz et al. (1995) stated that transforming growth factor-beta
+(TGFB; 190180) inhibits the growth of multiple epithelial cell types,
+and loss of this negative regulation is thought to contribute to tumor
+development. The TGFB growth inhibitory signal is transduced through 2
+receptors, type I (TGFBR1) and type II (TGFBR2), which function as a
+heteromeric complex. Markowitz et al. (1995) investigated whether
+inactivation of TGF-beta receptors is a mechanism by which human colon
+cancer cells lose responsiveness to TGF-beta. They found that the TGFBR2
+gene was inactivated in a subset of colon cancer cell lines (referred to
+as RER(+), for 'replication errors') exhibiting microsatellite
+instability, but not in RER(-) cells. Eight such examples, due to 3
+different mutations, were identified. The mutations (e.g., 190182.0001)
+were clustered within small repeated sequences in the TGFBR2 gene and
+were accompanied by the absence of cell surface receptors. Markowitz et
+al. (1995) stated that TGFBR2 mutation, by inducing the escape of cells
+from TGF-beta-mediated growth control, links DNA repair defects (120435)
+with a specific pathway of tumor progression. The small repeat sequences
+in the TGFBR2 gene make it a favorable target for RER(+)-associated
+mutator mechanisms. Once generated, the proliferative advantage of cells
+with inactivated type II receptor would drive colon tumor progression.
+This pathway may also be operative in other human malignancies in which
+the RER(+) phenotype has been detected (reviewed by Eshleman and
+Markowitz, 1995).
+
+Whereas TGFB inhibits the growth of many epithelial cell types including
+nontransformed colon epithelial cells, colon and many other cancer cell
+lines are resistant to suppression of growth by TGFB. Parsons et al.
+(1995) confirmed the presence of TGFBR2 mutations in 100 of 111 cases of
+RER+ colon cancers. As in the report of Markowitz et al. (1995), in each
+of these cases, a frameshift mutation was detected within a small
+adenine mononucleotide repeat at nucleotides 709-718 of the TGFBR2 cDNA.
+Insertions or deletions of adenines within this repeat produce -1, -2,
+or +1 frameshift mutations, resulting in predicted synthesis of
+truncated receptor proteins of 161, 129, or 130 amino acids,
+respectively. Myeroff et al. (1995) demonstrated that TGFBR2 gene
+mutations are also commonly present in RER+ gastric cancers. In
+contrast, they found that mutations in this gene are distinctly uncommon
+in RER+ endometrial cancers.
+
+Souza et al. (1996) analyzed microsatellite instability within the
+coding regions of the TGFBR2 and IGF2R (147280) genes. They noted an
+anticorrespondence of IGF2R and TGFBR2 mutations. Of 31 gastrointestinal
+lesions studied with IGF2R or TGFBR2 mutations, 90% (28) contained
+mutations in one or the other, but not both, of these genes. They
+suggested that IGF2R and TGFBR2 genes comprise serial points in the same
+tumorigenesis pathway.
+
+Tannergard et al. (1997) studied colorectal tumorigenesis in patients
+with HNPCC. Tumors from members of 29 HNPCC families known to have
+germline mutations of the MLH1 gene (120436) were studied. By using
+intragenic markers, inactivation of the wildtype allele of MLH1 was
+shown to have occurred through loss of heterozygosity and not through a
+somatic point mutation. Microsatellite instability was very common and
+occurred early in almost all colorectal tumors from HNPCC patients.
+Mutations in the TGFBR2 gene occurred at a high frequency in these
+tumors. Of colorectal cancers from HNPCC families, 63% had frameshift
+mutations in TGFBR2, compared with 10% of sporadic colorectal cancers.
+Mutations in APC (611731) and KRAS2 (190070) appeared to be as frequent
+in the HNPCC tumors as in the sporadic counterpart.
+
+Lu et al. (1998) identified a germline mutation in TGFBR2 in an 80-year
+old patient with colorectal cancer (HNPCC6; 614331). The patient and her
+2 brothers had had colorectal cancers complying with the clinical
+criteria of HNPCC, except that the onset of cancer was beyond 50 years
+of age in all cases. Constitutional DNA was heterozygous for a
+thr315-to-met (T315M; 190182.0002) mutation, whereas loss of the
+wildtype allele was observed in tumor DNA. The same mutation was present
+in 2 of the patient's 6 children, but they had not developed cancer.
+
+Adjuvant chemotherapy improves survival among certain patients with
+stage III colon cancer. Watanabe et al. (2001) studied molecular
+predictors of outcome and found that retention of 18q alleles in
+microsatellite-stable cancers and mutation of the TGFBR2 gene in cancers
+with high levels of microsatellite instability pointed to a favorable
+outcome after adjuvant chemotherapy with fluorouracil-based regimens.
+
+- Loeys-Dietz Syndrome
+
+Identification of a 3p24.1 chromosomal breakpoint disrupting the TGFBR2
+gene in a Japanese individual with a diagnosis of Marfan syndrome
+(154700) led Mizuguchi et al. (2004) to consider TGFBR2 as a gene
+underlying a phenotype referred to as Marfan syndrome type 2 (see LDS2B,
+610380) which mapped to a locus on chromosome 3p. They identified the
+mutation 1524G-A in TGFBR2 (causing the synonymous amino acid
+substitution Q508Q and resulting in abnormal splicing; 190182.0004) to
+segregate with the phenotype in the French family described by Boileau
+et al. (1993). In 4 unrelated probands, they identified 3 other missense
+mutations in TGFBR2 that led to loss of function of TGF-beta signaling
+activity on extracellular matrix formation. These results showed that
+heterozygous mutations in TGFBR2, a putative tumor suppressor gene
+implicated in several malignancies, are also associated with inherited
+connective tissue disorders. Fbn1 (143797)-deficient mice have excessive
+TGF-beta activity that probably underlies their tendency to develop
+emphysema and could explain other manifestations of Marfan syndrome
+(Neptune et al., 2003). Domain-specific germline mutations of TGFB1
+(190180) have been described in Camurati-Engelmann syndrome (131300) and
+affected individuals usually have Marfanoid habitus, i.e., long slender
+limbs and vertebral deformation. The findings of TGFBR2 mutations
+provides further evidence that perturbation of TGF-beta signaling
+contributes to the pathogenesis of extracellular matrix disorders.
+
+Among the 10 French probands with a diagnosis of Marfan syndrome
+examined by Mizuguchi et al. (2004), only 4 had mutations in TGFBR2.
+These 4 individuals shared a common clinical description: prominent
+aortic, skeletal, and skin/integument anomalies; mild ocular anomalies
+(except for one individual in the original family who had ectopia
+lentis); infrequent dural ectasia; and pulmonary abnormalities.
+
+In 10 families with a disorder characterized by widespread perturbations
+in cardiovascular, craniofacial, neurocognitive, and skeletal
+development (see LDS1A, 609192), Loeys et al. (2005) reported
+heterozygous mutations in the genes encoding either TGFBR1 (190181) or
+TGFBR2. Loeys et al. (2005) considered TGFBR2 as a candidate gene
+because TGF-beta signaling has a prominent role in vascular and
+craniofacial development in mouse models (Sanford et al., 1997; Azhar et
+al., 2003) and because conditional knockout of TGFBR2 in neural crest
+cells causes cleft palate and defects of the calvaria (Ito et al.,
+2003). Loeys et al. (2005) sequenced all exons of TGFBR2 and identified
+heterozygous mutations in 6 of 10 families (see LDS1B, 610168). The
+other 4 families were found to have mutations in the TGFBR1 gene
+(190181). Despite evidence that receptors derived from selected mutated
+alleles cannot support TGF-beta signal propagation (Mizuguchi et al.,
+2004), cells derived from individuals heterozygous with respect to these
+mutations did not show altered kinetics of the acute phase response to
+administered ligand. Furthermore, tissues derived from affected
+individuals showed increased expression of both collagen (see 120150)
+and connective tissue growth factor (121009), as well as nuclear
+enrichment of phosphorylated SMAD2 (601366), indicative of increased
+TGF-beta signaling. The data were interpreted as indicating that
+perturbation of TGF-beta signaling is involved in many common human
+phenotypes, including craniosynostosis, cleft palate, arterial
+aneurysms, congenital heart disease, and mental retardation.
+
+Loeys et al. (2005) reported that histologic analysis in patients with
+mutations in TGFBR2 showed loss of elastin (130160) content and
+disarrayed elastic fibers in the aortic media similar to that in
+patients with classic Marfan syndrome. Structural analysis showed loss
+of intimate spatial association between elastin deposits and vascular
+smooth muscle cells. These characteristics were observed in young
+children and in the absence of inflammation, suggestive of a severe
+defect in elastogenesis rather than secondary elastic fiber destruction.
+In addition, they had previously observed a marked excess of aortic wall
+collagen in individuals with MFS compared with age-matched controls;
+this collagen excess was accentuated in individuals with mutations in
+TGFBR2. As multiple collagens normally expressed in the aorta are
+derived from early-induced target genes of TGF-beta (including COL1A1
+and COL3A1), these data were considered consistent with increased
+(rather than decreased) TGF-beta signaling.
+
+Disabella et al. (2006) identified 3 different mutations in the TGFBR2
+gene (e.g., 190182.0015) in 3 unrelated patients with a phenotype that
+they identified as Marfan syndrome. None of the patients had major
+ocular signs.
+
+In a Japanese boy with clinical findings reported as Shprintzen-Goldberg
+syndrome (SGS; 182212) but consistent with Loeys-Dietz syndrome, Kosaki
+et al. (2006) identified heterozygosity for a splice site mutation in
+the TGFBR2 gene (190182.0016). Because the patient had a bifid uvula and
+sigmoid configuration of the brachycephalic, left common carotid, and
+left subclavian arteries, Robinson et al. (2006) suggested that the
+diagnosis of Loeys-Dietz syndrome would also be appropriate for this
+patient.
+
+Singh et al. (2006) searched for TGFBR1 and TGFBR2 mutations in 41
+unrelated patients fulfilling the diagnostic criteria for Marfan
+syndrome of the Ghent nosology (De Paepe et al., 1996) or with the
+tentative diagnosis of Marfan syndrome, in whom mutations in the FBN1
+coding region were not identified. In TGFBR1, 2 mutations and 2
+polymorphisms were detected. In TGFBR2, 5 mutations and 6 polymorphisms
+were identified. Reexamination of patients with a TGFBR1 or TGFBR2
+mutation revealed extensive clinical overlap between patients diagnosed
+with Marfan syndrome type 1 (MFS1; 154700), Marfan syndrome type 2, and
+Loeys-Dietz syndrome (LDS2B; 610380).
+
+In 2 male patients with LDS1B who had a significant history of low bone
+mineral density and multiple low-impact fractures, Kirmani et al. (2010)
+identified 2 different heterozygous mutations in the TGFBR2 gene,
+respectively (see, e.g., 190182.0005).
+
+- Susceptibility To Abdominal Aortic Aneurysm
+
+For a discussion of a possible association between variation in the
+TGFBR2 gene and susceptibility to abdominal aortic aneurysm, see AAA
+(100070).
+
+ANIMAL MODEL
+
+Han et al. (2005) found that human skin cancers frequently overexpress
+TGFB1 (190180) but exhibit decreased expression of TGFBR2. In transgenic
+mouse models in which Tgfb1 expression could be induced at specific
+stages of skin carcinogenesis in tumor epithelia expressing a
+dominant-negative Tgfbr2, they observed that late-stage Tgfb1
+overexpression in chemically induced skin papillomas did not exert a
+tumor-suppressive effect and that dominant-negative Tgfbr2 expression
+selectively blocked Tgfb1-mediated epithelial-to-mesenchymal transition
+but cooperated with Tgfb1 for tumor invasion. Han et al. (2005)
+concluded that TGFB1 induces epithelial-to-mesenchymal transition and
+invasion via distinct mechanisms: TGFB1-mediated
+epithelial-to-mesenchymal transition requires functional TGFBR2, whereas
+TGFB1-mediated tumor invasion cooperates with reduced TGFBR2 signaling
+in tumor epithelia.
+
+Li et al. (2006) found that mice lacking Tgfbr2 specifically in T cells
+had lethal inflammation associated with T-cell activation and
+differentiation. Maturation of Cd8 (see 186910)-positive T cells and
+development of natural killer T cells were inhibited in thymus.
+Peripheral Foxp3 (300292)-positive regulatory T cell numbers were
+reduced, and Cd4 (186940)-positive T-cell survival depended on Tgfb
+signaling. Li et al. (2006) concluded that TGFB has pleiotropic
+functions in T cells in terms of T-cell development, tolerance, and
+homeostasis.
+
+ALLELIC VARIANT .0001
+COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6, SOMATIC
+TGFBR2, 2-BP INS, 1931GT
+
+The mutations identified by Markowitz et al. (1995) included (in the
+VACO481 cell line) a GT insertion into a 6-bp GTGTGT repeat at
+nucleotides 1931 to 1936. The resulting frameshift was predicted to
+substitute a highly basic, 29-amino acid C terminus for the slightly
+acidic 33-amino acid wildtype C terminus. The same frameshift mutation
+was detected in the primary colon tumor from which the VACO481 cell line
+was established, but not in normal colon tissue from the same patient,
+indicating that the mutation was somatic and that it occurred before
+cell culture.
+
+.0002
+COLORECTAL CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6
+TGFBR2, THR315MET
+
+Lu et al. (1998) described a heterozygous germline thr315-to-met (T315M)
+mutation in an 80-year-old patient with colorectal cancer (HNPCC6;
+614331). The other allele was wildtype in the constitutional DNA and
+showed deletion in tumor tissue. Unlike patients with typical HNPCC, the
+affected members of this family lacked multiple synchronous,
+metachronous colorectal cancers and extracolonic cancers. Notably, there
+was no microsatellite instability in this case. The patient's 2 brothers
+had developed colon cancer at the ages of 65 and 60. The T315M mutation
+was found in 2 of the patient's 6 children, neither of whom had
+developed cancer. Tissue samples could not be obtained from the brothers
+of the patient.
+
+.0003
+ESOPHAGEAL CANCER, SOMATIC
+TGFBR2, GLU526GLN
+
+Tanaka et al. (2000) identified a missense mutation, glu526 to gln
+(E526Q), in the serine/threonine kinase domain of TGF-beta receptor II
+in an esophageal carcinoma (133239) tissue sample. The mutant protein
+could completely inhibit TGF-beta induction of nuclear translocation of
+SMAD4 protein (600993) in esophageal carcinoma cells. This mutation was
+not associated with microsatellite instability.
+
+.0004
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, GLN508GLN
+
+In a large French family in which a Marfan syndrome-like phenotype
+mapped to 3p25-p24.2 (LDS2B; 610380; Boileau et al., 1993), Mizuguchi et
+al. (2004) identified the mutation 1524G-A in TGFBR2 segregating with
+the phenotype. The mutation caused the synonymous amino acid
+substitution gln508-to-gln (Q508Q) and resulted in abnormal splicing.
+
+.0005
+LOEYS-DIETZ SYNDROME, TYPE 2B
+LOEYS-DIETZ SYNDROME, TYPE 1B, INCLUDED
+TGFBR2, LEU308PRO
+
+Mizuguchi et al. (2004) identified the mutation 923T-C in the TGFBR2
+gene, resulting in the amino acid substitution leu308-to-pro (L308P),
+associated with a phenotype identified as Marfan syndrome type 2 (LDS2B;
+610380).
+
+In a 17-year-old male patient with Loeys-Dietz syndrome type 1B
+(610168), who had a significant history of low bone mineral density and
+multiple low-impact fractures, Kirmani et al. (2010) identified
+heterozygosity for the L308P mutation in the TGFBR2 gene.
+
+.0006
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, SER449PHE
+
+Mizuguchi et al. (2004) identified the heterozygous mutation 1346C-T in
+the TGFBR2 gene, resulting in the ser449-to-phe (S449F) amino acid
+substitution, in association with a phenotype identified as Marfan
+syndrome type 2 (LDS2B; 610380).
+
+.0007
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, ARG537CYS
+
+Mizuguchi et al. (2004) found the mutation 1609C-T in the TGFBR2 gene,
+resulting in the amino acid substitution arg537-to-cys (R537C), in
+association with a phenotype identified as Marfan syndrome type 2
+(LDS2B; 610380).
+
+.0008
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, TYR336ASN
+
+In their family 6 in which a father and 2 daughters had Loeys-Dietz
+syndrome (LDS1B; 610168), Loeys et al. (2005) found a heterozygous
+mutation in the TGFBR2 gene segregating with the disorder, a 1006T-A
+transversion in exon 4 that resulted in a tyr336-to-asn (Y336N)
+substitution in the kinase domain of the protein.
+
+.0009
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, ALA355PRO
+
+In a family in which members of 3 generations had the Loeys-Dietz
+syndrome (LDS1B; 610168), Loeys et al. (2005) found heterozygosity in
+affected individuals for a 1063G-C transversion in exon 4 of the TGFBR2
+gene, resulting in an ala355-to-pro (A355P) substitution in the kinase
+domain of the protein.
+
+.0010
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, GLY357TRP
+
+In their family 4, Loeys et al. (2005) found that the single patient
+with Loeys-Dietz syndrome (LDS1B; 610168) was heterozygous for a 1069G-T
+transversion in exon 4 of the TGFBR2 gene, resulting in a gly357-to-trp
+(G357W) amino acid substitution.
+
+.0011
+LOEYS-DIETZ SYNDROME, TYPE 1B
+COLON CANCER, HEREDITARY NONPOLYPOSIS, TYPE 6, SOMATIC, INCLUDED
+TGFBR2, ARG528HIS
+
+In their family 2, Loeys et al. (2005) demonstrated that the single case
+of Loeys-Dietz syndrome (LDS1B; 610168) was heterozygous for a 1583G-A
+transition in exon 7 of the TGFBR2 gene that resulted in an
+arg528-to-his (R528H) amino acid substitution. R528H had been reported
+as a somatic event in colon cancer and shown to cause loss of function
+in a transient transfection assay (Grady et al., 1999).
+
+.0012
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, ARG528CYS
+
+In their family 3 with a isolated case of Loeys-Dietz syndrome (LDS1B;
+610168), Loeys et al. (2005) found a 1582C-T transition in exon 7 of the
+TGFBR2 gene, resulting in an arg528-to-cys (R528C) amino acid
+substitution.
+
+.0013
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, IVS1, A-G, -2
+
+In a single individual with Loeys-Dietz syndrome (LDS1B; 610168) in
+their family 5, Loeys et al. (2005) found an A-to-G transition in the
+splice acceptor sequence, -2 position, in intron 1 of the TGFBR2 gene
+(95-2A-G). This mutation induced use of a cryptic splice acceptor in
+exon 2 that resulted in the in-frame skipping of nucleotides 95-112 and
+deletion of residues 32-37 in the extracellular domain of the TGFBR2
+protein.
+
+.0014
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, ARG460CYS
+
+In 2 families with thoracic aortic aneurysm and dissection mapping to
+chromosome 3p25-p24 (LDS2B; 610380), Pannu et al. (2005) detected a
+1378C-T transition in exon 5 of the TGFBR2 gene that resulted in the
+substitution of cysteine for arginine at amino acid 460 (R460C). The
+clinical features of one of these families had been reported by Hasham
+et al. (2003). The proband of the second family, a 4-generation family
+with autosomal dominant thoracic aortic aneurysm and dissection,
+presented at 41 years of age with an aneurysm of the ascending aorta and
+mitral valve prolapse. Affected members of the family presented
+primarily with type A dissections.
+
+.0015
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, ARG460HIS
+
+In 2 large kindreds with autosomal dominant thoracic aortic aneurysm and
+dissection (LDS2B; 610380), Pannu et al. (2005) found a mutation in exon
+5 of the TGFBR2 gene, 1379G-A, changing arginine-460 to histidine
+(R460H). The proband of 1 family presented with type B aortic dissection
+at the age of 43 years. Some affected individuals in this family also
+had carotid and cerebral aneurysms and dissections, as well as pulmonary
+artery enlargement. The proband of the second family presented at age 42
+years with a type A aortic dissection that was surgically repaired. In
+the first family, affected individuals presented with aneurysms of both
+the ascending and descending thoracic aorta; in the second family, the
+majority of individuals presented with aneurysm of the ascending
+thoracic aorta.
+
+Disabella et al. (2006) identified a heterozygous R460H mutation in a
+24-year-old woman with a phenotype they identified as Marfan syndrome.
+An affected father and aunt died of aortic root dissection at age 37 and
+45 years, respectively.
+
+Law et al. (2006) described the clinical findings and natural history of
+22 carriers of the R460H mutation in TGFBR2 gene in a 5-generation
+kindred ascertained by familial aortic dissection. There had been 8
+sudden deaths; the cause of death was aortic dissection in all 6 cases
+in which a postmortem examination was performed. Three individuals had
+undergone aortic replacement surgery. Dissection had occurred throughout
+the aorta, and in 1 case in the absence of aortic root dilatation.
+Subarachnoid hemorrhage due to a ruptured berry aneurysm had occurred in
+2 individuals. Four gene carriers and 1 deceased family member who were
+investigated had tortuous cerebral blood vessels. One had tortuous
+vertebral arteries, 2 had tortuous carotid arteries, and 1 had tortuous
+abdominal aorta. Two individuals were found to have a brachiocephalic
+artery aneurysm and a subclavian artery aneurysm, respectively. Despite
+the predisposition to aortic dilatation and dissection, members of the
+family did not frequently manifest the skeletal features of Marfan
+syndrome, with the exception of joint hypermobility. None had ocular
+lens dislocation. Striae and hernias were common. There was some overlap
+with Ehlers-Danlos syndrome type IV (130050), with soft translucent skin
+that was easily bruised.
+
+.0016
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, IVS5AS, -2A-G
+
+In a Japanese boy with clinical findings reported as Shprintzen-Goldberg
+syndrome (182212) but consistent with Loeys-Dietz syndrome (LDS1B;
+610168), Kosaki et al. (2006) identified heterozygosity for a -2A-G
+transition at the splice acceptor site in intron 5 of the TGFBR2 gene.
+Because the patient had a bifid uvula and sigmoid configuration of the
+brachycephalic, left common carotid and left subclavian arteries,
+Robinson et al. (2006) suggested that the diagnosis of Loeys-Dietz
+syndrome would also be appropriate for this patient.
+
+.0017
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, MET425VAL
+
+In a man with a diagnosis of Marfan syndrome type 2 (LDS2B; 610380),
+Disabella et al. (2006) identified a heterozygous mutation in the TGFBR2
+gene, resulting in a met425-to-val (M425V) substitution in the
+serine/threonine kinase domain of the protein. The mutation was not
+identified in 192 healthy controls. The patient's affected father died
+at age 40 years from aortic dissection.
+
+.0018
+LOEYS-DIETZ SYNDROME, TYPE 2B
+TGFBR2, PRO427LEU
+
+In a patient with Loeys-Dietz syndrome type 2 (610380) , Loeys et al.
+(2006) detected a missense mutation, pro427 to leu (P427L), in the
+TGFBR2 gene. The female patient had aortic root aneurysm with dissection
+and other arterial aneurysms, arterial tortuosity, vascular rapture
+during pregnancy, uterine rupture, and splenic rupture. Easy bruising,
+velvety skin, and joint laxity were also present.
+
+.0019
+LOEYS-DIETZ SYNDROME, TYPE 1B
+TGFBR2, ARG495TER
+
+Loeys et al. (2006) pictured a patient with type 1 Loeys-Dietz syndrome
+(610168) who carried a heterozygous nonsense mutation, arg495 to stop
+(R495X), in the TGFBR2 gene. The man showed hypertelorism and bifid
+uvula. Immunostaining of aortic tissue revealed increased nuclear
+accumulation of phosphorylated Smad2 (601366) and levels of expression
+of connective-tissue growth factor (CTGF; 121009), both indicative of
+increased TGF-beta signaling.
+
+REFERENCE 1. Azhar, M.; Schultz, J. E. J.; Grupp, I.; Dorn, G. W., II; Meneton,
+P.; Molin, D. G. M.; Gittenberger-de Groot, A. C.; Doetschman, T.
+: Transforming growth factor beta in cardiovascular development and
+function. Cytokine Growth Factor Rev. 14: 391-407, 2003.
+
+2. Boileau, C.; Jondeau, G.; Babron, M.-C.; Coulon, M.; Alexandre,
+J.-A.; Sakai, L.; Melki, J.; Delorme, G.; Dubourg, O.; Bonaiti-Pellie,
+C.; Bourdarias, J.-P.; Junien, C.: Autosomal dominant Marfan-like
+connective-tissue disorder with aortic dilation and skeletal anomalies
+not linked to the fibrillin gene. Am. J. Hum. Genet. 53: 46-54,
+1993.
+
+3. Bonyadi, M.; Cui, W.; Nagase, H.; Akhurst, R. J.: The TGF-beta
+type II receptor, Tgfbr2, maps to distal mouse chromosome 9. Genomics 33:
+328-329, 1996.
+
+4. Chen, R.-H.; Ebner, R.; Derynck, R.: Inactivation of the type
+II receptor reveals two receptor pathways for the diverse TGF-beta
+activities. Science 260: 1335-1338, 1993.
+
+5. De Paepe, A.; Devereux, R. B.; Dietz, H. C.; Hennekam, R. C. M.;
+Pyeritz, R. E.: Revised diagnostic criteria for the Marfan syndrome. Am.
+J. Med. Genet. 62: 417-426, 1996.
+
+6. Disabella, E.; Grasso, M.; Marziliano, N.; Ansaldi, S.; Lucchelli,
+C.; Porcu, E.; Tagliani, M.; Pilotto, A.; Diegoli, M.; Lanzarini,
+L.; Malattia, C.; Pelliccia, A.; Ficcadenti, A.; Gabrielli, O.; Arbustini,
+E.: Two novel and one known mutation of the TGFBR2 gene in Marfan
+syndrome not associated with FBN1 gene defects. Europ. J. Hum. Genet. 14:
+34-38, 2006.
+
+7. Eshleman, J. R.; Markowitz, S. D.: Microsatellite instability
+in inherited and sporadic neoplasms. Curr. Opin. Oncol. 7: 83-89,
+1995.
+
+8. Grady, W. M.; Myeroff, L. L.; Swinler, S. E.; Rajput, A.; Thiagalingam,
+S.; Lutterbaugh, J. D.; Neumann, A.; Brattain, M. G.; Chang, J.; Kim,
+S.-J.; Kinzler, K. W.; Vogelstein, B.; Willson, J. K. V.; Markowitz,
+S.: Mutational inactivation of transforming growth factor beta receptor
+type II in microsatellite stable colon cancers. Cancer Res. 59:
+320-324, 1999.
+
+9. Hahm, K.-B.; Cho, K.; Lee, C.; Im, Y.-H.; Chang, J.; Choi, S.-G.;
+Sorensen, P. H. B.; Thiele, C. J.; Kim, S.-J.: Repression of the
+gene encoding the TGF-beta type II receptor is a major target of the
+EWS-FLI1 oncoprotein. Nature Genet. 23: 222-227, 1999. Note: Erratum:
+Nature Genet. 23: 481 only, 1999.
+
+10. Han, G.; Lu, S.-L; Li, A. G.; He, W.; Corless, C. L.; Kulesz-Martin,
+M.; Wang, X.-J.: Distinct mechanisms of TGF-beta-1-mediated epithelial-to-mesenchymal
+transition and metastasis during skin carcinogenesis. J. Clin. Invest. 115:
+1714-1723, 2005.
+
+11. Hasham, S. N.; Willing, M. C.; Guo, D.; Muilenburg, A.; He, R.;
+Tran, V. T.; Scherer, S. E.; Shete, S. S.; Milewicz, D. M.: Mapping
+a locus for familial thoracic aortic aneurysms and dissections (TAAD2)
+to 3p24-25. Circulation 107: 3184-3190, 2003.
+
+12. Ito, Y.; Yeo, J. Y.; Chytil, A.; Han, J.; Bringas, P., Jr.; Nakajima,
+A.; Shuler, C. F.; Moses, H. L.; Chai, Y.: Conditional inactivation
+of Tgfbr2 in cranial neural crest causes cleft palate and calvaria
+defects. Development 130: 5269-5280, 2003.
+
+13. Kirmani, S.; Tebben, P. J.; Lteif, A. N.; Gordon, D.; Clarke,
+B. L.; Hefferan, T. E.; Yaszemski, M. J.; McGrann, P. S.; Lindor,
+N. M.; Ellison, J. W.: Germline TGF-beta receptor mutations and skeletal
+fragility: a report on two patients with Loeys-Dietz syndrome. Am.
+J. Med. Genet. 152A: 1016-1019, 2010.
+
+14. Kosaki, K.; Takahashi, D.; Udaka, T.; Kosaki, R.; Matsumoto, M.;
+Ibe, S.; Isobe, T.; Tanaka, Y.; Takahashi, T.: Molecular pathology
+of Shprintzen-Goldberg syndrome. (Letter) Am. J. Med. Genet. 140A:
+104-108, 2006.
+
+15. Law, C.; Bunyan, D.; Castle, B.; Day, L.; Simpson, I.; Westwood,
+G.; Keeton, B.: Clinical features in a family with an R460H mutation
+in transforming growth factor beta receptor 2 gene. J. Med. Genet. 43:
+908-916, 2006.
+
+16. Li, M. O.; Sanjabi, S.; Flavell, R. A.: Transforming growth factor-beta
+controls development, homeostasis, and tolerance of T cells by regulatory
+T cell-dependent and -independent mechanisms. Immunity 25: 455-471,
+2006.
+
+17. Lin, H. Y.; Wang, X.-F.; Ng-Eaton, E.; Weinberg, R. A.; Lodish,
+H. F.: Expression cloning of the TGF-beta type II receptor, a functional
+transmembrane serine/threonine kinase. Cell 68: 775-785, 1992. Note:
+Erratum: Cell 70: 1069 only, 1992.
+
+18. Loeys, B. L.; Chen, J.; Neptune, E. R.; Judge, D. P.; Podowski,
+M.; Holm, T.; Meyers, J.; Leitch, C. C.; Katsanis, N.; Sharifi, N.;
+Xu, F. L.; Myers, L. A.; and 12 others: A syndrome of altered cardiovascular,
+craniofacial, neurocognitive and skeletal development caused by mutations
+in TGFBR1 or TGFBR2. Nature Genet. 37: 275-281, 2005.
+
+19. Loeys, B. L.; Schwarze, U.; Holm, T.; Callewaert, B. L.; Thomas,
+G. H.; Pannu, H.; De Backer, J. F.; Oswald, G. L.; Symoens, S.; Manouvrier,
+S.; Roberts, A. E.; Faravelli, F.; and 9 others: Aneurysm syndromes
+caused by mutations in the TGF-beta receptor. New Eng. J. Med. 355:
+788-798, 2006.
+
+20. Lu, S.-L.; Kawabata, M.; Imamura, T.; Akiyama, Y.; Nomizu, T.;
+Miyazono, K.; Yuasa, Y.: HNPCC associated with germline mutation
+in the TGF-beta type II receptor gene. (Letter) Nature Genet. 19:
+17-18, 1998.
+
+21. Markowitz, S.; Wang, J.; Myeroff, L.; Parsons, R.; Sun, L.; Lutterbaugh,
+J.; Fan, R. S.; Zborowska, E.; Kinzler, K. W.; Vogelstein, B.; Brattain,
+M.; Willson, J. K. V.: Inactivation of the type II TGF-beta receptor
+in colon cancer cells with microsatellite instability. Science 268:
+1336-1338, 1995.
+
+22. Mathew, S.; Murty, V. V. V. S.; Cheifetz, S.; George, D.; Massague,
+J.; Chaganti, R. S. K.: Transforming growth factor receptor gene
+TGFBR2 maps to human chromosome band 3p22. Genomics 20: 114-115,
+1994.
+
+23. Mizuguchi, T.; Collod-Beroud, G.; Akiyama, T.; Abifadel, M.; Harada,
+N.; Morisaki, T.; Allard, D.; Varret, M.; Claustres, M.; Morisaki,
+H.; Ihara, M.; Kinoshita, A.; and 11 others: Heterozygous TGFBR2
+mutations in Marfan syndrome. Nature Genet. 36: 855-860, 2004.
+
+24. Myeroff, L. L.; Parsons, R.; Kim, S.-J.; Hedrick, L.; Cho, K.
+R.; Orth, K.; Mathis, M.; Kinzler, K. W.; Lutterbaugh, J.; Park, K.;
+Bang, Y.-J.; Lee, H. Y.; Park, J.-G.; Lynch, H. T.; Roberts, A. B.;
+Vogelstein, B.; Markowitz, S. D.: A transforming growth factor beta
+receptor type II gene mutation common in colon and gastric but rare
+in endometrial cancers with microsatellite instability. Cancer Res. 55:
+5545-5547, 1995.
+
+25. Neptune, E. R.; Frischmeyer, P. A.; Arking, D. E.; Myers, L.;
+Bunton, T. E.; Gayraud, B.; Ramirez, F.; Sakai, L. Y.; Dietz, H. C.
+: Dysregulation of TGF-beta activation contributes to pathogenesis
+in Marfan syndrome. Nature Genet. 33: 407-411, 2003.
+
+26. Ozdamar, B.; Bose, R.; Barrios-Rodiles, M.; Wang, H.-R.; Zhang,
+Y.; Wrana, J. L.: Regulation of the polarity protein Par6 by TGF-beta
+receptors controls epithelial cell plasticity. Science 307: 1603-1609,
+2005.
+
+27. Pannu, H.; Fadulu, V. T.; Chang, J.; Lafont, A.; Hasham, S. N.;
+Sparks, E.; Giampietro, P. F.; Zaleski, C.; Estrera, A. L.; Safi,
+H. J.; Shete, S.; Willing, M. C.; Raman, C. S.; Milewicz, D. M.:
+Mutations in transforming growth factor-beta receptor type II cause
+familial thoracic aortic aneurysms and dissections. Circulation 112:
+513-520, 2005.
+
+28. Parsons, R.; Myeroff, L. L.; Liu, B.; Willson, J. K. V.; Markowitz,
+S. D.; Kinzler, K. W.; Vogelstein, B.: Microsatellite instability
+and mutations of the transforming growth factor beta type II receptor
+gene in colorectal cancer. Cancer Res. 55: 5548-5550, 1995.
+
+29. Robinson, P. N.; Neumann, L. M.; Tinschert, S.: Response to Kosaki
+et al. (Letter) Am. J. Med. Genet. 140A: 109-110, 2006.
+
+30. Sanford, L. P.; Ormsby, I.; Gittenberger-de Groot, A. C.; Sariola,
+H.; Friedman, R.; Boivin, G. P.; Cardell, E. L.; Doetschman, T.:
+TGF-beta-2 knockout mice have multiple developmental defects that
+are non-overlapping with other TGF-beta knockout phenotypes. Development 124:
+2659-2670, 1997.
+
+31. Singh, K. K.; Rommel, K.; Mishra, A.; Karck, M.; Haverich, A.;
+Schmidtke, J.; Arslan-Kirchner, M.: TGFBR1 and TGFBR2 mutations in
+patients with features of Marfan syndrome and Loeys-Dietz syndrome. Hum.
+Mutat. 27: 770-777, 2006.
+
+32. Souza, R. F.; Appel, R.; Yin, J.; Wang, S.; Smolinski, K. N.;
+Abraham, J. M.; Zou, T.-T.; Shi, Y.-Q.; Lei, J.; Cottrell, J.; Cymes,
+K.; Biden, K.; Simms, L.; Leggett, B.; Lynch, P. M.; Frazier, M.;
+Powell, S. M.; Harpaz, N.; Sugimura, H.; Young, J.; Meltzer, S. J.
+: Microsatellite instability in the insulin-like growth factor II
+receptor gene in gastrointestinal tumours. (Letter) Nature Genet. 14:
+255-257, 1996. Note: Erratum: Nature Genet. 14: 488 only, 1996.
+
+33. Takenoshita, S.; Hagiwara, K.; Nagashima, M.; Gemma, A.; Bennett,
+W. P.; Harris, C. C.: The genomic structure of the gene encoding
+the human transforming growth factor beta type II receptor (TGF-beta
+RII). Genomics 36: 341-344, 1996.
+
+34. Tanaka, S.; Mori, M.; Mafune, K.; Ohno, S.; Sugimachi, K.: A
+dominant negative mutation of transforming growth factor-beta receptor
+type II gene in microsatellite stable oesophageal carcinoma. Brit.
+J. Cancer 82: 1557-1560, 2000.
+
+35. Tannergard, P.; Liu, T.; Weger, A.; Nordenskjold, M.; Lindbloom,
+A.: Tumorigenesis in colorectal tumors from patients with hereditary
+non-polyposis colorectal cancer. Hum. Genet. 101: 51-55, 1997.
+
+36. Tesseur, I.; Zou, K.; Esposito, L.; Bard, F.; Berber, E.; Van
+Can, J.; Lin, A. H.; Crews, L.; Tremblay, P.; Mathews, P.; Mucke,
+L.; Masliah, E.; Wyss-Coray, T.: Deficiency in neuronal TGF-beta
+signaling promotes neurodegeneration and Alzheimer's pathology. J.
+Clin. Invest. 116: 3060-3069, 2006.
+
+37. Watanabe, T.; Wu, T.-T.; Catalano, P. J.; Ueki, T.; Satriano,
+R.; Haller, D. G.; Benson, A. B., III; Hamilton, S. R.: Molecular
+predictors of survival after adjuvant chemotherapy for colon cancer. New
+Eng. J. Med. 344: 1196-1206, 2001.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/1/2010
+Paul J. Converse - updated: 10/25/2007
+Victor A. McKusick - updated: 5/31/2007
+Cassandra L. Kniffin - updated: 12/8/2006
+Victor A. McKusick - updated: 9/20/2006
+Victor A. McKusick - updated: 8/24/2006
+Cassandra L. Kniffin - updated: 3/8/2006
+Marla J. F. O'Neill - updated: 3/7/2006
+Victor A. McKusick - updated: 12/13/2005
+Marla J. F. O'Neill - updated: 7/28/2005
+Ada Hamosh - updated: 6/1/2005
+Victor A. McKusick - updated: 2/4/2005
+Victor A. McKusick - updated: 8/2/2004
+Victor A. McKusick - updated: 5/10/2001
+Victor A. McKusick - updated: 12/4/2000
+Victor A. McKusick - updated: 9/29/1999
+Victor A. McKusick - updated: 4/27/1998
+Victor A. McKusick - updated: 10/14/1997
+Victor A. McKusick - edited: 2/14/1997
+Moyra Smith - updated: 11/7/1996
+
+CREATED Victor A. McKusick: 6/10/1993
+
+EDITED terry: 03/14/2013
+carol: 3/11/2013
+alopez: 3/11/2013
+carol: 11/7/2012
+alopez: 1/11/2012
+alopez: 11/8/2011
+terry: 6/21/2011
+wwang: 12/2/2010
+terry: 12/1/2010
+carol: 9/2/2010
+alopez: 4/3/2009
+carol: 9/11/2008
+carol: 8/5/2008
+alopez: 3/31/2008
+alopez: 3/7/2008
+ckniffin: 2/5/2008
+mgross: 10/25/2007
+terry: 10/25/2007
+alopez: 6/4/2007
+terry: 5/31/2007
+wwang: 12/11/2006
+ckniffin: 12/8/2006
+alopez: 10/11/2006
+terry: 9/20/2006
+terry: 8/24/2006
+carol: 4/13/2006
+wwang: 3/14/2006
+ckniffin: 3/8/2006
+wwang: 3/7/2006
+alopez: 2/24/2006
+terry: 12/13/2005
+alopez: 8/10/2005
+terry: 7/28/2005
+joanna: 6/16/2005
+wwang: 6/1/2005
+terry: 6/1/2005
+alopez: 4/27/2005
+mgross: 4/15/2005
+alopez: 3/2/2005
+alopez: 2/7/2005
+terry: 2/4/2005
+alopez: 8/4/2004
+terry: 8/2/2004
+carol: 3/17/2004
+carol: 7/11/2001
+cwells: 5/18/2001
+terry: 5/10/2001
+mcapotos: 12/19/2000
+mcapotos: 12/14/2000
+terry: 12/4/2000
+carol: 5/9/2000
+alopez: 9/30/1999
+terry: 9/29/1999
+dkim: 9/11/1998
+alopez: 4/27/1998
+terry: 4/27/1998
+jenny: 10/21/1997
+terry: 10/14/1997
+mark: 2/14/1997
+terry: 2/13/1997
+mark: 11/7/1996
+terry: 5/7/1996
+terry: 4/30/1996
+terry: 4/5/1996
+mark: 2/19/1996
+terry: 2/15/1996
+terry: 7/28/1995
+mark: 7/11/1995
+carol: 4/5/1994
+carol: 7/13/1993
+carol: 7/9/1993
+carol: 6/23/1993
+
+611338	TITLE *611338 AUTOPHAGY 4, S. CEREVISIAE, HOMOLOG OF, B; ATG4B
+;;APG4, S. CEREVISIAE, HOMOLOG OF, B; APG4B;;
+AUTOPHAGIN 1;;
+AUTL1;;
+KIAA0943
+DESCRIPTION 
+DESCRIPTION
+
+Autophagy is the biologic process leading to intracellular destruction
+of endogenous proteins and removal of damaged organelles. ATG4B is a
+homolog of yeast Apg4, a cysteine protease involved in autophagy (Marino
+et al., 2003).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1999) cloned ATG4B, which they designated
+KIAA0943. The transcript contains a repetitive element in its 3-prime
+UTR. RT-PCR ELISA detected moderate expression in all adult and fetal
+tissues and specific brain regions examined.
+
+By searching for sequences similar to yeast Apg4, followed by PCR of
+human cDNA libraries, Marino et al. (2003) cloned ATG4B, which they
+called autophagin-1. The deduced 393-amino acid protein contains a
+putative active-site cysteine at position 74. ATG4B shares significant
+similarity with yeast Apg4, except for divergence at its N- and
+C-terminal ends. The absence of an N-terminal signal sequence suggests
+that ATG4B is a cytoplasmic enzyme. Northern blot analysis detected a
+4.5-kb transcript that was highly expressed in skeletal muscle, with
+lower expression in heart, liver, and pancreas. No expression was
+detected in fetal tissues. ATG4B was widely expressed in tumor cell
+lines.
+
+GENE FUNCTION
+
+Marino et al. (2003) showed that autophagin-1 could complement Apg4
+deficiency in yeast, restoring the phenotypic and biochemical
+characteristics of autophagic cells.
+
+Apg8 is a ubiquitin-like protein involved in autophagy in yeast, and
+there are at least 4 mammalian Apg8 homologs: GATE16 (GABARAPL2;
+607452), GABARAP (605125), MAP1LC3 (see 601242), and APG8L (GABARAPL1;
+607420). Hemelaar et al. (2003) found that mouse Atg4b acted on the C
+termini of these 4 Atg8 homologs, and that the reaction required the
+active-site cysteine of Atg4b. Although the amino acid sequences of
+these Apg8 homologs differ from one another by as much as 71%, their
+affinities for Atg4b were roughly comparable in competition experiments.
+
+BIOCHEMICAL FEATURES
+
+Sugawara et al. (2005) reported the crystal structure of human ATG4B at
+1.9-angstrom resolution. The ATG4B structure showed a classical papain
+(see CTSF; 603539)-like fold and a small alpha/beta-fold domain, similar
+to those of ubiquitin-specific proteases, that may be the binding site
+for Atg8 homologs. The active-site cleft of ATG4B, which contains the
+catalytic triad of cys74, asp278, and his280, is masked by a loop,
+implying that a conformational change occurs upon substrate binding.
+Mutation of cys74, asp278, or his280 resulted in complete loss of
+protease activity.
+
+MAPPING
+
+By genomic sequence analysis, Marino et al. (2003) mapped the ATG4B gene
+to chromosome 2q37.
+
+REFERENCE 1. Hemelaar, J.; Lelyveld, V. S.; Kessler, B. M.; Ploegh, H. L.:
+A single protease, Apg4B, is specific for the autophagy-related ubiquitin-like
+proteins GATE-16, MAP1-LC3, GABARAP, and Apg8L. J. Biol. Chem. 278:
+51841-51850, 2003.
+
+2. Marino, G.; Uria, J. A.; Puente, X. S.; Quesada, V.; Bordallo,
+J.; Lopez-Otin, C.: Human autophagins, a family of cysteine proteinases
+potentially implicated in cell degradation by autophagy. J. Biol.
+Chem. 278: 3671-3678, 2003.
+
+3. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+4. Sugawara, K.; Suzuki, N. N.; Fujioka, Y.; Mizushima, N.; Ohsumi,
+Y.; Inagaki, F.: Structural basis for the specificity and catalysis
+of human Atg4B responsible for the mammalian autophagy. J. Biol.
+Chem. 280: 40058-40065, 2005.
+
+CREATED Patricia A. Hartz: 8/16/2007
+
+EDITED mgross: 08/16/2007
+
+605298	TITLE *605298 DOWN SYNDROME CRITICAL REGION GENE 3; DSCR3
+;;DOWN SYNDROME CRITICAL REGION GENE A; DSCRA
+DESCRIPTION Down syndrome (190685), which is characterized by distinct facial and
+physical features and mental retardation, is caused by trisomy 21 and is
+the most common birth defect. The Down syndrome critical region (DSCR)
+extends from DNA marker D21S55 to ERG (165080) in 21q22.2.
+
+By GRAIL analysis of a DSCR contig, searching an EST database, and
+RT-PCR, Nakamura et al. (1997) identified a cDNA encoding DSCR3, which
+they termed DCRA. The deduced 297-amino acid DSCR3 protein is 92%
+identical to mouse Dscr3. Northern blot analysis detected a 3.3-kb DSCR3
+transcript in fetal brain, heart, lung, liver, and kidney, and adult
+brain, heart, placenta, lung, liver, skeletal muscle, kidney, and
+pancreas; a 4-kb transcript was also detected in adult skeletal muscle.
+
+REFERENCE 1. Nakamura, A.; Hattori, M.; Sakaki, Y.: Isolation of a novel human
+gene from the Down syndrome critical region of chromosome 21q22.2. J.
+Biochem. 122: 872-877, 1997.
+
+CREATED Paul J. Converse: 9/27/2000
+
+EDITED mgross: 09/27/2000
+
+186760	TITLE *186760 ANTIGEN CD28; CD28
+;;T-CELL ANTIGEN CD28;;
+Tp44
+DESCRIPTION 
+DESCRIPTION
+
+CD28 costimulation is essential for CD4 (186940)-positive T-cell
+proliferation, survival, interleukin-2 (IL2; 147680) production, and
+T-helper type-2 (Th2) development.
+
+CLONING
+
+Monoclonal antibodies recognize 3 antigens, CD3 (186790), CD2 (186990),
+and CD28 (Tp44), that cause human T cells to proliferate in the presence
+of phorbol esters. Whereas CD3 appeared to be involved in transduction
+of the signal generated by antigen binding to the T-cell receptor, the
+role of the CD2 and CD28 antigens in physiologic proliferation was not
+understood. Aruffo and Seed (1987) isolated a cDNA clone encoding CD28
+by a simple and highly efficient cloning strategy based on transient
+expression. In COS cells the CD28 encodes a highly glycosylated membrane
+protein with homology to the immunoglobulin superfamily.
+
+Magistrelli et al. (1999) identified 3 CD28 splice variants in
+nonactivated T cells: CD28a, which lacks exon 3, leading to loss of the
+transmembrane domain; CD28b, which lacks most of the 3-prime end of exon
+2 and exon 3; and CD28c, which lacks exon 2 and exon 3. CD28b and CD28c
+were expressed at a low level relative to CD28a. Magistrelli et al.
+(1999) suggested that resting T cells may constitutively express both
+membrane and soluble CD28, potentially regulating the T-cell response at
+different levels.
+
+GENE FUNCTION
+
+Harada et al. (2003) noted that the CD28 cytoplasmic domain contains a
+YMNM motif, which binds PI3K (see 601232) and GRB2 (108355), whereas the
+corresponding region of ICOS (604558) contains a YMFM motif, which binds
+the former but not the latter. Harada et al. (2003) hypothesized that
+the reason CD28 signaling, but not ICOS signaling, induces IL2
+production is its ability to bind GRB2. To test this hypothesis, they
+generated mutant ICOS containing the YMNM motif of CD28. This alteration
+allowed ICOS to activate the IL2 promoter, and further analysis showed
+that GRB2 binding to ICOS led to activation of the NFAT (see 600490)/AP1
+(165160) site in the IL2 promoter. Harada et al. (2003) concluded that
+the difference of a single amino acid defines a functional difference
+between CD28- and ICOS-mediated costimulatory signals.
+
+By a comprehensive structure-function analysis of the mouse Cd28
+cytoplasmic tail, Andres et al. (2004) found that Il2 production and
+T-cell proliferation did not require a particular cytoplasmic domain.
+However, Il4 (147780) production was driven by cooperative activity of
+at least 2 structural motifs, a pro-rich motif at residues 187 to 190
+and tyr residues at positions 170 and 188, within the Cd28 cytoplasmic
+tail. A gene complementation approach determined that Pdk1 (605213), but
+not Itk (186973) or Akt (164730), in an Akt-independent pathway,
+mediated a component of the Il4 signal induced by Cd28.
+
+CTLA4 shares 2 ligands, CD80 (112203) and CD86 (601020), with a
+stimulatory receptor, CD28. Qureshi et al. (2011) showed that CTLA4 can
+capture its ligands from opposing cells by a process of
+trans-endocytosis. After removal, these costimulatory ligands are
+degraded inside CTLA4-expressing cells, resulting in impaired
+costimulation via CD28. Acquisition of CD86 from antigen-presenting
+cells is stimulated by T cell receptor engagement and observed in vitro
+and in vivo. Qureshi et al. (2011) concluded that their data revealed a
+mechanism of immune regulation in which CTLA4 acts as an effector
+molecule to inhibit CD28 costimulation by the cell-extrinsic depletion
+of ligands, accounting for many of the features of the CD28-CTLA4
+system.
+
+GENE STRUCTURE
+
+Lee et al. (1990) found that the CD28 gene is present in single copy and
+is organized into 4 exons, each of which defines a functional domain of
+the predicted protein. Posttranslational processing appears to result in
+variant isotypes of CD28 with potentially different physiologic roles on
+the cell surface.
+
+MAPPING
+
+Using in situ hybridization on prometaphase cells, Lafage-Pochitaloff et
+al. (1990) demonstrated that the CD28 gene maps to 2q33-q34. The CTLA4
+gene (123890) maps to the same region. Both are members of the Ig
+superfamily, where they define a subgroup of membrane-bound single V
+domains. The chromosomal proximity of CD28 and CTLA4 and their close
+structural relationship suggest that these 2 genes resulted from
+duplication of a common evolutionary precursor and that they share some
+functional properties. By means of intersubspecific crosses, Howard et
+al. (1991) mapped the Cd28 gene to the proximal part of mouse chromosome
+1. By study of yeast artificial chromosomes (YAC), Buonavista et al.
+(1992) demonstrated that the CD28 and CTLA4 genes were in the same
+fragment, indicating that they were separated by only 25 to 150 kb. A
+CpG island was found between these genes.
+
+ANIMAL MODEL
+
+CD28 undergoes tyrosine phosphorylation after interacting with its
+ligand, B7 (CD80; 112203). Phosphorylation of tyr173 (tyr170 in mouse)
+in the cytoplasmic domain of CD28 allows the recruitment of signaling
+proteins such as phosphatidylinositol 3-kinase (see PIK3R1; 171833),
+GRB2 (108355), and GADS (GRAP2; 604518) via their SH2 domains. Okkenhaug
+et al. (2001) reconstituted CD28 knockout mice with transgenes encoding
+wildtype Cd28 or Cd28 carrying a tyr170-to-phe mutation. Mutant Cd28 did
+not bind to the SH2 domain of PIK3R1, resulting in diminished protein
+kinase B (164730) activation. Mutant Cd28 was able to prevent the
+induction of anergy, to promote T-cell proliferation and IL2 secretion,
+and to provide B-cell help, but was unable to upregulate expression of
+the prosurvival protein BCLXL (600039). The defect in BCLXL upregulation
+was correlated with increased susceptibility of the T cells to gamma
+radiation. Okkenhaug et al. (2001) suggested that other tyrosine
+residues or asn172 may be critical to functions not affected by the
+tyr170-to-phe mutation.
+
+ADDITIONAL REFERENCES Lesslauer et al. (1988)
+REFERENCE 1. Andres, P. G.; Howland, K. C.; Nirula, A.; Kane, L. P.; Barron,
+L.; Dresnek, D.; Sadra, A.; Imboden, J.; Weiss, A.; Abbas, A. K.:
+Distinct regions in the CD28 cytoplasmic domain are required for T
+helper type 2 differentiation. Nature Immun. 5: 435-442, 2004.
+
+2. Aruffo, A.; Seed, B.: Molecular cloning of a CD28 cDNA by a high-efficiency
+COS cell expression system. Proc. Nat. Acad. Sci. 84: 8573-8577,
+1987.
+
+3. Buonavista, N.; Balzano, C.; Pontarotti, P.; Le Paslier, D.; Golstein,
+P.: Molecular linkage of the human CTLA4 and CD28 Ig-superfamily
+genes in yeast artificial chromosomes. Genomics 13: 856-861, 1992.
+
+4. Harada, Y.; Ohgai, D.; Watanabe, R.; Okano, K.; Koiwai, O.; Tanabe,
+K.; Toma, H.; Altman, A.; Abe, R.: A single amino acid alteration
+in cytoplasmic domain determines IL-2 promoter activation by ligation
+of CD28 but not inducible costimulator (ICOS). J. Exp. Med. 197:
+257-262, 2003.
+
+5. Howard, T. A.; Rochelle, J. M.; Seldin, M. F.: Cd28 and Ctla-4,
+two related members of the Ig supergene family, are tightly linked
+on proximal mouse chromosome 1. Immunogenetics 33: 74-76, 1991.
+
+6. Lafage-Pochitaloff, M.; Costello, R.; Couez, D.; Simonetti, J.;
+Mannoni, P.; Mawas, C.; Olive, D.: Human CD28 and CTLA-4 Ig superfamily
+genes are located on chromosome 2 at bands q33-q34. Immunogenetics 31:
+198-201, 1990.
+
+7. Lee, K. P.; Taylor, C.; Petryniak, B.; Turka, L. A.; June, C. H.;
+Thompson, C. B.: The genomic organization of the CD28 gene: implications
+for the regulation of CD28 mRNA expression and heterogeneity. J.
+Immun. 145: 344-352, 1990.
+
+8. Lesslauer, W.; Gmunder, H.; Bohlen, P.: Purification and N-terminal
+amino acid sequence of the human T90/44 (CD28) antigen. Immunogenetics 27:
+388-391, 1988.
+
+9. Magistrelli, G.; Jeannin, P.; Elson, G.; Gauchat, J.-F.; NGuyen,
+T. N.; Bonnefoy, J.-Y.; Delneste, Y.: Identification of three alternatively
+spliced variants of human CD28 mRNA. Biochem. Biophys. Res. Commun. 259:
+34-37, 1999.
+
+10. Okkenhaug, K.; Wu, L.; Garza, K. M.; La Rose, J.; Khoo, W.; Odermatt,
+B.; Mak, T. W.; Ohashi, P. S.; Rottapel, R.: A point mutation in
+CD28 distinguishes proliferative signals from survival signals. Nature
+Immun. 2: 325-332, 2001.
+
+11. Qureshi, O. S.; Zheng, Y.; Nakamura, K.; Attridge, K.; Manzotti,
+C.; Schmidt, E. M.; Baker, J.; Jeffery, L. E.; Kaur, S.; Briggs, Z.;
+Hou, T. Z.; Futter, C. E.; Anderson, G.; Walker, L. S. K.; Sansom,
+D. M.: Trans-endocytosis of CD80 and CD86: a molecular basis for
+the cell-extrinsic function of CTLA-4. Science 332: 600-603, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 06/21/2011
+Paul J. Converse - updated: 1/13/2006
+Paul J. Converse - updated: 10/14/2004
+Paul J. Converse - updated: 4/5/2004
+Paul J. Converse - updated: 7/10/2001
+
+CREATED Victor A. McKusick: 12/10/1987
+
+EDITED alopez: 06/21/2011
+wwang: 9/23/2009
+carol: 1/19/2006
+mgross: 1/13/2006
+mgross: 10/14/2004
+alopez: 5/3/2004
+mgross: 4/5/2004
+mgross: 7/10/2001
+mark: 8/25/1997
+carol: 7/21/1992
+supermim: 3/16/1992
+carol: 5/16/1991
+carol: 10/10/1990
+supermim: 9/28/1990
+supermim: 3/20/1990
+

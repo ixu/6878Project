@@ -1,0 +1,3204 @@
+611838	TITLE *611838 MITOCHONDRIAL RIBOSOMAL PROTEIN L30; MRPL30
+;;MRPL28
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+proteins essential for oxidative phosphorylation. MRPL30 is 1 of more
+than 70 protein components of mitochondrial ribosomes that are encoded
+by the nuclear genome (Kenmochi et al., 2001).
+
+CLONING
+
+By searching databases for homologs of rat Mrpl28, Goldschmidt-Reisin et
+al. (1998) identified mouse and human MRPL30, which they called MRPL28.
+The deduced 162-amino acid human MRPL30 protein contains a 34-amino acid
+N-terminal mitochondrial import signal.
+
+MAPPING
+
+By radiation hybrid analysis and analysis of an integrated BAC-STS map,
+Kenmochi et al. (2001) mapped the MRPL30 gene to chromosome 2q11.2.
+
+REFERENCE 1. Goldschmidt-Reisin, S.; Kitakawa, M.; Herfurth, E.; Wittmann-Liebold,
+B.; Grohmann, L.; Graack, H.-R.: Mammalian mitochondrial ribosomal
+proteins: N-terminal amino acid sequencing, characterization, and
+identification of corresponding gene sequences. J. Biol. Chemm. 273:
+34828-34836, 1998.
+
+2. Kenmochi, N.; Suzuki, T.; Uechi, T.; Magoori, M.; Kuniba, M.; Higa,
+S.; Watanabe, K.; Tanaka, T.: The human mitochondrial ribosomal protein
+genes: mapping of 54 genes to the chromosomes and implications for
+human disorders. Genomics 77: 65-70, 2001.
+
+CREATED Patricia A. Hartz: 2/26/2008
+
+EDITED mgross: 02/27/2008
+
+238310	TITLE *238310 AMINOMETHYLTRANSFERASE; AMT
+;;GLYCINE CLEAVAGE SYSTEM T PROTEIN; GCST
+DESCRIPTION 
+DESCRIPTION
+
+The enzyme system for cleavage of glycine (glycine cleavage system; EC
+2.1.2.10), which is confined to the mitochondria, is composed of 4
+protein components: P protein (a pyridoxal phosphate-dependent glycine
+decarboxylase; GLDC, 238300), H protein (a lipoic acid-containing
+protein; GCSH, 238330), T protein (a tetrahydrofolate-requiring enzyme),
+and L protein (a lipoamide dehydrogenase; DLD, 238331).
+
+Mutations in the T, P, and H proteins have been found to cause glycine
+encephalopathy (GCE; 605899).
+
+CLONING
+
+The T protein of the glycine cleavage system is also known as
+aminomethyltransferase (AMT). Nanao et al. (1994) isolated the AMT gene
+from a human placenta cosmid library. They found that the gene is about
+6 kb long and contains 9 exons. They identified 2 putative
+glucocorticoid-responsive elements and a putative thyroid
+hormone-responsive element. By dot-blot analysis, Kure et al. (2001)
+detected expression of AMT in all tissues tested except stomach and bone
+marrow.
+
+GENE FUNCTION
+
+Sakata et al. (2001) reported the structure and expression of the
+glycine cleavage system in rat central nervous system.
+
+MAPPING
+
+By fluorescence in situ hybridization, Nanao et al. (1994) assigned the
+AMT gene to 3p21.2-p21.1.
+
+MOLECULAR GENETICS
+
+In patients with glycine encephalopathy, Nanao et al. (1994) identified
+mutations in the AMT gene (238310.0001-238310.0002).
+
+Toone et al. (2000) studied 14 unrelated patients with glycine
+encephalopathy and identified mutations in 4 cases. In 2 patients,
+mutations were identified in the T protein: 1 patient was homozygous for
+an arg320-to-his mutation (R320H; 238310.0006), and the other patient
+was heterozygous for a novel glutamine-to-termination substitution at
+codon 192 (238310.0007).
+
+Applegarth and Toone (2001) reviewed the laboratory diagnosis of glycine
+encephalopathy and confirmed 9 mutations in the T protein and 8
+mutations in the P protein. They also reviewed the 7 cases of transient
+NKH known at that time.
+
+ALLELIC VARIANT .0001
+GLYCINE ENCEPHALOPATHY
+AMT, GLY269ASP
+
+Nanao et al. (1994) found that a patient with typical glycine
+encephalopathy (605899) was homozygous for a missense mutation in the
+AMT gene, a G-to-A transition leading to a gly-to-asp substitution at
+amino acid 269 (G269D).
+
+.0002
+GLYCINE ENCEPHALOPATHY
+AMT, GLY47ARG
+
+In 2 sisters with atypical glycine encephalopathy (605899), Nanao et al.
+(1994) found compound heterozygosity for 2 missense mutations in the T
+protein gene: a G-to-A transition leading to a gly-to-arg substitution
+at amino acid 47 (G47R) in 1 allele, and a G-to-A transition leading to
+an arg-to-his substitution at amino acid 320 (R320H; 238310.0006) in the
+other allele. Nanao et al. (1994) pointed out that gly269, which was
+mutant in the typically severe case they studied (see 238300.0001), is
+conserved in T proteins of various species, even in E. coli, whereas
+gly47 and arg320, which were mutant in the atypical and milder cases,
+are replaced by ala and leu, respectively, in E. coli. Thus, mutation
+occurring in more conservative amino acid residues results in more
+deleterious damage to the T protein and a more severe clinical
+phenotype.
+
+.0003
+GLYCINE ENCEPHALOPATHY
+AMT, HIS42ARG
+
+Kure et al. (1998) reported a large Israeli-Arab kindred with glycine
+encephalopathy (605899). Enzymatic analysis demonstrated that T-protein
+activity was deficient in the liver from 1 affected person in the
+family. Mutation detection revealed a missense mutation in exon 2
+resulting in an amino acid substitution from histidine to arginine at
+position 42 (his42 to arg). Homozygosity for the H42R mutation was seen
+in all affected members of the family.
+
+.0004
+GLYCINE ENCEPHALOPATHY
+AMT, 1-BP DEL, 183C
+
+In a Japanese patient with glycine encephalopathy (605899), Kure et al.
+(1998) described a 1-bp deletion (183delC) and a missense mutation,
+asp276 to his (238310.0005).
+
+.0005
+GLYCINE ENCEPHALOPATHY
+AMT, ASP276HIS
+
+In a Japanese patient with glycine encephalopathy (605899) of neonatal
+onset, Kure et al. (1998) found a G-to-C substitution at position 955 in
+exon 7, resulting in an amino acid change from aspartate to histidine at
+position 276.
+
+.0006
+GLYCINE ENCEPHALOPATHY
+AMT, ARG320HIS
+
+See 238310.0001 and Nanao et al. (1994).
+
+Toone et al. (2001) screened a DNA bank from 50 patients with
+enzymatically confirmed NKH and identified the arg320-to-his (R320H)
+mutation in 7% of alleles.
+
+.0007
+GLYCINE ENCEPHALOPATHY
+AMT, GLN192TER
+
+In a patient with neonatal-onset NKH (605899), Toone et al. (2000)
+identified a C-to-T transition resulting in a glutamine-to-termination
+codon substitution at residue 192 (Q192X). The other mutation in this
+patient was not identified.
+
+.0008
+GLYCINE ENCEPHALOPATHY
+AMT, IVS7, G-A, -1
+
+Toone et al. (2001) reported a novel splice site mutation at the -1
+position of intron 7 of the AMT gene: G was converted to A. This
+mutation was found in 3 unrelated families and was not found in any
+normal controls.
+
+ADDITIONAL REFERENCES Hayasaka et al. (1983); Toone et al. (2000)
+REFERENCE 1. Applegarth, D. A.; Toone, J. R.: Nonketotic hyperglycinemia (glycine
+encephalopathy): laboratory diagnosis. Molec. Genet. Metab. 74:
+139-146, 2001.
+
+2. Hayasaka, K.; Tada, K.; Kikuchi, G.; Winter, S.; Nyhan, W. L.:
+Nonketotic hyperglycinemia: two patients with primary defects of P-protein
+and T-protein, respectively, in the glycine cleavage system. Pediat.
+Res. 17: 967-970, 1983.
+
+3. Kure, S.; Kojima, K.; Kudo, T.; Kanno, K.; Aoki, Y.; Suzuki, Y.;
+Shinka, T.; Sakata, Y.; Narisawa, K.; Matsubara, Y.: Chromosomal
+localization, structure, single-nucleotide polymorphisms, and expression
+of the human H-protein gene of the glycine cleavage system (GCSH),
+a candidate gene for nonketotic hyperglycinemia. J. Hum. Genet. 46:
+378-384, 2001.
+
+4. Kure, S.; Mandel, H.; Rolland, M.-O.; Sakata, Y.; Shinka, T.; Drugan,
+A.; Boneh, A.; Tada, K.; Matsubara, Y.; Narisawa, K.: A missense
+mutation (his42arg) in the T-protein gene from a large Israeli-Arab
+kindred with nonketotic hyperglycinemia. Hum. Genet. 102: 430-434,
+1998.
+
+5. Kure, S.; Shinka, T.; Sakata, Y.; Osamu, N.; Takayanagi, M.; Tada,
+K.; Matsubara, Y.; Narisawa, K.: A one-base deletion (183delC) and
+a missense mutation (D276H) in the T-protein gene from a Japanese
+family with nonketotic hyperglycinemia. J. Hum. Genet. 43: 135-137,
+1998.
+
+6. Nanao, K.; Okamura-Ikeda, K.; Motokawa, Y.; Danks, D. M.; Baumgartner,
+E. R.; Takada, G.; Hayasaka, K.: Identification of the mutations
+in the T-protein gene causing typical and atypical nonketotic hyperglycinemia. Hum.
+Genet. 93: 655-658, 1994.
+
+7. Nanao, K.; Takada, G.; Takahashi, E.; Seki, N.; Komatsu, Y.; Okamura-Ikeda,
+K.; Motokawa, Y.; Hayasaka, K.: Structure and chromosomal localization
+of the aminomethyltransferase gene (AMT). Genomics 19: 27-30, 1994.
+Note: Erratum: Genomics 20: 519 only, 1994.
+
+8. Sakata, Y.; Owada, Y.; Sato, K.; Kojima, K.; Hisanaga, K.; Shinka,
+T.; Suzuki, Y.; Aoki, Y.; Satoh, J.; Kondo, H.; Matsubara, Y.; Kure,
+S.: Structure and expression of the glycine cleavage system in rat
+central nervous system. Molec. Brain Res. 94: 119-130, 2001.
+
+9. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Biochemical and molecular investigations of patients with
+nonketotic hyperglycemia. Molec. Genet. Metab. 70: 116-121, 2000.
+
+10. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Recurrent mutations in P- and T-proteins of the glycine cleavage
+complex and a novel T-protein mutation (N145I): a strategy for the
+molecular investigation of patients with nonketotic hyperglycinemia
+(NKH). Molec. Genet. Metab. 72: 322-325, 2001.
+
+11. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Identification of the first reported splice site mutation
+(IVS7-1G-A) in the aminomethyltransferase (T-protein) gene (AMT) of
+the glycine cleavage complex in 3 unrelated families with nonketotic
+hyperglycinemia. (Abstract) Hum. Mutat. 17: 76 only, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/20/2002
+Victor A. McKusick - updated: 8/10/2001
+Ada Hamosh - updated: 5/2/2001
+Clair A. Francomano - updated: 6/16/1998
+Clair A. Francomano - updated: 5/26/1998
+Beat Steinmann - updated: 1/17/1997
+
+CREATED Victor A. McKusick: 6/3/1986
+
+EDITED terry: 09/24/2012
+carol: 8/4/2010
+terry: 3/11/2002
+alopez: 2/25/2002
+terry: 2/20/2002
+mcapotos: 8/10/2001
+carol: 6/22/2001
+carol: 5/3/2001
+carol: 5/2/2001
+carol: 4/17/2000
+carol: 4/6/2000
+carol: 4/4/2000
+carol: 7/16/1998
+carol: 6/19/1998
+terry: 6/16/1998
+carol: 5/30/1998
+carol: 5/26/1998
+dholmes: 5/21/1998
+joanna: 1/17/1997
+mimadm: 2/19/1994
+carol: 2/7/1994
+carol: 8/17/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/21/1989
+
+600756	TITLE *600756 PROTEIN PHOSPHATASE 2, REGULATORY SUBUNIT B-PRIME; PPP2R4
+;;PROTEIN PHOSPHATASE 2A, REGULATORY SUBUNIT B-PRIME;;
+PHOSPHOTYROSYL PHOSPHATASE ACTIVATOR; PTPA;;
+PR53
+DESCRIPTION 
+DESCRIPTION
+
+PPP2R4, or PTPA, encodes a specific phosphotyrosyl phosphatase activator
+of the dimeric form of protein phosphatase-2A (PP2A; see 176915) (Van
+Hoof et al., 1995).
+
+GENE FUNCTION
+
+The core component of PP2A consists of a catalytic (C) subunit (e.g.,
+PPP2CA; 176915) and a scaffold protein (A) subunit (e.g., PPP2R1A;
+605983). Using purified recombinant proteins, Chao et al. (2006) found
+that PTPA and PP2A A-C dimers constituted a composite ATPase, and the
+interaction was independent of ATP or magnesium ion. The inclusion of
+PTPA altered the substrate specificity of PP2A, with enhanced
+phosphotyrosine phosphatase activity and decreased phosphoserine
+phosphatase activity.
+
+BIOCHEMICAL FEATURES
+
+Chao et al. (2006) reported the 1.9-angstrom crystal structure of human
+PTPA, which revealed a fold consisting of a core, a lid, and an extended
+linker joining the core and lid. Structural analysis uncovered a highly
+conserved surface patch bordering these 3 subdomains, as well as an
+associated deep pocket between the core and linker subdomains. Further
+analysis showed that the surface patch binds the PP2A A-C dimer, and the
+deep pocket binds ATP.
+
+GENE STRUCTURE
+
+Van Hoof et al. (1995) demonstrated that human PTPA is encoded by a
+single-copy gene composed of 10 exons and 9 introns with a total length
+of about 60 kb. The 5-prime flanking sequence of the transcription start
+site was analyzed for its potential as a promoter. This region lacks a
+TATA sequence in the appropriate position relative to the transcription
+start. However, this region is very GC-rich and contains 4 Sp1 sites
+(SP1; 189906) upstream of the transcription start site, a feature common
+to many TATA-less promoters. Based on homology with DNA-binding
+consensus sequences of transcription factors, Van Hoof et al. (1995)
+identified several additional putative transcription factor binding
+sites in the promoter region. Transfection experiments with a construct
+containing the PTPA promoter region inserted 5-prime of a luciferase
+reporter gene demonstrated that the 5-prime flanking sequence of the
+PTPA gene indeed has promoter activity that seems to be cell-line
+dependent.
+
+MAPPING
+
+By fluorescence in situ hybridization, Van Hoof et al. (1995) mapped the
+PTPA gene to 9q34. Fluorescence in situ analysis of metaphase
+chromosomes of patients bearing the Philadelphia chromosome indicated
+that PTPA is positioned centromeric of ABL1 (189980) and probably is not
+involved in chronic myeloid leukemia.
+
+ADDITIONAL REFERENCES McCright et al. (1996)
+REFERENCE 1. Chao, Y.; Xing, Y.; Chen, Y.; Xu, Y.; Lin, Z.; Li, Z.; Jeffrey,
+P. D.; Stock, J. B.; Shi, Y.: Structure and mechanism of the phosphotyrosyl
+phosphatase activator. Molec. Cell 23: 535-546, 2006.
+
+2. McCright, B.; Rivers, A. M.; Audlin, S.; Virshup, D. M.: The B56
+family of protein phosphatase 2A (PP2A) regulatory subunits encodes
+differentiation-induced phosphoproteins that target PP2A to both nucleus
+and cytoplasm. J. Biol. Chem. 271: 22081-22089, 1996.
+
+3. Van Hoof, C.; Aly, M. S.; Garcia, A.; Cayla, X.; Cassiman, J. J.;
+Merlevede, W.; Goris, J.: Structure and chromosomal localization
+of the human gene of the phosphotyrosyl phosphatase activator (PTPA)
+of protein phosphatase 2A. Genomics 28: 261-272, 1995.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/1/2006
+Jennifer P. Macke - updated: 4/14/1997
+
+CREATED Victor A. McKusick: 8/29/1995
+
+EDITED mgross: 02/04/2009
+mgross: 12/1/2006
+terry: 11/1/2006
+mgross: 3/15/2006
+carol: 12/3/2004
+alopez: 5/5/1997
+alopez: 4/14/1997
+mark: 8/29/1995
+
+603894	TITLE *603894 REGULATOR OF G PROTEIN SIGNALING 6; RGS6
+DESCRIPTION 
+DESCRIPTION
+
+Members of the RGS (regulator of G protein signaling) family, such as
+RGS6, modulate G protein function by activating the intrinsic GTPase
+activity of the alpha (guanine nucleotide-binding) subunits (Seki et
+al., 1999).
+
+CLONING
+
+By EST database analysis and PCR of a brain cDNA library, Posner et al.
+(1999) obtained a full-length cDNA encoding RGS6. The predicted
+472-amino acid protein has a calculated molecular mass of 54.4 kD. It
+contains an N-terminal dishevelled (see 601365)/egl10/pleckstrin
+(173570) (DEP) domain, a central G protein gamma subunit (see GNG2;
+606981)-like (GGL) domain, and an RGS domain near the C terminus.
+
+Using RT-PCR, Seki et al. (1999) showed that RGS6 was expressed in
+various tissues.
+
+By PCR of a brain cDNA library, Chatterjee et al. (2003) identified 36
+RGS6 splice variants resulting from the use of 2 alternative
+transcription sites and complex alternative splicing. The variants
+encode proteins with long or short N-terminal domains, complete or
+incomplete GGL domains, 7 distinct C-terminal domains, and a common
+internal domain that includes the RGS domain.
+
+GENE FUNCTION
+
+Posner et al. (1999) expressed RGS6 in insect cells and found that it
+formed a cytosolic heterodimer via its GGL domain with the G protein
+beta-5 (GNB5; 604447) subunit, but not with other G protein beta
+subunits tested. The RGS6/GNB5 complex acted as a GTPase-activating
+protein, but it did not form heterotrimeric complexes with G-alpha-o
+(GNAO1; 139311)-GDP or G-alpha-q (GNAQ; 600998)-GDP, it did not alter
+activity of adenyl cyclase types I, II, or V, and it did not activate
+phospholipase C-beta-1 (PLCB1; 607120) or PLCB2 (604114). However, the
+RGS6/GNB5 complex inhibited GNB1/GNG2-mediated activation of PLCB2.
+
+Chatterjee et al. (2003) found that RGS6 isoforms with complete GGL
+domains interacted with GNB5, irrespective of their N-terminal domain,
+following expression in COS-7 cells. In contrast, RGS6 isoforms lacking
+a complete GGL domain did not interact with GNB5. Subcellular
+distribution patterns for RGS6 isoforms ranged from exclusively
+cytoplasmic to exclusively nuclear/nucleolar, and coexpression of GNB5
+promoted nuclear localization of RGS6 isoforms.
+
+GENE STRUCTURE
+
+Sierra et al. (2002) determined that the RGS6 gene contains 17 exons.
+Chatterjee et al. (2003) determined that the RGS6 gene contains 20 exons
+and spans 630 kb.
+
+MAPPING
+
+By somatic cell and radiation hybrid analysis, Seki et al. (1999) mapped
+the RGS6 gene to chromosome 14q24.3.
+
+MOLECULAR GENETICS
+
+In an epidemiologic study of 477 bladder cancer patients and 446 matched
+controls, Berman et al. (2004) identified 3 noncoding SNPs in RGS2
+(600861) and RGS6 that were each associated with a significantly reduced
+risk of bladder cancer. When analyzed separately, a C-to-T SNP in the
+3-prime UTR of RGS6, dbSNP rs2074647, conferred the greatest overall
+reduction in bladder cancer risk, with a significant odds ratio of 0.66.
+The reduction of risk was more pronounced in those who had ever smoked.
+Expression of dbSNP rs2074647 increased the activity of a luciferase-RGS
+fusion protein nearly 3-fold. PCR analysis confirmed that RGS6 splice
+variants were expressed in bladder cancer tissue and cell lines. Berman
+et al. (2004) proposed that RGS proteins may be important modulators of
+cancer risk.
+
+REFERENCE 1. Berman, D. M.; Wang, Y.; Liu, Z.; Dong, Q.; Burke, L.-A.; Liotta,
+L. A.; Fisher, R.; Wu, X.: A functional polymorphism in RGS6 modulates
+the risk of bladder cancer. Cancer Res. 64: 6820-6826, 2004.
+
+2. Chatterjee, T. K.; Liu, Z.; Fisher, R. A.: Human RGS6 gene structure,
+complex alternative splicing, and role of N terminus and G protein
+gamma-subunit-like (GGL) domain in subcellular localization of RGS6
+splice variants. J. Biol. Chem. 278: 30261-30271, 2003.
+
+3. Posner, B. A.; Gilman, A. G.; Harris, B. A.: Regulators of G protein
+signaling 6 and 7: purification of complexes with G-beta-5 and assessment
+of their effects on G protein-mediated signaling pathways. J. Biol.
+Chem. 274: 31087-31093, 1999.
+
+4. Seki, N.; Hattori, A.; Hayashi, A.; Kozuma, S.; Hori, T.; Saito,
+T.: The human regulator of G-protein signaling protein 6 gene (RGS6)
+maps between markers WI-5202 and D14S277 on chromosome 14q24.3. J.
+Hum. Genet. 44: 138-140, 1999.
+
+5. Sierra, D. A.; Gilbert, D. J.; Householder, D.; Grishin, N. V.;
+Yu, K.; Ukidwe, P.; Barker, S. A.; He, W.; Wensel, T. G.; Otero, G.;
+Brown, G.; Copeland, N. G.; Jenkins, N. A.; Wilkie, T. M.: Evolution
+of the regulators of G-protein signaling multigene family in mouse
+and human. Genomics 79: 177-185, 2002.
+
+CONTRIBUTORS Paul J. Converse - updated: 10/22/2008
+Patricia A. Hartz - updated: 9/12/2002
+
+CREATED Rebekah S. Rasooly: 6/11/1999
+
+EDITED mgross: 10/22/2008
+mgross: 9/12/2002
+jlewis: 6/14/1999
+jlewis: 6/11/1999
+
+610603	TITLE *610603 AlkB, E. COLI, HOMOLOG OF, 3; ALKBH3
+;;PROSTATE CANCER ANTIGEN 1; PCA1;;
+DEPC1;;
+ABH3
+DESCRIPTION 
+DESCRIPTION
+
+The Escherichia coli AlkB protein protects against the cytotoxicity of
+methylating agents by repair of the specific DNA lesions generated in
+single-stranded DNA. ALKBH2 (610602) and ALKBH3 are E. coli AlkB
+homologs that catalyze the removal of 1-methyladenine and
+3-methylcytosine (Duncan et al., 2002).
+
+CLONING
+
+By searching human genomic and cDNA databases with ALKBH1 (605345) as
+query, Duncan et al. (2002) obtained a full-length cDNA of ALKBH3. The
+deduced protein shares 23.1% amino acid identity over the core region
+with E. coli AlkB and shares similarity to
+alpha-ketoglutarate/Fe(II)-dependent dioxygenases in the C-terminal
+region. It has a predicted tertiary structure with high similarity to
+the crystal structure of known dioxygenases. Northern blot analysis
+detected ALKBH3 expression in all tissues examined, as well as several
+carcinoma cell lines, with highest expression in spleen, prostate,
+bladder and colon. Immunofluorescence studies localized ALKBH3 to the
+nucleus in a diffuse pattern and to the cytoplasm.
+
+Using fluorescent differential display analysis to identify genes
+upregulated in prostate cancer, followed by RT-PCR and 5-prime RACE,
+Konishi et al. (2005) cloned ALKBH3, which they called PCA1. The deduced
+286-amino acid protein has an N-terminal signal sequence and a
+C-terminal 2-oxoglutarate/Fe(II)-dependent oxygenase domain.
+Quantitative real-time PCR detected PCA1 in all tissues examined, with
+highest expression in pancreas and testis. Western blot analysis of
+prostate cancer cell lines detected PCA1 at an apparent molecular mass
+of about 40 kD. Immunohistochemical analysis revealed that 90% (63 of
+70) prostate cancer specimens were positive for PCA1. Staining was
+confined to cancerous cells in the prostate tissue sample and was most
+often exhibited by atypical epithelia in high-grade prostatic
+intraepithelial neoplasias. Little to no staining was seen in adjacent
+normal epithelium, in benign prostatic hyperplasia, or in several other
+cancers tested.
+
+Using quantitative real-time PCR, Tsujikawa et al. (2007) found variable
+ABH3 expression in all 16 tissues examined, with highest expression in
+pancreas, followed by ovary, liver, and testis. Fluorescence-tagged ABH3
+was expressed diffusely in the cytoplasm and more strongly in the
+nucleus of transfected HeLa cells
+
+GENE FUNCTION
+
+Using purified GST- and histidine-tagged ALKBH3 overexpressed in E.
+coli, Duncan et al. (2002) showed that ALKBH3 catalyzed the removal of
+both 1-methyladenine and 3-methylcytosine from methylated
+polynucleotides. ALKBH3 directly reverted 3-methylcytosine to cytosine
+and can also repair ethylated DNA bases through a mechanism similar to
+E. coli AlkB activity.
+
+By examining PCA1-transfected and control COS-7 cells, Konishi et al.
+(2005) demonstrated that PCA1 conferred resistance against methylmethane
+sulfonate-induced cell damage, indicative of demethylation activity.
+
+GENE STRUCTURE
+
+Konishi et al. (2005) determined that the ALKBH3 gene contains at least
+10 exons.
+
+MAPPING
+
+By genomic sequence analysis, Duncan et al. (2002) mapped the ALKBH3
+gene to chromosome 11q11. By genomic sequence analysis, Konishi et al.
+(2005) mapped the ALKBH3 gene to chromosome 11p11.12.
+
+ANIMAL MODEL
+
+Ringvoll et al. (2006) generated mice with targeted disruption of Abh2
+(ALKBH2; 610602), Abh3, and Abh2/Abh3 double-knockout mice. Both single-
+and double-knockout mice were viable and appeared normal into adulthood.
+Using genomic DNA isolated from liver samples, the authors showed that
+Abh2-null mice displayed an increased accumulation of 1-methyladenine
+compared to wildtype and Abh3-null mice. Embryonic fibroblasts derived
+from Abh2-null mice exhibited a decreased ability to remove methyl
+methane sulfate (MMS)-induced 1-methyladenine from genomic DNA compared
+to fibroblasts from both wildtype and Abh3-null mice. Ringvoll et al.
+(2006) concluded that Abh2 and Abh3 have different roles in repair of
+DNA damage caused by alkylating agents with Abh2 being the primary
+oxidative demethylase for repair of 1-methyladenine and 3-methylcytosine
+in double-stranded DNA.
+
+REFERENCE 1. Duncan, T.; Trewick, S.; Koivisto, P.; Bates, P. A.; Lindahl, T.;
+Sedgwick, B.: Reversal of DNA alkylation damage by two human dioxygenases. Proc.
+Nat. Acad. Sci. 99: 16660-16665, 2002.
+
+2. Konishi, N.; Nakamura, M.; Ishida, E.; Shimada, K.; Mitsui, E.;
+Yoshikawa, R.; Yamamoto, H.; Tsujikawa, K.: High expression of a
+new parker PCA-1 in human prostate carcinoma. Clin. Cancer Res. 11:
+5090-5097, 2005.
+
+3. Ringvoll, J.; Nordstrand, L. M.; Vagbo, C. B.; Talstad, V.; Reite,
+K.; Aas, P. A.; Lauritzen, K. H.; Liabakk, N. B.; Bjork, A.; Doughty,
+R. W.; Falnes, P. O.; Krokan, H. E.; Klungland, A.: Repair deficient
+mice reveal mABH2 as the primary oxidative demethylase for repairing
+1meA and 3meC lesions in DNA. EMBO J. 25: 2189-2198, 2006.
+
+4. Tsujikawa, K.; Koike, K.; Kitae, K.; Shinkawa, A.; Arima, H.; Suzuki,
+T.; Tsuchiya, M.; Makino, Y.; Furukawa, T.; Konishi, N.; Yamamoto,
+H.: Expression and sub-cellular localization of human ABH family
+molecules. J. Cell. Molec. Med. 11: 1105-1116, 2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 03/12/2010
+Patricia A. Hartz - updated: 11/29/2006
+
+CREATED Dorothy S. Reilly: 11/27/2006
+
+EDITED mgross: 03/12/2010
+alopez: 6/2/2008
+terry: 5/23/2008
+wwang: 11/29/2006
+wwang: 11/28/2006
+
+613664	TITLE *613664 SMOOTHELIN-LIKE 1; SMTNL1
+;;CALPONIN HOMOLOGY-ASSOCIATED SMOOTH MUSCLE PROTEIN; CHASM
+DESCRIPTION 
+DESCRIPTION
+
+SMTNL1, which is a member of the smoothelin (SMTN; 602127) family,
+regulates contraction and relaxation of skeletal and smooth muscle
+fibers and mediates vascular adaptation to exercise (Wooldridge et al.,
+2008).
+
+CLONING
+
+Borman et al. (2004) cloned mouse Smtnl1, which they called Chasm. The
+deduced 459-amino acid protein contains a C-terminal calponin homology
+(CH) domain and a single potential serine phosphorylation site.
+
+Using Western blot analysis, Wooldridge et al. (2008) showed that Smtnl1
+was expressed in mouse skeletal muscle and heart and in tissues
+containing smooth muscle. Smtnl1 was preferentially expressed in
+striated muscles containing type 1 or type 2a fibers. Immunofluorescence
+confocal microscopy revealed that Smtnl1 localized to the I band and M
+line, but was absent in the Z line. In human muscle, SMTNL1 expression
+appeared specific to type 2a fibers.
+
+GENE FUNCTION
+
+Smooth muscle can relax passively due to removal of the contractile
+stimulus, or it can relax actively via cyclin nucleotide-dependent
+protein kinases, such as PKA (see 176911) without a change in
+contractile stimuli or intracellular calcium concentration, a phenomena
+called calcium desensitization. Borman et al. (2004) showed that mouse
+Chasm could relax permeabilized and submaximally contracted rabbit ileum
+smooth muscle in a concentration-dependent manner. Chasm was
+phosphorylated by PKA and PKG (see 176894) in vitro at the single serine
+phosphorylation site, and Chasm was phosphorylated during the early
+stages of smooth muscle relaxation.
+
+Wooldridge et al. (2008) found that dephosphorylated mouse Smtnl1
+inhibited the activity of mouse myosin phosphatase (see 603768), while
+phosphorylation of Smtnl1 by PKA or PKG inactivated Smtnl1 and permitted
+myosin dephosphorylation. In both isolated smooth and striated mouse
+muscle, Smtnl1 was serine phosphorylated in response to agonists that
+elevate intracellular cAMP or cGMP. Maximal phosphorylation of Smtnl1
+correlated with maximal relaxation of aorta in response to
+acetylcholine.
+
+Lontay et al. (2010) showed that the expression of SMTNL1 was
+upregulated in uterus during pregnancy in humans and mice. In mice,
+pregnancy induced the expression of Smtnl1 in vascular and uterine
+smooth muscle and in type 2a skeletal muscle fibers, and appeared to be
+regulated by sex hormones. A concomitant increase in the myosin
+phosphatase subunit Mypt1 (PPP1R12A; 602021) was also observed.
+Coimmunoprecipitation experiments and immunofluorescence microscopy
+revealed that Smtnl1 bound and colocalized with Mypt1 in diffuse
+cytosolic and discrete nuclear localizations. Agonist-dependent
+phosphorylation of Smtnl1 resulted in its nuclear translocation.
+
+MAPPING
+
+Hartz (2010) mapped the SMTNL1 gene to chromosome 11q12.1 based on an
+alignment of the SMTNL1 sequence (GenBank GENBANK AA111832) with the
+genomic sequence (GRCh37).
+
+ANIMAL MODEL
+
+Wooldridge et al. (2008) found that deletion of Smtnl1 in mice had no
+effect on basal activity, litter size, or embryonic development.
+However, Smtnl1 -/- mice showed a PKA/PKG-mediated adaption to exercise,
+exhibiting better exercise performance and improved
+vasorelaxation/contractile responses compared with wildtype littermates.
+Expression of Smtnl1 in wildtype animals was reduced with exercise, and
+this effect was stronger in female mice. Vascular smooth muscle from
+sedentary and exercise-trained female Smtnl1 -/- mice exhibited more
+significant changes in responsiveness to beta- and alpha-adrenergic
+agonists than their male counterparts. Exercise also induced more
+significant reduction of Smtnl1 expression in females compared with
+males. Striated muscle from male Smtnl1 -/- mice showed a greater
+tendency to switch to an oxidative phenotype. Wooldridge et al. (2008)
+concluded that receptor-mediated pathways can acutely regulate SMTNL1
+function through serine phosphorylation, whereas exercise achieves the
+same effect by reducing SMTNL1 expression.
+
+Lontay et al. (2010) found that pregnant Smtnl1 -/- mice showed
+increased expression of Mypt1 in vascular and uterine smooth muscle, and
+isolated thoracic aorta from pregnant Smtn1l -/- females showed profound
+reduction in isometric force compared with aorta from pregnant wildtype
+females.
+
+REFERENCE 1. Borman, M. A.; MacDonald, J. A.; Haystead, T. A. J.: Modulation
+of smooth muscle contractility by CHASM, a novel member of the smoothelin
+family of proteins. FEBS Lett. 573: 207-213, 2004.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  12/2/2010.
+
+3. Lontay, B.; Bodoor, K.; Weitzel, D. H.; Loiselle, D.; Fortner,
+C.; Lengyel, S.; Zheng, D.; Devente, J.; Hickner, R.; Haystead, T.
+A. J.: Smoothelin-like 1 protein regulates myosin phosphatase-targeting
+subunit 1 expression during sexual development and pregnancy. J.
+Biol. Chem. 285: 29357-29366, 2010.
+
+4. Wooldridge, A. A.; Fortner, C. N.; Lontay, B.; Akimoto, T.; Neppl,
+R. L.; Facemire, C.; Datto, M. B.; Kwon, A.; McCook, E.; Li, P.; Wang,
+S.; Thresher, R. J.; Miller, S. E.; Perriard, J.-C.; Gavin, T. P.;
+Hickner, R. C.; Coffman, T. M.; Somlyo, A. V.; Yan, Z.; Haystead,
+T. A. J.: Deletion of the protein kinase A/protein kinase G target
+SMTNL1 promotes an exercise-adapted phenotype in vascular smooth muscle. J.
+Biol. Chem. 283: 11850-11859, 2008.
+
+CREATED Patricia A. Hartz: 12/9/2010
+
+EDITED terry: 02/25/2011
+wwang: 12/27/2010
+wwang: 12/9/2010
+
+300737	TITLE *300737 G ANTIGEN 10; GAGE10
+DESCRIPTION See GAGE1 (300594) for more information about the GAGE gene cluster.
+
+GENE STRUCTURE
+
+Gjerstorff and Ditzel (2008) reported that the GAGE10 gene has an 8.9-kb
+insertion relative to other genes in the GAGE gene cluster. The GAGE10
+gene contains 5 exons spanning about 12.7 kb and has a LINE insertion.
+
+MAPPING
+
+By genomic sequence analysis, Gjerstorff and Ditzel (2008) mapped the
+GAGE10 gene to the 5-prime end of a GAGE gene cluster on chromosome
+Xp11.23.
+
+REFERENCE 1. Gjerstorff, M. F.; Ditzel, H. J.: An overview of the GAGE cancer/testis
+antigen family with the inclusion of newly identified members. Tissue
+Antigens 71: 187-192, 2008.
+
+CREATED Patricia A. Hartz: 8/6/2008
+
+EDITED wwang: 08/18/2008
+wwang: 8/6/2008
+
+610223	TITLE *610223 RAS AND RAB INTERACTOR 3; RIN3
+;;RAB5-INTERACTING PROTEIN 3;;
+FLJ22439
+DESCRIPTION 
+DESCRIPTION
+
+RIN3 is a member of the RIN family of Ras interaction-interference
+proteins, which are binding partners to the RAB5 small GTPases (see
+RAB5A; 179512) (Kajiho et al., 2003).
+
+CLONING
+
+Using yeast 2-hybrid analysis with GTPase-deficient mutant RAB5B
+(179514) as bait, followed by 3-prime and 5-prime RACE of a human
+leukocyte cDNA library, Kajiho et al. (2003) cloned the RIN3 gene. The
+deduced 985-amino acid protein shares features with RIN1 (605965) and
+RIN2 (610222), including an SH2 domain, a Vps9 domain, and a conserved
+centrally located 100-amino acid RIN homology domain. RIN3 contains 3
+proline-rich domains (PRDs), while RIN1 and RIN2 have 1 and 2 PRDs,
+respectively. Northern blot analysis detected a 4-kb transcript in all
+human tissues examined, with highest expression in peripheral blood
+cells.
+
+GENE FUNCTION
+
+Kajiho et al. (2003) showed that RIN3 bound GTP preferentially over GDP
+and acted as a guanine nucleotide exchange factor on RAB5B. By
+immunostaining and confocal microscopy of RIN3 transiently expressed in
+HeLa cells, they colocalized RIN3 and RAB5 to punctate vesicles in the
+cytoplasm and found that vesicular localization of RIN3 required the
+RIN3 C-terminal region, suggesting that RIN3 binding to RAB5 is needed
+for vesicular localization. In HeLa cells expressing RIN3, transferrin
+(TF; 190000) was transported partly through RIN3-positive vesicles to
+early endosomes, suggesting that RIN3 plays a role in intracellular
+transport from plasma membranes to early endosomes. Yeast 2-hybrid
+analysis and GST pull-down assays showed that RIN3 interacted through
+its N-terminal PRDs with the SH3 domain of amphiphysin II (BIN1;
+601248). Through confocal microscopy of HeLa cells coexpressing RIN3 and
+amphiphysin II, Kajiho et al. (2003) found that cytoplasmic amphiphysin
+II translocated into RIN3-positive vesicles and that this localization
+was dependent on RIN3 interaction with the amphiphysin II SH3 domain.
+Kajiho et al. (2003) suggested that RIN3, RAB5, and amphiphysin II form
+a ternary complex that is involved in the early endocytic transport
+pathway.
+
+By assaying recombinant proteins in vitro and following expression in
+transfected cells, Kajiho et al. (2011) found that RIN3 functioned as a
+GEF for RAB31 (605694), in addition to RAB5, but not for RAB21 (612398).
+Mutation analysis revealed that the VPS9 domain was responsible for RIN3
+GEF activity. Cotransfection of RAB31 with RIN3 in HeLa cells resulted
+in coexpression of RIN3 and RAB31 in enlarged vesicles and
+tubulovesicular structures. Mutation of 8 serines to alanine in an
+internal sequence of RIN3 between the SH2 and RIN family homology domain
+decreased the interaction of RIN3 with RAB31, but not with RAB5. These
+mutations also inhibited the GEF activity of RIN3 for RAB31.
+Coexpression of RIN3 with CDMPR (M6PR; 154540) reduced the amount of
+CDMPR with the trans-Golgi network and increased the amount of CDMPR
+associated with perinuclear endosomes in a way that depended on the GEF
+activity of RIN3 for RAB31. Kajiho et al. (2011) concluded that RIN3
+acts as a GEF to regulate RAB31-dependent transport between the
+trans-Golgi network and early endosomes.
+
+MAPPING
+
+Hartz (2011) mapped the RIN3 gene to chromosome 14q32.12 based on an
+alignment of the RIN3 sequence (GenBank GENBANK AK026092) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/20/2011.
+
+2. Kajiho, H.; Saito, K.; Tsujita, K.; Kontani, K.; Araki, Y.; Kurosu,
+H.; Katada, T.: RIN3: a novel Rab5 GEF interacting with amphiphysin
+II involved in the early endocytic pathway. J. Cell Sci. 116: 4159-4168,
+2003.
+
+3. Kajiho, H.; Sakurai, K.; Minoda, T.; Yoshikawa, M.; Nakagawa, S.;
+Fukushima, S.; Kontani, K.; Katada, T.: Characterization of RIN3
+as a guanine nucleotide exchange factor for the Rab5 subfamily GTPase
+Rab31. J. Biol. Chem. 286: 24364-24373, 2011.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/21/2011
+
+CREATED Dorothy S. Reilly: 6/29/2006
+
+EDITED mgross: 11/10/2011
+terry: 10/21/2011
+wwang: 7/7/2006
+wwang: 6/29/2006
+
+607614	TITLE *607614 NUCLEOPORIN, 160-KD; NUP160
+;;KIAA0197
+DESCRIPTION 
+DESCRIPTION
+
+NUP160 is 1 of up to 60 proteins that make up the 120-MD nuclear pore
+complex, which mediates nucleoplasmic transport.
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated myeloid cell line
+cDNA library, Nagase et al. (1996) cloned NUP160, which they designated
+KIAA0197. The deduced 1,314-amino acid protein contains a histidine acid
+phosphatase motif. Northern blot analysis revealed moderate expression
+in all tissues examined.
+
+Vasu et al. (2001) identified Nup160 as a protein in Xenopus egg
+extracts that interacts with the nuclear pore basket proteins Nup98
+(601021) and Nup153 (603948). Peptide analysis revealed homology with
+KIAA0197. Antibody raised against the putative human protein detected
+endogenous NUP160 in puncta along the nuclear rim in HeLa cells, and
+differential permeabilization of HeLa cells indicated that NUP160 is
+localized to the basket side of the pore, facing the nucleoplasm.
+
+GENE FUNCTION
+
+Vasu et al. (2001) provided evidence that vertebrate Nup160 and Nup133
+(607613) interact with Nup98 and Nup153 and mediate RNA export from the
+nucleus.
+
+MAPPING
+
+By analysis of a panel of human-rodent hybrid cell lines, Nagase et al.
+(1996) mapped the NUP160 gene to chromosome 11.
+
+REFERENCE 1. Nagase, T.; Seki, N.; Ishikawa, K.; Tanaka, A.; Nomura, N.: Prediction
+of the coding sequences of unidentified human genes. V. The coding
+sequences of 40 new genes (KIAA0161-KIAA0200) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 3: 17-24, 1996.
+
+2. Vasu, S.; Shah, S.; Orjalo, A.; Park, M.; Fischer, W. H.; Forbes,
+D. J.: Novel vertebrate nucleoporins Nup133 and Nup160 play a role
+in mRNA export. J. Cell. Biol. 155: 339-353, 2001.
+
+CREATED Patricia A. Hartz: 3/7/2003
+
+EDITED mgross: 03/07/2003
+mgross: 3/7/2003
+
+609666	TITLE *609666 TWO-PORE SEGMENT CHANNEL 1; TPCN1
+;;TWO-PORE CHANNEL 1; TPC1;;
+KIAA1169
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-gated Ca(2+) and Na+ channels have 4 homologous domains, each
+containing 6 transmembrane segments, S1 to S6. TPCN1 is similar to these
+channels, but it has only 2 domains containing S1 to S6 (Ishibashi et
+al., 2000).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Hirosawa et al. (1999) cloned TPCN1, which they designated
+KIAA1169. The deduced 775-amino acid protein, which may be N-terminally
+truncated, contains motifs associated with ion transport proteins.
+RT-PCR ELISA detected robust expression in all adult and fetal tissues
+and specific brain regions examined. Highest expression was in heart and
+kidney, and lowest expression was in spleen.
+
+Ishibashi et al. (2000) cloned rat Tpcn1, which they called Tpc1. The
+deduced 819-amino acid protein has a calculated molecular mass of 94.6
+kD. It contains 2 homologous domains, each of which has 6 transmembrane
+segments (S1 to S6) and a putative pore loop between S5 and S6. Northern
+blot analysis detected a 5-kb transcript expressed at highest levels in
+rat kidney, followed by liver, lung, and spleen. In rat kidney, Tpc1 was
+expressed at the apical membrane of medullary collecting ducts. By EST
+database analysis, Ishibashi et al. (2000) identified likely human and
+plant orthologs of Tpc1.
+
+GENE FUNCTION
+
+Calcraft et al. (2009) showed that 2-pore channels (TPCs) comprise a
+family of nicotinic acid adenine dinucleotide phosphate (NAADP)
+receptors, with human TPC1 and chicken TPC3 being expressed on endosomal
+membranes, and human TPC2 on lysosomal membranes when expressed in
+HEK293 cells. Membranes enriched with TPC2 show high affinity NAADP
+binding, and TPC2 underpins NAADP-induced Ca(2+) release from
+lysosome-related stores that is subsequently amplified by Ca(2+)-induced
+Ca(2+) release by inositol-1,4,5-trisphosphate receptors (InsP3Rs).
+Responses to NAADP were abolished by disrupting the lysosomal proton
+gradient and by ablating TPC2 expression, but were only attenuated by
+depleting endoplasmic reticulum Ca(2+) stores or by blocking InsP3Rs.
+Thus, TPCs form NAADP receptors that release Ca(2+) from acidic
+organelles, which can trigger further Ca(2+) signals via
+sarcoplasmic/endoplasmic reticulum. Calcraft et al. (2009) concluded
+that TPCs provide insights into the regulation and organization of
+Ca(2+) signals in animal cells.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TPCN1
+gene to chromosome 12 (TMAP D12S1195E).
+
+REFERENCE 1. Calcraft, P. J.; Ruas, M.; Pan, Z.; Cheng, X.; Arredouani, A.;
+Hao, X.; Tang, J.; Rietdorf, K.; Teboul, L.; Chuang, K.-T.; Lin, P.;
+Xiao, R.; and 9 others: NAADP mobilizes calcium from acidic organelles
+through two-pore channels. Nature 459: 596-600, 2009.
+
+2. Hirosawa, M.; Nagase, T.; Ishikawa, K.; Kikuno, R.; Nomura, N.;
+Ohara, O.: Characterization of cDNA clones selected by the GeneMark
+analysis from size-fractionated cDNA libraries from human brain. DNA
+Res. 6: 329-336, 1999.
+
+3. Ishibashi, K.; Suzuki, M.; Imai, M.: Molecular cloning of a novel
+form (two-repeat) protein related to voltage-gated sodium and calcium
+channels. Biochem. Biophys. Res. Commun. 270: 370-376, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/17/2009
+
+CREATED Patricia A. Hartz: 10/19/2005
+
+EDITED alopez: 08/24/2009
+terry: 8/17/2009
+mgross: 10/19/2005
+
+614277	TITLE *614277 UBIQUITIN-CONJUGATING ENZYME 2W; UBE2W
+;;UBC16, ARABIDOPSIS, HOMOLOG OF; UBC16
+DESCRIPTION 
+DESCRIPTION
+
+Ubiquitination is a common posttranslational modification that plays
+roles in many cellular pathways and in protein degradation. Conjugation
+of ubiquitin to substrate proteins requires an E1 ubiquitin-activating
+enzyme (e.g., UBE1; 314370), an E2 ubiquitin-conjugating enzyme (e.g.,
+UBE2A; 312180), and an E3 ubiquitin-protein ligase (e.g., UBE3A;
+601623). UBE2W is an E2 ubiquitin-conjugating enzyme (summary by Zhang
+et al., 2011).
+
+CLONING
+
+By sequencing clones obtained from a human fetal brain cDNA library, Yin
+et al. (2006) cloned UBE2W, which they called UBC16. The deduced
+162-amino acid protein has an approximately 150-amino acid catalytic
+core, termed the E2 ubiquitin-conjugating enzyme (UBC) domain, which
+contains 2 nuclear localization signals at its C-terminal end. Human
+UBC16 shares 51% amino acid identity with Arabidopsis Ubc16. RT-PCR
+detected ubiquitous UBC16 expression, with highest expression in heart,
+brain, liver, and pancreas. Fluorescence-tagged UBC16 localized to
+nuclei of transfected HEK293 cells.
+
+GENE FUNCTION
+
+By mutation analysis, Yin et al. (2006) showed that nuclear localization
+of human UBC in transfected HEK293 cells required both the nuclear
+localization signals and enzyme activity.
+
+Using yeast 2-hybrid analysis, Zhang et al. (2011) showed that mouse
+Ube2w interacted with Fancl (608111), an E3 ubiquitin ligase involved in
+DNA damage repair. They confirmed the interaction by protein pull-down
+and coimmunoprecipitation analyses. Fancl showed a ubiquitous
+intracellular localization in the absence of Ube2w and a nuclear
+localization in the presence of Ube2w. Ube2w formed nuclear homodimers.
+Ube2w exhibited ubiquitin-conjugating activity and monoubiquitinated the
+PHD domain of Fancl in vitro. Ubiquitination by Ube2w required a
+conserved active-site cysteine within its ubiquitin-conjugating domain.
+Ube2w also monoubiquitinated Fancd2 (613984). Downregulation of UBE2W in
+human cell lines markedly reduced FANCD2 monoubiquitination caused by
+ultraviolet irradiation, but not FANCD2 monoubiquitination caused by the
+DNA crosslinking agent mitomycin C or FANCD2 monoubiquitination that
+occurs normally during S phase.
+
+GENE STRUCTURE
+
+Yin et al. (2006) determined that the UBE2W gene contains 7 exons and
+spans 8.6 kb.
+
+MAPPING
+
+By genomic sequence analysis, Yin et al. (2006) mapped the UBE2W gene to
+chromosome 8q13-q21.1.
+
+REFERENCE 1. Yin, G.; Ji, C.; Wu, T.; Shen, Z.; Xu, X.; Xie, Y.; Mao, Y.: Cloning,
+characterization and subcellular localization of a gene encoding a
+human ubiquitin-conjugating enzyme (E2) homologous to the Arabidopsis
+thaliana UBC-16 gene product. Front. Biosci. 11: 1500-1507, 2006.
+
+2. Zhang, Y.; Zhou, X.; Zhao, L.; Li, C.; Zhu, H.; Xu, L.; Shan, L.;
+Liao, X.; Guo, Z.; Huang, P.: UBE2W interacts with FANCL and regulates
+the monoubiquitination of Fanconi anemia protein FANCD2. Molec. Cells 31:
+113-122, 2011.
+
+CREATED Patricia A. Hartz: 11/2/2011
+
+EDITED joanna: 11/03/2011
+mgross: 11/2/2011
+carol: 11/1/2011
+
+609825	TITLE *609825 COQ2, S. CEREVISIAE, HOMOLOG OF; COQ2
+;;PARAHYDROXYBENZOATE-POLYPRENYLTRANSFERASE, MITOCHONDRIAL
+DESCRIPTION 
+DESCRIPTION
+
+CoQ (ubiquinone) serves as a redox carrier in the mitochondrial
+respiratory chain and is a lipid-soluble antioxidant. COQ2, or
+parahydroxybenzoate-polyprenyltransferase (EC 2.5.1.39), catalyzes one
+of the final reactions in the biosynthesis of CoQ, the prenylation of
+parahydroxybenzoate with an all-trans polyprenyl group (Forsgren et al.,
+2004).
+
+CLONING
+
+By database analysis, followed by RT-PCR and RACE of human liver and
+skeletal muscle cDNA libraries, Forsgren et al. (2004) cloned COQ2. The
+deduced 421-amino acid protein contains a central polyprenyl
+diphosphate-binding site, followed by 6 C-terminal transmembrane
+regions. COQ2 was predicted to localize to mitochondria. Northern blot
+analysis detected abundant expression of a 1.8-kb transcript in skeletal
+muscle. RNA dot-blot analysis detected COQ2 in all adult and fetal
+tissues examined, with highest levels in skeletal muscle, adrenal gland,
+and heart.
+
+GENE FUNCTION
+
+Forsgren et al. (2004) found that human COQ2 rescued the growth of
+Coq2-null yeast cells and restored CoQ biosynthesis. CoQ formed when
+cells were incubated with labeled decaprenyl pyrophosphate and
+nonaprenyl pyrophosphate, indicating that human COQ2 participates in the
+biosynthesis of CoQ.
+
+GENE STRUCTURE
+
+Forsgren et al. (2004) determined that the COQ2 gene contains 7 exons
+and spans more than 20.7 kb.
+
+MAPPING
+
+By genomic sequence analysis, Forsgren et al. (2004) mapped the COQ2
+gene to chromosome 4q21-q22.
+
+MOLECULAR GENETICS
+
+- Primary Coenzyme Q10 Deficiency 1
+
+Using homozygosity mapping and sequence analysis, Quinzii et al. (2006)
+detected a homozygous A-to-G transition at nucleotide 890 of the COQ2
+gene in a patient with coenzyme Q10 deficiency-1 (COQ10D1; 607486). The
+mutation was predicted to change amino acid 297 from tyrosine to
+cysteine (Y297C; 609825.0001) in the third of 6 predicted transmembrane
+domains of the COQ2 protein. The transition was heterozygous in both
+parents and absent in healthy individuals.
+
+Mollet et al. (2007) reported a French family with COQ10 deficiency that
+manifested as fatal infantile multiorgan disease. Enzymologic analysis
+showed low quinone-dependent oxidative phosphorylation activity, and
+COQ10 deficiency was confirmed by restoration of oxidative
+phosphorylation activity after quinone addition. In the affected family
+members, Mollet et al. (2007) identified a homozygous 1-bp deletion in
+the COQ2 gene that resulted in a frameshift (609825.0002).
+Transformation of yeast lacking Coq2 with human COQ2 containing the
+mutation resulted in defective growth on respiratory medium.
+
+Diomedi-Camassei et al. (2007) reported 2 patients with COQ10 deficiency
+who had primarily renal involvement. The first patient presented with
+steroid-resistant nephrotic syndrome at the age of 18 months with no
+extrarenal symptoms, and the second patient presented at 5 days of life
+with oliguria and developed end-stage renal disease to which he
+succumbed at 6 months of age after a course complicated by progressive
+epileptic encephalopathy. Both patients carried 2 mutations in the COQ2
+gene. The mutations (609825.0003, 609825.0004, and 609825.0005) were all
+missense mutations occurring in residues highly conserved from yeast to
+human.
+
+- Susceptibility to Multiple System Atrophy 1
+
+In affected members of 2 unrelated Japanese families with multiple
+system atrophy-1 (MSA1; 146500), The Multiple-System Atrophy Research
+Collaboration (2013) identified homozygous or compound heterozygous
+mutations in the COQ2 gene (609825.0006-609825.0008). The mutations were
+found in the first family by linkage analysis combined by whole-genome
+sequencing. Subsequent sequencing of the COQ2 gene in 363 Japanese
+patients with sporadic MSA and 2 sets of controls (520 individuals and
+2,383 individuals) identified putative heterozygous or biallelic
+pathogenic variants in 33 patients (see, e.g., 609825.0009). The most
+common variant was V343A (609825.0007), which was also found in
+heterozygous state in 17 Japanese controls. Statistical analysis in the
+Japanese population yielded an odds ratio for disease development of
+2.23 (p = 6.0 x 10(-5)) in COQ2 carriers. Rare pathogenic variants were
+also found in 4 of 223 European patients with sporadic disease and in 1
+of 172 North American patients with sporadic disease. None of 315
+European controls carried a variant, but 1 of 294 North American
+controls carried a variant. In vitro functional expression assays in
+yeast Coq2-null strains demonstrated that the mutations caused variable
+growth defects and variably low COQ2 activities in patient cell lines.
+The findings suggested that mutations in the COQ2 gene may cause
+susceptibility to the disorder. Patients with COQ2 mutations had
+increased frequency of the cerebellar variant compared to the
+parkinsonism variant. Four additional families with MSA, including a
+German family reported by Wullner et al. (2009), did not have COQ2
+mutations, indicating genetic heterogeneity.
+
+ALLELIC VARIANT .0001
+COENZYME Q10 DEFICIENCY, PRIMARY, 1
+COQ2, TYR297CYS
+
+In a boy, born of consanguineous parents, with infantile
+encephalomyopathy, nephropathy, and primary coenzyme Q10 deficiency-1
+(COQ10D1; 607426), originally reported by Salviati et al. (2005),
+Quinzii et al. (2006) identified a homozygous 890A-G transition in the
+COQ2 gene, changing a highly conserved tyrosine to cysteine at amino
+acid 297 (Y297C) within a predicted transmembrane domain of the protein.
+He had a deficiency of CoQ10 in muscle and fibroblasts (22% of
+controls), and fibroblasts showed about 36% residual COQ2 enzymatic
+activity. His younger sister, who had only proteinuria and coenzyme Q
+deficiency in fibroblasts, carried the same homozygous mutation.
+
+Lopez-Martin et al. (2007) showed that the Y297C-mutant protein could
+not functionally complement Coq2-defective yeast. An equivalent mutation
+introduced into the wildtype yeast Coq2 gene decreased CoQ10 levels and
+impaired growth in respiratory-chain dependent medium, consistent with a
+loss of function. Growth was restored by CoQ10 supplementation. The
+CoQ10 deficiency was also found to impair de novo pyrimidine synthesis,
+which may contribute to the pathogenesis of the disease.
+
+Quinzii et al. (2010) studied fibroblasts carrying a homozygous Y297C
+mutation. CoQ10 levels were decreased to 42.7% of normal, and the cells
+showed decreased ATP synthesis and increased oxidative stress-induced
+death. The results suggested that partial CoQ10 deficiency can cause
+oxidative stress that is toxic to the cells.
+
+.0002
+COENZYME Q10 DEFICIENCY, PRIMARY, 1
+COQ2, 1-BP DEL, 1198T
+
+Mollet et al. (2007) reported a French family with coenzyme Q10
+deficiency-1 (607426) in which a son and daughter died shortly after
+birth due to anemia, liver failure, and renal insufficiency. The healthy
+parents were from the same region and shared a patronymic but no known
+ancestry. In 1 of the affected children, Mollet et al. (2007) identified
+a homozygous 1-bp deletion (T) at nucleotide 1198 in exon 7 of the COQ2
+gene, resulting in a premature stop codon. The parents were heterozygous
+for the mutation, which was absent in controls.
+
+.0003
+COENZYME Q10 DEFICIENCY, PRIMARY, 1
+COQ2, ARG197HIS
+
+In a patient with coenzyme Q10 deficiency (607426) who presented with
+steroid-resistant nephrotic syndrome at age 18 months, Diomedi-Camassei
+et al. (2007) identified compound heterozygosity for 2 mutations in the
+COQ2 gene: a 590G-A transition resulting in an arg197-to-his (R197H)
+substitution on the maternal allele, and a 683A-G transition resulting
+in an asn228-to-ser (N228S; 609825.0004) substitution on the paternal
+allele. Neither mutation was found in 500 control chromosomes.
+
+Quinzii et al. (2010) studied fibroblasts carrying the compound
+heterozygous R197H/N228S mutations. CoQ10 levels were decreased to 36%
+of normal, and the cells showed impaired respiratory-dependent growth
+after 48 hours, decreased ATP levels, increased oxidative stress
+markers, and increased cell death. The results suggested that partial
+CoQ10 deficiency can cause both impaired bioenergetics and oxidative
+stress that is toxic to the cells.
+
+.0004
+COENZYME Q10 DEFICIENCY, PRIMARY, 1
+COQ2, ASN228SER
+
+See 609825.0003 and Diomedi-Camassei et al. (2007).
+
+.0005
+COENZYME Q10 DEFICIENCY, PRIMARY, 1
+COQ2, SER146ASN
+
+In an Italian child with coenzyme Q10 deficiency-1 (607426),
+Diomedi-Camassei et al. (2007) identified homozygosity for a 437G-A
+transition in the COQ2 gene, resulting in a ser146-to-asn (S146N)
+substitution. Both parents were shown to be carriers and the mutation
+was not identified in 500 control chromosomes. The child presented with
+severe renal disease in the newborn period characterized as severe
+crescentic glomerulonephritis on biopsy at 10 days of age, developed
+intractable seizures and end-stage renal disease, and died at 6 months
+of age.
+
+.0006
+MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO
+COQ2, MET78VAL
+
+In 2 Japanese sibs, born of consanguineous parents, with multiple system
+atrophy-1 (MSA1; 146500), originally reported by Hara et al. (2007), The
+Multiple-System Atrophy Research Collaboration (2013) identified a
+homozygous met78-to-val (M78V) substitution in the COQ2 gene. The
+mutation, which was found by linkage analysis combined with whole-genome
+sequencing, was not found in a large control database or in 360 control
+Japanese alleles. Each sib also carried a homozygous val343-to-ala
+(V343A; 609825.0007) substitution that was found in heterozygous state
+in 5 of 360 control Japanese alleles. An unaffected sib did not carry
+either variant, and family history indicated that the parents, each of
+whom was an obligate carrier of both variants, showed no signs of the
+disorder. In vitro functional expression assays in yeast Coq2-null
+strains demonstrated that the M78V variant showed severely decreased
+growth similar to the null strain. Patient cerebellar tissue from a
+homozygous carrier showed severely decreased intracellular levels of
+COQ2.
+
+.0007
+MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO
+COQ2, VAL343ALA
+
+The Multiple-System Atrophy Research Collaboration (2013) found that a
+val343-to-ala (V343A) variant in the COQ2 gene was associated with
+multiple system atrophy-1 (146500) in Japanese patients. V343A was
+present in homozygous state with another pathogenic homozygous mutation
+(M78V; 609825.0006) in 2 Japanese sibs with the disorder. It was also
+found in compound heterozygosity with R337X (609825.0008) in 2
+additional Japanese sibs from another family with the disorder. Among
+363 Japanese patients with sporadic MSA1, homozygous V343A was found in
+2 patients and none of 520 controls, and heterozygous V343A was found in
+31 patients and 17 controls; 2 heterozygous carriers were compound
+heterozygous with another potentially pathogenic COQ2 variant. The
+allele frequency was 4.8% in Japanese patients and 1.6% in Japanese
+controls (odds ratio (OR) for MSA1 of 3.05, p = 1.5 x 10(-4)).
+Genotyping in a second series of 2,383 Japanese controls showed that the
+V343A variant had an allele frequency of 2.2%, yielding an OR of 2.23 (p
+= 6.0 x 10(-5)). Two patients with Alzheimer disease (AD; 104300) who
+were found to carry a homozygous V343A mutation did not show any signs
+of parkinsonism, cerebellar ataxia, or autonomic dysfunction. Otherwise,
+the V343A variant appeared to be specific for MSA. V343A was not found
+in 395 patients or 609 controls from European/North American cohorts. In
+vitro functional expression assays in yeast Coq2-null strains showed
+that the V343A variant could restore growth similar to wildtype, but
+showed somewhat decreased COQ2 activities in cell lines derived from
+patients with MSA.
+
+.0008
+MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO
+COQ2, ARG337TER
+
+In 2 Japanese sibs with MSA1 (146500), The Multiple-System Atrophy
+Research Collaboration (2013) identified compound heterozygosity for 2
+variants in the COQ2 gene: an arg337-to-ter (R337X) substitution, and
+V343A (609825.0007). V343A was present in 5 of 360 control Japanese
+alleles, but R337X was not found in controls. Their unaffected mother
+was heterozygous for V343A and another unaffected sib was heterozygous
+for R337X. In vitro functional expression assays in yeast Coq2-null
+strains showed that the R337X variant resulted in severely impaired
+growth similar to the null strain, and COQ2 activity levels in patient
+cells was decreased compared to wildtype.
+
+.0009
+MULTIPLE SYSTEM ATROPHY 1, SUSCEPTIBILITY TO
+COQ2, ARG337GLN
+
+In a Japanese patient with sporadic MSA1 (146500), The Multiple-System
+Atrophy Research Collaboration (2013) identified compound heterozygosity
+for 2 variants in the COQ2 gene: arg337-to-gln (R337Q) and V343A
+(609825.0007). In vitro functional expression assays in yeast Coq2-null
+strains showed that the R337Q variant resulted in severely impaired
+growth similar to the null strain, and COQ2 activity levels in patient
+cells was decreased compared to wildtype.
+
+REFERENCE 1. Diomedi-Camassei, F.; Di Giandomenico, S.; Santorelli, F. M.; Caridi,
+G.; Piemonte, F.; Montini, G.; Ghiggeri, G. M.; Murer, L.; Barisoni,
+L.; Pastore, A.; Muda, A. O.; Valente, M. L.; Bertini, E.; Emma, F.
+: COQ2 nephropathy: a newly described inherited mitochondriopathy
+with primary renal involvement. J. Am. Soc. Nephrol. 18: 2773-2780,
+2007.
+
+2. Forsgren, M.; Attersand, A.; Lake, S.; Grunler, J.; Swiezewska,
+E.; Dallner, G.; Climent, I.: Isolation and functional expression
+of human COQ2, a gene encoding a polyprenyl transferase involved in
+the synthesis of CoQ. Biochem. J. 382: 519-526, 2004.
+
+3. Hara, K.; Momose, Y.; Tokiguchi, S.; Shimohata, M.; Terajima, K.;
+Onodera, O.; Kakita, A.; Yamada, M.; Takahashi, H.; Hirasawa, M.;
+Mizuno, Y.; Ogata, K.; Goto, J.; Kanazawa, I.; Nishizawa, M.; Tsuji,
+S.: Multiplex families with multiple system atrophy. Arch. Neurol. 64:
+545-551, 2007.
+
+4. Lopez-Martin, J. M.; Salviati, L.; Trevisson, E.; Montini, G.;
+DiMauro, S.; Quinzii, C.; Hirano, M.; Rodriguez-Hernandez, A.; Cordero,
+M. D.; Sanchez-Alcazar, J. A.; Santos-Ocana, C.; Navas, P.: Missense
+mutation of the COQ2 gene causes defects of bioenergetics and de novo
+pyrimidine synthesis. Hum. Molec. Genet. 16: 1091-1097, 2007.
+
+5. Mollet, J.; Giurgea, I.; Schlemmer, D.; Dallner, G.; Chretien,
+D.; Delahodde, A.; Bacq, D.; de Lonlay, P.; Munnich, A.; Rotig, A.
+: Prenyldiphosphate synthase, subunit 1 (PDSS1) and OH-benzoate polyprenyltransferase
+(COQ2) mutations in ubiquinone deficiency and oxidative phosphorylation
+disorders. J. Clin. Invest. 117: 765-772, 2007.
+
+6. Quinzii, C.; Naini, A.; Salviati, L.; Trevisson, E.; Navas, P.;
+DiMauro, S.; Hirano, M.: A mutation in Para-hydroxybenzoate-polyprenyl
+transferase (COQ2) causes primary coenzyme Q10 deficiency. Am. J.
+Hum. Genet. 78: 345-349, 2006.
+
+7. Quinzii, C. M.; Lopez, L. C.; Gilkerson, R. W.; Dorado, B.; Coku,
+J.; Naini, A. B.; Lagier-Tourenne, C.; Schuelke, M.; Salviati, L.;
+Carrozzo, R.; Santorelli, F.; Rahman, S.; Tazir, M.; Koenig, M.; DiMauro,
+S.; Hirano, M.: Reactive oxygen species, oxidative stress, and cell
+death correlate with level of CoQ10 deficiency. FASEB J. 24: 3733-3743,
+2010.
+
+8. Salviati, L.; Sacconi, S.; Murer, L.; Zacchello, G.; Franceschini,
+L.; Laverda, A. M.; Basso, G.; Quinzii, C.; Angelini, C.; Hirano,
+M.; Naini, A. B.; Navas, P.; DiMauro, S.; Montini, G.: Infantile
+encephalomyopathy and nephropathy with CoQ10 deficiency: a CoQ10-responsive
+condition. Neurology 65: 606-608, 2005.
+
+9. The Multiple-System Atrophy Research Collaboration: Mutations
+in COQ2 in familial and sporadic multiple-system atrophy. New Eng.
+J. Med. 369: 233-244, 2013.
+
+10. Wullner, U.; Schmitt, I.; Kammal, M.; Kretzschmar, H. A.; Neumann,
+M.: Definite multiple system atrophy in a German family. J. Neurol.
+Neurosurg.  Psych. 80: 449-450, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/6/2013
+Cassandra L. Kniffin - updated: 3/13/2013
+Cassandra L. Kniffin - updated: 5/23/2012
+Cassandra L. Kniffin - updated: 2/19/2010
+Ada Hamosh - updated: 10/7/2009
+Paul J. Converse - updated: 5/17/2007
+Victor A. McKusick - updated: 1/23/2006
+
+CREATED Patricia A. Hartz: 1/17/2006
+
+EDITED carol: 08/06/2013
+ckniffin: 8/6/2013
+alopez: 3/15/2013
+ckniffin: 3/13/2013
+carol: 5/24/2012
+ckniffin: 5/23/2012
+wwang: 2/23/2010
+ckniffin: 2/19/2010
+alopez: 10/9/2009
+terry: 10/7/2009
+terry: 8/6/2007
+mgross: 5/17/2007
+alopez: 2/2/2006
+alopez: 2/1/2006
+terry: 1/23/2006
+mgross: 1/18/2006
+mgross: 1/17/2006
+
+194558	TITLE *194558 ZINC FINGER PROTEIN 83; ZNF83
+DESCRIPTION 
+MAPPING
+
+Marine et al. (1994) assigned the ZNF83 gene (also known as HPF1) to
+chromosome 19 by screening a human/rodent hybrid panel and localized the
+gene further to 19q13.3-q13.4 by fluorescence in situ hybridization and
+digital imaging microscopy.
+
+HISTORY
+
+Conserved structural motifs define large families of nucleic acid
+binding proteins in eukaryotes. The C2H2-type zinc finger motif,
+conferring both specific RNA and DNA binding activities, was first
+detected within the amino acid sequence of the Xenopus transcription
+factor IIIA (Miller et al., 1985). Thereafter, vertebrate genomes were
+shown to encode hundreds of so-called zinc finger proteins (ZFPs).
+Subfamilies were defined on the basis of conserved sequence elements
+outside the finger repeat, such as the KRAB domain. Several members of
+these subfamilies were found to have a clustered genomic organization.
+
+REFERENCE 1. Marine, J.-C.; Bellefroid, E. J.; Bourguignon, C.; Riviere, M.;
+Lecoq, P. J.; Poncelet, D. A.; Szpirer, J.; Martial, J. A.; Szpirer,
+C.: Assignment of the human ZNF83 (HPF1) zinc finger gene to chromosome
+19q13.3-q13.4. Genomics 21: 285-286, 1994.
+
+2. Miller, J.; McLachlan, A. D.; Klug, A.: Repetitive zinc-binding
+domains in the protein transcription factor IIIA from Xenopus oocytes. EMBO
+J. 4: 1609-1614, 1985.
+
+CREATED Victor A. McKusick: 6/17/1994
+
+EDITED alopez: 07/07/2010
+dkim: 6/26/1998
+jason: 6/17/1994
+
+611325	TITLE *611325 TRANSFORMING GROWTH FACTOR-BETA REGULATOR 4; TBRG4
+;;KIAA0948;;
+CELL CYCLE PROGRESSION RESTORATION 2; CPR2
+DESCRIPTION 
+CLONING
+
+By screening a hepatoma cDNA expression library for clones that could
+block mating pheromone-induced G1 arrest in yeast, Edwards et al. (1997)
+cloned TBRG4, which they called CPR2. The deduced protein contains
+multiple putative leucine zipper domains characteristic of transcription
+factors.
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Nagase et al. (1999) cloned TBRG4, which they designated
+KIAA0948. The transcript contains several repetitive elements in the
+3-prime untranslated region. The deduced 521-amino acid protein shares
+significant similarity with rat Cpr2. RT-PCR ELISA detected moderate
+expression in ovary, and little to no expression in all other tissues
+and specific brain regions examined.
+
+MAPPING
+
+By FISH, Edwards et al. (1997) mapped the TBRG4 gene to chromosome
+7p14-p13.
+
+REFERENCE 1. Edwards, M. C.; Liegeois, N.; Horecka, J.; DePinho, R. A.; Sprague,
+G. F., Jr.; Tyers, M.; Elledge, S. J.: Human CPR (cell cycle progression
+restoration) genes impart a Far- phenotype on yeast cells. Genetics 147:
+1063-1076, 1997.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+CREATED Patricia A. Hartz: 8/15/2007
+
+EDITED carol: 08/16/2007
+carol: 8/15/2007
+
+614792	TITLE *614792 TRANSMEMBRANE AND UBIQUITIN-LIKE DOMAIN-CONTAINING PROTEIN 1; TMUB1
+;;DENDRITIC CELL-DERIVED UBIQUITIN-LIKE PROTEIN; DULP;;
+SB144;;
+C7ORF21
+DESCRIPTION 
+DESCRIPTION
+
+Ubiquitin-like proteins (ULP) share 15 to 60% identity with ubiquitin at
+the amino acid level and are involved in cell cycle progression, DNA
+repair, apoptosis, endocytosis of membrane receptors, and cellular
+protein location. DULP, a widely expressed protein derived from
+dendritic cells, shares 26% identity with ubiquitin (see UBA52, 191321
+and UBA80, 191343) (Liu et al., 2009).
+
+CLONING
+
+By random sequencing of a dendritic cell cDNA library, Liu et al. (2009)
+isolated a 1,322-bp cDNA with a single open reading frame (ORF) of 738
+bp and encoding a 246-amino acid protein that they designated DULP.
+Residues 103 to 176 of DULP have homology to UBA80, including to the
+essential ile44 hydrophobic patch and the lys6 involved in the formation
+of a multiubiquitin chain that binds to the proteasome subunit RPN10
+(PSMD4; 601648). However, val-gly substituted for the conserved
+diglycine motif, required for conjugation formation by ULPs. RT-PCR
+analysis detected wide expression in many, but not all, cancer cell
+lines. Western blot analysis showed expression of a 28-kD myc
+(190080)-tagged protein. Immunofluorescence analysis demonstrated
+expression strong in the nucleus and weaker in the cytosol. Transient
+expression of DULP resulted in apoptosis that was not mediated through
+the proteasome or mitochondria. Liu et al. (2009) concluded that DULP is
+a novel ubiquitin-like protein expressed in dendritic cells.
+
+GENE STRUCTURE
+
+Liu et al. (2009) determined that the DULP gene comprises 2 exons.
+
+MAPPING
+
+By database analysis, Liu et al. (2009) mapped the TMUB1 (DULP) gene to
+chromosome 7q36.1.
+
+REFERENCE 1. Liu, G.; Liu, S.; Li, P.; Tang, L.; Han, Y.; An, H.; Li, J.; Dai,
+X.; Li, N.; Cao, X.; Yu, Y.: Cloning and characterization of DULP,
+a novel ubiquitin-like molecule from human dendritic cells. Cell.
+Molec. Immun. 6: 27-33, 2009.
+
+CREATED Paul J. Converse: 8/30/2012
+
+EDITED terry: 12/05/2012
+terry: 12/5/2012
+alopez: 8/30/2012
+
+300658	TITLE *300658 NDP GENE; NDP
+;;NORRIN
+DESCRIPTION 
+DESCRIPTION
+
+The NDP gene encodes norrin, a secreted cysteine-rich protein that
+belongs to the cystine knot growth factor family (Meindl et al., 1992).
+
+CLONING
+
+By positional cloning, Berger et al. (1992) and Chen et al. (1992)
+isolated a likely candidate gene for the site of mutation in Norrie
+disease (ND; 310600). The gene was found to be expressed in retina,
+choroid, and fetal brain by Berger et al. (1992) and in fetal and adult
+brain by Chen et al. (1992). It was evolutionarily conserved and encoded
+a predicted protein of 133 amino acids. The genomic equivalent of the
+cDNA spanned a maximum of 50 kb (Chen et al., 1992) and was partly
+deleted in several typical Norrie disease patients.
+
+By studying the number and spacing of cysteine residues, Meindl et al.
+(1992) detected homologies between the NDP gene product and a C-terminal
+domain that is common to a group of proteins including mucins.
+
+Chen et al. (1993) found that expression of the NDP gene is not confined
+to the eye or to the brain. They found homology with cysteine-rich
+protein-binding domains of intermediate-early genes implicated in the
+regulation of cell proliferation. This led them to propose that the NDP
+molecule likewise may be involved in the pathway that regulates neural
+cell differentiation and proliferation.
+
+Meitinger et al. (1993) reported that sequence pattern searches and
+3-dimensional modeling suggested that the NDP protein has a tertiary
+structure similar to that of transforming growth factor-beta (see TGFB1,
+190180). The model identified NDP as a member of an emerging family of
+growth factors containing a cystine knot motif, with direct implications
+for the physiologic role of NDP.
+
+Berger et al. (1996) cloned the mouse Ndp gene, which encodes a
+polypeptide that shares 94% sequence identity with the human protein.
+RNA in situ hybridization revealed expression in retina, brain, and
+olfactory bulb and epithelium of 2-week-old mice.
+
+GENE STRUCTURE
+
+Meindl et al. (1992) found that only exons 2 and 3 of the NDP gene are
+translated. Exon 2 contains the first 58 codons of the open reading
+frame. The intron that follows it is roughly 14.5 kb. Exon 3 is the
+largest exon and contains residues 59-133 of the open reading frame and
+a 917-bp 3-prime untranslated region.
+
+Chen et al. (1993) determined that the NDP gene spans 28 kb and contains
+3 exons, the first of which is entirely contained within the 5-prime
+untranslated region.
+
+MAPPING
+
+Sims et al. (1992) narrowed the mapping of the NDP gene to a 150-kb
+region on chromosome Xp defined by a recombination and by the smallest
+submicroscopic chromosomal deletion associated with Norrie disease. They
+concluded that the order of loci was: pter--DXS7--MAOA--MAOB--NDP--cen.
+
+Berger et al. (1996) mapped the mouse Ndp gene to the X chromosome.
+
+GENE FUNCTION
+
+In studies in COS-7 cells, Perez-Vilar and Hill (1997) found that norrin
+was present only in cell lysates and the extracellular matrix. Further
+analysis showed that most of the norrin in the extracellular matrix
+formed cross-linked disulfide-bonded oligomers that contained up to 20
+monomers.
+
+By in situ hybridization of NDP mRNA, Hartzer et al. (1999) found
+abundant signals in the outer nuclear, inner nuclear, and ganglion cell
+layers of the retina in all 3 species (mouse, rabbit, and human)
+examined. There was no significant expression in the vitreous humor,
+lens, or rod outer segment. High expression levels were also observed in
+the cerebellar granular layer, hippocampus, olfactory bulb, cortex, and
+epithelium of the rabbit brain. These data suggested that the NDP gene
+could play a critical role in the differentiation or maintenance of the
+differentiated state of the retina.
+
+Incomplete retinal vascularization occurs in both Norrie disease and
+familial exudative vitreoretinopathy (FEVR). One form of FEVR (EVR1;
+133780) is caused by defects in frizzled-4 (FZD4; 604579), a presumptive
+Wnt receptor. Xu et al. (2004) determined that norrin and FZD4 function
+as a ligand-receptor pair based on the similarity in vascular phenotypes
+caused by norrin and FZD4 mutations in humans and mice; the specificity
+and high affinity of norrin-FZD4 binding; the high efficiency with which
+norrin induces FZD4- and LRP (see 107770)-dependent activation of the
+classic Wnt pathway; and the signaling defects displayed by
+disease-associated variants of norrin and FZD4. These data defined a
+norrin-FZD4 signaling system that plays a central role in vascular
+development in the eye and ear, and they indicated that ligands
+unrelated to Wnts can act through frizzled receptors.
+
+MOLECULAR GENETICS
+
+- Norrie Disease
+
+Berger et al. (1992) identified small deletions in the NDP gene in
+several patients with Norrie disease. In 12 of 17 unrelated patients
+with Norrie disease, Berger et al. (1992) identified 11 different
+mutations in the NDP gene (see, e.g., 300658.0001-300658.0002). Most of
+the mutations were located in exon 3.
+
+In 3 unrelated patients with Norrie disease, Meindl et al. (1992)
+identified 3 missense mutations in the NDP gene
+(300658.0003-300658.0005). All 3 mutations replaced evolutionarily
+conserved cysteines or created new cysteine codons, emphasizing the
+functional importance of these sites. These findings and the clinical
+features of Norrie disease suggested a possible role for the NDP gene in
+a neuroectodermal cell-cell interaction.
+
+- Familial Exudative Vitreoretinopathy
+
+Shastry et al. (1997) reported 4 novel missense mutations in the NDP
+gene associated with 1 X-linked and 4 sporadic cases of familial
+exudative vitreoretinopathy (EVR2; 305390) (see 300658.0013).
+
+GENOTYPE/PHENOTYPE CORRELATIONS
+
+Among 109 patients with pediatric vitreoretinopathies, Wu et al. (2007)
+identified 11 with a mutation in the NDP gene. They found that NDP
+mutations disrupting the cysteine-knot motif corresponded to severe
+retinal dysgenesis and a diagnosis of Norrie disease, whereas patients
+with noncysteine mutations had varying degrees of avascular peripheral
+retina, extraretinal vasculature, and subretinal exudate.
+
+Kondo et al. (2007) screened 62 FEVR and 3 ND Japanese probands and
+family members for mutations in the NDP gene and identified 5 different
+mutations (1 splicing and 4 missense) in 4 FEVR patients and 2 ND
+patients. One proband with a missense mutation in the signal sequence of
+NDP had significant phenotypic heterogeneity between the affected eyes,
+indicating a diagnosis of FEVR or ND. The proband with a splicing
+mutation had typical features of ND, whereas a maternal nephew had a
+diagnosis of FEVR.
+
+Using a norrin-based reporter assay to analyze the effects of
+FEVR-causing mutations, Qin et al. (2008) demonstrated that a nonsense
+mutation in FZD4 completely abolished signaling activity, whereas
+missense mutations in FZD4 and LRP5 caused a moderate level of
+reduction, and a double missense mutation in both genes caused a severe
+reduction in activity, correlating roughly with clinical phenotypes.
+Norrin mutants, however, showed variable effects on signal transduction,
+and no correlation with clinical phenotypes was observed; norrin mutants
+also showed impaired cell surface binding. Qin et al. (2008) concluded
+that norrin signaling is involved in FEVR pathogenesis, but suggested
+the presence of an unknown parallel pathway at the level of
+receptor/ligand binding as evidenced by the moderate and variable signal
+reduction lacking a clear genotype/phenotype correlation.
+
+ANIMAL MODEL
+
+Berger et al. (1996) used gene targeting technology to generate Ndp
+mutant mice. Hemizygous mice carrying a replacement mutation in exon 2
+of the Ndp gene developed retrolental structures in the vitreous body
+and showed an overall disorganization of the retinal ganglion cell
+layer. The outer plexiform layer disappeared occasionally, resulting in
+a juxtaposed inner and outer nuclear layer. The ocular findings were
+consistent with observations in patients with Norrie disease.
+
+ALLELIC VARIANT .0001
+NORRIE DISEASE
+NDP, ARG90PRO
+
+In a patient with Norrie disease (310600), Berger et al. (1992)
+identified a 685G-C transversion in exon 3 of the NDP gene, resulting in
+an arg90-to-pro (R90P) substitution. The patient had no hearing
+impairment or mental disturbances, but had a family history of the
+disorder.
+
+.0002
+NORRIE DISEASE
+NDP, SER75CYS
+
+In a patient with Norrie disease (310600), Berger et al. (1992)
+identified a 640C-G transversion in exon 3 of the NDP gene, resulting in
+a ser75-to-cys (S75C) substitution.
+
+.0003
+NORRIE DISEASE
+NDP, VAL60GLU
+
+In a patient with Norrie disease (310600), Meindl et al. (1992)
+identified a 595T-A in the NDP gene, resulting in a val60-to-glu (V60E)
+substitution, inherited from the mother.
+
+.0004
+NORRIE DISEASE
+NDP, TYR44CYS
+
+In a patient with Norrie disease (310600), Meindl et al. (1992)
+identified a 547A-G transition in the NDP gene, resulting in a
+tyr44-to-cys (Y44C) substitution.
+
+.0005
+NORRIE DISEASE
+NDP, CYS96TYR
+
+In a patient with Norrie disease (310600), Meindl et al. (1992)
+identified a 703G-A transition in the NDP gene, resulting in a
+cys96-to-tyr (C96Y) substitution.
+
+.0006
+EXUDATIVE VITREORETINOPATHY 2, X-LINKED
+NDP, LEU124PHE
+
+In a family with X-linked exudative vitreoretinopathy (EVR2; 305390)
+manifested by members of 4 generations (Dudgeon, 1979) and found to have
+possible linkage to markers in the region of the Norrie disease locus
+(Fullwood et al., 1993), Chen et al. (1993) demonstrated a C-to-T
+transition in the NDP gene, resulting in a leu124-to-phe (L124F)
+substitution in the highly conserved region of the NDP gene. The
+mutation was absent in unaffected family members and in normal controls.
+
+.0007
+NORRIE DISEASE
+NDP, CYS69SER
+
+In a family with a manifesting female carrier of Norrie disease
+(310600), Chen et al. (1993) identified a 614G-C transversion in the NDP
+gene, resulting in a cys69-to-ser (C69S) substitution. The carrier
+female had been noted to have severely impaired vision at age 2.
+Examination revealed a cataract in the right eye and total retinal
+detachment with a vascularized mass behind the lens. In the left eye, a
+retinal fold and traction retinal detachment in the temporal periphery
+were evident. The child was otherwise normal. Her carrier mother was
+normal. Two of the mother's brothers had Norrie disease.
+
+.0008
+NORRIE DISEASE
+NDP, CYS128TER
+
+In a patient with Norrie disease (310600), Wong et al. (1993) identified
+a dinucleotide GC-to-AA change in the NDP gene, resulting in a
+cys128-to-ter (C128X) substitution. The mutant protein lacked the last 6
+amino acids of the carboxyl terminus. Wong et al. (1993) pointed out
+that the NDP protein normally has 11 cysteines, that the codon 128
+mutation involved the tenth cysteine, and that most reported mutations
+have involved this amino acid residue.
+
+.0009
+NORRIE DISEASE
+NDP, MET1VAL
+
+In 2 Japanese males with Norrie disease (310600) from apparently
+unrelated families, Isashiki et al. (1995) identified an A-to-G
+transition at the initiation codon of exon 2 of the NDP gene, resulting
+in a met1-to-val (M1V) substitution. Both mothers were heterozygous for
+the mutation. Neither patient showed mental retardation or hearing
+impairment. Although the 2 families had lived in the same prefecture in
+southwestern Japan for at least 2 centuries, no relationship between the
+2 families could be identified. All previously identified mutations had
+occurred in single families, indicating a marked heterogeneity of
+mutations. The finding of the same mutation in 2 apparently unrelated
+families, taken with the rarity of the disease, suggested that they
+shared a common ancestor.
+
+.0010
+EXUDATIVE VITREORETINOPATHY 2, X-LINKED
+NDP, ARG121TRP
+
+In a 29-year-old male patient with X-linked exudative vitreoretinopathy
+(EVR2; 305390), Fuchs et al. (1995) found an arg121-to-trp (R121W)
+mutation in the NDP gene. Low visual acuity had been noted since birth.
+When the patient was 3 years old, the right eye was enucleated because
+an intraocular tumor was suspected. Histologic examination showed severe
+intraocular inflammation without malignancy. Visual acuity in the left
+eye remained unchanged until adulthood. The retina showed severe
+temporal dragging of the vessels, including the macula. Severely reduced
+visual acuity was known in several maternal male relatives; the mother
+and maternal grandmother had normal visual acuity.
+
+Shastry et al. (1995) identified the same mutation in affected members
+in 3 generations of a family segregating X-linked exudative
+vitreoretinopathy.
+
+Shastry (1998) identified the R121W mutation in a 'simplex' case of
+exudative vitreoretinopathy.
+
+A different substitution at the same codon (R121L) has been described
+(300658.0017).
+
+.0011
+NORRIE DISEASE
+NDP, LEU13ARG
+
+In affected members of a large Cuban kindred with Norrie disease
+(310600), Fuchs et al. (1994) identified a 454T-G transversion in the
+NDP gene, resulting in a leu13-to-arg (L13R) substitution. The
+nucleotide substitution creates a new HhaI restriction site. This
+mutation was identified in a large Cuban pedigree which consisted of 380
+members, 46 of whom were affected. The disorder showed a typical pattern
+of X-linked inheritance over 7 generations. Eighteen patients examined
+shared similar clinical features. Pseudoglioma was always present in
+both eyes, frequently with phthisis bulbi, enophthalmos, opaque cornea,
+and cataract. In addition, about 45% of the patients showed moderate or
+severe mental retardation. Hearing loss was recognized in 78% of the
+patients, with different ages of onset.
+
+.0012
+NORRIE DISEASE
+NDP, LEU61PHE
+
+Rehm et al. (1997) identified a large Costa Rican kindred in which 15
+males were afflicted with congenital blindness, progressive hearing
+loss, and venous insufficiency. Because of an X-linked pattern of
+inheritance and the ophthalmologic and otologic findings, including
+bilateral retinal dysplasia and detachment and progressive bilateral
+sensorineural hearing loss, a tentative diagnosis of Norrie disease
+(310600) was considered. However, venous insufficiency was a clinical
+finding apparently not previously recognized in association with Norrie
+disease. Linkage analysis using microsatellite repeat markers
+demonstrated linkage to the Norrie disease region and studies of the NDP
+gene showed a point mutation in the third exon resulting in an
+leu61-to-phe (L61F) substitution. No obligate carrier females had any
+ocular or relevant pathology, but all affected males had varicose veins
+with peripheral venous stasis ulcers. Phlebography and other radiologic
+examinations showed deep venous system insufficiency and moderate
+dilatation of veins. Transfemoral arteriography showed patency of the
+femoral and distal arterial system.
+
+.0013
+EXUDATIVE VITREORETINOPATHY, X-LINKED
+NDP, HIS42ARG
+
+Shastry et al. (1997) found an H42R mutation of the NDP gene segregating
+with exudative vitreoretinopathy (305390) in 3 generations of a family.
+They also identified mutations in the NDP gene in 4 sporadic cases of
+FEVR.
+
+.0014
+NORRIE DISEASE
+NDP, 1-BP DEL
+
+In a boy with Norrie disease (310600), Chynn et al. (1996) identified a
+1-bp deletion in codon 35 of the NDP gene. The deletion changed the
+amino acids encoded by codons 35 through 39 and resulted in a premature
+stop at codon 40. The unaffected mother was heterozygous for the
+mutation.
+
+.0015
+NORRIE DISEASE
+NDP, ALA105THR
+
+In an Italian family in which 5 males in 4 generations had
+characteristic ophthalmologic findings of Norrie disease (310600),
+Torrente et al. (1997) identified an ala105-to-thr (A105T) missense
+mutation in the NDP gene. Affected individuals had no mental retardation
+or hearing abnormality.
+
+.0016
+EXUDATIVE VITREORETINOPATHY 2, X-LINKED
+NDP, CYS110GLY
+
+In an Italian family with exudative vitreoretinopathy (EVR2; 305390) in
+an X-linked pedigree pattern, Torrente et al. (1997) demonstrated a
+cys110-to-gly (C110G) mutation in the NDP gene.
+
+.0017
+EXUDATIVE VITREORETINOPATHY 2, X-LINKED
+NDP, ARG121LEU
+
+In a large kindred with X-linked recessive exudative vitreoretinopathy
+(EVR2; 305390), Johnson et al. (1996) identified an arg121-to-leu
+(R121L) mutation in the NDP gene. The clinical phenotype and rate of
+disease progression were extremely variable, with progression to total
+retinal detachment occurring before the age of 2 years in some and later
+than 21 years in others. Johnson et al. (1996) pointed out that all
+mutations identified in X-linked vitreoretinopathy have been missense
+mutations, presumably not affecting the 3-dimensional structure of the
+NDP gene product. Note that the same codon is involved in the
+arg121-to-trp mutation (300658.0010). Johnson et al. (1996) suggested
+that the mutations causing X-linked vitreoretinopathy cluster around
+residues 121-126, but this is not entirely true, as indicated by the
+cys110-to-gly mutation (300658.0016) and the his42-to-arg mutation
+(300658.0013).
+
+.0018
+NORRIE DISEASE
+NDP, CYS96TRP
+
+Black et al. (1999) reported a woman with a unilateral variant of Coats
+disease (300216) who gave birth to a son affected by Norrie disease
+(310600). Both carried a 704C-G transversion in the NDP gene, resulting
+in a cys96-to-trp (C96W) substitution. Subsequent analysis of the
+retinas of 9 enucleated eyes from males with Coats disease demonstrated
+a somatic C96W mutation in the NDP gene in 1 that was not present in
+nonretinal tissue. Black et al. (1999) suggested that Coats
+telangiectasis is secondary to somatic mutation in the NDP gene, which
+results in a deficiency of norrin within the developing retina. This
+supported observations that the protein is critical for normal retinal
+vasculogenesis. The authors noted that a cys96-to-tyr substitution
+(300658.0005) had previously been described.
+
+.0019
+NORRIE DISEASE
+NDP, VAL45GLU
+
+In a boy with Norrie disease (310600), Lev et al. (2007) identified a
+134T-A transversion in the NDP gene, resulting in a val45-to-glu (V45E)
+substitution. He had profound mental retardation and myoclonic seizures
+with hypsarrhythmia on EEG. His asymptomatic mother was heterozygous for
+the mutation. Bioinformatic analysis indicated that V45E lies within an
+extracellular localization motif and may alter the distribution pattern
+of norrin, which in turn may alter norrin-mediated cell-cell
+communication.
+
+.0020
+NORRIE DISEASE
+NDP, SER73TER
+
+In affected male members of a family with Norrie disease (310600),
+Walker et al. (1997) identified a 626C-A transversion in exon 3 of the
+NDP gene, resulting in a ser73-to-ter (S73X) substitution. Affected
+members had a severe ocular phenotype, but no mental retardation or
+deafness.
+
+.0021
+NORRIE DISEASE
+NDP, SER101PHE
+
+In affected male members of a family with Norrie disease (310600),
+Walker et al. (1997) identified a 710C-T transition in exon 3 of the NDP
+gene, resulting in a ser101-to-phe (S101F) substitution. Affected
+members had a less severe ocular phenotype compared to other patients
+with Norrie disease and no mental retardation or deafness.
+
+ADDITIONAL REFERENCES Bergen et al. (1993); Bleeker-Wagemakers et al. (1985); Chen et al.
+(1992); Harmon et al. (1993); Hattori et al. (1991); Isashiki et al.
+(1995); Meindl et al. (1995); Schuback et al. (1995)
+REFERENCE 1. Bergen, A. A. B.; Wapenaar, M. C.; Schuurman, E. J. M.; Diergaarde,
+P. J.; Lerach, H.; Monaco, A. P.; Bakker, E.; Bleeker-Wagemakers,
+E. M.; van Ommen, G. J. B.: Detection of a new submicroscopic Norrie
+disease deletion interval with a novel DNA probe isolated by differential
+Alu PCR fingerprint cloning. Cytogenet. Cell Genet. 62: 231-235,
+1993.
+
+2. Berger, W.; Meindl, A.; van de Pol, T. J. R.; Cremers, F. P. M.;
+Ropers, H. H.; Doerner, C.; Monaco, A.; Bergen, A. A. B.; Lebo, R.;
+Warburg, M.; Zergollern, L.; Lorenz, B.; Gal, A.; Bleeker-Wagemakers,
+E. M.; Meitinger, T.: Isolation of a candidate gene for Norrie disease
+by positional cloning. Nature Genet. 1: 199-203, 1992. Note: Erratum:
+Nature Genet. 2: 84 only, 1992.
+
+3. Berger, W.; van de Pol, D.; Bachner, D.; Oerlemans, F.; Winkens,
+H.; Hameister, H.; Wieringa, B.; Hendriks, W.; Ropers, H.-H.: An
+animal model for Norrie disease (ND): gene targeting of the mouse
+ND gene. Hum. Molec. Genet. 5: 51-59, 1996.
+
+4. Berger, W.; van de Pol, D.; Warburg, M.; Gal, A.; Bleeker-Wagemakers,
+L.; de Silva, H.; Meindl, A.; Meitinger, T.; Cremers, F.; Ropers,
+H.-H.: Mutations in the candidate gene for Norrie disease. Hum.
+Molec. Genet. 1: 461-465, 1992.
+
+5. Black, G. C. M.; Perveen, R.; Bonshek, R.; Cahill, M.; Clayton-Smith,
+J.; Lloyd, I. C.; McLeod, D.: Coats' disease of the retina (unilateral
+retinal telangiectasis) caused by somatic mutation in the NDP gene:
+a role for norrin in retinal angiogenesis. Hum. Molec. Genet. 8:
+2031-2035, 1999.
+
+6. Bleeker-Wagemakers, L. M.; Friedrich, U.; Gal, A.; Wienker, T.
+F.; Warburg, M.; Ropers, H.-H.: Close linkage between Norrie disease,
+a cloned DNA sequence from the proximal short arm, and the centromere
+of the X chromosome. Hum. Genet. 71: 211-214, 1985.
+
+7. Chen, Z.-Y.; Battinelli, E. M.; Fielder, A.; Bundey, S.; Sims,
+K.; Breakefield, X. O.; Craig, I. W.: A mutation in the Norrie disease
+gene (NDP) associated with X-linked familial exudative vitreoretinopathy. Nature
+Genet. 5: 180-183, 1993.
+
+8. Chen, Z.-Y.; Battinelli, E. M.; Hendriks, R. W.; Powell, J. F.;
+Middleton-Price, H.; Sims, K. B.; Breakefield, X. O.; Craig, I. W.
+: Norrie disease gene: characterization of deletions and possible
+function. Genomics 16: 533-535, 1993.
+
+9. Chen, Z.-Y.; Battinelli, E. M.; Woodruff, G.; Young, I.; Breakefield,
+X. O.; Craig, I. W.: Characterization of a mutation within the NDP
+gene in a family with a manifesting female carrier. Hum. Molec. Genet. 2:
+1727-1729, 1993.
+
+10. Chen, Z.-Y.; Hendriks, R. W.; Jobling, M. A.; Powell, J. F.; Breakefield,
+X. O.; Sims, K. B.; Craig, I. W.: Isolation and characterization
+of a candidate gene for Norrie disease. Nature Genet. 1: 204-208,
+1992.
+
+11. Chen, Z.-Y.; Sims, K. B.; Coleman, M.; Donnai, D.; Monaco, A.;
+Breakefield, X. O.; Davies, K. E.; Craig, I. W.: Characterization
+of a YAC containing part or all of the Norrie disease locus. Hum.
+Molec. Genet. 1: 161-164, 1992.
+
+12. Chynn, E. W.; Walton, D. S.; Hahn, L. B.; Dryja, T. P.: Norrie
+disease: diagnosis of a simplex case by DNA analysis. Arch. Ophthal. 114:
+1136-1138, 1996.
+
+13. Dudgeon, J.: Familial exudative vitreo-retinopathy. Trans. Ophthal.
+Soc. U.K. 99: 45-49, 1979.
+
+14. Fuchs, S.; Kellner, U.; Wedemann, H.; Gal, A.: Missense mutation
+(Arg121Trp) in the Norrie disease gene associated with X-linked exudative
+vitreoretinopathy. Hum. Mutat. 6: 257-259, 1995.
+
+15. Fuchs, S.; Xu, S. Y.; Caballero, M.; Salcedo, M.; La O, A.; Wedemann,
+H.; Gal, A.: A missense point mutation (Leu13Arg) of the Norrie disease
+gene in a large Cuban kindred with Norrie disease. Hum. Molec. Genet. 3:
+655-656, 1994.
+
+16. Fullwood, P.; Jones, J.; Bundey, S.; Dudgeon, J.; Fielder, A.
+R.; Kilpatrick, M. W.: X linked exudative vitreoretinopathy: clinical
+features and genetic linkage analysis. Brit. J. Ophthal. 77: 168-170,
+1993.
+
+17. Harmon, D. L.; Gardner-Medwin, D.; Stirling, J. L.: Two new mutations
+in a late infantile Tay-Sachs patient are both in exon 1 of the beta-hexosaminidase
+alpha subunit gene. J. Med. Genet. 30: 123-128, 1993.
+
+18. Hartzer, M. K.; Cheng, M.; Liu, X.; Shastry, B. S.: Localization
+of the Norrie disease gene mRNA by in situ hybridization. Brain Res.
+Bull. 49: 355-358, 1999.
+
+19. Hattori, Y.; Yamashiro, Y.; Ohba, Y.; Miyaji, T.; Morishita, M.;
+Yamamoto, K.; Yamamoto, K.; Narai, S.; Kimura, A.: A new beta-thalassemia
+mutation (initiation codon ATG-to-GTG) found in the Japanese population. Hemoglobin 15:
+317-325, 1991.
+
+20. Isashiki, Y.; Ohba, N.; Yanagita, T.; Hokita, N.; Doi, N.; Nakagawa,
+M.; Ozawa, M.; Kuroda, N.: Novel mutation at the initiation codon
+in the Norrie disease gene in two Japanese families. Hum. Genet. 95:
+105-108, 1995.
+
+21. Isashiki, Y.; Ohba, N.; Yanagita, T.; Hokita, N.; Hotta, Y.; Hayakawa,
+M.; Fujiki, K.; Tanabe, U.: Mutations in the Norrie disease gene:
+a new mutation in a Japanese family. (Letter) Brit. J. Ophthal. 79:
+703-708, 1995.
+
+22. Johnson, K.; Mintz-Hittner, H. A.; Conley, Y. P.; Ferrell, R.
+E.: X-linked exudative vitreoretinopathy caused by an arginine to
+leucine substitution (R121L) in the Norrie disease protein. Clin.
+Genet. 50: 113-115, 1996.
+
+23. Kondo, H.; Qin, M.; Kusaka, S.; Tahira, T.; Hasebe, H.; Hayashi,
+H.; Uchio, E.; Hayashi, K.: Novel mutations in Norrie disease gene
+in Japanese patients with Norrie disease and familial exudative vitreoretinopathy. Invest.
+Ophthal. Vis. Sci. 48: 1276-1282, 2007.
+
+24. Lev, D.; Weigl, Y.; Hasan, M.; Gak, E.; Davidovich, M.; Vinkler,
+C.; Leshinsky-Silver, E.; Lerman-Sagie, T.; Watemberg, N.: A novel
+missense mutation in the NDP gene in a child with Norrie disease and
+severe neurological involvement including infantile spasms. Am. J.
+Med. Genet. 143A: 921-924, 2007.
+
+25. Meindl, A.; Berger, W.; Meitinger, T.; van de Pol, D.; Achatz,
+H.; Dorner, C.; Haasemann, M.; Hellebrand, H.; Gal, A.; Cremers, F.;
+Ropers, H.-H.: Norrie disease is caused by mutations in an extracellular
+protein resembling C-terminal globular domain of mucins. Nature Genet. 2:
+139-143, 1992.
+
+26. Meindl, A.; Lorenz, B.; Achatz, H.; Hellebrand, H.; Schmitz-Valckenberg,
+P.; Meitinger, T.: Missense mutations in the NDP gene in patients
+with a less severe course of Norrie disease. Hum. Molec. Genet. 4:
+489-490, 1995.
+
+27. Meitinger, T.; Meindl, A.; Bork, P.; Rost, B.; Sander, C.; Haasemann,
+M.; Murken, J.: Molecular modeling of the Norrie disease protein
+predicts a cystine knot growth factor tertiary structure. Nature
+Genet. 5: 376-380, 1993.
+
+28. Perez-Vilar, J.; Hill, R. L.: Norrie disease protein (norrin)
+forms disulfide-linked oligomers associated with the extracellular
+matrix. J. Biol. Chem. 272: 33410-33415, 1997.
+
+29. Qin, M.; Kondo, H.; Tahira, T.; Hayashi, K.: Moderate reduction
+of Norrin signaling activity associated with the causative missense
+mutations identified in patients with familial exudative vitreoretinopathy. Hum.
+Genet. 122: 615-623, 2008.
+
+30. Rehm, H. L.; Gutierrez-Espeleta, G. A.; Garcia, R.; Jimenez, G.;
+Khetarpal, U.; Priest, J. M.; Sims, K. B.; Keats, B. J. B.; Morton,
+C. C.: Norrie disease gene mutation in a large Costa Rican kindred
+with a novel phenotype including venous insufficiency. Hum. Mutat.
+9: 402-408, 1997.
+
+31. Schuback, D. E.; Chen, Z. Y.; Craig, I. W.; Breakefield, X. O.;
+Sims, K. B.: Mutations in the Norrie disease gene. Hum. Mutat. 5:
+285-292, 1995.
+
+32. Shastry, B. S.: Identification of a recurrent missense mutation
+in the Norrie disease gene associated with a simplex case of exudative
+vitreoretinopathy. Biochem. Biophys. Res. Commun. 246: 35-38, 1998.
+
+33. Shastry, B. S.; Hejtmancik, J. F.; Plager, D. A.; Hartzer, M.
+K.; Trese, M. T.: Linkage and candidate gene analysis in X-linked
+familial exudative vitreoretinopathy. Genomics 27: 341-344, 1995.
+
+34. Shastry, B. S.; Hejtmancik, J. F.; Trese, M. T.: Identification
+of novel missense mutations in the Norrie disease gene associated
+with one X-linked and four sporadic cases of familial exudative vitreoretinopathy. Hum.
+Mutat. 9: 396-401, 1997.
+
+35. Sims, K. B.; Lebo, R. V.; Benson, G.; Shalish, C.; Schuback, D.;
+Chen, Z. Y.; Bruns, G.; Craig, I. W.; Golbus, M. S.; Breakefield,
+X. O.: The Norrie disease gene maps to a 150 kb region on chromosome
+Xp11.3. Hum. Molec. Genet. 1: 83-89, 1992.
+
+36. Torrente, I.; Mangino, M.; Gennarelli, M.; Novelli, G.; Giannotti,
+A.; Vadala, P.; Dallapiccola, B.: Two new missense mutations (A105T
+and C110G) in the norrin gene in two Italian families with Norrie
+disease and familial exudative vitreoretinopathy. (Letter) Am. J.
+Med. Genet. 72: 242-244, 1997.
+
+37. Walker, J. L.; Dixon, J.; Fenton, C. R.; Hungerford, J.; Lynch,
+S. A.; Stenhouses, S. A. R.; Christian, A.; Craig, I. W.: Two new
+mutations in exon 3 of the NDP gene: S73X and S101F associated with
+severe and less severe ocular phenotype, respectively. Hum. Mutat. 9:
+53-56, 1997.
+
+38. Wong, F.; Goldberg, M. F.; Hao, Y.: Identification of a nonsense
+mutation at codon 128 of the Norrie's disease gene in a male infant. Arch.
+Ophthal. 111: 1553-1557, 1993.
+
+39. Wu, W.-C.; Drenser, K.; Trese, M.; Capone, A., Jr.; Dailey, W.
+: Retinal phenotype-genotype correlation of pediatric patients expressing
+mutations in the Norrie disease gene. Arch. Ophthal. 125: 225-230,
+2007.
+
+40. Xu, Q.; Wang, Y.; Dabdoub, A.; Smallwood, P. M.; Williams, J.;
+Woods, C.; Kelley, M. W.; Jiang, L.; Tasman, W.; Zhang, K.; Nathans,
+J.: Vascular development in the retina and inner ear: control by
+Norrin and Frizzled-4, a high-affinity ligand-receptor pair. Cell 116:
+883-895, 2004.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 3/12/2008
+Jane Kelly - updated: 11/27/2007
+Jane Kelly - updated: 10/19/2007
+
+CREATED Cassandra L. Kniffin: 7/17/2007
+
+EDITED wwang: 01/24/2011
+carol: 12/19/2008
+wwang: 3/17/2008
+terry: 3/12/2008
+carol: 11/27/2007
+carol: 10/19/2007
+carol: 7/27/2007
+ckniffin: 7/27/2007
+ckniffin: 7/26/2007
+
+613524	TITLE *613524 SEROLOGICALLY DEFINED COLON CANCER ANTIGEN 8; SDCCAG8
+;;CENTROSOMAL COLON CANCER AUTOANTIGEN PROTEIN; CCCAP;;
+NY-CO-8;;
+SLSN7 GENE;;
+NPHP10 GENE
+DESCRIPTION 
+CLONING
+
+Kenedy et al. (2003) cloned an SDCCAG8 cDNA, which they called CCCAP
+(centrosomal colon cancer autoantigen protein), from a human placenta
+cDNA library. By sequence analysis they discovered that a fragment of
+CCCAP had been identified as colon cancer autoantigen NY-CO-8 by Scanlan
+et al. (1998). Kenedy et al. (2003) found at least 3 alternatively
+spliced CCCAP transcripts, including a full-length transcript encoding a
+deduced 713-amino acid protein with a molecular mass of 82.5 kD. Kenedy
+et al. (2003) cloned the mouse CCCAP cDNA from a spleen cDNA library.
+The human and mouse proteins share 71% identity and have the same
+predicted secondary structure consisting of a predicted N-terminal
+globular domain and a C-terminal coiled-coil domain. Human and mouse
+CCCAP transcripts were found to be ubiquitously expressed but at very
+low copy number (Kenedy et al., 2003). Endogenous mouse BALB/c 3T3
+fibroblasts and ectopic human CCCAP in U2-osteosarcoma cells localized
+to centrosomes during interphase and mitosis.
+
+Otto et al. (2010) determined that the SDCCAG8 gene comprises 18 exons.
+
+MAPPING
+
+Kenedy et al. (2003) stated that the CCCAP gene maps to chromosome
+1q43-q44.
+
+GENE FUNCTION
+
+Based on the centrosomal localization of human and mouse CCCAP and the
+ability of mouse CCCAP to homo-oligomerize, Kenedy et al. (2003)
+suggested that CCCAP is a stable centrosomal component with a structural
+role in the centrosomal architecture or the microtubule organizing
+activities of the centrosome matrix.
+
+In a mammalian renal epithelial cell line, Otto et al. (2010) found that
+Sdccag8 localizes to centrosomes, but at a distance from centrioles and
+from distal centrosomal appendages. There was colocalization with ninein
+(608684), a marker of centrosomal appendages, and with NPHP5 (609237)
+and OFD1 (300170). Sdccag8 also localized to cell-cell junctions.
+Further cellular studies led Otto et al. (2010) to conclude that SDCCAG8
+is located at the distal ends of both centrioles and that it colocalizes
+to centrosomes throughout the cell cycle. Human SDCCAG8 was also found
+in human retinal pigment epithelial cells, where it localized in the
+vicinity of centrosomes. Yeast 2-hybrid screening studies showed that
+SDCCAG8 interacts directly with OFD1, and studies in mouse photoreceptor
+cells showed that Sdccag8 colocalized with Nphp5 in the transition zone.
+
+Chaki et al. (2012) found that NPHP10 colocalized with the DNA damage
+response proteins TIP60 (KAT5; 601409), SC35 (SRSF2; 600813), CEP164
+(614848), and ZNF423 (604557) at nuclear foci in immortalized human
+retinal pigment epithelial cells. This noncentrosomal localization of
+NPHP10 suggested a role for this protein in DNA damage repair. Chaki et
+al. (2012) suggested that defects in DNA repair may play a role in
+nephronophthisis-related ciliopathies, such as Senior-Loken syndrome
+(SLSN7; 613615).
+
+MOLECULAR GENETICS
+
+Otto et al. (2010) used homozygosity mapping followed by exon capture
+and massively parallel sequencing to identify a homozygous truncating
+mutation in the SDCCAG8 gene (613524.0001) in 2 sibs with Senior-Loken
+syndrome 7 (SLSN7; 613615), who were born of consanguineous parents from
+Reunion Island. Both patients had biopsy-confirmed nephronophthisis and
+retinal degeneration, leading to blindness in 1. Analysis of additional
+families found 11 different truncating mutations (see, e.g.,
+613524.0002-613524.0005) in 9 families with SLSN. Some of the families
+had additional features, such as obesity and mild mental retardation,
+that were suggestive of the ciliopathy Bardet-Biedl syndrome (209900);
+however, none of the patients had polydactyly. Recessive SDCCAG8
+mutations accounted for 3.3% (6 of 182) cases from a worldwide SLSN
+cohort.
+
+ANIMAL MODEL
+
+Otto et al. (2010) demonstrated that knockout of the Sdccag8 gene in
+zebrafish resulted in multiple developmental defects, including abnormal
+body axis curvature, shortened and broadened tails, kidney cysts at 72
+hours post fertilization, and hydrocephalus. Knockdown of murine Sdccag8
+in renal epithelial cells resulted in the formation of spheroids with
+architectural defects characterized by disturbed localization of
+beta-catenin (CTNNB1; 116806) at the basolateral membrane, fewer tight
+junctions, and an irregular lumen. These findings were consistent with a
+defect in cell polarity and lumen formation, which may reflect the renal
+tubular defects found in individuals with a congenital SDCCAG8 mutation.
+Increased intracellular cAMP caused a dose-dependent loss of Sdccag8
+from cell-cell junctions compared to controls.
+
+ALLELIC VARIANT .0001
+SENIOR-LOKEN SYNDROME 7
+SDCCAG8, 1-BP DEL, 1420G
+
+In 2 sibs with Senior-Loken syndrome 7 (SLSN7; 613615), born of
+consanguineous parents from Reunion Island, Otto et al. (2010)
+identified a homozygous 1-bp deletion (1420delG) in exon 12 of the
+SDCCAG8 gene, resulting in frameshift and premature termination
+(Glu474fsTer493). The mutation was found by homozygosity mapping
+followed by exon capture and massively parallel sequencing. One patient
+had onset of nephronophthisis at age 4 years and retinal degeneration at
+age 14 years, whereas the other was blind by age 7 years and had onset
+of renal disease at age 14 years. The mutation was not found in 270
+control individuals.
+
+.0002
+SENIOR-LOKEN SYNDROME 7
+SDCCAG8, 1-BP INS, 1339G
+
+In 2 affected members of a consanguineous Algerian family with SLSN7
+(613615), Otto et al. (2010) identified a homozygous 1-bp insertion
+(1339insG) in exon 11 of the SDCCAG8 gene, resulting in frameshift and
+premature termination (Glu447fsTer463). Onset of nephronophthisis
+occurred at ages 7 and 4 years, respectively, and flat
+electroretinograms were observed at ages 13 and 6 years, respectively.
+One of the patients had mild mental retardation. The mutation was not
+found in 270 control individuals.
+
+.0003
+SENIOR-LOKEN SYNDROME 7
+SDCCAG8, 4-BP DEL, 1946GTGT
+
+By direct exon sequencing of 118 families with Senior-Loken syndrome,
+Otto et al. (2010) found a homozygous truncating mutation in the SDCCAG8
+gene in 1 family, consistent with SLSN7 (613615). The mutation was a
+4-bp deletion (1946delGTGT) in exon 16, resulting in frameshift and
+premature termination (Cys649fsTer658). The patient had retinal
+degeneration, and nephronophthisis was confirmed by renal biopsy at age
+22 years. The mutation was not found in 270 control individuals.
+
+.0004
+SENIOR-LOKEN SYNDROME 7
+SDCCAG8, IVS7, C-T
+
+In 4 affected members of a consanguineous Gypsy family with SLSN7
+(613615), Otto et al. (2010) identified a homozygous deep intronic
+mutation (c.740+356C-T) in intron 7 of the SDCCAG8 gene, predicted to
+cause loss of an exonic splice enhancer site, with the result of
+aberrant splicing introducing an in-frame stop codon. RT-PCR and
+immunoblotting studies showed almost complete absence of the full-length
+product. All patients had NPHP and retinal degeneration, as well as some
+features of Bardet-Biedl syndrome (BBS; 209900), such as mild mental
+retardation and obesity, although none had polydactyly. One of the
+patients had relatively late onset of renal and retinal disease in the
+twenties, which may have been due to some residual protein function. The
+mutation was not found in 270 control individuals.
+
+.0005
+SENIOR-LOKEN SYNDROME 7
+SDCCAG8, LYS227TER
+
+In 2 affected members of a consanguineous family with SLSN7 (613615),
+Otto et al. (2010) identified a homozygous 679A-T transversion in exon 7
+of the SDCCAG8 gene, resulting in a lys227-to-ter (K227X) substitution.
+Both individuals had NPHP and retinal degeneration, as well as some
+features of Bardet-Biedl syndrome (209900), such as mild mental
+retardation, obesity, and hypogenitalism, although neither had
+polydactyly. The mutation was not found in 270 control individuals.
+
+REFERENCE 1. Chaki, M.; Airik, R.; Ghosh, A. K.; Giles, R. H.; Chen, R.; Slaats,
+G. G.; Wang, H.; Hurd, T. W.; Zhou, W.; Cluckey, A.; Gee, H. Y.; Ramaswami,
+G.; and 61 others: Exome capture reveals ZNF423 and CEP164 mutations,
+linking renal ciliopathies to DNA damage response signaling. Cell 150:
+533-548, 2012.
+
+2. Kenedy, A. A.; Cohen, K. J.; Loveys, D. A.; Kato, g. J.; Dang,
+C. V.: Identification and characterization of the novel centrosome-associated
+protein CCCAP. Gene 303: 35-46, 2003.
+
+3. Otto, E. A.; Hurd, T. W.; Airik, R.; Chaki, M.; Zhou, W.; Stoetzel,
+C.; Patil, S. B.; Levy, S.; Ghosh, A. K.; Murga-Zamalloa, C. A.; van
+Reeuwijk, J.; Letteboer, S. J. F.; and 43 others: Candidate exome
+capture identifies mutation of SDCCAG8 as the cause of a retinal-renal
+ciliopathy. Nature Genet. 42: 840-850, 2010.
+
+4. Scanlan, M. J.; Chen, Y.-T.; Williamson, B.; Gure, A. O.; Stockert,
+E.; Gordan, J. D.; Tureci, O.; Sahin, U.; Pfreundschuh, M.; Old, L.
+J.: Characterization of human colon cancer antigens recognized by
+autologous antibodies. Int. J. Cancer 76: 652-658, 1998.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/4/2012
+Cassandra L. Kniffin - updated: 10/29/2010
+
+CREATED Joanna S. Amberger: 9/2/2010
+
+EDITED carol: 10/03/2013
+terry: 10/8/2012
+mgross: 10/5/2012
+ckniffin: 10/4/2012
+alopez: 3/1/2011
+terry: 12/10/2010
+alopez: 11/3/2010
+ckniffin: 10/29/2010
+carol: 9/3/2010
+
+604769	TITLE *604769 PEROXIREDOXIN 3; PRDX3
+;;PRX3;;
+ANTIOXIDANT PROTEIN 1; AOP1
+DESCRIPTION 
+DESCRIPTION
+
+Peroxiredoxins inactivate H2O2 by oxidizing a key cysteine residue in
+their catalytic center, which is subsequently reduced by thioredoxins
+(see 187700). The thioredoxins are subsequently reduced by electrons
+from NADPH via thioredoxin reductases (see TXNRD1; 601112). PRDX3 is
+localized exclusively in mitochondria (summary by Chiribau et al.,
+2008).
+
+CLONING
+
+The mouse Aop1 protein, also called Mer5, may promote early events in
+the differentiation of murine erythroleukemia (MEL) cells (Nemoto et
+al., 1990). Tsuji et al. (1995) found that mouse Aop1 shares 38% amino
+acid sequence identity with the C22 subunit of Salmonella typhimurium
+alkylhydroperoxide reductase.
+
+By screening a human leukemia cell line cDNA library with a mouse Aop1
+cDNA, Tsuji et al. (1995) isolated a cDNA encoding human AOP1. The
+deduced 256-amino acid human AOP1 protein shares 86% amino acid sequence
+similarity with mouse Aop1, and significant similarity with both the
+human proliferation-associated gene A product (PAGA; 176763) and the
+mouse stress-induced peritoneal macrophage protein Msp23. AOP1 also
+shows sequence similarity to the S. cerevisiae thiol-specific
+antioxidant protein TSA; a surface antigen of Entamoeba histolytica,
+which is a pathogenic protozoan that causes diarrhea and organ abscess
+formation; and a protein of H. pylori, which is a causative agent in
+gastritis, ulcers, and gastric adenocarcinoma.
+
+GENE FUNCTION
+
+Tsuji et al. (1995) demonstrated that recombinant mouse Aop1 could
+complement an alkylhydroperoxide reductase mutation in E. coli,
+suggesting that Aop1 functions as an antioxidant protein.
+
+Shih et al. (2001) determined that AOP1 interacts with Abrin A-chain
+(ABRA), which inhibits protein synthesis and can induce apoptosis. By
+immunolocalization studies, they determined that both AOP1 and ABRA
+colocalize within the mitochondria. By assays of thiol-dependent
+antioxidant activity, they determined that ABRA can attenuate AOP1
+activity in a dose-dependent manner. Ectopic expression of AOP1 also
+blocked the release of cytochrome c from mitochondria and inhibited
+apoptosis in ABRA-treated cells.
+
+Deregulated expression of the MYC transcription factor (190080) is found
+in a wide variety of human tumors. The primary transforming activity of
+MYC is thought to arise through transcriptional regulation of numerous
+target genes. Wonsey et al. (2002) showed that PRDX3, which encodes a
+mitochondrial protein of the peroxiredoxin gene family, is such a
+target. Expression of PRDX3 is induced by MYC and is reduced in c-myc
+-/- cells. Chromatin immunoprecipitation analysis spanning the entire
+PRDX3 genomic sequence revealed that MYC binds preferentially to a
+930-bp region surrounding exon 1. Wonsey et al. (2002) showed that PRDX3
+is required for MYC-mediated proliferation, transformation, and
+apoptosis after glucose withdrawal. Results using mitochondria-specific
+fluorescent probes demonstrated that PRDX3 is essential for maintaining
+mitochondrial mass and membrane potential in transformed rat and human
+cells. These data provided evidence that PRDX3 is a MYC target gene that
+is required to maintain normal mitochondrial function.
+
+Chiribau et al. (2008) found that the forkhead box transcription factor
+FOXO3A (602681) was required for basal expression of PRX3 in human
+cardiac fibroblasts. They identified 2 FOXO regulatory sequences in the
+promoter region of PRX3 and showed that binding of FOXO3A to both
+regulatory sequences was required for FOXO3A-mediated activation of a
+PRX3 reporter plasmid. Chiribau et al. (2008) concluded that FOXO3A
+mediates PRX3 expression and suggested that this regulation may play a
+critical role in the resistance to oxidative stress in cardiac
+fibroblasts.
+
+MAPPING
+
+By FISH, Tsuji et al. (1995) mapped the human AOP1 gene, also known as
+PRDX3, to 10q25-q26. They mapped the mouse Aop1 gene to the distal
+region of chromosome 19.
+
+REFERENCE 1. Chiribau, C. B.; Cheng, L.; Cucoranu, I. C.; Yu, Y.-S.; Clempus,
+R. E.; Sorescu, D.: FOXO3A regulates peroxiredoxin III expression
+in human cardiac fibroblasts. J. Biol. Chem. 283: 8211-8217, 2008.
+
+2. Nemoto, Y.; Yamamoto, T.; Takada, S.; Matsui, Y.; Obinata, M.:
+Antisense RNA of the latent period gene (MER5) inhibits the differentiation
+of murine erythroleukemia cells. Gene 91: 261-265, 1990.
+
+3. Shih, S.-F.; Wu, Y.-H.; Hung, C.-H.; Yang, H.-Y.; Lin, J.-Y.:
+Abrin triggers cell death by inactivating a thiol-specific antioxidant
+protein. J. Biol. Chem. 276: 21870-21877, 2001.
+
+4. Tsuji, K.; Copeland, N. G.; Jenkins, N. A.; Obinata, M.: Mammalian
+antioxidant protein complements alkylhydroperoxide reductase (ahpC)
+mutation in Escherichia coli. Biochem. J. 307: 377-381, 1995.
+
+5. Wonsey, D. R.; Zeller, K. I.; Dang, C. V.: The c-Myc target gene
+PRDX3 is required for mitochondrial homeostasis and neoplastic transformation. Proc.
+Nat. Acad. Sci. 99: 6649-6654, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/29/2010
+Victor A. McKusick - updated: 6/14/2002
+Patricia A. Hartz - updated: 5/13/2002
+
+CREATED Patti M. Sherman: 3/30/2000
+
+EDITED mgross: 02/02/2010
+mgross: 2/2/2010
+terry: 1/29/2010
+cwells: 7/1/2002
+cwells: 6/27/2002
+terry: 6/14/2002
+carol: 5/13/2002
+alopez: 8/1/2000
+mcapotos: 4/12/2000
+psherman: 3/30/2000
+
+607581	TITLE *607581 SOLUTE CARRIER FAMILY 22 (ORGANIC ANION TRANSPORTER), MEMBER 8; SLC22A8
+;;ORGANIC ANION TRANSPORTER 3; OAT3
+DESCRIPTION 
+CLONING
+
+Using homology with rat Oat1 (SLC22A6; 607582), Race et al. (1999)
+identified ESTs for SLC22A8, which they designated OAT3. They obtained
+the full-length clone from a kidney cDNA library. The deduced 568-amino
+acid protein has a calculated molecular mass of 62.1 kD. SLC22A8
+contains 12 transmembrane-spanning domains that are separated by 5
+intracellular loops and 6 extracellular loops, and the N and C termini
+are intracellular. It also has 3 motifs conserved in the amphiphilic
+solute facilitator family of proteins. SLC22A8 shares 42 to 43% amino
+acid similarity with human, mouse, and rat OAT1 and 25% similarity with
+the organic cation transporters OCT1 (SLC22A1; 602607) and OCT2
+(SLC22A2; 602608). Northern blot analysis revealed strong expression of
+a 3.0-kb transcript in kidney, with weaker expression in brain.
+
+By screening liver and kidney cDNA libraries for homology with rat Oat1,
+Sun et al. (2001) cloned what they considered to be a splice variant of
+the OAT3 sequence reported by Race et al. (1999). The deduced protein
+contains 542 amino acids. Northern blot analysis detected expression of
+a major 2.6-kb OAT3 transcript and a minor 4.5-kb OAT3 transcript only
+in kidney.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the SLC22A8
+gene to chromosome 11 (TMAP WI-14966).
+
+REFERENCE 1. Race, J. E.; Grassl, S. M.; Williams, W. J.; Holtzman, E. J.:
+Molecular cloning and characterization of two novel human renal organic
+anion transporters (hOAT1 and hOAT3). Biochem. Biophys. Res. Commun. 255:
+508-514, 1999.
+
+2. Sun, W.; Wu, R. R.; van Poelje, P. D.; Erion, M. D.: Isolation
+of a family of organic anion transporters from human liver and kidney. Biochem.
+Biophys. Res. Commun. 283: 417-422, 2001.
+
+CREATED Patricia A. Hartz: 2/25/2003
+
+EDITED mgross: 02/25/2003
+mgross: 2/25/2003
+
+300550	TITLE *300550 PHOSPHATE-REGULATING ENDOPEPTIDASE HOMOLOG, X-LINKED; PHEX
+;;PEX
+DESCRIPTION 
+CLONING
+
+The HYP Consortium (1995), comprising 29 investigators in 5
+institutions, isolated a candidate gene for X-linked hypophosphatemic
+rickets (307800) from the Xp22.1 region by positional cloning. The gene
+exhibited homology to a family of endopeptidase genes, members of which
+are involved in the degradation or activation of a variety of peptide
+hormones, including neutral endopeptidase (NEP; 120520),
+endothelin-converting enzyme (ECE1; 600423), and Kell blood group
+antigen (613883). Because of the homology and the function of the gene,
+the authors referred to it as PEX ('phosphate regulating gene with
+homologies to endopeptidases, on the X chromosome'). A partial PHEX
+sequence corresponding to 638 amino acids was presented. The PHEX cDNA
+was found to be evolutionarily conserved in primate, bovine, mouse, and
+hamster DNA, and possibly in chicken DNA.
+
+Guo and Quarles (1997) isolated a human PHEX cDNA from a bone cDNA
+library. The deduced 749-amino acid protein has a molecular mass of 86.5
+kD and shares 96% identity to the mouse sequence. The PHEX protein is
+predicted to have a 20-residue N-terminal cytoplasmic tail, a 27-residue
+transmembrane domain, and a 702-residue extracellular C-terminal region.
+The protein belongs to the type II integral membrane zinc-dependent
+endopeptidase family. PHEX transcripts were identified in human
+osteosarcoma-derived cells and in differentiated mouse osteoblasts, but
+not in immature mouse preosteoblasts, indicating stage-specific
+expression. Guo and Quarles (1997) suggested that PHEX may play a role
+in osteoblast-mediated bone mineralization.
+
+Grieff et al. (1997) isolated human PHEX clones from an ovary cDNA
+library. The gene encodes a 749-amino acid polypeptide that is 96%
+identical to the murine Phex gene product and has significant homology
+to other members of the membrane-bound zinc metallopeptidase family.
+Northern blot analysis identified a 6.6-kb PHEX mRNA transcript at high
+levels in adult ovary and fetal lung and at lower levels in adult lung
+and fetal liver.
+
+Du et al. (1996) reported the isolation and characterization of the
+complete open reading frame of the mouse Phex gene. The deduced
+749-amino acid protein showed 95% identity to the available human PHEX
+sequence and significant homology to members of the membrane-bound
+metalloendopeptidase family. Northern blot analysis revealed a 6.6-kb
+mRNA transcript in bone and in cultured osteoblasts from normal mice;
+the transcript was not detectable in samples from the mutant 'Hyp' mouse
+but were detectable in Hyp bone by RT-PCR amplification. Beck et al.
+(1997) cloned mouse Phex and human PHEX cDNAs encoding part of the
+5-prime untranslated region, the protein coding region, and the entire
+3-prime untranslated region. Using RT-PCR and ribonuclease protection
+assays, they found that Phex/PHEX mRNA is expressed predominantly in
+human fetal and in adult mouse calvaria and long bone.
+
+GENE STRUCTURE
+
+Holm et al. (1997) determined that the PHEX gene contains 18 exons. Its
+genomic organization shares similarity with members of the family of
+neutral endopeptidases.
+
+MOLECULAR GENETICS
+
+In 3 unrelated patients with X-linked hypophosphatemic rickets (307800),
+the HYP Consortium (1995) identified 3 different mutations in the PHEX
+gene (300550.0001-300550.0003).
+
+Holm et al. (1997) identified mutations in the PHEX gene in 9 of 22
+unrelated patients with X-linked hypophosphatemic rickets: 3 nonsense
+mutations, a 1-bp deletion leading to a frameshift, a donor-splice site
+mutation, and missense mutations in 4 patients (see, e.g.,
+300550.0004-300550.0006).
+
+Dixon et al. (1998) identified a total of 31 mutations in the PHEX gene
+in 46 unrelated XLH kindreds and 22 unrelated patients with nonfamilial
+XLH. Thirty of the mutations were scattered throughout the putative
+extracellular domain. Dixon et al. (1998) also identified 6 PHEX
+polymorphisms that had heterozygosity frequencies ranging from less than
+1% to 43%. Over 20% of the mutations were observed in nonfamilial XLH
+patients, who represented de novo occurrences of PHEX mutations. The
+majority (over 70%) of the mutations were predicted to result in a
+functional loss of the PHEX protein, rather than haploinsufficiency or a
+dominant-negative effect.
+
+Filisetti et al. (1999) reported 30 newly detected mutations in the PHEX
+gene, and pooled findings with all previously published mutations. The
+spectrum of the mutations displayed 16% deletions, 8% insertions, 34%
+missense, 27% nonsense, and 15% splice site mutations, with peaks in
+exons 15 and 17. Since 32.8% of PHEX amino acids are conserved in the
+family of the endopeptidases, the number of missense mutations detected
+at nonconserved residues was smaller than expected, whereas the number
+of nonsense mutations observed at nonconserved residues was very close
+to the expected number. Compared with conserved amino acids, the changes
+in nonconserved amino acids may result in benign polymorphisms or
+possibly mild disease that may go undiagnosed.
+
+Sabbagh et al. (2000) stated that 131 HYP-causing mutations in the PHEX
+gene had been reported. They announced the creation of an online PHEX
+mutation database for the collection and distribution of information on
+PHEX mutations.
+
+Sabbagh et al. (2001) examined the effect of PHEX missense mutations on
+cellular trafficking of the recombinant protein. Four mutant PHEX cDNAs
+were generated by PCR mutagenesis (e.g., E581V). Three of the mutants
+were completely sensitive to endoglycosidase H digestion, indicating
+that they were not fully glycosylated. Sequestration of the
+disease-causing mutant proteins in the endoplasmic reticulum and plasma
+membrane localization of wildtype PHEX proteins was demonstrated by
+immunofluorescence and cell surface biotinylation. Sabbagh et al. (2003)
+assessed the impact of 9 PHEX missense mutations on cellular
+trafficking, endopeptidase activity, and protein conformation. Eight
+mutations had been identified in XLH patients; the remaining mutation,
+E581V, had been engineered in NEP (120520), to which PHEX shows
+significant homology, where it was shown to abolish catalytic activity
+but not interfere with cell surface localization of the recombinant
+protein (Devault et al., 1988). The authors demonstrated that some
+mutations in secreted PHEX abrogate catalytic activity, whereas others
+alter the trafficking and conformation of the protein, thus providing a
+mechanism whereby missense mutations result in loss of function of the
+PHEX protein. Endopeptidase activity of secreted and rescued PHEX
+proteins was assessed using a novel internally quenched fluorogenic
+peptide substrate.
+
+Gaucher et al. (2009) analyzed the PHEX gene in 118 probands with
+hypophosphatemic rickets and identified mutations in 49 (87%) of 56
+familial cases and 44 (73%) of 60 known sporadic cases. Of the 78
+different mutations identified, 16 were missense mutations, which all
+occurred at residues that are highly conserved in mammals. Plotting all
+reported PHEX missense mutations on a 3D protein model revealed that
+missense mutations are primarily located in 2 regions in the inner part
+of the PHEX protein; similar plotting of nonsense mutations showed a
+random distribution. One patient with late-onset disease was found to
+have a mutation in an intronic region of PHEX, 2 bp away from the splice
+site consensus sequence, confirming that late-onset disease is part of
+the spectrum of X-linked dominant hypophosphatemic rickets.
+
+NOMENCLATURE
+
+The PEX nomenclature conflicts with the use of the same symbol for
+multiple peroxisomal proteins (peroxins) numbered 1 to 12 or more, e.g.,
+PEX5 (600414). The gene symbol PHEX has much to recommend it (Dixon et
+al., 1998; Filisetti et al., 1999).
+
+ANIMAL MODEL
+
+- The 'Hyp' Mouse
+
+Eicher et al. (1976) observed a mouse model for X-linked
+hypophosphatemia, designated Hyp. Hyp mice have bone changes resembling
+rickets, dwarfism, and high fractional excretion of phosphate ion.
+
+By various transplantation experiments, Ecarot-Charrier et al. (1988)
+demonstrated an intrinsic defect in osteoblasts in the Hyp mouse. Bell
+et al. (1988) reported that primary cultures of renal epithelial cells
+from the Hyp mouse demonstrate a defect in phosphate transport and
+vitamin D metabolism, suggesting a defect intrinsic to the kidney.
+However, in cross-transplantation studies of kidneys in normal and Hyp
+mice, Nesbitt et al. (1992) found that the Hyp phenotype was neither
+transferred nor corrected by renal transplantation, suggesting that the
+kidney was not the target organ for the genetic abnormality. Nesbitt et
+al. (1992) postulated that the disorder in the mouse, and probably in
+the human, is the result of a humoral factor and is not an intrinsic
+renal abnormality. Nesbitt et al. (1992) suggested the presence of a
+unique hormonal effect that results in a blockade of, or failure to
+express, an essential gene function in a variety of cell types.
+
+Parabiosis (Meyer et al., 1989) and renal transplantation (Nesbitt et
+al., 1992) experiments demonstrated that the renal defect in brush
+border membrane sodium-dependent phosphate transport in Hyp mice is not
+intrinsic to the kidney, but rather depends on a circulating humoral
+factor, which is not parathyroid hormone (Meyer et al., 1989), for its
+expression. In Hyp mice, Tenenhouse et al. (1994) demonstrated that the
+specific reduction in renal sodium-phosphate cotransport in brush border
+membranes could be ascribed to a proportionate decrease in the abundance
+of kidney NPT2 (182309) cotransporter mRNA and protein. However, the
+NPT2 gene is located on chromosome 5 and, hence, cannot be the site of
+the mutation primarily responsible for hereditary hypophosphatemia.
+Tenenhouse et al. (1994) suggested that the X-linked gene may encode the
+postulated circulating humoral factor that regulates the renal
+sodium-phosphate cotransporter.
+
+Beck et al. (1997) discovered a large deletion in the 3-prime region of
+the Phex gene in the Hyp mouse.
+
+Baum et al. (2003) demonstrated that Hyp mice have a 2-fold greater
+urinary prostaglandin E2 (PGE2) excretion than wildtype mice. To
+determine whether prostaglandins were involved in the pathogenesis of
+this disorder, Hyp and wildtype C57/B6 mice received intraperitoneal
+injections with vehicle or indomethacin and were studied approximately
+12 hours after the last dose of indomethacin. In the Hyp mice,
+indomethacin decreased the fractional excretion of phosphate and
+increased serum phosphate. There was no effect of indomethacin in the
+wildtype mice. Indomethacin did not affect serum creatine or inulin
+clearance, demonstrating that the normalization of urinary phosphate
+excretion was not caused by changes in glomerular filtration rate.
+Indomethacin treatment increased renal brush border membrane vesicle
+NaPi2 protein abundance in Hyp mice to levels comparable to that of
+wildtype mice. Baum et al. (2003) concluded that there is dysregulation
+of renal prostaglandin metabolism in Hyp mice, and that indomethacin
+treatment normalizes the urinary excretion of phosphate by a direct
+tubular effect. These studies suggested that indomethacin may be an
+effective form of therapy in humans with X-linked hypophosphatemia.
+
+Lorenz-Depiereux et al. (2004) studied 2 spontaneous mutations in the
+mouse Phex gene, Hyp-2J, a 7.3-kb deletion containing exon 15, and
+Hyp-Duk, a 30-kb deletion containing exons 13 and 14. Both mutations
+caused similar phenotypes in males, including shortened hind legs and
+tail, a shortened square trunk, hypophosphatemia, hypocalcemia, and
+rachitic bone disease. Hyp-Duk males also exhibited background-dependent
+variable expression of deafness, circling behavior, and cranial
+dysmorphology. Both Hyp-2J and Hyp-Duk males had thickened temporal bone
+surrounding the cochlea and a precipitate in the scala tympani, but only
+the hearing-impaired Hyp-Duk mice had degeneration of the organ of Corti
+and spiral ganglion. Lorenz-Depiereux et al. (2004) noted that XLH
+phenotypes could now be separated from non-XLH-related phenotypes.
+
+During development and postnatal growth of the endochondral skeleton,
+proliferative chondrocytes differentiate into hypertrophic chondrocytes,
+which subsequently undergo apoptosis and are replaced by bone. Donohue
+and Demay (2002) found that mice with rickets due to ablation of the
+vitamin D receptor (VDR; 601769) had expansion of hypertrophic
+chondrocytes due to impaired apoptosis of these cells. Sabbagh et al.
+(2005) showed that institution of a rescue diet that restored mineral
+ion homeostasis in Vdr-null mice prevented the development of rachitic
+changes, indicating that mineral ion abnormalities, not ablation of the
+Vdr gene, were the cause of impaired chondrocyte apoptosis. Similarly,
+Hyp mice with rickets also showed impaired apoptosis of hypertrophic
+chondrocytes, and the decreased apoptosis was correlated with
+hypophosphatemia. Wildtype mice rendered hypercalcemic and
+hypophosphatemic by dietary means also developed rickets. In vitro
+studies showed that the apoptosis was mediated by caspase-9 (CASP9;
+602234). Sabbagh et al. (2005) concluded that hypophosphatemia was the
+common mediator of rickets in these cases. The findings indicated that
+normal phosphorus levels are required for growth plate maturation and
+that circulating phosphate is a key regulator of hypertrophic
+chondrocyte apoptosis.
+
+Yuan et al. (2008) generated mice with a global Phex knockout (Phex -/-)
+and mice with conditional osteocalcin-promoted Phex inactivation only in
+osteoblasts and osteocytes (OC-Phex -/-). The reduction in serum
+phosphorus levels and kidney cell membrane phosphate transport as
+compared to wildtype mice was similar among Hyp, Phex -/-, and OC-Phex
+-/- mice; all 3 mutant strains had increased bone production and serum
+FGF23 (605370) levels and decreased kidney membrane NPT2, and manifested
+comparable osteomalacia. Yuan et al. (2008) concluded that aberrant Phex
+function in osteoblasts and/or osteocytes alone is sufficient to
+underlie the Hyp phenotype.
+
+- The Gyro (Gy) Mouse
+
+Lyon et al. (1986) identified a second type of X-linked dominant
+hypophosphatemia in the mouse in addition to the Hyp. The phenotype,
+called Gyro (Gy), is characterized by rickets/osteomalacia as in the Hyp
+mouse, but also shows circling behavior, inner ear abnormalities,
+sterility in hemizygous males, and a milder phenotype in heterozygous
+females. The Gy and Hyp mutations have similar expression in the renal
+tubule, but the Gy mutation has an additional effect on the inner ear.
+The Gy allele is expressed in the inner ear of some heterozygous mice,
+which show circling behavior. The authors found that Gy mapped close
+(crossover value 0.4-0.8%) to Hyp. Lowe syndrome (309000) is not a human
+counterpart of Gy because in that condition the transport defect is not
+limited to phosphorus; moreover, characteristic morphologic changes in
+the nephron observed in Lowe syndrome are not seen in the Gy mouse.
+
+Nesbitt et al. (1987) found that PTH-dependent 1-alpha-hydroxylase
+(CYP27B1; 609506) activity in the renal proximal convoluted tubule was
+abnormally regulated in the Hyp mouse, whereas calcitonin-dependent
+enzyme function in the proximal straight tubule was modulated normally.
+
+In the search for a human equivalent of the Gy mutation, Boneh et al.
+(1987) measured hearing in 22 patients with X-linked hypophosphatemia;
+5, including 2 mother/son pairs, had sensorineural hearing deficits due
+to cochlear dysfunction. The authors suggested that the disease in these
+persons may be the human counterpart of Gy.
+
+Davidai et al. (1990) provided further information on the differences
+between the Hyp and Gy phenotypes in the mouse.
+
+Collins and Ghishan (1996) found normal expression and location of the
+renal Na+/P(i) transporter NPT2 in Gy mice, suggesting that the
+molecular defect in the Gy mice is distinct from that in the Hyp mice,
+which show a decrease in transporter activity in the renal proximal
+tubules possibly related to decreased transcription (Collins et al.,
+1995).
+
+In Gy mice, Strom et al. (1997) found a deletion of the first 3 exons
+and the promoter region of the PHEX, indicating that Hyp and Gy are
+allelic disorders. However, Meyer et al. (1998) found that the Gyro
+mouse has a partial deletion of both the Phex gene and the upstream
+spermine synthase gene (300105), making it a contiguous gene syndrome in
+that species. Gy is thus not as useful a model for human XLH as Hyp.
+
+ALLELIC VARIANT .0001
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, 2-BP DEL, 675TC
+
+In a patient with X-linked hypophosphatemia (307800), the HYP Consortium
+(1995) identified a 2-bp deletion (675delTC) in exon 1 of the PHEX gene.
+
+.0002
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, IVS1AS, G-A, -1
+
+In a patient with X-linked hypophosphatemia (307800), the HYP Consortium
+(1995) identified a splicing mutation in the PHEX gene: a G-to-A
+transition at the -1 position in the splice acceptor site of exon 2 of
+the partially cloned gene.
+
+.0003
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, IVS1AS, G-C, -1
+
+In a patient with X-linked hypophosphatemia (307800), the HYP Consortium
+(1995) identified a G-to-C transversion at the -1 position in the splice
+acceptor site of exon 2 of the PHEX gene.
+
+.0004
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, LEU274TER
+
+In a sporadic case of hypophosphatemia in a female (307800), Holm et al.
+(1997) identified an 823T-A transversion in the PHEX gene, resulting in
+a leu274-to-ter (L274X) substitution. (The nucleotides and amino acids
+were numbered on the basis of the cDNA sequence published by the HYP
+Consortium (1995).)
+
+.0005
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, CYS82TYR
+
+In a male with familial X-linked hypophosphatemia (307800), Holm et al.
+(1997) identified a 247G-A transition in exon 3 of the PHEX gene,
+resulting in a cys82-to-tyr (C82Y) substitution. (The nucleotides and
+amino acids were numbered on the basis of the cDNA sequence published by
+the HYP Consortium (1995).)
+
+.0006
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, PHE249SER AND MET250ILE
+
+In a female with familial hypophosphatemia (307800), Holm et al. (1997)
+identified 2 mutations that were 4-bp apart in exon 7 of the PHEX gene:
+a 748T-C transition, resulting in a phe249-to-ser (F249S) substitution
+and a 752G-A transition, resulting in a met250-to-ile (M250I)
+substitution. The 2 mutations were on the same allele, as demonstrated
+by sequencing of both alleles. (The nucleotides and amino acids were
+numbered on the basis of the cDNA sequence published by the HYP
+Consortium (1995).)
+
+.0007
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, LEU555PRO
+
+In affected members of a kindred originally reported by Frymoyer and
+Hodgkin (1977) as having 'adult-onset vitamin D-resistant
+hypophosphatemic osteomalacia' (AVDRR), Econs et al. (1998) identified a
+T-to-C transition in exon 16 of the PHEX gene, resulting in a
+leu555-to-pro (L555P) substitution. Frymoyer and Hodgkin (1977) had
+asserted that the disorder was distinct from X-linked hypophosphatemic
+rickets (307800) because affected children did not display radiographic
+evidence of rickets and patients typically presented with clinical
+manifestations of the disease in the fourth or fifth decade of life.
+However, clinical evaluation of affected family members by Econs et al.
+(1998) indicated that some displayed classic features of X-linked
+hypophosphatemic rickets. The authors were unable to verify progressive
+bowing in adults. Because of the clinical spectrum of X-linked
+hypophosphatemic rickets and the presence of a PHEX mutation in affected
+members of this kindred, the authors concluded that there is only 1 form
+of X-linked dominant phosphate wasting.
+
+.0008
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, A-G, NT-429
+
+In a female patient from the Indian subcontinent with X-linked
+hypophosphatemic rickets (307800) and congenital adrenal hypoplasia
+originally reported by Shah et al. (1988), Dixon et al. (1998)
+identified an A-to-G transition at codon -429 of the 5-prime
+untranslated region in the PHEX gene. The A-to-G transition was found to
+cosegregate with the disease and was absent in 247 alleles examined.
+Dixon et al. (1998) suggested that the mutation may lead to an
+alteration in the binding sites for ribosomal and other translation
+factors, such as tissue-specific regulatory proteins.
+
+Shah et al. (1988) had termed the disorders in this Indian girl as
+'familial glucocorticoid deficiency' and familial hypophosphatemic
+rickets, and had suggested the possibility of a chromosomal abnormality
+in activating both the X-linked hypophosphatemia locus and a closely
+situated locus for glucocorticoid deficiency.
+
+.0009
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, IVS7, +1268, G-T
+
+Using lymphoblastoid RNA and RT-PCR, Christie et al. (2001) investigated
+11 unrelated X-linked hypophosphatemic rickets (307800) patients in whom
+coding region mutations had been excluded for intronic mutations that
+could lead to mRNA splicing abnormalities. One X-linked hypophosphatemia
+patient was found to have 3 abnormally large transcripts resulting from
+51-, 100-, and 170-bp insertions, all of which would lead to missense
+peptides and premature termination codons. The origin of these
+transcripts was a G-to-T transversion at position +1268 of intron 7,
+which resulted in the occurrence of a high quality novel donor splice
+site (ggaagg to gtaagg). Splicing between this novel donor splice site
+and 3 preexisting, but normally silent, acceptor splice sites within
+intron 7 resulted in the occurrence of the 3 pseudoexons.
+
+.0010
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, ARG567TER
+
+Goji et al. (2006) described a family in which the father and only 1 of
+his 2 daughters were affected by hypophosphatemic rickets (307800). The
+pedigree interpretation of the family suggested that genetic
+transmission of the disorder occurred as an autosomal dominant trait.
+However, the affected daughter was heterozygous for an arg567-to-ter
+(R567X) mutation in the PHEX gene, rather than in the FGF23 gene
+(605370), suggesting that the genetic transmission occurred as an
+X-linked dominant trait. Unexpectedly, the father was heterozygous for
+this mutation. Single-nucleotide primer extension and denaturing HPLC
+analysis of the father using DNA from single hair roots revealed that he
+was a somatic mosaic for the mutation. Haplotype analysis confirmed that
+the father transmitted the genotypes for 18 markers on the X chromosome
+equally to his 2 daughters. The fact that he transmitted the mutation to
+only 1 his 2 daughters indicated that he was a germline mosaic for the
+mutation. Goji et al. (2006) concluded that somatic and germline
+mosaicism for an X-linked dominant mutation in PHEX may mimic autosomal
+dominant inheritance.
+
+.0011
+HYPOPHOSPHATEMIC RICKETS, X-LINKED DOMINANT
+PHEX, IVS4, T-C, +6
+
+Makras et al. (2008) described a mother and 2 sons with X-linked
+hypophosphatemic rickets (307800) with unusual clinical features,
+including normal growth. A novel splice site mutation in intron 4 of the
+PHEX gene, IVS4+6G-T, that resulted in skipping of exon 4 was present in
+all 3 individuals. The mother and her sons were followed in the same
+institution for nearly 30 years. The mother had hypophosphatemia and
+normal height without ever receiving any treatment. Her 2 sons achieved
+final heights of 183.7 cm (Z score, -0.01) and 182.7 cm (Z score,
+-0.18), respectively, despite late initiation of treatment with
+phosphate and low serum phosphate levels. In addition, they had
+reversible proximal myopathy, which took approximately 7 years to
+resolve in the more severely affected son and 8 months to resolve in the
+other.
+
+ADDITIONAL REFERENCES Collins and Ghishan (1994); Dennis et al. (1977); Lobaugh and Drezner
+(1983); Meyer et al. (1979); Nesbitt et al. (1987); Strom et al. (1997)
+REFERENCE 1. Baum, M.; Loleh, S.; Saini, N.; Seikaly, M.; Dwarakanath, V.; Quigley,
+R.: Correction of proximal tubule phosphate transport defect in Hyp
+mice in vivo and in vitro with indomethacin. Proc. Nat. Acad. Sci. 100:
+11098-11103, 2003.
+
+2. Beck, L.; Soumounou, Y.; Martel, J.; Krishnamurthy, G.; Gauthier,
+C.; Goodyer, C. G.; Tenenhouse, H. S.: Pex/PEX tissue distribution
+and evidence for a deletion in the 3-prime region of the Pex gene
+in X-linked hypophosphatemic mice. J. Clin. Invest. 99: 1200-1209,
+1997.
+
+3. Bell, C. L.; Tenenhouse, H. S.; Scriver, C. R.: Primary cultures
+of renal epithelial cells from X-linked hypophosphatemic (Hyp) mice
+express defects in phosphate transport and vitamin D metabolism. Am.
+J. Hum. Genet. 43: 293-303, 1988.
+
+4. Boneh, A.; Reade, T. M.; Scriver, C. R.; Rishikof, E.: Audiometric
+evidence for two forms of X-linked hypophosphatemia in humans, apparent
+counterparts of Hyp and Gy mutations in mouse. Am. J. Med. Genet. 27:
+997-1003, 1987.
+
+5. Christie, P. T.; Harding, B.; Nesbit, M. A.; Whyte, M. P.; Thakker,
+R. V.: X-linked hypophosphatemia attributable to pseudoexons of the
+PHEX gene. J. Clin. Endocr. Metab. 86: 3840-3844, 2001.
+
+6. Collins, J. F.; Bulus, N.; Ghishan, F. K.: Sodium-phosphate transporter
+adaptation to dietary phosphate deprivation in normal and hypophosphatemic
+mice. Am. J. Physiol. 268: G917-G924, 1995.
+
+7. Collins, J. F.; Ghishan, F. K.: Molecular cloning, functional
+expression, tissue distribution and in situ hybridization of the renal
+sodium phosphate (Na+/P(i)) transporter in the control and hypophosphatemic
+mouse. FASEB J. 8: 862-868, 1994.
+
+8. Collins, J. F.; Ghishan, F. K.: The molecular defect in the renal
+sodium-phosphate transporter expression pathway of Gyro (Gy) mice
+is distinct from that of hypophosphatemic (Hyp) mice. FASEB J. 10:
+751-759, 1996.
+
+9. Davidai, G. A.; Nesbitt, T.; Drezner, M. K.: Normal regulation
+of calcitriol production in Gy mice: evidence for biochemical heterogeneity
+in the X-linked hypophosphatemic diseases. J. Clin. Invest. 85:
+334-339, 1990.
+
+10. Dennis, V. W.; Bello-Reuss, E.; Robinson, R. R.: Response of
+phosphate transport to parathyroid hormone in segments of rabbit nephron. Am.
+J. Physiol. 233: F29-F38, 1977.
+
+11. Devault, A.; Nault, C.; Zollinger, M.; Fournie-Zaluski, M.-C.;
+Roques, B. P.; Crine, P.; Boileau, G.: Expression of neutral endopeptidase
+(enkephalinase) in heterologous COS-1 cells: characterization of the
+recombinant enzyme and evidence for a glutamic acid residue at the
+active site. J. Biol. Chem. 263: 4033-4040, 1988.
+
+12. Dixon, P. H.; Christie, P. T.; Wooding, C.; Trump, D.; Grieff,
+M.; Holm, I.; Gertner, J. M.; Schmidtke, J.; Shah, B.; Shaw, N.; Smith,
+C.; Tau, C.; Schlessinger, D.; Whyte, M. P.; Thakker, R. V.: Mutational
+analysis of PHEX gene in X-linked hypophosphatemia. J. Clin. Endocr.
+Metab. 83: 3615-3623, 1998.
+
+13. Donohue, M. M.; Demay, M. B.: Rickets in VDR null mice is secondary
+to decreased apoptosis of hypertrophic chondrocytes. Endocrinology 143:
+3691-3694, 2002.
+
+14. Du, L.; Desbarats, M.; Viel, J.; Glorieux, F. H.; Cawthorn, C.;
+Ecarot, B.: cDNA cloning of the murine Pex gene implicated in X-linked
+hypophosphatemia and evidence for expression in bone. Genomics 36:
+22-28, 1996.
+
+15. Ecarot-Charrier, B.; Glorieux, F. H.; Travers, R.; Desbarats,
+M.; Bouchard, F.; Hinek, A.: Defective bone formation by transplanted
+Hyp mouse bone cells into normal mice. Endocrinology 123: 768-773,
+1988.
+
+16. Econs, M. J.; Friedman, N. E.; Rowe, P. S. N.; Speer, M. C.; Francis,
+F.; Strom, T. M.; Oudet, C.; Smith, J. A.; Ninomiya, J. T.; Lee, B.
+E.; Bergen, H.: A PHEX gene mutation is responsible for adult-onset
+vitamin D-resistant hypophosphatemic osteomalacia: evidence that the
+disorder is not a distinct entity from X-linked hypophosphatemic rickets. J.
+Clin. Endocr. Metab. 83: 3459-3462, 1998.
+
+17. Eicher, E. M.; Southard, J. L.; Scriver, C. R.; Glorieux, F. H.
+: Hypophosphatemia: mouse model for human familial hypophosphatemic
+(vitamin D-resistant) rickets. Proc. Nat. Acad. Sci. 73: 4667-4671,
+1976.
+
+18. Filisetti, D.; Ostermann, G.; von Bredow, M.; Strom, T.; Filler,
+G.; Ehrich, J.; Pannetier, S.; Garnier, J.-M.; Rowe, P.; Francis,
+F.; Julienne, A.; Hanauer, A.; Econs, M. J.; Oudet, C.: Non-random
+distribution of mutations in the PHEX gene, and under-detected missense
+mutations at non-conserved residues. Europ. J. Hum. Genet. 7: 615-619,
+1999.
+
+19. Frymoyer, J. W.; Hodgkin, W.: Adult-onset vitamin D-resistant
+hypophosphatemic osteomalacia: a possible variant of vitamin D-resistant
+rickets. J. Bone Joint Surg. Am. 59: 101-106, 1977.
+
+20. Gaucher, C.; Walrant-Debray, O.; Nguyen, T.-M.; Esterle, L.; Garabedian,
+M.; Jehan, F.: PHEX analysis in 118 pedigrees reveals new genetic
+clues in hypophosphatemic rickets. Hum. Genet. 125: 401-411, 2009.
+
+21. Goji, K.; Ozaki, K.; Sadewa, A. H.; Nishio, H.; Matsuo, M.: Somatic
+and germline mosaicism for a mutation of the PHEX gene can lead to
+genetic transmission of X-linked hypophosphatemic rickets that mimics
+an autosomal dominant trait. J. Clin. Endocr. Metab. 91: 365-370,
+2006.
+
+22. Grieff, M.; Mumm, S.; Waeltz, P.; Mazzarella, R.; Whyte, M. P.;
+Thakker, R. V.; Schlessinger, D.: Expression and cloning of the human
+X-linked hypophosphatemia gene cDNA. Biochem. Biophys. Res. Commun. 231:
+635-639, 1997.
+
+23. Guo, R.; Quarles, L. D.: Cloning and sequencing of human PEX
+from a bone cDNA library: evidence for its developmental stage-specific
+regulation in osteoblasts. J. Bone Miner. Res. 12: 1009-1017, 1997.
+
+24. Holm, I. A.; Huang, X.; Kunkel, L. M.: Mutational analysis of
+the PEX gene in patients with X-linked hypophosphatemic rickets. Am.
+J. Hum. Genet. 60: 790-797, 1997.
+
+25. HYP Consortium: A gene (HYP) with homologies to endopeptidases
+is mutated in patients with X-linked hypophosphatemic rickets. Nature
+Genet. 11: 130-136, 1995.
+
+26. Lobaugh, B.; Drezner, M. K.: Abnormal regulation of renal 25-hydroxyvitamin
+D-1-alpha-hydroxylase activity in the X-linked hypophosphatemic mouse. J.
+Clin. Invest. 71: 400-403, 1983.
+
+27. Lorenz-Depiereux, B.; Guido, V. E.; Johnson, K. R.; Zheng, Q.
+Y.; Gagnon, L. H.; Bauschatz, J. D.; Davisson, M. T.; Washburn, L.
+L.; Donahue, L. R.; Strom, T. M.; Eicher, E. M.: New intragenic deletions
+in the Phex gene clarify X-linked hypophosphatemia-related abnormalities
+in mice. Mammalian Genome 15: 151-161, 2004.
+
+28. Lyon, M. F.; Scriver, C. R.; Baker, L. R. I.; Tenenhouse, H. S.;
+Kronick, J.; Mandla, S.: The Gy mutation: another cause of X-linked
+hypophosphatemia in mouse. Proc. Nat. Acad. Sci. 83: 4899-4903,
+1986.
+
+29. Makras, P.; Hamdy, N. A. T.; Kant, S. G.; Papapoulos, S. E.:
+Normal growth and muscle dysfunction in X-linked hypophosphatemic
+rickets associated with a novel mutation in the PHEX gene. J. Clin.
+Endocr. Metab. 93: 1386-1389, 2008.
+
+30. Meyer, R. A., Jr.; Henley, C. M.; Meyer, M. H.; Morgan, P. L.;
+McDonald, A. G.; Mills, C.; Price, D. K.: Partial deletion of both
+the spermine synthase gene and the Pex gene in the X-linked hypophosphatemic,
+Gyro (Gy) mouse. Genomics 48: 289-295, 1998.
+
+31. Meyer, R. A., Jr.; Jowsey, J.; Meyer, M. H.: Osteomalacia and
+altered magnesium metabolism in the X-linked hypophosphatemic mouse. Calcif.
+Tissue Int. 27: 19-26, 1979.
+
+32. Meyer, R. A., Jr.; Meyer, M. H.; Gray, R. W.: Parabiosis suggests
+a humoral factor is involved in X-linked hypophosphatemia in mice. J.
+Bone Miner. Res. 4: 493-500, 1989.
+
+33. Nesbitt, T.; Coffman, T. M.; Griffiths, R.; Drezner, M. K.: Crosstransplantation
+of kidneys in normal and Hyp mice: evidence that the Hyp mouse phenotype
+is unrelated to an intrinsic renal defect. J. Clin. Invest. 89:
+1453-1459, 1992.
+
+34. Nesbitt, T.; Lobaugh, B.; Drezner, M. K.: Calcitonin stimulation
+of renal 25-hydroxyvitamin D-1(alpha)-hydroxylase activity in hypophosphatemic
+mice: evidence that the regulation of calcitriol production is not
+universally abnormal in X-linked hypophosphatemia. J. Clin. Invest. 79:
+15-19, 1987.
+
+35. Nesbitt, T.; Lobaugh, B.; Drezner, M. K.: Calcitonin stimulation
+of renal 25-hydroxyvitamin D-1(alpha)-hydroxylase activity in hypophosphatemic
+mice: evidence that the regulation of calcitriol production is not
+universally abnormal in X-linked hypophosphatemia. J. Clin. Invest. 79:
+15-19, 1987.
+
+36. Sabbagh, Y.; Boileau, G.; Campos, M.; Carmona, A. K.; Tenenhouse,
+H. S.: Structure and function of disease-causing missense mutations
+in the PHEX gene. J. Clin. Endocr. Metab. 88: 2213-2222, 2003.
+
+37. Sabbagh, Y.; Boileau, G.; DesGroseillers, L.; Tenenhouse, H. S.
+: Disease-causing missense mutations in the PHEX gene interfere with
+membrane targeting of the recombinant protein. Hum. Molec. Genet. 10:
+1539-1546, 2001.
+
+38. Sabbagh, Y.; Carpenter, T. O.; Demay, M. B.: Hypophosphatemia
+leads to rickets by impairing caspase-mediated apoptosis of hypertrophic
+chondrocytes. Proc. Nat. Acad. Sci. 102: 9637-9642, 2005.
+
+39. Sabbagh, Y.; Jones, A. O.; Tenenhouse, H. S.: PHEXdb, a locus-specific
+database for mutations causing X-linked hypophosphatemia. Hum. Mutat. 16:
+1-6, 2000.
+
+40. Shah, B. R.; Fiordalisi, I.; Sheinbaum, K.; Finberg, L.: Familial
+glucocorticoid deficiency in a girl with familial hypophosphatemic
+rickets. Am. J. Dis. Child. 142: 900-903, 1988. Note: Erratum: Am.
+J. Dis. Child. 142: 1330 only, 1988.
+
+41. Strom, T. M.; Francis, F.; Lorenz, B.; Boddrich, A.; Econs, M.
+J.; Lehrach, H.; Meitinger, T.: Pex gene deletions in Gy and Hyp
+mice provide mouse models for X-linked hypophosphatemia. Hum. Molec.
+Genet. 6: 165-171, 1997.
+
+42. Strom, T. M.; Francis, F.; Lorenz, B.; Boddrich, A.; Econs, M.
+J.; Lehrach, H.; Meitinger, T.: Pex gene deletions in Gy and Hyp
+mice provide mouse models for X-linked hypophosphatemia. Hum. Molec.
+Genet. 6: 165-171, 1997.
+
+43. Tenenhouse, H. S.; Werner, A.; Biber, J.; Ma, S.; Martel, J.;
+Roy, S.; Murer, H.: Renal Na(+)-phosphate cotransport in murine X-linked
+hypophosphatemic rickets: molecular characterization. J. Clin. Invest. 93:
+671-676, 1994.
+
+44. Yuan, B.; Takaiwa, M.; Clemens, T. L.; Feng, J. Q.; Kumar, R.;
+Rowe, P. S.; Xie, Y.; Drezner, M. K.: Aberrant Phex function in osteoblasts
+and osteocytes alone underlies murine X-linked hypophosphatemia. J.
+Clin. Invest. 118: 722-734, 2008.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 10/6/2010
+John A. Phillips, III - updated: 1/14/2009
+Marla J. F. O'Neill - updated: 3/20/2008
+John A. Phillips, III - updated: 3/21/2007
+Cassandra L. Kniffin - updated: 9/7/2005
+Cassandra L. Kniffin - updated: 8/15/2005
+
+CREATED Cassandra L. Kniffin: 7/28/2005
+
+EDITED terry: 04/04/2013
+alopez: 4/18/2011
+terry: 1/13/2011
+wwang: 10/8/2010
+terry: 10/6/2010
+alopez: 1/14/2009
+wwang: 3/25/2008
+terry: 3/20/2008
+terry: 8/6/2007
+carol: 3/21/2007
+wwang: 9/23/2005
+wwang: 9/19/2005
+ckniffin: 9/7/2005
+carol: 9/1/2005
+ckniffin: 8/15/2005
+
+606549	TITLE *606549 MEMBRANE-SPANNING 4-DOMAINS, SUBFAMILY A, MEMBER 8B; MS4A8B
+DESCRIPTION MS4A family proteins share structural similarity, amino acid sequence
+homology, and chromosomal location. They contain 4 highly conserved
+transmembrane domains, flanked by N- and C-terminal cytoplasmic regions.
+
+CLONING
+
+By database searching for homologs of CD20 (MS4A1; 112210), Liang and
+Tedder (2001) obtained a cDNA encoding MS4A8B. The predicted 250-amino
+acid protein is 63% identical to its mouse homolog. PCR analysis
+detected weak expression of MS4A8B in cDNA from 3 B-cell lines.
+
+MAPPING
+
+By genomic sequence analysis, Liang and Tedder (2001) mapped the MS4A8B
+gene to chromosome 11q12-q13, in the same region as MS4A2 (147138) and
+MS4A3 (606498).
+
+REFERENCE 1. Liang, Y.; Tedder, T. F.: Identification of a CD20-, Fc-epsilon-RI-beta-related
+gene family: sixteen new MS4A family members expressed in human and
+mouse. Genomics 72: 119-127, 2001.
+
+CREATED Paul J. Converse: 12/11/2001
+
+EDITED mgross: 12/11/2001
+

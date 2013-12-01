@@ -1,0 +1,116 @@
+602644	TITLE *602644 TETRASPANIN 4; TSPAN4
+;;TRANSMEMBRANE 4 SUPERFAMILY, MEMBER 7; TM4SF7;;
+TETRASPAN;;
+NOVEL ANTIGEN 2; NAG2
+DESCRIPTION 
+DESCRIPTION
+
+TSPAN4 belongs to the large family of tetraspanins, so named because
+they contain 4 transmembrane domains. Tetraspanins are frequently
+expressed at the cell surface in association with each other and with
+other molecules, such as integrins (see ITGB1; 135630), and they
+function to regulate cell adhesion, migration, proliferation, and
+differentiation (summary by Todd et al., 1998).
+
+CLONING
+
+Tachibana et al. (1997) generated monoclonal antibodies against proteins
+that coimmunoprecipitated with CD81 (TAPA1; 186845) from a human breast
+cancer cell line. Two antibodies recognized a 28- to 35-kD protein,
+which Tachibana et al. (1997) named NAG2 for 'novel antigen-2.' Using
+the antibodies to screen a cDNA expression library derived from the
+breast cancer cell line, the authors cloned cDNAs encoding NAG2. The
+predicted 238-amino acid NAG2 protein contains 4 hydrophobic domains and
+shows homology to transmembrane 4 superfamily (TM4SF) proteins. Northern
+blot analysis detected a 1.5-kb NAG2 mRNA, and together with flow
+cytometry and immunohistochemistry, showed that NAG2 was expressed in
+multiple tissues but was absent in brain, lymphoid cells, and platelets.
+Immunofluorescence analysis showed that NAG2 colocalized with CD81 on
+the cell surface. Tachibana et al. (1997) identified mouse ESTs encoding
+the mouse homolog of NAG2. The human and mouse NAG2 proteins have 95%
+amino acid identity.
+
+By searching an EST database for sequences containing a tetraspanin
+consensus sequence, Todd et al. (1998) identified human TSPAN4. The
+deduced 238-amino acid protein contains 4 transmembrane domains and
+other features characteristic of tetraspanins, including conservation of
+charged residues in or near the transmembrane domains, similar to ion
+channels, and of 4 cysteines in the second extracellular domain.
+Northern blot analysis detected highest TSPAN4 expression in heart and
+placenta. EST database analysis suggested that TSPAN4 is also expressed
+in brain, melanocytes, pancreas, and fetal liver/spleen, in addition to
+pregnant uterus and adult and fetal heart.
+
+GENE FUNCTION
+
+Tachibana et al. (1997) found that NAG2 coimmunoprecipitated with
+integrins and other TM4SF members, indicating that NAG2 is present in
+TM4SF-TM4SF and TM4SF-integrin complexes.
+
+MAPPING
+
+Hartz (2009) mapped the TSPAN4 gene to chromosome 11p15.5 based on an
+alignment of the TSPAN4 sequence (GenBank GENBANK AF022813) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  11/23/2009.
+
+2. Tachibana, I.; Bodorova, J.; Berditchevski, F.; Zutter, M. M.;
+Hemler, M. E.: NAG-2, a novel transmembrane-4 superfamily (TM4SF)
+protein that complexes with integrins and other TM4SF proteins. J.
+Biol. Chem. 272: 29181-29189, 1997.
+
+3. Todd, S. C.; Doctor, V. S.; Levy, S.: Sequences and expression
+of six new members of the tetraspanin/TM4SF family. Biochim. Biophys.
+Acta 1399: 101-104, 1998.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/20/2009
+
+CREATED Rebekah S. Rasooly: 5/20/1998
+
+EDITED mgross: 12/03/2009
+mgross: 11/23/2009
+terry: 11/20/2009
+alopez: 1/19/2006
+psherman: 1/11/1999
+carol: 8/10/1998
+psherman: 5/29/1998
+psherman: 5/21/1998
+psherman: 5/20/1998
+
+611333	TITLE *611333 SMALL NUCLEOLAR RNA, H/ACA BOX, 45; SNORA45
+;;snoRNA, ACA3-2
+DESCRIPTION 
+DESCRIPTION
+
+Small nucleolar RNAs (snoRNAs) are small noncoding RNAs involved in RNA
+processing. Box H/ACA snoRNAs, such as SNORA45, direct the conversion of
+uridine to pseudouridine at specific residues of ribosomal RNAs or small
+nuclear RNAs (snRNAs) (Gu et al., 2005).
+
+CLONING
+
+By RT-PCR of human blood total RNA, Gu et al. (2005) identified several
+box H/ACA snoRNAs, including SNORA45, which they called ACA3-2. ACA3-2
+contains 131 nucleotides and has 2 isoforms.
+
+GENE FUNCTION
+
+Based on sequence complementarity, Gu et al. (2005) predicted that
+ACA3-2 directs pseudouridylation of U3889 of 28S ribosomal RNA (see
+180450).
+
+MAPPING
+
+Gu et al. (2005) mapped the SNORA45 gene to chromosome 11, within intron
+4 of the RPL27A gene (603637).
+
+REFERENCE 1. Gu, A.-D.; Zhou, H.; Yu, C.-H.; Qu, L.-H.: A novel experimental
+approach for systematic identification of box H/ACA snoRNAs from eukaryotes. Nucleic
+Acids Res. 33: e194, 2005. Note: Electronic Article.
+
+CREATED Patricia A. Hartz: 8/16/2007
+
+EDITED wwang: 05/20/2010
+mgross: 8/16/2007
+

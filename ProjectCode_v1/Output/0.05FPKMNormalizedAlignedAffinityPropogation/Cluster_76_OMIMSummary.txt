@@ -1,0 +1,618 @@
+107770	TITLE *107770 LOW DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 1; LRP1
+;;LIPOPROTEIN RECEPTOR-RELATED PROTEIN; LRP;;
+ALPHA-2-MACROGLOBULIN RECEPTOR; A2MR;;
+APOLIPOPROTEIN RECEPTOR; APR;;
+APOLIPOPROTEIN E RECEPTOR; APOER;;
+CD91;;
+CED1, C. ELEGANS, HOMOLOG OF
+DESCRIPTION 
+DESCRIPTION
+
+LRP1 is synthesized as a 600-kD precursor transmembrane glycoprotein
+that is cleaved in trans-Golgi network by furin (136950) to generate a
+515-kD alpha subunit and an 85-kD beta subunit. The alpha and beta
+subunits remain noncovalently associated during LRP1 transport to the
+cell membrane. LRP1 interacts with a broad range of secreted proteins
+and cell surface molecules and mediates their endocytosis and/or
+activates signaling pathways through multiple cytosolic adaptor and
+scaffold proteins. Phosphorylation of the LRP1 tail regulates ligand
+internalization and signal transduction (summary by Deane et al., 2004).
+
+CLONING
+
+Herz et al. (1988) cloned a cDNA for the low density lipoprotein
+receptor-related protein (LRP) by virtue of its close homology to the
+LDL receptor (606945). The 4,544-amino acid protein contains a single
+transmembrane segment. Northern blot analysis detected LRP1 mRNA in
+liver, brain, and lung. Kristensen et al. (1990) and Strickland et al.
+(1990) demonstrated that LRP is identical to alpha-2-macroglobulin (A2M;
+103950) receptor (A2MR). Like mannose-6-phosphate receptor (147280), the
+A2MR/LRP molecule is probably bifunctional.
+
+In the free-living nematode Caenorhabditis elegans, Yochem and Greenwald
+(1993) isolated and sequenced a gene more than 23 kb long that encodes a
+large integral membrane protein with a predicted structure similar to
+that of LRP of mammals. The 4,753-amino acid product predicted for the
+C. elegans gene shared a nearly identical number and arrangement of
+amino acid sequence motifs with human LRP, and several exons of the C.
+elegans LRP gene corresponded to exons of related parts of the human LRP
+gene.
+
+Ranganathan et al. (2011) stated that the heavy chain of LRP1 contains 4
+clusters of ligand-binding repeats. The light chain includes the
+transmembrane domain and cytoplasmic domain, which contains 2 NPxY
+motifs and 2 dileucine repeats that contribute to LRP1 endocytosis.
+Ranganathan et al. (2011) also purified a soluble form of LRP1 from
+human plasma.
+
+MAPPING
+
+Myklebost et al. (1989) mapped the gene for the LRP-related protein to
+12q13-q14 by study of DNA from rodent-human cell hybrids and by in situ
+hybridization; the symbol APOER was used initially because of the
+putative APOE receptor function.
+
+By pulsed field gel analysis, Forus et al. (1991) found that the APR and
+GLI genes are closely situated; probes for either gene hybridized to DNA
+fragments of molecular weight 300-400 kb. More detailed restriction
+analysis showed that the intergenic region was between 200 and 300 kb
+(Forus and Myklebost, 1992). Hilliker et al. (1992) confirmed the
+assignment to 12q13-q14 using both nonisotopic and isotopic in situ
+hybridization. Also by in situ hybridization, they assigned the
+corresponding locus to mouse chromosome 15. Binder et al. (2000) pointed
+out that gp96 and CD91 both map to the long arm of chromosome 12.
+
+GENE FUNCTION
+
+Herz et al. (1988) found that LRP showed strong calcium binding.
+
+Kounnas et al. (1995) showed that LRP mediates the endocytosis and
+degradation of secreted amyloid precursor protein (APP; 104760),
+suggesting that a single metabolic pathway links 2 molecules implicated
+in the pathophysiology of Alzheimer disease (AD; 104300). Narita et al.
+(1997) showed that A2M, via LRP, mediates the clearance and degradation
+of APP-generated beta-amyloid (A-beta), the major component of amyloid
+plaques in AD.
+
+Kang et al. (2000) demonstrated in vitro that LRP1 is required for the
+A2M-mediated clearance of A-beta 40 and 42 via a bona fide
+receptor-mediated cellular uptake mechanism. Analysis of postmortem
+human brain tissue showed that LRP expression normally declines with
+age, and that LRP expression in AD brains was significantly lower than
+in controls. Within the AD group, higher LRP levels were correlated with
+later age of onset of AD and death. Kang et al. (2000) concluded that
+reduced LRP expression is a contributing risk factor for AD, possibly by
+impeding the clearance of soluble beta-amyloid.
+
+The heat-shock protein gp96 (TRA1; 191175) is an intracellular protein
+capable of chaperoning exogenous antigens from tumors or virus-infected
+cells to antigen-presenting cells for presentation through major
+histocompatibility complex (MHC) class I rather than class II molecules,
+thereby eliciting CD8 (186910)-positive T-cell responses. Using a mouse
+system, Binder et al. (2000) determined that the receptor for gp96 is
+CD91 (A2MR) and that A2M, a protein found in blood, inhibits gp96
+binding to CD91. They proposed that CD91 acts as a sensor for necrotic
+cell death in tissues, leading to proinflammatory immune responses.
+
+Basu et al. (2001) used fluorescence-labeled heat-shock proteins (HSPs)
+to show that not only GP96, but also HSP90 (HSPCA; 140571), HSP70 (see
+HSPA1A, 140550), and calreticulin (CALR; 109091) use CD91 as a common
+receptor. The ability of the cells to bind HSPs correlates with the
+proteasome- and TAP (170260)-dependent ability to re-present
+HSP-chaperoned peptides.
+
+Forus et al. (1991) found that the APR and GLI (165220) genes are
+coamplified in a rhabdomyosarcoma cell line.
+
+Smeijers et al. (2002) showed that murine Lrp1 is a cell surface
+receptor for Pseudomonas aeruginosa toxin A.
+
+Wang et al. (2003) demonstrated that tissue plasminogen activator (tPA,
+or PLAT; 173370) upregulates MMP9 (120361) in cell culture and in vivo.
+MMP9 levels were lower in tPA knockout compared with wildtype mice after
+focal cerebral ischemia. In human cerebral microvascular endothelial
+cells, MMP9 was upregulated when recombinant tPA was added. RNA
+interference suggested that this response was mediated by LRP1, which
+avidly binds tPA and possesses signaling properties.
+
+THBS1 (188060) or a peptide of the 19-amino acid active site in its
+heparin-binding domain signals focal adhesion disassembly through
+interaction with a cell surface form of calreticulin (CRT, or CALR;
+109091). Using bovine aortic endothelial cells and wildtype and Lrp -/-
+mouse fibroblasts, Orr et al. (2003) showed that Lrp interacted with Crt
+and was required to mediate focal adhesion disassembly and downstream
+signaling for reorganization of focal adhesions. Binding of the LRP
+ligand RAP to purified human LRP inhibited interaction between
+recombinant human CRT and LRP.
+
+Deane et al. (2004) found that wildtype A-beta 40 bound immobilized LRP
+with higher affinity than A-beta 42 or mutant A-beta 40 due to the lower
+beta sheet content of wildtype A-beta 40 compared with the other
+molecules. Lrp at mouse brain capillaries mediated clearance of wildtype
+A-beta 40 across the blood-brain barrier at a rate much higher than
+those for A-beta 42 and mutant A-beta 40. In primary human brain
+endothelial capillaries in culture, high concentrations of all A-beta
+species reduced LRP content via degradation in proteasomes. Loss of the
+LRP-binding protein Rap (LRPAP1; 104225) in Rap -/- mice reduced brain
+capillary clearance of all A-beta species. Expression of LRP was reduced
+in AD and Dutch-type cerebrovascular beta-amyloidosis (605714) brain
+tissue, suggesting that inadequate LRP-mediated A-beta clearance
+contributes to the formation of neurotoxic A-beta oligomers and
+progressive neuronal dysfunction.
+
+The cysteine-rich extracellular domains (CRDs) of frizzled proteins (see
+FZ1, or FZD1; 603408) function as Wnt (see WNT3A; 606359) receptors.
+Using transfected HEK293 cells, Zilberberg et al. (2004) showed that
+LRP1 or a C-terminal fragment of LRP1 containing the fourth cluster of
+ligand-binding repeats, the transmembrane domain, and the cytoplasmic
+tail bound the CRD of human FZ1 and inhibited FZ1-dependent Wnt
+signaling. LRP1 did not mediate FZ1 internalization and degradation, but
+sequestered FZ1 and inhibited its formation of a functional Wnt
+signaling complex with LRP6 (603507).
+
+Since BACE1 (604252) and APP interact and traffic with one another, and
+APP interacts with and traffics with LRP1, von Arnim et al. (2005)
+investigated interactions between BACE1 and LRP1. They found that BACE1
+interacted with the light chain of LRP1 on the cell surface in
+association with lipid rafts. The BACE-LRP1 interaction led to increased
+LRP1 extracellular domain cleavage and subsequent release of the LRP1
+intracellular domain from the membrane. Von Arnim et al. (2005)
+concluded that LRP1 is a BACE1 substrate.
+
+Kinchen et al. (2005) showed that in C. elegans, CED1 (LRP1), CED6 (see
+608165), and CED7 (see 601615) are required for actin reorganization
+around the apoptotic cell corpse, and that CED1 and CED6 colocalize with
+each other and with actin around the dead cell. Furthermore, Kinchen et
+al. (2005) found that the CED10 (RAC1; 602048) GTPase acts genetically
+downstream of these proteins to mediate corpse removal, functionally
+linking the 2 engulfment pathways and identifying the CED1, CED6, and
+CED7 signaling module as upstream regulators of Rac activation.
+
+Using knockout mice, Liu et al. (2007) found that expression of Lrp1 was
+elevated following deletion of App, its homolog Aplp2 (104776), or
+components of the App-processing gamma-secretase complex (see 104311).
+Lrp1 expression was also elevated following inhibition of
+gamma-secretase activity. Elevated Lrp1 mRNA and protein was accompanied
+by increased catabolism of Apoe (107741) and cholesterol. Reporter gene
+assays and chromatin immunoprecipitation analysis revealed that the App
+intracellular domain (AICD), which is released along with A-beta by
+gamma-secretase activity, bound the Lrp1 promoter together with Fe65
+(APBB1; 602709) and Tip60 (KAT5; 601409) and suppressed Lrp1 expression.
+
+Gaultier et al. (2008) found that Schwann cells in injured rodent nerve
+exhibited increased expression of Lrp1. A soluble fragment of Lrp1 with
+an intact alpha chain (sLrp-alpha) was shed by Schwann cells in vitro
+and in the peripheral nervous system after injury. Injection of purified
+sLrp-alpha into mouse sciatic nerves prior to chronic constriction
+injury inhibited p38 Mapk (MAPK14; 600289) activation and decreased
+expression of Tnf-alpha (191160) and Il1-beta (147720) locally.
+sLrp-alpha also inhibited injury-induced spontaneous neuropathic pain
+and decreased inflammatory cytokine expression in the spinal dorsal
+horn, where neuropathic pain processing occurs. In cultured rat Schwann
+cells, astrocytes, and microglia, sLrp-alpha inhibited Tnf-alpha-induced
+activation of p38 Mapk and Erk/Mapk.
+
+The cell surface receptor CED1 mediates apoptotic cell recognition by
+phagocytic cells, enabling cell corpse clearance in C. elegans. Chen et
+al. (2010) found that the C. elegans intracellular protein sorting
+complex, retromer, was required for cell corpse clearance by mediating
+the recycling of CED1. The mammalian retromer complex contains sorting
+nexins 1/2 (601272, 605929) (C. elegans homolog snx1) and 5/6 (605937,
+606098) (C. elegans homolog snx6). Retromer was recruited to the
+surfaces of phagosomes containing cell corpses, and its loss of function
+caused defective cell corpse removal. The retromer probably acted
+through direct interaction with CED1 in the cell corpse recognition
+pathway. In the absence of retromer function, CED1 associated with
+lysosomes and failed to recycle from phagosomes and cytosol to the
+plasma membrane. Thus, Chen et al. (2010) concluded that retromer is an
+essential mediator of apoptotic cell clearance by regulating phagocytic
+receptor(s) during cell corpse engulfment.
+
+Ranganathan et al. (2011) noted that previous work (Cao et al., 2006)
+had shown colocalization of LRP1 with integrin alpha-M (ITGAM;
+120980)/beta-2 (ITGB2; 600065) at the trailing edge of migrating
+macrophages and that macrophage migration depended upon coordinated
+action of LRP1 and alpha-M/beta-2, as well as tissue plasminogen
+activator and its inhibitor, PAI1 (SERPINE1; 173360). Ranganathan et al.
+(2011) found that LRP1 specifically bound integrin alpha-M/beta-2, but
+not the homologous receptor integrin alpha-L (ITGAL; 153370)/beta-2.
+Activation of alpha-M/beta-2 by lipopolysaccharide (LPS) enhanced
+interaction between LRP1 and alpha-M/beta-2 in macrophages. Transfection
+experiments in HEK293 cells revealed that both the heavy and light
+chains of LRP1 contributed to alpha-M/beta-2 binding. Within the LRP1
+heavy chain, binding was mediated primarily via ligand-binding motifs 2
+and 4. Within alpha-M, the sequence EQLKKSKTL within the I domain was
+the major LRP1 recognition site. Exposure of alpha-M/beta-2-expressing
+HEK293 cells to soluble LRP1 inhibited cell attachment to fibrinogen
+(see 134820). Mouse macrophages lacking Lrp1 were deficient in
+alpha-M/beta-2 internalization upon LPS stimulation. Ranganathan et al.
+(2011) concluded that LRP1 has a role in macrophage migration and that
+it is critical for internalization of integrin alpha-M/beta-2.
+
+MOLECULAR GENETICS
+
+- Association with Alzheimer disease
+
+The low density lipoprotein receptor-related protein gene was an
+attractive candidate for Alzheimer disease (AD) for several reasons. The
+multifunctional LRP had been shown to function as a receptor for the
+uptake of apolipoprotein E-containing lipoprotein particles by neurons.
+The apoE4 (107741) allele is strongly associated with an increased risk
+of late-onset familial Alzheimer disease and both late-onset and
+early-onset sporadic AD. The LRP receptor is prominently located in the
+soma regions and proximal processes of neurons. In a case-control study
+of 183 familial and sporadic AD patients and 118 controls, Lendon et al.
+(1997) found a moderate association (odds ratio = 1.57, p = 0.024)
+between AD and the 87-bp allele of a tetranucleotide repeat polymorphism
+located 5-prime to the LRP1 gene. Furthermore, Pericak-Vance et al.
+(1997) found in a genomic screen and follow-up analysis of 54 late-onset
+AD families, 4 regions potentially harboring AD genes; one of these
+regions, on chromosome 12, was located about 10 cM proximal of LRP1.
+Scott et al. (1998) examined 144 late-onset multiplex AD families, 436
+sporadic AD cases, and 240 controls and found no evidence of linkage or
+association of LRP1 and AD. Their data indicated that genetic variation
+in the LRP1 gene is not a major risk factor in the etiology of Alzheimer
+disease.
+
+Among 157 patients with late-onset AD (85 with a family history and 72
+without a family history), Kang et al. (1997) found increased frequency
+of the C allele of a 766C-T polymorphism in exon 3 of the LRP1 gene
+compared to controls, although the C allele was common in controls. The
+authors suggested that the polymorphism, predicted to be silent, may be
+in linkage disequilibrium with a putative nearby AD susceptibility
+locus. Studies by Hollenbach et al. (1998) and Baum et al. (1998) also
+provided evidence of increased frequency of the 766C allele in patients
+with AD. McIlroy et al. (2001) found no association with the exon 3
+polymorphism and development of AD.
+
+Kang et al. (2000) noted that LRP and its ligands, APOE and
+alpha-2-macroglobulin, are all genetically associated with AD.
+
+Bian et al. (2005) investigated the potential genetic contribution of 4
+polymorphisms in LRP1 to AD in the Han Chinese population by studying
+216 late-onset AD patients and 200 control subjects. The LRP1 CTCG
+haplotype (exon 3 T/C; intron 6 T/C, dbSNP rs2306692; exon 22 T/C;
+intron 83 A/G, dbSNP rs1800164) was overrepresented in the control group
+(p = 0.002). This difference was still statistically significant in the
+APOE4-negative subjects (p = 0.003), indicating that the CTCG haplotype
+of LRP1 may reduce the risk for late-onset AD.
+
+- Association with Abdominal Aortic Aneurysm
+
+For discussion of a possible association between variation in the LRP1
+gene and abdominal aortic aneurysm, see AAA4 (614375).
+
+- Intellectual Disability
+
+For discussion of mutation in the LRP1 gene as a possible cause of
+intellectual disability, see 107770.0001.
+
+ANIMAL MODEL
+
+Boucher et al. (2003) developed tissue-specific knockout mice that
+lacked Lrp1 only in vascular smooth muscle cells. To increase
+susceptibility to spontaneous atherosclerotic lesion development, these
+animals were crossed to LDL receptor (Ldlr; 606945) knockout mice to
+generate Ldlr-/smooth muscle Lrp- mice. The presence or absence of Lrp1
+expression in smooth muscle cells had no effect on plasma cholesterol or
+triglyceride levels in mice on normal chow or an atherogenic
+high-cholesterol diet. However, aortas from smooth muscle Lrp- mice were
+consistently distended and dilated. This difference increased over time
+and was accompanied by thickening of the aortic wall, pronounced
+atherosclerosis, and aneurysm formation. Boucher et al. (2003) showed
+that Lrp1 forms a complex with the PDGF receptor (see PDGFR1, 173410).
+Inactivation of Lrp1 in vascular smooth muscle cells of mice caused
+PDGFR overexpression and abnormal activation of PDGFR signaling,
+resulting in disruption of the elastic layer, smooth muscle cell
+proliferation, aneurysm formation, and marked susceptibility to
+cholesterol-induced atherosclerosis. The development of these
+abnormalities was reduced by treatment with Gleevec, an inhibitor of
+PDGF signaling. Thus, Boucher et al. (2003) concluded that LRP1 has a
+pivotal role in protecting vascular wall integrity and preventing
+atherosclerosis by controlling PDGFR activation.
+
+May et al. (2004) found that mice with targeted disruption of the Lrp1
+gene in differentiated postmitotic neurons demonstrated hyperactivity
+and constant tremor, and later developed dystonic posturing with
+increased thoracic kyphosis, waddling gait, and hindlimb weakness,
+suggesting motoneuronal disinhibition or motor excitation. The
+transgenic mice died prematurely at about 9 months of age. Brain
+morphology was normal with no major neuronal loss, suggesting a
+functional abnormality in neurotransmission. In vitro, LRP1
+coimmunoprecipitated and colocalized with the postsynaptic protein PSD95
+(602887) and the N-methyl-D-aspartate (NMDA) receptor subunits NR2A
+(138253) and NR2B (138252). Treatment of neurons with NMDA reduced the
+interaction of Lrp1 and Psd95. May et al. (2004) concluded that LRP1
+plays a role in behavior and motor function by regulating postsynaptic
+signaling mechanisms through interaction with NMDA receptors.
+
+Hofmann et al. (2007) generated mice with adipocyte-specific
+inactivation of LRP1 and observed delayed postprandial lipid clearance,
+reduced body weight, smaller fat stores, lipid-depleted brown
+adipocytes, improved glucose tolerance, and elevated energy expenditure
+due to enhanced muscle thermogenesis. In addition, the mutant mice were
+resistant to dietary fat-induced obesity and glucose intolerance.
+Hofmann et al. (2007) concluded that LRP1 is a critical regulator of
+adipocyte energy homeostasis.
+
+ALLELIC VARIANT .0001
+VARIANT OF UNKNOWN SIGNIFICANCE
+LRP1, HIS3258GLN
+
+This variant is classified as a variant of unknown significance because
+its contribution to intellectual disability has not been confirmed.
+
+In a boy who developed seizures and developmental stagnation at age 22
+months and ultimately had severe intellectual disability with an IQ of
+34, stereotypic behavior, high pain threshold, and sleep disturbances
+with a normal brain MRI and no dysmorphic features, de Ligt et al.
+(2012) identified a de novo heterozygous 9774C-G transversion resulting
+in a his3258-to-gln (H3258Q) substitution.
+
+ADDITIONAL REFERENCES Beisiegel et al. (1989)
+REFERENCE 1. Basu, S.; Binder, R. J.; Ramalingam, T.; Srivastava, P. K.: CD91
+is a common receptor for heat shock proteins gp96, hsp90, hsp70, and
+calreticulin. Immunity 14: 303-313, 2001.
+
+2. Baum, L.; Chen, L.; Ng, H.-K.; Chan, Y. S.; Mak, Y. T.; Woo, J.;
+Chiu, H. F. K.; Pang, C. P.: Low density lipoprotein receptor related
+protein gene exon 3 polymorphism association with Alzheimer's disease
+in Chinese. Neurosci. Lett. 247: 33-36, 1998.
+
+3. Beisiegel, U.; Weber, W.; Ihrke, G.; Herz, J.; Stanley, K. K.:
+The LDL-receptor-related protein, LRP, is an apolipoprotein E-binding
+protein. Nature 341: 162-164, 1989.
+
+4. Bian, L.; Yang, J. D.; Guo, T. W.; Duan, Y.; Qin, W.; Sun, Y.;
+Feng, G. Y.; He, L.: Association study of the A2M and LRP1 genes
+with Alzheimer disease in the Han Chinese. Biol. Psychiat. 58: 731-737,
+2005.
+
+5. Binder, R. J.; Han, D. K.; Srivastava, P. K.: CD91: a receptor
+for heat shock protein gp96. Nature Immun. 1: 151-155, 2000.
+
+6. Boucher, P.; Gotthardt, M.; Li, W.-P.; Anderson, R. G. W.; Herz,
+J.: LRP: role in vascular wall integrity and protection from atherosclerosis. Science 300:
+329-332, 2003.
+
+7. Cao, C.; Lawrence, D. A.; Li, Y.; Von Arnim, C. A.; Herz, J.; Su,
+E. J.; Makarova, A.; Hyman, B. T.; Strickland, D. K.; Zhang, L.:
+Endocytic receptor LRP together with tPA and PAI-1 coordinates Mac-1-dependent
+macrophage migration. EMBO J. 25: 1860-1870, 2006.
+
+8. Chen, D.; Xiao, H.; Zhang, K.; Wang, B.; Gao, Z.; Jian, Y.; Qi,
+X.; Sun, J.; Miao, L.; Yang, C.: Retromer is required for apoptotic
+cell clearance by phagocytic receptor recycling. Science 327: 1261-1264,
+2010.
+
+9. Deane, R.; Wu, Z.; Sagare, A.; Davis, J.; Yan, S. D.; Hamm, K.;
+Xu, F.; Parisi, M.; LaRue, B.; Hu, H. W.; Spijkers, P.; Guo, H.; Song,
+X.; Lenting, P. J.; Van Nostrand, W. E.; Zlokovic, B. V.: LRP/amyloid
+beta-peptide interaction mediates differential brain efflux of A-beta
+isoforms. Neuron 43: 333-344, 2004.
+
+10. de Ligt, J.; Willemsen, M. H.; van Bon, B. W. M.; Kleefstra, T.;
+Yntema, H. G.; Kroes, T.; Vulto-van Silfhout, A. T.; Koolen, D. A.;
+de Vries, P.; Gilissen, C.; del Rosario, M.; Hoischen, A.; Scheffer,
+H.; de Vries, B. B. A.; Brunner, H. G.; Veltman, J. A.; Vissers, L.
+E. L. M.: Diagnostic exome sequencing in persons with severe intellectual
+disability. New Eng. J. Med. 367: 1921-1929, 2012.
+
+11. Forus, A.; Maelandsmo, G. M.; Fodstad, Y.; Myklebost, O.: The
+genes for the alpha-2-macroglobulin receptor/LDL receptor-related
+protein and GLI are located within a chromosomal segment of about
+300 kilobases and are coamplified in a rhabdomyosarcoma cell line.
+(Abstract) Cytogenet. Cell Genet. 58: 1977 only, 1991.
+
+12. Forus, A.; Myklebost, O.: A physical map of a 1.3-Mb region on
+the long arm of chromosome 12, spanning the GLI and LRP loci. Genomics 14:
+117-120, 1992.
+
+13. Gaultier, A.; Arandjelovic, S.; Li, X.; Janes, J.; Dragojlovic,
+N.; Zhou, G. P.; Dolkas, J.; Myers, R. R.; Gonias, S. L.; Campana,
+W. M.: A shed form of LDL receptor-related protein-1 regulates peripheral
+nerve injury and neuropathic pain in rodents. J. Clin. Invest. 118:
+161-172, 2008.
+
+14. Herz, J.; Hamann, U.; Rogne, S.; Myklebost, O.; Gausepohl, H.;
+Stanley, K. K.: Surface location and high affinity for calcium of
+a 500 kd liver membrane protein closely related to the LDL-receptor
+suggest a physiological role as lipoprotein receptor. EMBO J. 7:
+4119-4127, 1988.
+
+15. Hilliker, C.; Van Leuven, F.; Van Den Berghe, H.: Assignment
+of the gene coding for the alpha(2)-macroglobulin receptor to mouse
+chromosome 15 and to human chromosome 12q13-q14 by isotopic and nonisotopic
+in situ hybridization. Genomics 13: 472-474, 1992.
+
+16. Hofmann, S. M.; Zhou, L.; Perez-Tilve, D.; Greer, T.; Grant, E.;
+Wancata, L.; Thomas, A.; Pfluger, P. T.; Basford, J. E.; Gilham, D.;
+Herz, J.; Tschop, M. H.; Hui, D. Y.: Adipocyte LDL receptor-related
+protein-1 expression modulates postprandial lipid transport and glucose
+homeostasis in mice. J. Clin. Invest. 117: 3271-3282, 2007.
+
+17. Hollenbach, E.; Ackermann, S.; Hyman, B. T.; Rebeck, G. W.: Confirmation
+of an association between a polymorphism in exon 3 of the low-density
+lipoprotein receptor-related protein gene and Alzheimer's disease. Neurology 50:
+1905-1907, 1998.
+
+18. Kang, D. E.; Pietrzik, C. U.; Baum, L.; Chevallier, N.; Merriam,
+D. E.; Kounnas, M. Z.; Wagner, S. L.; Troncoso, J. C.; Kawas, C. H.;
+Katzman, R.; Koo, E. H.: Modulation of amyloid beta-protein clearance
+and Alzheimer's disease susceptibility by the LDL receptor-related
+protein pathway. J. Clin. Invest. 106: 1159-1166, 2000.
+
+19. Kang, D. E.; Saitoh, T.; Chen, X.; Xia, Y.; Masliah, E.; Hansen,
+L. A.; Thomas, R. G.; Thal, L. J.; Katzman, R.: Genetic association
+of the low-density lipoprotein receptor-related protein gene (LRP),
+an apolipoprotein E receptor, with late-onset Alzheimer's disease. Neurology 49:
+56-61, 1997.
+
+20. Kinchen, J. M.; Cabello, J.; Klingele, D.; Wong, K.; Feichtinger,
+R.; Schnabel, H.; Schnabel, R.; Hengartner, M. O.: Two pathways converge
+at CED-10 to mediate actin rearrangement and corpse removal in C.
+elegans. Nature 434: 93-99, 2005.
+
+21. Kounnas, M. Z.; Moir, R. D.; Rebeck, G. W.; Bush, A. I.; Argraves,
+W. S.; Tanzi, R. E.; Hyman, B. T.; Strickland, D. K.: LDL receptor-related
+protein, a multifunctional ApoE receptor, binds secreted beta-amyloid
+precursor protein and mediates its degradation. Cell 82: 331-340,
+1995.
+
+22. Kristensen, T.; Moestrup, S. K.; Gliemann, J.; Bendtsen, L.; Sand,
+O.; Sottrup-Jensen, L.: Evidence that the newly cloned low-density-lipoprotein
+receptor related protein (LRP) is the alpha-2-macroglobulin receptor. FEBS
+Lett. 276: 151-155, 1990.
+
+23. Lendon, C. L.; Talbot, C. J.; Craddock, N. J.; Han, S. W.; Wragg,
+M.; Morris, J. C.; Goate, A. M.: Genetic association studies between
+dementia of the Alzheimer's type and three receptors for apolipoprotein
+E in a Caucasian population. Neurosci. Lett. 222: 187-190, 1997.
+
+24. Liu, Q.; Zerbinatti, C. V.; Zhang, J.; Hoe, H.-S.; Wang, B.; Cole,
+S. L.; Herz, J.; Muglia, L.; Bu, G.: Amyloid precursor protein regulates
+brain apolipoprotein E and cholesterol metabolism through lipoprotein
+receptor LRP1. Neuron 56: 66-78, 2007.
+
+25. May, P.; Rohlmann, A.; Bock, H. H.; Zurhove, K.; Marth, J. D.;
+Schomburg, E. D.; Noebels, J. L.; Beffert, U.; Sweatt, J. D.; Weeber,
+E. J.; Herz, J.: Neuronal LRP1 functionally associates with postsynaptic
+proteins and is required for normal motor function in mice. Molec.
+Cell. Biol. 24: 8872-8883, 2004.
+
+26. McIlroy, S. P.; Dynan, K. B.; Vahidassr, D. J.; Lawson, J. T.;
+Patterson, C. C.; Passmore, P.: Common polymorphisms in LRP and A2M
+do not affect genetic risk for Alzheimer disease in Northern Ireland. Am.
+J. Med. Genet. 105: 502-506, 2001.
+
+27. Myklebost, O.; Arheden, K.; Rogne, S.; Geurts van Kessel, A.;
+Mandahl, N.; Herz, J.; Stanley, K.; Heim, S.; Mitelman, F.: The gene
+for the human putative apoE receptor is on chromosome 12 in the segment
+q13-14. Genomics 5: 65-69, 1989.
+
+28. Narita, M.; Holtzman, D. M.; Schwartz, A. L.; Bu, G.: Alpha-2-macroglobulin
+complexes with and mediates the endocytosis of beta-amyloid peptide
+via cell surface low-density lipoprotein receptor-related protein. J.
+Neurochem. 69: 1904-1911, 1997.
+
+29. Orr, A. W.; Pedraza, C. E.; Pallero, M. A.; Elzie, C. A.; Goicoechea,
+S.; Strickland, D. K.; Murphy-Ullrich, J. E.: Low density lipoprotein
+receptor-related protein is a calreticulin coreceptor that signals
+focal adhesion disassembly. J. Cell Biol. 161: 1179-1189, 2003.
+
+30. Pericak-Vance, M. A.; Bass, M. P.; Yamaoka, L. H.; Gaskell, P.
+C.; Scott, W. K.; Terwedow, H. A.; Menold, M. M.; Conneally, P. M.;
+Small, G. W.; Vance, J. M.; Saunders, A. M.; Roses, A. D.; Haines,
+J. L.: Complete genomic screen in late-onset familial Alzheimer disease:
+evidence for a new locus on chromosome 12. JAMA 278: 1237-1241,
+1997.
+
+31. Ranganathan, S.; Cao, C.; Catania, J.; Migliorini, M.; Zhang,
+L.; Strickland, D. K.: Molecular basis for the interaction of low
+density lipoprotein receptor-related protein 1 (LRP1) with integrin
+alpha-M/beta-2: identification of binding sites within alpha-M/beta-2
+for LRP1. J. Biol. Chem. 286: 30535-30541, 2011.
+
+32. Scott, W. K.; Yamaoka, L. H.; Bass, M. P.; Gaskell, P. C.; Conneally,
+P. M.; Small, G. W.; Farrer, L. A.; Auerbach, S. A.; Saunders, A.
+M.; Roses, A. D.; Haines, J. L.; Pericak-Vance, M. A.: No genetic
+association between the LRP receptor and sporadic or late-onset familial
+Alzheimer disease. Neurogenetics 1: 179-183, 1998.
+
+33. Smeijers, L.; Willems, S.; Lauwers, A.; Thiry, E.; van Leuven,
+F.; Roebroek, A. J. M.: Functional expression of murine LRP1 requires
+correction of Lrp1 cDNA sequences. Biochim. Biophys. Acta 1577:
+155-158, 2002.
+
+34. Strickland, D. K.; Ashcom, J. D.; Williams, S.; Burgess, W. H.;
+Migliorini, M.; Argraves, W. S.: Sequence identity between the alpha-2-macroglobulin
+receptor and low density lipoprotein receptor-related protein suggests
+that this molecule is a multifunctional receptor. J. Biol. Chem. 265:
+17401-17404, 1990.
+
+35. von Arnim, C. A. F.; Kinoshita, A.; Peltan, I. D.; Tangredi, M.
+M.; Herl, L.; Lee, B. M.; Spoelgen, R.; Hshieh, T. T.; Ranganathan,
+S.; Battey, F. D.; Liu, C.-X.; Baeskai, B. J.; Sever, S.; Irizarry,
+M. C.; Strickland, D. K.; Hyman, B. T.: The low density lipoprotein
+receptor-related protein (LRP) is a novel beta-secretase (BACE1) substrate. J.
+Biol. Chem. 280: 17777-17785, 2005.
+
+36. Wang, X.; Lee, S.-R.; Arai, K.; Lee, S.-R.; Tsuji, K.; Rebeck,
+G. W.; Lo, E. H.: Lipoprotein receptor-mediated induction of matrix
+metalloproteinase by tissue plasminogen activator. Nature Med. 9:
+1313-1317, 2003.
+
+37. Yochem, J.; Greenwald, I.: A gene for a low density lipoprotein
+receptor-related protein in the nematode Caenorhabditis elegans. Proc.
+Nat. Acad. Sci. 90: 4572-4576, 1993.
+
+38. Zilberberg, A.; Yaniv, A.; Gazit, A.: The low density lipoprotein
+receptor-1, LRP1, interacts with the human frizzled-1 (HFz1) and down-regulates
+the canonical Wnt signaling pathway. J. Biol. Chem. 279: 1735-1752,
+2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/11/2013
+Ada Hamosh - updated: 2/13/2013
+Marla J. F. O'Neill - updated: 12/2/2011
+Patricia A. Hartz - updated: 4/19/2011
+Ada Hamosh - updated: 4/22/2010
+Patricia A. Hartz - updated: 3/13/2008
+Marla J. F. O'Neill - updated: 1/17/2008
+John Logan Black, III - updated: 7/12/2006
+Ada Hamosh - updated: 2/1/2006
+Patricia A. Hartz - updated: 11/9/2005
+Cassandra L. Kniffin - updated: 11/15/2004
+Ada Hamosh - updated: 9/23/2003
+Cassandra L. Kniffin - updated: 6/3/2003
+Ada Hamosh - updated: 4/22/2003
+Paul J. Converse - updated: 10/29/2001
+Paul J. Converse - updated: 9/15/2000
+Victor A. McKusick - updated: 5/5/1998
+
+CREATED Victor A. McKusick: 11/23/1988
+
+EDITED mgross: 06/12/2013
+mgross: 6/11/2013
+carol: 5/29/2013
+carol: 2/13/2013
+carol: 12/6/2011
+terry: 12/2/2011
+mgross: 6/3/2011
+terry: 4/19/2011
+alopez: 4/26/2010
+terry: 4/22/2010
+terry: 6/3/2009
+mgross: 3/17/2008
+terry: 3/13/2008
+wwang: 2/18/2008
+terry: 1/17/2008
+carol: 7/12/2006
+terry: 7/12/2006
+alopez: 2/2/2006
+terry: 2/1/2006
+mgross: 12/2/2005
+terry: 11/9/2005
+tkritzer: 11/29/2004
+ckniffin: 11/15/2004
+alopez: 10/16/2003
+alopez: 9/23/2003
+terry: 7/31/2003
+carol: 6/6/2003
+ckniffin: 6/3/2003
+alopez: 4/22/2003
+terry: 4/22/2003
+ckniffin: 6/5/2002
+cwells: 10/29/2001
+mgross: 9/15/2000
+psherman: 10/14/1998
+dholmes: 7/2/1998
+carol: 5/14/1998
+carol: 5/12/1998
+terry: 5/5/1998
+carol: 8/3/1994
+warfield: 3/11/1994
+carol: 6/17/1993
+carol: 9/22/1992
+carol: 6/1/1992
+supermim: 3/16/1992
+

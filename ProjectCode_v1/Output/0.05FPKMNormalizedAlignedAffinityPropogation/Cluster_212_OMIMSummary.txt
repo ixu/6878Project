@@ -1,0 +1,245 @@
+602373	TITLE *602373 CALPONIN 2; CNN2
+;;CALPONIN, NEUTRAL, NON-SMOOTH MUSCLE;;
+CALPONIN H2, MOUSE, HOMOLOG OF
+DESCRIPTION 
+CLONING
+
+Masuda et al. (1996) cloned a cDNA encoding calponin-2 (CNN2) by
+screening a human heart cDNA library with a CNN1 (600806) cDNA. The CNN2
+protein is 94.8% identical to mouse calponin h2 (see 600806), indicating
+that these proteins are homologs. The predicted CNN2 protein has 309
+amino acids and a pI of 7.1. It contains motifs that are present in CNN1
+and CNN3 (602374): 3 tandem repeats of 29 amino acids, an actin-binding
+domain, a VAV (164875)-homologous region, and 2 consensus
+phosphorylation sites for tyrosine kinase at the C terminus. The 3-prime
+untranslated region of the CNN2 mRNA contains an Alu repetitive sequence
+in the antisense direction. RT-PCR detected CNN2 transcripts in both
+cultured smooth muscle and nonmuscle cells and showed that mouse
+calponin h2 is expressed in embryonic and adult heart. CNN2 protein
+localizes to the cell-to-cell junctions of cardiomyocytes and
+codistributes with vinculin (193065). Masuda et al. (1996) suggested
+that CNN2 may be involved in the structural organization and/or
+anchorage of actin filaments and may function in the cell adhesion
+mechanism.
+
+MAPPING
+
+Cheng et al. (1994) mapped the CNN2 gene to chromosome 21q11.1 by
+hybridization to chromosome 21q-specific YACs. However, Gross (2011)
+mapped the CNN2 gene to chromosome 19p13.3 based on an alignment of the
+CNN2 sequence (GenBank GENBANK BC141833) with the genomic sequence
+(GRCh37).
+
+REFERENCE 1. Cheng, J.-F.; Boyartchuk, V.; Zhu, Y.: Isolation and mapping of
+human chromosome 21 cDNA: progress in constructing a chromosome 21
+expression map. Genomics 23: 75-84, 1994.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  2/16/2011.
+
+3. Masuda, H.; Tanaka, K.; Takagi, M.; Ohgami, K.; Sakamaki, T.; Shibata,
+N.; Takahashi, K.: Molecular cloning and characterization of human
+non-smooth muscle calponin. J. Biochem. 120: 415-424, 1996.
+
+CONTRIBUTORS Matthew B. Gross - updated: 02/16/2011
+
+CREATED Patti M. Sherman: 2/20/1998
+
+EDITED mgross: 02/16/2011
+alopez: 8/25/2009
+alopez: 2/26/1998
+dholmes: 2/24/1998
+dholmes: 2/20/1998
+
+186852	TITLE *186852 PROTEASOME 26S SUBUNIT, ATPase, 3; PSMC3
+;;TAT-BINDING PROTEIN 1; TBP1
+DESCRIPTION 
+CLONING
+
+The human immunodeficiency virus-1 (HIV-1) protein Tat is a potent
+activator of virus gene expression and replication. Nelbock et al.
+(1990) used biotinylated Tat as a probe to screen a lambda-gt11 fusion
+protein library, thereby cloning a cDNA encoding a protein that
+interacts with Tat. Expression of this protein, designated Tat-binding
+protein-1, was observed in a variety of cell lines, with expression
+being highest in human cells. TBP1 was localized predominantly in the
+nucleus, which is consistent with the nuclear localization of Tat. In
+cotransfection experiments, expression of TBP1 was able to suppress
+Tat-mediated transactivation specifically. Nelbock et al. (1990)
+recommended their strategy for direct identification and cloning of
+genes encoding proteins that associate with other proteins to modulate
+their activity in a positive or negative fashion. Ohana et al. (1993)
+suggested that TBP1 is involved in Tat-mediated transcriptional
+activation.
+
+GENE FUNCTION
+
+Ubiquitinated proteins are degraded by a 26S ATP-dependent protease. The
+protease is composed of a 20S catalytic proteasome and 2 PA700
+regulatory modules (see PSMC1; 602706). DeMartino et al. (1996)
+identified a protein complex that enhances PA700 activation of the
+proteasome. They found that 2 proteins, p42 (PSMC6; 602708) and p50
+(PSMC3), are components of both this complex and PA700. By protein
+sequence analysis, DeMartino et al. (1996) determined that p50 and TBP1
+are identical.
+
+Hoyle et al. (1997) stated that the PSMC3 gene encodes a protein with 1
+AAA (ATPases associated with diverse cellular activities) domain (see
+PSMC5; 601681) toward the C terminus.
+
+Corn et al. (2003) established that pVHL (608537), the protein that is
+mutant in von Hippel-Lindau syndrome (193300), binds to TBP1. TBP1
+associates with the beta-domain of pVHL and complexes with pVHL and
+hypoxia-inducible transcription factor HIF1A (603348) in vivo.
+Overexpression of TBP1 promotes degradation of HIF1A in a pVHL-dependent
+manner that requires the ATPase domain of TBP1. Several distinct
+mutations in exon 2 of the VHL gene disrupt binding of pVHL to TBP1. A
+pVHL mutant containing an exon 2 missense substitution
+coimmunoprecipitated with HIF1A, but not TBP1, and did not promote
+degradation of HIF1A. Thus, the ability of pVHL to degrade HIF1A depends
+in part on its interaction with TBP1 and suggests a new mechanism for
+HIF1A stabilization in some pVHL-deficient tumors.
+
+MAPPING
+
+By PCR amplification of a partial PSMC3 sequence, Hoyle et al. (1997)
+demonstrated that the PSMC3 gene is located on chromosome 11. By
+fluorescence in situ hybridization (FISH), the assignment was
+regionalized to 11p13-p12. Tanahashi et al. (1998) mapped the PSMC3 gene
+to 11p11.2 by FISH. By interspecific backcross analysis, Sakao et al.
+(2000) mapped the mouse Psmc3 gene to chromosome 2.
+
+REFERENCE 1. Corn, P. G.; McDonald, E. R., III; Herman, J. G.; El-Deiry, W.
+S.: Tat-binding protein-1, a component of the 26S proteasome, contributes
+to the E3 ubiquitin ligase function of the von Hippel-Lindau protein. Nature
+Genet. 35: 229-237, 2003.
+
+2. DeMartino, G. N.; Proske, R. J.; Moomaw, C. R.; Strong, A. A.;
+Song, X.; Hisamatsu, H.; Tanaka, K.; Slaughter, C. A.: Identification,
+purification, and characterization of a PA700-dependent activator
+of the proteasome. J. Biol. Chem. 271: 3112-3118, 1996.
+
+3. Hoyle, J.; Tan, K. H.; Fisher, E. M. C.: Localization of genes
+encoding two human one-domain members of the AAA family: PSMC5 (the
+thyroid hormone receptor-interacting protein, TRIP1) and PSMC3 (the
+Tat-binding protein, TBP1). Hum. Genet. 99: 285-288, 1997.
+
+4. Nelbock, P.; Dillon, P. J.; Perkins, A.; Rosen, C. A.: A cDNA
+for a protein that interacts with the human immunodeficiency virus
+Tat transactivator. Science 248: 1650-1653, 1990.
+
+5. Ohana, B.; Moore, P. A.; Ruben, S. M.; Southgate, C. D.; Green,
+M. R.; Rosen, C. A.: The type 1 human immunodeficiency virus Tat
+binding protein is a transcriptional activator belonging to an additional
+family of evolutionarily conserved genes. Proc. Nat. Acad. Sci. 90:
+138-142, 1993.
+
+6. Sakao, Y.; Kawai, T.; Takeuchi, O.; Copeland, N. G.; Gilbert, D.
+J.; Jenkins, N. A.; Takeda, K.; Akira, S.: Mouse proteasomal ATPases
+Psmc3 and Psmc4: genomic organization and gene targeting. Genomics 67:
+1-7, 2000.
+
+7. Tanahashi, N.; Suzuki, M.; Fujiwara, T.; Takahashi, E.; Shimbara,
+N.; Chung, C. H.; Tanaka, K.: Chromosomal localization and immunological
+analysis of a family of human 26S proteasomal ATPases. Biochem. Biophys.
+Res. Commun. 243: 229-232, 1998.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/17/2003
+Carol A. Bocchini - updated: 2/15/2001
+Rebekah S. Rasooly - updated: 6/11/1998
+Victor A. McKusick - updated: 2/13/1997
+
+CREATED Victor A. McKusick: 8/25/1992
+
+EDITED ckniffin: 03/23/2004
+alopez: 10/31/2003
+alopez: 10/21/2003
+terry: 10/17/2003
+carol: 2/15/2001
+psherman: 6/11/1998
+mark: 2/13/1997
+terry: 2/11/1997
+mark: 5/9/1996
+carol: 10/20/1993
+carol: 8/25/1992
+
+601204	TITLE *601204 PROSTAGLANDIN F2 RECEPTOR NEGATIVE REGULATOR; PTGFRN
+;;FP REGULATORY PROTEIN; FPRP;;
+CD9 PARTNER 1; CD9P1
+DESCRIPTION 
+CLONING
+
+Orlicky et al. (1996) isolated a protein that copurifies with bovine
+prostaglandin F(2-alpha) receptor (PTGFR; 600563) and cloned the
+corresponding rat cDNA. Transfection experiments suggested that this
+protein, which the authors designated FP regulatory protein (FPRP),
+inhibits binding of PGF(2-alpha) to PTGFR. Histologically, FPRP showed a
+distribution coinciding well with those cells and tissues that respond
+to PGF(2-alpha).
+
+By screening cDNA libraries for sequences with the potential to encode
+large proteins expressed in brain, Nagase et al. (2000) identified a
+cDNA encoding FPRP, which they termed KIAA1436. The deduced 924-amino
+acid protein was predicted to be 89% identical to rat Fprp. RT-PCR
+analysis detected wide expression that was highest in ovary and lung.
+
+By mass spectrometric and flow cytometric analyses of an
+immunoprecipitated protein, CD9P1, that interacts with CD9 (143030) and
+is expressed in HeLa cells, Charrin et al. (2001) determined that CD9P1
+is identical to KIAA1436. SDS-PAGE analysis showed expression of a
+135-kD protein under reducing conditions, which was lowered to 125 kD
+and 106 kD by sialidase and N-glycanase treatments, respectively.
+Further immunoprecipitation analysis showed that CD9P1 interacts with
+CD81 (186845). Flow cytometric analysis demonstrated expression in
+keratinocytes and, faintly, in salivary glands, but not in other
+tissues. In contrast, CD9P1 was strongly expressed in a number of cancer
+cell lines, suggesting a possible upregulation during tumorigenesis.
+
+BIOCHEMICAL FEATURES
+
+Stipp et al. (2001) used moderately stringent Brij96/97 detergent
+extraction to show that FPRP associates specifically with CD81 and CD9
+but not with other tetraspanin molecules, such as CD151 (602243). They
+determined that nearly all cell surface FPRP is associated with CD9 and
+CD81.
+
+MAPPING
+
+Orlicky et al. (1996) subcloned and sequenced a portion of the 3-prime
+untranslated region of the human homolog to FPRP, and oligonucleotide
+primers were designed that allowed PCR amplification specifically of the
+human FPRP sequence. Using these primers for PCR-based mapping, the FPRP
+gene was localized to chromosome 1 through analysis of human/rodent
+somatic cell hybrids and to 1p13.1-q21.3 by analysis of YAC pools.
+
+REFERENCE 1. Charrin, S.; Le Naour, F.; Oualid, M.; Billard, M.; Faure, G.;
+Hanash, S. M.; Boucheix, C.; Rubinstein, E.: The major CD9 and CD81
+molecular partner: identification and characterization of the complexes. J.
+Biol. Chem. 276: 14329-14337, 2001.
+
+2. Nagase, T.; Kikuno, R.; Ishikawa, K.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 65-73, 2000.
+
+3. Orlicky, D. J.; Berry, R.; Sikela, J. M.: Human chromosome 1 localization
+of the gene for a prostaglandin F-2-alpha receptor negative regulatory
+protein. Hum. Genet. 97: 655-658, 1996.
+
+4. Stipp, C. S.; Orlicky, D.; Hemler, M. E.: FPRP, a major, highly
+stoichiometric, highly specific CD81- and CD9-associated protein. J.
+Biol. Chem. 276: 4853-4862, 2001.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/9/2007
+Paul J. Converse - updated: 4/1/2002
+
+CREATED Victor A. McKusick: 4/15/1996
+
+EDITED carol: 01/14/2010
+alopez: 10/16/2007
+terry: 10/9/2007
+cwells: 11/6/2003
+mgross: 4/1/2002
+carol: 6/29/1998
+mark: 4/16/1996
+mark: 4/15/1996
+

@@ -1,0 +1,139 @@
+605722	TITLE *605722 POTASSIUM CHANNEL, INWARDLY RECTIFYING, SUBFAMILY J, MEMBER 16; KCNJ16
+;;KIR5.1
+DESCRIPTION 
+DESCRIPTION
+
+Inwardly rectifying potassium (Kir) channels are important for
+regulation of the resting membrane potential and control of cellular
+electrical activity. KCNJ16, or Kir5.1, belongs to the Kir family, but
+it does not produce functional potassium channels when expressed by
+itself. Instead, Kir5.1 appears to coassemble selectively with either
+Kir4.1 (KCNJ10; 602208) or Kir4.2 (KCNJ15; 602106) to form novel
+heteromeric channels (summary by D'Adamo et al., 2011).
+
+CLONING
+
+By EST database searching for sequences showing homology to mouse
+Kir5.1, Liu et al. (2000) identified a human EST with 98% sequence
+identity to a segment on chromosome 17. Using the full-length Kir5.1
+mouse clone, they derived the human ortholog, designated KCNJ16, from
+genomic sequence. The KCNJ16 gene encodes a deduced 418-amino acid
+protein with a calculated molecular mass of 48 kD. The protein shares
+over 95% sequence identity with both mouse and rat Kir5.1. RT-PCR
+analysis detected ubiquitous expression of KCNJ16, whereas Northern blot
+analysis detected significant expression of a 4.0-kb transcript in
+kidney, pancreas, and thyroid gland. In situ hybridization demonstrated
+expression of KCNJ16 in convoluted tubule cells of the kidney and in
+acinar and ductal cells of the pancreas. Liu et al. (2000) noted that
+Kir1.1 (KCNJ1; 600359), Kir4.1, and Kir4.2 are all expressed in kidney.
+They suggested that heteromultimers of these potassium channel proteins
+in kidney and pancreas may play a role in ion transport, fluid
+regulation, and pH balance.
+
+By database searching with sequences from rat Kir5.1, Derst et al.
+(2001) independently assembled a human KCNJ16 cDNA, which they called
+Kir5.1. They predicted that Kir5.1 encodes a protein of 418 amino acids
+that shares 91% amino acid identity with rat and mouse Kir5.1. They
+noted that Kir5.1 shares 40 to 43% amino acid identity with members of
+the Kir2 gene family, including Kir2.1 (KCNJ2; 600681), Kir2.2 (KCNJ12;
+602323), Kir2.3, and Kir2.4 (KCNJ14; 603953).
+
+Using in situ hybridization, Derst et al. (2001) detected Kir5.1
+expression restricted to the hindbrain, midbrain, and diencephalon in
+rat brain. Using RT-PCR, they detected KCNJ16 expression in human kidney
+in the proximal tubule, the thick ascending limb, and the cortical
+collecting duct. They noted that KCNJ16 expression overlaps with Kir2.1
+expression in some regions of the brain and kidney.
+
+GENE FUNCTION
+
+Derst et al. (2001) found that when Kir5.1 was expressed in Xenopus
+oocytes, it was targeted to the cell surface and formed electrically
+silent channels together with Kir2.1, thus negatively controlling Kir2.1
+channel activity in native cells.
+
+By electrophysiologic recording of HEK293T cells transfected with rat
+cDNAs, Tanemoto et al. (2000) showed that Kir4.1, but not Kir5.1, formed
+functional homomeric K+ channels sensitive to intracellular, but not
+extracellular, pH. Heteromeric Kir4.1/Kir5 channels were functional and
+showed channel properties different than those of homomeric Kir4.1
+channels. For both Kir4.1 and Kir4.1/Kir5.1 channels, response to pH
+disappeared at pH 5.5 and increased in a pH-dependent manner between pH
+6.5 and pH 8.0. Kir4.1/Kir5.1 channels had larger conductance, altered
+kinetics, and greater sensitivity to pH than Kir4.1 channels.
+Kir4.1/Kir5.1 channels opened in bursts, and the closed period between
+bursts was influenced by intracellular pH.
+
+In cotransfection experiments, Tanemoto et al. (2002) showed that Kir5.1
+assembles to form a functional homomeric potassium channel by
+interacting with PSD95 (602887). Kir5.1 expressed alone was distributed
+mostly in the cytoplasm, but Kir5.1 coexpressed with PSD95 was located
+on the plasma membrane in a clustered manner. Using GST pull-down
+studies, Tanemoto et al. (2002) identified domains responsible for
+Kir5.1/PSD95 interaction. They found that protein kinase A
+(PKA)-mediated phosphorylation of Kir5.1 disrupted the binding of Kir5.1
+with PSD95. Tanemoto et al. (2002) hypothesized that Kir5.1/PSD95 forms
+a functional brain potassium channel that may be a physiologic target of
+PKA-mediated signaling.
+
+GENE STRUCTURE
+
+Derst et al. (2001) determined that the KCNJ16 gene is encoded by 5
+exons spanning approximately 60 kb. They noted that KCNJ16 and KCNJ2 are
+separated by only 34 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Liu et al. (2000) mapped the KCNJ16 gene
+to chromosome 17q25. By the same method, Derst et al. (2001) assigned
+KCNJ16 to chromosome 17q23.1-q24.2, near KCNJ2.
+
+ANIMAL MODEL
+
+D'Adamo et al. (2011) found that, despite widespread Kir5.1 expression,
+Kir5.1 -/- mice were born at the expected mendelian ratio, were viable
+and fertile, and showed no behavioral or physical abnormalities.
+However, whole-cell patch clamp experiments showed that neurons cultured
+from the locus ceruleus (LC) of Kir5.1 -/- mice exhibited reduced
+response to intracellular pH compared with wildtype LC neurons. Both the
+kinetics and amplitude of firing of Kir5.1 -/- LC neurons were altered
+in response to NH4Cl application or elevated soluble CO2. D'Adamo et al.
+(2011) concluded that Kir5.1/Kir4.1 channels of the LC respond to
+hypercapnic acidosis.
+
+REFERENCE 1. D'Adamo, M. C.; Shang, L.; Imbrici, P.; Brown, S. D. M.; Pessia,
+M.; Tucker, S. J.: Genetic inactivation of Kcnj16 identifies Kir5.1
+as an important determinant of neuronal PCO2/pH sensitivity. J. Biol.
+Chem. 286: 192-198, 2011.
+
+2. Derst, C.; Karschin, C.; Wischmeyer, E.; Hirsch, J. R.; Preisig-Muller,
+R.; Rajan, S.; Engel, H.; Grzeschik, K.-H.; Daut, J.; Karschin, A.
+: Genetic and functional linkage of Kir5.1 and Kir2.1 channel subunits. FEBS
+Lett. 491: 305-311, 2001.
+
+3. Liu, Y.; McKenna, E.; Figueroa, D. J.; Blevins, R.; Austin, C.
+P.; Bennett, P. B.; Swanson, R.: The human inward rectifier K+ channel
+subunit Kir5.1 (KCNJ16) maps to chromosome 17q25 and is expressed
+in kidney and pancreas. Cytogenet. Cell Genet. 90: 60-63, 2000.
+
+4. Tanemoto, M.; Fujita, A.; Higashi, K.; Kurachi, Y.: PSD-95 mediates
+formation of a functional homomeric Kir5.1 channel in the brain. Neuron 34:
+387-397, 2002.
+
+5. Tanemoto, M.; Kittaka, N.; Inanobe, A.; Kurachi, Y.: In vivo formation
+of a proton-sensitive K+ channel by heteromeric subunit assembly of
+Kir5.1 with Kir4.1. J. Physiol. 525: 587-592, 2000.
+
+CONTRIBUTORS Matthew B. Gross - updated: 6/9/2011
+Patricia A. Hartz - updated: 6/1/2011
+Dawn Watkins-Chow - updated: 12/18/2002
+
+CREATED Yen-Pei C. Chang: 3/8/2001
+
+EDITED terry: 11/29/2012
+mgross: 6/9/2011
+terry: 6/1/2011
+carol: 2/4/2003
+tkritzer: 12/18/2002
+carol: 3/8/2001
+

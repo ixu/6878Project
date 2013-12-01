@@ -22,7 +22,7 @@ def Annotateclusters(clusterFolderName):
     OMIMDict = OMIMAnnotation.GetOMIMDictionary()
     #1. for each cluster file.
     for clusterFileName in glob.glob(clusterFolderName+"/"+ClusterFilePattern):
-        clusterName = (clusterFileName.split("\\")[1]).split(".")[0]
+        clusterName = (os.path.basename(clusterFileName)).split(".")[0]
         print "     Annotating Cluster  :",clusterName
         #2.     Parse Gene list and write omim content.
         print "     "
@@ -49,19 +49,27 @@ def writeOMIMFile(GeneSymbolList,OMIMDict,clusterName,clusterFolderName):
     omimFile.close()
     return
 
+GeneSymbolToEnsembIDDict = {}
+
 def getEnsemblIds(GeneSymbolList):
     EnsemblIdList = []
     http = httplib2.Http(".cache")
     server = "http://beta.rest.ensembl.org"
     
     for geneSymbol in GeneSymbolList:
-        ext = "/xrefs/symbol/homo_sapiens/"+geneSymbol+"?"
-        resp, content = http.request(server+ext, method="GET", headers={"Content-Type":"application/json"})
-        try:
-            decoded = json.loads(content)
-            EnsemblIdList.append(decoded[0]['id'])
-        except:
-            print "couldntConvert :",geneSymbol
+        if(GeneSymbolToEnsembIDDict.has_key(geneSymbol)):
+            if(GeneSymbolToEnsembIDDict[geneSymbol] != "couldntConvert"):
+                EnsemblIdList.append(GeneSymbolToEnsembIDDict[geneSymbol])
+        else:
+            ext = "/xrefs/symbol/homo_sapiens/"+geneSymbol+"?"
+            resp, content = http.request(server+ext, method="GET", headers={"Content-Type":"application/json"})
+            try:
+                decoded = json.loads(content)
+                EnsemblIdList.append(decoded[0]['id'])
+                GeneSymbolToEnsembIDDict[geneSymbol]=decoded[0]['id']
+            except:
+                print "couldntConvert :",geneSymbol
+                GeneSymbolToEnsembIDDict[geneSymbol]="couldntConvert :"
     return EnsemblIdList
     
 

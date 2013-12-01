@@ -1,0 +1,1182 @@
+615143	TITLE *615143 UBIQUITIN-SPECIFIC PROTEASE 20; USP20
+;;VHL-INTERACTING DEUBIQUITINATING ENZYME 2; VDU2;;
+KIAA1003
+DESCRIPTION 
+DESCRIPTION
+
+Deubiquitinating enzymes (EC 3.4.19.12), such as USP20, remove ubiquitin
+peptides from ubiquitin-containing substrates. These enzymes have a
+major role in rescuing ubiquitinated proteins from proteasome-mediated
+degradation (Curcio-Morelli et al., 2003).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Nagase et al. (1999) cloned USP20, which they designated
+KIAA1003. The deduced 913-amino acid protein shares significant
+similarity with chicken Ubp41 (USP2; 604725). RT-PCR ELISA detected
+relatively low USP20 expression in all adult and fetal tissues examined,
+except spleen, which showed no USP20 expression. Highest levels were in
+adult brain and ovary.
+
+By searching databases for sequences similar to human VDU1 (USP33;
+615146), followed by 5-prime and 3-prime RACE and PCR, Li et al. (2002)
+cloned full-length human USP20, which they called VDU2. The deduced
+protein contains 913 amino acids and has a calculated molecular mass of
+102 kD. Human and mouse VDU2 share 92% amino acid identity, and human
+VDU2 shares 59% amino acid identity with the human VDU1 type II isoform,
+with strongest homology at the N- and C-terminal ends. VDU2 has 2 UCH
+domains, which are crucial for deubiquitinating activity. Northern blot
+analysis detected a 4.5-kb VDU2 transcript in all human tissues
+examined, including brain, heart, placenta, lung, liver, muscle, kidney,
+and pancreas.
+
+By subcellular fractionation and immunofluorescence analysis,
+Curcio-Morelli et al. (2003) found that both epitope-tagged VDU1 and
+VDU2 localized to the endoplasmic reticulum (ER) in transfected HEK
+cells.
+
+By database analysis, Thorne et al. (2011) identified 3 USP20 variants
+that encode the same protein.
+
+GENE FUNCTION
+
+Using in vivo and in vitro deubiquitination assays, Li et al. (2002)
+showed that human VDU2 exhibited ubiquitin cleavage activity. They found
+that human VDU1 and VDU2 competitively interacted with the E3 ubiquitin
+ligase VHL (608537), resulting in ubiquitination and proteasome-mediated
+degradation of both proteins.
+
+Type II iodothyronine deiodinase (D2, or DIO2; 601413) converts
+thyroxine into biologically active triiodothyronine (T3). T3 production
+is terminated via ubiquitination and proteasome-mediated degradation of
+D2. By coimmunoprecipitation analysis in transfected HEK293 cells,
+Curcio-Morelli et al. (2003) found that both VDU1 and VDU2 bound D2.
+Both VDU enzymes colocalized with D2 in the ER and reduced
+ubiquitination and degradation of D2. Expression of Vdu1, but not Vdu2,
+increased in mouse brown adipocytes following exposure to cold or
+norepinephrine. Curcio-Morelli et al. (2003) concluded that VDU enzymes
+recycle inactive ubiquitinated D2 to its active deubiquitinated form and
+thereby regulate the supply of active thyroid hormone.
+
+Thorne et al. (2011) found that knockdown of USP20 in HeLa cells
+resulted in compensatory upregulation of USP33 expression.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the USP20 gene
+to chromosome 9.
+
+Hartz (2013) mapped the USP20 gene to chromosome 9q34.11 based on an
+alignment of the USP20 sequence (GenBank GENBANK AB023220) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Curcio-Morelli, C.; Zavacki, A. M.; Christofollete, M.; Gereben,
+B.; de Freitas, B. C. G.; Harney, J. W.; Li, Z.; Wu, G.; Bianco, A.
+C.: Deubiquitination of type 2 iodothyronine deiodinase by von Hippel-Lindau
+protein-interacting deubiquitinating enzymes regulates thyroid hormone
+activation. J. Clin. Invest. 112: 189-196, 2003.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  3/26/2013.
+
+3. Li, Z.; Wang, D.; Na, X.; Schoen, S. R.; Messing, E. M.; Wu, G.
+: Identification of a deubiquitinating enzyme subfamily as substrates
+of the von Hippel-Lindau tumor suppressor. Biochem. Biophys. Res.
+Commun. 294 -700-709, 2002.
+
+4. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+5. Thorne, C.; Eccles, R. L.; Coulson, J. M.; Urbe, S.; Clague, M.
+J.: Isoform-specific localization of the deubiquitinase USP33 to
+the Golgi apparatus. Traffic 12: 1563-1574, 2011.
+
+CONTRIBUTORS Matthew B. Gross - updated: 04/17/2013
+Patricia A. Hartz - updated: 4/17/2013
+
+CREATED Patricia A. Hartz: 3/27/2013
+
+EDITED mgross: 04/17/2013
+mgross: 4/17/2013
+mgross: 3/27/2013
+
+600944	TITLE *600944 DEOXYHYPUSINE SYNTHASE; DHPS
+DESCRIPTION 
+DESCRIPTION
+
+Joe et al. (1995) stated that the unusual amino acid hypusine is formed
+posttranslationally and is only found in a single cellular protein,
+eukaryotic translation initiation factor-5A (EIF5A; see 600187).
+Hypusine biosynthesis involves 2 enzymatic steps. In the first step,
+deoxyhypusine synthase (EC 2.5.1.46) catalyzes the NAD-dependent
+transfer of the butylamine moiety of spermidine to the epsilon-amino
+group of a specific lysine residue of the EIF5A precursor protein to
+form the intermediate deoxyhypusine residue. In the second step,
+mediated by deoxyhypusine hydroxylase (611262), the conversion of the
+deoxyhypusine residue to the hypusine residue completes EIF5A
+maturation. Hypusine is found in all eukaryotes and in some
+archaebacteria, but not in eubacteria. The amino acid sequence of EIF5A
+is highly conserved, especially in the region surrounding the hypusine
+residue, suggesting an important fundamental function for this protein
+throughout eukaryotic evolution. Hypusine and EIF5A appear to be vital
+for cell proliferation in eukaryotes.
+
+CLONING
+
+Joe et al. (1995) isolated cDNA clones encoding deoxyhypusine synthase
+from a human HeLa cell library. Full-length cDNA clones encoding a
+369-amino acid protein (calculated molecular mass of 40,970 Da) and a
+shorter cDNA clone (that would potentially encode a protein with an
+internal deletion of 56 amino acids) were isolated. The deduced amino
+acid sequence of the human enzyme showed a high degree of identity to
+that of the yeast enzyme.
+
+From a human peripheral blood mononuclear cell cDNA library, Bevec et
+al. (1996) isolated 2 independent sequences encoding biologically active
+deoxyhypusine synthase. DNA sequence analysis predicted a 369-amino acid
+protein with a molecular mass of 41,055 Da.
+
+GENE FUNCTION
+
+Bevec et al. (1996) demonstrated that recombinant DHPS showed
+significant catalytic activity in synthesis of deoxyhypusine after in
+vitro transcription and translation as well as on expression in
+Escherichia coli.
+
+Hauber et al. (2005) demonstrated that inhibition of DHPS by the
+experimental drug CNI-1493 or RNA interference efficiently suppressed
+retroviral replication in cell culture and primary cells with no
+measurable drug-induced adverse effects on cell cycle transition,
+apoptosis, or general cytotoxicity. They showed that the antiviral
+effect of CNI-1493 was due to inhibition of the HIV-1 Rev regulatory
+protein, for which the hypusine-requiring EIF5A is a cofactor.
+
+MAPPING
+
+Using a panel of somatic rodent/human cell hybrids, Bevec et al. (1996)
+localized the DHPS gene to human chromosome 19. Jones et al. (1996)
+localized the DHPS gene to 19p13.12-p13.11, using fluorescence in situ
+hybridization analysis in a combination with somatic human/rodent
+translocation hybrid analysis.
+
+REFERENCE 1. Bevec, D.; Kappel, B.; Jaksche, H.; Csonga, R.; Hauber, J.; Klier,
+H.; Steinkasserer, A.: Molecular characterization of a cDNA encoding
+functional human deoxyhypusine synthase and chromosomal mapping of
+the corresponding gene locus. FEBS Lett. 378: 195-198, 1996.
+
+2. Hauber, I.; Bevec, D.; Heukeshoven, J.; Kratzer, F.; Horn, F.;
+Choidas, A.; Harrer, T.; Hauber, J.: Identification of cellular deoxyhypusine
+synthase as a novel target for antiretroviral therapy. J. Clin. Invest. 115:
+76-85, 2005.
+
+3. Joe, Y. A.; Wolff, E. C.; Park, M. H.: Cloning and expression
+of human deoxyhypusine synthase cDNA: structure-function studies with
+the recombinant enzyme and mutant proteins. J. Biol. Chem. 270:
+22386-22392, 1995.
+
+4. Jones, T.; Sheer, D.; Kapetanopoulos, A.; Hauber, J.; Bevec, D.;
+Steinkasserer, A.: The gene coding for human deoxyhypusine synthase
+(DHPS) maps to chromosome 19p13.11-p13.12. Genomics 35: 635-636,
+1996.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 2/2/2005
+
+CREATED Victor A. McKusick: 11/13/1995
+
+EDITED carol: 07/27/2007
+terry: 2/2/2005
+terry: 9/10/1996
+terry: 8/23/1996
+mark: 3/18/1996
+terry: 3/6/1996
+mark: 12/11/1995
+mark: 11/13/1995
+
+611297	TITLE *611297 ODD-SKIPPED-RELATED 2; OSR2
+DESCRIPTION 
+DESCRIPTION
+
+OSR2 is a mammalian homolog of the Drosophila odd-skipped family of
+transcription factors (Lan et al., 2004).
+
+CLONING
+
+By database searching with mouse Osr1 (608891) as query Lan et al (2001)
+identified human OSR2. They subsequently cloned mouse Osr2, which
+encodes a 276-amino acid protein. Northern blot analysis detected Osr2
+in mouse embryonic RNA. In situ hybridization detected Osr2 expression
+in a dynamic pattern during craniofacial, limb, and kidney development
+with expression first detected at embryonic day (E) 9.5 in the
+mesonephric vesicles, followed by expression in the mesenchyme adjacent
+to the maxillary processes. In developing limb buds, Osr2 expression
+follows a distinct dorsal to ventral developmental time sequence. Mouse
+Osr2 was expressed at sites of epithelial-mesenchyme interaction during
+tooth and kidney development. Osr2 shares 65% amino acid identity with
+Osr1 and 98% identity over the zinc finger domains.
+
+Kawai et al. (2005) cloned mouse splice variants Osr2a and Osr2b
+containing 312 and 276 amino acids, respectively, and differing by an
+additional C-terminal sequence in Osr2a. Osr2a contains 5 predicted zinc
+finger domains, while Osr2b contains 3 zinc finger domains. Database
+analysis confirmed the presence of 2 splice variants in rat and human.
+PCR analysis of Osr2 splice variant expression in mouse tissues detected
+both transcripts in kidney, muscle, testis, and mouse embryos with weak
+expression in the lung. The ratio of Osr2a to Osr2b varied in the
+tissues tested, with Osr2b predominantly transcribed.
+Immunocytochemistry studies in COS-7 cells expressing Osr2a and Osr2b
+localized both isoforms to the nucleus.
+
+GENE FUNCTION
+
+Using transcriptional activity studies with Gal4 fusions and luciferase
+assay systems, Kawai et al. (2005) showed that both Osr2 variants affect
+transcriptional activity, with the 2 variants expressing opposite
+transcriptional activities. Osr2a repressed transcriptional activity,
+and Osr2b activated transcription. In the luciferase assay, the opposite
+results were obtained with Osr2a activating and Osr2b repressing
+transcription.
+
+MAPPING
+
+Lan et al. (2004) stated that the OSR2 gene mapped to chromosome 8q23,
+which Prescott et al. (2000) reported as a region associated with
+nonsyndromic orofacial clefting.
+
+Kawai et al. (2005) mapped the mouse Osr2 gene to mouse chromosome 15.
+
+ANIMAL MODEL
+
+Lan et al. (2004) generated mice with target disruption of Osr2.
+Homozygous mutant mice displayed complete embryogenesis but died within
+24 hours of birth. All homozygous mutant mice exhibited open eyelids,
+bilateral cleft of the secondary palate, and thickened tympanic rings.
+No abnormalities of kidney or limb development were detected. Histologic
+analysis of mutant mice showed early normal palatal growth and initial
+downward palatal outgrowth. However, between embryonic days 13.5 and
+14.5, homozygous mutant mice displayed retarded palatal shelves that
+remained vertically oriented rather than the normal rapid growth and
+reorientation to a horizontal position detected in wildtype and
+heterozygous mutant embryos. During continued normal development,
+palatal shelves initiate fusion at the midline by embryonic day 15.5;
+however, homozygous mutant mice showed no fusion of palatal shelves,
+resulting in bilateral cleft of the secondary palate at birth.
+Homozygous mutant mice exhibited a 26% reduction in palatal cell
+proliferation at embryonic day 13.5. In situ hybridization showed that
+the palatal mesenchyme proliferation defect in the homozygous mutant
+mice was correlated with the spatiotemporal downregulation of Osr1
+expression. Homozygous mutant mice displayed altered mRNA expression and
+spatial distribution of Osr1, Tgfb3 (190230), and Pax9 (167416) during
+palate development. Lan et al. (2004) concluded that Osr2 acts as a
+regulator of palatal growth and patterning.
+
+Zhang et al. (2009) observed that Osr2 -/- embryos exhibited
+supernumerary tooth development lingual to their molar teeth. Because
+Osr2 -/- mice die shortly after birth, Zhang et al. (2009) transplanted
+embryonic day-13.5 mandibular molar tooth germs under renal capsules of
+adult mice to allow complete tooth morphogenesis. After 21 days,
+wildtype and Osr2 +/- molar tooth germs gave rise to 2 or 3 mineralized
+molar teeth, whereas Osr2 -/- mutant molar tooth germs gave rise to 4 or
+5 mineralized teeth. In the developing tooth mesenchyme of wildtype
+embryos, Osr2 was expressed in a lingual-to-buccal gradient that was
+complementary to the expression pattern of Bmp4 (112262), an essential
+odontogenic signal. In Osr2 -/- embryos, expression of several ontogenic
+factors, including Pitx2 (601542), Shh (600725), Msx1 (142983), and Lef1
+(153245), was spatially expanded or upregulated compared with expression
+in wildtype embryos. Msx1 -/- Osr2 -/- double-mutant embryos showed
+largely normalized tooth development, suggesting that expansion of the
+odontogenic field in Osr2 -/- embryos required Msx1, a feedback
+activator of Bmp4. Zhang et al. (2009) concluded that MSX1 and OSR2 act
+antagonistically to pattern the tooth morphogenic field by controlling
+the expression and spatial distribution of mesenchymal odontogenic
+signals along the buccolingual axis.
+
+REFERENCE 1. Kawai, S.; Kato, T.; Inaba, H.; Okahashi, N.; Amano, A.: Odd-skipped
+related 2 splicing variants show opposite transcriptional activity. Biochem.
+Biophys. Res. Commun. 328: 306-311, 2005.
+
+2. Lan, Y.; Kingsley, P. D.; Cho, E.-S.; Jiang, R.: Osr2, a new mouse
+gene related to Drosophila odd-skipped, exhibits dynamic expression
+patterns during craniofacial, limb, and kidney development. Mech.
+Dev. 107: 175-179, 2001.
+
+3. Lan, Y.; Ovitt, C. E.; Cho, E.-S.; Maltby, K. M.; Wang, W.; Jiang,
+R.: Odd-skipped related 2 (Osr2) encodes a key intrinsic regulator
+of secondary palate growth and morphogenesis. Development 131: 3207-3216,
+2004.
+
+4. Prescott, N. J.; Lees, M. M.; Winter, R. M.; Malcolm, S.: Identification
+of susceptibility loci for nonsyndromic cleft lip with or without
+cleft palate in a two stage genome scan of affected sib-pairs. Hum.
+Genet. 106: 345-350, 2000.
+
+5. Zhang, Z.; Lan, Y.; Chai, Y.; Jiang, R.: Antagonistic actions
+of Msx1 and Osr2 pattern mammalian teeth into a single row. Science 323:
+1232-1234, 2009.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/9/2009
+
+CREATED Dorothy S. Reilly: 8/3/2007
+
+EDITED mgross: 09/10/2009
+mgross: 9/10/2009
+terry: 9/9/2009
+wwang: 8/9/2007
+wwang: 8/3/2007
+
+611417	TITLE *611417 SMALL G PROTEIN SIGNALING MODULATOR 1; SGSM1
+;;KIAA1941
+DESCRIPTION 
+CLONING
+
+By searching a region of chromosome 22 for protein-coding sequences,
+followed by RT-PCR and RACE of an adult brain cDNA library, Yang et al.
+(2007) cloned SGSM1, which had previously been cloned and named KIAA1941
+by Nagase et al. (2001). Nagase et al. (2001) reported a deduced
+1,233-amino acid protein with 2 RUN domains and a TBC domain, whereas
+Yang et al. (2007) reported a deduced 1,093-amino acid protein with an
+N-terminal RUN domain and a C-terminal TBC domain. By Northern blot
+analysis, Yang et al. (2007) detected expression of a 7.0-kb SGSM1
+transcript predominantly in adult heart, brain, kidney, pancreas, and
+testis; in fetal brain, skeletal muscle, and heart; and in nearly all
+specific adult brain regions examined. In mouse, Sgsm1 was detected only
+in adult brain and there was evidence of splice variants. In situ
+hybridization and immunohistochemical analysis of adult mouse brain
+showed that Sgsm1 was predominantly expressed in the layer of Ammon's
+horn (CA1, CA2, CA3), in dentate gyrus, hippocampus, granular and
+Purkinje cell layer of cerebellum, and in neurons of the cerebral
+cortex. Immunofluorescence analysis detected endogenous Sgsm1 associated
+with the Golgi apparatus in a mouse neuroblastoma cell line.
+
+GENE FUNCTION
+
+Using immunoprecipitations and Western blot analysis with a mouse
+neuroblastoma cell line, Yang et al. (2007) showed that SGSM1 interacted
+with endogenous Rap1 (see RAP1A, 179520) and Rap2 (see RAP2A, 179540).
+Further work with transfected cells and epitope-tagged proteins showed
+SGSM1, as well as 2 other SGSM proteins, SGSM2 (611418), and SGSM3
+(610440), coimmunoprecipitated with all RAP proteins examined, including
+RAP1A, RAP1B (179530), RAP2A, and RAP2B (179541). Using deletion
+mutants, Yang et al. (2007) identified a RAP-interacting domain (RAPID)
+(amino acids 301-350), containing 5 conserved blocks of sequence
+following the RUN motif, shared by all the SGSM proteins. Yang et al.
+(2007) also found that endogenous Rab4 (179511) and Rab11 (see RAB11A,
+605570) interacted with all of the SGSM proteins in the mouse
+neuroblastoma cell line; however, Rab3 (see RAB3A, 179490), Rab5 (see
+RAB5A, 179512), and Rab8 (see RAB8A, 165040) interacted only with SGSM1
+and SGSM3.
+
+GENE STRUCTURE
+
+Yang et al. (2007) determined that the SGSM1 gene contains 25 exons.
+
+MAPPING
+
+By sequencing the euchromatic region of chromosome 22 as part of the
+Human Genome Project, Yang et al. (2007) identified the SGSM1 gene on
+chromosome 22q11.2.
+
+REFERENCE 1. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+2. Yang, H.; Sasaki, T.; Minoshima, S.; Shimizu, N.: Identification
+of three novel proteins (SGSM1, 2, 3) which modulate small G protein
+(RAP and RAB)-mediated signaling pathway. Genomics 90: 249-260,
+2007.
+
+CREATED Patricia A. Hartz: 9/10/2007
+
+EDITED carol: 09/13/2007
+carol: 9/10/2007
+
+603816	TITLE *603816 AXIS INHIBITOR 1; AXIN1
+;;AXIN;;
+FUSED, MOUSE, HOMOLOG OF
+DESCRIPTION 
+DESCRIPTION
+
+During embryonic development and tissue homeostasis in adults, the Wnt
+(see 164820)-beta-catenin (CTNNB1; 116806) signaling pathway modulates
+cellular differentiation, proliferation, movement, and polarity. AXIN1
+has both positive and negative regulatory roles in Wnt-beta-catenin
+signaling. AXIN1 is a core component of a 'destruction complex' that
+promotes phosphorylation and polyubiquitination of cytoplasmic
+beta-catenin, resulting in beta-catenin proteasomal degradation in the
+absence of Wnt signaling. Nuclear accumulation of AXIN1 can positively
+influence beta-catenin-mediated transcription during Wnt signaling (Lui
+et al., 2011).
+
+CLONING
+
+In the vertebrate embryo, the formation of the dorsal-ventral axis
+depends on the activity of the Wnt signaling pathway (see 164820).
+Mutations in the mouse gene 'fused' (fu) cause axis duplication in
+homozygous mouse embryos. Zeng et al. (1997) renamed the fu gene 'axin'
+to distinguish it from the unrelated Drosophila 'fused' gene, and cloned
+mouse and human axin cDNAs. The human AXIN gene encodes a 900-amino acid
+polypeptide with 87% identity to the mouse protein. Although the
+sequence contains a bipartite nuclear localization signal, Zeng et al.
+(1997) did not find that the protein was localized to the nucleus. The
+sequence also contains a regulator of G protein signaling domain (RGS;
+see 602189) and a C-terminal region with homology to a conserved
+sequence near the N terminus of Drosophila and vertebrate 'dishevelled'
+proteins (see 601365).
+
+GENE FUNCTION
+
+Zeng et al. (1997) found that injection of axin mRNA into frog embryos
+inhibited dorsal axis formation, apparently by interfering with
+signaling through the Wnt pathway.
+
+The WNT signaling pathway is essential for development and
+organogenesis. WNT signaling stabilizes beta-catenin (CTNNB1; 116806),
+which accumulates in the cytoplasm, binds to T-cell factor, also known
+as lymphoid enhancer-binding factor-1 (LEF1; 153245), and then
+upregulates downstream genes. Mutations in CTNNB1 or APC (611731) occur
+in human neoplasms including colon cancers and hepatocellular carcinomas
+(HCC; 114550). Because hepatocellular carcinomas tend to show
+accumulation of beta-catenin more often than mutations in CTNNB1, Satoh
+et al. (2000) looked for mutations in AXIN1, which encodes a key factor
+for WNT signaling, in 6 HCC cell lines and 100 primary HCCs. Among the 4
+cell lines and 87 HCCs in which they did not detect CTNNB1 mutations,
+they identified AXIN1 mutations in 3 cell lines and 6 mutations in 5 of
+the primary HCCs. In cell lines containing mutations in either gene,
+they observed increased DNA binding of T-cell factor associated with
+beta-catenin in nuclei. Adenovirus-mediated gene transfer of wildtype
+AXIN1 induced apoptosis in hepatocellular and colorectal cancer cells
+that had accumulated beta-catenin as a consequence of either APC,
+CTNNB1, or AXIN1 mutation, suggested that axin may be an effective
+therapeutic molecule for suppressing growth of hepatocellular and
+colorectal cancers.
+
+To investigate whether the '2-hit' mutation of AXIN1 occurred in 5
+primary HCCs in which AXIN1 mutations were found, Satoh et al. (2000)
+examined loss of heterozygosity (LOH) using 2 polymorphic markers and
+found LOH in 3 tumors, indicating that AXIN1 is likely to function as a
+tumor suppressor. All of the AXIN1 mutations detected in hepatoma cell
+lines and primary HCCs predicted truncated proteins lacking the binding
+site for beta-catenin; hence, these products would lack the ability to
+form complexes with beta-catenin, which would thus not be degraded
+properly.
+
+To understand how the WNT coreceptor LRP5 (603506) is involved in
+transducing the canonical WNT signals, Mao et al. (2001) identified axin
+as a protein that interacts with the intracellular domain of LRP5. LRP5,
+when expressed in fibroblast cells, showed no effect on the canonical
+WNT signaling pathway by itself, but acted synergistically with WNT. In
+contrast, LRP5 mutants lacking the extracellular domain functioned as
+constitutively active forms that bound axin and that induced LEF1
+activation by destabilizing axin and stabilizing beta-catenin. Addition
+of WNT caused the translocation of axin to the membrane and enhanced the
+interaction between axin and LRP5. In addition, the LRP5 sequences
+involved in interactions with axin were found to be required for LEF1
+activation. The authors concluded that the binding of axin to LRP5 is an
+important part of the WNT signal transduction pathway. In Rat1 and P19
+cells, Chen et al. (2006) found that Macf1 (608271) interacted directly
+with Axin and translocated with the Axin complex to the cell membrane
+upon Wnt stimulation.
+
+Hematopoietic stem cells (HSCs) have the ability to renew themselves and
+to give rise to all lineages of the blood. Reya et al. (2003) showed
+that the WNT signaling pathway has an important role in this process.
+Overexpression of activated beta-catenin expands the pool of HSCs in
+long-term cultures by both phenotype and function. Furthermore, HSCs in
+their normal microenvironment activate a LEF1/TCF reporter, which
+indicates that HSCs respond to WNT signaling in vivo. To demonstrate the
+physiologic significance of this pathway for HSC proliferation, Reya et
+al. (2003) showed that the ectopic expression of axin or a frizzled
+(603408) ligand-binding domain, inhibitors of the WNT signaling pathway,
+led to inhibition of HSC growth in vitro and reduced reconstitution in
+vivo. Furthermore, activation of WNT signaling in HSCs induced increased
+expression of HOXB4 (142965) and NOTCH1 (190198), genes previously
+implicated in self-renewal of HSCs. Reya et al. (2003) concluded that
+the WNT signaling pathway is critical for normal HSC homeostasis in
+vitro and in vivo, and provide insight into a potential molecular
+hierarchy of regulation of HSC development.
+
+Huang et al. (2009) used a chemical genetic screen to identify a small
+molecule, XAV939, which selectively inhibits beta-catenin-mediated
+transcription. XAV939 stimulates beta-catenin degradation by stabilizing
+axin, the concentration-limiting component of the destruction complex.
+Using a quantitative chemical proteomic approach, Huang et al. (2009)
+found that XAV939 stabilizes axin by inhibiting the
+poly-ADP-ribosylating enzymes tankyrase-1 (603303) and tankyrase-2
+(607128). Both tankyrase isoforms interact with a highly conserved
+domain of axin and stimulate its degradation through the
+ubiquitin-proteasome pathway.
+
+Kim et al. (2013) reported that WNT signaling is governed by
+phosphorylation regulation of the axin scaffolding function.
+Phosphorylation by GSK3 (see 605004) kept axin activated (open) for
+beta-catenin (116806) interaction and poised for engagement of LRP6
+(603507). Formation of the WNT-induced LRP6-axin signaling complex
+promoted axin dephosphorylation by protein phosphatase-1 (see 176875)
+and inactivated (closed) axin through an intramolecular interaction.
+Inactivation of axin diminished its association with beta-catenin and
+LRP6, thereby inhibiting beta-catenin phosphorylation and enabling
+activated LRP6 to selectively recruit active axin for inactivation
+reiteratively.
+
+Lui et al. (2011) found that the deubiquitinating protease USP34
+(615295) stabilized nuclear AXIN1 in human cell lines and promoted
+expression of beta-catenin target genes. USP34 immunoprecipitated with
+ubiquitinated AXIN1. Lui et al. (2011) noted that tankyrase-dependent
+poly-ADP-ribosylation of AXIN1 is a prerequisite for AXIN1
+ubiquitination. Knockdown of USP34 or both AXIN1 and AXIN2 together in
+human cell lines reduced Wnt reporter activity, suggesting that rescue
+of AXIN1 from proteasomal degradation contributes to the positive effect
+of AXIN1 on Wnt signaling. Lui et al. (2011) concluded that nuclear
+AXIN1 has a positive regulatory role in Wnt-beta-catenin signaling that
+is controlled by USP34 opposing tankyrase-dependent ubiquitination of
+AXIN1.
+
+MAPPING
+
+By inclusion within mapped cosmids, Zeng et al. (1997) mapped the human
+AXIN1 gene to 16p13.3.
+
+MOLECULAR GENETICS
+
+The high rate of discordance in monozygotic twin pairs for most complex
+diseases is a puzzle. The possibility has been considered that
+stochastically or environmentally triggered differences in the
+epigenetic status of key genes may be responsible for some MZ
+discordance and, indeed, for much of the burden of complex disease. For
+most complex traits, there are very few identified genes whose
+methylation status can be investigated or pertinent tissue is accessible
+for methylation studies on living subjects. Until such genes for common
+diseases become known, therefore, it is worth investigating cases of MZ
+discordance for rare diseases in which the causal gene(s) are known or
+strongly suspected. Caudal duplication anomaly (607864) resembles the
+spinal duplication seen in Axin(Fu) mice, which carry a mutation in the
+Axin locus (Zeng et al., 1997). Highly penetrant mice displayed
+bifurcating tails as a result of caudal duplication in the distal
+region.
+
+Oates et al. (2006) studied a pair of monozygotic (MZ) twins discordant
+for a caudal duplication anomaly (607864), in whom Kroes et al. (2002)
+had found no mutation in the AXIN1 gene. Using bisulfite sequencing,
+they examined methylation at the promoter region of the AXIN1 gene in
+these twins and in age-related singleton controls. Methylation of the
+promoter region (608271.0002) in peripheral blood mononuclear cells was
+variable among individuals, including MZ pairs. In the MZ pair
+discordant for the caudal duplication, this region of the affected twin
+was significantly more methylated than that of the unaffected twin (P
+less than 0.0001), which was significantly more methylated than those of
+the controls (P = 0.02). Oates et al. (2006) confirmed that this CpG
+island functions as a promoter in vitro and that its activity is
+inversely proportional to the extent of methylation. This finding raised
+the possibility that hypermethylation of the AXIN1 promoter is
+associated with the malformation. The authors suggested that this case
+may be paradigmatic for some cases of MZ discordance.
+
+ALLELIC VARIANT .0001
+HEPATOCELLULAR CARCINOMA, SOMATIC
+AXIN1, 33-BP DEL
+
+In a primary hepatocellular carcinoma (114550), Satoh et al. (2000)
+found a 33-bp deletion in exon 3 of the AXIN1 gene, involving 2 glycogen
+synthase kinase-3-beta (GSK3B; 605004) phosphorylation sites. In
+addition to this deletion they found 12 missense mutations, of which 9
+occurred in codons encoding serine or threonine residues. They confirmed
+that all 13 mutations found in primary HCCs occurred as somatic events.
+
+.0002
+CAUDAL DUPLICATION ANOMALY
+AXIN1, PROMOTER HYPERMETHYLATION
+
+Oates et al. (2006) examined methylation at the promoter region of the
+AXIN1 gene in monozygotic twins discordant for a caudal duplication
+anomaly (607864). Methylation of the promoter region in the peripheral
+blood mononucleated cells was variable among individuals. The promoter
+region of the AXIN1 gene was significantly more methylated in the twin
+with the caudal duplication than in the unaffected twin, which was
+significantly more methylated than those in controls.
+
+REFERENCE 1. Chen, H.-J.; Lin, C.-M.; Lin, C.-S.; Perez-Olle, R.; Leung, C.
+L.; Liem, R. K. H.: The role of microtubule actin cross-linking factor
+1 (MACF1) in the Wnt signaling pathway. Genes Dev. 20: 1933-1945,
+2006.
+
+2. Huang, S.-M. A.; Mishina, Y. M.; Liu, S.; Cheung, A.; Stegmeier,
+F.; Michaud, G. A.; Charlat, O.; Wiellette, E.; Zhang, Y.; Wiessner,
+S.; Hild, M.; Shi, X.; and 24 others: Tankyrase inhibition stabilizes
+axin and antagonizes Wnt signalling. Nature 461: 614-620, 2009.
+
+3. Kim, S.-E.; Huang, H.; Zhao, M.; Zhang, X.; Zhang, A.; Semonov,
+M. V.; MacDonald, B. T.; Zhang, X.; Abreu, J. G.; Peng, L.; He, X.
+: Wnt stabilization of beta-catenin reveals principles for morphogen
+receptor-scaffold assemblies. Science 340: 867-870, 2013.
+
+4. Kroes, H. Y.; Takahashi, M.; Zijlstra, R. J.; Baert, J. A. L. L.;
+Kooi, K. A.; Hofstra, R. M. W.: Two cases of the caudal duplication
+anomaly including a discordant monozygotic twin. Am. J. Med. Genet. 112:
+390-393, 2002.
+
+5. Lui, T. T. H.; Lacroix, C.; Ahmed, S. M.; Goldenberg, S. J.; Leach,
+C. A.; Daulat, A. M.; Angers, S.: The ubiquitin-specific protease
+USP34 regulates axin stability and Wnt/beta-catenin signaling. Molec.
+Cell. Biol. 31: 2053-2065, 2011.
+
+6. Mao, J.; Wang, J.; Liu, B.; Pan, W.; Farr, G. H., III; Flynn, C.;
+Yuan, H.; Takada, S.; Kimelman, D.; Li, L.; Wu, D.: Low-density lipoprotein
+receptor-related protein-5 binds to axin and regulates the canonical
+Wnt signaling pathway. Molec. Cell 7: 801-809, 2001.
+
+7. Oates, N. A.; van Vliet, J.; Duffy, D. L.; Kroes, H. Y.; Martin,
+N. G.; Boomsma, D. I.; Campbell, M.; Coulthard, M. G.; Whitelaw, E.;
+Chong, S.: Increased DNA methylation at the AXIN1 gene in a monozygotic
+twin from a pair discordant for a caudal duplication anomaly. Am.
+J. Hum. Genet. 79: 155-162, 2006.
+
+8. Reya, T.; Duncan, A. W.; Ailles, L.; Domen, J.; Scherer, D. C.;
+Willert, K.; Hintz, L.; Nusse, R.; Weissman, I. L.: A role for Wnt
+signalling in self-renewal of haematopoietic stem cells. Nature 423:
+409-414, 2003.
+
+9. Satoh, S.; Daigo, Y.; Furukawa, Y.; Kato, T.; Miwa, N.; Nishiwaki,
+T.; Kawasoe, T.; Ishiguro, H.; Fujita, M.; Tokino, T.; Sasaki, Y.;
+Imaoka, S.; Murata, M.; Shimano, T.; Yamaoka, Y.; Nakamura, Y.: AXIN1
+mutations in hepatocellular carcinomas, and growth suppression in
+cancer cells by virus-mediated transfer of AXIN1. Nature Genet. 24:
+245-250, 2000.
+
+10. Zeng, L.; Fagotto, F.; Zhang, T.; Hsu, W.; Vasicek, T. J.; Perry,
+W. L., III; Lee, J. J.; Tilghman, S. M.; Gumbiner, B. M.; Costantini,
+F.: The mouse fused locus encodes axin, an inhibitor of the Wnt signaling
+pathway that regulates embryonic axis formation. Cell 90: 181-192,
+1997.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 06/27/2013
+Ada Hamosh - updated: 6/25/2013
+Ada Hamosh - updated: 11/13/2009
+Patricia A. Hartz - updated: 9/18/2006
+Victor A. McKusick - updated: 6/16/2006
+Ada Hamosh - updated: 5/6/2003
+Stylianos E. Antonarakis - updated: 8/6/2001
+Victor A. McKusick - updated: 3/1/2000
+
+CREATED Jennifer P. Macke: 5/18/1999
+
+EDITED mgross: 06/27/2013
+alopez: 6/25/2013
+alopez: 11/18/2009
+terry: 11/13/2009
+ckniffin: 2/5/2008
+wwang: 9/18/2006
+alopez: 6/23/2006
+terry: 6/16/2006
+alopez: 5/28/2003
+alopez: 5/6/2003
+terry: 5/6/2003
+carol: 11/14/2001
+mgross: 8/6/2001
+carol: 5/25/2000
+alopez: 3/1/2000
+terry: 3/1/2000
+alopez: 9/13/1999
+alopez: 5/18/1999
+
+606605	TITLE *606605 ATR-INTERACTING PROTEIN; ATRIP
+DESCRIPTION 
+CLONING
+
+Cortez et al. (2001) searched for substrates of ATM (see 607585) and ATR
+(601215) and identified a protein of 86 kD, which they called ATRIP for
+'ATR-interacting protein.' The full-length cDNA encodes a deduced
+791-amino acid protein with a coiled-coil domain near its N terminus.
+RNA blotting indicated that ATRIP is expressed in all tissues tested.
+Cortez et al. (2001) also identified an alternatively spliced exon
+encoding amino acids 658 to 684 near the C-terminus. RT-PCR from 2 cell
+lines indicated that both forms were expressed.
+
+GENE FUNCTION
+
+ATRIP is phosphorylated by ATR, regulates ATR expression, and is an
+essential component of the DNA damage checkpoint pathway. Cortez et al.
+(2001) demonstrated that ATR and ATRIP both localize to intranuclear
+foci after DNA damage or inhibition of replication. Deletion of ATR
+mediated by the Cre recombinase caused the loss of ATR and ATRIP
+expression, loss of DNA damage checkpoint responses, and cell death.
+Therefore, ATR is essential for the viability of human somatic cells.
+Small interfering RNA directed against ATRIP caused the loss of both
+ATRIP and ATR expression and the loss of checkpoint responses to DNA
+damage. Cortez et al. (2001) concluded that ATRIP and ATR are mutually
+dependent partners in cell cycle checkpoint signaling pathways.
+
+The function of the ATR-ATRIP protein kinase complex is crucial for the
+cellular response to replication stress and DNA damage. Zou and Elledge
+(2003) demonstrated that replication protein A (RPA) complex, which
+associates with single-stranded DNA (ssDNA), is required for recruitment
+of ATR to sites of DNA damage and for ATR-mediated CHK1 (603078)
+activation in human cells. In vitro, RPA stimulates the binding of ATRIP
+to single-stranded DNA. The binding of ATRIP to RPA-coated
+single-stranded DNA enables the ATR-ATRIP complex to associate with DNA
+and stimulates phosphorylation of the RAD17 (603139) protein that is
+bound to DNA. Furthermore, Ddc2, the budding yeast homolog of ATRIP, is
+specifically recruited to double-stranded DNA breaks in an RPA-dependent
+manner. A checkpoint-deficient mutant of RPA, rfa1-t11, is defective for
+recruiting Ddc2 to single-stranded DNA both in vivo and in vitro. Zou
+and Elledge (2003) concluded that RPA-coated single-stranded DNA is the
+critical structure at sites of DNA damage that recruits the ATR-ATRIP
+complex and facilitates its recognition of substrates for
+phosphorylation and the initiation of checkpoint signaling.
+
+By mutation analysis, Namiki and Zou (2006) identified 2 major
+RPA-ssDNA-interacting domains of ATRIP in regions flanking the conserved
+coiled-coil domain. They also identified an internal region of ATRIP
+that exhibited affinity to single-stranded DNA. Namiki and Zou (2006)
+concluded that there are multiple interactions between ATRIP and
+RPA-ssDNA and that ATRIP may interact directly with ssDNA in the
+ATRIP-RPA-ssDNA complex.
+
+REFERENCE 1. Cortez, D.; Guntuku, S.; Qin, J.; Elledge, S. J.: ATR and ATRIP:
+partners in checkpoint signaling. Science 294: 1713-1716, 2001.
+
+2. Namiki, Y.; Zou, L.: ATRIP associates with replication protein
+A-coated ssDNA through multiple interactions. Proc. Nat. Acad. Sci. 103:
+580-585, 2006.
+
+3. Zou, L.; Elledge, S. J.: Sensing DNA damage through ATRIP recognition
+of RPA-ssDNA complexes. Science 300: 1542-1548, 2003.
+
+CONTRIBUTORS Victor A. McKusick - updated: 3/27/2007
+Patricia A. Hartz - updated: 8/22/2006
+Cassandra L. Kniffin - updated: 8/18/2006
+Victor A. McKusick - updated: 8/15/2006
+Patricia A. Hartz - updated: 3/10/2006
+Ada Hamosh - updated: 6/17/2003
+Paul J. Converse - updated: 1/28/2002
+
+CREATED Ada Hamosh: 1/10/2002
+
+EDITED alopez: 01/14/2010
+carol: 6/1/2007
+alopez: 4/2/2007
+terry: 3/27/2007
+mgross: 8/22/2006
+carol: 8/18/2006
+ckniffin: 8/17/2006
+terry: 8/15/2006
+wwang: 3/24/2006
+terry: 3/10/2006
+alopez: 6/19/2003
+terry: 6/17/2003
+ckniffin: 3/11/2003
+alopez: 1/28/2002
+alopez: 1/10/2002
+
+607927	TITLE *607927 ANKYRIN REPEATS- AND FYVE DOMAIN-CONTAINING PROTEIN 1; ANKFY1
+;;ANKYRIN REPEATS HOOKED TO A ZINC FINGER MOTIF; ANKHZN;;
+KIAA1255
+DESCRIPTION 
+DESCRIPTION
+
+ANKFY1 contains several protein-interacting domains and shares
+significant identity with a number of S. cerevisiae proteins involved in
+vesicular trafficking (Kuriyama et al., 2000).
+
+CLONING
+
+Ito et al. (1999) cloned mouse Ankfy1, which they designated Ankhzn. The
+deduced 1,184-amino acid protein has an apparent molecular mass of 130
+kD. Ankhzn contains an N-terminal coiled-coil domain, a BTB/POZ domain,
+17 ankyrin repeats, and a C-terminal zinc finger motif. The ankyrin
+repeats are separated into a group of 4 repeats in the N-terminal half
+and a group of 13 repeats in the C-terminal half. Ito et al. (1999)
+determined that there is a soluble form of Ankhzn and a form that
+associates with endosomes.
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (1999) cloned ANKFY1, which they designated
+KIAA1255. The deduced protein shares 88% identity with mouse Ankhzn.
+RT-PCR ELISA detected high expression in whole adult brain and
+intermediate expression in all other tissues and specific brain regions
+examined, including fetal brain.
+
+By searching databases for sequences sharing homology with mouse Ankhzn,
+followed by PCR, Kuriyama et al. (2000) cloned ANKHZN from a fetal brain
+cDNA library. The deduced 1,166 amino acid protein has a calculated
+molecular mass of about 128 kD. ANKHZN shares 85% identity with mouse
+Ankhzn, and the 2 proteins have the same domain structure. Kuriyama et
+al. (2000) noted that the C-terminal zinc finger (FYVE) domain, which
+contains 8 potential Zn(2+)-coordinating cysteine residues that bind 2
+Zn(2+) ions, is well conserved among proteins related to intracellular
+trafficking. Northern blot analysis detected a 7-kb transcript in both
+human and mouse brain. RT-PCR detected expression in all tissues
+examined. Subcellular fractionation of human kidney recovered ANKHZN in
+both the soluble and membrane fractions.
+
+GENE STRUCTURE
+
+Kuriyama et al. (2000) determined that the ANKFY1 gene contains 25
+exons.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the ANKFY1
+gene to chromosome 17. By radiation hybrid analysis and FISH, Kuriyama
+et al. (2000) mapped the ANKFY1 gene to chromosome 17p13. Southern blot
+analysis indicated that ANKFY1 is a single-copy gene.
+
+REFERENCE 1. Ito, K.; Ishii, N.; Miyashita, A.; Tominaga, K.; Kuriyama, H.;
+Maruyama, H.; Shirai, M.; Naito, M.; Arakawa, M.; Kuwano, R.: Molecular
+cloning of a novel 130-kDa cytoplasmic protein, Ankhzn, containing
+ankyrin repeats hooked to a zinc finger motif. Biochem. Biophys.
+Res. Commun. 257: 206-213, 1999.
+
+2. Kuriyama, H.; Asakawa, S.; Minoshima, S.; Maruyama, H.; Ishii,
+N.; Ito, K.; Gejyo, F.; Arakawa, M.; Shimizu, N.; Kuwano, R.: Characterization
+and chromosomal mapping of a novel human gene, ANKHZN. Gene 253:
+151-160, 2000.
+
+3. Nagase, T.; Ishikawa, K.; Kikuno, R.; Hirosawa, M.; Nomura, N.;
+Ohara, O.: Prediction of the coding sequences of unidentified human
+genes. XV. The complete sequences of 100 new cDNA clones from brain
+which code for large proteins in vitro. DNA Res. 6: 337-345, 1999.
+
+CREATED Patricia A. Hartz: 6/27/2003
+
+EDITED mgross: 06/27/2003
+
+139259	TITLE *139259 G1- TO S-PHASE TRANSITION 1; GSPT1
+;;GST1, YEAST, HOMOLOG OF; GST1;;
+PEPTIDE CHAIN RELEASE FACTOR 3A; ERF3A;;
+ETF3A
+DESCRIPTION 
+CLONING
+
+Kikuchi et al. (1988) isolated a gene from a yeast genomic library that
+could complement a temperature-sensitive mutant of Saccharomyces
+cerevisiae. The gene, termed GST1, seemed to be essential for the G1- to
+S-phase transition in the yeast cell cycle. The gene product appeared to
+be a GTP-binding protein of molecular mass 76,565 Da with 38% identity
+in amino acid sequence with the alpha subunit of elongation factor-1
+(130590). Hoshino et al. (1989) cloned the human equivalent from a cDNA
+library.
+
+Hoshino et al. (1998) cloned mouse Gspt1. The deduced 635-amino acid
+protein has a unique N terminus and a conserved C-terminal eukaryotic
+elongation factor-1-alpha-like domain. The mouse and human Gspt1
+proteins share 94% sequence identity. RT-PCR analysis indicated
+expression of Gspt1 in all mouse tissues examined.
+
+GENE FUNCTION
+
+Eukaryotic RF1 (ETF1; 600285) and RF3 are involved in translation
+termination. In vitro, RF1 catalyzes the release of the polypeptide
+chain without any stop codon specificity; the GTP-binding protein RF3
+confers GTP dependence to the termination process and stimulates RF1
+activity. Le Goff et al. (1997) used tRNA-mediated nonsense suppression
+of different stop codons in a CAT reporter gene to analyze the
+polypeptide chain release factor activities of recombinant human RF1 and
+RF3 proteins overexpressed in human cells. Using a CAT assay, they
+measured the competition between the suppressor tRNA and the release
+factors when a stop codon was present in the ribosomal A site.
+Regardless of which of the 3 stop codons was present in the CAT open
+reading frame, the overexpression of RF1 alone markedly decreased
+translational read-through by suppressor tRNA. Thus, Le Goff et al.
+(1997) concluded that RF1 has intrinsic antisuppressor activity. The
+levels of antisuppression when both RF1 and RF3 were overexpressed were
+almost the same as those when RF1 was overexpressed alone, suggesting
+that RF1-RF3 complex-mediated termination may be controlled by the
+expression level of RF1. Overexpression of RF3 alone had an inhibitory
+effect on CAT gene expression. CAT mRNA stability studies suggested that
+RF3 inhibits gene expression at the transcriptional level. Le Goff et
+al. (1997) suggested that RF3 may perform other functions, including the
+stimulation of RF1 activity, in vivo.
+
+Hoshino et al. (1998) found that expression of Gspt1 by Swiss 3T3 cells
+increased with serum or phorbol ester stimulation. By
+coimmunoprecipitation and yeast 2-hybrid analyses, they found
+interaction between mouse Gspt1 and human eRF1. Hoshino et al. (1998)
+hypothesized that Gspt1, in a binary complex with eRF1, functions as a
+polypeptide chain release factor.
+
+Alkalaeva et al. (2006) reconstituted eukaryotic translation initiation,
+elongation, and termination processes in vitro on a model mRNA encoding
+a tetrapeptide followed by a UAA stop codon using individual 40S and 60S
+ribosomal subunits and the complete set of individual initiation,
+elongation, and release factors. They found that binding of human ERF1
+and ERF3A and GTP to the ribosomal pretermination complex induced a
+structural rearrangement characterized by a 2-nucleotide forward shift
+of the toeprint attributed to the pretermination complex. Subsequent GTP
+hydrolysis was required for rapid hydrolysis of peptidyl tRNA in the
+pretermination complex. Cooperativity between ERF1 and ERF3A in ensuring
+fast peptidyl-tRNA hydrolysis required the ERF3A-binding C-terminal
+domain of ERF1.
+
+Using a yeast 2-hybrid screen and in vitro and in vivo binding assays,
+including reciprocal immunoprecipitation assays, Tompkins et al. (2006)
+showed that GSPT1 bound the p19(ARF) isoform of CDKN2A (600160), but not
+the p16(INK4A) isoform.
+
+MAPPING
+
+By nonradioactive in situ hybridization, Ozawa et al. (1992) mapped the
+GSPT1 gene, the human homolog of the yeast gene GST1, to human
+chromosome 16p13.1. Southern blot hybridization with a panel of
+human-rodent somatic cells confirmed the localization of the GSPT1 gene
+on chromosome 16 and also showed the existence of a homologous gene on
+the X chromosome (GSPT2; 300418). They pointed out that a breakpoint for
+nonrandom chromosome rearrangements has been found in the region of
+GSPT1 in patients with acute nonlymphocytic leukemia.
+
+REFERENCE 1. Alkalaeva, E. Z.; Pisarev, A. V.; Frolova, L. Y.; Kisselev, L.
+L.; Pestova, T. V.: In vitro reconstitution of eukaryotic translation
+reveals cooperativity between release factors eRF1 and eRF3. Cell 125:
+1125-1136, 2006.
+
+2. Hoshino, S.; Imai, M.; Mizutani, M.; Kikuchi, Y.; Hanaoka, F.;
+Ui, M.; Katada, T.: Molecular cloning of a novel member of the eukaryotic
+polypeptide chain-releasing factors (eRF): its identification as eRF3
+interacting with eRF1. J. Biol. Chem. 273: 22254-22259, 1998.
+
+3. Hoshino, S.; Miyazawa, H.; Enomoto, T.; Hanaoka, F.; Kikuchi, Y.;
+Kikuchi, A.; Ui, M.: A human homologue of the yeast GST1 gene codes
+for a GTP-binding protein and is expressed in a proliferation-dependent
+manner in mammalian cells. EMBO J. 8: 3807-3814, 1989.
+
+4. Kikuchi, Y.; Shimatake, H.; Kikucki, A.: A yeast gene required
+for the G1-to-S transition encodes a protein containing an A-kinase
+target site and GTPase domain. EMBO J. 7: 1175-1182, 1988.
+
+5. Le Goff, X.; Philippe, M.; Jean-Jean, O.: Overexpression of human
+release factor 1 alone has an antisuppressor effect in human cells. Molec.
+Cell Biol. 17: 3164-3172, 1997.
+
+6. Ozawa, K.; Murakami, Y.; Eki, T.; Yokoyama, K.; Soeda, E.; Hoshino,
+S.; Ui, M.; Hanaoka, F.: Mapping of the human GSPT1 gene, a human
+homolog of the yeast GST1 gene, to chromosomal band 16p13.1. Somat.
+Cell Molec. Genet. 18: 189-194, 1992.
+
+7. Tompkins, V.; Hagen, J.; Zediak, V. P.; Quelle, D. E.: Identification
+of novel ARF binding proteins by two-hybrid screening. Cell Cycle 5:
+641-646, 2006.
+
+CONTRIBUTORS Matthew B. Gross - updated: 4/28/2010
+Patricia A. Hartz - updated: 11/29/2006
+Patricia A. Hartz - updated: 12/13/2002
+
+CREATED Victor A. McKusick: 1/18/1990
+
+EDITED wwang: 05/05/2010
+mgross: 4/28/2010
+mgross: 11/29/2006
+mgross: 12/13/2002
+carol: 8/16/1999
+terry: 8/11/1998
+carol: 8/13/1992
+supermim: 3/16/1992
+carol: 2/29/1992
+carol: 2/11/1992
+supermim: 3/20/1990
+supermim: 1/18/1990
+
+114070	TITLE *114070 ANNEXIN A6; ANXA6
+;;ANNEXIN VI; ANX6;;
+CALCIUM-BINDING PROTEIN p68;;
+CALELECTRIN
+DESCRIPTION 
+DESCRIPTION
+
+ANXA6 is a member of a family of proteins that bind membrane or
+cytoskeleton in a Ca(2+)-dependent manner. These proteins are
+characterized by homologous amino acid sequences that are present in
+multiple copies in each protein. The family is variously known as
+calelectrins, annexins, calpactins, endonexins, and lipocortins.
+
+CLONING
+
+Three members of the calelectrin family with apparent molecular masses
+of 67 kD, 35 kD, and 32.5 kD had been purified to homogeneity. Sudhof et
+al. (1988) reported the cDNA cloning and primary structure of human
+67-kD calelectrin. The deduced sequence contains 8 similar repeats, each
+consisting of about 68 amino acids. Comparison of the 67-kD calelectrin
+sequence with the protein sequences of lipocortins I and II (151690,
+151740) demonstrated a close relationship (42 to 45% identity).
+
+Thomas et al. (2002) found that Anxa6 showed a punctate supranuclear and
+apical distribution in rat pancreatic acinary cells. Anxa6 colocalized
+with Crhsp28, a component of a protein complex associated with vesicular
+structures.
+
+MAPPING
+
+Davies et al. (1989) assigned the ANXA6 gene to 5q32-q34 by use of a
+cDNA clone to probe genomic DNA from rodent-human somatic cell hybrids
+and for in situ hybridization. The corresponding gene in the mouse was
+assigned to chromosome 11 by probing DNA from rodent-rodent somatic cell
+hybrids. Warrington and Bengtsson (1994) used 3 physical mapping methods
+(radiation hybrid mapping, pulsed field gel electrophoresis, and
+fluorescence in situ hybridization of interphase nuclei) to determine
+the order and relative distances between 12 loci in the 5q31-q33 region.
+ANXA6 was one of those loci.
+
+GENE STRUCTURE
+
+Smith et al. (1994) demonstrated that the ANX6 gene is approximately 60
+kb long and contains 26 exons. The genomic sequence at the 3-prime end
+does not contain a canonical polyadenylylation signal. The genomic
+sequence upstream of the transcription start site contains TATAA and
+CAAT motifs. The spatial organization of the exons revealed no obvious
+similarities between the 2 halves of the ANX6 gene. Comparison of the
+intron/exon boundary positions of ANX6 with those of ANX1 (151690) and
+ANX2 (151740) revealed that within the repeated domains the breakpoints
+are perfectly conserved except for exon 8, which is 1 codon smaller in
+ANX2. The corresponding point in the second half of ANX6 is represented
+by 2 exons, exons 20 and 21. The latter exon is alternatively spliced,
+giving rise to annexin VI isoforms that differ with respect to a 6-amino
+acid insertion at the start of repeat 7.
+
+GENE FUNCTION
+
+Thomas et al. (2002) found that stimulation of rat pancreatic acinary
+cells with the secretagogue cholecystokinin (118440) enhanced the
+colocalization of Anxa6 and Crhsp28 within regions of acini immediately
+below the apical plasma membrane. Thomas et al. (2002) concluded that
+Ca(2+)-dependent binding between CRHSP28 and ANXA6 is required for
+acinar cell membrane trafficking events and digestive enzyme secretion.
+
+REFERENCE 1. Davies, A. A.; Moss, S. E.; Crompton, M. R.; Jones, T. A.; Spurr,
+N. K.; Sheer, D.; Kozak, C.; Crumpton, M. J.: The gene coding for
+the p68 calcium-binding protein is localized to bands q32-q34 of human
+chromosome 5, and to mouse chromosome 11. Hum. Genet. 82: 234-238,
+1989.
+
+2. Smith, P. D.; Davies, A.; Crumpton, M. J.; Moss, S. E.: Structure
+of the human annexin VI gene. Proc. Nat. Acad. Sci. 91: 2713-2717,
+1994.
+
+3. Sudhof, T. C.; Slaughter, C. A.; Leznicki, I.; Barjon, P.; Reynolds,
+G. A.: Human 67-kDa calelectrin contains a duplication of four repeats
+found in 35-kDa lipocortins. Proc. Nat. Acad. Sci. 85: 664-668,
+1988.
+
+4. Thomas, D. D. H.; Kaspar, K. M.; Taft, W. B.; Weng, N.; Rodenkirch,
+L. A.; Groblewski, G. E.: Identification of annexin VI as a Ca(2+)-sensitive
+CRHSP-28-binding protein in pancreatic acinar cells. J. Biol. Chem. 277:
+35496-35502, 2002.
+
+5. Warrington, J. A.; Bengtsson, U.: High-resolution physical mapping
+of human 5q31-q33 using three methods: radiation hybrid mapping, interphase
+fluorescence in situ hybridization, and pulsed-field gel electrophoresis. Genomics 24:
+395-398, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/7/2005
+
+CREATED Victor A. McKusick: 8/7/1989
+
+EDITED terry: 05/20/2010
+wwang: 6/22/2005
+wwang: 6/17/2005
+terry: 6/7/2005
+alopez: 6/5/2002
+mgross: 9/17/1999
+psherman: 3/31/1998
+terry: 1/9/1995
+jason: 7/15/1994
+carol: 11/3/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+supermim: 2/9/1990
+
+614570	TITLE *614570 KINESIN FAMILY MEMBER 18B; KIF18B
+DESCRIPTION 
+DESCRIPTION
+
+KIF18B belongs to the kinesin superfamily of ATPases that move cargo
+molecules or organelles along microtubules from the center of the cell
+toward the cell periphery. Kinesins contain 4 major domains: a globular
+motor domain with binding sites for microtubules and ATP; a short linker
+region; a long coiled-coil stalk for dimerization; and a cargo-binding
+C-terminal tail domain (summary by Lee et al., 2010).
+
+CLONING
+
+By RT-PCR of HeLa cell mRNA, Lee et al. (2010) cloned KIF18B. The
+deduced 842-amino acid protein has a calculated molecular mass of 92 kD.
+The motor and stalk domains of KIF18B share 60% identity with the
+corresponding region of KIF18A (611271). RT-PCR of several human cell
+lines revealed a KIF18B splice variant encoding a deduced 873-amino acid
+protein, which the authors called isoform-2. Compared with isoform-1,
+isoform-2 contains a unique C-terminal end that includes 3 overlapping
+PxxP motifs. Northern blot analysis of HeLa cell RNA revealed a 3.0-kb
+transcript. RNA dot-blot analysis of several tissues revealed high
+KIF18B expression only in amygdala, with weak expression in a limited
+number of other adult tissues, fetal tissues, and human cell lines.
+RT-PCR analysis revealed variable KIF18B expression in all human cell
+lines examined. Western blot analysis of synchronized HeLa cells showed
+that KIF18B expression was elevated at late G2 through metaphase and
+that KIF18B had an apparent molecular mass of 120 kD.
+Immunohistochemical analysis revealed that KIF18B was present
+predominantly in the nucleus and to a lesser extent in the cytoplasm of
+interphase cells. During mitosis, most KIF18B was closely associated
+with the plus end of astral microtubules emanating from the spindle pole
+during prometaphase and metaphase. KIF18B was not detected at anaphase
+and telophase. Database analysis revealed orthologs of KIF18B in several
+vertebrate species.
+
+Tanenbaum et al. (2011) found that KIF18B localized to microtubule plus
+ends during early prometaphase in human U2OS osteosarcoma cells. KIF18B
+was not expressed in G1 and was sequestered in the nucleus in G2. KIF18B
+was completely degraded at the metaphase-anaphase transition.
+
+GENE FUNCTION
+
+By mutation analysis, Lee et al. (2010) found that only 1 of 3 putative
+nuclear localization signals in KIF18B directed nuclear localization.
+
+Using U2OS human osteosarcoma cells, Tanenbaum et al. (2011) identified
+KIF18B as an essential component of a microtubule-depolymerizing complex
+containing MCAK (KIF2C; 604538) and EB1 (MAPRE1; 603108). KIF18B
+interacted independently with MCAK and a subset of EB1 at microtubule
+plus ends. All 3 proteins, in addition to KIF18B motor activity, were
+required for efficient plus-end microtubule depolymerization. Knockdown
+of either KIF18B or MCAK reduced the localization of the other protein
+at microtubule plus ends and reduced microtubule depolymerization.
+Disruption of the MCAK-KIF18B interaction by mutation of the interacting
+domains, or phosphorylation of MCAK by the microtubule-polymerizing
+agents Aurora A (AURKA; 603072) or Aurora B (AURKB; 604970), similarly
+blocked microtubule depolymerization. Use of a KIF5B (602809)/KIF18B
+chimera revealed that the major role of KIF18B motor domain in this
+process was to provide plus end-directed movement along microtubules.
+Tanenbaum et al. (2011) hypothesized that KIF18B, released into the
+cytoplasm upon mitotic nuclear envelope breakdown, is recruited to
+microtubule plus ends through interaction with EB1 and MCAK. The motor
+activity of KIF18B directs the complex to the tip of microtubules, and
+the depolymerizing activity of the complex is modulated by Aurora A and
+Aurora B.
+
+GENE STRUCTURE
+
+Lee et al. (2010) determined that the KIF18B gene contains 15 exons, the
+last of which is alternatively spliced.
+
+MAPPING
+
+Hartz (2012) mapped the KIF18B gene to chromosome 17q21.31 based on an
+alignment of the KIF18B sequence (GenBank GENBANK BC044933) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  3/28/2012.
+
+2. Lee, Y. M.; Kim, E.; Park, M.; Moon, E.; Ahn, S.-M.; Kim, W.; Hwang,
+K. B.; Kim, Y. K.; Choi, W.; Kim, W.: Cell cycle-regulated expression
+and subcellular localization of a kinesin-8 member human KIF18B. Gene 466:
+16-25, 2010.
+
+3. Tanenbaum, M. E.; Macurek, L.; van der Vaart, B.; Galli, M.; Akhmanova,
+A.; Medema, R. H.: A complex of Kif18b and MCAK promotes microtubule
+depolymerization and is negatively regulated by Aurora kinases. Curr.
+Biol. 21: 1356-1365, 2011.
+
+CREATED Patricia A. Hartz: 4/13/2012
+
+EDITED terry: 05/08/2012
+mgross: 4/13/2012
+

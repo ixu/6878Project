@@ -1,0 +1,72 @@
+610225	TITLE *610225 RIBOSOMAL PROTEIN S19 BINDING PROTEIN 1; RPS19BP1
+;;S19BP;;
+ACTIVE REGULATOR OF SIRT1; AROS;;
+MGC52010
+DESCRIPTION 
+CLONING
+
+Using yeast 2-hybrid analysis to screen a mouse embryonic cDNA library
+with rat ribosomal protein S19 (RPS19; 603474) as bait, Maeda et al.
+(2006) isolated 3 cDNA clones. Using in vitro binding assays, they
+demonstrated that the product of the mouse cDNAs interacted with
+ribosomal protein S19 but not with other ribosomal proteins tested,
+including RPS3A (180478), RPL5 (603634), and RPL7A (185640). The mouse
+Rps19bp1 cDNA, which the authors called S19bp, encodes a deduced
+142-amino acid protein with a predicted molecular mass of approximately
+16 kD. The protein contains 2 basic amino acid clusters, one of which
+has a variable polylysine tract embedded in a putative nucleolar
+localization signal. By dot-blot hybridization analysis, Maeda et al.
+(2006) detected expression of Rps19bp1 in all mouse tissues examined,
+with highest expression in submaxillary gland and epididymis.
+Immunofluorescence localization experiments in Cos-7 cells demonstrated
+colocalization of Rps19bp1 and Rps19 in the nucleolus, with partial
+diffusion of Rps19bp1 into the nucleoplasm.
+
+Using SIRT1 (604479) as bait in a yeast 2-hybrid screen of a HeLa cell
+cDNA library, Kim et al. (2007) cloned full-length RPS19BP1, which they
+called AROS. The deduced protein contains 142 amino acids. Northern blot
+analysis detected AROS expression in heart, liver, small intestine, and
+lung. Endogenous AROS showed nuclear localization in a human lung cancer
+cell line. Fluorescence-tagged AROS was dispersed in the nucleoplasm in
+half of transfected cells and showed distinct nuclear foci in the other
+half.
+
+GENE FUNCTION
+
+Using several in vitro binding assays and analysis of deletion mutants,
+Maeda et al. (2006) demonstrated that mouse Rps19bp1 specifically binds
+ribosomal protein S19 and that binding activity is contained within
+amino acids 81-142 of Rps19bp1.
+
+Using protein pull-down and immunoprecipitation assays, Kim et al.
+(2007) confirmed that human AROS interacted with SIRT1, and mutation
+analysis identified an N-terminal domain in SIRT1 that was required for
+the interaction. AROS enhanced SIRT1-mediated deacetylation of p53
+(TP53; 191170) in vitro in a dose-dependent manner. AROS also enhanced
+SIRT1 activity in vivo, which inhibited p53-mediated transcriptional
+activity; both SIRT1 and AROS were required for p53 inactivation. AROS
+also regulated p53-induced cell growth in response to DNA damage. Kim et
+al. (2007) concluded that AROS is a key regulator of SIRT1, with
+suppressive effects on p53.
+
+MAPPING
+
+By genomic sequence analysis, Maeda et al. (2006) mapped the human
+RPS19BP1 gene to chromosome 22p and the mouse homolog to chromosome 15.
+
+REFERENCE 1. Kim, E.-J.; Kho, J.-H.; Kang, M.-R.; Um, S.-J.: Active regulator
+of SIRT1 cooperates with SIRT1 and facilitates suppression of p53
+activity. Molec. Cell 28: 277-290, 2007. Note: Erratum: Molec. Cell
+28: 513 only, 2007.
+
+2. Maeda, N.; Toku, S.; Kenmochi, N.; Tanaka, T.: A novel nucleolar
+protein interacts with ribosomal protein S19. Biochem. Biophys. Res.
+Commun. 339: 41-46, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/29/2007
+
+CREATED Dorothy S. Reilly: 6/29/2006
+
+EDITED mgross: 11/29/2007
+carol: 6/29/2006
+

@@ -1,0 +1,103 @@
+604468	TITLE *604468 MITOGEN-ACTIVATED PROTEIN KINASE KINASE KINASE 6; MAP3K6
+;;MAPKKK6;;
+APOPTOSIS SIGNAL-REGULATING KINASE 2; ASK2
+DESCRIPTION Mitogen-activated protein kinase (MAPK) cascades consist of a 3-kinase
+module: MAPK, MAPK kinase (MAP2K, MAPKK, or MKK), and MKK kinase (MAP3K,
+MAPKKK, or MEKK). These kinase cascades relay signals from the cell
+surface to the nucleus, resulting in gene transcription. Growth factors
+and mitogens activate the extracellular-regulated kinase (ERK) pathway,
+while stress stimuli and proinflammatory cytokines activate 2 closely
+related but distinct parallel pathways, the c-Jun N-terminal kinase
+(JNK), or stress-activated kinase (SAPK), pathway and the p38 kinase
+pathway. Multiple upstream kinases, the MAP3Ks, have been identified.
+MAP3K5 (602448) activates the JNK and p38 pathways and induces apoptosis
+when overexpressed in stably transfected cells. Using a portion of
+MAP3K5 as bait in a yeast 2-hybrid system, Wang et al. (1998) isolated a
+partial cDNA encoding a novel protein kinase, MAP3K6, which they called
+MAPKKK6. They isolated a full-length human skeletal muscle MAP3K6 cDNA
+encoding a predicted 1,280-amino acid serine/threonine kinase containing
+all 11 kinase subdomains. MAP3K6 and MAP3K5 share 45% amino acid
+sequence identity; their catalytic domains share 82% identity. The
+authors confirmed the interaction of MAP3K6 with MAP3K5 in vivo using
+coimmunoprecipitation. Recombinant MAP3K6 weakly activated the JNK but
+not the ERK or p38 kinase pathways. Northern blot analysis detected an
+approximately 5.0-kb MAP3K6 transcript in several tissues, with the
+highest expression in heart and skeletal muscle.
+
+REFERENCE 1. Wang, X. S.; Diener, K.; Tan, T.-H.; Yao, Z.: MAPKKK6, a novel
+mitogen-activated protein kinase kinase kinase, that associates with
+MAPKKK5. Biochem. Biophys. Res. Commun. 253: 33-37, 1998.
+
+CREATED Patti M. Sherman: 1/27/2000
+
+EDITED mgross: 07/26/2010
+mgross: 1/28/2000
+psherman: 1/27/2000
+
+605759	TITLE *605759 ANKYRIN REPEAT- AND SOCS BOX-CONTAINING PROTEIN 2; ASB2
+DESCRIPTION 
+DESCRIPTION
+
+Proteins of the ASB family, such as ASB2, contain central tandem ankyrin
+(see 612641) repeats and a C-terminal suppressor of cytokine signaling
+(SOCS) box. SOCS box proteins are predicted to be involved in protein
+degradation by acting as a bridge between substrate proteins and E3
+ubiquitin protein ligases (see 601623) (review by Kile et al., 2002).
+
+CLONING
+
+By EST database searching, probing a mouse spleen cDNA library, and
+further database searching, Kile et al. (2000) identified a cDNA
+encoding ASB2. Sequence analysis predicted that the 544-amino acid
+protein, which is 94% identical to the mouse protein, contains 15
+ankyrin repeats and a C-terminal SOCS box. Northern blot analysis of
+mouse tissues revealed wide expression of a 2.6-kb transcript, with
+highest expression in muscle, heart, and spleen.
+
+GENE STRUCTURE
+
+Kile et al. (2000) determined that the ASB2 gene contains at least 10
+exons.
+
+MAPPING
+
+Hartz (2013) mapped the ASB2 gene to chromosome 14q32.12 based on an
+alignment of the ASB2 sequence (GenBank GENBANK A056723) with the
+genomic sequence (GRCh37).
+
+Kile et al. (2000) mapped the mouse gene between the markers D12Mit99
+and D12Mit278.
+
+GENE FUNCTION
+
+Kohroki et al. (2005) found that epitope-tagged ASB2 and several other
+ASB family members interacted with endogenous CUL5 (601741) and RBX2
+(RNF7; 603863) in immunoprecipitated HEK293 cells. The ASB proteins did
+not interact with CUL2 (603135) or RBX1 (603814). ASB2-CUL5-RBX2
+complexes showed E3 ubiquitin ligase activity in vitro.
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/29/2013.
+
+2. Kile, B. T.; Schulman, B. A.; Alexander, W. S.; Nicola, N. A.;
+Martin, H. M. E.; Hilton, D. J.: The SOCS box: a tale of destruction
+and degradation. Trends Biochem. Sci. 27: 235-241, 2002.
+
+3. Kile, B. T.; Viney, E. M.; Willson, T. A.; Brodnicki, T. C.; Cancilla,
+M. R.; Herlihy, A. S.; Croker, B. A.; Baca, M.; Nicola, N. A.; Hilton,
+D. J.; Alexander, W. S.: Cloning and characterization of the genes
+encoding the ankyrin repeat and SOCS box-containing proteins Asb-1,
+Asb-2, Asb-3, and Asb-4. Gene 258: 31-41, 2000.
+
+4. Kohroki, J.; Nishiyama, T.; Nakamura, T.; Masuho, Y.: ASB proteins
+interact with cullin5 and Rbx2 to form E3 ubiquitin ligase complexes. FEBS
+Lett. 579: 6796-6802, 2005.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/29/2013
+
+CREATED Paul J. Converse: 3/23/2001
+
+EDITED mgross: 01/30/2013
+terry: 1/29/2013
+mgross: 7/17/2001
+mgross: 3/23/2001
+

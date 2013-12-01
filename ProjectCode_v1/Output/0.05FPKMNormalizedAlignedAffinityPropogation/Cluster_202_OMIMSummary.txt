@@ -1,0 +1,153 @@
+602454	TITLE *602454 PROTEIN-TYROSINE PHOSPHATASE, RECEPTOR-TYPE, U; PTPRU
+;;PROTEIN-TYROSINE PHOSPHATASE J; PTPJ;;
+PANCREATIC CARCINOMA PHOSPHATASE 2; PCP2;;
+PROTEIN-TYROSINE PHOSPHATASE, RECEPTOR-TYPE, PSI;;
+PROTEIN-TYROSINE PHOSPHATASE, RECEPTOR-TYPE, LAMBDA, MOUSE, HOMOLOG
+OF
+DESCRIPTION For general information about receptor protein-tyrosine phosphatases
+(PTPases), see PTPRA (176884).
+
+CLONING
+
+To identify protein-tyrosine phosphatases (PTPases) involved in the
+oncogenic process leading to the development of pancreatic carcinoma,
+Wang et al. (1996) performed PCR on pooled poly(A)+ RNA from 9 human
+pancreatic carcinoma cell lines using PTPase consensus oligonucleotide
+primers. One of the novel PCR products recovered was termed PCP2 and was
+used to screen a human pancreatic adenocarcinoma cDNA library. The full
+sequence of PCP2 predicts a 1,430 amino acid protein consisting of a
+putative extracellular domain of 740 amino acids, a single transmembrane
+domain, and an intracellular domain of 666 amino acids. The
+intracellular region contains 2 tandemly repeated PTP catalytic domains
+with a high degree of identity to the catalytic domains of mouse
+PTP-kappa and PTP-mu. In addition to a signal peptide and 13 potential
+N-linked glycosylation sites, the extracellular domain contains a MAM
+(meprin/A5/PTP-mu) domain followed by 1 Ig-like repeat and 4 putative
+fibronectin type III repeats. The MAM domain, found in Xenopus A5
+glycoprotein, meprin A, and meprin B, as well as in PTP-kappa and
+PTP-mu, may be involved in attachment to the cytoskeleton. PCP2,
+PTP-kappa, and PTP-mu appear to form a subfamily of MAM-containing
+receptor-like PTPs (RPTPs). PCP2 also contains the tripeptide HAV,
+implicated in cell-cell contact in the cadherins. By Northern blot
+analysis, Wang et al. (1996) demonstrated that the 5.5-kb PCP2
+transcript is widely distributed at varying levels, with very high
+expression in brain, skeletal muscle, and pancreas, but no expression in
+placenta or spleen. Subcellular localization using laser scanning
+immunofluorescence microscopy showed localization of PCP2 at
+intercellular adhesions and colocalization with beta-catenin and
+E-cadherin. Wang et al. (1996) hypothesized that PCP2 and other members
+of this subfamily of RPTPases may function as cell contact receptors
+that mediate and control cell-cell signals.
+
+Wang et al. (1997) used degenerate PCR to clone PTPJ, a member of the
+type II receptor PTPase family. The PTPJ cDNA encodes a 1,436-amino acid
+polypeptide that includes a single transmembrane domain and a
+cytoplasmic domain containing 2 tandemly repeated PTP catalytic domains.
+The presence of 2 PTP domains indicates that this gene is a member of
+the type II receptor PTPases. Northern blot analysis detected expression
+in skeletal muscle, heart, prostate, pancreas, and placenta.
+
+GENE FUNCTION
+
+Wang et al. (1996) showed that PCP2 had tyrosine phosphatase activity
+using an in vitro pNPP assay.
+
+Wang et al. (1997) found that in lymphocytes or lymphoma cells,
+expression of PTPJ was downregulated following stimulation by either
+phorbol myristate acetate (PMA) or calcium ionophore, suggesting that
+PMA or calcium signaling pathways may be involved in regulating the
+expression of PTPJ.
+
+MAPPING
+
+Gross (2011) mapped the PTPRU gene to chromosome 1p35.3 based on an
+alignment of the PTPRU sequence (GenBank GENBANK AB208855) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  2/16/2011.
+
+2. Wang, B.; Kishihara, K.; Zhang, D.; Hara, H.; Nomoto, K.: Molecular
+cloning and characterization of a novel human receptor protein tyrosine
+phosphatase gene, hPTP-J: down-regulation of gene expression by PMA
+and calcium ionophore in Jurkat T lymphoma cells. Biochem. Biophys.
+Res. Commun. 231: 77-81, 1997.
+
+3. Wang, H; Lian, Z; Lerch, M. M.; Chen, Z; Xie, W; Ullrich, A.:
+Characterization of PCP-2, a novel receptor protein tyrosine phosphatase
+of the MAM domain family. Oncogene 12: 2555-2562, 1996.
+
+CONTRIBUTORS Matthew B. Gross - updated: 02/16/2011
+Jennifer P. Macke - updated: 7/15/1999
+
+CREATED Jennifer P. Macke: 3/19/1998
+
+EDITED mgross: 02/16/2011
+carol: 11/3/1999
+alopez: 7/15/1999
+dholmes: 4/9/1998
+
+607860	TITLE *607860 YY1 ASSOCIATED PROTEIN 1; YY1AP1
+;;YY1-ASSOCIATED PROTEIN; YAP;;
+HEPATOCELLULAR CARCINOMA-ASSOCIATED PROTEIN 2; HCCA2
+DESCRIPTION 
+CLONING
+
+By differential display PCR of normal hepatic tissue and hepatocellular
+carcinomas, followed by screening a placenta cDNA library, Wang et al.
+(2001) cloned YY1AP1, which they called HCCA2. The deduced 467-amino
+acid protein has a calculated molecular mass of 50.65 kD. HCCA2 contains
+2 SH3-binding domains, 2 N-glycosylation sites, 6 N-myristoylation
+sites, and numerous phosphorylation sites, but it does not have a
+transmembrane domain, signal peptide, or targeting sequences. Northern
+blot analysis detected 1.8- and 2.5-kb transcripts in all adult tissues
+examined except liver. Expression was also detected in fetal liver,
+lung, brain, and spleen. Western blot analysis of transfected embryonic
+kidney fibroblasts detected HCCA2 at an apparent molecular mass of about
+50 kD. Immunohistochemical staining showed that HCCA2 protein was
+localized in the cytoplasm of liver cancer tissues, and it was not found
+in surrounding nontumor hepatocytes.
+
+Kuryshev et al. (2006) determined that YY1AP1 was formed by fusion of
+the 5-prime region of the ASH1L gene (607999) and the 3-prime region of
+the GON4L gene (610393) during a tandem segmental duplication on
+chromosome 1. YY1AP1 contains the partial promoter and untranslated
+first exon of ASH1L and coding exons 13 to 21 of GON4L. The 3-prime
+region of YY1AP1 originated from a long terminal repeat of an endogenous
+retrovirus, known as the MER51A repeat, that was inserted into exon 21
+of GON4L after the duplication. The deduced YY1AP1 protein contains 750
+amino acids, 748 of which correspond to amino acids 590 to 1,337 of the
+GON4L protein. The last 2 C-terminal residues of YY1AP1 come from the
+long terminal repeat of MER51A. RT-PCR detected ubiquitous expression of
+YY1AP1, with highest levels in testis and skeletal muscle.
+
+GENE FUNCTION
+
+Wang et al. (2001) determined that HCCA2 was not expressed in normal
+adult liver tissue, but it was expressed in 79% of hepatocellular
+carcinomas tested. HCCA2 expression was associated with invasion of the
+tumor capsule.
+
+MAPPING
+
+By genomic sequence analysis, Kuryshev et al. (2006) mapped the YY1AP1
+gene to chromosome 1q22.
+
+REFERENCE 1. Kuryshev, V. Y.; Vorobyov, E.; Zink, D.; Schmitz, J.; Rozhdestvensky,
+T. S.; Munstermann, E.; Ernst, U.; Wellenreuther, R.; Moosmayer, P.;
+Bechtel, S.; Schupp, I.; Horst, J.; Korn, B.; Poustka, A.; Wiemann,
+S.: An anthropoid-specific segmental duplication on human chromosome
+1q22. Genomics 88: 143-151, 2006.
+
+2. Wang, Z.-X.; Wang, H.-Y.; Wu, M.-C.: Identification and characterization
+of a novel human hepatocellular carcinoma-associated gene. Brit.
+J. Cancer 85: 1162-1167, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/29/2006
+
+CREATED Patricia A. Hartz: 6/6/2003
+
+EDITED wwang: 04/18/2008
+mgross: 9/11/2006
+terry: 8/29/2006
+mgross: 6/6/2003
+

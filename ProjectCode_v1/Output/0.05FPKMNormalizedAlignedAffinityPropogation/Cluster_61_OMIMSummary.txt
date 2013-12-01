@@ -1,0 +1,3377 @@
+613621	TITLE *613621 NUCLEOTIDE-BINDING PROTEIN-LIKE PROTEIN; NUBPL
+;;IRON-SULFUR PROTEIN REQUIRED FOR NADH DEHYDROGENASE; IND1
+DESCRIPTION 
+DESCRIPTION
+
+Respiratory complex I (NADH:ubiquinone oxidoreductase; EC 1.6.5.3) is a
+large mitochondrial inner membrane enzyme consisting of 45 subunits and
+8 iron-sulfur (Fe/S) clusters. NUBPL, or IND1, is an Fe/S protein that
+plays a critical role in the assembly of respiratory complex I, likely
+by transferring Fe/S into the Fe/S-containing complex I subunits
+(Sheftel et al., 2009).
+
+CLONING
+
+By searching a human genome database for sequences similar to Ind1 of
+lower organisms, Sheftel et al. (2009) identified NUBPL, which they
+called IND1. They obtained a full-length clone by PCR. The deduced
+protein contains an N-terminal mitochondrial targeting sequence, a
+highly conserved nucleotide-binding domain, and a putative Fe/S-binding
+signature (CxxC). Western blot analysis of various human tissues
+revealed highest IND1 expression in liver and kidney, with lower
+expression in small intestine and brain. Fluorescence-tagged IND1
+localized to the mitochondria of transfected HeLa cells.
+
+GENE FUNCTION
+
+Sheftel et al. (2009) showed that recombinant human IND1 could assemble
+[4Fe-4S] clusters in vitro under anaerobic conditions. Immunoelectron
+microscopy revealed that knockdown of IND1 in HeLa cells via short
+hairpin RNA resulted in ultrastructural changes in mitochondria,
+including loss of crista membranes, massive remodeling of the
+respiratory supercomplexes, and increased lactate production, likely due
+to defective respiratory chain activity. IND1 depletion resulted in
+massive losses in several subunits of the peripheral arm of complex I,
+with the concomitant appearance of a 450-kD subcomplex representing part
+of the membrane arm. Mutation of the conserved cysteine residues at
+position 244 and 247 resulted in an IND1 protein unable to function in
+complex I assembly. Sheftel et al. (2009) concluded that IND1
+participates in respiratory chain complex I assembly by providing Fe/S
+clusters to complex I subunits.
+
+GENE STRUCTURE
+
+Calvo et al. (2010) detected 11 exons in the NUBPL gene.
+
+MAPPING
+
+Hartz (2010) mapped the NUBPL gene to chromosome 14q12 based on an
+alignment of the NUBPL sequence (GenBank GENBANK AK022722) with the
+genomic sequence (GRCh37).
+
+MOLECULAR GENETICS
+
+In a patient with mitochondrial complex I deficiency (252010), Calvo et
+al. (2010) identified compound heterozygosity for 2 mutations in the
+NUBPL gene (613621.0001 and 613621.0002).
+
+In 6 patients from 5 unrelated families with complex I deficiency and a
+characteristic leukoencephalopathic pattern on brain MRI, Kevelam et al.
+(2013) identified biallelic mutations in the NUBPL gene (613621.0001;
+613621.0003-613621.0006). All patients carried at least 1 copy of a
+complex allele (G56R/c.815-27T-C; 613621.0001). The first mutations were
+identified by whole-exome sequencing and confirmed by Sanger sequencing.
+All patients had a characteristic leukoencephalopathic pattern on brain
+MRI. Initial studies showed confluent or multifocal cerebral white
+matter lesions, predominantly affecting the deep white matter while
+sparing the U-fibers and internal and external capsules. There were also
+signal abnormalities and swelling of the corpus callosum. Signal
+abnormalities were present in the cerebellar cortex, but not in the deep
+white matter. Later imaging of most patients showed improvement of the
+cerebral white matter and corpus callosum abnormalities, but worsening
+of the cerebellar abnormalities and additional brainstem abnormalities.
+All patients developed motor problems due to ataxia in the first years
+of life, but other features were somewhat variable: some patients showed
+continuous regression and others showed episodic regression. Five
+patients had spasticity and only 2 achieved unsupported walking.
+Cognitive capabilities varied between normal and significantly
+deficient. Complex I deficiency ranged between 27 and 83% of normal, and
+there was no correlation between residual complex I activity and
+clinical severity.
+
+ALLELIC VARIANT .0001
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, GLY56ARG AND 815-27T-C
+
+In a patient with mitochondrial complex I deficiency (252010), Calvo et
+al. (2010) identified compound heterozygosity for 2 alleles of the NUBPL
+gene. One allele, inherited from the patient's father, carried a
+c.166G-A transition in exon 2, resulting in a gly56-to-arg (G56R)
+substitution, and a c.815-27T-C transition that was predicted to ablate
+a consensus branch sequence and resulted in the skipping of exon 10. The
+exon-skipping mutation was found in 2 of 232 control chromosomes from
+persons of European ancestry. The second allele, inherited from the
+patient's mother, carried a complex rearrangement interrupting NUBPL,
+including a 240-kb deletion spanning exons 1 through 4 and a 130-kb
+duplication involving exon 7 (613621.0002). The patient reported by
+Calvo et al. (2010) presented at 2 years of age with developmental
+delay, particularly of motor skills. He never achieved independent
+walking. He developed myopathy, nystagmus, ataxia, upper motor neuron
+signs, and absence seizures. Brain MRI showed leukodystrophy with
+involvement of the cerebellar cortex and deep white matter. At age 8, he
+had spasticity, ataxia, and speech problems. Patient fibroblasts had
+only 19% residual complex I activity on spectrophometric enzyme assay
+and 40% residual activity using dipstick assay. Transduction of patient
+fibroblasts with wildtype NUBPL restored complex I activity.
+
+By RT-PCR analysis, Tucker et al. (2012) demonstrated that the
+c.815-27T-C mutation caused aberrant splicing and the generation of 3
+NUBPL transcripts, 2 of which resulted in a frameshift: gly272valfsX11
+and asp273glnfsX31; the former transcript was subject to
+nonsense-mediated mRNA decay. The third band represented some wildtype
+transcript. Cells from the patient reported by Calvo et al. (2010) had
+only 15% wildtype transcript and no detectable protein, whereas cells
+from a control who carried a heterozygous c.815-27T-C mutation had 59%
+protein expression. These findings indicated that the splice site
+mutation results in reduced NUBPL mRNA and protein expression. In
+addition, in vitro studies showed that the G56R protein had normal
+mitochondrial import and processing, was stable, and restored complex I
+activity in NUBPL-deficient cells. Tucker et al. (2012) concluded that
+the splice site mutation, although present in controls, is likely
+pathogenic, and that the G56R variant is unlikely to be pathogenic.
+However, it remained possible that the 2 variants act together to impair
+protein function when inherited on the same allele. The authors
+emphasized the importance of functional studies to assess the
+pathogenicity of identified variants.
+
+Kevelam et al. (2013) identified the c.815-27T-C/R56G allele in 6
+patients from 5 unrelated families with complex I deficiency and a
+characteristic leukoencephalopathic pattern on brain MRI. One patient
+from Argentina carried the complex allele in homozygous state, whereas
+the other patients were compound heterozygous for this allele and
+another presumably pathogenic variant in the NUBPL gene on the other
+allele (613621.0003-613621.0006). The splice site variant was found in 1
+of 60 controls.
+
+.0002
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, 240-KB DEL AND 130-KB DUP
+
+See 613621.0001 and Calvo et al. (2010).
+
+Tucker et al. (2012) determined that the deletion/duplication identified
+by Calvo et al. (2010) was a complex unbalanced inversion between
+regions of repetitive elements that most likely occurred during
+replication.
+
+.0003
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, 10-BP INS, NT667
+
+In a German patient with mitochondrial complex I deficiency (252010) and
+a characteristic leukoencephalopathic pattern on brain MRI, Kevelam et
+al. (2013) identified compound heterozygosity for 2 mutations in the
+NUBPL gene: a 10-bp insertion (c.667_668insCCTTGTGCTG) in exon 8,
+resulting in premature termination (Glu223AlafsTer4), and 613621.0001.
+The insertion mutation was not found in several large control databases.
+
+.0004
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, ASP105TYR
+
+In 2 Canadian sibs with mitochondrial complex I deficiency (252010) and
+a characteristic leukoencephalopathic pattern on brain MRI, Kevelam et
+al. (2013) identified compound heterozygosity for 2 mutations in the
+NUBPL gene: a 313G-T transversion in exon 4, resulting in an
+asp105-to-tyr (D105Y) substitution at a conserved residue, and
+613621.0001. The D105Y mutation was not found in several large control
+databases. Patient fibroblasts showed decreased NUBPL and decreased
+amounts of assembled complex I associated with a 50 to 60% reduction in
+complex I activity compared to controls.
+
+.0005
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, IVS8DS, G-A, +1
+
+In a patient from the United States with mitochondrial complex I
+deficiency (252010) and a characteristic leukoencephalopathic pattern on
+brain MRI, Kevelam et al. (2013) identified compound heterozygosity for
+2 mutations in the NUBPL gene: a G-to-A transition in intron 8
+(c.693+1G-A), predicted to result in the skipping of exon 8, and
+613621.0001. The splice site mutation was not found in several large
+control databases.
+
+.0006
+MITOCHONDRIAL COMPLEX I DEFICIENCY
+NUBPL, LEU193PHE
+
+In a patient from the Netherlands with mitochondrial complex I
+deficiency (252010) and a characteristic leukoencephalopathic pattern on
+brain MRI, Kevelam et al. (2013) identified compound heterozygosity for
+2 mutations in the NUBPL gene: a c.579A-C transversion in exon 7,
+resulting in a leu193-to-phe (L193F) substitution, and 613621.0001. The
+L193F mutation was not found in several large control databases.
+
+REFERENCE 1. Calvo, S. E.; Tucker, E. J.; Compton, A. G.; Kirby, D. M.; Crawford,
+G.; Burtt, N. P.; Rivas, M.; Guiducci, C.; Bruno, D. L.; Goldberger,
+O. A.; Redman, M. C.; Wiltshire, E.; Wilson, C. J.; Altshuler, D.;
+Gabriel, S. B.; Daly, M. J.; Thorburn, D. R.; Mootha, V. K.: High-throughput,
+pooled sequencing identifies mutations in NUBPL and FOXRED1 in human
+complex I deficiency. Nature Genet. 42: 851-858, 2010.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  11/1/2010.
+
+3. Kevelam, S. H.; Rodenburg, R. J.; Wolf, N. I.; Ferreira, P.; Lunsing,
+R. J.; Nijtmans, L. G.; Mitchell, A.; Arroyo, H. A.; Rating, D.; Vanderver,
+A.; van Berkel, C. G. M.; Abbink, T. E. M.; Heutink, P.; van der Knaap,
+M. S.: NUBPL mutations in patients with complex I deficiency and
+a distinct MRI pattern. Neurology 80: 1577-1583, 2013.
+
+4. Sheftel, A. D.; Stehling, O.; Pierik, A. J.; Netz, D. J. A.; Kerscher,
+S.; Elsasser, H.-P.; Wittig, I.; Balk, J.; Brandt, U.; Lill, R.:
+Human Ind1, an iron-sulfur cluster assembly factor for respiratory
+complex I. Molec. Cell. Biol. 29: 6059-6073, 2009.
+
+5. Tucker, E. J.; Mimaki, M.; Compton, A. G.; McKenzie, M.; Ryan,
+M. T.; Thorburn, D. R.: Next-generation sequencing in molecular diagnosis:
+NUBPL mutations highlight the challenges of variant detection and
+interpretation. Hum. Mutat. 33: 411-418, 2012.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/1/2013
+Cassandra L. Kniffin - updated: 11/2/2010
+
+CREATED Patricia A. Hartz: 11/1/2010
+
+EDITED carol: 08/29/2013
+carol: 5/2/2013
+ckniffin: 5/1/2013
+carol: 10/13/2011
+terry: 1/14/2011
+alopez: 11/2/2010
+ckniffin: 11/2/2010
+alopez: 11/1/2010
+
+604037	TITLE *604037 RAS-ASSOCIATED PROTEIN RAB5C; RAB5C
+;;RAB-LIKE, FORMERLY; RABL, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Members of the Rab protein family are small GTPases of the Ras
+superfamily that are thought to ensure fidelity in the process of
+docking and/or fusion of vesicles with their correct acceptor
+compartment (Han et al., 1996).
+
+CLONING
+
+Han et al. (1996) isolated fetal lung cDNAs encoding a RAB protein that
+they designated RABL (RAB5-like). The predicted 216-amino acid RABL
+protein shares 86% identity with RAB5A (179512) and RAB5B (179514) and
+contains the conserved GTP-binding site characteristic of RAS proteins.
+RT-PCR analysis revealed that RABL is expressed ubiquitously.
+
+MAPPING
+
+By analysis of cloned segments, Albertsen et al. (1994) determined that
+the RAB5C gene, which they called BC1-16, is located in the BRCA1
+(113705) gene region on chromosome 17q12-q21. Han et al. (1996) refined
+the map position to 17q21.2 using FISH.
+
+REFERENCE 1. Albertsen, H. M.; Smith, S. A.; Mazoyer, S.; Fujimoto, E.; Stevens,
+J.; Williams, B.; Rodriguez, P.; Cropp, C. S.; Slijepcevic, P.; Carlson,
+M.; Robertson, M.; Bradley, P.; and 9 others: A physical map and
+candidate genes in the BRCA1 region on chromosome 17q12-21. Nature
+Genet. 7: 472-479, 1994.
+
+2. Han, H.-J.; Sudo, K.; Inazawa, J.; Nakamura, Y.: Isolation and
+mapping of a human gene (RABL) encoding a small GTP-binding protein
+homologous to the Ras-related RAB gene. Cytogenet. Cell Genet. 73:
+137-139, 1996.
+
+CREATED Rebekah S. Rasooly: 7/21/1999
+
+EDITED wwang: 11/24/2010
+mgross: 5/16/2000
+jlewis: 7/22/1999
+
+120353	TITLE *120353 MATRIX METALLOPROTEINASE 1; MMP1
+;;COLLAGENASE, FIBROBLAST; CLG; CLGN;;
+COLLAGENASE, INTERSTITIAL
+DESCRIPTION 
+DESCRIPTION
+
+Matrix metalloproteinases are zinc-dependent proteases that degrade
+extracellular matrix proteins. MMP1 is also known as collagenase (EC
+3.4.23.7) (Nagase et al., 1992).
+
+CLONING
+
+Brinckerhoff et al. (1987) identified a cDNA clone of human collagenase.
+The clone identified a single collagenase gene of about 17 kb from blots
+of human genomic DNA. Restriction enzyme analysis and DNA sequence data
+indicated that the cDNA clone was full length and that it was identical
+to that described for human skin fibroblast collagenase. Collagenase is
+the only enzyme able to initiate breakdown of the interstitial
+collagens, types I, II, and III. The fact that the collagens are the
+most abundant proteins in the body means that collagenase plays a key
+role in the remodeling that occurs constantly in both normal and
+diseased conditions. The identity of human skin and synovial cell
+collagenase and the ubiquity of this enzyme and of its substrates,
+collagens I, II, and III, imply that the common mechanism controlling
+collagenolysis throughout the body may be operative in both normal and
+disease states.
+
+MAPPING
+
+Gerhard et al. (1987) confirmed the assignment of the collagenase gene
+to chromosome 11 by the use of a DNA probe for Southern analysis of
+somatic cell hybrids. Analysis of cell lines with rearrangements
+involving chromosome 11 indicated that the gene is in the region
+11q11-q23. Church et al. (1983) had used somatic cell hybrids between
+mouse cells and human normal skin and corneal fibroblasts and recessive
+dystrophic epidermolysis bullosa (RDEB; 226600) skin fibroblasts to
+assign the human structural gene for collagenase to chromosome 11.
+Production of collagenase was measured by a specific radioimmunoassay.
+It appeared that both the normal and the RDEB collagenase gene mapped to
+chromosome 11. This was earlier taken to indicate that the abnormal
+collagenase produced by RDEB cells represented a mutation of the
+structural gene. Later work indicated that both the autosomal dominant
+(131750) and autosomal recessive forms of dystrophic epidermolysis
+bullosa are due to mutations in the type VII collagen gene (COL7A1;
+120120). The excessive formation of collagenase must represent a
+secondary phenomenon, not the primary defect. It should be noted that
+fibroblasts from patients with the Werner syndrome (277700) also express
+high constitutive levels of collagenase in vitro (Bauer et al., 1986).
+
+Pendas et al. (1996) isolated a 1.5-Mb YAC clone mapping to 11q22.
+Detailed analysis of this nonchimeric YAC clone ordered 7 MMP genes as
+follows: cen--MMP8 (120355)--MMP10 (185260)--MMP1--MMP3 (185250)--MMP12
+(601046)--MMP7 (178990)--MMP13 (600108)--tel.
+
+GENE FUNCTION
+
+Maymon et al. (2000) measured levels of MMP1 in amniotic fluid from 353
+women, including those with intact membranes, in term or preterm labor
+or not in labor, and those with term and premature rupture of the
+membranes (610504), with or without microbial invasion of the amniotic
+cavity. MMP1 was detectable in 81.3% (287 of 353) amniotic fluid
+samples, and the concentration increased with increasing gestational
+age. Analysis of the matrix metalloproteinase profile of amniotic fluid
+in term and preterm rupture of membranes showed that patterns were
+similar for every enzyme except MMP1 and MMP8 (120355), suggesting
+different molecular pathophysiologic mechanisms for extracellular matrix
+degradation of rupture of membranes in term and preterm gestations.
+Maymon et al. (2000) concluded that MMP1 is implicated in the mechanisms
+of membrane rupture.
+
+Lahmann et al. (2001) found significantly more MMP1 mRNA in the buttock
+skin of smokers than nonsmokers and suggested that smoking-induced MMP1
+might be important in the skin-aging effects of tobacco smoking.
+
+Saffarian et al. (2004) showed that activated collagenase (MMP1) moves
+processively on the collagen fibril. The mechanism of movement is a
+biased diffusion with the bias component dependent on the proteolysis of
+its substrate, not ATP hydrolysis. Inactivation of the enzyme by a
+single amino acid residue substitution in the active center eliminated
+the bias without noticeable effect on rate of diffusion. Monte Carlo
+simulations using a model similar to a 'burnt bridge' Brownian ratchet
+accurately described the experimental result and previous observations
+on kinetics of collagen digestion. Saffarian et al. (2004) concluded
+that the biologic implications of MMP1 acting as a molecular ratchet
+tethered to the cell surface suggested novel mechanisms for its role in
+tissue remodeling and cell-matrix interaction.
+
+Boire et al. (2005) found that expression of PAR1 (F2R; 187930) was both
+required and sufficient to promote growth and invasion of breast
+carcinoma cells in a xenograft mouse model. MMP1 acted as a protease
+agonist of PAR1, cleaving the receptor at the proper site to generate
+PAR1-dependent Ca(2+) signals and migration. MMP1 activity was derived
+from fibroblasts and was absent from the breast cancer cells. These
+results demonstrated that MMP1 in the stromal-tumor microenvironment can
+alter the behavior of cancer cells through PAR1 to promote cell
+migration and invasion.
+
+By in vivo selection, transcriptomic analysis, functional verification,
+and clinical validation, Minn et al. (2005) identified a set of genes
+that marks and mediates breast cancer metastasis to the lungs. Some of
+these genes serve dual functions, providing growth advantages both in
+the primary tumor and in the lung microenvironment. Others contribute to
+aggressive growth selectivity in the lung. Among the lung metastasis
+signature genes identified, several, including MMP1 (p less than
+0.000001), were functionally validated. Two that were not functionally
+validated but that achieved the highest statistical significance (p less
+than 0.000001) were FSCN1 (602689) and angiopoietin-like 4 (ANGPTL4;
+605910). Those subjects expressing the lung metastasis signature had a
+significantly poorer lung metastasis-free survival, but not bone
+metastasis-free survival, compared to subjects without the signature.
+
+Metastasis entails numerous biologic functions that collectively enable
+cancerous cells from a primary site to disseminate and overtake distant
+organs. Using genetic and pharmacologic approaches, Gupta et al. (2007)
+showed that the epidermal growth factor receptor ligand epiregulin
+(602061), the cyclooxygenase COX2 (600262), and the matrix
+metalloproteinases MMP1 and MMP2 (120360), when expressed in human
+breast cancer cells, collectively facilitate the assembly of new tumor
+blood vessels, the release of tumor cells into the circulation, and the
+breaching of lung capillaries by circulating tumor cells to seed
+pulmonary metastasis. Gupta et al. (2007) concluded that their findings
+revealed how aggressive primary tumorigenic functions can be
+mechanistically coupled to greater lung metastatic potential, and how
+such biologic activities can be therapeutically targeted with specific
+drug combinations.
+
+MOLECULAR GENETICS
+
+Joos et al. (2002) found an association between a 1-bp insertion in the
+MMP1 gene (G-1607GG; dbSNP rs1799750; 120353.0001) and the rate of
+decline of lung function in chronic obstructive pulmonary disease (COPD;
+606963).
+
+Fujimoto et al. (2002) analyzed the G-1607GG promoter polymorphism in
+the MMP1 gene in 75 African American infants who were born after preterm
+premature rupture of the membranes (PPROM; 610504) and 235 controls, and
+found a significant association between fetal carriage of a 2G allele
+and PPROM (OR = 2.29; p = 0.028).
+
+In studies in amnion fibroblasts, Wang et al. (2008) found that
+inhibition of DNA methylation resulted in significantly increased MMP1
+gene transcription and an associated significant increase in MMP1
+production. These effects were correlated with reduced DNA methylation
+at a specific site, -1538C, in the MMP1 promoter, and DNA methylation at
+that site was reduced in a larger percentage of fetal membranes that
+ruptured prematurely. The authors identified another SNP, 3447T-C
+(numbering based on AF007878.1; dbSNP rs2075847), and observed that the
+minor C allele was always methylated in vivo and that methylation
+resulted in increased affinity for a nuclear protein in amnion
+fibroblasts. Plasmid transfection studies and chromatin
+immunoprecipitation assays demonstrated reduced promoter activity of the
+minor C allele. In a case-control study involving 284 African American
+neonates from pregnancies complicated by PPROM and 361 African American
+neonates from normal term pregnancies, Wang et al. (2008) found the
+minor C allele to be protective against PPROM (OR = 0.7451; p = 0.0326),
+consistent with its reduced promoter function. Neonates homozygous for
+the major T allele had 3.51-higher risk for PPROM compared to CC
+homozygotes (p = 0.007). Wang et al. (2008) concluded that, in addition
+to genetic variation, DNA methylation plays a role in controlling MMP1
+expression and risk of PPROM.
+
+Titeux et al. (2008) demonstrated that the G-1607GG polymorphism in MMP1
+results in transcriptional upregulation. They found a significant
+association between this SNP and disease severity among patients with
+autosomal recessive dystrophic epidermolysis bullosa (RDEB; 226600).
+
+ALLELIC VARIANT .0001
+PULMONARY DISEASE, CHRONIC OBSTRUCTIVE, RATE OF DECLINE OF LUNG FUNCTION
+IN
+PRETERM PREMATURE RUPTURE OF THE MEMBRANES, INCLUDED;;
+EPIDERMOLYSIS BULLOSA DYSTROPHICA, AUTOSOMAL RECESSIVE, MODIFIER OF,
+INCLUDED
+MMP1, 1-BP INS, -1607G (dbSNP rs1799750)
+
+Rutter et al. (1998) identified a SNP (dbSNP rs1799750) in the promoter
+region of the MMP1 gene (position -1607) where an additional guanine
+nucleotide creates a binding site for members of the Ets family of
+transcription factors. The 2G SNP displayed significantly higher
+transcription in normal fibroblasts and in melanoma cells compared to
+the 1G SNP. The occurrence of 2G homozygotes was 30% in 100 CEPH
+controls; in tumor cell lines it was 62.5%. Rutter et al. (1998)
+suggested that increased MMP1 expression contributes to stromal
+degradation involved in tumor invasion.
+
+Rate of Decline of Lung Function in Chronic Obstructive Pulmonary
+Disease
+
+Joos et al. (2002) investigated the role of MMP polymorphisms (including
+G-1607GG in MMP1 and N357S in MMP12) in the development of chronic
+obstructive pulmonary disease (see 606963). The authors determined the
+prevalence of these polymorphisms in 590 continuing smokers chosen from
+the National Heart, Lung, and Blood Institute Lung Health Study for
+having the fastest (284 individuals) and slowest (306 individuals)
+5-year rate of decline of lung function. Of 5 polymorphisms among 3 MMP
+loci, only G-1607GG was associated with a rate of decline in lung
+function. This allele was associated with a fast rate of decline (p =
+0.02). However, haplotypes consisting of alleles from the G-1607GG and
+N357S polymorphisms were associated with rate of decline of lung
+function (p = 0.0007). Joos et al. (2002) concluded that polymorphisms
+in the MMP1 and MMP12 genes, but not MMP9, are either causative factors
+in smoking-related lung injury or are in linkage disequilibrium with
+causative polymorphisms.
+
+Preterm Premature Rupture of the Membranes
+
+Fujimoto et al. (2002) studied the G-1607GG promoter polymorphism in
+amnion-derived cells and found that the 2G promoter had more than 2-fold
+greater activity than the 1G allele. Induction of MMP1 mRNA by phorbol
+12-myristate 13-acetate (PMA) was significantly greater in cells with a
+1G/2G or 2G/2G genotype compared to cells homozygous for the 1G allele.
+Analysis in 75 African American infants who were born after preterm
+premature rupture of the membranes (PPROM; 610504) and 235 controls
+demonstrated a significant association between fetal carriage of a 2G
+allele and PPROM (OR = 2.29; p = 0.028). The authors concluded that the
+2G allele has stronger promoter activity in amnion cells, that it
+confers increased responsiveness of amnion cells to stimuli that induce
+MMP1, and that this polymorphism contributes to the risk of PPROM.
+
+Modifier of Epidermolysis Bullosa Dystrophica
+
+Titeux et al. (2008) demonstrated that the G-1607GG polymorphism (dbSNP
+rs1799750) in MMP1 results in transcriptional upregulation. The authors
+found a significant association between this SNP and disease severity
+among patients with autosomal recessive dystrophic epidermolysis bullosa
+(RDEB; 226600). In 3 affected sibs and a follow-up cohort of 31
+unrelated French patients, the functional SNP resulting in increased
+collagenase activity was associated with a more severe phenotype (p =
+6.27 x 10(-5)). Titeux et al. (2008) concluded that increased MMP1 leads
+to increased collagen degradation and worsening disease severity,
+suggesting that MMP1 is a modifier gene in RDEB.
+
+ADDITIONAL REFERENCES Goldberg et al. (1986)
+REFERENCE 1. Bauer, E. A.; Silverman, N.; Busiek, D. F.; Kronberger, A.; Deuel,
+T. F.: Diminished response of Werner's syndrome fibroblasts to growth
+factors PDGF and FGF. Science 234: 1240-1243, 1986.
+
+2. Boire, A.; Covic, L.; Agarwal, A.; Jacques, S.; Sherifi, S.; Kuliopulos,
+A.: PAR1 is a matrix metalloprotease-1 receptor that promotes invasion
+and tumorigenesis of breast cancer cells. Cell 120: 303-131, 2005.
+
+3. Brinckerhoff, C. E.; Ruby, P. L.; Austin, S. D.; Fini, M. E.; White,
+H. D.: Molecular cloning of human synovial cell collagenase and selection
+of a single gene from genomic DNA. J. Clin. Invest. 79: 542-546,
+1987.
+
+4. Church, R. L.; Bauer, E. A.; Eisen, A. Z.: Human skin collagenase:
+assignment of the structural gene to chromosome 11 in both normal
+and recessive dystrophic epidermolysis bullosa cells using human-mouse
+somatic cell hybrids. Collagen Rel. Res. 3: 115-124, 1983.
+
+5. Fujimoto, T.; Parry, S.; Urbanek, M.; Sammel, M.; Macones, G.;
+Kuivaniemi, H.; Romero, R.; Strauss, J. F., III: A single nucleotide
+polymorphism in the matrix metalloproteinase-1 (MMP-1) promoter influences
+amnion cell MMP-1 expression and risk for preterm premature rupture
+of the fetal membranes. J. Biol. Chem. 277: 6296-6302, 2002.
+
+6. Gerhard, D. S.; Jones, C.; Bauer, E. A.; Eisen, A. Z.; Goldberg,
+G. I.: Human collagenase gene is localized to 11q. (Abstract) Cytogenet.
+Cell Genet. 46: 619 only, 1987.
+
+7. Goldberg, G. I.; Wilhelm, S. M.; Kronberger, A.; Bauer, E. A.;
+Grant, G. A.; Eisen, A. Z.: Human fibroblast collagenase: complete
+primary structure and homology to an oncogene transformation-induced
+rat protein. J. Biol. Chem. 261: 6600-6605, 1986.
+
+8. Gupta, G. P.; Nguyen, D. X.; Chiang, A. C.; Bos, P. D.; Kim, J.
+Y.; Nadal, C.; Gomis, R. R.; Manova-Todorova, K.; Massague, J.: Mediators
+of vascular remodelling co-opted for sequential steps in lung metastasis. Nature 446:
+765-770, 2007.
+
+9. Joos, L.; He, J.-Q.; Shepherdson, M. B.; Connett, J. E.; Anthonisen,
+N. R.; Pare, P. D.; Sandford, A. J.: The role of matrix metalloproteinase
+polymorphisms in the rate of decline in lung function. Hum. Molec.
+Genet. 11: 569-576, 2002. Note: Erratum: Hum. Molec. Genet. 12: 803-804,
+2003.
+
+10. Lahmann, C.; Bergemann, J.; Harrison, G.; Young, A. R.: Matrix
+metalloproteinase-1 and skin ageing in smokers. (Letter) Lancet 357:
+935-936, 2001.
+
+11. Maymon, E.; Romero, R.; Pacora, P.; Gervasi, M.-T.; Bianco, K.;
+Ghezzi, F.; Yoon, B. H.: Evidence for the participation of interstitial
+collagenase (matrix metalloproteinase 1) in preterm premature rupture
+of membranes. Am. J. Obstet. Gynec. 183: 914-920, 2000.
+
+12. Minn, A. J.; Gupta, G. P.; Siegel, P. M.; Bos, P. D.; Shu, W.;
+Giri, D. D.; Viale, A.; Olshen, A. B.; Gerald, W. L.; Massague, J.
+: Genes that mediate breast cancer metastasis to lung. Nature 436:
+518-524, 2005.
+
+13. Nagase, H.; Barrett, A. J.; Woessner, J. F., Jr.: Nomenclature
+and glossary of the matrix metalloproteinases. Matrix Suppl. 1:
+421-424, 1992.
+
+14. Pendas, A. M.; Santamaria, I.; Alvarez, M. V.; Pritchard, M.;
+Lopez-Otin, C.: Fine physical mapping of the human matrix metalloproteinase
+genes clustered on chromosome 11q22.3. Genomics 37: 266-269, 1996.
+
+15. Rutter, J. L.; Mitchell, T. I.; Buttice, G.; Meyers, J.; Gusella,
+J. F.; Ozelius, L. J.; Brinckerhoff, C. E.: A single nucleotide polymorphism
+in the matrix metalloproteinase-1 promoter creates an Ets binding
+site and augments transcription. Cancer Res. 58: 5321-5325, 1998.
+
+16. Saffarian, S.; Collier, I. E.; Marmer, B. L.; Elson, E. L.; Goldberg,
+G.: Interstitial collagenase is a Brownian ratchet driven by proteolysis
+of collagen. Science 306: 108-111, 2004.
+
+17. Titeux, M.; Pendaries, V.; Tonasso, L.; Decha, A.; Bodemer, C.;
+Hovnanian, A.: A frequent functional SNP in the MMP1 promoter is
+associated with higher disease severity in recessive dystrophic epidermolysis
+bullosa. Hum. Mutat. 29: 267-276, 2008.
+
+18. Wang, H.; Ogawa, M.; Wood, J. R.; Bartolomei, M. S.; Sammel, M.
+D.; Kusanovic, J. P.; Walsh, S. W.; Romero, R.; Strauss, J. F., III
+: Genetic and epigenetic mechanisms combine to control MMP1 expression
+and its association with preterm premature rupture of membranes. Hum.
+Molec. Genet. 17: 1087-1096, 2008.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 11/12/2009
+Cassandra L. Kniffin - updated: 5/20/2008
+Ada Hamosh - updated: 6/4/2007
+Ada Hamosh - updated: 8/15/2005
+Stylianos E. Antonarakis - updated: 2/23/2005
+Ada Hamosh - updated: 2/2/2005
+Marla J. F. O'Neill - updated: 1/28/2005
+George E. Tiller - updated: 10/9/2002
+Ethylin Wang Jabs - updated: 8/21/1997
+
+CREATED Victor A. McKusick: 5/28/1992
+
+EDITED carol: 06/18/2013
+carol: 8/8/2012
+carol: 1/20/2011
+wwang: 3/1/2010
+wwang: 12/3/2009
+terry: 11/12/2009
+wwang: 5/23/2008
+ckniffin: 5/20/2008
+carol: 5/20/2008
+ckniffin: 5/20/2008
+alopez: 6/19/2007
+terry: 6/4/2007
+alopez: 8/18/2005
+terry: 8/15/2005
+carol: 5/26/2005
+mgross: 2/23/2005
+alopez: 2/22/2005
+terry: 2/2/2005
+carol: 1/28/2005
+terry: 1/28/2005
+cwells: 4/11/2003
+cwells: 10/9/2002
+psherman: 4/15/1998
+mark: 9/4/1997
+mark: 9/2/1997
+carol: 4/7/1994
+carol: 9/21/1992
+carol: 9/18/1992
+carol: 5/28/1992
+
+109700	TITLE *109700 BETA-2-MICROGLOBULIN; B2M
+DESCRIPTION 
+DESCRIPTION
+
+Beta-2-microglobulin is a serum protein found in association with the
+major histocompatibility complex (MHC) class I heavy chain on the
+surface of nearly all nucleated cells (Gussow et al., 1987).
+
+CLONING
+
+Cunningham et al. (1973) reported the complete amino acid sequence of
+the beta-2-microglobulin protein. It is a single polypeptide chain with
+a molecular mass of 11.6 kD that shows homology to immunoglobulins and
+HLA, suggesting a common evolutionary origin.
+
+Suggs et al. (1981) isolated a partial cDNA clone corresponding to the
+B2M gene. The mature protein is predicted to contain 99 amino acids.
+
+Gussow et al. (1987) isolated a full-length clone corresponding to the
+human B2M gene from a human lymphoblastoid cell cDNA library. The
+deduced 99-residue protein shows 70% amino acid sequence similarity to
+the mouse protein.
+
+GENE STRUCTURE
+
+Gussow et al. (1987) determined that the B2M gene contains 4 exons and
+spans approximately 8 kb.
+
+MAPPING
+
+Goodfellow et al. (1975) and Smith et al. (1975) mapped the B2M gene to
+chromosome 15 by somatic cell hybridization.
+
+Manolov et al. (1979) reported that the Daudi lymphoblastoid cell line,
+which is derived from Burkitt lymphoma (113970) and lacks both HLA
+antigens and beta-2-microglobulin, has 1 normal chromosome 15 and 1 with
+a deletion of 15q12-q21. Using high resolution banding techniques, Zhang
+and Zech (1981) concluded that the abnormal chromosome 15 in the Daudi
+cell line is del(15)(q13q15).
+
+Cox et al. (1982) assigned the mouse B2m gene to mouse chromosome 2,
+which is syntenic to human chromosome 15, and suggested that B2M is not
+linked to major histocompatibility or immunoglobulin loci.
+
+GENE FUNCTION
+
+Arce-Gomez et al. (1978) made somatic cell hybrids between the Daudi
+lymphoblastoid cell line and a human cell line derived from HeLa and
+also showing no HLA antigens. The hybrid cells did express HLA antigens.
+Since Daudi cells do not express B2M despite the presence of a
+chromosome 15, reexpression in the hybrid cells was thought to be due to
+provision of beta-2-microglobulin by the other parental cell line. The
+experiment showed that beta-2-microglobulin is essential to expression
+of HLA.
+
+On the basis of molecular cloning studies, Margulies et al. (1983)
+suggested that the Ly-m11 antigenic determinant demonstrated on
+lymphocytes by a monoclonal antibody is on the B2M molecule.
+
+The neonatal Fc receptor (FcRn) is a heterodimer of a nonclassical MHC
+class I alpha chain (FCGRT; 601437) and B2M that binds the 2 most
+abundant serum proteins, IgG and albumin (ALB; 103600), after their
+constitutive cellular uptake. FcRn binds both proteins, thus acting as a
+salvage pathway, protecting them from lysosomal degradation and
+extending the catabolic half-lives of both proteins (Wani et al., 2006).
+
+- Disease Associations
+
+Like immunoglobulins, prealbumin, and the beta protein (APP; 104760)
+found in the amyloid of Alzheimer disease (104300), beta-2-microglobulin
+has a predominantly beta-pleated sheet structure that may adopt the
+fibrillar configuration of amyloid in certain pathologic states
+(Cunningham et al., 1973).
+
+Beta-2-microglobulin had been found in the serum of normal individuals
+and in the urine in elevated amounts in patients with Wilson disease
+(277900), cadmium poisoning, and other conditions leading to renal
+tubular dysfunction (Berggard and Bearn, 1968).
+
+Hemodialysis-related amyloidosis (HRA) is a form of systemic amyloidosis
+with a predilection for the synovium and bone that occurs with a
+disturbingly high frequency among patients on long-term hemodialysis.
+The clinical features include carpal tunnel syndrome, erosive
+arthropathy, spondyloarthropathy, lytic bone lesions, and pathologic
+fractures. Gejyo et al. (1985) found that protein that accumulates in
+amyloid-laden tissue obtained from a chronic hemodialysis patient with
+carpal tunnel syndrome was identical to B2M in several characteristics.
+Connors et al. (1985) demonstrated the in vitro creation of amyloid
+fibers from B2M. Gorevic et al. (1985, 1986) reported the amino acid
+sequence of the HRA subunit protein and identified it as
+beta-2-microglobulin. The occurrence of amyloidosis in these patients
+can be prevented by periodic use of high-permeability membranes or
+intermittent hemofiltration.
+
+Charra et al. (1984) reported that 38 of 52 patients receiving
+hemodialysis for more than 8 years for chronic renal failure not due to
+amyloid nephropathy developed carpal tunnel syndrome. Tissues excised at
+surgical decompression contained amyloid. In 95% of these patients,
+shoulder pain, which was presumed to be due to amyloid deposits, was
+present. McClure et al. (1986) demonstrated the beta-2-microglobulin
+nature of the amyloid in 3 patients with carpal tunnel syndrome
+requiring decompression surgery after long-term hemodialysis treatment
+for chronic renal failure not due to amyloid nephropathy. Zingraff et
+al. (1990) described a patient with severe renal insufficiency who had
+beta-2-microglobulin amyloidosis despite the fact that dialysis had
+never been performed. The authors suggested that some B2M variants are
+more amyloidogenic than others.
+
+MOLECULAR GENETICS
+
+Some tumors lack cell surface expression of HLA class I molecules and
+this may be one mechanism by which tumor cells escape immune recognition
+by cytotoxic T cells. In some cases, there is loss of the heavy chain
+surface expression encoded by the HLA-A, -B, and -C genes which is
+responsible; in other cases, expression of the B2M gene for the light
+chain is responsible. The Daudi lymphoblastoid cell line, derived from a
+patient with Burkitt lymphoma and lacking both HLA antigens and beta-2
+microglobulin, fails to express HLA class I molecules because of a
+specific defect in the B2M component. In the Daudi cell line, Rosa et
+al. (1983) demonstrated a G-to-C transversion in the initiator ATG
+sequence of the B2M gene, predicted to change the initiator methionine
+residue to isoleucine.
+
+In the human melanoma cell line FO-1, D'Urso et al. (1991) found that
+the lack of expression of HLA class I antigens was the result of a
+defect in the B2M gene: a deletion of the first exon of the 5-prime
+flanking region and of a segment of the first intron.
+
+Bicknell et al. (1994) used single-strand conformation polymorphism
+(SSCP) analysis to screen a series of 37 established colorectal cell
+lines, 22 fresh tumor samples, and 22 normal DNA samples for mutations
+in the B2M gene. Exon 1 (including the leader peptide sequence) and exon
+2 were screened separately. Mutations were found in 6 of 7 colorectal
+cell lines and 1 of 22 fresh tumors, whereas no mutations were detected
+in the normal DNA samples. Sequencing of these mutations showed that an
+8-bp CT repeat in the leader peptide sequence was particularly variable,
+since 3 of the cell lines and 1 fresh tumor sample had deletions in this
+region. In 2 related colorectal cell lines, DLD-1 and HCT-15, 2 similar
+mutations were identified, a C-to-A substitution in codon 10 and a
+G-to-T mutation in the splice sequence of intron 1. Expression of
+beta-2-microglobulin was examined using a series of monoclonal
+antibodies in an ELISA system. Reduced expression correlated with a
+mutation in 1 allele of the B2M gene, whereas loss of expression was
+seen in instances where a line was homozygous for a mutation or
+heterozygous for 2 mutations.
+
+- Familial Hypercatabolic Hypoproteinemia
+
+In 2 sibs with familial hypercatabolic hypoproteinemia (241600)
+originally reported by Waldmann (1969), Wani et al. (2006) identified a
+homozygous mutation in the B2M gene (109700.0001). The findings were
+consistent with the hypothesis that FcRn, which contains B2M, binds IgG
+and albumin and serves to salvage both proteins.
+
+- Familial Visceral Amyloidosis
+
+In 4 affected members of a family with autosomal dominant visceral
+amyloidosis (105200), Valleix et al. (2012) identified a heterozygous
+mutation in the B2M gene (D76N; 109700.0002). Studies on the recombinant
+D76N protein showed reduced stability of the fully folded mutant protein
+and significantly increased conversion of the mutant protein into
+fibrils with amyloid-like properties under physiologic conditions,
+whereas the wildtype protein did not aggregate at all. In mid-adult
+life, the patients developed slowly progressive chronic diarrhea with
+weight loss and sicca syndrome. One had sensorimotor axonal
+polyneuropathy and orthostatic hypotension and 2 had severe autonomic
+neuropathy. Valleix et al. (2012) noted that the amyloid deposition in
+this family was different from that observed in dialysis-related
+amyloidosis, in which B2M-amyloid accumulates around bones and joints.
+In addition, serum B2M was not increased in the patients with familial
+disease, whereas it is increased in those with dialysis-related
+amyloidosis.
+
+ANIMAL MODEL
+
+Allelic variation in the B2m gene has been reported in the mouse
+(Robinson et al., 1981).
+
+Class I MHC molecules, known to be important for immune responses to
+antigen, are expressed also by neurons that undergo activity-dependent,
+long-term structural and synaptic modifications. Huh et al. (2000)
+showed that in mice genetically deficient for cell surface class I MHC,
+due to deletion of either TAP1 (170260) or beta-2-microglobulin, or for
+a class I MHC receptor component, CD3-zeta (186780), refinement of
+connections between retina and central targets during development is
+incomplete. In the hippocampus of adult mutants, N-methyl-D-aspartate
+receptor-dependent long-term potentiation is enhanced, and long-term
+depression is absent. Specific class I MHC mRNAs are expressed by
+distinct mosaics of neurons, reflecting a potential for diverse neuronal
+functions. These results demonstrated an important role for these
+molecules in the activity-dependent remodeling and plasticity of
+connections in the developing and mature mammalian central nervous
+system.
+
+The defect in hereditary hemochromatosis (235200) resides in the HFE
+gene (613609) in the class I MHC region. This fact lends significance to
+the findings of de Sousa et al. (1994), who reported a comparative
+histologic and quantitative analysis of iron distribution in the tissues
+of mice homozygous and heterozygous for knockout of the
+beta-2-microglobulin gene. Progressive hepatic iron overload,
+indistinguishable from that observed in human hemochromatosis, was found
+only in mice homozygous for the mutated B2M gene.
+
+ALLELIC VARIANT .0001
+HYPOPROTEINEMIA, HYPERCATABOLIC
+B2M, ALA11PRO
+
+In 2 sibs with familial hypercatabolic hypoproteinemia (241600)
+originally reported by Waldmann (1969), Wani et al. (2006) identified a
+homozygous 913G-C transversion in exon 1 of the B2M gene, resulting in
+an ala11-to-pro (A11P) substitution at the midpoint of the signal
+sequence. Both sibs had B2M serum levels that were less than 1.0% of
+normal as well as soluble HLA levels that were less than 0.2% of normal.
+Transfection studies showed that the mutant B2M gene resulted in reduced
+expression of the B2M, MHC class I, and FcRn proteins.
+
+.0002
+AMYLOIDOSIS, FAMILIAL VISCERAL
+B2M, ASP76ASN
+
+In 4 affected members of a family with autosomal dominant visceral
+amyloidosis (105200), Valleix et al. (2012) identified a heterozygous
+286G-A transition in the B2M gene, resulting in an asp76-to-asn (D76N)
+substitution. Studies on the recombinant D76N protein showed reduced
+stability of the fully folded mutant protein and significantly increased
+conversion of the mutant protein into fibrils with amyloid-like
+properties under physiologic conditions, whereas the wildtype protein
+did not aggregate at all. Although the high-resolution crystal structure
+of the mutant protein was similar to wildtype, the D76N substitution has
+2 notable effects: establishment of new hydrogen bonds and increase of
+the isoelectric point. In mid-adult life, the patients developed slowly
+progressive chronic diarrhea with weight loss and sicca syndrome. One
+had sensorimotor axonal polyneuropathy and orthostatic hypotension and 2
+had severe autonomic neuropathy. Postmortem examination of 1 patient,
+who died at age 70 years, showed extensive B2M-containing amyloid
+deposits in the spleen, liver, heart, salivary glands, and nerves.
+Colonic biopsy from another affected individual also contained
+B2M-containing amyloid deposits. Amyloid scinotography of 2 patients
+showed a heavy visceral amyloid burden in the spleen and adrenal glands,
+but not in heart. Valleix et al. (2012) noted that the amyloid
+deposition in this family was different from that observed in
+dialysis-related amyloidosis, in which B2M-amyloid accumulates around
+bones and joints. In addition, serum B2M was not increased in the
+patients with familial disease, whereas it is increased in those with
+dialysis-related amyloidosis.
+
+ADDITIONAL REFERENCES Casey et al. (1986); Goodfellow et al. (1975); Lindblom et al. (1974);
+Marx  (1974); Michaelson et al. (1980); Oliver et al. (1978); Reisfeld
+et al. (1975)
+REFERENCE 1. Arce-Gomez, B.; Jones, E. A.; Barnstable, C. J.; Solomon, E.; Bodmer,
+W. F.: The genetic control of HLA-A and B antigens in somatic cell
+hybrids: requirements for beta-2-microglobulin. Tissue Antigens 11:
+96-112, 1978.
+
+2. Berggard, I.; Bearn, A. G.: Isolation and properties of a low
+molecular weight beta-2-globulin occurring in human biological fluids. J.
+Biol. Chem. 243: 4095-4103, 1968.
+
+3. Bicknell, D. C.; Rowan, A.; Bodmer, W. F.: Beta-2-microglobulin
+gene mutations: a study of established colorectal cell lines and fresh
+tumors. Proc. Nat. Acad. Sci. 91: 4751-4755, 1994.
+
+4. Casey, T. T.; Stone, W. J.; DiRaimondo, C. R.; Brantley, B. D.;
+DiRaimondo, C. V.; Gorevic, P. D.; Page, D. L.: Tumoral amyloidosis
+of bone of beta-2-microglobulin origin in association with long-term
+hemodialysis: a new type of amyloid disease. Hum. Path. 17: 731-738,
+1986.
+
+5. Charra, B.; Calemard, E.; Uzan, M.; Terrat, J. C.; Vanel, T.; Laurent,
+G.: Carpal tunnel syndrome, shoulder pain and amyloid deposits in
+long-term haemodialysis patients. (Abstract) Kidney Int. 26: 549
+only, 1984.
+
+6. Connors, L. H.; Shirahama, T.; Skinner, M.; Fenves, A.; Cohen,
+A. S.: In vitro formation of amyloid fibrils from intact beta-2-microglobulin. Biochem.
+Biophys. Res. Commun. 131: 1063-1068, 1985.
+
+7. Cox, D. R.; Sawicki, J. A.; Yee, D.; Appella, E.; Epstein, C. J.
+: Assignment of the gene for beta-2-microglobulin (B2m) to mouse chromosome
+2. Proc. Nat. Acad. Sci. 79: 1930-1934, 1982.
+
+8. Cunningham, B. A.; Wang, J. L.; Berggard, I.; Peterson, P. A.:
+The complete amino acid sequence of beta-2-microglobulin. Biochemistry 12:
+4811-4821, 1973.
+
+9. D'Urso, C. M.; Wang, Z.; Cao, Y.; Tatake, R.; Zeff, R. A.; Ferrone,
+S.: Lack of HLA class I antigen expression by cultured melanoma cells
+FO-1 due to a defect in B(2)m gene expression. J. Clin. Invest. 87:
+284-292, 1991.
+
+10. de Sousa, M.; Reimao, R.; Lacerda, R.; Hugo, P.; Kaufmann, S.
+H. E.; Porto, G.: Iron overload in beta-2-microglobulin-deficient
+mice. Immun. Lett. 39: 105-111, 1994.
+
+11. Gejyo, F.; Yamada, T.; Odani, S.; Nakagawa, Y.; Arakawa, M.; Kunitomo,
+T.; Kataoka, H.; Suzuki, M.; Hirasawa, Y.; Shirahama, T.; Cohen, A.
+S.; Schmid, K.: A new form of amyloid protein associated with chronic
+hemodialysis was identified as beta-2-microglobulin. Biochem. Biophys.
+Res. Commun. 129: 701-706, 1985.
+
+12. Goodfellow, P.; Jones, E.; Van Heyningen, V.; Solomon, E.; Kennett,
+R.; Bobrow, M.; Bodmer, W. F.: Linkage relationships of the HL-A
+system and beta-2-microglobulin. Birth Defects Orig. Art. Ser. 11(3):
+162-167, 1975. Note: Alternate: Cytogenet. Cell Genet. 14: 332-337,
+1975.
+
+13. Goodfellow, P. N.; Jones, E. A.; Van Heyningen, V.; Solomon, E.;
+Bobrow, M.: The beta-2-microglobulin gene is on chromosome 15 and
+not in the HL-A region. Nature 254: 267-269, 1975.
+
+14. Gorevic, P. D.; Casey, T. T.; Stone, W. J.; DiRaimondo, C. R.;
+Prelli, F. C.; Frangione, B.: Beta-2 microglobulin is an amyloidogenic
+protein in man. J. Clin. Invest. 76: 2425-2429, 1985.
+
+15. Gorevic, P. D.; Munoz, P. C.; Casey, T. T.; DiRaimondo, C. R.;
+Stone, W. J.; Prelli, F. C.; Rodrigues, M. M.; Poulik, M. D.; Frangione,
+B.: Polymerization of intact beta-2-microglobulin in tissue causes
+amyloidosis in patients on chronic hemodialysis. Proc. Nat. Acad.
+Sci. 83: 7908-7912, 1986.
+
+16. Gussow, D.; Rein, R.; Ginjaar, I.; Hochstenbach, F.; Seemann,
+G.; Kottman, A.; Ploegh, H. L.: The human beta-2-microglobulin gene:
+primary structure and definition of the transcriptional unit. J.
+Immun. 139: 3132-3138, 1987.
+
+17. Huh, G. S.; Boulanger, L. M.; Du, H.; Riquelme, P. A.; Brotz,
+T. M.; Shatz, C. J.: Functional requirement for class I MHC in CNS
+development and plasticity. Science 290: 2155-2159, 2000.
+
+18. Lindblom, J. B.; Ostberg, I.; Peterson, P.: Beta-2-microglobulin
+on the cell surface: relationship to HL-A antigens and the mixed lymphocyte
+culture reaction. Tissue Antigens 4: 186-196, 1974.
+
+19. Manolov, G.; Manolova, Y.; Kieler, J.: Cytogenetic investigation
+of assignment of locus for beta-2-microglobulin in K562 leukemia and
+Namalwa and Daudi Burkitt lymphoma cells. (Abstract) Cytogenet. Cell
+Genet. 25: 182 only, 1979.
+
+20. Margulies, D. H.; Parnes, J. R.; Johnson, N. A.; Seidman, J. G.
+: Linkage of beta-2-microglobulin and ly-m11 by molecular cloning
+and DNA-mediated gene transfer. Proc. Nat. Acad. Sci. 80: 2328-2331,
+1983.
+
+21. Marx, J. L.: Immunology: role of beta-2-microglobulin. Science 185:
+428-429, 1974.
+
+22. McClure, J.; Bartley, C. J.; Ackrill, P.: Carpal tunnel syndrome
+caused by amyloid containing beta-2-microglobulin: a new amyloid and
+a complication of long term haemodialysis. Ann. Rheum. Dis. 45:
+1007-1011, 1986.
+
+23. Michaelson, J.; Rothenberg, E.; Boyse, E. A.: Genetic polymorphism
+of murine beta-2-microglobulin detected biochemically. Immunogenetics 11:
+93-95, 1980.
+
+24. Oliver, N.; Francke, U.; Pellegrino, M. A.: Regional assignment
+of genes for mannose phosphate isomerase, pyruvate kinase-3, and beta-2-microglobulin
+expression on human chromosome 15 by hybridization of cells from a
+t(15;22) (q14;q13.3) translocation carrier. Cytogenet. Cell Genet. 22:
+506-510, 1978.
+
+25. Reisfeld, R. A.; Sevier, E. D.; Pellegrino, M. A.; Ferrone, S.;
+Poulik, M. D.: Association of HL-A antigens and beta-2-microglobulin
+at the cellular and molecular level. Immunogenetics 2: 183-197,
+1975.
+
+26. Robinson, P. J.; Graf, L.; Sege, K.: Two allelic forms of mouse
+beta-2-microglobulin. Proc. Nat. Acad. Sci. 78: 1167-1170, 1981.
+
+27. Rosa, F.; Berissi, H.; Weissenbach, J.; Maroteaux, L.; Fellous,
+M.; Revel, M.: The beta-2-microglobulin mRNA in human Daudi cells
+has a mutated initiation codon but is still inducible by interferon. EMBO
+J. 2: 239-243, 1983.
+
+28. Smith, M.; Gold, P.; Freedman, S. O.; Shuster, J.: Studies of
+the linkage relationship of beta-2-microglobulin in man-mouse somatic
+cell hybrids. Ann. Hum. Genet. 39: 21-31, 1975.
+
+29. Suggs, S. V.; Wallace, R. B.; Hirose, T.; Kawashima, E. H.; Itakura,
+K.: Use of synthetic oligonucleotides as hybridization probes: isolation
+of cloned cDNA sequences for human beta-2-microglobulin. Proc. Nat.
+Acad. Sci. 78: 6613-6617, 1981.
+
+30. Valleix, S.; Gillmore, J. D.; Bridoux, F.; Mangione, P. P.; Dogan,
+A.; Nedelec, B.; Boimard, M.; Touchard, G.; Goujon, J.-M.; Lacombe,
+C.; Lozeron, P.; Adams, D.; and 14 others: Hereditary systemic
+amyloidosis due to asp76asn variant beta-2-microglobulin. New Eng.
+J. Med. 366: 2276-2283, 2012.
+
+31. Waldmann, T. A.: Disorders of immunoglobulin metabolism. New
+Eng. J. Med. 281: 1170-1177, 1969.
+
+32. Wani, M. A.; Haynes, L. D.; Kim, J.; Bronson, C. L.; Chaudhury,
+C.; Mohanty, S.; Waldmann, T. A.; Robinson, J. M.; Anderson, C. L.
+: Familial hypercatabolic hypoproteinemia caused by deficiency of
+the neonatal Fc receptor, FcRn, due to a mutant beta-2-microglobulin
+gene. Proc. Nat. Acad. Sci. 103: 5084-5089, 2006. Note: Erratum:
+Proc. Nat. Acad. Sci. 103: 10526 only, 2006.
+
+33. Zhang, S.; Zech, L.: Marker chromosomes in cell lines from Burkitt's
+lymphoma: analysis of break points by high resolution techniques.
+(Abstract) Sixth Int. Cong. Hum. Genet., Jerusalem 311 only, 1981.
+
+34. Zingraff, J. J.; Noel, L.-H.; Bardin, T.; Atienza, C.; Zins, B.;
+Drueke, T. B.; Kuntz, D.: Beta-2-microglobulin amyloidosis in chronic
+renal failure. (Letter) New Eng. J. Med. 323: 1070-1071, 1990.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 6/14/2012
+Cassandra L. Kniffin - updated: 5/18/2006
+Victor A. McKusick - updated: 5/14/2001
+Ada Hamosh - updated: 1/5/2001
+Victor A. McKusick - updated: 5/9/1997
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 10/10/2012
+alopez: 6/14/2012
+ckniffin: 6/14/2012
+carol: 10/21/2010
+terry: 5/7/2007
+wwang: 6/14/2006
+ckniffin: 5/18/2006
+carol: 1/3/2002
+cwells: 5/15/2001
+terry: 5/14/2001
+carol: 1/5/2001
+carol: 11/3/1998
+mark: 5/9/1997
+carol: 9/19/1994
+terry: 5/13/1994
+pfoster: 3/25/1994
+mimadm: 2/11/1994
+supermim: 3/16/1992
+carol: 1/28/1991
+
+607860	TITLE *607860 YY1 ASSOCIATED PROTEIN 1; YY1AP1
+;;YY1-ASSOCIATED PROTEIN; YAP;;
+HEPATOCELLULAR CARCINOMA-ASSOCIATED PROTEIN 2; HCCA2
+DESCRIPTION 
+CLONING
+
+By differential display PCR of normal hepatic tissue and hepatocellular
+carcinomas, followed by screening a placenta cDNA library, Wang et al.
+(2001) cloned YY1AP1, which they called HCCA2. The deduced 467-amino
+acid protein has a calculated molecular mass of 50.65 kD. HCCA2 contains
+2 SH3-binding domains, 2 N-glycosylation sites, 6 N-myristoylation
+sites, and numerous phosphorylation sites, but it does not have a
+transmembrane domain, signal peptide, or targeting sequences. Northern
+blot analysis detected 1.8- and 2.5-kb transcripts in all adult tissues
+examined except liver. Expression was also detected in fetal liver,
+lung, brain, and spleen. Western blot analysis of transfected embryonic
+kidney fibroblasts detected HCCA2 at an apparent molecular mass of about
+50 kD. Immunohistochemical staining showed that HCCA2 protein was
+localized in the cytoplasm of liver cancer tissues, and it was not found
+in surrounding nontumor hepatocytes.
+
+Kuryshev et al. (2006) determined that YY1AP1 was formed by fusion of
+the 5-prime region of the ASH1L gene (607999) and the 3-prime region of
+the GON4L gene (610393) during a tandem segmental duplication on
+chromosome 1. YY1AP1 contains the partial promoter and untranslated
+first exon of ASH1L and coding exons 13 to 21 of GON4L. The 3-prime
+region of YY1AP1 originated from a long terminal repeat of an endogenous
+retrovirus, known as the MER51A repeat, that was inserted into exon 21
+of GON4L after the duplication. The deduced YY1AP1 protein contains 750
+amino acids, 748 of which correspond to amino acids 590 to 1,337 of the
+GON4L protein. The last 2 C-terminal residues of YY1AP1 come from the
+long terminal repeat of MER51A. RT-PCR detected ubiquitous expression of
+YY1AP1, with highest levels in testis and skeletal muscle.
+
+GENE FUNCTION
+
+Wang et al. (2001) determined that HCCA2 was not expressed in normal
+adult liver tissue, but it was expressed in 79% of hepatocellular
+carcinomas tested. HCCA2 expression was associated with invasion of the
+tumor capsule.
+
+MAPPING
+
+By genomic sequence analysis, Kuryshev et al. (2006) mapped the YY1AP1
+gene to chromosome 1q22.
+
+REFERENCE 1. Kuryshev, V. Y.; Vorobyov, E.; Zink, D.; Schmitz, J.; Rozhdestvensky,
+T. S.; Munstermann, E.; Ernst, U.; Wellenreuther, R.; Moosmayer, P.;
+Bechtel, S.; Schupp, I.; Horst, J.; Korn, B.; Poustka, A.; Wiemann,
+S.: An anthropoid-specific segmental duplication on human chromosome
+1q22. Genomics 88: 143-151, 2006.
+
+2. Wang, Z.-X.; Wang, H.-Y.; Wu, M.-C.: Identification and characterization
+of a novel human hepatocellular carcinoma-associated gene. Brit.
+J. Cancer 85: 1162-1167, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/29/2006
+
+CREATED Patricia A. Hartz: 6/6/2003
+
+EDITED wwang: 04/18/2008
+mgross: 9/11/2006
+terry: 8/29/2006
+mgross: 6/6/2003
+
+603819	TITLE *603819 STEROID RECEPTOR RNA ACTIVATOR 1; SRA1
+;;SRA
+DESCRIPTION 
+CLONING
+
+Using a yeast 2-hybrid screening system, Lanz et al. (1999) isolated a
+transcriptional coactivator of steroid nuclear receptors, termed steroid
+receptor RNA activator (SRA). Northern blot analysis revealed that the
+SRA gene was expressed in all human tissues tested as major transcripts
+of approximately 0.7 to 0.85 kb and minor transcripts of approximately
+1.3 to 1.5 kb; SRA was expressed at high levels in liver and skeletal
+muscle and at a low level in brain.
+
+GENE FUNCTION
+
+Lanz et al. (1999) found that SRA was selective for steroid hormone
+receptors and mediated transactivation via their N-terminal activation
+function. The authors provided functional and mechanistic evidence that
+SRA acts as an RNA transcript; transfected SRA, unlike other steroid
+receptor coregulators, functioned in the presence of cycloheximide, and
+SRA mutants containing multiple translational stop signals retained
+their ability to activate steroid receptor-dependent gene expression.
+Biochemical fractionation showed that SRA exists in distinct
+ribonucleoprotein complexes, one of which contains steroid receptor
+coactivator-1 (602691). Lanz et al. (1999) suggested that SRA may act to
+confer functional specificity upon multiprotein complexes recruited by
+liganded receptors during transcriptional activation.
+
+By immunoprecipitation analysis, Caretti et al. (2006) found that p68
+(DDX5; 180630), p72 (DDX17; 608469), and the noncoding RNA SRA
+associated with MYOD (MYOD1; 159970) in MYOD-transfected HeLa cells. In
+vitro and in vivo experiments identified p68, p72, and SRA as
+coactivators of MYOD, and their knockdown in C2C12 mouse myoblast cells
+prevented proper muscle gene expression and cell differentiation.
+
+MAPPING
+
+By sequence comparisons, Lanz et al. (1999) identified partial SRA
+sequences isolated as HepG2 3-prime untranslated region (GenBank GENBANK
+D16861), EST clones, and chromosome 5 BAC clone 319C17 (GenBank GENBANK
+AC005214), providing a preliminary mapping of the SRA gene to chromosome
+5.
+
+REFERENCE 1. Caretti, G.; Schiltz, R. L.; Dilworth, F. J.; Di Padova, M.; Zhao,
+P.; Ogryzko, V.; Fuller-Pace, F. V.; Hoffman, E. P.; Tapscott, S.
+J.; Sartorelli, V.: The RNA helicases p68/p72 and the noncoding RNA
+SRA are coregulators of MyoD and skeletal muscle differentiation. Dev.
+Cell 11: 547-560, 2006.
+
+2. Lanz, R. B.; McKenna, N. J.; Onate, S. A.; Albrecht, U.; Wong,
+J.; Tsai, S. Y.; Tsai, M.-J.; O'Malley, B. W.: A steroid receptor
+coactivator, SRA, functions as an RNA and is present in an SRC-1 complex. Cell 97:
+17-27, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 01/02/2007
+
+CREATED Stylianos E. Antonarakis: 5/19/1999
+
+EDITED mgross: 01/02/2007
+alopez: 4/20/2000
+mgross: 5/19/1999
+
+611442	TITLE *611442 DOUBLE HOMEOBOX PROTEIN 2; DUX2
+DESCRIPTION 
+DESCRIPTION
+
+The human genome contains hundreds of repeats of the 3.3-kb family in
+regions associated with heterochromatin. The DUX gene family, including
+DUX2, resides within these 3.3-kb repeated elements (Beckers et al.,
+2001). See DUX4 (606009).
+
+CLONING
+
+Using PCR amplification of genomic DNA with primers from HEFT1, a
+genomic sequence identified as a DNA-binding target of HLTF (SMARCA3;
+603257), Ding et al. (1998) cloned DUX2. The deduced 80-amino acid
+protein shares 70% amino acid identity with DUX1 (611441), but the DUX2
+sequence stops just after the first homeodomain.
+
+GENE STRUCTURE
+
+Ding et al. (1998) determined that the HEFT1 sequence, which presents a
+consensus GC and TATAA box, and DUX1 sequences were not associated in
+the genome; however, DUX2 was found carrying a promoter identical to
+HEFT1.
+
+MAPPING
+
+By human-hamster somatic cell hybrid analysis, Ding et al. (1998)
+determined that DUX2 sequences mapped to acrocentric chromosomes 13, 14,
+15, 21, 22.
+
+REFERENCE 1. Beckers, M.-C.; Gabriels, J.; van der Maarel, S.; De Vriese, A.;
+Frants, R. R.; Collen, D.; Belayew, A.: Active genes in junk DNA?
+Characterization of DUX genes embedded within 3.3 kb repeated elements. Gene 264:
+51-57, 2001.
+
+2. Ding, H.; Beckers, M.-C.; Plaisance, S.; Marynen, P.; Collen, D.;
+Belayew, A.: Characterization of a double homeodomain protein (DUX1)
+encoded by a cDNA homologous to 3.3 kb dispersed repeated elements. Hum.
+Molec. Genet. 7: 1681-1694, 1998.
+
+CREATED Dorothy S. Reilly: 9/14/2007
+
+EDITED wwang: 09/17/2007
+
+603011	TITLE *603011 SMALL EDRK-RICH FACTOR 1A; SERF1A
+;;SMALL EDRK-RICH FACTOR 1; SERF1;;
+SPINAL MUSCULAR ATROPHY-RELATED GENE H4F5; H4F5;;
+SMA MODIFIER 1; SMAM1
+DESCRIPTION Spinal muscular atrophy (SMA) has been classified into 3 types based on
+age of onset and severity. SMA I-III all map to 5q13, and nearly all
+patients display deletions or gene conversions of the SMN1 gene
+(600354). Although some correlation has been established between SMN
+protein levels and disease course, the genetic basis for SMA phenotypic
+variability is mainly unexplained, and it had been postulated that the
+loss of an additional modifying factor contributes to the severity of
+type I SMA. Scharf et al. (1998) found that a multicopy microsatellite
+marker deleted in more than 90% of type I SMA chromosomes was embedded
+in an intron of H4F5, indicating that this gene is also highly deleted
+in type I SMA chromosomes, and thus is a candidate phenotypic modifier
+for SMA. The microsatellite marker, designated C212, is located in the
+last intron of H4F5, 5 kb upstream of H4F5 exon 3b and 13 kb upstream of
+SMN exon 1. In 58 type I SMA patients of varied European and Arabian
+descent, Scharf et al. (1998) found a reduction or absence of C212/H4F5
+alleles in 94% of chromosomes, implying a deletion of 1 or both copies
+of the marker and therefore of H4F5 exon 3b in these individuals. In
+comparison with the high rate of C212/H4F5 deletions in type I SMA, the
+C212 deletion frequency in type II SMA chromosomes was between that of
+type I and control chromosomes, whereas deletions in type III
+chromosomes were only slightly more frequent than in controls.
+
+Scharf et al. (1998) sequenced a bacterial artificial chromosome (BAC)
+containing the mouse Smn gene to identify conserved elements between the
+human SMA interval and its previously identified syntenic region on
+mouse chromosome 13 (Scharf et al., 1996). The resulting sequence was
+filtered for repetitive elements and used to screen the EST database.
+ESTs corresponding to SMN and NAIP were identified as well as 2 ESTs
+representing novel genes within the BAC. One of these ESTs, clone
+368449, mapped to 10.6 kb upstream of mouse Smn; subsequent analysis of
+surrounding genomic sequences using 4 exon-prediction programs
+identified no additional transcripts between 368449 and Smn or between
+Smn and Naip. The full-length 566-bp mouse 368449 cDNA and its human
+ortholog were cloned from a mouse brain and human skeletal muscle cDNA
+library, respectively. The human clone was 99% homologous to exon 4F5,
+an exon previously trapped from an SMA cosmid known to contain SMN exon
+1. The full-length human cDNA was named H4F5, and its mouse counterpart
+M4f5, until an appropriate function can be assigned to the 2 genes. The
+proteins displayed 97% amino acid similarity to one another and both
+genes were ubiquitously expressed with highest RNA levels in testis. In
+addition, H4F5 has a larger 1.8-kb isoform, H4F5L, with a predicted
+110-amino acid open reading frame that results from alternative splicing
+of exon 3. In contrast to the 0.6-kb mouse and 0.7-kb human 4F5S
+isoforms, the 1.8-kb H4F5L transcript is predominantly expressed in
+heart, brain, and skeletal muscle. Both isoforms are also expressed
+throughout the central nervous system, including spinal cord, which is
+the tissue primarily affected in SMA. H4F5 was found to lie closer to
+SMN1 than any previously identified gene in the region.
+
+REFERENCE 1. Scharf, J. M.; Damron, D.; Frisella, A.; Bruno, S.; Beggs, A. H.;
+Kunel, L. M.; Dietrich, W. F.: The mouse region syntenic for human
+spinal muscular atrophy lies within the Lgn1 critical interval and
+contains multiple copies of Naip exon 5. Genomics 38: 405-417, 1996.
+
+2. Scharf, J. M.; Endrizzi, M. G.; Wetter, A.; Huang, S.; Thompson,
+T. G.; Zerres, K.; Dietrich, W. F.; Wirth, B.; Kunkel, L. M.: Identification
+of a candidate modifying gene for spinal muscular atrophy by comparative
+genomics. Nature Genet. 20: 83-86, 1998.
+
+CREATED Victor A. McKusick: 8/28/1998
+
+EDITED carol: 08/28/2000
+carol: 2/10/2000
+dkim: 9/10/1998
+alopez: 9/2/1998
+alopez: 8/31/1998
+
+603584	TITLE *603584 MAP KINASE-ACTIVATING DEATH DOMAIN; MADD
+;;DIFFERENTIALLY EXPRESSED IN NORMAL AND NEOPLASTIC CELLS; DENN;;
+INSULINOMA-GLUCAGONOMA PROTEIN 20; IG20;;
+RAB3 GDP/GTP EXCHANGE PROTEIN; RAB3GEP;;
+KIAA0358
+DESCRIPTION 
+CLONING
+
+Chow and Lee (1996) reported the cDNA sequence of DENN, a novel human
+gene that is differentially expressed in normal and neoplastic cells
+(hence, the symbol DENN). Northern blot analysis revealed differential
+levels of expression of a 6.5-kb DENN transcript in malignant cell lines
+compared to normal human tissues, where expression was highest in fetal
+brain and kidney and in adult testis, ovary, brain, and heart. In fetal
+liver and in several human cancer cell lines, the authors identified
+cDNAs representing alternative transcripts of DENN that harbor a
+deletion of 129 bp encoding 43 amino acids. Present within the serine-
+and leucine-rich DENN gene product is an arginyl-glycyl-aspartic acid
+(RGD) cellular adhesion motif and a leucine zipper-like motif.
+
+Using the yeast interaction trap system to identify proteins that
+interact with the death domain of the type-1 tumor necrosis factor
+receptor (TNFR1; 191190), Schievella et al. (1997) isolated cDNAs
+encoding 'MAP kinase-activating death domain' (MADD) protein.
+Immunoblotting of immunoprecipitated proteins from various human cell
+lines detected an approximately 200-kD MADD protein. The deduced
+1,588-amino acid MADD protein contains a C-terminal death domain.
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1997) cloned KIAA0358. The deduced protein
+contains 1,581 amino acids and is nearly identical to DENN.
+
+Chow et al. (1998) stated that the DENN and MADD cDNAs and proteins are
+virtually identical. From genomic studies, they traced the alternative
+splicing of a 129-bp fragment to an alternative 5-prime donor site
+involving exon 7. The deduced longer DENN isoform has 1,587 amino acids.
+Western blot analysis of human MOLT-4 T-lymphoblastic leukemic cell
+proteins detected a doublet consisting of 138- and 142-kD polypeptides.
+The authors found the DENN protein concentrated predominantly in the
+cytosolic compartment of MOLT-4 cells but was restricted to the nuclear
+compartment of PLC/PRF/5 hepatoma cells.
+
+Efimova et al. (2004) identified 7 putative splice variants of MADD:
+IG20 full-length (IG20FL), IG20, KIAA0358, MADD (also referred to as
+DENN), IG20 short variant-2 (IG20SV2), DENNSV (also referred to as
+IG20SV3), and IG20SV4. These variants arise from alternative splicing of
+exons 13L, 16, 21, 26, and 34. IG20FL, the longest variant, is encoded
+by all 36 exons of the MADD gene. RT-PCR detected variable expression of
+IG20, MADD, IG20SV, and DENNSV in all human tissues examined. Expression
+of KIAA0358, IG20FL, and IG20SV4 was not observed.
+
+GENE FUNCTION
+
+Schievella et al. (1997) found that the MADD protein associated with
+TNFR1 through a death domain-death domain interaction. Overexpression of
+MADD activated the mitogen-activated protein (MAP) kinase ERK2 (176948),
+and expression of the MADD death domain stimulated both the ERK2 and
+JNK1 (601158) MAP kinases and induced the phosphorylation of cytosolic
+phospholipase A2 (600522). The authors suggested that MADD links TNFR1
+with MAP kinase activation and arachidonic acid release.
+
+Al-Zoubi et al. (2001) showed that HeLa cells permanently transfected
+with IG20 or DENNSV were more susceptible or resistant to TNF-alpha
+(TNFA; 191160)-induced apoptosis, respectively. All MADD variants tested
+could interact with TNFR1 and activate ERK and NF-kappa-B (see 164011).
+However, relative to control cells, only those expressing IG20 showed
+enhanced TNF-alpha-induced activation of caspase-8 (CASP8; 601763) and
+CASP3 (600636). Cowpox virus CrmA, an inhibitor of caspase-induced
+apoptosis, inhibited apoptosis when transfected in IG20-expressing HeLa
+cells.
+
+Using specific small hairpin RNAs targeted to splice variants of the
+MADD gene, Mulherkar et al. (2006) found that knockdown of the MADD
+variant resulted in spontaneous apoptosis in HeLa cells and in a human
+ovarian carcinoma cell line, and they demonstrated that the MADD variant
+alone was necessary and sufficient for cancer cell survival. Mulherkar
+et al. (2006) hypothesized that since the MADD variant can bind to death
+receptors, it may prevent apoptotic signaling by interfering with death
+receptor oligomerization.
+
+Efimova et al. (2004) found that overexpression of DENNSV enhanced cell
+replication and resistance to treatment with proapoptotic stimuli. In
+contrast, IG20 expression suppressed cell replication and increased
+susceptibility to proapoptotic stimuli. Moreover, cells that were
+resistant or susceptible to TNF-alpha-induced apoptosis exclusively
+expressed endogenous DENNSV and IG20, respectively. Transfection of IG20
+in a DENNSV-expressing cell line overrode endogenous DENNSV function and
+increased susceptibility to apoptotic stimuli. Dominant-negative
+I-kappa-B (see NFKBIA; 164008) reversed the effects of DENNSV, but not
+IG20, indicating that DENNSV functions through NF-kappa-B activation.
+
+GENE STRUCTURE
+
+Chow et al. (1998) determined that the MADD gene spans at least 28 kb
+and contains 15 exons, ranging in size from 73 to 1,230 bp.
+
+Efimova et al. (2004) determined that the MADD gene contains 36 exons.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1997) mapped the MADD gene
+to chromosome 11. Using FISH, Chow et al. (1998) mapped the MADD gene to
+chromosome 11p11.2.
+
+REFERENCE 1. Al-Zoubi, A. M.; Efimova, E. V.; Kaithamana, S.; Martinez, O.;
+El-Azami El-Idrissi, M.; Dogan, R. E.; Prabhakar, B. S.: Contrasting
+effects of IG20 and its splice isoforms, MADD and DENN-SV, on tumor-necrosis
+factor alpha-induced apoptosis and activation of caspase-8 and -3. J.
+Biol. Chem. 276: 47202-47211, 2001.
+
+2. Chow, V. T. K.; Lee, S. S.: DENN, a novel human gene differentially
+expressed in normal and neoplastic cells. DNA Seq. 6: 263-273, 1996.
+
+3. Chow, V. T. K.; Lim, K. M.; Lim, D.: The human DENN gene: genomic
+organization, alternative splicing, and localization to chromosome
+11p11.21-p11.22. Genome 41: 543-552, 1998.
+
+4. Efimova, E. V.; Al-Zoubi, A. M.; Martinez, O.; Kaithamana, S.;
+Lu, S.; Arima, T.; Prabhakar, B. S.: IG20, in contrast to DENN-SV,
+(MADD splice variants) suppresses tumor cell survival, and enhances
+their susceptibility to apoptosis and cancer drugs. Oncogene 23:
+1076-1087, 2004.
+
+5. Mulherkar, N.; Ramaswamy, M.; Mordi, D. C.; Prabhakar, B. S.:
+MADD/DENN splice variant of the IG20 gene is necessary and sufficient
+for cancer cell survival. Oncogene 25: 6252-6261, 2006.
+
+6. Nagase, T.; Ishikawa, K.; Nakajima, D.; Ohira, M.; Seki, N.; Miyajima,
+N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of
+the coding sequences of unidentified human genes. VII. The complete
+sequences of 100 new cDNA clones from brain which can code for large
+proteins in vitro. DNA Res. 4: 141-150, 1997.
+
+7. Schievella, A. R.; Chen, J. H.; Graham, J. R.; Lin, L.-L.: MADD,
+a novel death domain protein that interacts with the type 1 tumor
+necrosis factor receptor and activates mitogen-activated protein kinase. J.
+Biol. Chem. 272: 12069-12075, 1997.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/5/2007
+Patricia A. Hartz - updated: 4/3/2007
+Patti M. Sherman - updated: 2/26/1999
+
+CREATED Victor A. McKusick: 2/25/1999
+
+EDITED mgross: 07/21/2008
+mgross: 7/26/2007
+terry: 6/5/2007
+wwang: 4/6/2007
+terry: 4/3/2007
+carol: 2/14/2001
+psherman: 12/17/1999
+terry: 5/3/1999
+carol: 3/2/1999
+psherman: 2/26/1999
+psherman: 2/25/1999
+
+611797	TITLE *611797 UBIQUINOL-CYTOCHROME C REDUCTASE COMPLEX CHAPERONE; UQCC
+;;CBP3, S. CEREVISIAE, HOMOLOG OF; CBP3;;
+BASIC FIBROBLAST GROWTH FACTOR-REPRESSED ZIC-BINDING PROTEIN; BFZB;;
+BFGF-REPRESSED ZIC-BINDING PROTEIN;;
+CHROMOSOME 20 OPEN READING FRAME 44; C20ORF44
+DESCRIPTION 
+CLONING
+
+Vetter and Wurst (2001) cloned mouse Uqcc, which they called Bfzb, and
+identified its human homolog by database analysis. The deduced human and
+mouse proteins have a single transmembrane domain and share 94% amino
+acid identity. In situ hybridization of mouse embryos detected Bfzb
+predominantly in the developing nervous system, with highest expression
+in proliferating neuroepithelia of brain and neural tube, ganglia of
+cranial nerves V, VII, VIII, IX, and X, and dorsal root ganglia.
+Transcripts were also detected in developing eye and brown fat. In adult
+mouse brain, strong expression was restricted to olfactory bulb,
+hippocampus, and piriform cortex and Purkinje cells of cerebellum. The
+Bfzb protein localized to cytoplasmic vesicular structures.
+
+MAPPING
+
+Hartz (2008) mapped the UQCC gene to chromosome 20q11.22 based on an
+alignment of the UQCC sequence (GenBank GENBANK AK001712) with the
+genomic sequence (build 36.1).
+
+MOLECULAR GENETICS
+
+For a discussion of an association between variation in the UQCC gene
+and stature, see STQTL14 (612228).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/15/2008.
+
+2. Vetter, K.; Wurst, W.: Expression of a novel mouse gene 'mbFZb'
+in distinct regions of the developing nervous system and the adult
+brain. Mech. Dev. 100: 123-125, 2001.
+
+CONTRIBUTORS Victor A. McKusick - updated: 3/13/2008
+
+CREATED Patricia A. Hartz: 2/15/2008
+
+EDITED wwang: 02/03/2009
+alopez: 8/7/2008
+alopez: 3/13/2008
+mgross: 2/15/2008
+
+602013	TITLE *602013 POLYMERASE II, RNA, SUBUNIT G; POLR2G
+;;RPB7, S. CEREVISIAE, HOMOLOG OF
+DESCRIPTION RNA polymerase II is the enzymatic complex responsible for transcription
+of genes that result in mRNA production. For general information on the
+structure and function of RNA polymerase II, see 180660.
+
+CLONING
+
+Schoen et al. (1997) stated that 7 of the RNA polymerase II complex
+genes had been isolated and assigned to chromosomal sites. The complete
+genomic sequence had been reported for only the 220-kD (POLR2A; 180660)
+and 14.5-kD (POLR2I; 180662) subunits. Schoen et al. (1997) cloned,
+sequenced, and mapped the seventh subunit of the RNA polymerase II
+complex, which they designated hsRPB7. Southern blots of genomic and
+cloned DNA suggested that it is encoded by a single gene. The sequence
+of the 5-prime flanking region did not contain a TATA element, but did
+contain several Sp1-binding sites, an AP-1 site, and a novel inverted
+polymorphic GATA tandem repeat. Schoen et al. (1997) stated that this
+novel GATA repeat should be useful for linkage analysis. The gene seemed
+to be highly conserved among eukaryotic species, showing general
+sequence conservation with yeast and Drosophila. Northern blot analysis
+revealed a high degree of tissue-specific expression. Expression was
+relatively high in adult retina, brain, and kidney.
+
+GENE STRUCTURE
+
+The POLR2G gene consists of 8 exons and spans approximately 5.1 kb
+(Schoen et al., 1997).
+
+GENE FUNCTION
+
+Khazak et al. (1998) demonstrated that POLR2D (606017) associates
+strongly and specifically with POLR2G in the nuclei of human cells. The
+association appeared to require sequences spanning the N-terminal half
+of the POLR2D protein, whereas no truncation of POLR2G was observed to
+associate with POLR2D.
+
+MAPPING
+
+Using human radiation hybrids and YACs, Schoen et al. (1997) localized
+the POLR2G gene to 11q13.1, within 70 kb of marker D11S1765.
+
+REFERENCE 1. Khazak, V.; Estojak, J.; Cho, H.; Majors, J.; Sonoda, G.; Testa,
+J. R.; Golemis, E. A.: Analysis of the interaction of the novel RNA
+polymerase II (pol II) subunit hsRPB4 with its partner hsRPB7 and
+with pol II. Molec. Cell. Biol. 18: 1935-1945, 1998.
+
+2. Schoen, T. J.; Chandrasekharappa, S. C.; Guru, S. C.; Mazuruk,
+K.; Chader, G. J.; Rodriguez, I. R.: Human gene for the RNA polymerase
+II seventh subunit (hsRPB7): structure, expression and chromosomal
+localization. Biochim. Biophys. Acta 1353: 39-49, 1997.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 6/15/2001
+
+CREATED Victor A. McKusick: 9/23/1997
+
+EDITED alopez: 06/19/2001
+mgross: 6/19/2001
+carol: 6/15/2001
+psherman: 9/2/1999
+mark: 9/24/1997
+mark: 9/23/1997
+
+602912	TITLE *602912 EUKARYOTIC TRANSLATION INITIATION FACTOR 6; EIF6
+;;INTEGRIN, BETA-4, BINDING PROTEIN OF; ITGB4BP;;
+p27, BETA-4 INTEGRIN-BINDING PROTEIN; p27BBP;;
+EUKARYOTIC TRANSLATION INITIATION FACTOR 3A; EIF3A
+DESCRIPTION 
+CLONING
+
+The integrin beta-4 subunit (ITGB4; 147557) is highly enriched in
+hemidesmosomes, specialized structures providing firm mechanical links
+between basal lamina and the intermediate filament cytoskeleton. A
+303-amino acid segment of the ITGB4 cytoplasmic domain that encompasses
+the first 2 N-terminal fibronectin type III (FNIII) domains and their
+interconnecting sequence is necessary for mediating ITGB4 signaling
+events and incorporation into hemidesmosomes. Using a yeast 2-hybrid
+system to identify polypeptides that interact with this functional
+region of the ITGB4 cytodomain, Biffo et al. (1997) isolated human
+epithelial cell cDNAs encoding ITGB4-binding protein (ITGB4BP), which
+they called p27BBP. Southern blot analysis showed that the human genome
+contains a single copy of the ITGB4BP gene. Northern blot analysis and
+in situ hybridization detected Itgb4bp mRNA in all mouse tissues
+examined, with the highest levels mainly in proliferating epithelia and
+in epithelial tissues containing Itgb4. The predicted human ITGB4BP
+protein has 245 amino acids and lacks a signal sequence. Western blot
+analysis using antibodies against ITGB4BP detected a 27-kD protein in
+epithelial cell lysates, which is in agreement with the calculated
+molecular mass of ITGB4BP. Both in yeast and in vitro, ITGB4BP
+specifically bound to the first 2 FNIII domains of ITGB4. ITGB4BP is an
+insoluble protein that is present in the nucleus and cytoplasm. It is
+associated with the intermediate filament pool and is localized at the
+submembrane level in close apposition with ITGB4. The authors suggested
+that ITGB4BP links ITGB4 to the intermediate filament cytoskeleton.
+
+Eukaryotic translation initiation factor-6 (EIF6) binds to the 60S
+ribosomal subunit and prevents its association with the 40S ribosomal
+subunit. Using antibodies against purified rabbit EIF6 protein to
+immunoscreen a HeLa cell cDNA expression library, Si et al. (1997)
+isolated a cDNA encoding EIF6. Northern blot analysis detected an
+approximately 1.1-kb transcript in all human tissues examined.
+
+GENE FUNCTION
+
+Ceci et al. (2003) demonstrated that the ribosomal 60S subunit is
+activated by release of EIF6. In the cytoplasm, EIF6 is bound to free
+60S but not to 80S subunits. Furthermore, EIF6 interacts in the
+cytoplasm with RACK1 (176981), a receptor for activated protein kinase C
+(PKC; see 176960). RACK1 is a major component of translating ribosomes,
+which harbor significant amounts of PKC. Loading 60S subunits with EIF6
+caused a dose-dependent translational block and impairment of 80S
+formation, which were reversed by expression of RACK1 and stimulation of
+PKC in vivo and in vitro. PKC stimulation led to EIF6 phosphorylation,
+and mutation of a serine residue in the carboxy terminus of EIF6
+impaired RACK1/PKC-mediated translational rescue. Ceci et al. (2003)
+proposed that EIF6 release regulates subunit joining, and that RACK1
+provides a physical and functional link between PKC signaling and
+ribosome activation.
+
+To elucidate how microRNAs mediate their repressive effects, Chendrimada
+et al. (2007) performed biochemical and functional assays to identify
+new factors in the microRNA pathway. Chendrimada et al. (2007) showed
+that human RISC (RNA-induced silencing complex) associated with a
+multiprotein complex containing MOV10 (610742), the homolog of
+Drosophila translational repressor Armitage, and proteins of the 60S
+ribosome subunit. Notably, this complex contains the antiassociation
+factor EIF6, a ribosome inhibitory protein known to prevent productive
+assembly of the 80S ribosome. Depletion of EIF6 in human cells
+specifically abrogated miRNA-mediated regulation of target protein and
+mRNA levels. Similarly, depletion of EIF6 in C. elegans diminished Lin4
+microRNA-mediated repression of the endogenous Lin14 and Lin28 (611043)
+target protein and mRNA levels. Chendrimada et al. (2007) concluded that
+their results uncovered an evolutionarily conserved function of the
+ribosome antiassociation factor EIF6 in microRNA-mediated
+posttranscriptional silencing.
+
+Gandin et al. (2008) demonstrated that mammalian eIF6 is required for
+efficient initiation of translation in vivo. Eif6-null mouse embryos
+were lethal at preimplantation. Heterozygous mice had 50% reduction of
+eIF6 levels in all tissues, and showed reduced mass of hepatic and
+adipose tissues due to a lower number of cells and to impaired G1/S cell
+cycle progression. eIF6 heterozygous cells retained sufficient nucleolar
+eIF6 and normal ribosome biogenesis. The liver of eIF6 heterozygous mice
+displayed an increase of 80S in polysomal profiles, indicating a defect
+in initiation of translation. Consistently, isolated hepatocytes had
+impaired insulin-stimulated translation. Heterozygous mouse embryonic
+fibroblasts recapitulated the organism phenotype and had normal ribosome
+biogenesis, reduced insulin-stimulated translation, and delayed G1/S
+phase progression. Furthermore, eIf6 heterozygous cells were resistant
+to oncogene-induced transformation. Thus, Gandin et al. (2008) concluded
+that eIF6 is the first eIF associated with the large 60S subunit that
+regulates translation in response to extracellular signals.
+
+MAPPING
+
+By fluorescence in situ hybridization, Sanvito et al. (1998) mapped the
+ITGB4BP gene to 20q11.2.
+
+REFERENCE 1. Biffo, S.; Sanvito, F.; Costa, S.; Preve, L.; Pignatelli, R.; Spinardi,
+L.; Marchisio, P. C.: Isolation of a novel beta-4 integrin-binding
+protein (p27BBP) highly expressed in epithelial cells. J. Biol. Chem. 272:
+30314-30321, 1997.
+
+2. Ceci, M.; Gaviraghi, C.; Gorrini, C.; Sala, L. A.; Offenhauser,
+N.; Marchisio, P. C.; Biffo, S.: Release of eIF6 (p27-BBP) from the
+60S subunit allows 80S ribosome assembly. Nature 426: 579-584, 2003.
+
+3. Chendrimada, T. P.; Finn, K. J.; Ji, X.; Baillat, D.; Gregory,
+R. I.; Liebhaber, S. A.; Pasquinelli, A. E.; Shiekhattar, R.: MicroRNA
+silencing through RISC recruitment of elF6. Nature 447: 823-828,
+2007.
+
+4. Gandin, V.; Miluzio, A.; Barbieri, A. M.; Beugnet, A.; Kiyokawa,
+H.; Marchisio, P. C.; Biffo, S.: Eukaryotic initiation factor 6 is
+rate-limiting in translation, growth and transformation. Nature 455:
+684-688, 2008.
+
+5. Sanvito, F.; Arrigo, G.; Zuffardi, O.; Agnelli, M.; Marchisio,
+P. C.; Biffo, S.: Localization of p27 beta-4 binding protein gene
+(ITGB4BP) to human chromosome region 20q11.2. Genomics 52: 111-112,
+1998.
+
+6. Si, K.; Chaudhuri, J.; Chevesich, J.; Maitra, U.: Molecular cloning
+and functional expression of a human cDNA encoding translation initiation
+factor 6. Proc. Nat. Acad. Sci. 94: 14285-14290, 1997.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/5/2008
+Ada Hamosh - updated: 6/29/2007
+Ada Hamosh - updated: 12/30/2003
+Patti M. Sherman - updated: 12/15/1998
+Patti M. Sherman - updated: 12/11/1998
+
+CREATED Patti M. Sherman: 8/1/1998
+
+EDITED alopez: 11/18/2008
+terry: 11/5/2008
+mgross: 10/2/2007
+alopez: 7/3/2007
+terry: 6/29/2007
+carol: 6/26/2007
+alopez: 12/31/2003
+terry: 12/30/2003
+carol: 12/15/1998
+carol: 12/14/1998
+carol: 8/3/1998
+terry: 8/3/1998
+carol: 8/2/1998
+
+193065	TITLE *193065 VINCULIN; VCL
+METAVINCULIN, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+Vinculin is a cytoskeletal protein associated with the cytoplasmic face
+of both cell-cell and cell-extracellular matrix adherens-type junctions,
+where it is thought to function as one of several interacting proteins
+involved in anchoring F-actin to the membrane (Weller et al., 1990).
+
+CLONING
+
+Weller et al. (1990) determined the complete sequence of the human
+vinculin gene. They found that both human and chicken embryo sequences
+of vinculin contain 1,066 amino acids and, furthermore, that the 2
+proteins exhibit a high level of sequence identity (greater than 95%).
+Southern blots of human genomic DNA hybridized with short vinculin cDNA
+fragments indicated that there is a single vinculin gene.
+
+Koteliansky et al. (1992) determined that metavinculin is the result of
+alternative splicing of the VCL gene and contains an additional exon.
+Across species, the deduced protein differs from vinculin in having an
+additional insert of 68 to 79 amino acids in the C-terminal half of the
+molecule. By comparison of metavinculin sequences from pig, man,
+chicken, and frog, Strasser et al. (1993) found a division of the insert
+into 2 parts: the first variable and the second highly conserved. The
+longest insert, 79 amino acids, was found in Xenopus laevis. Three
+different C-terminal constructs of vinculin and metavinculin
+overexpressed in E. coli could be purified by column chromatography.
+Using amino acid sequencing methods on the intact molecules and their
+proteolytic subfragments, together with a polyclonal antibody specific
+only for metavinculin from porcine stomach, Gimona et al. (1988)
+identified and sequenced the insert in the porcine metavinculin
+molecule. By alignment with the complete sequence of chick fibroblast
+vinculin, they determined the exact location of the insert. In porcine
+metavinculin, this insert lies between the 90-kD protease-resistant
+N-terminal core and the C terminus of the molecule. It contains 68 amino
+acids and is flanked by KWSSK sequences, one of which is present in
+vinculin. The identity of the mapped vinculin and metavinculin sequences
+outside this different peptide is consistent with 2 proteins arising via
+alternative splicing at the mRNA level.
+
+GENE STRUCTURE
+
+Moiseyeva et al. (1993) determined that the VCL gene contains 22 exons
+spanning greater than 75 kb. Alternative splicing of exon 19 results in
+the cardiac- and smooth muscle-specific metavinculin isoform, containing
+an additional 68 amino acids.
+
+MAPPING
+
+By use of a panel of human-rodent somatic cell hybrids, Weller et al.
+(1990) mapped the VCL gene to chromosome 10q11.2-qter. By linkage
+studies in a 3-generation family, Mulligan et al. (1992) mapped the VCL
+gene to chromosome 10q22.1-q23, distal to D10S22. They confirmed the
+assignment by hybridization of the vinculin cDNA to flow-sorted
+translocation derivative chromosomes containing that portion of
+chromosome 10.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Bakolitsa et al. (2004) described the crystal structure of the
+full-length vinculin molecule (1,066 amino acids), which shows a
+5-domain autoinhibited conformation in which the carboxy-terminal tail
+domain is held pincer-like by the vinculin head, and ligand binding is
+regulated both sterically and allosterically. Bakolitsa et al. (2004)
+showed that the conformational changes in the head, tail, and
+proline-rich domains are linked structurally and thermodynamically, and
+proposed a combinatorial pathway to activation that ensures that
+vinculin is activated only at sites of cell adhesion when 2 or more of
+its binding partners are brought into apposition.
+
+Using magnetic tweezers, total internal reflection fluorescence, and
+atomic force microscopy, del Rio et al. (2009) investigated the effect
+of force on the interaction between talin (186745), a protein that links
+liganded membrane integrins to the cytoskeleton, and vinculin, a focal
+adhesion protein that is activated by talin binding, leading to
+reorganization of the cytoskeleton. Application of physiologically
+relevant forces caused stretching of single talin rods that exposed
+cryptic binding sites for vinculin. Thus in the talin-vinculin system,
+molecular mechanotransduction can occur by protein binding after
+exposure of buried binding sites in the talin-vinculin system.
+
+GENE FUNCTION
+
+Turner and Burridge (1989) reported experiments indicating that vinculin
+is the major talin-binding protein in platelets. However, in addition, a
+less abundant protein of approximately 150 kD also interacted strongly
+with the talin fragment. Turner and Burridge (1989) confirmed that this
+protein is metavinculin, a protein previously believed to be confined to
+cardiac and smooth muscle tissue.
+
+Hu et al. (2007) developed correlational fluorescent speckle microscopy
+to measure the coupling of focal adhesion proteins to actin filaments
+(see 102610). Different classes of focal adhesion structural and
+regulatory molecules exhibited varying degrees of correlated motions
+with actin filaments, indicating hierarchical transmission of actin
+motion through focal adhesions. Interactions between vinculin, talin,
+and actin filaments appear to constitute a slippage interface between
+the cytoskeleton and integrins, generating a molecular clutch that is
+regulated during the morphodynamic transitions of cell migration.
+
+Using immunohistochemistry, Vasile et al. (2006) examined the pattern of
+vinculin/metavinculin expression in the intercalated- and Z discs of
+cardiomyocytes from patients with various cardiovascular conditions
+associated with hypertrophy. Tissue specimens derived from patients with
+obstructive hypertrophic cardiomyopathy (CMH; see CMH15, 613255) and
+aortic stenosis (see 109730) showed a universal defect of
+vinculin/metavinculin expression in the intercalated disc but preserved
+expression in the cardiac Z disc, whereas tissue specimens from patients
+with dilated cardiomyopathy (CMD; see CMD1W, 611407), hypertensive heart
+disease (see 145500), or pulmonary hypertension (see 178600) exhibited
+normal expression of vinculin/metavinculin in both the Z and the
+intercalated disc, despite being associated with hypertrophy. Vasile et
+al. (2006) suggested that differential expression of
+vinculin/metavinculin in cardiac hypertrophy might depend on the
+underlying pathophysiology, with localization unaffected by hemodynamic
+overload but expression in the intercalated disc substantially reduced
+by obstructive disease.
+
+Kanchanawong et al. (2010) used 3-dimensional super-resolution
+fluorescence microscopy to map nanoscale protein organization in focal
+adhesions. Their results revealed that integrins and actin are
+vertically separated by an approximately 40-nm focal adhesion core
+region consisting of multiple protein-specific strata: a
+membrane-apposed integrin signaling layer containing integrin
+cytoplasmic tails (see 193210), focal adhesion kinase (600758), and
+paxillin (602505); an intermediate force-transduction layer containing
+talin and vinculin; and an uppermost actin-regulatory layer containing
+zyxin (602002), vasodilator-stimulated phosphoprotein (601703), and
+alpha-actinin (102575). By localizing amino- and carboxy-terminally
+tagged talins, Kanchanawong et al. (2010) revealed talin's polarized
+orientation, indicative of a role in organizing the focal adhesion
+strata. Kanchanawong et al. (2010) concluded that their composite
+multilaminar protein architecture provided a molecular blueprint for
+understanding focal adhesion functions.
+
+MOLECULAR GENETICS
+
+Olson et al. (2002) used SSCP to analyze the vinculin gene in 350
+unrelated patients with sporadic or familial dilated cardiomyopathy
+(611407) who were negative for mutations in the ACTC (102540) and TPM1
+(191010) genes, and identified heterozygosity for a 3-bp in-frame
+deletion (L954del; 193065.0001) and a missense mutation (R975W;
+193065.0002) in 2 patients, respectively. Neither mutation was found in
+500 controls. A potential risk-conferring polymorphism, A934V, was
+identified in heterozygosity in a 30-year-old man with dilated
+cardiomyopathy who died 2 years after diagnosis of progressive heart
+failure; this variant was also found in 1 of 500 controls, a 67-year-old
+woman in whom electrocardiography showed abnormal T waves but
+echocardiogram was nondiagnostic for dilated cardiomyopathy. All
+variants were located in exon 19, the metavinculin-specific exon of the
+vinculin gene. Low-shear viscometry studies revealed variable reductions
+in viscosity associated with the mutations, with greater reductions
+caused by the L954del and R975W mutants. Fluorescence microscopy
+confirmed the viscosity findings, with actin organization by the A934V
+variant similar to wildtype, although the network appeared coarser; more
+prominent bundles were observed for L954del, and R975W showed the
+highest bundling activity. Electron microscopy of cardiac myocytes from
+a patient with the R975W mutation showed irregular and fragmented
+intercalated discs, with intact sarcomeric thin and thick filaments.
+
+Vasile et al. (2006) analyzed the metavinculin-specific exon 19 of the
+VCL gene in 389 unrelated patients with hypertrophic cardiomyopathy
+(CMH), who were negative for mutation in 8 known CMH-associated
+sarcomere/myofilament-encoding genes, and identified heterozygosity for
+the R975W mutation in a patient with CMH15 (613255).
+
+In a cohort of 228 CMH patients who were negative for mutation in 12
+known CMH-associated sarcomere/myofilament-encoding genes, Vasile et al.
+(2006) performed comprehensive analysis of the 22 exons of the VCL gene
+and identified a heterozygous mutation in 1 patient (L277M;
+193065.0003). The authors noted that despite its ubiquitous expression,
+the HCM-associated VCL mutation clinically yielded a cardiac-specific
+phenotype.
+
+ANIMAL MODEL
+
+Xu et al. (1998) used a targeting vector to inactivate vinculin in
+embryonic stem cells, which were then injected into mice. They found
+that Vcl -/- embryos failed to develop beyond the tenth day of gestation
+and at best were two-thirds of the normal size range. The most prominent
+defect was lack of midline fusion of the rostral neural tube, producing
+a cranial bilobular appearance and attenuation of cranial and spinal
+nerve development. Heart development was curtailed at E9.5, with
+severely reduced and akinetic myocardial and endocardial structures.
+Somites and limbs were retarded, and ectodermal tissues were sparse and
+fragile. Fibroblasts isolated from mutant embryos showed reduced
+adhesion to fibronectin, vitronectin, laminin, and collagen compared to
+wildtype. In addition, migration rates over these substrata were 2-fold
+higher and the level of focal adhesion kinase (FAK; 600758) was 3-fold
+higher. Xu et al. (1998) concluded that vinculin is necessary for normal
+embryonic development, probably because of its role in the regulation of
+cell adhesion and locomotion, although specific roles in neural and
+cardiac development could not be ruled out.
+
+Richards et al. (2005) analyzed hearts from Vcl +/- and wildtype mice
+and found that although decreased vinculin expression enhanced
+inducibility of ventricular arrhythmias, connexin-43 (GJA1; 121014)
+content and distribution, and conduction velocities, were not
+significantly different between mutant and wildtype mice. Richards et
+al. (2005) suggested that other mechanisms, such as altered integrin
+(see 192968) signaling, might contribute to arrhythmogenesis.
+
+ALLELIC VARIANT .0001
+CARDIOMYOPATHY, DILATED, 1W
+VCL, 3-BP DEL, 2862GTT
+
+In a 39-year-old man with dilated cardiomyopathy (CMD1W; 611407), Olson
+et al. (2002) identified heterozygosity for a 3-bp deletion (2862delGTT)
+in exon 19 of the vinculin gene, resulting in the in-frame deletion of a
+leucine residue (leu954del). The patient's father died of heart failure
+at 59 years of age, and a 70-year-old paternal uncle had heart failure,
+but the patient's relatives declined clinical and genetic evaluation.
+The mutation was not found in 500 unrelated controls.
+
+.0002
+CARDIOMYOPATHY, DILATED, 1W
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 15
+VCL, ARG975TRP
+
+In a 57-year-old woman with dilated cardiomyopathy (CMD1W; 611407) who
+had undergone cardiac transplantation, Olson et al. (2002) identified
+heterozygosity for a 2923C-T transition in exon 19 of the vinculin gene,
+resulting in an arg975-to-trp (R975W) substitution in the metavinculin
+isoform. The mutation was also found in heterozygosity in 3 asymptomatic
+relatives, 2 of whom were found to have disease on screening
+echocardiogram: a 70-year-old maternal aunt had dilated cardiomyopathy,
+and a 38-year-old daughter had mild left ventricular dilation. The
+patient's 55-year-old sister carried the mutation but had normal left
+ventricular dimensions and shortening/ejection fractions. The mutation
+was not found in 500 unrelated controls.
+
+In a 43-year-old woman with severe apical variant hypertrophic
+cardiomyopathy (CMH15; 613255), Vasile et al. (2006) identified
+heterozygosity for the R975W substitution in the VCL gene, located in a
+highly conserved residue in the tail region of metavinculin and
+predicted to cause significant alterations in the secondary structure
+and helical organization of the protein. The mutation was not found in
+1,400 reference allele. Immunohistochemical analysis of the patient's
+myocardium demonstrated a marked reduction of both vinculin and
+metavinculin in the intercalated discs. Noting that the patient was
+homozygous for wildtype vinculin and heterozygous for R975W
+metavinculin, Vasile et al. (2006) suggested that the marked reduction
+of proteins in the intercalated discs might be due to a
+dominant-negative effect. However, after analyzing immunohistochemically
+stained tissue specimens from patients with various cardiovascular
+conditions associated with hypertrophy, Vasile et al. (2006) suggested
+that differential expression of vinculin/metavinculin in cardiac
+hypertrophy might depend on the underlying pathophysiology, with
+localization unaffected by hemodynamic overload but expression in the
+intercalated disc substantially reduced by obstructive disease (see GENE
+FUNCTION).
+
+.0003
+CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 15
+VCL, LEU277MET
+
+In a 76-year-old Caucasian woman with severely obstructive hypertrophic
+cardiomyopathy (CMH15; 613255), Vasile et al. (2006) identified a
+heterozygous 829C-A transversion in exon 8 of the VCL gene, resulting in
+a leu277-to-met (L277M) substitution at a conserved residue in a key
+functional domain. The mutation was not detected in 400 reference
+alleles. Immunostaining of myomectomy tissue from the patient showed
+normal Z line staining but markedly reduced vinculin/metavinculin
+staining in the intercalated discs.
+
+REFERENCE 1. Bakolitsa, C.; Cohen, D. M.; Bankston, L. A.; Bobkov, A. A.; Cadwell,
+G. W.; Jennings, L.; Critchley, D. R.; Craig, S. W.; Liddington, R.
+C.: Structural basis for vinculin activation at sites of cell adhesion. Nature 430:
+583-586, 2004.
+
+2. del Rio, A.; Perez-Jimenez, R.; Liu, R.; Roca-Cusachs, P.; Fernandez,
+J. M.; Sheetz, M. P.: Stretching single talin rod molecules activates
+vinculin binding. Science 323: 638-641, 2009.
+
+3. Gimona, M.; Small, J. V.; Moeremans, M.; Van Damme, J.; Puype,
+M.; Vandekerckhove, J.: Porcine vinculin and metavinculin differ
+by a 68-residue insert located close to the carboxy-terminal part
+of the molecule. EMBO J. 7: 2329-2334, 1988.
+
+4. Hu, K.; Ji, L.; Applegate, K. T.; Danuser, G.; Waterman-Storer,
+C. M.: Differential transmission of actin motion within focal adhesions. Science 315:
+111-115, 2007.
+
+5. Kanchanawong, P.; Shtengel, G.; Pasapera, A. M.; Ramko, E. B.;
+Davidson, M. W.; Hess, H. F.; Waterman, C. M.: Nanoscale architecture
+of integrin-based cell adhesions. Nature 468: 580-584, 2010.
+
+6. Koteliansky, V. E.; Ogryzko, E. P.; Zhidkova, N. I.; Weller, P.
+A.; Critchley, D. R.; Vancompernolle, K.; Vandekerckhove, J.; Strasser,
+P.; Way, M.; Gimona, M.; Small, J. V.: An additional exon in the
+human vinculin gene specifically encodes meta-vinculin-specific difference
+peptide: cross-species comparison reveals variable and conserved motifs
+in the meta-vinculin insert. Europ. J. Biochem. 204: 767-772, 1992.
+Note: Erratum: Europ. J. Biochem. 205: 1218 only, 1992.
+
+7. Moiseyeva, E. P.; Weller, P. A.; Zhidkova, N. I.; Corben, E. B.;
+Patel, B.; Jasinka, I.; Koteliansky, V. E.; Critchley, D. R.: Organization
+of the human gene encoding the cytoskeletal protein vinculin and the
+sequence of the vinculin promoter. J. Biol. Chem. 268: 4318-4325,
+1993.
+
+8. Mulligan, L. M.; Gardner, E.; Telenius, H.; Ponder, B. A. J.:
+Complementary physical and genetic techniques map the vinculin (VCL)
+gene on chromosome 10q. Genomics 13: 1347-1349, 1992.
+
+9. Olson, T. M.; Illenberger, S.; Kishimoto, N. Y.; Huttelmaier, S.;
+Keating, M. T.; Jockusch, B. M.: Metavinculin mutations alter actin
+interaction in dilated cardiomyopathy. Circulation 105: 431-437,
+2002.
+
+10. Richards, M.; Nikolski, V. P.; Green, K. G.; Zemljic-Harpf, A.
+E.; Efimov, I. E.; Ross, R. S.; Saffitz, J. E.: Ventricular arrhythmias
+in a mouse model of vinculin-related cardiomyopathy. Heart Rhythm 2:
+S178 only, 2005.
+
+11. Strasser, P.; Gimona, M.; Herzog, M.; Geiger, B.; Small, J. V.
+: Variable and constant regions in the C-terminus of vinculin and
+metavinculin: cloning and expression of fragments in E. coli. FEBS
+Lett. 317: 189-194, 1993.
+
+12. Turner, C. E.; Burridge, K.: Detection of metavinculin in human
+platelets using a modified talin overlay assay. Europ. J. Cell Biol. 49:
+202-206, 1989.
+
+13. Vasile, V. C.; Edwards, W. D.; Ommen, S. R.; Ackerman, M. J.:
+Obstructive hypertrophic cardiomyopathy is associated with reduced
+expression of vinculin in the intercalated disc. Biochem. Biophys.
+Res. Commun. 349: 709-715, 2006.
+
+14. Vasile, V. C.; Ommen, S. R.; Edwards, W. D.; Ackerman, M. J.:
+A missense mutation in a ubiquitously expressed protein, vinculin,
+confers susceptibility to hypertrophic cardiomyopathy. Biochem. Biophys.
+Res. Commun. 345: 998-1003, 2006.
+
+15. Vasile, V. C.; Will, M. L.; Ommen, S. R.; Edwards, W. D.; Olson,
+T. M.; Ackerman, M. J.: Identification of a metavinculin missense
+mutation, R975W, associated with both hypertrophic and dilated cardiomyopathy. Molec.
+Genet. Metab. 87: 169-174, 2006.
+
+16. Weller, P. A.; Ogryzko, E. P.; Corben, E. B.; Zhidkova, N. I.;
+Patel, B.; Price, G. J.; Spurr, N. K.; Koteliansky, V. E.; Critchley,
+D. R.: Complete sequence of human vinculin and assignment of the
+gene to chromosome 10. Proc. Nat. Acad. Sci. 87: 5667-5671, 1990.
+
+17. Xu, W.; Baribault, H.; Adamson, E. D.: Vinculin knockout results
+in heart and brain defects during embryonic development. Development 125:
+327-337, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/2/2011
+Marla J. F. O'Neill - updated: 2/17/2010
+Ada Hamosh - updated: 3/10/2009
+Marla J. F. O'Neill - updated: 8/31/2007
+Ada Hamosh - updated: 2/20/2007
+Ada Hamosh - updated: 9/13/2004
+Victor A. McKusick - updated: 4/9/2001
+Victor A. McKusick - updated: 12/13/1999
+
+CREATED Victor A. McKusick: 8/23/1990
+
+EDITED carol: 04/17/2013
+terry: 11/13/2012
+carol: 2/15/2012
+alopez: 2/3/2012
+alopez: 2/7/2011
+terry: 2/2/2011
+wwang: 2/17/2010
+alopez: 3/12/2009
+terry: 3/10/2009
+carol: 9/4/2007
+terry: 8/31/2007
+alopez: 2/21/2007
+terry: 2/20/2007
+alopez: 9/16/2004
+terry: 9/13/2004
+mcapotos: 4/11/2001
+terry: 4/9/2001
+mcapotos: 12/17/1999
+mcapotos: 12/14/1999
+terry: 12/13/1999
+carol: 5/13/1993
+carol: 8/17/1992
+supermim: 3/16/1992
+carol: 8/23/1990
+
+608668	TITLE *608668 ZINC FINGER MYND DOMAIN-CONTAINING PROTEIN 11; ZMYND11
+;;BS69
+BONE MORPHOGENETIC PROTEIN RECEPTOR-ASSOCIATED MOLECULE 1, INCLUDED;
+BRAM1, INCLUDED
+DESCRIPTION 
+CLONING
+
+Using adenovirus E1A as bait in a yeast 2-hybrid screen of a 16-day
+whole mouse embryo cDNA library, followed by screening a human colon
+carcinoma cDNA library, Hateboer et al. (1995) cloned ZMYND11, which
+they called BS69. The deduced 562-amino acid protein had an apparent
+molecular mass of about 69 kD following in vitro transcription and
+translation. BS69 contains 2 N-terminal zinc finger motifs, followed by
+a nuclear localization signal and a C-terminal E1A-binding domain.
+Northern blot analysis detected a 4.7-kb transcript in all mouse tissues
+examined, with highest expression in kidney.
+
+Using the transmembrane and cytoplasmic domains of mouse Bmpr1a (601299)
+as bait in a yeast 2-hybrid screen of a human placenta cDNA library,
+followed by screening a kidney cDNA library and 5-prime RACE, Kurozumi
+et al. (1998) cloned a splice variant of BS69 that they designated
+BRAM1. The deduced BRAM1 protein contains the C-terminal 186 amino acids
+of BS69 preceded by 12 amino acids unique to BRAM1. Northern blot
+analysis detected variable expression of 4.4-kb and 1.3-kb transcripts
+in all tissues examined. Following transfection in mouse fibroblasts,
+BRAM1 localized to the cytoplasm, whereas BS69 localized to the nucleus.
+
+Masselink and Bernards (2000) noted that BS69 contains 3 motifs involved
+in transcription regulation: a PHD finger and bromodomain in its
+N-terminal half, and a MYND domain at its extreme C terminus. The MYND
+domain, which is also present in the BRAM1 variant, is a 2-zinc finger
+motif first identified in Drosophila Deaf1 (602635) and human MTG8
+(133435).
+
+GENE FUNCTION
+
+By coimmunoprecipitation, Hateboer et al. (1995) confirmed direct
+interaction between BS69 and the 289-amino acid isoform of E1A (289R)
+following cotransfection in a human cell line; BS69 did not interact
+with the shorter 243R E1A isoform. Endogenous BS69 complexed with E1A in
+adenovirus-transformed human embryonic kidney cells. C-terminal deletion
+mutants of BS69 failed to interact with E1A. BS69 inhibited
+transactivation mediated by the 289R E1A protein, but not the 243R E1A
+protein. BS69 also suppressed E1A-stimulated transcription of retinoic
+acid receptor (see 180240) in COS cells.
+
+Kurozumi et al. (1998) determined that BRAM1 interacts specifically with
+the kinase domain of BMPR1A. BS69 did not interact with BMPR1A,
+suggesting that the N terminus of BS69 interferes with this interaction.
+Further investigation indicated that BRAM1 also interacts with TAB1
+(602615). Kurozumi et al. (1998) hypothesized that a ternary complex of
+MBPR1A, TAB1, and BRAM1 may be involved in BMP-TAB1-TAK1 (601426)
+signaling.
+
+Masselink and Bernards (2000) determined that full transcriptional
+repression by BS69 requires the MYND domain. BS69 and BRAM1 interacted
+with NCOR (600849) through the MYND domain, but BRAM1 was unable to
+repress transcription, indicating that NCOR interaction is necessary but
+not sufficient for BS69 repression. Expression of E1A inhibited
+repression mediated by BS69.
+
+Ansieau and Leutz (2002) showed that the MYND domain of BS69 interacts
+with a conserved PxLxP motif in E1A, the Epstein-Barr virus oncoprotein
+EBNA2, and a MYC (190080)-related cellular protein, MGA. The viral
+proteins competed with MGA for BS69 binding in a PxLxP-dependent
+fashion.
+
+MAPPING
+
+By FISH, Masselink and Bernards (2000) mapped the ZMYND11 gene to
+chromosome 10p14.
+
+REFERENCE 1. Ansieau, S.; Leutz, A.: The conserved Mynd domain of BS69 binds
+cellular and oncoviral proteins through a common PXLXP motif. J.
+Biol. Chem. 277: 4906-4910, 2002.
+
+2. Hateboer, G.; Gennissen, A.; Ramos, Y. F. M.; Kerkhoven, R. M.;
+Sonntag-Buck, V.; Stunnenberg, H. G.; Bernards, R.: BS69, a novel
+adenovirus E1A-associated protein that inhibits E1A transactivation. EMBO
+J. 14: 3159-3169, 1995.
+
+3. Kurozumi, K.; Nishita, M.; Yamaguchi, K.; Fujita, T.; Ueno, N.;
+Shibuya, H.: BRAM1, a BMP receptor-associated molecule involved in
+BMP signalling. Genes Cells 3: 257-264, 1998.
+
+4. Masselink, H.; Bernards, R.: The adenovirus E1A binding protein
+BS69 is a corepressor of transcription through recruitment of N-CoR. Oncogene 19:
+1538-1546, 2000.
+
+CREATED Patricia A. Hartz: 5/19/2004
+
+EDITED carol: 05/19/2004
+mgross: 5/19/2004
+
+164020	TITLE *164020 HETEROGENEOUS NUCLEAR RIBONUCLEOPROTEIN C; HNRNPC
+;;HNRPC
+NUCLEAR RIBONUCLEOPROTEIN PARTICLE C1 PROTEIN, INCLUDED;;
+NUCLEAR RIBONUCLEOPROTEIN PARTICLE C2 PROTEIN, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+The primary nuclear transcripts of RNA polymerase II, some of which are
+precursors to cytoplasmic mRNA (pre-mRNA), are collectively referred to
+as heterogeneous nuclear RNAs (hnRNAs). At least 20 of these proteins,
+designated A1 (34 kD) through U (120 kD), are present in abundance. In
+the nucleus they are found in association with a specific set of
+proteins to form ribonucleoprotein (hnRNP) particles. In vertebrates,
+the C proteins, C1 and C2, are major constituents of these particles.
+The 2 are antigenically closely related phosphoproteins, which bind
+tightly to RNA in vitro (Nakagawa et al., 1986).
+
+CLONING
+
+Nakagawa et al. (1986) cloned cDNA for the hnRNA C proteins. Genomic
+blot analysis showed homologous DNA sequences across eukaryotes from
+human to yeast, indicating that the hnRNA C proteins are members of a
+conserved gene family. Burd et al. (1989) reported the complete primary
+structure of the hnRNP proteins A2, B1, and C2; A1, C1, and L had
+previously been sequenced. They suggested that the C1 and C2 proteins
+are produced by alternative splicing of a single gene transcript.
+Merrill et al. (1989) found that C1 and C2 differ by the presence of a
+13-amino acid insert in C2, after either glycine-106 or serine-107 of
+C1. The additional 13 amino acids account for the molecular mass
+difference of C2 on SDS polyacrylamide gel electrophoresis. Otherwise C1
+and C2 are identical; furthermore, the 3-prime and 5-prime untranslated
+portions of the 2 mRNAs are identical (Swanson et al., 1987).
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the HNRNPC
+gene to chromosome 14 (TMAP RH70234).
+
+GENE FUNCTION
+
+Locus control regions (LCRs) are regulatory DNA sequences located many
+kilobases away from their cognate promoters. Mahajan et al. (2005) found
+that an LCR-associated remodeling complex (LARC) purified from a human
+erythroleukemia cell line exists as a single homogeneous complex of
+hnRNP C1 and C2, the chromatin remodeling SWI/SNF complex (see 600014),
+and the nucleosome remodeling and deacetylating (NURD; see 603526)/MECP1
+(156535) complex.
+
+Chen et al. (2006) purified the nuclear response element-binding protein
+(REBiP) identified by Chen et al. (2003) in a patient with vitamin
+D-dependent rickets type 2B (VDDR2B; 600785) and found a tryptic
+fragment bearing 100% sequence identity with the human hnRNP C1 and C2
+proteins (164020). Tryptic peptide sequencing followed by Western blot
+analysis confirmed that cells from the VDDR2B patient overexpressed a
+pair of anti-hnRNP C1/C2-reactive proteins of 39-40 kD, compatible with
+the hnRNPC1 and the slightly larger hnRNPC2. When overexpressed in
+vitamin D-responsive cells, cDNAs for both C1 and C2 inhibited VDR
+(vitamin D receptor; 601769)-VDRE (vitamin D response element)-directed
+transactivation by 23% and 42%, respectively (p less than 0.005 for
+both). In contrast, transient expression of an hnRNP C1/C2 small
+interfering RNA (siRNA) increased VDR transactivation by 39% (p less
+than 0.005). Chromatin immunoprecipitation studies revealed the presence
+of REBiP in vitamin D-responsive human cells and indicated that the
+normal pattern of 1,25-dihydroxy vitamin D-initiated cyclical movement
+of the VDR on and off the VDRE is legislated by competitive, reciprocal
+occupancy of the VDRE by hnRNP C1/C2. The temporal and reciprocal
+pattern of VDR and hnRNP C1/C2 interaction with the VDRE was lost in
+VDDR2B cells overexpressing the hnRNP C1/C2 REBiP. Chen et al. (2006)
+stated that their work provided further evidence that hnRNPs are able to
+influence gene transcription itself by acting as binding proteins for
+hormone response elements and suggested that hnRNP C1/C2 may be a key
+determinant of the temporal patterns of VDRE occupancy.
+
+REFERENCE 1. Burd, C. G.; Swanson, M. S.; Gorlach, M.; Dreyfuss, G.: Primary
+structures of the heterogeneous nuclear ribonucleoprotein A2, B1,
+and C2 proteins: a diversity of RNA binding proteins is generated
+by small peptide inserts. Proc. Nat. Acad. Sci. 86: 9788-9792, 1989.
+
+2. Chen, H.; Hewison, M.; Adams, J. S.: Functional characterization
+of heterogeneous nuclear ribonuclear protein C1/C2 in vitamin D resistance:
+a novel response element-binding protein. J. Biol. Chem. 281: 39114-39120,
+2006.
+
+3. Chen, H.; Hewison, M.; Hu, B.; Adams, J. S.: Heterogeneous nuclear
+ribonucleoprotein (hnRNP) binding to hormone response elements: a
+cause of vitamin D resistance. Proc. Nat. Acad. Sci. 100: 6109-6114,
+2003.
+
+4. Mahajan, M. C.; Narlikar, G. J.; Boyapaty, G.; Kingston, R. E.;
+Weissman, S. M.: Heterogeneous nuclear ribonucleoprotein C1/C2, MeCP1,
+and SWI/SNF form a chromatin remodeling complex at the beta-globin
+locus control region. Proc. Nat. Acad. Sci. 102: 15012-15017, 2005.
+
+5. Merrill, B. M.; Barnett, S. F.; LeStourgeon, W. M.; Williams, K.
+R.: Primary structure differences between proteins C1 and C2 of HeLa
+40S nuclear ribonucleoprotein particles. Nucleic Acids Res. 17:
+8441-8449, 1989.
+
+6. Nakagawa, T. Y.; Swanson, M. S.; Wold, B. J.; Dreyfuss, G.: Molecular
+cloning of cDNA for the nuclear ribonucleoprotein particle C proteins:
+a conserved gene family. Proc. Nat. Acad. Sci. 83: 2007-2011, 1986.
+
+7. Swanson, M. S.; Nakagawa, T. Y.; LeVan, K.; Dreyfuss, G.: Primary
+structure of human nuclear ribonucleoprotein particle C proteins:
+conservation of sequence and domain structures in heterogeneous nuclear
+RNA, mRNA, and pre-rRNA-binding proteins. Molec. Cell. Biol. 7:
+1731-1739, 1987.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 03/23/2010
+Patricia A. Hartz - updated: 1/27/2006
+Alan F. Scott - edited: 12/9/1996
+
+CREATED Victor A. McKusick: 6/25/1986
+
+EDITED carol: 03/23/2010
+wwang: 8/27/2008
+wwang: 1/24/2007
+mgross: 2/1/2006
+terry: 1/27/2006
+dkim: 9/11/1998
+mark: 9/8/1997
+mark: 12/9/1996
+carol: 2/24/1993
+carol: 11/9/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 1/16/1990
+supermim: 1/12/1990
+
+600041	TITLE *600041 PURINERGIC RECEPTOR P2Y, G PROTEIN-COUPLED, 2; P2RY2
+;;PURINOCEPTOR P2Y2; P2Y2; P2Y2R;;
+P2U NUCLEOTIDE RECEPTOR; P2UR
+DESCRIPTION 
+CLONING
+
+Parr et al. (1994) reported the sequence and functional expression of a
+cDNA cloned from human airway epithelial cells that encodes P2RY2, a
+protein with properties of a P2U nucleotide receptor. They also isolated
+an identical cDNA from human colonic epithelial cells, indicating that
+this is the same P2U receptor that had been functionally identified in
+other human tissues.
+
+GENE FUNCTION
+
+The chloride ion secretory pathway that is defective in cystic fibrosis
+(219700) can be bypassed by an alternative pathway for chloride ion
+transport that is activated by extracellular nucleotides. Accordingly,
+the P2 receptor that mediates this effect is a therapeutic target for
+improving chloride secretion in CF patients. Using a retrovirus system,
+Parr et al. (1994) stably expressed a human airway P2RY2 clone in 1321N1
+astrocytoma cells, a human cell line unresponsive to extracellular
+nucleotides. Studies of inositol phosphate accumulation and
+intracellular Ca(2+) mobilization induced by extracellular nucleotides
+in 1321N1 cells expressing the receptor identified this clone as the
+target receptor in human airway epithelia. Expression of P2RY2 in 1321N1
+cells revealed evidence for autocrine ATP release and stimulation of
+transduced receptors. Thus, P2RY2 expression in the cell line was
+proposed as a useful system for studying autocrine regulatory mechanisms
+and for screening potential therapeutic drugs.
+
+Katzur et al. (1999) reported that in single endometrial carcinoma
+HEC-1A and Ishikawa cells, ATP induced a rapid and extracellular
+Ca(2+)-independent rise in cytosolic Ca(2+) concentration in a
+dose-dependent manner, with an ED50 of about 10 microg. This
+ligand-selective profile indicated the expression of the P2RY2 subtype
+in endometrial cells. Accordingly, RT-PCR using P2RY2 primers amplified
+the expected transcript from both cell lines. The coupling of these
+receptors to phospholipase C was confirmed. The authors concluded that
+P2RY2 may participate in control of the cell cycle of endometrial
+carcinoma cells.
+
+Tai et al. (2000) studied the expression and regulation of the P2UR gene
+in human granulosa-luteal cells (GLCs) by RT-PCR and Northern blot
+analysis. Expression of P2UR mRNA was downregulated by human chorionic
+gonadotropin (CG) in a dose- and time-dependent manner. Treatment with
+8-bromo-cAMP and forskolin also attenuated P2UR mRNA levels. The authors
+concluded that the P2UR mRNA is expressed in human GLCs and that P2UR
+mRNA is regulated by human CG, cAMP, and forskolin. These findings
+further supported a potential role of this neurotransmitter receptor in
+the human ovary.
+
+Adrian et al. (2000) analyzed the expression of several purinergic
+receptors during differentiation in a promyelocytic leukemia cell line.
+Granulocytic differentiation was induced by dimethylsulfoxide, and a
+monocytic/macrophage phenotype was induced by phorbol esters. Basal
+expression of P2Y2 was relatively high in undifferentiated cells, and
+expression declined during granulocytic differentiation. P2Y2 expression
+also decreased during monocytic differentiation and was nearly
+undetectable after 48 hours.
+
+Arthur et al. (2005) found that activation of P2ry2 by ATP-gamma-S, a
+nonhydrolyzable ATP analog, in the presence of NGF (162030) led to
+colocalization and association of Trka (NTRK1; 191315) and P2ry2 and was
+required for enhanced neuronal differentiation in a rat neuronal
+precursor cell line. Depletion of P2ry2 by genetic means or by small
+interfering RNA abolished the ATP-gamma-S-mediated increase in neuronal
+differentiation. Moreover, in vivo injection of ATP-gamma-S into the
+sciatic nerve of wildtype mice, but not P2ry2-null mice, increased
+expression of Gap43 (162060), a marker for axonal growth. Arthur et al.
+(2005) concluded that P2RY2 is a morphogen receptor that potentiates
+neurotrophin signaling in neuronal development and regeneration.
+
+Chen et al. (2006) found that human neutrophils release ATP from the
+leading edge of the cell surface to amplify chemotactic signals and
+direct cell orientation by feedback through the P2Y2 nucleotide
+receptors. Neutrophils rapidly hydrolyze released ATP to adenosine that
+then acts via A3-type adenosine receptors, which are recruited to the
+leading edge to promote cell migration. Thus, Chen et al. (2006) found
+that ATP release and autocrine feedback through P2Y2 and A3 receptors
+provide signal amplification, controlling gradient sensing and migration
+of neutrophils.
+
+Through several lines of evidence, Elliott et al. (2009) identified
+extracellular nucleotides as a critical apoptotic cell 'find-me' signal.
+Elliott et al. (2009) demonstrated the caspase (see 147678)-dependent
+release of ATP and UTP in equimolar quantities during the early stages
+of apoptosis by primary thymocytes and cell lines. Purified nucleotides
+at these concentrations were sufficient to induce monocyte recruitment
+comparable to that of apoptotic cell supernatants. Enzymatic removal of
+ATP and UTP (by apyrase or the expression of ectopic CD39, 601752)
+abrogated the ability of apoptotic cell supernatants to recruit
+monocytes in vitro and in vivo. Elliott et al. (2009) then identified
+the ATP/UTP receptor P2Y2 as a critical sensor of nucleotides released
+by apoptotic cells using RNA interference-mediated depletion studies in
+monocytes, and macrophages from P2Y2-null mice. The relevance of
+nucleotides in apoptotic cell clearance in vivo was revealed by 2
+approaches. First, in a murine air-pouch model, apoptotic cell
+supernatants induced a 3-fold greater recruitment of monocytes and
+macrophages than supernatants from healthy cells did; this recruitment
+was abolished by depletion of nucleotides and was significantly
+decreased in P2Y2-null mice. Second, clearance of apoptotic thymocytes
+was significantly impaired by either depletion of nucleotides or
+interference with P2Y receptor function (by pharmacologic inhibition or
+in P2Y2-null mice). Elliott et al. (2009) concluded that their results
+identified nucleotides as a critical find-me cue released by apoptotic
+cells to promote P2Y2-dependent recruitment of phagocytes, and provided
+evidence for a clear relationship between a find-me signal and efficient
+corpse clearance in vivo.
+
+MAPPING
+
+Using PCR analysis of human-rodent hybrid cell line DNAs, Dasari et al.
+(1996) mapped the human P2RY2 gene to chromosome 11q13.5-q14.1. The
+authors noted that several G protein-coupled receptor genes, namely the
+beta adrenergic receptor, the angiotensin receptor-like-1, and the
+muscarinic cholinergic receptor-1, have been localized to the same
+region of chromosome 11. By sequence tagged site (STS) mapping using the
+National Center for Biotechnology Information (NCBI) database, Somers et
+al. (1997) demonstrated that the P2RY2 gene maps within less than 4 cM
+of the P2RY6 gene (602451), which they had mapped to 11q13.5 by
+fluorescence in situ hybridization and STS mapping. This was the first
+chromosomal clustering of this gene family to be described.
+
+REFERENCE 1. Adrian, K.; Bernhard, M. K.; Breitinger, H.-G.; Ogilvie, A.: Expression
+of purinergic receptors (ionotropic P2X1-7 and metabotropic P2Y1-11)
+during myeloid differentiation of HL60 cells. Biochim. Biophys. Res.
+Acta 1492: 127-138, 2000.
+
+2. Arthur, D. B.; Akassoglou, K.; Insel, P. A.: P2Y2 receptor activates
+nerve growth factor/TrkA signaling to enhance neuronal differentiation. Proc.
+Nat. Acad. Sci. 19138-19143, 2005.
+
+3. Chen, Y.; Corriden, R.; Inoue, Y.; Yip, L.; Hashiguchi, N.; Zinkernagel,
+A.; Nizet, V.; Insel, P. A.; Junger, W. G.: ATP release guides neutrophil
+chemotaxis via P2Y2 and A3 receptors. Science 314: 1792-1795, 2006.
+
+4. Dasari, V. R.; Sandhu, A. K.; Mills, D. C. B.; Athwal, R. S.; Kunapuli,
+S. P.: Mapping of the P2U purinergic receptor gene to human chromosome
+11q13.5-14.1. Somat. Cell Molec. Genet. 22: 75-79, 1996.
+
+5. Elliott, M. R.; Chekeni, F. B.; Trampont, P. C.; Lazarowski, E.
+R.; Kadl, A.; Walk, S. F.; Park, D.; Woodson, R. I.; Ostankovich,
+M.; Sharma, P.; Lysiak, J. J.; Harden, T. K.; Leitinger, N.; Ravichandran,
+K. S.: Nucleotides released by apoptotic cells act as a find-me signal
+to promote phagocytic clearance. Nature 461: 282-286, 2009.
+
+6. Katzur, A. C.; Koshimizu, T.-A.; Tomic, M.; Schultze-Mosgau, A.;
+Ortmann, O.; Stojilkovic, S. S.: Expression and responsiveness of
+P2Y2 receptors in human endometrial cancer cell lines. J. Clin. Endocr.
+Metab. 84: 4085-4091, 1999.
+
+7. Parr, C. E.; Sullivan, D. M.; Paradiso, A. M.; Lazarowski, E. R.;
+Burch, L. H.; Olsen, J. C.; Erb, L.; Weisman, G. A.; Boucher, R. C.;
+Turner, J. T.: Cloning and expression of a human P(2U) nucleotide
+receptor, a target for cystic fibrosis pharmacotherapy. Proc. Nat.
+Acad. Sci. 91: 3275-3279, 1994. Note: Erratum: Proc. Nat. Acad. Sci.
+91: 13067 only, 1994.
+
+8. Somers, G. R.; Hammet, F.; Woollatt, E.; Richards, R. I.; Southey,
+M. C.; Venter, D. J.: Chromosomal localization of the human P2Y(6)
+purinoceptor gene and phylogenetic analysis of the P2y purinoceptor
+family. Genomics 44: 127-130, 1997.
+
+9. Tai, C.-J.; Kang, S. K.; Cheng, K. W.; Choi, K.-C.; Nathwani, P.
+S.; Leung, P. C. K.: Expression and regulation of P2U-purinergic
+receptor in human granulosa-luteal cells. J. Clin. Endocr. Metab. 85:
+1591-1597, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/13/2009
+Ada Hamosh - updated: 1/23/2007
+Patricia A. Hartz - updated: 1/30/2006
+Patricia A. Hartz - updated: 3/7/2005
+John A. Phillips, III - updated: 11/13/2000
+John A. Phillips, III - updated: 10/2/2000
+Jennifer P. Macke - updated: 10/30/1996
+
+CREATED Victor A. McKusick: 7/18/1994
+
+EDITED terry: 08/03/2012
+alopez: 10/22/2009
+terry: 10/13/2009
+alopez: 1/25/2007
+terry: 1/23/2007
+mgross: 1/30/2006
+mgross: 3/7/2005
+mgross: 12/7/2000
+terry: 11/13/2000
+mgross: 10/3/2000
+terry: 10/2/2000
+mgross: 4/8/1999
+alopez: 3/18/1998
+terry: 9/30/1997
+jamie: 11/15/1996
+jamie: 11/6/1996
+jamie: 10/30/1996
+mark: 3/31/1996
+mark: 12/4/1995
+mimadm: 7/30/1994
+jason: 7/18/1994
+
+613125	TITLE *613125 NUCLEAR RECEPTOR-INTERACTING PROTEIN 3; NRIP3
+DESCRIPTION 
+GENE FUNCTION
+
+Using microarray and RT-PCR analyses, Zhong et al. (2007) found that the
+NRIP3 gene was downregulated in all 9 nonsmall cell lung cancer (NSCLC)
+cell lines examined compared with normal controls. Semiquantitative
+RT-PCR showed downregulation of NRIP3 in 4 of 8 lung tumor samples
+compared with adjacent normal tissue. The promoter region of NRIP3 was
+highly methylated in 1 NSCLC cell line and partially methylated in 4
+others, and treatment of several NSCLC cell lines with a combination of
+DNA methylation and histone deacetylase inhibitors restored NRIP3
+expression.
+
+GENE STRUCTURE
+
+Zhong et al. (2007) determined that the promoter region of the NRIP3
+gene contains a CpG island.
+
+MAPPING
+
+By genomic sequence analysis, Zhong et al. (2007) mapped the NRIP3 gene
+to chromosome 11p15.3.
+
+REFERENCE 1. Zhong, S.; Fields, C. R.; Su, N.; Pan, Y.-X.; Robertson, K. D.
+: Pharmacologic inhibition of epigenetic modifications, coupled with
+gene expression profiling, reveals novel targets of aberrant DNA methylation
+and histone deacetylation in lung cancer. Oncogene 26: 2621-2634,
+2007.
+
+CREATED Patricia A. Hartz: 11/19/2009
+
+EDITED mgross: 11/19/2009
+
+130500	TITLE *130500 ERYTHROCYTE MEMBRANE PROTEIN BAND 4.1; EPB41
+;;PROTEIN 4.1, RED BLOOD CELL TYPE; 4.1R;;
+EL1 GENE
+DESCRIPTION 
+CLONING
+
+Conboy et al. (1986) reported the molecular cloning and characterization
+of human erythrocyte protein 4.1 cDNA and the complete amino acid
+sequence of the protein. Probes prepared from the cloned erythrocyte
+protein 4.1 cDNA hybridized with distinct mRNA species from a wide
+variety of nonerythroid tissues, including brain, liver, placenta,
+pancreas, and intestine, implying substantial homology between erythroid
+and nonerythroid protein 4.1. Brain protein 4.1, also known as synapsin
+I (313440), is the best characterized of the nonerythroid forms.
+
+Tang et al. (1988) compared nucleotide sequences of mRNA encoding
+erythroid and lymphoid protein 4.1 isoforms. The lymphoid protein 4.1
+isoforms exhibited several nucleotide sequence motifs that appeared
+either to be inserted into or deleted from the mRNA by alternative
+splicing of a common mRNA precursor. One of the motifs, located within
+the spectrin-actin binding domain, was found only in erythroid cells and
+was specifically produced during erythroid cell maturation. Conboy et
+al. (1988) demonstrated that alternative splicing accounts for multiple
+isoforms of protein 4.1 in red cells. In his Figure 2, Conboy (1993)
+provided a map of the alternative splicing of protein 4.1 mRNA,
+emphasizing the total chromosome relative to many combinatorial splicing
+possibilities among the exons of the EPB41 gene. There are, furthermore,
+2 AUG initiation codons, 1 of which accounts for an N-terminal extension
+on the 80-kD gene product.
+
+By tissue screening, Baklouti et al. (1997) examined the complex pattern
+of alternative splicing variants of the protein 4.1 gene. They noted
+that many splicing variations occur in the spectrin/actin binding (SAB)
+domain. In particular, they found a 51-bp exon that was expressed almost
+exclusively in muscle.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Baklouti et al. (1997) determined that 22
+exons spanning approximately 200 kb contain the entire erythroid and
+nonerythroid coding sequences of the human protein 4.1 gene.
+
+MAPPING
+
+The protein 4.1 gene was mapped to chromosome 1pter-p32 (Conboy et al.,
+1985, 1986) by hybridization to chromosomes sorted onto nitrocellulose
+filters using a fluorescence-activated cell sorter. Studies of
+translocations also localized the gene to chromosome 1pter-p32, the
+region of the Rh gene (Kan, 1986). Thus, it seemed certain that the
+protein 4.1 gene is mutant in Rh-linked elliptocytosis-1 (EL1; 611804).
+
+Tang and Tang (1991) concluded that the EL1 gene is located in band
+1p34.2-p33 on the basis of the FLpter value (the fractional length of
+the total chromosome relative to the terminus of the short arm).
+
+Parra et al. (1998) stated that the EPB41 gene is located on chromosome
+1p33-p32.
+
+Bahary et al. (1991) assigned the mouse Epb41 gene to chromosome 4.
+
+GENE FUNCTION
+
+The red cell membrane cytoskeletal network consists of spectrin (bands 1
+and 2; see 182860 and 182870), actin (band 5; see 102630), and protein
+4.1. Actin and protein 4.1 interact with spectrin at the junction of
+spectrin heterotetramers. The resulting complex plays a critical role in
+erythrocyte shape and deformability. (The protein band nomenclature
+given here is that of Fairbanks et al., 1971.) Correas et al. (1986)
+determined the complete primary structure of the functional site of
+protein 4.1 involved in spectrin-actin associations. Antibodies against
+2 different synthetic peptides of this portion of the protein inhibited
+association between protein 4.1, spectrin, and actin.
+
+Ponthier et al. (2006) stated that the 4.1R protein in early erythroid
+progenitors, derived from transcripts in which exon 16 is skipped,
+exhibits low affinity for spectrin and actin. In contrast, late-stage
+erythroblasts include exon 16 and express a high-affinity isoform. This
+stage-specific repression of exon 16 inclusion is mediated in part by
+the binding of HNRNPA/B (602688) proteins to exonic splicing silencer
+elements located within the exon. Ponthier et al. (2006) also found that
+FOX1 (A2BP1; 605104) and FOX2 (RBM9; 612149) stimulate exon 16 splicing
+into a 4.1R pre-mRNA minigene via specific binding to UGCAUG splicing
+enhancer motifs downstream of exon 16.
+
+MOLECULAR GENETICS
+
+Conboy et al. (1986) showed by Southern blot analysis of genomic DNA
+from an Algerian family that in affected members the mutant protein 4.1
+gene had a DNA rearrangement upstream from the initiation codon for
+translation. The mRNA from the mutant gene was aberrantly spliced.
+
+Lambert et al. (1988) reported an elliptocytosis family in which an
+apparent rearrangement of the coding region of the protein 4.1 gene led
+to restriction fragment length polymorphism when DNA was tested using a
+fragment of the cDNA that encompassed the coding region of the gene.
+
+McGuire et al. (1988) described a distinct variant of protein 4.1 in
+each of 3 families with elliptocytosis. Affected members of family C, of
+Italian ancestry, had red cells with reduced content of protein 4.1 of
+normal molecular mass (approximately 80 kD).
+
+EVOLUTION
+
+Tan et al. (2005) found that the EPB41 and EPB41L3 (605331) genes from
+fish, bird, amphibian, and mammalian genomes exhibit shared features,
+including alternative first exons and differential splicing acceptors in
+exon 2. In all cases, the most 5-prime exon, exon 1A, splices
+exclusively to a weaker internal acceptor site in exon 2, skipping a
+fragment designated exon 2-prime. Conversely, alternative first exons 1B
+and 1C always splice to the stronger first acceptor site, retaining exon
+2-prime. These correlations were independent of cell type or species of
+origin. Since exon 2-prime contains a translation initiation site,
+splice variants generate protein isoforms with distinct N termini. Tan
+et al. (2005) calculated that coupling between upstream promoters and
+downstream splicing in EPB41 and EBP41L3 has been conserved for at least
+500 million years.
+
+ANIMAL MODEL
+
+The complex EPB41 gene on human chromosome 1p encodes a diverse family
+of protein 4.1R isoforms. The prototypic 80-kD 4.1R in mature
+erythrocytes is a key component of the erythroid membrane skeleton that
+regulates red cell morphology and mechanical stability. To study the
+function of 4.1R in nucleated cells, Shi et al. (1999) generated mice
+with complete deficiency of all 4.1R protein isoforms. These 4.1R-null
+mice were viable, with moderate hemolytic anemia but no gross
+abnormalities. Platelet morphology and function were essentially normal.
+Nonerythroid 4.1R expression patterns revealed focal expression in
+specific neurons in the brain and in select cells of other major organs,
+challenging the view that 4.1R expression is widespread among
+nonerythroid cells.
+
+Epb41-knockout mice have fragmented red blood cells that lack
+glycophorin C (GPC; see 110750). In Epb41-null murine erythroblasts,
+Salomao et al. (2010) found that GPC distributed exclusively to the
+nuclei, whereas in enucleating erythroblasts from wildtype bone marrow,
+GPC partitioned almost exclusively to nascent reticulocytes, with little
+or no GPC observed in plasma membranes of extruding nuclei. In contrast,
+glycophorin A (GPA; see 111300) partitioning was not perturbed, and GPA
+sorted to nascent reticulocytes in both Epb41-null and wildtype
+enucleating erythroblasts. The findings indicated that GPC deficiency in
+Epb41-null erythroblasts is attributable to markedly abnormal protein
+partitioning during enucleation, and suggested that reticulocytes in
+hereditary elliptocytosis may differ from normal reticulocytes in their
+biophysical properties of membrane cohesion or membrane deformability.
+The results also showed that cytoskeletal attachments are an important
+factor in regulating transmembrane protein sorting to reticulocytes.
+
+ALLELIC VARIANT .0001
+ELLIPTOCYTOSIS 1
+EPB41, 318-BP DEL
+
+This mutation was first reported by Feo et al. (1980) and Tchernia et
+al. (1981) in homozygotes and heterozygotes and by Alloisio et al.
+(1985) in heterozygotes. In this form of elliptocytosis (611804),
+Takakuwa et al. (1986) demonstrated restitution of normal membrane
+stability by incorporation of purified protein 4.1 into deficient red
+cells by exchange hemolysis.
+
+In an Algerian family with hereditary elliptocytosis caused by
+deficiency of erythroid protein 4.1 (described by Tchernia et al., 1981;
+defect partially characterized by Conboy et al., 1986), Conboy et al.
+(1993) delineated the defect by study of erythroid and nonerythroid
+cells in 1 of the homozygously affected sibs. The molecular lesion was
+shown to involve deletion of the downstream AUG initiation codon in 4.1
+mRNA, thus leading to the absence of protein 4.1 in red cells. In
+contrast, isoforms that use the upstream AUG were detected in
+nonerythroid cells, thus explaining the absence of manifestations in
+other organ systems. The lesion consisted of a 318-nucleotide deletion
+that encompassed the downstream AUG but left the upstream AUG intact.
+Normally, multiple protein 4.1 isoforms are expressed in a variety of
+tissues through complex alternative pre-mRNA splicing events, one
+function of which is to regulate use of 2 alternative translation
+initiation signals. Late erythroid cells express mainly the downstream
+initiation site for synthesis of prototypic 80-kD isoforms; nonerythroid
+cells in addition use an upstream site to encode higher molecular mass
+isoform(s).
+
+.0002
+REMOVED FROM DATABASE
+.0003
+ELLIPTOCYTOSIS 1
+PROTEIN 4.1(95)
+EPB41, 369-BP DUP
+
+In affected members of family N of Scottish-Irish descent, McGuire et
+al. (1988) found heterozygosity for a high molecular weight form of
+protein 4.1 at approximately 95 kD, referred to as protein 4.1(95).
+Marchesi et al. (1990) described the site and nature of the insertion
+resulting in protein 4.1(95) and the functional consequences of the
+mutation. The elliptocytosis (611804) was mild without anemia. Protein
+4.1(95) was found to contain an insertion of about 15 kD adjacent to the
+spectrin/actin domain of the protein comprised, at least in part, of
+repeated sequence. Conboy et al. (1990) used polymerase chain reaction
+(PCR) techniques to clone and sequence mutant reticulocyte mRNAs and
+correlate the duplication end points with exon boundaries of the gene.
+Protein 4.1(95) mRNA was found to encode a protein with 2 spectrin/actin
+binding domains by virtue of a 369-nucleotide duplication from the codon
+for lys407 to that for gln529.
+
+.0004
+ELLIPTOCYTOSIS 1
+PROTEIN 4.1(68/65)
+EPB41, 240-BP DEL
+
+In affected members of family G, of Italian descent, McGuire et al.
+(1988) found heterozygosity for normal 4.1(80) and 2 low molecular
+weight forms of protein 4.1 at about 68 and 65 kD, referred to as
+protein 4.1(68/65). The mutation was associated with moderate
+elliptocytosis (611804) and anemia. Protein 4.1(68/65) was found to lack
+the entire spectrin/actin binding domain. Conboy et al. (1990)
+demonstrated that protein 4.1(68/65) mRNA lacked sequences encoding the
+functionally important spectrin-actin binding domain due to a
+240-nucleotide deletion spanning the codons for lys407 to gly486.
+Marchesi et al. (1990) described the site and nature of the deletions
+resulting in protein 4.1(68/65) and the functional consequences of these
+mutations.
+
+.0005
+ELLIPTOCYTOSIS 1
+PROTEIN 4.1 MADRID
+EPB41, MET1ARG
+
+Dalla Venezia et al. (1992) studied homozygous hereditary elliptocytosis
+(611804) in a Spanish patient whose parents were second cousins. He had
+had intermittent jaundice and pallor since birth. During aplastic crisis
+at the age of 31 years, the spleen was very large and was removed and
+cholecystectomy for gallstones was also performed. Remarkable
+hematologic improvement followed. The mother of the propositus was
+healthy, although her blood smear showed elliptocytosis; the father was
+deceased. Glycophorin C was sharply reduced. This finding, as in other
+homozygous elliptocytosis cases, indicates that protein 4.1 stabilizes
+glycophorin C (110750) in the membrane. Spectrin and actin were
+slightly, yet significantly, diminished. Dalla Venezia et al. (1992)
+demonstrated an abnormality in 4.1 cDNA, specifically an AUG-to-AGG
+transversion in the downstream translation initiation codon, changing
+methionine to arginine. No obvious disorders were noted in cell types
+other than red cells or possibly sperm cells. The propositus, born in
+1948, had infertility associated with azoospermia and a right
+ureterocele. Whereas heterozygous 4.1(-) HE accounts for one-fourth to
+one-third of all HE in Caucasians, the incidence of homozygous 4.1(-) HE
+was, in the opinion of Dalla Venezia et al. (1992), lower than
+anticipated. They suggested that some 4.1(-) HE alleles may not be
+viable in the homozygous state by virtue of affecting all isoforms of
+the protein and leaving all cells deficient in protein 4.1. This was the
+first identification of a specific point mutation.
+
+.0006
+ELLIPTOCYTOSIS 1
+PROTEIN 4.1 LILLE
+EPB41, MET1THR
+
+Like protein 4.1 Madrid (130500.0001), protein 4.1 Lille cause
+elliptocytosis (611804) and results from a mutation in the downstream
+translation start site (AUG-to-ACG). See Garbarz et al. (1995).
+
+REFERENCE 1. Alloisio, N.; Morle, L.; Dorleac, E.; Gentilhomme, O.; Bachir,
+D.; Guetarni, D.; Colonna, P.; Bost, M.; Zouaoui, Z.; Roda, L.; Roussel,
+D.; Delaunay, J.: The heterozygous form of 4.1(-) hereditary elliptocytosis
+[the 4.1(-) trait]. Blood 65: 46-51, 1985.
+
+2. Bahary, N.; Zorich, G.; Pachter, J. E.; Leibel, R. L.; Friedman,
+J. M.: Molecular genetic linkage maps of mouse chromosomes 4 and
+6. Genomics 11: 33-47, 1991.
+
+3. Baklouti, F.; Huang, S.-C.; Vulliamy, T. J.; Delaunay, J.; Benz,
+E. J., Jr.: Organization of the human protein 4.1 genomic locus:
+new insights into the tissue-specific alternative splicing of the
+pre-mRNA. Genomics 39: 289-302, 1997.
+
+4. Conboy, J.; Kan, Y. W.; Shohet, S. B.; Mohandas, N.: Molecular
+cloning of protein 4.1, a major structural element of the human erythrocyte
+membrane skeleton. Proc. Nat. Acad. Sci. 83: 9512-9516, 1986.
+
+5. Conboy, J.; Marchesi, S.; Kim, R.; Agre, P.; Kan, Y. W.; Mohandas,
+N.: Molecular analysis of insertion/deletion mutations in protein
+4.1 in elliptocytosis. II. Determination of molecular genetic origins
+of rearrangements. J. Clin. Invest. 86: 524-530, 1990.
+
+6. Conboy, J.; Mohandas, N.; Tchernia, G.; Kan, Y. W.: Molecular
+basis of hereditary elliptocytosis due to protein 4.1 deficiency. New
+Eng. J. Med. 315: 680-685, 1986.
+
+7. Conboy, J. G.: Structure, function, and molecular genetics of
+erythroid membrane skeletal protein 4.1 in normal and abnormal red
+blood cells. Seminars Hemat. 30: 58-73, 1993.
+
+8. Conboy, J. G.; Chan, J.; Mohandas, N.; Kan, Y. W.: Multiple protein
+4.1 isoforms produced by alternative splicing in human erythroid cells. Proc.
+Nat. Acad. Sci. 85: 9062-9065, 1988.
+
+9. Conboy, J. G.; Chasis, J. A.; Winardi, R.; Tchernia, G.; Kan, Y.
+W.; Mohandas, N.: An isoform-specific mutation in the protein 4.1
+gene results in hereditary elliptocytosis and complete deficiency
+of protein 4.1 in erythrocytes but not in nonerythroid cells. J.
+Clin. Invest. 91: 77-82, 1993.
+
+10. Conboy, J. G.; Mohandas, N.; Wang, C.; Tchernia, G.; Shohet, S.
+B.; Kan, Y. W.: Molecular cloning and characterization of the gene
+coding for red cell membrane skeletal protein 4.1. (Abstract) Blood 66
+(suppl. 1): 31A, 1985.
+
+11. Correas, I.; Speicher, D. W.; Marchesi, V. T.: Structure of the
+spectrin-actin binding site of erythrocyte protein 4.1. J. Biol.
+Chem. 261: 13362-13366, 1986.
+
+12. Dalla Venezia, N.; Gilsanz, F.; Alloisio, N.; Ducluzeau, M.-T.;
+Benz, E. J., Jr.; Delaunay, J.: Homozygous 4.1(-) hereditary elliptocytosis
+associated with a point mutation in the downstream initiation codon
+of protein 4.1 gene. J. Clin. Invest. 90: 1713-1717, 1992.
+
+13. Fairbanks, G.; Steck, T. L.; Wallach, D. F. H.: Electrophoretic
+analysis of the major polypeptides of the human erythrocyte membrane. Biochemistry 10:
+2606-2617, 1971.
+
+14. Feo, C. J.; Fischer, S.; Piau, J. P.; Grange, M. J.; Tchernia,
+G.: Premiere observation de l'absence d'une proteine de la membrane
+erythrocytaire (bande 4-1) dans un cas d'anemie elliptocytaire familiale. Nouv.
+Rev. Franc. Hemat. 22: 315-325, 1980.
+
+15. Garbarz, M.; Devaux, I.; Bournier, O.; Grandchamp, B.; Dhermy,
+D.: Protein 4.1 Lille, a novel mutation in the downstream initiation
+codon of protein 4.1 gene associated with heterozygous 4,1(-) hereditary
+elliptocytosis. Hum. Mutat. 5: 339-340, 1995.
+
+16. Kan, Y.-W.: Personal Communication. San Francisco, Calif.
+2/28/1986.
+
+17. Lambert, S.; Conboy, J.; Zail, S.: A molecular study of heterozygous
+protein 4.1 deficiency in hereditary elliptocytosis. Blood 72: 1926-1929,
+1988.
+
+18. Marchesi, S. L.; Conboy, J.; Agre, P.; Letsinger, J. T.; Marchesi,
+V. T.; Speicher, D. W.; Mohandas, N.: Molecular analysis of insertion/deletion
+mutations in protein 4.1 in elliptocytosis. I. Biochemical identification
+of rearrangements in the spectrin/actin binding domain and functional
+characterizations. J. Clin. Invest. 86: 516-523, 1990.
+
+19. McGuire, M.; Smith, B. L.; Agre, P.: Distinct variants of erythrocyte
+protein 4.1 inherited in linkage with elliptocytosis and Rh type in
+three white families. Blood 72: 287-293, 1988.
+
+20. Parra, M.; Gascard, P.; Walensky, L. D.; Snyder, S. H.; Mohandas,
+N.; Conboy, J. G.: Cloning and characterization of 4.1G (EPB41L2),
+a new member of the skeletal protein 4.1 (EPB41) gene family. Genomics 49:
+298-306, 1998.
+
+21. Ponthier, J. L.; Schluepen, C.; Chen, W.; Lersch, R. A.; Gee,
+S. L.; Hou, V. C.; Lo, A. J.; Short, S. A.; Chasis, J. A.; Winkelmann,
+J. C.; Conboy, J. G.: Fox-2 spicing factor binds to a conserved intron
+motif to promote inclusion of protein 4.1R alternative exon 16. J.
+Biol. Chem. 281: 12468-12474, 2006.
+
+22. Salomao, M.; Chen, K.; Villalobos, J.; Mohandas, N.; An, X.; Chasis,
+J. A.: Hereditary spherocytosis and hereditary elliptocytosis: aberrant
+protein sorting during erythroblast enucleation. Blood 116: 267-269,
+2010.
+
+23. Shi, Z.-T.; Afzal, V.; Coller, B.; Patel, D.; Chasis, J. A.; Parra,
+M.; Lee, G.; Paszty, C.; Stevens, M.; Walensky, L.; Peters, L. L.;
+Mohandas, N.; Rubin, E.; Conboy, J. G.: Protein 4.1R-deficient mice
+are viable but have erythroid membrane skeleton abnormalities. J.
+Clin. Invest. 103: 331-340, 1999.
+
+24. Takakuwa, Y.; Tchernia, G.; Rossi, M.; Benabadji, M.; Mohandas,
+N.: Restoration of normal membrane stability to unstable protein
+4.1-deficient erythrocyte membranes by incorporation of purified protein
+4.1. J. Clin. Invest. 78: 80-85, 1986.
+
+25. Tan, J. S.; Mohandas, N.; Conboy, J. G.: Evolutionarily conserved
+coupling of transcription and alternative splicing in the EPB41 (protein
+4.1R) and EPB41L3 (protein 4.1B) genes. Genomics 86: 701-707, 2005.
+
+26. Tang, C.-J. C.; Tang, T. K.: Rapid localization of membrane skeletal
+protein 4.1 (EL1) to human chromosome 1p33-p34.2 by nonradioactive
+in situ hybridization. Cytogenet. Cell Genet. 57: 119, 1991.
+
+27. Tang, T. K.; Leto, T. L.; Correas, I.; Alonso, M. A.; Marchesi,
+V. T.; Benz, E. J., Jr.: Selective expression of an erythroid-specific
+isoform of protein 4.1. Proc. Nat. Acad. Sci. 85: 3713-3717, 1988.
+
+28. Tchernia, G.; Mohandas, N.; Shohet, S. B.: Deficiency of skeletal
+membrane protein band 4.1 in homozygous hereditary elliptocytosis:
+implications for erythrocyte membrane stability. J. Clin. Invest. 68:
+454-460, 1981.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/10/2011
+Patricia A. Hartz - updated: 6/30/2008
+Patricia A. Hartz - updated: 2/7/2008
+Victor A. McKusick - updated: 3/16/1999
+Jennifer P. Macke - updated: 10/30/1998
+Jennifer P. Macke - updated: 5/26/1998
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED wwang: 05/23/2011
+ckniffin: 5/10/2011
+alopez: 6/30/2008
+wwang: 4/23/2008
+mgross: 2/20/2008
+terry: 2/7/2008
+terry: 5/17/2005
+carol: 3/17/2004
+carol: 10/31/2003
+mgross: 3/10/2003
+terry: 3/7/2003
+kayiaros: 7/13/1999
+carol: 3/17/1999
+terry: 3/16/1999
+dkim: 12/10/1998
+alopez: 11/3/1998
+alopez: 10/30/1998
+dkim: 7/21/1998
+alopez: 5/26/1998
+joanna: 8/12/1997
+mark: 3/18/1996
+mark: 7/6/1995
+pfoster: 10/26/1994
+carol: 5/13/1994
+mimadm: 4/15/1994
+warfield: 4/8/1994
+carol: 2/18/1993
+
+609977	TITLE *609977 CELL DIVISION CYCLE-ASSOCIATED PROTEIN 8; CDCA8
+;;DASRA B;;
+BOREALIN
+DESCRIPTION 
+DESCRIPTION
+
+CDCA8 is a component of a chromosomal passenger complex required for
+stability of the bipolar mitotic spindle (Gassmann et al., 2004).
+
+CLONING
+
+By database analysis, Sampath et al. (2004) identified human CDCA8 as a
+homolog of Xenopus Dasra B. The deduced 280-amino acid human protein,
+which the authors called Dasra B, shares 42% and 23% identity with
+Xenopus Dasra B and Dasra A, respectively. Immunofluorescence on
+metaphase HeLa cells revealed Dasra B in a punctate distribution on
+chromosomes, coincident with Aurora B (AURKB; 604970) staining.
+
+Using a proteomic screen to identify proteins associated with
+histone-depleted mitotic chromosomes, Gassmann et al. (2004) identified
+CDCA8, which they called borealin. The deduced 280-amino acid protein
+contains 2 putative nuclear localization signals. Secondary structure
+predictions suggested borealin forms an N-terminal domain of 6 core
+helices and a C-terminal domain of at least 2 strands and 3 helices.
+Northern and Western blot analyses showed that borealin mRNA and protein
+levels were significantly increased in mitosis. Immunolocalization of
+borealin and Aurora B in HeLa cells revealed that the proteins
+colocalized in a dynamic pattern throughout mitosis. Western blot
+analysis detected borealin at an apparent molecular mass of 31 kD in
+HeLa cell lysates.
+
+GENE FUNCTION
+
+By immunoprecipitation of HeLa cell lysates, Sampath et al. (2004) found
+that Dasra B interacted with Aurora B and survivin (BIRC5; 603352).
+Knockdown of Dasra B by small interfering RNA resulted in severe
+chromosome misalignment at metaphase and accumulation of multiple
+interphase nuclei. In Xenopus, Dasra B associated with survivin, Aurora
+B, and Incenp (604411) in a chromosomal passenger complex required for
+chromatin-induced microtubule stabilization and spindle formation.
+Microtubule nucleation through the Dasra B-containing chromosomal
+passenger complex was distinct from the Ran (601179)-GTP pathway of
+chromatin-induced microtubule nucleation.
+
+Using in vitro binding assays, Gassmann et al. (2004) showed that
+recombinant human borealin interacted directly with in vitro translated
+INCENP and survivin, but not with Aurora B or TD60 (RCC2; 609587).
+Borealin also readily bound itself. Mutation analysis indicated that the
+N-terminal domain of borealin, but not the C-terminal domain, interacted
+with chromosomal passengers in vivo and could perturb their targeting to
+centromeres but not to the spindle midzone. Knockdown of borealin in
+HeLa cells by RNA interference resulted in delocalization of INCENP,
+survivin, Aurora B, and TD60 and delayed mitotic progression.
+Borealin-null cells showed kinetochore-spindle misattachments, increased
+number of bipolar spindles associated with ectopic asters, and disrupted
+chromosome partitioning at anaphase. Borealin did not increase the
+kinase activity of Aurora B in the presence of INCENP and survivin, but
+it was an Aurora B target protein.
+
+Tsukahara et al. (2010) isolated a fission yeast cyclin B (123836)
+mutant defective specifically in chromosome biorientation. Accordingly,
+Tsukahara et al. (2010) identified Cdk1 (116940)-cyclin B-dependent
+phosphorylation of survivin (603352). Preventing survivin
+phosphorylation impaired centromere chromosomal passenger complex (CPC)
+targeting as well as chromosome biorientation, whereas phosphomimetic
+survivin suppressed the biorientation defect in the cyclin B mutant.
+Survivin phosphorylation promoted direct binding with shugoshin (see
+609168), which Tsukahara et al. (2010) defined as a conserved
+centromeric adaptor of the CPC. In human cells, the phosphorylation of
+borealin has a comparable role. Tsukahara et al. (2010) concluded that
+this study resolved the conserved mechanisms of CPC targeting to
+centromeres, highlighting a key role of Cdk1-cyclin B in chromosome
+biorientation.
+
+GENE STRUCTURE
+
+Gassmann et al. (2004) determined that the CDCA8 gene contains 10 exons.
+
+MAPPING
+
+By genomic sequence analysis, Gassmann et al. (2004) mapped the CDCA8
+gene to chromosome 1. They identified a possible pseudogene on
+chromosome 7.
+
+REFERENCE 1. Gassmann, R.; Carvalho, A.; Henzing, A. J.; Ruchaud, S.; Hudson,
+D. F.; Honda, R.; Nigg, E. A.; Gerloff, D. L.; Earnshaw, W. C.: Borealin:
+a novel chromosomal passenger required for stability of the bipolar
+mitotic spindle. J. Cell Biol. 166: 179-191, 2004.
+
+2. Sampath, S. C.; Ohi, R.; Leismann, O.; Salic, A.; Pozniakovski,
+A.; Funabiki, H.: The chromosomal passenger complex is required for
+chromatin-induced microtubule stabilization and spindle assembly. Cell 118:
+187-202, 2004.
+
+3. Tsukahara, T.; Tanno, Y.; Watanabe, Y.: Phosphorylation of the
+CPC by Cdk1 promotes chromosome bi-orientation. Nature 467: 719-723,
+2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/27/2010
+
+CREATED Patricia A. Hartz: 3/17/2006
+
+EDITED alopez: 10/27/2010
+mgross: 3/17/2006
+
+300795	TITLE *300795 CANCER/TESTIS ANTIGEN FAMILY 45, MEMBER A4; CT45A4
+;;CANCER/TESTIS ANTIGEN 45, MEMBER 4; CT45.4
+DESCRIPTION 
+CLONING
+
+By searching for genes upregulated in testis, followed by RT-PCR and
+genomic sequence analysis, Chen et al. (2005) identified 6 nearly
+identical copies of the CT45 gene, designated CT45A1 through CT45A6, on
+chromosome X. The CT45 genes appeared to be products of a recent gene
+duplication. RT-PCR and EST analysis revealed 3 CT45 transcript variants
+that differ in their 3-prime ends and represent the accumulated
+expression of the CT45 genes. All 3 transcripts encode a deduced
+189-amino acid protein that shares significant similarity with DDX26B,
+SAGE (300359), and DDX26 (604331). RT-PCR detected high CT45 expression
+in testis and variable expression in several cell lines.
+
+GENE STRUCTURE
+
+Chen et al. (2005) determined that each CT45 gene contains 5 exons and
+spans 8 to 9 kb. The first exon is untranslated.
+
+MAPPING
+
+By genomic sequence analysis, Chen et al. (2005) mapped the CT45 gene
+cluster to a 125-kb region on chromosome Xq26.3. The 3 centromeric genes
+are transcribed in the centromeric-to-telomeric direction, and the 3
+telomeric genes are transcribed in the opposite direction.
+
+REFERENCE 1. Chen, Y.-T.; Scanlan, M. J.; Venditti, C. A.; Chua, R.; Theiler,
+G.; Stevenson, B. J.; Iseli, C.; Gure, A. O.; Vasicek, T.; Strausberg,
+R. L.; Jongeneel, C. V.; Old, L. J.; Simpson, A. J. G.: Identification
+of cancer/testis-antigen genes by massively parallel signature sequencing. Proc.
+Nat. Acad. Sci. 102: 7940-7945, 2005.
+
+CREATED Patricia A. Hartz: 8/31/2009
+
+EDITED wwang: 08/31/2009
+
+604665	TITLE *604665 COP9, SUBUNIT 3; COPS3
+;;SGN3
+DESCRIPTION To identify new components of the 26S proteasome, Seeger et al. (1998)
+obtained peptide sequences from a 45-kD protein. By micropeptide
+sequence analysis and probing of cDNA libraries, Seeger et al. (1998)
+isolated a cDNA encoding COPS3, which they termed SGN3, for subunit 3 of
+a novel 450-kD signalosome complex that also includes TRIP15 (604508),
+COPS5 (604850), GPS1 (601934), and 4 other subunits. Sequence analysis
+predicted that COPS3 is a 403-amino acid protein which contains regions
+with homology to the 26S proteasome S3 regulatory subunit.
+Autoradiographic analysis showed that the complex phosphorylates JUN
+(165160), IKBA (164008), and the C-terminal part of the p105 precursor
+of NFKB (164011). The 26S proteasome is not a phosphorylation target,
+although immunofluorescence microscopy demonstrated that the 450-kD
+complex has a cytosolic localization, concentrated around the nucleus.
+
+Elsea et al. (1999) reported the localization and partial
+characterization of SGN3. They mapped the SGN3 gene to 17p11.2 by
+somatic cell hybrid analysis. By analysis of genomic clones, they
+further localized the SGN3 gene to the distal end of the Smith-Magenis
+syndrome (SMS) critical region (182290), near marker D17S71. Although
+SMS patients were haploinsufficient for SGN3, analyses showed that the
+SGN3 protein was present at equivalent levels in patient and parental
+control cells, and that the COP9 signalosome complex was assembled and
+in normal quantities in transformed lymphoblastoid cell lines from
+patients. Elsea et al. (1999) concluded that SGN3 probably does not play
+a significant role with respect to SMS, although its involvement could
+not be ruled out since the importance of the COP9 signalosome in
+embryogenesis or differentiation was not well understood.
+
+REFERENCE 1. Elsea, S. H.; Mykytyn, K.; Ferrell, K.; Coulter, K. L.; Das, P.;
+Dubiel, W.; Patel, P. I.; Metherall, J. E.: Hemizygosity for the
+COP9 signalosome subunit gene, SGN3, in the Smith-Magenis syndrome. Am.
+J. Med. Genet. 87: 342-348, 1999.
+
+2. Seeger, M.; Kraft, R.; Ferrell, K.; Bech-Otschir, D.; Dumdey, R.;
+Schade, R.; Gordon, C.; Naumann, M.; Dubiel, W.: A novel protein
+complex involved in signal transduction possessing similarities to
+26S proteasome subunits. FASEB J. 12: 469-478, 1998.
+
+CONTRIBUTORS Paul J. Converse - updated: 10/12/2000
+
+CREATED Sonja A. Rasmussen: 3/8/2000
+
+EDITED carol: 10/26/2000
+mcapotos: 10/19/2000
+terry: 10/12/2000
+mgross: 3/8/2000
+
+604868	TITLE *604868 TASTE RECEPTOR, TYPE 2, MEMBER 3; TAS2R3
+;;T2R3
+DESCRIPTION See also TAS2R10 (604791).
+
+Adler et al. (2000) identified members of a family of 40 to 80 human and
+rodent G protein-coupled receptors expressed in subsets of taste
+receptor cells of the tongue and palate epithelia. These candidate taste
+receptors, which the authors called T2Rs, are organized in the genome in
+clusters and are genetically linked to loci that influence bitter
+perception in mice and humans. Each T2R gene encodes a 7-transmembrane
+receptor protein. The amino acid sequence identities between human and
+mouse T2Rs range from 46 to 67%. The authors determined that a single
+taste receptor cell expresses a large repertoire of T2Rs, suggesting
+that each cell may be capable of recognizing multiple tastants. In situ
+hybridization demonstrated that T2Rs are exclusively expressed in taste
+receptor cells that contain the G protein subunit gustducin, implying
+that they function as gustducin-linked receptors. Adler et al. (2000)
+identified T2R3 in a PAC clone from 7q31.3-q32.
+
+Kinnamon (2000) reviewed the role of taste receptors in taste
+transduction.
+
+REFERENCE 1. Adler, E.; Hoon, M. A.; Mueller, K. L.; Chandrashekar, J.; Ryba,
+N. J. P.; Zuker, C. S.: A novel family of mammalian taste receptors. Cell 100:
+693-702, 2000.
+
+2. Kinnamon, S. C.: A plethora of taste receptors. Neuron 25: 507-510,
+2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/10/2000
+
+CREATED Stylianos E. Antonarakis: 4/24/2000
+
+EDITED wwang: 01/10/2006
+mgross: 3/16/2001
+alopez: 7/10/2000
+mgross: 4/24/2000
+
+605644	TITLE *605644 KALLIKREIN-RELATED PEPTIDASE 8; KLK8
+;;KALLIKREIN 8;;
+NEUROPSIN, MOUSE, HOMOLOG OF;;
+TUMOR-ASSOCIATED DIFFERENTIALLY EXPRESSED GENE 14; TADG14;;
+PROTEASE, SERINE, 19; PRSS19
+NEUROPSIN, TYPE 1, INCLUDED;;
+NEUROPSIN, TYPE 2, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+KLK8 belongs to the kallikrein subgroup of serine proteases, which have
+diverse physiologic functions in many tissues. For background
+information on kallikreins, see 147960.
+
+CLONING
+
+By searching an EST database, followed by PCR on hippocampus and
+keratinocyte cDNA and RACE, Yoshida et al. (1998) isolated a cDNA
+encoding KLK8, the human homolog of mouse neuropsin. The deduced
+260-amino acid protein, 72% identical to the mouse sequence, has an
+N-terminal signal peptide, conserved residues for protease activity, an
+N-linked glycosylation site, and 13 cys residues. Northern blot analysis
+detected a 0.9-kb transcript in keratinocytes.
+
+Using a similar strategy, Mitsui et al. (1999) obtained cDNAs encoding
+260- and 305-amino acid KLK8 isoforms, which they termed type-1 and
+type-2 neuropsin, respectively. Sequence analysis determined that type 2
+has a 45-residue leucine- and proline-rich insert at the C terminus of
+the putative leader sequence of type 1. Mouse and human genomic sequence
+analysis indicated that type 2 is a species-specific splice variant for
+humans. Northern blot analysis revealed that type 1 is most intensely
+expressed in pancreas, with lower expression in placenta, whereas type 2
+is expressed in brain, suggesting organ-specific alternative splicing.
+RT-PCR analysis detected type 2 expression in hippocampus. Dot blot
+hybridization demonstrated expression of type 2 in all investigated
+areas of the brain. Western blot analysis showed that type-1 and type-2
+neuropsin are secreted as 35- and 38-kD proteins, respectively, from
+insect cells.
+
+By RT-PCR analysis using degenerate primers for serine proteases in
+normal ovary and ovarian carcinoma, Underwood et al. (1999) identified a
+cDNA encoding KLK8, which they called TADG14. Database searching showed
+that TADG14 is identical to the 280-amino acid human neuropsin at the
+protein but not the cDNA level. Northern blot analysis detected a 1.4-kb
+transcript that was highly overexpressed in 20 of 30 ovarian carcinomas
+studied. Western blot analysis detected a 30-kD protein in tumor cell
+lines. Immunohistochemical analysis detected KLK8 in carcinoma but not
+normal ovarian tissue. Underwood et al. (1999) suggested that
+circulating KLK8 may be a useful marker for early detection of ovarian
+carcinoma.
+
+By RT-PCR of 35 adult and fetal tissues, Gan et al. (2000) detected
+highest KLK8 expression in adult skin. Most other tissues showed weak
+KLK8 expression.
+
+Kishi et al. (2003) demonstrated K8 protein in ovarian cancer tissue
+extracts, serum, and ascites fluid, suggesting that it may serve as a
+new ovarian cancer marker.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Yoshida et al. (1998) determined that KLK8
+is a single-copy gene that contains 6 exons and spans 5.4 kb. Promoter
+analysis revealed atypical TATA and CCAAT box sequences.
+
+GENE FUNCTION
+
+Attwood et al. (2011) demonstrated in mice that the serine protease
+neuropsin is critical for stress-related plasticity in the amygdala by
+regulating the dynamics of the EphB2-NMDA receptor interaction, the
+expression of Fkbp5 (602623), and anxiety-like behavior. Stress results
+in neuropsin-dependent cleavage of EphB2 in the amygdala, causing
+dissociation of EphB2 from the NR1 (138249) subunit of the NMDA receptor
+and promoting membrane turnover of EphB2 receptors. Dynamic EphB2-NR1
+interaction enhances NMDA receptor current, induces Fkpb5 gene
+expression, and enhances behavioral signatures of anxiety. On stress,
+neuropsin-deficient mice do not show EphB2 cleavage and its dissociation
+from NR1, resulting in a static EphB2-NR1 interaction, attenuated
+induction of the Fkbp5 gene, and low anxiety. The behavioral response to
+stress can be restored by intraamygdala injection of neuropsin into
+neuropsin-deficient mice and disrupted by the injection of either
+anti-EphB2 antibodies or silencing the Fkbp5 gene in the amygdala of
+wildtype mice. Attwood et al. (2011) concluded that their findings
+established a novel neuronal pathway linking stress-induced proteolysis
+of EphB2 in the amygdala to anxiety.
+
+MAPPING
+
+Harvey et al. (2000) mapped the KLK8 gene to chromosome 19q13.4 in the
+KLK gene cluster between KLK7 (604438) and KLK9 (605504). They noted
+that KLK5 (605643) to KLK14 are transcribed telomere to centromere.
+
+EVOLUTION
+
+Lu et al. (2007) demonstrated that type-2 KLK8 is absent from nonhuman
+primates, indicating that it is human specific. In vitro splicing assays
+revealed a human-specific mutation that triggers the change in splicing
+pattern, and mutation assays showed that this mutation is necessary and
+sufficient for type-2 KLK8 expression.
+
+REFERENCE 1. Attwood, B. K.; Bourgognon, J.-M.; Patel, S.; Mucha, M.; Schiavon,
+E.; Skrzypiec, A. E.; Young, K. W.; Shiosaka, S.; Korostynski, M.;
+Piechota, M.; Przewlocki, R.; Pawlak, R.: Neuropsin cleaves EphB2
+in the amygdala to control anxiety. Nature 473: 372-375, 2011.
+
+2. Gan, L.; Lee, I.; Smith, R.; Argonza-Barrett, R.; Lei, H.; McCuaig,
+J.; Moss, P.; Paeper, B.; Wang, K.: Sequencing and expression analysis
+of the serine protease gene cluster located in chromosome 19q13 region. Gene 257:
+119-130, 2000.
+
+3. Harvey, T. J.; Hooper, J. D.; Myers, S. A.; Stephenson, S.-A.;
+Ashworth, L. K.; Clements, J. A.: Tissue-specific expression patterns
+and fine mapping of the human kallikrein (KLK) locus on proximal 19q13.4. J.
+Biol. Chem. 275: 37397-37406, 2000.
+
+4. Kishi, T.; Grass, L.; Soosaipillai, A.; Scorilas, A.; Harbeck,
+N.; Schmalfeldt, B.; Dorn, J.; Mysliwiec, M.; Schmitt, M.; Diamandis,
+E. P.: Human kallikrein 8, a novel biomarker for ovarian carcinoma. Cancer
+Research 63: 2771-2774, 2003.
+
+5. Lu, Z.; Peng, J.; Su, B.: A human-specific mutation leads to the
+origin of a novel splice form of neuropsin (KLK8), a gene involved
+in learning and memory. Hum. Mutat. 28: 978-984, 2007.
+
+6. Mitsui, S.; Tsuruoka, N.; Yamashiro, K.; Nakazato, H.; Yamaguchi,
+N.: A novel form of human neuropsin, a brain-related serine protease,
+is generated by alternative splicing and is expressed preferentially
+in human adult brain. Europ. J. Biochem. 260: 627-634, 1999.
+
+7. Underwood, L. J; Tanimoto, H.; Wang, Y.; Shigemasa, K.; Parmley,
+T. H.; O'Brien, T. J.: Cloning of tumor-associated differentially
+expressed gene-14, a novel serine protease overexpressed by ovarian
+carcinoma. Cancer Res. 59: 4435-4439, 1999.
+
+8. Yoshida, S.; Taniguchi, M.; Hirata, A.; Shiosaka, S.: Sequence
+analysis and expression of human neuropsin cDNA and gene. Gene 213:
+9-16, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/6/2011
+Patricia A. Hartz - updated: 11/2/2007
+Patricia A. Hartz - updated: 11/8/2006
+Victor A. McKusick - updated: 10/16/2003
+
+CREATED Paul J. Converse: 2/14/2001
+
+EDITED alopez: 07/07/2011
+alopez: 7/7/2011
+terry: 7/6/2011
+mgross: 11/5/2007
+terry: 11/2/2007
+mgross: 11/27/2006
+terry: 11/8/2006
+cwells: 10/16/2003
+cwells: 9/17/2003
+mgross: 2/14/2001
+

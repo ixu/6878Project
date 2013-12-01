@@ -1,0 +1,342 @@
+609030	TITLE *609030 DIGEORGE SYNDROME CRITICAL REGION GENE 8; DGCR8
+DESCRIPTION 
+CLONING
+
+By searching for genes within the DiGeorge syndrome (188400) critical
+region of chromosome 22, followed by PCR of a brain cDNA library and
+screening a fetal heart cDNA library, Shiohama et al. (2003) cloned
+DGCR8. The deduced 773-amino acid protein contains a WW motif in its
+N-terminal half and 2 double-stranded RNA-binding motifs in its
+C-terminal half. Northern blot analysis of human tissues detected a
+major transcript of 4.5 kb that was ubiquitously expressed and minor
+transcripts of 3.5 and 1.5 kb that were found only in testis. In situ
+hybridization of mouse embryos revealed Dgcr8 expression in
+neuroepithelium of primary brain, limb bud, vessels, thymus, and palate
+during various developmental stages.
+
+GENE FUNCTION
+
+RNase III proteins play key roles in microRNA (miRNA) biogenesis. The
+nuclear RNase III Drosha (608828) cleaves primary miRNAs (pri-miRNAs) to
+release hairpin-shaped pre-miRNAs that are subsequently cut to generate
+mature miRNAs. By immunoprecipitation of human embryonic kidney cell
+nuclear extracts, Han et al. (2004) found that DGCR8 interacted directly
+with Drosha, and the 2 proteins were present within a complex of about
+650 kD. Both DGCR8 and Drosha could homodimerize in the absence of
+single-stranded RNA (ssRNA) in addition to interacting with each other.
+Depletion of DGCR8 from HeLa cells with small interfering RNA led to
+accumulation of pri-miRNA and loss of pre-miRNA and mature miRNA. Han et
+al. (2004) concluded that DGCR8 is critical for the processing of
+pri-miRNA into pre-miRNA.
+
+Gregory et al. (2004) demonstrated that human Drosha is a component of 2
+multiprotein complexes. The larger complex contains multiple classes of
+RNA-associated proteins including RNA helicases, proteins that bind
+double-stranded RNA, novel heterogeneous nuclear ribonucleoproteins, and
+the Ewing sarcoma family of proteins. The smaller complex is composed of
+Drosha and the double-stranded-RNA-binding protein DGCR8, the product of
+a gene deleted in DiGeorge syndrome. In vivo knockdown and in vitro
+reconstitution studies revealed that both components of this smaller
+complex, termed Microprocessor, are necessary and sufficient in
+mediating the genesis of miRNAs from the primary miRNA transcript.
+
+Han et al. (2006) used computational and biochemical analyses to
+elucidate the molecular basis for pri-miRNA processing by Drosha-DGCR8.
+A typical metazoan pri-miRNA consists of an approximately 33-bp stem,
+with a terminal loop and basal ssRNA segments. Han et al. (2006) found
+that the basal ssRNA segments were essential for processing, whereas the
+terminal loop was dispensable. The cleavage site was determined mainly
+by the distance (about 11 bp) from the stem-ssRNA junction. DGCR8, but
+not Drosha, interacted with pri-miRNAs directly and specifically, and
+the basal ssRNA segments were critical for this interaction. Han et al.
+(2006) proposed that DGCR8 may function as the molecular anchor that
+measures the distance from the stem-ssRNA junction.
+
+Wang et al. (2007) studied the role of miRNAs in embryonic stem (ES)
+cell differentiation by generating a Dgcr8 knockout model. Analysis of
+mouse knockout ES cells showed that DGCR8 is essential for biogenesis of
+miRNAs. Dgcr8-deficient mouse ES cells proliferated slowly and
+accumulated in G1 phase of the cell cycle. On the induction of
+differentiation, Dgcr8-deficient ES cells did not fully downregulate
+pluripotency markers and retained the ability to produce ES cell
+colonies; however, they did express some markers of differentiation.
+This phenotype differed from that reported for Dicer1 (606241) knockout
+cells, suggesting that Dicer has miRNA-independent roles in ES cell
+function. Wang et al. (2007) concluded that miRNAs function in the
+silencing of ES cell self-renewal that normally occurs with the
+induction of differentiation.
+
+By screening mouse miRNAs for those that could rescue the growth defect
+in Dgcr8-knockout mouse ES cells, Wang et al. (2008) identified a group
+of ES cell-specific miRNAs with a shared seed sequence (AAGUGC),
+including several members of the miR290 cluster. Complementary target
+sequences were found in the 3-prime UTR of the Cdkn1a (116899)
+transcript. All 5 ES cell-specific miRNAs tested (miR291a-3p,
+miR291b-3p, miR294, miR295, and miR302d) directly targeted the 3-prime
+UTR of Cdkn1a and inhibited reporter gene expression. Target sites were
+also identified in the 3-prime UTRs of other inhibitors of the cyclin E
+(see CCNE1; 123837)-CDK2 (116953) pathway, including Rb1 (614041), Rbl1
+(116957), Rbl2 (180203), and Lats2 (604861). Quantitative RT-PCR
+confirmed increased expression of these genes in Dgcr8-knockout mouse ES
+cells. Wang et al. (2008) concluded that ES cell-specific miRNAs have
+central roles in expediting the G1-S transition and promoting cellular
+proliferation.
+
+In the absence of Dgcr8, a protein required for microRNA biogenesis,
+mouse embryonic stem (ES) cells are unable to suppress self-renewal.
+Melton et al. (2010) showed that the introduction of let7 (605386)
+microRNAs, a family of microRNAs highly expressed in somatic cells, can
+suppress self-renewal in Dgcr8-null but not wildtype ES cells.
+Introduction of ES cell cell-cycle-regulating (ESCC) microRNAs into the
+Dgcr8-null ES cells blocked the capacity of let7 to suppress
+self-renewal. Profiling and bioinformatic analyses showed that let7
+inhibits, whereas ESCC microRNAs indirectly activate, numerous
+self-renewal genes. Furthermore, inhibition of the let7 family promoted
+dedifferentiation of somatic cells to induced pluripotent stem cells.
+Melton et al. (2010) concluded that ESCC and LET7 microRNAs act through
+common pathways to alternatively stabilize the self-renewing versus
+differentiated cell fates.
+
+GENE STRUCTURE
+
+Shiohama et al. (2003) determined that the DGCR8 gene contains 14 exons
+and spans more than 35 kb. The region just upstream of exon 1 shows a
+high GC and CpG content. The mouse Dgcr8 gene has the same gene
+structure and size as the human gene.
+
+MAPPING
+
+By genomic sequence analysis, Shiohama et al. (2003) mapped the DGCR8
+gene to chromosome 22q11.2. They mapped the mouse Dgcr8 gene to a region
+of chromosome 16q that shows homology of synteny to human chromosome
+22q11.2. However, the chromosomal segment is flipped in mouse as
+compared with human, so that the orientation of the human and mouse
+genes is opposite.
+
+ANIMAL MODEL
+
+Individuals with 22q11.2 microdeletions show behavioral and cognitive
+deficits and are at high risk of developing schizophrenia. Stark et al.
+(2008) engineered a mouse strain carrying a hemizygous 1.3-Mb
+chromosomal deficiency spanning a segment syntenic to the human 22q11.2
+locus. The hemizygous microdeletion, called Df(16)A +/-, encompassed 27
+genes and represented most of the functional genes in the human segment.
+Behaviorally, Df(16)A +/- mice were hyperactive compared to wildtype
+littermates and showed deficits in the PPI task. Males, but not females,
+appeared fearful of exploring their environment. Stark et al. (2008)
+found that Df(16)A +/- mice had abnormal brain microarchitecture,
+although no gross brain abnormalities were present. In the hippocampus,
+Df(16)A +/- mice had reduced number and size of dendritic spines and
+decreased dendritic complexity of CA1 pyramidal neurons. Analysis of
+heterozygous Dgcr8-deficient mice revealed that altered miRNA
+biogenesis, dendritic complexity, and PPI performance in Df(16)A +/-
+mice was due to Dgcr8 haploinsufficiency. Stark et al. (2008) concluded
+that abnormal miRNA processing contributes to the behavioral and
+neuronal deficits associated with the human 22q11.2 deletion.
+
+REFERENCE 1. Gregory, R. I.; Yan, K.; Amuthan, G.; Chendrimada, T.; Doratotaj,
+B.; Cooch, N.; Shiekhattar, R.: The Microprocessor complex mediates
+the genesis of microRNAs. Nature 432: 235-240, 2004.
+
+2. Han, J.; Lee, Y.; Yeom, K.-H.; Kim, Y.-K.; Jin, H.; Kim, V. N.
+: The Drosha-DGCR8 complex in primary microRNA processing. Genes
+Dev. 18: 3016-3027, 2004.
+
+3. Han, J.; Lee, Y.; Yeom, K.-H.; Nam, J.-W.; Heo, I.; Rhee, J.-K.;
+Sohn, S. Y.; Cho, Y.; Zhang, B.-T.; Kim, V. N.: Molecular basis for
+the recognition of primary microRNAs by the Drosha-DGCR8 complex. Cell 125:
+887-901, 2006.
+
+4. Melton, C.; Judson, R. L.; Blelloch, R.: Opposing microRNA families
+regulate self-renewal in mouse embryonic stem cells. Nature 463:
+621-626, 2010. Note: Erratum: Nature 464: 126 only, 2010.
+
+5. Shiohama, A.; Sasaki, T.; Noda, S.; Minoshima, S.; Shimizu, N.
+: Molecular cloning and expression analysis of a novel gene DGCR8
+located in the DiGeorge syndrome chromosomal region. Biochem. Biophys.
+Res. Commun. 304: 184-190, 2003.
+
+6. Stark, K. L.; Xu, B.; Bagchi, A.; Lai, W.-S.; Liu, H.; Hsu, R.;
+Wan, X.; Pavlidis, P.; Mills, A. A.; Karayiorgou, M.; Gogos, J. A.
+: Altered brain microRNA biogenesis contributes to phenotypic deficits
+in a 22q11-deletion mouse model. Nature Genet. 40: 751-760, 2008.
+
+7. Wang, Y.; Baskerville, S.; Shenoy, A.; Babiarz, J. E.; Baehner,
+L.; Blelloch, R.: Embryonic stem cell-specific microRNAs regulate
+the G1-S transition and promote rapid proliferation. Nature Genet. 40:
+1478-1483, 2008.
+
+8. Wang, Y.; Medvid, R.; Melton, C.; Jaenisch, R.; Blelloch, R.:
+DGCR8 is essential for microRNA biogenesis and silencing of embryonic
+stem cell self-renewal. Nature Genet. 39: 380-385, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/11/2010
+Matthew B. Gross - updated: 4/12/2010
+Patricia A. Hartz - updated: 2/11/2009
+Patricia A. Hartz - updated: 7/16/2008
+Ada Hamosh - updated: 6/27/2007
+Victor A. McKusick - updated: 4/4/2007
+Patricia A. Hartz - updated: 3/23/2005
+
+CREATED Patricia A. Hartz: 11/18/2004
+
+EDITED terry: 09/14/2012
+alopez: 6/17/2011
+alopez: 6/14/2010
+terry: 6/11/2010
+wwang: 4/16/2010
+mgross: 4/12/2010
+mgross: 2/16/2009
+terry: 2/11/2009
+carol: 12/1/2008
+alopez: 7/16/2008
+alopez: 7/5/2007
+terry: 6/27/2007
+alopez: 4/10/2007
+terry: 4/4/2007
+mgross: 3/23/2005
+mgross: 11/18/2004
+
+608527	TITLE *608527 NEURAMINIDASE 4; NEU4
+DESCRIPTION 
+DESCRIPTION
+
+Neuraminidases, or sialidases (EC 3.2.1.18), such as NEU4, constitute a
+large family of glycohydrolytic enzymes that cleave terminal sialic acid
+residues from various sialo derivatives, such as sialo-oligosaccharides,
+sialoglycoproteins, and gangliosides.
+
+CLONING
+
+Comelli et al. (2003) cloned mouse Neu4 from a brain cDNA library. The
+deduced 501-amino acid protein has a calculated molecular mass of about
+55 kD.
+
+Monti et al. (2004) cloned human NEU4 by searching a database for
+sequences similar to NEU2 (605528), followed by screening a PAC library
+and RT-PCR of total RNA extracted from COS-7 cells transfected with a
+NEU4 PAC clone. The NEU4 sequence has a high GC content (70%). The
+deduced 484-amino acid NEU4 protein has a calculated molecular mass of
+51.6 kD. It contains 2 putative transmembrane regions, an N-terminal
+sialidase motif, 2 classical asp blocks, and a stretch of 79 amino acids
+that appear unique among sialidases. NEU4 also has 3 potential
+O-glycosylation sites and several potential phosphorylation sites. The
+authors predicted that the N and C termini of NEU4 are extracellular.
+NEU4 shares significant similarity with a 478-amino acid variant of
+mouse Neu4, with complete conservation of residues likely to be within
+the active site. RNA dot blot analysis detected at least minimal
+expression of NEU4 in all 50 adult and fetal tissues examined. Highest
+expression was in liver, and much lower expression was detected in
+colon, small intestine, kidney, whole brain, and all central nervous
+system areas examined. Immunofluorescence and confocal analysis of
+transfected COS-7 cells showed extensive intracellular
+membrane-associated labeling for NEU4. The labeled membranous network
+was spread throughout the cytoplasm, and labeling did not colocalize
+with a lysosome marker.
+
+By Northern blot analysis, Seyrantepe et al. (2004) found variable
+expression of a 5.6-kb NEU4 transcript in all human tissues examined,
+with highest expression in skeletal muscle, heart, liver, and placenta.
+Epitope-tagged NEU4 expressed in COS-7 cells colocalized with lysosomal
+markers and fractionated with the supernatant following sonication,
+suggesting that NEU4 is a soluble lysosomal hydrolase. Glycosylated
+human NEU4 had an apparent molecular mass of 60 kD by SDS-PAGE.
+
+Bigi et al. (2010) stated that there are long and short isoforms of
+human NEU4 that differ in the presence or absence of a 12-amino acid
+N-terminal sequence. In contrast with the findings of Seyrantepe et al.
+(2004), Bigi et al. (2010) found that both isoforms were extrinsic
+membrane proteins. The long NEU4 isoform localized to the outer
+mitochondrial membrane, whereas the short isoform localized to several
+intracellular membranes, including the endoplasmic reticulum.
+
+GENE FUNCTION
+
+Comelli et al. (2003) showed that mouse Neu4 had sialidase activity at
+pH 5.5 against the synthetic substrate
+2-prime-(4-methylumbelliferyl)-alpha-D-N-acetylneuraminic acid
+(4MU-NeuAc).
+
+Monti et al. (2004) confirmed that human NEU4 has sialidase activity
+using 4MU-NeuAc as substrate; the pH optimum was 3.2. NEU4 did not
+remove sialic acid residues from alpha-2,3-sialyllactose, gangliosides
+GD1a and GM3, or any human and bovine glycoproteins used as substrate.
+Nearly 80% of the activity was recovered in a high-speed pellet of
+transfected COS-7 cells.
+
+Seyrantepe et al. (2004) found that human NEU4 expressed in COS-7 cells
+showed broad substrate specificity, being almost equally active on
+glycoproteins, oligosaccharides, sialylated glycolipids, and 4MU-NeuAc.
+With 4MU-NeuAc, NEU4 showed a pH optimum of 3.5. NEU4 was secreted from
+transfected mucolipidosis II (252500) fibroblasts rather than being
+targeted to lysosomes, suggesting that correct localization of NEU4 in
+lysosomes is dependent on mannose 6-phosphate receptor (see 154540).
+Expression of either NEU4 or NEU1 in sialidosis (256550) or
+galactosialidosis (256540) fibroblasts reduced the lysosomal storage
+phenotype, suggesting that NEU4 is active on undigested substrates
+containing neuraminic acid.
+
+The addition of polysialic acid, a homopolymer of alpha-2,8-linked
+sialic acid, is an important modification of neural cell adhesion
+molecule (NCAM, or NCAM1; 116930) and is implicated in neurite
+extension. Takahashi et al. (2012) found that the short isoform of mouse
+Neu4, which they called Neu4b, degraded polysialic acid on NCAM, whereas
+other neuraminidases, including the long isoform of Neu4, did not. Neu4b
+had activity with polysialic acid at acidic and near neutral pH.
+Overexpression of Neu4b in mouse embryonic hippocampal neurons inhibited
+neurite outgrowth in culture. Conversely, knockdown of Neu4 via small
+interfering RNA enhanced neurite outgrowth. Neu4b mainly localized to
+neuronal soma, predominantly at the ER, but it also partially
+colocalized with polysialic acid at growth cones. Takahashi et al.
+(2012) concluded that Neu4b is involved in regulation of neurite
+outgrowth by degrading the polysialic acid modification of NCAM.
+
+GENE STRUCTURE
+
+Monti et al. (2004) determined that the human NEU4 gene contains 4 exons
+and spans about 6.7 kb. Exon 1 is untranslated. Comelli et al. (2003)
+found that the mouse Neu4 gene contains 4 exons.
+
+MAPPING
+
+By genomic sequence analysis, Monti et al. (2004) mapped the NEU4 gene
+to chromosome 2q37.3, where it is flanked on the telomeric side by the
+GP3ST gene (608237) and on the centromeric side by the DTYMK gene
+(188345). Comelli et al. (2003) mapped the mouse Neu4 gene to chromosome
+1.
+
+REFERENCE 1. Bigi, A.; Morosi, L.; Pozzi, C.; Forcella, M.; Tettamanti, G.;
+Venerando, B.; Monti, E.; Fusi, P.: Human sialidase NEU4 long and
+short are extrinsic proteins bound to outer mitochondrial membrane
+and the endoplasmic reticulum, respectively. Glycobiology 20: 148-157,
+2010.
+
+2. Comelli, E. M.; Amado, M.; Lustig, S. R.; Paulson, J. C.: Identification
+and expression of Neu4, a novel murine sialidase. Gene 321: 155-161,
+2003.
+
+3. Monti, E.; Bassi, M. T.; Bresciani, R.; Civini, S.; Croci, G. L.;
+Papini, N.; Riboni, M.; Zanchetti, G.; Ballabio, A.; Preti, A.; Tettamanti,
+G.; Venerando, B.; Borsani, G.: Molecular cloning and characterization
+of NEU4, the fourth member of the human sialidase gene family. Genomics 83:
+445-453, 2004.
+
+4. Seyrantepe, V.; Landry, K.; Trudel, S.; Hassan, J. A.; Morales,
+C. R.; Pshezhetsky, A. V.: Neu4, a novel human lysosomal lumen sialidase,
+confers normal phenotype to sialidosis and galactosialidosis cells. J.
+Biol. Chem. 279: 37021-37029, 2004.
+
+5. Takahashi, K.; Mitoma, J.; Hosono, M.; Shiozaki, K.; Sato, C.;
+Yamaguchi, K.; Kitajima, K.; Higashi, H.; Nitta, K.; Shima, H.; Miyagi,
+T.: Sialidase NEU4 hydrolyzes polysialic acids of neural cell adhesion
+molecules and negatively regulates neurite formation by hippocampal
+neurons. J. Biol. Chem. 287: 14816-14826, 2012.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/14/2013
+
+CREATED Patricia A. Hartz: 3/15/2004
+
+EDITED mgross: 03/14/2013
+terry: 3/14/2013
+mgross: 3/15/2004
+

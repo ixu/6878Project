@@ -1,0 +1,3064 @@
+610051	TITLE *610051 CHMP FAMILY, MEMBER 4A; CHMP4A
+;;CHROMATIN-MODIFYING PROTEIN 4A;;
+CHARGED MULTIVESICULAR BODY PROTEIN 4A;;
+CHMP4;;
+SNF7, YEAST, HOMOLOG OF, 1;;
+SNF7-1;;
+HSPC134
+DESCRIPTION 
+DESCRIPTION
+
+CHMP4A belongs to the chromatin-modifying protein/charged multivesicular
+body protein (CHMP) family. These proteins are components of ESCRT-III
+(endosomal sorting complex required for transport III), a complex
+involved in degradation of surface receptor proteins and formation of
+endocytic multivesicular bodies (MVBs). Some CHMPs have both nuclear and
+cytoplasmic/vesicular distributions, and one such CHMP, CHMP1A (164010),
+is required for both MVB formation and regulation of cell cycle
+progression (Tsang et al., 2006).
+
+CLONING
+
+Using the N-terminal region of ALIX (PDCD6IP; 608074) as bait in a yeast
+2-hybrid screen of a HeLa cell cDNA library, Katoh et al. (2003) cloned
+CHMP4A. The deduced 223-amino acid protein has 3 coiled-coil regions, a
+basic N-terminal half, and an acidic C-terminal half.
+
+By Northern blot analysis, Katoh et al. (2004) detected a 1-kb CHMP4A
+transcript in all tissues examined, with highest expression in heart and
+moderate expression in skeletal muscle, kidney, and liver.
+
+By PCR of a human melanoma cDNA library, Lin et al. (2005) cloned
+CHMP4A, which they designated SNF7-1. They identified 2 PxxP motifs near
+the C terminus of CHMP4A. Northern blot analysis detected CHMP4A
+expression in all tissues examined, with highest levels in kidney,
+liver, skeletal muscle, and heart.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis, Katoh et al. (2003) found that CHMP4A
+interacted with ALIX.
+
+Lin et al. (2005) found that overexpressed SNF7-1 associated with COS-7
+cell membranes and perturbed normal multivesicular body biogenesis. The
+N-terminal half of SNF7-1 localized to membranes and formed
+detergent-resistant polymers, whereas the C-terminal half associated
+with the ESCRT-III component SKD1 (VPS4B; 609983).
+
+Tsang et al. (2006) performed a systematic yeast 2-hybrid analysis of
+human ESCRT-III components, including CHMP4A. CHMP4A interacted with the
+ESCRT-III protein VPS4A (609982) and with the signal transduction
+molecule CC2D1A (610055).
+
+In S. cerevisiae, ESCRT-III consists of Vps20 (610901), Snf7, Vps24
+(610052), and Vps2 (610893), which assemble in that order and require
+the ATPase Vps4 for their disassembly. Wollert et al. (2009)
+reconstituted and visualized by fluorescence microscopy the
+ESCRT-III-dependent budding and scission of intralumenal vesicles into
+giant unilamellar vesicles. Wollert et al. (2009) showed that 3 subunits
+of ESCRT-III, Vps20, Snf7, and Vps24, are sufficient to detach
+intralumenal vesicles. Vps2, the ESCRT-III subunit responsible for
+recruiting Vps4, and the ATPase activity of Vps4 were required for
+ESCRT-III recycling and supported additional rounds of budding. The
+minimum set of ESCRT-III and Vps4 proteins capable of multiple cycles of
+vesicle detachment corresponds to the ancient set of ESCRT proteins
+conserved from archaea to animals.
+
+MAPPING
+
+By genomic sequence analysis, Katoh et al. (2003) mapped the CHMP4A gene
+to chromosome 14q11.2.
+
+REFERENCE 1. Katoh, K.; Shibata, H.; Hatta, K.; Maki, M.: CHMP4b is a major
+binding partner of the ALG-2-interacting protein Alix among the three
+CHMP4 isoforms. Arch. Biochem. Biophys. 421: 159-165, 2004.
+
+2. Katoh, K.; Shibata, H.; Suzuki, H.; Nara, A.; Ishidoh, K.; Kominami,
+E.; Yoshimori, T.; Maki, M.: The ALG-2-interacting protein Alix associates
+with CHMP4b, a human homologue of yeast Snf7 that is involved in multivesicular
+body sorting. J. Biol. Chem. 278: 39104-39113, 2003.
+
+3. Lin, Y.; Kimpler, L. A.; Naismith, T. V.; Lauer, J. M.; Hanson,
+P. I.: Interaction of the mammalian endosomal sorting complex required
+for transport (ESCRT) III protein hSnf7-1 with itself, membranes,
+and the AAA+ ATPase SKD1. J. Biol. Chem. 280: 12799-12809, 2005.
+Note: Erratum: J. Biol. Chem. 281: 38966 only, 2006.
+
+4. Tsang, H. T. H.; Connell, J. W.; Brown, S. E.; Thompson, A.; Reid,
+E.; Sanderson, C. M.: A systematic analysis of human CHMP protein
+interactions: additional MIT domain-containing proteins bind to multiple
+components of the human ESCRT III complex. Genomics 88: 333-346,
+2006.
+
+5. Wollert, T.; Wunder, C.; Lippincott-Schwartz, J.; Hurley, J. H.
+: Membrane scission by the ESCRT-III complex. Nature 458: 172-177,
+2009.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/12/2009
+Patricia A. Hartz - updated: 3/28/2007
+
+CREATED Patricia A. Hartz: 4/13/2006
+
+EDITED terry: 08/22/2012
+alopez: 5/15/2009
+terry: 5/12/2009
+mgross: 3/28/2007
+mgross: 4/13/2006
+
+606091	TITLE *606091 SIALIC ACID-BINDING IMMUNOGLOBULIN-LIKE LECTIN 10; SIGLEC10
+DESCRIPTION 
+DESCRIPTION
+
+SIGLECs are members of the immunoglobulin superfamily that are expressed
+on the cell surface. Most SIGLECs have 1 or more cytoplasmic immune
+receptor tyrosine-based inhibitory motifs, or ITIMs. SIGLECs are
+typically expressed on cells of the innate immune system, with the
+exception of the B-cell expressed SIGLEC6 (604405).
+
+CLONING
+
+By searching an EST database for sequences resembling CD33 (SIGLEC3;
+159590) and screening a spleen cDNA library, Munday et al. (2001)
+isolated a cDNA encoding SIGLEC10. Sequence analysis predicted that the
+697-amino acid SIGLEC10 protein contains a signal peptide, an N-terminal
+V-set Ig-like domain and 4 C2-set Ig-like domains, 5 potential N-linked
+glycosylation sites, a transmembrane region, and a 126-residue
+cytoplasmic tail with 3 putative ITIMs. Northern blot analysis detected
+a major 3.0-kb SIGLEC10 transcript, with highest levels in spleen, lymph
+node, blood leukocytes, and appendix. Little or no expression was
+observed in pancreas, thyroid, and testis. Flow cytometric analysis
+demonstrated eosinophil-specific expression of SIGLEC10, but at a lower
+level than that of SIGLEC8 (605639). Expression was also detected on
+monocytes and a CD16 (146740)-positive/CD56-negative natural killer-like
+lymphocyte population. After sialidase treatment, which is necessary for
+unmasking the sialic acid-binding site on SIGLECs interacting with cell
+surface sialic acids, cells expressing SIGLEC10 bound to red blood
+cells. Immunoprecipitation analysis indicated expression of a 100- to
+120-kD monomeric protein, higher than the predicted molecular mass,
+suggesting that SIGLEC10 is glycosylated.
+
+By random sequencing and by comparison with known SIGLEC sequences, Li
+et al. (2001) independently cloned SIGLEC10 from a dendritic cell cDNA
+library. The cDNA predicted a deduced 607-amino acid protein containing
+3 C2-set domains and 3 putative N-glycosylation sites. Northern blot
+analysis of multiple human tissues revealed a transcript of about 3.3 kb
+in peripheral blood lymphocytes, ovary, and spleen, and a transcript of
+about 1.8 kb in liver, spleen, thymus, and lung.
+
+Using the positional candidate cloning approach, Yousef et al. (2001)
+identified SIGLEC10 and found that it encodes 3 variants: a deduced
+protein of 697 amino acids, a shorter variant missing exon 8, and a
+variant with multiple combined exons including intronic sequences.
+RT-PCR detected expression of SIGLEC10 primarily in bone marrow, spleen,
+brain, small intestine, colon, and spinal cord.
+
+GENE FUNCTION
+
+With use of SIGLEC10-transfected COS-7 cells, Li et al. (2001) found
+moderate red blood cell binding and rosette formation that was augmented
+by sialidase pretreatment to eliminate sialylated (cis ligands) on the
+COS-7 cell surface. With use of polyacrylamide glycoconjugates, they
+determined that SIGLEC10 preferentially bound glycoconjugates carrying
+sialic acid in either alpha-2,3 or alpha-2,6 linkages, similar to the
+binding observed for SIGLEC5 (604200).
+
+Pathogen-associated molecular patterns (PAMPs) and danger (cell
+injury)-associated molecular patterns (DAMPs) both trigger activation of
+the innate immune system. Chen et al. (2009) reported that Cd24
+(600074)-deficient mice exhibit increased susceptibility to DAMPs but
+not PAMPs. CD24 associates with high mobility group box-1 (HMGB1;
+163905), heat shock protein-70 (HSP70; 140550), and heat shock
+protein-90 (HSP90; 140571). CD24 negatively regulates their stimulatory
+activity and inhibits nuclear factor kappa-B (see 164011) activation.
+Chen et al. (2009) reported that this occurs at least in part through
+CD24 association with SIGLEC10 in humans or SiglecG in mice. Chen et al.
+(2009) concluded that the CD24-SiglecG pathway protects the host against
+a lethal response to pathologic cell death and discriminates danger-
+versus pathogen-associated molecular patterns.
+
+GENE STRUCTURE
+
+Yousef et al. (2001) determined that the SIGLEC10 gene contains 11 exons
+and spans about 6.5 kb.
+
+MAPPING
+
+Using FISH, Munday et al. (2001) mapped the SIGLEC10 gene to 19q13.3,
+where it is closely linked to other CD33-related SIGLECs. Yousef et al.
+(2001) identified the SIGLEC10 gene on overlapping BAC clones localized
+to chromosome 19q13.4. SIGLEC10 lies 278 kb telomeric to SIGLEC9
+(605640) and 35 kb centromeric to SIGLEC8.
+
+REFERENCE 1. Chen, G.-Y.; Tang, J.; Zheng, P.; Liu, Y.: CD24 and Siglec-10
+selectively repress tissue damage-induced immune responses. Science 323:
+1722-1725, 2009.
+
+2. Li, N.; Zhang, W.; Wan, T.; Zhang, J.; Chen, T.; Yu, Y.; Wang,
+J.; Cao, X.: Cloning and characterization of Siglec-10, a novel sialic
+acid binding member of the Ig superfamily, from human dendritic cells. J.
+Biol. Chem. 276: 28106-28112, 2001.
+
+3. Munday, J.; Kerr, S.; Ni, J.; Cornish, A. L.; Zhang, J. Q.; Nicoll,
+G.; Floyd, H.; Mattei, M.-G.; Moore, P.; Liu, D.; Crocker, P. R.:
+Identification, characterization and leucocyte expression of Siglec-10,
+a novel human sialic acid-binding receptor. Biochem. J. 355: 489-497,
+2001.
+
+4. Yousef, G. M.; Ordon, M. H.; Foussias, G.; Diamandis, E. P.: Molecular
+characterization, tissue expression, and mapping of a novel Siglec-like
+gene (SLG2) with three splice variants. Biochem. Biophys. Res. Commun. 284:
+900-910, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/18/2009
+Patricia A. Hartz - updated: 6/11/2002
+
+CREATED Paul J. Converse: 7/9/2001
+
+EDITED alopez: 06/23/2009
+terry: 6/18/2009
+carol: 6/12/2002
+carol: 6/11/2002
+mgross: 7/9/2001
+
+610955	TITLE *610955 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 3; TRAPPC3
+;;BET3, YEAST, HOMOLOG OF; BET3
+DESCRIPTION 
+DESCRIPTION
+
+TRAPPC3 is a component of the TRAPP complex, which is involved in
+tethering of transport vesicles to the cis-Golgi membrane (Turnbull et
+al., 2005).
+
+CLONING
+
+Loh et al. (2005) reported that the human TRAPPC3 protein, which they
+called BET3, contains 180 amino acids. Northern blot analysis detected
+Bet3 expression in all mouse tissues examined. Western blot analysis of
+fractionated rat liver showed that most Bet3 was present in the
+cytosolic fraction, with a lesser amount in the Golgi-enriched membrane
+fraction.
+
+By immunohistochemical analysis, Yu et al. (2006) found that endogenous
+BET3 showed perinuclear localization in several mammalian cell lines,
+including HeLa cells.
+
+GENE FUNCTION
+
+Loh et al. (2005) found that antibodies against Bet3 inhibited in vitro
+transport of the envelope glycoprotein of vesicular stomatitis virus
+from the endoplasmic reticulum (ER) to the Golgi apparatus of
+semi-intact rat kidney cells in a dose-dependent manner. Cytosol
+depleted of Bet3 was also defective in this transport and could be
+rescued by recombinant Bet3. Bet3 acted after coat protein II (COPII;
+see 601924) but before Rab1 (179508), alpha-Snap (NAPA; 603215), and the
+EGTA-sensitive stage during ER-Golgi transport.
+
+Turnbull et al. (2005) found that both human and yeast BET3 were
+palmitoylated in recombinant yeast cells, but palmitoylation of BET3 was
+only partly responsible for the its membrane localization. Both wildtype
+yeast Bet3 and mutant yeast Bet3 lacking palmitoylation rescued cell
+viability in Bet3-deleted yeast, suggesting that palmitoylation is not
+required for cell viability. Despite high sequence conservation, human
+BET3 failed to rescue Bet3-deleted yeast.
+
+In mammalian cells, COPII vesicles derived from the transitional ER do
+not tether directly to the Golgi, but rather tether to each other to
+form vesicular tubular clusters (VTCs). Using various mammalian cell
+lines, including HeLa cells, Yu et al. (2006) showed that BET3 resided
+in the transitional ER and adjacent to VTCs. Inactivation of BET3
+resulted in accumulation of cargo in membranes that colocalized with the
+COPII coat. Using an assay that reconstituted VTC biogenesis in vitro,
+Yu et al. (2006) demonstrated that BET3 was required for the tethering
+and fusion of COPII vesicles to each other. Depletion of BET3 by small
+interfering RNA disrupted a VTC marker and Golgi architecture. Yu et al.
+(2006) concluded that BET3 is essential for VTC biogenesis.
+
+Cai et al. (2007) reported that in yeast and mammalian cells the
+tethering complex TRAPP I binds to the coat subunit SEC23 (see 610511).
+This event requires the BET3 subunit. In vitro studies demonstrated that
+the interaction between SEC23 and BET3 targets TRAPP I to COPII vesicles
+to mediate vesicle tethering. Cai et al. (2007) proposed that the
+binding of TRAPP I to SEC23 marks a coated vesicle for fusion with
+another COPII vesicle or the Golgi apparatus. An implication of these
+findings is that the intracellular destination of a transport vesicle
+may be determined in part by its coat and its associated cargo.
+
+BIOCHEMICAL FEATURES
+
+Turnbull et al. (2005) determined the crystal structure of human BET3 to
+1.55-angstrom resolution. BET3 assumes an alpha/beta-plait topology
+constructed by a twisted, antiparallel, 4-stranded beta sheet on one
+side, with the 5 alpha helices forming the other side of the structural
+motif. BET3 forms a dimer around the crystallographic 2-fold axis. A
+hydrophobic pocket within the core of the alpha-helical face contains an
+internal palmitate molecule covalently attached through a thioester
+linkage to the conserved cys68.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TRAPPC3
+gene to chromosome 1 (TMAP RH80455).
+
+REFERENCE 1. Cai, H.; Yu, S.; Menon, S.; Cai, Y.; Lazarova, D.; Fu, C.; Reinisch,
+K.; Hay, J. C.; Ferro-Novick, S.: TRAPPI tethers COPII vesicles by
+binding the coat subunit Sec23. Nature 445: 941-944, 2007.
+
+2. Loh, E.; Peter, F.; Subramaniam, V. N.; Hong, W.: Mammalian Bet3
+functions as a cytosolic factor participating in transport from the
+ER to the Golgi apparatus. J. Cell Sci. 118: 1209-1222, 2005.
+
+3. Turnbull, A. P.; Kummel, D.; Prinz, B.; Holz, C.; Schultchen, J.;
+Lang, C.; Niesen, F. H.; Hofmann, K.-P.; Delbruck, H.; Behlke, J.;
+Muller, E.-C.; Jarosch, E.; Sommer, T.; Heinemann, U.: Structure
+of palmitoylated BET3: insights into TRAPP complex assembly and membrane
+localization. EMBO J. 24: 875-884, 2005.
+
+4. Yu, S.; Satoh, A.; Pypaert, M.; Mullen, K.; Hay, J. C.; Ferro-Novick,
+S.: mBet3p is required for homotypic COPII vesicle tethering in mammalian
+cells. J. Cell Biol. 174: 359-368, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/29/2007
+
+CREATED Patricia A. Hartz: 4/20/2007
+
+EDITED alopez: 07/03/2007
+terry: 6/29/2007
+mgross: 4/20/2007
+
+614452	TITLE *614452 ATPASE FAMILY, AAA DOMAIN-CONTAINING, MEMBER 1; ATAD1
+;;THORASE
+DESCRIPTION 
+DESCRIPTION
+
+Members of the AAA+ ATPase family, such as ATAD1, often performs
+chaperone-like functions, including membrane dynamics, protein
+transport, and assembly or disassembly of protein complexes. ATAD1
+appears to regulate surface expression of AMPA receptors (AMPARs; see
+138248) (Zhang et al., 2011).
+
+CLONING
+
+Zhang et al. (2011) cloned rat Atad1, which they named thorase after
+Thor, the Norse god of thunder and lightning. By database analysis, they
+identified orthologs of thorase in human, mouse, orangutan, and cow. The
+deduced thorase proteins from these species all contain 361 amino acids
+and are 100% identical except for rat thorase, which has 1 amino acid
+substitution. Thorase contains an N-terminal linker domain, followed by
+an AAA ATPase domain, which is composed of Walker A and Walker B motifs,
+and a C-terminal second region of homology that defines classic AAA
+proteins. Northern blot analysis of mouse tissues detected a 3-kb
+transcript in most tissues, with highest expression in heart, brain,
+thymus, and ovary. Strong expression of a smaller transcript was
+detected in testis. Immunohistochemical analysis revealed heterogeneous
+thorase expression in mouse brain, with relatively strong staining of
+hippocampal CA1 pyramidal cells. Confocal microscopy revealed that
+thorase colocalized with postsynaptic markers. Subcellular fractionation
+of whole mouse brain showed that thorase segregated with crude
+synaptosomes.
+
+GENE FUNCTION
+
+Zhang et al. (2011) showed that rat thorase had ATPase activity and
+required both Walker A and B boxes for full activity.
+Coimmunoprecipitation of thorase with coexpressed postsynaptic proteins
+in HEK293 cells revealed that thorase specifically interacted with the
+AMPAR subunits Grip1 (604597) and Glur2 (GRIA2; 138247). Mutation
+analysis revealed that the PDZ5 domain of Grip1 and the C terminus of
+Glur2 were involved in the interactions with thorase. Overexpression of
+thorase in mouse cortical and hippocampal neural cultures reduced the
+surface expression of Glur2 and regulated AMPAR surface expression in an
+ATPase-dependent manner. Binding of Grip1 and thorase to the Glur2
+complex increased in the presence of ATP-gamma-S, a nonhydrolyzable ATP
+analog, and the complex disassembled in the presence of ATP and Mg(2+).
+Zhang et al. (2011) proposed that thorase acts at GLUR2-GRIP1 complexes
+to control the endocytosis and removal of AMPARs from postsynaptic
+membranes.
+
+MAPPING
+
+Hartz (2012) mapped the ATAD1 gene to chromosome 10q23.31 based on an
+alignment of the ATAD1 sequence (GenBank GENBANK AK027506) with the
+genomic sequence (GRCh37).
+
+ANIMAL MODEL
+
+Zhang et al. (2011) found that thorase-knockout (KO) mice were viable
+but significantly smaller than their wildtype littermates. Most
+thorase-KO mice died by postnatal day 25 with seizures associated with
+increased AMPA currents. Examination of thorase-KO brains revealed no
+substantial abnormalities in dendritic complexity, or number, density,
+or size of dendritic spines. However, thorase-KO brains showed elevated
+steady-state surface expression of the AMPAR subunits Glur1 (GRIA1;
+138248) and Glur2 compared with wildtype littermates. Loss of thorase in
+thorase-KO brains resulted in reduced endocytosis of AMPARs, but not of
+transferrin receptors (190010). Conditional thorase-KO mice exhibited
+seizures and showed deficits in short-term memory and in
+hippocampal-dependent spatial working memory.
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/6/2012.
+
+2. Zhang, J.; Wang, Y.; Chi, Z.; Keuss, M. J.; Pai, Y.-M. E.; Kang,
+H. C.; Shin, J.; Bugayenko, A.; Wang, H.; Xiong, Y.; Pletnikov, M.
+V.; Mattson, M. P.; Dawson, T. M.; Dawson, V. L.: The AAA+ ATPase
+thorase regulates AMPA receptor-dependent synaptic plasticity and
+behavior. Cell 145: 284-299, 2011.
+
+CREATED Patricia A. Hartz: 1/27/2012
+
+EDITED mgross: 01/27/2012
+
+611966	TITLE *611966 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 9; TRAPPC9
+;;NIK- AND IKBKB-BINDING PROTEIN; NIBP;;
+KIAA1882
+DESCRIPTION 
+DESCRIPTION
+
+NIBP binds NIK (604655) and IKK-beta (IKBKB; 603258) and plays a role in
+the neuronal NF-kappa-B (see 164011) signaling pathway (Hu et al.,
+2005).
+
+CLONING
+
+By sequencing clones obtained from an adult amygdala cDNA library,
+Nagase et al. (2001) cloned a partial cDNA encoding NIBP, which they
+designated KIAA1882. RT-PCR ELISA detected moderate expression in all
+tissues and specific brain regions examined.
+
+By yeast 2-hybrid screening of a human brain cDNA library using
+N-terminal NIK (MAP3K14; 604655) as bait, followed by database analysis,
+Hu et al. (2005) cloned NIBP. The deduced 1,246-amino acid protein has a
+calculated molecular mass of 139.4 kD and shares 80 to 90% homology with
+the corresponding rodent sequences. Northern blot analysis of human
+tissues detected a 4.5-kb transcript with high expression in muscle and
+kidney, and lower levels in brain, heart, and placenta; 2 smaller
+transcripts of 2.1 and 1.5 kb were also detected. Immunohistochemical
+studies detected NIBP protein in neuronal cells in mouse brain with
+staining localized to cell bodies and neuronal processes in the
+pyramidal layer of mouse cortex, spinal cord motor neurons, and white
+matter neurons.
+
+Mochida et al. (2009) noted that there are 2 transcript variants of
+TRAPPC9 in humans. Variant 1 is the longer form and encodes a
+1,246-amino acid protein. Variant 2 uses an alternate 5-prime exon
+initiating translation at a downstream start codon and encodes a
+1,148-amino acid protein. In situ hybridization showed low levels of
+expression in mouse embryonic brain with strong expression in adult
+brain. Trappc9 was found in neurons of the cerebral cortex, hippocampus,
+and deep gray matter. Trappc9 immunoreactivity was widespread in the
+cytoplasm, without specific localization to any particular organelle,
+and was not found in the nucleus. In 11.5-week human embryonic brain,
+there was higher expression in the developing cortical plate compared to
+the ventricular zone, indicating higher expression in postmitotic
+neurons than in progenitor cells.
+
+GENE STRUCTURE
+
+Hu et al. (2005) determined that the TRAPPC9 gene contains 23 exons.
+
+MAPPING
+
+By genomic sequence analysis, Hu et al. (2005) mapped the TRAPPC9 gene
+to chromosome 8q24.3.
+
+GENE FUNCTION
+
+By coimmunoprecipitation and GST pull-down assays, Hu et al. (2005)
+showed that NIBP interacted with NIK and IKK-beta but showed no
+interaction with IKK-alpha (CHUK; 600664) or IKK-gamma (IKBKG; 300248).
+NIBP overexpression in HEK293T cells potentiated TNFA (191160)-induced
+NF-kappa-B activation through increased phosphorylation of the IKK
+complex and its downstream substrates IKBA (NFKBIA; 164008) and p65
+(NFKB3; 164014). Mobility shift assays demonstrated increased NF-kappa-B
+DNA binding. Knockdown of NIBP by siRNA reduced TNFA-induced NF-kappa-B
+activation, prevented NGF (see 162030)-induced neuronal differentiation,
+and decreased BCLXL (see BCL2L1; 600039) gene expression in PC12 cells.
+Hu et al. (2005) suggested that NIBP may act as an adaptor to recruit
+NIK or other kinases to the IKK complex, and that NIBP acts as a
+downstream component of NGF in neuronal cells.
+
+MOLECULAR GENETICS
+
+By genomewide linkage analysis, followed by candidate gene sequencing,
+of an Israeli Arab family with nonsyndromic mental retardation (MRT13;
+613192), Mochida et al. (2009) identified a homozygous truncating
+mutation in the TRAPPC9 gene (R475X; 611966.0001).
+
+Mir et al. (2009) identified the R475X mutation in affected members of a
+Pakistani family with MRT13 and identified a 4-bp deletion (611966.0003)
+in affected members of an Iranian family with MRT13, previously reported
+by Najmabadi et al. (2007).
+
+Philippe et al. (2009) identified a nonsense mutation in the TRAPPC9
+gene (611966.0002) in 3 Tunisian brothers with autosomal recessive
+mental retardation.
+
+In 2 sisters, born of unrelated parents from southern Italy, with MRT13,
+Marangi et al. (2013) identified a homozygous truncating mutation in the
+TRAPPC9 gene (611966.0004).
+
+ALLELIC VARIANT .0001
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, ARG475TER
+
+In affected members of an Israeli Arab family with nonsyndromic
+autosomal recessive mental retardation and postnatal microcephaly
+(MRT13; 613192), Mochida et al. (2009) identified a homozygous 1423C-T
+transition in exon 7 of the TRAPPC9 gene, resulting in an arg475-to-ter
+(R475X) substitution in TRAPPC9 variant 1. The same change represents
+1129C-T, resulting in an arg377-to-ter (R377X) substitution, in TRAPPC9
+variant 2. Each unaffected parent was heterozygous for the mutation, and
+it was not identified in 306 control chromosomes. The protein was not
+detected in patient lymphoblast cell lines.
+
+Mir et al. (2009) identified a homozygous 1422C-T transition in the
+TRAPPC9 gene, resulting in an R475X mutation, in affected members of a
+large consanguineous Pakistani family with mental retardation. The
+mutant protein was not expressed, consistent with nonsense-mediated mRNA
+decay. Affected individuals had borderline microcephaly, delayed
+walking, and white matter abnormalities on brain MRI.
+
+Abou Jamra et al. (2011) identified homozygosity for the R475X mutation
+in affected members of a large consanguineous Syrian family with
+autosomal recessive mental retardation. The patients had neonatal
+hypotonia, severe motor delay with walking between ages 5 and 7 years,
+single words or no speech, growth retardation, stereotypic movements,
+and hand flapping. They also shared some dysmorphic features, including
+low frontal hairline, synophrys, and microcephaly.
+
+.0002
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, ARG570TER
+
+In 3 brothers, born of consanguineous Tunisian parents, with autosomal
+recessive mental retardation (MRT13; 613192), Philippe et al. (2009)
+identified a homozygous 1708C-T transition in exon 9 of the TRAPPC9
+gene, resulting in an arg570-to-ter (R570X) substitution. The mutation
+was not found in 1,120 control chromosomes. The protein was not detected
+in patient fibroblasts, and the authors postulated nonsense-mediated
+mRNA decay. In cultured patient fibroblasts, stimulation with TNF-alpha
+(191160) showed a defect in IKBA (NFKBIA; 164008) degradation,
+suggesting impaired function of the NF-kappa-B (see 164011) signaling
+pathway.
+
+.0003
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, 4-BP DEL, 2311TGTT
+
+In affected members of an Iranian family (M001) with mental retardation
+(613192), previously reported by Najmabadi et al. (2007) as showing
+linkage to chromosome 8q24, Mir et al. (2009) identified a 4-bp deletion
+(2311delTGTT) in the TRAPPC9 gene, resulting in a frameshift and
+premature termination. Affected members had severe nonsyndromic mental
+retardation, were ambulatory but nonverbal, and had microcephaly. There
+were no seizures or dysmorphic features.
+
+.0004
+MENTAL RETARDATION, AUTOSOMAL RECESSIVE 13
+TRAPPC9, IVS17AS, A-C, -2
+
+In 2 sisters, born of unrelated parents from southern Italy, with MRT13
+(613192), Marangi et al. (2013) identified a homozygous A-to-C
+transversion in intron 17 of the TRAPPC9 gene (2851-2A-C), resulting in
+the skipping of exon 18, a frameshift, and premature termination
+(Thr951TyrfsTer17). Each unaffected parent was heterozygous for the
+mutation, which was identified by exome sequencing. PCR analysis of
+patient cells did not show reduction of the TRAPPC9 transcript in the 2
+sisters.
+
+REFERENCE 1. Abou Jamra, R. A.; Wohlfart, S.; Zweier, M.; Uebe, S.; Priebe,
+L.; Ekici, A.; Giesebrecht, S.; Abboud, A.; Al Khateeb, M. A.; Fakher,
+M.; Hamdan, S.; Ismael, A.; Muhammad, S.; Nothen, M. M.; Schumacher,
+J.; Reis, A.: Homozygosity mapping in 64 Syrian consanguineous families
+with non-specific intellectual disability reveals 11 novel loci and
+high heterogeneity. Europ. J. Hum. Genet. 19: 1161-1166, 2011.
+
+2. Hu, W.-H.; Pendergast, J. S.; Mo, X.-M.; Brambilla, R.; Bracchi-Ricard,
+V.; Li, F.; Walters, W. M.; Blits, B.; He, L.; Schaal, S. M.; Bethea,
+J. R.: NIBP, a novel NIK and IKK-beta-binding protein that enhances
+NF-kappa-B activation. J. Biol. Chem. 280: 29233-29241, 2005.
+
+3. Marangi, G.; Leuzzi, V.; Manti, F.; Lattante, S.; Orteschi, D.;
+Pecile, V.; Neri, G.; Zollino, M.: TRAPPC9-related autosomal recessive
+intellectual disability: report of a new mutation and clinical phenotype. Europ.
+J. Hum. Genet. 21: 229-232, 2013.
+
+4. Mir, A.; Kaufman, L.; Noor, A.; Motazacker, M. M.; Jamil, T.; Azam,
+M.; Kahrizi, K.; Rafiq, M. A.; Weksberg, R.; Nasr, T.; Naeem, F.;
+Tzschach, A.; Kuss, A. W.; Ishak, G. E.; Doherty, D.; Ropers, H. H.;
+Barkovich, A. J.; Najmabadi, H.; Ayub, M.; Vincent, J. B.: Identification
+of mutations in TRAPPC9, which encodes the NIK- and IKK-beta-binding
+protein, in nonsyndromic autosomal-recessive mental retardation. Am.
+J. Hum. Genet. 85: 909-915, 2009.
+
+5. Mochida, G. H.; Mahajnah, M.; Hill, A. D.; Basel-Vanagaite, L.;
+Gleason, D.; Hill, R. S.; Bodell, A.; Crosier, M.; Straussberg, R.;
+Walsh, C. A.: A truncating mutation of TRAPPC9 is associated with
+autosomal-recessive intellectual disability and postnatal microcephaly. Am.
+J. Hum. Genet. 85: 897-902, 2009.
+
+6. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXI. The complete sequences of 60 new
+cDNA clones from brain which code for large proteins. DNA Res. 8:
+179-187, 2001.
+
+7. Najmabadi, H.; Motazacker, M. M.; Garshasbi, M.; Kahrizi, K.; Tzschach,
+A.; Chen, W.; Behjati, F.; Hadavi, V.; Nieh, S. E.; Abedini, S. S.;
+Vazifehmand, R.; Firouzabadi, S. G.; and 9 others: Homozygosity
+mapping in consanguineous families reveals extreme heterogeneity of
+non-syndromic autosomal recessive mental retardation and identifies
+8 novel gene loci. Hum. Genet. 121: 43-48, 2007.
+
+8. Philippe, O.; Rio, M.; Carioux, A.; Plaza, J.-M.; Guigue, P.; Molinari,
+F.; Boddaert, N.; Bole-Feysot, C.; Nitschke, P.; Smahi, A.; Munnich,
+A.; Colleaux, L.: Combination of linkage mapping and microarray-expression
+analysis identifies NF-kappa-B signaling defect as a cause of autosomal-recessive
+mental retardation. Am. J. Hum. Genet. 85: 903-908, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/20/2013
+Cassandra L. Kniffin - updated: 11/17/2011
+Cassandra L. Kniffin - updated: 12/21/2009
+
+CREATED Dorothy S. Reilly: 4/18/2008
+
+EDITED carol: 09/13/2013
+carol: 5/8/2013
+carol: 3/27/2013
+ckniffin: 3/20/2013
+carol: 1/3/2012
+carol: 11/17/2011
+ckniffin: 11/17/2011
+wwang: 12/30/2009
+ckniffin: 12/21/2009
+mgross: 12/17/2009
+carol: 4/18/2008
+wwang: 4/18/2008
+
+606878	TITLE *606878 ACIDIC LEUCINE-RICH NUCLEAR PHOSPHOPROTEIN 32 FAMILY, MEMBER D; ANP32D
+;;PP32R2
+DESCRIPTION 
+CLONING
+
+Kadkol et al. (1999) identified and cloned ANP32C (606877) and ANP32D,
+which they called PP32R1 and PP32R2, respectively, by RT-PCR of
+prostatic adenocarcinoma amplified with primers for PP32 (600832).
+ANP32D, ANP32C, and PP32 share approximately 90% amino acid sequence
+identity.
+
+GENE FUNCTION
+
+Kadkol et al. (1999) determined that, whereas PP32 is a tumor
+suppressor, both ANP32C and ANP32D are tumorigenic. ANP32C and ANP32D
+were able to stimulate transformed focus formation when cotransfected
+into NIH 3T3 cells along with tumor promoters. NIH 3T3 cells transformed
+with ANP32C or ANP32D were also tumorigenic in nude mice. Kadkol et al.
+(1999) suggested that alternative use of ANP32D, ANP32C, and PP32 may
+modulate the oncogenic potential of human prostate cancer.
+
+Brody et al. (1999) determined that the region of PP32 spanning amino
+acids 150 to 174 is responsible for its tumor suppressor activity and
+that this region is truncated in ANP32D.
+
+GENE STRUCTURE
+
+Kadkol et al. (1999) stated that the ANP32D gene is intronless.
+
+MAPPING
+
+Kadkol et al. (1999) stated that the ANP32D gene maps to chromosome 12.
+
+REFERENCE 1. Brody, J. R.; Kadkol, S. S.; Mahmoud, M. A.; Rebel, J. M. J.; Pasternack,
+G. R.: Identification of sequences required for inhibition of oncogene-mediated
+transformation by pp32. J. Biol. Chem. 274: 20053-20055, 1999.
+
+2. Kadkol, S. S.; Brody, J. R.; Pevsner, J.; Bai, J.; Pasternack,
+G. R.: Modulation of oncogenic potential by alternative gene use
+in human prostate cancer. Nature Med. 5: 275-279, 1999. Note: Erratum:
+Nature Med. 5: 1087 only, 1999.
+
+CREATED Patricia A. Hartz: 4/24/2002
+
+EDITED carol: 04/25/2002
+carol: 4/24/2002
+
+613110	TITLE *613110 BLADDER CANCER-ASSOCIATED PROTEIN; BLCAP
+;;BLADDER CANCER-ASSOCIATED, 10-KD; BC10
+DESCRIPTION 
+DESCRIPTION
+
+The BLCAP gene is a tumor suppressor that limits cell proliferation and
+stimulates apoptosis. BLCAP protein or message is downregulated or
+absent in a variety of human cancers (Schulz et al., 2009).
+
+CLONING
+
+Using differential display to identify genes upregulated in tumor
+biopsies obtained from a noninvasive compared with invasive bladder
+transitional cell carcinomas (TCCs), Gromova et al. (1999) identified
+BLCAP, which they designated BC10. Gromova et al. (2002) cloned
+full-length BC10 from a cDNA library developed from a noninvasive TCC.
+The deduced 87-amino acid peptide has a calculated molecular mass of 9.8
+kD. It has an N-terminal cytoplasmic region, followed by a proline-rich
+region with characteristics of the SRC (190090) homology-3
+domain-binding site, 2 highly hydrophobic regions, and a C terminus with
+a putative casein kinase II (see CSNK2A1, 115440) phosphorylation site.
+Human and mouse BC10 share 100% amino acid identity, and the
+corresponding transcripts share 95% nucleotide identity in the coding
+region. Close orthologs were also detected in nematode and fly,
+suggesting a high degree of conservation. Northern blot analysis
+detected a transcript of about 2 kb in noninvasive TCC. Two-dimensional
+separation of proteins in BC10-expressing COS cells, followed by Western
+blot analysis, revealed a major acidic form of BC10, and a minor basic
+form of BC10, both at an apparent molecular mass of 10 kD. The acidic
+form is likely phosphorylated.
+
+Schulz et al. (2009) identified at least 4 distinct human BLCAP
+transcripts and 2 distinct mouse transcripts. They referred to BLCAP
+transcripts with translation start sites downstream of NNAT (603106),
+which is within intron 1 of BLCAP, as BLCAP-V1A, -V1B, and -V1C, and
+they referred to the BLCAP transcript with translation start site
+upstream of NNAT as BLCAP-V2A.
+
+GENE FUNCTION
+
+Using Northern blot analysis and RT-PCR, Gromova et al. (2002) confirmed
+that the expression of BLCAP was downregulated in invasive bladder TCCs.
+
+Yao et al. (2007) stated that expression of BLCAP is downregulated in
+several types of carcinomas and overexpression of BLCAP in HeLa cells
+induces apoptosis. They found that BLCAP overexpression in a human
+tongue carcinoma cell line induced S phase arrest and apoptosis,
+accompanied by upregulation of p21 (CDKN1A; 116899) and downregulation
+of BCL2 (151430) and BCLXL (BCL2L1; 600039).
+
+GENE STRUCTURE
+
+Schulz et al. (2009) noted that the BLCAP gene consists of 2 exons
+traversing approximately 13 kb, with evidence for 2 alternative exons
+resulting in minor splice variants. In mouse and human, the first intron
+of the BLCAP gene contains the distinct neuronatin (NNAT; 603106) gene,
+which is an imprinted gene exclusively expressed from the paternally
+inherited allele.
+
+MAPPING
+
+By genomic sequence analysis, Gromova et al. (2002) mapped the BLCAP
+gene to chromosome 20q11.2-q12.
+
+MOLECULAR GENETICS
+
+Schulz et al. (2009) found that mouse Blcap-v1 transcripts were
+preferentially expressed from maternally-inherited alleles in adult and
+fetal brain but not in other murine tissues, and likewise human BLCAP-V1
+transcripts showed similar preferential expression from
+maternally-inherited alleles in adult and fetal brain. Mouse and human
+BLCAP-V2A transcripts were found predominantly expressed from
+paternally-inherited alleles in brain. They proposed that the
+tissue-specific imprinting of BLCAP may be due to the particularly high
+transcriptional activity of NNAT in brain. Schulz et al. (2009)
+hypothesized that the imprinted expression of BLCAP and its interplay
+with NNAT at the transcriptional level may be relevant to human
+carcinogenesis.
+
+REFERENCE 1. Gromova, I.; Gromov, P.; Celis, J. E.: bc10: a novel human bladder
+cancer-associated protein with a conserved genomic structure downregulated
+in invasive cancer. Int. J. Cancer 98: 539-546, 2002.
+
+2. Gromova, I.; Gromov, P.; Celis, J. E.: Identification of true
+differentially expressed mRNAs in a pair of human bladder transitional
+cell carcinomas using an improved differential display procedure. Electrophoresis 20:
+241-248, 1999.
+
+3. Schulz, R.; McCole, R. B.; Woodfine, K.; Wood, A. J.; Chahal, M.;
+Monk, D.; Moore, G. E.; Oakey, R. J.: Transcript- and tissue-specific
+imprinting of a tumour suppressor gene. Hum. Molec. Genet. 18: 118-127,
+2009.
+
+4. Yao, J. Duan, L.; Fan, M.; Yuan, J.; Wu, X.: Overexpression of
+BLCAP induces S phase arrest and apoptosis independent of p53 and
+NF-kappa-B in human tongue carcinoma: BLCAP overexpression induces
+S phase arrest and apoptosis. Molec. Cell. Biochem. 297: 81-92,
+2007.
+
+CONTRIBUTORS George E. Tiller - updated: 11/13/2009
+
+CREATED Patricia A. Hartz: 11/13/2009
+
+EDITED wwang: 11/13/2009
+
+184755	TITLE *184755 STEROL CARRIER PROTEIN 2; SCP2
+;;STEROL CARRIER PROTEIN X; SCPX
+DESCRIPTION Sterol carrier protein-2 (SC2) is a peroxisomal enzyme with thiolase
+activity that is required for the breakdown of branched-chain fatty
+acids (summary by Ferdinandusse et al., 2006).
+
+Sterol carrier protein-2 was the second peroxisomal thiolase to be
+identified; see ACAA1 (604054).
+
+CLONING
+
+Yamamoto et al. (1991) used rat SCP2 cDNA to isolate a homologous human
+liver SCP2 cDNA. SCP2 encodes a deduced 143-amino acid protein that
+shares 89% sequence identity with the rat protein. SCP2 contains a
+20-residue N-terminal leader sequence before the mature 13.2-kD
+polypeptide, which contains a C-terminal tripeptide related to the
+peroxisome targeting sequence. Northern blot analysis identified 2 mRNA
+transcripts of 1.8 and 3.2 kb in liver; in fibroblasts and placenta, the
+1.8-kb transcript was most abundant.
+
+GENE FUNCTION
+
+Yamamoto et al. (1991) noted that in steroid hormone producing cells
+SCP2 is thought to facilitate the transport of cholesterol to
+mitochondria, where the first committed step in steroidogenesis takes
+place. Yamamoto et al. (1991) demonstrated that coexpression of the SCP2
+cDNA with expression vectors for cholesterol side-chain cleavage enzyme
+and adrenodoxin resulted in a 2.5-fold enhancement of progestin
+synthesis over that obtained with expression of the steroidogenic enzyme
+system alone.
+
+Sterol carrier protein-2 is present in low levels in Zellweger syndrome
+(see 214100), in which the cells are deficient in peroxisomes (van
+Amerongen et al., 1987).
+
+MAPPING
+
+Yamamoto et al. (1991) used sequences in the 3-prime untranslated region
+of the SCP2 cDNA to design PCR primers for use in mapping studies of
+human/rodent somatic cell hybrids. In this way, they demonstrated that
+the gene is located on the segment 1pter-p21 (He et al., 1991).
+
+Vesa et al. (1994) refined the chromosomal assignment of SCP2 to 1p32 by
+analysis of a somatic cell hybrid panel by both PCR and hybridization
+methods applied to cell lines with various rearrangements of chromosome
+1.
+
+By interspecific backcross analysis, Welch et al. (1996) mapped the Scp2
+gene to mouse chromosome 4.
+
+MOLECULAR GENETICS
+
+In a patient with leukoencephalopathy, dystonia, and motor neuropathy
+who was found to have deficiency of SCP2, Ferdinandusse et al. (2006)
+identified a homozygous 1-nucleotide insertion (545_546insA;
+184755.0001) in the SCP2 gene.
+
+ALLELIC VARIANT .0001
+LEUKOENCEPHALOPATHY WITH DYSTONIA AND MOTOR NEUROPATHY
+SCP2, 1-BP INS, 545A
+
+In a man with leukoencephalopathy with dystonia and motor neuropathy
+(613724) and his similarly affected brother, Ferdinandusse et al. (2006)
+found homozygosity for a 1-bp insertion of an adenine after nucleotide
+position 545 (545_546insA) of the SCP2 gene, leading to a frameshift and
+premature stop codon (I184fsX7).
+
+REFERENCE 1. Ferdinandusse, S.; Kostopoulos, P.; Denis, S.; Rusch, H.; Overmars,
+H.; Dillmann, U.; Reith, W.; Haas, D.; Wanders, R. J. A.; Duran, M.;
+Marziniak, M.: Mutations in the gene encoding peroxisomal sterol
+carrier protein X (SCPx) cause leukencephalopathy with dystonia and
+motor neuropathy. Am. J. Hum. Genet. 78: 1046-1052, 2006.
+
+2. He, Z.; Yamamoto, R.; Furth, E. E.; Schantz, L. J.; Naylor, S.
+L.; George, H.; Billheimer, J. T.; Strauss, J. F., III: cDNAs encoding
+members of a family of proteins related to human sterol carrier protein
+2 and assignment of the gene to human chromosome 1p21-pter. DNA Cell
+Biol. 10: 559-569, 1991.
+
+3. van Amerongen, A.; Helms, J. B.; van der Krift, T. P.; Schutgens,
+R. B. H.; Wirtz, K. W. A.: Purification of nonspecific lipid transfer
+protein (sterol carrier protein 2) from human liver and its deficiency
+in livers from patients with cerebro-hepato-renal (Zellweger) syndrome. Biochim.
+Biophys. Acta 919: 149-155, 1987.
+
+4. Vesa, J.; Hellsten, E.; Barnoski, B. L.; Emanuel, B. S.; Billheimer,
+J. T.; Mead, S.; Cowell, J. K.; Strauss, J. F., III; Peltonen, L.
+: Assignment of sterol carrier protein X/sterol carrier protein 2
+to 1p32 and its exclusion as the causative gene for infantile neuronal
+ceroid lipofuscinosis. Hum. Molec. Genet. 3: 341-346, 1994.
+
+5. Welch, C. L.; Xia, Y.-R.; Billheimer, J. T.; Strauss, J. F., III;
+Lusis, A. J.: Assignment of the mouse sterol carrier protein gene
+(Scp2) to chromosome 4. Mammalian Genome 7: 624-625, 1996.
+
+6. Yamamoto, R.; Kallen, C. B.; Babalola, G. O.; Rennert, H.; Billheimer,
+J. T.; Strauss, J. F., III: Cloning and expression of a cDNA encoding
+human sterol carrier protein 2. Proc. Nat. Acad. Sci. 88: 463-467,
+1991.
+
+7. Yamamoto, R.; Naylor, S. L.; George, H.; Billheimer, J. T.; Strauss,
+J. F., III: Assignment of the gene encoding sterol carrier protein
+2 to human chromosome 1pter-p21. (Abstract) Cytogenet. Cell Genet. 58:
+1866-1867, 1991.
+
+CONTRIBUTORS Victor A. McKusick - updated: 5/18/2006
+Victor A. McKusick - updated: 6/12/2002
+
+CREATED Victor A. McKusick: 8/8/1991
+
+EDITED terry: 02/18/2011
+terry: 2/3/2011
+carol: 2/3/2011
+joanna: 7/27/2010
+alopez: 5/19/2006
+terry: 5/18/2006
+carol: 3/24/2006
+ckniffin: 12/7/2005
+terry: 5/17/2005
+alopez: 6/14/2002
+terry: 6/12/2002
+dkim: 7/23/1998
+dkim: 7/16/1998
+terry: 11/14/1996
+mark: 3/4/1996
+terry: 2/21/1996
+carol: 1/15/1993
+supermim: 3/16/1992
+carol: 2/23/1992
+carol: 8/8/1991
+
+608684	TITLE *608684 NINEIN; NIN
+;;GSK3B-INTERACTING PROTEIN;;
+KIAA1565
+DESCRIPTION 
+DESCRIPTION
+
+Ninein is a centrosomal protein required for the centrosome to function
+as a microtubule-organizing center (MTOC) and is essential for the
+reformation of the interphase centrosome architecture following mitosis
+(Ou et al., 2002).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2000) cloned NIN, which they designated
+KIAA1565. RT-PCR ELISA detected high NIN expression in ovary, spleen,
+adult whole brain, and all individual brain regions examined. Expression
+was intermediate in all other adult and fetal tissues examined except
+testis, which showed no expression.
+
+Using GSK3B (605004) as bait in a yeast 2-hybrid screen of a fetal liver
+cDNA library, followed by EST contig searching and 5-prime RACE of fetal
+liver cDNA, Hong et al. (2000) cloned full-length NIN. The deduced
+2,047-amino acid protein has a calculated molecular mass of 239 kD. NIN
+contains an N-terminal GTP-binding site, a large coiled-coil domain with
+4 leucine zipper motifs, and a C-terminal domain responsible for GSK
+binding. Unlike mouse Nin, it does not have an N-terminal Ca(2+)-binding
+site. Northern blot analysis detected a 9.0-kb transcript in all tissues
+examined and a 7.0-kb transcript predominantly in heart and skeletal
+muscle. Fluorescence-labeled NIN localized in the perinuclear foci
+characteristic of centrosomes in transfected COS-1 cells.
+
+Hong et al. (2000) cloned a splice variant of NIN, which they designated
+ninein-lm (ninein like mouse) because the protein contains an N-terminal
+Ca(2+)-binding site. This variant lacks intron 1 and utilizes an
+alternate splice site in exon 2 that results in more 5-prime sequence of
+exon 2. Ninein-lm encodes a deduced 2,041-amino acid protein with a
+calculated molecular mass of 238 kD. RT-PCR and Southern blot analysis
+indicated that ninein-lm expression was 20- to 50-fold higher than
+ninein expression in all tissues tested except pancreas.
+
+By Western blot analysis, Chen et al. (2003) determined that endogenous
+HeLa cell ninein had an apparent molecular mass of about 230 kD.
+
+GENE STRUCTURE
+
+Hong et al. (2000) determined that the NIN gene contains 29 exons and
+spans about 130 kb. The promoter region contains a TATA box, 2 CCAAT
+boxes, and 3 GC boxes. It also has 4 Sp1 (189906)-binding sites, 2 p300
+(602700)-binding sites, and 1 AP1 (165160)-binding site.
+
+MAPPING
+
+By genomic sequence analysis and radiation hybrid analysis, Hong et al.
+(2000) mapped the NIN gene to chromosome 14q22.
+
+GENE FUNCTION
+
+Hong et al. (2000) determined that the C termini of ninein and ninein-lm
+bound GSK3B. The coiled-coil domain, but not the leucine-zipper domains,
+mediated the interaction. The coiled-coil domain also mediated
+oligomerization.
+
+The mammalian centrosome consists of a pair of centrioles surrounded by
+pericentriolar material (PCM). Ou et al. (2002) stated that a subset of
+PCM proteins are arranged in a tubular conformation with an open and a
+closed end within the centrosome. They found that, in the mother
+centrosome, ninein and CEP110 (605496) were distributed at both ends of
+the centrosome tube, including the site of centrosome duplication.
+However, in the daughter centrosome, ninein and CEP110 were present only
+at the closed end, where they colocalized with CEP250. The appearance of
+ninein and CEP110 at the open end of the daughter centrosome occurred
+during the telophase-G1 transition of the next cell cycle, concomitant
+with the maturation of the daughter centrosome into a mother centrosome.
+Microinjection of antibodies against either ninein or CEP110 into
+metaphase HeLa cells disrupted the reformation of the tubular
+conformation of proteins within the centrosome following cell division
+and led to dispersal of centrosomal material throughout the cytosol.
+Microinjection of antibodies to either ninein or CEP110 into metaphase
+kangaroo rat kidney cells not only disrupted the tubular configuration
+within the centrosome, but also affected the centrosome's ability to
+function as an MTOC. Centrosomal architecture was not disrupted if
+antibodies were microinjected into postmitotic cells with fully formed
+centrosomes, but the MTOC function of the centrosomes was disrupted.
+
+Chen et al. (2003) showed that the coiled-coil II (CCII) domain of
+ninein, which contains a centrosome targeting signal, colocalized with
+gamma-tubulin (191135) and centrin (see CENT1 603187) at the centrosome
+of transfected HeLa cells. Immunofluorescence microscopy showed that
+ninein protein disappeared from spindle poles during metaphase and
+anaphase, but reaccumulated at centrosomes at the end of cell division.
+In vitro kinase assays indicated that the CCII domain was readily
+phosphorylated by AIK (AURKA; 603072) and PKA (see 176911).
+
+MOLECULAR GENETICS
+
+In 2 sisters with severe short stature, microcephaly, and developmental
+delay (Seckel syndrome-7; SCKL7, 614851), Dauber et al. (2012)
+identified compound heterozygosity for missense mutations in the NIN
+gene, Q1222R (608684.0001) and N1709S (608684.0002).
+
+ANIMAL MODEL
+
+Dauber et al. (2012) performed morpholino knockdown of ninein in
+zebrafish and observed defects in the anterior neuroectoderm that
+resulted in a deformity of the developing cranium, with a small, squared
+skull highly reminiscent of the human phenotype.
+
+ALLELIC VARIANT .0001
+SECKEL SYNDROME 7
+NIN, GLN1222ARG
+
+In 2 sisters with severe short stature, microcephaly, and developmental
+delay (SCKL7; 614851), Dauber et al. (2012) identified compound
+heterozygosity for a 3667G-A transition in exon 18 of the NIN gene,
+resulting in a gln1222-to-arg (Q1222R) substitution, and a 5128A-G
+transition in exon 23, resulting in an asn1709-to-ser (N1709S;
+608684.0002) substitution; both substitutions occurred at evolutionarily
+conserved residues. The unaffected parents were each heterozygous for 1
+of the mutations, neither of which was present in the SNP database or
+the NHLBI exome variant server; however, the Q1222R variant was present
+in the 1000 Genomes pilot data, with an overall minor allele frequency
+of 0.001. Functional analysis of patient fibroblasts suggested that the
+compound heterozygous NIN defects did not disrupt ninein expression or
+localization or affect mitotic functions in an obvious way.
+
+.0002
+SECKEL SYNDROME 7
+NIN, ASN1709SER
+
+See 608684.0001 and Dauber et al. (2012).
+
+REFERENCE 1. Chen, C.-H.; Howng, S.-L.; Cheng, T.-S.; Chou, M.-H.; Huang, C.-Y.;
+Hong, Y.-R.: Molecular characterization of human ninein protein:
+two distinct subdomains required for centrosomal targeting and regulating
+signals in cell cycle. Biochem. Biophys. Res. Commun. 308: 975-983,
+2003.
+
+2. Dauber, A.; LaFranchi, S. H.; Maliga, Z.; Lui, J. C.; Moon, J.
+E.; McDeed, C.; Henke, K.; Zonana, J.; Kingman, G. A.; Pers, T. H.;
+Baron, J.; Rosenfeld, R. G.; Hirschhorn, J. N.; Harris, M. P.; Hwa,
+V.: Novel microcephalic primordial dwarfism disorder associated with
+variants in the centrosomal protein ninein. J. Clin. Endocr. Metab. 6Aug,
+2012. Note: Advance Electronic Publication.
+
+3. Hong, Y.-R.; Chen, C.-H.; Chang, J.-H.; Wang, S.; Sy, W.-D.; Chou,
+C.-K.; Howng, S.-L.: Cloning and characterization of a novel human
+Ninein protein that interacts with the glycogen synthase kinase 3-beta. Biochim.
+Biophys. Acta 1492: 513-516, 2000.
+
+4. Hong, Y.-R.; Chen, C.-H.; Chuo, M.-H.; Liou, S.-Y.; Howng, S.-L.
+: Genomic organization and molecular characterization of the human
+Ninein gene. Biochem. Biophys. Res. Commun. 279: 989-995, 2000.
+
+5. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+6. Ou, Y. Y.; Mack, G. J.; Zhang, M.; Rattner, J. B.: CEP110 and
+ninein are located in a specific domain of the centrosome associated
+with centrosome maturation. J. Cell Sci. 115: 1825-1835, 2002.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 10/8/2012
+
+CREATED Patricia A. Hartz: 5/24/2004
+
+EDITED carol: 10/08/2012
+terry: 10/8/2012
+carol: 9/19/2008
+mgross: 5/26/2004
+mgross: 5/24/2004
+
+610594	TITLE *610594 FOLLICULIN-INTERACTING PROTEIN 1; FNIP1
+;;KIAA1961
+DESCRIPTION 
+CLONING
+
+By randomly sequencing clones derived from an adult brain cDNA library,
+Nagase et al. (2001) cloned FNIP1, which they designated KIAA1961.
+RT-PCR ELISA detected ubiquitous expression in all human adult and fetal
+tissues and specific brain regions examined, with highest expression in
+spleen, testis, ovary, and adult and fetal liver.
+
+Using coimmunoprecipitation with HA-tagged folliculin (FLCN; 607273)
+expressed in HEK293 cells to identify FLCN-interacting proteins,
+followed by mass spectrometry and database analysis, and PCR of a pooled
+human tissue cDNA library, Baba et al. (2006) isolated full-length
+FNIP1. The deduced 1,166-amino acid protein has no known functional
+domains. Expression of FNIP1 in HEK293 cells yielded a protein that
+migrated at 130 kD on SDS-PAGE. Northern blot analysis detected
+strongest expression in heart, liver, and placenta with moderate
+expression in kidney and lung.
+
+Using quantitative real-time PCR, Hasumi et al. (2008) detected variable
+FNIP1 expression in most human tissues. Highest expression was in
+salivary gland, nasal mucosa, parathyroid gland, and muscle.
+
+GENE FUNCTION
+
+Using coimmunoprecipitation of FNIP1 and FLCN expressed in HEK293 cells
+and in vitro binding assays, Baba et al. (2006) showed that the C
+terminus of FLCN and amino acids 300 to 1166 of FNIP1 were required for
+optimal FLCN-FNIP1 binding. FLCN and FNIP1 colocalized to the cytoplasm
+in a reticular pattern. FNIP1 interacted with HSP90 (HSPCA; 140571) and
+with the alpha (PRKAA1; 602739), beta (PRKAB1; 602740), and gamma
+(PRKAG1; 602742) subunits of AMPK. FNIP1 was phosphorylated by AMPK, and
+its phosphorylation was inhibited in a dose-dependent manner by an AMPK
+inhibitor, resulting in reduced FNIP1 expression. FLCN phosphorylation
+was diminished by rapamycin and amino acid starvation and facilitated by
+FNIP1 overexpression, suggesting that FLCN phosphorylation may be
+regulated by mTOR (FRAP1; 601231) and AMPK signaling. Baba et al. (2006)
+concluded that FLCN and FNIP1 may be involved in energy and/or nutrient
+sensing through the AMPK and mTOR signaling pathways.
+
+Using coimmunoprecipitation analysis with HEK293 cells, Hasumi et al.
+(2008) detected FNIP2 (612768) in protein complexes with FNIP1, FLCN,
+and AMPK. FNIP1 and FNIP2 formed homo- and heterodimers.
+
+Takagi et al. (2008) found that, when expressed alone, FLCN localized to
+the nucleus, but when coexpressed with FNIP1 or FNIP2, the coexpressed
+proteins localized to the cytoplasm in a reticular pattern.
+Downregulation of FLCN, FNIP1, or FNIP2 via small interfering RNA
+resulted in decreased S6K1 (RPS6KB1; 608938) phosphorylation, suggesting
+that the FLCN complex regulates S6K1 phosphorylation.
+
+GENE STRUCTURE
+
+Baba et al. (2006) determined that the FNIP1 gene contains 18 exons.
+
+MAPPING
+
+By genomic sequence analysis, Nagase et al. (2001) mapped the FNIP1 gene
+to chromosome 5.
+
+REFERENCE 1. Baba, M.; Hong, S.-B.; Sharma, N.; Warren, M. B.; Nickerson, M.
+L.; Iwamatsu, A.; Esposito, D.; Gillette, W. K.; Hopkins, R. F., III;
+Hartley, J. L.; Furihata, M.; Oishi, S.; Zhen, W.; Burke, T. R., Jr.;
+Linehan, W. M.; Schmidt, L. S.; Zbar, B.: Folliculin encoded by the
+BHD gene interacts with a binding protein, FNIP1, and AMPK, and is
+involved in AMPK and mTOR signaling. Proc. Nat. Acad. Sci. 103:
+15552-15557, 2006.
+
+2. Hasumi, H.; Baba, M.; Hong, S.-B.; Hasumi, Y.; Huang, Y.; Yao,
+M.; Valera, V. A.; Linehan, W. M.; Schmidt, L. S.: Identification
+and characterization of a novel folliculin-interacting protein FNIP2. Gene 415:
+60-67, 2008.
+
+3. Nagase, T.; Kikuno, R.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. XXII. The complete sequences of 50 new
+cDNA clones which code for large proteins. DNA Res. 8: 319-327,
+2001.
+
+4. Takagi, Y.; Kobayashi, T.; Shiono, M.; Wang, L.; Piao, X.; Sun,
+G.; Zhang, D.; Abe, M.; Hagiwara, Y.; Takahashi, K.; Hino, O.: Interaction
+of folliculin (Birt-Hogg-Dube gene product) with a novel Fnip1-like
+(FnipL/Fnip2) protein. Oncogene 27: 5339-5347, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/24/2009
+
+CREATED Dorothy S. Reilly: 11/27/2006
+
+EDITED mgross: 04/28/2009
+terry: 4/24/2009
+wwang: 11/27/2006
+
+603486	TITLE *603486 UBIQUITIN-SPECIFIC PROTEASE 4; USP4
+;;UBIQUITIN-SPECIFIC PROTEASE; UNP
+DESCRIPTION 
+DESCRIPTION
+
+The ubiquitin-specific proteases (UBPs) are a group of deubiquitinating
+enzymes that possess 2 signature motifs, the Cys box and the His box
+(summary by Frederick et al., 1998).
+
+CLONING
+
+Gupta et al. (1993) isolated mouse cDNAs encoding Unp, a protein similar
+to the human TRE oncogene. Using Western blots, Gupta et al. (1994)
+found that Unp has an apparent molecular mass of 180 kD. They reported
+that overexpression of Unp led to oncogenic transformation of NIH 3T3
+cells injected into athymic mice.
+
+By screening a human frontal cortex library with a murine Unp cDNA, Gray
+et al. (1995) isolated cDNAs encoding human UNP. Analysis of the clones
+revealed a large open reading with the potential to encode a protein of
+854 amino acids, with a molecular mass of 97 kD. The human and mouse
+proteins share 90% sequence identity. Northern blot analysis of primary
+lung tumor samples indicated that levels of UNP mRNA were elevated in
+small cell carcinomas and adenocarcinomas relative to normal adult lung.
+
+Frederick et al. (1998) sequenced additional UNP cDNAs and found several
+differences from the sequence reported by Gray et al. (1995), including
+2 single nucleotide insertions that increased the length of the
+predicted protein, UNPEL (UNP extended, long isoform), to 963 amino
+acids. They also recovered cDNAs encoding a shorter isoform designated
+UNPES. Both isoforms exhibited deubiquitinating activity. Antibodies
+against UNP detected 2 proteins of 105 to 110 kD on Western blots. Using
+immunocytochemistry of mammalian cells expressing epitope-tagged UNP and
+cell fractionation studies, Frederick et al. (1998) demonstrated that
+both isoforms of the human protein are localized primarily in the
+cytosol. (In an erratum, Frederick et al. (1998) cited a personal
+communication from the Gray laboratory stating that the data in Gupta et
+al. (1993) locating Unp in the nuclear fraction of mammalian cell
+extracts was apparently in error.) Northern blot analysis revealed UNP
+expression as a closely-migrating cluster of mRNAs in all tissues
+tested. However, the authors found no evidence for overexpression of UNP
+transcripts in cell lines derived from small cell lung carcinomas.
+
+GENE STRUCTURE
+
+Di Fruscio et al. (1998) reported that the mouse Unp gene contains 22
+exons distributed over 47 kb. A processed ribosomal S2 pseudogene was
+identified in the third intron.
+
+MAPPING
+
+By analysis of an interspecific backcross, Gupta et al. (1993) mapped
+the Unp gene to mouse chromosome 9 in a region showing homology of
+synteny with human chromosome 3p.
+
+By fluorescence in situ hybridization, Gray et al. (1995) mapped the
+human UNP gene to 3p21.3, a region implicated in neoplasms of the lung.
+Using the same technique, Frederick et al. (1998) refined the map
+position to 3p21.31.
+
+REFERENCE 1. Di Fruscio, M.; Gilchrist, C. A.; Baker, R. T.; Gray, D. A.: Genomic
+structure of Unp, a murine gene encoding a ubiquitin-specific protease. Biochim.
+Biophys. Acta 1398: 9-17, 1998.
+
+2. Frederick, A.; Rolfe, M.; Chiu, M. I.: The human UNP locus at
+3p21.31 encodes two tissue-selective, cytoplasmic isoforms with deubiquitinating
+activity that have reduced expression in small cell lung carcinoma
+cell lines. Oncogene 16: 153-165, 1998. Note: Erratum: Oncogene
+16: 2293 only, 1998.
+
+3. Gray, D. A.; Inazawa, J.; Gupta, K.; Wong, A.; Ueda, R.; Takahashi,
+T.: Elevated expression of Unph, a proto-oncogene at 3p21.3, in human
+lung tumors. Oncogene 10: 2179-2183, 1995.
+
+4. Gupta, K.; Chevrette, M.; Gray, D. A.: The Unp proto-oncogene
+encodes a nuclear protein. Oncogene 9: 1729-1731, 1994.
+
+5. Gupta, K.; Copeland, N. G.; Gilbert, D. J.; Jenkins, N. A.; Gray,
+D. A.: Unp, a mouse gene related to the tre oncogene. Oncogene 8:
+2307-2310, 1993.
+
+CREATED Rebekah S. Rasooly: 2/3/1999
+
+EDITED carol: 06/11/2013
+carol: 1/3/2013
+alopez: 2/3/1999
+
+603456	TITLE *603456 DPH2, S. CEREVISIAE, HOMOLOG OF; DPH2
+;;DPH2-LIKE 2; DPH2L2
+DESCRIPTION 
+DESCRIPTION
+
+Diphthamide is a unique posttranslationally modified histidine found
+only in translation elongation factor-2 (EEF2; 130610). This
+modification is conserved from archaebacteria to humans and serves as
+the target for ADP-ribosylation and inactivation of EEF2 by diphtheria
+toxin (DT) and Pseudomonas exotoxin A. DPH2 is 1 of several enzymes
+involved in synthesis of diphthamide in EEF2 (Liu et al., 2004).
+
+CLONING
+
+Mattheakis et al. (1993) found that dph2, a S. cerevisiae diphtheria
+resistance gene, encodes a protein involved in diphthamide biosynthesis.
+By searching an EST database, Schultz et al. (1998) identified a human
+cDNA with 63% identity to the corresponding nucleotide sequence of human
+DPH2-like 1 (DPH2L1, or DPH1; 603527). Using a PCR strategy, they
+recovered cDNAs corresponding to the entire coding region of the gene,
+which they called DPH2L2. The predicted 489-amino acid protein shared
+24% and 28% sequence identity with DPH2L1 and yeast dph2, respectively.
+Northern blot analysis revealed that DPH2L2 was expressed ubiquitously
+as a 2.5-kb mRNA. An additional 3-kb transcript was found in several
+tissues.
+
+Liu et al. (2004) cloned mouse Dph2. The deduced 489-amino acid protein
+shares 83% identity with human DPH2.
+
+GENE FUNCTION
+
+Liu et al. (2004) showed that mouse Dph2 could complement the
+DT-resistant phenotype of diphthamide-deficient mutant Chinese hamster
+ovary cell lines. Immunoprecipitation analysis revealed that yeast and
+mouse Dph1 (603527) and Dph2 interacted, suggesting that these enzymes
+may function in diphthamide biosynthesis as a dimer or multimer.
+
+Carette et al. (2009) used insertional mutagenesis to develop a
+screening method to generate null alleles in a human cell line haploid
+for all chromosomes except chromosome 8. Using this approach, they
+identified genes encoding important elements of the biosynthetic pathway
+of diphthamide, which are required for the cytotoxic effects of
+diphtheria toxin and exotoxin A. Mutants of the DPH1, DPH2, and DPH5
+(611075) genes, involved in diphthamide biosynthesis, were identified as
+resistant to both anthrax toxin and diphtheria toxin.
+
+MAPPING
+
+By fluorescence in situ hybridization, Schultz et al. (1998) mapped the
+DPH2L2 gene to 1p34.
+
+ADDITIONAL REFERENCES Foley et al. (1995)
+REFERENCE 1. Carette, J. E.; Guimaraes, C. P.; Varadarajan, M.; Park, A. S.;
+Wuethrich, I.; Godarova, A.; Kotecki, M.; Cochran, B. H.; Spooner,
+E.; Ploegh, H. L.; Brummelkamp, T. R.: Haploid genetic screens in
+human cells identify host factors used by pathogens. Science 326:
+1231-1235, 2009.
+
+2. Foley, B. T.; Moehring, J. M.; Moehring, T. J.: Mutations in the
+elongation factor 2 gene which confer resistance to diphtheria toxin
+and Pseudomonas exotoxin A: genetic and biochemical analyses. J.
+Biol. Chem. 270: 23218-23225, 1995.
+
+3. Liu, S.; Milne, G. T.; Kuremsky, J. G.; Fink, G. R.; Leppla, S.
+H.: Identification of the proteins required for biosynthesis of diphthamide,
+the target of bacterial ADP-ribosylating toxins on translation elongation
+factor 2. Molec. Cell. Biol. 24: 9487-9497, 2004.
+
+4. Mattheakis, L. C.; Sor, F.; Collier, R. J.: Diphthamide synthesis
+in Saccharomyces cerevisiae: structure of the DPH2 gene. Gene 132:
+149-154, 1993.
+
+5. Schultz, D. C.; Balasara, B. R.; Testa, J. R.; Godwin, A. K.:
+Cloning and localization of a human diphthamide biosynthesis-like
+protein-2 gene, DPH2L2. Genomics 52: 186-191, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 12/22/2009
+Patricia A. Hartz - updated: 5/16/2007
+
+CREATED Rebekah S. Rasooly: 1/25/1999
+
+EDITED alopez: 01/08/2010
+terry: 12/22/2009
+mgross: 6/5/2007
+terry: 5/16/2007
+alopez: 2/12/1999
+alopez: 1/25/1999
+
+603110	TITLE *603110 MOTHERS AGAINST DECAPENTAPLEGIC, DROSOPHILA, HOMOLOG OF, 5; SMAD5
+;;MADH5;;
+SMA- AND MAD-RELATED PROTEIN 5
+DESCRIPTION 
+CLONING
+
+Drosophila Mad transduces signals from TGF-beta (e.g., 190180) family
+members. By searching an expressed sequence tag (EST) database with the
+protein sequences of Mad and Mad homologs, Riggins et al. (1996)
+isolated partial human cDNAs encoding MADH5, which they called JV5-1.
+The deduced MADH5 protein has 465 amino acids, with 57 of the C-terminal
+59 residues identical to those of Mad.
+
+Gemma et al. (1998) determined the full-length cDNA sequence of human
+MADH5, which they called SMAD5. Using PCR-SSCP analysis to investigate
+the frequency of SMAD5 somatic mutations in human cancers, Gemma et al.
+(1998) did not detect either homozygous deletions or point mutations in
+40 primary gastric tumors or 51 cell lines derived from diverse types of
+cancer, including 20 cell lines resistant to the growth inhibitory
+effects of TGF-beta. The SMAD5 protein has strong homology with SMAD1
+(601595), SMAD2 (601366), SMAD3 (603109), and SMAD4 (600993) in the N-
+and C-terminal domains, which are separated by a proline-rich sequence;
+SMAD5 shows the greatest homology to SMAD1.
+
+GENE FUNCTION
+
+Bruno et al. (1998) showed that SMAD5 plays a critical role in the
+signaling pathway by which TGF-beta inhibits the proliferation of human
+hematopoietic progenitor cells.
+
+Davis et al. (2008) demonstrated that induction of a contractile
+phenotype in human vascular smooth muscle cells by TGF-beta and bone
+morphogenetic proteins (BMPs; see 112264) is mediated by miR21 (611020).
+miR21 downregulates PDCD4 (608610), which in turn acts as a negative
+regulator of smooth muscle contractile genes. TGF-beta and BMP signaling
+promoted a rapid increase in expression of mature miR21 through a
+posttranscriptional step, promoting the processing of primary
+transcripts of miR21 (pri-miR21) into precursor miR21 (pre-miR21) by the
+Drosha complex (see 608828). TGF-beta and BMP-specific SMAD signal
+transducers SMAD1, SMAD2, SMAD3, and SMAD5 (603110) are recruited to
+pri-miR21 in a complex with the RNA helicase p68 (DDX5; 180630), a
+component of the Drosha microprocessor complex. The shared cofactor
+SMAD4 (600993) is not required for this process. Thus, Davis et al.
+(2008) concluded that regulation of microRNA biogenesis by
+ligand-specific SMAD proteins is critical for control of the vascular
+smooth muscle cell phenotype and potentially for SMAD4-independent
+responses mediated by the TGF-beta and BMP signaling pathways.
+
+GENE STRUCTURE
+
+By comparison of the SMAD5 cDNA sequence with the SMAD5 genomic
+sequence, obtained from YAC clones, Gemma et al. (1998) showed that the
+SMAD5 gene has 8 exons, with the coding sequence contained in exons 3 to
+8. By 5-prime RACE, the authors identified a SMAD5 cDNA derived from an
+alternatively spliced transcript that lacks the 75-bp exon 2.
+
+MAPPING
+
+Riggins et al. (1996) mapped the MADH5 gene to 5q31 by somatic cell
+hybrid analysis and screening of YAC clones.
+
+REFERENCE 1. Bruno, E.; Horrigan, S. K.; Van Den Berg, D.; Rozler, E.; Fitting,
+P. R.; Moss, S. T.; Westbrook, C.; Hoffman, R.: The Smad5 gene is
+involved in the intracellular signaling pathways that mediate the
+inhibitory effects of transforming growth factor-beta on human hematopoiesis. Blood 91:
+1917-1923, 1998.
+
+2. Davis, B. N.; Hilyard, A. C.; Lagna, G.; Hata, A.: SMAD proteins
+control DROSHA-mediated microRNA maturation. Nature 454: 56-61,
+2008.
+
+3. Gemma, A.; Hagiwara, K.; Vincent, F.; Ke, Y.; Hancock, A. R.; Nagashima,
+M.; Bennett, W. P.; Harris, C. C.: hSmad5 gene, a human hSmad family
+member: its full length cDNA, genomic structure, promoter region and
+mutation analysis in human tumors. Oncogene 16: 951-956, 1998.
+
+4. Riggins, G. J.; Thiagalingam, S.; Rozenblum, E.; Weinstein, C.
+L.; Kern, S. E.; Hamilton, S. R.; Willson, J. K. V.; Markowitz, S.
+D.; Kinzler, K. W.; Vogelstein, B.: Mad-related genes in the human. Nature
+Genet. 13: 347-349, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/29/2008
+
+CREATED Patti M. Sherman: 10/9/1998
+
+EDITED alopez: 09/11/2008
+terry: 8/29/2008
+tkritzer: 10/1/2004
+carol: 10/13/1998
+
+601231	TITLE *601231 MECHANISTIC TARGET OF RAPAMYCIN; MTOR
+;;MAMMALIAN TARGET OF RAPAMYCIN;;
+FKBP12-RAPAMYCIN COMPLEX-ASSOCIATED PROTEIN 1; FRAP1;;
+FK506-BINDING PROTEIN 12-RAPAMYCIN COMPLEX-ASSOCIATED PROTEIN 1;;
+FRAP;;
+FRAP2;;
+RAFT1
+MTOR COMPLEX, INCLUDED; MTORC, INCLUDED;;
+MECHANISTIC TARGET OF RAPAMYCIN COMPLEX 1, INCLUDED; MTORC1, INCLUDED;;
+MECHANISTIC TARGET OF RAPAMYCIN COMPLEX 2, INCLUDED; MTORC2, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+MTOR is a highly conserved protein kinase that is found in 2
+structurally and functionally distinct protein complexes: TOR complex-1
+(TORC1) and TORC2. TORC1 is a key regulator of cell growth and
+proliferation and mRNA translation, whereas TORC2 promotes actin
+cytoskeletal rearrangement, cell survival, and cell cycle progression
+(summary by Jacinto et al. (2004) and Thoreen et al. (2012)).
+
+CLONING
+
+To identify the target for the FKBP12-rapamycin complex in human, Brown
+et al. (1994) used a FKBP12/glutathione-S-transferase fusion protein and
+glutathione affinity chromatography to purify a 220-kD bovine brain
+protein which bound the FKBP12-rapamycin complex. They designed
+oligonucleotide probes based on the bovine protein sequence and screened
+a human Jurkat T-cell cDNA library. Their complete human cDNA for FRAP
+encoded a predicted 2,549-amino acid protein with a calculated molecular
+mass of approximately 300 kD. Brown et al. (1994) showed by Northern
+blot analysis that the 7.6-kb gene transcript was present in a variety
+of human tissues. They noted that, while the precise functions of FRAP
+and its yeast homologs TOR1/TOR2 are unknown, the C-terminal regions of
+these proteins share amino acid homology (approximately 21% identity on
+average) with several phosphatidylinositol kinases; see 171834.
+
+In a review, Hay and Sonenberg (2004) described the domain structure of
+MTOR. The N-terminal half of the protein contains 20 tandem HEAT
+repeats, which are implicated in protein-protein interactions. Each HEAT
+repeat consists of 2 alpha helices of about 40 amino acids. The
+C-terminal half contains a large FRAP-ATM (607585)-TRRAP (603015) (FAT)
+domain, followed by the FKB12- and rapamycin-binding domain, a
+serine/threonine kinase catalytic domain, a negative regulatory domain,
+and a C-terminal FAT (FATC) domain necessary for MTOR activity.
+
+GENE FUNCTION
+
+FKBP12-rapamycin associated protein (FRAP) is one of a family of
+proteins involved in cell cycle progression, DNA recombination, and DNA
+damage detection. In rat, it is a 245-kD protein (symbolized RAFT1) with
+significant homology to the Saccharomyces cerevisiae protein TOR1 and
+has been shown to associate with the immunophilin FKBP12 (186945) in a
+rapamycin-dependent fashion (Sabatini et al., 1994). Brown et al. (1994)
+noted that the FKBP12-rapamycin complex was known to inhibit progression
+through the G1 cell cycle stage by interfering with mitogenic signaling
+pathways involved in G1 progression in several cell types, as well as in
+yeast. The authors stated that the binding of FRAP to FKBP12-rapamycin
+correlated with the ability of these ligands to inhibit cell cycle
+progression.
+
+Rapamycin is an efficacious anticancer agent against solid tumors. In a
+hypoxic environment, the increase in mass of solid tumors is dependent
+on the recruitment of mitogens and nutrients. When nutrient
+concentrations change, particularly those of essential amino acids, the
+mammalian target of rapamycin (mTOR/FRAP) functions in regulatory
+pathways that control ribosome biogenesis and cell growth. In bacteria,
+ribosome biogenesis is independently regulated by amino acids and ATP.
+Dennis et al. (2001) demonstrated that the human mTOR pathway is
+influenced by the intracellular concentration of ATP, independent of the
+abundance of amino acids, and that mTOR/FRAP itself is an ATP sensor.
+
+Castedo et al. (2001) delineated the apoptotic pathway resulting from
+human immunodeficiency virus (HIV)-1 envelope glycoprotein (Env)-induced
+syncytia formation in vitro and in vivo. Immunohistochemical analysis
+demonstrated the presence of phosphorylated ser15 of p53 (191170) as
+well as the preapoptotic marker tissue transglutaminase (TGM2; 190196)
+in syncytium in the apical light zone (T-cell area) of lymph nodes, as
+well as in peripheral blood mononuclear cells, from HIV-1-positive but
+not HIV-1-negative donors. The presence of these markers correlated with
+viral load (HIV-1 RNA levels). Quantitative immunoblot analysis showed
+that phosphorylation of ser15 of p53 in response to HIV-1 Env is
+mediated by FRAP and not by other phosphatidylinositol kinase-related
+kinases, and it is accompanied by downregulation of protein phosphatase
+2A (see 176915). The phosphorylation is significantly inhibited by
+rapamycin. Immunofluorescence microscopy indicated that FRAP is enriched
+in syncytial nuclei and that the nuclear accumulation precedes the
+phosphorylation of ser15 of p53. Castedo et al. (2001) concluded that
+HIV-1 Env-induced syncytium formation leads to apoptosis via a pathway
+that involves phosphorylation of ser15 of p53 by FRAP, followed by
+activation of BAX (600040), mitochondrial membrane permeabilization,
+release of cytochrome C, and caspase activation.
+
+Fang et al. (2001) identified phosphatidic acid as a critical component
+of mTOR signaling. In their study, mitogenic stimulation of mammalian
+cells led to a phospholipase D-dependent accumulation of cellular
+phosphatidic acid, which was required for activation of mTOR downstream
+effectors. Phosphatidic acid directly interacted with the domain in mTOR
+that is targeted by rapamycin, and this interaction was positively
+correlated with mTOR's ability to activate downstream effectors. The
+involvement of phosphatidic acid in mTOR signaling reveals an important
+function of this lipid in signal transduction and protein synthesis, as
+well as a direct link between mTOR and mitogens. Fang et al. (2001)
+concluded that their study suggested a potential mechanism for the in
+vivo actions of the immunosuppressant rapamycin.
+
+Kim et al. (2002) and Hara et al. (2002) reported that MTOR binds with
+RAPTOR (607130), an evolutionarily conserved protein with at least 2
+roles in the MTOR pathway. Kim et al. (2002) showed that RAPTOR has a
+positive role in nutrient-stimulated signaling to the downstream
+effector S6K1 (608938), maintenance of cell size, and MTOR protein
+expression. The association of RAPTOR with MTOR also negatively
+regulates MTOR kinase activity. Conditions that repress the pathway,
+such as nutrient deprivation and mitochondrial uncoupling, stabilize the
+MTOR-RAPTOR association and inhibit MTOR kinase activity. Kim et al.
+(2002) proposed that RAPTOR is a component of the MTOR pathway that,
+through its association with MTOR, regulates cell size in response to
+nutrient levels.
+
+In mammals, MTOR cooperates with PI3K (see 171834)-dependent effectors
+in a biochemical signaling pathway to regulate the size of proliferating
+cells. Fingar et al. (2002) presented evidence that rat S6k1 alpha-II,
+Eif4e (133440), and Eif4ebp1 (602223) mediate Mtor-dependent cell size
+control.
+
+Hara et al. (2002) showed that the binding of RAPTOR to MTOR is
+necessary for the MTOR-catalyzed phosphorylation of 4EBP1 in vitro and
+that it strongly enhances the MTOR kinase activity toward p70-alpha
+(S6K1). Rapamycin or amino acid withdrawal increased, whereas insulin
+strongly inhibited, the recovery of 4EBP1 and RAPTOR on 7-methyl-GTP
+sepharose. Partial inhibition of RAPTOR expression by RNA interference
+reduced MTOR-catalyzed 4EBP1 phosphorylation in vitro. RNA interference
+of C. elegans Raptor yielded an array of phenotypes that closely
+resembled those produced by inactivation of CE-Tor. Thus, the authors
+concluded that RAPTOR is an essential scaffold for the MTOR-catalyzed
+phosphorylation of 4EBP1 and mediates TOR action in vivo.
+
+Vellai et al. (2003) demonstrated that TOR deficiency in C. elegans more
+than doubles its natural life span. The absence of Let363/TOR activity
+caused developmental arrest at the L3 larval stage. At 25.5 degrees C,
+the mean life span of Let363 mutants was 25 days compared with a life
+span of 10 days in wildtype worms.
+
+By immunoprecipitation analysis, Kim et al. (2003) identified GBL
+(612190) as an additional subunit of the MTOR signaling complex in human
+embryonic kidney cells. GBL bound the kinase domain of MTOR and
+stabilized the interaction of raptor with MTOR. Loss-of-function
+experiments using small interfering RNA showed that, like MTOR and
+raptor, GBL participated in nutrient- and growth factor-mediated
+signaling to S6K1 and in control of cell size. Binding of GBL to MTOR
+strongly stimulated MTOR kinase activity toward S6K1 and 4EBP1, and this
+effect was reversed by stable interaction of raptor with MTOR. Nutrients
+and rapamycin regulated the association of MTOR with raptor only in
+complexes that also contained GBL. Kim et al. (2003) proposed that GBL
+and raptor function together to modulate MTOR kinase activity.
+
+Huntington disease (HD; 143100) is an inherited neurodegenerative
+disorder caused by a polyglutamine tract expansion in which expanded
+polyglutamine proteins accumulate abnormally in intracellular
+aggregates. Ravikumar et al. (2004) showed that mammalian target of
+rapamycin (mTOR) is sequestered in polyglutamine aggregates in cell
+models, transgenic mice, and human brains. Sequestration of mTOR impairs
+its kinase activity and induces autophagy, a key clearance pathway for
+mutant huntingtin (613004) fragments. This protects against
+polyglutamine toxicity, as the specific mTOR inhibitor rapamycin
+attenuates huntingtin accumulation and cell death in cell models of HD,
+and inhibition of autophagy has converse effects. Furthermore, rapamycin
+protects against neurodegeneration in a fly model of HD, and the
+rapamycin analog CCI-779 improved performance on 4 different behavioral
+tasks and decreased aggregate formation in a mouse model of HD. The data
+provided proof of principle for the potential of inducing autophagy to
+treat HD.
+
+Scott et al. (2004) found that signaling through Tor and its upstream
+regulators, Pi3k and Rheb (601293), was necessary and sufficient to
+suppress starvation-induced autophagy in the Drosophila fat body. In
+contrast, a downstream Tor effector, S6k, promoted rather than
+suppressed autophagy, suggesting S6K downregulation may limit autophagy
+during extended starvation.
+
+Hay and Sonenberg (2004) reviewed the roles of MTOR in protein
+synthesis, cell growth and proliferation, synaptic plasticity, and
+cancer.
+
+Brugarolas et al. (2004) showed that downregulation of Mtor by hypoxia
+in mice required de novo transcription and expression of Redd1 (607729)
+and an intact Tsc1 (605284)/Tsc2 (191092) complex.
+
+Beuvink et al. (2005) showed that the drug RAD001 (everolimus), a
+rapamycin derivative, dramatically enhanced cisplatin-induced apoptosis
+in wildtype p53 but not mutant p53 tumor cells. The use of isogenic
+tumor cell lines expressing either wildtype MTOR cDNA or an MTOR mutant
+unable to bind RAD001 demonstrated that the effects of RAD001 resulted
+from inhibition of MTOR function. Beuvink et al. (2005) showed that
+RAD001 sensitized cells to cisplatin by inhibiting p53-induced p21
+(116899) expression. This effect was attributed to a small but
+significant inhibition of p21 translation, combined with the short
+half-life of p21.
+
+Kwon et al. (2003) found that inhibition of Mtor decreased the seizure
+frequency and death rate in mice with conditional Pten (601728)
+deficiency, prevented the increase in Pten-deficient neuronal soma size
+in young mice, and reversed neuronal soma enlargement in adult mice.
+Mtor inhibition did not decrease the size of wildtype adult neurons.
+Kwon et al. (2003) concluded that MTOR is required for neuronal
+hypertrophy downstream of PTEN deficiency, but it is not required for
+maintenance of normal neuronal soma size. They proposed that MTOR
+inhibitors may be useful therapeutic agents for the treatment of brain
+diseases resulting from PTEN deficiency, such as Lhermitte-Duclos
+disease (see 158350) or glioblastoma multiforme (137800).
+
+Akt/PKB (164730) activation requires the phosphorylation of ser473.
+Sarbassov et al. (2005) showed that in Drosophila and in human cells TOR
+and its associated protein rictor are necessary for ser473
+phosphorylation, and that a reduction in rictor or mTOR expression
+inhibited an AKT/PKB effector. The rictor-mTOR complex directly
+phosphorylated Akt/PKB on ser473 in vitro and facilitated thr308
+phosphorylation by PDK1 (605213).
+
+Holz et al. (2005) showed that MTOR and S6K1 maneuvered on and off the
+EIF3 (see 602039) translation initiation complex in HEK293 cells in a
+signal-dependent, choreographed fashion. When inactive, S6K1 associated
+with the EIF3 complex, while the S6K1 activator MTOR, in association
+with RAPTOR, did not. Hormone- or mitogen-mediated cell stimulation
+promoted MTOR/RAPTOR binding to the EIF3 complex and phosphorylation of
+S6K1. Phosphorylation resulted in S6K1 dissociation and activation,
+followed by phosphorylation of S6K1 targets, including EIF4B (603928),
+which, upon phosphorylation, was recruited into the EIF3 complex. Holz
+et al. (2005) concluded that the EIF3 preinitiation complex acts as a
+scaffold to coordinate responses to stimuli that promote efficient
+protein synthesis.
+
+Cota et al. (2006) demonstrated that mTOR signaling plays a role in the
+brain mechanisms that respond to nutrient availability, regulating
+energy balance. In the rat, mTOR signaling is controlled by energy
+status in specific regions of the hypothalamus and colocalizes with
+neuropeptide Y (162640) and proopiomelanocortin (POMC; 176830) neurons
+in the arcuate nucleus. Central administration of leucine increases
+hypothalamic mTOR signaling and decreases food intake and body weight.
+The hormone leptin (164160) increases hypothalamic mTOR activity, and
+the inhibition of mTOR signaling blunts leptin's anorectic effect. Thus,
+Cota et al. (2006) concluded that mTOR is a cellular fuel sensor whose
+hypothalamic activity is directly tied to the regulation of energy
+intake.
+
+Laviano et al. (2006) questioned the clinical validity of the
+experiments performed by Cota et al. (2006) given that in human
+conditions such as hepatic encephalopathy and cancer, and in
+malnourished uremic patients undergoing hemodialysis, supplementation
+with 7 grams per day of leucine, which comprises 50% of a branched-chain
+amino acid mix, improves appetite and muscle protein synthesis. Cota et
+al. (2006) responded that their experiments were done in healthy rats of
+normal weight to investigate the physiologic role of hypothalamic mTOR
+in the regulation of food intake.
+
+Bernardi et al. (2006) identified PML (102578) as a critical inhibitor
+of neoangiogenesis (the formation of new blood vessels) in vivo, in both
+ischemic and neoplastic conditions, through the control of protein
+translation. Bernardi et al. (2006) demonstrated that in hypoxic
+conditions PML acts as a negative regulator of the synthesis rate of
+hypoxia-inducible factor 1-alpha (HIF1A; 603348) by repressing mTOR. PML
+physically interacts with mTOR and negatively regulates its association
+with the small GTPase RHEB (601293) by favoring mTOR nuclear
+accumulation. Notably, PML-null cells and tumors displayed higher
+sensitivity both in vitro and in vivo to growth inhibition by rapamycin,
+and lack of PML inversely correlated with phosphorylation of ribosomal
+protein S6 (180460) and tumor angiogenesis in mouse and human tumors.
+Thus, Bernardi et al. (2006) concluded that their findings identified
+PML as a novel suppressor of mTOR and neoangiogenesis.
+
+Li et al. (2006) demonstrated that Tor1 is dynamically distributed in
+the cytoplasm and nucleus in yeast. Tor1 nuclear localization is
+nutrient-dependent and rapamycin-sensitive: starvation or treatment with
+rapamycin causes Tor1 to exit from the nucleus. Tor1 nuclear
+localization is critical for 35S rRNA synthesis, but not for the
+expression of amino acid transporters and ribosomal protein genes. Li et
+al. (2006) further showed that Tor1 is associated with 35S ribosomal DNA
+(rDNA) promoter chromatin in a rapamycin- and starvation-sensitive
+manner; this association is necessary for 35S rRNA synthesis and cell
+growth. Li et al. (2006) concluded that the spatial regulation of Tor1
+complex 1 (TORC1; see later) might be involved in differential control
+of its target genes.
+
+Raab-Graham et al. (2006) found that the mTOR inhibitor rapamycin
+increased the Kv1.1 (KCNA1; 176260) voltage-gated potassium channel
+protein in hippocampal neurons and promoted Kv1.1 surface expression on
+dendrites without altering its axonal expression. Moreover, endogenous
+Kv1.1 mRNA was detected in dendrites. Using Kv1.1 fused to the
+photoconvertible fluorescence protein Kaede as a reporter for local
+synthesis, Raab-Graham et al. (2006) observed Kv1.1 synthesis in
+dendrites upon inhibition of mTOR or the N-methyl-D-aspartate (NMDA)
+glutamate receptor (see 138251). Thus, Raab-Graham et al. (2006)
+concluded that synaptic excitation may cause local suppression of
+dendritic Kv1 channels by reducing their local synthesis.
+
+Hoyer-Hansen et al. (2007) showed that Ca(2+)-induced autophagy in
+mammalian cells utilized a signaling pathway that included CAMKK2, AMPK
+(PRKAA2; 600497), and mTOR. Ca(2+)-induced autophagy was inhibited by
+BCL2 (151430) but only when BCL2 was localized to the endoplasmic
+reticulum.
+
+The activity of mTOR is regulated by RHEB, a Ras-like small GTPase, in
+response to growth factor stimulation and nutrient availability. Bai et
+al. (2007) showed that RHEB regulates mTOR through FKBP38 (604840), a
+member of the FK506-binding protein (FKBP) family that is structurally
+related to FKBP12 (186945). FKBP38 binds to mTOR and inhibits its
+activity in a manner similar to that of the FKBP12-rapamycin complex.
+RHEB interacts directly with FKBP38 and prevents its association with
+mTOR in a GTP-dependent manner. Bai et al. (2007) concluded that their
+findings suggested that FKBP38 is an endogenous inhibitor of mTOR, whose
+inhibitory activity is antagonized by RHEB in response to growth factor
+stimulation and nutrient availability.
+
+Cunningham et al. (2007) showed that mTOR is necessary for the
+maintenance of mitochondrial oxidative function. In skeletal muscle
+tissues and cells, the mTOR inhibitor rapamycin decreased the gene
+expression of the mitochondrial transcriptional regulators PGC1-alpha
+(604517), estrogen-related receptor alpha (ESRRA; 601998), and nuclear
+respiratory factors, resulting in a decrease in mitochondrial gene
+expression and oxygen consumption. Using computational genomics,
+Cunningham et al. (2007) identified the transcription factor yin-yang 1
+(YY1; 600013) as a common target of mTOR and PGC1-alpha. Knockdown of
+YY1 caused a significant decrease in mitochondrial gene expression and
+in respiration, and YY1 was required for rapamycin-dependent repression
+of those genes. Moreover, inhibition of mTOR resulted in a failure of
+YY1 to interact with and be coactivated by PGC1-alpha. Cunningham et al.
+(2007) concluded that they identified a mechanism by which a nutrient
+sensor (mTOR) balances energy metabolism by means of the transcriptional
+control of mitochondrial oxidative function.
+
+Mao et al. (2008) demonstrated that mTOR is targeted for ubiquitination
+and consequent degradation by binding to the tumor suppressor protein
+FBXW7 (606278). Human breast cancer cell lines and primary tumors showed
+a reciprocal relation between loss of FBXW7 and deletion or mutation of
+PTEN (601728), which also activates mTOR. Tumor cell lines harboring
+deletions or mutations in FBXW7 are particularly sensitive to rapamycin
+treatment, suggesting to Mao et al. (2008) that loss of FBXW7 may be a
+biomarker for human cancers susceptible to treatment with inhibitors of
+the mTOR pathway.
+
+To test for the role of intrinsic impediments to axon regrowth, Park et
+al. (2008) analyzed cell growth control genes using a virus-assisted in
+vivo conditional knockout approach. Deletion of PTEN, a negative
+regulator of the mTOR pathway, in adult retinal ganglion cells promoted
+robust axon regeneration after optic nerve injury. In wildtype adult
+mice, the mTOR activity was suppressed and new protein synthesis was
+impaired in axotomized retinal ganglion cells, which may have
+contributed to the regeneration failure. Reactivating this pathway by
+conditional knockout of the TSC1 gene (605284), another negative
+regulator of the mTOR pathway, also led to axon regeneration.
+
+Genomewide copy number analyses of human cancers identified a frequent
+5p13 amplification in several solid tumor types, including lung (56%),
+ovarian (38%), breast (32%), prostate (37%), and melanoma (32%). Using
+integrative analysis of a genomic profile of the region, Scott et al.
+(2009) identified a Golgi protein, GOLPH3 (612207), as a candidate
+targeted for amplification. Gain- and loss-of-function studies in vitro
+and in vivo validated GOLPH3 as a potent oncogene. Physically, GOLPH3
+localizes to the trans-Golgi network and interacts with components of
+the retromer complex, which in yeast has been linked to TOR signaling.
+Mechanistically, GOLPH3 regulates cell size, enhances growth
+factor-induced mTOR signaling in human cancer cells, and alters the
+response of an mTOR inhibitor in vivo. Thus, Scott et al. (2009)
+concluded that genomic and genetic, biologic, functional, and
+biochemical data in yeast and humans established GOLPH3 as a novel
+oncogene that is commonly targeted for amplification in human cancer,
+and is capable of modulating the response to rapamycin, a cancer drug in
+clinical use.
+
+Mutations in the TSC1 (605284) and TSC2 (191092) genes cause tuberous
+sclerosis (191100 and 613254, respectively); the protein products of
+these genes form a complex in the TOR pathway that integrates
+environmental signals to regulate cell growth, proliferation, and
+survival. DiBella et al. (2009) showed that morpholino knockdown of
+zebrafish Tsc1a led to a ciliary phenotype including kidney cyst
+formation and left-right asymmetry defects. Tsc1a localized to the
+Golgi, but morpholinos against it, nonetheless, acted synthetically with
+ciliary genes in producing kidney cysts. Consistent with a role of the
+cilium in the same pathway as Tsc genes, the TOR pathway was found to be
+aberrantly activated in ciliary mutants, resembling the effect of Tsc1a
+knockdown, and kidney cyst formation in ciliary mutants was blocked by
+rapamycin. DiBella et al. (2009) suggested a signaling network between
+the cilium and the TOR pathway wherein ciliary signals can feed into the
+TOR pathway and where Tsc1a may regulate the length of the cilium
+itself.
+
+Araki et al. (2009) demonstrated that mTOR is a major regulator of
+memory CD8 T-cell differentiation and that the immunosuppressive drug
+rapamycin has immunostimulatory effects on the generation of memory CD8
+T cells. Treatment of mice with rapamycin following acute lymphocytic
+choriomeningitis virus infection enhanced not only the quantity but also
+the quality of virus-specific CD8 T cells. Similar effects were seen
+after immunization of mice with a vaccine based on nonreplicating
+virus-like particles. In addition, rapamycin treatment also enhanced
+memory T-cell responses in nonhuman primates following vaccination with
+modified vaccinia virus Ankara. Rapamycin was effective during both the
+expansion and contraction phases of the T cell response; during the
+expansion phase it increased the number of memory precursors, and during
+the contraction phase (effector to memory transition) it accelerated the
+memory T cell differentiation program. Experiments using RNA
+interference to inhibit expression of mTOR, raptor (607130) or FKBP12
+(186945) in antigen-specific CD8 T cells showed that mTOR acts
+intrinsically through the mTORC1 (mTOR complex 1; see later) pathway to
+regulate memory T-cell differentiation. Araki et al. (2009) concluded
+that their studies identified a molecular pathway to regulate memory
+T-cell differentiation and provided a strategy for improving the
+functional qualities of vaccine- or infection-induced memory T cells.
+
+Sestrins (see 606103) are conserved proteins that accumulate in cells
+exposed to stress, potentiate adenosine monophosphate-activated protein
+kinase (AMPK; 602739), and inhibit activation of TOR (mTOR). Lee et al.
+(2010) showed that the abundance of Drosophila sestrin is increased upon
+chronic TOR activation through accumulation of reactive oxygen species
+that cause activation of c-Jun N-terminal kinase (see 601158) and
+transcription factor Forkhead box O (Foxo; see 136533). Loss of
+Drosophila Sesn resulted in age-associated pathologies including
+triglyceride accumulation, mitochondrial dysfunction, muscle
+degeneration, and cardiac malfunction, which were prevented by
+pharmacologic activation of AMPK or inhibition of TOR. Hence, Lee et al.
+(2010) concluded that Drosophila Sesn appears to be a negative feedback
+regulator of TOR that integrates metabolic and stress inputs and
+prevents pathologies caused by chronic TOR activation that may result
+from diminished autophagic clearance of damaged mitochondria, protein
+aggregates, or lipids.
+
+Using naive CD8 T (OT-I) cells from Rag2 (179616) -/- mice, Rao et al.
+(2010) showed that IL12 (161560) enhanced and sustained antigen and B7.1
+(CD80; 112203) costimulatory molecule-induced mTor kinase activity via
+Pi3k and Stat4 (600558) pathways. Blocking mTor activity with rapamycin
+reversed IL12-induced effector functions through loss of Tbet (TBX21;
+604895) expression. Rapamycin treatment of IL12-conditioned OT-I cells
+also induced Eomes (604615) expression and memory T cell precursors with
+greater antitumor efficacy. Rao et al. (2010) concluded that mTOR is the
+central regulator of transcriptional programs determining effector
+and/or memory cell fates of CD8+ T cells.
+
+Yu et al. (2010) showed that mTOR signaling in rat kidney cells is
+inhibited during initiation of autophagy, but reactivated by prolonged
+starvation. Reactivation of mTOR is autophagy-dependent and requires the
+degradation of autolysosomal products. Increased mTOR activity
+attenuates autophagy and generates protolysosomal tubules and vesicles
+that extrude from autolysosomes and ultimately mature into functional
+lysosomes, thereby restoring the full complement of lysosomes in the
+cell--a process Yu et al. (2010) identified in multiple animal species.
+Thus, Yu et al. (2010) concluded that an evolutionarily conserved cycle
+in autophagy governs nutrient sensing and lysosome homeostasis during
+starvation.
+
+Ketamine results in a rapid antidepressant response after administration
+in treatment-resistant depressed patients. Li et al. (2010) observed
+that ketamine rapidly activated the mTOR pathway, leading to increased
+synaptic signaling proteins and increased number and function of new
+spine synapses in the prefrontal cortex of rats. Moreover, blockade of
+mTOR signaling completely blocked ketamine induction of synaptogenesis
+and behavioral responses in models of depression. Li et al. (2010)
+concluded that these effects of ketamine are opposite to the synaptic
+deficits that result from exposure to stress and could contribute to the
+fast antidepressant actions of ketamine. Furthermore, Li et al. (2010)
+demonstrated that another compound, which selectively acts on NR2B
+(138252), had similar effects to ketamine, suggesting that this effect
+is mediated through NMDA receptors.
+
+Sathaliyawala et al. (2010) found that the Mtor inhibitor rapamycin
+impaired mouse Flt3l (FLT3LG; 600007)-driven dendritic cell (DC)
+development in vitro, with plasmacytoid DCs and classical DCs most
+profoundly affected. Depletion of the Pi3k-Mtor negative regulator Pten
+facilitated Flt3l-driven DC development in culture. Targeting Pten in
+DCs in vivo caused expansion of Cd8-positive and Cd103 (ITGAE;
+604682)-positive classical DCs, which could be reversed by rapamycin.
+Increased Cd8-positive classical DC numbers caused by Pten deletion
+correlated with increased susceptibility to Listeria infection.
+Sathaliyawala et al. (2010) concluded that PI3K-MTOR signaling
+downstream of FLT3L controls DC development, and that restriction by
+PTEN ensures optimal DC numbers and subset composition.
+
+Protein synthesis and autophagic degradation are regulated in an
+opposite manner by mTOR, whereas under certain conditions it would be
+beneficial if they occurred in unison to handle rapid protein turnover.
+Narita et al. (2011) observed a distinct cellular compartment at the
+trans side of the Golgi apparatus, the TOR-autophagy spatial coupling
+compartment (TASCC), where (auto)lysosomes and mTOR accumulated during
+Ras-induced senescence. mTOR recruitment to the TASCC was amino acid-
+and Rag guanosine triphosphatase (e.g., 612194)-dependent, and
+disruption of mTOR localization to the TASCC suppressed interleukin-6/8
+(147620/146930) synthesis. TASCC formation was observed during
+macrophage differentiation and in glomerular podocytes; both displayed
+increased protein secretion. Narita et al. (2011) concluded that the
+spatial coupling of cells' catabolic and anabolic machinery could
+augment their respective functions and facilitate the mass synthesis of
+secretory proteins.
+
+Using ribosome profiling, Hsieh et al. (2012) uncovered specialized
+translation of the prostate cancer genome by oncogenic mTOR signaling,
+revealing a remarkably specific repertoire of genes involved in cell
+proliferation, metabolism, and invasion. Hsieh et al. (2012) extended
+these findings by functionally characterizing a class of translationally
+controlled proinvasion mRNAs that direct prostate cancer invasion and
+metastatis downstream of oncogenic mTOR signaling. Hsieh et al. (2012)
+developed a clinically relevant ATP site inhibitor of mTOR, called
+INK128, which reprograms this gene expression signature with therapeutic
+benefit for prostate cancer metastasis.
+
+- MTOR Complexes 1 and 2
+
+Jacinto et al. (2004) identified 2 distinct mammalian TOR complexes:
+TORC1, which contains TOR, LST8 (612190), and RAPTOR (607130), and
+TORC2, which contains TOR, LST8, and RICTOR (609022), which they called
+AVO3. Like yeast TORC2, mammalian TORC2 was rapamycin-insensitive and
+functioned upstream of Rho GTPases to regulate the actin cytoskeleton.
+TORC2 did not regulate S6K (see 608938) activity. Knockdown of TORC2,
+but not TORC1, prevented paxillin (602505) phosphorylation, actin
+polymerization, and cell spreading.
+
+Sarbassov et al. (2004) identified a RICTOR (609022)-containing MTOR
+complex that contains GBL (LST8) but not RAPTOR. The RICTOR-MTOR complex
+did not regulate the MTOR effector S6K1 and was not bound by FKBP12
+(186945)-rapamycin. Rapamycin treatment of human embryonic kidney cells
+eliminated the binding of MTOR to RAPTOR, but did not affect the
+interaction of MTOR with RICTOR. Knockdown of RICTOR caused accumulation
+of thick actin fibers throughout much of the cytoplasm in HeLa cells,
+loss of actin at the cell cortex, altered distribution of cytoskeletal
+proteins, and reduced protein kinase C (PKC)-alpha (see 176960)
+activity. Sarbassov et al. (2004) concluded that the RICTOR-MTOR complex
+modulates the phosphorylation of PKC-alpha and the actin cytoskeleton,
+similar to TOR signaling in yeast.
+
+The multiprotein mTORC1 protein kinase complex is the central component
+of a pathway that promotes growth in response to insulin, energy levels,
+and amino acids and is deregulated in common cancers. Sancak et al.
+(2008) found that the Rag proteins, a family of 4 related small
+guanosine triphosphatases (GTPases) (RAGA, 612194; RAGB, 300725; RAGC,
+608267; and RAGD, 608268), interact with mTORC1 in an amino
+acid-sensitive manner and are necessary for the activation of the mTORC1
+pathway by amino acids. A Rag mutant that was constitutively bound to
+guanosine triphosphate interacted strongly with mTORC1, and its
+expression within cells made the mTORC1 pathway resistant to amino acid
+deprivation. Conversely, expression of a guanosine diphosphate-bound Rag
+mutant prevented stimulation of mTORC1 by amino acids. Sancak et al.
+(2008) concluded that the Rag proteins do not directly stimulate the
+kinase activity of mTORC1, but, like amino acids, promote the
+intracellular localization of mTOR to a compartment that also contains
+its activator RHEB (601293).
+
+Dowling et al. (2010) inhibited the mTORC1 pathway in cells lacking the
+eukaryotic translation initiation factor 4E binding proteins EIF4EBP1
+(602223), EIF4EBP2 (602224), and EIF4EBP3 (603483) and analyzed the
+effects on cell size, cell proliferation, and cell cycle progression.
+Although the EIF4EBPs had no effect on cell size, they inhibited cell
+proliferation by selectively inhibiting the translation of mRNAs that
+encode proliferation-promoting proteins and proteins involved in cell
+cycle progression. Thus, Dowling et al. (2010) concluded that control of
+cell size and cell cycle progression appear to be independent in
+mammalian cells, whereas in lower eukaryotes, EIF4E binding proteins
+influence both cell growth and proliferation.
+
+Rosner et al. (2009) reported that the mTORC1-mediated consequences on
+cell cycle and cell size were separable and did not involve effects on
+mTORC2 activity. However, mTORC2 itself was a potent regulator of
+mammalian cell size and cell cycle via a mechanism involving the Akt
+(see 164730)/TSC2 (191092)/Rheb (601293) cascade.
+
+Heublein et al. (2010) stated that path, a Drosophila amino acid
+transporter, functions in nutrient-dependent growth via MTORC1. They
+showed that the human orthologs of path, PAT1 (SLC36A1; 606561) and PAT4
+(SLC36A4; 613760), had similar growth regulatory functions when
+expressed in flies. Knockdown of PAT1 or PAT4 in human MCF-7 breast
+cancer cells or HEK293 cells via small interfering RNA inhibited cell
+proliferation without affecting cell survival, similar to the effect of
+MTOR knockdown. Knockdown of PAT1, PAT4, or MTOR reduced phosphorylation
+of the MTORC1 targets S6K1, S6, and 4EBP1, but had a much smaller effect
+on signaling through PI3K and AKT and had no effect on MTORC2. Knockdown
+of PAT1, PAT4, or MTOR in serum- and nutrient-starved cells reduced
+amino acid-dependent MTORC1 signaling following refeeding. Conversely,
+overexpression of PAT1 in starved cells enhanced the sensitivity of the
+MTORC1 response to amino acids during refeeding. Heublein et al. (2010)
+hypothesized that PAT1 and PAT4 participate in amino acid sensing and
+contribute to the MTORC1 response to amino acids.
+
+Sengupta et al. (2010) showed that mTORC1 controls ketogenesis in mice
+in response to fasting. The authors found that liver-specific loss of
+TSC1 (605284), an mTORC1 inhibitor, led to a fasting-resistant increase
+in liver size, and to a pronounced defect in ketone body production and
+ketogenic gene expression on fasting. The loss of raptor (607130), an
+essential mTORC1 component, had the opposite effect. In addition,
+Sengupta et al. (2010) found that the inhibition of mTORC1 is required
+for the fasting-induced activation of PPAR-alpha (170998) and that
+suppression of NCoR1 (600849), a corepressor of PPAR-alpha, reactivates
+ketogenesis in cells and livers with hyperactive mTORC1 signaling. Like
+livers with activated mTORC1, livers from aged mice have a defect in
+ketogenesis, which correlates with an increase in mTORC1 signaling.
+Moreover, Sengupta et al. (2010) showed that suppressive effects of
+mTORC1 activation and aging on PPAR-alpha activity and ketone production
+are not additive, and that mTORC1 inhibition is sufficient to prevent
+the aging-induced defect in ketogenesis. Thus, Sengupta et al. (2010)
+concluded that their findings revealed that mTORC1 is a key regulator of
+PPAR-alpha function and hepatic ketogenesis and suggested a role for
+mTORC1 activity in promoting the aging of the liver.
+
+Hsu et al. (2011) defined the mTOR-regulated phosphoproteome by
+quantitative mass spectrometry and characterized the primary sequence
+motif specificity of mTOR using positional scanning peptide libraries.
+Hsu et al. (2011) found that the phosphorylation response to insulin is
+largely mTOR-dependent and that mTOR exhibits a unique preference for
+proline, hydrophobic, and aromatic residues at the +1 position. The
+adaptor protein growth factor receptor-bound protein-10 (GRB10; 601523)
+was identified as an mTORC1 substrate that mediates the inhibition of
+phosphoinositide 3-kinase (PI3K; see 171834) typical of cells lacking
+tuberous sclerosis complex-2 (TSC2; 191092), a tumor suppressor and
+negative regulator of mTORC1.
+
+Yu et al. (2011) used large-scale quantitative phosphoproteomics
+experiments to define the signaling networks downstream of mTORC1 and
+mTORC2. Characterization of an mTORC1 substrate, Grb10, showed that
+mTORC1-mediated phosphorylation stabilized Grb10, leading to feedback
+inhibition of the PI3K and extracellular
+signal-regulated/mitogen-activated protein kinase (ERK/MAPK; see 176872)
+pathways. Grb10 expression is frequently downregulated in various
+cancers, and loss of Grb10 and loss of the well-established tumor
+suppressor phosphatase PTEN (601728) appear to be mutually exclusive
+events, suggesting that Grb10 might be a tumor suppressor regulated by
+mTORC1.
+
+Amino acids activate the Rag GTPases, which promote the translocation of
+mTORC1 to the lysosomal surface, the site of mTORC1 activation. Zoncu et
+al. (2011) found that the vacuolar hydrogen proton-adenosine
+triphosphatase ATPase (v-ATPase; see 607027) is necessary for amino
+acids to activate mTORC1. The v-ATPase engages in extensive amino
+acid-sensitive interactions with the Ragulator, a scaffolding complex
+that anchors the Rag GTPases to the lysosome. In a cell-free system, ATP
+hydrolysis by the v-ATPase was necessary for amino acids to regulate the
+v-ATPase-Ragulator interaction and promote mTORC1 translocation. The
+results obtained in vitro and in human cells suggested that amino acid
+signaling begins within the lysosomal lumen. Zoncu et al. (2011)
+concluded that their results identified the v-ATPase as a component of
+the mTOR pathway and delineated a lysosome-associated machinery for
+amino acid sensing.
+
+Yilmaz et al. (2012) found that Paneth cells, a key constituent of the
+mammalian intestinal stem cell (ISC) niche, augment stem cell function
+in response to calorie restriction. Calorie restriction acts by reducing
+mTORC1 signaling in Paneth cells, and the ISC-enhancing effects of
+calorie restriction can be mimicked by rapamycin. Calorie intake
+regulates mTORC1 in Paneth cells, but not ISCs, and forced activation of
+mTORC1 in Paneth cells during calorie restriction abolishes the
+ISC-augmenting effects of the niche. Finally, increased expression of
+bone stromal antigen-1 (BST1; 600387), an ectoenzyme that produces the
+paracrine factor cyclic ADP ribose, in Paneth cells mediates the effects
+of calorie restriction and rapamycin on ISC function. Yilmaz et al.
+(2012) concluded that their findings established that mTORC1
+non-cell-autonomously regulates stem cell self-renewal, and highlighted
+a significant role of the mammalian intestinal niche in coupling stem
+cell function to organismal physiology.
+
+Thoreen et al. (2012) used high-resolution transcriptome-scale ribosome
+profiling to monitor translation in mouse cells acutely treated with the
+mTOR inhibitor Torin-1, which, unlike rapamycin, fully inhibits mTORC1.
+Their data revealed a surprisingly simple model of the mRNA features and
+mechanisms that confer mTORC1-dependent translation control. The subset
+of mRNAs that are specifically regulated by mTORC1 consists almost
+entirely of transcripts with established 5-prime terminal
+oligopyrimidine (TOP) motifs, or, like Hsp90ab1 (140572) and Ybx1
+(154030), with previously unrecognized TOP or related TOP-like motifs
+that were identified. Thoreen et al. (2012) found no evidence to support
+proposals that mTORC1 preferentially regulates mRNAs with increased
+5-prime untranslated region length or complexity. mTORC1 phosphorylates
+a myriad of translational regulators, but how it controls TOP mRNA
+translation was unknown. Remarkably, loss of just the E4-BP family of
+translational repressors, arguably the best characterized mTORC1
+substrates, is sufficient to render TOP and TOP-like mRNA translation
+resistant to Torin-1. The 4E-BPs inhibit translation initiation by
+interfering with the interaction between the cap-binding protein eIF4E
+(133440) and eIF4G1 (600495). Loss of this interaction diminishes the
+capacity of eIF4E to bind TOP and TOP-like mRNAs much more than other
+mRNAs, explaining why mTOR inhibition selectively suppresses their
+translation.
+
+Efeyan et al. (2013) generated knock-in mice that express a
+constitutively active form of RagA (612194), RagA(GTP), from its
+endogenous promoter. RagA(GTP/GTP) homozygous mice developed normally
+but failed to survive postnatal day 1. When delivered by cesarean
+section, fasted RagA(GTP/GTP) neonates die almost twice as rapidly as
+wildtype littermates. Within an hour of birth wildtype neonates strongly
+inhibit mTORC1, which coincides with profound hypoglycemia and a
+decrease in plasma amino acid concentrations. In contrast, mTORC1
+inhibition does not occur in RagA(GTP/GTP) neonates, despite identical
+reductions in blood nutrient amounts. With prolonged fasting, wildtype
+neonates recover their plasma glucose concentrations, but RagA(GTP/GTP)
+mice remain hypoglycemic until death, despite using glycogen at a faster
+rate. The glucose homeostasis defect correlates with the inability of
+fasted RagA(GTP/GTP) neonates to trigger autophagy and produce amino
+acids for de novo glucose production. Because profound hypoglycemia does
+not inhibit mTORC1 in RagA(GTP/GTP) neonates, Efeyan et al. (2013)
+considered the possibility that the Rag pathway signals glucose as well
+as amino acid sufficiency to mTORC1. Indeed, mTORC1 is resistant to
+glucose deprivation in RagA(GTP/GTP) fibroblasts, and glucose, like
+amino acids, controls its recruitment to the lysosomal surface, the site
+of mTORC1 activation. Thus, the Rag GTPases signal glucose and amino
+acid concentrations to mTORC1, and have an unexpectedly key role in
+neonates in autophagy induction and thus nutrient homeostasis and
+viability.
+
+Robitaille et al. (2013) used quantitative phosphoproteomics to identify
+substrates or downstream effectors of the 2 mTOR complexes. mTOR
+controlled the phosphorylation of 335 proteins, including CAD (carbamoyl
+phosphate synthetase-2/aspartate transcarbamoylase/ dihydroorotase;
+114010). The trifunctional CAD protein catalyzes the first 3 steps in de
+novo pyrimidine synthesis. mTORC1 indirectly phosphorylated CAD-S1859
+through S6 kinase (S6K; see RPSKB1, 608938). CAD-S1859 phosphorylation
+promoted CAD oligomerization and thereby stimulated de novo synthesis of
+pyrimidines and progression through S phase of the cell cycle in
+mammalian cells. Ben-Sahra et al. (2013) independently showed that
+activation of mTORC1 led to the acute stimulation of metabolic flux
+through the de novo pyrimidine synthesis pathway. mTORC1 signaling
+posttranslationally regulated this metabolic pathway via its downstream
+target S6K1, which directly phosphorylates S1859 on CAD. Growth
+signaling through mTORC1 thus stimulates the production of new
+nucleotides to accommodate an increase in RNA and DNA synthesis needed
+for ribosome biogenesis and anabolic growth.
+
+Zeng et al. (2013) demonstrated that mTORC1 signaling is a pivotal
+positive determinant of regulatory T cell (Treg) function in mice. Tregs
+have elevated steady-state mTORC1 activity compared to naive T cells.
+Signals through the T cell antigen receptor (TCR; see 186880) and
+interleukin-2 (IL2; 147680) provide major inputs for mTORC1 activation,
+which in turn programs the suppressive function of Tregs. Disruption of
+mTORC1 through Treg-specific deletion of the essential component raptor
+(607130) leads to a profound loss of Treg-suppressive activity in vivo
+and the development of a fatal early-onset inflammatory disorder.
+Mechanistically, raptor/mTORC1 signaling in Tregs promotes cholesterol
+and lipid metabolism, with the mevalonate pathway particularly important
+for coordinating Treg proliferation and upregulation of the suppressive
+molecules CTLA4 (123890) and ICOS (604558) to establish Treg functional
+competency. By contrast, mTORC1 does not directly affect the expression
+of Foxp3 (300292) or anti- and proinflammatory cytokines in Treg cells,
+suggesting a nonconventional mechanism for Treg functional regulation.
+Finally, Zeng et al. (2013) provided evidence that mTORC1 maintains Treg
+function partly through inhibiting the mTORC2 pathway. Zeng et al.
+(2013) concluded that their results showed that mTORC1 acts as a
+fundamental rheostat in Tregs to link immunologic signals from TCR and
+IL2 to lipogenic pathways and functional fitness, and highlighted a
+central role of metabolic programming of Treg suppressive activity in
+immune homeostasis and tolerance.
+
+Loss of MTM1 (300415), a phosphatase that can dephosphorylate
+PtdIns(3)P, causes X-linked myotubular myopathy (310400) in humans and
+in the Mtm1 -/- mouse model. Fetalvero et al. (2013) found that mTORC1
+activity was inhibited in Mtm1 -/- mouse skeletal muscle, concomitant
+with increased content of PtdIns(3)P, ubiquitinated proteins, and
+lipidated proteins normally degraded via autophagy. Mtm1 -/- muscle also
+showed accumulation of defective mitochondria with decreased COX enzyme
+activity. No change in mTORC1, mitochondria, or content of nondegraded
+proteins was observed in liver, heart, or brain of Mtm1 -/- mice.
+Overnight fasting activated mTORC1-dependent inhibition of autophagy in
+wildtype, but not Mtm1 -/-, skeletal muscle. Inhibition of
+hyperactivated mTORC1 normalized autophagy and rescued muscle mass in
+Mtm1 -/- mice. Fetalvero et al. (2013) concluded that MTM1 is involved
+in the regulation of mTORC1 and autophagy specifically in skeletal
+muscle.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Yang et al. (2013) reported cocrystal structures of a complex of
+truncated mTOR and mammalian lethal with SEC13 protein-8 (mLST8; 612190)
+with an ATP transition state mimic and with ATP-site inhibitors. The
+structures revealed an intrinsically active kinase conformation, with
+catalytic residues and a catalytic mechanism remarkably similar to
+canonical protein kinases. The active site is highly recessed owing to
+the FKBP12 (186945)-rapamycin-binding (FRB) domain and an inhibitory
+helix protruding from the catalytic cleft. mTOR-activating mutations map
+to the structural framework that holds these elements in place,
+indicating that the kinase is controlled by restricted access. In vitro
+biochemistry showed that the FRB domain acts as a gatekeeper, with its
+rapamycin-binding site interacting with substrates to grant them access
+to the restricted active site. Rapamycin-FKBP12 inhibits the kinase by
+directly blocking substrate recruitment and by further restricting
+active-site access. Yang et al. (2013) concluded that the structures
+also revealed active-site residues and conformational changes that
+underlie inhibitor potency and specificity.
+
+PATHOGENESIS
+
+- Pancreatic Neuroendocrine Tumors
+
+Jiao et al. (2011) explored the genetic basis of pancreatic
+neuroendocrine tumors (PanNETs) by determining the exomic sequence of 10
+nonfamilial PanNETs and then screened the most commonly mutated genes in
+58 additional PanNETs. Jiao et al. (2011) found mutations in genes in
+the mTOR pathway in 14% of the tumors, a finding that could potentially
+be used to stratify patients for treatments with mTOR inhibitors. The
+most frequently mutated genes specify proteins implicated in chromatin
+remodeling: 44% of the tumors had somatic inactivating mutations in MEN1
+(613733), and 43% had mutations in genes encoding either of the 2
+subunits of a transcription/chromatin remodeling complex consisting of
+DAXX (603186) and ATRX (300032). Clinically, mutations in the MEN1 and
+DAXX/ATRX genes were associated with better prognosis.
+
+MAPPING
+
+Moore et al. (1996) assigned the FRAP gene to chromosome 1p36 by
+fluorescence in situ hybridization (FISH). Lench et al. (1997) mapped
+the FRAP gene to 1p36.2 by FISH following radiation-hybrid mapping to
+that general region. Chromosome 1p36.2 is the region most consistently
+deleted in neuroblastomas. Given the role of PIK-related kinase proteins
+in DNA repair, recombination, and cell cycle checkpoints, the authors
+suggested that the possible role of FRAP in solid tumors with deletions
+at 1p36 should be investigated. Onyango et al. (1998) established the
+order of genes in the 1p36 region, telomere to centromere, as CDC2L1
+(176873)--PTPRZ2 (604008)--ENO1 (172430)--PGD (172200)--XBX1--FRAP2
+(FRAP1)--CD30 (153243).
+
+ANIMAL MODEL
+
+Murakami et al. (2004) generated mTor-knockout mice by disrupting the
+kinase domain of mouse mTor and found that mTor +/- mice were normal and
+fertile, but that mTor -/- mice exhibited embryonic lethality shortly
+after implantation. Although homozygous blastocysts appeared normal,
+their inner cell mass and trophoblast did not proliferate in vitro.
+Mutation analysis showed that the 6 C-terminal amino acids of mTOR are
+essential for kinase activity and are necessary for normal cell size and
+proliferation in embryonic stem cells. Murakami et al. (2004) concluded
+that mTOR controls both cell size and proliferation in early mouse
+embryos and embryonic stem cells. Independently, Gangloff et al. (2004)
+observed defects in mTor -/- mice but not in mTor +/- mice confirming
+the findings of Murakami et al. (2004).
+
+By generating mice with a deletion of mTor specifically in T
+lymphocytes, Delgoffe et al. (2009) demonstrated that mTor activation is
+not necessary for normal activation and IL2 (147680) secretion but is
+necessary for Th1 (see IFNG, 147570), Th2 (see IL4, 147780), and Th17
+(see IL17, 603149) differentiation. Under fully activating conditions,
+mTor-null T cells differentiated into Foxp3 (300292)-positive regulatory
+T cells. This differentiation was associated with hyperactive Smad3
+(603109) activation in the absence of exogenous Tgfb (190180). T cells
+lacking the Torc1 protein complex did not divert to a regulatory
+pathway, thus implicating both Torc1 and Torc2 in preventing the
+generation of regulatory T cells. Delgoffe et al. (2009) suggested that
+MTOR kinase signaling regulates the commitment to effector or regulatory
+T cell lineages.
+
+Harrison et al. (2009) found that rapamycin feeding increased both
+median and maximum life span in genetically heterogeneous mice, even
+when started late in life. The effect was observed in both male and
+female mice and occurred in the absence of diet restriction or reduction
+in body weight. Rapamycin did not change the distribution of presumptive
+causes of death.
+
+N-acylethanolamines (NAEs) are lipid-derived signaling molecules, which
+include the mammalian endocannabinoid arachidonoyl ethanolamide. Given
+its involvement in regulating nutrient intake and energy balance, the
+endocannabinoid system is an excellent candidate for a metabolic signal
+that coordinates the organismal response to dietary restriction and
+maintains homeostasis when nutrients are limited. Lucanic et al. (2011)
+identified NAEs in C. elegans and showed that NAE abundance is reduced
+under dietary restriction and that NAE deficiency is sufficient to
+extend life span through a dietary restriction mechanism requiring PHA4,
+a homolog of FOXA1 (602294). Conversely, dietary supplementation with
+the nematode NAE eicosapentaenoyl ethanolamide not only inhibited
+dietary restriction-induced life span extension in wildtype worms, but
+also suppressed life span extension in a TOR pathway mutant. Lucanic et
+al. (2011) concluded that their study demonstrated a role for NAE
+signaling in aging and indicated that NAEs represent a signal that
+coordinates nutrient status with metabolic changes that ultimately
+determine life span.
+
+Calorie restriction, which increases life span and insulin sensitivity,
+is proposed to function by inhibition of mTORC1, yet paradoxically,
+chronic administration of rapamycin substantially impairs glucose
+tolerance and insulin action. Lamming et al. (2012) demonstrated that
+rapamycin disrupted a second mTOR complex, mTORC2, in vivo and that
+mTORC2 was required for the insulin-mediated suppression of hepatic
+gluconeogenesis. Further, decreased mTORC1 signaling was sufficient to
+extend life span independently from changes in glucose homeostasis, as
+female mice heterozygous for both mTOR and mLST8 (612190) exhibited
+decreased mTORC1 activity and extended life span but had normal glucose
+tolerance and insulin sensitivity. Thus, Lamming et al. (2012) concluded
+that mTORC2 disruption is an important mediator of the effects of
+rapamycin in vivo.
+
+Cina et al. (2012) targeted Mtor disruption to mouse podocytes. Mutant
+mice developed proteinuria at 3 weeks and end stage renal failure by 5
+weeks after birth. Podocytes from mutant mice exhibited accumulation of
+autophagosomes, autophagolysosomal vesicles, and damaged mitochondria.
+Similarly, human podocytes treated with rapamycin accumulated
+autophagosomes and autophagolysosomes.
+
+HISTORY
+
+Crino (2008) noted that rapamycin was discovered in the 1970s as a
+macrolide antibiotic and antifungal in a soil sample from Rapa Nui, also
+known as Easter Island.
+
+REFERENCE 1. Araki, K.; Turner, A. P.; Shaffer, V. O.; Gangappa, S.; Keller,
+S. A.; Bachmann, M. F.; Larsen, C. P.; Ahmed, R.: mTOR regulates
+memory CD8 T-cell differentiation. Nature 460: 108-112, 2009.
+
+2. Bai, X.; Ma, D.; Liu, A.; Shen, X.; Wang, Q. J.; Liu, Y.; Jiang,
+Y.: Rheb activates mTOR by antagonizing its endogenous inhibitor,
+FKBP38. Science 318: 977-980, 2007.
+
+3. Ben-Sahra, I.; Howell, J. J.; Asara, J. M.; Manning, B. D.: Stimulation
+of de novo pyrimidine synthesis by growth signaling through mTOR and
+S6K1. Science 339: 1323-1328, 2013.
+
+4. Bernardi, R.; Guernah, I.; Jin, D.; Grisendi, S.; Alimonti, A.;
+Teruya-Feldstein, J.; Cordon-Cardo, C.; Simon, M. C.; Rafii, S.; Pandolfi,
+P. P.: PML inhibits HIF-1-alpha translation and neoangiogenesis through
+repression of mTOR. Nature 442: 779-785, 2006.
+
+5. Beuvink, I.; Boulay, A.; Fumagalli, S.; Zilbermann, F.; Ruetz,
+S.; O'Reilly, T.; Natt, F.; Hall, J.; Lane, H. A.; Thomas, G.: The
+mTOR inhibitor RAD001 sensitizes tumor cells to DNA-damaged induced
+apoptosis through inhibition of p21 translation. Cell 120: 747-759,
+2005.
+
+6. Brown, E. J.; Albers, M. W.; Shin, T. B.; Ichikawa, K.; Keith,
+C. T.; Lane, W. S.; Schreiber, S. L.: A mammalian protein targeted
+by G1-arresting rapamycin-receptor complex. Nature 369: 756-758,
+1994.
+
+7. Brugarolas, J.; Lei, K.; Hurley, R. L.; Manning, B. D.; Reiling,
+J. H.; Hafen, E.; Witters, L. A.; Ellisen, L. W.; Kaelin, W. G., Jr.
+: Regulation of mTOR function in response to hypoxia by REDD1 and
+the TSC1/TSC2 tumor suppressor complex. Genes Dev. 18: 2893-2904,
+2004.
+
+8. Castedo, M.; Ferri, K. F.; Blanco, J.; Roumier, T.; Larochette,
+N.; Barretina, J.; Amendola, A.; Nardacci, R.; Metivier, D.; Este,
+J. A.; Piacentini, M.; Kroemer, G.: Human immunodeficiency virus
+1 envelope glycoprotein complex-induced apoptosis involves mammalian
+target of rapamycin/FKBP12-rapamycin-associated protein-mediated p53
+phosphorylation. J. Exp. Med. 194: 1097-1110, 2001.
+
+9. Cina, D. P.; Onay, T.; Paltoo, A.; Li, C.; Maezawa, Y.; De Arteaga,
+J.; Jurisicova, A.; Quaggin, S. E.: Inhibition of MTOR disrupts autophagic
+flux in podocytes. J. Am. Soc. Nephrol. 23: 412-420, 2012.
+
+10. Cota, D.; Proulx, K.; Smith, K. A. B.; Kozma, S. C.; Thomas, G.;
+Woods, S. C.; Seeley, R. J.: Hypothalamic mTOR signaling regulates
+food intake. Science 312: 927-930, 2006.
+
+11. Cota, D.; Proulx, K.; Woods, S. C.; Seeley, R. J.: Response to
+Role of leucine in regulating food intake. (Letter) Science 313:
+1236-1238, 2006.
+
+12. Crino, P. B.: Rapamycin and tuberous sclerosis complex: from
+Easter Island to epilepsy. Ann. Neurol. 63: 415-417, 2008.
+
+13. Cunningham, J. T.; Rodgers, J. T.; Arlow, D. H.; Vazquez, F.;
+Mootha, V. K.; Puigserver, P.: mTOR controls mitochondrial oxidative
+function through a YY1-PGC-1-alpha transcriptional complex. Nature 450:
+736-740, 2007.
+
+14. Delgoffe, G. M.; Kole, T. P.; Zheng, Y.; Zarek, P. E.; Matthews,
+K. L.; Xiao, B.; Worley, P. F.; Kozma, S. C.; Powell, J. D.: The
+mTOR kinase differentially regulates effector and regulatory T cell
+lineage commitment. Immunity 30: 832-844, 2009.
+
+15. Dennis, P. B.; Jaeschke, A.; Saitoh, M.; Fowler, B.; Kozma, S.
+C.; Thomas, G.: Mammalian TOR: a homeostatic ATP sensor. Science 294:
+1102-1105, 2001.
+
+16. DiBella, L. M.; Park, A.; Sun, Z.: Zebrafish Tsc1 reveals functional
+interactions between the cilium and the TOR pathway. Hum. Molec.
+Genet. 18: 595-606, 2009.
+
+17. Dowling, R. J. O.; Topisirovic, I.; Alain, T.; Bidinosti, M.;
+Fonseca, B. D.; Petroulakis, E.; Wang, X.; Larsson, O.; Selvaraj,
+A.; Liu, Y.; Kozma, S. C.; Thomas, G.; Sonenberg, N.: mTORC1-mediated
+cell proliferation, but not cell growth, controlled by the 4E-BPs. Science 328:
+1172-1176, 2010.
+
+18. Efeyan, A.; Zoncu, R.; Chang, S.; Gumper, I.; Snitkin, H.; Wolfson,
+R. L.; Kirak, O.; Sabatini, D. D.; Sabatini, D. M.: Regulation of
+mTORC1 by the Rag GTPases is necessary for neonatal autophagy and
+survival. Nature 493: 679-683, 2013.
+
+19. Fang, Y.; Vilella-Bach, M.; Bachmann, R.; Flanigan, A.; Chen,
+J.: Phosphatidic acid-mediated mitogenic activation of mTOR signaling. Science 294:
+1942-1945, 2001.
+
+20. Fetalvero, K. M.; Yu, Y.; Goetschkes, M.; Liang, G.; Valdez, R.
+A.; Gould, T.; Triantafellow, E.; Bergling, S.; Loureiro, J.; Eash,
+J.; Lin, V.; Porter, J. A.; Finan, P. M.; Walsh, K.; Yang, Y.; Mao,
+X.; Murphy, L. O.: Defective autophagy and mTORC1 signaling in myotubularin
+null mice. Molec. Cell. Biol. 33: 98-110, 2013.
+
+21. Fingar, D. C.; Salama, S.; Tsou, C.; Harlow, E.; Blenis, J.:
+Mammalian cell size is controlled by mTOR and its downstream targets
+S6K1 and 4EBP1/eIF4E. Genes Dev. 16: 1472-1487, 2002.
+
+22. Gangloff, Y.-G.; Mueller, M.; Dann, S. G.; Svoboda, P.; Sticker,
+M.; Spetz, J.-F.; Um, S. H.; Brown, E. J.; Cereghini, S.; Thomas,
+G.; Kozma, S. C.: Disruption of the mouse mTOR gene leads to early
+postimplantation lethality and prohibits embryonic stem cell development. Molec.
+Cell. Biol. 24: 9508-9516, 2004.
+
+23. Hara, K.; Maruki, Y.; Long, X.; Yoshino, K.; Oshiro, N.; Hidayat,
+S.; Tokunaga, C.; Avruch, J.; Yonezawa, K.: Raptor, a binding partner
+of target of rapamycin, mediates TOR action. Cell 110: 177-189,
+2002.
+
+24. Harrison, D. E.; Strong, R.; Sharp, Z. D.; Nelson, J. F.; Astle,
+C. M.; Flurkey, K.; Nadon, N. L.; Wilkinson, J. E.; Frenkel, K.; Carter,
+C. S.; Pahor, M.; Javors, M. A.; Fernandez, E.; Miller, R. A.: Rapamycin
+fed late in life extends lifespan in genetically heterogeneous mice. Nature 460:
+392-395, 2009.
+
+25. Hay, N.; Sonenberg, N.: Upstream and downstream of mTOR. Genes
+Dev. 18: 1926-1945, 2004.
+
+26. Heublein, S.; Kazi, S.; Ogmundsdottir, M. H.; Attwood, E. V.;
+Kala, S.; Boyd, C. A. R.; Wilson, C.; Goberdhan, D. C. I.: Proton-assisted
+amino-acid transporters are conserved regulators of proliferation
+and amino-acid-dependent mTORC1 activation. Oncogene 29: 4068-4079,
+2010.
+
+27. Holz, M. K.; Ballif, B. A.; Gygi, S. P.; Blenis, J.: mTOR and
+S6K1 mediate assembly of the translation preinitiation complex through
+dynamic protein interchange and ordered phosphorylation events. Cell 123:
+569-580, 2005.
+
+28. Hoyer-Hansen, M.; Bastholm, L.; Szyniarowski, P.; Campanella,
+M.; Szabadkai, G.; Farkas, T.; Bianchi, K.; Fehrenbacher, N.; Elling,
+F.; Rizzuto, R.; Mathiasen, I. S.; Jaattela, M.: Control of macrophagy
+by calcium, calmodulin-dependent kinase kinase-beta, and Bcl-2. Molec.
+Cell 25: 193-205, 2007.
+
+29. Hsieh, A. C.; Liu, Y.; Edlind, M. P.; Ingolia, N. T.; Janes, M.
+R.; Sher, A.; Shi, E. Y.; Stumpf, C. R.; Christensen, C.; Bonham,
+M. J.; Wang, S.; Ren, P.; Martin, M.; Jessen, K.; Feldman, M. E.;
+Weissman, J. S.; Shokat, K. M.; Rommel, C.; Ruggero, D.: The translational
+landscape of mTOR signalling steers cancer initiation and metastasis. Nature 485:
+55-61, 2012.
+
+30. Hsu, P. P.; Kang, S. A.; Rameseder, J.; Zhang, Y.; Ottina, K.
+A.; Lim, D.; Peterson, T. R.; Choi, Y.; Gray, N. S.; Yaffe, M. B.;
+Marto, J. A.; Sabatini, D. M.: The mTOR-regulated phosphoproteome
+reveals a mechanism of mTORC1-mediated inhibition of growth factor
+signaling. Science 332: 1317-1322, 2011.
+
+31. Jacinto, E.; Loewith, R.; Schmidt, A.; Lin, S.; Ruegg, M. A.;
+Hall, A.; Hall, M. N.: Mammalian TOR complex 2 controls the actin
+cytoskeleton and is rapamycin insensitive. Nature Cell Biol. 6:
+1122-1128, 2004.
+
+32. Jiao, Y.; Shi, C.; Edil, B. H.; de Wilde, R. F.; Klimstra, D.
+S.; Maitra, A.; Schulick, R. D.; Tang, L. H.; Wolfgang, C. L.; Choti,
+M. A.; Velculescu, V. E.; Diaz, L. A., Jr.; Vogelstein, B.; Kinzler,
+K. W.; Hruban, R. H.; Papadopoulos, N.: DAXX/ATRX, MEN1, and mTOR
+pathway genes are frequently altered in pancreatic neuroendocrine
+tumors. Science 331: 1199-1203, 2011.
+
+33. Kim, D.-H.; Sarbassov, D. D.; Ali, S. M.; King, J. E.; Latek,
+R. R.; Erdjument-Bromage, H.; Tempst, P.; Sabatini, D. M.: mTOR interacts
+with raptor to form a nutrient-sensitive complex that signals to the
+cell growth machinery. Cell 110: 163-175, 2002.
+
+34. Kim, D.-H.; Sarbassov, D. D.; Ali, S. M.; Latek, R. R.; Guntur,
+K. V. P.; Erdjument-Bromage, H.; Tempst, P.; Sabatani, D. M.: G-beta-L,
+a positive regulator of the rapamycin-sensitive pathway required for
+the nutrient-sensitive interaction between raptor and mTOR. Molec.
+Cell 11: 895-904, 2003.
+
+35. Kwon, C.-H.; Zhu, X.; Zhang, J.; Baker, S. J.: mTor is required
+for hypertrophy of Pten-deficient neuronal soma in vivo. Proc. Nat.
+Acad. Sci. 100: 12923-12928, 2003.
+
+36. Lamming, D. W.; Ye, L.; Katajisto, P.; Goncalves, M. D.; Saitoh,
+M.; Stevens, D. M.; Davis, J. G.; Salmon, A. B.; Richardson, A.; Ahima,
+R. S.; Guertin, D. A.; Sabatini, D. M.; Baur, J. A.: Rapamycin-induced
+insulin resistance is mediated by mTORC2 loss and uncoupled from longevity. Science 335:
+1638-1643, 2012.
+
+37. Laviano, A.; Meguid, M. M.; Inui, A.; Rossi-Fanelli, F.: Role
+of leucine in regulating food intake. (Letter) Science 313: 1236
+only, 2006.
+
+38. Lee, J. H.; Budanov, A. V.; Park, E. J.; Birse, R.; Kim, T. E.;
+Perkins, G. A.; Ocorr, K.; Ellisman, M. H.; Bodmer, R.; Bier, E.;
+Karin, M.: Sestrin as a feedback inhibitor of TOR that prevents age-related
+pathologies. Science 327: 1223-1228, 2010.
+
+39. Lench, N. J.; Macadam, R.; Markham, A. F.: The human gene encoding
+FKBP-rapamycin associated protein (FRAP) maps to chromosomal band
+1p36.2. Hum. Genet. 99: 547-549, 1997.
+
+40. Li, H.; Tsang, C. K.; Watkins, M.; Bertram, P. G.; Zheng, X. F.
+S.: Nutrient regulates Tor1 nuclear localization and association
+with rDNA promoter. Nature 442: 1058-1061, 2006.
+
+41. Li, N.; Lee, B.; Liu, R.-J.; Banasr, M.; Dwyer, J. M.; Iwata,
+M.; Li, X.-Y.; Aghajanian, G.; Duman, R. S.: mTOR-dependent synapse
+formation underlies the rapid antidepressant effects of NMDA antagonists. Science 329:
+959-964, 2010.
+
+42. Lucanic, M.; Held, J. M.; Vantipalli, M. C.; Klang, I. M.; Graham,
+J. B.; Gibson, B. W.; Lithgow, G. J.; Gill, M. S.: N-acylethanolamine
+signalling mediates the effect of diet on lifespan in Caenorhabditis
+elegans. Nature 473: 226-229, 2011.
+
+43. Mao, J.-H.; Kim, I.-J.; Wu, D.; Climent, J.; Kang, H. C.; DelRosario,
+R.; Balmain, A.: FBXW7 targets mTOR for degradation and cooperates
+with PTEN in tumor suppression. Science 321: 1499-1502, 2008.
+
+44. Moore, P. A.; Rosen, C. A.; Carter, K. C.: Assignment of the
+human FKBP12-rapamycin-associated protein (FRAP) gene to chromosome
+1p36 by fluorescence in situ hybridization. Genomics 33: 331-332,
+1996.
+
+45. Murakami, M.; Ichisaka, T.; Maeda, M.; Oshiro, N.; Hara, K.; Edenhofer,
+F.; Kiyama, H.; Yonezawa, K.; Yamanaka, S.: mTOR is essential for
+growth and proliferation in early mouse embryos and embryonic stem
+cells. Molec. Cell. Biol. 24: 6710-6718, 2004.
+
+46. Narita, M.; Young, A. R. J.; Arakawa, S.; Samarajiwa, S. A.; Nakashima,
+T.; Yoshida, S.; Hong, S.; Berry, L. S.; Reichelt, S.; Ferreira, M.;
+Tavare, S.; Inoki, K.; Shimizu, S.; Narita, M.: Spatial coupling
+of mTOR and autophagy augments secretory phenotypes. Science 332:
+966-970, 2011.
+
+47. Onyango, P.; Lubyova, B.; Gardellin, P.; Kurzbauer, R.; Weith,
+A.: Molecular cloning and expression analysis of five novel genes
+in chromosome 1p36. Genomics 50: 187-198, 1998.
+
+48. Park, K. K.; Liu, K.; Hu, Y.; Smith, P. D.; Wang, C.; Cai. B.;
+Xu, B.; Connolly, L.; Kramvis, I.; Sahin, M.; He, Z.: Promoting axon
+regeneration in the adult CNS by modulation of the PTEN/mTOR pathway. Science 322:
+963-966, 2008.
+
+49. Raab-Graham, K. F.; Haddick, P. C. G.; Jan, Y. N.; Jan, L. Y.
+: Activity- and mTOR-dependent suppression of Kv1.1 channel mRNA translation
+in dendrites. Science 314: 144-148, 2006.
+
+50. Rao, R. R.; Li, Q.; Odunsi, K.; Shrikant, P. A.: The mTOR kinase
+determines effector versus memory CD8+ T cell fate by regulating the
+expression of transcription factors T-bet and Eomesodermin. Immunity 32:
+67-78, 2010.
+
+51. Ravikumar, B.; Vacher, C.; Berger, Z.; Davies, J. E.; Luo, S.;
+Oroz, L. G.; Scaravilli, F.; Easton, D. F.; Duden, R.; O'Kane, C.
+J.; Rubinsztein, D. C.: Inhibition of mTOR induces autophagy and
+reduces toxicity of polyglutamine expansions in fly and mouse models
+of Huntington disease. Nature Genet. 36: 585-596, 2004.
+
+52. Robitaille, A. M.; Christen, S.; Shimobayashi, M.; Cornu, M.;
+Fava, L. L.; Moes, S.; Prescianotto-Baschong, C.; Sauer, U.; Jenoe,
+P.; Hall, M. N.: Quantitative phosphoproteomics reveal mTORC1 activates
+de novo pyrimidine synthesis. Science 339: 1320-1323, 2013.
+
+53. Rosner, M.; Fuchs, C.; Siegel, N.; Valli, A.; Hengstschlager,
+M.: Functional interaction of mammalian target of rapamycin complexes
+in regulating mammalian cell size and cell cycle. Hum. Molec. Genet. 18:
+3298-3310, 2009.
+
+54. Sabatini, D. M.; Erdjument-Bromage, H.; Lui, M.; Tempst, P.; Snyder,
+S. H.: RAFT1: a mammalian protein that binds to FKBP12 in a rapamycin-dependent
+fashion and is homologous to yeast TORs. Cell 78: 35-43, 1994.
+
+55. Sancak, Y.; Peterson, T. R.; Shaul, Y. D.; Lindquist, R. A.; Thoreen,
+C. C.; Bar-Peled, L.; Sabatini, D. M.: The Rag GTPases bind raptor
+and mediate amino acid signaling to mTORC1. Science 320: 1496-1501,
+2008.
+
+56. Sarbassov, D. D.; Ali, S. M.; Kim, D.-H.; Guertin, D. A.; Latek,
+R. R.; Erdjument-Bromage, H.; Tempst, P.; Sabatini, D. M.: Rictor,
+a novel binding partner of mTOR, defines a rapamycin-insensitive and
+raptor-independent pathway that regulates the cytoskeleton. Curr.
+Biol. 14: 1296-1302, 2004.
+
+57. Sarbassov, D. D.; Guertin, D. A.; Ali, S. M.; Sabatini, D. M.
+: Phosphorylation and regulation of Akt/PKB by the rictor-mTOR complex. Science 307:
+1098-1101, 2005.
+
+58. Sathaliyawala, T.; O'Gorman, W. E.; Greter, M.; Bogunovic, M.;
+Konjufca, V.; Hou, Z. E.; Nolan, G. P.; Miller, M. J.; Merad, M.;
+Reizis, B.: Mammalian target of rapamycin controls dendritic cell
+development downstream of Flt3 ligand signaling. Immunity 33: 597-606,
+2010.
+
+59. Scott, K. L.; Kabbarah, O.; Liang, M.-C.; Ivanova, E.; Anagnostou,
+V.; Wu, J.; Dhakal, S.; Wu, M.; Chen, S.; Feinberg, T.; Huang, J.;
+Saci, A.; Widlund, H. R.; Fisher, D. E.; Xiao, Y.; Rimm, D. L.; Protopopov,
+A.; Wong, K.-K.; Chin, L.: GOLPH3 modulates mTOR signalling and rapamycin
+sensitivity in cancer. Nature 459: 1085-1090, 2009.
+
+60. Scott, R. C.; Schuldiner, O.; Neufeld, T. P.: Role and regulation
+of starvation-induced autophagy in the Drosophila fat body. Dev.
+Cell 7: 167-178, 2004.
+
+61. Sengupta, S.; Peterson, T. R.; Laplante, M.; Oh, S.; Sabatini,
+D. M.: mTORC1 controls fasting-induced ketogenesis and its modulation
+by ageing. Nature 468: 1100-1104, 2010.
+
+62. Thoreen, C. C.; Chantranupong, L.; Keys, H. R.; Wang, T.; Gray,
+N. S.; Sabatini, D. M.: A unifying model for mTORC1-mediated regulation
+of mRNA translation. Nature 485: 109-113, 2012.
+
+63. Vellai, T.; Takacs-Vellai, K.; Zhang, Y.; Kovacs, A. L.; Orosz,
+L.; Muller, F.: Influence of TOR kinase on lifespan in C. elegans. Nature 426:
+620 only, 2003.
+
+64. Yang, H.; Rudge, D. G.; Koos, J. D.; Vaidialingam, B.; Yang, H.
+J.; Pavletich, N. P.: mTOR kinase structure, mechanism and regulation. Nature 497:
+217-223, 2013.
+
+65. Yilmaz, O. H.; Katajisto, P.; Lamming, D. W.; Gultekin, Y.; Bauer-Rowe,
+K. E.; Sengupta, S.; Birsoy, K.; Dursun, A.; Yilmaz, V. O.; Selig,
+M.; Nielsen, G. P.; Mino-Kenudson, M.; Zukerberg, L. R.; Bhan, A.
+K.; Deshpande, V.; Sabatini, D. M.: mTORC1 in the Paneth cell niche
+couples intestinal stem-cell function to calorie intake. Nature 486:
+490-495, 2012.
+
+66. Yu, L.; McPhee, C. K.; Zheng, L.; Mardones, G. A.; Rong, Y.; Peng,
+J.; Mi, N.; Zhao, Y.; Liu, Z.; Wan, F.; Hailey, D. W.; Oorschot, V.;
+Klumperman, J.; Baehrecke, E. H.; Lenardo, M. J.: Termination of
+autophagy and reformation of lysosomes regulated by mTOR. Nature 465:
+942-946, 2010.
+
+67. Yu, Y.; Yoon, S.-O.; Poulogiannis, G.; Yang, Q.; Ma, X. M.; Villen,
+J.; Kubica, N.; Hoffman, G. R.; Cantley, L. C.; Gygi, S. P.; Blenis,
+J.: Phosphoproteomic analysis identifies Grb10 as an mTORC1 substrate
+that negatively regulates insulin signaling. Science 332: 1322-1326,
+2011.
+
+68. Zeng, H.; Yang, K.; Cloer, C.; Neale, G.; Vogel, P.; Chi, H.:
+mTORC1 couples immune signals and metabolic programming to establish
+T(reg)-cell function. Nature 499: 485-490, 2013.
+
+69. Zoncu, R.; Bar-Peled, L.; Efeyan, A.; Wang, S.; Sancak, Y.; Sabatini,
+D. M.: mTORC1 senses lysosomal amino acids through an inside-out
+mechanism that requires the vacuolar H(+)-ATPase. Science 334: 678-683,
+2011.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/1/2013
+Ada Hamosh - updated: 9/30/2013
+Ada Hamosh - updated: 7/8/2013
+Ada Hamosh - updated: 5/22/2013
+Ada Hamosh - updated: 3/21/2013
+Patricia A. Hartz - updated: 11/8/2012
+Ada Hamosh - updated: 9/20/2012
+Ada Hamosh - updated: 7/17/2012
+Ada Hamosh - updated: 4/24/2012
+Ada Hamosh - updated: 11/29/2011
+Ada Hamosh - updated: 7/26/2011
+Ada Hamosh - updated: 6/6/2011
+Ada Hamosh - updated: 5/24/2011
+Ada Hamosh - updated: 3/31/2011
+Patricia A. Hartz - updated: 2/21/2011
+Paul J. Converse - updated: 1/24/2011
+Paul J. Converse - updated: 12/3/2010
+Ada Hamosh - updated: 9/29/2010
+George E. Tiller - updated: 7/7/2010
+Ada Hamosh - updated: 7/1/2010
+Ada Hamosh - updated: 6/14/2010
+Paul J. Converse - updated: 5/26/2010
+Ada Hamosh - updated: 4/22/2010
+Ada Hamosh - updated: 8/25/2009
+Patricia A. Hartz - updated: 8/13/2009
+George E. Tiller - updated: 8/10/2009
+Ada Hamosh - updated: 7/9/2009
+Patricia A. Hartz - updated: 5/5/2009
+Cassandra L. Kniffin - updated: 4/15/2009
+Ada Hamosh - updated: 12/30/2008
+Ada Hamosh - updated: 9/29/2008
+Ada Hamosh - updated: 7/23/2008
+Matthew B. Gross - updated: 7/22/2008
+Ada Hamosh - updated: 1/22/2008
+Ada Hamosh - updated: 11/26/2007
+Patricia A. Hartz - updated: 5/3/2007
+Ada Hamosh - updated: 10/24/2006
+Ada Hamosh - updated: 9/8/2006
+Ada Hamosh - updated: 6/6/2006
+Ada Hamosh - updated: 2/10/2006
+Patricia A. Hartz - updated: 2/2/2006
+Stylianos E. Antonarakis - updated: 4/6/2005
+Patricia A. Hartz - updated: 2/1/2005
+Patricia A. Hartz - updated: 11/10/2004
+Patricia A. Hartz - updated: 9/23/2004
+Patricia A. Hartz - updated: 9/9/2004
+Victor A. McKusick - updated: 5/18/2004
+Ada Hamosh - updated: 12/16/2003
+Stylianos E. Antonarakis - updated: 7/31/2002
+Ada Hamosh - updated: 1/7/2002
+Paul J. Converse - updated: 12/11/2001
+Ada Hamosh - updated: 11/14/2001
+Jennifer P. Macke - updated: 7/13/1999
+Victor A. McKusick - updated: 5/19/1997
+
+CREATED Mark H. Paalman: 4/29/1996
+
+EDITED mgross: 11/07/2013
+mgross: 11/7/2013
+mcolton: 11/1/2013
+mgross: 10/4/2013
+alopez: 10/1/2013
+alopez: 9/30/2013
+alopez: 7/8/2013
+alopez: 5/22/2013
+alopez: 3/26/2013
+terry: 3/21/2013
+mgross: 11/8/2012
+terry: 11/8/2012
+alopez: 9/24/2012
+terry: 9/20/2012
+alopez: 7/19/2012
+terry: 7/17/2012
+alopez: 4/24/2012
+terry: 4/24/2012
+alopez: 11/30/2011
+terry: 11/29/2011
+carol: 11/22/2011
+alopez: 8/8/2011
+terry: 7/26/2011
+alopez: 6/14/2011
+terry: 6/6/2011
+alopez: 5/24/2011
+alopez: 3/31/2011
+mgross: 2/22/2011
+terry: 2/21/2011
+mgross: 1/26/2011
+terry: 1/24/2011
+wwang: 12/27/2010
+terry: 12/3/2010
+alopez: 10/5/2010
+terry: 9/29/2010
+wwang: 7/20/2010
+terry: 7/7/2010
+alopez: 7/2/2010
+terry: 7/1/2010
+alopez: 6/18/2010
+terry: 6/14/2010
+wwang: 5/26/2010
+alopez: 4/26/2010
+terry: 4/22/2010
+carol: 2/18/2010
+wwang: 9/15/2009
+wwang: 9/1/2009
+alopez: 8/27/2009
+terry: 8/25/2009
+mgross: 8/13/2009
+terry: 8/13/2009
+wwang: 8/13/2009
+terry: 8/10/2009
+alopez: 7/15/2009
+terry: 7/9/2009
+mgross: 5/5/2009
+terry: 5/5/2009
+wwang: 4/15/2009
+alopez: 1/5/2009
+terry: 12/30/2008
+alopez: 9/30/2008
+terry: 9/29/2008
+mgross: 9/22/2008
+alopez: 7/23/2008
+wwang: 7/22/2008
+mgross: 7/22/2008
+alopez: 1/23/2008
+terry: 1/22/2008
+alopez: 11/29/2007
+terry: 11/26/2007
+wwang: 5/3/2007
+alopez: 10/25/2006
+terry: 10/24/2006
+alopez: 9/19/2006
+terry: 9/8/2006
+alopez: 6/9/2006
+terry: 6/6/2006
+alopez: 2/21/2006
+terry: 2/10/2006
+mgross: 2/9/2006
+terry: 2/2/2006
+mgross: 11/3/2005
+mgross: 4/6/2005
+mgross: 2/1/2005
+alopez: 12/1/2004
+mgross: 11/10/2004
+mgross: 9/23/2004
+mgross: 9/9/2004
+alopez: 5/28/2004
+alopez: 5/19/2004
+terry: 5/18/2004
+carol: 3/5/2004
+alopez: 12/17/2003
+terry: 12/16/2003
+mgross: 7/31/2002
+alopez: 1/7/2002
+mgross: 1/3/2002
+terry: 12/11/2001
+terry: 12/7/2001
+alopez: 11/15/2001
+terry: 11/14/2001
+alopez: 7/20/1999
+alopez: 7/13/1999
+carol: 8/17/1998
+jamie: 6/3/1997
+mark: 5/20/1997
+terry: 5/19/1997
+mark: 4/29/1996
+terry: 4/29/1996
+mark: 4/29/1996
+
+605509	TITLE *605509 INTERLEUKIN 36, ALPHA; IL36A
+;;INTERLEUKIN 1 FAMILY, MEMBER 6; IL1F6;;
+FAMILY OF INTERLEUKIN 1-EPSILON;;
+FIL1-EPSILON
+DESCRIPTION 
+DESCRIPTION
+
+Members of the IL1 (see IL1A; 147760) family, such as IL1F6, are
+structurally related cytokines and cell surface receptors that mediate
+inflammation. IL1F6 is part of an IL1 signaling system in epithelia and
+has proinflammatory properties (summary by Johnston et al., 2011).
+
+CLONING
+
+By searching an EST database for sequences resembling IL1 and probing a
+human genomic library, Smith et al. (2000) identified a cDNA encoding
+IL1F6, which they designated FIL1-epsilon. The deduced 158-amino acid
+protein, like FIL1-delta (IL1F5; 605507), contains neither a signal
+peptide nor a prodomain. It shares 48% sequence identity with FIL1-eta
+(IL1F8; 605508). PCR analyses detected expression in immune system and
+fetal brain, but not in other tissues tested or in multiple
+hematopoietic cell lines. Modeling indicated that FIL1-epsilon has a
+conserved 12-stranded beta-trefoil structure.
+
+GENE FUNCTION
+
+Using RT-PCR and immunohistochemical analysis, Johnston et al. (2011)
+demonstrated increased expression of IL1F5, IL1F6, IL1F8, and IL1F9
+(605542) in psoriasis (177900) plaque compared with uninvolved skin from
+psoriasis patients. Analysis of 2 mouse psoriasis models produced
+similar results. IL1A and TNF (191160) induced expression of the IL1F
+transcripts in normal human keratinocytes. Microarray analysis showed
+that IL1F cytokines, particularly IL1F8, increased mRNA expression of
+human beta-defensins and secretion of HBD2 (DEFB4; 602215) and HBD3
+(DEFB103A; 606611). Johnston et al. (2011) concluded that IL1F cytokines
+have important roles in inflammatory skin diseases and may be targets
+for antipsoriatic therapies.
+
+MAPPING
+
+By radiation hybrid analysis, Smith et al. (2000) mapped the
+FIL1-epsilon gene to chromosome 2q between D2S121 and D2S110, where
+other members of the IL1 family are located.
+
+Nicklin et al. (2002) determined that the gene order within the IL1 gene
+cluster on chromosome 2, from centromere to telomere, is IL1A-IL1B
+(147720)-IL1F7 (IL37; 605510)-IL1F9-IL1F6-IL1F8-IL1F5-IL1F10
+(615296)-IL1RN (147679). Of these, only IL1A, IL1B, and IL36B are
+transcribed toward the centromere.
+
+Gross (2011) mapped the IL1F6 gene to chromosome 2q13 based on an
+alignment of the IL1F6 sequence (GenBank GENBANK BC107043) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gross, M. B.: Personal Communication. Baltimore, Md.  5/11/2011.
+
+2. Johnston, A.; Xing, X.; Guzman, A. M.; Riblett, M.; Loyd, C. M.;
+Ward, N. L.; Wohn, C.; Prens, E. P.; Wang, F.; Maier, L. E.; Kang,
+S.; Voorhees, J. J.; Elder, J. T.; Gudjonsson, J. E.: IL-1F5, -F6,
+-F8, and -F9: a novel IL-1 family signaling system that is active
+in psoriasis and promotes keratinocyte antimicrobial peptide expression. J.
+Immun. 186: 2613-2622, 2011.
+
+3. Nicklin, M. J. H.; Barton, J. L.; Nguyen, M.; FitzGerald, M. G.;
+Duff, G. W.; Kornman, K.: A sequence-based map of the nine genes
+of the human interleukin-1 cluster. Genomics 79: 718-725, 2002.
+
+4. Smith, D. E.; Renshaw, B. R.; Ketchem, R. R.; Kubin, M.; Garka,
+K. E.; Sims, J. E.: Four new members expand the interleukin-1 superfamily. J.
+Biol. Chem. 275: 1169-1175, 2000.
+
+CONTRIBUTORS Paul J. Converse - updated: 07/08/2013
+Matthew B. Gross - updated: 5/11/2011
+Paul J. Converse - updated: 5/5/2011
+
+CREATED Paul J. Converse: 12/28/2000
+
+EDITED mgross: 07/08/2013
+carol: 9/1/2011
+mgross: 5/11/2011
+terry: 5/5/2011
+mgross: 2/19/2009
+mgross: 8/29/2002
+carol: 1/2/2001
+carol: 12/28/2000
+
+613486	TITLE *613486 MICRO RNA 33B; MIR33B
+;;miRNA33B;;
+MIRN33B
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs) are a class of noncoding RNA genes whose final
+product is an approximately 22-nucleotide functional RNA molecule. They
+play important roles in the regulation of target genes by binding to
+complementary regions of messenger transcripts to repress their
+translation or regulate degradation (summary by Griffiths-Jones et al.,
+2006).
+
+Two genes encoding miR33 isoforms exist in humans: miR33B, which is
+present in intron 17 of the SREBP1 (184756) gene on chromosome 17, and
+miR33A (612156), which is located in intron 16 of the SREBP2 (600481)
+gene on chromosome 22. In mice, however, there is only 1 miR33 gene,
+which is conserved with human miR33A, located within intron 15 of the
+mouse Srebp2 gene. The mature miR33A and miR33B miRNAs differ at only 2
+nucleotides. One of the targets of both miR33A and miR33B is the
+cholesterol transporter ABCA1 (600046) (Najafi-Shoushtari et al., 2010).
+
+CLONING
+
+During an investigation of gene regulation by sterol regulatory
+element-binding proteins (SREBPs), Najafi-Shoushtari et al. (2010)
+identified the miR33B gene within intron 17 of the SREBP1 gene.
+Najafi-Shoushtari et al. (2010) gave the sequence of mature miR33B as
+GUGCAUUGCUGUUGCAUUGC. Using quantitative RT-PCR, they found that miR33B
+was expressed in all human tissues examined, with highest levels in
+brain, ovary, liver, prostate, heart, and cervix. Najafi-Shoushtari et
+al. (2010) noted that miR33B appeared to be coexpressed with its host
+gene, SREBP1.
+
+MAPPING
+
+The MIR33B gene resides on chromosome 17p11.2, within intron 17 of the
+SREBP1 gene (Najafi-Shoushtari et al., 2010).
+
+GENE FUNCTION
+
+The sterol regulatory element-binding proteins SREBP1 and SREBP2 are key
+transcription regulators of genes involved in cholesterol biosynthesis
+and uptake. Najafi-Shoushtari et al. (2010) demonstrated that miRNA33A
+and miRNA33B, embedded within introns of the SREBP2 and SREBP1 genes,
+respectively, target adenosine triphosphate-binding cassette transporter
+A1 (ABCA1), an important regulator of high density lipoprotein (HDL)
+synthesis and reverse cholesterol transport, for posttranscriptional
+repression. Antisense inhibition of miRNA33 in mouse and human cell
+lines caused upregulation of ABCA1 expression and increased cholesterol
+efflux, and injection of mice on a western-type diet with locked nucleic
+acid-antisense oligonucleotides resulted in elevated plasma HDL.
+Najafi-Shoushtari et al. (2010) concluded that miRNA33 acts in concert
+with the SREBP host genes to control cholesterol homeostasis.
+
+MiR33A and miR33B are intronic miRNAs whose encoding regions are
+embedded in the sterol response element-binding protein genes SREBF2 and
+SREBF1, respectively. These miRNAs repress expression of the cholesterol
+transporter ABCA1, which is a key regulator of HDL biogenesis. Studies
+in mice suggested that antagonizing miR33a may be an effective strategy
+for raising plasma HDL levels and providing protection against
+atherosclerosis; however, extrapolating these findings to humans is
+complicated by the fact that mice lack miR33b, which is present only in
+the SREBF1 gene of medium and large mammals. Rayner et al. (2011) showed
+in African green monkeys that systemic delivery of an anti-miRNA
+oligonucleotide that targets both miR33a and miR33b increased hepatic
+expression of ABCA1 and induced a sustained increase in plasma HDL
+levels over 12 weeks. Notably, miR33 antagonism in this nonhuman primate
+model also increased the expression of miR33 target genes involved in
+fatty acid oxidation (CROT, 606090; CPT1A, 600528; HADHB, 143450; and
+PRKAA1, 602739) and reduced the expression of genes involved in fatty
+acid synthesis (SREBF1; FASN, 600212; ACLY, 108728; and ACACA, 200350),
+resulting in a marked suppression of the plasma levels of very low
+density lipoprotein (VLDL)-associated triglycerides, a finding that had
+not previously been observed in mice. Rayner et al. (2011) concluded
+that their results established, in a model that is highly relevant to
+humans, that pharmacologic inhibition of miR33a and miR33b is a
+promising therapeutic strategy to raise plasma HDL and lower VLDL
+triglyceride levels for the treatment of dyslipidemias that increase
+cardiovascular disease risk.
+
+EVOLUTION
+
+Brown et al. (2010) noted that the miR33A/B genes exhibit a remarkable
+degree of evolutionary conservation. The precursor for mature miR33A is
+found within the same intron of SREBP2 from many animal species,
+including large and small mammals, chickens, and frogs. There is even a
+perfectly conserved mature form of miR33A in the single SREBP-like gene
+of the fruit fly Drosophila melanogaster. The latter is most remarkable
+because insects do not synthesize sterols; their single SREBP gene
+controls fatty acid production. Moreover, the fruit fly genome does not
+contain ABCA1. In contrast to the uniform conservation of miR33A in
+SREBP2, there is a gap in the evolutionary conservation of miR33B in
+SREBP1. The SREBP1 genes from large mammals encode miR33B, but there is
+no trace of miR33b in the Srebp1 genes of small mammals (rats and mice)
+or chickens.
+
+REFERENCE 1. Brown, M. S.; Ye, J.; Goldstein, J. L.: HDL miR-ed down by SREBP
+introns. Science 328: 1495-1496, 2010.
+
+2. Griffiths-Jones, S.; Grocock, R. J.; van Dongen, S.; Bateman, A.;
+Enright, A. J.: miRBase: microRNA sequences, targets and gene nomenclature. Nucleic
+Acids Res. 34: D140-D144, 2006.
+
+3. Najafi-Shoushtari, S. H.; Kristo, F.; Li, Y.; Shioda, T.; Cohen,
+D. E.; Gerszten, R. E.; Naar, A. M.: MicroRNA-33 and the SREBP host
+genes cooperate to control cholesterol homeostasis. Science 328:
+1566-1569, 2010.
+
+4. Rayner, K. J.; Esau, C. C.; Hussain, F. N.; McDaniel, A. L.; Marshall,
+S. M.; van Gils, J. M.; Ray, T. D.; Sheedy, F. J.; Goedeke, L.; Liu,
+X.; Khatsenko, O. G.; Kaimal, V.; Lees, C. J.; Fernandez-Hernando,
+C.; Fisher, E. A.; Temel, R. E.; Moore, K. J.: Inhibition of miR-33a/b
+in non-human primates raises plasma HDL and lowers VLDL triglycerides. Nature 478:
+404-407, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/29/2011
+
+CREATED Anne M. Stumpf: 7/15/2010
+
+EDITED alopez: 03/08/2012
+alopez: 12/1/2011
+terry: 11/29/2011
+terry: 12/8/2010
+mgross: 7/16/2010
+alopez: 7/16/2010
+

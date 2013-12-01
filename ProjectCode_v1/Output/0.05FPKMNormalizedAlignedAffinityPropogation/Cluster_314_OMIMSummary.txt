@@ -1,0 +1,3585 @@
+614479	TITLE *614479 MALONYL CoA:ACP ACYLTRANSFERASE, MITOCHONDRIAL; MCAT
+;;MITOCHONDRIAL MALONYLTRANSFERASE;;
+MT, MITOCHONDRIAL
+DESCRIPTION 
+DESCRIPTION
+
+MCAT (EC 2.3.1.39) is the catalytic subunit of the type II
+malonyl-CoA-dependent system for biosynthesis of fatty acids in
+mitochondria (Zhang et al., 2003).
+
+CLONING
+
+Zhang et al. (2003) cloned human MCAT, which they called mitochondrial
+MT. The deduced 390-amino acid protein has an N-terminal cleavable
+mitochondrial targeting signal, a GxSxG serine esterase active-site
+motif, and conserved arg and his residues required for activity.
+Fluorescence-tagged MCAT colocalized with a mitochondrial marker
+following expression in HeLa cells.
+
+GENE FUNCTION
+
+Zhang et al. (2003) found that human mitochondrial MT expressed in
+insect cells had a narrower substrate specificity than cytosolic MT
+(FASN; 600212) and transferred a malonyl moiety to the mitochondrial
+malonyl acceptor ACP (NDUFAB1; 603836) only.
+
+GENE STRUCTURE
+
+Zhang et al. (2003) determined that the MCAT gene contains 4 exons.
+
+MAPPING
+
+By genomic sequence analysis, Zhang et al. (2003) mapped the MCAT gene
+to chromosome 22q13.31.
+
+REFERENCE 1. Zhang, L.; Joshi, A. K.; Smith, S.: Cloning, expression, characterization,
+and interaction of two components of a human mitochondrial fatty acid
+synthase: malonyltransferase and acyl carrier protein. J. Biol. Chem. 278:
+40067-40074, 2003.
+
+CREATED Patricia A. Hartz: 2/13/2012
+
+EDITED joanna: 08/30/2012
+mgross: 2/13/2012
+
+607074	TITLE *607074 PROTEIN KINASE D2; PRKD2
+;;PKD2
+DESCRIPTION 
+CLONING
+
+By EST database searching with the conserved C-terminal sequence of
+serine kinases and screening of a human ductal pancreatic cDNA library,
+Sturany et al. (2001) cloned a novel serine/threonine protein kinase,
+which they called PKD2. The deduced 878-amino acid protein, which has a
+predicted molecular mass of 97 kD, contains an N-terminal hydrophobic
+area predicted to be a transmembrane region, 2 cysteine-rich motifs that
+form zinc finger-like repeats, a pleckstrin homology domain, and a
+putative kinase domain containing the ATP-binding consensus sequence. An
+invariant aspartate essential for kinase activity is located within a
+motif conserved in serine/threonine kinases. The first zinc finger-like
+domain shares 88% identity to the corresponding domains in PKD/PKC-mu
+(PRKCM; 605435) and PKC-nu (PRKCN; 607077). Northern blot analysis
+detected constitutive low expression of a 4-kb transcript; higher levels
+were observed in pancreas, heart, lung, smooth muscle, and brain, and
+lower levels kidney and liver. SDS-PAGE revealed a protein with a
+molecular mass of 105 kD, as did Western blot analysis of endogenous
+PRKD2 or protein expressed following transfection.
+
+GENE FUNCTION
+
+Sturany et al. (2001) demonstrated phorbol ester binding to the duplex
+zinc finger-like motif of PRKD2 as well as autophosphorylation following
+phorbol ester stimulation. The addition of phosphatidyl-L-serine caused
+synergistic stimulation. Phorbol ester-activated PRKD2 migrated more
+slowly than inactive PRKD2 by SDS-PAGE, suggesting hyperphosphorylation
+upon activation.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PRKD2
+gene to chromosome 19 (TMAP R67403).
+
+REFERENCE 1. Sturany, S.; Van Lint, J.; Muller, F.; Wilda, M.; Hameister, H.;
+Hocker, M.; Brey, A.; Gern, U.; Vandenheede, J.; Gress, T.; Adler,
+G.; Seufferlein, T.: Molecular cloning and characterization of the
+human protein kinase D2: a novel member of the protein kinase D family
+of serine threonine kinases. J. Biol. Chem. 276: 3310-3318, 2001.
+
+CREATED Patricia A. Hartz: 6/26/2002
+
+EDITED alopez: 04/20/2011
+carol: 6/27/2002
+
+608842	TITLE *608842 COILED-COIL-HELIX-COILED-COIL-HELIX DOMAIN-CONTAINING PROTEIN 1; CHCHD1
+DESCRIPTION 
+CLONING
+
+By searching a placental bed cDNA library enriched for first-trimester
+extravillous trophoblasts to identify genes specific to early placenta
+development, Westerman et al. (2004) cloned CHCHD1, which they
+designated C2360. CHCHD1 contains a central
+coiled-coil-helix-coiled-coil-helix (CHCH) domain. Each helix contains 2
+cysteines separated by 9 amino acids. Human and mouse CHCHD1 share 85%
+amino acid identity in the conserved domain. RT-PCR detected strongest
+expression in first-trimester placental bed and in a choriocarcinoma
+cell line. Weak expression was detected in developing tissues, such as
+embryonic brain, chorionic villus fibroblasts, and full-term placenta.
+No expression was detected in adult tissues. In situ hybridization
+showed that expression in the first-trimester placental bed was
+restricted to proliferative cytotrophoblasts at the proximal zone of
+placental anchoring villi. Transfected choriocarcinoma cells expressed
+fluorescence-labeled CHCHD1 in the nucleus, and mutation analysis
+indicated that the nuclear localization domain is in the N terminus.
+
+GENE STRUCTURE
+
+Westerman et al. (2004) determined that the CHCHD1 gene contains 3
+exons.
+
+MAPPING
+
+By genomic sequence analysis, Westerman et al. (2004) mapped the CHCHD1
+gene to chromosome 10q22.
+
+REFERENCE 1. Westerman, B. A.; Poutsma, A.; Steegers, E. A. P.; Oudejans, C.
+B. M.: C2360, a nuclear protein expressed in human proliferative
+cytotrophoblasts, is a representative member of a novel protein family
+with a conserved coiled coil-helix-coiled coil-helix domain. Genomics 83:
+1094-1104, 2004.
+
+CREATED Patricia A. Hartz: 8/16/2004
+
+EDITED mgross: 08/16/2004
+
+606696	TITLE *606696 KATANIN, p60 SUBUNIT, A1; KATNA1
+DESCRIPTION 
+DESCRIPTION
+
+Microtubules are dynamic polymers of alpha-tubulin (e.g., TUBA3; 602529)
+and beta-tubulin (TUBB; 191130) that are used to organize membranous
+organelles during interphase and to segregate chromosomes during
+mitosis. Microtubule-severing proteins generate internal breaks within
+microtubules during metaphase but not during interphase. Katanin is an
+ATP-dependent microtubule-severing protein composed of p60 and p80
+subunits. Katanin p80 (KATNB1; 602703) is concentrated at centrosomes
+during interphase.
+
+CLONING
+
+By searching an EST database for homologs of sea urchin p60 katanin,
+followed by 3-prime RACE with fibroblast cDNA, McNally and Thomas (1998)
+isolated a cDNA encoding KATNA1. Sequence analysis predicted that the
+491-amino acid KATNA1 protein contains a central consensus cyclin B
+(CCNB1; 123836)/CDC2 (116940) phosphorylation site (TPLK). The
+N-terminal 80 residues of KATNA1 and sea urchin p60 katanin are 50%
+identical, and the C-terminal 318-residue AAA (for 'ATPase associated
+with a variety of cellular activities') ATPase domain of KATNA1 and sea
+urchin p60 katanin are 75% identical. Immunoblot analysis revealed wide
+expression of a 55- to 60-kD protein that was coexpressed with p80
+katanin in frog eggs. Anti-KATNA1 antibody inhibited
+microtubule-severing activity in Xenopus eggs. Immunofluorescence
+microscopy demonstrated diffuse expression and focal colocalization with
+gamma-tubulin (TUBG; 191135) in interphase fibroblast microtubule
+asters, as is also seen with KATNB1. McNally and Thomas (1998) observed
+that the area occupied by KATNA1 is twice that occupied by TUBG during
+metaphase. McNally and Thomas (1998) proposed that CCNB1/CDC2 activates
+KATNA1 microtubule-severing activity near centrosomes during mitosis.
+
+Using in situ hybridization and immunohistochemical analysis, Karabay et
+al. (2004) showed that Katna1 localizes along the length of axons at
+early stages of neuronal development in the rat and mouse, with
+expression generally higher in and near growth cones of extending axons
+and in distal regions. Katna1 expression declined upon neuronal
+maturation.
+
+GENE FUNCTION
+
+Toyo-Oka et al. (2005) identified KATNA1 as a molecular target of NDEL1
+(607538). Phosphorylation of Ndel1 by Cdk5 (123831) facilitated
+interaction between NDEL1 and KATNA1, suggesting that phosphorylated
+NDEL1 may regulate the distribution of KATNA1. Abnormal accumulation of
+Katna1 in the nucleus of Ndel1-null mouse embryonic fibroblasts
+supported an essential role for NDEL1 in KATNA1 regulation. Complete
+loss of Ndel1 or expression of dominant-negative Katna1 mutants in
+migrating neurons resulted in defective migration and elongation of
+nuclear-centrosomal distance. Toyo-Oka et al. (2005) suggested that
+NDEL1 may be essential for mitotic cell division and neuronal migration,
+not only via regulation of cytoplasmic dynein function, but also by
+modulation of KATNA1 localization and function.
+
+Postmitotic neurons require microtubules for dynamic scaffolding within
+axons, dendrites, and growth cones. Microtubules are nucleated
+exclusively at centrosomes and must be severed from the centrosome for
+transport into the axon; shorter microtubules are transported along
+axons more quickly than long microtubules. Using overexpression and
+knockdown studies with cultured rodent neurons, Karabay et al. (2004)
+showed that Katna1 is an active microtubule-severing enzyme with a
+critical role in neuronal microtubule dynamics. Katna1 expression
+dropped when axons were presented with target cells that caused them to
+stop growing.
+
+Iwaya et al. (2010) showed that the N-terminal microtubule interacting
+and trafficking (MIT) domains of mouse and human KATNA1 bound
+unpolymerized, but not polymerized, tubulin. The isolated MIT domain of
+KATNA1 formed an antiparallel 3-stranded helix, with a hydrophobic core
+of partly conserved alanine residues. Mutagenesis experiments revealed
+that positively charged arg49 and lys67 of helix 3 are required for
+tubulin binding. A coiled-coil region that follows the MIT domain
+mediates dimer formation and when included in the protein fragment
+interfered with binding of the MIT domain to tubulin.
+
+Using cDNA constructs based on mouse p60 and p80 (602703), Iwaya et al.
+(2012) showed that the N-terminal MIT domain of p60 interacted with the
+C-terminal domain (CTD) of p80. Binding of either microtubules or the
+p80-CTD to the p60 MIT domain stimulated the ATPase and
+microtubule-severing activity of p60. Ca(2+) bound to a separate region
+of the MIT domain of p60 and negatively regulated microtubule- or
+p80-enhanced p60 activity. Ca(2+) did not inhibit the basal ATPase
+activity of p60 or the binding of p60 to microtubules.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the KATNA1
+gene to chromosome 6 (TMAP EST392905).
+
+Hartz (2012) mapped the KATNA1 gene to chromosome 6q25.1 based on the
+alignment of the KATNA1 sequence (GenBank GENBANK AF056022) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  8/3/2012.
+
+2. Iwaya, N.; Akiyama, K.; Goda, N.; Tenno, T.; Fujiwara, Y.; Hamada,
+D.; Ikura, T.; Shirakawa, M.; Hiroaki, H.: Effect of Ca(2+) on the
+microtubule-severing enzyme p60-katanin: insight into the substrate-dependent
+activation mechanism. FEBS J. 279: 1339-1352, 2012.
+
+3. Iwaya, N.; Kuwahara, Y.; Fujiwara, Y.; Goda, N.; Tenno, T.; Akiyama,
+K.; Mase, S.; Tochio, H.; Ikegami, T.; Shirakawa, M.; Hiroaki, H.
+: A common substrate recognition mode conserved between katanin p60
+and VPS4 governs microtubule severing and membrane skeleton reorganization. J.
+Biol. Chem. 285: 16822-16829, 2010.
+
+4. Karabay, A.; Yu, W.; Solowska, J. M.; Baird, D. H.; Baas, P. W.
+: Axonal growth is sensitive to the levels of katanin, a protein that
+severs microtubules. J. Neurosci. 24: 5778-5788, 2004.
+
+5. McNally, F. J.; Thomas, S.: Katanin is responsible for the M-phase
+microtubule-severing activity in Xenopus eggs. Molec. Biol. Cell 9:
+1847-1861, 1998.
+
+6. Toyo-Oka, K.; Sasaki, S.; Yano, Y.; Mori, D.; Kobayashi, T.; Toyoshima,
+Y. Y.; Tokuoka, S. M.; Ishii, S.; Shimizu, T.; Muramatsu, M.; Hiraiwa,
+N.; Yoshiki, A.; Wynshaw-Boris, A.; Hirotsune, S.: Recruitment of
+katanin p60 by phosphorylated NDEL1, an LIS1 interacting protein,
+is essential for mitotic cell division and neuronal migration. Hum.
+Molec. Genet. 14: 3113-3128, 2005.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/3/2012
+George E. Tiller - updated: 7/21/2009
+
+CREATED Paul J. Converse: 2/18/2002
+
+EDITED alopez: 08/21/2012
+terry: 8/3/2012
+wwang: 8/6/2009
+terry: 7/21/2009
+mgross: 2/18/2002
+
+602516	TITLE *602516 REGULATOR OF G PROTEIN SIGNALING 4; RGS4
+DESCRIPTION 
+DESCRIPTION
+
+Regulator of G protein signaling (RGS) proteins have been shown to
+accelerate the GTPase activities of G protein alpha-subunits, thus
+driving G proteins into their inactive GDP-bound forms. See 602189 for
+further background information.
+
+CLONING
+
+By searching for homologs of the yeast SST2 gene product, which
+regulates G protein signaling, Druey et al. (1996) cloned RGS4 cDNAs
+from rat and human brain cDNA libraries. The human RGS4 cDNA encodes a
+predicted 205-amino acid protein that is 97% identical to rat Rgs4.
+Northern blot analysis detected a single human RGS4 transcript that was
+expressed exclusively in brain. RGS4 partially complemented a yeast SST2
+mutation, but it required the G protein alpha-subunit to function. Druey
+et al. (1996) suggested that RGS4, and presumably other RGSs, negatively
+regulate signaling upstream or at the level of the heterotrimeric G
+protein.
+
+Koelle and Horvitz (1996) cloned a human RGS4 cDNA by searching for
+homologs of the C. elegans egl-10 gene (see 602517).
+
+Using RT-PCR, Ruiz de Azua et al. (2010) found that Rgs4 was highly
+expressed in the MIN6 murine insulinoma cell line and in mouse
+pancreatic islets.
+
+GENE FUNCTION
+
+Ruiz de Azua et al. (2010) showed that knockdown of Rgs4 in MIN6 cells
+caused a concentration-dependent increase in intracellular calcium,
+increased basal insulin release, and enhanced glucose-stimulated insulin
+secretion. Rgs4 coimmunoprecipitated with M3 muscarinic receptor (M3R,
+or CHRM3; 118494) from transfected COS-7 cells.
+
+GENE STRUCTURE
+
+Sierra et al. (2002) determined that RGS4 contains 5 exons and spans 5.5
+kb.
+
+MAPPING
+
+By genomic sequence analysis, Sierra et al. (2002) mapped the RGS4 gene
+to chromosome 1q23.3. They mapped the mouse Rgs4 gene to chromosome 1 by
+interspecific backcross mapping.
+
+MOLECULAR GENETICS
+
+For discussion of a possible association between variation in the RGS4
+gene and schizophrenia, see 181500.
+
+ANIMAL MODEL
+
+Ruiz de Azua et al. (2010) found that Rgs4 deficiency in mice enhanced
+M3r-mediated insulin secretion. Pancreatic beta cell-specific Rgs4
+knockout did not alter basal glucose levels, but it increased plasma
+insulin levels and increased insulin release after administration of a
+muscarinic agonist. Ruiz de Azua et al. (2010) concluded that RGS4 acts
+as a negative regulator of M3R signaling in pancreatic beta cells.
+
+REFERENCE 1. Druey, K. M.; Blumer, K. J.; Kang, V. H.; Kehrl, J. H.: Inhibition
+of G-protein-mediated MAP kinase activation by a new mammalian gene
+family. Nature 379: 742-746, 1996.
+
+2. Koelle, M. R.; Horvitz, H. R.: EGL-10 regulates G protein signaling
+in the C. elegans nervous system and shares a conserved domain with
+many mammalian proteins. Cell 84: 115-125, 1996.
+
+3. Ruiz de Azua, I.; Scarselli, M.; Rosemond, E.; Gautam, D.; Jou,
+W.; Gavrilova, O.; Ebert, P. J.; Levitt, P.; Wess, J.: RGS4 is a
+negative regulator of insulin release from pancreatic beta-cells in
+vitro and in vivo. Proc. Nat. Acad. Sci. 107: 7999-8004, 2010.
+
+4. Sierra, D. A.; Gilbert, D. J.; Householder, D.; Grishin, N. V.;
+Yu, K.; Ukidwe, P.; Barker, S. A.; He, W.; Wensel, T. G.; Otero, G.;
+Brown, G.; Copeland, N. G.; Jenkins, N. A.; Wilkie, T. M.: Evolution
+of the regulators of G-protein signaling multigene family in mouse
+and human. Genomics 79: 177-185, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 5/12/2011
+John Logan Black, III - updated: 5/15/2006
+John Logan Black, III - updated: 4/6/2006
+John Logan Black, III - updated: 8/9/2005
+John Logan Black, III - updated: 4/4/2005
+Patricia A. Hartz - updated: 9/12/2002
+
+CREATED Rebekah S. Rasooly: 4/14/1998
+
+EDITED mgross: 05/17/2011
+mgross: 5/17/2011
+terry: 5/12/2011
+carol: 2/1/2010
+carol: 5/15/2006
+carol: 5/12/2006
+terry: 4/6/2006
+carol: 8/16/2005
+terry: 8/9/2005
+terry: 7/11/2005
+mgross: 4/4/2005
+mgross: 9/12/2002
+psherman: 4/15/1998
+psherman: 4/14/1998
+
+603940	TITLE *603940 POTASSIUM CHANNEL, SUBFAMILY K, MEMBER 7; KCNK7
+DESCRIPTION 
+CLONING
+
+Members of the tandem pore domain potassium (K2P) channel family, such
+as TWIK1 (601745) and TREK (603219), contain 4 transmembrane domains and
+2 pore-forming (P) domains. See KCNK6 (603939). By searching an EST
+database for sequences related to mouse Kcnk6, Salinas et al. (1999)
+isolated a human cDNA encoding a novel potassium channel, which they
+designated KCNK7. RT-PCR revealed that exon skipping gives rise to 5
+mRNA species encoding 3 protein forms, KCNK7-A, -B, and -C. The
+predicted 307-amino acid KCNK7A form is the longest; KCNK7B and KCNK7C
+have truncated cytoplasmic C termini. Sequence analysis revealed that
+the KCNK7 protein contains 4 potential transmembrane segments and 2 P
+domains. The P2 domain contains a very unconventional GLE motif instead
+of the GLG found in TWIK1 and KCNK6 or the GFG found in other K2P
+channels. The core region spanning the 4 transmembrane domains of KCNK7A
+shares 80% and 42% protein sequence identity with those of Kcnk6 and
+TWIK1, respectively. As with Kcnk6, none of the KCNK7 protein forms were
+able to generate channel activity when expressed in mammalian cells.
+
+MAPPING
+
+By analysis of radiation hybrids, Salinas et al. (1999) mapped the KCNK7
+gene to 11q13.
+
+REFERENCE 1. Salinas, M.; Reyes, R.; Lesage, F.; Fosset, M.; Heurteaux, C.;
+Romey, G.; Lazdunski, M.: Cloning of a new mouse two-P domain channel
+subunit and a human homologue with a unique pore structure. J. Biol.
+Chem. 274: 11751-11760, 1999.
+
+CREATED Rebekah S. Rasooly: 6/29/1999
+
+EDITED alopez: 12/02/2010
+joanna: 6/6/2000
+mgross: 6/30/1999
+mgross: 6/29/1999
+
+124030	TITLE *124030 CYTOCHROME P450, SUBFAMILY IID, POLYPEPTIDE 6; CYP2D6
+;;CPD6;;
+P450DB1;;
+DEBRISOQUINE 4-HYDROXYLASE
+DESCRIPTION 
+DESCRIPTION
+
+The hepatic cytochrome P450 system is responsible for the first phase in
+the metabolism and elimination of numerous endogenous and exogenous
+molecules and ingested chemicals. P450 enzymes convert these substances
+into electrophilic intermediates which are then conjugated by phase II
+enzymes (e.g., UDP glucuronosyltransferases, see 191740;
+N-acetyltransferases, see 108345) to hydrophilic derivatives that can be
+excreted (Nebert, 1997).
+
+The P450II superfamily comprises at least 11 subfamilies designated by
+letter according to the system of nomenclature recommended by an
+international committee (Nelson et al., 1996; Nebert et al., 1987;
+Nelson et al., 2004). Although humans probably have approximately 60
+unique P450 genes within 14 subfamilies (Nelson et al., 1996), only a
+subset are responsible for metabolism of the vast majority of prescribed
+and over-the-counter drugs (see, e.g., CYP1A2, 124060; CYP2A6, 122720;
+CYP2C19, 124020; CYP2D6; CYP2E1, 124040; CYP3A4, 124010; and CYP4A11,
+601310).
+
+CLONING
+
+Gonzalez et al. (1988) used rat anti-db1 (Gonzalez et al., 1987) to
+isolate the human P450 DB1 gene from a human liver cDNA library. The
+deduced 497-amino acid protein shares 73% sequence identity with the rat
+protein.
+
+GENE STRUCTURE
+
+Kimura et al. (1989) determined that the CYP2D6 gene contains 9 exons.
+
+MAPPING
+
+By somatic cell hybridization, Gonzalez et al. (1988) mapped the P450DB1
+gene to chromosome 22. By somatic cell hybridization, in situ
+hybridization, and linkage analysis, Gough et al. (1993) mapped the
+CYP2D6 gene to 22q13.1.
+
+Gonzalez et al. (1987) mapped the mouse db1 gene to chromosome 15.
+
+- Pseudogenes
+
+Kimura et al. (1989) identified 3 genes that compose the CYP2D gene
+cluster located distal to IGLC (147220) on chromosome 22 (q11.2-qter).
+One of these, CYP2D8P, was found to be a pseudogene, while the CYP2D7
+gene contained a single reading frame-disrupting insertion in its first
+exon.
+
+GENE FUNCTION
+
+Distlerath and Guengerich (1984) found that antibodies to a cytochrome
+P450 shown to be responsible for debrisoquine 4-hydroxylation in rats
+inhibited the oxidation of debrisoquine and sparteine, encainide, and
+propranolol in human liver microsomes. All 4 of the drugs had been
+associated with the poor metabolizer (PM) phenotype (608902) in humans.
+The antibodies did not inhibit the oxidation of 7 other cytochrome P450
+substrates.
+
+Guengerich et al. (1986) stated that 9 forms of cytochrome P450 had been
+purified to electrophoretic homogeneity from human liver microsomes.
+These included the enzymes involved in debrisoquine 4-hydroxylation,
+phenacetin O-deethylation (124060), and mephenytoin 4-hydroxylation
+(124020), 3 reactions characterized by genetic polymorphism in humans.
+Different forms of P450 are involved in the 3 reactions. Guengerich et
+al. (1986) presented evidence that the P450 nifedipine oxidase is
+separate from these others (see 124010). Nifedipine is a calcium-channel
+blocker which about 17% of the population cannot metabolize rapidly as
+judged by in vivo studies (Kleinbloesem et al., 1984).
+
+Harmer et al. (1986) found no correlation between the acetylator (see
+243400) and the sparteine hydroxylation phenotypes. The findings were
+consistent with the fact that the N-acetyltransferase enzyme is
+cytosolic in liver and jejunal mucosa, whereas the polymorphic enzyme
+that governs hydroxylation of sparteine, debrisoquine, and other drugs
+is a liver P450.
+
+Occurrence of a lupus-like syndrome in patients treated with
+procainamide (see 152700) has limited the clinical use of this
+antiarrhythmic drug. Lessard et al. (1997) demonstrated that CYP2D6 is
+the major isozyme involved in the formation of N-hydroxyprocainamide, a
+metabolite potentially involved in the drug-induced lupus syndrome
+observed with procainamide. By studying the in vivo oxidation of
+procainamide in man, Lessard et al. (1999) suggested that CYP2D6 is
+involved in the in vivo aliphatic amine deethylation and N-oxidation of
+procainamide at its arylamine function.
+
+Thum and Borlak (2000) investigated the gene expression of major human
+cytochrome P450 genes in various regions of 2 normal hearts and
+explanted hearts from 6 patients with dilated cardiomyopathy and 1 with
+transposition of the arterial trunk. CYP2D6 mRNA was predominantly
+expressed in the right ventricle; a strong correlation between
+tissue-specific gene expression and enzyme activity was found. Thum and
+Borlak (2000) noted that the unilateral expression of the CYP2D6 gene in
+right ventricular tissue was important because of the enzyme's key role
+in the metabolism of beta-blockers.
+
+MOLECULAR GENETICS
+
+- Drug Metabolism
+
+Gonzalez et al. (1988) identified 3 variant DB1 mRNAs in liver samples
+from several poor metabolizers (PMs) of debrisoquine (608902). The
+variant mRNAs were products of a mutant gene producing incorrectly
+spliced pre-mRNA, thus providing a molecular explanation for the defect.
+The authors noted that the frequency of mutant alleles is approximately
+35 to 43%. Skoda et al. (1988) identified restriction fragment length
+polymorphisms associated with the P450DB1 locus that were observed more
+frequently in individuals with the PM phenotype. A different, 29-kb XbaI
+fragment was present in all individuals with the wildtype extensive
+metabolizer (EM) phenotype. The authors proposed that these
+polymorphisms identified 2 independent mutant alleles of the P450DB1
+gene. Eight additional RFLPs associated with this gene were also
+reported.
+
+In 20 individuals with poor metabolism of debrisoquine, Gough et al.
+(1990) identified a splice site mutation in the CYP2D6 gene
+(124030.0001), yielding a protein with no functional activity. This
+allele has been termed CYP2D6*4.
+
+Mura et al. (1993) noted that wildtype extensive metabolizers exhibit
+highly variable metabolic activity. In a study of French-Canadian
+families, they found that a subgroup of EM individuals were heterozygous
+for a mutant allele, and that a second level of heterogeneity was
+detected among individuals not carrying mutations but who had a
+polymorphic BamHI-defined DNA haplotype. Different combinations of
+haplotypes were associated with differences in CYP2D6 metabolic
+activity. Mura et al. (1993) suggested that genetic and phenotypic
+heterogeneity with EMs may underly conflicting data on the relation
+between CYP2D6 activity and susceptibility to cancer.
+
+Bertilsson et al. (1993) and Johansson et al. (1993) showed that the
+genetic basis of the ultrarapid metabolizer phenotype (see 608902) is
+gene duplication or amplification of functionally active CYP2D6 genes,
+resulting in higher levels of enzyme being expressed. In 5 individuals
+from 2 families who had metabolic ratios (MRs) of less than 0.1
+(ultrarapid phenotype), Johansson et al. (1993) found 12 extra copies of
+the CYP2D6 gene associated with a variant, termed CYP2D6L (124030.0007).
+Other individuals with multiduplicated CYP2D6 genes in 3, 4, or 5 copies
+on 1 allele have been seen (Dahl et al., 1995; Akullu et al., 1996).
+
+Tyndale et al. (1997) noted that oral opiates (i.e., codeine, oxycodone,
+and hydrocodone) are metabolized by CYP2D6 to metabolites of increased
+activity (i.e., morphine, oxymorphone, and hydromorphone). Among a group
+of 83 individuals who were oral opiate-dependent, Tyndale et al. (1997)
+found none who were PMs, either phenotypically or genotypically
+(homozygous for the deficient CYP2D6*3 or CYP2D6*4 alleles); 4% of 276
+individuals who were never drug-dependent were PMs. The authors
+suggested that the PM genotype was a protection factor for oral opiate
+dependence (odds ratio greater than 7). This conclusion was challenged
+by Mikus et al. (1998). Tyndale et al. (1998) defended their stand.
+
+Gasche et al. (2004) described life-threatening opioid intoxication in a
+patient given small doses of codeine for the treatment of a cough
+associated with bilateral pneumonia. Codeine is bioactivated by CYP2D6
+into morphine, which then undergoes further glucuronidation. CYP2D6
+genotyping showed that the patient had 3 or more functional alleles
+(124030.0008), a finding consistent with ultrarapid metabolism of
+codeine. Gasche et al. (2004) attributed the toxicity to this genotype,
+in combination with inhibition of CYP3A4 activity by other medications
+and a transient reduction in renal function.
+
+Liou et al. (2006) investigated the frequencies of the poor and
+ultrarapid metabolizer-associated alleles of 5 cytochrome P450 genes in
+180 Han Chinese volunteers in Taiwan and found that more than 50% of the
+CYP2C19 (124020) and CYP2D6 genotypes were associated with the
+intermediate metabolizer phenotype. Liou et al. (2006) suggested that
+this might explain why drug dosages used in clinical trials with East
+Asian participants are usually lower than those used in trials with
+Western participants.
+
+In a group of 115 white patients with Alzheimer disease (AD; 104300)
+taking donepezil, Pilotto et al. (2009) found that nonresponders had a
+significantly higher frequency of the -1584G allele (dbSNP rs1080985) in
+the CYP2D6 gene compared to responders (58.7% vs 34.8%, p = 0.013), with
+an odds ratio of 3.43 for poor response. The -1584G allele is associated
+with higher enzymatic activity and more rapid drug metabolism. The
+findings suggested that the dbSNP rs1080985 SNP in the CYP2D6 gene may
+influence the clinical efficacy of donepezil in AD patients.
+
+Schroth et al. (2009) performed a retrospective analysis of German and
+U.S. cohorts of women with tamoxifen-treated hormone receptor-positive
+breast cancer (114480) to determine whether CYP2D6 variation is
+associated with clinical outcome. The median follow-up of the 1,325
+patients was 6.3 years. At 9 years of follow-up, the recurrence rates
+for breast cancer were 14.9% for extensive metabolizers, 20.9% for
+heterozygous extensive/intermediate metabolizers, and 29.0% for poor
+metabolizers, and all-cause mortality rates were 16.7%, 18.0%, and
+22.8%, respectively. Schroth et al. (2009) concluded that there was an
+association between CYP2D6 variation and clinical outcomes, such that
+the presence of 2 functional CYP2D6 alleles was associated with better
+clinical outcomes and the presence of nonfunctional or reduced-function
+alleles with worse outcomes in tamoxifen-treated breast cancer.
+
+- Association with Parkinson Disease
+
+In a study of over 500 patients with Parkinson disease (PD; 168600) and
+matched controls, Payami et al. (2001) found no association between the
+CYP2D6*4 allele (124030.0001) underlying a poor metabolizer phenotype
+and the age of onset of PD. Instead, the frequency of the *4 allele
+appeared to increase with age in the general population, a finding that
+suggested a selective advantage of the allele over the wildtype. Their
+results also suggested that the *4 allele may be protective against
+cancer.
+
+In a study of 247 patients with PD, Elbaz et al. (2004) found an
+interaction between the CYP2D6*4 allele and exposure to pesticides with
+regard to development of the disease. Although there was no association
+between carriers of the CYP2D6*4 allele and development of PD in those
+with no exposure to pesticides, there was an association among those
+with the PM allele and exposure to pesticides. Individuals homozygous
+for the CYP2D6*4 allele who had professional exposure to pesticides had
+a significantly increased risk of PD compared to those without the
+allele and without exposure (odds ratio of 4.74); homozygous PM
+individuals with moderate 'gardening' exposure to pesticides showed a
+similar trend toward development of PD (odds ratio of 2.75). Deng et al.
+(2004) examined 3 PM alleles, CYP2D6*4, CYP2D6*3, and CYP2D6*5, in a
+group of 393 PD patients. At the most extreme, patients who were
+homozygous for the PM alleles and had weekly exposure to pesticides
+showed a significant increased risk for the disease (odds ratio of
+8.41). Heterozygotes with weekly exposure had an odds ratio of 3.27. The
+authors suggested an interaction between pesticide exposure and CYP2D6
+polymorphism in the development of PD.
+
+- Other Disease Associations
+
+Brown et al. (2000) performed a linkage study of chromosome 22 in 200
+families with ankylosing spondylitis (AS; 106300)-affected sib pairs.
+While homozygosity for PM alleles was found to be associated with AS,
+heterozygosity for the most frequent PM allele (CYP2D6*4) was not
+associated with increased susceptibility to AS. Significant
+within-family association of CYP2D6*4 alleles and AS was demonstrated.
+Weak linkage was also demonstrated between CYP2D6 and AS. The authors
+hypothesized that altered metabolism of a natural toxin or antigen by
+the CYP2D6 gene may increase susceptibility to AS.
+
+POPULATION GENETICS
+
+Sachse et al. (1997) determined CYP2D6 allele frequencies in 589
+unrelated German volunteers and correlated enzyme activity measure by
+phenotyping with dextromethorphan or debrisoquine. The frequency of the
+CYP2D6*1 wildtype allele coding for the extensive metabolizer phenotype
+was 0.364. The alleles coding for slightly (CYP2D6*2) or moderately (*9
+and *10) reduced activity (intermediate metabolizer phenotype, IM)
+showed frequencies of 0.324, 0.018, and 0.015, respectively. Frequencies
+of alleles with complete deficiency (poor metabolizer phenotype) were
+0.207 (CYP2D6*4; 124030.0001), 0.020 (CYP2D6*3; 124030.0006 and
+CYP2D6*5; 124030.0002), 0.009 (CYP2D6*6; 124030.0003), and 0.001 (*7,
+*15, and *16). The defective CYP2D6 alleles *8, *11, *12, *13, and *14
+were not found. CYP2D6 gene duplication alleles, associated with
+ultrafast metabolizers, were found with frequencies of 0.005 (*1x2),
+0.013 (*2x2), and 0.001 (*4x2).
+
+Among 672 unrelated Europeans, Marez et al. (1997) identified 48 point
+mutations in the CYP2D6 gene, of which 29 were novel. Within the poor
+metabolizer group, the frequencies of the CYP2D6*4, CYP2D6*6, and
+CYP2D6*3 alleles were 65.8%, 6.2%, and 4.8%, respectively. The majority
+of the alleles occurred with a frequency of 0.1 to 2.7%.
+
+The mean value of metabolic ratio for debrisoquine metabolism in an
+extensive metabolizer population was reported to be slightly higher in
+Orientals than in Caucasians. This interethnic difference was assumed to
+be caused by the higher frequency of the CYP2D6*10 allele (124030.0005)
+in Orientals (Johansson et al., 1994; Tateishi et al., 1999).
+
+The occurrence of CYP2D6 gene duplication varies between populations.
+Among 217 white healthy Spaniards, Agundez et al. (1995) determined that
+the prevalence of multiple CYP2D6 copies was 7%. Akullu et al. (1996)
+reported that 29% of Ethiopians carried extra CYP2D6 genes, whereas 1 to
+2% of Swedish, German, Chinese, and black Zimbabwean populations had
+multiple copies. McLellan et al. (1997) found duplication of the CYP2D6
+gene in 21 of 101 (21%) Saudi Arabians studied. In contrast, only 2
+individuals were heterozygous for a deletion of the whole gene. The
+allele frequency of CYP2D6*4, the most common defective allele causing
+poor metabolism among Caucasians, was only 3.5% in the Saudi population.
+These findings were in agreement with earlier Saudi Arabian phenotyping
+studies that reported a low frequency (1 to 2%) of poor metabolizers for
+CYP2D6-probe drugs.
+
+Among 60 Dutch individuals who were ultrarapid metabolizers of sparteine
+(metabolic ratio less than 0.15), Bathum et al. (1998) identified 9 with
+a duplicated CYP2D6 gene. The authors estimated a frequency of 0.8% for
+individuals with CYP2D6 duplication in the Danish population, which is
+comparable to the frequency in the Swedish and the German populations,
+but considerably lower than that in Spanish or African populations.
+Bathum et al. (1998) concluded that the long PCR assay is simple and
+reliable for detection of duplications of the CYP2D6 gene.
+
+EVOLUTION
+
+Based on their identification and characterization of a nonfunctional
+CYP2D7 gene and a CYP2D8 pseudogene, Kimura et al. (1989) suggested that
+gene duplication events gave rise to CYP2D6 and CYP2D7, and that gene
+conversion events occurred later to form CYP2D8. Kimura et al. (1989)
+suggested that these enzymes evolved to metabolize plant toxins; since
+current human diets rely almost totally on cultivation, while early man
+was a hunter-gatherer, the genes may now be in the process of being
+lost. Gene conversion events involving the closely linked and similar
+CYP2D7 and CYP2D8P genes may hasten this process.
+
+Hanioka et al. (1990) isolated and completely sequenced a defective
+CYP2D7 gene and provided evidence that gene conversions have occurred
+between CYP2D6 and CYP2D7.
+
+Heim and Meyer (1992) analyzed the arrangement and sequence of the CYP2D
+gene cluster variant (haplotype) containing a common allele of CYP2D6
+found in poor metabolizers and associated with an XbaI 44-kb restriction
+fragment. This haplotype was found to contain the CYP2D6*4 variant
+(124030.0001) and 3 pseudogenes. Heim and Meyer (1992) postulated that a
+gene duplication of a CYP2D6-like gene occurred about 18 million years
+ago, generating a functional CYP2D8 gene that later became a pseudogene.
+About 9 million years ago, a similar duplication event yielded the
+CYP2D7 gene. About 1 to 2 million years ago, unequal crossover events
+and gene conversion events may have yielded the CYP2D6*4 mutation, which
+is found in the majority of mutant alleles. Since poor metabolizers have
+no reproductive advantage, the CYP2D6 gene may also eventually become a
+pseudogene. Heim and Meyer (1992) noted that the ancestors of these drug
+metabolizing enzymes were developed in animals who ingested plants and
+plant toxins. The plants defended themselves by developing new toxins,
+and the animals developed new P450s able to detoxify these new toxins.
+
+Nebert (1997) reviewed the field of drug-metabolizing enzymes (DMEs) and
+DME-receptor research and how DMEs have evolved through animal-plant
+interactions.
+
+Steen et al. (1995) identified a 2.8-kb repeated region (CYP-REP) that
+flanks the active CYP2D6 gene and may have played a role in deletion
+(124030.0002) and amplification of CYP2D6.
+
+Lundqvist et al. (1999) presented evidence that CYP2D6 gene duplications
+occurred through unequal crossover at a breakpoint in the 3-prime
+flanking region of the CYP2D6*2B allele with a specific repetitive
+sequence. Alleles with 13 copies of the gene were likely formed by
+unequal segregation and extrachromosomal replication of acentric DNA.
+Lundqvist et al. (1999) suggested that the high frequencies of
+multiduplicated genes in Saudi Arabian and Ethiopian populations
+indicated that a dietary selective pressure existed in those regions in
+the past. These variants may have been introduced into the Spanish
+population during the Muslim migration.
+
+NOMENCLATURE
+
+Based on recommendations for human genome nomenclature, Daly et al.
+(1996) proposed that alleles at this locus be designated by CYP2D6
+followed by an asterisk and a combination of roman letters and arabic
+numerals distinct for each allele, with the number specifying the key
+mutation and, where appropriate, a letter specifying additional
+mutations. See also nomenclature recommendations presented by Nelson et
+al. (1996), Nebert et al. (1987), and Nelson et al. (2004).
+
+ANIMAL MODEL
+
+Matsunaga et al. (1989) studied the DA rat, which has impaired ability
+to metabolize debrisoquine and therefore may be useful as a model of the
+human genetic defect in debrisoquine metabolism.
+
+ALLELIC VARIANT .0001
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, IVSDS3, G-A, +1
+
+This allelic variant is also known as CYP2D6*4 or CYP2D6(B).
+
+In 20 individuals with poor metabolism of debrisoquine (608902), Gough
+et al. (1990) identified a G-to-A transition at the first nucleotide of
+exon 4 in the CYP2D6 gene, resulting in a shift of the splice site and
+introduction of a premature termination codon. The mutant protein had no
+residual activity. Gough et al. (1990) presented preliminary data
+suggesting a reduction in the proportion of poor metabolizers among
+patients with lung or bladder cancer.
+
+In leukocyte DNA of an individual who was deficient in debrisoquine
+metabolism, Hanioka et al. (1990) identified a 1934G-A transition at the
+junction of the third intron and fourth exon, resulting in an aberrant
+3-prime splice recognition site and an mRNA with a single basepair
+deletion. The disrupted mRNA leads to a truncated protein without
+functional activity. The patient studied was a compound heterozygote:
+the allele with the 1934G-A mutation was identified by a 44-kb XbaI
+restriction fragment; the second allele was a complete deletion of the
+CYP2D6 gene (124030.0002). The dextromethorphan urinary metabolite ratio
+in this patient was 9.7, which is operationally defined as a poor
+metabolizer of debrisoquine.
+
+Kagimoto et al. (1990) likewise concluded that the mutation at the
+3-prime splice site of intron 3 is a common cause of the poor
+metabolizer phenotype.
+
+Chen et al. (1995) found that Alzheimer disease (104300) patients who
+were either heterozygous or homozygous for the CYP2D6*4 allele had a
+smaller decline of the synaptic markers choline acetyltransferase
+(118490) and synaptophysin (313475) in the frontal cortex than those who
+did not. Senile plaques neurofibrillary tangles were not significantly
+affected. The authors had earlier shown an association of the CYP2D6*4
+mutant allele with Lewy body formation (127750). The findings suggested
+different mechanisms of neurodegeneration in the 2 disorders.
+
+.0002
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, DEL
+
+This allelic variant is also known as CYP2D6*5 and CYP2D6(D).
+
+In 1 of 42 poor metabolizer individuals (608902), Gough et al. (1990)
+found homozygous deletion of the CYP2D locus. In a poor metabolizer,
+Gaedigk et al. (1991) identified a homozygous 11.5-kb deletion
+associated with deletion of the entire CYP2D6 gene and total absence of
+P4502D6 protein in the liver.
+
+Steen et al. (1995) identified a 2.8-kb repeated region (CYP-REP) that
+flanks the active CYP2D6 gene and contains the breakpoints involved in
+the generation of CYP2D6*5. Steen et al. (1995) proposed that the
+deletion mechanism involved unequal recombination between 2 homologous
+but nonallelic sequences, either by chromosome misalignment followed by
+unequal crossover or by the formation of a loop structure on a single
+chromosome. The deleted region spans 12.1 kb.
+
+Idle et al. (2000) pointed out that the copy of chromosome 22 sequenced
+by the Human Genome Project has the CYP2D6*5 deletion allele, i.e., does
+not contain the CYP2D6 gene. The CYP2D6*5 allele, a deletion that
+includes the entire CYP2D6 gene, is the second most common inactivating
+allele in the U.K. population. Nelson et al. (2004) reported that the
+frequency of the CYP2D6*5 allele was 0.04 in Caucasian populations. Idle
+et al. (2000) suggested that other genes of medical import may be missed
+by the Human Genome Project because 'nature has chosen to delete them on
+one of our pair of chromosomes, as was the case with CYP2D6.'
+
+.0003
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, 1-BP DEL, 1795T
+
+This allelic variant is also known as CYP2D6*6 or CYP2D6(T).
+
+In individuals with the PM phenotype (608902), Saxena et al. (1994)
+identified a single base deletion in exon 3 of the CYP2D6 gene, removing
+thymine-1795 and resulting in a premature stop codon. They designated
+the allele CYP2D6(T). Among Caucasian controls, the frequency of the
+2D6(T) allele was 1.8% (4/220 chromosomes).
+
+.0004
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, GLY169TER
+
+In a Caucasian patient with deficiency of the CYP2D6 enzyme and poor
+metabolism (608902), Broly et al. (1995) identified a gly169-to-ter
+(G169X) mutation in exon 3 of the CYP2D6 gene.
+
+.0005
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, PRO34SER
+
+This allelic variant is also known as CYP2D6*10 or CYP2D6(J) or
+CYP2D6(Ch1, Ch2).
+
+Kagimoto et al. (1990) identified a 188C-T transition in exon 1 of the
+CYP2D6 gene, resulting in a pro34-to-ser (P34S) substitution as a cause
+of the debrisoquine poor metabolizer phenotype (608902). Nakamura et al.
+(2002) presented data strongly suggesting that catalytic activity as
+well thermal stability of the enzyme is affected by the P34S
+polymorphism. They proposed that thermal instability together with
+reduced intrinsic clearance of CYP2D6*10 is one reason for the finding
+of lower metabolic activities for drugs metabolized by CYP2D6 in
+Orientals, who have a high frequency of CYP2D6*10, compared with
+Caucasians.
+
+.0006
+DEBRISOQUINE, POOR METABOLISM OF
+CYP2D6, 1-BP DEL, 2637A
+
+This allelic variant is also known as CYP2D6*3 or CYP2D6(A).
+
+Marez et al. (1997) identified a 1-bp deletion (2637A) in exon 5 of the
+CYP2D6 gene in a group of individuals with the poor metabolizer
+phenotype (608902).
+
+.0007
+DEBRISOQUINE, ULTRARAPID METABOLISM OF
+CYP2D6, ARG296CYS AND SER486THR
+
+This allelic variant is also known as CYP2D6*2 or CYP2D6L.
+
+In a family in which 2 sibs and their father had MRs of less that 0.02
+(ultrarapid phenotype, see 608902), Johansson et al. (1993) found 12
+extra copies of the CYP2D6 gene inherited in an autosomal dominant
+pattern; in a second family in which 2 sibs had MRs of less than 0.1,
+the authors found 2 extra copies of the CYP2D6 gene. All affected
+individuals had a variant CYP2D6 gene, termed CYP2D6L, which contained 2
+amino acid substitutions: a 2938C-T transition in exon 6, resulting in
+an arg296-to-cys (R296C), and a 4268G-to-C transversion in exon 9,
+resulting in a resulting in a ser486-to-thr (S486T) substitution. The MR
+of individuals with 1 copy of the CYP2D6L gene did not differ from those
+with the wildtype gene, but there was a correlation between decreased MR
+and increased copies of the CYP2D6L gene.
+
+Panserat et al. (1994) identified the R296C and S486T changes as 2 major
+CYP2D6 allozymes in extensive metabolizers (wildtype). Residue 296 falls
+within a presumed substrate recognition site, and residue 486 lies in
+the vicinity of the heme binding site.
+
+.0008
+CODEINE, ULTRARAPID METABOLISM OF
+CYP2D6, DUP
+
+Gasche et al. (2004) described a patient who had developed
+life-threatening opioid intoxication after he was given small doses of
+codeine for the treatment of cough associated with bilateral pneumonia.
+CYP2D6 genotyping showed 3 or more functioning alleles, as a result of
+gene duplication, resulting in high levels of morphine and morphine-6
+glucuronide. Reduction in CYP3A4 (124010) activity by other medications
+and acute renal failure causing glucuronide accumulation were also
+factors in the codeine toxicity. Codeine is ineffective at usual doses
+in 7 to 10% of the white population because of homozygosity for
+nonfunctional mutant CYP2D6 alleles (Desmeules et al., 1991). The
+concentration of O-demethylated metabolites can be as much as 45 times
+as high in persons with ultrarapid CYP2D6 metabolism (see 608902) as it
+is in those with poor metabolism (Yue et al., 1997).
+
+Koren et al. (2006) reported an infant boy who showed intermittent
+periods of difficulty in breastfeeding and lethargy beginning at day 7,
+and later was noted to have gray skin. He died on day 13. The mother had
+been taking codeine for episiotomy pain, and the infant was found to
+have high serum levels of morphine. Genotype analysis showed that the
+mother carried the CYP2D6 duplication and was an ultrarapid metabolizer
+of codeine, resulting in increased formation of morphine from codeine.
+The morphine was transferred to the baby through breast milk, resulting
+in opioid toxicity and neonatal death. Koren et al. (2006) concluded
+that maternal codeine use should not be considered safe for all infants
+during breastfeeding.
+
+ADDITIONAL REFERENCES Eichelbaum et al. (1987); Eichelbaum et al. (2001); Eichelbaum et
+al. (1986); Eichelbaum and Woolhouse (1985); Heim and Meyer (1990);
+Tucker et al. (1977)
+REFERENCE 1. Agundez, J. A. G.; Ledesma, M. C.; Ladero, J. M.; Benitez, J.:
+Prevalence of CYP2D6 gene duplication and its repercussion on the
+oxidative phenotype in a white population. Clin. Pharm. Ther. 57:
+265-269, 1995.
+
+2. Akullu, E.; Persson, I.; Bertilsson, L.; Johansson, I.; Rodrigues,
+F.; Ingelman-Sundberg, M.: Frequent distribution of ultrarapid metabolizers
+of debrisoquine in an Ethiopian population carrying duplicated and
+multiduplicated functional CYP2D6 alleles. J. Pharm. Exp. Ther. 278:
+441-446, 1996.
+
+3. Bathum, L.; Johansson, I.; Ingelman-Sundberg, M.; Horder, M.; Brosen,
+K.: Ultrarapid metabolism of sparteine: frequency of alleles with
+duplicated CYP2D6 genes in a Danish population as determined by restriction
+fragment length polymorphism and long polymerase chain reaction. Pharmacogenetics 8:
+119-123, 1998.
+
+4. Bertilsson, L.; Dahl, M.-L.; Sjoqvist, F.; Aberg-Wistedt, A.; Humble,
+M.; Johansson, I.; Lundqvist, E.; Ingelman-Sundberg, M.: Molecular
+basis for rational megaprescribing in ultrarapid hydroxylators of
+debrisoquine. (Letter) Lancet 341: 63 only, 1993.
+
+5. Broly, F.; Marez, D.; Lo Guidice, J.-M.; Sabbagh, N.; Legrand,
+M.; Boone, P.; Meyer, U. A.: A nonsense mutation in the cytochrome
+P450 CYP2D6 gene identified in a Caucasian with an enzyme deficiency. Hum.
+Genet. 96: 601-603, 1995.
+
+6. Brown, M. A.; Edwards, S.; Hoyle, E.; Campbell, S.; Laval, S.;
+Daly, A. K.; Pile, K. D.; Calin, A.; Ebringer, A.; Weeks, D. E.; Wordsworth,
+B. P.: Polymorphisms of the CYP2D6 gene increase susceptibility to
+ankylosing spondylitis. Hum. Molec. Genet. 9: 1563-1566, 2000.
+
+7. Chen, X.; Xia, Y.; Alford, M.; DeTeresa, R.; Hansen, L.; Klauber,
+M. R.; Katzman, R.; Thal, L.; Masliah, E.; Saitoh, T.: The CYP2D6B
+allele is associated with a milder synaptic pathology in Alzheimer's
+disease. Ann. Neurol. 38: 653-658, 1995.
+
+8. Dahl, M.-L.; Johansson, I.; Bertilsson, L.; Ingelman-Sundberg,
+M.; Sjoqvist, F.: Ultrarapid hydroxylation of debrisoquine in a Swedish
+population: analysis of the molecular genetic basis. J. Pharm. Exp.
+Ther. 274: 516-520, 1995.
+
+9. Daly, A. K.; Brockmoller, J.; Broly, F.; Eichelbaum, M.; Evans,
+W. E.; Gonzalez, E.-J.; Huang, J.-D.; Idle, J. R.; Ingelman-Sundberg,
+M.; Ishizaki, T.; Jacqz-Aigrain, E.; Meyer, U. A.; Nebert, D. W.;
+Steen, V. M.; Wolf, C. R.; Zanger, U. M.: Nomenclature for human
+CYP2D6 alleles. Pharmacogenetics 6: 193-201, 1996.
+
+10. Deng, Y.; Newman, B.; Dunne, M. P.; Silburn, P. A.; Mellick, G.
+D.: Further evidence that interactions between CYP2D6 and pesticide
+exposure increase risk for Parkinson's disease. (Letter) Ann. Neurol. 55:
+897 only, 2004.
+
+11. Desmeules, J.; Gascon, M. P.; Dayer, P.; Magistris, M.: Impact
+of environmental and genetic factors on codeine analgesia. Europ.
+J. Clin. Pharm. 41: 23-26, 1991.
+
+12. Distlerath, L. M.; Guengerich, F. P.: Characterization of a human
+liver cytochrome P-450 involved in the oxidation of debrisoquine and
+other drugs by using antibodies raised to the analogous rat enzyme. Proc.
+Nat. Acad. Sci. 81: 7348-7352, 1984.
+
+13. Eichelbaum, M.; Baur, M. P.; Dengler, H. J.; Osikowska-Evers,
+B. O.; Tieves, G.; Zekorn, C.; Rittner, C.: Chromosomal assignment
+of human cytochrome P-450 (debrisoquine/sparteine type) to chromosome
+22. Brit. J. Clin. Pharm. 23: 455-458, 1987.
+
+14. Eichelbaum, M.; Evans, W.; Yamazoe, Y.: A tribute to Frank Gonzalez.
+(Editorial) Pharmacogenetics 11: 371 only, 2001.
+
+15. Eichelbaum, M.; Reetz, K. P.; Schmidt, E. K.; Zekorn, C.: The
+genetic polymorphism of sparteine metabolism. Xenobiotica 16: 465-481,
+1986.
+
+16. Eichelbaum, M.; Woolhouse, N. M.: Inter-ethnic difference in
+sparteine oxidation among Ghanaians and Germans. Europ. J. Clin.
+Pharm. 28: 79-83, 1985.
+
+17. Elbaz, A.; Levecque, C.; Clavel, J.; Vidal, J.-S.; Richard, F.;
+Amouyel, P.; Alperovitch, A.; Chartier-Harlin, M.-C.; Tzourio, C.
+: CYP2D6 polymorphism, pesticide exposure, and Parkinson's disease. Ann.
+Neurol. 55: 430-434, 2004.
+
+18. Gaedigk, A.; Blum, M.; Gaedigk, R.; Eichelbaum, M.; Meyer, U.
+A.: Deletion of the entire cytochrome P450 CYP2D6 gene as a cause
+of impaired drug metabolism in poor metabolizers of the debrisoquine/sparteine
+polymorphism. Am. J. Hum. Genet. 48: 943-950, 1991.
+
+19. Gasche, Y.; Daali, Y.; Fathi, M.; Chiappe, A.; Cottini, S.; Dayer,
+P.; Desmeules, J.: Codeine intoxication associated with ultrarapid
+CYP2D6 metabolism. New Eng. J. Med. 351: 2827-2831, 2004. Note:
+Erratum: New Eng. J. Med. 352: 638 only, 2005.
+
+20. Gonzalez, F. J.; Matsunaga, T.; Nagata, K.; Meyer, U. A.; Nebert,
+D. W.; Pastewka, J.; Kozak, C. A.; Gillette, J.; Gelboin, H. V.; Hardwick,
+J. P.: Debrisoquine 4-hydroxylase: characterization of a new P450
+gene subfamily, regulation, chromosomal mapping, and molecular analysis
+of the DA rat polymorphism. DNA 6: 149-161, 1987.
+
+21. Gonzalez, F. J.; Skoda, R. C.; Kimura, S.; Umeno, M.; Zanger,
+U. M.; Nebert, D. W.; Gelboin, H. V.; Hardwick, J. P.; Meyer, U. A.
+: Characterization of the common genetic defect in humans deficient
+in debrisoquine metabolism. Nature 331: 442-446, 1988.
+
+22. Gonzalez, F. J.; Vilbois, F.; Hardwick, J. P.; McBride, O. W.;
+Nebert, D. W.; Gelboin, H. V.; Meyer, U. A.: Human debrisoquine 4-hydroxylase
+(P450IID1) cDNA and deduced amino acid sequence and assignment of
+the CYP2D locus to chromosome 22. Genomics 2: 174-179, 1988.
+
+23. Gough, A. C.; Miles, J. S.; Spurr, N. K.; Moss, J. E.; Gaedigk,
+A.; Eichelbaum, M.; Wolf, C. R.: Identification of the primary gene
+defect at the cytochrome P(450) CYP2D locus. Nature 347: 773-776,
+1990.
+
+24. Gough, A. C.; Smith, C. A. D.; Howell, S. M.; Wolf, C. R.; Bryant,
+S. P.; Spurr, N. K.: Localization of the CYP2D gene locus to human
+chromosome 22q13.1 by polymerase chain reaction, in situ hybridization,
+and linkage analysis. Genomics 15: 430-432, 1993.
+
+25. Guengerich, F. P.; Distlerath, L. M.; Reilly, P. E. B.; Wolff,
+T.; Shimada, T.; Umbenhauer, D. R.; Martin, M. V.: Human-liver cytochromes
+P-450 involved in polymorphisms of drug oxidation. Xenobiotica 16:
+367-378, 1986.
+
+26. Hanioka, N.; Kimura, S.; Meyer, U. A.; Gonzalez, F. J.: The human
+CYP2D locus associated with a common genetic defect in drug oxidation:
+a G(1934)-to-A base change in intron 3 of a mutant CYP2D6 allele results
+in an aberrant 3-prime splice recognition site. Am. J. Hum. Genet. 47:
+994-1001, 1990.
+
+27. Harmer, D.; Evans, D. A. P.; Eze, L. C.; Jolly, M.; Whibley, E.
+J.: The relationship between the acetylator and the sparteine hydroxylation
+polymorphisms. J. Med. Genet. 23: 155-156, 1986.
+
+28. Heim, M.; Meyer, U. A.: Genotyping of poor metabolisers of debrisoquine
+by allele-specific PCR amplification. Lancet 336: 529-532, 1990.
+
+29. Heim, M. H.; Meyer, U. A.: Evolution of a highly polymorphic
+human cytochrome P450 gene cluster: CYP2D6. Genomics 14: 49-58,
+1992.
+
+30. Idle, J. R.; Corchero, J.; Gonzalez, F. J.: Medical implications
+of HGP's sequence of chromosome 22. (Letter) Lancet 355: 319 only,
+2000.
+
+31. Johansson, I.; Lundqvist, E.; Bertilsson, L.; Dahl, M.-L.; Sjoqvist,
+F.; Ingelman-Sundberg, M.: Inherited amplification of an active gene
+in the cytochrome P450 CYP2D locus as a cause of ultrarapid metabolism
+of debrisoquine. Proc. Nat. Acad. Sci. 90: 11825-11829, 1993.
+
+32. Johansson, I.; Oscarson, M.; Yue, Q.-Y.; Bertilsson, L.; Sjoqvist,
+F.; Ingelman-Sundberg, M.: Genetic analysis of the Chinese cytochrome
+P4502D locus: characterization of variant CYP2D6 genes present in
+subjects with diminished capacity for debrisoquine hydroxylation. Molec.
+Pharm. 46: 452-459, 1994.
+
+33. Kagimoto, M.; Heim, M.; Kagimoto, K.; Zeugin, T.; Meyer, U. A.
+: Multiple mutations of the human cytochrome P450IID6 gene (CYP2D6)
+in poor metabolizers of debrisoquine: study of the functional significance
+of individual mutations by expression of chimeric genes. J. Biol.
+Chem. 265: 17209-17214, 1990.
+
+34. Kimura, S.; Umeno, M.; Skoda, R. C.; Meyer, U. A.; Gonzalez, F.
+J.: The human debrisoquine 4-hydroxylase (CYP2D) locus: sequence
+and identification of the polymorphic CYP2D6 gene, a related gene,
+and a pseudogene. Am. J. Hum. Genet. 45: 889-904, 1989.
+
+35. Kleinbloesem, C. H.; van Brummelen, P.; Faber, H.; Danhof, M.;
+Vermeulen, N. P. E.; Breimer, D. D.: Variability in nifedipine pharmacokinetics
+and dynamics: a new oxidation polymorphism in man. Biochem. Pharm. 33:
+3721-3724, 1984.
+
+36. Koren, G.; Cairns, J.; Chitayat, D.; Gaedigk, A.; Leeder, S. J.
+: Pharmacogenetics of morphine poisoning in a breastfed neonate of
+a codeine-prescribed mother. Lancet 368: 704 only, 2006.
+
+37. Lessard, E.; Fortin, A.; Belanger, P. M.; Beaune, P.; Hamelin,
+B. A.; Turegon, J.: Role of CYP2D6 in the N-hydroxylation of procainamide. Pharmacogenetics 7:
+381-390, 1997.
+
+38. Lessard, E.; Hamelin, B. A.; Labbe, L.; O'Hara, G.; Belanger,
+P. M.; Turgeon, J.: Involvement of CYP2D6 activity in the N-oxidation
+of procainamide in man. Pharmacogenetics 9: 683-696, 1999.
+
+39. Liou, Y.-H.; Lin, C.-T.; Wu, Y.-J.; Wu L. S.-H.: The high prevalence
+of the poor and ultrarapid metabolite alleles in CYP2D6, CYP2C9, CYP2C19,
+CYP3A4, and CYP3A5 in Taiwanese population. J. Hum. Genet. 51: 857-863,
+2006.
+
+40. Lundqvist, E.; Johansson, I.; Ingelman-Sundberg, M.: Genetic
+mechanisms for duplication and multiduplication of the human CYP2D6
+gene and methods for detection of duplicated CYP2D6 genes. Gene 226:
+327-338, 1999.
+
+41. Marez, D.; Legrand, M.; Sabbagh, N.; Lo Guidice, J.-M.; Spire,
+C.; Lafitte, J.-J.; Meyer, U. A.; Broly, F.: Polymorphism of the
+cytochrome P450 CYP2D6 gene in a European population: characterization
+of 48 mutations and 53 alleles, their frequencies and evolution. Pharmacogenetics 7:
+193-202, 1997.
+
+42. Matsunaga, E.; Zanger, U. M.; Hardwick, J. P.; Gelboin, H. V.;
+Meyer, U. A.; Gonzalez, F. J.: The CYP2D gene subfamily: analysis
+of the molecular basis of the debrisoquine 4-hydroxylase deficiency
+in DA rats. Biochemistry 28: 7349-7355, 1989.
+
+43. McLellan, R. A.; Oscarson, M.; Seidegard, J.; Price Evans, D.
+A.; Ingelman-Sundberg, M.: Frequent occurrence of CYP2D6 gene duplication
+in Saudi Arabians. Pharmacogenetics 7: 187-191, 1997.
+
+44. Mikus, G.; Morike, K.; Griese, E.-U.; Klotz, U.: Relevance of
+deficient CYP2D6 in opiate dependence. (Letter) Pharmacogenetics 8:
+565-566, 1998.
+
+45. Mura, C.; Panserat, S.; Vincent-Viry, M.; Galteau, M. M.; Jacqz-Aigrain,
+E.; Krishnamoorthy, R.: DNA haplotype dependency of debrisoquine-4-hydroxylase
+(CYP2D6) expression among extensive metabolisers. Hum. Genet. 92:
+367-372, 1993.
+
+46. Nakamura, K.; Ariyoshi, N.; Yokoi, T.; Ohgiya, S.; Chida, M.;
+Nagashima, K.; Inoue, K.; Kodama, T.; Shimada, N.; Kamataki, T.:
+CYP2D6.10 present in human liver microsomes shows low catalytic activity
+and thermal stability. Biochem. Biophys. Res. Commun. 293: 969-973,
+2002.
+
+47. Nebert, D. W.: Polymorphisms in drug-metabolizing enzymes: what
+is their clinical relevance and why do they exist? (Editorial) Am.
+J. Hum. Genet. 60: 265-271, 1997.
+
+48. Nebert, D. W.; Adesnik, M.; Coon, M. J.; Estabrook, R. W.; Gonzalez,
+F. J.; Guengerich, F. P.; Gunsalus, I. C.; Johnson, E. F.; Kemper,
+B.; Levin, W.; Phillips, I. R.; Sato, R.; Waterman, M. R.: The P450
+gene superfamily: recommended nomenclature. DNA 6: 1-11, 1987.
+
+49. Nelson, D. R.; Koymans, L.; Kamataki, T.; Stegeman, J. J.; Feyereisen,
+R.; Waxman, D. J.; Waterman, M. R.; Gotoh, O.; Coon, M. J.; Estabrook,
+R. W.; Gunsalas, I. C.; Nebert, D. W.: Cytochrome P450 superfamily:
+update on new sequences, gene mapping, accession numbers, and nomenclature. Pharmacogenetics 6:
+1-42, 1996.
+
+50. Nelson, D. R.; Zeldin, D. C.; Hoffman, S. M. G.; Maltais, L. J.;
+Wain, H. M.; Nebert, D. W.: Comparison of cytochrome P450 (CYP) genes
+from the mouse and human genomes, including nomenclature recommendations
+for genes, pseudogenes and alternative-splice variants. Pharmacogenetics 14:
+1-18, 2004.
+
+51. Panserat, S.; Mura, C.; Gerard, N.; Vincent-Viry, M.; Galteau,
+M. M.; Jacqz-Aigrain, E.; Krishnamoorthy, R.: DNA haplotype-dependent
+differences in the amino acid sequence of debrisoquine 4-hydroxylase
+(CYP2D6): evidence for two major allozymes in extensive metabolisers. Hum.
+Genet. 94: 401-406, 1994.
+
+52. Payami, H.; Lee, N.; Zareparsi, S.; McNeal, M. G.; Camicioli,
+R.; Bird, T. D.; Sexton, G.; Gancher, S.; Kaye, J.; Calhoun, D.; Swanson,
+P. D.; Nutt, J.: Parkinson's disease, CYP2D6 polymorphism, and age. Neurology 56:
+1363-1370, 2001.
+
+53. Pilotto, A.; Franceschi, M.; D'Onofrio, G.; Bizzarro, A.; Mangialasche,
+F.; Cascavilla, L.; Paris, F.; Matera, M. G.; Pilotto, A.; Daniele,
+A.; Mecocci, P.; Masullo, C.; Dallapiccola, B.; Seripa, D.: Effect
+of a CYP2D6 polymorphism on the efficacy of donepezil in patients
+with Alzheimer disease. Neurology 73: 761-767, 2009.
+
+54. Sachse, C.; Brockmoller, J.; Bauer, S.; Roots, I.: Cytochrome
+P450 2D6 variants in a Caucasian population: allele frequencies and
+phenotypic consequences. Am. J. Hum. Genet. 60: 284-295, 1997.
+
+55. Saxena, R.; Shaw, G. L.; Relling, M. V.; Frame, J. N.; Moir, D.
+T.; Evans, W. E.; Caporaso, N.; Weiffenbach, B.: Identification of
+a new variant CYP2D6 allele with a single base deletion in exon 3
+and its association with the poor metabolizer phenotype. Hum. Molec.
+Genet. 3: 923-926, 1994.
+
+56. Schroth, W.; Goetz, M. P.; Hamann, U.; Fasching, P. A.; Schmidt,
+M.; Winter, S.; Fritz, P.; Simon, W.; Suman, V. J.; Ames, M. M.; Safgren,
+S. L.; Kuffel, M. J.; and 10 others: Association between CYP2D6
+polymorphisms and outcomes among women with early stage breast cancer
+treated with tamoxifen. JAMA 302: 1429-1436, 2009.
+
+57. Skoda, R. C.; Gonzalez, F. J.; Demierre, A.; Meyer, U. A.: Two
+mutant alleles of the human cytochrome P-450db1 gene (P450C2D1) associated
+with genetically deficient metabolism of debrisoquine and other drugs. Proc.
+Nat. Acad. Sci. 85: 5240-5243, 1988.
+
+58. Steen, V. M.; Molven, A.; Aarskog, N. K.; Gulbrandsen, A.-K.:
+Homologous unequal cross-over involving a 2.8 kb direct repeat as
+a mechanism for the generation of allelic variants of the human cytochrome
+P450 CYP2D6 gene. Hum. Molec. Genet. 4: 2251-2257, 1995.
+
+59. Tateishi, T.; Chida, M.; Ariyoshi, N.; Mizorogi, Y.; Kamataki,
+T.; Kobayashi, S.: Analysis of the CYP2D6 gene in relation to dextromethorphan
+O-demyelination capacity in a Japanese population. Clin. Pharm. Ther. 65:
+570-575, 1999.
+
+60. Thum, T.; Borlak, J.: Gene expression in distinct regions of
+the heart. Lancet 355: 979-983, 2000.
+
+61. Tucker, G. T.; Silas, J. H.; Iyun, A. O.; Lennard, M. S.; Smith,
+A. J.: Polymorphic hydroxylation of debrisoquine. (Letter) Lancet 310:
+718 only, 1977. Note: Originally Volume II.
+
+62. Tyndale, R. F.; Droll, K. P.; Sellers, E. M.: Relevance of deficient
+CYP2D6 in opiate dependence. (Letter) Pharmacogenetics 8: 567-568,
+1998.
+
+63. Tyndale, R. F.; Droll, K. P.; Sellers, E. M.: Genetically deficient
+CYP2D6 metabolism provides protection against oral opiate dependence. Pharmacogenetics 7:
+375-379, 1997.
+
+64. Yue, Q. Y.; Alm, C.; Svensson, J. O.; Sawe, J.: Quantification
+of the O- and N-demethylated and the glucuronidated metabolites of
+codeine relative to the debrisoquine metabolic ratio in urine in ultrarapid,
+rapid, and poor debrisoquine hydroxylators. Ther. Drug Monit. 19:
+539-542, 1997.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/7/2011
+Cassandra L. Kniffin - updated: 3/15/2011
+Cassandra L. Kniffin - updated: 4/16/2008
+Marla J. F. O'Neill - updated: 1/2/2007
+Victor A. McKusick - updated: 1/11/2005
+Cassandra L. Kniffin - reorganized: 9/21/2004
+Cassandra L. Kniffin - updated: 9/15/2004
+Victor A. McKusick - updated: 3/5/2003
+Cassandra L. Kniffin - updated: 9/6/2002
+Victor A. McKusick - updated: 5/10/2002
+Victor A. McKusick - updated: 9/10/2001
+George E. Tiller - updated: 9/13/2000
+Ada Hamosh - updated: 6/19/2000
+Victor A. McKusick - updated: 5/1/2000
+Ada Hamosh - updated: 4/4/2000
+Victor A. McKusick - updated: 2/17/2000
+Wilson H. Y. Lo - updated: 8/25/1999
+Victor A. McKusick - updated: 11/4/1998
+Victor A. McKusick - updated: 9/19/1997
+Victor A. McKusick - updated: 6/25/1997
+Victor A. McKusick - updated: 2/17/1997
+Orest Hurko - updated: 2/22/1996
+
+CREATED Victor A. McKusick: 10/16/1986
+
+EDITED terry: 06/07/2012
+alopez: 9/8/2011
+terry: 9/7/2011
+terry: 4/28/2011
+wwang: 3/30/2011
+ckniffin: 3/15/2011
+terry: 1/12/2009
+wwang: 4/23/2008
+ckniffin: 4/16/2008
+wwang: 1/2/2007
+terry: 3/22/2006
+mgross: 8/18/2005
+tkritzer: 1/18/2005
+terry: 1/11/2005
+carol: 9/21/2004
+ckniffin: 9/15/2004
+carol: 3/17/2004
+terry: 7/24/2003
+ckniffin: 7/8/2003
+carol: 3/19/2003
+tkritzer: 3/11/2003
+terry: 3/5/2003
+tkritzer: 11/19/2002
+carol: 9/10/2002
+ckniffin: 9/6/2002
+alopez: 5/28/2002
+terry: 5/10/2002
+alopez: 9/14/2001
+terry: 9/10/2001
+alopez: 9/13/2000
+alopez: 6/19/2000
+mcapotos: 5/25/2000
+terry: 5/1/2000
+alopez: 4/7/2000
+terry: 4/4/2000
+mcapotos: 3/6/2000
+mcapotos: 3/3/2000
+mcapotos: 3/1/2000
+terry: 2/17/2000
+carol: 11/8/1999
+carol: 8/25/1999
+alopez: 11/30/1998
+carol: 11/12/1998
+terry: 11/4/1998
+dholmes: 10/1/1997
+mark: 9/23/1997
+terry: 9/19/1997
+terry: 8/6/1997
+alopez: 7/7/1997
+alopez: 7/3/1997
+jenny: 7/1/1997
+terry: 6/25/1997
+carol: 6/20/1997
+mark: 2/17/1997
+terry: 2/10/1997
+mark: 8/15/1996
+terry: 5/24/1996
+terry: 4/15/1996
+mark: 2/22/1996
+terry: 2/9/1996
+mark: 1/28/1996
+terry: 1/23/1996
+John: 11/14/1995
+pfoster: 4/3/1995
+jason: 7/25/1994
+terry: 5/4/1994
+warfield: 4/8/1994
+carol: 1/19/1994
+
+603024	TITLE *603024 AT-RICH INTERACTION DOMAIN-CONTAINING PROTEIN 1A; ARID1A
+;;ARID-CONTAINING PROTEIN 1A;;
+SWI/SNF-RELATED, MATRIX-ASSOCIATED, ACTIN-DEPENDENT REGULATOR OF CHROMATIN,
+SUBFAMILY F, MEMBER 1; SMARCF1;;
+BRG1-ASSOCIATED FACTOR, 250-KD, A; BAF250A;;
+CHROMOSOME 1 OPEN READING FRAME 4; C1ORF4;;
+B120 GENE; B120;;
+p270
+DESCRIPTION 
+DESCRIPTION
+
+ARID1A is a unique component of the BRG1 (SMARCA4; 603254)-associated
+factor (BAF) chromatin remodeling complex that facilitates gene
+activation by assisting transcription machinery to gain access to gene
+targets (Nie et al., 2000).
+
+CLONING
+
+Takeuchi et al. (1997) reported a novel human cDNA encoding ARID1A,
+which they designated B120. B120 contains many repeat units, loosely
+identified as YXQQP, present in several human RNA-binding proteins. The
+B120 gene product is a 120-kD cytoplasmic protein expressed in various
+tissues including skeletal muscle, brain, and spleen. B120 has a CAG
+repeat length polymorphism, usually 7 repeats, encoding polyglutamine
+amino acids.
+
+Using antibody against human p270 to screen a HeLa cell expression cDNA
+library, followed by screening a second HeLa cell library and 5-prime
+RACE of a WI-38 human fibroblast library, Dallas et al. (2000) obtained
+a partial cDNA encoding about 95% of the ARID1A protein, which they
+called p270. The deduced protein, which is N-terminally truncated, has a
+glutamine (Q)-rich N-terminal region, followed by an ARID domain, a
+second Q-rich region, and multiple copies of an LxxLL motif near the C
+terminus. Northern blot analysis revealed variable expression of an
+approximately 8.0-kb transcript in all tissues examined.
+
+By sequencing peptides immunoaffinity purified with BRG1 from human cell
+line nuclear extracts, followed by EST database analysis and screening a
+Jurkat T-cell cDNA library, Nie et al. (2000) cloned full-length ARID1A,
+which they called BAF250. They noted that the B120 cDNA reported by
+Takeuchi et al. (1997) contains an unspliced intron at its 5-prime end
+and a sequencing error, resulting in a frameshift at its 3-prime end.
+The deduced 2,285-amino acid full-length BAF250 protein is rich in
+glutamine, proline, and alanine, and it shares 3 regions of conservation
+with its yeast and fly orthologs, including the ARID domain and 2
+C-terminal regions containing LxxLL motifs. Swi1 is the closest ortholog
+of BAF250 in yeast. Northern blot analysis revealed wide expression of a
+9.5-kb BAF250 transcript.
+
+GENE FUNCTION
+
+To examine the function of B120, Takeuchi et al. (1998) introduced B120
+cDNA with an expression vector into various cell lines, including COS-1,
+C3H/10T1/2, and NIH 3T3 cells. These transfected cells exhibited small
+cytoplasmic spherical bodies. The cytoplasmic bodies appeared to be fat
+droplets on electron microscopy and histochemical staining. These
+findings suggested that B120 gene expression is associated with lipid
+metabolism and that overexpression of B120 may result in lipid
+deposition in various cells, including those of fibroblastic cell lines.
+
+Dallas et al. (2000) showed that in vitro-translated human p270 bound
+immobilized native DNA. Deletion and mutation analysis revealed that DNA
+binding was confined to the ARID region and required conserved trp and
+tyr residues. Cloning and sequencing of DNA oligomers bound by the ARID
+region of p270 revealed no common motifs or sequence preferences.
+
+By sequencing peptides that immunopurified with BAF and PBAF (see PBRM1;
+606083) chromatin remodeling complexes, Nie et al. (2000) identified
+BAF250 as a component of the BAF complex only. The BAF complex possessed
+ATP-dependent mononucleosome disruption activity against a 176-bp
+fragment of 5S ribosomal DNA containing a nucleosome-positioning
+sequence. The intact BAF complex or a chimeric protein that included
+only the ARID domain of BAF250 bound a fragment containing the
+pyrimidine-rich element of the delta-globin (HBD;142000) gene. BAF250
+also enhanced glucocorticoid receptor (GR, or GCCR; 138040)-mediated
+transcriptional activation following transfection of BAF250 into
+BAF250-negative human T47D breast cancer cells. The amount of BAF250
+that associated with GR increased in the presence of glucocorticoid.
+Deletion of the conserved C-terminal region of BAF250 decreased its
+GR-dependent activation about 70%, and deletion of the ARID domain of
+BAF250 had a lesser effect.
+
+By gel filtration, mass spectrometry, and Western blot analysis of human
+cell lines, Nie et al. (2003) identified unique low-abundance SWI/SWF
+complexes that contained ENL (MLLT1; 159556), several common SWI/SNF
+subunits, and either BAF250A or BAF250B (ARID1B; 614556). Both BAF250A-
+and BAF250B-containing complexes displayed ATP-dependent mononucleosome
+disruption activity in vitro.
+
+To explore the genetic origin of ovarian clear-cell carcinoma (167000),
+Jones et al. (2010) determined the exomic sequences of 8 tumors after
+immunoaffinity purification of cancer cells. Through comparative
+analyses of normal cells from the same patients, Jones et al. (2010)
+identified 4 genes that were mutated in at least 2 tumors. Two of these
+genes, ARID1A and PPP2R1A (605983), which encodes a regulatory subunit
+of serine/threonine phosphatase-2, were not known to be involved in
+ovarian clear-cell carcinoma. The other 2 genes, previously implicated
+in ovarian clear-cell carcinoma, were PIK3CA (171834) and KRAS (190070).
+The nature and pattern of the mutations suggest that PPP2R1A functions
+as an oncogene and ARID1A as a tumor-suppressor gene. In a total of 42
+ovarian clear-cell carcinomas, 7% had mutations in PPP2R1A and 57% had
+mutations in ARID1A. Jones et al. (2010) concluded that their results
+suggested that aberrant chromatin remodeling contributes to the
+pathogenesis of ovarian clear-cell carcinoma.
+
+Dykhuizen et al. (2013) showed that BAF complexes decatenate newly
+replicated sister chromatids, a requirement for proper chromosome
+segregation during mitosis. Dykhuizen et al. (2013) found that deletion
+of Brg1 (603254) in mouse cells, as well as the expression of BRG1 point
+mutations identified in human tumors, leads to anaphase bridge formation
+(in which sister chromatids are linked by catenated strands of DNA) and
+a G2/M-phase block characteristic of the decatenation checkpoint.
+Endogenous BAF complexes interact directly with endogenous topoisomerase
+II-alpha (TOP2A; 126430) through BAF250a and are required for the
+binding of TOP2A to approximately 12,000 sites across the genome.
+Dykhuizen et al. (2013) concluded that TOP2A chromatin binding is
+dependent on the ATPase activity of BRG1, which is compromised in
+oncogenic BRG1 mutants. They further concluded that the ability of TOP2A
+to prevent DNA entanglement at mitosis requires BAF complexes and
+suggested that this activity contributes to the role of BAF subunits as
+tumor suppressors.
+
+MAPPING
+
+Takeuchi et al. (1998) mapped the ARID1A gene to chromosome 1p36.1-p35
+by fluorescence in situ hybridization. Several human disorders,
+including Schnyder crystalline corneal dystrophy (121800), map to the
+1p36.1-p35 region by genetic linkage. Since the cornea is composed of
+fibroblastic cells, Takeuchi et al. (1998) suggested that overfunction
+of ARID1A may be related to the pathogenesis of Schnyder crystalline
+corneal dystrophy.
+
+MOLECULAR GENETICS
+
+- Somatic ARID1A Mutations in Cancer
+
+Wiegand et al. (2010) sequenced the whole transcriptomes of 18 ovarian
+clear-cell carcinomas and 1 ovarian clear-cell carcinoma cell line and
+found somatic mutations in ARID1A in 6 of the samples. ARID1A encodes
+BAF250a, a key component of the SWI-SNF chromatin remodeling complex.
+Wiegand et al. (2010) then sequenced ARID1A in an additional 210 ovarian
+carcinomas and a second ovarian clear-cell carcinoma cell line and
+measured BAF250a expression by means of immunohistochemical analysis in
+an additional 455 ovarian carcinomas. ARID1A mutations were seen in 55
+of 119 ovarian clear-cell carcinomas (46%), 10 of 33 endometrioid
+carcinomas (30%), and none of the 76 high-grade serous ovarian
+carcinomas. Seventeen of the carcinomas had 2 somatic mutations each.
+Loss of the BAF250a protein correlated strongly with the ovarian
+clear-cell carcinoma and endometrioid carcinoma subtypes and the
+presence of ARID1A mutations. In 2 patients, ARIDIA mutations and loss
+of BAF250a expression were evident in the tumor and contiguous atypical
+endometriosis but not in distal endometriotic lesions. Wiegand et al.
+(2010) concluded that these data implicated ARID1A in as a tumor
+suppressor gene frequently disrupted in ovarian clear-cell and
+endometrioid carcinoma. Since ARID1A mutation and loss of BAF250a can be
+seen in preneoplastic lesions, Wiegand et al. (2010) speculated that
+mutation of ARID1A is an early event in the transformation of
+endometriosis into cancer.
+
+The finding of frequent ARID1A mutations in ovarian clear-cell and
+endometrioid carcinomas by Wiegand et al. (2010) suggested to
+Nissenblatt (2011) that such tumors may be of mullerian rather than
+coelomic derivation. Nissenblatt (2011) noted that the 3 most common
+types of ovarian carcinoma, i.e., serous, endometrioid, and mucinous,
+are histologically identical to tumors of the fallopian tube,
+endometrium, and endocervix, tumors known to arise from the embryonic
+mullerian duct. In a reply to the comments of Nissenblatt (2011),
+Huntsman et al. (2011) suggested that endometrioid carcinomas of the
+ovary and clear-cell carcinomas should be included with similar uterine
+cancers in clinical trials.
+
+Birnbaum et al. (2011) profiled pancreatic carcinoma samples from 39
+patients and 8 cell lines using high-resolution array comparative
+genomic hybridization and found a heterozygous deletion of the 1p35
+chromosomal region in 56.4% of tumors and 5 cell lines. This region,
+which is commonly deleted in human cancers, includes ARID1A, which is
+involved in chromatin remodeling and is suspected to be a tumor
+suppressor gene. Sequencing of ARID1A exons detected 2 acquired
+heterozygous mutations (1 nonsense and 1 missense) in tumors. These
+mutations were different from those reported in ovarian cancer. Birnbaum
+et al. (2011) concluded that their results suggested a potential role of
+ARID1A and aberrant chromatin remodeling in pancreatic carcinoma and
+showed that the spectrum of ARID1A alterations, including deletions, may
+be large. Huntsman et al. (2011) stated that the findings of Birnbaum et
+al. (2011) added to a body of evidence implicating abnormalities in
+chromatin-remodeling complexes, and in particular the BAF250a-containing
+SWI/SNF nucleosome remodeling complex, as key events in many cancers.
+
+Le Gallo et al. (2012) used whole-exome sequencing to comprehensively
+search for somatic mutations in 13 primary serous endometrial tumors
+(see 608089), and subsequently resequenced 18 genes that were mutated in
+more than 1 tumor and/or were components of an enriched functional
+grouping from 40 additional serous tumors. Le Gallo et al. (2012)
+identified a high frequency of somatic mutation (6%) in the ARID1A gene.
+
+- Autosomal Dominant Mental Retardation 14
+
+In 3 individuals with a syndromic form of mental retardation (MRD14;
+614607) that had been classified as Coffin-Siris syndrome (CSS; 135900),
+Tsurusaki et al. (2012) identified 3 mutations in ARID1A. One was a
+frameshift and the other 2 premature termination.
+
+ANIMAL MODEL
+
+Krosl et al. (2010) generated a mutant mouse strain harboring a Baf250a
+allele lacking exons 2 and 3. Transcripts from this allele were
+expressed at normal levels and encoded a Baf250 protein lacking 150
+amino acids within the N-terminal region. Heterozygous mutant mice were
+healthy for over 12 months, but no homozygous mutant offspring were
+obtained. Krosl et al. (2010) examined hemopoiesis in homozygous mutant
+fetal liver and found that Baf250a was not required for hemopoietic stem
+cell specification, onset of definitive hemopoiesis, or differentiation
+of blood cells. However, stromal cell layers established from homozygous
+mutant fetal liver cells were more efficient than wildtype fetal liver
+cells in in vitro maintenance and expansion of primitive hemopoietic
+cells. This advantage was associated with enhanced expression of
+transcripts encoding soluble factors associated with hematopoietic stem
+cell growth and reduced expression of transcripts associated with cell
+senescence or oxidative stress-induced apoptosis. Krosl et al. (2010)
+hypothesized that BAF250A controls the size of the fetal liver
+hematopoietic stem cell pool through regulation of the fetal liver
+microenvironment.
+
+ALLELIC VARIANT .0001
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 14
+ARID1A, 31_56DEL
+
+In Patient 3 with a syndromic form of mental retardation (MRD14;
+614607), Tsurusaki et al. (2012) detected a heterozygous 26-bp deletion
+in the ARID1A gene (31_56del) resulting in frameshift and premature
+termination 91 amino acids downstream (ser11alafs*91). The phenotype of
+this patient was characterized as Coffin-Siris syndrome (135900), and
+the patient presented with hepatoblastoma as well as multiple congenital
+anomalies. This mutation was not identified in 330 control chromosomes
+or in the SNP database dbSNP132, the 1000 Genomes database, or the
+National Heart, Lung, and Blood Institute Grand Opportunity (NHLBI GO)
+exome sequencing project database. The parents were unavailable for
+testing.
+
+.0002
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 14
+ARID1A, GLN920TER
+
+In Patient 6 with a syndromic form of mental retardation (MRD14;
+614607), Tsurusaki et al. (2012) detected a heterozygous C-to-T
+transition at nucleotide 2758 of the ARID1A gene that resulted in a
+glu-to-ter substitution at codon 920 (Q920X). The phenotype of this
+patient was characterized as Coffin-Siris syndrome (135900). This
+mutation was not identified in 376 control chromosomes or in the SNP
+database dbSNP132, the 1000 Genomes database, or the National Heart,
+Lung, and Blood Institute Grand Opportunity (NHLBI GO) exome sequencing
+project database. The parents were unavailable for testing.
+
+.0003
+MENTAL RETARDATION, AUTOSOMAL DOMINANT 14
+ARID1A, ARG1335TER
+
+In Patient 8 with a syndromic form of mental retardation (MRD14;
+614607), Tsurusaki et al. (2012) detected a heterozygous C-to-T
+transition at nucleotide 4003 of the ARID1A gene, resulting in an
+arg-to-ter substitution at codon 1335 (R1335X). The phenotype of this
+patient was characterized as Coffin-Siris syndrome (135900). The
+mutation occurred as a de novo event.
+
+REFERENCE 1. Birnbaum, D. J.; Birnbaum, D.; Bertucci, F.: Endometriosis-associated
+ovarian carcinomas. (Letter) New Eng. J. Med. 364: 483-484, 2011.
+
+2. Dallas, P. B.; Pacchione, S.; Wilsker, D.; Bowrin, V.; Kobayashi,
+R.; Moran, E.: The human SWI-SNF complex protein p270 is an ARID
+family member with non-sequence-specific DNA binding activity. Molec.
+Cell. Biol. 20: 3137-3146, 2000.
+
+3. Dykhuizen, E. C.; Hargreaves, D. C.; Miller, E. L.; Cui, K.; Korshunov,
+A.; Kool, M.; Pfister, S.; Cho, Y.-J.; Zhao, K.; Crabtree, G. R.:
+BAF complexes facilitate decatenation of DNA by topoisomerase II-alpha. Nature 497:
+624-627, 2013.
+
+4. Huntsman, D.; Wiegand, K. C.; Gilks, B.: Reply to Nissenblatt
+and Birnbaum et al. (Letter) New Eng. J. Med. 364: 484-485, 2011.
+
+5. Jones, S.; Wang, T.-L.; Shih, I.-M.; Mao, T.-L.; Nakayama, K.;
+Roden, R.; Glas, R.; Slamon, D.; Diaz, L. A., Jr.; Vogelstein, B.;
+Kinzler, K. W.; Velculescu, V. E.; Papadopoulos, N.: Frequent mutations
+of chromatin remodeling gene ARID1A in ovarian clear cell carcinoma. Science 330:
+228-231, 2010.
+
+6. Krosl, J.; Mamo, A.; Chagraoui, J.; Wilhelm, B. T.; Girard, S.;
+Louis, I.; Lessard, J.; Perreault, C.; Sauvageau, G.: A mutant allele
+of the Swi/Snf member BAF250a determines the pool size of fetal liver
+hemopoietic stem cell populations. Blood 116: 1678-1684, 2010.
+
+7. Le Gallo, M.; O'Hara, A. J.; Rudd, M. L.; Urick, M. E.; Hansen,
+N. F.; O'Neil, N. J.; Price, J. C.; Zhang, S.; England, B. M.; Godwin,
+A. K.; Sgroi, D. C.; NIH Intramural Sequencing Center (NISC) Comparative
+Sequencing Program; Hieter, P.; Mullikan, J. C.; Merino, M. J.; Bell,
+D. W.: Exome sequencing of serous endometrial tumors identifies recurrent
+somatic mutations in chromatin-remodeling and ubiquitin ligase complex
+genes. Nature Genet. 44: 1310-1315, 2012.
+
+8. Nie, Z.; Xue, Y.; Yang, D.; Zhou, S.; Deroo, B. J.; Archer, T.
+K.; Wang, W.: A specificity and targeting subunit of a human SWI/SNF
+family-related chromatin-remodeling complex. Molec. Cell. Biol. 20:
+8879-8888, 2000.
+
+9. Nie, Z.; Yan, Z.; Chen, E. H.; Sechi, S.; Ling, C.; Zhou, S.; Xue,
+Y.; Yang, D.; Murray, D.; Kanakubo, E.; Cleary, M. L.; Wang, W.:
+Novel SWI/SNF chromatin-remodeling complexes contain a mixed-lineage
+leukemia chromosomal translocation partner. Molec. Cell. Biol. 23:
+2942-2952, 2003.
+
+10. Nissenblatt, M.: Endometriosis-associated ovarian carcinomas.
+(Letter) New Eng. J. Med. 364: 482-483, 2011.
+
+11. Takeuchi, T.; Chen, B. K.; Qiu, Y.; Sonobe, H.; Ohtsuki, Y.:
+Molecular cloning and expression of a novel human cDNA containing
+CAG repeats. Gene 204: 71-77, 1997.
+
+12. Takeuchi, T.; Furihata, M.; Heng, H. H. Q.; Sonobe, H.; Ohtsuki,
+Y.: Chromosomal mapping and expression of the human B120 gene. Gene 213:
+189-193, 1998.
+
+13. Tsurusaki, Y.; Okamoto, N.; Ohashi, H.; Kosho, T.; Imai, Y.; Hibi-Ko,
+Y.; Kaname, T.; Naritomi, K.; Kawame, H.; Wakui, K.; Fukushima, Y.;
+Homma, T.; and 19 others: Mutations affecting components of the
+SWI/SNF complex cause Coffin-Siris syndrome. Nature Genet. 44: 376-378,
+2012.
+
+14. Wiegand, K. C.; Shah, S. P.; Al-Agha, O. M.; Zhao, Y.; Tse, K.;
+Zeng, T.; Senz, J.; McConechy, M. K.; Anglesio, M. S.; Kalloger, S.
+E.; Yang, W.; Heravi-Moussavi, A. and 32 others: ARID1A mutations
+in endometriosis-associated ovarian carcinomas. New Eng. J. Med. 363:
+1532-1543, 2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 07/01/2013
+Ada Hamosh - updated: 2/7/2013
+Ada Hamosh - updated: 4/30/2012
+Patricia A. Hartz - updated: 3/23/2012
+Patricia A. Hartz - updated: 7/14/2011
+Ada Hamosh - updated: 2/15/2011
+Ada Hamosh - updated: 11/4/2010
+Ada Hamosh - updated: 10/26/2010
+
+CREATED Victor A. McKusick: 9/9/1998
+
+EDITED alopez: 07/01/2013
+alopez: 2/7/2013
+alopez: 5/2/2012
+alopez: 5/1/2012
+terry: 4/30/2012
+mgross: 3/27/2012
+terry: 3/23/2012
+mgross: 7/18/2011
+terry: 7/14/2011
+alopez: 2/17/2011
+terry: 2/15/2011
+carol: 2/2/2011
+alopez: 11/11/2010
+terry: 11/4/2010
+alopez: 10/27/2010
+alopez: 10/26/2010
+mgross: 11/3/2005
+alopez: 6/21/2000
+alopez: 7/19/1999
+dkim: 9/10/1998
+carol: 9/9/1998
+
+601387	TITLE *601387 TUMOR SUSCEPTIBILITY GENE 101; TSG101
+;;VACUOLAR PROTEIN SORTING 23, YEAST, HOMOLOG OF; VPS23
+DESCRIPTION 
+CLONING
+
+Using a strategy that enabled the isolation of previously unknown genes
+encoding selectable recessive phenotypes, Li and Cohen (1996) identified
+in the mouse a gene whose homozygous functional disruption by
+insertional mutagenesis and antisense RNA synthesis produced cell
+transformation. In their strategy, expression of a selectable marker in
+mouse 3T3 cells was dependent upon insertion of a gene search vector
+downstream of the promoter of randomly targeted chromosomal genes.
+Transactivation of a promoter on the noncoding strand of the search
+vector resulted in expression of antisense RNA that was complementary to
+the coding strand of the targeted allele, resulting in functional
+inactivation of the other allele. They subsequently selected for clonal
+colonies that gained the ability to grow in 0.5% agar and formed
+metastatic tumors in nude mice. Li and Cohen (1996) isolated such a
+clonal colony and designated the inactivated gene Tsg101. Removal of the
+transactivator required for antisense RNA expression restored normal
+growth, presumably because of subsequent loss of expression of the
+antisense transcripts complementary to Tsg101. The protein encoded by
+the Tsg101 cDNA contains a coiled-coil domain that interacts with
+stathmin (151442), a cytosolic phosphoprotein implicated in
+tumorigenesis. Li and Cohen (1996) observed that overexpression of
+Tsg101 antisense transcripts in NIH 3T3 cells resulted in cell
+transformation and increased stathmin-specific mRNA.
+
+Li et al. (1997) determined that the human TSG101 gene encodes a
+381-amino acid polypeptide of 42.8 kD which is 94% identical to the
+mouse protein.
+
+By database searching and comparison of the TSG101 proteins of yeast and
+other organisms, Koonin and Abagyan (1997) concluded that TSG101 may
+belong to a group of apparently inactive homologs of
+ubiquitin-conjugating enzymes.
+
+Wagner et al. (2003) stated that many of the TSG101 transcripts
+associated with human malignancies are actually alternatively spliced
+forms generated by exon skipping.
+
+GENE FUNCTION
+
+Like other enveloped viruses, human immunodeficiency virus (HIV)-1 uses
+cellular machinery to bud from infected cells. Garrus et al. (2001)
+showed that TSG101, which functions in vacuolar protein sorting (VPS),
+is required for HIV-1 budding. The ubiquitin enzyme-2 variant (UEV)
+domain of TSG101 binds to an essential tetrapeptide (PTAP) motif within
+the p6 domain of the structural Gag protein of HIV-1 and also to
+ubiquitin. Depletion of cellular TSG101 by small interfering RNA
+arrested HIV-1 budding at a late stage, and budding was rescued by
+reintroduction of TSG101. Dominant-negative mutant VPS4 proteins that
+inhibit vacuolar protein sorting also arrested HIV-1 and MLV (murine
+leukemia virus) budding. These observations suggested that retroviruses
+bud by appropriating cellular machinery normally used in the VPS pathway
+to form multivesicular bodies.
+
+Amit et al. (2004) showed that LRSAM1 (610933) binds the TSG101 SB
+(steadiness box) and UEV regions. LRSAM1 ubiquitylates TSG101 both in
+HEK293T cells and in vitro, and multiple monomeric ubiquitylation of
+TSG101 results in inactivation of TSG101 sorting function. Studies of
+receptor endocytosis and virus budding suggested that LRSAM1 enables
+recycling of TSG101-containing sorting complexes and cargo reloading.
+
+In Drosophila cells, Moberg et al. (2005) showed that Tsg101 mutations
+activated Notch (see NOTCH1; 190198) signaling and caused overproduction
+of a secreted Drosophila mitogen. The authors concluded that alterations
+in trafficking through the endocytic pathway can trigger the secretion
+of growth factors and cause overproliferation of neighboring cells.
+
+Carlton and Martin-Serrano (2007) found that 2 proteins involved in
+HIV-1 budding--TSG101, a subunit of the endosomal sorting complex
+required for transport-1 (ESCRT-1), and ALIX (608074), an
+ESCRT-associated protein--were recruited to the midbody during
+cytokinesis by interaction with centrosome protein 55 (CEP55; 610000), a
+centrosome and midbody protein essential for abscission. TSG101, ALIX,
+and possibly other components of ESCRT-1 were required for the
+completion of cytokinesis. Carlton and Martin-Serrano (2007) concluded
+that thus, HIV-1 budding and cytokinesis use a similar subset of
+cellular components to carry out topologically similar membrane fission
+events.
+
+Using coimmunoprecipitation and crosslinking analysis, Bishop and
+Woodman (2001) found that human VPS28 (601387) interacted with the
+coiled-coil C-terminal portion of TSG101. Expression of ATPase-defective
+VPS4 (609983) shifted a portion of TSG101 and VPS28 from the cytosol to
+endosomal vacuoles. Bishop and Woodman (2001) concluded that TSG101 and
+VPS28 are directly involved in endosomal sorting.
+
+Philips et al. (2008) showed that the avirulent Mycobacterium smegmatis
+species could multiply in Drosophila S2 cells or murine macrophages in
+which small interfering RNA had disrupted ESCRT components, including
+Tsg101 and Vps28, by modulating the phagosome induced by mycobacteria.
+Immunofluorescence and confocal microscopy showed that Tsg101- or
+Vps28-depleted cells harbored mycobacteria in a heavily ubiquitinated
+vacuolar location. Philips et al. (2008) concluded that ESCRT machinery
+is critical for containment of mycobacterial proliferation.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Lee et al. (2008) solved the crystal structure of the ESCRT- and ALIX
+(608074)-binding region (EABR) of CEP55 (610000) bound to an ALIX
+peptide at a resolution of 2.0 angstroms. The structure showed that EABR
+forms an aberrant dimeric parallel coiled coil. Bulky and charged
+residues at the interface of the 2 central heptad repeats create
+asymmetry and a single binding site for an ALIX or TSG101 peptide. Both
+ALIX and ESCRT-1 are required for cytokinesis, which suggested that
+multiple CEP55 dimers are required for function.
+
+MAPPING
+
+By fluorescence in situ hybridization and by analysis of a radiation
+hybrid mapping panel, Li et al. (1997) demonstrated that the human
+TSG101 gene maps to 11p15.2-p15.1. This region of chromosome 11 has been
+found to show loss of heterozygosity (LOH) in a variety of human
+malignancies, primarily breast cancers.
+
+MOLECULAR GENETICS
+
+Li et al. (1997) analyzed transcripts from 15 uncultured primary human
+breast carcinomas and matched normal breast tissue from the same
+patients by RT-PCR, Southern blot analysis, and direct DNA sequencing.
+They found that 7 breast cancers had intragenic TSG101 deletions that
+physically or functionally disrupted sequences encoding the coiled-coil
+domain of the protein. Analysis of genomic DNA, which was available from
+6 of the 7 patients showing mutations in TSG101 transcripts, confirmed
+the presence of abnormalities at the TSG101 genomic locus in all 6
+cancers. Mutations in 2 TSG101 alleles were identified by both genomic
+DNA analysis and cDNA analysis in 3 breast cancers and by cDNA analysis
+in a fourth tumor (see 601387.0001). No TSG101 abnormalities were
+observed in transcripts or genomic DNA of matched normal breast tissue
+from these breast cancer patients. The findings of Li et al. (1997)
+suggested that TSG101 is mutated at high frequency in human breast
+cancer and further suggested that defects in TSG101 occur during breast
+cancer tumorigenesis and/or progression. The wildtype gene has the
+characteristics of a typical tumor suppressor gene.
+
+The report by Li et al. (1997) of TSG101 intragenic deletions in 7 of 15
+primary human breast carcinomas attracted particular interest because
+BRCA1 (113705) and BRCA2 (600185), which are involved in familial breast
+cancer, had not been found to be associated with a significant number of
+sporadic mammary carcinomas, in contrast to the behavior of most
+tumor-suppressor genes. Steiner et al. (1997) failed, however, to find
+deletions in the TSG101 gene in breast cancer cases and called into
+question the assignment of TSG101 to the class of tumor-suppressor
+genes. Haber and Harlow (1997) pointed out the increasing vagueness in
+the use of the term tumor suppressor gene. They suggested that the
+simplest, most inclusive, and cleanest genetic definition should be
+used, namely, 'genes that sustain loss-of-function mutations in the
+development of cancer.' At the simplest level, mutations associated with
+cancer can be informatively split into gain-of-function and
+loss-of-function mutations. The definition complements the
+well-established and universally recognized gain-of-function mutations
+that are used to define the protooncogene-to-oncogene conversion.
+
+ANIMAL MODEL
+
+Wagner et al. (2003) produced mice with a conditional deletion of the
+Tsg101 gene. They determined that Tsg101 is essential for cell growth,
+cell survival, and normal function of embryonic and adult tissues.
+Tsg101-deficient mammary epithelial cells exhibited a defect in cell
+cycle regulation and underwent increased cell death. Tsg101 knockout did
+not result in accelerated cell growth or cause neoplastic
+transformation.
+
+ALLELIC VARIANT .0001
+BREAST CANCER
+TSG101, VAL-ALA, 1162T-C
+
+In a breast cancer, Li et al. (1997) identified a T-to-C transition at
+nucleotide 1162 in the nondeleted allele of the TSG101 gene. Deletion of
+the other allele had been identified by LOH. The mutation eliminates a
+BbsI restriction site and generates a val-to-ala substitution at one of
+the putative protein kinase C (176960) phosphorylation sites of the
+TSG101 protein.
+
+ADDITIONAL REFERENCES Bishop and Woodman (2001); Philips et al. (2008)
+REFERENCE 1. Amit, I.; Yakir, L.; Katz, M.; Zwang, Y.; Marmor, M. D.; Citri,
+A.; Shtiegman, K.; Alroy, I.; Tuvia, S.; Reiss, Y.; Roubini, E.; Cohen,
+M.; Wides, R.; Bacharach, E.; Schubert, U.; Yarden, Y.: Tal, a Tsg101-specific
+E3 ubiquitin ligase, regulates receptor endocytosis and retrovirus
+budding. Genes Dev. 18: 1737-1752, 2004.
+
+2. Bishop, N.; Woodman, P.: TSG101/mammalian VPS23 and mammalian
+VPS28 interact directly and are recruited to VPS4-induced endosomes. J.
+Biol. Chem. 276: 11735-11742, 2001.
+
+3. Bishop, N.; Woodman, P.: TSG101/mammalian VPS23 and mammalian
+VPS28 interact directly and are recruited to VPS4-induced endosomes. J.
+Biol. Chem. 276: 11735-11742, 2001.
+
+4. Carlton, J. G.; Martin-Serrano, J.: Parallels between cytokinesis
+and retroviral budding: a role for the ESCRT machinery. Science 316:
+1908-1912, 2007.
+
+5. Garrus, J. E.; von Schwedler, U. K.; Pornillos, O. W.; Morham,
+S. G.; Zavitz, K. H.; Wang, H. E.; Wettstein, D. A.; Stray, K. M.;
+Cote, M.; Rich, R. L.; Myszka, D. G.; Sundquist, W. I.: Tsg101 and
+vacuolar protein sorting pathway are essential for HIV-1 budding. Cell 107:
+55-65, 2001.
+
+6. Haber, D.; Harlow, E.: Tumour-suppressor genes: evolving definitions
+in the genomic age. Nature Genet. 16: 320-322, 1997.
+
+7. Koonin, E. V.; Abagyan, R. A.: TSG101 may be the prototype of
+a class of dominant negative ubiquitin regulators. (Letter) Nature
+Genet. 16: 330-331, 1997.
+
+8. Lee, H. H.; Elia, N.; Ghirlando, R.; Lippincott-Schwartz, J.; Hurley,
+J. H.: Midbody targeting of the ESCRT machinery by a noncanonical
+coiled coil in CEP55. Science 322: 576-580, 2008.
+
+9. Li, L.; Cohen, S. N.: tsg101: a novel tumor susceptibility gene
+isolated by controlled homozygous functional knockout of allelic loci
+in mammalian cells. Cell 85: 319-329, 1996.
+
+10. Li, L.; Li, X.; Francke, U.; Cohen, S. N.: The TSG101 tumor susceptibility
+gene is located in chromosome 11 band p15 and is mutated in human
+breast cancer. Cell 88: 143-154, 1997.
+
+11. Moberg, K. H.; Schelble, S.; Burdick, S. K.; Hariharan, I. K.
+: Mutations in erupted, the Drosophila ortholog of mammalian tumor
+susceptibility gene 101, elicit non-cell-autonomous overgrowth. Dev.
+Cell 9: 699-710, 2005.
+
+12. Philips, J. A.; Porto, M. C.; Wang, H.; Rubin, E. J.; Perrimon,
+N.: ESCRT factors restrict mycobacterial growth. Proc. Nat. Acad.
+Sci. 105: 3070-3075, 2008.
+
+13. Philips, J. A.; Porto, M. C.; Wang, H.; Rubin, E. J.; Perrimon,
+N.: ESCRT factors restrict mycobacterial growth. Proc. Nat. Acad.
+Sci. 105: 3070-3075, 2008.
+
+14. Steiner, P.; Barnes, D. M.; Harris, W. H.; Weinberg, R. A.: Absence
+of rearrangements in the tumour susceptibility gene TSG101 in human
+breast cancer. (Letter) Nature Genet. 16: 332-333, 1997.
+
+15. Wagner, K.-U.; Krempler, A.; Qi, Y.; Park, K.; Henry, M. D.; Triplett,
+A. A.; Riedlinger, G.; Rucker, E. B., III; Hennighausen, L.: Tsg101
+is essential for cell growth, proliferation, and cell survival of
+embryonic and adult tissues. Molec. Cell. Biol. 23: 150-162, 2003.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/12/2008
+Paul J. Converse - updated: 4/9/2008
+Ada Hamosh - updated: 7/24/2007
+Patricia A. Hartz - updated: 12/20/2005
+Patricia A. Hartz - updated: 3/10/2003
+Stylianos E. Antonarakis - updated: 10/30/2001
+Victor A. McKusick - updated: 7/31/1997
+Harry C. Dietz - edited: 4/4/1997
+Victor A. McKusick - updated: 2/7/1997
+
+CREATED Victor A. McKusick: 8/19/1996
+
+EDITED alopez: 11/18/2008
+terry: 11/12/2008
+mgross: 4/14/2008
+terry: 4/9/2008
+alopez: 7/25/2007
+terry: 7/24/2007
+wwang: 4/16/2007
+mgross: 4/10/2006
+wwang: 12/20/2005
+mgross: 3/13/2003
+terry: 3/10/2003
+mgross: 10/30/2001
+carol: 7/20/2001
+carol: 6/27/2001
+terry: 8/4/1997
+terry: 7/31/1997
+terry: 4/14/1997
+mark: 4/4/1997
+mark: 4/1/1997
+mark: 2/7/1997
+terry: 2/4/1997
+mark: 8/20/1996
+terry: 8/19/1996
+mark: 8/19/1996
+
+605325	TITLE *605325 CYTOCHROME P450, SUBFAMILY IIIA, POLYPEPTIDE 5; CYP3A5
+;;P450PCN3
+DESCRIPTION 
+DESCRIPTION
+
+CYP3A enzymes are the most abundantly expressed cytochrome P450 enzymes
+in liver and are responsible for the metabolism of over 50% of all
+clinically used drugs (Paulussen et al., 2000).
+
+CLONING
+
+By screening a liver cDNA library with CYP3A4 (124010) as probe, Aoyama
+et al. (1989) isolated a cDNA encoding CYP3A5, which they termed PCN3.
+Immunoblot analysis of liver microsomes showed that CYP3A5 is expressed
+as a 52.5-kD protein, whereas CYP3A4 migrates as a 52.0-kD protein. The
+deduced 502-amino acid CYP3A5 protein shares 85% sequence similarity
+with CYP3A4. Analysis of enzymatic activity established that CYP3A4 and
+CYP3A5 have overlapping substrate specificity with minor differences in
+the metabolism of steroids and cyclosporine, suggesting that CYP3A4 may
+bind these drugs at more than 1 site.
+
+MAPPING
+
+Jounaidi et al. (1994) isolated the 5-prime flanking region of CYP3A5
+from a genomic clone on chromosome 7. Promoter analysis determined that
+CYP3A5 uses a CATAA, rather than a TATA, box at positions -23 to -28 and
+has a basic transcription element from -35 to -50. Jounaidi et al.
+(1994) stated that CYP3A5 and CYP3A7 appear to be tandemly associated
+and transcribed in the same direction.
+
+Gellner et al. (2001) found that a 231-kb region on chromosome 7q21.1
+contains 3 CYP3A genes: CYP3A4 (124010), CYP3A5, and CYP3A7 (605340), as
+well as 3 pseudogenes and a novel CYP3A gene, which they termed CYP3A43
+(606534).
+
+GENE FUNCTION
+
+Yamakoshi et al. (1999) isolated a cDNA clone for CYP3A5 from a prostate
+library and determined that it has a unique 5-prime untranslated
+sequence, suggesting that CYP3A5 is differentially regulated in liver
+and prostate. Enzymatic analysis showed that the prostate form of the
+enzyme can metabolize sex hormones.
+
+Kuehl et al. (2001) stated that variation in the CYP3A enzymes
+influences circulating steroid levels and responses to half of all
+oxidatively metabolized drugs. CYP3A activity is the sum activity of the
+family of CYP3A genes, including CYP3A5, which is polymorphically
+expressed at high levels in a minority of Caucasians. Only individuals
+with at least one CYP3A5*1 (wildtype) allele express large amounts of
+CYP3A5. Kuehl et al. (2001) demonstrated that SNPs in CYP3A5*3 (6986A-G;
+605235.0001) and CYP3A5*6 (a G-to-A transition in exon 7 resulting in
+deletion of that exon), which cause alternative splicing and protein
+truncation, result in the absence of CYP3A5 from tissues of some people.
+CYP3A5 was more frequently expressed in livers of African Americans
+(60%) than in those of Caucasians (33%). Because CYP3A5 represents at
+least 50% of the total hepatic CYP3A content in people polymorphically
+expressing CYP3A5, CYP3A5 may be the most important genetic contributor
+to interindividual and interracial differences in CYP3A-dependent drug
+clearance and in responses to many medicines. There are substantial
+interindividual differences in CYP3A expression, exceeding 30-fold in
+some populations. The polymorphic distribution of the wildtype CYP3A5*1
+allele indicates that relatively high levels of metabolically active
+CYP3A5 are expressed by an estimated 30% of Caucasians, 30% of Japanese,
+30% of Mexicans, 40% of Chinese, and more than 50% of African Americans,
+Southeast Asians, Pacific Islanders, and Southwestern American Indians.
+The higher prevalence of CYP3A5 expression indicates that these
+non-Caucasians are more likely to experience higher clearance of drugs
+principally inactivated by CYP3A; are less likely to experience
+dose-limiting toxicities; and have different risks of diseases that are
+associated with the CYP3A5 expressor phenotype.
+
+Kuehl et al. (2001) proposed that the expressor allele confers a
+selective advantage in equatorial populations that may experience water
+shortages. Thompson et al. (2004) genotyped the CYP3A5*1/*3
+polymorphism, which is likely to influence salt and water retention and
+risk for salt-sensitive hypertension (145500), in more than 1,000
+individuals from 52 worldwide population samples. The results revealed
+an unusual geographic pattern whereby the CYP3A5*3 frequency showed
+extreme variation across populations and was significantly correlated
+with distance from the equator. Furthermore, an unlinked variant, a
+met235-to-thr SNP in the AGT gene (M235T; 106150.0001), previously
+implicated in hypertension and preeclampsia, exhibited a similar
+geographic distribution and had a significantly correlated frequency
+with CYP3A5*1/*3. Thompson et al. (2004) concluded that variants that
+influence salt homeostasis are the targets of a shared selective
+pressure that results from an environmental variable correlated with
+latitude.
+
+Lee et al. (2003) identified 4 novel SNPs in the CYP3A5 gene producing
+coding changes in different ethnic groups. R28C occurred in African
+populations (allelic frequency, 4%), A337T occurred in Asians (allelic
+frequency, 2%), L82R occurred in a racially unidentified group, and
+F446S occurred in Caucasians (allelic frequency, 2%). These SNPs were on
+an allele containing the CYP3A5*3 SNP. The newly identified allelic
+proteins were constructed by site-directed mutagenesis, expressed in E.
+coli, and purified. CYP3A5*1 exhibited the highest maximal clearance for
+testosterone, followed by A337T, which was greater than R28C; R28C was
+much greater than F446S. F446S exhibited a more than 95% decrease in the
+intrinsic clearance for both testosterone and nifedipine oxidation, and
+was predicted to be more catalytically defective than the splice change
+alone.
+
+The cholesterol lowering agents lovastatin, simvastatin, and
+atorvastatin are metabolized primarily by CYP3A4; however, the
+polymorphic CYP3A5 also contributes to the biotransformation of these
+statins. Individuals carrying at least 1 copy of the wildtype CYP3A5*1
+allele express CYP3A5 protein in the liver and some extrahepatic tissues
+such as the small intestine, whereas CYP3A5*3 homozygotes are designated
+CYP3A5 nonexpressors. Kivisto et al. (2004) studied whether expression
+of CYP3A5 is associated with an impaired lipid-lowering response to
+statins in 69 Caucasian patients. They found that lovastatin,
+simvastatin, and atorvastatin were significantly less effective in
+CYP3A5 expressors than in nonexpressors. No association between
+hypolipidemic efficacy and CYP3A5 polymorphism was observed among 23
+subjects taking statins that are not dependent on CYP3A5 (viz.,
+fluvastatin or pravastatin).
+
+HISTORY
+
+Paulussen et al. (2000) analyzed what was thought to be the 5-prime
+flanking region of the CYP3A5 gene and reported 2 linked polymorphisms,
+-369T/G and -45A/G, located in transcriptional regulatory elements that
+were associated with increased expression and activity of the gene.
+Kuehl et al. (2001) noted, however, that sequencing of the CYP3A locus
+revealed that these SNPs were actually in the promoter of the pseudogene
+CYP3AP1, and thus could not be the basis for polymorphic CYP3A5
+expression.
+
+ALLELIC VARIANT .0001
+HYPERTENSION, SALT-SENSITIVE ESSENTIAL, SUSCEPTIBILITY TO
+CYP3A5, 6986A-G
+
+In many populations, total adult CYP3A protein content of tissues
+remains constant and consists largely of CYP3A4, whereas CYP3A5
+expression has extreme interpopulation variability. This variation is
+largely due to a 6986A-G substitution in intron 3 of CYP3A5 (the
+CYP3A5*3 allele; SV1-CYP3A5) that results in improperly spliced mRNA and
+a nonfunctional protein truncated at amino acid 102 (Kuehl et al., 2001;
+Lin et al., 2002). The CYP3A5*3 allele is reported to have a frequency
+of approximately 27 to 50% among African Americans, 85 to 95% among
+whites (Hustert et al., 2001; Kuehl et al., 2001), and 60 to 73% among
+Asians (Hustert et al., 2001).
+
+Givens et al. (2003) found that, among renal microsomes from 21 organ
+donors, those from *1/*3 individuals had at least 8-fold higher mean
+kidney microsomal CYP3A5 content and 18-fold higher mean CYP3A catalytic
+activity than did those from *3/*3 individuals (p = 0.0001 and p =
+0.0137, respectively). They also found significant associations between
+the 6986A-G polymorphism and systolic blood pressure (p = 0.0007), mean
+arterial pressure (p = 0.0075), and creatinine clearance (p = 0.0035)
+among 25 healthy African American adults. The associations remained
+significant when sex, age, and body mass index were considered. The mean
+systolic blood pressure of homozygous CYP3A5 expressors (*1/*1) exceeded
+that of homozygous nonexpressors (*3/*3) by 19.3 mm Hg. Givens et al.
+(2003) speculated that a high CYPA5 expressor allele frequency among
+African Americans may contribute to a high prevalence of salt-sensitive
+hypertension (145500) in this population.
+
+Thompson et al. (2004) found that the CYP3A5*3 allele is significantly
+correlated with distance from the equator. They noted that a
+met235-to-thr SNP in the AGT gene (M235T; 106150.0001), previously
+implicated in hypertension and preeclampsia, exhibited a similar
+geographic distribution and had a significantly correlated frequency
+with CYP3A5*1/*3. Thompson et al. (2004) concluded that variants that
+influence salt homeostasis are the targets of a shared selective
+pressure that results from an environmental variable correlated with
+latitude.
+
+REFERENCE 1. Aoyama, T.; Yamano, S.; Waxman, D. J.; Lapenson, D. P.; Meyer,
+U. A.; Fischer, V.; Tyndale, R.; Inaba, T.; Kalow, W.; Gelboin, H.
+V.; Gonzalez, F. J.: Cytochrome P-450 hPCN3, a novel cytochrome P-450
+IIIA product that is differentially expressed in adult human liver:
+cDNA and deduced amino acid sequence and distinct specificities of
+cDNA-expressed hPCN1 and hPCN3 for the metabolism of steroid hormones
+and cyclosporine. J. Biol. Chem. 264: 10388-10395, 1989.
+
+2. Gellner, K.; Eiselt, R.; Hustert, E.; Arnold, H.; Koch, I.; Haberl,
+M.; Deglmann, C. J.; Burk, O.; Buntefuss, D.; Escher, S.; Bishop,
+C.; Koebe, H.-G.; Brinkmann, U.; Klenk, H.-P.; Kleine, K.; Meyer,
+U. A.; Wojnowski, L.: Genomic organization of the human CYP3A locus:
+identification of a new, inducible CYP3A gene. Pharmacogenetics 11:
+111-121, 2001.
+
+3. Givens, R. C.; Lin, Y. S.; Dowling, A. L. S.; Thummel, K. E.; Lamba,
+J. K.; Schuetz, E. G.; Stewart, P. W.; Watkins, P. B.: CYP3A5 genotype
+predicts renal CYP3A activity and blood pressure in healthy adults. J.
+Appl. Physiol. 95: 1297-1300, 2003.
+
+4. Hustert, E.; Haberl, M.; Burk, O.; Wolbold, R.; He, Y.-Q.; Klein,
+K.; Nuessler, A. C.; Neuhaus, P.; Klattig, J.; Eiselt, R.; Koch, I.;
+Zibat, A.; Brockmoller, J.; Halpert, J. R.; Zanger, U. M.; Wojnowski,
+L.: The genetic determinants of the CYP3A5 polymorphism. Pharmacogenetics 11:
+773-779, 2001.
+
+5. Jounaidi, Y.; Guzelian, P. S.; Maurel, P.; Vilarem, M.-J.: Sequence
+of the 5-prime-flanking region of CYP3A5: comparative analysis with
+CYP3A4 and CYP3A7. Biochem. Biophys. Res. Commun. 205: 1741-1747,
+1994.
+
+6. Kivisto, K. T.; Niemi, M.; Schaeffeler, E.; Pitkala, K.; Tilvis,
+R.; Fromm, M. F.; Schwab, M.; Eichelbaum, M.; Strandberg, T.: Lipid-lowering
+response to statins is affected by CYP3A5 polymorphism. Pharmacogenetics 14:
+523-525, 2004.
+
+7. Kuehl, P.; Zhang, J.; Lin, Y.; Lamba, J.; Assem, M.; Schuetz, J.;
+Watkins, P. B.; Daly, A.; Wrighton, S. A.; Hall, S. D.; Maurel, P.;
+Relling, M.; Brimer, C.; Yasuda, K.; Venkataramanan, R.; Strom, S.;
+Thummel, K.; Boguski, M. S.; Schuetz, E.: Sequence diversity in CYP3A
+promoters and characterization of the genetic basis of polymorphic
+CYP3A5 expression. Nature Genet. 27: 383-391, 2001.
+
+8. Lee, S.-J.; Usmani, K. A.; Chanas, B.; Ghanayem, B.; Xi, T.; Hodgson,
+E.; Mohrenweiser, H. W.; Goldstein, J. A.: Genetic findings and functional
+studies of human CYP3A5 single nucleotide polymorphisms in different
+ethnic groups. Pharmacogenetics 13: 461-472, 2003.
+
+9. Lin, Y. S.; Dowling, A. L. S.; Quigley, S. D.; Farin, F. M.; Zhang,
+J.; Lamba, J.; Schuetz, E. G.; Thummel, K. E.: Co-regulation of CYP3A4
+and CYP3A5 and contribution to hepatic and intestinal midazolam metabolism. Molec.
+Pharm. 62: 162-172, 2002.
+
+10. Paulussen, A.; Lavrijsen, K.; Bohets, H.; Hendrickx, J.; Verhasselt,
+P.; Luyten, W.; Konings, F.; Armstrong, M.: Two linked mutations
+in transcriptional regulatory elements of the CYP3A5 gene constitute
+the major genetic determinant of polymorphic activity in humans. Pharmacogenetics 10:
+415-424, 2000.
+
+11. Thompson, E. E.; Kuttab-Boulos, H.; Witonsky, D.; Yang, L.; Roe,
+B. A.; Di Rienzo, A.: CYP3A variation and the evolution of salt-sensitivity
+variants. Am. J. Hum. Genet. 75: 1059-1069, 2004.
+
+12. Yamakoshi, Y.; Kishimoto, T.; Sugimura, K.; Kawashima, H.: Human
+prostate CYP3A5: identification of a unique 5-prime-untranslated sequence
+and characterization of purified recombinant protein. Biochem. Biophys.
+Res. Commun. 260: 676-681, 1999.
+
+CONTRIBUTORS Victor A. McKusick - updated: 12/9/2004
+Carol A. Bocchini - updated: 11/16/2004
+Victor A. McKusick - updated: 11/12/2004
+Victor A. McKusick - updated: 5/18/2001
+Ada Hamosh - updated: 3/28/2001
+Victor A. McKusick - updated: 10/10/2000
+
+CREATED Paul J. Converse: 10/10/2000
+
+EDITED terry: 03/04/2009
+tkritzer: 12/16/2004
+terry: 12/9/2004
+tkritzer: 11/17/2004
+carol: 11/16/2004
+tkritzer: 11/15/2004
+terry: 11/12/2004
+tkritzer: 12/4/2003
+terry: 11/26/2003
+carol: 8/22/2003
+terry: 5/18/2001
+alopez: 3/29/2001
+terry: 3/28/2001
+carol: 10/16/2000
+carol: 10/10/2000
+
+185880	TITLE *185880 VESICLE-ASSOCIATED MEMBRANE PROTEIN 1; VAMP1
+;;SYNAPTOBREVIN 1; SYB1
+DESCRIPTION 
+DESCRIPTION
+
+Synaptobrevins 1 and 2 (185881) are small integral membrane proteins
+specific for synaptic vesicles in neurons.
+
+CLONING
+
+Archer et al. (1990) isolated and characterized cosmid clones containing
+the human genes encoding synaptobrevins 1 and 2. Their coding regions
+are highly homologous, being interrupted at identical positions by
+introns of different size and sequence.
+
+GENE STRUCTURE
+
+The genes encoding synaptobrevins 1 and 2 have 5 exons whose boundaries
+correspond to those of the protein domains (Archer et al., 1990). Exon 1
+contains part of the initiator methionine codon, whereas exon 2 encodes
+the variable and immunogenic amino-terminal domain. The third exon
+comprises the highly conserved central domain, exon 4 encodes most of
+the transmembrane region, and exon 5 contains the last residues of the
+transmembrane region and the small intravesicular carboxyl terminus.
+
+GENE FUNCTION
+
+Neuronal exocytosis is triggered by calcium and requires 3 SNARE
+proteins: synaptobrevin on the synaptic vesicle, and syntaxin (e.g.,
+186590) and SNAP25 (600322) on the plasma membrane. Neuronal SNARE
+proteins form a parallel 4-helix bundle that is thought to drive the
+fusion of opposing membranes. Hu et al. (2002) demonstrated that whereas
+syntaxin and SNAP25 in target membranes are freely available for SNARE
+complex formation, availability of synaptobrevin on synaptic vesicles is
+very limited. Calcium at micromolar concentrations triggers SNARE
+complex formation and fusion between synaptic vesicles and reconstituted
+target membranes. Although calcium does promote interaction of SNARE
+proteins between opposing membranes, it does not act by releasing
+synaptobrevin from synaptic vesicle restriction. Hu et al. (2002)
+concluded that their data suggests a mechanism in which
+calcium-triggered membrane apposition enables syntaxin and SNAP25 to
+engage synaptobrevin, leading to membrane fusion.
+
+Tucker et al. (2004) investigated the effect of synaptotagmin 1 (SYT1;
+185605) on membrane fusion mediated by neuronal SNARE proteins SNAP25,
+syntaxin, and synaptobrevin, which were reconstituted into vesicles. In
+the presence of calcium, the cytoplasmic domain of SYT1 strongly
+stimulated membrane fusion when synaptobrevin densities were similar to
+those found in native synaptic vesicles. The calcium dependence of
+SYT1-stimulated fusion was modulated by changes in lipid composition of
+the vesicles and by a truncation that mimics cleavage of SNAP25 by
+botulinum neurotoxin A. Stimulation of fusion was abolished by
+disrupting the calcium-binding activity, or by severing the tandem C2
+domains, of SYT1. Thus, SYT1 and SNAREs are likely to represent the
+minimal protein complement for calcium-triggered exocytosis.
+
+By use of the large calyx of Held presynaptic terminal from rats, Sakaba
+et al. (2005) demonstrated that cleavage of different SNARE proteins by
+clostridial neurotoxins caused distinct kinetic changes in
+neurotransmitter release. When elevating calcium ion concentration
+directly at the presynaptic terminal with the use of caged calcium,
+cleavage of SNAP25 by botulinum toxin A produced a strong reduction in
+the calcium sensitivity for release, whereas cleavage of syntaxin using
+botulinum toxin C1 and synaptobrevin using tetanus toxin produced an all
+or nothing block without changing the kinetics of remaining vesicles.
+When stimulating release by calcium influx through channels, a
+difference between botulinum toxin C1 and tetanus toxin emerged, which
+suggests that cleavage of synaptobrevin modifies the coupling between
+channels and release-competent vesicles.
+
+MAPPING
+
+By Southern analysis of rodent-human somatic cell hybrids, Archer et al.
+(1990) assigned the SYB1 gene to 12p; by analysis of DNA from Chinese
+hamster-mouse somatic cell hybrids, they mapped the Syb1 gene to mouse
+chromosome 6.
+
+ANIMAL MODEL
+
+The 'lethal-wasting' (lew) mouse is a spontaneous autosomal recessive
+mutant that manifests as a neurologic phenotype characterized by
+generalized lack of movement, wasting and prewean death by age 15 days.
+By positional cloning, Nystuen et al. (2007) determined that the lew
+phenotype results from a 190G-T transversion in the coding region of the
+Vamp1 gene, predicted to result in truncation of nearly half of the
+protein. Western blot analysis showed no detectable Vamp1 protein in
+mutant mice. The authors noted that the phenotype was milder than that
+of Vamp2 (185881)-null mice, which die at birth. By immunostudies of
+normal mice, Nystuen et al. (2007) showed that Vamp1 is expressed
+primarily in certain neuronal tissues, including the retina and areas of
+the diencephalon and midbrain such as the zona incerta (subthalamus) and
+rostral periolivary region. The findings suggested that Vamp1 has a
+vital role in a subset of central nervous system tissues.
+
+REFERENCE 1. Archer, B. T., III; Ozcelik, T.; Jahn, R.; Francke, U.; Sudhof,
+T. C.: Structures and chromosomal localizations of two human genes
+encoding synaptobrevins 1 and 2. J. Biol. Chem. 265: 17267-17273,
+1990.
+
+2. Hu, K.; Carroll, J.; Fedorovich, S.; Rickman, C.; Sukhodub, A.;
+Davietov, B.: Vesicular restriction of synaptobrevin suggests a role
+for calcium in membrane fusion. Nature 415: 646-650, 2002.
+
+3. Nystuen, A. M.; Schwendinger, J. K.; Sachs, A. J.; Yang, A. W.;
+Haider, N. B.: A null mutation in VAMP1/synaptobrevin is associated
+with neurological defects and prewean mortality in the lethal-wasting
+mouse mutant. Neurogenetics 8: 1-10, 2007.
+
+4. Sakaba, T.; Stein, A.; Jahn, R.; Neher, E.: Distinct kinetic changes
+in neurotransmitter release after SNARE protein cleavage. Science 309:
+491-494, 2005.
+
+5. Tucker, W. C.; Weber, T.; Chapman, E. R.: Reconstitution of Ca(2+)-regulated
+membrane fusion by synaptotagmin and SNAREs. Science 304: 435-438,
+2004.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/27/2007
+Ada Hamosh - updated: 8/15/2005
+Ada Hamosh - updated: 4/29/2004
+Ada Hamosh - updated: 2/4/2002
+
+CREATED Victor A. McKusick: 11/7/1990
+
+EDITED wwang: 03/02/2007
+ckniffin: 2/27/2007
+carol: 8/16/2005
+terry: 8/15/2005
+alopez: 5/4/2004
+terry: 4/29/2004
+alopez: 2/7/2002
+terry: 2/4/2002
+alopez: 11/15/2001
+psherman: 11/30/1998
+psherman: 10/22/1998
+supermim: 3/16/1992
+carol: 11/30/1990
+carol: 11/7/1990
+
+608071	TITLE *608071 F-BOX AND WD40 DOMAIN PROTEIN 4; FBXW4
+;;FBW4; FBWD4;;
+DACTYLIN;;
+DACTYLAPLASIA, MOUSE, HOMOLOG OF;;
+DAC, MOUSE, HOMOLOG OF;;
+SHFM3 GENE, FORMERLY; SHFM3, FORMERLY
+DESCRIPTION 
+CLONING
+
+Sidow et al. (1999) reported the positional cloning of the gene
+disrupted in the mouse mutant dactylaplasia (Dac). The Dac gene belongs
+to the F-box/WD40 gene family, which encodes adaptors that target
+specific proteins for destruction by presenting them to the
+ubiquitination machinery. In connection with biochemical studies, this
+report demonstrated the importance of this gene family in vertebrate
+embryonic development. Sidow et al. (1999) designated the Dac protein
+product dactylin. Two different alleles of Dac were found to be due to
+insertions, a common mechanism of mutation in the mouse (see ANIMAL
+MODEL).
+
+By positional cloning in the critical region for the split-hand/foot
+malformation-3 locus (SHFM3; 246560) on chromosome 10q24, EST database
+searching, and RT-PCR, Ianakiev et al. (1999) generated a cDNA encoding
+human dactylin. Sequence analysis predicted that the 412-amino acid
+putative cytoplasmic protein contains an N-terminal F box and 4
+C-terminal WD40 domains. Northern blot analysis revealed ubiquitous
+expression of a 2.8-kb transcript that is strongest in fetal brain,
+followed by kidney, lung, and liver. In situ hybridization of a
+5.5-week-old mouse embryo confirmed the expression of dactylin in the
+central nervous system and liver as well as at low levels in the
+mesoderm and ectoderm of the developing limb. The data suggested to
+Ianakiev et al. (1999) that dactylin is likely to be involved in
+signaling pathways crucial for normal limb development and that it is a
+candidate gene for SHFM3.
+
+Ilyin et al. (2000) independently cloned human dactylin, which they
+termed FBWD4.
+
+By sequence and computational analyses, Salzman et al. (2012) identified
+hundreds of transcripts that showed noncanonical ordering of exons in
+pediatric acute lymphoblastic leukemia samples and normal human
+leukocytes. The most abundant transcripts with scrambled exons
+originated from the FBXW4, CAMSAP1 (613774), and ZKSCAN1 (601260) genes.
+RT-PCR of human cells confirmed the findings. Transcripts with scrambled
+exons appeared to be circular, as they showed lack of polyadenylation
+and resistance to 5-prime exoribonuclease activity. Endogenous circular
+and linear FBXW4 and CAMSAP1 transcripts were detected in both the
+cytoplasm and nucleus of fractionated HeLa cells.
+
+GENE STRUCTURE
+
+Ianakiev et al. (1999) determined that the DAC gene contains 9 exons.
+
+MAPPING
+
+By genomic sequence analysis, Ianakiev et al. (1999) identified the
+human DAC gene in the critical region for the SHFM3 locus on chromosome
+10q24. Using FISH, Ianakiev et al. (1999) mapped the DAC gene to
+chromosome 10q24.3. They identified a pseudogene at the breakpoint
+cluster region on chromosome 22q11.2 that shares greater than 93%
+nucleotide identity with the DAC gene.
+
+Jin et al. (2004) reported that the mouse Fbxw4 gene maps to chromosome
+19C3.
+
+MOLECULAR GENETICS
+
+De Mollerat et al. (2003) conducted mutation analysis of the dactylin
+gene in 7 patients with split-hand/foot malformation (SHFM) and found no
+point mutations. However, Southern blot, pulsed field gel
+electrophoresis, and dosage analyses demonstrated a complex
+rearrangement associated with a 0.5-Mb tandem duplication in all the
+patients. The distal and proximal breakpoints were within 80- and 130-kb
+regions, respectively; the smallest duplicated region common to all
+patients was 444 kb and contained a disrupted extra copy of the dactylin
+gene from exon 9 to exon 6, as well as the entire LBX1 (604255), BTRC
+(603482), and POLL (606343) genes.
+
+Because structural alterations of the gene encoding dactylin lead to
+reduced levels of transcript in the mouse mutant Dac, which resembles
+human SHFM, Basel et al. (2003) studied several individuals with SHFM
+and reported a significant decrease of dactylin transcript. This
+observation supported a central role for dactylin in the pathogenesis of
+SHFM3.
+
+Kano et al. (2005) screened 28 Japanese families with nonsyndromic SHFM
+for tandem genomic duplication of chromosome 10q24 by Southern blot and
+sequence analysis of the dactylin gene. No mutations were found in
+coding regions and flanking intronic sequences of the dactylin gene, but
+2 families had genomic rearrangements. One was a 511.6-kb tandem
+duplication, and the other was a 447.3-kb duplication containing the
+LBX1, BTRC, POLL, and DPCD genes and a disrupted extra copy of the
+dactylin gene. Kano et al. (2005) noted that the smaller duplicated
+region was almost identical to that described by de Mollerat et al.
+(2003).
+
+ANIMAL MODEL
+
+Dactylaplasia, a mouse model of SHFM3, is an inherited limb malformation
+that depends on 2 loci. The first locus, Dac, is an insertional mutation
+around the dactylin gene that is inherited as a semidominant trait. Two
+independent, spontaneous Dac alleles, Dac(1J) and Dac(2J), have been
+identified. The second locus, Mdac, is a modifier on chromosome 13 that
+is polymorphic in inbred strains. The dominant Mdac allele suppresses
+the dactylaplasia phenotype in Dac mice, whereas the recessive Mdac
+allele does not. Thus, dactylaplasia is observed only in mice homozygous
+for the recessive Mdac allele. Kano et al. (2007) showed that the Dac
+insertion is an LTR retrotransposon caused by the type D mouse
+endogenous provirus element (MusD), which contains intact ORFs for the
+viral gag, pro, and pol genes. In Dac(2J), MusD is inserted in intron 5
+of the dactylin gene and no dactylin transcripts are expressed. In
+Dac(1J), MusD is inserted in the upstream region of dactylin and neither
+the size nor the amount of dactylin transcripts are affected. Kano et
+al. (2007) refined the Mdac locus to a 9.4-Mb region on chromosome 13.
+Dac mutants homozygous for the recessive Mdac allele had unmethylated
+CpGs and active chromatin at the LTR of the MusD insertion, as well
+ectopic expression of MusD elements. In contrast, Dac mutants carrying
+the dominant Mdac allele had heavily methylated CpGs and inactive
+chromatin at the LTR of the insertion, correlating with inhibition of
+the dactylaplasia phenotype. Ectopic expression of MusD was not observed
+in mice carrying the dominant Mdac allele. Kano et al. (2007) concluded
+that ectopic expression of the MusD insertion, rather than lack of
+dactylin expression, correlates with the dactylaplasia phenotype. They
+proposed the Mdac acts a defensive factor to protect the host genome
+from pathogenic MusD insertions.
+
+REFERENCE 1. Basel, D.; DePaepe, A.; Kilpatrick, M. W.; Tsipouras, P.: Split
+hand foot malformation is associated with a reduced level of dactylin
+gene expression. Clin. Genet. 64: 350-354, 2003.
+
+2. de Mollerat, X. J.; Gurrieri, F.; Morgan, C. T.; Sangiorgi, E.;
+Everman, D. B.; Gaspari, P.; Amiel, J.; Bamshad, M. J.; Lyle, R.;
+Blouin, J.-L.; Allanson, J. E.; Le Marec, B.; and 11 others: A
+genomic rearrangement resulting in a tandem duplication is associated
+with split hand-split foot malformation 3 (SHFM3) at 10q24. Hum.
+Molec. Genet. 12: 1959-1971, 2003.
+
+3. Ianakiev, P.; Kilpatrick, M. W.; Dealy, C.; Kosher, R.; Korenberg,
+J. R.; Chen, X.-N.; Tsipouras, P.: A novel human gene encoding an
+F-box/WD40 containing protein maps in the SHFM3 critical region on
+10q24. Biochem. Biophys. Res. Commun. 261: 64-70, 1999.
+
+4. Ilyin, G. P.; Rialland, M.; Pigeon, C.; Guguen-Guillouzo, C.:
+cDNA cloning and expression analysis of new members of the mammalian
+F-box protein family. Genomics 67: 40-47, 2000.
+
+5. Jin, J.; Cardozo, T.; Lovering, R. C.; Elledge, S. J.; Pagano,
+M.; Harper, J. W.: Systematic analysis and nomenclature of mammalian
+F-box proteins. Genes Dev. 18: 2573-2580, 2004.
+
+6. Kano, H.; Kurahashi, H.; Toda, T.: Genetically regulated epigenetic
+transcriptional activation of retrotransposon insertion confers mouse
+dactylaplasia phenotype. Proc. Nat. Acad. Sci. 104: 19034-19039,
+2007.
+
+7. Kano, H.; Kurosawa, K.; Horii, E.; Ikegawa, S.; Yoshikawa, H.;
+Kurahashi, H.; Toda, T.: Genomic rearrangement at 10q24 in non-syndromic
+split-hand/split-foot malformation. Hum. Genet. 118: 477-483, 2005.
+
+8. Salzman, J.; Gawad, C.; Wang, P. L.; Lacayo, N.; Brown, P. O.:
+Circular RNAs are the predominant transcript isoform from hundreds
+of human genes in diverse cell types. PLoS One 7: e30733, 2012.
+Note: Electronic Article.
+
+9. Sidow, A.; Bulotsky, M. S.; Kerrebrock, A. W.; Birren, B. W.; Altshuler,
+D; Jaenisch, R.; Johnson, K. R.; Lander, E. S.: A novel member of
+the F-box/WD40 gene family, encoding dactylin, is disrupted in the
+mouse dactylaplasia mutant. Nature Genet. 23: 104-107, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 05/16/2013
+Patricia A. Hartz - updated: 6/5/2008
+Patricia A. Hartz - updated: 6/3/2008
+Marla J. F. O'Neill - updated: 4/13/2007
+Marla J. F. O'Neill - updated: 2/23/2006
+Patricia A. Hartz - updated: 12/10/2004
+Victor A. McKusick - updated: 11/4/2003
+George E. Tiller - updated: 9/25/2003
+
+CREATED Cassandra L. Kniffin: 9/2/2003
+
+EDITED mgross: 05/16/2013
+wwang: 8/30/2010
+carol: 10/15/2008
+mgross: 6/5/2008
+terry: 6/3/2008
+wwang: 4/20/2007
+terry: 4/13/2007
+carol: 4/4/2007
+wwang: 2/23/2006
+mgross: 12/10/2004
+tkritzer: 11/6/2003
+terry: 11/4/2003
+cwells: 9/25/2003
+carol: 9/11/2003
+ckniffin: 9/2/2003
+
+601540	TITLE *601540 BROMODOMAIN-CONTAINING PROTEIN 2; BRD2
+;;FEMALE STERILE HOMEOTIC-RELATED GENE 1, MOUSE, HOMOLOG OF; FSRG1;;
+RING3
+DESCRIPTION 
+DESCRIPTION
+
+BRD2 is a putative nuclear transcriptional regulator and a member of a
+family of genes that are expressed during development.
+
+CLONING
+
+In a search for novel genes in the human major histocompatibility
+complex (MHC) class II region on chromosome 6p21.3, Okamoto et al.
+(1991) and Beck et al. (1992) identified a gene that they termed RING3.
+('RING' is an acronym for 'really interesting new gene.') Based on
+mapping and genomic sequencing, RING3 was located in the middle of the
+class II region between the genes HLA-DNA (142930) and HLA-DMA (142855).
+In contrast to all the other genes encoded in the class II region, RING3
+appeared to have no obvious function associated with the immune system
+based on sequence comparisons. The striking sequence similarity to the
+female sterile homeotic (fsh) gene in Drosophila, however, suggested a
+conserved biologic function for RING3.
+
+Denis and Green (1996) discovered that the RING3 product is, in fact, a
+mitogen-activated nuclear kinase involved in signal transduction and
+that it is upregulated in certain types of leukemia.
+
+With the aim of learning more about the phylogeny of RING3, Thorpe et
+al. (1996) identified further homologs in different species and
+determined their gene structures. The functional analysis of RING3 had
+been further complicated by the finding of a second, non-MHC-linked copy
+of RING3 in humans by Nomura et al. (1994). This was referred to by them
+as ORFX (601541).
+
+GENE FUNCTION
+
+Dawson et al. (2011) demonstrated that I-BET151, a novel small molecule
+inhibitor of the BET family, of which BRD2 is a member, has profound
+efficacy against human and murine MLL-fusion leukemia cell lines through
+the induction of early cell cycle arrest and apoptosis. I-BET151
+treatment in 2 human leukemia cell lines with different MLL fusions
+altered the expression of a common set of genes whose function may
+account for these phenotypic changes. The mode of action of I-BET151 is,
+at least in part, due to the inhibition of transcription at key genes
+BCL2 (151430), C-MYC (190080), and CDK6 (603368) through the
+displacement of BRD3/4, PAFc, and SEC components from chromatin. In vivo
+studies indicated that I-BET151 has significant therapeutic value,
+providing survival benefit in 2 distinct mouse models of murine MLL-AF9
+and human MLL-AF4 leukemia.
+
+MOLECULAR GENETICS
+
+For a discussion of a possible association between variation in the BRD2
+gene and juvenile myoclonic epilepsy, see EJM3 (608816).
+
+REFERENCE 1. Beck, S.; Hanson, I.; Kelly, A.; Pappin, D. J.; Trowsdale, J.:
+A homologue of the Drosophila female sterile homeotic (fsh) gene in
+the class II region of the human MHC. DNA Sequence 2: 203-210, 1992.
+
+2. Dawson, M. A.; Prinjha, R. K.; Dittmann, A.; Giotopoulos, G.; Bantscheff,
+M.; Chan, W.-I.; Robson, S. C.; Chung, C.; Hopf, C.; Savitski, M.
+M.; Huthmacher, C.; Gudgin, E.; and 15 others: Inhibition of BET
+recruitment to chromatin as an effective treatment for MLL-fusion
+leukaemia. Nature 478: 529-533, 2011.
+
+3. Denis, G. V.; Green, M. R.: A novel, mitogen-activated nuclear
+kinase is related to a Drosophila developmental regulator. Genes
+Dev. 10: 261-271, 1996.
+
+4. Nomura, N.; Nagase, T.; Miyajima, N.; Sazuka, T.; Tanaka, A.; Sato,
+S.; Seki, N.; Kawarabayasi, Y.; Ishikawa, K.; Tabata, S.: Prediction
+of the coding sequences of unidentified human genes. II. The coding
+sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 1: 223-229, 1994.
+
+5. Okamoto, N.; Ando, A.; Kawai, J.; Yoshiwara, T.; Tsuji, K.; Inoko,
+H.: Orientation of HLA-DNA gene and identification of a CpG island-associated
+gene adjacent to DNA in human major histocompatibility complex class
+II region. Hum. Immun. 32: 221-228, 1991.
+
+6. Thorpe, K. L.; Abdulla, S.; Kaufman, J.; Trowsdale, J.; Beck, S.
+: Phylogeny and structure of the RING3 gene. Immunogenetics 44:
+391-396, 1996.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/4/2012
+Victor A. McKusick - updated: 8/8/2003
+
+CREATED Victor A. McKusick: 11/27/1996
+
+EDITED alopez: 01/06/2012
+terry: 1/4/2012
+ckniffin: 10/2/2009
+tkritzer: 8/14/2003
+tkritzer: 8/13/2003
+terry: 8/8/2003
+mgross: 7/24/2000
+psherman: 12/30/1999
+alopez: 6/21/1999
+carol: 6/2/1998
+terry: 4/23/1998
+alopez: 6/27/1997
+jenny: 12/5/1996
+mark: 11/27/1996
+
+610497	TITLE *610497 BRAIN AND REPRODUCTIVE ORGAN-EXPRESSED PROTEIN; BRE
+;;BRCC4;;
+BRCC45
+DESCRIPTION 
+CLONING
+
+Li et al. (1995) cloned BRE from a placenta cDNA library. The deduced
+protein contains 383 amino acids. Northern blot analysis of normal human
+fibroblasts detected a single BRE mRNA at 1.7 to 1.9 kb. Northern blot
+analysis of several rat tissues detected highest expression in testis
+and intermediate expression in brain and ovary. Using the juxtamembrane
+domain of the p55 TNF receptor (TNFRSF1A; 191190) as bait in a yeast
+2-hybrid screen, Gu et al. (1998) cloned Bre from a mouse cerebellum
+cDNA library.
+
+GENE FUNCTION
+
+Li et al. (1995) found that the expression of BRE decreased following
+DNA damage in normal human fibroblasts caused by UV irradiation or
+4-nitroquinoline-1-oxide (4NQO) exposure. Similar decreased BRE
+expression was observed in retinoic acid-treated human brain glioma
+cells and promyelocytic cells. BRE expression was unchanged in cells
+following growth inhibition.
+
+Using protein-binding assays and immunoprecipitation analysis in HEK293
+cells, Gu et al. (1998) confirmed the interaction between mouse Bre and
+Tnfrsf1a. Bre specifically interacted with Tnfrsf1a but not with other
+TNF family members. Overexpression of Bre inhibited TNF-induced
+NF-kappa-B activation.
+
+Dong et al. (2003) demonstrated that in human cell lines BRE and BRCC3
+(300617) are components of a holoenzyme complex containing BRCA1
+(113705), BRCA2 (600185), BARD1 (601593), and RAD51 (179617), which they
+called the BRCA1- and BRCA2-containing complex (BRCC). The complex
+showed UBC5 (see UBE2D1; 602961)-dependent ubiquitin E3 ligase activity.
+Inclusion of BRE and BRCC3 enhanced ubiquitination by the complex, and
+cancer-associated truncations in BRCA1 reduced the association of BRE
+and BRCC3 with the complex. RNA interference of BRE and BRCC3 in HeLa
+cells increased cell sensitivity to ionizing radiation and resulted in a
+defect in G2/M checkpoint arrest. Dong et al. (2003) concluded that the
+BRCC is a ubiquitin E3 ligase that enhances cellular survival following
+DNA damage.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the BRE
+gene to chromosome 2 (TMAP RH66226).
+
+REFERENCE 1. Dong, Y.; Hakimi, M.-A.; Chen, X.; Kumaraswamy, E.; Cooch, N. S.;
+Godwin, A. K.; Shiekhattar, R.: Regulation of BRCC, a holoenzyme
+complex containing BRCA1 and BRCA2, by a signalosome-like subunit
+and its role in DNA repair. Molec. Cell 12: 1087-1099, 2003.
+
+2. Gu, C.; Castellino, A.; Chan, J. Y.-H.; Chao, M. V.: BRE: a modulator
+of TNF-alpha action. FASEB J. 12: 1101-1108, 1998.
+
+3. Li, L.; Yoo, H.; Becker, F. F.; Ali-Osman, F.; Chan, J. Y. H.:
+Identification of a brain- and reproductive-organs-specific gene responsive
+to DNA damage and retinoic acid. Biochem. Biophys. Res. Commun. 206:
+764-774, 1995.
+
+CREATED Patricia A. Hartz: 10/16/2006
+
+EDITED wwang: 10/16/2006
+
+430000	TITLE *430000 INTERLEUKIN 3 RECEPTOR, Y-CHROMOSOMAL; IL3RA
+;;IL3RY;;
+IL3RAY
+DESCRIPTION 
+DESCRIPTION
+
+The receptor for interleukin-3 (IL3; 147740) is a heterodimer that
+shares a beta chain (CSF2RB; 138981) in common with the receptors for
+IL5 (IL5R; 147851) and GMCSF (CSF2R; 306250), and, like these other
+cytokine receptors, has a ligand-specific alpha chain (IL3RA).
+
+MAPPING
+
+By fluorescence in situ hybridization, Kremer et al. (1993) demonstrated
+that the IL3RY gene is located in the pseudoautosomal region of the X
+and Y chromosomes. See 308385.
+
+REFERENCE 1. Kremer, E.; Baker, E.; D'Andrea, R. J.; Slim, R.; Phillips, H.;
+Moretti, P. A. B.; Lopez, A. F.; Petit, C.; Vadas, M. A.; Sutherland,
+G. R.; Goodall, G. J.: A cytokine receptor gene cluster in the X-Y
+pseudoautosomal region? Blood 82: 22-28, 1993.
+
+CREATED Victor A. McKusick: 10/1/1993
+
+EDITED terry: 08/26/2008
+mgross: 9/6/2006
+dkim: 7/2/1998
+mark: 7/26/1995
+mimadm: 3/11/1994
+carol: 10/1/1993
+
+609667	TITLE *609667 T-CELL ACTIVATION GTPase-ACTIVATING PROTEIN; TAGAP
+DESCRIPTION 
+CLONING
+
+By microarray analysis to identify genes coregulated with interleukin-2
+(IL2; 147680) in a combination of experiments involving T-cell
+activation and other conditions, followed by RT-PCR, Mao et al. (2004)
+cloned TAGAP. The 731-amino acid protein contains a RHOGAP domain (see
+602732). Real-time PCR analysis indicated that TAGAP expression peaked
+approximately 4 to 6 hours after T-cell activation.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TAGAP
+gene to chromosome 6 (TMAP RH66776).
+
+MOLECULAR GENETICS
+
+For discussion of a possible association between variation in the TAGAP
+gene and celiac disease, see CELIAC12 (612010).
+
+For discussion of a possible association between variation in the TAGAP
+gene and type 1 diabetes, see IDDM21 (612521).
+
+REFERENCE 1. Mao, M.; Biery, M. C.; Kobayashi, S. V.; Ward, T.; Schimmack, G.;
+Burchard, J.; Schelter, J. M.; Dai, H.; He, Y. D.; Linsley, P. S.
+: T lymphocyte activation gene identification by coregulated expression
+on DNA microarrays. Genomics 83: 989-999, 2004.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 01/07/2009
+
+CREATED Paul J. Converse: 10/20/2005
+
+EDITED carol: 01/07/2009
+mgross: 10/20/2005
+
+300564	TITLE *300564 TSPY-LIKE 2; TSPYL2
+;;CELL DIVISION AUTOANTIGEN 1; CDA1;;
+DIFFERENTIALLY EXPRESSED NUCLEOLAR TGFB1 TARGET; DENTT;;
+CASK-INTERACTING NUCLEOSOME ASSEMBLY PROTEIN; CINAP
+DESCRIPTION 
+CLONING
+
+By screening a testis cDNA expression library with autoimmune serum from
+a patient with discoid lupus erythematosus, followed by 5-prime RACE of
+HeLa cell mRNA, Chai et al. (2001) cloned TSPYL2, which they called
+CDA1. The deduced 693-amino acid protein has a calculated molecular mass
+of 79.4 kD. CDA1 has a proline-rich N-terminal domain, a central basic
+domain, and a C-terminal bipartite acidic domain. It has 4 putative
+nuclear localization signals and several phosphorylation sites. Regions
+within the CDA1 basic and acidic domains share significant similarity
+with SET (600960), and the same region within the CDA1 basic domain
+shares similarity with TSPY (480100). Northern blot analysis detected a
+2.8-kb CDA1 transcript in HeLa cells and testis. Immunohistochemical
+analysis detected endogenous CDA1 in the nuclear fraction of HeLa cells,
+and transfected CDA1 localized to nuclei and nucleoli of HeLa cells.
+CDA1 migrated at an apparent molecular mass of 120 kD by SDS-PAGE.
+
+By differential display of genes upregulated by TGFB1 (190180) in a
+nonsmall cell lung cancer (NSCLC) cell line, followed by screening a
+brain cDNA library, 5-prime RACE, and genome walking, Ozbun et al.
+(2001) cloned TSPYL2, which they designated DENTT. The deduced 633-amino
+acid protein has a calculated molecular mass of 72.8 kD. Northern blot
+analysis detected a 2.7-kb DENTT transcript. Expression was high in
+brain and testis, moderate in lung, mammary gland, adrenal gland, ovary,
+and prostate, low in trachea, fetal brain, and fetal liver, and very low
+in liver and pancreas. Expression was also detected in normal bronchial
+epithelial cells and in several lung carcinomas.
+
+GENE FUNCTION
+
+Chai et al. (2001) demonstrated that CDA1 was phosphorylated by CDK4
+(123829), CDK2 (116953), and CDK1 (CDC2; 116940) in vitro, and mutation
+analysis showed that CDA1 was phosphorylated on ser20 and thr340 by CDK2
+in HeLa cells. CDA1 levels were low in serum-starved HeLa cells and
+increased dramatically with serum stimulation. Expression of full-length
+CDA1, but not its N terminus, arrested HeLa cell growth, colony number,
+cell density, and bromodeoxyuridine uptake in a dose-dependent manner.
+The ability of CDA1 to arrest cell growth was abolished by mutation of
+the 2 CDK consensus phosphorylation sites. Chai et al. (2001) concluded
+that CDA1 is a negative regulator of cell growth whose activity is
+regulated by its expression level and phosphorylation.
+
+Wang et al. (2004) found that murine Tspyl2, which they called Cinap,
+possessed nucleosome assembly activity and formed a complex with Cask
+(300172) and Tbr1 (604616). Through its interaction with Cask, Cinap
+regulated genes under the control of Tbr1, such as NMDA receptor
+subunit-2B (NR2B; 138252) and reelin (RELN; 600514), perhaps via change
+of chromatin structure. Glutamate stimulation and a proteolytic pathway
+in rat hippocampal neurons regulated Cinap protein levels. Wang et al.
+(2004) concluded that CINAP, CASK, and TBR1 form a transcriptional
+complex and contribute to gene regulation in response to neuronal
+synaptic activity.
+
+Ozbun et al. (2001) determined that TGFB1 induced DENTT expression about
+3-fold only in NSCLCs in which TGFB1 expression was also induced. DENTT
+induction correlated with induction of extracellular matrix genes and
+inhibition of colony formation in soft agar.
+
+Ozbun et al. (2005) found that TGFB1 and retinoic acid individually
+upregulated DENTT expression in a monkey normal lung bronchial cell line
+and a human lung cancer cell line. TGFB1 together with retinoic acid
+further increased DENTT expression.
+
+Eyler et al. (2011) found that highly tumorigenic human glioma stem
+cells (GSCs), but not normal neural progenitor cells, produced elevated
+NO via upregulated NOS2 (NOS2A; 163730) expression. Microarray analysis
+of NOS2-knockdown GSCs revealed upregulation of several genes, including
+CDA1. Transfection of NOS2 in HEK293 cells inhibited CDA1 mRNA and
+protein expression, and RT-PCR of several glioma xenografts confirmed an
+inverse relationship between NOS2 and CDA1 expression.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TSPYL2
+gene to chromosome X (TMAP DXS1008E).
+
+MOLECULAR GENETICS
+
+Le Gallo et al. (2012) used whole-exome sequencing to comprehensively
+search for somatic mutations in 13 primary serous endometrial tumors
+(see 608089), and subsequently resequenced 18 genes that were mutated in
+more than 1 tumor and/or were components of an enriched functional
+grouping from 40 additional serous tumors. Le Gallo et al. (2012)
+identified a high frequency of somatic mutation (6%) in the TSPYL2 gene.
+
+REFERENCE 1. Chai, Z.; Sarcevic, B.; Mawson, A.; Toh, B.-H.: SET-related cell
+division autoantigen-1 (CDA1) arrests cell growth. J. Biol. Chem. 276:
+33665-33674, 2001.
+
+2. Eyler, C. E.; Wu, Q.; Yan, K.; MacSwords, J. M.; Chandler-Militello,
+D.; Misuraca, K. L.; Lathia, J. D.; Forrester, M. T.; Lee, J.; Stamler,
+J. S.; Goldman, S. A.; Bredel, M.; McLendon, R. E.; Sloan, A. E.;
+Hjelmeland, A. B.; Rich, J. N.: Glioma stem cell proliferation and
+tumor growth are promoted by nitric oxide synthase-2. Cell 146:
+53-66, 2011.
+
+3. Le Gallo, M.; O'Hara, A. J.; Rudd, M. L.; Urick, M. E.; Hansen,
+N. F.; O'Neil, N. J.; Price, J. C.; Zhang, S.; England, B. M.; Godwin,
+A. K.; Sgroi, D. C.; NIH Intramural Sequencing Center (NISC) Comparative
+Sequencing Program; Hieter, P.; Mullikan, J. C.; Merino, M. J.; Bell,
+D. W.: Exome sequencing of serous endometrial tumors identifies recurrent
+somatic mutations in chromatin-remodeling and ubiquitin ligase complex
+genes. Nature Genet. 44: 1310-1315, 2012.
+
+4. Ozbun, L. L.; Martinez, A.; Jakowlew, S. B.: Differentially expressed
+nucleolar TGF-beta-1 target (DENTT) shows tissue-specific nuclear
+and cytoplasmic localization and increases TGF-beta-1-responsive transcription
+in primates. Biochim. Biophys. Acta 1728: 163-180, 2005.
+
+5. Ozbun, L. L.; You, L.; Kiang, S.; Angdisen, J.; Martinez, A.; Jakowlew,
+S. B.: Identification of differentially expressed nucleolar TGF-beta-1
+target (DENTT) in human lung cancer cells that is a new member of
+the TSPY/SET/NAP-1 superfamily. Genomics 73: 179-193, 2001.
+
+6. Wang, G.-S.; Hong, C.-J.; Yen, T.-Y.; Huang, H.-Y.; Ou, Y.; Huang,
+T.-N.; Jung, W.-G.; Kuo, T.-Y.; Sheng, M.; Wang, T.-F.; Hsueh, Y.-P.
+: Transcriptional modification by a CASK-interacting nucleosome assembly
+protein. Neuron 42: 113-128, 2004. Note: Erratum: Neuron 43: 437
+only, 2004.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/7/2013
+Patricia A. Hartz - updated: 3/9/2012
+
+CREATED Patricia A. Hartz: 11/11/2005
+
+EDITED alopez: 02/07/2013
+alopez: 2/7/2013
+mgross: 3/12/2012
+terry: 3/9/2012
+mgross: 11/11/2005
+
+603571	TITLE *603571 VANIN 2; VNN2
+DESCRIPTION 
+CLONING
+
+Mouse vanin-1 (see VNN1; 603570) is a glycosylphosphatidylinositol
+(GPI)-anchored cell surface molecule that is involved in the thymus
+homing of bone marrow cells. By screening cDNA libraries with a mouse
+vanin-1 cDNA, Galland et al. (1998) identified a partial human cDNA
+encoding vanin-2 (VNN2), a vanin-like protein. Using RACE PCR to isolate
+additional cDNAs, they determined the entire VNN2 coding sequence. The
+deduced VNN2 protein shares 64% sequence identity with mouse vanin-1 and
+VNN1, the human homolog of mouse vanin-1. Like VNN1, VNN2 contains a
+C-terminal GPI cleavage motif; however, it lacks a leader peptide. VNN2
+translated in vitro migrated as a 53-kD protein. Northern blot analysis
+revealed that the 2.3-kb VNN2 mRNA is expressed in spleen, thymus,
+peripheral blood lymphocytes, and kidney.
+
+MAPPING
+
+By fluorescence in situ hybridization and analysis of somatic cell
+hybrids, Galland et al. (1998) mapped the VNN2 gene to 6q23-q24. They
+identified a YAC clone from 6q23-q24 that contained both the VNN1 and
+VNN2 genes.
+
+REFERENCE 1. Galland, F.; Malergue, F.; Bazin, H.; Mattei, M. G.; Aurrand-Lions,
+M.; Theillet, C.; Naquet, P.: Two human genes related to murine vanin-1
+are located on the long arm of human chromosome 6. Genomics 53:
+203-213, 1998.
+
+CREATED Rebekah S. Rasooly: 2/22/1999
+
+EDITED mgross: 10/06/2006
+terry: 10/4/2006
+psherman: 2/22/1999
+
+164175	TITLE *164175 POU DOMAIN, CLASS 2, TRANSCRIPTION FACTOR 1; POU2F1
+;;OTF, LYMPHOID-SPECIFIC, 1; OTF1;;
+OCTAMER-BINDING TRANSCRIPTION FACTOR 1; OCT1
+DESCRIPTION 
+DESCRIPTION
+
+The OCT1 transcription factor was among the first identified members of
+the POU transcription factor family. Members of this family contain the
+POU domain, a 160-amino acid region necessary for DNA binding to the
+octameric sequence ATGCAAAT (summary by Sturm et al., 1993).
+
+CLONING
+
+Sturm et al. (1993) obtained an OTF1 cDNA clone whose open reading frame
+encoded 766 amino acids.
+
+GENE STRUCTURE
+
+Sturm et al. (1993) demonstrated that the OTF1 gene contains 16 exons
+spanning over 150 kb.
+
+GENE FUNCTION
+
+POU domain proteins contain a bipartite DNA-binding domain divided by a
+flexible linker that enables them to adopt various monomer
+configurations on DNA. The versatility of POU protein operation is
+additionally conferred at the dimerization level. Tomilin et al. (2000)
+found that the POU dimer from the OCT1 gene formed on the palindromic
+OCT factor recognition element, or PORE (ATTTGAAATGCAAAT), could recruit
+the transcriptional coactivator OBF1 (601206), whereas POU dimers formed
+on the consensus MORE (more PORE) (ATGCATATGCAT) or on MOREs from
+immunoglobulin heavy chain promoters (AT[G/A][C/A]ATATGCAA) failed to
+interact. An interaction with OBF1 was precluded since the same OCT1
+residues that form the MORE dimerization interface are also used for
+OBF1/OCT1 interactions on the PORE. These findings provided a paradigm
+of how specific POU dimer assemblies can differentially recruit a
+coregulatory activity with distinct transcriptional readouts.
+
+MAPPING
+
+Hsieh et al. (1989, 1990) used a panel of somatic cell hybrids,
+including a set of hybrids containing partially overlapping regions of
+chromosome 1, to assign the OCT1 gene to human chromosome 1cen-q32. In
+the course of constructing a physical map of human 1q23-q25, Oakey et
+al. (1992) demonstrated that OTF1 is in the midportion of this segment,
+not far from CD3Z (186780).
+
+By studies of an interspecific backcross and recombinant inbred strains,
+Siracusa et al. (1991) mapped Otf-1 to mouse chromosome 1.
+
+By fluorescence in situ hybridization, Sturm et al. (1995) concluded
+that the OTF1 gene is located on 1q22-q23. The physical linkage of the
+CD3Z gene to OTF1 means that the CD3Z gene is also located on 1q22-q23.
+
+REFERENCE 1. Hsieh, C.-L.; Sturm, R.; Herr, W.; Francke, U.: The gene for the
+ubiquitous octamer-binding protein Oct-1 is on human chromosome 1,
+region cen-q32, and near Ly-22 and Ltw-4 on mouse chromosome 1. Genomics 6:
+666-672, 1990.
+
+2. Hsieh, C. L.; Sturm, R.; Herr, W.; Francke, U.: The gene for the
+ubiquitous octamer-binding protein Oct-1 is on human chromosome 1,
+region cen-q32, and on mouse chromosome 1. (Abstract) Cytogenet.
+Cell Genet. 51: 1016 only, 1989.
+
+3. Oakey, R. J.; Watson, M. L.; Seldin, M. F.: Construction of a
+physical map on mouse and human chromosome 1: comparison of 13 Mb
+of mouse and 11 Mb of human DNA. Hum. Molec. Genet. 1: 613-620,
+1992.
+
+4. Siracusa, L. D.; Rosner, M. H.; Vigano, M. A.; Gilbert, D. J.;
+Staudt, L. M.; Copeland, N. G.; Jenkins, N. A.: Chromosomal location
+of the octamer transcription factors, Otf-1, Otf-2, and Otf-3, defines
+multiple Otf-3-related sequences dispersed in the mouse genome. Genomics 10:
+313-326, 1991.
+
+5. Sturm, R. A.; Cassady, J. L.; Das, G.; Romo, A.; Evans, G. A.:
+Chromosomal structure and expression of the human OTF1 locus encoding
+the Oct-1 protein. Genomics 16: 333-341, 1993.
+
+6. Sturm, R. A.; Eyre, H. J.; Baker, E.; Sutherland, G. R.: The human
+OTF1 locus which overlaps the CD3Z gene is located at 1q22-q23. Cytogenet.
+Cell Genet. 68: 231-232, 1995.
+
+7. Tomilin, A.; Remenyi, A.; Lins, K.; Bak, H.; Leidel, S.; Vriend,
+G.; Wilmanns, M.; Scholer, H. R.: Synergism with the coactivator
+OBF-1 (OCA-B, BOB-1) is mediated by a specific POU dimer configuration. Cell 103:
+853-864, 2000.
+
+CONTRIBUTORS Stylianos E. Antonarakis - updated: 12/18/2000
+
+CREATED Victor A. McKusick: 12/22/1992
+
+EDITED alopez: 03/07/2012
+alopez: 3/5/2012
+alopez: 7/14/2010
+mgross: 12/18/2000
+alopez: 9/5/1997
+mark: 4/25/1995
+carol: 5/25/1993
+carol: 2/9/1993
+carol: 12/22/1992
+
+614966	TITLE *614966 SECERNIN 2; SCRN2
+;;SES2
+DESCRIPTION 
+CLONING
+
+By database analysis to identify sequences similar to mouse Scrn1
+(614965), Way et al. (2002) identified 2 splice variants of human SCRN2.
+The deduced SCRN2 proteins contain 425 and 378 amino acids.
+
+MAPPING
+
+By genomic sequence analysis, Way et al. (2002) mapped the SCRN2 gene to
+chromosome 17q21.3.
+
+REFERENCE 1. Way, G.; Morrice, N.; Smythe, C.; O'Sullivan, A. J.: Purification
+and identification of secernin, a novel cytosolic protein that regulates
+exocytosis in mast cells. Molec. Biol. Cell 13: 3344-3354, 2002.
+
+CREATED Patricia A. Hartz: 12/3/2012
+
+EDITED mgross: 12/03/2012
+
+613890	TITLE *613890 3-@BETA-HYDROXYSTEROID DEHYDROGENASE 2; HSD3B2
+;;3-@BETA-HYDROXYSTEROID DEHYDROGENASE/DELTA-ISOMERASE, TYPE II;;
+3-@BETA-HSD, ADRENAL AND GONADAL TYPE
+DESCRIPTION 
+DESCRIPTION
+
+3-Beta-hydroxysteroid dehydrogenase catalyzes the oxidation and
+isomerization of delta-5-3-beta-hydroxysteroid precursors into
+delta-4-ketosteroids, thus leading to the formation of all classes of
+steroid hormones. The enzyme also catalyzes the interconversion of
+3-beta-hydroxy- and 3-keto-5-alpha-androstane steroids. HSD3B2 is
+expressed almost exclusively in adrenals and gonads, whereas HSD3B1
+(109715) is expressed predominantly in placenta and skin (summary by
+Rheaume et al., 1991).
+
+CLONING
+
+Rheaume et al. (1991) isolated and characterized a 3-beta-HSD type II
+(HSD3B2) cDNA from a human adrenal cDNA library. The deduced 371-amino
+acid protein shares 93.5% sequence homology with HSD3B1 (109715).
+
+Doi et al. (2010) found that human HSD3B1 and HSD3B2 have 93.6% sequence
+identity, including the 5-prime and 3-prime untranslated regions. HSD3B
+subtype-specific quantitative RT-PCR analysis of mouse adrenal gland
+tissues revealed that expression of mouse Hsd3b6, which is the
+functional counterpart of HSD3B1, was considerably enriched in zona
+glomerulosa cells of the adrenal gland, whereas expression of mouse
+Hsd3b1, which is the functional counterpart of HSD3B2, was predominantly
+expressed in zona fasciculata cells.
+
+Bain et al. (1993) pointed out that 4 isoforms of the enzyme, and
+presumably 4 genes, have been identified in the mouse. The possibility
+of additional genes in the human was suggested.
+
+GENE STRUCTURE
+
+Lachance et al. (1991) determined that the HSD3B2 gene contains 4 exons.
+
+GENE FUNCTION
+
+Using immunohistochemistry, Goto et al. (2006) analyzed sections of
+adrenal cortex from 121 human fetuses and demonstrated synthesis of
+cortisol much earlier than previously documented, associated with
+transient expression of the nuclear receptor NGFIB (NR4A1; 139139) and
+its regulatory target, HSD3B2. Cortisol synthesis was maximal at 8 to 9
+weeks postconception under the regulation of ACTH; negative feedback was
+apparent at the anterior pituitary corticotrophs. ACTH also stimulated
+the adrenal gland to secrete androstenedione and testosterone. Goto et
+al. (2006) concluded that this represents a distinctive mechanism for
+normal human development in which cortisol production, determined by
+transient NGFIB and HSD3B2 expression, provides feedback at the anterior
+pituitary to modulate androgen biosynthesis and safeguard normal female
+sexual differentiation.
+
+MAPPING
+
+By in situ hybridization, Berube et al. (1989, 1989) demonstrated that
+the gene for 3-beta-hydroxysteroid dehydrogenase/isomerase is located on
+the 1p13 band. By in situ hybridization, Morrison et al. (1991, 1991)
+refined the localization to 1p13.1.
+
+Rheaume et al. (1992) demonstrated cosegregation of the BglII RFLP A1
+allele of the type I 3-beta-HSD gene (HSD3B1) (Rheaume et al., 1991)
+with a point mutation in the type II gene (613890.0001); thus, the 2
+HSD3B genes are probably closely linked in the 1p13-p11 band.
+
+Bain et al. (1993) demonstrated that the genes encoding the gonadal and
+nongonadal forms of 3-beta-hydroxysteroid dehydrogenase are encoded by
+closely linked genes on mouse chromosome 3. They are located within a
+segment that is conserved on human chromosome 1.
+
+MOLECULAR GENETICS
+
+In 3 patients with classic 3-beta-HSD deficiency from 2 apparently
+unrelated pedigrees, Rheaume et al. (1992) described the nucleotide
+sequence of 2 highly homologous genes encoding 3-beta-HSD isoenzymes,
+types I (HSD3B1; 109715) and II (HSD3B2). No mutation was detected in
+the HSD3B1 gene, which is expressed mainly in the placenta and
+peripheral tissues. Both nonsense and frameshift mutations were found,
+however, in the HSD3B2 gene.
+
+Simard et al. (1996) provided a comprehensive review of the molecular
+biology and genetics of this gene family.
+
+HISTORY
+
+Cravioto et al. (1986) suggested the existence of at least 2 3-beta-HSD
+isoenzymes under separate genetic determination. Stalvey et al. (1987)
+found that thermostability of 3-beta-hydroxysteroid
+dehydrogenase-isomerase in testes and adrenal glands from several inbred
+lines of mice and feral mice was correlated in the 2 tissues. They
+suggested that the testicular and adrenal forms are encoded by the same
+structural gene, but that expression of enzyme activity is independently
+controlled in the 2 glands since there was no correlation of
+quantitative variation.
+
+ALLELIC VARIANT .0001
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, TRP171TER
+
+In classic cases of 3-beta-HSD deficiency (201810) in 2 related families
+from the same village in eastern Switzerland, Rheaume et al. (1992)
+identified a G-to-A transition in exon 4 of both alleles, converting
+codon 171 (TGG) encoding trp into a TAG-stop codon (W171X). Mutation was
+predicted to result in a truncated protein of 169 amino acids (excluding
+the first met) instead of the normal 371 amino acids of the type II
+3-beta-HSD protein. One of these families, extensively described by
+Zachmann et al. (1979), had severe salt-wasting. There was no
+virilization in the proposita. Her older brother died at the age of 4
+weeks with clinical signs of a salt-losing crisis. He was incompletely
+masculinized and was found to have marked enlargement of the adrenals at
+autopsy. At puberty the proposita showed lack of spontaneous breast
+development and absence of a rise in serum estradiol following
+administration of human menopausal gonadotropin, thus suggesting that
+the defect was also present in the ovaries.
+
+.0002
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, 1-BP INS
+
+In a 34-year-old American male with 3-beta-HSD deficiency (201810),
+Rheaume et al. (1992) found compound heterozygosity for the W171X
+mutation (613890.0001) and another frameshift mutation resulting from
+insertion of 1 bp, a C, between codons 186 and 187. They referred to the
+mutation as 186/insC/187. The parents were not consanguineous. One male
+sib with ambiguous genitalia and enlarged adrenal glands died of
+respiratory distress at 2 days of age. A female paternal first cousin
+with mildly ambiguous external genitalia died of diarrhea and vomiting
+at the age of 2 months. The autopsy showed hyperpigmented skin and
+markedly enlarged adrenal glands. Spermatogenesis was adequate in the
+index case since he had fathered 2 children; one died from congenital
+malformations and the other was found to be heterozygous for the
+186/insC/187 mutation. The patient had marked loss of salt as well as
+hypospadias and gynecomastia at puberty. Hypospadias had been noted at
+the age of 1 month when the patient was found in a critically dehydrated
+condition. During the first 13 years of life until replacement therapy
+was initiated, the patient was admitted to hospital on 12 occasions with
+adrenal insufficiency with electrolyte imbalance.
+
+.0003
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, VAL248ASN
+
+In a male pseudohermaphrodite with salt-wasting classic 3-beta-HSD
+deficiency congenital adrenal hyperplasia (201810), Chang et al. (1993)
+found in exon 4 of the HSD3B2 gene a missense mutation at codon 248, GTC
+(val) was converted to AAC (asn), followed by a frameshift mutation at
+codon 249 in which CGA (arg) was changed to TA, resulting in the stop
+codon TAG (613890.0004). The patient, a Mexican Hispanic, was thought to
+be homozygous for this unusual mutation, the genesis of which was not
+understood.
+
+.0004
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, ARG249TER
+
+See 613890.0003 and Chang et al. (1993).
+
+.0005
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, ALA10GLU
+
+Alos et al. (2000) described 2 French-Canadian patients from 2 unrelated
+families who presented with severe salt-wasting HSD3B deficiency
+(201810) in infancy. Although the diagnosis was considered clinically,
+plasma steroid profiles were confusing. Alos et al. (2000) directly
+sequenced DNA fragments generated by PCR amplification of the 4 exons,
+exon-intron boundaries, and the 5-prime-flanking regions of the HSD3B2
+gene. Sequencing of exon 2 revealed a C-to-A transversion in both
+alleles of both cases, resulting in an ala10-to-glu substitution (GCA to
+GAA). This ala is highly conserved in the vertebrate HSD3B gene family
+and is located in the putative NAD-binding domain of the enzyme. The
+mutant HSD3B2 enzyme exhibited no detectable activity in intact
+transfected Ad293 cells. Both homozygous patients shared the same
+haplotype, spanning approximately 3.3 cM surrounding the HSD3B2 gene,
+consistent with a founder effect for this missense mutation. The 46,XY
+patient presented with ambiguous genitalia at birth and underwent normal
+masculinization at puberty, but was azoospermic at 18.5 years of age.
+The 46,XX patient presented progressive breast development, menarche,
+and evidence of progesterone secretion.
+
+.0006
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, TER373CYS
+
+In a child with nonclassic presentation of 3-beta-HSD deficiency
+(201810) causing premature sexual hair growth and mild growth
+acceleration in childhood, Pang et al. (2002) found compound
+heterozygosity for an A-to-C transversion at nucleotide 7468 in exon 4
+of the HSD3B2 gene resulting in a non-stop mutation (ter373 to cys,
+X373C) on the maternal allele, and a glu142-to-lys mutation on the
+paternal allele (613890.0007). The X373C mutation resulted in an open
+reading frame and an HSD3B2 protein containing 467 amino acid residues,
+compared with the 372 amino acid residues of wildtype protein. Enzyme
+activity in intact cells was decreased to 27% of wildtype by the X373C
+mutant enzyme. LH (see 152780) response to an LHRH (152760) analog
+stimulation in the pubertal female with the X373C/E142K genotype was
+comparable to that of control females.
+
+.0007
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, GLU142LYS
+
+In a patient with mild 3-beta-HSD deficiency (201810), Pang et al.
+(2002) detected compound heterozygosity for an X373C mutation
+(613890.0006) on one allele, and a glu142-to-lys (E142K) mutation on the
+other, which resulted from a C-to-A transversion in exon 4 of the HSD3B2
+gene. The patient carried this mutation on the maternal allele.
+
+.0008
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, PRO222THR
+
+In a patient with salt-wasting 3-beta-HSD (201810) from Eastern European
+Jewish parents with no family history of consanguinity, Pang et al.
+(2002) found a homozygous single-nucleotide substitution at nucleotide
+7031 in exon 4 of the HSD3B2 gene, which resulted in a pro-to-thr amino
+acid substitution at codon 222 (P222T). In cells transfected with the
+mutant protein, no enzyme activity was detected.
+
+.0009
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, THR259MET
+
+In 2 French sibs with salt-wasting 3-beta-HSD deficiency (201810),
+Moisan et al. (1999) found a heterozygous C-to-T transition in exon 4 of
+the HSD3B2 gene that converted codon 259 from thr to met (T259M). A
+frameshift mutation was found on the other allele (613890.0010). The
+elder sib was a male with perineal hypospadias with palpable testes in a
+bifid scrotum. The younger sib, a female, had normal external genitalia
+at birth.
+
+Zhang et al. (2000) found this mutation in homozygosity in a male
+pseudohermaphrodite with labial scrotal folds, microphallus, chordee,
+and fourth degree hypospadias. The patient was the child of
+nonconsanguineous Taiwanese parents.
+
+.0010
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, 1-BP DEL, 867G
+
+Moisan et al. (1999) found a frameshift mutation in the HSD3B2 gene,
+867delG, in 2 French sibs with salt-wasting 3-beta-HSD deficiency
+(201810). The mutation was predicted to result in a truncated protein of
+299 amino acids, including the first methionine. This mutation was found
+in compound heterozygosity with a missense mutation (613890.0009).
+
+.0011
+3-@BETA-HYDROXYSTEROID DEHYDROGENASE, TYPE II, DEFICIENCY OF
+HSD3B2, PRO341LEU
+
+In a study of the functional consequences of C-terminal mutations in the
+3-beta-HSD protein, Welzel et al. (2008) described a 1022C-T transition
+resulting in a pro341-to-leu substitution (P341L) in a boy with
+classical 3-beta-HSD deficiency (201810), born to consanguineous
+Lebanese parents. At birth he presented with microphallus, broad
+urogenital sinus, and palpable gonads in the groin. Steroid analysis
+yielded a highly elevated basal level of 17-hydroxypregnenolone as well
+as impaired cortisol synthesis. The P341L mutation showed a residual
+DHEA conversion of 6% of wildtype activity. Additional analysis of
+P341L, including 3-dimensional protein modeling, revealed that the
+mutant's inactivity predominantly originated from a putative structural
+alteration of the 3-beta-HSD protein and was further aggravated by
+increased protein degradation.
+
+REFERENCE 1. Alos, N.; Moisan, A.-M.; Ward, L.; Desrochers, M.; Legault, L.;
+Leboeuf, G.; Van Vliet, G.; Simard, J.: A novel A10E homozygous mutation
+in the HSD3B2 gene causing severe salt-wasting 3-beta-hydroxysteroid
+dehydrogenase deficiency in 46,XX and 46,XY French-Canadians: evaluation
+of gonadal function after puberty. J. Clin. Endocr. Metab. 85: 1968-1974,
+2000.
+
+2. Bain, P. A.; Meisler, M. H.; Taylor, B. A.; Payne, A. H.: The
+genes encoding gonadal and nongonadal forms of 3-beta-hydroxysteroid
+dehydrogenase/delta-5-delta-4 isomerase are closely linked on mouse
+chromosome 3. Genomics 16: 219-223, 1993.
+
+3. Berube, D.; Luu The, V.; Lachance, Y.; Gagne, R.; Labrie, F.:
+The gene encoding human 3-beta hydroxysteroid dehydrogenase/isomerase
+mapped to the p13 band of chromosome 1. (Abstract) Cytogenet. Cell
+Genet. 51: 962 only, 1989.
+
+4. Berube, D.; Luu The, V.; Lachance, Y.; Gagne, R.; Labrie, F.:
+Assignment of the human 3 beta-hydroxysteroid dehydrogenase gene (HSDB3)
+to the p13 band of chromosome 1. Cytogenet. Cell Genet. 52: 199-200,
+1989.
+
+5. Chang, Y. T.; Kappy, M. S.; Iwamoto, K.; Wang, J.; Yang, X.; Pang,
+S.: Mutations in the type II 3-beta-hydroxysteroid dehydrogenase
+gene in a patient with classic salt-wasting 3-beta-hydroxysteroid
+dehydrogenase deficiency congenital adrenal hyperplasia. Pediat.
+Res. 34: 698-700, 1993.
+
+6. Cravioto, M. D.; Ulloa-Aguirre, A.; Bermudez, J. A.; Herrera, J.;
+Lisker, R.; Mendez, J. P.; Perez-Palacios, G.: A new inherited variant
+of the 3-beta-hydroxysteroid dehydrogenase-isomerase deficiency syndrome:
+evidence for the existence of two isoenzymes. J. Clin. Endocr. Metab. 63:
+360-367, 1986.
+
+7. Doi, M.; Takahashi, Y.; Komatsu, R.; Yamazaki, F.; Yamada, H.;
+Haraguchi, S.; Emoto, N.; Okuno, Y.; Tsujimoto, G.; Kanematsu, A.;
+Ogawa, O.; Todo, T.; Tsutsui, K.; van der Horst, G. T. J.; Okamura,
+H.: Salt-sensitive hypertension in circadian clock-deficient Cry-null
+mice involves dysregulated adrenal Hsd3b6. Nature Med. 16: 67-74,
+2010.
+
+8. Goto, M.; Hanley, K. P.; Marcos, J.; Wood, P. J.; Wright, S.; Postle,
+A. D.; Cameron, I. T.; Mason, J. I.; Wilson, D. I.; Hanley, N. A.
+: In humans, early cortisol biosynthesis provides a mechanism to safeguard
+female sexual development. J. Clin. Invest. 116: 953-960, 2006.
+
+9. Lachance, Y.; Luu-The, V.; Verreault, H.; Dumont, M.; Rheaume,
+E.; Leblanc, G.; Labrie, F.: Structure of the human type II 3 beta-hydroxysteroid
+dehydrogenase/delta 5-delta 4 isomerase (3 beta-HSD) gene: adrenal
+and gonadal specificity. DNA Cell Biol. 10: 701-711, 1991.
+
+10. Moisan, A. M.; Ricketts, M. L.; Tardy, V.; Desrochers, M.; Mebarki,
+F.; Chaussain, J.-L.; Cabrol, S.; Raux-Demay, M. C.; Forest, M. G.;
+Sippell, W. G.; Peter, M.; Morel, Y.; Simard, J.: New insight into
+the molecular basis of 3-beta-hydroxysteroid dehydrogenase deficiency:
+identification of eight mutations in the HSD3B2 gene in eleven patients
+from seven new families and comparison of the functional properties
+of twenty-five mutant enzymes. J. Clin. Endocr. Metab. 84: 4410-4425,
+1999.
+
+11. Morrison, N.; Nickson, D. A.; McBride, M.; Mueller, U. W.; Boyd,
+E.; Sutcliffe, R. G.: Regional chromosomal assignment of the human
+3 beta-hydroxysteroid dehydrogenase/delta 5-4 isomerase (HSDB3) to
+1p13.1. (Abstract) Cytogenet. Cell Genet. 58: 1860 only, 1991.
+
+12. Morrison, N.; Nickson, D. A.; McBride, M. W.; Mueller, U. W.;
+Boyd, E.; Sutcliffe, R. G.: Regional chromosomal assignment of human
+3-beta-hydroxy-5-ene steroid dehydrogenase to 1p13.1 by non-isotopic
+in situ hybridisation. Hum. Genet. 87: 223-225, 1991.
+
+13. Pang, S.; Wang, W.; Rich, B.; David, R.; Chang, Y. T.; Carbunaru,
+G.; Myers, S. E.; Howie, A. F.; Smillie, K. J.; Mason, J. I.: A novel
+nonstop mutation in the stop codon and a novel missense mutation in
+the type II 3-beta-hydroxysteroid dehydrogenase (3-beta-HSD) gene
+causing, respectively, nonclassic and classic 3-beta-HSD deficiency
+congenital adrenal hyperplasia. J. Clin. Endocr. Metab. 87: 2556-2563,
+2002.
+
+14. Rheaume, E.; Lachance, Y.; Zhao, H. F.; Breton, N.; Dumont, M.;
+de Launoit, Y.; Trudel, C.; Luu-The, V.; Simard, J.; Labrie, F.:
+Structure and expression of a new complementary DNA encoding the almost
+exclusive 3 beta-hydroxysteroid dehydrogenase/delta 5-delta 4-isomerase
+in human adrenals and gonads. Molec. Endocr. 5: 1147-1157, 1991.
+
+15. Rheaume, E.; Leblanc, J. F.; Lachance, Y.; Labrie, F.; Simard,
+J.: Detection of frequent BglII polymorphism by polymerase chain
+reaction and TaqI restriction fragment length polymorphism for 3-beta-hydroxysteroid
+dehydrogenase/delta-5-delta-4 isomerase at the human HSD-beta-3 locus
+(1p11-p13). Hum. Genet. 87: 753-754, 1991.
+
+16. Rheaume, E.; Simard, J.; Morel, Y.; Mebarki, F.; Zachmann, M.;
+Forest, M. G.; New, M. I.; Labrie, F.: Congenital adrenal hyperplasia
+due to point mutations in the type II 3-beta-hydroxysteroid dehydrogenase
+gene. Nature Genet. 1: 239-245, 1992.
+
+17. Simard, J.; Durocher, F.; Mebarki, F.; Turgeon, C.; Sanchez, R.;
+Labrie, Y.; Couet, J.; Trudel, C.; Rheaume, E.; Morel, Y.; Luu-The,
+V.; Labrie, F.: Molecular biology and genetics of the 3-beta-hydroxysteroid
+dehydrogenase/delta-5-delta-4 isomerase gene family. J. Endocr. 150:
+S189-S207, 1996.
+
+18. Stalvey, J. R. D.; Meisler, M. H.; Payne, A. H.: Evidence that
+the same structural gene encodes testicular and adrenal 3-beta-hydroxysteroid
+dehydrogenase-isomerase. Biochem. Genet. 25: 181-190, 1987.
+
+19. Welzel, M.; Wustemann, N.; Simic-Schleicher, G.; Dorr, H. G.;
+Schulze, E.; Shaikh, G.; Clayton, P.; Grotzinger, J.; Holterhus, P.-M.;
+Riepe, F. G.: Carboxyl-terminal mutations in 3-beta-hydroxysteroid
+dehydrogenase type II cause severe salt-wasting congenital adrenal
+hyperplasia. J. Clin. Endocr. Metab. 93: 1418-1425, 2008.
+
+20. Zachmann, M.; Forest, M. G.; De Peretti, E.: 3 beta-hydroxysteroid
+dehydrogenase deficiency: follow-up study in a girl with pubertal
+bone age. Hormone Res. 11: 292-302, 1979.
+
+21. Zhang, L.; Mason, J. I.; Naiki, Y.; Copeland, K. C.; Castro-Magana,
+M.; Gordon-Walker, T. T.; Chang, Y. T.; Pang, S.: Characterization
+of two novel homozygous missense mutations involving codon 6 and 259
+of type II 3-beta-hydroxysteroid dehydrogenase (3-beta-HSD) gene causing,
+respectively, nonsalt-wasting and salt-wasting 3-beta-HSD deficiency
+disorder. J. Clin. Endocr. Metab. 85: 1678-1685, 2000.
+
+CREATED Anne M. Stumpf: 4/11/2011
+
+EDITED terry: 05/11/2011
+carol: 4/21/2011
+alopez: 4/12/2011
+
+606343	TITLE *606343 POLYMERASE, DNA, LAMBDA; POLL
+DESCRIPTION DNA polymerases can participate in both replication of the genome and
+DNA repair processes. The human genome contains multiple DNA polymerase
+genes.
+
+CLONING
+
+By searching sequence databases to identify new members of the polX
+family, Aoufouchi et al. (2000) identified EST clones representing 2 DNA
+polymerases, POLM (606344) and POLL, which they called pol mu and pol
+lambda, respectively. By screening bone marrow and lymph node cDNA
+libraries, they isolated a full-length POLL cDNA. POLL encodes a deduced
+575-amino acid protein predicted to contain a polX domain, a BRCA-1
+C-terminal (BRCT) domain, and 2 helix-hairpin-helix (HHH) DNA-binding
+motifs. POLL structurally resembles terminal deoxynucleotidyltransferase
+(TDT; 187410). It shares 34% amino acid identity with DNA polymerase
+beta (POLB; 174760) and 82% identity with mouse Poll. Aoufouchi et al.
+(2000) found that POLL has template-dependent DNA polymerase activity in
+vitro. Northern blot analysis detected a 2.7-kb POLL transcript with
+highest expression in testis and fetal liver and very weak expression in
+many other tissues. They identified POLL splice variants which they
+considered to be nonfunctional. Using semiquantitative RT-PCR
+amplification, Aoufouchi et al. (2000) concluded that POLL mRNA
+expression is downregulated in a dose- and time-dependent manner upon
+cell exposure to DNA damaging agents.
+
+Aoufouchi et al. (2000) provided a phylogenetic comparison of yeast and
+human proteins of the polX family.
+
+GENE STRUCTURE
+
+Aoufouchi et al. (2000) determined that POLL is encoded by 8 exons and
+spans approximately 9 kb of genomic DNA.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the POLL
+gene to human chromosome 10 (TMAP sts-W69567).
+
+REFERENCE 1. Aoufouchi, S.; Flatter, E.; Dahan, A.; Faili, A.; Bertocci, B.;
+Storck, S.; Delbos, F.; Cocea, L.; Gupta, N.; Weill, J.-C.; Reynaud,
+C.-A.: Two novel human and mouse DNA polymerases of the polX family. Nucleic
+Acids Res. 28: 3684-3693, 2000.
+
+CREATED Dawn Watkins-Chow: 10/1/2001
+
+EDITED carol: 10/02/2001
+
+613941	TITLE *613941 SERINE PROTEASE INHIBITOR, KUNITZ-TYPE, 3; SPINT3
+DESCRIPTION 
+MAPPING
+
+By analysis of a BAC/YAC contig, genomic sequence analysis, and database
+analysis, Fossey et al. (2001) mapped the SPINT3 gene to chromosome
+20q12-q13.1.
+
+REFERENCE 1. Fossey, S. C.; Mychaleckyj, J. C.; Pendleton, J. K.; Snyder, J.
+R.; Bensen, J. T.; Hirakawa, S.; Rich, S. S.; Freedman, B. I.; Bowden,
+D. W.: A high-resolution 6.0-megabase transcript map of the type
+2 diabetes susceptibility region on human chromosome 20. Genomics 76:
+45-57, 2001.
+
+CREATED Patricia A. Hartz: 4/27/2011
+
+EDITED mgross: 04/27/2011
+

@@ -1,0 +1,2090 @@
+604643	TITLE *604643 NEUROPEPTIDE FF-AMIDE PEPTIDE; NPFF
+NEUROPEPTIDE AF-AMIDE PEPTIDE, INCLUDED; NPAF, INCLUDED;;
+NEUROPEPTIDE FF- AND AF-AMIDE PEPTIDE PRECURSOR, INCLUDED;;
+FMRF-AMIDE-LIKE PEPTIDE PRECURSOR, INCLUDED; FMRFAL, INCLUDED
+DESCRIPTION 
+CLONING
+
+Neuropeptide FF (NPFF) and the related neuropeptide AF (NPAF) were
+originally isolated from bovine brain using an antibody against the
+molluscan peptide FMRF-NH2. NPFF has been detected in human serum. In
+rat, these FMRF-amide-related peptides have been shown to have
+wide-ranging physiologic effects, including the modulation of
+morphine-induced analgesia, elevation of arterial blood pressure, and
+increased somatostatin secretion from the pancreas. By searching a human
+EST database, Perry et al. (1997) identified epididymis ESTs encoding
+sequences that are homologous to the bovine FMRF-amide-related peptides.
+Using these ESTs to screen a human testis cDNA library, they isolated a
+full-length cDNA encoding the precursor of both NPFF and NPAF; the
+authors called this precursor the 'FMRF-amide-like peptide precursor,'
+or FMRFAL. The deduced 113-amino acid precursor polypeptide contains a
+putative hydrophobic leader sequence. Within the precursor, both
+FMRF-amide-related peptides are flanked by single or pairs of basic
+amino acids, which are potential endopeptidase cleavage sites. The
+8-amino acid human NPFF is identical to bovine NPFF but is predicted to
+be cleaved from its precursor polypeptide with an additional 3 amino
+acids at its N terminus; this 11-amino acid peptide is named NPSF. In an
+experiment measuring the effects of NPFF and NPSF on neural activity in
+rat spinal cord, bovine NPFF was active, whereas NPSF was inactive. The
+authors suggested that the 3 N-terminal amino acids of NPSF are removed
+by a peptidase to form the functional NPFF peptide. The 18-amino acid
+human NPAF differs from bovine NPAF by 2 amino acids. Human and bovine
+NPAF modulated neural activity in rat spinal cord in an
+indistinguishable manner.
+
+GENE STRUCTURE
+
+The gene encoding the NPFF and NPAF precursor contains 3 exons (Perry et
+al., 1997).
+
+REFERENCE 1. Perry, S. J.; Yi-Kung Huang, E.; Cronk, D.; Bagust, J.; Sharma,
+R.; Walker, R. J.; Wilson, S.; Burke, J. F.: A human gene encoding
+morphine modulating peptides related to NPFF and FMRFamide. FEBS
+Lett. 409: 426-430, 1997.
+
+CREATED Patti M. Sherman: 3/1/2000
+
+EDITED carol: 12/21/2007
+mgross: 3/15/2000
+mgross: 3/13/2000
+psherman: 3/2/2000
+
+614479	TITLE *614479 MALONYL CoA:ACP ACYLTRANSFERASE, MITOCHONDRIAL; MCAT
+;;MITOCHONDRIAL MALONYLTRANSFERASE;;
+MT, MITOCHONDRIAL
+DESCRIPTION 
+DESCRIPTION
+
+MCAT (EC 2.3.1.39) is the catalytic subunit of the type II
+malonyl-CoA-dependent system for biosynthesis of fatty acids in
+mitochondria (Zhang et al., 2003).
+
+CLONING
+
+Zhang et al. (2003) cloned human MCAT, which they called mitochondrial
+MT. The deduced 390-amino acid protein has an N-terminal cleavable
+mitochondrial targeting signal, a GxSxG serine esterase active-site
+motif, and conserved arg and his residues required for activity.
+Fluorescence-tagged MCAT colocalized with a mitochondrial marker
+following expression in HeLa cells.
+
+GENE FUNCTION
+
+Zhang et al. (2003) found that human mitochondrial MT expressed in
+insect cells had a narrower substrate specificity than cytosolic MT
+(FASN; 600212) and transferred a malonyl moiety to the mitochondrial
+malonyl acceptor ACP (NDUFAB1; 603836) only.
+
+GENE STRUCTURE
+
+Zhang et al. (2003) determined that the MCAT gene contains 4 exons.
+
+MAPPING
+
+By genomic sequence analysis, Zhang et al. (2003) mapped the MCAT gene
+to chromosome 22q13.31.
+
+REFERENCE 1. Zhang, L.; Joshi, A. K.; Smith, S.: Cloning, expression, characterization,
+and interaction of two components of a human mitochondrial fatty acid
+synthase: malonyltransferase and acyl carrier protein. J. Biol. Chem. 278:
+40067-40074, 2003.
+
+CREATED Patricia A. Hartz: 2/13/2012
+
+EDITED joanna: 08/30/2012
+mgross: 2/13/2012
+
+604850	TITLE *604850 COP9, SUBUNIT 5; COPS5
+;;JUN ACTIVATION DOMAIN-BINDING PROTEIN; JAB1;;
+SGN5;;
+MOV34 FAMILY, 38-KD MEMBER
+DESCRIPTION 
+CLONING
+
+Using the more variable activation domain of JUN (165160) as bait in a
+yeast 2-hybrid system, Claret et al. (1996) identified a protein, which
+they called JAB1 for 'Jun activation domain-binding protein,' that
+interacts with JUN and JUND (165162) but not with JUNB (165161) or
+v-jun. As a result, JAB1 selectively potentiates transactivation by only
+JUN or JUND. The JAB1 gene encodes a protein of 334 amino acids with a
+relative molecular mass of 37.5 kD. The N-terminal region of JAB1 shows
+57% identity to the products of the open reading frame F37A4.5 of C.
+elegans and the S. pombe pad1+ gene, which was identified genetically as
+a coactivator of a subset of AP1 target genes. The JAB1 and pad1+
+proteins are functionally interchangeable. They define a new group of
+coactivators that increase the specificity of target gene activation by
+AP1 proteins. In vitro, JAB1 specifically stabilizes complexes of JUN or
+JUND with AP1 sites and does not affect binding of either JUNB or v-jun.
+Amino acids 31 to 57 of JUN, which are absent in v-jun, contain the
+JAB1-interaction surface. JAB1 interacts with JUN and stimulates its
+activity in mammalian cells. The 1.5-kb JAB1 transcript is widely
+expressed. Immunofluorescence analysis indicated that JAB1 is a nuclear
+protein. Although JAB1 does not form a heterodimer with JUN or JUND, its
+effect on their DNA binding and transactivation abilities is analogous
+to the effect of the Extradenticle coactivator on homeodomain proteins
+of the Bithorax complex in Drosophila.
+
+GENE FAMILY
+
+Asano et al. (1997) identified JAB1 as a member of the MOV34 (PSMD7;
+157970) family. They referred to JAB1 as the 38-kD MOV34 homolog.
+
+GENE FUNCTION
+
+Bianchi et al. (2000) found that JAB1 interacts with the cytoplasmic
+domain of the beta-2 subunit of the alpha-L/beta-2 integrin LFA1
+(155370/600065). Bianchi et al. (2000) found that JAB1 is present both
+in the nucleus and in the cytoplasm of cells and that a fraction of JAB1
+colocalizes with LFA1 at the cell membrane. LFA1 engagement is followed
+by an increase of the nuclear pool of JAB1, paralleled by enhanced
+binding of c-Jun-containing AP1 complexes to their DNA consensus site
+and increased transactivation of an AP1-dependent promoter. Bianchi et
+al. (2000) suggested that signaling through the LFA1 integrin may affect
+JUN-driven transcription by regulating JAB1 nuclear localization. This
+represented a new pathway for integrin-dependent modulation of gene
+expression.
+
+Using full-length macrophage migration inhibitory factor (MIF; 153620)
+as bait in a yeast 2-hybrid screen of a brain cDNA library, Kleemann et
+al. (2000) captured JAB1 as an interacting partner of MIF. By
+coimmunoprecipitation and pull-down experiments, Kleemann et al. (2000)
+confirmed the specific MIF-JAB1 association. Confocal microscopic
+analysis demonstrated that the MIF-JAB1 complex is localized in the
+cytosol near the peripheral plasma membrane, suggesting a potential
+connection between MIF and the integrin signaling pathways. Luciferase
+reporter and gel shift analyses showed that endogenous and exogenous MIF
+inhibited JAB1-induced AP1 transcriptional activity but did not
+interfere with nuclear factor kappa-B (NFKB; 164011) activity. Likewise,
+recombinant MIF inhibited JAB1-stimulated and tumor necrosis factor
+(TNF; 191160)-induced JNK (601158) activity. MIF also induced p27
+(CDKN1B; 600778) expression and mirrored CDKN1B-mediated growth arrest
+through inhibition of JAB1-dependent degradation of CDKN1B. Mutational
+analysis indicated that a 16-residue MIF peptide spanning amino acids 50
+through 65, including cys60, strongly competed with wildtype MIF for
+JAB1 binding. Kleemann et al. (2000) suggested that signaling through
+MIF-JAB1 is independent of a potential MIF receptor and noted that JAB1
+is the only protein demonstrated to interact with MIF.
+
+Gemmill et al. (2002) isolated the Drosophila homolog of TRC8 (603046)
+and studied its function by genetic manipulations and a yeast 2-hybrid
+screen. Human and Drosophila TRC8 proteins localize to the endoplasmic
+reticulum. Loss of either Drosophila Trc8 or Vhl (608537) resulted in an
+identical ventral midline defect. Direct interaction between Trc8 and
+Vhl in drosophila was confirmed by GST-pull-down and
+coimmunoprecipitation experiments. Gemmill et al. (2002) found that in
+Drosophila, overexpression of Trc8 inhibited growth consistent with its
+presumed role as a tumor suppressor gene. Human JAB1 localization was
+dependent on VHL mutant status. Thus, the VHL, TRC8, and JAB1 proteins
+appear to be linked both physically and functionally, and all 3 may
+participate in the development of kidney cancer.
+
+COP9 signalosome cleaves the ubiquitin-like protein NEDD8 (603171) from
+the CUL1 (603134) subunit of SCF ubiquitin ligases. Cope et al. (2002)
+found that the JAB1/MPN domain metalloenzyme (JAMM) motif in the
+JAB1/COPS5 subunit underlies the COP9 signalosome's NEDD8 isopeptidase
+activity. The JAMM motif consists of a his-X-his-X(10)-asp motif (where
+X indicates any residue) accompanied by an upstream glutamate. The JAMM
+motif is found in proteins from archaea, bacteria, and eukaryotes,
+including the RPN11 subunit of the 26S proteasome. Metal chelators and
+point mutations within the JAMM motif abolished COP9
+signalosome-dependent cleavage of NEDD8 from CUL1, yet had little effect
+on COP9 signalosome complex assembly. Cope et al. (2002) proposed that
+JAMM isopeptidases play important roles in a variety of physiologic
+pathways.
+
+The marked box domain and adjacent region of the E2F1 gene (189971) are
+critical for the specificity of E2F1 apoptosis induction. Using the
+marked box domain of E2F1 in a yeast 2-hybrid screen of a human thymus
+cDNA library, Hallstrom and Nevins (2006) identified JAB1 as an E2F1
+binding partner. JAB1 and E2F1 coexpression in rat embryonic fibroblasts
+synergistically induced apoptosis, coincident with the induction of p53
+(191170) protein accumulation. In contrast, JAB1 did not synergize with
+E2F1 to promote cell cycle entry. Cells depleted of JAB1 were deficient
+for both E2F1-induced apoptosis and induction of p53 accumulation.
+Hallstrom and Nevins (2006) concluded that JAB1 is an essential cofactor
+for the apoptotic function of E2F1.
+
+MAPPING
+
+Hartz (2004) mapped the COPS5 gene to chromosome 8q13.2 based on an
+alignment of the COPS5 sequence (GenBank GENBANK U65928) with the
+genomic sequence.
+
+ANIMAL MODEL
+
+Tomoda et al. (2004) found that Jab1 null mouse embryos died soon after
+implantation. Mutant embryonic cells, which lacked other Cop9
+signalosome components, expressed higher levels of p27, p53 (191170),
+and cyclin E (123837), resulting in impaired proliferation and
+accelerated apoptosis. Jab1 heterozygous mice were healthy and fertile
+but smaller than their wildtype littermates. Heterozygous mouse
+embryonic fibroblasts proliferated poorly, showed an inefficient
+downregulation of p27 during G1, and were delayed in the progression
+from G0 to S phase compared with wildtype cells. The levels of cyclin E
+and deneddylated Cul1 were unchanged and p53 was not induced in
+heterozygous mutant cells. Tomoda et al. (2004) concluded that JAB1
+controls cell cycle progression and cell survival by regulating multiple
+signaling pathways.
+
+REFERENCE 1. Asano, K.; Vornlocher, H.-P.; Richter-Cook, N. J.; Merrick, W.
+C.; Hinnebusch, A. G.; Hershey, J. W. B.: Structure of cDNAs encoding
+human eukaryotic initiation factor 3 subunits: possible roles in RNA
+binding and macromolecular assembly. J. Biol. Chem. 272: 27042-27052,
+1997.
+
+2. Bianchi, E.; Denti, S.; Granata, A.; Bossi, G.; Geginat, J.; Villa,
+A.; Rogge, L.; Pardi, R.: Integrin LFA-1 interacts with the transcriptional
+co-activator JAB1 to modulate AP-1 activity. Nature 404: 617-621,
+2000.
+
+3. Claret, F.-X.; Hibi, M.; Dhut, S.; Toda, T.; Karin, M.: A new
+group of conserved coactivators that increase the specificity of AP-1
+transcription factors. Nature 383: 453-457, 1996.
+
+4. Cope, G. A.; Suh, G. S. B.; Aravind, L.; Schwarz, S. E.; Zipursky,
+S. L.; Koonin, E. V.; Deshaies, R. J.: Role of predicted metalloprotease
+motif of Jab1/Csn5 in cleavage of Nedd8 from Cul1. Science 298:
+608-611, 2002.
+
+5. Gemmill, R. M.; Bemis, L. T.; Lee, J. P.; Sozen, M. A.; Baron,
+A.; Zeng, C.; Erickson, P. F.; Hooper, J. E.; Drabkin, H. A.: The
+TRC8 hereditary kidney cancer gene suppresses growth and functions
+with VHL in a common pathway. Oncogene 21: 3507-3516, 2002.
+
+6. Hallstrom, T. C.; Nevins, J. R.: Jab1 is a specificity factor
+for E2F1-induced apoptosis. Genes Dev. 20: 613-623, 2006.
+
+7. Hartz, P. A.: Personal Communication. Baltimore, Md  12/29/2004.
+
+8. Kleemann, R.; Hausser, A.; Geiger, G.; Mischke, R.; Burger-Kentischer,
+A.; Flieger, O.; Johannes, F.-J.; Roger, T.; Calandra, T.; Kapurniotu,
+A.; Grell, M.; Finkelmeier, D.; Brunner, H.; Bernhagen, J.: Intracellular
+action of the cytokine MIF to modulate AP-1 activity and the cell
+cycle through Jab1. Nature 408: 211-216, 2000.
+
+9. Tomoda, K.; Yoneda-Kato, N.; Fukumoto, A.; Yamanaka, S.; Kato,
+J.: Multiple functions of Jab1 are required for early embryonic development
+and growth potential in mice. J. Biol. Chem. 279: 43013-43018, 2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/28/2006
+Patricia A. Hartz - updated: 1/6/2005
+Ada Hamosh - updated: 11/19/2002
+Victor A. McKusick - updated: 9/9/2002
+Paul J. Converse - updated: 11/7/2000
+Ada Hamosh - updated: 5/2/2000
+
+CREATED Ada Hamosh: 4/18/2000
+
+EDITED mgross: 07/18/2012
+carol: 5/16/2007
+wwang: 4/3/2006
+terry: 3/28/2006
+terry: 2/3/2006
+mgross: 1/10/2005
+terry: 1/6/2005
+ckniffin: 3/23/2004
+alopez: 11/19/2002
+terry: 11/18/2002
+tkritzer: 9/9/2002
+mgross: 11/7/2000
+alopez: 6/19/2000
+carol: 5/2/2000
+alopez: 4/19/2000
+alopez: 4/18/2000
+
+605687	TITLE *605687 INTERLEUKIN 19; IL19
+DESCRIPTION 
+DESCRIPTION
+
+IL19 belongs to the IL10 (124092) family of cytokines, which also
+includes IL20 (605619), MDA7 (604136), and IL22 (605330). IL10 is a
+multifunctional cytokine that has antiinflammatory properties through
+its ability to downregulate antigen presentation and macrophage
+activation. It also plays a role in B-cell activation and autoantibody
+production (Blumberg et al., 2001).
+
+CLONING
+
+By searching EST databases using IL10 as probe, followed by screening an
+Epstein-Barr virus-transformed B-cell cDNA library, Gallagher et al.
+(2000) obtained a cDNA encoding IL19. The predicted 177-amino acid
+protein contains a signal peptide, 2 potential N-linked glycosylation
+sites, and 4 conserved cysteine residues necessary for correct folding
+of the IL10 monomer. IL19 shares 82% identity with IL10 in the
+hydrophobic core, but only 53% similarity in the putative IL10
+receptor-alpha (IL10RA; 146933)-interacting residues. Western blot
+analysis showed expression of a 35- to 40-kD protein that was reduced to
+21 kD by glycosidase treatment.
+
+GENE FUNCTION
+
+Using Northern blot kinetic analysis, Gallagher et al. (2000) showed
+that IL10 was expressed before IL19 in lipopolysaccharide
+(LPS)-stimulated monocytes. IL19 expression was enhanced in the presence
+of IL4 (147780) or IL13 (147683), but not gamma-interferon (IFNG;
+147570), in LPS-stimulated monocytes. Granulocyte-macrophage
+colony-stimulating factor (GMCSF; 138960), but not other cytokines, was
+capable of inducing IL19 expression.
+
+GENE STRUCTURE
+
+Gallagher et al. (2000) determined that the IL19 gene spans nearly 6 kb
+and, like IL10, contains 5 exons.
+
+MAPPING
+
+By radiation hybrid analysis, Blumberg et al. (2001) determined that the
+IL10, IL19, 1L20, and MDA7 genes are tightly linked within a 195-kb
+region, the IL10 family cytokine cluster, on chromosome 1q32.
+
+REFERENCE 1. Blumberg, H.; Conklin, D.; Xu, W.; Grossmann, A.; Brender, T.;
+Carollo, S.; Eagan, M.; Foster, D.; Haldeman, B. A.; Hammond, A.;
+Haugen, H.; Jelinek, L.; and 14 others: Interleukin 20: discovery,
+receptor identification, and role in epidermal function. Cell 104:
+9-19, 2001.
+
+2. Gallagher, G.; Dickensheets, H.; Eskdale, J.; Izotova, L. S.; Mirochnitchenko,
+O. V.; Peat, J. D.; Vazquez, N.; Pestka, S.; Donnelly, R. P.; Kotenko,
+S. V.: Cloning, expression and initial characterisation of interleukin-19
+(IL-19), a novel homologue of human interleukin-10 (IL-10). Genes
+Immunity 1: 442-450, 2000.
+
+CREATED Paul J. Converse: 2/23/2001
+
+EDITED mgross: 02/20/2009
+mgross: 2/26/2001
+
+606887	TITLE *606887 SULFITE OXIDASE; SUOX
+DESCRIPTION Sulfite oxidase (EC 1.8.3.1) is the terminal enzyme in the oxidative
+degradation pathway of sulfur-containing amino acids.
+
+CLONING
+
+Garrett et al. (1995) isolated a 2.4-kb cDNA clone of human sulfite
+oxidase from a human liver cDNA library. The deduced 488-amino acid
+protein has a molecular mass of approximately 52 kD and shows 88%
+homology to the rat protein and 67% homology to the chicken protein.
+Comparison of 3 sulfite oxidase sequences to several plant and fungal
+nitrate reductase sequences revealed a single conserved cysteine with
+highly conserved flanking sequences. Garrett et al. (1995) postulated
+that the conserved cysteine is a ligand of molybdenum in sulfite oxidase
+and nitrate reductase.
+
+BIOCHEMICAL FEATURES
+
+Kisker et al. (1997) determined the crystal structure of chicken liver
+sulfite oxidase, which is homologous to the human protein, at
+1.9-angstrom resolution. They found that each monomer of the dimeric
+enzyme consists of 3 domains. At the active site, the Mo is
+penta-coordinated by 3 sulfur ligands, 1 oxo group, and 1 water/hydroxo.
+A sulfate molecule adjacent to the Mo identifies the substrate binding
+pocket.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the sulfite
+oxidase gene to chromosome 12 (TMAP sts-AA026389).
+
+MOLECULAR GENETICS
+
+Kisker et al. (1997) characterized 4 missense mutations in the SUOX gene
+(606887.0001-606887.0004) in cell lines from patients with isolated
+sulfite oxidase deficiency (272300). The crystallographic results
+predicted that 2 of these mutations (arg160 to gln, 606887.0001 and
+ala208 to asp, 606887.0002) are near the sulfate-binding site, whereas
+the other mutations (ser370 to tyr, 606887.0003 and gly473 to asp,
+606887.0004) occur within the domain mediating dimerization.
+
+Johnson et al. (2002) identified 12 novel mutations in the SUOX gene in
+patients with isolated sulfite oxidase deficiency. These included 2
+frameshift mutations, 2 homozygous nonsense mutations, and 8 missense
+mutations.
+
+Seidahmed et al. (2005) identified a 1-bp deletion in the SUOX gene
+(606887.0005) in a male infant with isolated sulfite oxidase deficiency.
+
+ALLELIC VARIANT .0001
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, ARG160GLN
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+479 of the cDNA of liver sulfite oxidase, resulting in an arg-to-gln
+substitution at amino acid residue 160 (R160Q).
+
+The R160Q mutation was identified by Garrett et al. (1998) in a
+5-year-old girl with sulfite oxidase deficiency born of first-cousin
+parents of Dutch descent. Recombinant protein containing the R160Q
+mutation, expressed in Escherichia coli, contained its full complement
+of molybdenum and heme, but exhibited 2% of native activity under
+standard assay conditions. Absorption spectroscopy of the isolated
+molybdenum domains of native sulfite oxidase and of the R160Q mutant
+showed significant differences in the 480- and 350-nm absorption bands,
+suggestive of altered geometry at the molybdenum center. Other studies
+led to the proposal that under normal circumstances arg160 attracts the
+anionic substrate sulfite to the binding site near the molybdenum.
+
+.0002
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, ALA208ASP
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a C-to-A substitution at nucleotide
+623 of the cDNA of liver sulfite oxidase, resulting in an ala-to-asp
+substitution at amino acid 208.
+
+.0003
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, SER370TYR
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+1109 of the cDNA of liver sulfite oxidase, resulting in a ser-to-tyr
+substitution at amino acid 370.
+
+.0004
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, GLY473ASP
+
+In a cell line from a patient with isolated sulfite oxidase deficiency
+(272300), Kisker et al. (1997) found a G-to-A substitution at nucleotide
+1418 of the cDNA of liver sulfite oxidase, resulting in a gly-to-asp
+substitution at amino acid 473.
+
+.0005
+SULFITE OXIDASE DEFICIENCY, ISOLATED
+SUOX, 1-BP DEL, 1244G
+
+In a male infant with isolated sulfite oxidase deficiency (272300) from
+a consanguineous Arab family, Seidahmed et al. (2005) identified
+homozygosity for a 1-bp deletion (1244delG) in the SUOX gene, predicting
+a frameshift at amino acid 117 and resulting in a mutant protein of only
+128 amino acids with total truncation of the molybdopterin and
+dimerizing domains. The parents and 1 unaffected sib were heterozygous
+for the deletion.
+
+REFERENCE 1. Garrett, R. M.; Bellissimo, D. B.; Rajagopalan, K. V.: Molecular
+cloning of human liver sulfite oxidase. Biochim. Biophys. Acta 1262:
+147-149, 1995.
+
+2. Garrett, R. M.; Johnson, J. L.; Graf, T. N.; Feigenbaum, A.; Rajagopalan,
+K. V.: Human sulfite oxidase R160Q: identification of the mutation
+in a sulfite oxidase-deficient patient and expression and characterization
+of the mutant enzyme. Proc. Nat. Acad. Sci. 95: 6394-6398, 1998.
+
+3. Johnson, J. L.; Coyne, K. E.; Garrett, R. M.; Zabot, M.-T.; Dorche,
+C.; Kisker, C.; Rajagopalan, K. V.: Isolated sulfite oxidase deficiency:
+identification of 12 novel SUOX mutations in 10 patients.(Abstract) Hum.
+Mutat. 20: 74 only, 2002.
+
+4. Kisker, C.; Schindelin, H.; Pacheco, A.; Wehbi, W. A.; Garrett,
+R. M.; Rajagopalan, K. V.; Enemark, J. H.; Rees, D. C.: Molecular
+basis of sulfite oxidase deficiency from the structure of sulfite
+oxidase. Cell 91: 973-983, 1997.
+
+5. Seidahmed, M. Z.; Alyamani, E. A.; Rashed, M. S.; Saadallah, A.
+A.; Abdelbasit, O. B.; Shaheed, M. M.; Rasheed, A.; Hamid, F. A.;
+Sabry, M. A.: Total truncation of the molybdopterin/dimerization
+domains of SUOX protein in an Arab family with isolated sulfite oxidase
+deficiency. Am. J. Med. Genet. 136A: 205-209, 2005.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 12/28/2005
+Victor A. McKusick - updated: 8/27/2002
+
+CREATED Cassandra L. Kniffin: 4/26/2002
+
+EDITED wwang: 01/03/2006
+terry: 12/28/2005
+tkritzer: 9/10/2002
+tkritzer: 8/29/2002
+terry: 8/27/2002
+carol: 5/8/2002
+ckniffin: 5/8/2002
+
+601860	TITLE *601860 17-@BETA-HYDROXYSTEROID DEHYDROGENASE IV; HSD17B4
+;;17-@BETA-HSD IV;;
+D-3-@HYDROXYACYL-CoA DEHYDRATASE/D-3-HYDROXYACYL-CoA DEHYDROGENASE
+BIFUNCTIONAL PROTEIN;;
+D-BIFUNCTIONAL PROTEIN, PEROXISOMAL;;
+DBP, PEROXISOMAL
+DESCRIPTION 
+DESCRIPTION
+
+The HSD17B4 gene encodes an enzyme involved in peroxisomal fatty acid
+beta-oxidation. It was first identified as a 17-beta-estradiol
+dehydrogenase (Leenders et al., 1996; van Grunsven et al., 1998).
+
+Peroxisomal beta-oxidation of fatty acids, originally described by
+Lazarow and de Duve (1976), is catalyzed by 3 enzymes: acyl-CoA oxidase
+(see, e.g., ACOX1, 609751); the 'D-bifunctional enzyme,' with
+enoyl-CoA-hydratase and D-3-hydroxyacyl-CoA dehydrogenase activity, and
+3-ketoacyl-CoA thiolase (604054).
+
+See also the L-bifunctional peroxisomal protein (EHHADH; 607037). The D-
+and L-bifunctional proteins have different substrate specificities. The
+D-bifunctional protein catalyzes the formation of 3-ketoacyl-CoA
+intermediates from both straight-chain and 2-methyl-branched-chain fatty
+acids and also acts in shortening cholesterol for bile acid formation.
+In contrast, the L-specific bifunctional protein does not have the
+latter 2 activities (Jiang et al., 1997).
+
+CLONING
+
+Adamski et al. (1995) cloned a fourth type of 17-beta-hydroxysteroid
+dehydrogenase, HSD17B4, from a human liver cDNA library. The HSD17B4
+gene encodes a 736-amino acid polypeptide with a predicted molecular
+mass of approximately 80 kD and less than 25% identity with the 3
+previously characterized 17-HSDs (HSD17B1, 109684; HSD17B2, 109685; and
+HSD17B3, 605573). Northern blot analysis revealed that HSD17B4 is
+expressed in many tissues as an approximately 3.0-kb mRNA transcript,
+with highest expression in liver, heart, prostate, and testis. Adamski
+et al. (1995) overexpressed the gene in mammalian cells and found that
+HSD17B4 displays specific unidirectional oxidative 17-HSD activity.
+
+Jiang et al. (1996) purified and characterized a medium-chain enoyl-CoA
+hydratase from human liver. By immunohistochemistry, they confirmed the
+presence of the enzyme in peroxisomes of cultured human skin
+fibroblasts. Jiang et al. (1997) determined the DNA and peptide
+sequences of medium-chain enoyl-CoA hydratase and found that it was
+identical to that of human 17-beta-hydroxysteroid dehydrogenase IV. The
+native enzyme is a 77-kD polypeptide.
+
+By analysis of the porcine enzyme, Leenders et al. (1996) determined
+that the N-terminal region (residues 1-323) encodes the 17-steroid
+dehydrogenase activity, whereas the central region (residues 324-596)
+catalyzes the hydratase activity. The C-terminal portion facilitates the
+transfer of 7-dehydrocholesterol and phosphatidylcholine between
+membranes in vitro. The authors emphasized the unique ability of a
+single protein to catalyze different reactions.
+
+GENE STRUCTURE
+
+Leenders et al. (1998) found that the HSD17B4 gene contains 24 exons and
+spans more than 100 kb.
+
+MAPPING
+
+By fluorescence in situ hybridization, Leenders et al. (1996) mapped the
+HSD17B4 gene to human chromosome 5q2.
+
+GENE FUNCTION
+
+Green et al. (1999) investigated HSD17B1, -2, -3, and -4 gene expression
+and HSD17B estrogenic activity in human anterior pituitary adenomas.
+HSD17B mRNA expression was studied by RT-PCR in 42 pituitary tumors and
+3 normal pituitaries, HSD17B activity was studied in 11 tumors, and
+HSD17B1 was immunolocalized in vitro in 6 tumors. HSD17B1 gene
+expression was detected in 34 of 42 (81%) adenomas in all tumor
+subtypes; HSD17B2 mRNA was detected in 18 of 42 (43%) adenomas but not
+in prolactinomas; HSD17B3 mRNA was detected in 12 of 42 (29%) adenomas
+but not in corticotropinomas; and HSD17B4 was expressed in 20 of 42
+(48%) adenomas by all adenoma subtypes. All 4 HSD17B isoforms were
+variably expressed in human anterior pituitary adenomas, which also
+showed HSD17B enzyme activity, suggesting that HSD17B may play an
+important role in regulating the local cellular levels of estradiol.
+
+MOLECULAR GENETICS
+
+- D-Bifunctional Protein Deficiency
+
+In 2 Japanese patients with D-bifunctional protein deficiency (261515),
+Suzuki et al. (1997) identified 2 different homozygous mutations in the
+HSD17B4 gene (601860.0001; 601860.0002). The patients had previously
+been diagnosed with L-bifunctional protein deficiency by complementation
+analysis (Suzuki et al., 1994).
+
+In an infant with a defect in peroxisomal beta-oxidation, van Grunsven
+et al. (1998) demonstrated D-bifunctional protein deficiency caused by a
+homozygous mutation in the HSD17B4 gene (601860.0003).
+
+In a patient with D-bifunctional protein deficiency originally reported
+by Watkins et al. (1989), van Grunsven et al. (1999) identified a
+homozygous 2-bp deletion in the HSD17B4 gene (601860.0007). The patient
+was originally thought to have L-bifunctional protein deficiency based
+on immunoblot analysis of postmortem liver tissue. However, reanalysis
+showed accumulation of both very long chain fatty acids and bile acid
+intermediates, which was hard to reconcile with an isolated deficiency
+of the L-bifunctional protein. The results suggested that most, if not
+all, patients whose peroxisomal disorder had been diagnosed as
+L-bifunctional protein deficiency were in fact cases of D-bifunctional
+protein deficiency.
+
+Nakano et al. (2001) reported a patient with D-bifunctional protein
+deficiency who was compound heterozygous for 2 mutations in the HSD17B4
+gene (601860.0001 and 601860.0005).
+
+Ferdinandusse et al. (2002) reinvestigated the patient of Goldfischer et
+al. (1986), who was the only patient ever reported with a presumed
+deficiency of peroxisomal 3-ketoacyl-CoA thiolase (604054). Molecular
+analysis identified a homozygous deletion in the HSD17B4 gene
+(601860.0006), confirming a diagnosis of D-bifunctional protein
+deficiency.
+
+Ferdinandusse et al. (2006) reported the mutational spectrum of DBP
+deficiency on the basis of molecular analysis in 110 patients. They
+identified 61 different mutations by DBP cDNA analysis, 48 of which had
+not been previously reported. The predicted effects of the different
+disease-causing amino acid changes in protein structure were determined
+using the crystal structures. The effects ranged from the replacement of
+catalytic amino acid residues or residues in direct contact with the
+substrate or cofactor to disturbances of protein folding or dimerization
+of the subunits. To study whether there is a genotype-phenotype
+correlation for DBP deficiency, these structure-based analyses were
+combined with extensive biochemical analyses of patient material
+(cultured skin fibroblasts and plasma) and available clinical
+information on the patients. They found that the effect of the mutations
+identified in patients with a relatively mild clinical and biochemical
+presentation was less detrimental to the protein structure than the
+effect of mutations identified in those with a very severe presentation.
+These results suggested that the amount of residual DBP activity
+correlates with the severity of the phenotype. Thus the data indicated
+that on the basis of the predicted effect of mutations on protein
+structure, a genotype-phenotype correlation exists for DBP deficiency.
+
+Ferdinandusse et al. (2006) found that the missense mutation G16S
+(601860.0003) is by far the most common mutation causing DBP deficiency
+(type III), which had in their study an allele frequency of
+approximately 24% and was detected in 28 of the 110 patients. The second
+most common mutation causing DBP deficiency (type II) was the missense
+mutation N457Y (601860.0004), which had an allele frequency of
+approximately 11% and was found in 13 patients. Of 5 patients for whom
+homozygosity was checked, 2 turned out to be heterozygotes at the
+genomic level.
+
+In DBP type I-deficient patients, Ferdinandusse et al. (2006) found only
+deletions, insertions, and nonsense mutations. All deletions resulted in
+a truncated protein, except for 3 large in-frame deletions. Two patients
+with DBP type-II deficiency had in-frame deletions in the hydratase
+unit. All other DBP type II-deficient patients had missense mutations in
+the coding region of the DBP hydratase unit. DBP type III deficiency was
+predominantly caused by missense mutations and, in 2 cases, by a 1-amino
+acid deletion in the coding region of the dehydrogenase unit.
+
+- Perrault Syndrome 1
+
+Pierce et al. (2010) performed whole-exome sequencing of genomic DNA
+from a woman with Perrault syndrome-1 (PRLTS1; 233400), which is
+characterized by ovarian dysgenesis and sensorineural deafness,
+originally described by McCarthy and Opitz (1985) and identified 2 rare
+variants in the HSD17B4 gene (601860.0008 and 601860.0009). Sequencing
+revealed that both the proband and her affected sister were compound
+heterozygous for the missense (Y217C) and nonsense (Y568X) mutations,
+and that their unaffected mother was heterozygous for the missense
+mutation. Pierce et al. (2010) noted that Perrault syndrome and DBP
+deficiency overlap clinically, and suggested that mutations in HSD17B4
+leading to DBP deficiency that is mild enough to allow survival to the
+age of puberty are likely to cause ovarian dysgenesis in females in
+addition to the known neurologic defects. The authors predicted that
+because the affected sisters were likely to express only protein with
+the Y217C mutation, they would have so-called type III DBP deficiency,
+with a defect in dehydrogenase activity.
+
+ALLELIC VARIANT .0001
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, 52-BP DEL
+
+In a Japanese patient with D-bifunctional protein deficiency (261515),
+Suzuki et al. (1997) identified a 52-bp deletion in the HSD17B4 gene,
+resulting in a 17-amino acid deletion and premature termination. Studies
+of postmortem liver tissue confirmed absence of the activity and
+immunoreactivity of D-bifunctional protein. The patient was previously
+thought to have L-bifunctional protein deficiency (Suzuki et al., 1994).
+
+.0002
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, 237-BP DEL
+
+In a Japanese patient with D-bifunctional protein deficiency (261515),
+Suzuki et al. (1997) identified a 237-bp deletion in the HSD17B4 gene,
+resulting in a 79-amino acid deletion. Studies of postmortem liver
+tissue confirmed absence of the activity and immunoreactivity of
+D-bifunctional protein. The patient was previously thought to have
+L-bifunctional protein deficiency (Suzuki et al., 1994).
+
+.0003
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, GLY16SER
+
+In an infant with a D-bifunctional protein deficiency (261515), van
+Grunsven et al. (1998) identified a 46G-A transition in the HSD17B4
+gene, resulting in a gly16-to-ser (G16S) substitution within an
+important loop of the Rossman fold forming the NAD(+)-binding site.
+Biochemical analysis showed that the 3-hydroxyacyl-CoA dehydrogenase
+activity of the D-bifunctional protein was completely inactive, whereas
+the enoyl-CoA hydratase component was active. Their findings showed that
+the D-bifunctional protein plays an essential role in the peroxisomal
+beta-oxidation pathway that cannot be compensated for by the L-specific
+bifunctional protein. Both parents were heterozygous for the mutation.
+
+Van Grunsven et al. (1999) demonstrated the G16S mutation in 9
+additional patients previously thought to have deficiency of
+L-bifunctional protein on the basis of complementation studies. The
+findings confirmed D-bifunctional protein deficiency in these cases.
+
+.0004
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, ASN457TYR
+
+In 2 unrelated patients with D-bifunctional protein deficiency (261515),
+van Grunsven et al. (1999) identified a homozygous 1369A-T transversion
+in the HSD17B4 gene, resulting in an asn457-to-tyr (N457Y) substitution.
+Both patients had an isolated defect of the enoyl-CoA hydratase domain
+of the D-bifunctional protein. Both patients had abnormalities of
+peroxisomal beta-oxidation with elevated very long chain fatty acids and
+branch chain fatty acids, but normal levels of bile acid intermediates.
+Both patients were born of consanguineous parents. Sequence analysis of
+the D-bifunctional protein cDNA of 15 control subjects of Caucasian
+origin did not identify the N457Y mutation. Expression of the N457Y
+mutation in Saccharomyces cerevisiae confirmed that it is the
+disease-causing mutation. Immunoblot analysis of patient fibroblast
+homogenates showed that the protein levels of full-length D-bifunctional
+protein were strongly reduced, while the enoyl-CoA hydratase component
+produced after processing within the peroxisome was undetectable,
+indicating that the mutation leads to an unstable protein.
+
+.0005
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, ARG106PRO
+
+In a male patient with D-bifunctional protein deficiency (261515),
+Nakano et al. (2001) identified compound heterozygosity for 2 mutations
+in the HSD17B4 gene: a 317G-C transversion, resulting in an
+arg106-to-pro (R106P) substitution, and a 52-bp deletion (601860.0001).
+The mutations were associated with complete loss of function of the
+protein.
+
+.0006
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, 138-BP DEL
+
+In a patient with D-bifunctional protein deficiency (261515),
+Ferdinandusse et al. (2002) identified a homozygous 138-bp deletion in
+the HSD17B4 gene extending from basepair 145 in exon 3 through the first
+63 basepairs of intron 3 of the DBP gene. This deletion resulted in
+skipping of exon 3. The patient had originally been reported by
+Goldfischer et al. (1986) and Schram et al. (1987) as the only patient
+ever reported to have peroxisomal 3-ketoacyl-CoA thiolase (604054)
+deficiency. However, reanalysis showed normal thiolase and absence of
+the D-bifunctional protein in brain tissue.
+
+.0007
+D-BIFUNCTIONAL PROTEIN DEFICIENCY
+HSD17B4, 2-BP DEL, 422AG
+
+In a patient with D-bifunctional protein deficiency (261515) originally
+reported by Watkins et al. (1989), van Grunsven et al. (1999) identified
+a homozygous 2-bp deletion (422delAG) in the HSD17B4 gene, resulting in
+a premature stop codon at position 490 and a shortened protein of 163
+amino acids. The patient was originally thought to have L-bifunctional
+protein deficiency.
+
+.0008
+PERRAULT SYNDROME 1
+HSD17B4, TYR217CYS
+
+In 2 sisters with Perrault syndrome-1 (233400), previously described by
+McCarthy and Opitz (1985) and Fiumara et al. (2004), Pierce et al.
+(2010) identified compound heterozygosity for a 605A-G transition in
+exon 9 of the HSD17B4 gene, resulting in a tyr217-to-cys (Y217C)
+substitution in a very highly conserved region of the protein, and a
+1704T-A transversion in exon 20, resulting in a tyr568-to-ter (Y568X;
+601860.0009) substitution. Their unaffected mother was found to be
+heterozygous for the Y217C mutation, and neither mutation was detected
+in 1,092 control individuals. Expression analysis using lymphoblast cDNA
+showed that Y568X transcript was expressed at very low levels relative
+to the Y217C transcript, suggesting that Y568X undergoes
+nonsense-mediated decay, whereas Y217C is more stably expressed.
+
+.0009
+PERRAULT SYNDROME 1
+HSD17B4, TYR568TER
+
+See 601860.0008 and Pierce et al. (2010).
+
+REFERENCE 1. Adamski, J.; Normand, T.; Leenders, F.; Monte, D.; Begue, A.; Stehelin,
+D.; Jungblut, P. W.; de Launoit, Y.: Molecular cloning of a novel
+widely expressed human 80 kDa 17-beta-hydroxysteroid dehydrogenase
+IV. Biochem. J. 311: 437-443, 1995.
+
+2. Ferdinandusse, S.; van Grunsven, E. G.; Oostheim, W.; Denis, S.;
+Hogenhout, E. M.; Ijlst, L.; van Roermund, C. W. T.; Waterham, H.
+R.; Goldfischer, S.; Wanders, R. J. A.: Reinvestigation of peroxisomal
+3-ketoacyl-CoA thiolase deficiency: identification of the true defect
+at the level of D-bifunctional protein. Am. J. Hum. Genet. 70: 1589-1593,
+2002.
+
+3. Ferdinandusse, S.; Ylianttila, M. S.; Gloerich, J.; Koski, M. K.;
+Oostheim, W.; Waterham, H. R.; Hiltunen, J. K.; Wanders, R. J. A.;
+Glumoff, T.: Mutational spectrum of D-bifunctional protein deficiency
+and structure-based genotype-phenotype analysis. Am. J. Hum. Genet. 78:
+112-124, 2006.
+
+4. Fiumara, A.; Sorge, G.; Toscano, A.; Parano, E.; Pavone, L.; Opitz,
+J. M.: Perrault syndrome: evidence for progressive nervous system
+involvement. Am. J. Med. Genet. 128A: 246-249, 2004.
+
+5. Goldfischer, S.; Collins, J.; Rapin, I.; Neumann, P.; Neglia, W.;
+Spiro, A. J.; Ishii, T.; Roels, F.; Vamecq, J.; Van Hoof, F.: Pseudo-Zellweger
+syndrome: deficiencies in several peroxisomal oxidative activities. J.
+Pediat. 108: 25-32, 1986.
+
+6. Green, V. L.; Speirs, V.; Landolt, A. M.; Foy, P. M.; Atkin, S.
+L.: 17-beta-hydroxysteroid dehydrogenase type 1, 2, 3, and 4 expression
+and enzyme activity in human anterior pituitary adenomas. J. Clin.
+Endocr. Metab. 84: 1340-1345, 1999.
+
+7. Jiang, L. L.; Kobayashi, A.; Matsuura, H.; Fukushima, H.; Hashimoto,
+T.: Purification and properties of human D-3-hydroxyacyl-CoA dehydratase:
+medium-chain enoyl-CoA hydratase is D-3-hydroxyacyl-CoA dehydratase. J.
+Biochem. 120: 624-632, 1996.
+
+8. Jiang, L. L.; Kurosawa, T.; Sato, M.; Suzuki, Y.; Hashimoto, T.
+: Physiological role of D-3-hydroxyacyl-CoA dehydratase/D-3-hydroxyacyl-CoA
+dehydrogenase bifunctional protein. J. Biochem. 121: 506-513, 1997.
+
+9. Jiang, L. L.; Miyazawa, S.; Souri, M.; Hashimoto, T.: Structure
+of D-3-hydroxyacyl-CoA dehydratase/D-3-hydroxyacyl-CoA dehydrogenase
+bifunctional protein. J. Biochem. 121: 364-369, 1997.
+
+10. Lazarow, P. B.; de Duve, C.: A fatty acyl-CoA oxidizing system
+in rat liver peroxisomes: enhancement by clofibrate, a hypolipidemic
+drug. Proc. Nat. Acad. Sci. 73: 2043-2046, 1976.
+
+11. Leenders, F.; Dolez, V.; Begue, A.; Moller, G.; Gloeckner, J.;
+de Launoit, Y.; Adamski, J.: Structure of the gene for the human
+17-beta-hydroxysteroid dehydrogenase type IV. Mammalian Genome 9:
+1036-1041, 1998.
+
+12. Leenders, F.; Prescher, G.; Dolez, V.; Begue, A.; de Launoit,
+Y.; Adamski, J.: Assignment of human 17-beta-hydroxysteroid dehydrogenase
+IV to chromosome 5q2 by fluorescence in situ hybridization. Genomics 37:
+403-404, 1996.
+
+13. Leenders, F.; Tesdorpf, J. G.; Markus, M.; Engel, T.; Seedorf,
+U.; Adamski, J.: Porcine 80-kDa protein reveals intrinsic 17 beta-hydroxysteroid
+dehydrogenase, fatty acyl-CoA-hydratase/dehydrogenase, and sterol
+transfer activities. J. Biol. Chem. 271: 5438-5442, 1996.
+
+14. McCarthy, D. J.; Opitz, J. M.: Perrault syndrome in sisters. Am.
+J. Med. Genet. 22: 629-631, 1985.
+
+15. Nakano, K.; Zhang, Z.; Shimozawa, N.; Kondo, N.; Ishii, N.; Funatsuka,
+M.; Shirakawa, S.; Itoh, M.; Takashima, S.; Une, M.; Kana-aki, R.
+R.; Mukai, K.; Osawa, M.; Suzuki, Y.: D-bifunctional protein deficiency
+with fetal ascites, polyhydramnios, and contractures of hands and
+toes. J. Pediat. 139: 865-867, 2001.
+
+16. Pierce, S. B.; Walsh, T.; Chisholm, K. M.; Lee, M, K.; Thornton,
+A. M.; Fiumara, A.; Opitz, J. M.; Levy-Lahad, E.; Klevit, R. E.; King,
+M.-C.: Mutations in the DBP-deficiency protein HSD17B4 cause ovarian
+dysgenesis, hearing loss, and ataxia of Perrault syndrome. Am. J.
+Hum. Genet. 87: 282-288, 2010.
+
+17. Schram, A. W.; Goldfischer, S.; van Roermund, C. W. T.; Brouwer-Kelder,
+E. M.; Collins, J.; Hashimoto, T.; Heymans, H. S. A.; van den Bosch,
+H.; Schutgens, R. B. H.; Tager, J. M.; Wanders, R. J. A.: Human peroxisomal
+3-oxoacyl-coenzyme A thiolase deficiency. Proc. Nat. Acad. Sci. 84:
+2494-2496, 1987.
+
+18. Suzuki, Y.; Jiang, L. L.; Souri, M.; Miyazawa, S.; Fukuda, S.;
+Zhang, Z.; Une, M.; Shimozawa, N.; Kondo, N.; Orii, T.; Hashimoto,
+T.: D-3-hydroxyacyl-CoA dehydratase/D-3-hydroxyacyl-CoA dehydrogenase
+bifunctional protein deficiency: a newly identified peroxisomal disorder. Am.
+J. Hum. Genet. 61: 1153-1162, 1997.
+
+19. Suzuki, Y.; Shimozawa, N.; Yajima, S.; Tomatsu, S.; Kondo, N.;
+Nakada, Y.; Akaboshi, S.; Iai, M.; Tanabe, Y.; Hashimoto, T.; Wanders,
+R. J. A.; Schutgens, R. B. H.; Moser, H. W.; Orii, T.: Novel subtype
+of peroxisomal acyl-CoA oxidase deficiency and bifunctional enzyme
+deficiency with detectable enzyme protein: identification by means
+of complementation analysis. Am. J. Hum. Genet. 54: 36-43, 1994.
+
+20. van Grunsven, E. G.; Mooijer, P. A. W.; Aubourg, P.; Wanders,
+R. J. A.: Enoyl-CoA hydratase deficiency: identification of a new
+type of D-bifunctional protein deficiency. Hum. Molec. Genet. 8:
+1509-1516, 1999.
+
+21. van Grunsven, E. G.; van Berkel, E.; Ijlst, L.; Vreken, P.; de
+Klerk, J. B. C.; Adamski, J.; Lemonde, H.; Clayton, P. T.; Cuebas,
+D. A.; Wanders, R. J. A.: Peroxisomal D-hydroxyacyl-CoA dehydrogenase
+deficiency: resolution of the enzyme defect and its molecular basis
+in bifunctional protein deficiency. Proc. Nat. Acad. Sci. 95: 2128-2133,
+1998.
+
+22. van Grunsven, E. G.; van Berkel, E.; Mooijer, P. A. W.; Watkins,
+P. A.; Moser, H. W.; Suzuki, Y.; Jiang, L. L.; Hashimoto, T.; Hoefler,
+G.; Adamski, J.; Wanders, R. J. A.: Peroxisomal bifunctional protein
+deficiency revisited: resolution of its true enzymatic and molecular
+basis. Am. J. Hum. Genet. 64: 99-107, 1999.
+
+23. Watkins, P. A.; Chen, W. W.; Harris, C. J.; Hoefler, G.; Hoefler,
+S.; Blake, D. C., Jr.; Balfe, A.; Kelley, R. I.; Moser, A. B.; Beard,
+M. E.; Moser, H. W.: Peroxisomal bifunctional enzyme deficiency. J.
+Clin. Invest. 83: 771-777, 1989.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 2/24/2011
+Victor A. McKusick - updated: 12/29/2005
+Cassandra L. Kniffin - reorganized: 12/8/2005
+Cassandra L. Kniffin - updated: 12/7/2005
+Victor A. McKusick - updated: 6/12/2002
+Ada Hamosh - updated: 1/29/2002
+John A. Phillips, III - updated: 9/30/1999
+Ada Hamosh - updated: 8/9/1999
+Sonja A. Rasmussen - updated: 6/30/1999
+Victor A. McKusick - updated: 2/26/1999
+Victor A. McKusick - updated: 2/9/1999
+Victor A. McKusick - updated: 12/3/1997
+
+CREATED Jennifer P. Macke: 3/24/1997
+
+EDITED carol: 09/17/2013
+alopez: 11/15/2012
+ckniffin: 11/14/2012
+alopez: 10/8/2012
+wwang: 2/25/2011
+terry: 2/24/2011
+alopez: 5/4/2006
+terry: 12/29/2005
+carol: 12/8/2005
+ckniffin: 12/7/2005
+carol: 11/30/2005
+tkritzer: 1/20/2005
+carol: 11/18/2004
+cwells: 11/7/2003
+tkritzer: 7/10/2003
+carol: 4/18/2003
+alopez: 6/17/2002
+terry: 6/12/2002
+alopez: 1/31/2002
+terry: 1/29/2002
+alopez: 2/2/2001
+mgross: 9/30/1999
+alopez: 8/17/1999
+terry: 8/9/1999
+kayiaros: 6/30/1999
+kayiaros: 6/29/1999
+carol: 2/27/1999
+terry: 2/26/1999
+carol: 2/17/1999
+terry: 2/9/1999
+joanna: 5/15/1998
+carol: 4/7/1998
+terry: 3/28/1998
+dholmes: 12/29/1997
+terry: 12/4/1997
+terry: 12/3/1997
+alopez: 7/16/1997
+
+600611	TITLE *600611 FK506-BINDING PROTEIN 4; FKBP4
+;;T-CELL FK506-BINDING PROTEIN, 59-KD; FKBP59; FKBP52
+DESCRIPTION For background information on FK506-binding proteins (FKBPs), see FKBP1A
+(186945).
+
+CLONING
+
+Peattie et al. (1992) identified a novel FKBP using an FK506 affinity
+matrix. By database analysis, 2 murine DNA sequences were identified,
+and PCR primers to these were used to generate a probe for screening a
+human placenta cDNA library. A translation of the human cDNA sequence
+matched the original partial protein sequence, as well as primary
+sequences for other FKBPs. The predicted protein, FKBP52, has a
+molecular mass of 52 kD. Northern blot analysis detected FKBP52
+transcripts at varying levels in all tissues examined. Peattie et al.
+(1992) noted that FKBP52 is apparently identical to a 56- to 59-kD
+protein referred to as p56, p59, or FKBP59 in the literature, and they
+suggested that phosphorylation of FKBP52 may account for the multiple
+reported isoforms.
+
+GENE FUNCTION
+
+Peattie et al. (1992) showed that FKBP52 associated with the 90-kD heat
+shock protein (see HSP90A; 140571) in untransformed mammalian steroid
+receptor complexes.
+
+FKBP52 is a 'macro' immunophilin that shares high structural and
+functional homologies in its N-terminal domain with FKBP12 (FKBP1A;
+186945). Unlike FKBP12, however, it does not have immunosuppressant
+activity when complexed with FK506. To investigate the physiologic
+function of FKBP52, Chambraud et al. (1999) used the yeast 2-hybrid
+system as an approach to find its potential protein partners and its
+cellular role. They detected an FKBP-associated protein, which by
+sequencing was identified as phytanoyl-CoA alpha-hydroxylase (PHYH;
+602026), a peroxisomal enzyme. Inactivation of this enzyme is
+responsible for Refsum disease (266500) in humans. Chambraud et al.
+(1999) showed that PHYH has the physical capacity to interact with the
+FKBP12-like domain of FKBP52, but not with FKBP12, suggesting that it is
+a particular and specific target of FKBP52. Whereas the binding of
+calcineurin (114105) to FKBP12 is potentiated by FK506, the specific
+association of PHYH and FKBP52 is maintained in the presence of FK506.
+These observations suggested that PHYH is a serious candidate for
+studying the cellular signaling pathway(s) involving FKBP52 in the
+presence of immunosuppressant drugs.
+
+Fusco et al. (2010) demonstrated that RET51 (see 164761) activation by
+both glial cell line-derived neurotrophic factor (GDNF; 600837) and NGF
+(162030) triggers the formation of a RET51-FKBP52 complex. Substitution
+of tyrosine-905 in RET51, a key residue phosphorylated by both GDNF and
+NGF, disrupted the RET51-FKBP52 complex. NGF and GDNF have a functional
+role in dopaminergic neurons, where RET51 and FKBP52 are expressed. To
+clarify the contribution of the RET51-FKBP52 complex in dopaminergic
+neurons, Fusco et al. (2010) screened both genes in 30 patients with
+Parkinson disease (PD; 168600), in which dopaminergic neurons are
+selectively lost. In 1 individual with early-onset PD, the authors found
+heterozygous mutations in each gene, which together were sufficient to
+disrupt the RET51-FKBP52 complex.
+
+ANIMAL MODEL
+
+Cheung-Flynn et al. (2005) found that male and female Fkbp52 -/- mice
+were infertile. Male infertility in Fkbp52 -/- mice was due to
+compromised androgen receptor (AR; 313700) function.
+
+Tranguch et al. (2005) found that, in contrast to female progesterone
+receptor (Pgr; 607311) -/- mice, female Fkbp52 -/- mice had no ovulation
+defect. Gross and histopathologic analysis showed that Fkbp52 -/- uteri
+were completely nonreceptive to blastocyst implantation. In situ
+hybridization analysis in wildtype mice showed that Fkbp52 and Pgr
+expression overlapped in uterine stroma, but Fkbp52 was also expressed
+in luminal and glandular epithelium. Uterine refractoriness in Fkbp52
+-/- mice was not due to altered expression of Pgr, for which Fkbp52 is a
+cochaperone, or Fkbp51 (FKBP5; 602623). However, Pgr activity was not
+optimal in Fkbp52 -/- mice, suggesting that the implantation defect was
+due to compromised progesterone function. Northern blot and in situ
+hybridization analyses showed downregulated expression of
+progesterone-responsive genes in Fkbp52 -/- uteri. Tranguch et al.
+(2005) concluded that FKBP52 is a critical determinant of uterine
+progesterone actions in preparing the uterus for blastocyst
+implantation.
+
+Tranguch et al. (2007) demonstrated implantation failure in female
+Fkbp52-null C57BL6/129 and CD1 mice. Progesterone supplementation
+rescued implantation and decidualization in CD1, but not C57BL6/129,
+Fkbp52-null females. Experimentally-induced decidualization in the
+absence of blastocysts failed in Fkbp52-null females on either
+background even with progesterone supplementation, suggesting that
+embryonic signaling complements uterine signaling for this event. In
+Fkbp52-null CD1 females, administration of progesterone at higher than
+normal pregnancy levels was sufficient for implantation but failed to
+maintain pregnancy to full term; elevating progesterone levels further
+resulted in successful term pregnancy with normal litter size. Tranguch
+et al. (2007) concluded that the requirement for FKBP52 in uterine
+progesterone/PGR signaling is a function of genetic disparity and is
+pregnancy-stage specific.
+
+Chen et al. (2010) stated that male mice with targeted ablation of
+Fkbp52 develop hypospadias. They found that Fkbp52 expression was
+enriched in the ventral aspect of the developing mouse urethral
+epithelium at embryonic day 18.5, when the final urethra normally forms
+via closure of the enveloping epithelial layers. Scanning electron
+microscopy revealed that Fkbp52 -/- males had reduced elevation of
+prepucial swelling, leading to a defect in urethral seam formation. In
+situ hybridization and immunohistochemical analysis suggested that
+Fkbp52 mutants had a normal urethral epithelium signaling center and
+epithelial differentiation, but Fkbp52 mutant ventral epithelial cells
+had a reduced apoptotic cell index at the site of fusion and a defect in
+genital mesenchymal cell migration in vitro. Supplementation of
+gestating females with excess testosterone partially rescued the
+phenotype. Chromatin immunoprecipitation analysis revealed normal
+occupancy of Ar at Ar-responsive gene promoters, but reduced Ar activity
+at genes controlling sexual dimorphism and cell growth was observed.
+Chen et al. (2010) concluded that Fkbp52 functions downstream of Ar in
+urethra morphogenesis.
+
+REFERENCE 1. Chambraud, B.; Radanyi, C.; Camonis, J. H.; Rajkowski, K.; Schumacher,
+M.; Baulieu, E.-E.: Immunophilins, Refsum disease, and lupus nephritis:
+the peroxisomal enzyme phytanoyl-CoA alpha-hydroxylase is a new FKBP-associated
+protein. Proc. Nat. Acad. Sci. 96: 2104-2109, 1999.
+
+2. Chen, H.; Yong, W.; Hinds, T. D., Jr.; Yang, Z.; Zhou, Y.; Sanchez,
+E. R.; Shou, W.: Fkbp52 regulates androgen receptor transactivation
+activity and male urethra morphogenesis. J. Biol. Chem. 285: 27776-27784,
+2010.
+
+3. Cheung-Flynn, J.; Prapapanich, V.; Cox, M. B.; Riggs, D. L.; Suarez-Quian,
+C.; Smith, D. F.: Physiological role for the cochaperone FKBP52 in
+androgen receptor signaling. Molec. Endocr. 19: 1654-1666, 2005.
+
+4. Fusco, D.; Vargiolu, M.; Vidone, M.; Mariani, E.; Pennisi, L. F.;
+Bonora, E.; Capellari, S; Dirnberger, D.; Baumeister, R.; Martinelli,
+P.; Romeo, G.: The RET51/FKBP52 complex and its involvement in Parkinson
+disease. Hum. Molec. Genet. 19: 2804-2816, 2010.
+
+5. Peattie, D. A.; Harding, M. W.; Fleming, M. A.; DeCenzo, M. T.;
+Lippke, J. A.; Livingston, D. J.; Benasutti, M.: Expression and characterization
+of human FKBP52, an immunophilin that associates with the 90-kDa heat
+shock protein and is a component of steroid receptor complexes. Proc.
+Nat. Acad. Sci. 89: 10974-10978, 1992.
+
+6. Tranguch, S.; Cheung-Flynn, J.; Daikoku, T.; Prapapanich, V.; Cox,
+M. B.; Xie, H.; Wang, H.; Das, S. K.; Smith, D. F.; Dey, S. K.: Cochaperone
+immunophilin FKBP52 is critical to uterine receptivity for embryo
+implantation. Proc. Nat. Acad. Sci. 102: 14326-14331, 2005.
+
+7. Tranguch, S.; Wang, H.; Daikoku, T.; Xie, H.; Smith, D. F.; Dey,
+S. K.: FKBP52 deficiency-conferred uterine progesterone resistance
+is genetic background and pregnancy stage specific. J. Clin. Invest. 117:
+1824-1834, 2007.
+
+CONTRIBUTORS George E. Tiller - updated: 8/23/2013
+Patricia A. Hartz - updated: 7/5/2011
+Marla J. F. O'Neill - updated: 8/2/2007
+Paul J. Converse - updated: 5/3/2007
+Victor A. McKusick - updated: 7/13/1999
+
+CREATED Alan F. Scott: 6/14/1995
+
+EDITED alopez: 09/04/2013
+tpirozzi: 8/23/2013
+mgross: 8/16/2011
+terry: 7/5/2011
+mgross: 3/3/2011
+wwang: 8/15/2007
+terry: 8/2/2007
+mgross: 7/24/2007
+terry: 5/3/2007
+carol: 5/6/2004
+jlewis: 7/28/1999
+terry: 7/13/1999
+alopez: 7/25/1997
+mark: 4/14/1997
+terry: 7/10/1995
+mark: 6/14/1995
+
+605722	TITLE *605722 POTASSIUM CHANNEL, INWARDLY RECTIFYING, SUBFAMILY J, MEMBER 16; KCNJ16
+;;KIR5.1
+DESCRIPTION 
+DESCRIPTION
+
+Inwardly rectifying potassium (Kir) channels are important for
+regulation of the resting membrane potential and control of cellular
+electrical activity. KCNJ16, or Kir5.1, belongs to the Kir family, but
+it does not produce functional potassium channels when expressed by
+itself. Instead, Kir5.1 appears to coassemble selectively with either
+Kir4.1 (KCNJ10; 602208) or Kir4.2 (KCNJ15; 602106) to form novel
+heteromeric channels (summary by D'Adamo et al., 2011).
+
+CLONING
+
+By EST database searching for sequences showing homology to mouse
+Kir5.1, Liu et al. (2000) identified a human EST with 98% sequence
+identity to a segment on chromosome 17. Using the full-length Kir5.1
+mouse clone, they derived the human ortholog, designated KCNJ16, from
+genomic sequence. The KCNJ16 gene encodes a deduced 418-amino acid
+protein with a calculated molecular mass of 48 kD. The protein shares
+over 95% sequence identity with both mouse and rat Kir5.1. RT-PCR
+analysis detected ubiquitous expression of KCNJ16, whereas Northern blot
+analysis detected significant expression of a 4.0-kb transcript in
+kidney, pancreas, and thyroid gland. In situ hybridization demonstrated
+expression of KCNJ16 in convoluted tubule cells of the kidney and in
+acinar and ductal cells of the pancreas. Liu et al. (2000) noted that
+Kir1.1 (KCNJ1; 600359), Kir4.1, and Kir4.2 are all expressed in kidney.
+They suggested that heteromultimers of these potassium channel proteins
+in kidney and pancreas may play a role in ion transport, fluid
+regulation, and pH balance.
+
+By database searching with sequences from rat Kir5.1, Derst et al.
+(2001) independently assembled a human KCNJ16 cDNA, which they called
+Kir5.1. They predicted that Kir5.1 encodes a protein of 418 amino acids
+that shares 91% amino acid identity with rat and mouse Kir5.1. They
+noted that Kir5.1 shares 40 to 43% amino acid identity with members of
+the Kir2 gene family, including Kir2.1 (KCNJ2; 600681), Kir2.2 (KCNJ12;
+602323), Kir2.3, and Kir2.4 (KCNJ14; 603953).
+
+Using in situ hybridization, Derst et al. (2001) detected Kir5.1
+expression restricted to the hindbrain, midbrain, and diencephalon in
+rat brain. Using RT-PCR, they detected KCNJ16 expression in human kidney
+in the proximal tubule, the thick ascending limb, and the cortical
+collecting duct. They noted that KCNJ16 expression overlaps with Kir2.1
+expression in some regions of the brain and kidney.
+
+GENE FUNCTION
+
+Derst et al. (2001) found that when Kir5.1 was expressed in Xenopus
+oocytes, it was targeted to the cell surface and formed electrically
+silent channels together with Kir2.1, thus negatively controlling Kir2.1
+channel activity in native cells.
+
+By electrophysiologic recording of HEK293T cells transfected with rat
+cDNAs, Tanemoto et al. (2000) showed that Kir4.1, but not Kir5.1, formed
+functional homomeric K+ channels sensitive to intracellular, but not
+extracellular, pH. Heteromeric Kir4.1/Kir5 channels were functional and
+showed channel properties different than those of homomeric Kir4.1
+channels. For both Kir4.1 and Kir4.1/Kir5.1 channels, response to pH
+disappeared at pH 5.5 and increased in a pH-dependent manner between pH
+6.5 and pH 8.0. Kir4.1/Kir5.1 channels had larger conductance, altered
+kinetics, and greater sensitivity to pH than Kir4.1 channels.
+Kir4.1/Kir5.1 channels opened in bursts, and the closed period between
+bursts was influenced by intracellular pH.
+
+In cotransfection experiments, Tanemoto et al. (2002) showed that Kir5.1
+assembles to form a functional homomeric potassium channel by
+interacting with PSD95 (602887). Kir5.1 expressed alone was distributed
+mostly in the cytoplasm, but Kir5.1 coexpressed with PSD95 was located
+on the plasma membrane in a clustered manner. Using GST pull-down
+studies, Tanemoto et al. (2002) identified domains responsible for
+Kir5.1/PSD95 interaction. They found that protein kinase A
+(PKA)-mediated phosphorylation of Kir5.1 disrupted the binding of Kir5.1
+with PSD95. Tanemoto et al. (2002) hypothesized that Kir5.1/PSD95 forms
+a functional brain potassium channel that may be a physiologic target of
+PKA-mediated signaling.
+
+GENE STRUCTURE
+
+Derst et al. (2001) determined that the KCNJ16 gene is encoded by 5
+exons spanning approximately 60 kb. They noted that KCNJ16 and KCNJ2 are
+separated by only 34 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Liu et al. (2000) mapped the KCNJ16 gene
+to chromosome 17q25. By the same method, Derst et al. (2001) assigned
+KCNJ16 to chromosome 17q23.1-q24.2, near KCNJ2.
+
+ANIMAL MODEL
+
+D'Adamo et al. (2011) found that, despite widespread Kir5.1 expression,
+Kir5.1 -/- mice were born at the expected mendelian ratio, were viable
+and fertile, and showed no behavioral or physical abnormalities.
+However, whole-cell patch clamp experiments showed that neurons cultured
+from the locus ceruleus (LC) of Kir5.1 -/- mice exhibited reduced
+response to intracellular pH compared with wildtype LC neurons. Both the
+kinetics and amplitude of firing of Kir5.1 -/- LC neurons were altered
+in response to NH4Cl application or elevated soluble CO2. D'Adamo et al.
+(2011) concluded that Kir5.1/Kir4.1 channels of the LC respond to
+hypercapnic acidosis.
+
+REFERENCE 1. D'Adamo, M. C.; Shang, L.; Imbrici, P.; Brown, S. D. M.; Pessia,
+M.; Tucker, S. J.: Genetic inactivation of Kcnj16 identifies Kir5.1
+as an important determinant of neuronal PCO2/pH sensitivity. J. Biol.
+Chem. 286: 192-198, 2011.
+
+2. Derst, C.; Karschin, C.; Wischmeyer, E.; Hirsch, J. R.; Preisig-Muller,
+R.; Rajan, S.; Engel, H.; Grzeschik, K.-H.; Daut, J.; Karschin, A.
+: Genetic and functional linkage of Kir5.1 and Kir2.1 channel subunits. FEBS
+Lett. 491: 305-311, 2001.
+
+3. Liu, Y.; McKenna, E.; Figueroa, D. J.; Blevins, R.; Austin, C.
+P.; Bennett, P. B.; Swanson, R.: The human inward rectifier K+ channel
+subunit Kir5.1 (KCNJ16) maps to chromosome 17q25 and is expressed
+in kidney and pancreas. Cytogenet. Cell Genet. 90: 60-63, 2000.
+
+4. Tanemoto, M.; Fujita, A.; Higashi, K.; Kurachi, Y.: PSD-95 mediates
+formation of a functional homomeric Kir5.1 channel in the brain. Neuron 34:
+387-397, 2002.
+
+5. Tanemoto, M.; Kittaka, N.; Inanobe, A.; Kurachi, Y.: In vivo formation
+of a proton-sensitive K+ channel by heteromeric subunit assembly of
+Kir5.1 with Kir4.1. J. Physiol. 525: 587-592, 2000.
+
+CONTRIBUTORS Matthew B. Gross - updated: 6/9/2011
+Patricia A. Hartz - updated: 6/1/2011
+Dawn Watkins-Chow - updated: 12/18/2002
+
+CREATED Yen-Pei C. Chang: 3/8/2001
+
+EDITED terry: 11/29/2012
+mgross: 6/9/2011
+terry: 6/1/2011
+carol: 2/4/2003
+tkritzer: 12/18/2002
+carol: 3/8/2001
+
+605960	TITLE *605960 EXOSOME COMPONENT 10; EXOSC10
+;;POLYMYOSITIS/SCLERODERMA AUTOANTIGEN 2; PMSCL2;;
+POLYMYOSITIS/SCLERODERMA AUTOANTIGEN, 100-KD;;
+PMSCL AUTOANTIGEN, 100-KD
+DESCRIPTION 
+CLONING
+
+Antinucleolar antibodies are found in patients with scleroderma or
+polymyositis or in patients with overlap of these 2 syndromes. The 2
+most prominent proteins in this PMSCL autoantigen complex, PMSCL1
+(606180) and PMSCL2, are detected as 75- and 100-kD molecules,
+respectively. By screening a thymocyte cDNA library with PMSCL sera,
+followed by 5-prime RACE, Ge et al. (1992) obtained a cDNA encoding
+PMSCL2. The deduced 860-amino acid protein contains 2 potential
+N-glycosylation sites and multiple potential phosphorylation sites.
+Northern blot analysis revealed expression of a 2.7-kb transcript.
+Immunoblot analysis confirmed the identity of native and recombinant
+100-kD PMSCL2 proteins.
+
+Using affinity-purified anti-100-kD antibodies to screen a HeLa cell
+cDNA library, followed by probing a placenta cDNA library, Bluthner and
+Bautz (1992) isolated a cDNA encoding PMSCL2. Sequence analysis
+predicted that the 885-amino acid protein contains a stretch of amino
+acids also found in serine/threonine kinases. Epitope mapping indicated
+a major epitope is localized between residues 153 and 324.
+Immunofluorescence microscopy using rabbit antisera raised against the
+recombinant protein demonstrated nucleolar localization.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PMSCL2
+gene to chromosome 1 (TMAP stSG39098).
+
+REFERENCE 1. Bluthner, M.; Bautz, F. A.: Cloning and characterization of the
+cDNA coding for a polymyositis-scleroderma overlap syndrome-related
+nucleolar 100-kD protein. J. Exp. Med. 176: 973-980, 1992.
+
+2. Ge, Q.; Frank, M. B.; O'Brien, C.; Targoff, I. N.: Cloning of
+a complementary DNA coding for the 100-kD antigenic protein of the
+PM-Scl autoantigen. J. Clin. Invest. 90: 559-570, 1992.
+
+CREATED Paul J. Converse: 5/23/2001
+
+EDITED carol: 05/10/2005
+mgross: 8/8/2001
+mgross: 5/23/2001
+
+604988	TITLE *604988 SOLUTE CARRIER ORGANIC ANION TRANSPORTER FAMILY, MEMBER 2B1; SLCO2B1
+;;ORGANIC ANION TRANSPORTER B; OATPB;;
+ORGANIC ANION TRANSPORTER 2B1; OATP2B1;;
+SOLUTE CARRIER FAMILY 21 (ORGANIC ANION TRANSPORTER), MEMBER 9, FORMERLY;
+SLC21A9, FORMERLY
+DESCRIPTION 
+CLONING
+
+By screening human brain cDNAs for the potential to encode proteins that
+are at least 50 kD, Nagase et al. (1998) isolated an SLC21A9 cDNA, which
+they called KIAA0880, that contains a complete coding sequence. The
+predicted 709-amino acid SLC21A9 protein contains 8 membrane-spanning
+regions. SLC21A9 shares 42.8% amino acid sequence identity with a rat
+prostaglandin transporter across 678 residues. RT-PCR followed by ELISA
+detected SLC21A9 expression in all human tissues examined, with the
+highest expression in liver, lower expression in lung, ovary, brain,
+heart, kidney, pancreas, spleen, and testis, and lowest expression in
+skeletal muscle.
+
+By searching EST databases for sequences similar to OATP (SLCO1A2;
+602883), followed by RT-PCR of adult brain RNA, Tamai et al. (2000)
+cloned SLCO2B1, which they designated OATPB. The deduced 709-amino acid
+protein has 12 potential transmembrane regions and several
+phosphorylation and N-glycosylation sites. RT-PCR detected OATPB
+expression in adult pancreas, liver, lung, gut, ovary, testis, and
+spleen, and in all fetal tissues examined.
+
+GENE FUNCTION
+
+Organic anion-transporting polypeptides (OATPs) are a family of
+multispecific carriers that mediate the sodium-independent transport of
+steroid hormone and conjugates, drugs, and numerous anionic endogenous
+substrates. St-Pierre et al. (2002) investigated whether members of the
+OATP gene family could mediate fetal-maternal transfer of anionic
+steroid conjugates in the human placenta. They isolated OATPB from a
+placenta cDNA library. An antiserum to OATPB detected an 85-kD protein
+in basal but not apical syncytiotrophoblast membranes.
+Immunohistochemistry of first-, second-, and third-trimester placenta
+showed staining in the cytotrophoblast membranes and at the basal
+surface of the syncytiotrophoblast. Trophoblasts that reacted with an
+antibody to Ki-67, a proliferation-associated antigen, expressed lower
+levels of OATPB. OATPB mRNA levels were measured in isolated
+trophoblasts under culture conditions that promoted syncytia formation.
+Real-time quantitative PCR estimated an 8-fold increase in OATPB
+expression on differentiation to syncytia. Pregnenolone sulfate
+partially inhibited OATPB-mediated transport of estrone-3-sulfate in an
+oocyte expression system. The authors concluded that these findings
+suggested a physiologic role for OATPB in the placental uptake of
+fetal-derived sulfated steroids.
+
+Tamai et al. (2000) overexpressed OATPB in HEK293 cells and found that
+it mediated transport of estrone-3-sulfate and, more weakly,
+prostaglandin E2.
+
+MAPPING
+
+By analysis of a radiation hybrid mapping panel, Nagase et al. (1998)
+mapped the SLC21A9 gene to chromosome 11. By radiation hybrid analysis,
+Tamai et al. (2000) mapped the SLCO2B1 gene to chromosome 11, between
+markers D11S916 and D11S911.
+
+REFERENCE 1. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 5: 355-364, 1998.
+
+2. St-Pierre, M. V.; Hagenbuch, B.; Ugele, B.; Meier, P. J.; Stallmach,
+T.: Characterization of an organic anion-transporting polypeptide
+(OATP-B) in human placenta. J. Clin. Endocr. Metab. 87: 1856-1863,
+2002.
+
+3. Tamai, I.; Nezu, J.; Uchino, H.; Sai, Y.; Oku, A.; Shimane, M.;
+Tsuji, A.: Molecular identification and characterization of novel
+members of the human organic anion transporter (OATP) family. Biochem.
+Biophys. Res. Commun. 273: 251-260, 2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/29/2008
+John A. Phillips, III - updated: 10/8/2002
+
+CREATED Patti M. Sherman: 5/23/2000
+
+EDITED mgross: 11/21/2008
+terry: 10/29/2008
+mgross: 11/4/2004
+cwells: 11/12/2003
+alopez: 10/8/2002
+mcapotos: 6/6/2000
+psherman: 5/23/2000
+
+612209	TITLE *612209 MESOGENIN 1; MSGN1
+DESCRIPTION 
+CLONING
+
+Basic helix-loop-helix (bHLH) proteins are transcriptional regulatory
+proteins that govern cell fate determination and tissue differentiation
+in the embryo. Yoon and Wold (2000) identified a novel bHLH gene, which
+they designated mesogenin-1, in mouse and Xenopus. In both organisms the
+gene is specifically expressed in unsegmented paraxial mesoderm and its
+immediate progenitors.
+
+GENE FUNCTION
+
+Yoon and Wold (2000) found that a striking feature of mesogenin-1
+expression is that it terminates abruptly in presumptive somites
+(somitomeres). In functional assays, mesogenin-1 from either mouse or
+frog efficiently drove nonmesodermal cells to assume a phenotype with
+molecular and cellular characteristics of early paraxial mesoderm.
+
+To determine the mechanism controlling somite number, Gomez et al.
+(2008) compared somitogenesis in zebrafish, chicken, mouse, and corn
+snake embryos. They presented evidence that in all of these species a
+similar 'clock-and-wavefront' mechanism operates to control
+somitogenesis; in all of them, somitogenesis is brought to an end
+through a process in which the presomitic mesoderm, having first
+increased in size, gradually shrinks until it is exhausted, terminating
+somite formation. Using MSGN1 expression as a readout for posterior
+gradients, Gomez et al. (2008) were able to show that in snake embryos,
+the segmentation clock rate is much faster relative to developmental
+rate than in other amniotes, leading to a greatly increased number of
+smaller-sized somites.
+
+MAPPING
+
+Hartz (2008) mapped the MSGN1 gene to chromosome 2p24.2 based on an
+alignment of mouse Msgn1 (GenBank GENBANK AF261105) with the human
+genomic sequence (build 36.1). Mouse and human MSGN1 share 90.2%
+nucleotide sequence identity.
+
+ANIMAL MODEL
+
+Yoon and Wold (2000) found that deletion of the mouse mesogenin-1 gene
+caused complete failure of somite formation and segmentation of body
+trunk and tail, leading to complete absence of all trunk paraxial
+mesoderm derivatives, including skeletal muscle, vertebrae, and ribs at
+14.5 days postcoitus. Axial and lateral mesoderm developed normally. At
+the molecular level, there was dramatic loss of expression within
+presomitic mesoderm of Notch (see 190198)/Delta (see 606582) pathway
+components and oscillating somitic clock genes that are thought to
+control segmentation and somitogenesis.
+
+REFERENCE 1. Gomez, C.; Ozbudak, E. M.; Wunderlich, J.; Baumann, D.; Lewis,
+J.; Pourquie, O.: Control of segment number in vertebrate embryos. Nature 454:
+335-339, 2008.
+
+2. Hartz, P. H.: Personal Communication. Baltimore, Md.  7/29/2008.
+
+3. Yoon, J. K.; Wold, B.: The bHLH regulator pMesogenin1 is required
+for maturation and segmentation of paraxial mesoderm. Genes Dev. 14:
+3204-3214, 2000.
+
+4. Yoon, J. K.; Wold, B.: The bHLH class protein pMesogenin1 can
+specify paraxial mesoderm phenotypes. Dev. Biol. 222: 376-391, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/12/2008
+
+CREATED Patricia A. Hartz: 7/30/2008
+
+EDITED alopez: 08/25/2008
+terry: 8/12/2008
+carol: 7/30/2008
+
+601989	TITLE *601989 S100 CALCIUM-BINDING PROTEIN A13; S100A13
+DESCRIPTION Wicki et al. (1996) reported the characterization of a human gene they
+symbolized S100A13, a calcium-binding protein belonging to the S100
+protein family. S100 proteins are small EF-hand calcium-binding proteins
+of variable lengths and sequence identities. At least 12 of 15 members
+of the family are clustered on chromosome 1q21 (see S100A1; 176940);
+S100A13 likewise colocalizes with S100A1 on the 1q21 cluster. The
+predicted 98 amino acid S100A13 protein shows sequence homologies to
+other S100 proteins between 50.5% (S100A5; 176991) and 59.3% (S100A12;
+603112). Northern blot analysis showed high amounts of S100A13 mRNA in
+adult skeletal muscle, heart, kidney, ovary, spleen, small intestine,
+and pancreas and in fetal lung, heart, cochlea, liver, spleen, and
+parathyroid tumor cells. Moderate levels were detected in all other
+tissues examined, with the exception of placenta and leukocytes, which
+had very low or undetectable levels. Wicki et al. (1996) also cloned the
+mouse S100A13 gene. Mouse S100A13 is composed of 98 amino acids and
+displays 86.7% homology compared to human S100A13.
+
+REFERENCE 1. Wicki, R.; Schafer, B. W.; Erne, P.; Heizmann, C. W.: Characterization
+of the human and mouse cDNAs coding for S100A13, a new member of the
+S100 protein family. Biochem. Biophys. Res. Commun. 227: 594-599,
+1996.
+
+CREATED Ethylin Wang Jabs: 9/11/1997
+
+EDITED alopez: 10/09/1998
+joanna: 1/9/1998
+terry: 9/11/1997
+
+608210	TITLE *608210 EXOSTOSIN GLYCOSYLTRANSFERASE 2; EXT2
+;;EXOSTOSIN 2
+DESCRIPTION 
+CLONING
+
+Hecht et al. (1995) identified the candidate region for the gene
+responsible for hereditary multiple exostoses linked to chromosome 11
+(133701) in an affected patient who also had a chondrosarcoma. By
+positional cloning and use of a chromosome 11-specific fetal brain cDNA
+library, Stickens et al. (1996) identified the putative EXT2 gene, which
+was predicted to encode a 718-amino acid protein with a molecular mass
+of 82 kD. Both protein and DNA sequence-based algorithms detected
+significant similarity with the product of the EXT1 gene (608177),
+suggesting that the 2 genes are evolutionarily and functionally related.
+Northern blot analysis detected a major 3.5-kb mRNA transcript and a
+minor band of 3.7 to 4.0 kb in most tissues. Stickens et al. (1996)
+suggested that the EXT2 gene may be expressed as a complex set of
+alternatively spliced forms.
+
+Wuyts et al. (1996) constructed a contig of YAC and P1 clones covering
+the EXT2 candidate region on chromosome 11p12-p11. The EXT2 region had
+been defined in large families with multiple exostoses by linkage
+analysis. They also defined the candidate region through deletion
+analysis in families with the Potoki-Shaffer syndrome (601224). From the
+EXT2 candidate region, Wuyts et al. (1996) isolated a transcribed
+sequence with homology to EXT1. Alignment of the EXT1 and EXT2 genes at
+the amino acid level revealed an overall sequence identity of 30.9%. The
+amino acid homology is 18% in the 5-prime region and 48% in the 3-prime
+region.
+
+Stickens and Evans (1997) isolated and characterized the mouse EXT2
+gene. They found that the mouse EXT2 cDNA contains an open reading frame
+encoding a predicted protein of 718 amino acids. The mouse amino acid
+sequence is 95% identical to the human EXT2 protein. Northern blot
+analysis showed that the gene is expressed in early stages of embryonic
+development, and in situ hybridization suggested that EXT2 plays a role
+in limb development.
+
+Clines et al. (1997) noted that at least 2 homologs of the human and
+mouse EXT2 genes were found in Caenorhabditis elegans, suggesting to the
+authors that the genes do not function exclusively as regulators of bone
+growth.
+
+GENE STRUCTURE
+
+Clines et al. (1997) found that the EXT2 gene consists of 14 exons, plus
+2 alternative exons.
+
+MAPPING
+
+By positional cloning, Stickens et al. (1996) identified the EXT2 gene
+in the multiple exostoses type II critical region on chromosome
+11p12-p11. Clines et al. (1997) mapped the mouse Ext2 gene to chromosome
+2. Information on the mapping of the EXT2 locus to 11p12-p11 was
+provided by Wu et al. (1994), Hecht et al. (1995), Wuyts et al. (1995),
+and Blanton et al. (1996), using linkage methods.
+
+GENE FUNCTION
+
+Hecht et al. (1995) and Raskind et al. (1995) presented evidence
+suggesting that the EXT1 gene on chromosome 8 and the EXT2 gene on
+chromosome 11 have a tumor suppressor function. They found loss of
+heterozygosity (LOH) for markers linked to these 2 genes in
+chondrosarcomas originating in individuals with multiple exostoses as
+well as in sporadic chondrosarcomas. To explain the fact that normal
+bone growth occurs concurrently with abnormal exostosis tumor growth,
+Hecht et al. (1995) and Raskind et al. (1995) proposed a 2-hit tumor
+formation model according to the Knudson hypothesis (Knudson, 1971). In
+this model, a single germline mutation results in the predisposition for
+disease and a second somatic mutational hit, usually LOH, allows for
+aberrant growth.
+
+In addition to their presumed role as tumor suppressor genes, EXT1 and
+EXT2 may have roles in modulation of the hedgehog signaling pathway (see
+600725) and glycosaminoglycan synthesis. Bellaiche et al. (1998)
+determined that the Drosophila homolog of EXT1, dubbed 'tout-velu,' is
+required for diffusion of the signaling protein hedgehog. Lind et al.
+(1998) concluded that EXT1 and EXT2 are glycosyltransferases, based on
+copurification of EXT2 in a bovine serum extract exhibiting this
+enzymatic activity as well as increased glycosyltransferase activity in
+cells overexpressing EXT2 in vitro. Simmons et al. (1999) used a yeast
+2-hybrid system to document a protein interaction between the EXT2 gene
+product and a novel UDP-GalNAc:polypeptide
+N-acetylgalactosaminyltransferase. This interaction was abrogated by a
+disease-causing EXT mutation. The authors contended that the data
+described the first direct physical link between EXT proteins and
+components of glycosaminoglycan synthesis.
+
+Using yeast 2-hybrid analysis, Simmons et al. (1999) found that a
+conserved C-terminal region of EXT2 interacted with TRAP1 (606219) and
+the glycosyltransferase GALNT5 (615129). Deletion of a conserved
+histidine in EXT2 (his601) weakened its interaction with GALNT5 and
+abrogated its interaction with TRAP1.
+
+McCormick et al. (2000) noted that the proteins encoded by the EXT1 and
+EXT2 genes are endoplasmic reticulum-localized type II transmembrane
+glycoproteins that possess or are tightly associated with
+glycosyltransferase activities involved in the polymerization of heparan
+sulfate. By testing a cell line with a specific defect in EXT1 in in
+vivo and in vitro assays, McCormick et al. (2000) showed that EXT2 does
+not harbor significant glycosyltransferase activity in the absence of
+EXT1. Instead, it appears that EXT1 and EXT2 form a heterooligomeric
+complex in vivo that leads to the accumulation of both proteins in the
+Golgi apparatus. Remarkably, the Golgi-localized EXT1/EXT2 complex
+possesses substantially higher glycosyltransferase activity than EXT1 or
+EXT2 alone, suggesting that the complex represents the biologically
+relevant form of the enzyme(s). These findings provided a rationale for
+the causation of hereditary multiple exostoses by loss of activity in
+either of the 2 EXT genes.
+
+MOLECULAR GENETICS
+
+In a family with multiple exostoses (133701), Stickens et al. (1996)
+identified a 4-bp deletion in the EXT2 gene (608210.0001), resulting in
+a premature stop codon and truncated gene product. Stickens et al.
+(1996) speculated that a second mutation event was necessary for the
+development of exostoses, thus accounting for the asymmetry of exostoses
+observed in the long bones.
+
+In 2 families with multiple exostoses, Wuyts et al. (1996) identified 2
+different mutations in the EXT2 gene: a nonsense mutation (608210.0002)
+and a splice site mutation (608210.0003). In 5 of 17 (29%) families with
+hereditary multiple exostoses, Philippe et al. (1997) identified 4
+mutations in the EXT2 gene, including a missense mutation (608210.0004)
+and 3 alterations that resulted in premature stop codons. Seven (41%) of
+the families had mutations in the EXT1 gene.
+
+Wuyts et al. (1998) analyzed the EXT1 and EXT2 genes in 26 EXT families
+originating from 9 countries. Of the 26 families, 10 had an EXT1
+mutation and 10 had an EXT2 mutation. Twelve of these mutations had not
+previously been described. From a review of these and previously
+reported mutations, Wuyts et al. (1998) concluded that mutations in
+either the EXT1 or the EXT2 gene are responsible for most cases of
+multiple exostoses. Most of the mutations in these 2 genes cause
+premature termination of the EXT proteins, whereas missense mutations
+are rare. The authors concluded that the development of exostoses is
+mainly due to loss of function of EXT genes, consistent with the
+hypothesis that the EXT genes have a tumor suppressor function.
+
+Analyzing for EXT1 and EXT2 mutations in 34 sporadic and hereditary
+osteochondromas and secondary peripheral chondrosarcomas, Bovee et al.
+(1999) found mutations in the EXT1 gene, but none in the EXT2 gene.
+
+Wuyts and Van Hul (2000) stated that 49 different EXT1 and 25 different
+EXT2 mutations had been identified in patients with multiple exostoses
+and that mutations in these 2 genes were responsible for over 70% of the
+EXT cases. Most of the mutations caused loss of function, which is
+consistent with the presumed tumor suppressor function of the EXT genes.
+
+By fluorescence in situ hybridization, Ligon et al. (1998) showed that
+the EXT2 gene is deleted in patients with the del(11)(p11.2p12)
+syndrome. Since patients with mutations in EXT2 have only multiple
+exostoses, deletions affecting only the EXT2 locus cannot explain the
+craniofacial anomalies, biparietal foramina, mental retardation, or
+genitourinary anomalies observed in patients with proximal 11p
+deletions. Therefore, deletion of other neighboring genes must be
+responsible for the additional anomalies, and this chromosomal
+aberration represents a true contiguous gene deletion syndrome.
+
+Heinritz et al. (2009) identified 9 different mutations in the EXT2 gene
+in 11 of 23 German patients with multiple exostoses. Eleven other
+patients had mutations in the EXT1 gene; 1 patient had no detectable
+mutations. Among the EXT2 mutations, there were 3 recurrent mutations,
+Q172X (608210.0002), D227N (608210.0004), and Q258X (608210.0006), and 6
+novel mutations (see, e.g., 608210.0007).
+
+ALLELIC VARIANT .0001
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, 4-BP DEL
+
+In a family with multiple exostoses type II (133701), Stickens et al.
+(1996) identified a 4-bp deletion (784-787) in the EXT2 gene, resulting
+in a frameshift and premature termination of translation, generating a
+truncated EXT2 gene product.
+
+.0002
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, GLN172TER
+
+In a large EXT2 (133701) family, Wuyts et al. (1996) identified a 514C-T
+transition in the EXT2 gene, resulting in a gln172-to-ter (Q172X)
+substitution. The mutation was detected by SSCP analysis.
+
+Heinritz et al. (2009) identified the Q172X mutation in a German patient
+with EXT2.
+
+.0003
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, IVSDS, G-A, +1
+
+In a large Belgian EXT2 (133701) family, Wuyts et al. (1996) described a
+G-A transition within a 5-prime donor splice site of EXT2, resulting in
+aberrant splicing, exon skipping, and loss of 94 nucleotides of the
+transcript (nucleotides 1080-1173) corresponding to amino acid residues
+alanine-361 through glutamine-391. The deletion also produced a
+frameshift and generated a stop signal at codon 404.
+
+.0004
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, ASP227ASN
+
+In 2 families with multiple exostoses type II (133701), Philippe et al.
+(1997) found that the probands had a G-A transition in exon 4 of the
+EXT2 gene, resulting in an asp227-to-asn (D227N) substitution.
+
+Heinritz et al. (2009) identified the D227N mutation in 3 unrelated
+German patients with multiple exostoses. One patient developed a pelvic
+chondrosarcoma at age 40 years: tumor DNA showed loss of heterozygosity
+at the EXT1 and EXT2 loci.
+
+.0005
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, TYR222TER
+
+In a family with multiple exostoses type II (133701), Philippe et al.
+(1997) found a C-G transversion in exon 4 of the EXT2 gene, resulting in
+a stop codon (Y222X).
+
+.0006
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, GLN258TER
+
+In a German patient with multiple exostoses type II (113701), Heinritz
+et al. (2009) identified a heterozygous 772C-T transition in the EXT2
+gene, resulting in a gln258-to-ter (Q258X) substitution.
+
+.0007
+EXOSTOSES, MULTIPLE, TYPE II
+EXT2, IVS4AS, A-C, -2
+
+In a German patient with multiple exotoses type II (113701), Heinritz et
+al. (2009) identified a heterozygous A-to-C transversion (744-2A-C) in a
+highly conserved nucleotide in intron 4 of the EXT2 gene. RT-PCR
+analysis identified 2 different splice variants skipping either only
+exon 5 or both exons 5 and 6. Loss of exon 5 results in a frameshift and
+premature termination, whereas loss of exons 5 and 6 leads to an
+in-frame deletion of 112 residues important for catalytic activity of
+the protein.
+
+REFERENCE 1. Bellaiche, Y.; The, I.; Perrimon, N.: Tout-velu is a Drosophila
+homologue of the putative tumour suppressor EXT-1 and is needed for
+Hh diffusion. Nature 394: 85-88, 1998.
+
+2. Blanton, S. H.; Hogue, D.; Wagner, M.; Wells, D.; Young, I. D.;
+Hecht, J. T.: Hereditary multiple exostoses: confirmation of linkage
+to chromosomes 8 and 11. Am. J. Med. Genet. 62: 150-159, 1996.
+
+3. Bovee, J. V. M. G.; Cleton-Jansen, A.-M.; Wuyts, W.; Caethoven,
+G.; Taminiau, A. H. M.; Bakker, E.; Van Hul, W.; Cornelisse, C. J.;
+Hogendoorn, P. C. W.: EXT-mutation analysis and loss of heterozygosity
+in sporadic and hereditary osteochondromas and secondary chondrosarcomas. Am.
+J. Hum. Genet. 65: 689-698, 1999.
+
+4. Clines, G. A.; Ashley, J. A.; Shah, S.; Lovett, M.: The structure
+of the human multiple exostoses 2 gene and characterization of homologs
+in mouse and Caenorhabditis elegans. Genome Res. 7: 359-367, 1997.
+
+5. Hecht, J. T.; Hogue, D.; Strong, L. C.; Hansen, M. F.; Blanton,
+S. H.; Wagner, M.: Hereditary multiple exostosis and chondrosarcoma:
+linkage to chromosome 11 and loss of heterozygosity for EXT-linked
+markers on chromosomes 11 and 8. Am. J. Hum. Genet. 56: 1125-1131,
+1995.
+
+6. Heinritz, W.; Huffmeier, U.; Strenge, S.; Miterski, B.; Zweier,
+C.; Leinung, S.; Bohring, A.; Mitulla, B.; Peters, U.; Froster, U.
+G.: New mutations of EXT1 and EXT2 genes in German patients with
+multiple osteochondromas. Ann. Hum. Genet. 73: 283-291, 2009.
+
+7. Knudson, A. G., Jr.: Mutation and cancer: statistical study of
+retinoblastoma. Proc. Nat. Acad. Sci. 68: 820-823, 1971.
+
+8. Ligon, A. H.; Potocki, L.; Shaffer, L. G.; Stickens, D.; Evans,
+G. A.: Gene for multiple exostoses (EXT2) maps to 11(p11.2p12) and
+is deleted in patients with a contiguous gene syndrome. (Letter) Am.
+J. Med. Genet. 75: 538-540, 1998.
+
+9. Lind, T.; Tufaro, F.; McCormick, C.; Lindahl, U.; Lidholt, K.:
+The putative tumor suppressors EXT1 and EXT2 are glycosyltransferases
+required for the biosynthesis of heparan sulfate. J. Biol. Chem. 273:
+26265-26268, 1998.
+
+10. McCormick, C.; Duncan, G.; Goutsos, K. T.; Tufaro, F.: The putative
+tumor suppressors EXT1 and EXT2 form a stable complex that accumulates
+in the Golgi apparatus and catalyzes the synthesis of heparan sulfate. Proc.
+Nat. Acad. Sci. 97: 668-673, 2000.
+
+11. Philippe, C.; Porter, D. E.; Emerton, M. E.; Wells, D. E.; Simpson,
+A. H. R. W.; Monaco, A. P.: Mutation screening of the EXT1 and EXT2
+genes in patients with hereditary multiple exostoses. Am. J. Hum.
+Genet. 61: 520-528, 1997.
+
+12. Raskind, W. H.; Conrad, E. U.; Chansky, H.; Matsushita, M.: Loss
+of heterozygosity in chondrosarcomas for markers linked to hereditary
+multiple exostoses loci on chromosomes 8 and 11. Am. J. Hum. Genet. 56:
+1132-1139, 1995.
+
+13. Simmons, A. D.; Musy, M. M.; Lopes, C. S.; Hwang, L.-Y.; Yang,
+Y.-P.; Lovett, M.: A direct interaction between EXT proteins and
+glycosyltransferases is defective in hereditary multiple exostoses. Hum.
+Molec. Genet. 8: 2155-2164, 1999.
+
+14. Simmons, A. D.; Musy, M. M.; Lopes, C. S.; Hwang, L.-Y.; Yang,
+Y.-P.; Lovett, M.: A direct interaction between EXT proteins and
+glycosyltransferases is defective in hereditary multiple exostoses. Hum.
+Molec. Genet. 8: 2155-2164, 1999.
+
+15. Stickens, D.; Clines, G.; Burbee, D.; Ramos, P.; Thomas, S.; Hogue,
+D.; Hecht, J. T.; Lovett, M.; Evans, G. A.: The EXT2 multiple exostoses
+gene defines a family of putative tumour suppressor genes. Nature
+Genet. 14: 25-32, 1996.
+
+16. Stickens, D.; Evans, G. A.: Isolation and characterization of
+the murine homolog of the human EXT2 multiple exostoses gene. Biochem.
+Molec. Med. 61: 16-21, 1997.
+
+17. Wu, Y.-Q.; Heutink, P.; de Vries, B. B. A.; Sandkuijl, L. A.;
+van den Ouweland, A. M. W.; Niermeijer, M. F.; Galjaard, H.; Reyniers,
+E.; Willems, P. J.; Halley, D. J. J.: Assignment of a second locus
+for multiple exostoses to the pericentromeric region of chromosome
+11. Hum. Molec. Genet. 3: 167-171, 1994.
+
+18. Wuyts, W.; Ramlakhan, S.; Van Hul, W.; Hecht, J. T.; van den Ouweland,
+A. M. W.; Raskind, W. H.; Hofstede, F. C.; Reyniers, E.; Wells, D.
+E.; de Vries, B.; Conrad, E. U.; Hill, A.; Zalatayev, D.; Weissenbach,
+J.; Wagner, M. J.; Bakker, E.; Halley, D. J. J.; Willems, P. J.:
+Refinement of the multiple exostoses locus (EXT2) to a 3-cM interval
+on chromosome 11. Am. J. Hum. Genet. 57: 382-387, 1995.
+
+19. Wuyts, W.; Van Hul, W.: Molecular basis of multiple exostoses:
+mutations in the EXT1 and EXT2 genes. Hum. Mutat. 15: 220-227, 2000.
+
+20. Wuyts, W.; Van Hul, W.; De Boulle, K.; Hendrickx, J.; Bakker,
+E.; Vanhoenacker, F.; Mollica, F.; Ludecke, H.-J.; Sayli, B. S.; Pazzaglia,
+U. E.; Mortier, G.; Hamel, B.; Conrad, E. U.; Matsushita, M.; Raskind,
+W. H.; Willems, P. J.: Mutations in the EXT1 and EXT2 genes in hereditary
+multiple exostoses. Am. J. Hum. Genet. 62: 346-354, 1998.
+
+21. Wuyts, W.; Van Hul, W.; Wauters, J.; Nemtsova, M.; Reyniers, E.;
+Van Hul, E.; De Boulle, K.; de Vries, B. B. A.; Hendrickx, J.; Herrygers,
+I.; Bossuyt, P.; Balemans, W.; Fransen, E.; Vits, L.; Coucke, P.;
+Nowak, N. J.; Shows, T. B.; Mallet, L.; van den Ouweland, A. M. W.;
+McGaughran, J.; Halley, D. J. J.; Willems, P. J.: Positional cloning
+of a gene involved in hereditary multiple exostoses. Hum. Molec.
+Genet. 5: 1547-1557, 1996.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/28/2013
+Cassandra L. Kniffin - updated: 11/10/2009
+Victor A. McKusick - updated: 1/14/2004
+
+CREATED Cassandra L. Kniffin: 10/28/2003
+
+EDITED carol: 10/11/2013
+carol: 9/19/2013
+mgross: 3/22/2013
+terry: 2/28/2013
+wwang: 3/3/2010
+wwang: 12/8/2009
+ckniffin: 11/10/2009
+terry: 1/14/2004
+carol: 10/30/2003
+ckniffin: 10/29/2003
+
+606110	TITLE *606110 LY6/NEUROTOXIN 1; LYNX1
+;;SECRETED LY6/PLAUR DOMAIN-CONTAINING PROTEIN 2; SLURP2;;
+SECRETED LY6/UPAR-RELATED PROTEIN 2
+DESCRIPTION 
+DESCRIPTION
+
+The LYNX1 gene encodes a protein that shares characteristics with toxins
+that bind and inhibit nicotinic acetylcholine receptors (nAChR; see,
+e.g., CHRNA1, 100690) (Miwa et al., 1999). Components of snake venoms
+often have structural and functional mammalian homologs. For example,
+hemolytic snake venom toxins are related to cellular phospholipases
+(e.g., PLA2G1B; 172410), and snake sarafotoxins may be related to
+vertebrate endothelins (e.g., EDN1; 131240). The elapid venom
+alpha-bungarotoxin also binds to and inhibits nAChR.
+
+CLONING
+
+By screening for central nervous system-specific, developmentally
+regulated cDNAs in mouse, Miwa et al. (1999) identified a cDNA encoding
+GC26, which was expressed in mouse cerebellum. Sequence analysis
+predicted that the 116-amino acid protein contains a signal sequence at
+its N terminus, a cysteine-rich consensus motif characteristic of LY6
+family proteins (e.g., CD59; 107271) and snake alpha-neurotoxins, and an
+asparagine/GPI anchor motif at its C terminus. The overall structure of
+GC26 is similar to that of LY6 family proteins and snake
+alpha-neurotoxins, and Miwa et al. (1999) redesignated the protein
+'Ly6/neurotoxin-1,' or Lynx1. A partial sequence encoding a human Lynx1
+homolog has been identified (GenBank GENBANK AF321824). Northern blot
+analysis revealed predominant expression of Lynx1 in mouse brain. In
+situ hybridization analysis showed Lynx1 expression in neurons in
+multiple brain structures. Immunocytochemistry demonstrated expression
+of Lynx1 in neuronal soma and proximal dendrites.
+
+Using microarray analysis to identify ESTs expressed predominantly in
+the skin of patients with psoriasis vulgaris (see 177900), followed by
+PCR and RACE of cultured keratinocyte cDNA libraries, Tsuji et al.
+(2003) cloned LYNX1, which they called SLURP2. The deduced 97-amino acid
+protein contains a signal peptide and 10 conserved cysteine residues
+with a spacing pattern characteristic of the LY6 superfamily, but it
+does not have the GPI anchor or transmembrane domains found in
+membrane-bound LY6 proteins. Northern blot analysis detected a 0.6-kb
+transcript in esophagus and a 1.6-kb transcript in stomach and duodenum.
+No expression was detected in other tissues examined, including skin.
+RT-PCR detected abundant LYNX1 expression in cervix and esophagus, with
+lower expression in adult and fetal skin and keratinocytes. Weak
+expression was detected in brain, lung, stomach, small intestine, colon,
+rectum, uterus, and thymus. No expression was detected in spleen and
+bone marrow. Real-time quantitative RT-PCR analysis detected a 3.8- to
+2.8-fold increase in LYNX1 expression in lesional skin from 5 psoriasis
+patients compared with nonlesional skin or normal skin.
+
+GENE FUNCTION
+
+Functional analysis by Miwa et al. (1999) indicated that Lynx1 is not a
+ligand or neurotransmitter but has the capacity to enhance nicotinic
+acetylcholine receptor function in the presence of acetylcholine.
+
+Morishita et al. (2010) identified an increase in expression of Lynx1
+protein in mice that prevented plasticity in the primary visual cortex
+late in life. Removal of this molecular brake enhanced nicotinic
+acetylcholine receptor signaling. Lynx1 expression thus maintains
+stability of mature cortical networks in the presence of cholinergic
+innervation. Morishita et al. (2010) concluded that modulating the
+balance between excitatory and inhibitory circuits reactivates visual
+plasticity.
+
+GENE STRUCTURE
+
+Tsuji et al. (2003) determined that the LYNX1 gene contains 3 exons and
+spans about 5.6 kb. The promoter region contains 3 Sp1 (189906)- and 2
+AP1 (165160)-binding sites, as well as single sites for E2F (189971) and
+GATA3 (131320). It lacks TATA and CAAT consensus sequences. There are 2
+major transcriptional initiation sites.
+
+MAPPING
+
+By genomic sequence analysis, Tsuji et al. (2003) mapped the LYNX1 gene
+to chromosome 8q24.3. Southern blot analysis indicated that LYNX1 is a
+single-copy gene.
+
+EVOLUTION
+
+Human evolution is characterized by a dramatic increase in brain size
+and complexity. To probe its genetic basis, Dorus et al. (2004) examined
+the evolution of genes involved in diverse aspects of nervous system
+biology. These genes, including LYNX1, displayed significantly higher
+rates of protein evolution in primates than in rodents. This trend was
+most pronounced for the subset of genes implicated in nervous system
+development. Moreover, within primates, the acceleration of protein
+evolution was most prominent in the lineage leading from ancestral
+primates to humans. Dorus et al. (2004) concluded that the phenotypic
+evolution of the human nervous system has a salient molecular correlate,
+i.e., accelerated evolution of the underlying genes, particularly those
+linked to nervous system development.
+
+ANIMAL MODEL
+
+Miwa et al. (2006) found that Lynx1 -/- mice showed no gross
+abnormalities in size, viability, CNS morphology, or longevity compared
+to wildtype mice. However, Lynx1-null mice showed increased learning and
+memory in a fear-conditioned paradigm and displayed increased
+sensitivity to nicotine in motor tasks compared to wildtype. Neurons
+from Lynx1-null mice showed heightened sensitivity and increased
+intracellular calcium levels in response to nicotine. Loss of Lynx1
+decreased receptor desensitization and enhanced synaptic efficacy.
+Mutant neurons were also more sensitive to excitotoxic insult, and Lynx1
+mutant mice exhibited age-dependent degeneration that was exacerbated by
+nicotine and rescued by null mutations in nAChR subunits. These data
+supported the hypotheses that Lynx1 normally decreases activity of
+nAChRs and that deletion of Lynx1 shifts the balance in favor of
+increased neuronal activity and synaptic plasticity. But the short-term
+benefits of the loss of Lynx1 were counterbalanced by an increased
+vulnerability of Lynx1 mutant neurons to glutamate toxicity and by loss
+of nicotine's neuroprotective effect on these cells. Miwa et al. (2006)
+concluded that Lynx1 modulates nAChR function to maintain low
+sensitivity and plays a critical role in maintaining a balance between
+the beneficial effects of short-term nAChR activation and the
+degenerative effects of chronic receptor activation.
+
+REFERENCE 1. Dorus, S.; Vallender, E. J.; Evans, P. D.; Anderson, J. R.; Gilbert,
+S. L.; Mahowald, M.; Wyckoff, G. J.; Malcom, C. M.; Lahn, B. T.:
+Accelerated evolution of nervous system genes in the origin of Homo
+sapiens. Cell 119: 1027-1040, 2004.
+
+2. Miwa, J. M.; Ibanez-Tallon, I.; Crabtree, G. W.; Sanchez, R.; Sali,
+A.; Role, L. W.; Heintz, N.: Lynx1, an endogenous toxin-like modulator
+of nicotinic acetylcholine receptors in the mammalian CNS. Neuron 23:
+105-114, 1999.
+
+3. Miwa, J. M.; Stevens, T. R.; King, S. L.; Caldarone, B. J.; Ibanez-Tallon,
+I.; Xiao, C.; Fitzsimonds, R. M.; Pavlides, C.; Lester, H. A.; Picciotto,
+M. R.; Heintz, N.: The prototoxin lynx1 acts on nicotinic acetylcholine
+receptors to balance neuronal activity and survival in vivo. Neuron 51:
+587-600, 2006.
+
+4. Morishita, H.; Miwa, J. M.; Heintz, N.; Hensch, T. K.: Lynx1,
+a cholinergic brake, limits plasticity in adult visual cortex. Science 330:
+1238-1240, 2010.
+
+5. Tsuji, H.; Okamoto, K.; Matsuzaka, Y.; Iizuka, H.; Tamiya, G.;
+Inoko, H.: SLURP-2, a novel member of the human Ly-6 superfamily
+that is upregulated in psoriasis vulgaris. Genomics 26-33, 2003.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/31/2011
+Cassandra L. Kniffin - updated: 12/15/2009
+Patricia A. Hartz - updated: 2/14/2005
+Stylianos E. Antonarakis - updated: 1/10/2005
+
+CREATED Paul J. Converse: 7/13/2001
+
+EDITED alopez: 02/04/2011
+terry: 1/31/2011
+carol: 12/23/2009
+ckniffin: 12/15/2009
+wwang: 9/27/2006
+mgross: 2/14/2005
+mgross: 1/10/2005
+mgross: 7/13/2001
+
+612616	TITLE *612616 LATE CORNIFIED ENVELOPE PROTEIN 3D; LCE3D
+;;LATE ENVELOPE PROTEIN 16; LEP16
+DESCRIPTION For background information on the LCE gene cluster, see 612603.
+
+CLONING
+
+By database analysis to identify human orthologs of mouse genes encoding
+late envelope proteins (LEPs), Marshall et al. (2001) identified LCE3D,
+which they called LEP16.
+
+Using real-time PCR, Jackson et al. (2005) detected very low LCE3D
+expression in adult and fetal skin. Low expression was also detected in
+internal epithelia, including vulva, tongue, and esophagus.
+
+GENE STRUCTURE
+
+Jackson et al. (2005) determined that LCE3D is a single-exon gene.
+
+MAPPING
+
+By genomic sequence analysis, Marshall et al. (2001) mapped the LCE3D
+gene within the LCE gene cluster on chromosome 1q21. Jackson et al.
+(2005) determined that the LCE3D gene is located within intron 2 of the
+LCE3C gene (612615) and is oriented in the opposite direction. They
+stated that the mouse Lce3d gene maps to a syntenic LCE gene cluster on
+chromosome 3F1.
+
+REFERENCE 1. Jackson, B.; Tilli, C. M. L. J.; Hardman, M. J.; Avilion, A. A.;
+MacLeod, M. C.; Ashcroft, G. S.; Byrne, C.: Late cornified envelope
+family in differentiating epithelia--response to calcium and ultraviolet
+irradiation. J. Invest. Derm. 124: 1062-1070, 2005.
+
+2. Marshall, D.; Hardman, M. J.; Nield, K. M.; Byrne, C.: Differentially
+expressed late constituents of the epidermal cornified envelope. Proc.
+Nat. Acad. Sci. 98: 13031-13036, 2001.
+
+CREATED Patricia A. Hartz: 2/11/2009
+
+EDITED mgross: 02/12/2009
+

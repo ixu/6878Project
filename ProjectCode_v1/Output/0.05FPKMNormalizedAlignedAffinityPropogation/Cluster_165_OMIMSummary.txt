@@ -1,0 +1,125 @@
+604661	TITLE *604661 POTASSIUM CHANNEL-INTERACTING PROTEIN 2; KCNIP2
+;;KCHIP2
+DESCRIPTION 
+CLONING
+
+In the brain and heart, rapidly inactivating (A-type) voltage-gated
+potassium (Kv) currents operate at subthreshold membrane potentials to
+control the excitability of neurons and cardiac myocytes. An et al.
+(2000) described 3 Kv channel-interacting proteins called KCHIPs that
+bind to the cytoplasmic amino termini of Kv4-alpha subunits. See KCHIP1
+(604660). The KCHIP2 cDNA encodes a 252-amino acid protein that has a
+distinct amino terminus but shares approximately 70% amino acid identity
+with KCHIP1 and KCHIP3 throughout a carboxy-terminal 185-amino acid core
+domain containing 4 EF-hand-like motifs. Expression of KCHIP2 and Kv4
+together reconstituted several features of native A-type currents by
+modulating the density, inactivation kinetics, and rate of recovery from
+inactivation of Kv4 channels in heterologous cells. The KCHIPs
+colocalized and coimmunoprecipitated with brain Kv4-alpha subunits and
+are thus integral components of native Kv4 channel complexes.
+
+GENE FUNCTION
+
+Jeyaraj et al. (2012) provided molecular evidence that links circadian
+rhythms to vulnerability in ventricular arrhythmias in mice.
+Specifically, they showed that cardiac ion channel expression and QT
+interval duration (an index of myocardial repolarization) exhibit
+endogenous circadian rhythmicity under the control of a clock-dependent
+oscillator, Kruppel-like factor-15 (KLF15; 606465). Klf15
+transcriptionally controls rhythmic expression of KChIP2, a critical
+subunit required for generating the transient outward potassium current.
+Deficiency or excess of Klf15 causes loss of rhythmic QT variation,
+abnormal repolarization, and enhanced susceptibility to ventricular
+arrhythmias. Jeyaraj et al. (2012) concluded that their findings
+identified circadian transcription of ion channels as a mechanism for
+cardiac arrhythmogenesis.
+
+ANIMAL MODEL
+
+Kuo et al. (2001) found that knockout mice deficient for Kchip2
+exhibited normal cardiac structure and function but displayed a
+prolonged elevation in the ST segment on the electrocardiogram. The
+Kchip2 -/- mice were highly susceptible to the induction of cardiac
+arrhythmias. Single-cell analysis revealed a substrate for
+arrhythmogenesis, including a complete absence of transient outward
+potassium current (I-to) and a marked increase in action potential
+duration. These studies demonstrated that a defect in KCHIP2 is
+sufficient to confer a marked genetic susceptibility to arrhythmias,
+establishing a novel genetic pathway for ventricular tachycardia via a
+loss of the transmural gradient of I-to.
+
+REFERENCE 1. An, W. F.; Bowlby, M. R.; Betty, M.; Cao, J.; Ling, H.-P.; Mendoza,
+G.; Hinson, J. W.; Mattsson, K. I.; Strassle, B. W.; Trimmer, J. S.;
+Rhodes, K. J.: Modulation of A-type potassium channels by a family
+of calcium sensors. Nature 403: 553-556, 2000.
+
+2. Jeyaraj, D.; Haldar, S. M.; Wan, X.; McCauley, M. D.; Ripperger,
+J. A.; Hu, K.; Lu, Y.; Eapen, B. L.; Sharma, N.; Ficker, E.; Cutler,
+M. J.; Gulick, J.; and 9 others: Circadian rhythms govern cardiac
+repolarization and arrhythmogenesis. Nature 483: 96-99, 2012.
+
+3. Kuo, H.-C.; Cheng, C.-F.; Clark, R. B.; Lin, J. J.-C.; Lin, J.
+L.-C.; Hoshijima, M.; Nguyen-Tran, V. T. B.; Gu, Y.; Ikeda, Y.; Chu,
+P.-H.; Ross, J., Jr.; Giles, W. R.; Chien, K. R.: A defect in the
+Kv channel-interacting protein 2 (KChIP2) gene leads to a complete
+loss of I-to, and confers susceptibility to ventricular tachycardia. Cell 107:
+801-813, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 8/29/2012
+Stylianos E. Antonarakis - updated: 1/7/2002
+
+CREATED Ada Hamosh: 3/7/2000
+
+EDITED alopez: 09/05/2012
+alopez: 9/5/2012
+terry: 8/29/2012
+mgross: 10/20/2003
+mgross: 1/7/2002
+alopez: 6/30/2000
+alopez: 3/8/2000
+alopez: 3/7/2000
+
+610400	TITLE *610400 MACRO DOMAIN-CONTAINING 1; MACROD1
+;;LRP16 PROTEIN; LRP16
+DESCRIPTION 
+CLONING
+
+By restriction landmark genomic analysis of human lymphocytes, followed
+by PCR and RACE, Han et al. (2001) cloned MACROD1, which they called
+LRP16. Zhao et al. (2005) noted that LRP16 encodes a 325-amino acid
+protein.
+
+GENE FUNCTION
+
+Zhao et al. (2005) reported that ectopic expression of LRP16 stimulated
+proliferation of MCF7 breast cancer cells. LRP16 expression was
+stimulated by 17-beta-estradiol (E2), and a 2.6-kb fragment upstream of
+the translation start site of LRP16 contains ESR1 (133430)
+responsiveness. Using 5-prime deletion constructs in MCF7 and HeLa
+cells, Zhao et al. (2005) showed that the LRP16 proximal region of -251
+to -214 bp contributed to E2-induced transactivation, via an
+estrogen-responsive element half-site and an SP1 (189906) binding site.
+Gel mobility shift and chromatin immunoprecipitation assays showed that
+ESR1 and SP1 bound directly to DNA and were required for E2-induced
+transactivation of LRP16.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the MACROD1
+gene to chromosome 11 (TMAP STS-RH38365).
+
+REFERENCE 1. Han, W. D.; Yu, L.; Lou, F. D.; Wang, Q. S.; Zhao, Y.; Shi, Z.
+J.; Jin, H. J.: The application of RACE technique to clone the full-length
+cDNA of a novel leukemia associated gene LRP16. Zhongguo Shi Yan
+Xue Ye Zue Za Zhi 9: 18-21, 2001.
+
+2. Zhao, Y.-L.; Han, W.-D.; Li, Q.; Mu, Y.-M.; Lu, X.-C.; Yu, L.;
+Song, H.-J.; Li, X.; Lu, J.-M.; Pan, C.-Y.: Mechanism of transcriptional
+regulation of LRP16 gene expression by 17-beta estradiol in MCF-7
+human breast cancer cells. J. Molec. Endocr. 34: 77-89, 2005.
+
+CREATED Laura L. Baxter: 9/13/2006
+
+EDITED wwang: 11/13/2007
+wwang: 9/13/2006
+

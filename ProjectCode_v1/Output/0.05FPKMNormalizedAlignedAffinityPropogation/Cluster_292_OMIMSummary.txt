@@ -1,0 +1,258 @@
+604909	TITLE *604909 CCR4-NOT TRANSCRIPTION COMPLEX, SUBUNIT 2; CNOT2
+;;NEGATIVE REGULATOR OF TRANSCRIPTION 2, S. CEREVISIAE, HOMOLOG OF;
+NOT2
+DESCRIPTION 
+CLONING
+
+The yeast CCR4-NOT protein complex is a global regulator of RNA
+polymerase II transcription. It is comprised, in part, of CCR4 (see
+608951), NOT1 to NOT5, and CAF1 (also referred to as POP2). By searching
+sequence databases, Albert et al. (2000) identified human ESTs encoding
+homologs of yeast NOT1, NOT2, NOT3, NOT4, and CAF1. They assembled a
+human NOT2 cDNA containing a full-length coding sequence. The deduced
+540-amino acid human NOT2 protein shares 26% overall sequence identity
+with the 191-amino acid yeast NOT2 protein. Compared to yeast NOT2,
+human NOT2 has an N-terminal extension. Human NOT2 contains an
+N-terminal putative bipartite nuclear localization signal. Using the
+yeast 2-hybrid assay, Albert et al. (2000) demonstrated that recombinant
+human NOT2 can interact with yeast NOT1 and an N-terminally truncated
+human NOT1 protein (604917); it did not significantly interact with
+human NOT3 (604910) or yeast CCR4. Northern blot analysis detected a
+3.2-kb NOT2 transcript in all human tissues examined, namely brain,
+heart, lung, liver, kidney, small intestine, colon, spleen, thymus,
+peripheral blood leukocytes, skeletal muscle, and placenta. Like the
+expression of human NOT1, NOT3, and CALIF (603731), NOT2 expression was
+high in brain, kidney, and placenta and very low in skeletal muscle and
+colon. Albert et al. (2000) found that recombinant human NOT2 could not
+complement the temperature-sensitive phenotype conferred by the yeast
+not2-1 mutation.
+
+GENE FUNCTION
+
+Sessions et al. (2009) identified insect host factors required for
+dengue virus (see 614371) propagation by carrying out a genomewide RNA
+interference screen in D. melanogaster cells using a well established
+22,632 double-stranded RNA library. This screen identified 116 candidate
+dengue virus host factors (DVHFs). Although some were previously
+associated with flaviviruses, most of the DVHFs were newly implicated in
+dengue virus propagation. The dipteran DVHFs had 82 readily recognizable
+human homologs and, using a targeted short interfering RNA screen, they
+showed that 42 of these are human DVHFs. These include NPR2 (108961),
+SEC61B (609214), TMEM214, TAZ (300394), EXDL2, and CNOT2. Sessions et
+al. (2009) concluded that this overlap indicates notable conservation of
+required factors between dipteran and human hosts.
+
+REFERENCE 1. Albert, T. K.; Lemaire, M.; van Berkum, N. L.; Gentz, R.; Collart,
+M. A.; Timmers, H. T. M.: Isolation and characterization of human
+orthologs of yeast CCR4-NOT complex subunits. Nucleic Acids Res. 28:
+809-817, 2000.
+
+2. Sessions, O. M.; Barrows, N. J.; Souza-Neto, J. A.; Robinson, T.
+J.; Hershey, C. L.; Rodgers, M. A.; Ramirez, J. L.; Dimopoulos, G.;
+Yang, P. L.; Pearson, J. L.; Garcia-Blanco, M. A.: Discovery of insect
+and human dengue virus host factors. Nature 458: 1047-1050, 2009.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/14/2009
+
+CREATED Patti M. Sherman: 5/2/2000
+
+EDITED mgross: 12/01/2011
+alopez: 5/14/2009
+mgross: 9/28/2004
+carol: 11/6/2000
+mcapotos: 5/11/2000
+psherman: 5/4/2000
+
+602619	TITLE *602619 C-TERMINAL-BINDING PROTEIN 2; CTBP2
+DESCRIPTION 
+CLONING
+
+The E1a region of group C adenoviruses encodes 2 nearly identical
+proteins that are largely responsible for the oncogenic properties of
+adenoviruses. The CTBP1 (602618) protein binds to the C-terminal half of
+these E1A proteins. Katsanis and Fisher (1998) identified CTBP2 by
+searching for expressed sequence tags (ESTs) with homology to CTBP1. The
+predicted 445-amino acid CTBP2 protein is 72% identical to CTBP1.
+Northern blot analysis showed that the CTBP2 gene was expressed as a
+3.8-kb mRNA in all tissues tested, with the most abundant expression in
+heart, skeletal muscle, and pancreas.
+
+Furusawa et al. (1999) identified the mouse homologs of CTBP1 and CTBP2
+in a yeast 2-hybrid screen for proteins that interact with delta-EF1
+(TCF8; 189909), a transcriptional repressor that binds the E2-box
+(CACCTG) and related sequences. Using Northern blot analysis and in situ
+hybridization with mouse embryos, Furusawa et al. (1999) detected
+expression of 2 Ctbp2 transcripts confined to the embryonic stages.
+Ctbp1 and Ctbp2 expression correlated with delta-EF1 expression.
+
+Schmitz et al. (2000) identified an alternate product of the CTBP2
+locus, which they named RIBEYE. They cloned full-length cDNAs
+corresponding to RIBEYE in bovine, rat, and human. Human RIBEYE encodes
+a deduced protein of 985 amino acids. Based on sequence analysis, the
+authors defined a unique N-terminal A domain of RIBEYE and a C-terminal
+B domain identical to the previously identified CTBP2. They found that
+RIBEYE and CTBP2 are transcribed from distinct promoters of the CTBP2
+gene. The unique N-terminal sequences of RIBEYE and CTBP2 are encoded by
+separate 5-prime exons, and the shared C-terminal sequences are encoded
+by 8 common 3-prime exons. By Northern blot analysis and immunoblotting,
+Schmitz et al. (2000) detected a 120-kD RIBEYE product expressed only in
+the retina, whereas the 50-kD CTBP2 product was observed ubiquitously in
+most tissues. Using immunocytochemistry, they demonstrated that RIBEYE
+is a specific component of synaptic ribbons in the retina and
+hypothesized that RIBEYE may be a general component of all synaptic
+ribbons. Using transfection experiments, Schmitz et al. (2000)
+demonstrated that the N-terminal A domain of RIBEYE can form protein
+aggregates. They hypothesized that the A domain may function in the
+formation of stable ribbon structures, whereas the B domain may be
+exposed on the surface of the ribbons. The B domain shares homology with
+2-hydroxyacid dehydrogenases and binds to NAD+ with high affinity. They
+hypothesized that the B domain may serve as an enzyme in synaptic
+vesicle priming on synaptic ribbons and in transcriptional repression.
+
+GENE FUNCTION
+
+Using a yeast 2-hybrid assay and mutation analysis, Turner and Crossley
+(1998) found that mouse Ctbp2 interacted with the pro-val-asp-leu-thr
+motif in the repression domain of Bklf (KLF3; 609392). When tethered to
+a promoter by a heterologous DNA-binding domain, Ctbp2 functioned as a
+potent repressor. Ctbp2 also interacted with the mammalian transcription
+factors Evi1 (165215), Tcf8, and Fog (ZFPM1; 601950). Turner and
+Crossley (1998) concluded that CTBP2 is a mammalian corepressor that
+targets diverse transcriptional regulators.
+
+Using 2-hybrid and direct binding assays, Furusawa et al. (1999) showed
+that Ctbp2 bound the short medial portion of delta-EF1 containing the
+PLDLSL motif. In cotransfection experiments, they observed that Ctbp2
+enhanced transrepression activity of delta-EF1. The authors hypothesized
+that Ctbp1 and Ctbp2 function as corepressors of delta-EF1 action.
+
+In Drosophila and in vertebrates, the Polycomb (Pc) group (PcG) genes
+have been identified as being part of a cellular memory system that is
+responsible for the stable and heritable repression of gene expression.
+PC2 (603079), a human Pc homolog, CBX2 (602770), HPH1 (602978), HPH2
+(602979), BMI1 (164831), and RING1 (602045) form a complex that
+localizes in large nuclear domains termed PcG domains. Using a yeast
+2-hybrid assay, Sewalt et al. (1999) found that CTBP2 interacts with PC2
+and that Xenopus Ctbp1 interacts with Xenopus Pc. The CTBP2 and PC2
+interaction also exists in vivo, since the proteins coimmunoprecipitate
+with each other and partially colocalize in large PcG domains in
+interphase nuclei. CTBP1 showed the same localization pattern. As with
+PC2, chimeric LexA-CTBP2 and LexA-CTBP1 proteins repressed gene activity
+when targeted to a reporter gene. Sewalt et al. (1999) suggested that
+the CTBP proteins target PC2, and thereby the PcG complex, to particular
+loci in chromatin that contain binding sites for specific repressors of
+gene activity, thereby forming a complex between the repressors and the
+PcG complex, with CTBP as a bridging protein. They speculated that the
+interference of the adenoviral E1A protein with the transcription
+machinery of the infected cell may involve interference with
+PcG-mediated repression through disruption of the CTBP-PcG interaction.
+
+Zhang et al. (2002) demonstrated that CTBP binding to cellular and viral
+transcriptional repressors is regulated by NAD+ and NADH, with NADH
+being 2 to 3 orders of magnitude more effective. Levels of free nuclear
+nicotinamide adenine dinucleotides, determined using 2-photon
+microscopy, corresponded to the levels required for half-maximal CTBP
+binding and were considerably lower than those previously reported.
+Agents capable of increasing NADH levels stimulated CTBP binding to its
+partners in vivo and potentiated CTBP-mediated repression. Zhang et al.
+(2002) proposed that this ability to detect changes in nuclear NAD+/NADH
+ratio allows CTBP to serve as a redox sensor for transcription.
+
+CTBP is recruited to DNA by transcription factors that contain a PXDLS
+motif. Shi et al. (2003) reported the identification of a CTBP complex
+that contains the essential components for both gene targeting and
+coordinated histone modifications, allowing for the effective repression
+of genes targeted by CTBP. This complex has a molecular mass of about
+1.3 to 1.5 million and contains CTBP1 and CTBP2 as well as G9A (604599),
+EUHMT (607001), COREST (607675), HDAC1 (601241) and HDAC2 (605164),
+NPAO, REBB1, ZNF217 (602967), and KIAA0222. Immunoprecipitation with G9A
+antibodies brought down the same components as well as HPC2 (ELAC2;
+605367). Shi et al. (2003) found that inhibiting the expression of CTBP
+and its associated histone-modifying activities by RNA-interference
+resulted in alterations of histone modifications at the promoter of the
+tumor invasion suppressor gene E-cadherin (192090) and increased
+promoter activity in a reporter assay.
+
+Using a promoter pull-down assay followed by mass spectrometry analysis,
+Flajollet et al. (2009) identified RREB1 (602209) as a protein that
+bound the HLA-G (142871) promoter. RREB1 exerted repressive activity on
+the promoter in HLA-G-negative cells that was mediated by recruitment of
+HDAC1 and CTBP1 and/or CTBP2. The HLA-G promoter contains 3 RREB1 target
+sites. Flajollet et al. (2009) proposed that the repressive activity of
+RREB1 on the HLA-G promoter may be regulated by posttranslational
+modifications governing its association with CTBP.
+
+MAPPING
+
+Thomas et al. (2008) identified the CTBP2 gene on chromosome 10q26.13,
+within a region associated with susceptibility to prostate cancer
+(176807).
+
+REFERENCE 1. Flajollet, S.; Poras, I.; Carosella, E. D.; Moreau, P.: RREB-1
+is a transcriptional repressor of HLA-G. J. Immun. 183: 6948-6959,
+2009.
+
+2. Furusawa, T.; Moribe, H.; Kondoh, H.; Higashi, Y.: Identification
+of CtBP1 and CtBP2 as corepressors of zinc finger-homeodomain factor
+delta-EF1. Molec. Cell. Biol. 19: 8581-8590, 1999.
+
+3. Katsanis, N.; Fisher, E. M. C.: A novel C-terminal binding protein
+(CTBP2) is closely related to CTBP1, an adenovirus E1A-binding protein,
+and maps to human chromosome 21q21.3. Genomics 47: 294-299, 1998.
+
+4. Schmitz, F.; Konigstorfer, A.; Sudhof, T. C.: RIBEYE, a component
+of synaptic ribbons: a protein's journey through evolution provides
+insight into synaptic ribbon function. Neuron 28: 857-872, 2000.
+
+5. Sewalt, R. G. A. B.; Gunster, M. J.; van der Vlag, J.; Satijn,
+D. P. E.; Otte, A. P.: C-terminal binding protein is a transcriptional
+repressor that interacts with a specific class of vertebrate polycomb
+proteins. Molec. Cell. Biol. 19: 777-787, 1999.
+
+6. Shi, Y.; Sawada, J.; Sui, G.; Affar, E. B.; Whetstine, J. R.; Lan,
+F.; Ogawa, H.; Luke, M. P.-S.; Nakatani, Y.; Shi, Y.: Coordinated
+histone modifications mediated by a CtBP co-repressor complex. Nature 422:
+735-738, 2003.
+
+7. Thomas, G.; Jacobs, K. B.; Yeager, M.; Kraft, P.; Wacholder, S.;
+Orr, N.; Yu, K.; Chatterjee, N.; Welch, R.; Hutchinson, A.; Crenshaw,
+A.; Cancel-Tassin, G.; and 27 others: Multiple loci identified
+in a genome-wide association study of prostate cancer. Nature Genet. 40:
+310-315, 2008.
+
+8. Turner, J.; Crossley, M.: Cloning and characterization of mCtBP2,
+a co-repressor that associates with basic Kruppel-like factor and
+other mammalian transcriptional regulators. EMBO J. 17: 5129-5140,
+1998.
+
+9. Zhang, Q.; Piston, D. W.; Goodman, R. H.: Regulation of corepressor
+function by nuclear NADH. Science 295: 1895-1897, 2002.
+
+CONTRIBUTORS Paul J. Converse - updated: 11/19/2012
+Patricia A. Hartz - updated: 8/18/2006
+Ada Hamosh - updated: 5/6/2003
+Ada Hamosh - updated: 4/2/2002
+Dawn Watkins-Chow - updated: 11/25/2001
+Dawn Watkins-Chow - updated: 10/24/2001
+Rebekah S. Rasooly - updated: 4/9/1999
+
+CREATED Rebekah S. Rasooly: 5/13/1998
+
+EDITED mgross: 11/26/2012
+terry: 11/19/2012
+carol: 7/19/2012
+alopez: 4/15/2008
+mgross: 8/21/2006
+terry: 8/18/2006
+mgross: 3/9/2005
+alopez: 5/8/2003
+terry: 5/6/2003
+alopez: 4/5/2002
+terry: 4/2/2002
+carol: 11/25/2001
+carol: 10/24/2001
+mgross: 4/12/1999
+mgross: 4/9/1999
+carol: 3/16/1999
+psherman: 5/13/1998
+

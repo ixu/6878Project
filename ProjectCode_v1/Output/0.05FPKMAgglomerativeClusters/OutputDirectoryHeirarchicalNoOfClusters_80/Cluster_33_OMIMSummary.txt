@@ -1,0 +1,3833 @@
+612904	TITLE *612904 LIPOCALIN 10; LCN10
+DESCRIPTION 
+DESCRIPTION
+
+Members of the lipocalin family, such as LCN10, have a common structure
+consisting of an 8-stranded antiparallel beta-barrel that forms a
+cup-shaped ligand-binding pocket or calyx. Lipocalins generally bind
+small hydrophobic ligands and transport them to specific cells (Suzuki
+et al., 2004).
+
+CLONING
+
+Suzuki et al. (2004) cloned mouse Lcn10, which encodes a deduced
+182-amino acid protein. They identified human LCN10 by database
+analysis. Northern blot analysis detected Lcn10 expression in mouse
+epididymis only, and epididymal expression began at 3 weeks of age. In
+situ hybridization detected Lcn10 in the epithelium lining the initial
+segment and segment 2 of mouse epididymis.
+
+GENE FUNCTION
+
+Suzuki et al. (2004) found that expression of Lcn10 in mouse epididymis
+disappeared after castration and was only partially restored by
+testosterone administration.
+
+MAPPING
+
+By genomic sequence analysis, Suzuki et al. (2004) mapped the LCN10 gene
+to an LCN gene cluster on chromosome 9q34. They mapped the mouse Lcn10
+gene to a syntenic region of mouse chromosome 2A3.
+
+REFERENCE 1. Suzuki, K.; Lareyre, J.-J.; Sanchez, D.; Gutierrez, G.; Araki,
+Y.; Matusik, R. J.; Orgebin-Crist, M.-C.: Molecular evolution of
+epididymal lipocalin genes localized on mouse chromosome 2. Gene 339:
+49-59, 2004.
+
+CREATED Patricia A. Hartz: 7/9/2009
+
+EDITED mgross: 07/09/2009
+
+604895	TITLE *604895 T-BOX 21; TBX21
+;;T-BOX EXPRESSED IN T CELLS; TBET
+DESCRIPTION 
+DESCRIPTION
+
+Naive T helper (Th) cells differentiate into 2 subsets, Th1 and Th2,
+each with distinct functions and cytokine profiles. TBX21 is a
+Th1-specific T-box transcription factor that controls the expression of
+the hallmark Th1 cytokine, interferon-gamma (IFNG; 147570) (Szabo et
+al., 2000).
+
+CLONING
+
+Using a yeast 1-hybrid approach, Szabo et al. (2000) isolated clones
+encoding murine Tbx21, which they called 'T-box expressed in T cells,'
+or Tbet. The murine Tbx21 gene encodes a deduced 530-amino acid protein
+containing a 189-amino acid T-box DNA-binding domain that shows homology
+to murine Tbr1 (604616) and Xenopus eomesodermin (EOMES; 604615). The
+authors subsequently cloned human TBX21, which encodes a 535-amino acid
+protein that shares 88% amino acid identity with murine Tbx21. Northern
+blot analysis detected TBX21 expression in lung, thymus, and spleen.
+
+Zhang and Yang (2000) also cloned and characterized TBX21. Northern blot
+analysis revealed expression of a 2.7-kb transcript in peripheral blood
+leukocytes, spleen, and lung, as well as in NK cell lines. No expression
+was detected in mouse embryonic tissue.
+
+GENE FUNCTION
+
+Szabo et al. (2000) showed that TBX21 expression correlates with IFNG
+expression in Th1 and natural killer (NK) cells. Ectopic expression of
+TBX21 both transactivated the IFNG gene and induced endogenous IFNG
+production. Retroviral gene transduction of TBX21 into polarized Th2 and
+Tc2 primary T cells redirected them into Th1 and Tc1 cells,
+respectively, as evidenced by the simultaneous induction of IFNG and
+repression of interleukin-4 (IL4; 147780) and interleukin-5 (IL5;
+147850). Szabo et al. (2000) concluded that TBX21 initiates Th1 lineage
+development from naive Th precursor cells both by activating Th1 genetic
+programs and by repressing the opposing Th2 programs.
+
+Differentiation of T helper cells into mature Th2 cells is associated
+with chromatin remodeling of the IL4 and IL13 (147683) genes, whereas
+differentiation into Th1 cells evokes chromatin remodeling of the IFNG
+gene (Agarwal and Rao, 1998). Also, polarized Th2 cells do not express
+IL12RB2 (601642) and therefore do not signal in response to IL12
+(161560). However, Smits et al. (2001) found that anti-CD3/anti-CD28
+stimulation of Th2 cells from either normal individuals or atopic
+patients in the presence of IL12 restored IL12RB2 expression and
+signaling. The change to a stable Th0/Th1 phenotype was accompanied by a
+loss of GATA3 (131320) expression, a hallmark of the Th2 phenotype, and
+the induction of TBX21 expression. Smits et al. (2001) proposed that the
+human Th2 phenotype is less stable than that observed in the mouse and
+that an IL12-promoting therapeutic approach might be beneficial for
+Th2-mediated immune disorders.
+
+Using real-time fluorogenic RT-PCR, Grogan et al. (2001) showed that
+Tbet expression is optimal after stimulation with IL12 in wildtype but
+not Stat4 (600558)-deficient mice.
+
+Using RT-PCR, Mullen et al. (2001) showed that Tbet expression is
+suppressed in the presence of IL4 and anti-IL12, but that Tbet is
+expressed in the absence of IL12 and in the presence of anti-IL4.
+Ectopic expression of Tbet restored Ifng expression in Stat4-deficient
+cells, targeted the remodeling of the Ifng locus, and induced expression
+of Il12rb2. Flow cytometric analysis showed that IL12 enhances and
+prolongs Ifng expression in Tbet-differentiated Th1 cells through an
+interaction with CREB-binding protein (see CREBBP; 600140). Mullen et
+al. (2001) suggested that TBET is upstream of the STAT4 pathway. They
+also proposed that cytokines may not induce differentiation of T helper
+cells but may instead act as essential secondary stimuli that mediate
+selective survival of a lineage.
+
+Finotto et al. (2002) observed reduced expression of the T(H)1
+transcription factor Tbet in T cells from airways of patients with
+asthma compared with that in T cells from airways of nonasthmatic
+patients, suggesting that loss of Tbet might be associated with asthma.
+
+Tbet is a member of the T-box family of transcription factors that
+appears to regulate lineage commitment in CD4 T helper cells in part by
+activating the hallmark T(H)1 cytokine, IFN-gamma (147570). IFN-gamma is
+also produced by NK cells and most prominently by CD8 cytotoxic T cells,
+and is vital for the control of microbial pathogens. Although Tbet is
+expressed in all these cell types, Szabo et al. (2002) demonstrated that
+it is required for control of IFN-gamma production in CD4 and NK cells,
+but not in CD8 cells. This difference is also apparent in the function
+of these cell subsets. Thus, Szabo et al. (2002) concluded that the
+regulation of a single cytokine, IFN-gamma, is controlled by distinct
+transcriptional mechanisms within the T cell lineage. Szabo et al.
+(2002) studied mice deficient in Tbet and established that Tbet is a
+transcription factor required for T(H)1 lineage commitment.
+
+Liu et al. (2003) noted that CpG dinucleotides have prophylactic and
+therapeutic effects in allergies that have been associated with the
+selective downregulation of IgE (147180 )and Th2 cytokine production in
+mouse models and in human peripheral blood mononuclear cells from atopic
+patients. CpG acts through TLR9 (605474), which is not expressed by T
+cells. Liu et al. (2003) found that treatment of mouse splenocytes or
+human B lymphocytes with CpG (ODN 2006) upregulated expression of TBET
+in these cells by a mechanism dependent on TLR9 and independent of IFNG
+and STAT1 (600555). CpG did not upregulate TBET in T cells. Using
+specific inhibitors, the authors showed that TBET mRNA expression
+required NFKB (see 164011), p38 (MAPK14; 600289), and IL12. Functional
+analysis indicated that CpG completely inhibited IgE secretion induced
+by IL4 and CD40 (109535) ligation and that IgG1 (147100) was severely
+reduced. Liu et al. (2003) proposed that the K type of CpG (e.g., ODN
+2006), which has a phosphorothioate backbone, may be a preferable
+therapeutic CpG drug compared with the D type, which preferentially
+stimulates IFNG and produces low levels of TNFA (191160), results
+associated with inflammatory side effects.
+
+Fields et al. (2002) noted that high levels of histone acetylation at
+particular loci correlate with transcriptional activity, whereas reduced
+levels correlate with silencing. Using chromatin immunoprecipitation
+(ChIP), PCR, and green fluorescent protein analysis, they demonstrated
+that histones in the cytokine loci (IFNG and IL4) of naive T cells are
+unacetylated, but upon TCR stimulation, the loci are rapidly and
+progressively acetylated on histones H3 and H4. The acetylation at the
+IL4 locus occurs early, regardless of Th1/Th2 polarizing conditions,
+correlating with early transcription. The maintenance of acetylation
+depends on cytokine and STAT4 and STAT6 (601512) signaling and also on
+the transactivator activity of TBET and GATA3, the putative 'master
+regulators' of Th lineage determination.
+
+Hwang et al. (2005) reported that TBET represses Th2 lineage commitment
+through tyrosine kinase-mediated interaction between itself and GATA3
+that interferes with the binding of GATA3 to its target DNA. Hwang et
+al. (2005) concluded that their results provide a novel function for
+tyrosine phosphorylation of a transcription factor in specifying
+alternate fates of a common progenitor cell. Hwang et al. (2005) showed
+that TBET phosphorylation is restricted to the TEC kinases ITK (186973)
+and RLK (600058). Coexpression studies demonstrated that this was most
+efficiently performed by ITK. In primary CD4 T cells isolated from ITK-,
+RLK-, or double ITK/RLK-deficient mice, the greatest diminution of TBET
+tyrosine phosphorylation was seen in the absence of ITK. Furthermore,
+mutation of TBET at tyrosine residue 525, but not control tyrosine
+residue 437, resulted in greatly reduced phosphorylation by ITK,
+revealing that ITK phosphorylates TBET at residue Y525 after T cell
+receptor stimulation.
+
+Hohler et al. (2005) examined monozygotic (MZ) and dizygotic (DZ) twins
+for cytokine production and transcription factors controlling Th1/Th2
+differentiation and observed low intrapair variability in MZ compared
+with DZ twins in expression of IFNG, TNF, and TBET. In contrast, MZ and
+DZ twins were equally similar in terms of IL4 production and GATA3
+expression. Hohler et al. (2005) proposed that Th1, but not Th2,
+responses are genetically determined and that Th2-associated diseases in
+humans may be due to genetic variations in Th1 cytokine regulation via
+TBET.
+
+Chen et al. (2006) noted that activated T cells, particularly Th1 cells,
+express sialyl Lewis x, but resting T cells do not. Using reporter
+analysis, they showed that TBET promoted and GATA3 repressed
+transcription of FUT7 (602030), the rate-limiting enzyme for sialyl
+Lewis x synthesis. TBET interfered with GATA3 binding to its target DNA,
+but GATA3 also interfered with TBET binding to the FUT7 promoter. GATA3
+regulated FUT7 transcription by recruiting, in a
+phosphorylation-dependent manner, histone deacetylase-3 (HDAC3; 605166)
+and HDAC5 (605315) and by competing with CBP/p300 (EP300; 602700) in
+binding to the N terminus of TBET. Maximal expression of FUT7 and sialyl
+Lewis x in T cells was obtained by ROG (ZBTB32; 605859)-mediated
+suppression of GATA3. Chen et al. (2006) concluded that the GATA3/TBET
+transcription factor complex regulates cell lineage-specific expression
+of lymphocyte homing receptors and that glycoconjugates are regulated by
+this complex to attain cell lineage-specific expression in Th1 and Th2
+lymphocyte subsets.
+
+Intlekofer et al. (2008) demonstrated that CD8+ T cells deficient in the
+transcription factors Tbet and eomesodermin (Eomes) (604615) fail to
+differentiate into functional killers required for defense against
+lymphocytic choriomeningitis virus. Instead, virus-specific CD8+ T cells
+lacking both Tbet and Eomes differentiated into an interleukin-17 (IL17;
+603149)-secreting lineage, reminiscent of the helper T cell fate that
+has been implicated in autoimmunity and extracellular microbial defense.
+Upon viral infection, mice with T cells lacking both Tbet and Eomes
+develop a CD8+ T cell-dependent, progressive inflammatory and wasting
+syndrome characterized by multiorgan infiltration of neutrophils.
+Intlekofer et al. (2008) concluded that Tbet and Eomes ensure that CD8+
+T cells adopt an appropriate course of intracellular rather than
+extracellular destruction.
+
+CD4+ T helper cells that selectively produce interleukin-17 (Th17) are
+critical for host defense and immunity. Ghoreschi et al. (2010) showed
+that Th17 differentiation can occur in the absence of TGF-beta (190180)
+signaling. Neither IL6 (147620) nor IL23 (see 605580) alone efficiently
+generated Th17 cells; however, these cytokines in combination with
+IL1-beta (147720) effectively induced IL17 production in naive
+precursors, independently of TGF-beta. Epigenetic modification of the
+IL17A (603149), IL17F (606496), and RORC (602943) promoters proceeded
+without TGF-beta-1, allowing the generation of cells that coexpressed
+ROR-gamma-t (encoded by RORC) and Tbet. Tbet+ROR-gamma-t+Th17 cells are
+generated in vivo during experimental allergic encephalomyelitis, and
+adoptively transferred Th17 cells generated with IL23 without TGF-beta-1
+were pathogenic in this disease model. Ghoreschi et al. (2010) concluded
+that their data indicated an alternative mode for Th17 differentiation,
+and that, consistent with genetic data linking IL23R (607562) with
+autoimmunity, their findings reemphasized the importance of IL23 and
+therefore may have therapeutic implications.
+
+Paley et al. (2012) found that 2 distinct states of virus-specific CD8+
+T cells exist in chronically infected mice and humans. Differential
+expression of the T-box transcription factors Tbet and Eomesodermin
+(Eomes) facilitated the cooperative maintenance of the pool of antiviral
+CD8+ T cells during chronic viral infection. Tbet(hi) cells displayed
+low intrinsic turnover but proliferated in response to persisting
+antigen, giving rise to Eomes(hi) terminal progeny. Genetic elimination
+of either subset resulted in failure to control chronic infection, which
+suggested that an imbalance in differentiation and renewal could
+underlie the collapse of immunity in humans with chronic infections.
+
+Klose et al. (2013) provided evidence that the transcription factor Tbet
+determines the fate of a distinct lineage of CCR6 (601835)-negative
+ROR-gamma-t (602943)-positive innate lymphoid cells (ILCs). Postnatally
+emerging CCR6-ROR-gamma-t+ ILCs upregulated Tbet, and this was
+controlled by cues from the commensal microbiota and IL23 (605580). In
+contrast, CCR6+ROR-gamma-t+ ILCs, which arise earlier during ontogeny,
+did not express Tbet. Tbet instructed the expression of Tbet target
+genes such as interferon-gamma (147570) and of the natural cytotoxicity
+receptor NKp46 (604530). Mice genetically lacking Tbet showed normal
+development of CCR6-ROR-gamma-t innate lymphoid cells, but these cells
+could not differentiate into NKp46-expressing ROR-gamma-t+ ILCs (i.e.,
+IL22 (605330)-producing natural killer cells) and failed to produce
+interferon-gamma. The production of interferon-gamma by Tbet-expressing
+CCR6-ROR-gamma-t+ ILCs was essential for the release of mucus-forming
+glycoproteins required to protect the epithelial barrier against
+Salmonella enterica infection. Klose et al. (2013) concluded that
+coexpression of Tbet and ROR-gamma-t, which is also found in subsets of
+IL17-producing T-helper cells, may be an evolutionarily conserved
+transcriptional program that originally developed as part of the innate
+defense against infections but that also confers an increased risk of
+immune-mediated pathology.
+
+GENE STRUCTURE
+
+Zhang and Yang (2000) determined by genomic sequence analysis that the
+mouse and human TBX21 genes contain 6 exons.
+
+MAPPING
+
+Zhang and Yang (2000) mapped the mouse Tbx21 gene to chromosome 11D in
+an area showing homology of synteny with human chromosome 17.
+
+ANIMAL MODEL
+
+Finotto et al. (2002) generated mice lacking the Tbet gene by targeted
+disruption. Heterozygous or homozygous knockout mice exhibited airway
+hyperresponsiveness in response to methacholine. Tbet homozygous
+knockout mice showed peribronchial and perivenular infiltration with
+eosinophils and lymphocytes compared with wildtype littermates. Tbet
+heterozygotes, which display only 50% reduction of Tbet protein
+expression, displayed a phenotype very similar to that of mice with a
+complete absence of Tbet. Tbet heterozygotes and homozygote knockout
+mice also demonstrated thickening of the airway subbasement membrane
+collagen layer as well as increased expression of some cytokines.
+However, the asthma-like phenotype in these mice was independent of
+allergen exposure and was not altered by allergen exposure. Finotto et
+al. (2002) concluded that mice with a targeted deletion of the Tbet gene
+and severe combined immunodeficient mice receiving CD4(+) cells from
+Tbet knockout mice spontaneously demonstrated multiple physiologic and
+inflammatory features characteristic of asthma.
+
+By replacing the C terminus of Tbet, which contains the trans-activation
+domain, with the repression domain of the Drosophila 'engrailed' protein
+(see 131290), Mullen et al. (2002) generated a dominant-negative (DN)
+Tbet cDNA. Introduction of DN Tbet into cells developing under
+Th1-inducing conditions, but not into mature Th1 cells, substantially
+inhibited their capacity to express Ifng and resulted in defective
+persistence of hypersensitivity site I chromatin within Ifng. Levels of
+Il12rb2, however, were reduced in both developing and mature Th1 cells
+by DN Tbet. Screening for homeobox factors expressed in Th1 cells by
+oligonucleotide array and RT-PCR analysis determined that only Hlx
+(142995) is expressed at higher levels in Th1 lymphocytes than in Th2
+lymphocytes. Hlx appeared at a slower rate than Tbet and could be
+induced by Tbet. Ectopic expression in Stat4 -/- Th2-like cells of both
+Tbet and Hlx allowed maximal and synergistic expression of Ifng in these
+cells. Introduction of DN Tbet into mature Th1 cells inhibited the
+expression of Hlx.
+
+Svensson et al. (2005) noted that both Il15 (600554) -/- mice, which
+lack NK and NKT cells, and Ifng -/- mice are highly susceptible to
+genital herpes simplex virus (HSV)-2 infection. CD4-positive T cells and
+IFNG are the most important components of acquired immunity to genital
+HSV-2 infection, and impaired HSV-2-specific IFNG responses in humans
+correlate with recurrent clinical disease. Svensson et al. (2005)
+vaginally infected Tbet -/- mice with HSV-2. Tbet -/- mice had increased
+vaginal and spinal cord viral titers, more severe disease, shorter time
+to death, reduced NK-cell activity, impaired Ifng production, lower
+specific antibody production, and fewer splenic B cells compared with
+wildtype mice. These differences were even more marked in mice first
+vaccinated with an attenuated HSV-2 strain and then challenged with
+virulent HSV-2. However, CD8-positive T cell-mediated cytotoxicity was
+actually stronger in Tbet -/- mice compared with wildtype mice. Svensson
+et al. (2005) concluded that TBET is important in both innate defense
+and for generation of protective Th1 immunity against genital HSV-2
+infection, primarily through its control of NK and CD4-positive T-cell
+function.
+
+Ravindran et al. (2005) noted that Tbet-deficient mice resolve infection
+with the intracellular pathogen Listeria monocytogenes despite having
+only small numbers of Cd4-positive Ifng-producing T cells. In contrast,
+they found that challenge of Tbet -/- mice with an attenuated Salmonella
+strain resulted in death of most mice in less than a month. Tbet -/-
+mice failed to produce Ifng and to switch immunoglobulin isotypes.
+Spleen cells of infected Tbet -/- mice did not produce Ifng, but they
+did secrete increased levels of Il10 (124092), but not Il4. Ravindran et
+al. (2005) concluded that CD4-positive T cells expressing TBET are
+required for development of Salmonella-specific Th1 cells, regulation of
+IL10 production, and resistance to Salmonella infection.
+
+Using immunohistochemical analysis, Wang et al. (2006) found expression
+of TBET in inflammatory infiltrates of human synovial tissue from
+patients with rheumatoid arthritis (RA; 180300). Tbet -/- mice with the
+collagen antibody-induced arthritis model of RA had markedly reduced
+joint inflammation at both early and late time points. Mice lacking both
+Rag2 (179616) and Tbet were resistant to disease. However, adoptive
+transfer of dendritic cells expressing Tbet reconstituted inflammation
+in both Tbet -/- and Tbet -/- Rag2 -/- mice. Wang et al. (2006)
+concluded that TBET has a vital role in DCs that links innate and
+adaptive immunity to regulate inflammatory responses.
+
+ALLELIC VARIANT .0001
+ASTHMA, ASPIRIN-INDUCED, SUSCEPTIBILITY TO
+ASTHMA AND NASAL POLYPS, INCLUDED
+TBX21, -1993T-C
+
+Akahoshi et al. (2005) identified a -1993T-C SNP in the promoter region
+of the TBX21 gene and found that the substitution increases the affinity
+of an unknown nuclear protein for the binding site in that region,
+resulting in increased transcriptional activity of the TBX21 gene. There
+was a significant association between the promoter SNP and
+aspirin-induced asthma (see 208550) in a Japanese cohort (p = 0.004),
+with increased risk associated with a C allele (OR = 1.93; 95% CI,
+1.22-3.06). The association was confirmed in additional independent
+samples from patients with asthma and nasal polyposis (see 208550)
+regardless of aspirin hypersensitivity (p = 0.008).
+
+REFERENCE 1. Agarwal, S.; Rao, A.: Modulation of chromatin structure regulates
+cytokine gene expression during T cell differentiation. Immunity 9:
+765-775, 1998.
+
+2. Akahoshi, M.; Obara, K.; Hirota, T.; Matsuda, A.; Hasegawa, K.;
+Takahashi, N.; Shimizu, M.; Nakashima, K.; Cheng, L.; Doi, S.; Fujiwara,
+H.; Miyatake, A.; and 10 others: Functional promoter polymorphism
+in the TBX21 gene associated with aspirin-induced asthma. Hum. Genet. 117:
+16-26, 2005.
+
+3. Chen, G.-Y.; Osada, H.; Santamaria-Babi, L. F.; Kannagi, R.: Interaction
+of GATA-3/T-bet transcription factors regulates expression of sialyl
+Lewis X homing receptors on Th1/Th2 lymphocytes. Proc. Nat. Acad.
+Sci. 103: 16894-16899, 2006.
+
+4. Fields, P. E.; Kim, S. T.; Flavell, R. A.: Cutting edge: changes
+in histone acetylation at the IL-4 and IFN-gamma loci accompany Th1/Th2
+differentiation. J. Immun. 169: 647-650, 2002.
+
+5. Finotto, S.; Neurath, M. F.; Glickman, J. N.; Qin, S.; Lehr, H.
+A.; Green, F. H. Y.; Ackerman, K.; Haley, K.; Galle, P. R.; Szabo,
+S. J.; Drazen, J. M.; De Sanctis, G. T.; Glimcher, L. H.: Development
+of spontaneous airway changes consistent with human asthma in mice
+lacking T-bet. Science 295: 336-338, 2002.
+
+6. Ghoreschi, K.; Laurence, A.; Yang, X.-P.; Tato, C. M.; McGeachy,
+M. J.; Konkel, J. E.; Ramos, H. L.; Wei, L.; Davidson, T. S.; Bouladoux,
+N.; Grainger, J. R.; Chen, Q.; and 9 others: Generation of pathogenic
+T(H)17 cells in the absence of TGF-beta signalling. Nature 467:
+967-971, 2010.
+
+7. Grogan, J. L.; Mohrs, M.; Harmon, B.; Lacy, D. A.; Sedat, J. W.;
+Locksley, R. M.: Early transcription and silencing of cytokine genes
+underlie polarization of T helper cell subsets. Immunity 14: 205-215,
+2001.
+
+8. Hohler, T.; Reuss, E.; Adams, P.; Bartsch, B.; Weigmann, B.; Worns,
+M.; Galle, P. R.; Victor, A.; Neurath, M. F.: A genetic basis for
+IFN-gamma production and T-bet expression in humans. J. Immun. 175:
+5457-5462, 2005.
+
+9. Hwang, E. S.; Szabo, S. J.; Schwartzberg, P. L.; Glimcher, L. H.
+: T helper cell fate specified by kinase-mediated interaction of T-bet
+with GATA-3. Science 307: 430-433, 2005.
+
+10. Intlekofer, A. M.; Banerjee, A.; Takemoto, N.; Gordon, S. M.;
+DeJong, C. S.; Shin, H.; Hunter, C. A.; Wherry, E. J.; Lindsten, T.;
+Reiner, S. L.: Anomalous type 17 response to viral infection by CD8+
+T cells lacking T-bet and eomesodermin. Science 321: 408-411, 2008.
+
+11. Klose, C. S. N.; Kiss, E. A.; Schwierzeck, V.; Ebert, K.; Hoyler,
+T.; d'Hargues, Y.; Goppert, N.; Croxford, A. L.; Waisman, A.; Tanriver,
+Y.; Diefenbach, A.: A T-bet gradient controls the fate and function
+of CCR6(-)ROR-gamma-t(+) innate lymphoid cells. Nature 494: 261-265,
+2013.
+
+12. Liu, N.; Ohnishi, N.; Ni, L.; Akira, S.; Bacon, K. B.: CpG directly
+induces T-bet expression and inhibits Ig-gamma-1 and Ig-epsilon switching
+in B cells. Nature Immun. 4: 687-693, 2003.
+
+13. Mullen, A. C.; High, F. A.; Hutchins, A. S.; Lee, H. W.; Villarino,
+A. V.; Livingston, D. M.; Kung, A. L.; Cereb, N.; Yao, T.-P.; Yang,
+S. Y.; Reiner, S. L.: Role of T-bet in commitment of T(H)1 cells
+before IL-12-dependent selection. Science 292: 1907-1910, 2001.
+
+14. Mullen, A. C.; Hutchins, A. S.; High, F. A.; Lee, H. W.; Sykes,
+K. J.; Chodosh, L. A.; Reiner, S. L.: Hlx is induced by and genetically
+interacts with T-bet to promote heritable T(H)1 gene induction. Nature
+Immun. 3: 652-658, 2002.
+
+15. Paley, M. A.; Kroy, D. C.; Odorizzi, P. M.; Johnnidis, J. B.;
+Dolfi, D. V.; Barnett, B. E.; Bikoff, E. K.; Robertson, E. J.; Lauer,
+G. M.; Reiner, S. L.; Wherry, E. J.: Progenitor and terminal subsets
+of CD8+ T cells cooperate to contain chronic viral infection. Science 338:
+1220-1225, 2012.
+
+16. Ravindran, R.; Foley, J.; Stoklasek, T.; Glimcher, L. H.; McSorley,
+S. J.: Expression of T-bet by CD4 T cells is essential for resistance
+to Salmonella infection. J. Immun. 174: 4603-4610, 2005.
+
+17. Smits, H. H.; van Rietschoten, J. G. I.; Hilkens, C. M. U.; Sayilir,
+R.; Stiekema, F.; Kapsenberg, M. L.; Wierenga, E. A.: IL-12-induced
+reversal of human Th2 cells is accompanied by full restoration of
+IL-12 responsiveness and loss of GATA-3 expression. Europ. J. Immun. 31:
+1055-1065, 2001.
+
+18. Svensson, A.; Nordstrom, I.; Sun, J.-B.; Eriksson, K.: Protective
+immunity to genital herpes simpex (sic) virus type 2 infection is
+mediated by T-bet. J. Immun. 174: 6266-6273, 2005.
+
+19. Szabo, S. J.; Kim, S. T.; Costa, G. L.; Zhang, X.; Fathman, C.
+G.; Glimcher, L. H.: A novel transcription factor, T-bet, directs
+Th1 lineage commitment. Cell 100: 655-669, 2000.
+
+20. Szabo, S. J.; Sullivan, B. M.; Stemmann, C.; Satoskar, A. R.;
+Sleckman, B. P.; Glimcher, L. H.: Distinct effects of T-bet in T(H)1
+lineage commitment and IFN-gamma production in CD4 and CD8 T cells. Science 295:
+338-342, 2002.
+
+21. Wang, J.; Fathman, J. W.; Lugo-Villarino, G.; Scimone, L.; von
+Andrian, U.; Dorfman, D. M.; Glimcher, L. H.: Transcription factor
+T-bet regulates inflammatory arthritis through its function in dendritic
+cells. J. Clin. Invest. 116: 414-421, 2006.
+
+22. Zhang, W.; Yang, S. Y.: Cloning and characterization of a new
+member of the T-box gene family. Genomics 70: 41-48, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/26/2013
+Ada Hamosh - updated: 1/14/2013
+Ada Hamosh - updated: 1/4/2011
+Ada Hamosh - updated: 8/13/2008
+Paul J. Converse - updated: 1/16/2007
+Paul J. Converse - updated: 10/2/2006
+Paul J. Converse - updated: 9/1/2006
+Paul J. Converse - updated: 8/2/2006
+Marla J. F. O'Neill - updated: 7/8/2005
+Ada Hamosh - updated: 2/2/2005
+Paul J. Converse - updated: 8/5/2003
+Paul J. Converse - updated: 6/5/2003
+Paul J. Converse - updated: 6/11/2002
+Ada Hamosh - updated: 1/17/2002
+Paul J. Converse - updated: 6/13/2001
+
+CREATED Stylianos E. Antonarakis: 4/28/2000
+
+EDITED alopez: 03/05/2013
+alopez: 3/5/2013
+terry: 2/26/2013
+alopez: 1/16/2013
+terry: 1/14/2013
+alopez: 1/4/2011
+alopez: 8/18/2008
+terry: 8/13/2008
+mgross: 1/16/2007
+mgross: 10/2/2006
+mgross: 9/28/2006
+terry: 9/1/2006
+mgross: 8/29/2006
+mgross: 8/28/2006
+terry: 8/2/2006
+wwang: 10/27/2005
+wwang: 7/8/2005
+alopez: 2/22/2005
+terry: 2/2/2005
+cwells: 8/5/2003
+alopez: 7/29/2003
+mgross: 6/5/2003
+alopez: 7/26/2002
+mgross: 6/11/2002
+carol: 2/22/2002
+alopez: 1/22/2002
+terry: 1/17/2002
+mgross: 6/13/2001
+mgross: 4/28/2000
+
+603960	TITLE *603960 CALICIN; CCIN
+DESCRIPTION In mammalian sperm, the dense cytoplasmic webs surrounding the nuclei
+contain a complex structure called the perinuclear theca. In bovine
+sperm heads, the perinuclear theca is subdivided into the anterior
+subacrosomal layer and the posterior calyx, a funnel-shaped, dense, and
+stable structure tightly surrounding the posterior part of the nucleus
+on its inner side and apposed to the plasma membrane on the outer side.
+Longo et al. (1987) determined that 2 kinds of basic proteins are the
+major constituents of the thecal structure: calicin, a 60-kD protein
+localized almost exclusively to the calyx, and a group of multiple-band
+polypeptides (MBPs or cylicins; see 300768) that are found both in the
+calyx and the subacrosomal layer. They speculated that during
+spermiogenesis, these insoluble basic proteins contribute to the
+formation of the perinuclear theca as an architectural element involved
+in the shape changes and the intimate association of the nucleus with
+the acrosome and the plasma membrane.
+
+Von Bulow et al. (1995) purified calicin from bull sperm and determined
+a partial protein sequence. By PCR analysis of testis cDNA with
+oligonucleotide primers based on the calicin protein sequence, they
+isolated bovine and human cDNAs encoding calicin. The predicted bovine
+protein contains 588 amino acids and has a calculated pI of 8.1. The
+partial human cDNA encodes a protein that starts at a position
+corresponding to the fourth amino acid of bovine calicin. Overall, the 2
+calicins are 91% identical. There are 3 consecutive repeats in the
+middle of the calicin protein. Sequence comparisons revealed that
+calicin shares homology with the Drosophila kelch protein, which is
+associated with the actin-rich intercellular bridges (ring canals) in
+the egg chamber that connect the oocyte and the nurse cells. Von Bulow
+et al. (1995) noted that calicin is missing or is arranged in a
+dramatically different pattern in the heads of malformed human
+spermatozoa such as teratozoospermias with 'round-headed' sperm or with
+other 'postacrosomal sheath defects.'
+
+REFERENCE 1. Longo, F. J.; Krohne, G.; Franke, W. W.: Basic proteins of the
+perinuclear theca of mammalian spermatozoa and spermatids: a novel
+class of cytoskeletal elements. J. Cell Biol. 105: 1105-1120, 1987.
+
+2. von Bulow, M.; Heid, H.; Hess, H.; Franke, W. W.: Molecular nature
+of calicin, a major basic protein of the mammalian sperm head cytoskeleton. Exp.
+Cell Res. 219: 407-413, 1995.
+
+CREATED Rebekah S. Rasooly: 7/1/1999
+
+EDITED joanna: 03/24/2009
+mgross: 7/1/1999
+
+604386	TITLE *604386 ZINC FINGER TRANSCRIPTION FACTOR TRPS1; TRPS1
+;;TRPS1 GENE
+DESCRIPTION 
+DESCRIPTION
+
+TRPS1 is a zinc finger transcriptional repressor involved in the
+regulation of chondrocyte and perichondrium development (Napierala et
+al., 2008).
+
+CLONING
+
+Momeni et al. (2000) positionally cloned a gene that spanned the
+chromosomal breakpoint in 2 patients with trichorhinophalangeal syndrome
+type I (TRPS I; 190350) and was deleted in 5 patients with TRPS I
+associated with an interstitial deletion. Northern blot analyses
+revealed transcripts of 7 and 10.5 kb. The gene, designated TRPS1,
+encodes a polypeptide of 1,281 amino acids. The predicted protein
+sequence has 2 potential nuclear localization signals (LRRRRG and
+RRRTRKR) and an unusual combination of different zinc finger motifs,
+including IKAROS-like (see 603023) and GATA-binding (see 600576)
+sequences. Kaiser et al. (2004) presented evidence that only one of the
+basic amino acid sequences, the RRRTRKR motif (amino acids 946-952),
+acts as a nuclear localization signal.
+
+GENE STRUCTURE
+
+Momeni et al. (2000) determined that the TRPS1 gene contains 7 exons.
+
+MAPPING
+
+By genomic sequence analysis, Momeni et al. (2000) mapped the TRPS1 gene
+to chromosome 8q24.
+
+GENE FUNCTION
+
+Kaiser et al. (2003) found that 2 distinct regions of the nuclear
+transcription factor TRPS1 can physically interact with the dynein light
+chain protein DNCL1 (601562). Region A covers 89 amino acids (635-723),
+spanning 3 potential C2H2 zinc finger structures, and region B covers
+the 100 most C-terminal amino acids (1182-1281) containing the
+IKAROS-like motif. DNCL1 colocalized with TRPS1 in dot-like structures
+in the cell nucleus. An electrophoretic mobility shift assay showed that
+the interaction of DNCL1 and TRPS1 lowered the binding of TRPS1 to the
+GATA consensus sequence. In addition, a GATA-regulated reporter gene
+assay indicated that DNCL1 could suppress the transcriptional repression
+activity of TRPS1.
+
+Radvanyi et al. (2005) performed a comprehensive differential gene
+expression screen on a panel of 54 breast tumors and more than 200
+normal tissue samples and identified 15 genes specifically overexpressed
+in breast cancer, of which one of the most prevalent was TRPS1. The
+microarray findings were confirmed by in situ hybridization as well as
+immunoblot and immunofluorescence analysis of breast tumor cell lines.
+Immunohistochemistry analysis found TRPS1 protein expressed in greater
+than 90% of early- and late-stage breast cancer, including ductal
+carcinoma in situ and invasive ductal, lobular, and papillary
+carcinomas.
+
+MOLECULAR GENETICS
+
+Momeni et al. (2000) identified 6 different nonsense mutations in the
+TRPS1 gene (604386.0001-604386.0006) in 10 unrelated patients with
+trichorhinophalangeal syndrome type I (TRPS1; 190350). The findings
+suggested that haploinsufficiency for this putative transcription factor
+causes TRPS I.
+
+To investigate whether trichorhinophalangeal syndrome type III (190351)
+is caused by TRPS1 mutations and to establish a genotype-phenotype
+correlation in TRPS, Ludecke et al. (2001) performed extensive mutation
+analysis and evaluated height and degree of brachydactyly in patients
+with TRPS I or TRPS III. They found 35 different mutations in 44 of 51
+unrelated patients. The detection rate (86%) indicated that TRPS1 is the
+major locus for TRPS I and TRPS III. They found no mutation in the
+parents of sporadic patients or in apparently healthy relatives of
+familial patients, indicating complete penetrance of TRPS1 mutations.
+Evaluation of skeletal abnormalities of patients with TRPS1 mutations
+revealed a wide clinical spectrum. The phenotype was variable in
+unrelated, age- and sex-matched patients with identical mutations, as
+well as in families. Four of the 5 missense mutations altered the GATA
+DNA-binding zinc finger, and 6 of the 7 unrelated patients with these
+mutations could be classified as having TRPS III, because they had
+severe brachydactyly, due to short metacarpals, and severe short
+stature. The data indicated that TRPS III is at the severe end of the
+TRPS spectrum and that it is most often caused by a specific class of
+mutations in exon 6 the TRPS1 gene. In the study of Ludecke et al.
+(2001), 5 mutations were recurrent, and 4 of these were identified in
+patients of different ethnicities: 1 in patients of Norwegian, Turkish,
+and Belgian extraction, and another in patients of Belgian, Turkish, and
+Japanese extraction, for example.
+
+Kobayashi et al. (2002) identified a missense mutation in exon 6 of the
+TRPS1 gene (604386.0009) in type III TRPS, reinforcing the conclusion of
+Ludecke et al. (2001).
+
+In cases of type III TRPS, Hilton et al. (2002) found 2 missense
+mutations in the GATA DNA-binding zinc finger: R908Q (now R921Q;
+604386.0009), a recurrent mutation, and A919V (now A932V; 604386.0010),
+a de novo mutation.
+
+In cases of type I TRPS, Kaiser et al. (2004) identified the first 2
+missense mutations that do not affect the GATA zinc finger
+(604386.0011-604386.0012).
+
+Ludecke et al. (1995) presented evidence that the trichorhinophalangeal
+syndrome type II, or Langer-Giedion syndrome (150230), is a contiguous
+gene syndrome due to loss of functional copies of both the TRPS1 and
+EXT1 (608177) genes.
+
+GENOTYPE/PHENOTYPE CORRELATIONS
+
+Investigations have demonstrated that most patients with nonsense
+mutations in the TRPS1 gene have the less severe TRPS type I phenotype
+(Momeni et al., 2000; Hatamura et al., 2001), while patients with
+missense mutations in the GATA-type zinc-finger region of the TRPS1 gene
+have the more severe TRPS type III phenotype (Ludecke et al., 2001;
+Hilton et al., 2002). Piccione et al. (2009) presented evidence
+supporting this hypothesis. They reported 2 unrelated patients with TRPS
+types I and III who had heterozygous nonsense and missense mutations,
+respectively, in the TRPS1 gene. The patient with type I TRPS had
+haploinsufficiency of TRPS1, whereas the patient with type III TRPS had
+an allele causing functional modification of the GATA-type motif,
+possibly inducing a dominant-negative effect on DNA transcription
+regulation and leading to a more severe phenotype.
+
+CYTOGENETICS
+
+Fantauzzo et al. (2008) analyzed the cytogenetic breakpoints of 3
+patients with hypertrichosis universalis congenita, Ambras type (HTC1;
+145701), including patients ME-1 and SS-1, originally reported by
+Baumeister et al. (1993) and Balducci et al. (1998), respectively. They
+identified a pericentric inversion in chromosome 8q23.1 that lies 7.3 Mb
+downstream of the TRPS1 gene in patient ME-1, a 6.7-Mb deletion that
+encompasses the TRPS1 gene in patient SS-1, and a 1.5-Mb deletion in
+chromosome 8q24.1 that lies 2.1 Mb upstream of the TRPS1 gene in patient
+BN-1. There was no overlap between the breakpoints in the 3 patients, so
+the authors defined the entire 11.5-Mb interval between markers RH62506
+and D8S269 containing 20 genes, including the TRPS1 gene, as the
+candidate interval. Southern blot analysis was suggestive of deletion of
+TRPS1 in patient SS-1, and no RNA was available for patient BN-1.
+Quantitative RT-PCR demonstrated significant downregulation of TRPS1 in
+patient ME-1, suggesting that the inversion breakpoint 7.3 Mb downstream
+from the TRPS1 gene reduced expression, consistent with a position
+effect. Fantauzzo et al. (2008) suggested that position effect causing
+downregulation of TRPS1 expression is the probable cause of
+hypertrichosis in Ambras syndrome.
+
+ANIMAL MODEL
+
+Malik et al. (2002) reported that mice heterozygous for deletion of the
+DNA-binding GATA domain of Trps1 (delta-GT mutation) displayed facial
+anomalies that overlapped with findings for TRPS, whereas mice
+homozygous for the delta-GT mutation additionally showed a complete
+absence of vibrissae. Unexpectedly, homozygous delta-GT mice died of
+neonatal respiratory failure resulting from abnormalities of the
+thoracic spine and ribs. Delta-GT heterozygotes also developed thoracic
+kyphoscoliosis with age and had structural deficits in cortical and
+trabecular bones. The findings directly implicated the GATA-type zinc
+finger of TRPS1 in regulation of bone and hair development and suggested
+that skeletal abnormalities emphasized in descriptions of TRPS are only
+the extreme manifestations of a generalized bone dysplasia.
+
+Napierala et al. (2008) found that mice homozygous for the Trps1
+delta-GT mutation showed elongation of the growth plate due to delayed
+chondrocyte differentiation and abnormal mineralization of
+perichondrium. These abnormalities were accompanied by increased Runx2
+(600211) and Ihh (600726) expression and increased Ihh signaling.
+Cotransfection experiments showed that wildtype Trps1 bound Runx2 and
+repressed Runx2-mediated activation of a reporter plasmid. Double
+heterozygosity for Trps1 delta-GT and a Runx2-null mutation rescued the
+opposite growth plate phenotypes found in single mutants. Napierala et
+al. (2008) concluded that TRPS1 and RUNX2 interact to regulate
+chondrocyte and perichondrium development.
+
+Fantauzzo et al. (2008) analyzed koala ('Koa') mice, which represent a
+mouse model of hypertrichosis and have a semidominant, radiation-induced
+chromosomal inversion near the mouse ortholog of Trps1, and found that
+the proximal breakpoint of the Koa inversion is located 791 kb upstream
+of the Trps1 gene. Quantitative RT-PCR, in situ hybridization, and
+immunofluorescence analysis revealed that Trps1 expression levels are
+reduced in Koa mutant mice at the sites of pathology for the phenotype,
+including muzzle and dorsal skin and cells surrounding the developing
+vibrissae follicles. Fantauzzo et al. (2008) determined that the Koa
+inversion created a new Sp1 binding site and translocated additional Sp1
+binding sites within a highly conserved stretch spanning the proximal
+breakpoint, providing a potential mechanism for a position effect.
+
+ALLELIC VARIANT .0001
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, CYS351TER
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as CYS338TER (C338X) has been changed to
+CYS351TER (C351X).
+
+In a familial case of type I TRPS (190350), Momeni et al. (2000)
+described a 1014C-A transversion in exon 4 of the TRPS1 gene, causing a
+nonsense mutation, cys338 to ter.
+
+.0002
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, ARG624TER
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ARG611TER (R611X) has been changed to
+ARG624TER (R624X).
+
+In a familial case of type I TRPS (190350), Momeni et al. (2000) found
+an 1831C-T transition in exon 4 of the TRPS1 gene, causing a nonsense
+mutation, arg611 to ter.
+
+.0003
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, 1-BP INS, 2406G
+
+In a familial case of type I TRPS (190350), Momeni et al. (2000) found
+insertion of a single guanine between nucleotides 2406 and 2407 in exon
+5 of the TRPS1 gene, causing frameshift from codon 803.
+
+.0004
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, 1-BP INS, 2441T
+
+In a sporadic case of type I TRPS (190350), Momeni et al. (2000) found
+insertion of a T between nucleotides 2441 and 2442 in exon 5 of the
+TRPS1 gene, causing frameshift from codon 814.
+
+.0005
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, ARG853TER
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ARG840TER (R840X) has been changed to
+ARG853TER (R853X).
+
+In a sporadic case of type I TRPS (190350), Momeni et al. (2000) found a
+2518C-T transition in exon 5 of the TRPS1 gene, causing a nonsense
+mutation, arg840 to ter.
+
+.0006
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, 4-BP INS, 3360GGAG
+
+In a sporadic case of type I TRPS (190350), Momeni et al. (2000) found
+an insertion of 4 bases (GGAG) between nucleotides 3360 and 3361 in exon
+7 of the TRPS1 gene, causing frameshift from codon 1121.
+
+.0007
+TRICHORHINOPHALANGEAL SYNDROME, TYPE III
+TRPS1, THR914PRO
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as THR901PRO (T901P) has been changed to
+THR914PRO (T914P).
+
+In a patient with TRPS III (190351), who was the most severely affected
+patient in their study, Ludecke et al. (2001) found a thr901-to-pro
+missense mutation in the TRPS1 gene, which was expected to disrupt the
+beta-sheet structure of the GATA DNA-binding zinc finger domain and to
+alter the shape of the entire zinc finger.
+
+.0008
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, TYR1105TER
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as TYR1092TER (Y1092X) has been changed to
+TYR1105TER (Y1105X).
+
+Hatamura et al. (2001) described a tyr1092-to-ter (Y1092X) nonsense
+mutation due to a heterozygous C-to-G transversion in the TRPS1 gene in
+a Japanese family with type I trichorhinophalangeal syndrome (190350).
+The 40-year-old mother and all 3 of her children had thin sparse hair
+with recessed frontotemporo-occipital hairlines. Short stature, short
+arm span, facial deformity with bulbous nose and flat broad philtrum,
+and clinobrachydactyly of the fingers and toes were noted in all cases.
+Radiographs of the children showed brachymesophalangy associated with
+cone-shaped epiphyses in hands and feet.
+
+.0009
+TRICHORHINOPHALANGEAL SYNDROME, TYPE III
+TRPS1, ARG921GLN
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ARG908GLN (R908Q) has been changed to
+ARG921GLN (R921Q).
+
+Kobayashi et al. (2002) reported a Japanese family in which
+trichorhinophalangeal syndrome type III (190351) segregated with a
+2723G-A substitution in exon 6 of the TRPS1 gene, resulting in an
+arg908-to-gln (R908Q) missense mutation. The proposita was a 59-year-old
+woman with short stature, thin and slow-growing hair, and brachydactyly.
+Her father and 2 elder sisters likewise had this disorder. She was 138
+cm tall, and one of her affected sisters, aged 66 years, was 130 cm
+tall. Both were of normal intelligence.
+
+.0010
+TRICHORHINOPHALANGEAL SYNDROME, TYPE III
+TRPS1, ALA932VAL
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ALA919VAL (A919V) has been changed to
+ALA932VAL (A932V).
+
+In a case of type III trichorhinophalangeal syndrome (190351), Hilton et
+al. (2002) found a C-to-T transition at position 2756 in exon 6, causing
+an ala919-to-val (A919V) amino acid substitution in the GATA DNA-binding
+zinc finger.
+
+.0011
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, ARG965CYS
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ARG952CYS (R952C) has been changed to
+ARG965CYS (R965C).
+
+In a father and daughter from Portugal with TRPS I (190350), Kaiser et
+al. (2004) identified heterozygosity for a 2854C-T transition in the
+TRPS1 gene, resulting in an arg952-to-cys (R952C) substitution. The
+mutation prevents the transport of the TRPS1 protein into the nucleus
+and thus reduces the nuclear TRPS1 concentration, consistent with
+haploinsufficiency.
+
+.0012
+TRICHORHINOPHALANGEAL SYNDROME, TYPE I
+TRPS1, ARG952HIS
+
+Based on a renumbering of the TRPS1 gene sequence, the mutation
+originally referred to as ARG952HIS (R952H) has been changed to
+ARG965HIS (R965H).
+
+In a woman from Switzerland and in affected members of 4 generations of
+a U.S. family with TRPS I (190350), Kaiser et al. (2004) identified
+heterozygosity for a 2855G-A transition in the TRPS1 gene, resulting in
+an arg952-to-his (R952H) substitution. The mutation prevents the
+transport of the TRPS1 protein into the nucleus and thus reduces the
+nuclear TRPS1 concentration, consistent with haploinsufficiency.
+
+REFERENCE 1. Balducci, R.; Toscano, V.; Tedeschi, B.; Mangiantini, A.; Toscano,
+R.; Galasso, C.; Cianfarani, S.; Boscherini, B.: A new case of Ambras
+syndrome associated with a paracentric inversion(8)(q12;q22). Clin.
+Genet. 53: 466-468, 1998.
+
+2. Baumeister, F. A. M.; Egger, J.; Schildhauer, M. T.; Stengel-Rutkowski,
+S.: Ambras syndrome: delineation of a unique hypertrichosis universalis
+congenita and association with a balanced pericentric inversion (8)(p11.2;q22). Clin.
+Genet. 44: 121-128, 1993.
+
+3. Fantauzzo, K. A.; Tadin-Strapps, M.; You, Y.; Mentzer, S. E.; Baumeister,
+F. A. M.; Cianfarani, S.; Van Maldergem, L.; Warburton, D.; Sundberg,
+J. P.; Christiano, A. M.: A position effect on TRPS1 is associated
+with Ambras syndrome in humans and the Koala phenotype in mice. Hum.
+Molec. Genet. 17: 3539-3551, 2008.
+
+4. Hatamura, I.; Kanauchi, Y.; Takahara, M.; Fujiwara, M.; Muragaki,
+Y.; Ooshima, A.; Ogino, T.: A nonsense mutation in TRPS1 in a Japanese
+family with tricho-rhino-phalangeal syndrome type I. (Letter) Clin.
+Genet. 59: 366-367, 2001.
+
+5. Hilton, M. J.; Sawyer, J. M.; Gutierrez, L.; Hogart, A.; Kung,
+T. C.; Wells, D. E.: Analysis of novel and recurrent mutations responsible
+for the tricho-rhino-phalangeal syndromes. J. Hum. Genet. 47: 103-106,
+2002.
+
+6. Kaiser, F. J.; Brega, P.; Raff, M. L.; Byers, P. H.; Gallati, S.;
+Kay, T. T.; de Almeida, S.; Horsthemke, B.; Ludecke, H.-J.: Novel
+missense mutations in the TRPS1 transcription factor define the nuclear
+localization signal. Europ. J. Hum. Genet. 12: 121-126, 2004.
+
+7. Kaiser, F. J.; Tavassoli, K.; Van den Bemd, G.-J.; Chang, G. T.
+G.; Horsthemke, B.; Moroy, T.; Ludecke, H.-J.: Nuclear interaction
+of the dynein light chain LC8a with the TRPS1 transcription factor
+suppresses the transcriptional repression activity of TRPS1. Hum.
+Molec. Genet. 12: 1349-1358, 2003.
+
+8. Kobayashi, H.; Hino, M.; Shimodahira, M.; Iwakura, T.; Ishihara,
+T.; Ikekubo, K.; Ogawa, Y.; Nakao, K.; Kurahachi, H.: Missense mutation
+of TRPS1 in a family of tricho-rhino-phalangeal syndrome type III. Am.
+J. Med. Genet. 107: 26-29, 2002.
+
+9. Ludecke, H.-J.; Schaper, J.; Meinecke, P.; Momeni, P.; Gross, S.;
+von Holtum, D.; Hirche, H.; Abramowicz, M. J.; Albrecht, B.; Apacik,
+C.; Christen, H.-J.; Claussen, U.; and 28 others: Genotypic and
+phenotypic spectrum in tricho-rhino-phalangeal syndrome types I and
+III. Am. J. Hum. Genet. 68: 81-91, 2001.
+
+10. Ludecke, H.-J.; Wagner, M. J.; Nardmann, J.; La Pillo, B.; Parrish,
+J. E.; Willems, P. J.; Haan, E. A.; Frydman, M.; Hamers, G. J. H.;
+Wells, D. E.; Horsthemke, B.: Molecular dissection of a contiguous
+gene syndrome: localization of the genes involved in the Langer-Giedion
+syndrome. Hum. Molec. Genet. 4: 31-36, 1995.
+
+11. Malik, T. H.; von Stechow, D.; Bronson, R. T.; Shivdasani, R.
+A.: Deletion of the GATA domain of TRPS1 causes an absence of facial
+hair and provides new insights into the bone disorder in inherited
+tricho-rhino-phalangeal syndromes. Molec. Cell. Biol. 22: 8592-8600,
+2002.
+
+12. Momeni, P.; Glockner, G.; Schmidt, O.; von Holtum, D.; Albrecht,
+B.; Gillessen-Kaesbach, G.; Hennekam, R.; Meinecke, P.; Zabel, B.;
+Rosenthal, A.; Horsthemke, B.; Ludecke, H.-J.: Mutations in a new
+gene, encoding a zinc-finger protein, cause tricho-rhino-phalangeal
+syndrome type I. Nature Genet. 24: 71-74, 2000.
+
+13. Napierala, D.; Sam, K.; Morello, R.; Zheng, Q.; Munivez, E.; Shivdasani,
+R. A.; Lee, B.: Uncoupling of chondrocyte differentiation and perichondrial
+mineralization underlies the skeletal dysplasia in tricho-rhino-phalangeal
+syndrome. Hum. Molec. Genet. 17: 2244-2254, 2008.
+
+14. Piccione, M.; Niceta, M.; Antona, V.; Di Fiore, A.; Cariola, F.;
+Gentile, M.; Corsello, G.: Identification of two new mutations in
+TRPS 1 gene leading to the tricho-rhino-phalangeal syndrome type I
+and III. (Letter) Am. J. Med. Genet. 149A: 1837-1841, 2009.
+
+15. Radvanyi, L.; Singh-Sandhu, D.; Gallichan, S.; Lovitt, C.; Pedyczak,
+A.; Mallo, G.; Gish, K.; Kwok, K.; Hanna, W.; Zubovits, J.; Armes,
+J.; Venter, D.; Hakimi, J.; Shortreed, J.; Donovan, M.; Parrington,
+M.; Dunn, P.; Oomen, R.; Tartaglia, J.; Berinstein, N. L.: The gene
+associated with trichorhinophalangeal syndrome in humans is overexpressed
+in breast cancer. Proc. Nat. Acad. Sci. 102: 11005-11010, 2005.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 7/18/2011
+Marla J. F. O'Neill - updated: 11/3/2009
+Patricia A. Hartz - updated: 10/5/2009
+Marla J. F. O'Neill - updated: 10/17/2006
+George E. Tiller - updated: 3/18/2005
+Natalie E. Krasikov - updated: 6/16/2004
+Victor A. McKusick - updated: 2/24/2003
+Victor A. McKusick - updated: 4/12/2002
+Victor A. McKusick - updated: 1/17/2002
+Victor A. McKusick - updated: 8/2/2001
+Victor A. McKusick - updated: 1/23/2001
+
+CREATED Victor A. McKusick: 12/29/1999
+
+EDITED wwang: 07/22/2011
+ckniffin: 7/18/2011
+carol: 1/11/2011
+wwang: 11/9/2009
+terry: 11/3/2009
+mgross: 10/5/2009
+terry: 10/5/2009
+wwang: 10/17/2006
+terry: 10/17/2006
+carol: 8/1/2006
+alopez: 3/18/2005
+carol: 6/16/2004
+carol: 6/3/2004
+ckniffin: 10/30/2003
+carol: 10/30/2003
+carol: 3/3/2003
+tkritzer: 2/25/2003
+terry: 2/24/2003
+carol: 10/18/2002
+cwells: 4/22/2002
+terry: 4/12/2002
+carol: 1/31/2002
+mcapotos: 1/18/2002
+terry: 1/17/2002
+mcapotos: 8/15/2001
+mcapotos: 8/14/2001
+terry: 8/2/2001
+joanna: 6/22/2001
+carol: 1/23/2001
+terry: 1/23/2001
+alopez: 12/29/1999
+
+610365	TITLE *610365 C1q- AND TUMOR NECROSIS FACTOR-RELATED PROTEIN 1; C1QTNF1
+;;G PROTEIN-COUPLED RECEPTOR-INTERACTING PROTEIN; GIP
+DESCRIPTION 
+CLONING
+
+Using the second intracellular loop of V2R (AVPR2; 300538) as bait in a
+yeast 2-hybrid screen of a human kidney cDNA library, followed by RACE
+of heart and HEK293 mRNA, Innamorati et al. (2002) cloned C1QTNF1, which
+they called GIP. The deduced protein contains 379 amino acids. The
+extracellular N terminus contains a TNF (see 191160) family
+cysteine-rich region, followed by a transmembrane domain, a C-terminal
+collagen-like sequence of 14 Gly-X-Y repeats, and a globular domain.
+Northern blot analysis detected prominent expression in heart and lower
+expression in placenta, liver, skeletal muscle, kidney, prostate and
+ovary. Little to no expression was detected in other tissues examined.
+In transfected HEK293 and COS cells, epitope-tagged GIP was expressed in
+vesicular structures surrounding the nucleus and near the cell surface.
+Western blot analysis detected epitope-tagged GIP at about 40 kD and 130
+kD, suggesting GIP can form trimers.
+
+GENE FUNCTION
+
+Using a yeast 2-hybrid assay and pull-down experiments, Innamorati et
+al. (2002) confirmed the interaction between the second intracellular
+loop of V2R and the C-terminal portion of GIP.
+
+GENE STRUCTURE
+
+Innamorati et al. (2002) determined that the C1QTNF1 gene contains 3
+coding exons.
+
+MAPPING
+
+By genomic sequence analysis, Innamorati et al. (2002) mapped the
+C1QTNF1 gene to chromosome 17q25.
+
+REFERENCE 1. Innamorati, G.; Whang, M. I.; Molteni, R.; Le Gouill, C.; Birnbaumer,
+M.: GIP, a G-protein-coupled receptor interacting protein. Regul.
+Pept. 109: 173-179, 2002.
+
+CREATED Patricia A. Hartz: 8/30/2006
+
+EDITED wwang: 05/14/2008
+wwang: 9/7/2006
+wwang: 8/31/2006
+
+194558	TITLE *194558 ZINC FINGER PROTEIN 83; ZNF83
+DESCRIPTION 
+MAPPING
+
+Marine et al. (1994) assigned the ZNF83 gene (also known as HPF1) to
+chromosome 19 by screening a human/rodent hybrid panel and localized the
+gene further to 19q13.3-q13.4 by fluorescence in situ hybridization and
+digital imaging microscopy.
+
+HISTORY
+
+Conserved structural motifs define large families of nucleic acid
+binding proteins in eukaryotes. The C2H2-type zinc finger motif,
+conferring both specific RNA and DNA binding activities, was first
+detected within the amino acid sequence of the Xenopus transcription
+factor IIIA (Miller et al., 1985). Thereafter, vertebrate genomes were
+shown to encode hundreds of so-called zinc finger proteins (ZFPs).
+Subfamilies were defined on the basis of conserved sequence elements
+outside the finger repeat, such as the KRAB domain. Several members of
+these subfamilies were found to have a clustered genomic organization.
+
+REFERENCE 1. Marine, J.-C.; Bellefroid, E. J.; Bourguignon, C.; Riviere, M.;
+Lecoq, P. J.; Poncelet, D. A.; Szpirer, J.; Martial, J. A.; Szpirer,
+C.: Assignment of the human ZNF83 (HPF1) zinc finger gene to chromosome
+19q13.3-q13.4. Genomics 21: 285-286, 1994.
+
+2. Miller, J.; McLachlan, A. D.; Klug, A.: Repetitive zinc-binding
+domains in the protein transcription factor IIIA from Xenopus oocytes. EMBO
+J. 4: 1609-1614, 1985.
+
+CREATED Victor A. McKusick: 6/17/1994
+
+EDITED alopez: 07/07/2010
+dkim: 6/26/1998
+jason: 6/17/1994
+
+603791	TITLE *603791 SOLUTE CARRIER FAMILY 23 (NUCLEOBASE TRANSPORTER), MEMBER 2; SLC23A2
+;;SODIUM-DEPENDENT VITAMIN C TRANSPORTER 2; SVCT2;;
+YOLK SAC PERMEASE-LIKE MOLECULE 2; YSPL2;;
+KIAA0238
+DESCRIPTION 
+DESCRIPTION
+
+The absorption of vitamin C into the body and its distribution to organs
+requires the sodium-coupled vitamin C transporters SVCT1 (603790) and
+SVCT2. SVCT1 is largely confined to epithelial surfaces involved in bulk
+transport, such as those of the intestine and kidney, and is involved in
+maintenance of whole-body homeostasis, through dietary absorption and
+renal reabsorption. SVCT2 appears to account for tissue-specific uptake
+of vitamin C. SVCT2 expression is widespread, occurring in neurons, the
+endocrine system, bone, and other tissues, thus protecting metabolically
+active tissues from oxidative stress (Hediger, 2002 and Savini et al.,
+2008).
+
+CLONING
+
+During investigation of the importance of L-ascorbic acid transport in
+regulating the supply and metabolism of vitamin C, Tsukaguchi et al.
+(1999) isolated a 6.5-kb cDNA encoding a 592-amino acid protein, SVCT2,
+from a rat brain cDNA library. This protein exhibits 65% amino acid
+identity with rat SVCT1. SVCT2 is expressed in a host of metabolically
+active cells and specialized tissues in the brain, eye, and other
+organs. SVCT2 has 12 transmembrane domains, 2 possible sites for
+N-glycosylation, and multiple potential phosphorylation sites.
+
+As part of a project of sequencing human cDNA clones that correspond to
+relatively long and nearly full-length transcripts, Nagase et al. (1996)
+cloned KIAA0238, a 5,608-bp cDNA encoding a protein of 330 amino acids.
+Tsukaguchi et al. (1999) determined that rat SVCT2 shares 84% amino acid
+identity with KIAA0238 and stated that KIAA0238 may represent the human
+homolog of SVCT2.
+
+By searching for sequences similar to Aspergillus nidulans purine
+transporters, followed by 5-prime RACE of a human kidney cDNA library,
+Faaland et al. (1998) cloned SLC23A2, which they called YSPL2. The
+deduced 650-amino acid protein has a calculated molecular mass of 70 kD.
+It has 12 transmembrane domains, 2 blocks of similarity with
+xanthine/uracil transporters, 2 potential N-glycosylation sites, and 3
+putative phosphorylation sites. The N and C termini are predicted to be
+intracellular. Northern blot analysis detected an 8-kb transcript in
+heart, brain, placenta, liver, kidney, and pancreas. EST database
+analysis indicated that YSPL2 is expressed in other human tissues and
+cell types, particularly in fetal tissues.
+
+Using SVCT1 (SLC23A1) to probe a human placenta cell line cDNA library,
+Rajan et al. (1999) cloned SVCT2. Northern blot analysis detected a
+major transcript of 7.5 kb highly expressed in brain, placenta, and
+liver and more weakly expressed in heart, but not in lung or skeletal
+muscle. Placenta expressed an additional transcript of 4.0 kb.
+
+By PCR of a human fetal brain cDNA library, Lutsenko et al. (2004)
+cloned a splice variant of SVCT2 that encodes a truncated protein
+lacking the last 115 amino acids, including intracellular domains 5 and
+6 and part of domain 4. PCR analysis detected the short variant in all
+adult and fetal tissues examined. The long and short SVCT2 variants were
+expressed in transfected human embryonic kidney cells as proteins of
+about 80 and 70 kD, respectively.
+
+By RT-PCR, Rubin et al. (2005) showed that several human cell lines
+preferentially expressed SVCT2 from the exon 1b promoter compared to the
+exon 1a promoter but that the ratio of preference varied widely.
+
+GENE FUNCTION
+
+By assaying transport activity in transfected human retinal pigment
+epithelial cells, Rajan et al. (1999) showed that SVCT2 specifically
+transported radiolabeled ascorbate, but not any other vitamin tested.
+Transport was saturable and completely dependent upon extracellular Na+.
+Kinetic analysis revealed that the relationship between ascorbate uptake
+and Na+ concentration was sigmoidal, indicating that for every ascorbate
+molecule transported, 2 Na+ ions were cotransported.
+
+By cotransfection in human embryonic kidney cells, Lutsenko et al.
+(2004) showed that the C-terminally truncated isoform of SVCT2 inhibited
+ascorbic acid transport by the longer isoform in a dose-dependent manner
+and that inhibition was due to direct protein-protein interaction
+between the short and long variants. By examining the level of
+endogenous short and long variants in human cell lines, Lutsenko et al.
+(2004) found that the ability of cells to transport ascorbic acid was
+inversely proportional to the amount of short isoform expressed.
+
+GENE STRUCTURE
+
+Rubin et al. (2005) identified alternative exons 1a and 1b of the
+SLC23A2 gene that are separated by about 8.8 kb and have upstream
+promoter sequences. The promoter upstream of exon 1b is TATA- and
+CAAT-less and has a GC content of 73%. Rubin et al. (2005) identified
+several specific transcription factor binding sites in both promoter
+regions and determined that translation start site is in exon 3.
+
+Savini et al. (2008) stated that the SLC23A2 gene contains 17 exons and
+spans 158.4 kb.
+
+MAPPING
+
+By analysis of a radiation hybrid mapping panel, Nagase et al. (1996)
+mapped the SLC23A2 gene to human chromosome 20. By genomic sequence
+analysis, Faaland et al. (1998) mapped the SLC23A2 gene to chromosome
+20p13-p12.
+
+REFERENCE 1. Faaland, C. A.; Race, J. E.; Ricken, G.; Warner, F. J.; Williams,
+W. J.; Holtzman, E. J.: Molecular characterization of two novel transporters
+from human and mouse kidney and from LLC-PK1 cells reveals a novel
+conserved family that is homologous to bacterial and Aspergillus nucleobase
+transporters. Biochim. Biophys. Acta 1442: 353-360, 1998.
+
+2. Hediger, M. A.: New view at C. Nature Med. 8: 445-446, 2002.
+
+3. Lutsenko, E. A.; Carcamo, J. M.; Golde, D. W.: A human sodium-dependent
+vitamin C transporter 2 isoform acts as a dominant-negative inhibitor
+of ascorbic acid transport. Molec. Cell. Biol. 24: 3150-3156, 2004.
+Note: Erratum: Molec. Cell. Biol. 24: 6537 only, 2004.
+
+4. Nagase, T.; Seki, N.; Ishikawa, K.; Ohira, M.; Kawarabayasi, Y.;
+Ohara, O.; Tanaka, A.; Kotani, H.; Miyajima, N.; Nomura, N.: Prediction
+of the coding sequences of unidentified human genes. VI. The coding
+sequences of 80 new genes (KIAA0201-KIAA0280) deduced by analysis
+of cDNA clones from cell line KG-1 and brain. DNA Res. 3: 321-329,
+1996.
+
+5. Rajan, D. P.; Huang, W.; Dutta, B.; Devoe, L. D.; Leibach, F. H.;
+Ganapathy, V.; Prasad, P. D.: Human placental sodium-dependent vitamin
+C transporter (SVCT2): molecular cloning and transport function. Biochem.
+Biophys. Res. Commun. 262: 762-768, 1999.
+
+6. Rubin, S. A.; Dey, S.; Reidling, J. C.: Functional analysis of
+two regulatory regions of the human Na(+)-dependent vitamin C transporter
+2, SLC23A2, in human vascular smooth muscle cells. Biochim. Biophys.
+Acta 1732: 76-81, 2005.
+
+7. Savini, I.; Rossi, A.; Pierro, C.; Avigliano, L.; Catani, M. V.
+: SVCT1 and SVCT2: key proteins for vitamin C uptake. Amino Acids 34:
+347-355, 2008.
+
+8. Tsukaguchi, H.; Tokui, T.; Mackenzie, B.; Berger, U. V.; Chen,
+X.-Z.; Wang, Y.; Brubaker, R. F.; Hediger, M. A.: A family of mammalian
+Na(+)-dependent L-ascorbic acid transporters. Nature 399: 70-75,
+1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/18/2007
+Victor A. McKusick - updated: 5/20/2002
+
+CREATED Ada Hamosh: 5/5/1999
+
+EDITED terry: 11/13/2012
+alopez: 5/13/2009
+wwang: 10/31/2007
+terry: 10/18/2007
+joanna: 9/17/2007
+carol: 3/18/2003
+mgross: 6/4/2002
+terry: 5/20/2002
+terry: 4/5/2000
+mgross: 1/31/2000
+alopez: 10/12/1999
+alopez: 5/6/1999
+
+158343	TITLE *158343 ATP-BINDING CASSETTE, SUBFAMILY C, MEMBER 1; ABCC1
+;;MULTIDRUG RESISTANCE-ASSOCIATED PROTEIN 1; MRP1;;
+MULTIDRUG RESISTANCE-ASSOCIATED PROTEIN; MRP
+DESCRIPTION 
+CLONING
+
+Cole et al. (1992) identified a transporter protein whose gene is
+overexpressed in a multidrug-resistant variant of the small cell lung
+cancer cell line NCI-H69. Unlike most tumor cell lines that are
+resistant to multiple chemotherapeutic agents, it did not overexpress
+the transmembrane transport protein P-glycoprotein (MDR1; 171050). Cole
+et al. (1992) isolated cDNA clones corresponding to mRNAs overexpressed
+in the resistant H69 cells. One cDNA hybridized to an mRNA of 7.8 to 8.2
+kb that was expressed 100- to 200-fold higher in the resistant cells
+than in the drug-sensitive H69 cells. Overexpression was associated with
+amplification of the cognate gene. The cDNA contained a single open
+reading frame of 1,522 amino acids encoding a protein that they
+designated MRP, for 'multidrug resistance-associated protein.' (Cole and
+Deeley (1993) corrected the predicted protein sequence to 1,531 amino
+acids.) Database analyses demonstrated similarities in primary sequence
+to the adenosine triphosphate (ATP)-binding cassette (ABC) superfamily
+of transport systems. Included in this superfamily are the genes for
+MDR1 and for the cystic fibrosis transmembrane conductance regulator
+(CFTR; 602421). Northern blot analysis readily detected MRP transcripts
+in lung, testis, and peripheral blood mononuclear cells; MRP transcripts
+were below the level of detection in placenta, brain, kidney, salivary
+gland, uterus, liver, and spleen.
+
+GENE FUNCTION
+
+Zaman et al. (1994) described experiments leading them to conclude that
+MRP is a plasma membrane drug-efflux pump.
+
+Lorico et al. (2002) showed that glutathione is a cofactor in
+MRP-mediated resistance to heavy metal oxyanions: human fibrosarcoma
+cells overexpressing MRP1 together with the heavy (catalytic) subunit of
+gamma-glutamylcysteine synthetase (606857) showed increased resistance
+to sodium arsenite and antimony toxicity.
+
+Using flow cytometric analysis, Muller et al. (2002) found that when a
+FLAG epitope was introduced into the extracellular loops of
+membrane-spanning domain-1 (MSD1) or MSD3 of MRP1, it was accessible on
+the cell surface upon removal of N-glycosylation sites. In contrast,
+FLAG epitope inserted into MSD2 was not accessible even after removal of
+all 3 N-glycosylation sites, indicating that MSD2 is deeply buried in
+the plasma membrane.
+
+Using RT-PCR and Western blot analysis, Pascolo et al. (2003) found that
+MRP1 and MRP3 (ABCC3; 604323) were highly expressed in placenta, but
+only MRP1 was highly expressed in a trophoblastic cell line. MRP2
+(ABCC2; 601107) and MRP5 (ABCC5; 605251) were only weakly expressed in
+placenta and the trophoblastic cell line. Third-trimester placenta
+expressed more MRP1 than first-trimester placenta. MRP1 expression
+increased markedly in the trophoblastic cell line upon polarization.
+Pascolo et al. (2003) concluded that MRP1 expression increases with
+trophoblast maturation.
+
+In cultured mouse astrocytes, Gennuso et al. (2004) found that
+unconjugated bilirubin induced increased expression and transient
+redistribution of Mrp1 from the Golgi apparatus to the plasma membrane
+and throughout the cytoplasm. Blocking Mrp1 efflux pumps increased the
+susceptibility of the cells to the toxic effects of unconjugated
+bilirubin, suggesting that Mrp1 is an important protector in this
+scenario. The authors noted the relevance of the findings to neonatal
+encephalopathy caused by increased bilirubin.
+
+Mitra et al. (2006) found that sphingosine-1-phosphate (S1P) was
+released from mast cells independently of degranulation. S1P secretion
+was dependent on ABCC1, but not on ABCB1 (171050), and inhibition of
+ABCC1 blocked both constitutive and antigen-stimulated S1P release.
+Chemotaxis assays showed that ABCC1-mediated transport of S1P influenced
+mast-cell migration, but not mast-cell degranulation.
+
+The reactivation of latent human cytomegalovirus (HCMV) infection after
+transplantation is associated with high morbidity and mortality. In
+vivo, myeloid cells and their progenitors are an important site of HCMV
+latency, whose establishment and/or maintenance require expression of
+the viral transcript UL138. Weekes et al. (2013) used stable isotope
+labeling by amino acids in cell culture-based mass spectrometry to
+identify a dramatic UL138-mediated loss of cell surface MRP1 and the
+reduction of substrate export by this transporter. Latency-associated
+loss of MRP1 and accumulation of the cytotoxic drug vincristine, an MRP1
+substrate, depleted virus from naturally latent CD14+ (158120) and CD34+
+(142230) progenitors, all of which are in vivo sites of latency. Weekes
+et al. (2013) concluded that the UL138-mediated loss of MRP1 provides a
+marker for detecting latent HCMV infection and a therapeutic target for
+eliminating latently infected cells before transplantation.
+
+GENE STRUCTURE
+
+Grant et al. (1997) defined the intron/exon structure of MRP and
+characterized a number of splicing variants of MRP mRNA. The gene spans
+at least 200 kb. It contains 31 exons and a high proportion of class 0
+introns, alternative splicing of which results in significant levels of
+variant transcripts that maintain the original open reading frame of MRP
+mRNA. (A class 0 splice occurs between 2 codons, e.g., ATG/ATG =
+Met.Met. A class 1 splice would be ATGA/TG and a class 2 splice would be
+ATGAT/G.) Analyses of the conservation of intron/exon organization and
+protein primary structure suggested that the MRP-related transporters
+evolved from a common ancestor shared with CFTR by fusion with 1 or more
+genes encoding polytopic membrane proteins.
+
+MAPPING
+
+By isotopic in situ hybridization, Cole et al. (1992) mapped the MRP1
+gene to chromosome 16p13.1. Grant et al. (1997) located the MRP1 gene
+close to the short arm breakpoint of the pericentric inversion
+associated with the M4Eo subclass of acute myeloid leukemia and on the
+telomeric side of the MYH11 gene (160745).
+
+MOLECULAR GENETICS
+
+Using PCR-SSCP analysis, Conrad et al. (2001) screened 36 Caucasian
+volunteers for mutations in the coding exons of the MRP1 gene, including
+the adjacent intron sequences. Among several changes found, 2 were
+predicted to cause amino acid substitutions. One of these mutations,
+G671V, was of special interest because it is located near the first
+nucleotide-binding domain. To determine whether this mutation caused a
+change in the MRP1 phenotype, a mutant MRP1 expression vector was
+constructed and transfected into SV40-transformed human embryonic kidney
+cells and the transport properties of the mutant protein were examined.
+With the substrates studied, the mutant showed no differences in organic
+anion transport activities compared to wildtype MRP1.
+
+Wang et al. (2005) scanned for genomic signatures of recent positive
+selection in MRP1 in approximately 480 individuals sampled from the
+Chinese, Malay, Indian, European American, and African American
+populations. The genetic profile of SNPs at this locus revealed high
+haplotype diversity and weak linkage disequilibrium (LD). Despite this
+weak LD, the G allele of the -260G-C SNP (dbSNP rs4148330) in the
+promoter region of the MRP1 gene, which was contained within a
+high-frequency haplotype, exhibited extended haplotype homozygosity
+across 135 kb in European Americans. Long-range haplotype and F(st)
+statistic tests showed evidence of positive selection for the G allele
+in the European American population. An MRP1 promoter-reporter assay
+showed significantly lower activity for the G allele-containing promoter
+when compared with the C allele-containing promoter in all 4 cell lines
+tested (P = less than 0.01). Wang et al. (2005) suggested that dbSNP
+rs4148330 may account, in part, for interindividual variations and
+population differences in drug response.
+
+ANIMAL MODEL
+
+Robbiani et al. (2000) showed that migration of dendritic cells (DCs)
+from skin to lymph nodes utilizes the leukotriene C4 (LTC4; see 246530)
+transporter MRP1. DC mobilization from the epidermis and trafficking
+into lymphatic vessels was greatly reduced in Mrp1 -/- mice, but
+migration was restored by exogenous cysteinyl leukotrienes LTC4 or LTD4.
+In vitro, these cysteinyl leukotrienes promoted optimal chemotaxis to
+the chemokine CCL19 (SCYA19; 602227) but not to other related
+chemokines. Antagonism of CCL19 in vivo prevented DC migration out of
+the epidermis. Thus, the authors concluded that MRP1 regulates DC
+migration to lymph nodes, apparently by transporting LTC4, which in turn
+promotes chemotaxis to CCL19 and mobilization of DCs from the epidermis.
+
+Schultz et al. (2001) showed that Mrp1-deficient mice had diminished
+outgrowth of Streptococcus pneumoniae and strongly reduced mortality
+compared with wildtype mice after intranasal infection. This advantage
+could be abrogated by treatment with a 5-lipoxygenase inhibitor. Mutant
+mice had low levels of LTC4 in lung because of accumulation of
+intracellular LTC4 and inhibition of LTC4 synthase. On the other hand,
+they had a reduced inflammatory response and high levels of LTB4 (see
+LTB4R2; 605773), which was associated with increased LTA4 hydrolase
+(151570) activity and was required for the protective effect. Schultz et
+al. (2001) suggested that MRP1 may be a novel target for adjunctive
+therapy in pneumonia.
+
+Lorico et al. (2002) found resistance to heavy metal oxyanion toxicity
+in cell cultures overexpressing MRP1, but no increase in sensitivity to
+sodium arsenite and antimony in Mrp1 -/- knockout mice. The authors
+stated that the redundancy of transmembrane export pumps suggests that
+other pump(s) may effectively vicariate for MRP1-mediated transport of
+heavy metal oxyanions.
+
+REFERENCE 1. Cole, S. P. C.; Bhardwaj, G.; Gerlach, J. H.; Mackie, J. E.; Grant,
+C. E.; Almquist, K. C.; Stewart, A. J.; Kurz, E. U.; Duncan, A. M.
+V.; Deeley, R. G.: Overexpression of a transporter gene in a multidrug-resistant
+human lung cancer cell line. Science 258: 1650-1654, 1992. Note:
+Erratum: Science 260: 879 only, 1993.
+
+2. Cole, S. P. C.; Deeley, R. G.: Multidrug resistance-associated
+protein: sequence correction. (Letter) Science 260: 879 only, 1993.
+
+3. Conrad, S.; Kauffmann, H.-M.; Ito, K.; Deeley, R. G.; Cole, S.
+P. C.; Schrenk, D.: Identification of human multidrug resistance
+protein 1 (MRP1) mutations and characterization of a G671V substitution. J.
+Hum. Genet. 46: 656-663, 2001.
+
+4. Gennuso, F.; Fernetti, C.; Tirolo, C.; Testa, N.; L'Episcopo, F.;
+Caniglia, S.; Morale, M. C.; Ostrow, J. D.; Pascolo, L.; Tiribelli,
+C.; Marchetti, B.: Bilirubin protects astrocytes from its own toxicity
+by inducing up-regulation and translocation of multidrug resistance-associated
+protein 1 (Mrp1). Proc. Nat. Acad. Sci. 101: 2470-2475, 2004.
+
+5. Grant, C. E.; Kurz, E. U.; Cole, S. P. C.; Deeley, R. G.: Analysis
+of the intron-exon organization of the human multidrug-resistance
+protein gene (MRP) and alternative splicing of its mRNA. Genomics 45:
+368-378, 1997.
+
+6. Lorico, A.; Bertola, A.; Baum, C.; Fodstad, O.; Rappa, G.: Role
+of multidrug resistance protein 1 in protection from heavy metal oxyanions:
+investigations in vitro and in Mrp1-deficient mice. Biochem. Biophys.
+Res. Commun. 291: 617-622, 2002.
+
+7. Mitra, P.; Oskeritzian, C. A.; Payne, S. G.; Beaven, M. A.; Milstien,
+S.; Spiegel, S.: Role of ABCC1 in export of sphingosine-1-phosphate
+from mast cells. Proc. Nat. Acad. Sci. 103: 16394-16399, 2006.
+
+8. Muller, M.; Yong, M.; Peng, X.-H.; Petre, B.; Arora, S.; Ambudkar,
+S. V.: Evidence for the role of glycosylation in accessibility of
+the extracellular domains of human MRP1 (ABCC1). Biochemistry 41:
+10123-10132, 2002.
+
+9. Pascolo, L.; Fernetti, C.; Pirulli, D.; Crovella, S.; Amoroso,
+A.; Tiribelli, C.: Effects of maturation on RNA transcription and
+protein expression of four MRP genes in human placenta and in BeWo
+cells. Biochem. Biophys. Res. Commun. 303: 259-265, 2003.
+
+10. Robbiani, D. F.; Finch, R. A.; Jager, D.; Muller, W. A.; Sartorelli,
+A. C.; Randolph, G. J.: The leukotriene C4 transporter MRP1 regulates
+CCL19 (MIP-3-beta, ELC)-dependent mobilization of dendritic cells
+to lymph nodes. Cell 103: 757-768, 2000.
+
+11. Schultz, M. J.; Wijnholds, J.; Peppelenbosch, M. P.; Vervoordeldonk,
+M. J. B. M.; Speelman, P.; van Deventer, S. J. H.; Borst, P.; van
+der Poll, T.: Mice lacking the multidrug resistance protein 1 are
+resistant to Streptococcus pneumoniae-induced pneumonia. J. Immun. 166:
+4059-4064, 2001.
+
+12. Wang, Z.; Wang, B.; Tang, K.; Lee, E. J. D.; Chong, S. S.; Lee,
+C. G. L.: A functional polymorphism within the MRP1 gene locus identified
+through its genomic signature of positive selection. Hum. Molec.
+Genet. 14: 2075-2087, 2005.
+
+13. Weekes, M. P.; Tan, S. Y. L.; Poole, E.; Talbot, S.; Antrobus,
+R.; Smith, D. L.; Montag, C.; Gygi, S. P.; Sinclair, J. H.; Lehner,
+P. J.: Latency-associated degradation of the MRP1 drug transporter
+during latent human cytomegalovirus infection. Science 340: 199-202,
+2013.
+
+14. Zaman, G. J. R.; Flens, M. J.; van Leusden, M. R.; de Haas, M.;
+Mulder, H. S.; Lankelma, J.; Pinedo, H. M.; Scheper, R. J.; Baas,
+F.; Broxterman, H. J.; Borst, P.: The human multidrug resistance-associated
+protein MRP is a plasma membrane drug-efflux pump. Proc. Nat. Acad.
+Sci. 91: 8822-8826, 1994.
+
+CONTRIBUTORS Ada Hamosh - updated: 05/07/2013
+George E. Tiller - updated: 11/18/2008
+Paul J. Converse - updated: 1/22/2007
+Cassandra L. Kniffin - updated: 3/11/2004
+Patricia A. Hartz - updated: 3/25/2002
+Victor A. McKusick - updated: 1/8/2002
+Paul J. Converse - updated: 4/27/2001
+Stylianos E. Antonarakis - updated: 12/18/2000
+Victor A. McKusick - updated: 1/6/1998
+Victor A. McKusick - updated: 12/8/1997
+
+CREATED Victor A. McKusick: 1/29/1993
+
+EDITED alopez: 05/07/2013
+carol: 12/21/2012
+wwang: 11/18/2008
+mgross: 1/22/2007
+tkritzer: 3/12/2004
+ckniffin: 3/11/2004
+carol: 4/17/2002
+carol: 4/15/2002
+terry: 3/25/2002
+carol: 2/1/2002
+carol: 1/10/2002
+mcapotos: 1/10/2002
+terry: 1/8/2002
+mgross: 4/27/2001
+carol: 4/13/2001
+mgross: 12/18/2000
+carol: 11/9/1999
+carol: 3/19/1999
+carol: 3/28/1998
+terry: 1/6/1998
+mark: 12/11/1997
+terry: 12/8/1997
+carol: 11/10/1994
+carol: 1/29/1993
+
+602559	TITLE *602559 EXPORTIN 1; XPO1
+;;REQUIRED FOR CHROMOSOME REGION MAINTENANCE; CRM1
+DESCRIPTION 
+CLONING
+
+Human CRM1, or XPO1, is the homolog of yeast crm1 (named for 'required
+for chromosome region maintenance'), a nuclear protein essential for
+proliferation and chromosome region maintenance. Fornerod et al. (1997)
+used the oncogenic nucleoporin CAN (114350) to coprecipitate human CRM1.
+The complete cDNA encodes a predicted protein of 1,071 amino acids with
+a predicted molecular mass of 123 kD. The CRM1 protein migrates at 112
+kD. Human CRM1 has 47% identity with S. cerevisiae crm1 and 52% identity
+with S. pombe crm1+. The N terminus of human CRM1 shares significant
+homology with the N terminus of importin-beta. Fornerod et al. (1997)
+identified a group of largely uncharacterized yeast and vertebrate
+proteins of similar size (110 to 120 kD) that share this homology
+domain, which they proposed to call the CRIME domain (for 'CRM1,
+importin-beta, etc.').
+
+Kudo et al. (1997) cloned human CRM1 cDNA using sequence information
+from EST databases and a PCR-based strategy based on the sequence of S.
+pombe crm1+. Northern blot analysis using the C-terminal region of human
+CRM1 cDNA as a probe revealed a major transcript of 5.6 kb expressed in
+all tissues tested except kidney.
+
+GENE FUNCTION
+
+Kudo et al. (1997) found that Human CRM1 weakly complemented the
+cold-sensitive mutation of S. pombe crm1-809. Overproduction of human
+CRM1 suppressed cell proliferation in wildtype S. pombe in an expression
+level-dependent manner. Overexpression of native S. pombe crm1+ had the
+same effect. Northern blot analysis with RNAs isolated from synchronized
+mammalian cells showed that the expression of mammalian CRM1 was
+initiated in the late G1 phase and reached a peak at G2/M, although the
+protein level did not change during the cell cycle. Human CRM1 fused to
+green fluorescent protein (GFP) and transiently expressed in NIH 3T3
+cells showed that human CRM1 was localized preferentially in the nuclear
+envelope, but was also detectable in the nucleoplasm and the cytoplasm.
+A crm1 mutation of S. pombe caused nuclear import of a GFP fusion
+protein containing a nuclear export signal (NES) but no change in the
+distribution of a GFP fusion protein containing a nuclear localization
+signal (NLS). These data suggested to Kudo et al. (1997) that CRM1 is a
+novel cell cycle-regulated gene that is essential for the NES-dependent
+nuclear export of proteins.
+
+CRM1 protein binds CAN and NUP88 (602552), and its association with the
+nuclear pore is dynamic (Fornerod et al., 1997). To test whether CRM1
+could be a nuclear export receptor, Fornerod et al. (1997) used Xenopus
+oocytes incubated in leptomycin B, a cytotoxin which blocks Rev export
+and Rev-mediated RNA export in tissue culture cells. Leptomycin B
+interacted directly with CRM1, as shown by gel shift assays, and blocked
+export of Rev and U snRNAs from Xenopus oocyte nucleus. Overexpression
+of CRM1 stimulated Rev and U snRNA export from the nucleus. Fornerod et
+al. (1997) found that an NES/CRM1/Ran complex forms in the presence of
+RanGTP. Leptomycin B blocks formation of this complex. Fornerod et al.
+(1997) concluded that CRM1 is an export receptor for leucine-rich NESs.
+Noting that CRM1 is a member of a family of proteins related to
+importin-beta, Fornerod et al. (1997) suggested the descriptive name
+'exportins' for those family members involved in nuclear export.
+
+Stade et al. (1997) characterized CRM1 as an essential nuclear export
+factor in S. cerevisiae and proposed that CRM1 be renamed 'exportin-1,'
+symbolized XPO1. XPO1 protein is localized in the nucleus at steady
+state but is capable of shuttling between the nucleus and cytoplasm.
+Stade et al. (1997) constructed an NES-GFP-NLS substrate which shuttled
+continuously between the nucleus and cytoplasm, but appeared largely
+cytoplasmic, presumably due to a higher rate of export. In yeast
+containing a temperature-sensitive mutation in CRM1, the substrate
+became nuclear within 5 minutes at high temperature, indicating that the
+mutation blocks NES export. High temperature also blocked mRNA export in
+yeast. A 2-hybrid analysis showed an interaction between NES and CRM1
+and between Ran and CRM1.
+
+The cyclin-dependent kinase inhibitor p27(KIP1) (CDKN1B; 600778) is
+degraded during the cell cycle by the ubiquitin-proteasome pathway.
+Using NIH-3T3 mouse fibroblasts and mouse embryonic fibroblasts, Kamura
+et al. (2004) found that a complex made up of Kpc1 (RNF123; 614472) and
+Kpc2 (UBAC1; 608129) ubiquitinated cytoplasmic p27(KIP1) at G1 phase and
+that cytoplasmic degradation of p27(KIP1) required p27(KIP1) nuclear
+export by Crm1.
+
+A single transcript in its unspliced and spliced forms directs synthesis
+of all human immunodeficiency virus (HIV)-1 proteins. Although nuclear
+export of intron-containing cellular transcripts is restricted in
+mammalian cells, HIV-1 has evolved the viral Rev protein to overcome
+this restriction for viral transcripts. CRM1 is a cellular cofactor for
+Rev-dependent export of intron-containing HIV-1 RNA. Yedavalli et al.
+(2004) presented evidence that Rev/CRM1 activity uses the ATP-dependent
+RNA helicase DDX3 (300160). They showed that DDX3 is a nucleocytoplasmic
+shuttling protein that binds CRM1 and localizes to nuclear membrane
+pores. Knockdown of DDX3 using either antisense vector or
+dominant-negative mutants suppressed Rev-RRE (Rev response element)
+function in the export of incompletely spliced HIV-1 RNAs. Yedavalli et
+al. (2004) concluded that DDX3 is the human RNA helicase that functions
+in the CRM1 RNA export pathway analogously to the postulated role for
+Dbp5 (605812) in yeast mRNA export.
+
+For a review of nuclear export receptors, see Ullman et al. (1997).
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Dong et al. (2009) presented a 2.9-angstrom resolution crystal structure
+of CRM1 bound to snurportin (SNUPN1; 607902). Snurportin-1 binds CRM1 in
+a bipartite manner by means of an N-terminal leucine-rich nuclear export
+signal (LR-NES) and its nucleotide-binding domain. The LR-NES is a
+combined alpha-helical-extended structure that occupies a hydrophobic
+groove between 2 CRM1 outer helices. The LR-NES interface explains the
+consensus hydrophobic pattern, preference for intervening
+electronegative residues, and inhibition by leptomycin B. The second
+nuclear export signal epitope is a basic surface on the snurportin-1
+nucleotide-binding domain, which binds an acidic patch on CRM1 adjacent
+to the LR-NES site. Multipartite recognition of individually weak
+nuclear export signal epitopes may be common to CRM1 substrates,
+enhancing CRM1 binding beyond the generally low affinity LR-NES. Similar
+energetic construction is also used in multipartite nuclear localization
+signals to provide broad substrate specificity and rapid evolution in
+nuclear transport.
+
+Monecke et al. (2009) presented the crystal structure of the
+SPN1-CRM1-RanGTP (see 601179) export complex at 2.5-angstrom resolution.
+SPN1 is a nuclear import adapter for cytoplasmically assembled, m3G
+(5-prime-2,2,7-terminal trimethylguanosine)-capped spliceosomal U
+snRNPs. The structure showed how CRM1 can specifically return the
+cargo-free form of SPN1 to the cytoplasm. The extensive contact area
+includes 5 hydrophobic residues at the SPN1 amino terminus that dock
+into a hydrophobic cleft of CRM1, as well as numerous hydrophilic
+contacts of CRM1 to m3G cap-binding domain and carboxyl-terminal
+residues of SPN1. Monecke et al. (2009) concluded that RanGTP promotes
+cargo binding to CRM1 solely through long-range conformational changes
+in the exportin.
+
+MAPPING
+
+The CRM1 gene maps to human chromosome 2p16 by fluorescence in situ
+hybridization (Fornerod et al., 1997).
+
+REFERENCE 1. Dong, X.; Biswas, A.; Suel, K. E.; Jackson, L. K.; Martinez, R.;
+Gu, H.; Chook, Y. M.: Structural basis for leucine-rich nuclear export
+signal recognition by CRM1. Nature 458: 1136-1141, 2009. Note: Erratum:
+Nature 461: 550 only, 2009.
+
+2. Fornerod, M.; Ohno, M.; Yoshida, M.; Mattaj, I. W.: CRM1 is an
+export receptor for leucine-rich nuclear export signals. Cell 90:
+1051-1060, 1997.
+
+3. Fornerod, M.; van Baal, S.; Valentine, V.; Shapiro, D. N.; Grosveld,
+G.: Chromosomal localization of genes encoding CAN/Nup214-interacting
+proteins--human CRM1 localizes to 2p16, whereas Nup88 localizes to
+17p13 and is physically linked to SF2p32. Genomics 42: 538-540,
+1997.
+
+4. Fornerod, M.; van Duersen, J.; van Baal, S.; Reynolds, A.; Davis,
+D.; Murti, K. G.; Fransen, J.; Grosveld, G.: The human homologue
+of yeast CRM1 is in a dynamic subcomplex with CAN/Nup214 and a novel
+nuclear pore component Nup88. EMBO J. 16: 807-816, 1997.
+
+5. Kamura, T.; Hara, T.; Matsumoto, M.; Ishida, N.; Okumura, F.; Hatakeyama,
+S.; Yoshida, M.; Nakayama, K.; Nakayama, K. I.: Cytoplasmic ubiquitin
+ligase KPC regulates proteolysis of p27(Kip1) at G1 phase. Nature
+Cell Biol. 6: 1229-1235, 2004.
+
+6. Kudo, N.; Khochbin, S.; Nishi, K.; Kitano, K.; Yanagida, M.; Yoshida,
+M.; Horinouchi, S.: Molecular cloning and cell cycle-dependent expression
+of mammalian CRM1, a protein involved in nuclear export of proteins. J.
+Biol. Chem. 272: 29742-29751, 1997.
+
+7. Monecke, T.; Guttler, T.; Neumann, P.; Dickmanns, A.; Gorlich,
+D.; Ficner, R.: Crystal structure of the nuclear export receptor
+CRM1 in complex with snurportin 1 and RanGTP. Science 324: 1087-1091,
+2009.
+
+8. Stade, K.; Ford, C. S.; Guthrie, C.; Weis, K.: Exportin 1 (Crm1p)
+is an essential nuclear export factor. Cell 90: 1041-1050, 1997.
+
+9. Ullman, K. S.; Powers, M. A.; Forbes, D. J.: Nuclear export receptors:
+from importin to exportin. Cell 90: 967-970, 1997.
+
+10. Yedavalli, V. S. R. K.; Neuveut, C.; Chi, Y.; Kleiman, L.; Jeang,
+K.-T.: Requirement of DDX3 DEAD box RNA helicase for HIV-1 Rev-RRE
+export function. Cell 119: 381-392, 2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/24/2011
+Ada Hamosh - updated: 10/19/2009
+Ada Hamosh - updated: 6/17/2009
+Ada Hamosh - updated: 5/12/2009
+Stylianos E. Antonarakis - updated: 1/19/2005
+
+CREATED Ada Hamosh: 4/24/1998
+
+EDITED mgross: 02/06/2012
+terry: 10/24/2011
+terry: 10/19/2009
+alopez: 6/23/2009
+terry: 6/17/2009
+alopez: 5/12/2009
+terry: 5/12/2009
+wwang: 6/3/2008
+terry: 5/30/2008
+mgross: 1/19/2005
+alopez: 5/11/1998
+alopez: 4/24/1998
+
+614277	TITLE *614277 UBIQUITIN-CONJUGATING ENZYME 2W; UBE2W
+;;UBC16, ARABIDOPSIS, HOMOLOG OF; UBC16
+DESCRIPTION 
+DESCRIPTION
+
+Ubiquitination is a common posttranslational modification that plays
+roles in many cellular pathways and in protein degradation. Conjugation
+of ubiquitin to substrate proteins requires an E1 ubiquitin-activating
+enzyme (e.g., UBE1; 314370), an E2 ubiquitin-conjugating enzyme (e.g.,
+UBE2A; 312180), and an E3 ubiquitin-protein ligase (e.g., UBE3A;
+601623). UBE2W is an E2 ubiquitin-conjugating enzyme (summary by Zhang
+et al., 2011).
+
+CLONING
+
+By sequencing clones obtained from a human fetal brain cDNA library, Yin
+et al. (2006) cloned UBE2W, which they called UBC16. The deduced
+162-amino acid protein has an approximately 150-amino acid catalytic
+core, termed the E2 ubiquitin-conjugating enzyme (UBC) domain, which
+contains 2 nuclear localization signals at its C-terminal end. Human
+UBC16 shares 51% amino acid identity with Arabidopsis Ubc16. RT-PCR
+detected ubiquitous UBC16 expression, with highest expression in heart,
+brain, liver, and pancreas. Fluorescence-tagged UBC16 localized to
+nuclei of transfected HEK293 cells.
+
+GENE FUNCTION
+
+By mutation analysis, Yin et al. (2006) showed that nuclear localization
+of human UBC in transfected HEK293 cells required both the nuclear
+localization signals and enzyme activity.
+
+Using yeast 2-hybrid analysis, Zhang et al. (2011) showed that mouse
+Ube2w interacted with Fancl (608111), an E3 ubiquitin ligase involved in
+DNA damage repair. They confirmed the interaction by protein pull-down
+and coimmunoprecipitation analyses. Fancl showed a ubiquitous
+intracellular localization in the absence of Ube2w and a nuclear
+localization in the presence of Ube2w. Ube2w formed nuclear homodimers.
+Ube2w exhibited ubiquitin-conjugating activity and monoubiquitinated the
+PHD domain of Fancl in vitro. Ubiquitination by Ube2w required a
+conserved active-site cysteine within its ubiquitin-conjugating domain.
+Ube2w also monoubiquitinated Fancd2 (613984). Downregulation of UBE2W in
+human cell lines markedly reduced FANCD2 monoubiquitination caused by
+ultraviolet irradiation, but not FANCD2 monoubiquitination caused by the
+DNA crosslinking agent mitomycin C or FANCD2 monoubiquitination that
+occurs normally during S phase.
+
+GENE STRUCTURE
+
+Yin et al. (2006) determined that the UBE2W gene contains 7 exons and
+spans 8.6 kb.
+
+MAPPING
+
+By genomic sequence analysis, Yin et al. (2006) mapped the UBE2W gene to
+chromosome 8q13-q21.1.
+
+REFERENCE 1. Yin, G.; Ji, C.; Wu, T.; Shen, Z.; Xu, X.; Xie, Y.; Mao, Y.: Cloning,
+characterization and subcellular localization of a gene encoding a
+human ubiquitin-conjugating enzyme (E2) homologous to the Arabidopsis
+thaliana UBC-16 gene product. Front. Biosci. 11: 1500-1507, 2006.
+
+2. Zhang, Y.; Zhou, X.; Zhao, L.; Li, C.; Zhu, H.; Xu, L.; Shan, L.;
+Liao, X.; Guo, Z.; Huang, P.: UBE2W interacts with FANCL and regulates
+the monoubiquitination of Fanconi anemia protein FANCD2. Molec. Cells 31:
+113-122, 2011.
+
+CREATED Patricia A. Hartz: 11/2/2011
+
+EDITED joanna: 11/03/2011
+mgross: 11/2/2011
+carol: 11/1/2011
+
+611151	TITLE *611151 tRNA METHYLTRANSFERASE 2, S. CEREVISIAE, HOMOLOG OF, A; TRMT2A
+;;HPAII TINY FRAGMENTS LOCUS 9C; HTF9C
+DESCRIPTION 
+CLONING
+
+Guarguaglini et al. (1997) cloned mouse Htf9c, which encodes a deduced
+676-amino acid protein with a calculated molecular mass of 75 kD. Htf9c
+has a putative N-terminal nuclear targeting signal and a C-terminal
+domain similar to yeast and bacterial nucleic acid-modifying enzymes.
+
+GENE FUNCTION
+
+Guarguaglini et al. (1997) found that mouse Htf9c and Ranbp1 (601180)
+were divergently transcribed from a bidirectional promoter. Expression
+of both genes was activated upon entry into the cell cycle, peaked in S
+phase, and was downregulated during completion of the cell cycle. The
+bidirectional promoter was downregulated in both orientations in
+arrested cells. Activation of the promoter was specific, resulting in
+more restricted Htf9c expression and a sharper peak of Htf9c expression
+in S phase compared with Ranbp1 expression. A region containing an E2f
+(189971) site was important for cell cycle control of Htf9c, and a
+common region containing sites for Sp1 (189906) and E2f contributed to
+activation in both orientations.
+
+MAPPING
+
+Hartz (2007) mapped the HTF9C gene to chromosome 22q11.21 based on an
+alignment of the TRMT2A sequence (GenBank GENBANK AK025106) with the
+genomic sequence (build 36.1).
+
+REFERENCE 1. Guarguaglini, G.; Battistoni, A.; Pittoggi, C.; Di Matteo, G.;
+Di Fiore, B.; Lavia, P.: Expression of the murine RanBP1 and Htf9-c
+genes is regulated from a shared bidirectional promoter during cell
+cycle progression. Biochem. J. 325: 277-286, 1997.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  6/22/2007.
+
+CREATED Patricia A. Hartz: 6/28/2007
+
+EDITED alopez: 04/03/2009
+mgross: 6/28/2007
+
+614405	TITLE *614405 DEAH BOX POLYPEPTIDE 33; DHX33
+DESCRIPTION 
+DESCRIPTION
+
+Members of the DEAD/DEAH box family of RNA helicases, such as DHX33,
+modify the higher-order structure of RNA through hydrolysis of ATP or
+other nucleoside triphosphates (NTPs). These enzymes have a role in RNA
+transcription, RNA editing, pre-mRNA splicing, ribosome biogenesis, and
+RNA decay (summary by Zhang et al., 2011).
+
+CLONING
+
+Ribosomal RNA (rRNA) is transcribed by RNA polymerase I (see POLR1B;
+602000) as a 47S polycistronic precursor that is processed into mature
+18S, 5.8S, and 28S rRNAs. Using an RNA interference screen to identify
+DDX/DHX enzymes that perturb rRNA transcription in human fibroblasts,
+Zhang et al. (2011) identified DHX33. The deduced protein contains an
+N-terminal ATP/NTP-binding domain, a central ATP/NTPase domain, and
+C-terminal helicase and ATP/NTP hydrolysis-dependent substrate
+interaction motifs. Fractionation of a human breast cancer cell line and
+human and mouse fibroblasts, as well as immunohistochemical analysis,
+revealed that DHX33 localized predominantly with markers of nucleoli,
+with some localization in nucleoplasm. Following dispersal of nucleoli
+during the cell cycle, DHX33 followed nucleolar proteins to nucleolar
+organizing regions.
+
+GENE FUNCTION
+
+Zhang et al. (2011) found that knockdown of DHX33 in human cell lines
+inhibited rRNA transcription and processing, reduced the size of
+nucleoli, caused nucleolar stress, and initiated a p53 (TP53;
+191170)-dependent stress response that included cell cycle arrest and
+induction of p21 (CDKN1A; 116899). Mutation analysis revealed that lys94
+(K94) within the catalytic domain of DHX33 was crucial for rRNA
+transcription. DHX33 deficiency reduced recruitment of the large RNA
+polymerase subunit RPA194 (POLR1A) to rDNA loci and reduced
+phosphorylation of UBF (UBTF; 600673), which is required for RNA
+polymerase I activity. Overexpression of wildtype DHX33, but not DHX33
+with a K94 mutation, in human cell lines stimulated 47S synthesis.
+Overexpression of DHX33 with deletion of its putative DNA-binding domain
+also reduced rRNA synthesis. Chromatin immunoprecipitation analysis of
+human breast cancer cells revealed that DHX33, like RPA194, occupied the
+entire rDNA promoter and transcribed regions, and binding required the
+DNA-binding motif of DHX33. DHX33 also immunoprecipitated with UBF.
+Zhang et al. (2011) concluded that DHX33 has a critical role in cell
+growth and rRNA synthesis.
+
+MAPPING
+
+Hartz (2011) mapped the DHX33 gene to chromosome 17p13.2 based on an
+alignment of the DHX33 sequence (GenBank GENBANK AL359945) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  12/6/2011.
+
+2. Zhang, Y.; Forys, J. T.; Miceli, A. P.; Gwinn, A. S.; Weber, J.
+D.: Identification of DHX33 as a mediator of rRNA synthesis and cell
+growth. Molec. Cell. Biol. 31: 4676-4691, 2011.
+
+CREATED Patricia A. Hartz: 12/20/2011
+
+EDITED mgross: 01/03/2012
+joanna: 1/1/2012
+mgross: 12/20/2011
+
+606767	TITLE *606767 POTASSIUM CHANNEL, VOLTAGE-GATED, SUBFAMILY G, MEMBER 3; KCNG3
+;;KV6.3;;
+KV10.1
+DESCRIPTION 
+DESCRIPTION
+
+Voltage-gated potassium channels play an essential role in controlling
+cellular excitability in the nervous system. These channels are
+multimeric proteins containing alpha subunits, which are directly
+responsible for channel activity, and gamma subunits, which modify the
+basic channel activity. Kv6.3 functions as a gamma subunit.
+
+CLONING
+
+Using primers derived from a genomic fragment showing homology to Kv6.2
+(605696), Sano et al. (2002) cloned Kv6.3 from a human brain cDNA
+library. Kv6.3 encodes a deduced 437-amino acid sequence with a
+predicted molecular mass of 49 kD. It shares 34% sequence identity with
+Kv6.2 and 95.1% identity with the rat ortholog, Kv6.3. The protein
+contains a pore forming domain and 6 transmembrane domains. RT-PCR
+analysis demonstrated high expression of human Kv6.3 in various regions
+of the brain. RT-PCR analysis in rat demonstrated that Kv6.3 is
+specifically expressed in neuronal cells.
+
+By PCR, Ottschytsch et al. (2002) cloned KCNG3, which they called
+Kv10.1, from a brain cDNA library. The deduced protein contains 436
+amino acids. PCR analysis detected strongest expression in pancreas and
+testis and lower levels in brain, lung, kidney, thymus, ovary, small
+intestine, and colon.
+
+GENE FUNCTION
+
+By coimmunoprecipitation studies, Sano et al. (2002) demonstrated
+interaction between Kv6.3 and Kv2.1 (600397) in cotransfected COS-7
+cells. Electrophysiologic analysis of transiently transfected murine
+fibroblasts showed that Kv6.3 does not form a functional voltage-gated
+ion channel when expressed alone. When Kv6.3 is coexpressed with Kv2.1,
+a heteromultimeric channel is formed that shows a decreased rate of
+deactivation compared to the channel formed by Kv2.1 alone. Thus, Kv6.3
+appears to function as a modulatory subunit.
+
+Ottschytsch et al. (2002) found no potassium currents when KCNG3 was
+expressed alone, while coexpression with Kv2.1 in mouse fibroblasts
+resulted in altered Kv2.1 channel properties. By yeast 2-hybrid analysis
+using the N-terminal segment of KCNG3 containing the NAB domain, which
+regulates coassembly, Ottschytsch et al. (2002) found no
+homotetramerization between KCNG3 molecules. Immunoprecipitation
+analysis using full-length proteins confirmed interaction between KCNG3
+and Kv2.1. By confocal microscopy, Ottschytsch et al. (2002) showed that
+KCNG3 was retained in the endoplasmic reticulum when expressed alone,
+and it redistributed to the plasma membrane when expressed with Kv2.1.
+Ottschytsch et al. (2002) concluded that Kv2.1 promotes the trafficking
+of KCNG3 and other regulatory subunits to the cell surface, presumably
+by forming heterotetrameric channels.
+
+GENE STRUCTURE
+
+Sano et al. (2002) determined that the Kv6.3 gene contains 2 exons
+spanning 49 kb of genomic DNA.
+
+MAPPING
+
+Sano et al. (2002) mapped the Kv6.3 gene within a genomic clone
+localized to chromosome 2. By genomic sequence analysis, Ottschytsch et
+al. (2002) mapped the KCNG3 gene to chromosome 2p21.
+
+NOMENCLATURE
+
+Both KCNG3 and KCNG4 (607603) were referred to as Kv6.3 by different
+investigators
+
+REFERENCE 1. Ottschytsch, N.; Raes, A.; Van Hoorick, D.; Snyders, D. J.: Obligatory
+heterotetramerization of three previously uncharacterized Kv channel
+alpha-subunits identified in the human genome. Proc. Nat. Acad. Sci. 99:
+7986-7991, 2002.
+
+2. Sano, Y.; Mochizuki, S.; Miyake, A.; Kitada, C.; Inamura, K.; Yokoi,
+H.; Nozawa, K.; Matsushime, H.; Furuichi, K.: Molecular cloning and
+characterization of Kv6.3, a novel modulatory subunit for voltage-gated
+K+ channel Kv2.1. FEBS Lett. 512: 230-234, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/17/2003
+
+CREATED Patricia A. Hartz: 3/20/2002
+
+EDITED mgross: 03/06/2003
+mgross: 3/5/2003
+carol: 3/4/2003
+terry: 1/17/2003
+carol: 3/21/2002
+
+602667	TITLE *602667 NIBRIN; NBN
+;;p95 PROTEIN OF THE MRE11/RAD50 COMPLEX;;
+NBS1
+DESCRIPTION 
+CLONING
+
+Varon et al. (1998) described the positional cloning of a gene encoding
+a novel protein, termed nibrin, that mapped within a 300-kb critical
+region for Nijmegen breakage syndrome (NBS; 251260) on chromosome 8q21.
+Northern blot analysis revealed mRNA transcripts of 2.4 and 4.4 kb in
+all tissues examined. The predicted 754-amino acid protein contains 2
+domains found in cell cycle checkpoint proteins, a forkhead-associated
+domain and an adjacent breast cancer carboxy-terminal domain.
+
+Carney et al. (1998) independently isolated the gene for NBS. They
+characterized the gene encoding p95, a member of the MRE11/RAD50
+double-strand break (DSB) repair complex. Comparison of the p95 cDNA to
+the NBS1 cDNA of Varon et al. (1998) indicated that the p95 and NBS1
+genes are identical.
+
+Matsuura et al. (1998) reported the positional cloning of the gene
+responsible for the Nijmegen breakage syndrome, NBS1, from an 800-kb
+candidate region. They found that the gene is expressed at high levels
+in testis, suggesting that it may be involved in meiotic recombination.
+
+GENE FUNCTION
+
+The MRE11/RAD50 DSB repair complex consists of 5 proteins: p95 (NBS1),
+p200, p400, MRE11, and RAD50 (604040). Carney et al. (1998) found that
+p95 was absent from NBS cells established from NBS patients and that p95
+deficiency in these cells completely abrogated the formation of
+MRE11/RAD50 ionizing radiation-induced foci. The implication of the
+MRE11/RAD50/p95 protein complex in NBS reveals a direct molecular link
+between DSB repair and cell cycle checkpoint functions.
+
+Zhong et al. (1999) demonstrated association of BRCA1 (113705) with the
+RAD50/MRE11/p95 complex. Upon irradiation, BRCA1 was detected in the
+nucleus, in discrete foci which colocalize with RAD50. Formation of
+irradiation-induced foci positive for BRCA1, RAD50, MRE11, or p95 was
+dramatically reduced in HCC/1937 breast cancer cells carrying a
+homozygous mutation in BRCA1 but was restored by transfection of
+wildtype BRCA1. Ectopic expression of wildtype, but not mutated, BRCA1
+in these cells rendered them less sensitive to the DNA damage agent
+methyl methanesulfonate. These data suggested to the authors that BRCA1
+is important for the cellular responses to DNA damage that are mediated
+by the RAD50-MRE11-p95 complex.
+
+Wang et al. (2000) used immunoprecipitation and mass spectrometry
+analyses to identify BRCA1-associated proteins. They found that BRCA1 is
+part of a large multisubunit protein complex of tumor suppressors, DNA
+damage sensors, and signal transducers. They named this complex BASC,
+for 'BRCA1-associated genome surveillance complex.' Among the DNA repair
+proteins identified in the complex were ATM (607585), BLM (604610), MSH2
+(609309), MSH6 (600678), MLH1 (120436), the RAD50-MRE11-NBS1 complex,
+and the RFC1 (102579)-RFC2 (600404)-RFC4 (102577) complex. Confocal
+microscopy demonstrated that BRCA1, BLM, and the RAD50-MRE11-NBS1
+complex colocalize to large nuclear foci. Wang et al. (2000) suggested
+that BASC may serve as a sensor of abnormal DNA structures and/or as a
+regulator of the postreplication repair process.
+
+Because of the similarities between ataxia-telangiectasia (AT; 208900)
+and Nijmegen breakage syndrome, Lim et al. (2000) evaluated the
+functional interactions between the ataxia-telangiectasia mutated (ATM;
+607585) and NBS1 genes. Activation of the ATM kinase by ionizing
+radiation and induction of ATM-dependent responses in NBS cells
+indicated that NBS1 may not be required for signaling to ATM after
+ionizing radiation. However, NBS1 was phosphorylated on serine-343 in an
+ATM-dependent manner in vitro and in vivo after ionizing radiation. An
+NBS1 construct mutated at the ATM phosphorylation site abrogated an
+S-phase checkpoint induced by ionizing radiation in normal cells and
+failed to compensate for this functional deficiency in NBS cells. These
+observations linked ATM and NBS1 in a common signaling pathway and
+provided an explanation for the phenotypic similarities between the 2
+disorders.
+
+Gatei et al. (2000) demonstrated that nibrin is phosphorylated within 1
+hour of treatment of cells with ionizing radiation. This response was
+abrogated in AT cells that either do not express ATM protein or express
+near full-length mutant protein. Gatei et al. (2000) also showed that
+ATM physically interacts with and phosphorylates nibrin on serine-343
+both in vivo and in vitro. Phosphorylation of this site appears to be
+functionally important because mutated nibrin (S343A) does not
+completely complement radiosensitivity in NBS cells. ATM phosphorylation
+of nibrin does not affect nibrin-MRE11-RAD50 association, as revealed by
+radiation-induced foci formation. Gatei et al. (2000) concluded that
+their data provide a biochemical explanation for the similarity in
+phenotype between AT and NBS.
+
+Zhao et al. (2000) demonstrated that phosphorylation of NBS1, induced by
+ionizing radiation, requires catalytically active ATM. Complexes
+containing ATM and NBS1 exist in vivo in both untreated cells and cells
+treated with ionizing radiation. Zhao et al. (2000) identified 2
+residues of NBS1, serine-278 and serine-343, that are phosphorylated in
+vitro by ATM and whose modification in vivo is essential for the
+cellular response to DNA damage. This response includes S-phase
+checkpoint activation, formation of the NBS1/Mre11/Rad50 nuclear foci,
+and rescue of hypersensitivity to ionizing radiation. Zhao et al. (2000)
+concluded that together, these results demonstrated a biochemical link
+between cell cycle checkpoints activated by DNA damage and DNA repair in
+2 genetic diseases with overlapping phenotypes.
+
+Zhu et al. (2000) showed by coimmunoprecipitation that a small fraction
+of RAD50, MRE11, and NBS1 is associated with the telomeric
+repeat-binding factor TRF2 (602027). Indirect immunofluorescence
+demonstrated the presence of RAD50 and MRE11 at interphase telomeres.
+NBS1 was associated with TRF2 and telomeres in S phase, but not in G1 or
+G2. Although the MRE11 complex accumulated in irradiation-induced foci
+(IRIFs) in response to gamma-irradiation, TRF2 did not relocate to IRIFs
+and irradiation did not affect the association of TRF2 with the MRE11
+complex, arguing against a role for TRF2 in double-strand break repair.
+Zhu et al. (2000) proposed that the MRE11 complex functions at
+telomeres, possibly by modulating t-loop formation.
+
+Lombard and Guarente (2000) showed that p95 and MRE11 are specifically
+present on telomeres during meiosis. They suggested that p95 and MRE11
+may have a role in telomere maintenance in mammals, analogous to the
+role their homologs play in yeast.
+
+Wu et al. (2000) reported that NBS is specifically phosphorylated in
+response to gamma-radiation, ultraviolet light, and exposure to
+hydroxyurea. Phosphorylation of NBS mediated by gamma-radiation, but not
+that induced by hydroxyurea or ultraviolet light, was markedly reduced
+in ATM cells. In vivo, NBS was phosphorylated on many serine residues,
+of which serine-343, serine-397, and serine-615 were phosphorylated by
+ATM in vitro. At least 2 of these sites were underphosphorylated in ATM
+cells. Inactivation of these serines by mutation partially abrogated
+ATM-dependent phosphorylation. Reconstituting NBS cells with a mutant
+form of NBS that cannot be phosphorylated at selected ATM-dependent
+serine residues led to a specific reduction in clonogenic survival after
+gamma-radiation. Wu et al. (2000) concluded that phosphorylation of NBS
+by ATM is critical for certain responses of human cells to DNA damage.
+
+Wilda et al. (2000) studied the expression of Nbs1 in mouse embryos at
+different developmental stages as well as in adult mice. Although a low
+level of expression was observed in all tissues, highly specific
+expression was observed in organs with physiologic DNA double-strand
+breakage (DSB), such as testis, thymus, and spleen. Enhanced expression
+was also found at sites of high proliferative activity: the
+subventricular layer of the telencephalon and diencephalon, the liver,
+lung, kidney, and gut, as well as striated and smooth muscle cells in
+various organs. In the adult cerebellum, the postmitotic Purkinje cells
+were marked specifically. The authors hypothesized that in addition to
+the role of the Nbs1 gene product as part of a DNA DSB repair complex,
+the Nbs1 gene product may serve further functions during development.
+
+Chen et al. (2000) reported that the NBS1 protein and histone gamma-H2AX
+(601772), which associate with irradiation-induced DNA DSBs, are also
+found at sites of V(D)J (variable, diversity, joining)
+recombination-induced DSBs. In developing thymocytes, NBS1 and
+gamma-H2AX form nuclear foci that colocalize with the T-cell
+receptor-alpha (TCRA; see 186880) locus in response to
+recombination-activating gene-1 (RAG1; 179615) protein-mediated V(D)J
+cleavage. Chen et al. (2000) concluded that their results suggest that
+surveillance of T-cell receptor recombination intermediates by NBS1 and
+gamma-H2AX may be important for preventing oncogenic translocations.
+
+Class switch recombination (CSR) is a region-specific DNA recombination
+reaction that replaces one immunoglobulin heavy-chain constant region
+gene with another. This enables a single variable region gene to be used
+in conjunction with different downstream heavy-chain genes, each having
+a unique biologic activity. Activation-induced cytidine deaminase (AID;
+605257), a putative RNA editing enzyme, is required for this action.
+Petersen et al. (2001) reported that the Nijmegen breakage syndrome
+protein and gamma-H2AX, which facilitate DNA double-strand break repair,
+form nuclear foci at the heavy-chain constant region in the G1 phase of
+the cell cycle in cells undergoing class switch recombination. Class
+switch recombination is impaired in H2AX -/- mice. Localization of NBS1
+and gamma-H2AX to the immunoglobulin heavy-chain locus during class
+switch recombination is dependent on AID. In addition, AID is required
+for induction of switch region-specific DNA lesions that precede class
+switch recombination. Petersen et al. (2001) concluded that AID
+functions upstream of the DNA modifications that initiate class switch
+recombination.
+
+Falck et al. (2002) demonstrated that experimental blockade of either
+the NBS1-MRE11 function or the CHK2 (604373)-triggered events leads to a
+partial radioresistant DNA synthesis phenotype in human cells. In
+contrast, concomitant interference with NBS1-MRE11 and the CHK2-CDC25A
+(116947)-CDK2 (116953) pathways entirely abolishes inhibition of DNA
+synthesis induced by ionizing radiation, resulting in complete
+radioresistant DNA synthesis analogous to that caused by defective ATM.
+In addition, CDK2-dependent loading of CDC45 (603465) onto replication
+origins, a prerequisite for recruitment of DNA polymerase, was prevented
+upon irradiation of normal or NBS1/MRE11-defective cells but not cells
+with defective ATM. Falck et al. (2002) concluded that in response to
+ionizing radiation, phosphorylation of NBS1 and CHK2 by ATM triggers 2
+parallel branches of the DNA damage-dependent S-phase checkpoint that
+cooperate by inhibiting distinct steps of DNA replication.
+
+In mammalian cells, a conserved multiprotein complex of MRE11, RAD50,
+and NBS1 (MRN) is important for double-strand break repair, meiotic
+recombination, and telomere maintenance. In the absence of the early
+region E4, the double-stranded genome of adenoviruses is joined into
+concatemers too large to be packaged. Stracker et al. (2002)
+investigated the cellular proteins involved in the concatamer formation
+and how they are inactivated by E4 products during a wildtype infection.
+They demonstrated that concatamerization requires functional MRE11 and
+NBS1, and that these proteins are found at foci adjacent to viral
+replication centers. Infection with wildtype virus results in both
+reorganization and degradation of members of the MRN complex. These
+activities are mediated by 3 viral oncoproteins that prevent
+concatamerization. This targeting of cellular proteins involved in the
+genomic stability suggested a mechanism for 'hit-and-run' transformation
+observed for these viral oncoproteins.
+
+Franchitto and Pichierri (2002) reviewed the roles of RECQL2 (604611)
+and RECQL3 (604610) in resolution of a stall in DNA replication, as well
+as their possible interaction with the MRN complex.
+
+Tauchi et al. (2002) established an Nbs1 knockout cell line by using the
+hyperrecombinogenic chick B-cell line DT40. Exon 4 of the 3 Nbs1 alleles
+in DT40 cells was targeted. The Nbs1 -/-/- cells were still viable,
+although they exhibited slow growth owing to a prolonged cell cycle
+time. The disruption of Nbs1 reduced gene conversion and sister
+chromatid exchanges, similar to other homologous recombination-deficient
+mutants. In fact, a site-specific double-strand break repair assay
+showed a notable reduction of homologous recombination events following
+generation of such breaks in Nbs1-disrupted cells. The rare
+recombinations observed in the Nbs1-disrupted cells were frequently
+found to have aberrant structures, which possibly arose from unusual
+crossover events, suggesting that the NBS1 complex might be required to
+process recombination intermediates. Thus, Tauchi et al. (2002)
+demonstrated that NBS1 is essential for homologous
+recombination-mediated repair in higher vertebrate cells.
+
+Zhong et al. (2005) tested whether the MRN complex has a global
+controlling role over ATR (601215) through the study of MRN deficiencies
+generated by RNA interference. The MRN complex was required for
+ATR-dependent phosphorylation of SMC1A (300040), which acts within
+chromatin to ensure sister chromatid cohesion and to effect several DNA
+damage responses. Novel phenotypes caused by MRN deficiency that support
+a functional link between this complex, ATR, and SMC1A, included
+hypersensitivity to UV exposure, a defective UV responsive intra-S phase
+checkpoint, and a specific pattern of genomic instability. Zhong et al.
+(2005) concluded that there is a controlling role for the MRN complex
+over the ATR kinase, and that downstream events under this control are
+broad, including both chromatin-associated and diffuse signaling
+factors.
+
+Yuan et al. (2007) found that NBS1, the regulatory subunit of MRN, was
+acetylated, and that its acetylation level was tightly regulated by
+SIRT1 (604479). SIRT1 associated with the MRN complex in human cells via
+binding to NBS1, and SIRT1 maintained NBS1 in a hypoacetylated state, a
+requirement for ionizing radiation-induced phosphorylation of NBS1 on
+ser343. Yuan et al. (2007) concluded that deacetylation of NBS1 by SIRT1
+plays a key role in regulation of the DNA damage response and
+maintenance of genomic stability.
+
+BIOCHEMICAL FEATURES
+
+The human RAD50/MRE11)/NBS1 complex (R/M/N) has a dynamic molecular
+architecture consisting of a globular DNA binding domain from which two
+50-nanometer coiled coils protrude. The coiled coils are flexible and
+their apices can self-associate. The flexibility of the coiled coils
+allows their apices to adopt an orientation favorable for interaction.
+However, this also allows interaction between the tips of the 2 coiled
+coils within the same complex, which competes with and frustrates the
+intercomplex interaction required for DNA tethering. Moreno-Herrero et
+al. (2005) showed that the dynamic architecture of the R/M/N complex is
+markedly affected by DNA binding. DNA binding by the R/M/N globular
+domain leads to parallel orientation of the coiled coils; this prevents
+intracomplex interactions and favors intercomplex associations needed
+for DNA tethering. The R/M/N complex thus is an example of a biologic
+nanomachine in which binding to its ligand, in this case DNA, affects
+the functional conformation of a domain located 50 nanometers distant.
+
+GENE STRUCTURE
+
+Varon et al. (1998) determined that the NBS1 gene spans more than 50 kb
+and contains 16 exons.
+
+MAPPING
+
+Varon et al. (1998) mapped the NBS1 gene to chromosome 8q21. Carney et
+al. (1998) mapped the gene to chromosome 8q21.3.
+
+By computer-assisted analysis of 5 BAC clones and an EST sequence,
+Tauchi et al. (1999) defined the genomic organization of an 800-kb
+region on chromosome 8q21 as 5-prime C8ORF1 (604598), 3-prime NBS1,
+5-prime DECR1 (222745), and 3-prime CALB1 (114050).
+
+MOLECULAR GENETICS
+
+Varon et al. (1998) identified a truncating 5-bp deletion (602667.0001)
+in the NBS1 gene in the majority of NBS patients studied, all of whom
+carried a conserved marker haplotype. Five additional truncating
+mutations were identified in patients with other distinct haplotypes.
+The domains found in nibrin and the NBS phenotype suggest that this
+disorder is caused by defective responses to DNA double-strand breaks
+(DSB).
+
+Matsuura et al. (1998) detected the 5-bp deletion (602667.0001) in NBS1
+in 13 individuals of Slavic or German origin and concluded that it is
+likely to be a founder mutation.
+
+The findings that the ataxia-telangiectasia gene is involved in the
+pathogenesis of T-cell prolymphocytic leukemia and other forms of
+leukemia, that there is a high predisposition of NBS patients to
+lymphoid malignancy, and the fact that NBS and ATM are indistinguishable
+at the cellular level, prompted Varon et al. (2001) to investigate
+whether the NBS1 gene is involved in the pathogenesis of acute
+lymphoblastic leukemia (ALL) and whether it influences the course of the
+disease and so has its place among the tumor suppressor genes. They
+analyzed samples from 47 children with first relapse of ALL for
+mutations in all 16 exons of the NBS1 gene and identified 4 novel amino
+acid substitutions in 7 children. Germline origin of an I171V
+(602667.0007) mutation was confirmed in 3 patients, whereas another
+change, D95N, was present only in leukemic cells. No additional
+mutations were found on the second allele in any of these 7 patients.
+
+Tanzarella et al. (2003) found that heterozygous individuals from 3
+unrelated NBS families with distinct gene deletion mutations had
+spontaneous chromosome instability (chromatid and chromosomal breaks as
+well as rearrangements) in blood lymphocytes, but their lymphoblastoid
+cell lines were not different from controls in x-ray G2 sensitivity.
+Immunoprecipitation of nibrin detected the normal and variant proteins
+in carriers from all 3 families.
+
+Nakanishi et al. (2002) reported a patient diagnosed with Fanconi anemia
+(FA; 227650) on the basis of chromosome breakage induced by mitomycin C.
+The individual showed atypical FA features, including features of NBS.
+The clinical syndrome was severe, and the child died at 3 years of age,
+similar to an affected cousin. Immunoblot analysis of primary
+lymphocytes indicated expression of both unubiquitinated and
+monoubiquitinated isoforms of FANCD2 (227646); however, no NBS1 protein
+was expressed. Sequence analysis indicated that the patient cells
+contained a tyr363-to-ter mutation in NBS1 (602667.0008), which resulted
+in a truncated protein. Genomic sequence analysis showed that the
+mutation was homozygous. By coimmunoprecipitation, Nakanishi et al.
+(2002) found constitutive interaction between FANCD2 and NBS1, and they
+presented evidence that these proteins interact in 2 distinct assemblies
+to mediate S-phase checkpoint and resistance to mitomycin C-induced
+chromosome damage. NBS1, ATM, and MRE11 were required for FANCD2
+phosphorylation in response to radiation-induced S-phase checkpoint. The
+assembly of NBS1, MRE11, RAD50, and FANCD2 within nuclear foci was
+required for mitomycin C resistance.
+
+Plisiecka-Halasa et al. (2002) looked for NBS1 gene alterations and
+changes in nibrin expression in 162 human gynecologic tumors, mostly
+ovarian. They identified the so-called Slavic mutation, 657del5
+(602667.0001), in 2 of 117 carcinomas studied (1.7%). In both cases it
+was present in the germline, and in 1 of these tumors there was loss of
+heterozygosity (LOH) for the 657del5 mutation and loss of nibrin
+expression.
+
+In monozygotic twin brothers with a severe form of NBS, Seemanova et al.
+(2006) identified compound heterozygosity for the 657del5 mutation and a
+missense mutation (602667.0009) in the NBS1 gene.
+
+ANIMAL MODEL
+
+Zhu et al. (2001) generated mice deficient in NBS1 by targeted
+disruption. Nbs1 -/- mice suffered early embryonic lethality and had
+poorly developed embryonic and extraembryonic tissues. Blastocysts
+showed greatly diminished expansion of the inner cell mass in culture,
+suggesting that NBS1 mediates essential functions during proliferation
+in the absence of externally induced damage. Zhu et al. (2001) concluded
+that the complex phenotypes observed in NBS patients and cell lines may
+not result from a complete inactivation of NBS1 but may instead result
+from hypomorphic truncation mutations compatible with cell viability.
+
+Demuth et al. (2004) used the Cre/loxP system to generate mice with an
+inducible Nbs1-null mutation, allowing examination of DNA repair and
+cell cycle checkpoints in the complete absence of nibrin. Induction of
+the null mutation led to loss of the G2/M checkpoint, increased
+chromosome damage, radiomimetic sensitivity, and cell death. In vivo,
+lymphatic tissues, bone marrow, thymus, and spleen showed a dramatic
+decrease in cell survival, whereas liver, kidney, and muscle showed no
+effect on cell survival. In vitro, Nbs1-null murine fibroblasts could be
+rescued from cell death by transfer of human NBS1 cDNA and, more
+significantly, by a cDNA carrying the 5-bp deletion. Demuth et al.
+(2004) concluded that the common human 5-bp deletion is hypomorphic and
+that expression of a truncated protein may be sufficient to restore
+nibrin's vital cellular functions.
+
+Frappart et al. (2005) developed mice with Nbs1 inactivation targeted to
+the central nervous system. Nbs1-deleted mice were viable and appeared
+normal at birth, but growth retardation was evident by postnatal day 7,
+and mutants were half the weight of control mice at weaning. All
+Nbs1-deleted mice showed balance disorders, tremors, altered gait,
+repetitive movements, and akinesis after postnatal day 7. Macroscopic
+examination of brains from mutant mice showed reduced cerebella lacking
+foliation. Histologic analysis indicated that Nbs1 loss caused
+proliferation arrest of granule cell progenitors and apoptosis of
+postmitotic cerebellar neurons. Nbs1-deficient neuroprogenitors showed
+proliferation defects in culture, but no increase in apoptosis. They
+also contained more chromosomal breaks, which were accompanied by Atm
+(607585)-mediated p53 (TP53; 191170) activation. Depletion of p53
+substantially rescued the neurologic defects of Nbs1 mutant mice.
+
+Stracker et al. (2007) derived Nbs1 delta-C/delta-C mice in which the
+C-terminal ATM interaction domain was deleted. Nbs1 delta-C/delta-C
+cells exhibited intra-S-phase checkpoint defects, but were otherwise
+indistinguishable from wildtype cells with respect to other checkpoint
+functions, ionizing radiation sensitivity, and chromosome stability.
+However, multiple tissues of Nbs1 delta-C/delta-C mice showed a severe
+apoptotic defect, comparable to that of Atm- or Chk2 (604373)-deficient
+animals. Analysis of p53 transcriptional targets and Atm substrates
+showed that, in contrast to the phenotype of Chk2 -/- mice, Nbs1-deltaC
+does not impair the induction of proapoptotic genes. Stracker et al.
+(2007) concluded that instead, the defects observed in Nbs1
+delta-C/delta-C mice resulted from impaired phosphorylation at ATM
+targets including SMC1 (see 300040) and the proapoptotic factor BID
+(601997).
+
+Saidi et al. (2010) found that deletion of Nbs1 in T-cell precursors in
+mice resulted in severe lymphopenia and hindered the transition of
+double-negative-3 (DN3) thymocytes to DN4 due to abnormal Tcrb (see
+186930) coding and signal joints, as well as the functions of Nbs1 in
+T-cell expansion. Chromatin immunoprecipitation analysis of TCR loci
+revealed that Nbs1 depletion compromised the loading of Mre11/Rad50 to
+V(D)J-generated DNA DSBs and thereby affected resection of DNA termini
+and chromatin conformation of the postcleavage complex. The DN3-to-DN4
+transition in the mutant mice, but not T-cell loss, could be relieved by
+p53 deficiency. Ectopic Tcra/Tcrb expression also failed to rescue
+T-cell lymphopenia in the mutant mice. Saidi et al. (2010) concluded
+that NBS1 functions in both repair of V(D)J-generated DSBs and in
+proliferation and that both functions are essential for T-cell
+development.
+
+ALLELIC VARIANT .0001
+NIJMEGEN BREAKAGE SYNDROME
+OVARIAN CANCER, SUSCEPTIBILITY TO, INCLUDED
+NBN, 5-BP DEL, NT657
+
+In patients of Slavic origin with Nijmegen breakage syndrome (251260),
+Varon et al. (1998) identified a common deletion of 5 nucleotides in
+exon 6 of the NBS1 gene (657del5), resulting in a frameshift and a
+truncated protein. A total of 46 patients homozygous for this mutation
+were identified. The mutation was found exclusively on a specific
+'Slavic' haplotype of linked polymorphic markers.
+
+Matsuura et al. (1998) found the same 5-bp deletion in the NBS1 gene in
+13 NBS patients of Slavic or German origin. Twelve patients were
+homozygous for the deletion and 1 was heterozygous. The deletion
+introduced a premature termination signal at codon 218, which was
+predicted to result in a severely truncated polypeptide. Matsuura et al.
+(1998) concluded that they had identified the gene involved in NBS
+because complementation was effected by a YAC that contained the gene
+and because no (or extremely reduced) expression of the gene was found
+in a patient without the deletion but with the NBS phenotype. The
+presence of a founder mutation in 13 of 14 cases, with no demonstration
+of the deletion in 50 normal individuals of the same ethnic origin or in
+7 normal chromosomes from NBS parents, supported this conclusion.
+
+The truncating 657del5 had been identified in 90% of NBS patients. NBS
+shares a number of features with ataxia-telangiectasia (208900), the
+most notable being high sensitivity to ionizing radiation and
+predisposition to cancer. Patients who are heterozygous for the ATM
+mutation are predisposed to breast cancer. Since the NBS phenotype at
+the cellular level is very similar to that of ataxia-telangiectasia,
+Carlomagno et al. (1999) screened 477 German breast cancer patients,
+aged under 51 years, and 866 matched controls for the common NBS
+mutation. They identified 1 carrier among the cases and 1 among the
+controls, indicating that the population frequency of this NBS mutation
+is 1 in 866 persons (95% CI = 1 in 34,376 to 1 in 156) and the estimated
+prevalence of NBS is thus 1 in 3 million persons. The proportion of
+breast cancer attributable to this mutation is less than 1%.
+
+Kleier et al. (2000) reported a 5-year-old Bosnian boy with severe
+microcephaly. Because of multiple structural aberrations involving
+chromosomes 7 and 14 typical for ataxia-telangiectasia, that disorder
+was diagnosed. However, the diagnosis of NBS was suggested by the boy's
+remarkable microcephaly, his facial appearance, and the absence of
+ataxia and telangiectasia. DNA analysis demonstrated homozygosity for
+the major mutation in the NBS1 gene, 657del5.
+
+Maser et al. (2001) tested the hypothesis that the NBS1 657del5 mutation
+was a hypomorphic defect. They showed that NBS cells harboring the
+657del5 mutation contained a predicted 26-kD N-terminal protein,
+NBS1(p26), and a 70-kD NBS1 protein, NBS1(p70), lacking the native N
+terminus. The 26-kD protein is not physically associated with the MRE11
+complex (600814), whereas the 70-kD species is physically associated
+with it. NBS1(p70) is produced by internal translation initiation within
+the NBS mRNA using an open reading frame generated by the 657del5
+frameshift. Maser et al. (2001) proposed that the common NBS1 allele
+encodes a partially functional protein that diminishes the severity of
+the NBS phenotype.
+
+Tekin et al. (2002) reported a consanguineous Turkish family whose first
+son died of anal atresia and whose second son, the proband, presented
+with severe pre- and postnatal growth retardation as well as striking
+microcephaly, immunodeficiency, congenital heart disease, chromosomal
+instability, and rhabdomyosarcoma in the anal region. The patient was
+homozygous for the 657del5 mutation in the NBS1 gene, which is
+responsible for NBS in most Slav populations. The family was the first
+diagnosed with NBS in the Turkish population and was one of the most
+severely affected examples of the syndrome.
+
+Drabek et al. (2002) presented PCR with sequence specific primers as a
+method for detection of the 657del5 mutation. They confirmed a high
+carrier frequency in the Czech population (1 in 106 persons; 95% CI = 1
+in 331 to 1 in 46).
+
+In Russian children, Resnick et al. (2003) screened for the 657del5 NBS1
+mutation in 548 controls and 68 patients with lymphoid malignancies. No
+carrier of the mutation was found in the control group. The mutation was
+found in heterozygous form in 2 of the 68 patients from the group of
+lymphoid malignancies, 1 with acute lymphoblastic leukemia (see 159555)
+and 1 with non-Hodgkin lymphoma (605027). Several relatives of the
+patient with non-Hodgkin lymphoma who carried the same mutation had
+cancer (acute lymphoblastic leukemia, breast cancer, gastrointestinal
+cancers), suggesting that heterozygosity may predispose to malignant
+disorders.
+
+In monozygotic twin brothers with a severe form of NBS (251260) without
+chromosomal instability, Seemanova et al. (2006) identified compound
+heterozygosity for the 657del5 mutation and a 643C-T transition in exon
+6 of the NBS1 gene, resulting in an arg215-to-trp (R215W) substitution
+(602667.0009). Both infants showed reduced expression of full-length
+nibrin, and radiation response processes were strongly reduced in their
+cells. Their mother and father were heterozygous for the 657del5
+mutation and the R215W mutation, respectively, as were their respective
+grandfathers.
+
+In a 3-month-old boy with NBS, Varon et al. (2007) identified
+homozygosity for the 657del5 mutation; the patient's mother carried the
+mutation, whereas his father was homozygous for the wildtype allele.
+Analysis of 27 microsatellite markers covering all of chromosome 8
+revealed that the patient had a homozygous haplotype for all of the
+markers, whereas the mother carried the same haplotype in heterozygous
+state. The authors stated that this was the first patient with NBS due
+to maternal isodisomy of chromosome 8.
+
+Porhanova et al. (2008) reported a 52-year-old Russian woman with
+ovarian cancer (see 604370) who was found to be compound heterozygous
+for a mutation in the BRCA1 gene (113705.0018) and the common Slavic
+657del5 mutation in the NBN gene. Investigation of the ovarian cancer
+tissue showed somatic loss of heterozygosity for NBN, but retention of
+heterozygosity for BRCA1. The patient did not have a particularly severe
+cancer-prone phenotype, and her parents did not have cancer, although 3
+sibs developed cancer as adults. Porhanova et al. (2008) commented that
+haploinsufficiency of the BRCA1 gene may contribute to cancer
+progression without somatic changes.
+
+.0002
+NIJMEGEN BREAKAGE SYNDROME
+NBN, 4-BP DEL, NT698
+
+In a patient of English origin with Nijmegen breakage syndrome (251260),
+Varon et al. (1998) identified a deletion of 4 nucleotides in exon 6 of
+the NBS1 gene, resulting in a frameshift and a truncated protein.
+
+.0003
+NIJMEGEN BREAKAGE SYNDROME
+NBN, 4-BP DEL, NT835
+
+In a patient of Italian origin with Nijmegen breakage syndrome (251260),
+Varon et al. (1998) identified a deletion of 4 nucleotides in exon 7 of
+the NBS1 gene, resulting in a frameshift and a truncated protein.
+
+.0004
+NIJMEGEN BREAKAGE SYNDROME
+NBN, 1-BP INS
+
+In a patient of Mexican origin with Nijmegen breakage syndrome (251260),
+Varon et al. (1998) identified an insertion of 1 nucleotide in exon 7 of
+the NBS1 gene, resulting in a frameshift and a truncated protein.
+
+.0005
+NIJMEGEN BREAKAGE SYNDROME
+NBN, 1-BP DEL, 1142C
+
+In a patient of Canadian origin with Nijmegen breakage syndrome
+(251260), Varon et al. (1998) identified a deletion of 1 nucleotide in
+exon 10 of the NBS1 gene, resulting in a frameshift and a truncated
+protein.
+
+.0006
+NIJMEGEN BREAKAGE SYNDROME
+NBN, GLN326TER
+
+In a patient of Dutch origin with Nijmegen breakage syndrome (251260),
+Varon et al. (1998) identified a nonsense mutation, gln326 to ter, in
+exon 10 of the NBS1 gene, resulting in a truncated protein.
+
+.0007
+APLASTIC ANEMIA
+LYMPHOBLASTIC LEUKEMIA, ACUTE, SUSCEPTIBILITY TO, INCLUDED
+NBN, ILE171VAL
+
+In 3 patients with acute lymphoblastic leukemia, Varon et al. (2001)
+found germline heterozygosity for an A-to-G change at nucleotide 511,
+resulting in an ile171-to-val (I171V) mutation occurring in a domain of
+nibrin that is probably involved in protein-protein interactions.
+
+In an 11-year-old Japanese girl with aplastic anemia (609135) and no
+features of Nijmegen breakage syndrome (251260), Shimada et al. (2004)
+identified homozygosity for the I171V mutation in the NBS1 gene. Genetic
+analysis of the patient and her healthy parents indicated that she
+inherited the germline I171V mutation from her father and the wildtype
+allele from her mother, and that the second I171V hit occurred on the
+wildtype allele early in embryonic development. Cytogenetic analysis of
+lymphoblastic cell lines from the patient showed a marked increase in
+numerical and structural chromosomal aberrations in the absence of
+clastogens, suggesting genomic instability. Shimada et al. (2004) also
+screened 413 normal controls and found heterozygosity for I171V in 5
+individuals, corresponding to 1.2% of the Japanese population.
+
+.0008
+NIJMEGEN BREAKAGE SYNDROME
+NBN, TYR363TER
+
+Nakanishi et al. (2002) reported a patient diagnosed with Fanconi anemia
+(FA; 227650) on the basis of chromosome breakage induced by mitomycin C.
+The individual showed atypical FA features, including features of NBS
+(251260). The clinical syndrome was severe, and the child died at 3
+years of age, similar to an affected cousin. In this patient, Nakanishi
+et al. (2002) identified a homozygous C-to-A mutation at nucleotide 1089
+of the NBS1 gene, resulting in a tyr363-to-ter mutation and a truncated
+protein.
+
+.0009
+NIJMEGEN BREAKAGE SYNDROME
+NBN, ARG215TRP
+
+See 602667.0001 and Seemanova et al. (2006).
+
+.0010
+NIJMEGEN BREAKAGE SYNDROME
+NBN, 2-BP INS, 742GG
+
+In a 53-year-old woman with a mild form of Nijmegen breakage syndrome
+(251260) originally reported by Maraschio et al. (1986), Varon et al.
+(2006) identified a homozygous 2-bp insertion (742insGG) in exon 7 of
+the NBN gene, predicted to result in premature termination. RT-PCR
+analysis identified 2 transcripts in both the patient and her parents:
+the expected transcript carrying the 2-bp insertion and a second
+transcript with in-frame deletion of exons 6 and 7. The skipping of
+exons 6 and 7 results in a 650-amino acid protein with a molecular mass
+of 73 kD; it also eliminates the 742insGG mutation in exon 7. The 73-kD
+(del6-del7) transcript was observed at levels 100-fold lower in controls
+than in the patient and her parents, and the del6-del7 transcript was
+detected as minor product in RNA from patients with the 657del5 mutation
+(602667.0001). The open reading frame of the del6-del7 transcript
+predicts a partially functional protein, which was confirmed by studies
+in mouse cells. ESE prediction analysis suggested that 742insGG may
+affect an ESE sequence, possibly resulting in decreased splicing
+enhancer activity. Because the NBN transcript can only remain in-frame
+if both exons 6 and 7 are deleted, the authors hypothesized that the
+presence of the del6-del7 transcript results from an active mechanism in
+which reestablishment of the reading frame requires elimination of the 2
+exons. The patient had no immunodeficiency and had not had frequent
+infections. Varon et al. (2006) concluded that the unusually mild
+phenotype in this patient resulted from residual nibrin activity.
+
+REFERENCE 1. Carlomagno, F.; Chang-Claude, J.; Dunning, A. M.; Ponder, B. A.
+J.: Determination of the frequency of the common 675del5 Nijmegen
+breakage syndrome mutation in the German population: no association
+with risk of breast cancer. Genes Chromosomes Cancer 25: 393-395,
+1999.
+
+2. Carney, J. P.; Maser, R. S.; Olivares, H.; Davis, E. M.; Le Beau,
+M.; Yates, J. R., III; Hays, L.; Morgan, W. F.; Petrini, J. H. J.
+: The hMre11/hRad50 protein complex and Nijmegen breakage syndrome:
+linkage of double-strand break repair to the cellular DNA damage response. Cell 93:
+477-486, 1998.
+
+3. Chen, H. T.; Bhandoola, A.; Difilippantonio, M. J.; Zhu, J.; Brown,
+M. J.; Tai, X.; Rogakou, E. P.; Brotz, T. M.; Bonner, W. M.; Ried,
+T.; Nussenzweig, A.: Response to RAG-mediated V(D)J cleavage by NBS1
+and gamma-H2AX. Science 290: 1962-1964, 2000.
+
+4. Demuth, I.; Frappart, P.-O.; Hildebrand, G.; Melchers, A.; Lobitz,
+S.; Stockl, L.; Varon, R.; Herceg, Z.; Sperling, K.; Wang, Z.-Q.;
+Digweed, M.: An inducible null mutant murine model of Nijmegen breakage
+syndrome proves the essential function of NBS1 in chromosomal stability
+and cell viability. Hum. Molec. Genet. 13: 2385-2397, 2004.
+
+5. Drabek, J.; Hajduch, M.; Gojova, L.; Weigl, E.; Mihal, V.: Frequency
+of 657del(5) mutation of the NBS1 gene in the Czech population by
+polymerase chain reaction with sequence specific primers. Cancer
+Genet. Cytogenet. 138: 157-159, 2002.
+
+6. Falck, J.; Petrini, J. H. J.; Williams, B. R.; Lukas, J.; Bartek,
+J.: The DNA damage-dependent intra-S phase checkpoint is regulated
+by parallel pathways. Nature Genet. 30: 290-294, 2002.
+
+7. Franchitto, A.; Pichierri, P.: Protecting genomic integrity during
+DNA replication: correlation between Werner's and Bloom's syndrome
+gene products and the MRE11 complex. Hum. Molec. Genet. 11: 2447-2453,
+2002.
+
+8. Frappart, P.-O.; Tong, W.-M.; Demuth, I.; Radovanovic, I.; Herceg,
+Z.; Aguzzi, A.; Digweed, M.; Wang, Z.-Q.: An essential function for
+NBS1 in the prevention of ataxia and cerebellar defects. Nature Med. 11:
+538-544, 2005.
+
+9. Gatei, M.; Young, D.; Cerosaletti, K. M.; Desai-Mehta, A.; Spring,
+K.; Kozlov, S.; Lavin, M. F.; Gatti, R. A.; Concannon, P.; Khanna,
+K.: ATM-dependent phosphorylation of nibrin in response to radiation
+exposure. Nature Genet. 25: 115-119, 2000.
+
+10. Kleier, S.; Herrmann, M.; Wittwer, B.; Varon, R.; Reis, A.; Horst,
+J.: Clinical presentation and mutation identification in the NBS1
+gene in a boy with Nijmegen breakage syndrome. Clin. Genet. 57:
+384-387, 2000.
+
+11. Lim, D.-S.; Kim, S.-T.; Xu, B.; Maser, R. S.; Lin, J.; Petrini,
+J. H. J.; Kastan, M. B.: ATM phosphorylates p95/nbs1 in an S-phase
+checkpoint pathway. Nature 404: 613-617, 2000.
+
+12. Lombard, D. B.; Guarente, L.: Nijmegen breakage syndrome disease
+protein and MRE11 at PML nuclear bodies and meiotic telomeres. Cancer
+Res. 60: 2331-2334, 2000.
+
+13. Maraschio, P.; Peretti, D.; Lambiase, S.; Lo Curto, F.; Caufin,
+D.; Gargantini, L.; Minoli, L.; Zuffardi, O.: A new chromosome instability
+disorder. Clin. Genet. 30: 353-365, 1986.
+
+14. Maser, R. S.; Zinkel, R.; Petrini, J. H. J.: An alternative mode
+of translation permits production of a variant NBS1 protein from the
+common Nijmegen breakage syndrome allele. Nature Genet. 27: 417-421,
+2001.
+
+15. Matsuura, S.; Tauchi, H.; Nakamura, A.; Kondo, N.; Sakamoto, S.;
+Endo, S.; Smeets, D.; Solder, B.; Belohradsky, B. H.; Der Kaloustian,
+V. M.; Oshimura, M.; Isomura, M.; Nakamura, Y.; Komatsu, K.: Positional
+cloning of the gene for Nijmegen breakage syndrome. Nature Genet. 19:
+179-181, 1998.
+
+16. Moreno-Herrero, F.; de Jager, M.; Dekker, N. H.; Kanaar, R.; Wyman,
+C.; Dekker, C.: Mesoscale conformational changes in the DNA-repair
+complex Rad50/Mre11/Nbs1 upon binding DNA. Nature 437: 440-443,
+2005.
+
+17. Nakanishi, K.; Taniguchi, T.; Ranganathan, V.; New, H. V.; Moreau,
+L. A.; Stotsky, M.; Mathew, C. G.; Kastan, M. B.; Weaver, D. T.; D'Andrea,
+A. D.: Interaction of FANCD2 and NBS1 in the DNA damage response. Nature
+Cell Biol. 4: 913-920, 2002.
+
+18. Petersen, S.; Casellas, R.; Reina-San-Martin, B.; Chen, H. T.;
+Difilippantonio, M. J.; Wilson, P. C.; Hanitsch, L.; Celeste, A.;
+Muramatsu, M.; Pilch, D. R.; Redon, C.; Ried, T.; Bonner, W. M.; Honjo,
+T.; Nussenzweig, M. C.; Nussenzweig, A.: AID is required to initiate
+Nbs1/gamma-H2AX focus formation and mutations at sites of class switching. Nature 414:
+660-665, 2001.
+
+19. Plisiecka-Halasa, J.; Dansonka-Mieszkowska, A.; Rembiszewska,
+A.; Bidzinski, M.; Steffen, J.; Kupryjanczyk, J.: Nijmegen breakage
+syndrome gene (NBS1) alterations and its protein (nibrin) expression
+in human ovarian tumours. Ann. Hum. Genet. 66: 353-359, 2002.
+
+20. Porhanova, N. V.; Sokolenko, A. P.; Sherina, N. Y.; Ponomariova,
+D. N.; Tkachenko, N. N.; Matsko, D. E.; Imyanitov, E. N.: Ovarian
+cancer patient with germline mutations in both BRCA1 and NBN genes.
+(Letter) Cancer Genet. Cytogenet. 186: 122-124, 2008.
+
+21. Resnick, I. B.; Kondratenko, I.; Pashanov, E.; Maschan, A. A.;
+Karachunsky, A.; Togoev, O.; Timakov, A.; Polyakov, A.; Tverskaya,
+S.; Evgrafov, O.; Roumiantsev, A. G.: 657del5 mutation in the gene
+for Nijmegen breakage syndrome (NBS1) in a cohort of Russian children
+with lymphoid tissue malignancies and controls. Am. J. Med. Genet. 120A:
+174-179, 2003.
+
+22. Saidi, A.; Li, T.; Weih, F.; Concannon, P.; Wang, Z.-Q.: Dual
+functions of Nbs1 in the repair of DNA breaks and proliferation ensure
+proper V(D)J recombination and T-cell development. Molec. Cell. Biol. 30:
+5572-5581, 2010.
+
+23. Seemanova, E.; Sperling, K.; Neitzel, H.; Varon, R.; Hadac, J.;
+Butova, O.; Schrock, E.; Seeman, P.; Digweed, M.: Nijmegen breakage
+syndrome (NBS) with neurological abnormalities and without chromosomal
+instability. J. Med. Genet. 43: 218-224, 2006.
+
+24. Shimada, H.; Shimizu, K; Mimaki, S.; Sakiyama, T.; Mori, T.; Shimasaki,
+N.; Yokota, J.; Nakachi, K.; Ohta, T.; Ohki, M.: First case of aplastic
+anemia in a Japanese child with a homozygous missense mutation in
+the NBS1 gene (I171V) associated with genomic instability. Hum. Genet. 115:
+372-376, 2004.
+
+25. Stracker, T. H.; Carson, C. T.; Weitzman, M. D.: Adenovirus oncoproteins
+inactivate the Mre11-Rad50-NBS1 DNA repair complex. Nature 418:
+348-352, 2002.
+
+26. Stracker, T. H.; Morales, M.; Couto, S. S.; Hussein, H.; Petrini,
+J. H. J.: The carboxy terminus of NBS1 is required for induction
+of apoptosis by the MRE11 complex. Nature 447: 218-221, 2007.
+
+27. Tanzarella, C.; Antoccia, A.; Spadoni, E.; di Masi, A.; Pecile,
+V.; Demori, E.; Varon, R.; Marseglia, G. L.; Tiepolo, L.; Maraschio,
+P.: Chromosome instability and nibrin protein variants in NBS heterozygotes. Europ.
+J. Hum. Genet. 11: 297-303, 2003.
+
+28. Tauchi, H.; Kobayashi, J.; Morishima, K.; van Gent, D. C.; Shiraishi,
+T.; Verkaik, N. S.; vanHeems, D.; Ito, E.; Nakamura, A.; Sonoda, E.;
+Takata, M.; Takeda, S.; Matsuura, S.; Komatsu, K.: Nbs1 is essential
+for DNA repair by homologous recombination in higher vertebrate cells. Nature 420:
+93-98, 2002.
+
+29. Tauchi, H.; Matsuura, S.; Isomura, M.; Kinjo, T.; Nakamura, A.;
+Sakamoto, S.; Kondo, N.; Endo, S.; Komatsu, K.; Nakamura, Y.: Sequence
+analysis of an 800-kb genomic DNA region on chromosome 8q21 that contains
+the Nijmegen breakage syndrome gene, NBS1. Genomics 55: 242-247,
+1999.
+
+30. Tekin, M.; Dogu, F.; Tacyildiz, N.; Akar, E.; Ikinciogullari,
+A.; Ogur, G.; Yavuz, G.; Babacan, E.; Akar, N.: 657del5 mutation
+in the NBS1 gene is associated with Nijmegen breakage syndrome in
+a Turkish family. Clin. Genet. 62: 84-88, 2002.
+
+31. Varon, R.; Dutrannoy, V.; Weikert, G.; Tanzarella, C.; Antoccia,
+A.; Stockl, L.; Spadoni, E.; Kruger, L.-A.; di Masi, A.; Sperling,
+K.; Digweed, M.; Maraschio, P.: Mild Nijmegen breakage syndrome phenotype
+due to alternative splicing. Hum. Molec. Genet. 15: 679-689, 2006.
+
+32. Varon, R.; Muer, A.; Wagner, K.; Zierler, H.; Sodia, S.; Rauter,
+L.; Petek, E.; Tonnies, H.; Neitzel, H.; Sperling, K.; Kroisel, P.
+M.: Nijmegen breakage syndrome (NBS) due to maternal isodisomy of
+chromosome 8. (Letter) Am. J. Med. Genet. 143A: 92-94, 2007.
+
+33. Varon, R.; Reis, A.; Henze, G.; Einsiedel, H. G.; Sperling, K.;
+Seeger, K.: Mutations in the Nijmegen breakage syndrome gene (NBS1)
+in childhood acute lymphoblastic leukemia (ALL). Cancer Res. 61:
+3570-3572, 2001.
+
+34. Varon, R.; Vissinga, C.; Platzer, M.; Cerosaletti, K. M.; Chrzanowska,
+K. H.; Saar, K.; Beckmann, G.; Seemanova, E.; Cooper, P. R.; Nowak,
+N. J.; Stumm, M.; Weemaes, C. M. R.; Gatti, R. A.; Wilson, R. K.;
+Digweed, M.; Rosenthal, A.; Sperling, K.; Concannon, P.; Reis, A.
+: Nibrin, a novel DNA double-strand break repair protein, is mutated
+in Nijmegen breakage syndrome. Cell 93: 467-476, 1998.
+
+35. Wang, Y.; Cortez, D.; Yazdi, P.; Neff, N.; Elledge, S. J.; Qin,
+J.: BASC, a super complex of BRCA1-associated proteins involved in
+the recognition and repair of aberrant DNA structures. Genes Dev. 14:
+927-939, 2000.
+
+36. Wilda, M.; Demuth, I.; Concannon, P.; Sperling, K.; Hameister,
+H.: Expression pattern of the Nijmegen breakage syndrome gene, Nbs1,
+during murine development. Hum. Molec. Genet. 9: 1739-1744, 2000.
+
+37. Wu, X.; Ranganathan, V.; Weisman, D. S.; Heine, W. F.; Ciccone,
+D. N.; O'Neill, T. B.; Crick, K. E.; Pierce, K. A.; Lane, W. S.; Rathbun,
+G.; Livingston, D. M.; Weaver, D. T.: ATM phosphorylation of Nijmegen
+breakage syndrome protein is required in a DNA damage response. Nature 405:
+477-482, 2000.
+
+38. Yuan, Z.; Zhang, X.; Sengupta, N.; Lane, W. S.; Seto, E.: SIRT1
+regulates the function of the Nijmegen breakage syndrome protein. Molec.
+Cell 27: 149-162, 2007.
+
+39. Zhao, S.; Weng, Y.-C.; Yuan, S.-S. F.; Lin, Y.-T.; Hsu, H.-C.;
+Lin, S.-C. J.; Gerbino, E.; Song, M.; Zdzienicka, M. Z.; Gatti, R.
+A.; Shay, J. W.; Ziv, Y.; Shiloh, Y.; Lee, E. Y.-H. P.: Functional
+link between ataxia-telangiectasia and Nijmegen breakage syndrome
+gene products. Nature 405: 473-477, 2000.
+
+40. Zhong, H.; Bryson, A.; Eckersdorff, M.; Ferguson, D. O.: Rad50
+depletion impacts upon ATR-dependent DNA damage responses. Hum. Molec.
+Genet. 14: 2685-2693, 2005.
+
+41. Zhong, Q.; Chen, C.-F.; Li, S.; Chen, Y.; Wang, C.-C.; Xiao, J.;
+Chen, P.-L.; Sharp, Z. D.; Lee, W.-H.: Association of BRCA1 with
+the hRad50-hMre11-p95 complex and the DNA damage response. Science 285:
+747-750, 1999.
+
+42. Zhu, J.; Petersen, S.; Tessarollo, L.; Nussenzweig, A.: Targeted
+disruption of the Nijmegen breakage syndrome gene NBS1 leads to early
+embryonic lethality in mice. Curr. Biol. 11: 105-109, 2001.
+
+43. Zhu, X.-D.; Kuster, B.; Mann, M.; Petrini, J. H. J.; de Lange,
+T.: Cell-cycle-regulated association of RAD50/MRE11/NBS1 with TRF2
+and human telomeres. Nature Genet. 25: 347-352, 2000.
+
+CONTRIBUTORS Paul J. Converse - updated: 9/27/2011
+Cassandra L. Kniffin - updated: 11/2/2009
+Cassandra L. Kniffin - updated: 6/5/2009
+George E. Tiller - updated: 12/10/2008
+Patricia A. Hartz - updated: 8/6/2007
+George E. Tiller - updated: 6/21/2007
+Ada Hamosh - updated: 6/21/2007
+Marla J. F. O'Neill - updated: 4/19/2006
+Ada Hamosh - updated: 11/3/2005
+Patricia A. Hartz - updated: 5/16/2005
+Marla J. F. O'Neill - updated: 4/25/2005
+Victor A. McKusick - updated: 1/12/2005
+Natalie E. Krasikov - updated: 6/1/2004
+George E. Tiller - updated: 12/4/2003
+Victor A. McKusick - updated: 3/12/2003
+Patricia A. Hartz - updated: 3/10/2003
+Victor A. McKusick - updated: 3/3/2003
+Ada Hamosh - updated: 11/13/2002
+Victor A. McKusick - updated: 8/21/2002
+Ada Hamosh - updated: 7/24/2002
+Ada Hamosh - updated: 3/28/2002
+Ada Hamosh - updated: 1/2/2002
+Victor A. McKusick - updated: 6/21/2001
+Ada Hamosh - updated: 3/29/2001
+Ada Hamosh - updated: 12/18/2000
+Paul J. Converse - updated: 11/16/2000
+George E. Tiller - updated: 9/21/2000
+Victor A. McKusick -updated: 8/31/2000
+Victor A. McKusick - updated: 6/27/2000
+Victor A. McKusick - updated: 6/2/2000
+Ada Hamosh - updated: 5/24/2000
+Ada Hamosh - updated: 4/27/2000
+Ada Hamosh - updated: 4/18/2000
+Paul J. Converse - updated: 2/24/2000
+Victor A. McKusick - updated: 9/24/1999
+Ada Hamosh - updated: 7/30/1999
+Victor A. McKusick - updated: 6/1/1998
+
+CREATED Stylianos E. Antonarakis: 5/28/1998
+
+EDITED mgross: 10/07/2013
+mgross: 10/4/2013
+carol: 9/16/2013
+carol: 10/8/2012
+mgross: 10/5/2011
+terry: 9/27/2011
+wwang: 10/13/2010
+wwang: 11/5/2009
+ckniffin: 11/2/2009
+ckniffin: 10/29/2009
+wwang: 6/25/2009
+wwang: 6/23/2009
+ckniffin: 6/5/2009
+wwang: 12/10/2008
+mgross: 8/10/2007
+terry: 8/6/2007
+wwang: 6/26/2007
+wwang: 6/22/2007
+terry: 6/21/2007
+alopez: 6/21/2007
+carol: 8/31/2006
+terry: 8/30/2006
+wwang: 4/20/2006
+terry: 4/19/2006
+alopez: 11/7/2005
+terry: 11/3/2005
+mgross: 5/17/2005
+terry: 5/16/2005
+wwang: 4/29/2005
+wwang: 4/27/2005
+terry: 4/25/2005
+mgross: 4/14/2005
+wwang: 1/19/2005
+wwang: 1/13/2005
+terry: 1/12/2005
+carol: 6/1/2004
+mgross: 12/4/2003
+cwells: 11/10/2003
+carol: 10/27/2003
+carol: 5/15/2003
+ckniffin: 3/13/2003
+mgross: 3/12/2003
+terry: 3/12/2003
+terry: 3/10/2003
+carol: 3/10/2003
+tkritzer: 3/7/2003
+terry: 3/3/2003
+alopez: 11/14/2002
+terry: 11/13/2002
+tkritzer: 8/27/2002
+tkritzer: 8/26/2002
+terry: 8/21/2002
+cwells: 7/26/2002
+terry: 7/24/2002
+cwells: 3/29/2002
+terry: 3/28/2002
+alopez: 1/9/2002
+terry: 1/2/2002
+mcapotos: 7/5/2001
+mcapotos: 6/27/2001
+terry: 6/21/2001
+alopez: 3/29/2001
+terry: 3/29/2001
+carol: 3/28/2001
+joanna: 1/17/2001
+mgross: 12/18/2000
+mgross: 11/16/2000
+alopez: 9/21/2000
+mcapotos: 9/5/2000
+mcapotos: 8/31/2000
+alopez: 6/27/2000
+mcapotos: 6/14/2000
+terry: 6/2/2000
+alopez: 5/24/2000
+alopez: 4/29/2000
+terry: 4/27/2000
+alopez: 4/18/2000
+carol: 2/24/2000
+alopez: 10/26/1999
+terry: 9/24/1999
+alopez: 7/30/1999
+alopez: 7/28/1999
+terry: 7/16/1999
+carol: 8/24/1998
+carol: 6/10/1998
+carol: 6/1/1998
+carol: 5/29/1998
+
+604776	TITLE *604776 MAJOR HISTOCOMPATIBILITY COMPLEX, CLASS II, DR BETA-5; HLA-DRB5
+DESCRIPTION Three subregions of the human major histocompatibility (HLA) complex on
+6p21.3, DP, DQ, and DR, determine class II molecules, which are
+essential in the cellular recognition interactions involved in the
+generation of an immune response. Several class II antigens are also
+associated with disease states. The extremely high polymorphism of HLA
+class II transmembrane heterodimers is due to a few hypervariable
+segments present in the most external domain of their alpha and beta
+chains. The alpha chain of HLA-DR is not polymorphic, whereas the beta
+chain is highly so. Some changes in amino acid sequence are critical in
+disease susceptibility associations as well as the ability to present
+processed antigens to T cells. By screening an HLA-DR5-homozygous cell
+line cDNA library with a HLA-DRB1 (142857) probe, Tieber et al. (1986)
+obtained an HLA-DRB5 cDNA encoding a 266-amino acid protein, of which
+the first 29 amino acids constitute a signal peptide. Sequence
+comparisons with other HLA-DRB sequences revealed regions of variability
+at amino acid positions 9-13, 26-38, and 67-74 in the mature protein,
+all of which are in the first external domain. The average amino acid
+sequence difference between HLA-DRB5 and HLA-DRB1, HLA-DRB2, and
+HLA-DRB4 is 13.5%.
+
+Lang et al. (2002) examined the association of multiple sclerosis (MS;
+126200) with HLA-DRB1*1501 and -DRB5*0101 polymorphisms by determining
+the antigen-recognition profile of an MS patient with a
+relapsing-remitting disease course. A T-cell receptor (TCR) from the
+patient recognized both DRB1*1501-restricted myelin basic protein (MBP;
+159430) (residues 85 to 99) and DRB5*0101-restricted Epstein-Barr virus
+DNA polymerase peptide. The crystal structure of both DRB-antigen
+complexes revealed a marked degree of structural equivalence at the
+surface presented for TCR recognition, with 4 identical TCR-peptide
+contacts. Lang et al. (2002) concluded that these similarities support
+the concept of molecular mimicry (in structural terms, a similarity of
+charge distribution) involving HLA molecules and suggested that these
+structural details may explain the preponderance of MHC class II
+associations in HLA-associated diseases. They noted the findings of
+Madsen et al. (1999) with transgenic mice, which also showed that MBP(85
+to 99) associated with HLA-DRB1*1501 was involved in the development of
+an MS-like disease.
+
+REFERENCE 1. Lang, H. L. E.; Jacobsen, H.; Ikemizu, S.; Andersson, C.; Harlos,
+K.; Madsen, L.; Hjorth, P.; Sondergaard, L.; Svejgaard, A.; Wucherpfennig,
+K.; Stuart, D. I.; Bell, J. I.; Jones, E. Y.; Fugger, L.: A functional
+and structural basis for TCR cross-reactivity in multiple sclerosis. Nature
+Immun. 3: 940-943, 2002.
+
+2. Madsen, L. S.; Andersson, E. C.; Jansson, L.; Krogsgaard, M.; Andersen,
+C. B.; Engberg, J.; Strominger, J. L.; Svejgaard, A.; Hjorth, J. P.;
+Holmdahl, R.; Wucherpfennig, K. W.; Fugger, L.: A humanized model
+for multiple sclerosis using HLA-DR2 and a human T-cell receptor. Nature
+Genet. 23: 343-347, 1999.
+
+3. Tieber, V. L.; Abruzzini, L. F.; Didier, D. K.; Schwartz, B. D.;
+Rotwein, P.: Complete characterization and sequence of an HLA class
+II DR-beta chain cDNA from the DR5 haplotype. J. Biol. Chem. 261:
+2738-2742, 1986.
+
+CONTRIBUTORS Paul J. Converse - updated: 9/4/2002
+
+CREATED Paul J. Converse: 4/3/2000
+
+EDITED alopez: 10/18/2002
+mgross: 9/4/2002
+alopez: 4/3/2000
+
+611191	TITLE *611191 MICRO RNA 125A; MIR125A
+;;MIRN125A;;
+miRNA125A
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIRN125A, are small noncoding RNAs that
+control translation of target mRNAs by binding to sites of antisense
+complementarity in 3-prime UTRs (Lagos-Quintana et al., 2002).
+
+CLONING
+
+Lagos-Quintana et al. (2002) cloned mouse miRNA125a. Mouse miRNA125a and
+miRNA125b (see 610105) differ only by a central diuridine insertion and
+a U-to-C change in miRNA125a. Both miRNAs are similar to the C. elegans
+lin-4 small temporal RNA. Northern blot analysis detected miRNA125a
+expression in all mouse brain regions examined.
+
+GENE FUNCTION
+
+Laneve et al. (2007) found that MIRN9 (see 611186), MIRN125A, and
+MIRN125B were upregulated in a human neuroblastoma cell line by retinoic
+acid. They identified the mRNA encoding t-NTRK3, a truncated isoform of
+NTRK3 (191316), as a target of the 3 miRNAs. The 3-prime UTR of the
+t-NTRK3 transcript has a binding site for MIRN9 and another for both
+MIRN125A and MIRN125B, which share the same seed sequence. These miRNAs
+repressed t-NTRK3 expression in an additive manner, and downregulation
+of t-NTRK3 was critical for regulating neuroblastoma cell growth.
+Consistent with their function, MIRN9, MIRN125A, and MIRN125B were
+downmodulated in primary neuroblastoma tumors.
+
+MAPPING
+
+Duan et al. (2007) stated that the MIR125A gene maps to chromosome
+19q13.41.
+
+MOLECULAR GENETICS
+
+By searching a human SNP database, Duan et al. (2007) identified a
+G-to-U SNP at nucleotide +8 (+8G-U) in the mature MIR125A sequence.
+Northern blot and quantitative RT-PCR analyses of transfected HEK293
+cells detected the mature form of the major +8G allele of MIR125A, but
+not the mature form of the minor +8U allele. The +8G-U SNP was predicted
+to introduce a base-pairing mismatch, alter free energy values, and
+create an enlarged RNA bulge in pri-MIR125A. In vivo analysis showed
+that +8G-U blocked processing of pri-MIR125A to pre-MIR125A. Expression
+of a vector containing MIR125A +8G, but not MIR125A +8U, could suppress
+a MIR125A target reporter, LIN28 (611043). Duan et al. (2007) concluded
+that the +8G-U SNP alters MIR125A processing and reduces
+MIR125A-mediated translational suppression.
+
+REFERENCE 1. Duan, R.; Pak, C.; Jin, P.: Single nucleotide polymorphism associated
+with mature miR-125a alters the processing of pri-miRNA. Hum. Molec.
+Genet. 16: 1124-1131, 2007.
+
+2. Lagos-Quintana, M.; Rauhut, R.; Yalcin, A.; Meyer, J.; Lendeckel,
+W.; Tuschi, T.: Identification of tissue-specific microRNAs from
+mouse. Curr. Biol. 12: 735-739, 2002.
+
+3. Laneve, P.; Di Marcotullio, L.; Gioia, U.; Fiori, M. E.; Ferretti,
+E.; Gulino, A.; Bozzoni, I.; Caffarelli, E.: The interplay between
+microRNAs and the neurotrophin receptor tropomyosin-related kinase
+C controls proliferation of human neuroblastoma cells. Proc. Nat.
+Acad. Sci. 104: 7957-7962, 2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/18/2010
+Patricia A. Hartz - updated: 7/10/2007
+
+CREATED Matthew B. Gross: 7/10/2007
+
+EDITED mgross: 03/22/2010
+terry: 3/18/2010
+mgross: 7/10/2007
+
+238310	TITLE *238310 AMINOMETHYLTRANSFERASE; AMT
+;;GLYCINE CLEAVAGE SYSTEM T PROTEIN; GCST
+DESCRIPTION 
+DESCRIPTION
+
+The enzyme system for cleavage of glycine (glycine cleavage system; EC
+2.1.2.10), which is confined to the mitochondria, is composed of 4
+protein components: P protein (a pyridoxal phosphate-dependent glycine
+decarboxylase; GLDC, 238300), H protein (a lipoic acid-containing
+protein; GCSH, 238330), T protein (a tetrahydrofolate-requiring enzyme),
+and L protein (a lipoamide dehydrogenase; DLD, 238331).
+
+Mutations in the T, P, and H proteins have been found to cause glycine
+encephalopathy (GCE; 605899).
+
+CLONING
+
+The T protein of the glycine cleavage system is also known as
+aminomethyltransferase (AMT). Nanao et al. (1994) isolated the AMT gene
+from a human placenta cosmid library. They found that the gene is about
+6 kb long and contains 9 exons. They identified 2 putative
+glucocorticoid-responsive elements and a putative thyroid
+hormone-responsive element. By dot-blot analysis, Kure et al. (2001)
+detected expression of AMT in all tissues tested except stomach and bone
+marrow.
+
+GENE FUNCTION
+
+Sakata et al. (2001) reported the structure and expression of the
+glycine cleavage system in rat central nervous system.
+
+MAPPING
+
+By fluorescence in situ hybridization, Nanao et al. (1994) assigned the
+AMT gene to 3p21.2-p21.1.
+
+MOLECULAR GENETICS
+
+In patients with glycine encephalopathy, Nanao et al. (1994) identified
+mutations in the AMT gene (238310.0001-238310.0002).
+
+Toone et al. (2000) studied 14 unrelated patients with glycine
+encephalopathy and identified mutations in 4 cases. In 2 patients,
+mutations were identified in the T protein: 1 patient was homozygous for
+an arg320-to-his mutation (R320H; 238310.0006), and the other patient
+was heterozygous for a novel glutamine-to-termination substitution at
+codon 192 (238310.0007).
+
+Applegarth and Toone (2001) reviewed the laboratory diagnosis of glycine
+encephalopathy and confirmed 9 mutations in the T protein and 8
+mutations in the P protein. They also reviewed the 7 cases of transient
+NKH known at that time.
+
+ALLELIC VARIANT .0001
+GLYCINE ENCEPHALOPATHY
+AMT, GLY269ASP
+
+Nanao et al. (1994) found that a patient with typical glycine
+encephalopathy (605899) was homozygous for a missense mutation in the
+AMT gene, a G-to-A transition leading to a gly-to-asp substitution at
+amino acid 269 (G269D).
+
+.0002
+GLYCINE ENCEPHALOPATHY
+AMT, GLY47ARG
+
+In 2 sisters with atypical glycine encephalopathy (605899), Nanao et al.
+(1994) found compound heterozygosity for 2 missense mutations in the T
+protein gene: a G-to-A transition leading to a gly-to-arg substitution
+at amino acid 47 (G47R) in 1 allele, and a G-to-A transition leading to
+an arg-to-his substitution at amino acid 320 (R320H; 238310.0006) in the
+other allele. Nanao et al. (1994) pointed out that gly269, which was
+mutant in the typically severe case they studied (see 238300.0001), is
+conserved in T proteins of various species, even in E. coli, whereas
+gly47 and arg320, which were mutant in the atypical and milder cases,
+are replaced by ala and leu, respectively, in E. coli. Thus, mutation
+occurring in more conservative amino acid residues results in more
+deleterious damage to the T protein and a more severe clinical
+phenotype.
+
+.0003
+GLYCINE ENCEPHALOPATHY
+AMT, HIS42ARG
+
+Kure et al. (1998) reported a large Israeli-Arab kindred with glycine
+encephalopathy (605899). Enzymatic analysis demonstrated that T-protein
+activity was deficient in the liver from 1 affected person in the
+family. Mutation detection revealed a missense mutation in exon 2
+resulting in an amino acid substitution from histidine to arginine at
+position 42 (his42 to arg). Homozygosity for the H42R mutation was seen
+in all affected members of the family.
+
+.0004
+GLYCINE ENCEPHALOPATHY
+AMT, 1-BP DEL, 183C
+
+In a Japanese patient with glycine encephalopathy (605899), Kure et al.
+(1998) described a 1-bp deletion (183delC) and a missense mutation,
+asp276 to his (238310.0005).
+
+.0005
+GLYCINE ENCEPHALOPATHY
+AMT, ASP276HIS
+
+In a Japanese patient with glycine encephalopathy (605899) of neonatal
+onset, Kure et al. (1998) found a G-to-C substitution at position 955 in
+exon 7, resulting in an amino acid change from aspartate to histidine at
+position 276.
+
+.0006
+GLYCINE ENCEPHALOPATHY
+AMT, ARG320HIS
+
+See 238310.0001 and Nanao et al. (1994).
+
+Toone et al. (2001) screened a DNA bank from 50 patients with
+enzymatically confirmed NKH and identified the arg320-to-his (R320H)
+mutation in 7% of alleles.
+
+.0007
+GLYCINE ENCEPHALOPATHY
+AMT, GLN192TER
+
+In a patient with neonatal-onset NKH (605899), Toone et al. (2000)
+identified a C-to-T transition resulting in a glutamine-to-termination
+codon substitution at residue 192 (Q192X). The other mutation in this
+patient was not identified.
+
+.0008
+GLYCINE ENCEPHALOPATHY
+AMT, IVS7, G-A, -1
+
+Toone et al. (2001) reported a novel splice site mutation at the -1
+position of intron 7 of the AMT gene: G was converted to A. This
+mutation was found in 3 unrelated families and was not found in any
+normal controls.
+
+ADDITIONAL REFERENCES Hayasaka et al. (1983); Toone et al. (2000)
+REFERENCE 1. Applegarth, D. A.; Toone, J. R.: Nonketotic hyperglycinemia (glycine
+encephalopathy): laboratory diagnosis. Molec. Genet. Metab. 74:
+139-146, 2001.
+
+2. Hayasaka, K.; Tada, K.; Kikuchi, G.; Winter, S.; Nyhan, W. L.:
+Nonketotic hyperglycinemia: two patients with primary defects of P-protein
+and T-protein, respectively, in the glycine cleavage system. Pediat.
+Res. 17: 967-970, 1983.
+
+3. Kure, S.; Kojima, K.; Kudo, T.; Kanno, K.; Aoki, Y.; Suzuki, Y.;
+Shinka, T.; Sakata, Y.; Narisawa, K.; Matsubara, Y.: Chromosomal
+localization, structure, single-nucleotide polymorphisms, and expression
+of the human H-protein gene of the glycine cleavage system (GCSH),
+a candidate gene for nonketotic hyperglycinemia. J. Hum. Genet. 46:
+378-384, 2001.
+
+4. Kure, S.; Mandel, H.; Rolland, M.-O.; Sakata, Y.; Shinka, T.; Drugan,
+A.; Boneh, A.; Tada, K.; Matsubara, Y.; Narisawa, K.: A missense
+mutation (his42arg) in the T-protein gene from a large Israeli-Arab
+kindred with nonketotic hyperglycinemia. Hum. Genet. 102: 430-434,
+1998.
+
+5. Kure, S.; Shinka, T.; Sakata, Y.; Osamu, N.; Takayanagi, M.; Tada,
+K.; Matsubara, Y.; Narisawa, K.: A one-base deletion (183delC) and
+a missense mutation (D276H) in the T-protein gene from a Japanese
+family with nonketotic hyperglycinemia. J. Hum. Genet. 43: 135-137,
+1998.
+
+6. Nanao, K.; Okamura-Ikeda, K.; Motokawa, Y.; Danks, D. M.; Baumgartner,
+E. R.; Takada, G.; Hayasaka, K.: Identification of the mutations
+in the T-protein gene causing typical and atypical nonketotic hyperglycinemia. Hum.
+Genet. 93: 655-658, 1994.
+
+7. Nanao, K.; Takada, G.; Takahashi, E.; Seki, N.; Komatsu, Y.; Okamura-Ikeda,
+K.; Motokawa, Y.; Hayasaka, K.: Structure and chromosomal localization
+of the aminomethyltransferase gene (AMT). Genomics 19: 27-30, 1994.
+Note: Erratum: Genomics 20: 519 only, 1994.
+
+8. Sakata, Y.; Owada, Y.; Sato, K.; Kojima, K.; Hisanaga, K.; Shinka,
+T.; Suzuki, Y.; Aoki, Y.; Satoh, J.; Kondo, H.; Matsubara, Y.; Kure,
+S.: Structure and expression of the glycine cleavage system in rat
+central nervous system. Molec. Brain Res. 94: 119-130, 2001.
+
+9. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Biochemical and molecular investigations of patients with
+nonketotic hyperglycemia. Molec. Genet. Metab. 70: 116-121, 2000.
+
+10. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Recurrent mutations in P- and T-proteins of the glycine cleavage
+complex and a novel T-protein mutation (N145I): a strategy for the
+molecular investigation of patients with nonketotic hyperglycinemia
+(NKH). Molec. Genet. Metab. 72: 322-325, 2001.
+
+11. Toone, J. R.; Applegarth, D. A.; Coulter-Mackie, M. B.; James,
+E. R.: Identification of the first reported splice site mutation
+(IVS7-1G-A) in the aminomethyltransferase (T-protein) gene (AMT) of
+the glycine cleavage complex in 3 unrelated families with nonketotic
+hyperglycinemia. (Abstract) Hum. Mutat. 17: 76 only, 2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/20/2002
+Victor A. McKusick - updated: 8/10/2001
+Ada Hamosh - updated: 5/2/2001
+Clair A. Francomano - updated: 6/16/1998
+Clair A. Francomano - updated: 5/26/1998
+Beat Steinmann - updated: 1/17/1997
+
+CREATED Victor A. McKusick: 6/3/1986
+
+EDITED terry: 09/24/2012
+carol: 8/4/2010
+terry: 3/11/2002
+alopez: 2/25/2002
+terry: 2/20/2002
+mcapotos: 8/10/2001
+carol: 6/22/2001
+carol: 5/3/2001
+carol: 5/2/2001
+carol: 4/17/2000
+carol: 4/6/2000
+carol: 4/4/2000
+carol: 7/16/1998
+carol: 6/19/1998
+terry: 6/16/1998
+carol: 5/30/1998
+carol: 5/26/1998
+dholmes: 5/21/1998
+joanna: 1/17/1997
+mimadm: 2/19/1994
+carol: 2/7/1994
+carol: 8/17/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/21/1989
+
+138760	TITLE *138760 HYDROXYACYL GLUTATHIONE HYDROLASE; HAGH
+;;GLYOXALASE II; GLO2
+DESCRIPTION 
+DESCRIPTION
+
+Glyoxalase II (EC 3.1.2.6), otherwise known as hydroxyacyl-glutathione
+hydrolase, converts the intermediate substrate S-lactoyl-glutathione to
+reduced glutathione and D-lactate (summary by Honey and Shows, 1981).
+
+CLONING
+
+Ridderstrom et al. (1996) cloned a cDNA coding for glyoxalase II from
+human liver. The 1,011-bp sequence contains a full-length coding region
+of 780 basepairs, corresponding to a 260-amino acid polypeptide. The
+calculated molecular mass of the protein is 28,861 Da. They expressed
+the gene in bacteria and the recombinant enzyme showed a kinetic
+behavior indistinguishable from that of the native enzyme.
+
+MAPPING
+
+By study of somatic cell hybrids, Honey and Shows (1981) concluded that
+the gene for glyoxalase II is on chromosome 16. Mulley and Callen (1986)
+confirmed the assignment of HAGH to chromosome 16 by studies of a
+human-mouse hybrid panel. They found that both HAGH and phosphoglycolate
+phosphatase (PGP; 172280) were present only in those cell lines
+containing 16p13.
+
+Mulley et al. (1990) assigned the HAGH locus to 16p13.3 by
+electrophoretic detection of enzymes from a mouse/human somatic cell
+panel, the members of which carried portions of human chromosome 16 with
+precisely defined breakpoints.
+
+MOLECULAR GENETICS
+
+Board (1980) described rare polymorphism of glyoxalase II, observed only
+in a Micronesian population, in which a new variant allele had a
+frequency of 0.016. In the heterozygotes, the electrophoretic pattern
+was a double band, suggesting that the structure of glyoxalase II is
+monomeric. The enzyme shows a high degree of polymorphism in anthropoid
+primates (Board et al., 1981).
+
+Data on gene frequencies of allelic variants were tabulated by
+Roychoudhury and Nei (1988).
+
+ADDITIONAL REFERENCES Ball and Vander Jagt (1979)
+REFERENCE 1. Ball, J. C.; Vander Jagt, D. L.: Purification of S-2-hydroxyacylglutathione
+hydrolase (glyoxalase II) from rat erythrocytes. Anal. Biochem. 98:
+472-477, 1979.
+
+2. Board, P. G.: Genetic polymorphism of human erythrocyte glyoxalase
+II. Am. J. Hum. Genet. 32: 690-694, 1980.
+
+3. Board, P. G.; Gibbs, C. J., Jr.; Gajdusek, D. C.: Polymorphism
+of erythrocyte glyoxalase II in anthropoid primates. Folia Primatol. 36:
+138-143, 1981.
+
+4. Honey, N. K.; Shows, T. B.: Assignment of the glyoxalase II gene
+(HAGH) to human chromosome 16. Hum. Genet. 58: 358-361, 1981.
+
+5. Mulley, J. C.; Barton, N.; Callen, D. F.: Localisation of human
+PGP and HAGH genes to 16p13.3. Cytogenet. Cell Genet. 53: 175-176,
+1990.
+
+6. Mulley, J. C.; Callen, D. F.: New regional localisations for HAGH
+and PGP on human chromosome 16. Hum. Genet. 74: 423-424, 1986.
+
+7. Ridderstrom, M.; Saccucci, F.; Hellman, U.; Bergman, T.; Principato,
+G.; Mannervik, B.: Molecular cloning, heterologous expression, and
+characterization of human glyoxalase II. J. Biol. Chem. 271: 319-323,
+1996.
+
+8. Roychoudhury, A. K.; Nei, M.: Human Polymorphic Genes: World Distribution.
+New York: Oxford Univ. Press (pub.)  1988.
+
+CONTRIBUTORS Lori M. Kelman - updated: 8/22/1996
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED carol: 06/13/2011
+carol: 6/9/2011
+mgross: 3/17/2004
+mark: 8/22/1996
+terry: 8/22/1996
+mark: 8/21/1996
+mimadm: 9/24/1994
+pfoster: 2/18/1994
+carol: 3/26/1992
+supermim: 3/16/1992
+carol: 2/26/1991
+carol: 2/8/1991
+
+602123	TITLE *602123 CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE II-GAMMA; CAMK2G
+;;CaM KINASE II GAMMA SUBUNIT;;
+CAMKG
+DESCRIPTION 
+DESCRIPTION
+
+Calcium/calmodulin-dependent protein kinase II (CaM kinase II) is a
+ubiquitous serine/threonine protein kinase that has been implicated in
+diverse effects of hormones and neurotransmitters that utilize Ca(2+) as
+a second messenger. The enzyme is an oligomeric protein composed of
+distinct but related subunits, alpha (114078), beta (607707), gamma, and
+delta (607708), each encoded by a separate gene. Each subunit has
+alternatively spliced variants.
+
+CLONING
+
+Breen and Ashcroft (1997) cloned and sequenced a novel CaM kinase
+II-gamma cDNA from human islet cell RNA. This isoform, designated
+gamma-SRP by the authors, encodes a truncated gamma CaM kinase II in
+which the 3-prime end consists of 804 basepairs of the human SRP72 gene
+(602122).
+
+Tombes and Krystal (1997) identified a number of CAMKG variants
+expressed by neuronal cells. Two variants were consistently expressed in
+nonneuronal cell lines, and another was preferentially expressed in
+tumor cells.
+
+MAPPING
+
+Using somatic cell hybrid analysis and fluorescence in situ
+hybridization, Li et al. (1994) mapped the CAMK2G gene to human
+chromosome 10q22. Ahmed et al. (2001) stated that CAMK2G is 1 of 3 genes
+that are nested in the introns of PCDH15 (605514).
+
+GENE FUNCTION
+
+In mouse cardiomyocytes, Zhu et al. (2003) demonstrated that
+beta-1-adrenergic receptor (ADRB1; 109630)-induced apoptosis was
+resistant to inhibition of PKA (see 176911). Rather, the Adrb1
+proapoptotic effect was associated with non-Pka-dependent increases in
+intracellular Ca(2+) and Camk2 activity. Blocking the L-type Ca(2+)
+channel (see 114205), buffering intracellular Ca(2+), or inhibiting
+Camk2 activity fully protected cardiomyocytes against Adrb1-induced
+apoptosis; overexpressing the c splice variant of Camk2d markedly
+exaggerated the Adrb1 apoptotic effect. Zhu et al. (2003) concluded that
+CAMK2 constitutes a PKA-independent linkage of ADRB1 stimulation to
+cardiomyocyte apoptosis.
+
+Among 304 Swiss individuals tested and genotyped, de Quervain and
+Papassotiropoulos (2006) found a significant association (p = 0.00008)
+between short-term episodic memory performance and genetic variations in
+a 7-gene cluster consisting of the ADCY8 (103070), PRKACG (176893),
+CAMK2G, GRIN2A (138253), GRIN2B (138252), GRM3 (601115), and PRKCA
+(176960) genes, all of which have well-established molecular and
+biologic functions in animal memory. Functional MRI studies in an
+independent set of 32 individuals with similar memory performance showed
+a correlation between activation in memory-related brain regions,
+including the hippocampus and parahippocampal gyrus, and genetic
+variability in the 7-gene cluster. De Quervain and Papassotiropoulos
+(2006) concluded that these 7 genes encode proteins of the memory
+formation signaling cascade that are important for human memory
+function.
+
+MOLECULAR GENETICS
+
+For discussion of mutation in the CAMK2G gene as a possible cause of an
+intellectual disability phenotype, see 602123.0001.
+
+ANIMAL MODEL
+
+To study the role of CaMKII in T cells, Bui et al. (2000) generated
+transgenic mice expressing a partially calcium-independent mutant form
+of CAMKG (thr287 to asp). The size of the thymus was increased 1.5- to
+2-fold in these mice, at least in part due to an increase in the life
+span of double-positive thymocytes. There was an increase in the number
+of T cells in the secondary lymphoid organs that had acquired an
+antigen-dependent memory phenotype. These T cells were bona fide memory
+cells as assessed by a variety of criteria. In addition, T cells from
+wildtype mice acquired calcium-independent CaMKII activity after several
+rounds of antigen-stimulated division. The authors proposed that CaMKII
+controls a distinct process of activation-induced cellular
+differentiation.
+
+Using gene targeting, Zhang et al. (2005) developed a mouse model of
+cardiac Camk2 inhibition and demonstrated substantial prevention of
+maladaptive remodeling from excessive beta-adrenergic receptor
+stimulation and myocardial infarction, and induction of balanced changes
+in excitation-contraction coupling that preserved baseline and
+beta-adrenergic receptor-stimulated physiologic increases in cardiac
+function. Zhang et al. (2005) concluded that CAMK2 is a determinant of
+clinically important heart disease phenotypes.
+
+ALLELIC VARIANT .0001
+VARIANT OF UNKNOWN SIGNIFICANCE
+CAMK2G, ARG292PRO
+
+This variant is classified as a variant of unknown significance because
+its contribution to intellectual disability has not been confirmed.
+
+In a boy with severe intellectual disability with self mutilation,
+myopia, strabismus, mitochondrial dysfunction without mitochondrial gene
+defects, short stature, flat face with narrow forehead, long palpebral
+fissures, arched eyebrows, sacral dimple, short hands, brachydactyly,
+and short feet, de Ligt et al. (2012) identified a de novo heterozygous
+875G-C transversion resulting in an arg29-to-pro (R29P) substitution.
+The patient had normal array and MLL2 testing.
+
+REFERENCE 1. Ahmed, Z. M.; Riazuddin, S.; Bernstein, S. L.; Ahmed, Z.; Khan,
+S.; Griffith, A. J.; Morell, R. J.; Friedman, T. B.; Riazuddin, S.;
+Wilcox, E. R.: Mutations of the protocadherin gene PCDH15 cause Usher
+syndrome type 1F. Am. J. Hum. Genet. 69: 25-34, 2001.
+
+2. Breen, M. A.; Ashcroft, S. J. H.: A truncated isoform of Ca(2+)/calmodulin-dependent
+protein kinase II expressed in human islets of Langerhans may result
+from trans-splicing. FEBS Lett. 409: 375-379, 1997.
+
+3. Bui, J. D.; Calbo, S.; Hayden-Martinez, K.; Kane, L. P.; Gardner,
+P.; Hedrick, S. M.: A role for CaMKII in T cell memory. Cell 100:
+457-467, 2000.
+
+4. de Ligt, J.; Willemsen, M. H.; van Bon, B. W. M.; Kleefstra, T.;
+Yntema, H. G.; Kroes, T.; Vulto-van Silfhout, A. T.; Koolen, D. A.;
+de Vries, P.; Gilissen, C.; del Rosario, M.; Hoischen, A.; Scheffer,
+H.; de Vries, B. B. A.; Brunner, H. G.; Veltman, J. A.; Vissers, L.
+E. L. M.: Diagnostic exome sequencing in persons with severe intellectual
+disability. New Eng. J. Med. 367: 1921-1929, 2012.
+
+5. de Quervain, D. J.-F.; Papassotiropoulos, A.: Identification of
+a genetic cluster influencing memory performance and hippocampal activity
+in humans. Proc. Nat. Acad. Sci. 103: 4270-4274, 2006.
+
+6. Li, X.; Nghiem, P.; Schulman, H.; Francke, U.: Localization of
+the CAMKG gene encoding gamma isoforms of multifunctional calcium/calmodulin-dependent
+protein kinase (CaM kinase) to human chromosome 10 band q22 and mouse
+chromosome 14. Cytogenet. Cell Genet. 66: 113-116, 1994.
+
+7. Tombes, R. M.; Krystal, G. W.: Identification of novel human tumor
+cell-specific CaMK-II variants. Biochim. Biophys. Acta 1355: 281-292,
+1997.
+
+8. Zhang, R.; Khoo, M. S. C.; Wu, Y.; Yang, Y.; Grueter, C. E.; Ni,
+G.; Price, E. E., Jr.; Thiel, W.; Guatimosim, S.; Song, L.-S.; Madu,
+E. C.; Shah, A. N.; Vishnivetskaya, T. A.; Atkinson, J. B.; Gurevich,
+V. V.; Salama, G.; Lederer, W. J.; Colbran, R. J.; Anderson, M. E.
+: Calmodulin kinase II inhibition protects against structural heart
+disease. Nature Med. 11: 409-417, 2005.
+
+9. Zhu, W.-Z.; Wang, S.-Q.; Chakir, K.; Yang, D.; Zhang, T.; Brown,
+J. H.; Devic, E.; Kobilka, B. K.; Cheng, H.; Xiao, R.-P.: Linkage
+of beta-1-adrenergic stimulation to apoptotic heart cell death through
+protein kinase A-independent activation of Ca(2+)/calmodulin kinase
+II. J. Clin. Invest. 111: 617-625, 2003.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/13/2013
+Cassandra L. Kniffin - updated: 4/3/2006
+Marla J. F. O'Neill - updated: 4/27/2005
+Patricia A. Hartz - updated: 4/23/2003
+Victor A. McKusick - updated: 8/15/2001
+Stylianos E. Antonarakis - updated: 4/5/2000
+
+CREATED Jennifer P. Macke: 11/14/1997
+
+EDITED carol: 02/13/2013
+carol: 2/13/2013
+wwang: 4/17/2006
+ckniffin: 4/3/2006
+wwang: 12/20/2005
+terry: 10/12/2005
+wwang: 5/13/2005
+wwang: 5/2/2005
+terry: 4/27/2005
+joanna: 4/19/2005
+mgross: 4/23/2003
+tkritzer: 3/28/2003
+cwells: 9/6/2001
+cwells: 8/23/2001
+terry: 8/15/2001
+mgross: 4/5/2000
+alopez: 2/22/1999
+dholmes: 11/20/1997
+dholmes: 11/19/1997
+dholmes: 11/14/1997
+
+602731	TITLE *602731 FYN-BINDING PROTEIN; FYB
+;;SLAP130;;
+p120/130;;
+ADHESION AND DEGRANULATION ADAPTOR PROTEIN; ADAP
+DESCRIPTION 
+CLONING
+
+T-cell receptor signaling involves activation of the src
+protein-tyrosine kinases LCK (153390) and FYN (137025), leading to the
+phosphorylation of various substrates including SLP76 (LCP2; 601603). Da
+Silva et al. (1993) identified FYB (called p120/130 by them), a 120- and
+130-kD protein doublet that associates with the SH2 domain of FYN.
+T-cell receptor ligation led to increased tyrosine phosphorylation of
+FYB. Da Silva et al. (1997) showed that the 120- and 130-kD doublet is
+composed of 2 related isoforms of FYB. In T cells from FYN mutant mice,
+the phosphorylation of FYB was reduced, but not abolished, suggesting to
+da Silva et al. (1997) that FYB could be phosphorylated by another
+kinase. By screening a Jurkat T-cell line expression library with
+antibodies against FYB, da Silva et al. (1997) identified FYB cDNAs.
+Northern blot analysis revealed that the 4.5-kb FYB mRNA is expressed
+only in myeloid and T cells. Expression of FYB in mammalian cells
+yielded a protein that migrated at 120 kD on SDS-PAGE. By Western
+blotting, da Silva et al. (1997B) showed that FYB coimmunoprecipitated
+with FYN and with SLP76 in mammalian cell lysates. They concluded that
+FYB acts as a component of the FYN and SLP76 signaling cascades in T
+cells.
+
+Musci et al. (1997) cloned cDNAs encoding SLAP130, a 130-kD
+phosphoprotein that is associated with SLP76. Da Silva et al. (1997)
+stated that SLAP130 is identical to FYB except for 2 conservative and 1
+nonconservative amino acid substitutions. Musci et al. (1997) attributed
+the difference between the calculated mass of SLAP130 (86 kD) and the
+observed mass by SDS-PAGE (130 kD) to posttranslational modifications or
+the abundance of charged amino acids.
+
+Da Silva et al. (1997) used the human FYB cDNA to clone the mouse
+homolog. The sequence of the predicted 783-amino acid human FYB protein
+shares 77% identity with that of mouse FYB.
+
+GENE FUNCTION
+
+By immunoblot analysis, Geng et al. (2001) showed that FCER1A (147140)
+aggregation induces rapid FYB tyrosine phosphorylation in rat basophilic
+leukemia mast cells and the release of beta hexosaminidase (see 606873).
+Confocal microscopy demonstrated that FYB colocalizes with actin (see
+ACTA1; 102610) in membrane ruffles. FYB overexpression enhanced mast
+cell adhesion to fibronectin (FN1; 135600) and SH3 domain-mediated
+release of beta hexosaminidase, implying increased histamine release as
+well. Mast cell adhesion had no effect on FYB phosphorylation but
+enhanced beta hexosaminidase release.
+
+Medeiros et al. (2007) presented evidence for a previously unrecognized
+function for ADAP in regulating T-cell receptor (TCR)-mediated
+activation of the transcription factor NF-kappa-B (see 164011).
+Stimulation of ADAP-deficient mouse T cells with antibodies to CD3 (see
+186740) and CD28 (186760) resulted in impaired nuclear translocation of
+NF-kappa-B, a reduced DNA binding, and delayed degradation and decreased
+phosphorylation of I-kappa-B (see 164008). TCR-stimulated assembly of
+the CARMA1 (607210)-BCL10 (603517)-MALT1 (604860) complex was
+substantially impaired in the absence of ADAP. Medeiros et al. (2007)
+further identified a region of ADAP that is required for association
+with the CARMA1 adaptor and NF-kappa-B activation but is not required
+for ADAP-dependent regulation of adhesion.
+
+ANIMAL MODEL
+
+Using gene targeting strategies, Griffiths et al. (2001) and Peterson et
+al. (2001) each generated mice lacking Fyb expression in mature T
+lymphocytes. Although lymphocyte development was normal in these mice,
+splenic CD4 (186940)-positive and CD8 (see 186910)-positive T-cell
+numbers were reduced, suggesting that Fyb may be required for peripheral
+T-cell homeostasis. T-cell proliferation in response to phorbol ester
+was normal in Fyb-deficient cells, but responses to anti-CD3E (186830),
+with or without anti-CD28 (186760), were reduced, as were cytokine
+production and activation marker upregulation. These results
+demonstrated that Fyb acts as a positive regulator of T-cell activation.
+Fyb-deficient mice also had reduced antibody production to T-dependent
+antigens in vivo. Although downstream signaling pathways and antigen
+receptor clustering were normal, clustering of the integrin LFA1 (see
+153370 and 600065) was not. Flow chamber analysis demonstrated that
+anti-CD3E-stimulated but not phorbol ester-stimulated Fyb-deficient T
+cells were defective in adhering to mouse Icam1 (147840), to human ICAM2
+(146630), and to other substrates mediated by integrins, although
+integrin expression was not reduced. Using confocal microscopy, Peterson
+et al. (2001) showed that Fyb-deficient T cells had normal clustering of
+actin but no polarization of LFA1, whereas LFA1 clustering was markedly
+increased in wildtype T cells. Griffiths et al. (2001) concluded that
+the T-cell receptor-induced adhesion defect in integrin activation was
+due to a block in 'inside-out' signaling between the T-cell receptor and
+integrins. Peterson et al. (2001) and Griffiths et al. (2001) proposed
+that on the basis of these findings and studies by Geng et al. (2001),
+which implicated FYB in vasoactive mediator release, that FYB be
+redesignated 'adhesion and degranulation adaptor protein,' or ADAP.
+
+REFERENCE 1. da Silva, A. J.; Janssen, O.; Rudd, C. E.: T cell receptor zeta/CD3-p59fyn(T)-associated
+p120/130 binds to the SH2 domain of p59fyn(T). J. Exp. Med. 178:
+2107-2113, 1993.
+
+2. da Silva, A. J.; Li, Z.; De Vera, C.; Canto, E.; Findell, P.; Rudd,
+C. E.: Cloning of a novel T-cell protein FYB that binds FYN and SH2-domain-containing
+leukocyte protein 76 and modulates interleukin 2 production. Proc.
+Nat. Acad. Sci. 94: 7493-7498, 1997.
+
+3. da Silva, A. J.; Rosenfield, J. M.; Mueller, I.; Bouton, A.; Hirai,
+H.; Rudd, C. E.: Biochemical analysis of p120/130; a protein-tyrosine
+kinase substrate restricted to T and myeloid cells. J. Immun. 158:
+2007-2016, 1997.
+
+4. Geng, L.; Pfister, S.; Kraeft, S.-K.; Rudd, C. E.: Adaptor FYB
+(Fyn-binding protein) regulates integrin-mediated adhesion and mediator
+release: differential involvement of the FYB SH3 domain. Proc. Nat.
+Acad. Sci. 98: 11527-11532, 2001.
+
+5. Griffiths, E. K.; Krawczyk, C.; Kong, Y.-Y.; Raab, M.; Hyduk, S.
+J.; Bouchard, D.; Chan, V. S.; Kozieradzki, I.; Oliveira-dos-Santos,
+A. J.; Wakeham, A.; Ohashi, P. S.; Cybulsky, M. I.; Rudd, C. E.; Penninger,
+J. M.: Positive regulation of T cell activation and integrin adhesion
+by the adapter Fyb/Slap. Science 293: 2260-2263, 2001.
+
+6. Medeiros, R. B.; Burbach, B. J.; Mueller, K. L.; Srivastava, R.;
+Moon, J. J.; Highfill, S.; Peterson, E. J.; Shimizu, Y.: Regulation
+of NF-kappa-B activation in T cells via association of the adapter
+proteins ADAP and CARMA1. Science 316: 754-758, 2007.
+
+7. Musci, M. A.; Hendricks-Taylor, L. R.; Motto, D. G.; Paskind, M.;
+Kamens, J.; Turck, C. W.; Koretzky, G. A.: Molecular cloning of SLAP-130,
+and SLP-76-associated substrate of the T cell antigen receptor-stimulated
+protein tyrosine kinases. J. Biol. Chem. 272: 11674-11677, 1997.
+
+8. Peterson, E. J.; Woods, M. L.; Dmowski, S. A.; Derimanov, G.; Jordan,
+M. S.; Wu, J. N.; Myung, P. S.; Liu, Q.-H.; Pribila, J. T.; Freedman,
+B. D.; Shimizu, Y.; Koretzky, G. A.: Coupling of the TCR to integrin
+activation by SLAP-130/Fyb. Science 293: 2263-2265, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/30/2007
+Paul J. Converse - updated: 10/4/2001
+Paul J. Converse - updated: 9/25/2001
+
+CREATED Rebekah S. Rasooly: 6/18/1998
+
+EDITED wwang: 04/20/2009
+wwang: 7/16/2008
+alopez: 5/30/2007
+terry: 5/30/2007
+carol: 5/16/2007
+ckniffin: 5/7/2002
+mgross: 10/4/2001
+mgross: 9/25/2001
+alopez: 7/29/1998
+alopez: 6/18/1998
+

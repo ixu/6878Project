@@ -1,0 +1,3128 @@
+604697	TITLE *604697 CHEMOKINE, CC MOTIF, LIGAND 26; CCL26
+;;SMALL INDUCIBLE CYTOKINE SUBFAMILY A, MEMBER 26; SCYA26;;
+EOTAXIN 3
+DESCRIPTION 
+DESCRIPTION
+
+Chemokines, such as CCL26, play pivotal roles in health and disease by
+controlling migration and tissue localization of specific types of cells
+expressing their cognate receptors. Humans have at least 45 chemokines,
+which are grouped into 4 subfamilies (CXC, CC, C, and CX3C) based on the
+structural motif of their N-terminal conserved cysteine residues. CCL26
+is abundantly produced by IL4 (147780)- and IL13 (147683)-stimulated
+vascular endothelial cells and is a functional ligand for CCR3 (601268)
+and CX3CR1 (601470). In addition, CCL26 functions as a natural
+antagonist for CCR1 (601159), CCR2 (601267), and CCR5 (601373) (summary
+by Nakayama et al., 2010).
+
+CLONING
+
+By carrying out an exon search in the vicinity of eotaxin-2 (CCL24;
+602495) on chromosome 7, followed by 5-prime and 3-prime RACE, Kitaura
+et al. (1999) obtained a human lung cDNA encoding a CC chemokine, CCL26,
+which they called eotaxin-3. The deduced 94-amino acid CCL26 protein
+contains a 23-amino acid signal peptide and no N-glycosylation sites.
+Although CCL26 shares only 33% amino acid identity with eotaxin-2,
+phylogenetic tree and receptor usage analyses showed that CCL26 shares
+characteristics with eotaxin-2. Northern blot analysis detected a 0.8-kb
+CCL26 transcript at low levels in heart and ovary; however, RT-PCR
+analysis detected ubiquitous expression of CCL26.
+
+By searching an EST database, Guo et al. (1999) identified a fetal heart
+cDNA encoding CCL26. Northern blot analysis detected a 1.8-kb CCL26
+transcript at high levels in heart and liver, and at lower levels in
+skeletal muscle and kidney; a 0.6-kb transcript was detected at low
+levels in heart, liver, skeletal muscle, and kidney.
+
+MAPPING
+
+Using FISH, Guo et al. (1999) mapped the CCL26 gene to chromosome
+7q11.2, where the majority of CC chemokine genes are found.
+
+GENE FUNCTION
+
+Kitaura et al. (1999) found that CCL26 induced migration of eosinophils
+and basophils only at a 10-fold higher concentration than eotaxin
+(CCL11; 601156).
+
+Using chemotaxis and cellular assays, as well as flow cytometry and
+RT-PCR analysis, Nakayama et al. (2010) demonstrated that CCL26 is a
+functional ligand of both CCR3 and CX3CR1, a receptor for CX3CL1
+(601880). At relatively high concentrations, human CCL26 induced calcium
+flux and chemotaxis in mouse cells expressing human CX3CR1, but not
+mouse Cx3cr1, and competed with CX3CL1 for CX3CR1 binding. Like CX3CL1,
+CCL26 attracted eosinophils, natural killer (NK) cells, terminally
+differentiated CD8 (see 186910)-positive cytotoxic T lymphocytes, and
+homeostatic monocytes. Intraperitoneal injection of CCL26 resulted in
+rapid recruitment of mouse eosinophils and intravenously injected human
+NK cells to the peritoneal cavity. IL4-stimulated human umbilical vein
+endothelial cells produced CCL26 and induced adhesion of
+CX3CR1-expressing cells. Psoriasis (see 177900) and atopic dermatitis
+(see 603165) lesions both expressed CX3CR1 mRNA, but CX3CL1 was
+expressed in the former and only sometimes in the latter. In contrast,
+CCL26 was always expressed in atopic dermatitis lesions. Nakayama et al.
+(2010) suggested that CCL26 may be partly responsible for the
+recruitment of cells expressing CX3CR1 in atopic dermatitis lesions when
+CX3CL1 expression is low. They concluded that CCL26 is another agonist
+for CX3CR1 and may act in allergic diseases by attracting eosinophils
+via CCR3 and killer lymphocytes and resident monocytes via CX3CR1.
+
+MOLECULAR GENETICS
+
+For discussion of a possible association between variation in the CCL26
+gene and eosinophilic esophagitis, see 610247.
+
+REFERENCE 1. Guo, R.-F.; Ward, P. A.; Hu, S.-M.; McDuffie, J. E.; Huber-Lang,
+M.; Shi, M. M.: Molecular cloning and characterization of a novel
+human CC chemokine, SCYA26. Genomics 58: 313-317, 1999.
+
+2. Kitaura, M.; Suzuki, N.; Imai, T.; Takagi, S.; Suzuki, R.; Nakajima,
+T.; Hirai, K.; Nomiyama, H.; Yoshie, O.: Molecular cloning of a novel
+human CC chemokine (eotaxin-3) that is a functional ligand of CC chemokine
+receptor 3. J. Biol. Chem. 274: 27975-27980, 1999.
+
+3. Nakayama, T.; Watanabe, Y.; Oiso, N.; Higuchi, T.; Shigeta, A.;
+Mizuguchi, N.; Katou, F.; Hashimoto, K.; Kawada, A.; Yoshie, O.:
+Eotaxin-3/CC chemokine ligand 26 is a functional ligand for CX3CR1. J.
+Immun. 185: 6472-6479, 2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 02/11/2011
+Paul J. Converse - updated: 2/11/2011
+Marla J. F. O'Neill - updated: 7/10/2006
+
+CREATED Paul J. Converse: 3/20/2000
+
+EDITED mgross: 02/11/2011
+terry: 2/11/2011
+carol: 6/29/2009
+wwang: 7/12/2006
+terry: 7/10/2006
+mgross: 7/20/2005
+mgross: 9/26/2002
+mgross: 3/20/2000
+
+182160	TITLE *182160 SIALOPHORIN; SPN
+;;LEUKOSIALIN; LSN;;
+LEUKOCYTE LARGE SIALOGLYCOPROTEIN;;
+CD43;;
+GPL115
+DESCRIPTION 
+DESCRIPTION
+
+Sialophorin (leukosialin) is a major sialoglycoprotein on the surface of
+human T lymphocytes, monocytes, granulocytes, and some B lymphocytes,
+which appears to be important for immune function and may be part of a
+physiologic ligand-receptor complex involved in T-cell activation.
+
+CLONING
+
+Pallant et al. (1989) stated that sialophorin had been identified by the
+L10 monoclonal antibody. Pallant et al. (1989) isolated a cDNA clone
+encoding leukosialin from a library constructed from human peripheral
+blood cells. Southern blot analysis suggested that the gene is present
+in single copy.
+
+Shelley et al. (1988, 1989) isolated and sequenced cDNA clones for
+sialophorin. The longest sequenced clone was 1.7 kb and encoded 5 of 7
+isolated tryptic peptides. Northern blot analysis indicated that the
+sialophorin transcript is 2.5 kb long. The nucleotide sequence of the
+1.7-kb clone showed that the sialophorin transcript has a
+3-prime-noncoding region of 587 nucleotides, is polyadenylated, and has
+the AATAAA polyadenylation signal. The derived sequence of 341 amino
+acids showed that the sialophorin protein has 3 domains: an
+extracellular domain of 195 amino acids, a hydrophobic transmembrane
+domain of 23 amino acids, and a C-terminal intracellular domain of 123
+amino acids which contains a number of sites that might be
+phosphorylated by protein kinase C.
+
+GENE FUNCTION
+
+By introducing a cDNA encoding the human CD43 protein into an
+antigen-responsive murine T-cell hybridoma, Park et al. (1991) found
+that the antigen-specific activation of T cells was enhanced. The
+intracellular domain of CD43, which is hyperphosphorylated during T-cell
+activation, was required for this function.
+
+Schmid et al. (1992) presented evidence that the galactoglycoprotein of
+plasma represents the extracellular portion of CD43 derived by
+proteolytic cleavage from the transmembrane portion. Bazil and
+Strominger (1993) showed that CD43 is proteolytically cleaved from the
+surface of stimulated lymphocytes and granulocytes. They suggested that
+induced enzymatic cleavage of leukocyte receptors may represent a
+general mechanism regulating surface expression of these molecules.
+
+Using immunoprecipitation and cell-binding analyses, van den Berg et al.
+(2001) showed that both the 240-kD SELPLG (600738) and the 130-kD CD43
+proteins bind to macrophage-restricted SIGLEC1 (SN; 600751) in solution.
+However, only T cell-bound CD43, and not SELPLG, in either the branched
+or unbranched glycoform binds when expressed on the cell surface. Thus,
+CD43 is the T-cell counterreceptor for SN.
+
+The immunologic synapse is the T cell-APC (antigen-presenting cell)
+contact site where T-cell receptors (TCRs), coreceptors, signaling
+molecules, and adhesion receptors polarize upon antigen recognition. The
+formation of the immunologic synapse is thought to be important for
+receptor signal transduction and full T-lymphocyte activation. CD43 is a
+large sialoprotein diffusely expressed in unactivated T cells. Using
+antigen-activated T cells and confocal microscopy, Delon et al. (2001)
+demonstrated that moesin (309845) is excluded from the region of T
+cell-APC contact and colocalizes with CD43. Western blot and
+immunocytochemical analyses showed that moesin is rapidly
+dephosphorylated upon antigen recognition and then rephosphorylated on
+threonine residues. Only phosphorylated moesin was able to bind CD43.
+Delon et al. (2001) concluded that T-cell activation requires the
+removal of CD43 from the immunologic synapse to allow efficient
+engagement of the TCR with molecules on the APC.
+
+Using mouse helper T cell lines and confocal microscopy, Allenspach et
+al. (2001) determined that the cytoplasmic tail of CD43 is necessary and
+sufficient for CD43 removal from the immunologic synapse. In at least
+some cells, CD43 is located at the distal pole of the T cell together
+with ezrin (123900) and moesin. No differences in the behavior of ezrin
+and moesin were noted throughout the study. Using cells from Cd43 -/-
+mice, Allenspach et al. (2001) observed that ezrin-radixin
+(179410)-moesin (ERM) family proteins move independently of the large
+CD43 mucin. Overexpression of a dominant-negative ERM mutant containing
+the N-terminal 320 amino acids of ezrin inhibited the activation-induced
+movement of CD43 without affecting conjugate formation. The
+dominant-negative mutant reduced cytokine production but not the
+expression of T-cell activation markers.
+
+GENE STRUCTURE
+
+Shelley et al. (1990) reported that the CD43 gene has a single intron of
+378 bp that interrupts the sequence specifying the 5-prime untranslated
+region of the mRNA. The gene is, therefore, unusual in that the discrete
+extracellular, transmembrane, and intracellular regions of the protein,
+including repeat sequences in the extracellular region, are not encoded
+by separate exons.
+
+MAPPING
+
+Shelley et al. (1989) determined that the human sialophorin gene appears
+to be unique within the haploid genome, and they assigned it to
+chromosome 16 by Southern blot analysis of DNA from rodent-human cell
+hybrids. By study of somatic cell hybrids, Pallant et al. (1989)
+demonstrated that the leukosialin gene is not X-linked; by in situ
+hybridization, they mapped the gene to 16p11.2. Baecher et al. (1990)
+demonstrated that the mouse leukosialin gene, designated Ly48, is
+encoded by chromosome 7.
+
+PATHOGENESIS
+
+Sialophorin is defective in lymphocytes of patients with Wiskott-Aldrich
+syndrome (301000). Since the Wiskott-Aldrich syndrome is X-linked, its
+primary cause must reside in a defect of a gene other than the
+structural gene for sialophorin. (The existence of an autosomal form of
+Wiskott-Aldrich syndrome has been suggested (277970).) Specific
+interaction of CD43 with a ligand on the surface of T cells appears to
+contribute to T-cell activation. Rosenstein et al. (1991) presented
+evidence that intercellular adhesion molecule-1 (ICAM1, or CD54; 147840)
+is a ligand for CD43. Rosenstein et al. (1991) suggested that the defect
+in T-cell function in Wiskott-Aldrich syndrome may result from defective
+CD43/ICAM1 interaction. Many patients with HIV infection have
+circulating anti-CD43 antibodies; these autoantibodies may contribute to
+the severe immunodeficiency found in AIDS patients.
+
+REFERENCE 1. Allenspach, E. J.; Cullinan, P.; Tong, J.; Tang, Q.; Tesciuba,
+A. G.; Cannon, J. L.; Takahashi, S. M.; Morgan, R.; Burkhardt, J.
+K.; Sperling, A. I.: ERM-dependent movement of CD43 defines a novel
+protein complex distal to the immunological synapse. Immunity 15:
+739-750, 2001.
+
+2. Baecher, C. M.; Dorfman, K. S.; Mattei, M.-G.; Frelinger, J. G.
+: cDNA cloning and localization of the mouse leukosialin gene (Ly48)
+to chromosome 7. Immunogenetics 31: 307-314, 1990.
+
+3. Bazil, V.; Strominger, J. L.: CD43, the major sialoglycoprotein
+of human leukocytes, is proteolytically cleaved from the surface of
+stimulated lymphocytes and granulocytes. Proc. Nat. Acad. Sci. 90:
+3792-3796, 1993.
+
+4. Delon, J.; Kaibuchi, K.; Germain, R. N.: Exclusion of CD43 from
+the immunological synapse is mediated by phosphorylation-regulated
+relocation of the cytoskeletal adaptor moesin. Immunity 15: 691-701,
+2001.
+
+5. Pallant, A.; Eskenazi, A.; Mattei, M.-G.; Fournier, R. E. K.; Carlsson,
+S. R.; Fukuda, M.; Frelinger, J. G.: Characterization of cDNAs encoding
+human leukosialin and localization of the leukosialin gene to chromosome
+16. Proc. Nat. Acad. Sci. 86: 1328-1332, 1989.
+
+6. Park, J. K.; Rosenstein, Y. J.; Remold-O'Donnell, E.; Bierer, B.
+E.; Rosen, F. S.; Burakoff, S. J.: Enhancement of T-cell activation
+by the CD43 molecule whose expression is defective in Wiskott-Aldrich
+syndrome. Nature 350: 706-709, 1991.
+
+7. Rosenstein, Y.; Park, J. K.; Hahn, W. C.; Rosen, F. S.; Bierer,
+B. E.; Burakoff, S. J.: CD43, a molecule defective in Wiskott-Aldrich
+syndrome, binds ICAM-1. Nature 354: 233-235, 1991.
+
+8. Schmid, K.; Hediger, M. A.; Brossmer, R.; Collins, J. H.; Haupt,
+H.; Marti, T.; Offner, G. D.; Schaller, J.; Takagaki, K.; Walsh, M.
+T.; Schwick, H. G.; Rosen, F. S.; Remold-O'Donnell, E.: Amino acid
+sequence of human plasma galactoglycoprotein: identity with the extracellular
+region of CD43 (sialophorin). Proc. Nat. Acad. Sci. 89: 663-667,
+1992.
+
+9. Shelley, C. S.; Carroll, M. C.; Davis, A. E., III; Bruns, G. A.
+P.; Whitehead, A. S.; Finberg, R.; Remold-O'Donnell, E.; Rosen, F.
+S.: Human sialophorin: cDNA cloning and gene location. (Abstract) FASEB
+J. 2: A1659 only, 1988.
+
+10. Shelley, C. S.; Remold-O'Donnell, E.; Davis, A. E., III; Bruns,
+G. A. P.; Rosen, F. S.; Carroll, M. C.; Whitehead, A. S.: Molecular
+characterization of sialophorin (CD43), the lymphocyte surface sialoglycoprotein
+defective in Wiskott-Aldrich syndrome. Proc. Nat. Acad. Sci. 86:
+2819-2823, 1989. Note: Erratum: Proc. Nat. Acad. Sci. 86: 4689 only,
+1989.
+
+11. Shelley, C. S.; Remold-O'Donnell, E.; Rosen, F. S.; Whitehead,
+A. S.: Structure of the human sialophorin (CD43) gene: identification
+of features atypical of genes encoding integral membrane proteins. Biochem.
+J. 270: 569-576, 1990.
+
+12. van den Berg, T. K.; Nath, D.; Ziltener, H. J.; Vestweber, D.;
+Fukuda, M.; van Die, I.; Crocker, P. R.: Cutting edge: CD43 functions
+as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin
+(Siglec-1). J. Immun. 166: 3637-3640, 2001.
+
+CONTRIBUTORS Paul J. Converse - updated: 2/8/2002
+Paul J. Converse - updated: 4/26/2001
+
+CREATED Victor A. McKusick: 6/29/1988
+
+EDITED terry: 11/28/2012
+mgross: 2/8/2002
+mgross: 4/26/2001
+psherman: 1/20/1999
+carol: 12/14/1993
+carol: 5/18/1993
+supermim: 3/16/1992
+carol: 2/23/1992
+carol: 2/20/1992
+carol: 12/24/1991
+
+180990	TITLE *180990 PROLINE-RICH PROTEIN, BstNI SUBFAMILY, 4; PRB4
+;;BASIC SALIVARY PROLINE-RICH PROTEIN, BstNI TYPE, 4
+SALIVARY PROTEIN Po, INCLUDED
+DESCRIPTION For background information on salivary proline-rich proteins, see PRB1
+(180989).
+
+Azen and Yu (1984) defined another polymorphism in the proteins of
+parotid saliva. Called Po, it was typed on immunoblots after transfer
+from SDS gels to nitrocellulose. The Po+ allele had a frequency of 0.75
+in whites and 0.77 in blacks. Po is probably linked to the salivary
+protein complex (SPC); Po versus CON2 showed a maximum lod score of 2.35
+at theta = 0.0.
+
+Azen and Yu (1984) demonstrated 2 genetically polymorphic parotid
+salivary proteins, CON1 and CON2, by reaction with concanavalin A after
+electrophoresis in SDS polyacrylamide gels and transfer to
+nitrocellulose. Linkage of CON1 to Ps (168810) was found (lod = 6.77 at
+theta 0.0), and of CON2 to PmF (lod = 5.93 at theta = 0.0). PmF is the
+same as Pm (180989). PmS is perhaps a separate locus which encodes a
+protein that shows a close association with PmF. CON2 is linked (Azen
+and Yu, 1984) to G1 (lod = 3.91 at theta = 0.0).
+
+By molecular genetic studies, Azen et al. (1996) demonstrated that the
+CON1 glycoprotein is encoded in exon 3 of a PRB2 allele (168810) with a
+potential N-linked glycosylation site. On the other hand, the CON2
+glycoprotein is encoded in exon 3 of the PRB1 allele (180989) with a
+potential glycosylation site. The Po protein and a glycoprotein (II-1)
+are indeed encoded in the PRB4 gene. The authors noted that
+concanavalin-A binding proteins are of special biologic interest, since
+they, like other proline-rich proteins of the saliva, might bind to
+specific oral bacteria and modulate intraoral disease susceptibility.
+
+Chan and Bennick (2001) showed that in vitro translated PRB4S, a
+proprotein encoded by a small allele of the PRB4 gene, was cleaved by
+furin (FUR; 136950) at a consensus cleavage site (RSARS) to produce
+II-1, a glycosylated PRP, and IB-5, a basic PRP. A human submandibular
+cell line transfected with PRB4S secreted II-1 and IB-5, and the degree
+of cleavage was enhanced by coexpression of furin with PRB4S. Cleavage
+occurred before exit of the proteins from the trans-Golgi network. Cells
+lacking furin also cleaved PRB4S in culture, indicating that other
+convertases can cleave PRB4S.
+
+ADDITIONAL REFERENCES Azen and Yu (1984); Azen and Yu (1984); Azen and Yu (1984)
+REFERENCE 1. Azen, E. A.; Amberger, E.; Fisher, S.; Prakobphol, A.; Niece, R.
+L.: PRB1, PRB2, and PRB4 coded polymorphisms among human salivary
+concanavalin-A binding, II-1, and Po proline-rich proteins. Am. J.
+Hum. Genet. 58: 143-153, 1996.
+
+2. Azen, E. A.; Yu, P.-L.: Two new SPC markers: CON1 and CON2. (Abstract) Cytogenet.
+Cell Genet. 37: 405-406, 1984.
+
+3. Azen, E. A.; Yu, P.-L.: Genetic polymorphism of CON1 and CON2
+salivary proteins detected by immunologic and concanavalin A reactions
+on nitrocellulose with linkage of CON1 and CON2 genes to the SPC (salivary
+protein gene complex). Biochem. Genet. 22: 1-19, 1984.
+
+4. Azen, E. A.; Yu, P. L.: Genetic polymorphism of Pe and Po salivary
+proteins with probable linkage of their genes to the SPC (salivary
+protein complex). Biochem. Genet. 22: 1065-1081, 1984.
+
+5. Azen, E. A.; Yu, P. L.: Two new saliva markers, Pe and Po, probably
+linked in the SPC. (Abstract) Am. J. Hum. Genet. 36: 5S, 1984.
+
+6. Chan, M.; Bennick, A.: Proteolytic processing of a human salivary
+proline-rich protein precursor by proprotein convertases. Europ.
+J. Biochem. 268: 3423-3431, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/31/2007
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED alopez: 11/19/2008
+mgross: 10/31/2007
+terry: 7/24/1998
+terry: 11/10/1997
+mark: 1/25/1996
+terry: 1/22/1996
+supermim: 3/16/1992
+carol: 7/6/1990
+carol: 6/25/1990
+carol: 6/4/1990
+supermim: 3/28/1990
+supermim: 3/20/1990
+
+139240	TITLE *139240 GROWTH HORMONE 2; GH2
+;;GROWTH HORMONE, VARIANT; GHV;;
+GROWTH HORMONE, PLACENTAL; GH2;;
+GROWTH HORMONE-LIKE; GHL
+DESCRIPTION 
+CLONING
+
+Lewis et al. (1978) described a structural variant of human growth
+hormone (GH1; 139250), which they called growth hormone-2, or GH2. Its
+molecular mass was estimated to be about 20 kD, whereas GH1 has a
+molecular mass of about 22 kD. The variant had several amino acid
+differences and reacted poorly with antibody to human growth hormone.
+Seeburg (1982) studied the structure of the GH2 gene, which they
+referred to as the GHV gene, and Pavlakis et al. (1981) studied the
+protein resulting from its in vitro expression. Frankenne et al. (1987)
+showed that a placental variant of growth hormone, which appears in
+maternal serum in midpregnancy and rises in concentration thereafter to
+term, is the product of the GHV gene. The GHV gene is not expressed in
+the pituitary. Liebhaber et al. (1989) showed that the GHV gene is
+expressed in the term placenta, specifically in the
+syncytiotrophoblastic epithelium. The similarity in developmental and
+tissue-specific expression to that of the related CSA (150200) and CSB
+(118820) genes suggested that these genes may share common regulatory
+elements.
+
+GENE STRUCTURE
+
+The GH2 gene differs from the GH1 gene by the presence of a GT-to-AT
+transition at the 5-prime donor splice site of intron 2 (Chen et al.,
+1989). A cryptic site develops at nucleotide +19.
+
+Boguszewski et al. (1998) noted that the GHN (GH1) and GHV (GH2) genes
+consist of 5 exons. They examined alternative splicing of GHV
+transcripts. The coding region of the GHV gene was amplified by RT-PCR
+using placental cDNA as template. DNA sequencing of several clones
+revealed 2 novel transcripts. One transcript isoform had a 45-bp
+deletion caused by the use of an alternative 3-prime splice site in exon
+3, similar to that in the GH1 gene, and is predicted to encode a 20-kD
+GHV protein isoform. The other transcript isoform arose by the use of an
+alternative 5-prime splice site which caused a 4-bp deletion in the end
+of exon 4 and is predicted to encode a 24-kD protein with 219 amino
+acids, which the authors referred to as GHV3. The carboxy-terminal
+sequence of GHV3 differs from those of 22-kD GHV and GHV2, the 2
+previously reported transcripts of the GHV gene, and does not contain a
+predicted transmembrane domain as described for GHV2. The authors
+concluded that the GHV transcript undergoes alternative splicing
+pathways that can generate at least 4 different mRNA isoforms,
+predicting the expression of different GH protein products, including 2
+with a complete sequence divergence in the carboxy terminus.
+
+GENE FUNCTION
+
+Chellakooty et al. (2004) evaluated the association of maternal serum
+levels of placental GH and IGF1 (147440) with fetal growth in a
+prospective longitudinal study of 89 normal pregnant women. Placental GH
+levels were detectable in all samples from as early as 5 weeks'
+gestation and increased significantly throughout pregnancy until
+approximately 37 weeks' gestation, when peak levels of 22 ng/ml were
+reached. Subsequently, placental GH levels decreased until birth. The
+change in placental GH during 24.5 to 37.5 weeks' gestation was
+positively associated with fetal growth rate (P = 0.027) and birth
+weight (P = 0.027). Gestational age at peak placental GH values (P =
+0.007) was associated with pregnancy length. A positive association
+between the change in placental GH and the change in IGF1 levels
+throughout gestation was found in a multivariate analysis (r(2) = 0.42;
+P less than 0.001).
+
+MAPPING
+
+By combination of restriction mapping with somatic cell hybridization,
+Owerbach et al. (1980) localized the GH2 gene, which they called 'growth
+hormone-like' (GHL), to chromosome 17.
+
+MOLECULAR GENETICS
+
+MacLeod et al. (1991) found abnormally large GHV mRNAs in 1 of 20
+placentas. Sequence analysis demonstrated retention of the first 12
+bases of intron 2, resulting from both a base substitution at the intron
+2 splice-donor dinucleotide (GT to AT) and activation of a cryptic
+splice-donor site 12 bases downstream. Survey of a total of 60
+additional chromosomes failed to reveal other instances of this
+mutation. While the importance of GHV to fetal and maternal physiology
+remained to be defined, MacLeod et al. (1991) demonstrated by bioassays
+that it has a strong somatogen activity. MacLeod et al. (1991) found no
+direct evidence to suggest that the splice site mutation in the
+heterozygous state has a significant adverse effect on the physiology of
+pregnancy, labor, delivery, or fetal development.
+
+REFERENCE 1. Boguszewski, C. L.; Svensson, P.-A.; Jansson, T.; Clark, R.; Carlsson,
+L. M. S.; Carlsson, B.: Cloning of two novel growth hormone transcripts
+expressed in human placenta. J. Clin. Endocr. Metab. 83: 2878-2885,
+1998.
+
+2. Chellakooty, M.; Vangsgaard, K.; Larsen, T.; Scheike, T.; Falck-Larsen,
+J.; Legarth, J.; Andersson, A. M.; Main, K. M.; Skakkebaek, N. E.;
+Juul, A.: A longitudinal study of intrauterine growth and the placental
+growth hormone (GH)-insulin-like growth factor I axis in maternal
+circulation: association between placental GH and fetal growth. J.
+Clin. Endocr. Metab. 89: 384-391, 2004.
+
+3. Chen, E. Y.; Liao, Y.-C.; Smith, D. H.; Barrera-Saldana, H. A.;
+Gelinas, R. E.; Seeburg, P. H.: The human growth hormone locus: nucleotide
+sequence, biology, and evolution. Genomics 4: 479-497, 1989.
+
+4. Frankenne, F.; Rentier-Delrue, F.; Scippo, M.-L.; Martial, J.;
+Hennen, G.: Expression of the growth hormone variant gene in human
+placenta. J. Clin. Endocr. Metab. 64: 635-637, 1987.
+
+5. Lewis, U. J.; Dunn, J. T.; Bonewald, L. F.; Seavey, B. K.; VanderLaan,
+W. P.: A naturally occurring structural variant of human growth hormone. J.
+Biol. Chem. 253: 2679-2687, 1978.
+
+6. Liebhaber, S. A.; Urbanek, M.; Ray, J.; Tuan, R. S.; Cooke, N.
+E.: Characterization and histologic localization of human growth
+hormone-variant gene expression in the placenta. J. Clin. Invest. 83:
+1985-1991, 1989.
+
+7. MacLeod, J. N.; Liebhaber, S. A.; MacGillivray, M. H.; Cooke, N.
+E.: Identification of a splice-site mutation in the human growth
+hormone-variant gene. Am. J. Hum. Genet. 48: 1168-1174, 1991.
+
+8. MacLeod, J. N.; Worsley, I.; Ray, J.; Friesen, H. G.; Liebhaber,
+S. A.; Cooke, N. E.: Human growth hormone variant is a biologically
+active somatogen and lactogen. Endocrinology 128: 1298-1302, 1991.
+
+9. Owerbach, D.; Rutter, W. J.; Martial, J. A.; Baxter, J. D.; Shows,
+T. B.: Genes for growth hormone, chorionic somatomammotropin and
+growth hormone-like genes on chromosome 17 in humans. Science 209:
+289-292, 1980.
+
+10. Pavlakis, G. N.; Hizuka, N.; Gorden, P.; Seeburg, P. H.; Hamber,
+D. H.: Expression of two human growth hormone genes in monkey cells
+infected by simian virus 40 recombinants. Proc. Nat. Acad. Sci. 78:
+7398-7402, 1981.
+
+11. Seeburg, P. H.: The human growth hormone gene family: nucleotide
+sequences show recent divergence and predict a new polypeptide hormone. DNA 1:
+239-249, 1982.
+
+CONTRIBUTORS John A. Phillips, III - updated: 03/25/2009
+John A. Phillips, III - updated: 3/18/1999
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED alopez: 03/25/2009
+carol: 5/27/2005
+mgross: 3/23/1999
+mgross: 3/18/1999
+alopez: 10/28/1997
+carol: 6/2/1992
+supermim: 3/16/1992
+carol: 1/26/1992
+carol: 1/22/1992
+carol: 6/21/1991
+supermim: 3/20/1990
+
+605579	TITLE *605579 INTERFERON-INDUCED TRANSMEMBRANE PROTEIN 3; IFITM3
+DESCRIPTION 
+DESCRIPTION
+
+The 1-8 gene family, which includes IFITM1 (604456), IFITM2 (605578),
+and IFITM3, is highly inducible by both type I (IFNA; (147660)/IFNB;
+(147640)) and type II (IFNG; 147570) interferons (summary by Lewin et
+al., 1991).
+
+CLONING
+
+By screening a lymphoid cell cosmid library with a probe corresponding
+to the 3-prime untranslated region of IFITM1, Lewin et al. (1991)
+isolated a cosmid containing the IFITM1, IFITM2, and IFITM3 genes, which
+they termed 9-27, 1-8D, and 1-8U, respectively, within a single 18-kb
+fragment. The predicted 133-amino acid IFITM3 protein is approximately
+90% identical to IFITM2, has an N-terminal signal sequence, 3 potential
+phosphorylation sites, and a C-terminal leucine zipper. Sequence
+variability is greatest at the C terminus. Immunoblot analysis showed
+that in response to IFNA, all 3 IFITMs were expressed as 14-kD proteins
+that could be further resolved by isoelectric focusing.
+
+Everitt et al. (2012) reported that the IFITM3 gene encodes 2 splice
+variants that differ by the presence or absence of the N-terminal 21
+amino acids.
+
+By whole-mount in situ hybridization, Lange et al. (2003) found that
+expression of mouse fragilis, fragilis-2, and fragilis-3 was restricted
+to the epiblast at embryonic days 5.5 and 6.5. By embryonic day 7.5, all
+3 transcripts showed variable expression in a cluster of founder
+premordial germ cells, and at embryonic days 11.5 and 12.5, all 3
+transcripts were detected in gonadal germ cells. The 3 transcripts
+showed unique patterns of expression in other tissues during mouse
+development.
+
+GENE STRUCTURE
+
+Lewin et al. (1991) determined that the IFITM1, IFITM2, and IFITM3 genes
+each contain 2 exons, with interferon-stimulated response elements
+(ISREs) in the immediately 5-prime flanking sequence of the
+promoter/enhancer region. Unlike IFITM1, which has an ISRE and 2 CCAAT
+boxes but lacks a TATA box, IFITM2 and IFITM3 have 2 ISREs and no TATA
+or CCAAT boxes.
+
+MAPPING
+
+By genomic sequence analysis, Lange et al. (2003) mapped the IFITM3 gene
+to an IFITM gene cluster on chromosome 11p15.5. The order of the genes,
+from telomere to centromere, is IFITM5 (614757), IFITM2, IFITM1, and
+IFITM3, and the cluster spans about 26.5 kb. Lange et al. (2003) stated
+that IFITM2 maps to the plus strand and that all other IFITM genes map
+to the minus strand. However, Gross (2012) determined that, in addition
+to IFITM2, the IFITM1 gene maps to the plus strand based on an alignment
+of the IFITM1 sequence (GenBank GENBANK BC000897) with the genomic
+sequence (GRCh37).
+
+Lange et al. (2003) mapped the mouse Ifitm gene cluster to a region of
+chromosome 7F5 that shares homology of synteny with human chromosome
+11p15.5. The mouse Ifitm gene cluster contains 5 genes, whereas the
+human cluster contains only 4 genes.
+
+GENE FUNCTION
+
+By Northern blot analysis of cells expressing IFITM genes, Lewin et al.
+(1991) showed that IFITM2 was not as responsive to IFNA treatment as
+IFITM3 or IFITM1.
+
+Tanaka et al. (2005) determined that mouse Ifitm1 and Ifitm3 are
+expressed on the cell surface of primordial germ cells in a
+developmentally-regulated manner and that they appear to modulate cell
+adhesion and influence cell differentiation. Ifitm1 activity was
+required for primordial germ cell transit, and Ifitm1 acted as a
+repulsive molecule, repelling non-Ifitm1-expressing primordial germ
+cells from the mesoderm into the endoderm. In contrast, Ifitm3 was
+expressed in migratory primordial germ cells and behaved as a homing
+signal, enabling the cells to respond to environmental cues that guided
+their localization. The guidance activities of Ifitm1 and Ifitm3 were
+mediated by their unique N-terminal domains.
+
+To test the role of IFITM3 in human influenza virus infection, Everitt
+et al. (2012) assessed the IFITM3 alleles of individuals hospitalized
+with seasonal or pandemic influenza H1N1/09 viruses. Everitt et al.
+(2012) found that a statistically significant number of hospitalized
+subjects showed enrichment for a minor IFITM3 allele (SNP dbSNP rs12252)
+that alters a splice acceptor site, and functional assays showed that
+IFITM3 carrying the minor CC genotype had reduced influenza virus
+restriction in vitro (see 605579.0001). Everitt et al. (2012) concluded
+that, taken together, their data revealed that the action of a single
+intrinsic immune effector, IFITM3, profoundly alters the course of
+influenza virus infection in mouse and humans.
+
+MOLECULAR GENETICS
+
+At the time of the report by Everitt et al. (2012), 13 nonsynonymous, 13
+synonymous, 1 in-frame stop, and 1 splice site acceptor-altering SNPs
+had been reported in the IFITM3 sequence.
+
+EVOLUTION
+
+By phylogenetic analysis, Lange et al. (2003) found that only 2 mouse
+fragilis genes, fragilis-4 (Ifitm5) and either fragilis (Ifitm3),
+fragilis-2 (Ifitm1), or fragilis-3 (Ifitm2), have been conserved from
+mouse to human. They suggested that subsequent gene duplications may
+have occurred independently in both species.
+
+ANIMAL MODEL
+
+Everitt et al. (2012) used a knockout mouse model developed by Lange et
+al. (2008) to test whether the IFITM proteins are critical for intrinsic
+resistance to influenza virus. Everitt et al. (2012) observed that mice
+lacking Ifitm3 displayed fulminant viral pneumonia when challenged with
+a normally low-pathogenicity influenza virus, mirroring the destruction
+inflicted by the highly pathogenic 1918 'Spanish' influenza. Similar
+increased viral replication was seen in vitro, with protection rescued
+by the reintroduction of Ifitm3.
+
+ALLELIC VARIANT .0001
+INFLUENZA, SEVERE, SUSCEPTIBILITY TO
+IFITM3, 42T-C
+
+In 53 individuals with severe influenza infection (614680) who required
+hospitalization as a result of pandemic HIN1/09 or seasonal influenza
+virus infection in 2009-2010, Everitt et al. (2012) found enrichment of
+a SNP in the IFITM3 gene, the C allele of SNP dbSNP rs12252. Presence of
+the C allele results in a synonymous change but alters the first splice
+acceptor site and may be associated with an IFITM3 splice variant that
+encodes an IFITM3 protein lacking the first 21 amino acids due to the
+use of an alternative start codon. When lymphoblastoid cell lines from
+CC homozygotes were challenged with influenza A virus, they were far
+more susceptible to infection than those of TT homozygotes, and this
+vulnerability correlated with lower levels of IFITM3 protein expression
+compared to the majority TT variant cells. Everitt et al. (2012) also
+found that cells expressing the 21-amino acid deletion protein failed to
+restrict viral replication when compared to wildtype IFITM3, consistent
+with data showing that the amino-terminal 21 amino acids of IFITM3 are
+required for attenuation of vesicular stomatitis virus replication in
+vitro (Weidner et al., 2010).
+
+ADDITIONAL REFERENCES Gross  (2012)
+REFERENCE 1. Everitt, A. R.; Clare, S.; Pertel, T.; John, S. P.; Wash, R. S.;
+Smith, S. E.; Chin, C. R.; Feeley, E. M.; Sims, J. S.; Adams, D. J.;
+Wise, H. M.; Kane, L.; and 19 others: IFITM3 restricts the morbidity
+and mortality associated with influenza. Nature 484: 519-523, 2012.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  8/9/2012.
+
+3. Gross, M. B.: Personal Communication. Baltimore, Md.  5/9/2012.
+
+4. Lange, U. C.; Adams, D. J.; Lee, C.; Barton, S.; Schneider, R.;
+Bradley, A.; Surani, M. A.: Normal germ line establishment in mice
+carrying a deletion of the Ifitm/Fragilis gene family cluster. Molec.
+Cell. Biol. 28: 4688-4696, 2008.
+
+5. Lange, U. C.; Saitou, M.; Western, P. S.; Barton, S. C.; Surani,
+M. A.: The fragilis interferon-inducible gene family of transmembrane
+proteins is associated with germ cell specification in mice. BMC
+Dev. Biol. 3: 1, 2003. Note: Electronic Article.
+
+6. Lewin, A. R.; Reid, L. E.; McMahon, M.; Stark, G. R.; Kerr, I.
+M.: Molecular analysis of a human interferon-inducible gene family. Europ.
+J. Biochem. 199: 417-423, 1991.
+
+7. Tanaka, S. S.; Yamaguchi, Y. L.; Tsoi, B.; Lickert, H.; Tam, P.
+P. L.: IFITM/Mil/Fragilis family proteins IFITM1 and IFITM3 play
+distinct roles in mouse primordial germ cell homing and repulsion. Dev.
+Cell 9: 745-756, 2005.
+
+8. Weidner, J. M.; Jiang, D.; Pan, X.-B.; Chang, J.; Block, T. M.;
+Guo, J.-T.: Interferon-induced cell membrane proteins, IFITM3 and
+tetherin, inhibit vesicular stomatitis virus infection via distinct
+mechanisms. J. Virol. 84: 12646-12657, 2010.
+
+CONTRIBUTORS Matthew B. Gross - updated: 8/10/2012
+Patricia A. Hartz - updated: 8/9/2012
+Matthew B. Gross - updated: 5/9/2012
+Ada Hamosh - updated: 5/4/2012
+Patricia A. Hartz - updated: 1/17/2006
+
+CREATED Paul J. Converse: 1/24/2001
+
+EDITED mgross: 08/10/2012
+mgross: 8/10/2012
+terry: 8/9/2012
+alopez: 6/11/2012
+joanna: 5/30/2012
+terry: 5/16/2012
+mgross: 5/9/2012
+alopez: 5/7/2012
+terry: 5/4/2012
+alopez: 2/16/2006
+terry: 1/17/2006
+cwells: 7/25/2002
+terry: 7/24/2002
+mgross: 1/25/2001
+mgross: 1/24/2001
+
+600618	TITLE *600618 ETS VARIANT GENE 6; ETV6
+;;TRANSLOCATION, ETS, LEUKEMIA; TEL;;
+TEL1 ONCOGENE
+ETV6/PDGFRB FUSION GENE, INCLUDED;;
+ETV6/MN1 FUSION GENE, INCLUDED;;
+ETV6/AML1 FUSION GENE, INCLUDED;;
+ETV6/ARNT FUSION GENE, INCLUDED;;
+ETV6/MDS2 FUSION GENE, INCLUDED;;
+ETV6/ABL2 FUSION GENE, INCLUDED;;
+ETV6/PER1 FUSION GENE, INCLUDED;;
+ETV6/NTRK3 FUSION GENE, INCLUDED;;
+ETV6/ACS2 FUSION GENE, INCLUDED;;
+ETV6/BTL FUSION GENE, INCLUDED;;
+ETV6/JAK2 FUSION GENE, INCLUDED;;
+ETV6/RUNX1 FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+The ETV6 gene encodes an Ets family transcription factor and is
+frequently rearranged or fused with other genes in human leukemias of
+myeloid or lymphoid origins (Wang et al., 1997).
+
+CLONING
+
+Golub et al. (1994) identified the ETV6 gene as part of a fusion
+transcript resulting from a somatic t(5;12)(q33;p13) translocation in
+chronic myelomonocytic leukemia (see 607785) cancer cells. The
+translocation was found to consist of a novel gene on chromosome 12p13
+and the PDGFRB (173410) gene on 5q33. Golub et al. (1994) isolated
+clones corresponding to the coding sequence from a chromosome 12 cDNA
+library. Portions of the gene showed homology to the ETS family of
+transcription factors, and it was designated 'TEL' for translocation,
+ETS, leukemia. Northern blot analysis detected 3 transcripts of 6.5 kb,
+4.5 kb, and 2.4 kb in all tissues examined.
+
+Baens et al. (1996) developed contigs containing the complete coding
+sequence and the 5-prime and 3-prime UTRs of the ETV6 gene. The
+helix-loop-helix (HLH) motif is coded by exons 3 and 4, whereas exons 6
+to 8 encode for the ETS DNA-binding domain. The ETV6 gene is flanked at
+its 5-prime and 3-prime ends by markers D12S1697 and D12S98,
+respectively.
+
+GENE STRUCTURE
+
+Baens et al. (1996) determined that the ETV6 gene contains 8 exons
+spanning 240 kb. They identified an alternative exon 1B located within
+intron 2.
+
+MAPPING
+
+Stegmaier et al. (1995) mapped the ETV6 gene to chromosome 12p13.
+
+GENE FUNCTION
+
+Stegmaier et al. (1995) presented evidence that the TEL gene may act as
+a tumor suppressor gene. They noted noted that 5% of children with acute
+lymphocytic leukemia (ALL) have 12p13-p12 deletions. Using markers
+flanking the TEL gene, Stegmaier et al. (1995) found that 15% of 81
+informative children with ALL had TEL loss of heterozygosity that was
+not evident on cytogenetic analysis. Detailed examination showed that
+the critically deleted region included 2 candidate suppressor genes: TEL
+and KIP (600778), the gene encoding the cyclin-dependent kinase
+inhibitor p27.
+
+- ETV6/PDGFRB Fusion Gene
+
+In bone marrow cells from a 17-year-old male with chronic myelomonocytic
+leukemia, Golub et al. (1994) identified a somatic t(5;12)(q33;p13)
+translocation consisting of the 154 N terminal residues of ETV6 linked
+to the transmembrane and tyrosine kinase domains of the PDGFRB on
+chromosome 5q33. The entire ligand-binding domain of PDGFRB and the
+putative DNA-binding domain of ETV6 were both excluded from the fusion
+transcript. This same rearrangement was detected in 3 additional
+patients with chronic myelomonocytic leukemia. The index patient
+subsequently developed acute myelogenous leukemia (AML; 601626)
+associated with other genetic alterations, suggesting that the
+t(5;12)(q33;p13) translocation was an early step in a multistep
+progression to full AML.
+
+Apperley et al. (2002) reported successful response to therapy with the
+tyrosine kinase inhibitor imatinib mesylate in 3 patients with chronic
+myeloproliferative disorder (131440) and a t(5;12) translocation. The
+patients' leukemic cells carried the ETV6/PDGFRB fusion gene.
+
+Pierce et al. (2008) showed that expression of TEL/PDGFRB in murine
+myeloid FDCP-Mix cells prevented cell differentiation, increased cell
+survival, increased the level of phosphatidylinositol
+3,4,5-trisphosphate (PtdInsP3), and increased the expression and
+phosphorylation of Thoc5 (612733). Elevated Thoc5 expression also led to
+increased cell survival and PtdInsP3 levels, suggesting that the effects
+associated with TEL/PDGFRB expression were due, at least in part, to
+Thoc5 upregulation.
+
+- ETV6/AML1 Fusion Gene
+
+Golub et al. (1995) documented fusion of TEL to the AML1 gene (151385)
+on chromosome 21 in 2 pediatric patients with acute lymphocytic leukemia
+with t(12;21) translocations. The findings implicated TEL in the
+pathogenesis of leukemia through its fusion to either a receptor
+tyrosine kinase, such as PDGFRB, or a transcription factor, such as
+AML1.
+
+Using RT-PCR, Romana et al. (1995) identified the TEL/AML1 fusion gene
+in 8 (16%) of 46 childhood B-cell lymphoblastic leukemia cells, only 1
+of which showed a 12p abnormality by classic cytogenetic techniques. The
+authors concluded that t(12;21) is the most frequent translocation in
+childhood B-lineage ALL.
+
+Ford et al. (1998) reported the extraordinary case of monozygotic twins
+in whom common acute lymphoblastic leukemia was diagnosed at ages 3.5
+years and 4 years. The twins' leukemic DNA shared the same unique (or
+clonotypic) but nonconstitutive TEL/AML1 fusion sequence. The most
+plausible explanation for this finding was thought to be a single cell
+origin of the TEL/AML fusion in 1 fetus in utero, probably as a
+leukemia-initiating mutation, followed by intraplacental metastasis of
+clonal progeny to the other twin. Clonal identity was further supported
+by the finding that the leukemic cells in the twins shared an identical
+rearranged IGH allele. These data had implications for the etiology and
+natural history of childhood leukemia.
+
+- ETV6/MN1 Fusion Gene
+
+Buijs et al. (1995) showed that the MN1 gene (156100) on 22q11 is fused
+to the TEL gene in the t(12;22)(p13;q11) translocation that is observed
+in different myeloid malignancies.
+
+- ETV6/JAK2 Fusion Gene
+
+Peeters et al. (1997) identified a t(9;12)(p24;p13) translocation in a
+patient with early pre-B acute lymphoid leukemia and a
+t(9;15;12)(p24;q15;p13) translocation in a patient with atypical chronic
+myelogenous leukemia (CML; 608232) in transformation. Both changes
+involved the ETV6 gene at 12p13 and the JAK2 gene (147796) at 9p24. In
+each case different fusion mRNAs were found, with only 1 resulting in a
+chimeric protein consisting of the oligomerization domain of ETV6 and
+the protein tyrosine kinase domain of JAK2.
+
+Lacronique et al. (1997) observed a t(9;12)(p24;p13) translocation in
+leukemic cells from a 4-year-old boy with T-cell ALL. The 3-prime
+portion of the JAK2 gene was fused to the 5-prime portion of the ETV6
+gene, resulting in a protein containing the catalytic domain of JAK2 and
+the oligomerization domain of ETV6. The resultant protein had
+constitutive tyrosine kinase activity and conferred cytokine-independent
+proliferation to a murine cell line.
+
+- ETV6/NTRK3 Fusion Gene
+
+Knezevich et al. (1998) detected a recurrent t(12;15)(p13;q25)
+translocation consisting of fusion of the ETV6 gene with the NTRK3 gene
+(191316) on 15q25 in 3 congenital fibrosarcomas analyzed. Congenital (or
+infantile) fibrosarcoma (CFS) is a malignant tumor of fibroblasts that
+occurs in patients aged 2 or younger. CFS is unique among human sarcomas
+in that it has an excellent prognosis and very low metastatic rate. CFS
+is histologically identical to adult-type fibrosarcoma (ATFS); however,
+ATFS is an aggressive malignancy of adults and older children that has a
+poor prognosis. The same translocation was not identified in ATFS or
+infantile fibromatosis (228550), a histologically similar but benign
+fibroblastic proliferation occurring in the same age group as CFS.
+ETV6/NTRK3 fusion transcripts encoded the HLH protein dimerization
+domain of ETV6 fused to the protein tyrosine kinase (PTK) domain of
+NTRK3. Presumably, the chimeric protein tyrosine kinase contributed to
+oncogenesis by dysregulation of NTRK3 signal transduction pathways.
+
+- ETV6/ACS2 Fusion Gene
+
+Yagasaki et al. (1999) identified a recurrent t(5;12)(q31;p13)
+translocation, resulting in an ETV6/ACS2 (604443) fusion gene in a
+patient with refractory anemia with excess blasts with basophilia, a
+patient with AML with eosinophilia, and a patient with acute
+eosinophilic leukemia (AEL). The ETV6/ACS2 fusion transcripts showed an
+out-frame fusion of exon 1 of ETV6 to exon 1 of ACS2 in the patient with
+AEL, an out-frame fusion of exon 1 of ETV6 to exon 11 of ACS2 in the
+patient with AML, and a short in-frame fusion of exon 1 of ETV6 to the
+3-prime untranslated region of ACS2 in the patient with refractory
+anemia. Reciprocal ACS2/ETV6 transcripts were identified in 2 of the
+cases. FISH with ETV6 cosmids on 12p13, and BACs and PIs on 5q31,
+demonstrated that the 5q31 breakpoints of the AML and AEL cases involved
+the 5-prime portion of the ACS2 gene, and that the 5q31 breakpoint of
+the refractory anemia case involved the 3-prime portion of the ACS2
+gene. None of the resulting chimeric transcripts except for the
+ACS2/ETV6 transcript in the refractory anemia case led to a fusion
+protein.
+
+- ETV6/ABL2 Fusion Gene
+
+Cazzaniga et al. (1999) identified a t(1;12)(q25;p13) translocation
+involving the ETV6 gene and the ABL2 (164690) gene in a patient with
+acute myeloid leukemia M4 with eosinophilia. The novel transcript
+resulted in a chimeric protein consisting of the helix-loop-helix
+oligomerization domain of ETV6 and the SH2, SH3, and protein tyrosine
+kinase domains of ABL2. The reciprocal transcript ABL2/ETV6 was also
+detected in the patient's RNA by RT-PCR, although at a lower expression
+level.
+
+- ETV6/BTL Fusion Gene
+
+Cools et al. (1999) reported 4 cases of acute myeloid leukemia with very
+immature myeloblasts and a t(4;12)(q11-q12;p13) translocation in which
+ETV6 was linked with the BTL gene (604332). RT-PCR experiments indicated
+that expression of the BTL/ETV6 transcript, but not of the reciprocal
+ETV6/BTL transcript, was a common finding in these leukemias. In
+contrast to most of the other ETV6 fusions, both the complete
+helix-loop-helix and ETS DNA-binding domains of ETV6 were present in the
+predicted BTL/ETV6 fusion protein, and a chimeric gene was transcribed
+from the BTL promoter.
+
+- ETV6/ARNT Fusion Gene
+
+Salomon-Nguyen et al. (2000) determined that a t(1;12)(q21;p13)
+translocation observed in a case of acute myeloblastic leukemia (AML-M2)
+resulted in a fusion protein containing the amino-terminal of TEL and
+essentially all of the ARNT gene (126110). The involvement of ARNT in
+human leukemogenesis had not previously been described.
+
+- ETV6/MDS2 Fusion Gene
+
+Odero et al. (2002) identified a t(1;12)(p36.1;p13) translocation in an
+MDS patient that resulted in the fusion of exons 1 and 2 of ETV6 to
+exons 6 and 7 of MDS2 (607305). The predicted protein is out of frame
+and contains the first 54 amino acids of ETV6 followed by 4 novel amino
+acids from the MDS2 sequence. The truncated ETV6 protein lacks critical
+functional domains.
+
+- ETV6/PER1 Fusion Gene
+
+Penas et al. (2003) cloned a novel cryptic translocation,
+t(12;17)(p13;p12-p13), occurring in a patient with acute myeloid
+leukemia evolving from a chronic myelomonocytic leukemia. They
+identified a fusion transcript between exon 1 of the ETV6 gene and the
+antisense strand of PER1 (602260). The ETV6/PER1 fusion transcript did
+not produce a fusion protein, and no other fusion transcripts could be
+detected. Penas et al. (2003) hypothesized that in the absence of a
+fusion protein, the inactivation of PER1 or deregulation of a gene in
+the neighborhood of PER1 may contribute to the pathogenesis of leukemia
+with this translocation.
+
+- ETV6/RUNX1 Fusion Gene
+
+Anderson et al. (2011) examined the genetic architecture of cancer at
+the subclonal and single-cell level and in cells responsible for cancer
+clone maintenance and propagation in childhood acute lymphoblastic
+leukemia (see 613065) in which the ETV6/RUNX1 (151385) gene fusion is an
+early or initiating genetic lesion followed by a modest number of
+recurrent or driver copy number alterations. By multiplexing
+fluorescence in situ hybridization probes for these mutations, up to 8
+genetic abnormalities could be detected in single cells, a genetic
+signature of subclones identified, and a composite picture of subclonal
+architecture and putative ancestral trees assembled. Anderson et al.
+(2011) observed that subclones in acute lymphoblastic leukemia have
+variegated genetics and complex nonlinear or branching evolutionary
+histories. Copy number alterations are independently and reiteratively
+acquired in subclones of individual patients, and in no preferential
+order. Clonal architecture is dynamic and is subject to change in the
+lead-up to a diagnosis and in relapse. Leukemia-propagating cells,
+assayed by serial transplantation in nonobese diabetic/severe combined
+immunodeficiency (NOD/SCID) IL2R-gamma (308380)-null mice, are also
+genetically variegated, mirroring subclonal patterns, and vary in
+competitive regenerative capacity in vivo.
+
+CYTOGENETICS
+
+Cytogenetic abnormalities involving the short arm of chromosome 12 have
+been documented in a wide variety of hematopoietic malignancies,
+including acute lymphoblastic leukemia (ALL), acute myeloblastic
+leukemia, and myelodysplastic syndromes. Among 20 patients with 12q
+deletions or translocations, Kobayashi et al. (1994) showed that most
+changes were clustered within a 1.39-Mb region, suggesting that a single
+gene on 12p13 was affected in these leukemias.
+
+Raynaud et al. (1996) reported 5 patients with an identical reciprocal
+translocation between 3q26 and 12p13. This nonrandom cytogenetic change
+was observed in 4 patients with myelodysplastic syndrome rapidly
+progressing to acute myeloid leukemia and was found at blast crisis of 1
+patient with Philadelphia chromosome-positive CML. The abnormality was
+associated with a very poor prognosis. Fluorescence in situ
+hybridization with 3q26 and 12p13 probes was performed on metaphases
+from these 5 patients. The results were consistent with scattering of
+the breakpoints previously described in 3q26 rearrangements. Breakpoints
+at 12p13 involved the ETV6 gene in 3 myelodysplastic syndrome cases.
+
+Berger et al. (1997) described 3 novel translocations involving the
+TEL/ETV6 gene on chromosome 12: t(X;12)(q28;p13), t(1;12)(q21;p13), and
+t(9;12)(p23-24;p13).
+
+Cave et al. (1997) demonstrated that ETV6 is a target of chromosome 12p
+deletions in t(12;21) childhood acute lymphocytic leukemia.
+
+Odero et al. (2001) stated that 35 different chromosome bands had been
+involved in ETV6 translocations, of which 13 had been cloned. Adding
+further data, they concluded that ETV6 is involved in 41 translocations.
+
+MOLECULAR GENETICS
+
+Barjesteh van Waalwijk van Doorn-Khosrovani et al. (2005) analyzed 300
+patients newly diagnosed with acute myeloid leukemia (AML; 601626) for
+mutations in the coding region of the ETV6 gene and identified 5 somatic
+heterozygous mutations affecting either the homodimerization or the
+DNA-binding domain (e.g., 600618.0001 and 600618.0002). These ETV6
+mutant proteins were unable to repress transcription and showed
+dominant-negative effects. The authors also examined ETV6 protein
+expression in 77 patients with AML and found that 24 (31%) lacked the
+wildtype 57- and 50-kD proteins; there was no correlation between ETV6
+mRNA transcript levels and the loss of ETV6 protein, suggesting
+posttranscriptional regulation of ETV6.
+
+HISTORY
+
+- ETV6/ABL1 Fusion Gene
+
+Papadopoulos et al. (1995) identified a case of ALL with a previously
+undescribed fusion between the TEL gene and the ABL gene (189980) on
+chromosome 9q. The fusion protein showed elevated tyrosine kinase
+activity. However, Janssen et al. (1995) did not identify any TEL/ABL
+fusion products using RT-PCR to screen 186 adult ALL and 30 childhood
+ALL patients. Nilsson et al. (1998) also found no instance of ETV6/ABL
+fusion. in a study of a group of 67 cases of chronic myeloid disorders.
+
+ANIMAL MODEL
+
+By gene targeting in mice, Wang et al. (1997) showed that TEL function
+is required for viability of the developing mouse. The TEL -/- mice
+suffered a yolk sac angiogenic defect; TEL also appeared essential for
+the survival of selected neural and mesenchymal populations within the
+embryo proper. Wang et al. (1998) generated mouse chimeras with TEL -/-
+embryonic stem cells to examine a possible requirement in adult
+hematopoiesis. They found that although TEL function is not required for
+the intrinsic proliferation and/or differentiation of adult-type
+hematopoietic lineages in the yolk sac and fetal liver, it is essential
+for the establishment of hematopoiesis of all lineages in the bone
+marrow. These findings established TEL as the first transcription factor
+required specifically for hematopoiesis within the bone marrow, as
+opposed to other sites of hematopoietic activity during development.
+
+STAT5 (see STAT5A, 601511; STAT5B, 604260) is activated in a broad
+spectrum of human hematologic malignancies. Using a genetic approach,
+Schwaller et al. (2000) addressed whether activation of STAT5 is
+necessary for the myelo- and lymphoproliferative disease induced by the
+TEL/JAK2 (147796) fusion gene. Whereas mice transplanted with bone
+marrow transduced with retrovirus expressing TEL/JAK2 developed a
+rapidly fatal myelo- and lymphoproliferative syndrome, reconstitution
+with bone marrow derived from Stat5a/b-deficient mice expressing
+TEL/JAK2 did not induce disease. Disease induction in the
+Stat5a/b-deficient background was rescued with a bicistronic retrovirus
+encoding TEL/JAK2 and Stat5a. Furthermore, myeloproliferative disease
+was induced by reconstitution with bone marrow cells expressing a
+constitutively active mutant, Stat5a, or a single Stat5a target, murine
+oncostatin M (OSM; 165095). These data defined a critical role for
+STAT5A/B and OSM in the pathogenesis of TEL/JAK2 disease.
+
+Montpetit and Sinnett (2001) reported a comparative analysis of the ETV6
+gene in vertebrate genomes. They cloned the homolog of ETV6 from the
+compact genome of the pufferfish Fugu rubripes. In that organism the
+gene, composed of 8 exons, spans about 15 kb and is 16 times smaller
+than its human counterpart, mainly because of reduced intron size. Three
+of the 7 introns were unusually large (more than 2 kb). As expected, the
+PNT and ETS domains were highly conserved from Fugu to human. There were
+also conserved putative regulatory elements in the promoter as well as
+in the large intron 2 of Fugu ETV6.
+
+Creation of the TEL/AML1 fusion disrupts 1 copy of the TEL gene and 1
+copy of the AML1 gene; loss of 1 or the other is associated with cases
+of acute leukemia without the presence of the TEL/AML1 fusion gene. To
+determine if TEL/AML1 can contribute to leukemogenesis, Bernardin et al.
+(2002) transduced marrow from C57BL/6 mice with a retroviral vector
+expressing TEL/AML1 or with a control vector. Two of the 9 TEL/AML1 mice
+developed ALL, whereas none of the 20 control mice developed leukemia.
+Bernardin et al. (2002) also used the TEL/AML1 vector to transduce
+marrow from C57BL/6 mice lacking the overlapping p16(INK4a)p19(ARF)
+genes (600160) and transplanted the cells into wildtype recipients. No
+control mice died, but 6 of 8 TEL/AML1/p16p19 mice died with leukemia.
+These findings indicated that TEL/AML1 contributes to leukemogenesis and
+may cooperate with loss of p16p19 to transform lymphoid progenitors.
+
+Tsuzuki et al. (2004) analyzed hemopoiesis in mice syngeneically
+transplanted with TEL/AML1-transduced bone marrow stem cells. TEL/AML1
+expression was associated with an accumulation/expansion of primitive
+Kit (164920)-positive multipotent progenitors and a modest increase in
+myeloid colony-forming cells. TEL/AML1 expression was, however,
+permissive for myeloid differentiation. Analysis of B lymphopoiesis
+revealed an increase in early pro-B cells but a differentiation deficit
+beyond that stage, which resulted in lower B-cell production in the
+marrow. TEL/AML1-positive B-cell progenitors exhibited reduced
+expression of genes crucial for the pro-B to pre-B cell transition.
+
+ALLELIC VARIANT .0001
+LEUKEMIA, ACUTE MYELOID, SOMATIC
+ETV6, GLU76TER
+
+In leukemic blast cells of a patient with acute myeloid leukemia
+(601626), Barjesteh van Waalwijk van Doorn-Khosrovani et al. (2005)
+identified a somatic heterozygous 500G-T transversion in the ETV6 gene,
+resulting in a glu76-to-ter (E76X) substitution in the N-terminal
+pointed (PNT) homodimerization domain. The mutant protein was unable to
+repress transcription and showed dominant-negative effects. The mutation
+was not found in nonhematopoietic tissue from this patient.
+
+.0002
+LEUKEMIA, ACUTE MYELOID, SOMATIC
+ETV6, 3-BP INS, 1307GGG
+
+In leukemic blast cells of a patient with acute myeloid leukemia
+(601626), Barjesteh van Waalwijk van Doorn-Khosrovani et al. (2005)
+identified a somatic heterozygous 3-bp insertion (1307insGGG) in the
+ETV6 gene, resulting in the insertion of a glycine between codons 344
+and 345 in the DNA binding domain. The mutant protein was unable to
+repress transcription and showed dominant-negative effects.
+
+REFERENCE 1. Anderson, K.; Lutz, C.; van Delft, F. W.; Bateman, C. M.; Guo,
+Y.; Colman, S. M.; Kempski, H.; Moorman, A. V.; Titley, I.; Swansbury,
+J.; Kearney, L.; Enver, T.; Greaves, M.: Genetic variegation of clonal
+architecture and propagating cells in leukaemia. Nature 469: 356-361,
+2011.
+
+2. Apperley, J. F.; Gardembas, M.; Melo, J. V.; Russell-Jones, R.;
+Bain, B. J.; Baxter, E. J.; Chase, A.; Chessells, J. M.; Colombat,
+M.; Dearden, C. E.; Dimitrijevic, S.; Mahon, F.-X.; Marin, D.; Nikolova,
+Z.; Olavarria, E.; Silberman, S.; Schultheis, B.; Cross, N. C. P.;
+Goldman, J. M.: Response to imatinib mesylate in patients with chronic
+myeloproliferative diseases with rearrangements of the platelet-derived
+growth factor receptor beta. New Eng. J. Med. 347: 481-487, 2002.
+
+3. Baens, M.; Peeters, P.; Guo, C.; Aerssens, J.; Marynen, P.: Genomic
+organization of TEL: the human ETS-variant gene 6. Genome Res. 6:
+404-413, 1996.
+
+4. Barjesteh van Waalwijk van Doorn-Khosrovani, S.; Spensberger, D.;
+de Knegt, Y.; Tang, M.; Lowenberg, B.; Delwel, R.: Somatic heterozygous
+mutations in ETV6 (TEL) and frequent absence of ETV6 protein in acute
+myeloid leukemia. Oncogene 24: 4129-4137, 2005.
+
+5. Berger, R.; Le Coniat, M.; Lacronique, V.; Daniel, M.-T.; Lessard,
+M.; Berthou, C.; Marynen, P.; Bernard, O.: Chromosome abnormalities
+of the short arm of chromosome 12 in hematopoietic malignancies: a
+report including three novel translocations involving the TEL/ETV6
+gene. Leukemia 11: 1400-1403, 1997.
+
+6. Bernardin, F.; Yang, Y.; Cleaves, R.; Zahurak, M.; Cheng, L.; Civin,
+C. I.; Friedman, A. D.: TEL-AML1, expressed from t(12;21) in human
+acute lymphocytic leukemia, induces acute leukemia in mice. Cancer
+Res. 62: 3904-3908, 2002.
+
+7. Buijs, A.; Sherr, S.; van Baal, S.; van Bezouw, S.; van der Plas,
+D.; Geurts van Kessel, A.; Riegman, P.; Lekanne Deprez, R.; Zwarthoff,
+E.; Hagemeijer, A.; Grosveld, G.: Translocation (12;22)(p13;q11)
+in myeloproliferative disorders results in fusion of the ETS-like
+TEL gene on 12q13 to the MN1 gene on 22q11. Oncogene 10: 1511-1519,
+1995. Note: Erratum: Oncogene 11: 809 only, 1995.
+
+8. Cave, H.; Cacheux, V.; Raynaud, S.; Brunie, G.; Bakkus, M.; Cochaux,
+P.; Preudhomme, C.; Lai, J. L.; Vilmer, E.; Grandchamp, B.: ETV6
+is the target of chromosome 12p deletions in t(12;21) childhood acute
+lymphocytic leukemia. Leukemia 11: 1459-1464, 1997.
+
+9. Cazzaniga, G.; Tosi, S.; Aloisi, A.; Giudici, G.; Daniotti, M.;
+Pioltelli, P.; Kearney, L.; Biondi, A.: The tyrosine kinase Abl-related
+gene ARG is fused to ETV6 in an AML-M4Eo patient with a t(1;12)(q25;p13):
+molecular cloning of both reciprocal transcripts. Blood 94: 4370-4373,
+1999.
+
+10. Cools, J.; Bilhou-Nabera, C.; Wlodarska, I.; Cabrol, C.; Talmant,
+P.; Bernard, P.; Hagemeijer, A.; Marynen, P.: Fusion of a novel gene,
+BTL, to ETV6 in acute myeloid leukemias with a t(4;12)(q11-q12;p13). Blood 94:
+1820-1824, 1999.
+
+11. Ford, A. M.; Bennett, C. A.; Price, C. M.; Bruin, M. C. A.; Van
+Wering, E. R.; Greaves, M.: Fetal origins of the TEL-AML1 fusion
+gene in identical twins with leukemia. Proc. Nat. Acad. Sci. 95:
+4584-4588, 1998.
+
+12. Golub, T. R.; Barker, G. F.; Bohlander, S. K.; Hiebert, S. W.;
+Ward, D. C.; Bray-Ward, P.; Morgan, E.; Raimondi, S. C.; Rowley, J.
+D.; Gilliland, D. G.: Fusion of the TEL gene on 12p13 to the AML1
+gene on 21q22 in acute lymphoblastic leukemia. Proc. Nat. Acad. Sci. 92:
+4917-4921, 1995.
+
+13. Golub, T. R.; Barker, G. F.; Lovett, M.; Gilliland, D. G.: Fusion
+of PDGF receptor beta to a novel ets-like gene, tel, in chronic myelomonocytic
+leukemia with t(5;12) chromosomal translocation. Cell 77: 307-316,
+1994.
+
+14. Janssen, J. W. G.; Ridge, S. A.; Papadopoulos, P.; Cotter, F.;
+Ludwig, W.-D.; Fonatsch, C.; Rieder, H.; Ostertag, W.; Bartram, C.
+R.; Wiedemann, L. M.: The fusion of TEL and ABL in human acute lymphoblastic
+leukaemia is a rare event. Brit. J. Haemat. 90: 222-224, 1995.
+
+15. Knezevich, S. R.; McFadden, D. E.; Tao, W.; Lim, J. F.; Sorensen,
+P. H. B.: A novel ETV6-NTRK3 gene fusion in congenital fibrosarcoma. Nature
+Genet. 18: 184-187, 1998.
+
+16. Kobayashi, H.; Montgomery, K. T.; Bohlander, S. K.; Adra, C. N.;
+Lim, B. L.; Kucherlapati, R. S.; Donis-Keller, H.; Holt, M. S.; Le
+Beau, M. M.; Rowley, J. D.: Fluorescence in situ hybridization mapping
+of translocations and deletions involving the short arm of human chromosome
+12 in malignant hematologic diseases. Blood 84: 3473-3482, 1994.
+
+17. Lacronique, V.; Boureux, A.; Della Valle, V.; Poirel, H.; Quang,
+C. T.; Mauchauffe, M.; Berthou, C.; Lessard, M.; Berger, R.; Ghysdael,
+J.; Bernard, O. A.: A TEL-JAK2 fusion protein with constitutive kinase
+activity in human leukemia. Science 278: 1309-1312, 1997.
+
+18. Montpetit, A.; Sinnett, D.: Comparative analysis of the ETV6
+gene in vertebrate genomes from pufferfish to human. Oncogene 20:
+3437-3442, 2001.
+
+19. Nilsson, T.; Andreasson, P.; Hoglund, M.; Fioretos, T.; Billstrom,
+R.; Garwicz, S.; Mitelman, F.; Johansson, B.: ETV6/ABL fusion is
+rare in Ph-negative chronic myeloid disorders. Leukemia 12: 1167-1168,
+1998.
+
+20. Odero, M. D.; Carlson, K.; Calasanz, M. J.; Lahortiga, I.; Chinwalla,
+V.; Rowley, J. D.: Identification of new translocations involving
+ETV6 in hematologic malignancies by fluorescence in situ hybridization
+and spectral karyotyping. Genes Chromosomes Cancer 31: 134-142,
+2001.
+
+21. Odero, M. D.; Vizmanos, J. L.; Roman, J. P.; Lahortiga, I.; Panizo,
+C.; Calasanz, M. J.; Zeleznik-Le, N. J.; Rowley, J. D.; Novo, F. J.
+: A novel gene, MDS2, is fused to ETV6/TEL in a t(1;12)(p36.1;p13)
+in a patient with myelodysplastic syndrome. Genes Chromosomes Cancer 35:
+11-19, 2002.
+
+22. Papadopoulos, P.; Ridge, S. A.; Boucher, C. A.; Stocking, C.;
+Wiedemann, L. M.: The novel activation of ABL by fusion to an ets-related
+gene, TEL. Cancer Res. 55: 34-38, 1995.
+
+23. Peeters, P.; Raynaud, S. D.; Cools, J.; Wlodarska, I.; Grosgeorge,
+J.; Philip, P.; Monpoux, F.; Van Rompaey, L.; Baens, M.; Van den Berghe,
+H.; Marynen, P.: Fusion of TEL, the ETS-variant gene 6 (ETV6), to
+the receptor-associated kinase JAK2 as a result of t(9;12) in a lymphoid
+and t(9;15;12) in a myeloid leukemia. Blood 90: 2535-2540, 1997.
+
+24. Penas, E. M. M.; Cools, J.; Algenstaedt, P.; Hinz, K.; Seeger,
+D.; Schafhausen, P.; Schilling, G.; Marynen, P.; Hossfeld, D. K.;
+Dierlamm, J.: A novel cryptic translocation t(12;17)(p13;p12-p13)
+in a secondary acute myeloid leukemia results in a fusion of the ETV6
+gene and the antisense strand of the PER1 gene. Genes Chromosomes
+Cancer 37: 79-83, 2003.
+
+25. Pierce, A.; Carney, L.; Hamza, H. G.; Griffiths, J. R.; Zhang,
+L.; Whetton, B. A.; Gonzalez Sanchez, M. B.; Tamura, T.; Sternberg,
+D.; Whetton, A. D.: THOC5 spliceosome protein: a target for leukaemogenic
+tyrosine kinases that affects inositol lipid turnover. Brit. J. Haemat. 141:
+641-650, 2008.
+
+26. Raynaud, S. D.; Baens, M.; Grosgeorge, J.; Rodgers, K.; Reid,
+C. D. L.; Dainton, M.; Dyer, M.; Fuzibet, J. G.; Gratecos, N.; Taillan,
+B.; Ayraud, N.; Marynen, P.: Fluorescence in situ hybridization analysis
+of t(3;12)(q26;p13): a recurring chromosomal abnormality involving
+the TEL gene (ETV6) in myelodysplastic syndromes. Blood 88: 682-689,
+1996.
+
+27. Romana, S. P.; Poirel, H.; Leconiat, M.; Flexor, M.-A.; Mauchauffe,
+M.; Jonveaux, P.; Macintyre, E. A.; Berger, R.; Bernard, O. A.: High
+frequency of t(12;21) in childhood B-lineage acute lymphoblastic leukemia. Blood 86:
+4263-4269, 1995.
+
+28. Salomon-Nguyen, F.; Della-Valle, V.; Mauchauffe, M.; Busson-Le
+Coniat, M.; Ghysdael, J.; Berger, R.; Bernard, O. A.: The t(1;12)(q21;p13)
+translocation of human acute myeloblastic leukemia results in a TEL-ARNT
+fusion. Proc. Nat. Acad. Sci. 97: 6757-6762, 2000.
+
+29. Schwaller, J.; Parganas, E.; Wang, D.; Cain, D.; Aster, J. C.;
+Williams, I. R.; Lee, C.-K.; Gerthner, R.; Kitamura, T.; Frantsve,
+J.; Anastasiadou, E.; Loh, M. L.; Levy, D. E.; Ihle, J. N.; Gilliland,
+D. G.: Stat5 is essential for the myelo- and lymphoproliferative
+disease induced by TEL/JAK2. Molec. Cell 6: 693-704, 2000.
+
+30. Stegmaier, K.; Pendse, S.; Barker, G. F.; Bray-Ward, P.; Ward,
+D. C.; Montgomery, K. T.; Krauter, K. S.; Reynolds, C.; Sklar, J.;
+Donnelly, M.; Bohlander, S. K.; Rowley, J. D.; Sallan, S. E.; Gilliland,
+D. G.; Golub, T. R.: Frequent loss of heterozygosity at the TEL gene
+locus in acute lymphoblastic leukemia of childhood. Blood 86: 38-44,
+1995.
+
+31. Tsuzuki, S.; Seto, M.; Greaves, M.; Enver, T.: Modeling first-hit
+functions of the t(12;21) TEL-AML1 translocation in mice. Proc. Nat.
+Acad. Sci. 101: 8443-8448, 2004.
+
+32. Wang, L. C.; Kuo, F.; Fujiwara, Y.; Gilliland, D. G.; Golub, T.
+R.; Orkin, S. H.: Yolk sac angiogenic defect and intra-embryonic
+apoptosis in mice lacking the Ets-related factor TEL. EMBO J. 16:
+4374-4383, 1997.
+
+33. Wang, L. C.; Swat, W.; Fujiwara, Y.; Davdison, L.; Visvader, J.;
+Kuo, F.; Alt, F. W.; Gilliland, D. G.; Golub, T. R.; Orkin, S. H.
+: The TEL/ETV6 gene is required specifically for hematopoiesis in
+the bone marrow. Genes Dev. 12: 2392-2401, 1998.
+
+34. Yagasaki, F.; Jinnai, I.; Yoshida, S.; Yokoyama, Y.; Matsuda,
+A.; Kusumoto, S.; Kobayashi, H.; Terasaki, H.; Ohyashiki, K.; Asou,
+N.; Murohashi, I.; Bessho, M.; Hirashima, K.: Fusion of TEL/ETV6
+to a novel ACS2 in myelodysplastic syndrome and acute myelogenous
+leukemia with t(5;12)(q31;p13). Genes Chromosomes Cancer 26: 192-202,
+1999.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/10/2011
+Marla J. F. O'Neill - updated: 6/10/2009
+Patricia A. Hartz - updated: 4/16/2009
+Cassandra L. Kniffin - updated: 12/5/2008
+Marla J. F. O'Neill - updated: 4/12/2006
+Patricia A. Hartz - updated: 7/2/2004
+Victor A. McKusick - updated: 7/18/2003
+Patricia A. Hartz - updated: 10/17/2002
+Victor A. McKusick - updated: 10/14/2002
+Victor A. McKusick - updated: 9/16/2002
+Victor A. McKusick - updated: 8/7/2001
+Victor A. McKusick - updated: 6/21/2001
+Stylianos E. Antonarakis - updated: 10/11/2000
+Victor A. McKusick - updated: 5/5/2000
+Victor A. McKusick - updated: 1/6/2000
+Victor A. McKusick - updated: 11/4/1998
+Victor A. McKusick - updated: 9/2/1998
+Victor A. McKusick - updated: 5/21/1998
+Victor A. McKusick - updated: 1/26/1998
+Victor A. McKusick - updated: 11/5/1997
+
+CREATED Victor A. McKusick: 9/18/1995
+
+EDITED terry: 11/29/2012
+alopez: 6/20/2011
+terry: 6/10/2011
+wwang: 6/12/2009
+terry: 6/10/2009
+mgross: 4/16/2009
+wwang: 12/16/2008
+ckniffin: 12/5/2008
+wwang: 4/12/2006
+terry: 4/12/2006
+wwang: 6/17/2005
+wwang: 6/8/2005
+terry: 6/7/2005
+mgross: 7/14/2004
+terry: 7/2/2004
+mgross: 2/3/2004
+tkritzer: 7/30/2003
+terry: 7/18/2003
+carol: 6/23/2003
+mgross: 5/30/2003
+mgross: 10/17/2002
+tkritzer: 10/14/2002
+carol: 10/3/2002
+ckniffin: 10/3/2002
+tkritzer: 9/25/2002
+tkritzer: 9/16/2002
+mcapotos: 8/10/2001
+mcapotos: 8/9/2001
+terry: 8/7/2001
+terry: 6/21/2001
+carol: 1/26/2001
+terry: 1/25/2001
+mgross: 10/11/2000
+carol: 8/30/2000
+mcapotos: 8/28/2000
+mcapotos: 8/9/2000
+mgross: 5/5/2000
+mcapotos: 4/25/2000
+mgross: 1/19/2000
+terry: 1/6/2000
+carol: 11/12/1998
+terry: 11/4/1998
+alopez: 9/2/1998
+terry: 6/16/1998
+terry: 5/21/1998
+mark: 1/26/1998
+terry: 1/26/1998
+terry: 11/5/1997
+jamie: 5/29/1997
+jenny: 12/23/1996
+terry: 12/17/1996
+mark: 10/3/1996
+terry: 9/9/1996
+mark: 4/1/1996
+mimadm: 11/3/1995
+mark: 9/18/1995
+
+600327	TITLE *600327 SYNAPTOTAGMIN 3; SYT3
+DESCRIPTION 
+CLONING
+
+Synaptotagmin-1 (SYT1; 185605), an integral membrane protein of synaptic
+vesicles, is thought to be involved in calcium-dependent exocytosis of
+synaptic vesicles. Mizuta et al. (1994) cloned a novel isoform of
+synaptotagmin, designated synaptotagmin-3, from a rat brain cDNA library
+and studied its tissue distribution. The protein contains 588 amino
+acids having 40.5, 38.3, and 64.0% identity with rat synaptotagmin-1,
+rat synaptotagmin-2 (SYT2; 600104), and a third synaptotagmin isoform of
+the marine ray, respectively. The region of the 2 internal repeats
+homologous to the regulatory domain of protein kinase C was highly
+conserved among the 3 synaptotagmins. RNA blot studies demonstrated that
+synaptotagmin-3 mRNA is expressed in brain, various endocrine tissues,
+and hormone-secreting clonal cells. It appeared to be involved in
+Ca(2+)-dependent exocytosis of secretory vesicles in endocrine cells, as
+well as in neurons.
+
+GENE FUNCTION
+
+By in vitro characterization of recombinant rat Syt3, Li et al. (1995)
+determined that Syt3 showed Ca(2+)-dependent binding to phospholipids,
+Ca(2+)-dependent binding to syntaxins (see 186590), and
+Ca(2+)-independent binding to adaptor protein-2 (see 601026).
+
+MAPPING
+
+Using an interspecific backcross DNA panel, Jones et al. (1995)
+demonstrated that the mouse Syt3 gene is located on mouse chromosome 7;
+no recombinants were observed between Syt3 and the kallikrein gene
+family (Kal) in 94 meioses. To map human SYT3, they probed a Southern
+blot containing genomic DNAs from a somatic cell mapping panel and found
+segregation with chromosome 19. Thus, SYT3 appears to be located in the
+conserved linkage group on proximal mouse chromosome 7 and human
+chromosome 19q that is known to include at least 28 genes (Holdener et
+al., 1993). Kwon et al. (1995) likewise mapped Syt3 to mouse chromosome
+7.
+
+REFERENCE 1. Holdener, B. C.; Brown, S. D. M.; Angel, J. M.; Nicholls, R. D.;
+Kelsey, G.; Magnuson, T.: Mouse chromosome 7. Mammalian Genome 4
+(suppl.): S110-S120, 1993.
+
+2. Jones, J. M.; Popma, S. J.; Mizuta, M.; Seino, S.; Meisler, M.
+H.: Synaptotagmin genes on mouse chromosomes 1, 7, and 10 and human
+chromosome 19. Mammalian Genome 6: 212-213, 1995.
+
+3. Kwon, O.-J.; Adamson, M. C.; Chin, H.; Kozak, C. A.: Genetic mapping
+of five mouse genes encoding synaptotagmins. Mammalian Genome 6:
+880-881, 1995.
+
+4. Li, C.; Ullrich, B.; Zhang, J. Z.; Anderson, R. G. W.; Brose, N.;
+Sudhof, T. C.: Ca(2+)-dependent and -independent activities of neural
+and non-neural synaptotagmins. Nature 375: 594-599, 1995.
+
+5. Mizuta, M.; Inagaki, N.; Nemoto, Y.; Matsukura, S.; Takahashi,
+M.; Seino, S.: Synaptotagmin III is a novel isoform of rat synaptotagmin
+expressed in endocrine and neuronal cells. J. Biol. Chem. 269: 11675-11678,
+1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 4/23/2003
+
+CREATED Victor A. McKusick: 1/23/1995
+
+EDITED mgross: 04/25/2003
+terry: 4/23/2003
+carol: 5/11/2001
+dkim: 7/16/1998
+terry: 1/17/1997
+mark: 2/9/1996
+terry: 1/31/1996
+mark: 4/9/1995
+carol: 1/23/1995
+
+605864	TITLE *605864 BETA-1,3-N-ACETYLGLUCOSAMINYLTRANSFERASE 4; B3GNT4
+DESCRIPTION 
+CLONING
+
+Beta-1,3-galactosyltransferases (B3GALTs; see 603018) catalyze the
+formation of type I oligosaccharides. By searching EST databases for
+sequences similar to B3GALTs, Shiraishi et al. (2001) isolated cDNAs
+encoding B3GNT4, TMEM3 (605863), which they designated B3GNT3, and
+B3GNT2 (605581). Sequence analysis predicted that B3GNT4 is a 378-amino
+acid type II transmembrane protein that contains an N-terminal
+cytoplasmic domain of either 29 or 4 residues due to the presence of 2
+initiation codons; a 20-residue transmembrane segment; and a 329-residue
+stem region and catalytic domain with 3 potential N-linked glycosylation
+sites. Western blot analysis indicated that FLAG-fused B3GNT4 was
+expressed as an approximately 38- to 40-kD glycoprotein. Functional
+analysis showed that B3GNT4 is a beta-1,3-N
+acetylglucosaminyltransferase with a preferred substrate of
+lacto-N-neotetraose, and that it is involved in the biosynthesis of
+poly-N-acetyllactosamine sugar chains. RT-PCR analysis detected
+expression mainly in brain, including hippocampus, amygdala, cerebellum,
+and caudate nucleus, as well as in colon, esophagus, and kidney;
+expression was not detected in colon cancer, lymphoma, or promyelocytic
+leukemia cell lines.
+
+MAPPING
+
+Using ESTs, Shiraishi et al. (2001) mapped the B3GNT4 gene to chromosome
+12.
+
+REFERENCE 1. Shiraishi, N.; Natsume, A.; Togayachi, A.; Endo, T.; Akashima,
+T.; Yamada, Y.; Imai, N.; Nakagawa, S.; Koizumi, S.; Sekine, S.; Narimatsu,
+H.; Sasaki, K.: Identification and characterization of three novel
+beta-1,3-N-acetylglucosaminyltransferases structurally related to
+the beta-1,3-galactosyltransferase family. J. Biol. Chem. 276: 3498-3507,
+2001.
+
+CREATED Paul J. Converse: 4/20/2001
+
+EDITED alopez: 06/28/2013
+joanna: 5/10/2001
+mgross: 4/20/2001
+
+158120	TITLE *158120 MONOCYTE DIFFERENTIATION ANTIGEN CD14; CD14
+;;MYELOID CELL-SPECIFIC LEUCINE-RICH GLYCOPROTEIN
+DESCRIPTION 
+DESCRIPTION
+
+CD14 is a single-copy gene encoding 2 protein forms: a 50- to 55-kD
+glycosylphosphatidylinositol-anchored membrane protein (mCD14) and a
+monocyte or liver-derived soluble serum protein (sCD14) that lacks the
+anchor. Both molecules are critical for lipopolysaccharide
+(LPS)-dependent signal transduction, and sCD14 confers LPS sensitivity
+to cells lacking mCD14. Increased sCD14 levels are associated with
+inflammatory infectious diseases and high mortality in gram-negative
+shock (LeVan et al., 2001).
+
+CLONING
+
+Differentiation of myelomonocytic cells from pluripotent stem cells to
+mature functioning monocytes/macrophages and granulocytes is accompanied
+by a variety of changes, including the expression of new cell surface
+antigens. One of these antigens, CD14, a 55-kD glycoprotein, is
+preferentially expressed on the surface of mature cells of the monocytic
+lineage. Goyert et al. (1988) isolated a cDNA clone encoding CD14 and
+isolated the CD14 gene.
+
+Ferrero et al. (1990) demonstrated that, as in man, the expression of
+murine CD14 is limited to the myeloid lineage. In both mouse and man,
+the CD14 protein contains leucine-rich motif that is repeated 10 times.
+
+GENE FUNCTION
+
+The expression profile of CD14, as well as its inclusion in the family
+of leucine-rich proteins and the chromosomal location of other receptor
+genes, supports the hypothesis that CD14 functions as a receptor. Its
+receptor function was indeed demonstrated by Wright (1990) who showed
+that it is a receptor for the lipopolysaccharide-binding
+protein:lipopolysaccharide complex (LBP; 151990:LPS); also see Wright et
+al. (1990). Gupta et al. (1996) transfected mouse 70Z/3 cells with human
+CD14 and showed that these cells were responsive to peptidoglycan (PGN),
+a polymer of alternating GlcNAc and MurNAc cross-linked by short
+peptides, that is present in the cell walls of all bacteria, but is
+particularly abundant in gram-positive bacteria. They concluded that
+CD14 serves as a cell-activating receptor not only for LPS but also for
+PGN.
+
+Cells undergoing programmed cell death (apoptosis) are cleared rapidly
+in vivo by phagocytes without inducing inflammation. Devitt et al.
+(1998) showed that the glycoprotein CD14 on the surface of human
+macrophages is important for the recognition and clearance of apoptotic
+cells. CD14 can also act as a receptor that binds bacterial LPS,
+triggering inflammatory responses. Overstimulation of CD14 by LPS can
+cause the often fatal toxic-shock syndrome. Devitt et al. (1998) showed
+that apoptotic cells interact with CD14, triggering phagocytosis of the
+apoptotic cells. This interaction depends on a region of CD14 that is
+identical to, or at least closely associated with, a region known to
+bind LPS. However, apoptotic cells, unlike LPS, do not provoke the
+release of proinflammatory cytokines from macrophages. These results
+indicated that clearance of apoptotic cells is mediated by a receptor
+whose interactions with 'nonself' components (LPS) and 'self' components
+(apoptotic cells) produce distinct macrophage responses.
+
+Savill (1998) summarized understanding of how ced-5 (see DOCK1; 601403)
+and CD14 together with other molecules function in the engulfment of
+cell corpses by macrophages in the process of programmed cell death. The
+model incorporated the newly proposed functions of ced-5 and CD14.
+
+LPS interacts with LBP and CD14 to present LPS to TLR4 (603030), which
+activates inflammatory gene expression through NF-kappa-B (see 164011)
+and MAPK signaling. Bochkov et al. (2002) demonstrated that oxidized
+phospholipids inhibit LPS-induced but not TNF-alpha (191160)-induced or
+interleukin-1-beta (147720)-induced NF-kappa-B-mediated upregulation of
+inflammatory genes, by blocking the interaction of LPS with LBP and
+CD14. Moreover, in LPS-injected mice, oxidized phospholipids inhibited
+inflammation and protected mice from lethal endotoxin shock. Thus, in
+severe gram-negative bacterial infection, endogenously formed oxidized
+phospholipids may function as a negative feedback to blunt innate immune
+responses. Furthermore, Bochkov et al. (2002) identified chemical
+structures capable of inhibiting the effects of endotoxins such as LPS
+that could be used for the development of new drugs for treatment of
+sepsis.
+
+Children of farmers are at decreased risk of developing allergies.
+Results of epidemiologic studies suggested that increased exposure to
+microbial compounds might be responsible for this reduced risk.
+Alterations in adaptive immune response were thought to be the
+underlying mechanism. Lauener et al. (2002) measured the expression of
+receptors for microbial compounds known to trigger the innate immune
+response. They showed that blood cells from farmers' children expressed
+significantly higher amounts of CD14 and Toll-like receptor-2 (TLR2;
+603028) than those from non-farmers' children. They proposed that the
+innate immune system responds to the microbial burden in the environment
+and modulates the development of allergic disease.
+
+Zanoni et al. (2009) found that stimulation of murine bone
+marrow-derived dendritic cells (DCs) with LPS induced Src (190090)
+kinase and Plcg2 (600220) activation, Ca(2+) influx, and calcineurin
+(see 114105)-dependent nuclear Nfat (see 600490) translocation.
+Induction of this pathway was Tlr4 independent and entirely dependent on
+Cd14. Nfat activation was necessary for apoptotic death of terminally
+differentiated DCs, allowing for maintenance of self-tolerance and
+prevention of autoimmunity. Blocking this pathway in vivo resulted in
+prolonged DC survival and an increase in T-cell priming capability.
+Zanoni et al. (2009) concluded that CD14 is involved, through NFAT
+activation, in regulation of the DC life cycle.
+
+By coimmunoprecipitation and confocal microscopic analysis, Baumann et
+al. (2010) showed that CD14 interacted with TLR7 (300365) and TLR9
+(605474) in mouse and human cells and was required for TLR7- and
+TLR9-dependent induction of proinflammatory cytokines. Cd14 was required
+for Tlr9-dependent immune responses in mice and for optimal nucleic acid
+uptake in mouse macrophages. Cd14 was dispensable for viral uptake in
+mice, but it was required for triggering of TLR-dependent cytokine
+responses. Baumann et al. (2010) concluded that CD14 has a dual role in
+nucleic acid-mediated TLR activation by promoting selective uptake of
+nucleic acids and acting as a coreceptor for endosomal TLR activation.
+
+Using flow cytometry and confocal microscopy in mouse cells, Zanoni et
+al. (2011) demonstrated that Cd14 chaperoned LPS to Tlr4, leading to Syk
+(600085)-dependent internalization of Tlr4 and signaling through Trif
+(607601). Zanoni et al. (2011) concluded that pathogen recognition
+receptors induce both membrane transport and signal transduction.
+
+Shirey et al. (2013) reported that CD14 and TLR2 are required for
+protection against influenza-induced lethality in mice mediated by
+Eritoran (also known as E5564), a potent, well-tolerated, synthetic TLR4
+antagonist. Therapeutic administration of Eritoran blocked
+influenza-induced lethality in mice, as well as lung pathology, clinical
+symptoms, cytokine and oxidized phospholipid expression, and decreased
+viral titers. CD14 directly binds Eritoran and inhibits ligand binding
+to MD2 (605243). Shirey et al. (2013) concluded that Eritoran blockade
+of TLR signaling represents a novel therapeutic approach for
+inflammation associated with influenza, and possibly other infections.
+
+MAPPING
+
+Goyert et al. (1988) demonstrated by in situ hybridization and study of
+somatic cell hybrid DNA that the gene is located at bands 5q23-q31.
+Thus, CD14 is located in a region of chromosome 5 that contains a
+cluster of genes that encode several myeloid-specific growth factors
+(IL3; 147740) and granulocyte-macrophage colony-stimulating factor
+(CSF2; 138960) or growth factor receptors (FMS receptor for CFS1;
+164770), as well as other growth factor and receptor genes
+(platelet-derived growth factor receptor, 173410, beta-2-adrenergic
+receptor, 109690, and endothelial cell growth factor, 131220). This is a
+region that is deleted in patients with certain forms of myeloid
+leukemia.
+
+Ferrero et al. (1990) mapped the CD14 gene to mouse chromosome 18.
+
+By fluorescence in situ hybridization studies of deleted chromosome 5
+homologs in a series of 135 patients with malignant myeloid diseases, Le
+Beau et al. (1993) mapped the CD14 gene and neighboring genes to 5q31.
+
+MOLECULAR GENETICS
+
+Baldini et al. (1999) identified a single nucleotide polymorphism (SNP)
+in the proximal CD14 promoter at position -159 from the transcription
+start site, resulting in a C-to-T transition. TT homozygotes had
+significantly higher levels of sCD14 than did either CC or CT genotype
+carriers, and they also had lower levels of IgE. Unkelbach et al.
+(1999), Hubacek et al. (1999), and Shimada et al. (2000) reported an
+increased risk of myocardial infarction in individuals carrying the T
+allele. (Shimada et al. (2000) and Hubacek et al. (1999) reported the
+C/T polymorphism as occurring at position -260 from the translation
+start site.)
+
+Some patients with Kawasaki disease (KD), an acute febrile vasculitis of
+childhood, develop coronary artery lesions after the acute phase.
+Nishimura et al. (2003) found no difference in genomic and allele
+frequencies of the T allele at the CD14/-159 promoter region in 67
+patients with KD compared to controls. However, the KD patients with TT
+genotypes had more coronary artery complications than those with CT or
+CC genotypes, and the frequency of the T allele was significantly higher
+than that of the C allele in KD patients. Nishimura et al. (2003)
+concluded that the T allele and the TT genotype are risk factors for the
+coronary artery complications in patients with KD, implicating a
+possible relationship to the magnitude of the CD14 toll-like receptor
+response.
+
+Using EMSA analysis, LeVan et al. (2001) showed that the T allele at
+position -159 in the proximal CD14 promoter has a decreased affinity for
+DNA/protein interactions at a GC box containing a binding site for SP1
+(189906), SP2 (601801), and SP3 (601804) transcription factors. Reporter
+analysis demonstrated that monocytic cells with low levels of SP3, which
+inhibits activating by SP1 and SP2, have increased transcriptional
+activity of the T allele. In contrast, both the C and T alleles are
+transcribed equivalently in SP3-rich hepatocytes. LeVan et al. (2001)
+proposed that the interplay between CD14 promoter affinity and the
+SP3:SP1-plus-SP2 ratio plays a critical mechanistic role in regulating
+CD14 transcription and in determining the differential activity of the 2
+variants of the CD14 promoter.
+
+In a study of 216 Korean patients with IgA nephropathy (161950) who were
+followed for 86 months, Yoon et al. (2003) found that an excess of the
+-159C genotype occurred in patients with progressive disease (p = 0.03)
+and the risk of disease progression increased as the number of C alleles
+increased (p for trend = 0.002). The hazard ratio for progression in
+patients with the CC genotype was 3.2 (p = 0.025) compared to patients
+with the TT genotype. After lipopolysaccharide stimulation, soluble CD14
+was released more abundantly from the peripheral blood mononuclear cells
+of TT patients than from those of CC patients (p = 0.006), although
+there was no difference in membrane-bound CD14 expression. TT patients
+released less IL6 (147620) than CC patients after stimulation (p =
+0.0003). Yoon et al. (2003) suggested that the CD14 -159 polymorphism is
+an important marker for the progression of IgA nephropathy and may
+modulate the level of the inflammatory response.
+
+ANIMAL MODEL
+
+Haziot et al. (1996) reported that Cd14-deficient mice were resistant to
+LPS-induced shock.
+
+Kurt-Jones et al. (2000) determined that proinflammatory cytokine
+responses to respiratory syncytial virus (RSV) F protein were absent or
+diminished in mice with deletions of either Cd14 or Tlr4 (603030),
+respectively. Importantly, Tlr4 -/- mice had higher levels of infectious
+virus in their lungs and were either unable to clear the virus or
+cleared the virus several days later than wildtype mice. The authors
+concluded that TLR4 and CD14 appear to be important not only in
+recognizing bacterial structures such as lipopolysaccharide, but are
+important in innate immune responses to viruses as well.
+
+ADDITIONAL REFERENCES Setoguchi et al. (1989)
+REFERENCE 1. Baldini, M.; Lohman, I. C.; Halonen, M.; Erickson, R. P.; Holt,
+P. G.; Martinez, F. D.: A polymorphism in the 5-prime flanking region
+of the CD14 gene is associated with circulating soluble CD14 levels
+and with total serum immunoglobulin E. Am. J. Resp. Cell Molec. Biol. 20:
+976-983, 1999.
+
+2. Baumann, C. L.; Aspalter, I. M.; Sharif, O.; Pichlmair, A.; Bluml,
+S.; Grebien, F.; Bruckner, M.; Pasierbek, P.; Aumayr, K.; Planyavsky,
+M.; Bennett, K. L.; Colinge, J.; Knapp, S.; Superti-Furga, G.: CD14
+is a coreceptor of Toll-like receptors 7 and 9. J. Exp. Med. 207:
+2689-2701, 2010.
+
+3. Bochkov, V. N.; Kadl, A.; Huber, J.; Gruber, F.; Binder, B. R.;
+Leitinger, N.: Protective role of phospholipid oxidation products
+in endotoxin-induced tissue damage. Nature 419: 77-81, 2002.
+
+4. Devitt, A.; Moffatt, O. D.; Raykundalia, C.; Capra, J. D.; Simmons,
+D. L.; Gregory, C. D.: Human CD14 mediates recognition and phagocytosis
+of apoptotic cells. Nature 392: 505-509, 1998.
+
+5. Ferrero, E.; Hsieh, C.-L.; Francke, U.; Goyert, S. M.: CD14 is
+a member of the family of leucine-rich proteins and is encoded by
+a gene syntenic with multiple receptor genes. J. Immun. 145: 331-336,
+1990.
+
+6. Goyert, S. M.; Ferrero, E.; Rettig, W. J.; Yenamandra, A. K.; Obata,
+F.; Le Beau, M. M.: The CD14 monocyte differentiation antigen maps
+to a region encoding growth factors and receptors. Science 239:
+497-500, 1988.
+
+7. Gupta, D.; Kirkland, T. N.; Viriyakosol, S.; Dziarski, R.: CD14
+is a cell-activating receptor for bacterial peptidoglycan. J. Biol.
+Chem. 271: 23310-23316, 1996.
+
+8. Haziot, A.; Ferrero, E.; Kontgen, F.; Hijiya, N.; Yamamoto, S.;
+Silver, J.; Stewart, C. L.; Goyert, S. M.: Resistance to endotoxin
+shock and reduced dissemination of gram-negative bacteria in CD14-deficient
+mice. Immunity 4: 407-414, 1996.
+
+9. Hubacek, J. A.; Rothe, G.; Pit'ha, J.; Skodova, Z.; Stanek, V.;
+Poledne, R.; Schmitz, G.: C(-260)-to-T polymorphism in the promoter
+of the CD14 monocyte receptor gene as a risk factor for myocardial
+infarction. Circulation 99: 3218-3220, 1999. Note: Erratum: Circulation
+100: 2550 only, 1999.
+
+10. Kurt-Jones, E. A.; Popova, L.; Kwinn, L.; Haynes, L. M.; Jones,
+L. P.; Tripp, R. A.; Walsh, E. E.; Freeman, M. W.; Golenbock, D. T.;
+Anderson, L. J.; Finberg, R. W.: Pattern recognition receptors TLR4
+and CD14 mediate response to respiratory syncytial virus. Nature
+Immun. 1: 398-401, 2000.
+
+11. Lauener, R. P.; Birchler, T.; Adamski, J.; Braun-Fahrlander, C.;
+Bufe, A.; Herz, U.; von Mutius, E.; Nowak, D.; Riedler, J.; Waser,
+M.; Sennhauser, F. H.; ALEX study group: Expression of CD14 and
+Toll-like receptor 2 in farmers' and non-farmers' children. Lancet 360:
+465-466, 2002.
+
+12. Le Beau, M. M.; Espinosa, R., III; Neuman, W. L.; Stock, W.; Roulston,
+D.; Larson, R. A.; Keinanen, M.; Westbrook, C. A.: Cytogenetic and
+molecular delineation of the smallest commonly deleted region of chromosome
+5 in malignant myeloid diseases. Proc. Nat. Acad. Sci. 90: 5484-5488,
+1993.
+
+13. LeVan, T. D.; Bloom, J. W.; Bailey, T. J.; Karp, C. L.; Halonen,
+M.; Martinez, F. D.; Vercelli, D.: A common single nucleotide polymorphism
+in the CD14 promoter decreases the affinity of Sp protein binding
+and enhances transcriptional activity. J. Immun. 167: 5838-5844,
+2001.
+
+14. Nishimura, S.; Zaitsu, M.; Hara, M.; Yokota, G.; Watanabe, M.;
+Ueda, Y.; Imayoshi, M.; Ishii, E.; Tasaki, H.; Hamasaki, Y.: A polymorphism
+in the promoter of the CD14 gene (CD14/-159) is associated with the
+development of coronary artery lesions in patients with Kawasaki disease. J.
+Pediat. 143: 357-362, 2003.
+
+15. Savill, J.: Phagocytic docking without shocking. Nature 392:
+442-443, 1998.
+
+16. Setoguchi, M.; Nasu, N.; Yoshida, S.; Higuchi, Y.; Akizuki, S.;
+Yamamoto, S.: Mouse and human CD14 (myeloid cell-specific leucine-rich
+glycoprotein) primary structure deduced from cDNA clones. Biochim.
+Biophys. Acta 1008: 213-222, 1989.
+
+17. Shimada, K.; Watanabe, Y.; Mokuno, H.; Iwama, Y.; Daida, H.; Yamaguchi,
+H.: Common polymorphism in the promoter of the CD14 monocyte receptor
+gene is associated with acute myocardial infarction in Japanese men. Am.
+J. Cardiol. 86: 682-684, 2000.
+
+18. Shirey, K. A.; Lai, W.; Scott, A. J.; Lipsky, M.; Mistry, P.;
+Pletneva, L. M.; Karp, C. L.; McAlees, J.; Gioannini, T. L.; Weiss,
+J.; Chen, W. H.; Ernst, R. K.; Rossignol, D. P.; Gusovsky, F.; Blanco,
+J. C. G.; Vogel, S. N.: The TLR4 antagonist Eritoran protects mice
+from lethal influenza infection. Nature 497: 498-502, 2013.
+
+19. Unkelbach, K.; Gardemann, A.; Kostrzewa, M.; Philipp, M.; Tillmanns,
+H.; Haberbosch, W.: A new promoter polymorphism in the gene of lipopolysaccharide
+receptor CD14 is associated with expired myocardial infarction in
+patients with low atherosclerotic risk profile. Arterioscler. Thromb.
+Vasc. Biol. 19: 932-938, 1999.
+
+20. Wright, S. D.: CD14: a leukocyte membrane protein that functions
+in the response to endotoxin. (Abstract) FASEB J. 4: A1848 only,
+1990.
+
+21. Wright, S. D.; Ramos, R. A.; Tobias, P. S.; Ulevitch, R. J.; Mathison,
+J. C.: CD14, a receptor for complexes of lipopolysaccharide (LPS)
+and LPS binding protein. Science 249: 1431-1433, 1990.
+
+22. Yoon, H.-J.; Shin, J. H.; Yang, S. H.; Chae, D.-W.; Kim, H.; Lee,
+D.-S.; Kim, H. L.; Kim, S.; Lee, J. S.: Association of the CD14 gene
+-159C polymorphism with progression of IgA nephropathy. J. Med. Genet. 40:
+104-108, 2003.
+
+23. Zanoni, I.; Ostuni, R.; Capuano, G.; Collini, M.; Caccia, M.;
+Ronchi, A. E.; Rocchetti, M.; Mingozzi, F.; Foti, M.; Chirico, G.;
+Costa, B.; Zaza, A.; Ricciardi-Castagnoli, P.; Granucci, F.: CD14
+regulates the dendritic cell life cycle after LPS exposure through
+NFAT activation. Nature 460: 264-268, 2009.
+
+24. Zanoni, I.; Ostuni, R.; Marek, L. R.; Barresi, S.; Barbalat, R.;
+Barton, G. M.; Granucci, F.; Kagan, J. C.: CD14 controls the LPS-induced
+endocytosis of Toll-like receptor 4. Cell 147: 868-880, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 07/11/2013
+Paul J. Converse - updated: 10/26/2012
+Paul J. Converse - updated: 4/29/2011
+Paul J. Converse - updated: 7/16/2009
+Marla J. F. O'Neill - updated: 12/28/2004
+Natalie E. Krasikov - updated: 3/12/2004
+Victor A. McKusick - updated: 10/15/2002
+Ada Hamosh - updated: 9/11/2002
+Paul J. Converse - updated: 2/15/2002
+Paul J. Converse - updated: 11/21/2000
+Victor A. McKusick - updated: 9/9/1998
+
+CREATED Victor A. McKusick: 7/9/1987
+
+EDITED alopez: 07/11/2013
+mgross: 11/19/2012
+terry: 10/26/2012
+terry: 8/31/2012
+mgross: 5/11/2011
+terry: 4/29/2011
+mgross: 7/16/2009
+terry: 7/16/2009
+alopez: 12/6/2006
+carol: 12/28/2004
+carol: 3/17/2004
+terry: 3/12/2004
+terry: 1/2/2003
+cwells: 10/22/2002
+terry: 10/15/2002
+alopez: 9/12/2002
+cwells: 9/11/2002
+mgross: 2/15/2002
+mgross: 11/21/2000
+alopez: 9/10/1998
+terry: 9/9/1998
+jenny: 3/7/1997
+warfield: 3/3/1994
+carol: 7/1/1993
+supermim: 3/16/1992
+carol: 12/4/1991
+carol: 10/24/1990
+carol: 10/1/1990
+
+182115	TITLE *182115 CYTOHESIN 1; CYTH1
+;;PLECKSTRIN HOMOLOGY, SEC7, AND COILED-COIL DOMAINS PROTEIN 1; PSCD1;;
+SEC7, YEAST, HOMOLOG OF; SEC7;;
+D17S811E
+DESCRIPTION 
+CLONING
+
+One of the major mediators of the inborn or 'natural' immune system is
+the natural killer (NK) cell. Dixon et al. (1993) prepared a subtractive
+cDNA library from human NK cells and characterized 13 unique clones. A
+clone named B2-1 was highly expressed in both NK and T cells, but was
+very weakly expressed or absent in several other cell lines. The deduced
+protein was highly homologous to the yeast protein SEC7, which is
+located in the Golgi apparatus and is thought to be involved in
+transporting proteins through the Golgi complex. B2-1 was the only known
+human protein with significant homology to SEC7 and may be one of the
+human equivalents of the yeast secretory proteins.
+
+Using a yeast 2-hybrid screen of a T-cell leukemia cell line with the
+intracellular portion of CD18 (ITGB2; 600065) as bait, Kolanus et al.
+(1996) isolated a cDNA encoding cytohesin-1 (PSCD1) and a partial cDNA
+encoding PSCD2L (602488), which they designated cts18.1. PSCD1 is 88%
+identical to the PSCD2L fragment. The predicted 398-amino acid PSCD1
+protein contains a central 200-residue SEC7 domain and a C-terminal
+pleckstrin homology (PH) domain. Western blot analysis showed expression
+of a 47-kD protein, particularly, but not exclusively, in lymphoid
+cells.
+
+GENE FUNCTION
+
+Kolanus et al. (1996) found that overexpression of a full-length PSCD1
+protein or of the SEC7 domain only induced CD18-dependent binding to
+ICAM1 (147840), whereas the PSCD1 PH domain specifically inhibited
+adhesion. Binding analysis indicated that the SEC7 domain, but not the
+PH domain, interacts with the cytoplasmic domain of CD18 but not with
+other cell surface receptors or protein-tyrosine kinases tested. Kolanus
+et al. (1996) concluded that PSCD1 specifically regulates the adhesive
+function of beta-2 integrins in lymphocytes.
+
+The induction of a transformed cellular phenotype by viruses requires
+the modulation of signaling pathways through viral proteins. Kliche et
+al. (2001) showed that the phenotypic changes induced by the kaposin A
+protein of human herpesvirus-8 are mediated through its direct
+interaction with cytohesin-1, a guanine nucleotide exchange factor (GEF)
+for ARF GTPases (e.g., ARF1; 103180) and regulator of integrin-mediated
+cell adhesion. Focus formation, stress fiber dissolution, and activation
+of the ERK1 (601795)/ERK2 (176948) mitogen-activated protein kinase
+(MAPK) signal cascade were reverted by a cytohesin-1 glu157-to-lys
+mutant, which is deficient in catalyzing guanine nucleotide exchange.
+Furthermore, liposome-embedded kaposin A was found to specifically
+stimulate cytohesin-1-dependent GTP binding of myristoylated ARF1 in
+vitro.
+
+Hafner et al. (2006) used an aptamer displacement screen to identify
+SecinH3, a small Sec7 domain-specific molecular antagonist of
+cytohesins. The cytohesins are a class of BFA-resistant small GEFs for
+ADP-ribosylation factors (ARFs), which regulate cytoskeletal
+organization, integrin activation, or integrin signaling. The
+application of SecinH3 in human liver cells showed that insulin receptor
+complex-associated cytohesins are required for insulin signaling.
+SecinH3-treated mice showed increased expression of gluconeogenic genes,
+reduced expression of glycolytic, fatty acid, and ketone body metabolism
+genes in the liver, reduced liver glycogen stores, and a compensatory
+increase in plasma insulin. Thus, Hafner et al. (2006) concluded that
+cytohesin inhibition results in hepatic insulin resistance.
+
+Vitale et al. (2000) found that cytohesin-1 interacted with ARF domain
+protein-1 (ARD1, or TRIM23; 601747) in a yeast 2-hybrid screen of a
+human liver cDNA library. ARD1-GDP interacted well with cytohesin-1 but
+poorly with cytohesin-2 (PSCD2; 602488), and cytohesin-1 accelerated
+binding of a nonhydrolyzable GTP analog to ARD1. Mutation analysis
+showed that the effector region of the ARF domain of ARD1 interacted
+with the Sec7 domain of cytohesin-1. Physical association between these
+domains was highly dependent on experimental conditions, and a free
+Mg(2+) concentration that favored nucleotide release from ARD1 and
+accumulation of the nucleotide-free ARD1 form also favored interaction
+between ARD1 and cytohesin-1. In transfected COS-7 cells, cytohesin-1
+was distributed throughout the cell and was also present in the nucleus.
+ARD1 associated with vesicular structures concentrated around the
+nucleus and scattered throughout the cytoplasm, corresponding to Golgi
+and lysosomes, respectively. A constitutively GDP-bound form of ARD1
+showed a similar distribution, whereas a constitutively GTP-bound form
+of ARD1 was concentrated close to the nucleus in a Golgi-like
+distribution only. When ARD1 or its GDP- and GTP-bound forms were
+coexpressed with cytohesin-1, only the GDP-bound form showed any change
+in distribution or colocalization with cytohesin-1. In 90% of cells
+coexpressing the proteins, the GDP-bound form of ARD1 was distributed
+throughout the cell, except for the nucleus, and largely colocalized
+with cytohesin-1. In less than 10% of cells coexpressing the proteins,
+the GDP-bound form of ARD1 and cytohesin-1 colocalized in lysosomes.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Ogasawara et al. (2000) determined that
+the PSCD1 gene contains at least 14 exons, including a 3-bp exon 10 also
+present in PSCD2 and PSCD3 (605081) but not in PSCD4 (606514) that
+results in the insertion of a single glycine into the variable loop
+between the first and second beta sheets in the pleckstrin homology
+domain.
+
+MAPPING
+
+Dixon et al. (1993) showed by PCR analysis of a human/rodent hybrid
+panel that the B2-1 gene is located on chromosome 17. Fluorescence in
+situ hybridization localized the gene to 17q25.
+
+REFERENCE 1. Dixon, B.; Mansour, M.; Pohajdak, B.: Assignment of human B2-1
+gene (D17S811E) to chromosome 17qter by PCR analysis of somatic cell
+hybrids and fluorescence in situ hybridization. Cytogenet. Cell Genet. 63:
+42-44, 1993.
+
+2. Hafner, M.; Schmitz, A.; Grune, I.; Srivatsan, S. G.; Paul, B.;
+Kolanus, W.; Quast, T.; Kremmer, E.; Bauer, I.; Famulok, M.: Inhibition
+of cytohesins by SecinH3 leads to hepatic insulin resistance. Nature 444:
+941-944, 2006.
+
+3. Kliche, S.; Nagel, W.; Kremmer, E.; Atzler, C.; Ege, A.; Knorr,
+T.; Koszinowski, U.; Kolanus, W.; Haas, J.: Signaling by human herpesvirus
+8 kaposin A through direct membrane recruitment of cytohesin-1. Molec.
+Cell 7: 833-843, 2001.
+
+4. Kolanus, W.; Nagel, W.; Schiller, B.; Zeitlmann, L.; Godar, S.;
+Stockinger, H.; Seed, B.: Alpha-L-beta-2 integrin/LFA-1 binding to
+ICAM-1 induced by cytohesin-1, a cytoplasmic regulatory molecule. Cell 86:
+233-242, 1996.
+
+5. Ogasawara, M.; Kim, S.-C.; Adamik, R.; Togawa, A.; Ferrans, V.
+J.; Takeda, K.; Kirby, M.; Moss, J.; Vaughan, M.: Similarities in
+function and gene structure of cytohesin-4 and cytohesin-1, guanine
+nucleotide-exchange proteins for ADP-ribosylation factors. J. Biol.
+Chem. 275: 3221-3230, 2000.
+
+6. Vitale, N.; Pacheco-Rodriguez, G.; Ferrans, V. J.; Riemenschneider,
+W.; Moss, J.; Vaughan, M.: Specific functional interaction of human
+cytohesin-1 and ADP-ribosylation factor domain protein (ARD1). J.
+Biol. Chem. 275: 21331-21339, 2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/15/2007
+Ada Hamosh - updated: 2/1/2007
+Paul J. Converse - updated: 2/20/2002
+Paul J. Converse - updated: 11/27/2001
+Stylianos E. Antonarakis - updated: 8/7/2001
+
+CREATED Victor A. McKusick: 5/27/1993
+
+EDITED alopez: 02/06/2013
+terry: 1/29/2013
+terry: 9/7/2010
+mgross: 10/1/2009
+mgross: 3/15/2007
+alopez: 2/5/2007
+terry: 2/1/2007
+alopez: 12/31/2003
+terry: 12/30/2003
+mgross: 2/20/2002
+alopez: 11/27/2001
+mgross: 8/7/2001
+mgross: 1/20/2000
+carol: 5/4/1999
+carol: 5/27/1993
+
+612603	TITLE *612603 LATE CORNIFIED ENVELOPE PROTEIN 1A; LCE1A
+;;LATE ENVELOPE PROTEIN 1; LEP1
+LATE CORNIFIED ENVELOPE GENE CLUSTER, INCLUDED;;
+LCE GENE CLUSTER, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+LCE1A belongs to the late cornified envelope (LCE) gene cluster within
+the epidermal differentiation complex (EDC) on chromosome 1. The LCE
+cluster contains multiple conserved genes that encode stratum corneum
+proteins, and these genes are expressed relatively late during fetal
+assembly of the skin cornified envelope (Jackson et al., 2005). For
+further information on the LCE gene cluster, see GENE FAMILY below.
+
+CLONING
+
+By database analysis to identify human orthologs of mouse genes encoding
+late envelope proteins (LEPs), Marshall et al. (2001) identified human
+LCE1A, which they called LEP1. RT-PCR analysis detected LEP1 in human
+skin, but not in heart or esophagus. In situ hybridization of mouse
+embryos showed that group 1 LEP genes, such as Lep1, were expressed just
+before barrier formation in the epidermal barrier formation pattern.
+
+Using real-time PCR, Jackson et al. (2005) found that LCE1A, like other
+LCE1 genes, was predominantly expressed in human fetal, arm, penal, and
+abdominal skin. Little to no LCE1A expression was detected in vulva,
+tongue, and esophagus.
+
+GENE FUNCTION
+
+Jackson et al. (2005) showed that expression of LCE1 genes, including
+LCE1A, was upregulated in cultured normal human keratinocytes by
+ultraviolet irradiation, but not by calcium.
+
+GENE STRUCTURE
+
+Jackson et al. (2005) determined that the LCE1A gene, like most LCE
+genes, contains 2 exons. Exon 1 is noncoding.
+
+MAPPING
+
+By genomic sequence analysis, Marshall et al. (2001) mapped the LCE1A
+gene within the LCE gene cluster on chromosome 1q21. Jackson et al.
+(2005) stated that the mouse Lce1a gene maps to a syntenic LCE gene
+cluster on chromosome 3F1.
+
+GENE FAMILY
+
+- LCE Gene Cluster
+
+Jackson et al. (2005) stated that the LCE gene cluster spans over 320 kb
+within the EDC on chromosome 1q21 and can be divided into 3 gene groups,
+designated LCE1, LCE2, and LCE3, based on chromosomal position and
+protein homology. The LCE1, LCE2, and LCE3 subclusters are interspersed
+with 2 individual LCE genes, LCE4A (612618) and LCE5A (612619), 4 LCE
+pseudogenes, and several non-LCE genes. The LCE genes appear to have
+arisen by gene amplification. Using real-time PCR, Jackson et al. (2005)
+found that the LCE1 and LCE2 genes were expressed in skin, whereas the
+LCE3 genes showed low-level, tissue-specific expression in all
+barrier-forming epithelia tested, including internal epithelia. The LCE
+genes responded in a group-specific manner to calcium and ultraviolet
+light, with calcium causing upregulation of LCE2 genes, and ultraviolet
+light causing upregulation of LCE1 and LCE2 genes.
+
+De Guzman Strong et al. (2010) used a computational approach to identify
+conserved noncoding elements (CNEs) in the EDC queried for regulatory
+function. Coordinate expression of EDC genes during mouse embryonic skin
+development and a striking degree of synteny and linearity in the EDC
+locus across a wide range of mammalian (placental and marsupial) genomes
+suggested an evolutionary conserved regulatory milieu in the EDC. CNEs
+identified by comparative genomics exhibited dynamic regulatory activity
+(enhancer or repressor) in differentiating or proliferating conditions.
+Epidermal-specific, developmental in vivo enhancer activities (DNaseI
+and transgenic mouse assays) were demonstrated in CNEs, including one
+within the psoriasis-associated LCE3C (612615)_LCE3B (612614) deletion
+(see 603935).
+
+REFERENCE 1. de Guzman Strong, C.; Conlan, S.; Deming, C. B.; Cheng, J.; Sears,
+K. E.; Segre, J. A.: A milieu of regulatory elements in the epidermal
+differentiation complex syntenic block: implications for atopic dermatitis
+and psoriasis. Hum. Molec. Genet. 19: 1453-1460, 2010.
+
+2. Jackson, B.; Tilli, C. M. L. J.; Hardman, M. J.; Avilion, A. A.;
+MacLeod, M. C.; Ashcroft, G. S.; Byrne, C.: Late cornified envelope
+family in differentiating epithelia--response to calcium and ultraviolet
+irradiation. J. Invest. Derm. 124: 1062-1070, 2005.
+
+3. Marshall, D.; Hardman, M. J.; Nield, K. M.; Byrne, C.: Differentially
+expressed late constituents of the epidermal cornified envelope. Proc.
+Nat. Acad. Sci. 98: 13031-13036, 2001.
+
+CONTRIBUTORS George E. Tiller - updated: 11/17/2011
+
+CREATED Patricia A. Hartz: 2/11/2009
+
+EDITED carol: 11/22/2011
+terry: 11/17/2011
+mgross: 2/11/2009
+
+120650	TITLE *120650 COMPLEMENT COMPONENT RECEPTOR 2; CR2
+;;COMPLEMENT COMPONENT 3d RECEPTOR; C3DR;;
+EPSTEIN-BARR VIRUS RECEPTOR;;
+EBV RECEPTOR;;
+CD21
+DESCRIPTION 
+DESCRIPTION
+
+Complement component receptor-2 (CR2, CD21) is the membrane protein on B
+lymphocytes to which the Epstein-Barr virus (EBV) binds during infection
+of these cells. See also CR1 (120620). Yefenof et al. (1976) found
+complete overlapping of EBV receptors and C3 (120700) receptors on human
+B lymphocytes.
+
+CD21, together with CD19 (107265), CD81 (186845), and CD225 (IFITM1;
+604456), forms the B-cell coreceptor complex, which lowers the
+activation threshold of the B-cell antigen receptor (summary by Thiel et
+al., 2012).
+
+CLONING
+
+Rodriguez de Cordoba and Rubinstein (1986) demonstrated that
+quantitative variations of the C3b/C4b receptor (CR1) in human
+erythrocytes are controlled by genes within the regulator of complement
+activation (RCA) gene cluster. Rodriguez de Cordoba and Rubinstein
+(1986) symbolized this gene as C3bRQ. Moore et al. (1987) presented the
+nucleotide and derived amino acid sequence of the CR2 gene. They pointed
+out the close similarity to CR1 and to factor H, which are closely
+linked loci in 1q32.
+
+BIOCHEMICAL FEATURES
+
+Szakonyi et al. (2001) described the x-ray structure of CR2 in complex
+with its ligand C3d at 2.0 angstroms. The structure revealed extensive
+main chain interactions between C3d and only 1 short consensus repeat
+(SCR) of CR2 and substantial SCR side-to-side packing.
+
+The 2 N-terminal SCRs (SCR1-SCR2) of CD21 interact with the EBV
+glycoprotein gp350/220 and also with the natural CD21 ligand, C3d. Prota
+et al. (2002) described the crystal structure of the CD21 SCR1-SCR2
+fragment in the absence of ligand and demonstrated that it is able to
+bind EBV. Based on a functional analysis of wildtype and mutant CD21 and
+molecular modeling, they identified a likely region for EBV attachment
+and demonstrated that this region is not involved in the interaction
+with C3d. A comparison with the structure of CD21 SCR1-SCR2 in complex
+with C3d showed that, in both cases, CD21 assumes compact V-shaped
+conformations. However, the analysis revealed a surprising degree of
+flexibility at the SCR1-SCR2 interface, suggesting that the interactions
+between the 2 domains are not specific.
+
+GENE FUNCTION
+
+Using surface plasmon resonance analysis and ELISA, Asokan et al. (2006)
+showed that IFNA (IFNA1; 147660) bound CR2 in the same affinity range as
+the CR2 ligands EBV-gp350, C3d/iC3b, and CD23 (FCER2; 151445). IFNA
+interacted with SCR1 and SCR2 within the same region of CR2 that serves
+as the binding site for the other CR2 ligands. Treatment of B cells with
+anti-CR2 diminished induction of IFNA-responsive genes. Asokan et al.
+(2006) proposed that the roles of CR2 and IFNA in development of
+autoimmunity may be mechanistically linked to pathogenesis of systemic
+lupus erythematosus (SLE; 152700).
+
+MAPPING
+
+Weis et al. (1987) demonstrated by Southern analysis of DNA from somatic
+cell hybrids and by in situ hybridization using partial cDNA clones that
+the CR2 gene is located on band 1q32.
+
+MOLECULAR GENETICS
+
+- Susceptibility to Systemic Lupus Erythematosis
+
+Wu et al. (2007) found evidence of linkage at chromosome 1q32.2 in a
+targeted genome scan of 1q21-q43 in 126 SLE multiplex families (see
+SLEB9, 610927) containing 151 affected sib pairs (nonparametric linkage
+score, 2.52; p = 0.006). The authors then analyzed the CR2 gene in 1,416
+individuals from 258 Caucasian and 142 Chinese SLE simplex families and
+demonstrated that a common 3-SNP haplotype (120650.0001) was associated
+with SLE susceptibility (p = 0.00001) with a 1.54-fold increased risk
+for development of disease. Wu et al. (2007) concluded that the CR2 gene
+is likely a susceptibility gene for SLE.
+
+- Common Variable Immunodeficiency-7
+
+In a patient with a mild form of combined variable immunodeficiency-7
+(CVID7; 614699), Thiel et al. (2012) identified compound heterozygous
+mutations in the CD21 gene (120650.0002 and 120650.0003). Both mutations
+caused functionally null alleles, with lack of CD21 expression on the
+patient's B cells. The patient had hypogammaglobulinemia and recurrent
+infections. However, antibodies against recall antigens, such as
+measles, mumps, and varicella, were normal, and he had antibodies
+against EBV, suggesting that CD21 is not absolutely required for EBV
+entry. The B cells showed a mature antigen phenotype, but there was a
+reduction in class-switched memory B cells. Together with the
+demonstrated defects in CD19 (107265) and CD81 (186845), this CD21
+deficiency was the third genetic defect affecting the B-cell coreceptor
+complex in humans. All 3 defects share the features of severely
+decreased memory B-cell numbers, hypogammaglobulinemia, and recurrent
+infections.
+
+ANIMAL MODEL
+
+Fairweather et al. (2006) found that mice deficient in both Cr1 and Cr2
+had increased acute myocarditis and pericardial fibrosis due to
+coxsackievirus B3 (CVB3), leading to early progression to dilated
+cardiomyopathy and heart failure. Increased inflammation was not
+associated with increased viral replication. Immunofluorescence
+microscopy demonstrated increased numbers of macrophages, higher Il1b
+(147720) levels, and immune complex deposition in the heart. The mouse
+complement regulatory protein, Crry, was increased in cardiac
+macrophages, while immature B cells were increased in mutant mice after
+CVB3 infection. Fairweather et al. (2006) concluded that CR1/CR2
+expression is not necessary for CVB3 clearance, but it is involved in
+protection against immune-mediated damage to the heart.
+
+ALLELIC VARIANT .0001
+SYSTEMIC LUPUS ERYTHEMATOSUS, SUSCEPTIBILITY TO, 9
+CR2, HAPLOTYPE, TGG
+
+Wu et al. (2007) analyzed the CR2 gene in 1,416 individuals from 258
+Caucasian and 142 Chinese SLE simplex (610927) families and demonstrated
+that the major allele 3-SNP haplotype (+21T-C, dbSNP rs3813946; a
+synonymous G-A SNP, dbSNP rs1048971; and a G-A SNP resulting in an S639N
+substitution, dbSNP rs17615) was associated with SLE susceptibility (p =
+0.00001) with a 1.54-fold increased risk for development of disease.
+Studies using luciferase constructs revealed that the +21T-C SNP located
+in the 5-prime untranslated region alters transcriptional activity.
+
+.0002
+IMMUNODEFICIENCY, COMMON VARIABLE, 7
+CR2, IVS6DS, G-C, +1
+
+In a 28-year-old man with common variable immunodeficiency-7 (CVID7;
+614699), Thiel et al. (2012) identified compound heterozygosity for 2
+mutations in the CR2 gene: a G-to-C transversion in the donor site of
+exon 6 (1225+1G-C), resulting in the in-frame skipping of exon 6, and a
+2297G-A transition in exon 13, resulting in a trp766-to-ter (W766X;
+120650.0003) substitution, which was demonstrated to result in
+nonsense-mediated mRNA decay. The splice site mutation resulted in a
+shorter mRNA that putatively codes for a truncated CD21 protein
+predicted to lack the extracellular short consensus repeats 5 and 6.
+Each unaffected parent was heterozygous for 1 of the mutations, neither
+of which were found in 100 controls. Transfection of the mutations in
+293T cells showed absence of CD21 expression at the cell surface,
+consistent with complete absence of CD21 on the patient's B cells. The
+patient had recurrent infections, splenomegaly, and
+hypogammaglobulinemia affecting mainly IgG. IgA values were slightly
+reduced and IgM levels were low-normal. Antibodies against recall
+antigens, such as measles, mumps, and varicella, were normal, and he had
+antibodies against EBV, suggesting that CD21 is not absolutely required
+for EBV entry. The B cells showed a mature antigen phenotype, but there
+was a reduction in class-switched memory B cells. Patient B cells showed
+reduced binding to a C3d (see 120700)-containing immune complex and to
+EBV compared to control cells, and also showed no costimulatory activity
+via the B-cell receptor complex. Patient cells showed normal
+proliferative response and production of immunoglobulin upon stimulation
+with anti-IgM and anti-CD40 (109535), and the patient mounted a normal
+antibody response to protein vaccination, although his response to
+pneumococcal polysaccharide vaccination was somewhat impaired.
+
+.0003
+IMMUNODEFICIENCY, COMMON VARIABLE, 7
+CR2, TRP766TER
+
+See 120650.0002 and Thiel et al. (2012).
+
+ADDITIONAL REFERENCES Rodriguez de Cordoba et al. (1985); Weis et al. (1984)
+REFERENCE 1. Asokan, R.; Hua, J.; Young, K. A.; Gould, H. J.; Hannan, J. P.;
+Kraus, D. M.; Szakonyi, G.; Grundy, G. J.; Chen, X. S.; Crow, M. K.;
+Holers, V. M.: Characterization of human complement receptor type
+2 (CR2/CD21) as a receptor for IFN-alpha: a potential role in systemic
+lupus erythematosus. J. Immun. 177: 383-394, 2006.
+
+2. Fairweather, D.; Frisancho-Kiss, S.; Njoku, D. B.; Nyland, J. F.;
+Kaya, Z.; Yusung, S. A.; Davis, S. E.; Frisancho, J. A.; Barrett,
+M. A.; Rose, N. R.: Complement receptor 1 and 2 deficiency increases
+coxsackievirus B3-induced myocarditis, dilated cardiomyopathy, and
+heart failure by increasing macrophages, IL-1-beta, and immune complex
+deposition in the heart. J. Immun. 176: 3516-3524, 2006.
+
+3. Moore, M. D.; Cooper, N. R.; Tack, B. F.; Nemerow, G. R.: Molecular
+cloning of the cDNA encoding the Epstein-Barr virus/C3d receptor (complement
+receptor type 2) of human B lymphocytes. Proc. Nat. Acad. Sci. 84:
+9194-9198, 1987.
+
+4. Prota, A. E.; Sage, D. R.; Stehle, T.; Fingeroth, J. D.: The crystal
+structure of human CD21: implications for Epstein-Barr virus and C3d
+binding. Proc. Nat. Acad. Sci. 99: 10641-10646, 2002.
+
+5. Rodriguez de Cordoba, S.; Lublin, D. M.; Rubinstein, P.; Atkinson,
+J. P.: Human genes for three complement components that regulate
+the activation of C3 are tightly linked. J. Exp. Med. 161: 1189-1195,
+1985.
+
+6. Rodriguez de Cordoba, S.; Rubinstein, P.: Quantitative variations
+of the C3b/C4b receptor (CR1) in human erythrocyte are controlled
+by genes within the regulator of complement activation (RCA) gene
+cluster. J. Exp. Med. 164: 1274-1283, 1986.
+
+7. Szakonyi, G.; Guthridge, J. M.; Li, D.; Young, K.; Holers, V. M.;
+Chen, X. S.: Structure of complement receptor 2 in complex with its
+C3d ligand. Science 292: 1725-1728, 2001.
+
+8. Thiel, J.; Kimmig, L.; Salzer, U.; Grudzien, M.; Lebrecht, D.;
+Hagena, T.; Draeger, R.; Volxen, N.; Bergbreiter, A.; Jennings, S.;
+Gutenberger, S.; Aichem, A.; and 10 others: Genetic CD21 deficiency
+is associated with hypogammaglobulinemia. J. Allergy Clin. Immun. 129:
+801-810, 2012.
+
+9. Weis, J. H.; Morton, C. C.; Bruns, G. A. P.; Weis, J. J.; Klickstein,
+L. B.; Wong, W. W.; Fearon, D. T.: A complement receptor locus: genes
+encoding C3b/C4b receptor and C3d/Epstein-Barr virus receptor map
+to 1q32. J. Immun. 138: 312-315, 1987.
+
+10. Weis, J. J.; Tedder, T. F.; Fearon, D. T.: Identification of
+a 145,000 M(r) membrane protein as the C3d receptor (CR2) of human
+B lymphocytes. Proc. Nat. Acad. Sci. 81: 881-885, 1984.
+
+11. Wu, H.; Boackle, S. A.; Hanvivadhanakul, P.; Ulgiati, D.; Grossman,
+J. M.; Lee, Y.; Shen, N.; Abraham, L. J.; Mercer, T. R.; Park, E.;
+Hebert, L. A.; Rovin, B. H.; and 13 others: Association of a common
+complement receptor 2 haplotype with increased risk of systemic lupus
+erythematosus. Proc. Nat. Acad. Sci. 104: 3961-3966, 2007.
+
+12. Yefenof, E.; Klein, G.; Jondal, M.; Oldstone, M. B. A.: Surface
+markers on human B- and T-lymphocytes. IX. Two color immunofluorescence
+studies on the association between EBV receptors and complement receptors
+on the surface of lymphoid cell lines. Int. J. Cancer 17: 693-700,
+1976.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 7/5/2012
+Marla J. F. O'Neill - updated: 4/11/2007
+Paul J. Converse - updated: 4/6/2007
+Paul J. Converse - updated: 4/4/2007
+Victor A. McKusick - updated: 9/27/2002
+Ada Hamosh - updated: 6/12/2001
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 07/06/2012
+carol: 7/6/2012
+ckniffin: 7/5/2012
+carol: 5/30/2008
+wwang: 4/25/2007
+wwang: 4/19/2007
+wwang: 4/12/2007
+terry: 4/11/2007
+mgross: 4/6/2007
+mgross: 4/5/2007
+terry: 4/4/2007
+mgross: 9/27/2002
+carol: 9/27/2002
+mgross: 5/1/2002
+alopez: 6/13/2001
+terry: 6/12/2001
+mgross: 8/31/2000
+dkim: 6/30/1998
+carol: 10/18/1993
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+root: 2/7/1988
+
+605542	TITLE *605542 INTERLEUKIN 36, GAMMA; IL36G
+;;INTERLEUKIN 1 FAMILY, MEMBER 9; IL1F9;;
+INTERLEUKIN 1 HOMOLOG 1; IL1H1;;
+INTERLEUKIN 1-RELATED PROTEIN 2; IL1RP2
+DESCRIPTION 
+DESCRIPTION
+
+Members of the IL1 (see IL1A; 147760) family, such as IL1F9, are
+structurally related cytokines and cell surface receptors that mediate
+inflammation. IL1F9 is part of an IL1 signaling system in epithelia and
+has proinflammatory properties (summary by Johnston et al., 2011).
+
+CLONING
+
+By searching EST databases for IL1 homologs, Kumar et al. (2000)
+identified a cDNA encoding IL1H1. The deduced 169-amino acid protein,
+which shares 19 to 32% sequence similarity with other IL1 family
+members, lacks a hydrophobic leader peptide and a prodomain. Biophysical
+analyses indicated that IL1H1 has 12 beta strands, similar to other IL1
+family members. Northern blot analysis detected no expression of IL1H1
+in a multiple tissue blot. PCR analysis detected low levels of
+expression in lungs and macrophages. RT-PCR and Western blot analyses
+showed that cytokine-induced keratinocytes expressed readily detectable
+IL1H1. In situ hybridization analysis demonstrated IL1H1 expression in
+keratinocytes in a mouse model of contact hypersensitivity or herpes
+simplex virus infection.
+
+By sequencing a BAC clone containing the IL1B gene (147720) and
+searching EST databases for IL1-like ligands, Busfield et al. (2000)
+identified IL1H1, which they designated IL1RP2. SDS-PAGE analysis showed
+that IL1H1 is expressed as a 20-kD protein. Northern blot analysis
+detected a 1.8-kb IL1H1 transcript in the squamous cell epithelium of
+the esophagus. In situ hybridization analysis revealed expression in the
+middle layers of epithelium. In vitro, IL1H1 message was rapidly induced
+following stimulation of keratinocytes.
+
+GENE FUNCTION
+
+Using RT-PCR and immunohistochemical analysis, Johnston et al. (2011)
+demonstrated increased expression of IL1F5 (605507), IL1F6 (605509),
+IL1F8 (605508), and IL1F9 in psoriasis (177900) plaque compared with
+uninvolved skin from psoriasis patients. Analysis of 2 mouse psoriasis
+models produced similar results. IL1A and TNF (191160) induced
+expression of the IL1F transcripts in normal human keratinocytes.
+Microarray analysis showed that IL1F cytokines, particularly IL1F8,
+increased mRNA expression of human beta-defensins and secretion of HBD2
+(DEFB4; 602215) and HBD3 (DEFB103A; 606611). Johnston et al. (2011)
+concluded that IL1F cytokines have important roles in inflammatory skin
+diseases and may be targets for antipsoriatic therapies.
+
+GENE STRUCTURE
+
+Busfield et al. (2000) determined that the IL1H1 gene contains 4 exons.
+
+MAPPING
+
+Kumar et al. (2000) stated that the IL1H1 gene maps to chromosome
+2q12-q21, near other IL1 family members. By radiation hybrid analysis,
+Busfield et al. (2000) mapped the IL1H1 gene to chromosome 2q12.1.
+
+Nicklin et al. (2002) determined that the gene order within the IL1 gene
+cluster on chromosome 2, from centromere to telomere, is IL1A-IL1B-IL1F7
+(IL37; 605510)-IL1F9-IL1F6-IL1F8-IL1F5-IL1F10 (615296)-IL1RN (147679).
+Of these, only IL1A, IL1B, and IL36B are transcribed toward the
+centromere.
+
+Gross (2011) mapped the IL1F9 gene to chromosome 2q13 based on an
+alignment of the IL1F9 sequence (GenBank GENBANK BC096721) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Busfield, S. J.; Comrack, C. A.; Yu, G.; Chickering, T. W.; Smutko,
+J. S.; Zhou, H.; Leiby, K. R.; Holmgren, L. M.; Gearing, D. P.; Pan,
+Y.: Identification and gene organization of three novel members of
+the IL-1 family on human chromosome 2. Genomics 66: 213-216, 2000.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  5/11/2011.
+
+3. Johnston, A.; Xing, X.; Guzman, A. M.; Riblett, M.; Loyd, C. M.;
+Ward, N. L.; Wohn, C.; Prens, E. P.; Wang, F.; Maier, L. E.; Kang,
+S.; Voorhees, J. J.; Elder, J. T.; Gudjonsson, J. E.: IL-1F5, -F6,
+-F8, and -F9: a novel IL-1 family signaling system that is active
+in psoriasis and promotes keratinocyte antimicrobial peptide expression. J.
+Immun. 186: 2613-2622, 2011.
+
+4. Kumar, S.; McDonnell, P. C.; Lehr, R.; Tierney, L.; Tzimas, M.
+N.; Griswold, D. E.; Capper, E. A.; Tal-Singer, R.; Wells, G. I.;
+Doyle, M. L.; Young, P. R.: Identification and initial characterization
+of four novel members of the interleukin-1 family. J. Biol. Chem. 275:
+10308-10314, 2000.
+
+5. Nicklin, M. J. H.; Barton, J. L.; Nguyen, M.; FitzGerald, M. G.;
+Duff, G. W.; Kornman, K.: A sequence-based map of the nine genes
+of the human interleukin-1 cluster. Genomics 79: 718-725, 2002.
+
+CONTRIBUTORS Paul J. Converse - updated: 07/08/2013
+Matthew B. Gross - updated: 5/11/2011
+Paul J. Converse - updated: 5/5/2011
+
+CREATED Paul J. Converse: 1/9/2001
+
+EDITED mgross: 07/08/2013
+carol: 9/1/2011
+mgross: 5/11/2011
+terry: 5/5/2011
+mgross: 2/18/2009
+mgross: 8/29/2002
+mgross: 1/9/2001
+
+611658	TITLE *611658 SPRY DOMAIN- AND SOCS BOX-CONTAINING 2; SPSB2
+;;SPRY DOMAIN-CONTAINING SOCS BOX PROTEIN 2; SSB2
+DESCRIPTION 
+CLONING
+
+By database analysis, followed by PCR of a human kidney cDNA library,
+Wang et al. (2005) cloned SPSB2, which they called SSB2. The deduced
+263-amino acid protein shares 50% amino acid identity with SPSB1
+(611657). SPSB2 contains a central SPRY domain and a C-terminal SOCS
+box. Coimmunoprecipitation studies showed that SPSB2 interacted with MET
+(164860).
+
+REFERENCE 1. Wang, D.; Li, Z.; Messing, E. M.; Wu, G.: The SPRY domain-containing
+SOCS box protein 1 (SSB-1) interacts with MET and enhances the hepatocyte
+growth factor-induced Erk-Elk-1-serum response element pathway. J.
+Biol. Chem. 280: 16393-16401, 2005.
+
+CREATED Dorothy S. Reilly: 12/11/2007
+
+EDITED wwang: 12/11/2007
+
+607082	TITLE *607082 CALCIUM CHANNEL, VOLTAGE-DEPENDENT, ALPHA-2/DELTA SUBUNIT 2; CACNA2D2
+;;KIAA0558
+DESCRIPTION 
+DESCRIPTION
+
+The CACNA2D2 gene encodes the alpha-2-delta-2 auxiliary subunit of high
+voltage-gated calcium channels. Auxiliary subunits modulate calcium
+current and channel activation and inactivation kinetics, and may be
+involved in proper assembly and membrane localization of the channels.
+Alpha-2-delta-2 is a receptor for the antiepileptic drug gabapentin
+(summary by Edvardson et al., 2013).
+
+CLONING
+
+By searching for sequences with the potential to encode large proteins
+expressed in brain, Nagase et al. (1998) identified a cDNA encoding
+CACNA2D2, which they called KIAA0558. The deduced 1,145-amino acid
+protein was predicted to be 45% identical to mouse Cacna2d2. RT-PCR
+analysis detected ubiquitous expression.
+
+Using a positional cloning strategy to identify a putative tumor
+suppressor gene on chromosome 3p21.3, Gao et al. (2000) obtained a cDNA
+encoding CACNA2D2. The CACNA2D2 protein is 56% identical to CACNA2D1
+(114204), and 17 of 22 cysteines in CACNA2D2 are conserved in CACNA2S1,
+suggesting similar secondary structures. CACNA2D2 also has multiple
+putative N-glycosylation sites. Northern blot analysis revealed
+expression of a 5.5-kb transcript that was most abundant in lung and
+testis, followed by brain, heart, and pancreas, with low levels in
+prostate and skeletal muscle. Some lung cancer lines expressed CACNA2D2.
+Western blot analysis showed expression of a 150-kD protein, larger than
+the predicted 130 kD, presumably due to glycosylation. Functional
+analysis indicated that CACNA2D2 is able to act as an auxiliary subunit
+of all 3 subfamilies of voltage-gated calcium channels.
+
+By physical cloning methodologies and bioinformatic computational
+analyses, Lerman and Minna (2000) identified a number of genes,
+including CACNA2D2, in a region of chromosome 3p21.3 that is associated
+with a putative lung cancer tumor suppressor gene. They did not detect
+CACNA2D2 mutations in any lung cancer cell lines tested.
+
+Each alpha-2-delta subunit is encoded by a single gene and
+post-translationally cleaved into a long, N-terminal, extracellular
+alpha-2 protein and a shorter, membrane-anchored delta polypeptide; the
+alpha-2 and delta proteins are covalently linked by disulfide bonds
+(summary by Brill et al., 2004).
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Lerman and Minna (2000) determined that
+the CACNA2D2 gene contains at least 40 exons and spans approximately 140
+kb.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the CACNA2D2
+gene to chromosome 3. By genomic sequence analysis, Gao et al. (2000)
+refined the localization to 3p21.3, a site of frequent deletions in
+breast and lung cancers.
+
+GENE FUNCTION
+
+Hoppa et al. (2012) showed that a trafficking step probably sets
+synaptic voltage-gated calcium channel (VGCC) levels in rats, because
+overexpression of the pore-forming alpha-1A VGCC subunit (CACNA1A;
+601011) fails to change synaptic VGCC abundance or function.
+Alpha-2-deltas are a family of glycosylphosphatidylinositol
+(GPI)-anchored VGCC-associated subunits that, in addition to being the
+target of the potent neuropathic analgesics gabapentin and pregabalin
+(alpha-2-delta-1 (CACNA2D1) and alpha-2-delta-2 (CACNA2D2)), were also
+identified in a forward genetic screen for pain genes (alpha-2-delta-3
+(CACNA2D3; 606399)). Hoppa et al. (2012) showed that these proteins
+confer powerful modulation of presynaptic function through 2 distinct
+molecular mechanisms. First, alpha-2-delta subunits set synaptic VGCC
+abundance, as predicted from their chaperone-like function when
+expressed in nonneuronal cells. Second, alpha-2-deltas configure
+synaptic VGCCs to drive exocytosis through an extracellular metal
+ion-dependent adhesion site (MIDAS), a conserved set of amino acids
+within the predicted von Willebrand A domain of alpha-2-delta.
+Expression of alpha-2-delta with an intact MIDAS motif leads to an 80%
+increase in release probability, while simultaneously protecting
+exocytosis from blockade by an intracellular calcium chelator.
+Alpha-2-deltas harboring MIDAS site mutations still drive synaptic
+accumulation of VGCCs; however, they no longer change release
+probability or sensitivity to intracellular calcium chelators. Hoppa et
+al. (2012) concluded that their data reveal dual functionality of these
+clinically important VGCC subunits, allowing synapses to make more
+efficient use of calcium entry to drive neurotransmitter release.
+
+ANIMAL MODEL
+
+Brodbeck et al. (2002) showed that mice with the 'ducky' (du) mutation,
+a model for absence epilepsy (see 600131), had a mutation in Cacna2d2
+gene. The mutation resulted in the introduction of a premature stop
+codon and the expression of a truncated protein encoded by the first 3
+exons of Cacna2d2, followed by 8 novel amino acids. The shortened mRNA
+and protein were expressed in mutant mouse cerebellum and Purkinje
+cells. Brodbeck et al. (2002) detected high expression of the normal
+protein in cerebellar Purkinje cells, but found that ducky mice had
+abnormalities in their Purkinje cell dendritic trees. Functional
+analysis indicated that the mutant Cacna2d2 protein failed to increase
+or even decreased the peak current density of the voltage-gated Ca(V)2.1
+(CACNA1A; 601011)/beta-4 (CACNB4; 601949) channel combination,
+suggesting that it may contribute to the ducky phenotype.
+
+Brill et al. (2004) identified a recessive mouse phenotype, 'entla,'
+caused by an in-frame duplication of 39 amino acids in the Cacna2d2
+gene, resulting in expression of a full-length, membrane-associated
+protein, but with loss of the disulfide linkage between the 2 derived
+proteins. Mutant mice developed ataxia by postnatal day 13 to 15
+followed by paroxysmal dyskinesia. The mice showed reduced size and
+weight, increased mortality before weaning, and female infertility. EEG
+studies suggested absence epilepsy, with 2- and 4-Hz spike-wave
+discharges in the cortex and hippocampus. Cerebellar Purkinje cells
+isolated from mutant mice showed about a 50% reduction in current, as
+well as a reduction of gabapentin binding to the membrane compared to
+wildtype and to heterozygous mice. Entla (ent) mice showed no
+neuroanatomical abnormalities.
+
+ALLELIC VARIANT .0001
+VARIANT OF UNKNOWN SIGNIFICANCE
+CACNA2D2, LEU1040PRO
+
+This variant is classified as a variant of unknown significance because
+its contribution to early infantile epileptic encephalopathy has not
+been confirmed.
+
+In 3 sibs, born of consanguineous Arab-Palestinian parents, with early
+infantile epileptic encephalopathy, global developmental delay, and
+cerebellar atrophy, Edvardson et al. (2013) identified a homozygous
+3119A-G transition in the CACNA2D2 gene, resulting in a leu1040-to-pro
+(L1040P) substitution at a highly conserved residue. The variant, which
+was identified by linkage analysis combined with whole-exome sequencing,
+was not found in 102 controls or in 6,503 control exomes. In vitro
+expression studies in Xenopus oocytes showed that the variant protein
+decreased currents of N- and L-type calcium channels and caused slower
+inactivation in N-type channels. Although the variant protein was
+expressed, it showed decreased localization to the plasma membrane
+compared to wildtype, suggesting that it may not properly associate with
+the alpha-1 subunit. Edvardson et al. (2013) postulated that prolonged
+channel opening and calcium influx during depolarization associated with
+delayed inactivation may underlie the epileptic phenotype observed in
+these patients. There was no evidence for a dominant-negative effect.
+Exome sequencing in 1 of the 3 affected sibs also identified a
+homozygous C-to-T transition in the CELSR3 gene (604264), resulting in a
+met2630-to-ile (M2630I; 604264.0001) substitution at a highly conserved
+residue. This variant also segregated with the disease state in the
+family. Inactivation of Celsr3 in mice causes abnormalities in
+connectivity in the cerebral cortex (Zhou et al., 2008). Edvardson et
+al. (2013) could not exclude a role for the CELSR3 mutation in the
+epileptic phenotype in this family.
+
+REFERENCE 1. Brill, J.; Klocke, R.; Paul, D.; Boison, D.; Gouder, N.; Klugbauer,
+N.; Hofmann, F.; Becker, C.-M.; Becker, K.: Entla, a novel epileptic
+and ataxic Cacna2d2 mutant of the mouse. J. Biol. Chem. 279: 7322-7330,
+2004.
+
+2. Brodbeck, J.; Davies, A.; Courtney, J.-M.; Meir, A.; Balaguero,
+N.; Canti, C.; Moss, F. J.; Page, K. M.; Pratt, W. S.; Hunt, S. P.;
+Barclay, J.; Rees, M.; Dolphin, A. C.: The ducky mutation in Cacna2d2
+results in altered Purkinje cell morphology and is associated with
+the expression of a truncated alpha-2/delta-2 protein with abnormal
+function. J. Biol. Chem. 277: 7684-7693, 2002.
+
+3. Edvardson, S.; Oz, S.; Abulhijaa, F. A.; Taher, F. B.; Shaag, A.;
+Zenvirt, S.; Dascal, N.; Elpeleg, O.: Early infantile epileptic encephalopathy
+associated with a high voltage gated calcium channelopathy. J. Med.
+Genet. 50: 118-123, 2013.
+
+4. Gao, B.; Sekido, Y.; Maximov, A.; Saad, M.; Forgacs, E.; Latif,
+F.; Wei, M. H.; Lerman, M.; Lee, J.-H.; Perez-Reyes, E.; Bezprozvanny,
+I.; Minna, J. D.: Functional properties of a new voltage-dependent
+calcium channel alpha-2/delta auxiliary subunit gene (CACNA2D2). J.
+Biol. Chem. 275: 12237-12242, 2000.
+
+5. Hoppa, M. B.; Lana, B.; Margas, W.; Dolphin, A. C.; Ryan, T. A.
+: Alpha-2-delta expression sets presynaptic calcium channel abundance
+and release probability. Nature 486: 122-125, 2012.
+
+6. Lerman, M. I.; Minna, J. D.: The 630-kb lung cancer homozygous
+deletion region on human chromosome 3p21.3: identification and evaluation
+of the resident candidate tumor suppressor genes. Cancer Res. 60:
+6116-6133, 2000.
+
+7. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+8. Zhou, L.; Bar, I.; Achouri, Y.; Campbell, K.; De Backer, O.; Hebert,
+J. M.; Jones, K.; Kessaris, N.; Lambert de Rouvroit, C.; O'Leary,
+D.; Richardson, W. D.; Goffinet, A. M.; Tissir, F.: Early forebrain
+wiring: genetic dissection using conditional Celsr3 mutant mice. Science 320:
+946-949, 2008.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/25/2013
+Ada Hamosh - updated: 7/17/2012
+
+CREATED Paul J. Converse: 6/28/2002
+
+EDITED carol: 03/11/2013
+ckniffin: 3/5/2013
+ckniffin: 2/25/2013
+alopez: 7/17/2012
+terry: 7/17/2012
+mgross: 6/28/2002
+
+142230	TITLE *142230 HEMATOPOIETIC PROGENITOR CELL ANTIGEN CD34; CD34
+DESCRIPTION 
+DESCRIPTION
+
+CD34 is a monomeric cell surface antigen with a molecular mass of
+approximately 110 kD that is selectively expressed on human
+hematopoietic progenitor cells.
+
+CLONING
+
+In the hands of Sutherland et al. (1988), partial amino acid analysis of
+highly purified CD34 antigen revealed no significant sequence similarity
+with any previously described structures. Sequential immunoprecipitation
+and Western blot analysis indicated that this antigen is not a member of
+the leukosialin/sialophorin family, despite the fact that these
+molecules share several structural similarities.
+
+Simmons et al. (1992) isolated a cDNA clone for CD34. They stated that
+the gene is expressed by small vessel endothelial cells in addition to
+hematopoietic progenitor cells and is a sialomucin of as-yet-unknown
+function.
+
+Study of the CD34 cDNA permitted He et al. (1992) to demonstrate that it
+encodes a type I transmembrane protein with no obvious homology to other
+known proteins.
+
+OTHER FEATURES
+
+Sutherland et al. (1993) provided a review, including potential clinical
+applications in selecting for hematopoietic stem cell progenitors from
+tumor-contaminated marrow in preparation for transplantation and for
+genetic manipulation in gene therapy.
+
+GENE STRUCTURE
+
+Satterthwaite et al. (1992) reported that the CD34 gene spans 26 kb and
+has 8 exons. Using RNase protection, they demonstrated that the start
+site of CD34 transcription is 258 bp upstream of the translational start
+site. He et al. (1992) showed that the upstream regulatory sequences of
+CD34 contain no TATA or CAAT box sequences, but MYB, MYC, and ETS-like
+binding motifs were identified.
+
+GENE FUNCTION
+
+Continuous turnover of epithelia is ensured by the extensive
+self-renewal capacity of tissue-specific stem cells. Similarly,
+epithelial tumor maintenance relies on cancer stem cells, which co-opt
+stem cell properties. In murine skin, follicular morphogenesis is driven
+by bulge stem cells that specifically express CD34. Malanchi et al.
+(2008) identified a population of cells in early epidermal tumors
+characterized by phenotype and functional similarities to normal bulge
+skin stem cells. This population contains cancer stem cells, which are
+the only cells with tumor initiation properties. Transplants derived
+from these cancer stem cells preserve the hierarchical organization of
+the primary tumor. Malanchi et al. (2008) described beta-catenin
+(116806) signaling as being essential in sustaining the cancer stem cell
+phenotype. Ablation of the beta-catenin gene results in the loss of
+cancer stem cells and complete tumor regression. In addition, Malanchi
+et al. (2008) provided evidence for the involvement of increased
+beta-catenin signaling in malignant human squamous cell carcinomas.
+Malanchi et al. (2008) concluded that because Wnt/beta-catenin signaling
+is not essential for normal epidermal homeostasis, such a mechanistic
+difference may thus be targeted to eliminate cancer stem cells and
+consequently eradicate squamous cell carcinomas.
+
+MAPPING
+
+By Southern blot analysis of DNA from a panel of human/mouse somatic
+cell hybrids using a CD34 cDNA probe, Tenen et al. (1990) demonstrated
+that the gene for CD34 is located on 1q12-qter. By means of in situ
+hybridization, Howell et al. (1991) narrowed the assignment to 1q32. By
+fluorescence in situ hybridization, Satterthwaite et al. (1992) mapped
+the gene to 1q32.
+
+ANIMAL MODEL
+
+To analyze the involvement of CD34 in hematopoiesis, Cheng et al. (1996)
+produced both embryonic stem (ES) cells in mice null for the expression
+of this mucin. Analysis of yolk sac-like hematopoietic development in
+embryoid bodies derived from CD34-null ES cells showed a significant
+delay in both erythroid and myeloid differentiation that could be
+reversed by transfection of the mutant ES cells with CD34 constructs
+expressing either a complete or truncated cytoplasmic domain. In spite
+of these diminished embryonic hematopoietic progenitor numbers, the
+CD34-null mice developed normally, and the hematopoietic profile of
+adult blood appeared typical. However, the colony-forming activity of
+hematopoietic progenitors derived from both bone marrow and spleen was
+significantly reduced in adult CD34-deficient animals.
+
+Hematopoietic stem cells (HSCs) give rise to all blood cells. CD34 is a
+sialomucin-like adhesion molecule that is expressed on a few percent of
+primitive bone marrow cells. In human bone marrow, virtually all
+colony-forming unit activity resides in the population expressing human
+CD34. In primates, CD34-positive cells, but not CD34-negative cells,
+repopulate lethally irradiated baboons. On the other hand, in murine
+hematopoiesis, HSCs are found almost exclusively in the CD34-negative to
+-low fraction. Okuno et al. (2002) made transgenic mouse strains with
+human genomic P1 artificial chromosome clones spanning the entire CD34
+genomic locus. In all transgenic mouse strains, a vast majority of
+phenotypic and functional HSC populations including mouse CD34-negative
+or -low cells expressed the human CD34 transgene. These data strongly
+supported the notion that CD34-positive human bone marrow cells contain
+long-term HSCs that can maintain hematopoiesis throughout life.
+
+Using fluorescence intravital microscopy (IVM) with homing assays,
+Hidalgo et al. (2002) examined the repopulation of bone marrow of
+sublethally irradiated nonobese diabetic (NOD)/severe combined
+immunodeficiency (SCID) mice, which have multiple defects in innate and
+adaptive immunologic functions, with human CD34-positive hematopoietic
+progenitor cells obtained either from cord blood or from adult bone
+marrow or peripheral blood. Human hematopoietic progenitor cells rolled
+and arrested in NOD/SCID bone marrow microvessels, and the rolling
+capacity of neonatal cord blood cells was much lower than that of adult
+cells. Rolling and retention were nearly abolished in NOD/SCID Selp
+(173610) -/- Sele (131210) -/- mice and in NOD/SCID Sele -/- mice. Flow
+cytometric and IVM analyses suggested that the neonatal defect resulted
+from expression of a nonfunctional form of SELPLG (600738) on cord blood
+CD34-positive cells that were unable to bind Selp. This subset of cells
+was enriched in CD34-positive/CD38 (107270)-low/negative progenitors.
+Hidalgo et al. (2002) proposed that manipulation of expression of
+selectins and their ligands may improve homing of cord blood
+CD34-positive cells to bone marrow.
+
+REFERENCE 1. Cheng, J.; Baumhueter, S.; Cacalano, G.; Carver-Moore, K.; Thibodeaux,
+H.; Thomas, R.; Broxmeyer, H. E.; Cooper, S.; Hague, N.; Moore, M.;
+Lasky, L. A.: Hematopoietic defects in mice lacking the sialomucin
+CD34. Blood 87: 479-490, 1996.
+
+2. He, X.-Y.; Antao, V. P.; Basila, D.; Marx, J. C.; Davis, B. R.
+: Isolation and molecular characterization of the human CD34 gene. Blood 79:
+2296-2302, 1992.
+
+3. Hidalgo, A.; Weiss, L. A.; Frenette, P. S.: Functional selectin
+ligands mediating human CD34+ cell interactions with bone marrow endothelium
+are enhanced postnatally. J. Clin. Invest. 110: 559-569, 2002.
+
+4. Howell, S. M.; Molgaard, H. V.; Greaves, M. F.; Spurr, N. K.:
+Localisation of the gene coding for the haemopoietic stem cell antigen
+CD34 to chromosome 1q32. Hum. Genet. 87: 625-627, 1991.
+
+5. Malanchi, I.; Peinado, H.; Kassen, D.; Hussenet, T.; Metzger, D.;
+Chambon, P.; Huber, M.; Hohl, D.; Cano, A.; Birchmeier, W.; Huelsken,
+J.: Cutaneous cancer stem cell maintenance is dependent on beta-catenin
+signalling. Nature 452: 650-653, 2008.
+
+6. Okuno, Y.; Iwasaki, H.; Huettner, C. S.; Radomska, H. S.; Gonzalez,
+D. A.; Tenen, D. G.; Akashi, K.: Differential regulation of the human
+and murine CD34 genes in hematopoietic stem cells. Proc. Nat. Acad.
+Sci. 99: 6246-6251, 2002.
+
+7. Satterthwaite, A. B.; Burn, T. C.; Le Beau, M. M.; Tenen, D. G.
+: Structure of the gene encoding CD34, a human hematopoietic stem
+cell antigen. Genomics 12: 788-794, 1992.
+
+8. Simmons, D. L.; Satterthwaite, A. B.; Tenen, D. G.; Seed, B.:
+Molecular cloning of a cDNA encoding CD34, a sialomucin of human hematopoietic
+stem cells. J. Immun. 148: 267-271, 1992.
+
+9. Sutherland, D. R.; Stewart, A. K.; Keating, A.: CD34 antigen:
+molecular features and potential clinical applications. Stem Cells 11
+(suppl. 3): 50-57, 1993.
+
+10. Sutherland, D. R.; Watt, S. M.; Dowden, G.; Karhi, K.; Baker,
+M. A.; Greaves, M. F.; Smart, J. E.: Structural and partial amino
+acid sequence analysis of the human hemopoietic progenitor cell antigen
+CD34. Leukemia 2: 793-803, 1988.
+
+11. Tenen, D. G.; Satterthwaite, A. B.; Borson, R.; Simmons, D.; Eddy,
+R. L.; Shows, T. B.: Chromosome 1 localization of the gene for CD34,
+a surface antigen of human stem cells. Cytogenet. Cell Genet. 53:
+55-57, 1990.
+
+CONTRIBUTORS Ada Hamosh - updated: 4/16/2008
+Paul J. Converse - updated: 1/12/2006
+Victor A. McKusick - updated: 6/6/2002
+
+CREATED Victor A. McKusick: 2/27/1989
+
+EDITED alopez: 09/08/2011
+alopez: 5/13/2008
+terry: 4/16/2008
+carol: 8/15/2006
+mgross: 1/12/2006
+mgross: 6/11/2002
+terry: 6/6/2002
+carol: 12/13/1998
+mark: 3/21/1996
+terry: 3/8/1996
+carol: 12/15/1993
+carol: 4/7/1993
+carol: 7/23/1992
+carol: 6/9/1992
+carol: 6/2/1992
+supermim: 3/16/1992
+
+603701	TITLE *603701 RIBOSOMAL PROTEIN S26; RPS26
+DESCRIPTION 
+DESCRIPTION
+
+The eukaryotic ribosome is composed of 4 RNA species (see 180450) and
+approximately 80 different proteins. The ribosomal protein genes appear
+to be members of multigene families, most of which contain multiple
+processed pseudogenes and 1 intron-containing functional gene.
+
+CLONING
+
+Vincent et al. (1993) isolated a HeLa cell cDNA encoding ribosomal
+protein S26 (RPS26). Northern blot analysis demonstrated that the 600-
+to 700-bp RPS26 transcript is expressed at high and comparable levels in
+various human adult tissues. The deduced RPS26 protein has 115 amino
+acids (SWISS-PROT SWISSPROT Q06722).
+
+GENE STRUCTURE
+
+Filipenko et al. (1998) isolated the genomic sequence of the functional
+RPS26 gene using PCR. The RPS26 gene has 4 exons which span 2,027 bp and
+result in an mRNA of 438 bp, plus the poly(A) tail. Like other
+vertebrate ribosomal protein genes, the RPS26 gene has a transcription
+start site that is located within a polypyrimidine tract, and a short
+5-prime untranslated region.
+
+MAPPING
+
+By analysis of somatic cell hybrids, Filipenko et al. (1998) mapped the
+intron-containing RPS26 gene to chromosome 12. Kenmochi et al. (1998)
+mapped the RPS26 gene to 12q using somatic cell hybrid and radiation
+hybrid mapping analyses.
+
+GENE FUNCTION
+
+Using siRNA knockdown in HeLa cells to analyze the role of RPS26 in
+pre-rRNA processing, Doherty et al. (2010) found that depletion of RPS26
+led to decreased levels of 18S rRNA, indicating that RPS26 is necessary
+for production of the small subunit. RNA blot analysis showed
+accumulation of 43S, 26S, and 18S-E pre-rRNAs, consistent with defects
+in cleavage at both ends of the 18S rRNA.
+
+MOLECULAR GENETICS
+
+Doherty et al. (2010) sequenced 35 ribosomal protein genes in a cohort
+of 117 patients with Diamond-Blackfan anemia (see DBA10, 613309) and
+identified 9 different mutations in the RPS26 gene in 12 patients (see,
+e.g., 603701.0001-603701.0005). None of the mutations were found in at
+least 520 chromosomes from a control population of similar, largely
+European origin. Six probands had a mutation in the first codon,
+changing met to leu, val, or arg, suggesting that the translation
+initiation codon may be a hotspot in RPS26. Doherty et al. (2010) noted
+that 1 of the mutation-positive patients (603701.0002) had cleft lip and
+palate, making RPS26 the third DBA gene in which mutation is associated
+with clefting in DBA.
+
+ALLELIC VARIANT .0001
+DIAMOND-BLACKFAN ANEMIA 10
+RPS26, MET1VAL
+
+In 6 patients with Diamond-Blackfan anemia-10 (613309) from 4 families,
+Doherty et al. (2010) identified heterozygosity for a 1A-G transition in
+exon 1 of the RPS26 gene, causing a met1-to-val (M1V) substitution that
+eliminates the start codon and is predicted to result in an untranslated
+protein. The mutation was not found in the unaffected parents of 2 of
+the probands or in at least 520 control chromosomes. Of the 6 patients
+with the M1V mutation, 3 were responsive to initial steroid therapy and
+3 were unresponsive; in 1 father-daughter pair, the father was
+responsive and the daughter was unresponsive. Three of the patients were
+receiving red blood cell transfusions, 2 were on steroid therapy, and 1
+required no therapy. One of the male patients, who was diagnosed at 7
+weeks of age, also had duplicated pelvis and calyx of the right kidney.
+
+.0002
+DIAMOND-BLACKFAN ANEMIA 10
+RPS26, MET1LEU
+
+In a male patient with Diamond-Blackfan anemia-10 (613309), Doherty et
+al. (2010) identified heterozygosity for a 1A-T transition in exon 1 of
+the RPS26 gene, causing a met1-to-leu (M1L) substitution that eliminates
+the start codon and is predicted to result in an untranslated protein.
+The mutation was not found in his unaffected parents and sister or in at
+least 520 control chromosomes. The patient, who was responsive to
+steroid therapy, also had cleft lip and palate.
+
+.0003
+DIAMOND-BLACKFAN ANEMIA 10
+RPS26, ASP33ASN
+
+In a male patient who was diagnosed at 8 months of age with
+Diamond-Blackfan anemia (613309), Doherty et al. (2010) identified
+heterozygosity for a 97G-A transition in exon 2 of the RPS26 gene,
+resulting in an asp33-to-asn (D33N) substitution. The mutation was not
+found in his unaffected parents or sister, or in at least 520 control
+chromosomes. Other features in this patient included inguinal hernia,
+unilaterally absent vas deferens, abnormal epididymis, and pronounced
+bony prominence of a cervical spinous process.
+
+.0004
+DIAMOND-BLACKFAN ANEMIA 10
+RPS26, 1-BP INS, 31G
+
+In a female patient with Diamond-Blackfan anemia-10 (613309), Doherty et
+al. (2010) identified heterozygosity for a 1-bp insertion (31insG) in
+exon 2 of the RPS26 gene, causing a frameshift and resulting in a
+termination sequence at codon 25. The mutation was not found in at least
+520 control chromosomes. The patient, who had no associated
+malformations, had been unresponsive to initial steroid therapy and was
+deceased.
+
+.0005
+DIAMOND-BLACKFAN ANEMIA 10
+RPS26, IVS1, G-A, +1
+
+In a male patient with Diamond-Blackfan anemia-10 (613309), Doherty et
+al. (2010) identified heterozygosity for a splice site mutation (+1G-A)
+in intron 1 of the RPS26 gene. The de novo mutation was not found in
+either of his parents or an unaffected sister and brother, or in at
+least 520 control chromosomes. The patient, who had been unresponsive to
+initial steroid therapy, was deceased.
+
+REFERENCE 1. Doherty, L.; Sheen, M. R.; Vlachos, A.; Choesmel, V.; O'Donohue,
+M.-F.; Clinton, C.; Schneider, H. E.; Sieff, C. A.; Newburger, P.
+E.; Ball, S. E.; Niewiadomska, E.; Matysiak, M.; Glader, B.; Arceci,
+R. J.; Farrar, J. E.; Atsidaftos, E.; Lipton, J. M.; Gleizes, P.-E.;
+Gazda, H. T.: Ribosomal protein genes RPS10 and RPS26 are commonly
+mutated in Diamond-Blackfan anemia. Am. J. Hum. Genet. 86: 222-228,
+2010. Note: Erratum: Am. J. Hum. Genet 86: 655-656, 2010.
+
+2. Filipenko, M. L.; Vinichenko, N. A.; Karpova, G. G.; Mertvetsov,
+N. P.; Amaldi, F.: Isolation, structural analysis and mapping of
+the functional gene of human ribosomal protein S26. Gene 211: 287-292,
+1998.
+
+3. Kenmochi, N.; Kawaguchi, T.; Rozen, S.; Davis, E.; Goodman, N.;
+Hudson, T. J.; Tanaka, T.; Page, D. C.: A map of 75 human ribosomal
+protein genes. Genome Res. 8: 509-523, 1998.
+
+4. Vincent, S.; Marty, L.; Fort, P.: S26 ribosomal protein RNA: an
+invariant control for gene regulation experiments in eucaryotic cells
+and tissues. Nucleic Acids Res. 21: 1498 only, 1993.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 3/18/2010
+
+CREATED Patti M. Sherman: 4/6/1999
+
+EDITED alopez: 06/18/2010
+alopez: 6/18/2010
+wwang: 5/12/2010
+carol: 3/18/2010
+psherman: 4/20/1999
+carol: 4/16/1999
+

@@ -1,0 +1,354 @@
+300161	TITLE *300161 EUKARYOTIC TRANSLATION INITIATION FACTOR 2, SUBUNIT 3; EIF2S3
+;;EUKARYOTIC TRANSLATION INITIATION FACTOR 2, GAMMA; EIF2G
+DESCRIPTION Translation initiation factor eIF-2 is a heterotrimeric GTP-binding
+protein involved in the recruitment of methionyl-tRNA(i) to the 40 S
+ribosomal subunit. Gaspar et al. (1994) cloned a human cDNA encoding the
+largest subunit of eIF-2, EIF2G. The EIF2G cDNA encodes a 472-amino acid
+protein with a molecular mass of 51.8 kD and contains 3 consensus
+GTP-binding elements. Human EIF2G is highly related to the yeast
+homolog, GCD11, exhibiting 71% sequence identity and an additional 13%
+similarity.
+
+Genes controlling the functions of spermatogenesis, Spy, and expression
+of the male-specific minor transplantation antigen H-Y, Hya (426000),
+map to a region of the short arm of the mouse Y chromosome,
+delta-Sxr(b), that lies between the zinc finger genes Zfy1 and Zfy2
+(490000) and is deleted in Sxr(b) mutant mice. These Sxr(b) mice arose
+from an original sex-reversed mutation, Sxr(a), that carries a
+duplication of most of the Y chromosome short arm translocated to the
+telomeric end of the pseudoautosomal region of the Y chromosome. Several
+genes were mapped to that interval of the mouse Y chromosome and each
+was found to have a homolog on the X chromosome. Four of them, Zfy1 and
+Zfy2 (490000), Ube1y (489000), and Dffry (400005), are expressed
+specifically in the testis and their X homologs (Zfx, 314980; Ube1x,
+314370; Dffrx, 300072) are not transcribed from the inactive X
+chromosome. A further 2, Smyc (426000) and Uty (400009), are
+ubiquitously expressed and their X homologs (Jarid1c/Smcx, 314690; Utx,
+300128) escape X inactivation. Ehrmann et al. (1998) identified another
+gene from this region of the mouse Y chromosome. It was found to encode
+the highly conserved eukaryotic translation initiation factor
+eIF-2-gamma. In the mouse this gene was found to be ubiquitously
+expressed, to have an X chromosome homolog that maps close to Dmd
+(300377), and to escape X inactivation. The coding regions of the X and
+Y genes show 86% nucleotide identity and encode the putative products
+with 98% amino acid identity. Ehrmann et al. (1998) found that the human
+homolog is located on Xp21 and also escapes X inactivation. No evidence
+of a Y copy of this gene was found in humans, however. In both humans
+and mice, Ehrmann et al. (1998) identified autosomal retroposons of
+EIF2G in both humans and mice and an additional retroposon on the X
+chromosome in some mouse strains. Ark blot analysis of eutherian and
+metatherian genomic DNA indicated that X-Y homologs are present in all
+species tested except in simian primates and kangaroo and that
+retroposons are common to a wide range of mammals. ('Zoo blots' are
+Southern blots of genomic DNA from multiple species without regard to
+gender; 'ark blots' are Southern blots used to compare male and female
+from multiple species.)
+
+Ehrmann et al. (1998) mapped the human EIF2S3 gene to Xp21 by isotopic
+in situ hybridization. The largest number of grains were located on the
+region Xp22.2-p22.1. A secondary hybridization repeat was detected on
+12p13.2-p12.3. No significant accumulation of grains was detected on the
+human Y chromosome.
+
+REFERENCE 1. Ehrmann, I. E.; Ellis, P. S.; Mazeyrat, S.; Duthie, S.; Brockdorff,
+N.; Mattei, M. G.; Gavin, M. A.; Affara, N. A.; Brown, G. M.; Simpson,
+E.; Mitchell, M. J.; Scott, D. M.: Characterization of genes encoding
+translation initiation factor eIF-2-gamma in mouse and human: sex
+chromosome localization, escape from X-inactivation and evolution. Hum.
+Molec. Genet. 7: 1725-1737, 1998.
+
+2. Gaspar, N. J.; Kinzy, T. G.; Scherer, B. J.; Humbelin, M.; Hershey,
+J. W. B.; Merrick, W. C.: Translation initiation factor eIF-2: cloning
+and expression of the human cDNA encoding the gamma-subunit. J. Biol.
+Chem. 269: 3415-3422, 1994.
+
+CREATED Victor A. McKusick: 11/30/1998
+
+EDITED wwang: 03/13/2008
+carol: 8/26/2005
+cwells: 3/13/2002
+carol: 8/25/2000
+carol: 12/2/1998
+
+611411	TITLE *611411 CALCIUM/CALMODULIN-DEPENDENT PROTEIN KINASE KINASE 1, ALPHA; CAMKK1
+;;CAMKK-ALPHA; CAMKKA
+DESCRIPTION 
+DESCRIPTION
+
+CAMKK1 catalyzes the phosphorylation and activation of Ca(2+)/calmodulin
+kinase (CaMK) as an upstream component of the CaMK cascade that has been
+implicated in neuronal gene transcription, synaptic plasticity, and
+long-term memory consolidation (Blaeser et al., 2006).
+
+CLONING
+
+By screening a rat brain cDNA library using partial amino acid sequence
+of a 68-kD purified rat brain CaMK kinase, followed by 5-prime RACE,
+Tokumitsu et al. (1995) cloned rat Camkk1. The deduced 505-amino acid
+protein has a calculated molecular mass of 56 kD. Camkk1 shares 30 to
+40% amino acid identity over the catalytic domains of serine/threonine
+kinases such as the CaM-kinase family (see CAMK2A; 114078). Camkk1
+contains a 22-amino acid proline-, arginine-, and glycine-rich insert
+between the ATP-binding motif and DGF kinase motif that is similar to
+the insert in yeast Ste11. Northern blot analysis of rat tissues
+detected high expression in forebrain, lower expression in cerebellum,
+and detectable signal in thymus and spleen.
+
+GENE FUNCTION
+
+Using Western blot analysis or gel overlay, Tokumitsu et al. (1995)
+showed that Camkk1 binds calmodulin (CALM1; 114180) and activated Camk4
+(114080) with a 6-fold increase in total activity and a 100-fold
+increase in Camk4 Ca(2+)-independent activity. Camkk1 catalyzed a
+10-fold increase in the total activity of Camk1 (604998) and had no
+effect on Camk2 (see CAMK2A; 114078). Cotransfection of COS-7 cells with
+Camkk1 and Camk4 resulted in a 14-fold increase in CRE-binding protein
+(CREB1; 123810)-dependent transcription compared with Camk4 alone,
+suggesting that Camkk1 enhances Camk4-mediated transcriptional
+regulation.
+
+Using pharmacologic inhibitors to block potential pathways involved in
+cytomegalovirus (CMV)-mediated activation of glycolysis, McArdle et al.
+(2011) found that inhibition of CAMKK, but not CAMK2 or protein kinase A
+(PKA; see 176911), blocked CMV-mediated glycolysis activation. CMV
+infection also induced CAMKK1 mRNA and protein expression. Inhibition of
+CAMKK had a negligible impact on CMV immediate-early protein
+accumulation, but it severely attenuated production of CMV viral
+progeny, reduced expression of 1 early CMV gene, and blocked viral DNA
+replication. CAMKK inhibition had no impact on herpes simplex virus
+(HSV)-1-induced glycolytic activation and a limited impact on HSV-1
+replication. McArdle et al. (2011) concluded that CAMKK has a role that
+is CMV specific and that it is an important factor in both CMV
+replication and glycolytic activation.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CAMKK1
+gene to chromosome 17 (TMAP SHGC-32989).
+
+ANIMAL MODEL
+
+Blaeser et al. (2006) generated mice with targeted disruption of Camkk1
+and carried out a variety of behavioral and learning and memory tests.
+Mutant mice exhibited normal long-term spatial memory, cued fear memory,
+basal synaptic transmission, and long-term potentiation. However, mutant
+mice displayed deficient long-term contextual fear memory, as measured
+in the post-shock freezing response. Mutant mice displayed decreased
+stress-induced anxiety-like behavior; however, other measures of anxiety
+such as the elevated plus maze and open field tests showed no difference
+from wildtype. Blaeser et al. (2006) concluded that Camkk1 plays a
+selective role in contextual fear memory. They showed that mice lacking
+Camkk1 displayed decreased phosphorylation and activation of Camk4 and
+Creb in specific brain areas involved in contextual fear memory
+formation.
+
+REFERENCE 1. Blaeser, F.; Sanders, M. J.; Truong, N.; Ko, S.; Wu, L. J.; Wozniak,
+D. F.; Fanselow, M. S.; Zhuo, M.; Chatila, T. A.: Long-term memory
+deficits in pavlovian fear conditioning in Ca(2+)/calmodulin kinase
+kinase alpha-deficient mice. Molec. Cell. Biol. 26: 9105-9115, 2006.
+
+2. McArdle, J.; Schafer, X. L.; Munger, J.: Inhibition of calmodulin-dependent
+kinase kinase blocks human cytomegalovirus-induced glycolytic activation
+and severely attenuates production of viral progeny. J. Virol. 85:
+705-714, 2011.
+
+3. Tokumitsu, H.; Enslen, H.; Soderling, T. R.: Characterization
+of a Ca(2+)/calmodulin-dependent protein kinase cascade: molecular
+cloning and expression of calcium/calmodulin-dependent protein kinase
+kinase. J. Biol. Chem. 270: 19320-19324, 1995.
+
+CONTRIBUTORS Paul J. Converse - updated: 1/2/2013
+
+CREATED Dorothy S. Reilly: 9/6/2007
+
+EDITED mgross: 01/07/2013
+terry: 1/2/2013
+carol: 12/20/2012
+wwang: 9/6/2007
+
+300522	TITLE *300522 IQ MOTIF- AND SEC7 DOMAIN-CONTAINING PROTEIN 2; IQSEC2
+;;KIAA0522
+DESCRIPTION 
+DESCRIPTION
+
+The IQSEC2 gene encodes a guanine nucleotide exchange factor for the ARF
+family of GTP-binding proteins (see, e.g., ARF1; 103180) (Shoubridge et
+al., 2010).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1998) cloned IQSEC2, which they designated
+KIAA0522. The deduced 1,560-amino acid protein shares weak homology with
+rat Sec7a. RT-PCR detected high expression of IQSEC2 in brain, kidney,
+and small intestine, and intermediate to low expression in placenta,
+pancreas, ovary, prostate, and liver. No expression was detected in
+other tissues examined.
+
+Shoubridge et al. (2010) characterized 2 isoforms of the IQSEC2 gene
+that are generated by alternative splicing. The longer isoform contains
+15 exons and encodes a 1,488-residue protein, whereas the shorter
+isoform contains 14 exons and encodes a 949-residue protein. The
+proteins have 906 amino acids in common, which include the IQ, Sec7, and
+PH functional domains, but vary at both the N and C termini. An
+alternative transcript for the longer isoform, resulting in a
+1,478-residue protein, was also proposed. Both the long and short
+isoforms were expressed in fetal and adult human brain.
+
+GENE FUNCTION
+
+Filippova et al. (2005) determined that the mouse Iqsec2 gene is subject
+to X inactivation, but human IQSEC2 escapes X inactivation. They
+attributed this difference to the presence of a CTCF (604167)-binding
+site at the 5-prime end of the upstream Jarid1c gene (314690) in mice
+that is not present in humans.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the IQSEC2
+gene to chromosome X. Filippova et al. (2005) noted that the mouse
+Iqsec2 gene also maps to chromosome X. In both mice and humans, the
+IQSEC2 gene lies between the JARID1C and SMC1A (300040) genes.
+
+MOLECULAR GENETICS
+
+In affected members of 4 unrelated families with X-linked nonsyndromic
+mental retardation (MRX1; 309530), Shoubridge et al. (2010) identified 4
+different hemizygous mutations in the IQSEC2 gene
+(300522.0001-300522.0004). Some carrier females had learning
+disabilities. The authors suggested that a defect in the GTP-binding
+activity of mutant IQSEC2 may influence the regulation of actin
+cytoskeleton organization and neuronal development in the brain.
+
+ALLELIC VARIANT .0001
+MENTAL RETARDATION, X-LINKED 1
+IQSEC2, ARG863TRP
+
+In affected members of a family with X-linked mental retardation 1
+(MRX1; 309530) reported by Suthers et al. (1988), Shoubridge et al.
+(2010) identified a 2587C-T transition in exon 8 of the IQSEC2 gene,
+resulting in an arg863-to-trp (R863W) substitution affecting a conserved
+residue in the Sec7 domain. The mutation was not found in 1,310 control
+individuals. In vitro functional expression studies showed that the
+mutant protein had significantly decreased GTP binding to ARF6 (600464)
+compared to wildtype.
+
+.0002
+MENTAL RETARDATION, X-LINKED 18
+IQSEC2, GLN801PRO
+
+In affected members of a family with X-linked mental retardation 18 (see
+309530 and Gedeon et al., 1994), Shoubridge et al. (2010) identified a
+2402A-C transversion in exon 6 of the IQSEC2 gene, resulting in a
+gln801-to-pro (Q801P) substitution affecting a conserved residue in the
+Sec7 domain. The mutation was not found in 1,310 control individuals. In
+vitro functional expression studies showed that the mutant protein had
+significantly decreased GTP binding to ARF6 (600464) compared to
+wildtype.
+
+.0003
+MENTAL RETARDATION, X-LINKED 1
+IQSEC2, ARG758GLN
+
+In affected members of a family with X-linked mental retardation
+(309530), Shoubridge et al. (2010) identified a 2273G-A transition in
+exon 5 of the IQSEC2 gene, resulting in an arg758-to-gln (R758Q)
+substitution affecting a conserved residue in the Sec7 domain. The
+mutation was not found in 1,310 control individuals. In vitro functional
+expression studies showed that the mutant protein had significantly
+decreased GTP binding to ARF6 (600464) compared to wildtype.
+
+.0004
+MENTAL RETARDATION, X-LINKED 1
+IQSEC2, ARG359CYS
+
+In affected members of an Australian family with X-linked mental
+retardation (309530), Shoubridge et al. (2010) identified a 1075C-T
+transition in exon 4 of the IQSEC2 gene, resulting in an arg359-to-cys
+(R359C) substitution affecting a conserved residue in the IQ-like
+domain. The mutation was not found in 1,310 control individuals. In
+vitro functional expression studies showed that the mutant protein
+resulted in a decrease of GTP-bound ARF6 (600464).
+
+REFERENCE 1. Filippova, G. N.; Cheng, M. K.; Moore, J. M.; Truong, J.-P.; Hu,
+Y. J.; Nguyen, D. K.; Tsuchiya, K. D.; Disteche, C. M.: Boundaries
+between chromosomal domains of X inactivation and escape bind CTCF
+and lack CpG methylation during early development. Dev. Cell 8:
+31-42, 2005.
+
+2. Gedeon, A.; Kerr, B.; Mulley, J.; Turner, G.: Pericentromeric
+genes for non-specific X-linked mental retardation (MRX). Am. J.
+Med. Genet. 51: 553-564, 1994.
+
+3. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+4. Shoubridge, C.; Tarpey, P. S.; Abidi, F.; Ramsden, S. L.; Rujirabanjerd,
+S.; Murphy, J. A.; Boyle, J.; Shaw, M.; Gardner, A.; Proos, A.; Puusepp,
+H.; Raymond, F. L.; and 10 others: Mutations in the guanine nucleotide
+exchange factor gene IQSEC2 cause nonsyndromic intellectual disability. Nature
+Genet. 42: 486-488, 2010.
+
+5. Suthers, G. K.; Turner, G.; Mulley, J. C.: A non-syndromal form
+of X-linked mental retardation (XLMR) is linked to DXS14. Am. J.
+Med. Genet. 30: 485-491, 1988.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 6/9/2010
+
+CREATED Patricia A. Hartz: 2/4/2005
+
+EDITED wwang: 11/09/2010
+alopez: 6/10/2010
+ckniffin: 6/9/2010
+mgross: 2/4/2005
+
+607977	TITLE *607977 HEADCASE, DROSOPHILA, HOMOLOG OF; HECA
+;;HDC
+DESCRIPTION 
+DESCRIPTION
+
+HECA is a homolog of the Drosophila 'headcase' protein (hdc). In
+Drosophila, hdc is required for adult development and is an inhibitor of
+epithelial sprouting and branching morphogenesis.
+
+CLONING
+
+By searching an EST database and screening cDNA libraries to identify
+genes located in a region of chromosome 6q that is commonly deleted in
+pancreatic cancers, Makino et al. (2001) cloned HECA, which they called
+HDC. The deduced protein contains 543 amino acids and the transcript has
+a long 3-prime untranslated region. HECA shares 40% identity over 320
+amino acids with Drosophila hdc. Northern blot analysis detected
+ubiquitous expression of a 5.6-kb transcript.
+
+GENE FUNCTION
+
+Makino et al. (2001) found low expression of HECA in 17 of 21 (81%)
+pancreatic cancer cell lines and in 4 of 5 (80%) renal cell carcinoma
+cell lines.
+
+GENE STRUCTURE
+
+Makino et al. (2001) determined that the HECA gene contains 4 exons. The
+last exon is large and contains an Alu repeat in the 3-prime
+untranslated region in the opposite strand.
+
+MAPPING
+
+By genomic sequence analysis, Makino et al. (2001) mapped the HECA gene
+to chromosome 6q24.
+
+REFERENCE 1. Makino, N.; Yamato, T.; Inoue, H.; Furukawa, T.; Abe, T.; Yokoyama,
+T.; Yatsuoka, T.; Fukushige, S.; Orikasa, S.; Takahashi, T.; Horii,
+A.: Isolation and characterization of the human gene homologous to
+the Drosophila headcase (hdc) gene in chromosome bands 6q23-q24, a
+region of common deletion in human pancreatic cancer. DNA Seq. 11:
+547-553, 2001.
+
+CREATED Patricia A. Hartz: 7/23/2003
+
+EDITED mgross: 07/23/2003
+

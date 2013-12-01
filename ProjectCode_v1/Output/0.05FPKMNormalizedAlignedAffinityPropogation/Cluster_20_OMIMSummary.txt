@@ -1,0 +1,585 @@
+604031	TITLE *604031 STEAROYL-CoA DESATURASE; SCD
+;;SCD1;;
+DELTA-9-DESATURASE
+DESCRIPTION 
+DESCRIPTION
+
+Stearoyl-CoA desaturase (SCD; EC 1.14.99.5) is an iron-containing enzyme
+that catalyzes a rate-limiting step in the synthesis of unsaturated
+fatty acids. The principal product of SCD is oleic acid, which is formed
+by desaturation of stearic acid. The ratio of stearic acid to oleic acid
+has been implicated in the regulation of cell growth and differentiation
+through effects on cell membrane fluidity and signal transduction. Four
+SCD isoforms, Scd1 through Scd4, have been identified in mouse. In
+contrast, only 2 SCD isoforms, SCD1 and SCD5 (608370), have been
+identified in human. SCD1 shares about 85% amino acid identity with all
+4 mouse SCD isoforms, as well as with rat Scd1 and Scd2. In contrast,
+SCD5 shares limited homology with the rodent SCDs and appears to be
+unique to primates (Zhang et al. (1999); Wang et al., 2005).
+
+CLONING
+
+Thiede et al. (1986) isolated cDNAs encoding rat Scd. By RT-PCR of
+adipose tissue RNA with primers based on the sequence of rat Scd, Li et
+al. (1994) isolated a partial human SCD cDNA. Using RNase protection
+assays, the authors found that human SCD was expressed at higher levels
+in colon and esophageal carcinomas than in the counterpart normal
+tissues.
+
+Zhang et al. (1999) cloned additional cDNAs corresponding to the
+full-length human SCD transcript, which differed at 15 positions from
+that of Li et al. (1994), leading to 6 predicted amino acid changes.
+Zhang et al. (1999) reported that the deduced 359-amino acid SCD protein
+contains the 3 highly conserved histidine-containing regions that are
+essential for the enzyme's catalytic activity. The coding region of
+human SCD shares 85% and 82% nucleotide identity with those of mouse
+Scd1 and Scd2, respectively. Northern blot analysis revealed that SCD is
+expressed ubiquitously as 3.9- and 5.2-kb mRNAs, with the highest levels
+in brain and liver. The 2 transcripts arise from use of alternative
+polyadenylation signals.
+
+GENE FUNCTION
+
+By stable expression of SCD antisense cDNA in transformed human lung
+fibroblasts, Scaglia and Igal (2005) found that SCD depletion led to
+decreased synthesis of monounsaturated fatty acids and phospholipids and
+promoted accumulation of saturated fatty acid-enriched unesterified
+fatty acids and triacylglycerol. Concomitantly, SCD deficiency led to
+reduced cell proliferation, loss of anchorage-independent growth, and
+increased sensitivity to ceramide-independent apoptosis. Cells
+expressing low SCD levels were more sensitive to the cytotoxic effects
+of exogenous palmitic acids. Because the effects of SCD deficiency were
+not reversed by the addition of exogenous oleic acid, Scaglia and Igal
+(2005) concluded that endogenous synthesis of monounsaturated fatty
+acids is essential in maintaining cellular lipid homeostasis.
+
+Using a mouse model of BCR (151410)/ABL (189980)-induced chronic myeloid
+leukemia, Zhang et al. (2012) found that expression of Scd1 was
+downregulated in leukemia stem cells. Knockdown of Scd1 in
+BCR/ABL-expressing mouse leukemia stem cells downregulated expression of
+apoptosis-related genes. Scd1 expression was induced by a PPAR-gamma
+(PPARG; 601487) agonist, resulting in reduced proliferation of leukemia
+stem cells. Scd1 appeared to have no effect on proliferation or
+apoptosis of normal hematopoietic stem cells.
+
+GENE STRUCTURE
+
+Zhang et al. (1999) demonstrated that the human SCD gene spans
+approximately 24 kb and contains 6 exons. They noted that the human,
+mouse, and rat SCD genes show similar organizations.
+
+MAPPING
+
+By analysis of a somatic cell hybrid panel, Zhang et al. (1999) mapped
+the SCD gene to chromosome 10 and a transcriptionally inactive,
+processed SCD pseudogene to chromosome 17.
+
+Wang et al. (2005) stated that the mouse Scd1, Scd2, Scd3, and Scd4
+genes map within a 200-kb stretch on chromosome 19 and are likely
+derived from tandem duplication events. Since no other SCD genes map to
+human chromosome 10, Wang et al. (2005) suggested that a gene
+duplication event similar to that resulting in the mouse Scd genes did
+not occur in humans.
+
+MOLECULAR GENETICS
+
+Suhre et al. (2011) reported a comprehensive analysis of
+genotype-dependent metabolic phenotypes using a GWAS with nontargeted
+metabolomics. They identified 37 genetic loci associated with blood
+metabolite concentrations, of which 25 showed effect sizes that were
+unusually high for GWAS and accounted for 10 to 60% differences in
+metabolite levels per allele copy. These associations provided new
+functional insights for many disease-related associations that had been
+reported in previous studies, including those for cardiovascular and
+kidney disorders, type 2 diabetes, cancer, gout, venous thromboembolism,
+and Crohn disease. Suhre et al. (2011) identified dbSNP rs603424 in the
+SCD gene as associated with myristate/myristoleate ratio with a p value
+of 2.9 x 10(-57).
+
+ANIMAL MODEL
+
+Zheng et al. (1999) identified deletions in the Scd1 gene in the asebia
+(ab) mutant mouse, which has rudimentary sebaceous glands and develops
+alopecia.
+
+Miyazaki et al. (2000) found that asebia (Scd1 -/-) mice had decreased
+levels of liver cholesterol esters and triglycerides, despite high
+activities of Acat (see ACAT1; 607809) and Gpat (GPAM; 602395), the
+enzymes that catalyze synthesis of cholesterol esters and triglycerides,
+respectively. Additionally, ad libitum access of Scd1 -/- mice to diets
+rich in oleate and palmitoleate did not restore their hepatic
+cholesterol esters and triglycerides to the levels found in normal mice.
+Miyazaki et al. (2000) concluded that Scd1 has an important role in
+cholesterol and lipoprotein homeostasis.
+
+To examine the mechanism underlying the metabolic actions of leptin
+(164160), Cohen et al. (2002) used transcription profiling to identify
+leptin-regulated genes in ob/ob liver. Leptin was found to specifically
+repress RNA levels and enzymatic activity of SCD, which catalyzes the
+biosynthesis of monounsaturated fatty acids. Mice lacking Scd1 were lean
+and hypermetabolic; ob/ob mice with mutations in Scd1 were significantly
+less obese than ob/ob controls and had markedly increased energy
+expenditure. Ob/ob mice with mutations in Scd1 had histologically normal
+livers with significantly reduced triglyceride storage and VLDL
+production. Cohen et al. (2002) concluded that downregulation of Scd1 is
+an important component of leptin's metabolic actions.
+
+SCD is a central lipogenic enzyme catalyzing the synthesis of
+monounsaturated fatty acids, mainly oleate (C18:1) and palmitoleate
+(C16:1), which are components of membrane phospholipids, triglycerides,
+wax esters, and cholesterol esters. Several SCD isoforms (Scd1, -2, and
+-3) exist in the mouse. Ntambi et al. (2002) showed that mice with a
+targeted disruption of the Scd1 isoform had reduced body adiposity,
+increased insulin (176730) sensitivity, and resistance to diet-induced
+weight gain. The protection from obesity involved increased energy
+expenditure and increased oxygen consumption. Compared with wildtype
+mice, the Scd1 -/- mice had increased levels of plasma ketone bodies but
+reduced levels of plasma insulin and leptin. In these homozygous null
+mice, the expression of several genes of lipid oxidation was
+upregulated, whereas lipid synthesis genes were downregulated. These
+observations suggested that a consequence of Scd1 deficiency is an
+activation of lipid oxidation in addition to reduced triglyceride
+synthesis and storage.
+
+Miyazaki et al. (2003) found that liver X receptor-alpha (NR1H3; 602423)
+agonists and a high carbohydrate fat-free diet induced Scd4 expression
+in mice, but unlike Scd1, Scd4 expression was not repressed by dietary
+polyunsaturated fatty acids. Scd4 mRNA expression was elevated 5-fold in
+the hearts of leptin (164160)-deficient ob/ob mice relative to wildtype
+controls. Treatment of ob/ob mice with leptin decreased Scd4 mRNA
+levels, but did not affect Scd1 or Scd2 mRNA levels. Scd4 mRNA levels
+were induced 3-fold in the hearts of Scd1-deficient mice.
+
+Miyazaki et al. (2005) found that Scd2 expression was high in mouse
+livers between embryonic day 18.5 and 21 days of age and decreased in
+adult mice. In contrast, Scd1 expression was induced after weaning.
+Miyazaki et al. (2005) found that Scd2 knockout was embryonic lethal in
+some mice depending upon the genetic background. In a strain able to
+tolerate Scd2 deletion, newborn Scd2-null mice were smaller than
+wildtype littermates, and a few hours after birth their skin appeared
+dry and cracked due to a permeability barrier defect. Mutant skin also
+showed repartitioning of linoleic acid from epidermal acylceramide
+species into phospholipids. Animals that survived to adulthood had
+normal sebaceous glands and hair growth, but they had a twisted tail.
+
+Using antisense Scd1 oligonucleotides, Gutierrez-Juarez et al. (2006)
+lowered hepatic Scd1 expression and activity in rats and mice with
+diet-induced insulin resistance. Insulin clamp studies revealed severe
+hepatic insulin resistance in high fat-fed rats and mice that was
+completely reversed by 5 days of treatment with antisense Scd1.
+Downregulation of Scd1 in mice also decreased glucose production (by
+about 75%), gluconeogenesis, and glycogenolysis. Downregulation of Scd1
+led to increased Akt (AKT1; 164730) phosphorylation and decreased
+expression of glucose-6-phosphatase (G6PC; 613742) and
+phosphoenolpyruvate carboxykinase (PCK1; 261680). Gutierrez-Juarez et
+al. (2006) concluded that Scd1 is required for the onset of diet-induced
+hepatic insulin resistance.
+
+Lam et al. (2007) found that intracerebroventricular administration of
+glucose in rats lowered circulating triglycerides through inhibition of
+VLDL secretion by the liver. The effect of glucose required its
+conversion to lactate, leading to activation of ATP-sensitive potassium
+channels and to decreased hepatic Scd1 activity. Injection of a
+sequence-specific antisense oligodeoxynucleotide decreased the hepatic
+activity of Scd1 and recapitulated the effects of central glucose
+administration on VLDL secretion, and portal infusion of oleic acid
+negated the effects of both central glucose and Scd1 deficiency on VLDL
+secretion. These central effects of glucose, but not those of lactate,
+were rapidly lost in diet-induced obese rats. Lam et al. (2007)
+suggested that a defect in brain glucose sensing might play a critical
+role in the etiology of the metabolic syndrome.
+
+REFERENCE 1. Cohen, P.; Miyazaki, M.; Socci, N. D.; Hagge-Greenberg, A.; Liedtke,
+W.; Soukas, A. A.; Sharma, R.; Hudgins, L. C.; Ntambi, J. M.; Friedman,
+J. M.: Role for stearoyl-CoA desaturase-1 in leptin-mediated weight
+loss. Science 297: 240-243, 2002.
+
+2. Gutierrez-Juarez, R.; Pocai, A.; Mulas, C.; Ono, H.; Bhanot, S.;
+Monia, B. P.; Rossetti, L.: Critical role of stearoyl-CoA desaturase-1
+(SCD1) in the onset of diet-induced hepatic insulin resistance. J.
+Clin. Invest. 116: 1686-1695, 2006.
+
+3. Lam, T. K. T.; Gutierrez-Juarez, R.; Pocai, A.; Bhanot, S.; Tso,
+P.; Schwartz, G. J.; Rossetti, L.: Brain glucose metabolism controls
+the hepatic secretion of triglyceride-rich lipoproteins. Nature Med. 13:
+171-180, 2007.
+
+4. Li, J.; Ding, S.-F.; Habib, N. A.; Fermor, B. F.; Wood, C. B.;
+Gilmour, R. S.: Partial characterization of a cDNA for human stearoyl-CoA
+desaturase and changes in its mRNA expression in some normal and malignant
+tissues. Int. J. Cancer 57: 348-352, 1994.
+
+5. Miyazaki, M.; Dobrzyn, A.; Elias, P. M.; Ntambi, J. M.: Stearoyl-CoA
+desaturase-2 gene expression is required for lipid synthesis during
+early skin and liver development. Proc. Nat. Acad. Sci. 102: 12501-12506,
+2005.
+
+6. Miyazaki, M.; Jacobson, M. J.; Man, W. C.; Cohen, P.; Asilmaz,
+E.; Friedman, J. M.; Ntambi, J. M.: Identification and characterization
+of murine SCD4, a novel heart-specific stearoyl-CoA desaturase isoform
+regulated by leptin and dietary factors. J. Biol. Chem. 278: 33904-33911,
+2003.
+
+7. Miyazaki, M.; Kim, Y.-C.; Gray-Keller, M. P.; Attie, A. D.; Ntambi,
+J. M.: The biosynthesis of hepatic cholesterol esters and triglycerides
+is impaired in mice with a disruption of the gene for stearoyl-CoA
+desaturase 1. J. Biol. Chem. 275: 30132-30138, 2000.
+
+8. Ntambi, J. M.; Miyazaki, M.; Stoehr, J. P.; Lan, H.; Kendziorski,
+C. M.; Yandell, B. S.; Song, Y.; Cohen, P.; Friedman, J. M.; Attie,
+A. D.: Loss of stearoyl-CoA desaturase-1 function protects mice against
+adiposity. Proc. Nat. Acad. Sci. 99: 11482-11486, 2002.
+
+9. Scaglia, N.; Igal, R. A.: Stearoyl-CoA desaturase is involved
+in the control of proliferation, anchorage-independent growth, and
+survival in human transformed cells. J. Biol. Chem. 280: 25339-25349,
+2005.
+
+10. Suhre, K.; Shin, S.-Y.; Petersen, A.-K.; Mohney, R. P.; Meredith,
+D.; Wagele, B.; Altmaier, E.; CARDIoGRAM; Deloukas, P.; Erdmann,
+J.; Grundberg, E.; Hammond, C. J.; and 22 others: Human metabolic
+individuality in biomedical and pharmaceutical research. Nature 477:
+54-60, 2011.
+
+11. Thiede, M. A.; Ozols, J.; Strittmatter, P.: Construction and
+sequence of cDNA for rat liver stearyl coenzyme A desaturase. J.
+Biol. Chem. 261: 13230-13235, 1986.
+
+12. Wang, J.; Yu, L.; Schmidt, R. E.; Su, C.; Huang, X.; Gould, K.;
+Cao, G.: Characterization of HSCD5, a novel human stearoyl-CoA desaturase
+unique to primates. Biochem. Biophys. Res. Commun. 332: 735-742,
+2005.
+
+13. Zhang, H.; Li, H.; Ho, N.; Li, D.; Li, S.: Scd1 plays a tumor-suppressive
+role in survival of the leukemia stem cells and the development of
+chronic myeloid leukemia. Molec. Cell Biol. 32: 1776-1787, 2012.
+
+14. Zhang, L.; Ge, L.; Parimoo, S.; Stenn, K.; Prouty, S. M.: Human
+stearoyl-CoA desaturase: alternative transcripts generated from a
+single gene by usage of tandem polyadenylation sites. Biochem. J. 340:
+255-264, 1999.
+
+15. Zheng, Y.; Eilertsen, K. J.; Ge, L.; Zhang, L.; Sundberg, J. P.;
+Prouty, S. M.; Stenn, K. S.; Parimoo, S.: Scd1 is expressed in sebaceous
+glands and is disrupted in the asebia mouse. (Letter) Nature Genet. 23:
+268-270, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/13/2013
+Ada Hamosh - updated: 9/26/2011
+Marla J. F. O'Neill - updated: 4/12/2007
+Patricia A. Hartz - updated: 7/20/2006
+Matthew B. Gross - updated: 11/4/2005
+Patricia A. Hartz - updated: 10/20/2005
+Victor A. McKusick - updated: 10/9/2002
+Ada Hamosh - updated: 7/25/2002
+Ada Hamosh - updated: 10/27/1999
+
+CREATED Rebekah S. Rasooly: 7/20/1999
+
+EDITED mgross: 02/13/2013
+mgross: 2/13/2013
+terry: 2/13/2013
+alopez: 10/5/2011
+terry: 9/26/2011
+carol: 2/15/2011
+wwang: 4/23/2007
+wwang: 4/17/2007
+terry: 4/12/2007
+mgross: 8/2/2006
+terry: 7/20/2006
+mgross: 11/4/2005
+terry: 10/20/2005
+cwells: 11/6/2003
+tkritzer: 10/17/2002
+tkritzer: 10/9/2002
+cwells: 7/25/2002
+alopez: 11/1/1999
+terry: 10/27/1999
+alopez: 7/20/1999
+
+609238	TITLE *609238 RAB GTPase-ACTIVATING PROTEIN 1-LIKE; RABGAP1L
+;;TBC1 DOMAIN FAMILY, MEMBER 18; TBC1D18;;
+KIAA0471
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Seki et al. (1997) cloned RABGAP1L, which they designated
+KIAA0471. The transcript contains an Alu element in the 3-prime UTR. The
+deduced protein contains 370 amino acids. SDS-PAGE detected RABGAP1L at
+an apparent molecular mass of about 50 kD.
+
+Using RT-PCR, Ishikawa et al. (1997) found ubiquitous RABGAP1L
+expression. Highest expression was in placenta, liver, kidney, and small
+intestine, and lowest expression was in skeletal muscle and spleen.
+
+Hidaka et al. (2000) cloned mouse Rabgap1l, which they designated Hhl.
+The deduced 298-amino acid protein contains a PTB domain and shares
+homology with the N terminus of human GAPCENA (RABGAP1). Northern blot
+analysis detected several Rabgap1l transcripts expressed in a
+tissue-specific manner. In situ hybridization of day-14.5 embryos
+revealed expression in heart and liver.
+
+GENE FUNCTION
+
+By differential display, Sharma et al. (2003) found that RABGAP1L
+expression was upregulated in esophageal squamous cell carcinomas
+compared with matched normal esophageal epithelial tissue. In
+particular, RABGAP1L expression was upregulated in esophageal tumors
+showing nodal invasion.
+
+MAPPING
+
+By radiation hybrid analysis, Ishikawa et al. (1997) mapped the RABGAP1L
+gene to chromosome 1.
+
+MOLECULAR GENETICS
+
+Most patients with Alzheimer disease (AD; 104300) are considered
+sporadic late-onset cases with a complex etiology. By differential
+display RT-PCR analysis, De Yebra et al. (2004) found inhibition of
+RABGAP1L expression in medial septum and hippocampus in 3 of 6 AD
+patients, including 1 with a PSEN1 (104311) mutation.
+
+REFERENCE 1. de Yebra, L.; Adroer, R.; de Gregorio-Rocasolano, N.; Blesa, R.;
+Trullas, R.; Mahy, N.: Reduced KIAA0471 mRNA expression in Alzheimer's
+patients: a new candidate gene product linked to the disease? Hum.
+Molec. Genet. 13: 2607-2612, 2004.
+
+2. Hidaka, M.; Caruana, G.; Stanford, W. L.; Sam, M.; Correll, P.
+H.; Bernstein, A.: Gene trapping of two novel genes, Hzf and Hhl,
+expressed in hematopoietic cells. Mech. Dev. 90: 3-15, 2000.
+
+3. Ishikawa, K.; Nagase, T.; Nakajima, D.; Seki, N.; Ohira, M.; Miyajima,
+N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of
+the coding sequences of unidentified human genes. VIII. 78 new cDNA
+clones from brain which code for large proteins in vitro. DNA Res. 4:
+307-313, 1997.
+
+4. Seki, N.; Ohira, M.; Nagase, T.; Ishikawa, K.; Miyajima, N.; Nakajima,
+D.; Nomura, N.; Ohara, O.: Characterization of cDNA clones in size-fractionated
+cDNA libraries from human brain. DNA Res. 4: 345-349, 1997.
+
+5. Sharma, R.; Samantary, S.; Shukla, N. K.; Ralhan, R.: Transcriptional
+gene expression profile of human esophageal squamous cell carcinoma. Genomics 81:
+481-488, 2003.
+
+CONTRIBUTORS George E. Tiller - updated: 6/13/2007
+
+CREATED Patricia A. Hartz: 3/3/2005
+
+EDITED wwang: 06/15/2007
+terry: 6/13/2007
+alopez: 3/2/2007
+mgross: 3/3/2005
+
+611477	TITLE *611477 RNA POLYMERASE II-ASSOCIATED PROTEIN 3; RPAP3
+DESCRIPTION 
+CLONING
+
+Jeronimo et al. (2007) identified RPAP3 as an RNA polymerase II (see
+180660)-associated protein in HEK293 human embryonic kidney cells and
+obtained a full-length RPAP3 cDNA by database and sequence analyses. The
+deduced 665-amino acid protein contains 2 helix-turn-helix
+tetratricopeptide repeats characteristic of chaperone cofactors.
+
+GENE FUNCTION
+
+Using affinity purification, mass spectrometry, and bioinformatic
+analysis, Jeronimo et al. (2007) mapped an interaction network of
+protein complexes involved in the RNA polymerase II machinery. They
+found that RPAP1 (611475), RPAP2 (611476), RPAP3, and XAB1 (611479) were
+tightly bound to RNA polymerase II in the soluble nuclear compartment in
+HEK293 cells, and gel filtration with epitope-tagged POLR2J (604150)
+confirmed that RPAP1, RPAP3, and XAB1 cofractionated with RNA polymerase
+II. Examination of the protein interaction network revealed that the
+RPAPs and XAB1 also interacted with components of the Mediator (e.g.,
+MED17; 603810) and Integrator (e.g., INTS3; 611347) complexes, as well
+as with proteins able to assemble into molecular chaperone complexes,
+including the prefoldins (e.g., PFDN6; 605660) and the AAA+ ATPases
+RUVBL1 (603449) and RUVBL2 (604788).
+
+MAPPING
+
+Hartz (2007) mapped the RPAP3 gene to chromosome 12q13.11 based on an
+alignment of the RPAP3 sequence (GenBank GENBANK AK025561) with the
+genomic sequence (build 36.2).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  9/28/2007.
+
+2. Jeronimo, C.; Forget, D.; Bouchard, A.; Li, Q.; Chua, G.; Poitras,
+C.; Therien, C.; Bergeron, D.; Bourassa, S.; Greenblatt, J.; Chabot,
+B.; Poirier, G. G.; Hughes, T. R.; Blanchette, M.; Price, D. H.; Coulombe,
+B.: Systematic analysis of the protein interaction network for the
+human transcription machinery reveals the identity of the 7SK capping
+enzyme. Molec. Cell 27: 262-274, 2007.
+
+CREATED Patricia A. Hartz: 9/28/2007
+
+EDITED carol: 11/30/2007
+mgross: 9/28/2007
+
+609977	TITLE *609977 CELL DIVISION CYCLE-ASSOCIATED PROTEIN 8; CDCA8
+;;DASRA B;;
+BOREALIN
+DESCRIPTION 
+DESCRIPTION
+
+CDCA8 is a component of a chromosomal passenger complex required for
+stability of the bipolar mitotic spindle (Gassmann et al., 2004).
+
+CLONING
+
+By database analysis, Sampath et al. (2004) identified human CDCA8 as a
+homolog of Xenopus Dasra B. The deduced 280-amino acid human protein,
+which the authors called Dasra B, shares 42% and 23% identity with
+Xenopus Dasra B and Dasra A, respectively. Immunofluorescence on
+metaphase HeLa cells revealed Dasra B in a punctate distribution on
+chromosomes, coincident with Aurora B (AURKB; 604970) staining.
+
+Using a proteomic screen to identify proteins associated with
+histone-depleted mitotic chromosomes, Gassmann et al. (2004) identified
+CDCA8, which they called borealin. The deduced 280-amino acid protein
+contains 2 putative nuclear localization signals. Secondary structure
+predictions suggested borealin forms an N-terminal domain of 6 core
+helices and a C-terminal domain of at least 2 strands and 3 helices.
+Northern and Western blot analyses showed that borealin mRNA and protein
+levels were significantly increased in mitosis. Immunolocalization of
+borealin and Aurora B in HeLa cells revealed that the proteins
+colocalized in a dynamic pattern throughout mitosis. Western blot
+analysis detected borealin at an apparent molecular mass of 31 kD in
+HeLa cell lysates.
+
+GENE FUNCTION
+
+By immunoprecipitation of HeLa cell lysates, Sampath et al. (2004) found
+that Dasra B interacted with Aurora B and survivin (BIRC5; 603352).
+Knockdown of Dasra B by small interfering RNA resulted in severe
+chromosome misalignment at metaphase and accumulation of multiple
+interphase nuclei. In Xenopus, Dasra B associated with survivin, Aurora
+B, and Incenp (604411) in a chromosomal passenger complex required for
+chromatin-induced microtubule stabilization and spindle formation.
+Microtubule nucleation through the Dasra B-containing chromosomal
+passenger complex was distinct from the Ran (601179)-GTP pathway of
+chromatin-induced microtubule nucleation.
+
+Using in vitro binding assays, Gassmann et al. (2004) showed that
+recombinant human borealin interacted directly with in vitro translated
+INCENP and survivin, but not with Aurora B or TD60 (RCC2; 609587).
+Borealin also readily bound itself. Mutation analysis indicated that the
+N-terminal domain of borealin, but not the C-terminal domain, interacted
+with chromosomal passengers in vivo and could perturb their targeting to
+centromeres but not to the spindle midzone. Knockdown of borealin in
+HeLa cells by RNA interference resulted in delocalization of INCENP,
+survivin, Aurora B, and TD60 and delayed mitotic progression.
+Borealin-null cells showed kinetochore-spindle misattachments, increased
+number of bipolar spindles associated with ectopic asters, and disrupted
+chromosome partitioning at anaphase. Borealin did not increase the
+kinase activity of Aurora B in the presence of INCENP and survivin, but
+it was an Aurora B target protein.
+
+Tsukahara et al. (2010) isolated a fission yeast cyclin B (123836)
+mutant defective specifically in chromosome biorientation. Accordingly,
+Tsukahara et al. (2010) identified Cdk1 (116940)-cyclin B-dependent
+phosphorylation of survivin (603352). Preventing survivin
+phosphorylation impaired centromere chromosomal passenger complex (CPC)
+targeting as well as chromosome biorientation, whereas phosphomimetic
+survivin suppressed the biorientation defect in the cyclin B mutant.
+Survivin phosphorylation promoted direct binding with shugoshin (see
+609168), which Tsukahara et al. (2010) defined as a conserved
+centromeric adaptor of the CPC. In human cells, the phosphorylation of
+borealin has a comparable role. Tsukahara et al. (2010) concluded that
+this study resolved the conserved mechanisms of CPC targeting to
+centromeres, highlighting a key role of Cdk1-cyclin B in chromosome
+biorientation.
+
+GENE STRUCTURE
+
+Gassmann et al. (2004) determined that the CDCA8 gene contains 10 exons.
+
+MAPPING
+
+By genomic sequence analysis, Gassmann et al. (2004) mapped the CDCA8
+gene to chromosome 1. They identified a possible pseudogene on
+chromosome 7.
+
+REFERENCE 1. Gassmann, R.; Carvalho, A.; Henzing, A. J.; Ruchaud, S.; Hudson,
+D. F.; Honda, R.; Nigg, E. A.; Gerloff, D. L.; Earnshaw, W. C.: Borealin:
+a novel chromosomal passenger required for stability of the bipolar
+mitotic spindle. J. Cell Biol. 166: 179-191, 2004.
+
+2. Sampath, S. C.; Ohi, R.; Leismann, O.; Salic, A.; Pozniakovski,
+A.; Funabiki, H.: The chromosomal passenger complex is required for
+chromatin-induced microtubule stabilization and spindle assembly. Cell 118:
+187-202, 2004.
+
+3. Tsukahara, T.; Tanno, Y.; Watanabe, Y.: Phosphorylation of the
+CPC by Cdk1 promotes chromosome bi-orientation. Nature 467: 719-723,
+2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/27/2010
+
+CREATED Patricia A. Hartz: 3/17/2006
+
+EDITED alopez: 10/27/2010
+mgross: 3/17/2006
+
+610701	TITLE *610701 HEAT-SHOCK 70-KD PROTEIN 12A; HSPA12A
+;;KIAA0417
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Ishikawa et al. (1997) cloned HSPA12A, which they designated
+KIAA0417. The deduced protein contains 710 amino acids. RT-PCR analysis
+detected highest HSPA12A expression in brain, followed by kidney,
+testis, and ovary. Little to no expression was detected in other tissues
+examined. In vitro translated HSPA12A had an apparent molecular mass of
+73 kD by SDS-PAGE.
+
+Han et al. (2003) cloned mouse Hspa12a. The deduced 675-amino acid
+protein has an atypical HSP70 (see HSPA1A; 140550) ATPase domain, which
+is in 2 parts separated by a 66-amino acid spacer region. Han et al.
+(2003) identified human HSPA12A by database analysis. The 675-amino acid
+human protein shares 96% identity with mouse Hspa12a and 60% identity
+with human HSPA12B (610702). Northern blot analysis of human tissues
+detected highest expression of a 6.5-kb transcript in brain, with
+progressively lower levels in kidney, skeletal muscle, and heart. Mouse
+Hspa12a showed a similar expression pattern, but it was not expressed in
+skeletal muscle.
+
+GENE FUNCTION
+
+Han et al. (2003) found that Hspa12a was more highly expressed in
+elicited peritoneal macrophages from an atherosclerosis-sensitive mouse
+strain than in those from an atherosclerosis-resistant strain, and both
+Hspa12a and Hspa12b were preferentially expressed in lesional portions
+of aorta. In situ hybridization confirmed that Hspa12a and Hspa12b were
+expressed in lesions, but not in normal nonlesional aortic tissue.
+
+GENE STRUCTURE
+
+Han et al. (2003) determined that the HSPA12A gene contains 12 exons and
+has a long 3-prime UTR.
+
+MAPPING
+
+By radiation hybrid analysis, Ishikawa et al. (1997) mapped the HSPA12A
+gene to chromosome 10. Han et al. (2003) mapped the mouse Hspa12a gene
+to chromosome 19.
+
+REFERENCE 1. Han, Z.; Truong, Q. A.; Park, S.; Breslow, J. L.: Two Hsp70 family
+members expressed in atherosclerotic lesions. Proc. Nat. Acad. Sci. 100:
+1256-1261, 2003.
+
+2. Ishikawa, K.; Nagase, T.; Nakajima, D.; Seki, N.; Ohira, M.; Miyajima,
+N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of
+the coding sequences of unidentified human genes. VIII. 78 new cDNA
+clones from brain which code for large proteins in vitro. DNA Res. 4:
+307-313, 1997.
+
+CREATED Patricia A. Hartz: 1/12/2007
+
+EDITED mgross: 01/12/2007
+mgross: 1/12/2007
+

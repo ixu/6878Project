@@ -1,0 +1,371 @@
+612805	TITLE *612805 THREONYL-tRNA SYNTHETASE 2; TARS2
+;;THREONYL-tRNA SYNTHETASE, MITOCHONDRIAL;;
+MITOCHONDRIAL THRRS
+DESCRIPTION 
+CLONING
+
+By searching databases for aminoacyl-tRNA synthetases containing a
+mitochondrial targeting sequence, Bonnefond et al. (2005) identified
+TARS2, which the called mitochondrial THRRS. The deduced 718-amino acid
+protein has an N-terminal mitochondrial targeting signal with a
+predicted cleavage site after residue 39. TARS2 has characteristics of a
+class II mitochondrial aminoacyl-tRNA synthetase and is expected to
+function as a dimer.
+
+GENE STRUCTURE
+
+Bonnefond et al. (2005) determined that the TARS2 gene contains 18 exons
+and spans 19.6 kb.
+
+MAPPING
+
+By genomic sequence analysis, Bonnefond et al. (2005) mapped the TARS2
+gene to chromosome 1.
+
+REFERENCE 1. Bonnefond, L.; Fender, A.; Rudinger-Thirion, J.; Giege, R.; Florentz,
+C.; Sissler, M.: Toward the full set of human mitochondrial aminoacyl-tRNA
+synthetases: characterization of AspRS and TyrRS. Biochemistry 44:
+4805-4816, 2005.
+
+CREATED Patricia A. Hartz: 5/22/2009
+
+EDITED mgross: 05/22/2009
+
+609367	TITLE *609367 KIAA1279 GENE; KIAA1279
+;;KINESIN-BINDING PROTEIN; KBP
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (1999) cloned KIAA1279. The deduced protein
+contains 632 amino acids. RT-PCR detected high expression in heart,
+brain, ovary, testis, spinal cord, and all specific brain regions
+examined. Moderate expression was detected in all other adult tissues
+examined, as well as in fetal liver and brain.
+
+Brooks et al. (2005) reported that the KIAA1279 gene encodes a 621-amino
+acid protein that shares 89% sequence homology with the mouse homolog.
+The predicted protein contains 2 tetratricopeptide repeats. Northern
+blot analysis of adult and fetal tissues detected expression of a 2.4-kb
+transcript in all tissues except blood leukocytes. The transcript was
+present in different parts of the adult central nervous system,
+including cerebellum, cortex, medulla, spinal cord, occipital lobe,
+frontal lobe, temporal lobe, and putamen.
+
+By in situ hybridization of zebrafish embryos, Alves et al. (2010) found
+that Kbp was ubiquitously and diffusely expressed in early development
+and later became enriched in the central and enteric nervous systems.
+Fluorescence-tagged Kbp was expressed in the cytoplasm of transfected
+N1E-115 mouse neuroblastoma cells, with enrichment at the Golgi
+apparatus.
+
+GENE STRUCTURE
+
+Brooks et al. (2005) stated that the KIAA1279 gene contains 7 exons
+spanning 28 kb.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1999) mapped the KIAA1279
+gene to chromosome 10.
+
+Gross (2012) mapped the KIAA1279 gene to chromosome 10q22.1 based on an
+alignment of the KIAA1279 sequence (GenBank GENBANK BC012180) with the
+genomic sequence (GRCh37).
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis of an embryonic mouse cDNA library, Alves et
+al. (2010) found that Kbp interacted with the microtubule-destabilizing
+protein Scg10 (STMN2; 600621), with tubulin alpha-7 (Tuba3b), and with
+the kinesins Kif5b (602809), Kif5c (604593), Kif7 (611254), Kif2c
+(604538), Kif3a (604683), and Kifc1 (603763). Sequencing revealed that
+Kbp interacted with kinesin motor domains. Coimmunoprecipitation
+analysis of transfected HEK293 cells and colocalization of Kbp and Scg10
+in N1E-115 cells confirmed the interaction between Kbp and Scg10. Kbp
+did not appear to interact directly with microtubules. Knockdown of Kbp
+expression in rat PC12 cells inhibited NGF-beta (NGFB; 162030)-induced
+neurite outgrowth. Alves et al. (2010) concluded that KBP has an
+indirect role in regulating microtubule dynamics and neurite outgrowth
+via its interaction with SCG10.
+
+MOLECULAR GENETICS
+
+Using homozygosity mapping in a large consanguineous Moroccan family
+with Goldberg-Shprintzen megacolon syndrome (GOSHS; 609460), which is
+characterized by microcephaly, mental retardation, facial dysmorphism,
+and Hirschsprung disease, Brooks et al. (2005) mapped the disorder to
+chromosome 10q21.3-q22.1. In affected members of this family, they
+identified homozygosity for an arg90-to-ter mutation (609367.0001) in
+the KIAA1279 gene. All patients in this family had bilateral generalized
+polymicrogyria in addition to Hirschsprung disease, thus establishing
+the importance of KIAA1279 in both enteric and central nervous system
+development. In 4 affected members of a consanguineous British Pakistani
+family, Brooks et al. (2005) identified homozygosity for a glu84-to-ter
+mutation (609367.0002) in the KIAA1279 gene.
+
+ALLELIC VARIANT .0001
+GOLDBERG-SHPRINTZEN MEGACOLON SYNDROME
+KIAA1279, ARG90TER
+
+In a consanguineous Moroccan family, Brooks et al. (2005) found that
+individuals with the Goldberg-Shprintzen megacolon syndrome (609460)
+were homozygous for a 303C-T transversion in exon 1 of the KIAA1279
+gene, resulting in an arg90-to-ter (R90X) substitution and a shortened
+protein of 89 amino acids.
+
+.0002
+GOLDBERG-SHPRINTZEN MEGACOLON SYNDROME
+KIAA1279, GLU84TER
+
+In a consanguineous British Pakistani family, Brooks et al. (2005) found
+that individuals with the Goldberg-Shprintzen megacolon syndrome
+(609460) were homozygous for a 285G-T transversion in the KIAA1279 gene,
+resulting in a glu84-to-ter (E84X) substitution.
+
+REFERENCE 1. Alves, M. M.; Burzynski, G.; Delalande, J.-M.; Osinga, J.; van
+der Goot, A.; Dolga, A. M.; de Graaff, E.; Brooks, A. S.; Metzger,
+M.; Eisel, U. L. M.; Shepherd, I.; Eggen, B. J. L.; Hofstra, R. M.
+W.: KBP interacts with SCG10, linking Goldberg-Shprintzen syndrome
+to microtubule dynamics and neuronal differentiation. Hum. Molec.
+Genet. 19: 3642-3651, 2010.
+
+2. Brooks, A. S.; Bertoli-Avella, A. M.; Burzynski, G. M.; Breedveld,
+G. J.; Osinga, J.; Boven, L. G.; Hurst, J. A.; Mancini, G. M. S.;
+Lequin, M. H.; de Coo, R. F.; Matera, I.; de Graaff, E.; Meijers,
+C.; Willems, P. J.; Tibboel, D.; Oostra, B. A.; Hofstra, R. M. W.
+: Homozygous nonsense mutations in KIAA1279 are associated with malformations
+of the central and enteric nervous systems. Am. J. Hum. Genet. 77:
+120-126, 2005.
+
+3. Gross, M. B.: Personal Communication. Baltimore, Md.  5/5/2012.
+
+4. Nagase, T.; Ishikawa, K.; Kikuno, R.; Hirosawa, M.; Nomura, N.;
+Ohara, O.: Prediction of the coding sequences of unidentified human
+genes. XV. The complete sequences of 100 new cDNA clones from brain
+which code for large proteins in vitro. DNA Res. 6: 337-345, 1999.
+
+CONTRIBUTORS Matthew B. Gross - updated: 05/02/2012
+Patricia A. Hartz - updated: 4/26/2012
+Victor A. McKusick - updated: 6/28/2005
+
+CREATED Patricia A. Hartz: 5/13/2005
+
+EDITED mgross: 05/02/2012
+terry: 4/26/2012
+carol: 7/1/2005
+terry: 6/28/2005
+mgross: 5/16/2005
+mgross: 5/13/2005
+
+611856	TITLE *611856 MITOCHONDRIAL RIBOSOMAL PROTEIN L52; MRPL52
+DESCRIPTION 
+DESCRIPTION
+
+Mitochondria have their own translation system for production of 13
+inner membrane proteins essential for oxidative phosphorylation. MRPL52
+is a component of the large subunit of the mitochondrial ribosome that
+is encoded by the nuclear genome (Koc et al., 2001).
+
+CLONING
+
+By searching databases using bovine Mrpl52 as query, Koc et al. (2001)
+identified human MRPL52. They also identified MRPL52 homologs in mouse,
+Drosophila, and C. elegans, but not in yeast, E. coli, or Arabidopsis.
+Mouse and human MRPL52 share 85.1% amino acid identity.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the MRPL52
+gene to chromosome 14 (TMAP RH103319).
+
+REFERENCE 1. Koc, E. C.; Burkhart, W.; Blackburn, K.; Moyer, M. B.; Schlatzer,
+D. M.; Moseley, A.; Spremulli, L. L.: The large subunit of the mammalian
+mitochondrial ribosome: analysis of the complement of ribosomal proteins
+present. J. Biol. Chem. 276: 43958-43969, 2001.
+
+CREATED Patricia A. Hartz: 2/26/2008
+
+EDITED mgross: 03/05/2008
+mgross: 3/5/2008
+
+612895	TITLE *612895 NUCLEOREDOXIN; NXN
+DESCRIPTION 
+CLONING
+
+Kurooka et al. (1997) cloned mouse nucleoredoxin from a neonatal skin
+cDNA library. The deduced 435-amino acid protein is rich in acidic amino
+acids, has an internal long direct repeat, and shares significant
+similarity with thioredoxin (TXN; 187700). Northern blot analysis
+detected several nucleoredoxin splice variants in adult mouse tissues,
+with highest expression in testis and skin and lowest expression in
+liver. In situ hybridization showed that expression of nucleoredoxin
+varied during mouse embryonic development. Expression was widespread in
+embryos at days 9.5 and 10.5, with expression in limb buds, somites,
+dorsal root ganglia, branchial bars, and parts of the brain, but
+expression was marginal at day 12.5. Epitope-tagged nucleoredoxin
+localized to nuclei of transfected COS-7 cells. Southern blot analysis
+detected nucleoredoxin orthologs in human, rat, and rabbit, but not in
+frog, fly, nematode, and yeast.
+
+GENE FUNCTION
+
+Kurooka et al. (1997) showed that the recombinant C-terminal domain of
+mouse nucleoredoxin had oxidoreductase activity toward the disulfide
+bonds of insulin (INS; 176730), with kinetics similar to that of
+purified E. coli thioredoxin. Deletion of 55 N-terminal amino acids from
+the construct, including the putative redox active site, resulted in a
+protein that failed to reduce insulin.
+
+MAPPING
+
+Hartz (2009) mapped the NXN gene to chromosome 17p13.3 based on an
+alignment of the NXN sequence (GenBank GENBANK AF086523) with the
+genomic sequence (build 36.1).
+
+Kurooka et al. (1997) mapped the mouse Nxn gene to chromosome 11.
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  6/30/2009.
+
+2. Kurooka, H.; Kato, K.; Minoguchi, S.; Takahashi, Y.; Ikeda, J.;
+Habu, S.; Osawa, N.; Buchberg, A. M.; Moriwaki, K.; Shisa, H.; Honjo,
+T.: Cloning and characterization of the nucleoredoxin gene that encodes
+a novel nuclear protein related to thioredoxin. Genomics 39: 331-339,
+1997.
+
+CREATED Patricia A. Hartz: 7/7/2009
+
+EDITED mgross: 07/07/2009
+
+600607	TITLE *600607 VACUOLAR PROTEIN SORTING 72, YEAST, HOMOLOG OF; VPS72
+;;TRANSCRIPTION FACTOR-LIKE 1; TCFL1;;
+TRANSFORMATION SUPPRESSOR GENE YL-1; YL1
+DESCRIPTION 
+CLONING
+
+Horikawa et al. (1995) followed up on previous observations that various
+transformed phenotypes of Kirsten sarcoma virus-transformed NIH 3T3
+cells were suppressed by introduction of a normal human chromosome 1 via
+microcell fusion and that revertant cells that re-acquired the
+transformed phenotype commonly lost the human 1q21 and 1q23-q24 regions.
+The observations had suggested the location of a transformation
+suppressor gene(s) on the proximal portion of 1q. Horikawa et al. (1995)
+isolated a novel human cDNA on 1q21, designated YL1, as a candidate, and
+then cloned its mouse homolog. Human and mouse YL1 cDNA shared 96% amino
+acid homology and presumably encoded a transcription factor-like
+polypeptide. An analysis using a specific antibody demonstrated nuclear
+localization of YL1 protein. The bacterially expressed YL1 could bind to
+DNA. Thus, the YL1 protein possibly functions as a transcriptional
+regulator.
+
+Cai et al. (2005) stated that the YL1 protein contains 364 amino acids
+and that it is highly conserved from humans to yeast.
+
+GENE STRUCTURE
+
+Cox et al. (2001) determined that the YL1 gene contains 6 coding exons
+spanning 14.2 kb and intergenically splices into TMOD4 (605834). The
+last exon of YL1 is 291 bp from a 5-prime untranslated exon of TMOD4.
+Cox et al. (2001) also found that YL1 undergoes unconventional splicing
+using noncanonical splice sites within exons to produce several
+alternative transcripts.
+
+MAPPING
+
+Horikawa et al. (1995) identified the YL1 gene on chromosome 1q21.
+
+GENE FUNCTION
+
+Cai et al. (2005) demonstrated that epitope-tagged YL1 associated with
+proteins of the TRRAP (603015)/TIP60 (HTATIP; 601409) histone
+acetyltransferase complex in transfected HeLa cells. In addition, YL1
+was part of a subset of proteins that also functioned as subunits of the
+SWI2/SNF2 (SMARCA2; 600014)-related CBP (CREBBP; 600140) activator
+protein (SRCAP) chromatin remodeling complex.
+
+REFERENCE 1. Cai, Y.; Jin, J.; Florens, L.; Swanson, S. K.; Kusch, T.; Li, B.;
+Workman, J. L.; Washburn, M. P.; Conaway, R. C.; Conaway, J. W.:
+The mammalian YL1 protein is a shared subunit of the TRRAP/TIP60 histone
+acetyltransferase and SRCAP complexes. J. Biol. Chem. 280: 13665-13670,
+2005.
+
+2. Cox, P. R.; Siddique, T.; Zoghbi, H. Y.: Genomic organization
+of tropomodulins 2 and 4 and unusual intergenic and intraexonic splicing
+of YL-1 and tropomodulin 4. BMC Genomics 2: 7, 2001. Note: Electronic
+Article.
+
+3. Horikawa, I.; Tanaka, H.; Yuasa, Y.; Suzuki, M.; Oshimura, M.:
+Molecular cloning of a novel cDNA on chromosome 1q21 and its mouse
+homolog encoding a nuclear protein with DNA-binding ability. Biochem.
+Biophys. Res. Commun. 208: 999-1007, 1995.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 3/13/2012
+Patricia A. Hartz - updated: 6/22/2007
+
+CREATED Victor A. McKusick: 6/13/1995
+
+EDITED terry: 03/14/2012
+carol: 3/13/2012
+wwang: 7/2/2007
+terry: 6/22/2007
+carol: 6/23/1998
+carol: 7/5/1996
+mark: 6/13/1995
+
+615036	TITLE *615036 MICRO RNA 410; MIR410
+;;miRNA410
+DESCRIPTION 
+DESCRIPTION
+
+Micro RNAs (miRNAs), such as MIR410, are small noncoding RNAs that
+downregulate gene expression by promoting mRNA degradation or preventing
+mRNA translation via sequence-specific interactions with target RNAs
+(Gattolliat et al., 2011).
+
+GENE FUNCTION
+
+A combination of age at diagnosis, stage of disease, and amplification
+of the MYCN gene (164840) define high- and low-risk neuroblastomas (see
+256700). Using microarray expression profiling and quantitative RT-PCR,
+Gattolliat et al. (2011) found that 15 of 17 miRNAs significantly
+downregulated in high-risk neuroblastomas originated from a large miRNA
+cluster on chromosome 14q. Of these, MIR410 and MIR487B (615037)
+exhibited the highest fold change and discriminated high-risk from
+low-risk neuroblastomas. Compared with high-risk neuroblastomas,
+low-risk neuroblastomas showed expression of both MIR410 and MIR487B,
+and MIR410 and MIR487B expression favored overall and disease-free
+survival. No loss of copy number at this locus was found in high-risk
+neuroblastomas, suggesting that downregulation of these miRNAs was
+likely the result of transcriptional or processing regulation.
+
+Richardson et al. (2013) found that MIR410 is a regulator of lipoprotein
+lipase (LPL; 609708) and that the minor allele C of the SNP dbSNP
+rs13702 in LPL (609708.0043) abolishes the response of a functional
+MIR410 recognition element in the LPL 3-prime untranslated region.
+
+MAPPING
+
+Gattolliat et al. (2011) stated that the MIR410 gene maps to a large
+miRNA cluster on chromosome 14q32.31.
+
+REFERENCE 1. Gattolliat, C.-H.; Thomas, L.; Ciafre, S. A.; Meurice, G.; Le Teuff,
+G.; Job, B.; Richon, C.; Combaret, V.; Dessen, P.; Valteau-Couanet,
+D.; May, E.; Busson, P.; Douc-Rasy, S.; Benard, J.: Expression of
+miR-487b and miR-410 encoded by 14q32.31 locus is a prognostic marker
+in neuroblastoma. Brit. J. Cancer 105: 1352-1361, 2011.
+
+2. Richardson, K.; Nettleton, J. A.; Rotllan, N.; Tanaka, T.; Smith,
+C. E.; Lai, C.-Q.; Parnell, L. D.; Lee, Y.-C.; Lahti, J.; Lemaitre,
+R. N.; Manichaikul, A.; Keller, M.; and 34 others: Gain-of-function
+lipoprotein lipase variant dbSNP rs13702 modulates lipid traits
+through disruption of a microRNA-410 seed site. Am. J. Hum. Genet. 92:
+5-14, 2013.
+
+CONTRIBUTORS Ada Hamosh - updated: 2/25/2013
+
+CREATED Patricia A. Hartz: 1/24/2013
+
+EDITED alopez: 02/26/2013
+terry: 2/25/2013
+mgross: 1/24/2013
+

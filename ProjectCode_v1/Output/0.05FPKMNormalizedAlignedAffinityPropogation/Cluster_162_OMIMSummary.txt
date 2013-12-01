@@ -1,0 +1,80 @@
+606116	TITLE *606116 RIBONUCLEASE P/MRP, 38-KD SUBUNIT; RPP38
+;;RIBONUCLEASE P, 38-KD SUBUNIT
+DESCRIPTION 
+DESCRIPTION
+
+Ribonuclease P (RNase P) removes the 5-prime leader sequences from
+precursor tRNA molecules. RNase P consists of an RNA species (H1 RNA),
+the POP1 protein (602486), and at least 7 proteins called RPPs. The RPPs
+have apparent molecular masses of 14 kD (RPP14; 606112), 20 kD (RPP20;
+606113), 25 kD (RPP25), 29 kD (RPP29; 606114), 30 kD (RPP30; 606115), 38
+kD (RPP38), and 40 kD (RPP40; 606117). Patients with scleroderma
+(181750) have serum reactive with RNase P, the Th antigen, which is also
+referred to as the To antigen, and RPP30 and RPP38 (summary by Jarrous
+et al., 1998, 1999).
+
+CLONING
+
+By biochemical purification of RNase P, micropeptide sequence analysis,
+PCR on a fetal liver cDNA library, and EST database searching, Eder et
+al. (1997) obtained a cDNA encoding RPP38. The deduced 283-amino acid
+protein has a leucine zipper RNA-binding motif and a predicted molecular
+mass of nearly 32 kD, less than the 38 kD observed in SDS-PAGE analysis.
+
+Jarrous et al. (1998) determined that RPP38 is a major target for
+antisera from systemic sclerosis patients and that the antigen is likely
+to be localized in both the nucleoplasm and nucleolus.
+Immunoprecipitation analysis showed that polyclonal antibodies raised
+against RPP20, RPP30, RPP38, or RPP40 interact with RNase P from HeLa
+cells.
+
+GENE FUNCTION
+
+Following depletion of RNase P from HeLa cell extracts, Reiner et al.
+(2006) found a severe deficiency in RNA polymerase (Pol) III (see
+606007)-mediated transcription of tRNA and other small noncoding RNA
+genes. Targeted cleavage of the H1RNA (RPPH1; 608513) moiety of RNase P
+altered enzyme specificity and diminished Pol III transcription.
+Similarly, inactivation of RNase P protein subunits, such as RPP38, by
+small interfering RNA inhibited Pol III function and Pol III-directed
+promoter activity in the cell. RNase P exerted its role in transcription
+through association with Pol III and chromatin of active tRNA and 5S
+rRNA (180420) genes. Reiner et al. (2006) concluded that RNase P has a
+role in Pol III transcription and that transcription and early tRNA
+processing may be coordinated.
+
+MAPPING
+
+Gross (2013) mapped the RPP38 gene to chromosome 10p13 based on an
+alignment of the RPP38 sequence (GenBank GENBANK BC029494) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Eder, P. S.; Kekuda, R.; Stolc, V.; Altman, S.: Characterization
+of two scleroderma autoimmune antigens that copurify with human ribonuclease
+P. Proc. Nat. Acad. Sci. 94: 1101-1106, 1997.
+
+2. Gross, M. B.: Personal Communication. Baltimore, Md.  9/9/2013.
+
+3. Jarrous, N.; Eder, P. S.; Guerrier-Takada, C.; Hoog, C.; Altman,
+S.: Autoantigenic properties of some protein subunits of catalytically
+active complexes of human ribonuclease P. RNA 4: 407-417, 1998.
+
+4. Jarrous, N.; Eder, P. S.; Wesolowski, D.; Altman, S.: Rpp14 and
+Rpp29, two protein subunits of human ribonuclease P. RNA 5: 153-157,
+1999.
+
+5. Reiner, R.; Ben-Asouli, Y.; Krilovetzky, I.; Jarrous, N.: A role
+for the catalytic ribonucleoprotein RNase P in RNA polymerase III
+transcription. Genes Dev. 20: 1621-1635, 2006.
+
+CONTRIBUTORS Matthew B. Gross - updated: 9/9/2013
+Patricia A. Hartz - updated: 7/19/2006
+
+CREATED Paul J. Converse: 7/16/2001
+
+EDITED mgross: 09/09/2013
+mgross: 9/9/2013
+mgross: 7/19/2006
+alopez: 11/8/2005
+mgross: 7/16/2001
+

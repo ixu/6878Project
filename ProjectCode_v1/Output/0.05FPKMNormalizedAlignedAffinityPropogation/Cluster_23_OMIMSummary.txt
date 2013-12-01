@@ -1,0 +1,2923 @@
+610528	TITLE *610528 CHROMODOMAIN HELICASE DNA-BINDING PROTEIN 8; CHD8
+;;AXIS DUPLICATION INHIBITOR; DUPLIN;;
+KIAA1564
+DESCRIPTION 
+CLONING
+
+By sequencing clones from a size-fractionated fetal brain cDNA library,
+Nagase et al. (2000) cloned CHD8, which they designated KIAA1564. The
+deduced protein contains 1,417 amino acids. RT-PCR ELISA detected
+moderate expression in all adult and fetal tissues and specific brain
+regions examined.
+
+Sakamoto et al. (2000) cloned rat Chd8, which they called Duplin. The
+deduced 749-amino acid protein was expressed mainly in the nuclear
+fraction of transfected COS cells.
+
+Ishihara et al. (2006) cloned mouse Chd8. The deduced 2,582-amino acid
+protein has 2 chromodomains, followed by a central helicase/ATPase
+domain and 2 C-terminal BRK domains. Northern blot analysis detected
+ubiquitous Chd8 expression in mouse tissues, with highest levels in
+heart and testis. Western blot analysis of HeLa cells detected
+endogenous CHD8 at an apparent molecular mass of 240 kD.
+
+GENE FUNCTION
+
+Sakamoto et al. (2000) found that rat Duplin bound directly to the
+armadillo repeats of beta-catenin (see CTNNB1; 116806) in the nuclei of
+mammalian cells, thereby inhibiting binding of TCF4 (TCF7L2; 602228) to
+beta-catenin and beta-catenin-dependent activation of TCF4. Expression
+of Duplin in Xenopus embryos inhibited axis formation and beta
+catenin-dependent axis duplication, and it countered the ability of
+beta-catenin to rescue ventralizing phenotypes induced by ultraviolet
+irradiation. Sakamoto et al. (2000) concluded that Duplin is a nuclear
+protein that negatively regulates Wnt (see 164820) signaling by binding
+beta-catenin.
+
+By yeast 2-hybrid analysis of a mouse brain cDNA library, followed by
+studies in COS cells, Kobayashi et al. (2002) found that importin-alpha
+(see KPNA2; 600685) bound a cluster of basic amino acids in rat Duplin.
+Interaction with importin-alpha caused Duplin to translocate to the
+nucleus, and nuclear localization of Duplin was essential for inhibition
+of Wnt-dependent activation of TCF4 in mammalian cells and
+ventralization in Xenopus embryos. Additional experiments in Xenopus
+embryos showed that Duplin also inhibited the Wnt signaling pathway
+downstream of beta-catenin target genes.
+
+Using yeast 2-hybrid analysis and pull-down assays, Ishihara et al.
+(2006) found that the C-terminal region of mouse Chd8 interacted with
+the zinc finger domain of Ctcf (604167). Chromatin immunoprecipitation
+analysis of a human hepatoma cell line revealed that CHD8 was present at
+CTCF target sites, such as the differentially methylated region of H19
+(103280), the locus control region of beta-globin (141900), and the
+promoter regions of the BRCA1 (113705) and MYC (190080) genes.
+Immunoprecipitation analysis demonstrated an endogenous complex of CHD8
+and CTCF in HeLa cells. Knockdown of CHD8 in HeLa cells by RNA
+interference abolished the CTCF-dependent insulator activity of the H19
+differentially methylated region, leading to reactivation of imprinted
+IGF2 (147470) from the maternal chromosome. Lack of CHD8 affected CpG
+methylation and histone acetylation around the CTCF-binding sites, which
+are adjacent to heterochromatin, of the BRCA1 and MYC genes. Ishihara et
+al. (2006) concluded that CTCF-CHD8 has a role in insulation and
+epigenetic regulation at active insulator sites.
+
+Using a yeast 2-hybrid library screen, Batsukh et al. (2010) identified
+CHD8 as an interacting partner of CHD7 (608892), mutations in which
+cause the autosomal dominant malformation syndrome CHARGE (214800). In a
+direct yeast 2-hybrid system, the CHD7-CHD8 interaction was disrupted by
+CHD7 missense mutations found in CHARGE patients, including gly2108 to
+arg (608892.0011), whereas in coimmunoprecipitation studies disruption
+of the CHD7-CHD8 interaction by the mutations could not be observed. The
+authors hypothesized that CHD7 and CHD8 proteins interact directly and
+indirectly via additional linker proteins. Disruption of the direct
+CHD7-CHD8 interaction may change the conformation of a putative large
+CHD7-CHD8 complex and could be a disease mechanism in CHARGE syndrome.
+
+GENE STRUCTURE
+
+Nishiyama et al. (2004) determined that the mouse Chd8 gene contains 9
+exons and spans about 13 kb.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the CHD8
+gene to chromosome 14 (TMAP G36016).
+
+Nishiyama et al. (2004) mapped the mouse Duplin gene to chromosome 14.
+
+MOLECULAR GENETICS
+
+O'Roak et al. (2012) performed whole-exome sequencing for parent-child
+trios exhibiting sporadic autism spectrum disorders, including 189 new
+trios and 20 that were previously reported (O'Roak et al., 2011). In
+addition, O'Roak et al. (2012) sequenced the exomes of 50 unaffected
+sibs corresponding to 31 of the new and 19 of the previously reported
+trios, for a total of 677 individual exomes from 209 families. In
+proband exomes, O'Roak et al. (2012) found 2 de novo disruptive
+mutations in CHD8, a nonsense mutation and a frameshift indel.
+
+Sanders et al. (2012) combined all de novo events in their sample with
+those identified in the study of O'Roak et al. (2012) and observed from
+a total of 414 probands that the CHD8 gene carried 2 highly disruptive
+mutations.
+
+In a study of exonic de novo mutations in autism spectrum disorders (see
+209850), Neale et al. (2012) identified 3 loss-of-function mutations in
+the CHD8 gene among 935 cases and no mutations in CHD8 among 870
+controls.
+
+O'Roak et al. (2012) identified 9 de novo mutations in the CHD8 gene
+among 2,446 autism spectrum probands. Seven were nonsense or frameshift
+mutations, 1 was a splice site mutation, and 1 was an in-frame deletion.
+
+ANIMAL MODEL
+
+Nishiyama et al. (2004) found that development of Duplin -/- mouse
+embryos was arrested at gastrulation, with the embryos manifesting
+massive apoptosis. In contrast, Duplin +/- mice appeared normal and were
+fertile. Expression of beta-catenin target genes was not increased in
+Duplin -/- embryos, suggesting that the lack of Duplin did not result in
+constitutive activation of Wnt signaling during embryogenesis.
+
+ALLELIC VARIANT .0001
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, SER62TER
+
+In a 55-month-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) identified a de novo heterozygous nonsense
+mutation in the CHD8 gene, a ser-to-ter substitution at codon 62 (S62X).
+The boy had a low verbal IQ of 75, nonverbal IQ of 78, and below average
+adaptive score of 80. His head circumference was 53 cm (z score = 1.0).
+
+.0002
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, 1-BP INS, T
+
+In a 67-month-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) detected a heterozygous de novo 1-basepair
+insertion in the CHD8 gene that resulted in premature termination of the
+protein (tyr747 to ter; Y747X). The proband was nonverbal with extremely
+low verbal IQ of 25, nonverbal IQ of 38, and adaptive score of 57. His
+head circumference was 55 cm (z score = 2.0). He was diagnosed with
+cerebral palsy and was excessively clumsy and uncoordinated at 18
+months. MRI/CT at 18 months was normal; EEG was normal at 24 months. The
+proband had a healthy 4-year-old sister.
+
+.0003
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, NT3519, A-G, -2
+
+In a 96-month-old non-Hispanic white female diagnosed with autism
+(AUTS18; 615032), O'Roak et al. (2012) detected a de novo heterozygous
+splice site mutation (3519-2A-G) in the helicase superfamily C-terminal
+(HELC) domain of the CHD8 gene. She had a verbal IQ of 47 and a
+nonverbal IQ of 41, with clinical range deficits in social
+responsiveness and adaptive skills. She had experienced a delay in
+phrased speech. Her head circumference was 55.2 (z score = 2.3). She had
+a history of antiepileptic and antibiotic medication use, but not of
+seizures. MRI and EEG at age 5 were normal. A 6-year-old sister was
+healthy with normal head circumference.
+
+.0004
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, GLN1238TER
+
+In a 8-year-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) detected a heterozygous de novo nonsense
+mutation in the CHD8 gene, gln1238 to ter (Q1238X). In addition to the
+CHD8 mutation, the patient also carried a CUBN (602997) de novo nonsense
+mutation and 2 inherited copy number variations. The patient had an
+extremely low verbal IQ of 20, nonverbal IQ of 34, and low adaptive
+score of 59. He had macrocephaly (z score = 2.62) and normal BMI.
+
+.0005
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, ARG1337TER
+
+In a 63-month-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) detected a heterozygous de novo
+substitution at codon 1337 of the CHD8 gene (arg1337 to ter, R1337X).
+The patient was 1 of 4 children born to the same parents and the third
+of 6 pregnancies (the mother's first and fourth pregnancies resulted in
+miscarriage within 13 weeks). Verbal IQ was low (79), nonverbal IQ
+average (92), and adaptive score low (58). His head circumference was
+55.4 cm (z score = 2.5).
+
+.0006
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, 4-BP DEL, CTTC
+
+In a 12-year-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) identified a de novo heterozygous
+frameshift mutation in the CHD8 gene (Glu2103ArgfsX3). The patient had a
+verbal IQ of 60, nonverbal IQ of 67, and adaptive score of 73. He was
+diagnosed as excessively clumsy and uncoordinated at age 3. The patient
+showed clinical range deficits in social responsiveness and elevation in
+anxious/depressed mood, and had a mixed expressive-receptive language
+disorder and pragmatic language disorder. He had chronic diarrhea from
+age 5 to 8 years. He had an abnormal EEG and seizures at age 12 years
+concurrent with a head injury. His head circumference was 58 cm (z score
+= 2.7).
+
+.0007
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, 2-BP DEL, CT
+
+In a 55-month-old non-Hispanic white female diagnosed with autism
+(AUTS18; 615032), O'Roak et al. (2012) identified a heterozygous de novo
+frameshift mutation in the CHD8 gene, a 2-basepair deletion resulting in
+premature termination of the protein (Leu2120ProfsX13). The patient also
+carried a de novo nonsense mutations in the ETFB gene (130410) and the
+IQGAP2 gene (605401). She had normative range verbal IQ of 90 and
+nonverbal IQ of 93, but low adaptive behavioral skills score of 59. She
+had a large head (z score = 2.40).
+
+.0008
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, 1-BP INS, T
+
+In a 16-year-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) identified a heterozygous de novo
+1-basepair insertion of a T nucleotide in the CHD8 gene, resulting in
+frameshift and premature termination of the protein (Asn2371LysfsX2).
+The patient had an extremely low verbal IQ of 6, nonverbal IQ of 19, and
+adaptive score of 39. His head circumference was 60.8 cm (z score =
+3.0). Loss of language skills during early development and attention
+problems were reported.
+
+.0009
+AUTISM, SUSCEPTIBILITY TO, 18
+CHD8, 3-BP DEL, GGT
+
+In a 13-year-old non-Hispanic white male diagnosed with autism (AUTS18;
+615032), O'Roak et al. (2012) identified a heterozygous de novo in-frame
+deletion of 3 nucleotides in the CHD8 gene resulting in deletion of
+histine-2498 (His2498del). The patient had a verbal IQ of 84, nonverbal
+IQ of 98, and very low adaptive score of 66. His head circumference was
+57 cm (z score = 1.6).
+
+REFERENCE 1. Batsukh, T.; Pieper, L.; Koszucka, A. M.; von Velsen, N.; Hoyer-Fender,
+S.; Elbracht, M.; Bergman, J. E. H.; Hoefsloot, L. H.; Pauli, S.:
+CHD8 interacts with CHD7, a protein which is mutated in CHARGE syndrome. Hum.
+Molec. Genet. 19: 2858-2866, 2010.
+
+2. Ishihara, K.; Oshimura, M.; Nakao, M.: CTCF-dependent chromatin
+insulator is linked to epigenetic remodeling. Molec. Cell 23: 733-742,
+2006.
+
+3. Kobayashi, M.; Kishida, S.; Fukui, A.; Michiue, T.; Miyamoto, Y.;
+Okamoto, T.; Yoneda, Y.; Asashima, M.; Kikuchi, A.: Nuclear localization
+of Duplin, a beta-catenin-binding protein, is essential for its inhibitory
+activity on the Wnt signaling pathway. J. Biol. Chem. 277: 5816-5822,
+2002.
+
+4. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+5. Neale, B. M.; Kou, Y.; Liu, L.; Ma'ayan, A.; Samocha, K. E.; Sabo,
+A.; Lin, C.-F.; Stevens, C.; Wang, L.-S.; Makarov, V.; Polak, P.;
+Yoon, S.; and 47 others: Patterns and rates of exonic de novo mutations
+in autism spectrum disorders. Nature 485: 242-245, 2012.
+
+6. Nishiyama, M.; Nakayama, K.; Tsunematsu, R.; Tsukiyama, T.; Kikuchi,
+A.; Nakayama, K. I.: Early embryonic death in mice lacking the beta-catenin-binding
+protein Duplin. Molec. Cell. Biol. 24: 8386-8394, 2004.
+
+7. O'Roak, B. J.; Deriziotis, P.; Lee, C.; Vives, L.; Schwartz, J.
+J.; Girirajan, S.; Karakoc, E.; Mackenzie, A. P.; Ng, S. B.; Baker,
+C.; Rieder, M. J.; Nickerson, D. A.; Bernier, R.; Fisher, S. E.; Shendure,
+J.; Eichler, E. E.: Exome sequencing in sporadic autism spectrum
+disorders identifies severe de novo mutations. Nature Genet. 43:
+585-589, 2011. Note: Erratum: Nature Genet. 44: 471 only, 2012.
+
+8. O'Roak, B. J.; Vives, L.; Fu, W.; Egertson, J. D.; Stanaway, I.
+B.; Phelps, I. G.; Carvill, G.; Kumar, A.; Lee, C.; Ankenman, K.;
+Munson, J.; Hiatt, J. B.; and 14 others: Multiplex targeted sequencing
+identifies recurrently mutated genes in autism spectrum disorders. Science 338:
+1619-1622, 2012.
+
+9. O'Roak, B. J.; Vives, L.; Girirajan, S.; Karakoc, E.; Krumm, N.;
+Coe, B. P.; Levy, R.; Ko, A.; Lee, C.; Smith, J. D.; Turner, E. H.;
+Stanaway, I. B.; and 11 others: Sporadic autism exomes reveal a
+highly interconnected protein network of de novo mutations. Nature 485:
+246-250, 2012.
+
+10. Sakamoto, I.; Kishida, S.; Fukui, A.; Kishida, M.; Yamamoto, H.;
+Hino, S.; Michiue, T.; Takada, S.; Asashima, M.; Kikuchi, A.: A novel
+beta-catenin-binding protein inhibits beta-catenin-dependent Tcf activation
+and axis formation. J. Biol. Chem. 275: 32871-32878, 2000.
+
+11. Sanders, S. J.; Murtha, M. T.; Gupta, A. R.; Murdoch, J. D.; Raubeson,
+M. J.; Willsey, A. J.; Ercan-Sencicek, A. G.; DiLullo, N. M.; Parikshak,
+N. N.; Stein, J. L.; Walker, M. F.; Ober, G. T.; and 18 others:
+De novo mutations revealed by whole-exome sequencing are strongly
+associated with autism. Nature 485: 237-241, 2012.
+
+CONTRIBUTORS George E. Tiller - updated: 9/5/2013
+Ada Hamosh - updated: 1/23/2013
+Ada Hamosh - updated: 6/29/2012
+
+CREATED Patricia A. Hartz: 11/6/2006
+
+EDITED tpirozzi: 10/01/2013
+alopez: 9/17/2013
+alopez: 9/5/2013
+alopez: 1/24/2013
+terry: 1/23/2013
+alopez: 7/10/2012
+terry: 7/6/2012
+alopez: 7/5/2012
+terry: 6/29/2012
+mgross: 11/6/2006
+
+602742	TITLE *602742 PROTEIN KINASE, AMP-ACTIVATED, NONCATALYTIC, GAMMA-1; PRKAG1
+;;AMP-ACTIVATED PROTEIN KINASE, NONCATALYTIC, GAMMA-1;;
+AMPK-GAMMA-1
+DESCRIPTION 
+DESCRIPTION
+
+The mammalian 5-prime-AMP-activated protein kinase (AMPK) appears to act
+as a metabolic stress-sensing protein kinase. AMPK is a heterotrimeric
+protein composed of a catalytic alpha subunit, a noncatalytic beta
+subunit, and a noncatalytic gamma subunit. See PRKAA1 (602739) for
+background.
+
+CLONING
+
+By PCR with degenerate oligonucleotides based on the rat Ampk-gamma-1
+protein sequence, Woods et al. (1996) isolated rat liver cDNAs encoding
+Ampk-gamma-1. Both the Ampk-gamma-1 mRNA and protein are widely
+expressed in rat tissues. Gao et al. (1996) screened a human fetal liver
+cDNA library with the rat Ampk-gamma-1 cDNA and isolated a cDNA encoding
+AMPK-gamma-1. The predicted 331-amino acid human protein has a mass of
+37.5 kD by SDS-PAGE.
+
+GENE FUNCTION
+
+By site-directed mutagenesis, Hamilton et al. (2001) introduced an
+arg70-to-glu mutation into PRKAG1. The mutation caused a marked increase
+in AMPK activity, and the activity was largely AMP-independent.
+Activation was associated with increased threonine phosphorylation
+within the activation loop of the alpha subunit, PRKAA1. There was also
+increased phosphorylation of one of its major substrates, acetyl-CoA
+carboxylase (200350).
+
+Minokoshi et al. (2004) investigated the potential role of AMP-activated
+protein kinase (AMPK) in the hypothalamus in the regulation of food
+intake. Minokoshi et al. (2004) reported that AMPK activity is inhibited
+in arcuate and paraventricular hypothalamus by the anorexigenic hormone
+leptin (164160), and in multiple hypothalamic regions by insulin
+(176730), high glucose, and refeeding. A melanocortin receptor (see
+155555) agonist, a potent anorexigen, decreased AMPK activity in
+paraventricular hypothalamus, whereas agouti-related protein (602311),
+an orexigen, increased AMPK activity. Melanocortin receptor signaling is
+required for leptin and refeeding effects of AMPK in the paraventricular
+hypothalamus. Dominant-negative AMPK expression in the hypothalamus was
+sufficient to reduce food intake and body weight, whereas constitutively
+active AMPK increased both. Alterations of hypothalamic AMPK activity
+augmented changes in arcuate neuropeptide expression induced by fasting
+and feeding. Furthermore, inhibition of hypothalamic AMPK is necessary
+for leptin's effects on food intake and body weight, as constitutively
+active AMPK blocks these effects. Thus, Minokoshi et al. (2004)
+concluded that hypothalamic AMPK plays a critical role in hormonal and
+nutrient-derived anorexigenic and orexigenic signals and in energy
+balance.
+
+Baba et al. (2006) showed that FNIP1 (610594) interacted with the alpha,
+beta, and gamma subunits of AMPK. FNIP1 was phosphorylated by AMPK, and
+its phosphorylation was inhibited in a dose-dependent manner by an AMPK
+inhibitor, resulting in reduced FNIP1 expression. FLCN (607273)
+phosphorylation was diminished by rapamycin and amino acid starvation
+and facilitated by FNIP1 overexpression, suggesting that FLCN
+phosphorylation may be regulated by mTOR (FRAP1; 601231) and AMPK
+signaling. Baba et al. (2006) concluded that FLCN and FNIP1 may be
+involved in energy and/or nutrient sensing through the AMPK and mTOR
+signaling pathways.
+
+AMPK is an alpha-beta-gamma heterotrimer activated by decreasing
+concentrations of adenosine triphosphate (ATP) and increasing AMP
+concentrations (summary by Oakhill et al., 2011). AMPK activation
+depends on phosphorylation of the alpha catalytic subunit on thr172 by
+kinases LKB1 (602216) or CaMKK-beta (CAMMK2; 615002), and this is
+promoted by AMP binding to the gamma subunit. AMP sustains activity by
+inhibiting dephosphorylation of alpha-thr172, whereas ATP promotes
+dephosphorylation. Oakhill et al. (2011) found that adenosine
+diphosphate (ADP), like AMP, bound to gamma sites 1 and 3 and stimulated
+alpha-Thr172 phosphorylation. However, in contrast to AMP, ADP did not
+directly activate phosphorylated AMPK. In this way, both ADP/ATP and
+AMP/ATP ratios contribute to AMPK regulation.
+
+MAPPING
+
+Stapleton et al. (1997) mapped the human AMPK-gamma-1 gene to 12q13.1 by
+fluorescence in situ hybridization.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Xiao et al. (2007) reported the crystal structure of the regulatory
+fragment of mammalian AMPK in complexes with AMP and ATP. The phosphate
+groups of AMP/ATP lie in a groove on the surface of the gamma domain,
+which is lined with basic residues, many of which are associated with
+disease-causing mutations. Structural and solution studies revealed that
+2 sites on the gamma domain bind either AMP or magnesium ATP, whereas a
+third site contains a tightly bound AMP that does not exchange. Xiao et
+al. (2007) stated that their binding studies indicated that under
+physiologic conditions AMPK mainly exists in its inactive form in
+complex with magnesium ATP, which is much more abundant than AMP. Their
+modeling studies suggested how changes in the concentration of AMP
+enhance AMPK activity levels. The structure also suggested a mechanism
+for propagating AMP/ATP signaling whereby a phosphorylated residue from
+the alpha and/or beta subunits binds to the gamma subunit in the
+presence of AMP but not when ATP is bound.
+
+REFERENCE 1. Baba, M.; Hong, S.-B.; Sharma, N.; Warren, M. B.; Nickerson, M.
+L.; Iwamatsu, A.; Esposito, D.; Gillette, W. K.; Hopkins, R. F., III;
+Hartley, J. L.; Furihata, M.; Oishi, S.; Zhen, W.; Burke, T. R., Jr.;
+Linehan, W. M.; Schmidt, L. S.; Zbar, B.: Folliculin encoded by the
+BHD gene interacts with a binding protein, FNIP1, and AMPK, and is
+involved in AMPK and mTOR signaling. Proc. Nat. Acad. Sci. 103:
+15552-15557, 2006.
+
+2. Gao, G.; Fernandez, C. S.; Stapleton, D.; Auster, A. S.; Widmer,
+J.; Dyck, J. R. B.; Kemp, B. E.; Witters, L. A.: Non-catalytic beta-
+and gamma-subunit isoforms of the 5-prime-AMP-activated protein kinase. J.
+Biol. Chem. 271: 8675-8681, 1996.
+
+3. Hamilton, S. R.; Stapleton, D.; O'Donnell, J. B., Jr.; Kung, J.
+T.; Dalal, S. R.; Kemp, B. E.; Witters, L. A.: An activating mutation
+in the gamma-1 subunit of the AMP-activated protein kinase. FEBS
+Lett. 500: 163-168, 2001.
+
+4. Minokoshi, Y.; Alquier, T.; Furukawa, N.; Kim, Y.-B.; Lee, A.;
+Xue, B.; Mu, J.; Foufelle, F.; Ferre, P.; Birnbaum, M. J.; Stuck,
+B. J.; Kahn, B. B.: AMP-kinase regulates food intake by responding
+to hormonal and nutrient signals in the hypothalamus. Nature 428:
+569-574, 2004.
+
+5. Oakhill, J. S.; Steel, R.; Chen, Z.-P.; Scott, J. W.; Ling, N.;
+Tam, S.; Kemp, B. E.: AMPK is a direct adenylate charge-regulated
+protein kinase. Science 332: 1433-1435, 2011.
+
+6. Stapleton, D.; Woollatt, E.; Mitchelhill, K. I.; Nicholl, J. K.;
+Fernandez, C. S.; Michell, B. J.; Witters, L. A.; Power, D. A.; Sutherland,
+G. R.; Kemp, B. E.: AMP-activated protein kinase isoenzyme family:
+subunit structure and chromosomal location. FEBS Lett. 409: 452-456,
+1997.
+
+7. Woods, A.; Cheung, P. C. F.; Smith, F. C.; Davison, M. D.; Scott,
+J.; Beri, R. K.; Carling, D.: Characterization of AMP-activated protein
+kinase beta and gamma subunits: assembly of the heterotrimeric complex
+in vitro. J. Biol. Chem. 271: 10282-10290, 1996.
+
+8. Xiao, B.; Heath, R.; Saiu, P.; Leiper, F. C.; Leone, P.; Jing,
+C.; Walker, P. A.; Haire, L.; Eccleston, J. F.; Davis, C. T.; Martin,
+S. R.; Carling, D.; Gamblin, S. J.: Structural basis for AMP binding
+to mammalian AMP-activated protein kinase. Nature 449: 496-500,
+2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 7/1/2011
+Ada Hamosh - updated: 10/11/2007
+Dorothy S. Reilly - updated: 11/27/2006
+Ada Hamosh - updated: 4/7/2004
+Patricia A. Hartz - updated: 1/21/2003
+
+CREATED Rebekah S. Rasooly: 6/22/1998
+
+EDITED carol: 12/20/2012
+alopez: 7/7/2011
+terry: 7/1/2011
+alopez: 10/16/2007
+terry: 10/11/2007
+wwang: 11/27/2006
+alopez: 4/8/2004
+terry: 4/7/2004
+mgross: 1/21/2003
+terry: 1/21/2003
+dkim: 9/22/1998
+psherman: 6/24/1998
+
+600114	TITLE *600114 CHAPERONIN CONTAINING T-COMPLEX POLYPEPTIDE 1, SUBUNIT 3; CCT3
+;;CHAPERONIN CONTAINING TCP1, SUBUNIT 3;;
+CCT-GAMMA; CCTG;;
+TCP1 RING COMPLEX, POLYPEPTIDE 5; TRIC5
+DESCRIPTION 
+DESCRIPTION
+
+Molecular chaperones are proteins capable of folding or assembling
+nascent proteins in a higher order structure. A molecular chaperone
+called TCP1 ring complex (TRiC) plays a role in actin and tubulin
+folding. TRiC is composed of 2 heteromeric subunits of 6 to 9 different
+proteins. The cytoplasmic T-complex protein-1 (TCP1; 186980), an
+abundant testicular germ cell protein, has been found in this complex.
+Other components of TRiC, such as TRIC5, are TCP1-related proteins
+(Sevigny et al., 1994).
+
+CLONING
+
+Joly et al. (1994) cloned a mouse cDNA corresponding to tryptic
+fragments of the bovine TRiCP5 subunit described by Frydman et al.
+(1992). The mouse TRiCP5 shares 48% nucleotide and 34% amino acid
+homology with mouse Tcp1. It is a cytosolic protein also found in the
+nuclear matrix of several cultured human cell lines. Furthermore, like
+TCP1, it is highly expressed in testis.
+
+Sevigny et al. (1994) cloned a partial human cDNA clone homologous to
+mouse TRiCP5.
+
+Walkley et al. (1996) cloned the human cDNA from a kidney library. The
+1.9-kb cDNA encodes a predicted 544-amino acid protein that is 98%
+similar to the mouse sequence and 75% similar to the yeast gene. The
+mRNA is expressed in a variety of human tissues and at high levels in
+mouse testis.
+
+Sevigny et al. (1996) cloned the gene coding for the mouse P5 subunit.
+
+GENE FUNCTION
+
+Feldman et al. (1999) demonstrated that the folding and assembly of the
+VHL protein (608537) into a complex with its partner proteins, elongin B
+(600787) and elongin C (600788), is directly mediated by the chaperonin
+TRiC. Their results defined a novel role for TRiC in mediating
+oligomerization.
+
+GENE STRUCTURE
+
+Sevigny et al. (1996) determined that the mouse Tric5 gene contains 14
+exons distributed within 25 kb of genomic DNA. Sevigny et al. (1996)
+used primer extension to demonstrate multiple transcription start points
+for the Tric5 gene. This was considered consistent with the lack of any
+obvious TATA box upstream of the transcription start points.
+
+MAPPING
+
+Sevigny et al. (1994) mapped the TRIC5 gene to chromosome 1q23 by
+fluorescence in situ hybridization. The fact that the human TRIC5 gene
+is not on chromosome 6 like other TCP1-related proteins implied to
+Sevigny et al. (1994) that the genes coding the TCP1-related proteins
+present in the TCP1 ring complex are probably not organized in a cluster
+and thus are not synchronously regulated by a cis-acting control region
+such as the LCR involved in the regulation of globin synthesis.
+
+Sevigny et al. (1996) showed that the mouse genome contains 1 Tric5 gene
+and 1 Tric5 pseudogene located on chromosomes 3F and 5B, respectively.
+
+REFERENCE 1. Feldman, D. E.; Thulasiraman, V.; Ferreyra, R. G.; Frydman, J.
+: Formation of the VHL-elongin BC tumor suppressor complex is mediated
+by the chaperonin TRiC. Molec. Cell 4: 1051-1061, 1999.
+
+2. Frydman, J.; Nimmesgern, E.; Erdjument-Bromage, H.; Wall, J. S.;
+Tempst, P.; Hartl, F.-U.: Function in protein folding of TRiC, a
+cytosolic ring complex containing TCP-1 and structurally related subunits. EMBO
+J. 11: 4767-4778, 1992.
+
+3. Joly, E. C.; Sevigny, G.; Todorov, I. T.; Bibor-Hardy, V.: cDNA
+encoding a novel TCP1-related protein. Biochim. Biophys. Acta 1217:
+224-226, 1994.
+
+4. Sevigny, G.; Joly, E. C.; Bibor-Hardy, V.; Lemieux, N.: Assignment
+of the human homologue of the mTRiC-P5 gene (TRIC5) to band 1q23 by
+fluorescence in situ hybridization. Genomics 22: 634-636, 1994.
+
+5. Sevigny, G.; Lemieux, N.; Steyaert, A.; Bibor-Hardy, V.: Structure
+of the gene coding for the mouse TRiC-P5 subunit of the cytosolic
+chaperonin TRiC. Genomics 31: 107-110, 1996.
+
+6. Walkley, N. A.; Demaine, A. G.; Malik, A. N.: Cloning, structure
+and mRNA expression of human Cctg, which encodes the chaperonin subunit
+CCT-gamma. Biochem. J. 313: 381-389, 1996.
+
+CONTRIBUTORS Stylianos E. Antonarakis - updated: 1/7/2000
+Alan F. Scott - updated: 5/20/1996
+
+CREATED Victor A. McKusick: 9/14/1994
+
+EDITED mgross: 11/21/2006
+mgross: 11/20/2006
+ckniffin: 3/23/2004
+tkritzer: 9/17/2003
+mgross: 7/14/2000
+mgross: 7/13/2000
+mgross: 1/7/2000
+alopez: 7/27/1999
+alopez: 7/26/1999
+mark: 5/20/1996
+terry: 5/20/1996
+mark: 2/7/1996
+terry: 2/2/1996
+carol: 9/14/1994
+
+612320	TITLE *612320 CUB DOMAIN-CONTAINING PROTEIN 2; CDCP2
+DESCRIPTION 
+CLONING
+
+Maraganore et al. (2005) identified the CDCP2 gene, which they called
+LOC200008, within the PARK10 (606852) locus for late-onset Parkinson
+disease (PD; 168600) susceptibility on chromosome 1.
+
+GENE FUNCTION
+
+Maraganore et al. (2005) stated that the CDCP2 protein is predicted to
+have oxidoreductase activity and is potentially involved in cholesterol
+biosynthesis and electron transport.
+
+MAPPING
+
+Maraganore et al. (2005) mapped the CDCP2 gene to chromosome 1p32.
+
+MOLECULAR GENETICS
+
+For a discussion of the possible association of PARK10 and the CDCP2
+gene, see 606852.
+
+REFERENCE 1. Maraganore, D. M.; de Andrade, M.; Lesnick, T. G.; Strain, K. J.;
+Farrer, M. J.; Rocca, W. A.; Krishna Pant, P. V.; Frazer, K. A.; Cox,
+D. R.; Ballinger, D. G.: High-resolution whole-genome association
+study of Parkinson disease. Am. J. Hum. Genet. 77: 685-693, 2005.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 9/29/2008
+
+CREATED Patricia A. Hartz: 9/26/2008
+
+EDITED carol: 09/30/2008
+ckniffin: 9/29/2008
+mgross: 9/26/2008
+
+606389	TITLE *606389 CATION CHANNEL, SPERM-ASSOCIATED, 1; CATSPER1
+;;CATSPER
+DESCRIPTION 
+DESCRIPTION
+
+CATSPER is a sperm-specific ion channel that mediates calcium entry into
+sperm and is essential for sperm hyperactivated motility and male
+fertility. The CASTPER complex contains 4 pore-forming subunits,
+CATSPER1, CATSPER2 (607249), CATSPER3 (609120), and CATSPER4 (609121),
+and at least 2 auxiliary proteins, CATSPERB (611169) and CATSPERG
+(613452). Each pore-forming subunit has 6 transmembrane-spanning domains
+and an intracellular C-terminal coiled-coil domain. In addition,
+CATSPER1 has an intracellular N-terminal histidine-rich region. Both the
+pore-forming subunits and the auxiliary subunits of CATSPER localize to
+the sperm principal piece (review by Ren and Xia, 2010).
+
+CLONING
+
+While searching for calcium channels, Ren et al. (2001) identified an
+EST cDNA expressed only in testis. They cloned the corresponding
+full-length cDNA from human and mouse testis by PCR and library
+screening. The CATSPER gene encodes a protein of 686 amino acids that is
+expressed exclusively in testis. The amino acid sequence of CATSPER most
+closely resembles a single 6-transmembrane-spanning repeat of the
+voltage-dependent calcium channel 4-repeat structure. Human CATSPER
+exhibits a high degree of homology (55% identity) with its mouse
+counterpart, especially in the transmembrane domains and histidine-rich
+region. The transmembrane domains share 81% identity and the pore
+regions 89% identity. Using immunofluorescence, Ren et al. (2001)
+detected the expression of CATSPER within the principal piece of the
+sperm tail.
+
+GENE FUNCTION
+
+Kirichok et al. (2006) used a simple approach to patch-clamp spermatozoa
+and to characterize whole-spermatozoan currents and identified a
+constitutively active flagellar calcium channel that is strongly
+potentiated by intracellular alkalinization. This current is not present
+in spermatozoa lacking the sperm-specific putative ion channel protein
+Catsper1. This plasma membrane protein of the 6 transmembrane-spanning
+ion channel superfamily is specifically localized to the principal piece
+of the sperm tail and is required for sperm cell hyperactivation and
+male fertility (Ren et al., 2001; Carlson et al., 2003). Kirichok et al.
+(2006) concluded that their results identified Catsper1 as a component
+of the key flagellar calcium channel, and suggested that intracellular
+alkalinization potentiates Catsper current to increase intraflagellar
+calcium and induce sperm hyperactivation.
+
+Strunker et al. (2011) demonstrated that progesterone activates the
+sperm-specific, pH-sensitive CatSper calcium ion channel. They found
+that both progesterone and alkaline pH stimulate a rapid calcium ion
+influx with almost no latency, incompatible with a signaling pathway
+involving metabotrophic receptors and second messengers. The calcium ion
+signals evoked by alkaline pH and progesterone were inhibited by 2 Ca(V)
+channel blockers. Patch-clamp recordings from sperm revealed an
+alkaline-activated current carried by mono- and divalent ions that
+exhibited all the hallmarks of sperm-specific CatSper calcium ion
+channels. Progesterone substantially enhanced the CatSper current. The
+alkaline- and progesterone-activated CatSper current was inhibited by
+both Ca(V) channel blockers. Strunker et al. (2011) concluded that their
+results resolved a long-standing controversy over the nongenomic
+progesterone signaling. In human sperm, either the CatSper channel
+itself or an associated protein serves as the nongenomic progesterone
+receptor.
+
+Lishko et al. (2011) elucidated the mechanism of the nongenomic action
+of progesterone on human spermatozoa by identifying the calcium ion
+channel activated by progesterone. By applying the patch-clamp technique
+to mature human spermatozoa, Lishko et al. (2011) found that nanomolar
+concentrations of progesterone dramatically potentiate CatSper, a
+pH-dependent calcium ion channel of the sperm flagellum. Lishko et al.
+(2011) demonstrated that human CatSper is synergistically activated by
+elevation of intracellular pH and extracellular progesterone.
+Interestingly, human CatSper can be further potentiated by
+prostaglandins, but apparently through a binding site other than that of
+progesterone. Because their experimental conditions did not support
+second messenger signaling, CatSper or a directly associated protein may
+serve as the elusive nongenomic progesterone receptor of sperm. Given
+that the CatSper-associated progesterone receptor is sperm-specific and
+structurally different from the genomic progesterone receptor (607311),
+it represents a promising target for the development of a new class of
+nonhormonal contraceptives.
+
+GENE STRUCTURE
+
+Avenarius et al. (2009) noted that the CATSPER1 gene comprises 12 coding
+exons.
+
+MAPPING
+
+Avenarius et al. (2009) identified the CATSPER1 gene on chromosome
+11q13.1 by genomic sequence analysis.
+
+MOLECULAR GENETICS
+
+In 3 infertile males with spermatogenic failure-7 (612997) from 2
+consanguineous Iranian families, Avenarius et al. (2009) identified
+homozygosity for 1 of 2 separate insertion mutations in the CATSPER1
+gene. CATSPER1 is one of 4 members of the sperm-specific CATSPER
+voltage-gated calcium channel family shown to be essential for normal
+male fertility in mice. The results suggested that CATSPER1 is also
+essential for normal male fertility in humans.
+
+ANIMAL MODEL
+
+To study its function in vivo, Ren et al. (2001) disrupted mouse Catsper
+in embryonic stem cells by homologous recombination. Catsper
+homozygous-deficient mice were born at expected mendelian ratios and
+were indistinguishable from wildtype littermates in survival rates,
+appearance, and gross behavior. Homozygous-deficient females mated with
+heterozygous-deficient or wildtype males were fertile. Homozygous male
+mutants mated with wildtype females displayed mounting behavior
+indistinguishable from that of wildtype males but were completely
+infertile. Body and testis weights of the mutant mice were not different
+from those of wildtype counterparts; sperm counts were not significantly
+different, and sperm appeared morphologically similar. However, Catsper
+-/- sperm were sluggish and displayed less directed movements. Further
+investigation indicated that Catsper is required to penetrate the egg.
+Catsper -/- sperm incubated with zona pellucida-free eggs were able to
+fertilize the eggs, indicating that Catsper is not required for egg
+activation. Ren et al. (2001) demonstrated that Catsper is required for
+cAMP-induced calcium influx.
+
+ALLELIC VARIANT .0001
+SPERMATOGENIC FAILURE 7
+CATSPER1, 1-BP INS, 539T
+
+In 2 brothers from a consanguineous Iranian family with nonsyndromic
+male infertility (SPGF7; 612997), Avenarius et al. (2009) identified
+homozygosity for insertion of a thymine at nucleotide 539 in exon 1 of
+the CATSPER1 gene. This insertion was predicted to introduce 8 novel
+amino acids followed by a premature termination codon into the CATSPER1
+protein (lys180lysfsX8). If the aberrant transcript is not subject to
+nonsense-mediated decay, a severely truncated 188-amino acid protein
+would be translated. This mutation was not identified in 576 Iranian
+control individuals.
+
+.0002
+SPERMATOGENIC FAILURE 7
+CATSPER1, 5-BP INS, 948ATGGC
+
+In a male from a consanguineous Iranian family with nonsyndromic
+infertility (612997), Avenarius et al. (2009) identified homozygosity
+for a 5-bp insertion after nucleotide 948 in exon 1 of the CATSPER1
+gene. The frameshift caused by this insertion was predicted to
+substitute a methionine at asp317 and introduce 18 novel residues before
+a premature stop codon (asp317metfsX18). In the absence of
+nonsense-mediated decay, the predicted product would be a truncated
+335-residue protein. This mutation was also found in homozygosity in one
+female family member. This mutation was not identified in 576 Iranian
+control individuals.
+
+REFERENCE 1. Avenarius, M. R.; Hildebrand, M. S.; Zhang, Y.; Meyer, N. C.; Smith,
+L. L. H.; Kahrizi, K.; Najmabadi, H.; Smith, R. J. H.: Human male
+infertility caused by mutations in the CATSPER1 channel protein. Am.
+J. Hum. Genet. 84: 505-510, 2009.
+
+2. Carlson, A. E.; Westenbroek, R. E.; Quill, T.; Ren, D.; Clapham,
+D. E.; Hille, B.; Garbers, D. L.; Babcock, D. F.: CatSper1 required
+for evoked Ca(2+) entry and control of flagellar function in sperm. Proc.
+Nat. Acad. Sci. 100: 14864-14868, 2003.
+
+3. Kirichok, Y.; Navarro, B.; Clapham, D. E.: Whole-cell patch-clamp
+measurements of spermatozoa reveal an alkaline-activated Ca(2+) channel. Nature 439:
+737-740, 2006.
+
+4. Lishko, P. V.; Botchkina, I. L.; Kirichok, Y.: Progesterone activates
+the principal Ca2+ channel of human sperm. Nature 471: 387-391,
+2011.
+
+5. Ren, D.; Navarro, B.; Perez, G.; Jackson, A. C.; Hsu, S.; Shi,
+Q.; Tilly, J. L.; Clapham, D. E.: A sperm ion channel required for
+sperm motility and male fertility. Nature 413: 603-609, 2001.
+
+6. Ren, D.; Xia, J.: Calcium signaling through CatSper channels in
+mammalian fertilization. Physiology 25: 165-175, 2010.
+
+7. Strunker, T.; Goodwin, N.; Brenker, C.; Kashikar, N. D.; Weyand,
+I.; Seifert, R.; Kaupp, U. B.: The CatSper channel mediates progesterone-induced
+Ca2+ influx in human sperm. Nature 471: 382-386, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/7/2011
+Marla J. F. O'Neill - updated: 5/11/2011
+Matthew B. Gross - updated: 3/28/2011
+Ada Hamosh - updated: 8/25/2009
+Ada Hamosh - updated: 5/26/2006
+
+CREATED Ada Hamosh: 10/16/2001
+
+EDITED alopez: 06/15/2011
+terry: 6/7/2011
+wwang: 5/12/2011
+carol: 5/11/2011
+mgross: 3/28/2011
+alopez: 9/1/2009
+terry: 8/25/2009
+alopez: 6/7/2006
+terry: 5/26/2006
+mgross: 9/20/2002
+alopez: 10/16/2001
+
+602106	TITLE *602106 POTASSIUM CHANNEL, INWARDLY RECTIFYING, SUBFAMILY J, MEMBER 15; KCNJ15
+;;KIR4.2
+DESCRIPTION 
+DESCRIPTION
+
+The potassium channel inward rectifiers (Kir) constitute a family of
+potassium channels that maintain the resting membrane potential close to
+the equilibrium potential for potassium ions.
+
+CLONING
+
+By isolating, mapping, and sequencing trapped exons and captured cDNAs
+from cosmids of the Down syndrome (190685) chromosome region (DSCR) on
+21q22.2, Gosset et al. (1997) discovered a gene, designated KCNJ15,
+encoding a member of the Kir family. The deduced protein contains 375
+amino acids. Gosset et al. (1997) found that KCNJ15 is expressed in
+kidney and lung during human development and in several adult tissues
+including kidney and brain.
+
+Okamoto et al. (2010) stated that expression of KCNJ15 in the pancreas
+is relatively high, as is that in the kidney, thymus, and whole blood.
+Immunofluorescence staining of tissue from nondiabetic patients revealed
+that expression of KCNJ15 in Langerhans islets of the pancreas was
+prominent compared to that of the exocrine glands.
+
+MAPPING
+
+Gosset et al. (1997) identified the KCNJ15 gene within the Down syndrome
+chromosome region on 21q22.2. Another inwardly rectifying potassium
+channel gene, that encoding Kir3.2 (KCNJ6; 600877), had been mapped
+within the DSCR.
+
+MOLECULAR GENETICS
+
+Okamoto et al. (2010) identified a synonymous SNP in exon 4 of the
+KCNJ15 gene (dbSNP rs3746876, C566T) that showed significant association
+with type 2 diabetes mellitus (T2DM; 125853) affecting lean individuals
+in 3 independent Japanese sample sets (p = 2.5 x 10(-7); odds ratio,
+2.54) and with unstratified T2DM (p = 6.7 x 10(-6); OR, 1.76). The
+diabetes risk allele frequency was, however, very low among Europeans
+and no association between the variant and T2DM could be shown in a
+Danish case-control study. Functional analysis in HEK293 cells
+demonstrated that the risk T allele increased KCNJ15 expression via
+increased mRNA stability, which resulted in higher expression of protein
+compared to the C allele.
+
+REFERENCE 1. Gosset, P.; Ghezala, G. A.; Korn, B.; Yaspo, M.-L.; Poutska, A.;
+Lehrach, H.; Sinet, P.-M.; Creau, N.: A new inward rectifier potassium
+channel gene (KCNJ15) localized on chromosome 21 in the Down syndrome
+chromosome region 1 (DCR1). Genomics 44: 237-241, 1997.
+
+2. Okamoto, K.; Iwasaki, N.; Nishimura, C.; Doi, K.; Noiri, E.; Nakamura,
+S.; Takizawa, M.; Ogata, M.; Fujimaki, R.; Grarup, N.; Pisinger, C.;
+Borch-Johnsen, K.; and 13 others: Identification of KCNJ15 as a
+susceptibility gene in Asian patients with type 2 diabetes mellitus. Am.
+J. Hum. Genet. 86: 54-64, 2010.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 02/26/2010
+
+CREATED Victor A. McKusick: 11/7/1997
+
+EDITED carol: 02/26/2010
+carol: 3/8/2001
+carol: 11/23/1998
+jenny: 11/7/1997
+
+611347	TITLE *611347 INTEGRATOR COMPLEX SUBUNIT 3; INTS3
+;;INT3;;
+SENSOR OF SINGLE-STRANDED DNA COMPLEX, SUBUNIT A,; SOSSA;;
+SOSS COMPLEX, SUBUNIT A
+DESCRIPTION 
+DESCRIPTION
+
+INTS3 is a subunit of the Integrator complex, which associates with the
+C-terminal domain of RNA polymerase II large subunit (POLR2A; 180660)
+and mediates 3-prime end processing of small nuclear RNAs U1 (RNU1;
+180680) and U2 (RNU2; 180690) (Baillat et al., 2005). INTS3 is also a
+subunit of single-stranded DNA (ssDNA)-binding complexes involved in the
+maintenance of genome stability (Huang et al., 2009).
+
+GENE FUNCTION
+
+By SDS-PAGE of proteins that copurified with INTS11 (CPSF3L; 611354) in
+HEK293 cells, Baillat et al. (2005) identified INTS3 as a subunit of the
+Integrator complex.
+
+Using HEK293 cells for tandem affinity purification, Huang et al. (2009)
+identified INTS3, which they called SOSSA, and SOSSC (613273) as common
+components of 2 distinct and complementary ssDNA-binding heterotrimeric
+complexes defined by their inclusion of either SOSSB1 (SSBP1; 600439) or
+SOSSB2 (SSBP2; 607389), but not both. Coimmunoprecipitation analysis
+confirmed that SOSS complexes formed in HeLa cells independent of DNA
+damage. Recombinant heterotrimeric SOSS complexes specifically bound
+ssDNA, but not double-stranded DNA. SOSSA served as the central assembly
+factor, and SOSSB and SOSSC bound overlapping regions on SOSSA, but they
+did not interact directly with each other. Depletion of SOSSA by small
+interfering RNA led to dramatic decreases in SOSSB1 and SOSSB2 protein
+levels, abrogated targeting of SOSSB1 and SOSSB2 to chromatin, increased
+ionizing radiation sensitivity, caused defective G2/M checkpoint, and
+impaired homologous recombination repair. Huang et al. (2009)
+demonstrated that both SOSS complexes and the CTIP (RBBP8; 604124)/RPA
+(see RPA1; 179835) complex acted downstream of the MRE11 (600814)-RAD50
+(604040)-NBS1 (NBN; 602667) complex and functioned in DNA damage repair.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the INTS3
+gene to chromosome 1 (TMAP WI-15199).
+
+REFERENCE 1. Baillat, D.; Hakimi, M.-A.; Naar, A. M.; Shilatifard, A.; Cooch,
+N.; Shiekhattar, R.: Integrator, a multiprotein mediator of small
+nuclear RNA processing, associates with the C-terminal repeat of RNA
+polymerase II. Cell 123: 265-276, 2005.
+
+2. Huang, J.; Gong, Z.; Ghosal, G.; Chen, J.: SOSS complexes participate
+in the maintenance of genomic stability. Molec. Cell 35: 384-393,
+2009.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/19/2010
+
+CREATED Patricia A. Hartz: 8/17/2007
+
+EDITED mgross: 02/22/2010
+terry: 2/19/2010
+wwang: 8/17/2007
+
+104700	TITLE *104700 AMYLASE, SALIVARY, A; AMY1A
+;;AMYLASE, SALIVARY; AMY1
+DESCRIPTION 
+CLONING
+
+The alpha-amylases hydrolyze alpha-1,4-glucoside bonds in polymers of
+glucose units. Kamaryt and Laxova (1965, 1966) found 2 amylase
+isoenzymes in serum, one produced by the salivary gland and the second
+by the pancreas (see 104650). In 11 of 120 children, a duplication of
+pancreatic enzyme band was found on starch gel electrophoresis and in
+each case 1 parent also showed the duplication. In the mouse the
+salivary and pancreatic amylases are determined by genes at closely
+linked loci (Sick and Nielsen, 1964). The separate loci in the human
+were designated AMY1 (salivary) and AMY2 (pancreatic). Polymorphism of
+both the salivary and the pancreatic serum amylases has been
+demonstrated in man. Ward et al. (1971) studied amylase in saliva and
+identified electrophoretic variants. Data on gene frequencies of allelic
+variants were tabulated by Roychoudhury and Nei (1988).
+
+GENE STRUCTURE
+
+Nishide et al. (1986) showed that the human salivary alpha-amylase gene
+is about 10 kb long and has 10 introns.
+
+MAPPING
+
+By in situ hybridization combined with high resolution cytogenetics,
+Zabel et al. (1983) assigned the amylase gene to 1p21, the POMC gene
+(176830) to 2p23, and the somatostatin gene (182450) to 3q28.
+
+Using amylase DNA probes in somatic cell hybrids, Tricoli and Shows
+(1984) mapped the amylase genes to the 1p22.1-p21 region.
+
+Multipoint linkage analysis showed that the amylase gene cluster is
+located distal to NGFB (162030) (Dracopoli and Meisler, 1990).
+
+MOLECULAR GENETICS
+
+Pronk et al. (1982) presented evidence they interpreted as indicating
+duplication of the salivary amylase locus.
+
+Gumucio et al. (1988) isolated cosmid clones containing 250 kb of
+genomic DNA from the human amylase gene cluster. These clones were found
+to contain 7 distinct amylase genes: 2 pancreatic amylase genes, 3
+salivary amylase genes, and 2 truncated pseudogenes. Intergenic
+distances of 17 to 22 kb separated the amylase gene copies.
+
+Dracopoli and Meisler (1990) used a (CA)n repeat sequence immediately
+upstream from the gamma-actin pseudogene associated with the AMY2B gene
+(104660) in a study of 40 CEPH families. By PCR amplification of genomic
+DNA, they identified 6 alleles with (CA)n lengths of 16 to 21 repeats.
+The average heterozygosity was 0.70.
+
+Large-scale copy number variations (LCVs) involve gains or losses of
+several kilobases to hundreds of kilobases of genomic DNA among
+phenotypically normal individuals. To investigate LCVs in the human
+genome, Iafrate et al. (2004) applied array-based comparative genomic
+hybridization (array CGH) to the genomes of 55 unrelated individuals.
+The most common LCV (identified in 49.1% of the individuals studied)
+encompassed the AMY1A and AMY2A locus (Groot et al., 1991). Iafrate et
+al. (2004) detected relative gains (in 23.6% of cases) and losses (in
+25.5% of cases) at this locus and confirmed the array CGH results using
+metaphase-interphase FISH, high-resolution fiber FISH, and quantitative
+PCR. In all they described more than 200 LCVs in the human genome.
+Twenty-four of these variants were present in more than 10% of the
+individuals studied, and 6 of these variants were present at a frequency
+of more than 20%. A chromosome map indicating the location of the LCVs
+was provided. Carter (2004) commented on this work and the parallel work
+of Sebat et al. (2004).
+
+Starch consumption is a prominent characteristic of agricultural
+societies and hunter-gatherers in arid environments. In contrast,
+rainforest and circum-arctic hunter-gatherers and some pastoralists
+consume much less starch. This behavioral variation raised the
+possibility that different selective pressures have acted on amylase,
+the enzyme responsible for starch hydrolysis. Perry et al. (2007) found
+that copy number of the AMY1 gene is correlated positively with salivary
+amylase protein level and that individuals from populations with high
+starch diets have, on average, more AMY1 copies than those with
+traditionally low starch diets. Comparisons with other loci in a subset
+of these populations suggested that the extent of AMY1 copy number
+differentiation is highly unusual. Higher AMY1 copy numbers and protein
+levels probably improve the digestion of starchy foods and may buffer
+against the fitness-reducing effects of intestinal disease.
+
+EVOLUTION
+
+Groot et al. (1990) presented structural analyses of the human amylase
+gene cluster that allowed them to construct a model for the evolution of
+this family of genes by a number of consecutive events involving inter-
+and intrachromosomal crossovers.
+
+In a study comparing human AMY1 copy number variation with that of
+chimpanzees and bonobos, Perry et al. (2007) found that the average
+human has 3 times more AMY1 copies than chimpanzees, and bonobos may not
+have salivary amylase at all. Outgroup comparisons with other great apes
+suggested that AMY1 copy number was probably gained in the human
+lineage, rather than lost in chimpanzees. It is hypothesized that
+starch-rich plant underground storage organs (USOs) such as bulbs,
+corms, and tubers were a critical food resource for early hominins. The
+example of amylase as representative of the importance of diet as a
+widespread source of selective pressure in human evolution is comparable
+to that of lactase persistence (223100), which has evolved independently
+in multiple populations.
+
+ADDITIONAL REFERENCES de Soyza  (1978); Ishizaki et al. (1985); McGeachin  (1968); Muenke
+et al. (1984); Pronk et al. (1984); Tricoli and Shows (1984); Wiebauer
+et al. (1985)
+REFERENCE 1. Carter, N. P.: As normal as normal can be? (Comment) Nature Genet. 36:
+931-932, 2004.
+
+2. de Soyza, K.: Polymorphism of human salivary amylase: a preliminary
+communication. Hum. Genet. 45: 189-192, 1978.
+
+3. Dracopoli, N. C.; Meisler, M. H.: Mapping the human amylase gene
+cluster on the proximal short arm of chromosome 1 using a highly informative
+(CA)n repeat. Genomics 7: 97-102, 1990.
+
+4. Groot, P. C.; Mager, W. H.; Frants, R. R.: Interpretation of polymorphic
+DNA patterns in the human alpha-amylase multigene family. Genomics 10:
+779-785, 1991.
+
+5. Groot, P. C.; Mager, W. H.; Henriquez, N. V.; Pronk, J. C.; Arwert,
+F.; Planta, R. J.; Eriksson, A. W.; Frants, R. R.: Evolution of the
+human alpha-amylase multigene family through unequal, homologous,
+and inter- and intrachromosomal crossovers. Genomics 8: 97-105,
+1990.
+
+6. Gumucio, D. L.; Wiebauer, K.; Caldwell, R. M.; Samuelson, L. C.;
+Meisler, M. H.: Concerted evolution of human amylase genes. Molec.
+Cell. Biol. 8: 1197-1205, 1988.
+
+7. Iafrate, A. J.; Feuk, L.; Rivera, M. N.; Listewnik, M. L.; Donahoe,
+P. K.; Qi, Y.; Scherer, S. W.; Lee, C.: Detection of large-scale
+variation in the human genome. Nature Genet. 36: 949-951, 2004.
+
+8. Ishizaki, K.; Noda, A.; Ikenaga, M.; Ida, K.; Omoto, K.; Nakamura,
+Y.; Matsubara, K.: Restriction fragment length polymorphism detected
+by human salivary amylase cDNA. Hum. Genet. 71: 261-262, 1985.
+
+9. Kamaryt, J.; Laxova, R.: Amylase heterogeneity variants in man. Humangenetik 3:
+41-45, 1966.
+
+10. Kamaryt, J.; Laxova, R.: Amylase heterogeneity: some genetic
+and clinical aspects. Humangenetik 1: 579-586, 1965.
+
+11. McGeachin, R. L.: Multiple molecular forms of amylase. Ann.
+N.Y. Acad. Sci. 151: 208-212, 1968.
+
+12. Muenke, M.; Lindgren, V.; de Martinville, B.; Francke, U.: Comparative
+analysis of mouse-human hybrids with rearranged chromosomes 1 by in
+situ hybridization and Southern blotting: high resolution mapping
+of NRAS, NGFB, and AMY on chromosome 1. Somat. Cell Molec. Genet. 10:
+589-599, 1984.
+
+13. Nishide, T.; Nakamura, Y.; Emi, M.; Yamamoto, T.; Ogawa, M.; Mori,
+T.; Matsubara, K.: Primary structure of human salivary alpha-amylase
+gene. Gene 41: 299-304, 1986.
+
+14. Perry, G. H.; Dominy, N. J.; Claw, K. G.; Lee, A. S.; Fiegler,
+H.; Redon, R.; Werner, J.; Villanea, F. A.; Mountain, J. L.; Misra,
+R.; Carter, N. P.; Lee, C.; Stone, A. C.: Diet and the evolution
+of human amylase gene copy number variation. Nature Genet. 39: 1256-1260,
+2007.
+
+15. Pronk, J. C.; Frants, R. R.; Jansen, W.; Eriksson, A. W.; Tonino,
+G. J. M.: Evidence for duplication of the human salivary amylase
+gene. Hum. Genet. 60: 32-35, 1982.
+
+16. Pronk, J. C.; Jansen, W. J.; Pronk, A.; Pol, C. F. A. M.; Frants,
+R. R.; Eriksson, A. W.: Salivary protein polymorphism in Kenya: evidence
+for a new AMY1 allele. Hum. Hered. 34: 212-216, 1984.
+
+17. Roychoudhury, A. K.; Nei, M.: Human Polymorphic Genes: World
+Distribution.  New York: Oxford Univ. Press (pub.)  1988.
+
+18. Sebat, J.; Lakshmi, B.; Troge, J.; Alexander, J.; Young, J.; Lundin,
+P.; Maner, S.; Massa, H.; Walker, M.; Chi, M.; Navin, N.; Lucito,
+R.; and 9 others: Large-scale copy number polymorphism in the human
+genome. Science 305: 525-528, 2004.
+
+19. Sick, K.; Nielsen, J. T.: Genetics of amylase isozymes in the
+mouse. Hereditas 51: 291-296, 1964.
+
+20. Tricoli, J. V.; Shows, T. B.: Regional assignment of human amylase
+(AMY) to p22-p21 of chromosome 1. Somat. Cell Molec. Genet. 10:
+205-210, 1984.
+
+21. Tricoli, J. V.; Shows, T. B.: Assignment of alpha-amylase genes
+to the p22.1-p21 region of chromosome 1. (Abstract) Cytogenet. Cell
+Genet. 37: 597 only, 1984.
+
+22. Ward, J. C.; Merritt, A. D.; Bixler, D.: Human salivary amylase:
+genetics of electrophoretic variants. Am. J. Hum. Genet. 23: 403-409,
+1971.
+
+23. Wiebauer, K.; Gumucio, D. L.; Jones, J. M.; Caldwell, R. M.; Hartle,
+H. T.; Meisler, M. H.: A 78-kilobase region of mouse chromosome 3
+contains salivary and pancreatic amylase genes and a pseudogene. Proc.
+Nat. Acad. Sci. 82: 5446-5449, 1985.
+
+24. Zabel, B. U.; Naylor, S. L.; Sakaguchi, A. Y.; Bell, G. I.; Shows,
+T. B.: High-resolution chromosomal localization of human genes for
+amylase, proopiomelanocortin, somatostatin, and a DNA fragment (D3S1)
+by in situ hybridization. Proc. Nat. Acad. Sci. 80: 6932-6936, 1983.
+
+CONTRIBUTORS Victor A. McKusick - updated: 10/18/2007
+Victor A. McKusick - updated: 9/27/2004
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED alopez: 10/24/2007
+terry: 10/18/2007
+terry: 11/2/2004
+alopez: 9/30/2004
+terry: 9/27/2004
+mark: 11/27/1996
+mimadm: 2/11/1994
+supermim: 3/16/1992
+carol: 2/27/1992
+carol: 10/21/1991
+carol: 12/14/1990
+carol: 12/6/1990
+
+600020	TITLE *600020 MAX-INTERACTING PROTEIN 1; MXI1
+DESCRIPTION 
+DESCRIPTION
+
+The MAD (600021) and MXI1 genes encode basic helix-loop-helix leucine
+zipper transcription factors that bind MAX (154950) in vitro, forming a
+sequence-specific DNA-binding complex similar to the MYC-MAX
+heterodimer. MXI1 and MAD may antagonize MYC function and are candidate
+tumor suppressor genes (Edelhoff et al., 1994).
+
+CLONING
+
+Zervos et al. (1993) isolated the MXI1 as a protein that specifically
+interacts with MAX. The MXI1 protein contains a bHLH-ZIP motif that is
+similar to that found in Myc family proteins. MXI1 interacts
+specifically with MAX to form heterodimers that efficiently bind to the
+Myc-MAX consensus recognition site. When bound to DNA by a LexA moiety
+in yeast, MXI1 does not stimulate transcription.
+
+Albarosa et al. (1995) concluded that the coding sequence of MXI1 has an
+open reading frame that is 28 codons shorter at the 3-prime end than
+previously described.
+
+GENE STRUCTURE
+
+Wechsler et al. (1996) showed that MXI1 contains 6 exons and spans
+approximately 60 kb.
+
+MAPPING
+
+Edelhoff et al. (1994) mapped the MXI1 gene to human chromosome 10q25
+and to mouse chromosome 19 at region D by fluorescence in situ
+hybridization (FISH). A second site of hybridization on mouse chromosome
+2 at region C was thought to represent either a pseudogene or a related
+sequence. By FISH, Wechsler et al. (1994) mapped the MXI1 gene to
+10q24-q25. Shapiro et al. (1994) confirmed the assignments of the MAD
+and MXI1 genes to chromosomes 2p13-p12 and 10q24-q25, respectively, by
+somatic cell mapping and FISH.
+
+In the mouse, Steingrimsson et al. (1995) mapped the Mxi1 gene, as well
+as those for 4 other bHLH-ZIP transcription factors, by interspecific
+backcross analysis. An Mxi1 gene was found to reside on mouse chromosome
+19 in an area known to have homology of synteny to human 10q.
+
+MOLECULAR GENETICS
+
+Albarosa et al. (1995) found an AAAAC polymorphic repeat in the 3-prime
+noncoding region of the gene. Using this polymorphism, they demonstrated
+loss of heterozygosity in all of 9 glioblastomas and in none of 6
+anaplastic astrocytomas. Glioblastoma multiforme (137800) demonstrates
+chromosome 10 changes in a majority of instances.
+
+Since the MXI1 protein negatively regulates MYC oncoprotein activity, it
+potentially serves a tumor suppressor function. MXI1 maps to a region of
+chromosome 10 that is deleted in some cases of prostate cancer (176807).
+This prompted Eagle et al. (1995) to do studies in which they
+demonstrated mutations in the retained MXI1 allele in 4 primary prostate
+tumors with 10q24-q25 deletions. Two tumors contained inactivating
+mutations, whereas 2 others contained the identical missense mutation.
+Fluorescence in situ hybridization also demonstrated loss of one MXI1
+allele in an additional tumor lacking chromosome 10 abnormalities. MXI1
+thus displays allelic loss and mutation in some cases of prostate cancer
+that may contribute to the pathogenesis or neoplastic evolution of this
+common malignancy. These findings satisfy the Knudson 2-hit hypothesis.
+
+One of the most common chromosomal abnormalities in prostate cancer
+involves loss of 10q22-qter. Rarely, a smaller deletion, involving
+10q24-q25 has been observed, suggesting the presence of a tumor
+suppressor gene at that site. Prochownik et al. (1998) prospectively
+evaluated prostate tumors for loss of MXI1 by FISH and cytogenetic
+techniques. Of 40 tumors, 21 (53%) demonstrated loss of a single MXI1
+allele, as determined by FISH. In 10 cases with cytogenetically normal
+long arms of chromosome 10, but with FISH-documented deletion of MXI1, 8
+mutations of MXI1 were identified. Five of the mutant proteins were
+incapable of binding DNA in association with MAX. Prochownik et al.
+(1998) concluded that MXI1 gene loss in prostate cancer is common and
+most frequently involves a cytogenetically undetectable deletion.
+
+MXI1 appears to regulate MYC function negatively and therefore is a
+potential tumor suppressor gene. Li et al. (1999) screened for MXI1
+mutations in solid tumors, including 4 neurofibrosarcomas, and also
+examined 29 human tumor cell lines. They discovered a missense mutation,
+GCA to GTA (ala54 to val; 600020.0004), in exon 2 in a neurofibrosarcoma
+patient; they found 2 different missense mutations in a second
+neurofibrosarcoma patient, and 3 amino acid substitutions in a third. In
+the last patient, loss of heterozygosity was also demonstrated.
+Neurofibrosarcoma is known to develop in patients with neurofibromatosis
+type I (NF1; 162200). Li et al. (1999) suggested that MXI1 mutations may
+play a role in the pathogenesis of neurofibrosarcoma in NF1; the second
+case of 2 mutations in exon 5 occurred in a patient who also had NF1.
+
+ANIMAL MODEL
+
+MXI1 belongs to the family of proteins that function as potent
+antagonists of MYC oncoproteins. This antagonism relates to their
+ability to compete with MYC for the protein MAX and for consensus DNA
+binding sites and to recruit Sin3 proteins (see SIN3A; 607776) and their
+associated corepressors. Schreiber-Agus et al. (1998) disrupted the Mxi1
+open reading frame in transgenic mice by eliminating an exon required
+for the production of the 2 mouse Mxi1 isoforms. They showed that the
+mice lacking Mxi1 exhibit progressive multisystem abnormalities. The
+mice also showed increased susceptibility to tumorigenesis either
+following carcinogen treatment or when also deficient in INK4A (600160).
+This cancer-prone phenotype may correspond with the enhanced ability of
+several MXI1-deficient cell types, including prostatic epithelium, to
+proliferate. The results show that MXI1 is involved in the homeostasis
+of differentiated organ systems, acts as a tumor suppressor in vivo, and
+engages the MYC network in a functionally relevant manner. In histologic
+studies of the mice, Schreiber-Agus et al. (1998) focused particularly
+on organs that normally express high or sustained levels of Mxi1, e.g.,
+brain, spleen, kidney, and liver, and on tissue types that are
+susceptible to tumorigenesis when a putative tumor suppressor is lost
+from the 10q24-q26 region; for example, the spleen and thymus are
+susceptible to T-cell leukemia, the prostatic epithelium to prostate
+cancer, and the brain to glioblastoma multiforme when the 10q24-q26
+region is mutated.
+
+ALLELIC VARIANT .0001
+PROSTATE CANCER
+MXI1, 1-BP DEL, A, CODON 140 OR 141
+
+In a prostate cancer (176807) tumor, Eagle et al. (1995) found loss of a
+single alanine at codon 140 or 141, converting AAG (lys) to AGT (ser) in
+the ZIP-encoding exon. The frameshift resulted in loss of the terminal
+leucine residue of the ZIP domain as well as loss of all additional
+downstream amino acid sequences, including those comprising the last 2
+alpha-helical turns of the ZIP domain. This was a presumably
+inactivating mutation.
+
+.0002
+PROSTATE CANCER
+MXI1, SPLICE DONOR SITE, GT-GC
+
+In a prostate cancer (176807) tumor, Eagle et al. (1995) observed a
+T-to-C transition in the invariant GT dinucleotide of the splice donor
+site of the ZIP-encoding exon.
+
+.0003
+PROSTATE CANCER
+MXI1, GLU152ALA
+
+In prostate cancer (176807) tumors from 2 different patients, Eagle et
+al. (1995) found the same mutation, an A-to-C transversion in the second
+nucleotide of codon 152 resulting in the nonconservative substitution of
+alanine (GCG) for glutamic acid (GAG).
+
+.0004
+NEUROFIBROSARCOMA
+MXI1, ALA54VAL
+
+Li et al. (1999) identified MXI1 mutations in 3 of 4 neurofibrosarcoma
+patients. One of the mutations was a change from GCA to GTA (ala54 to
+val) in exon 2. Neurofibrosarcoma is known to develop in patients with
+neurofibromatosis type I (162200).
+
+REFERENCE 1. Albarosa, R.; DiDonato, S.; Finocchiaro, G.: Redefinition of the
+coding sequence of the MXI1 gene and identification of a polymorphic
+repeat in the 3-prime non-coding region that allows the detection
+of loss of heterozygosity of chromosome 10q25 in glioblastomas. Hum.
+Genet. 95: 709-711, 1995.
+
+2. Eagle, L. R.; Yin, X.; Brothman, A. R.; Williams, B. J.; Atkin,
+N. B.; Prochownik, E. V.: Mutation of the MXI1 gene in prostate cancer. Nature
+Genet. 9: 249-255, 1995.
+
+3. Edelhoff, S.; Ayer, D. E.; Zervos, A. S.; Steingrimsson, E.; Jenkins,
+N. A.; Copeland, N. G.; Eisenman, R. N.; Brent, R.; Disteche, C. M.
+: Mapping of two genes encoding members of a distinct subfamily of
+MAX interacting proteins: MAD to human chromosome 2 and mouse chromosome
+6, and MXI1 to chromosome 10 and mouse chromosome 19. Oncogene 9:
+665-668, 1994.
+
+4. Li, X.-J.; Wang, D.-Y.; Zhu, Y.; Guo, R.-J.; Wang, X.-D.; Lubomir,
+K.; Mukai, K.; Sasaki, H.; Yoshida, H.; Oka, T.; Machinami, R.; Shinmura,
+K.; Tanaka, M.; Sugimura, H.: Mxi1 mutations in human neurofibrosarcomas. Jpn.
+J. Cancer Res. 90: 740-746, 1999.
+
+5. Prochownik, E. V.; Grove, L. E.; Deubler, D.; Zhu, X. L.; Stephenson,
+R. A.; Rohr, L. R.; Yin, X.; Brothman, A. R.: Commonly occurring
+loss and mutation of the MXI1 gene in prostate cancer. Genes Chromosomes
+Cancer 22: 295-304, 1998.
+
+6. Schreiber-Agus, N.; Meng, Y.; Hoang, T.; Hou, H., Jr.; Chen, K.;
+Greenberg, R.; Cordon-Cardo, C.; Lee, H.-W.; DePinho, R. A.: Role
+of Mxi1 in ageing organ systems and the regulation of normal and neoplastic
+growth. Nature 393: 483-487, 1998.
+
+7. Shapiro, D. N.; Valentine, V.; Eagle, L.; Yin, X.; Morris, S. W.;
+Prochownik, E. V.: Assignment of the human MAD and MXI1 genes to
+chromosomes 2p12-p13 and 10q24-q25. Genomics 23: 282-285, 1994.
+
+8. Steingrimsson, E.; Sawadogo, M.; Gilbert, D. J.; Zervos, A. S.;
+Brent, R.; Blanar, M. A.; Fisher, D. E.; Copeland, N. G.; Jenkins,
+N. A.: Murine chromosomal location of five bHLH-Zip transcription
+factor genes. Genomics 28: 179-183, 1995.
+
+9. Wechsler, D. S.; Hawkins, A. L.; Li, X.; Jabs, E. W.; Griffin,
+C. A.; Dang, C. V.: Localization of the human Mxi1 transcription
+factor gene (MXI1) to chromosome 10q24-q25. Genomics 21: 669-672,
+1994.
+
+10. Wechsler, D. S.; Shelly, C. A.; Dang, C. V.: Genomic organization
+of human MXI1, a putative tumor suppressor gene. Genomics 32: 466-470,
+1996.
+
+11. Zervos, A. S.; Gyuris, J.; Brent, R.: Mxi1, a protein that specifically
+interacts with Max to bind Myc-Max recognition sites. Cell 72: 223-232,
+1993. Note: Erratum: Cell 79: 389 only, 1994.
+
+CONTRIBUTORS Victor A. McKusick - updated: 1/14/2002
+Victor A. McKusick - updated: 11/1/1999
+Victor A. McKusick - updated: 11/4/1998
+Victor A. McKusick - updated: 6/8/1998
+Alan F. Scott - updated: 4/22/1996
+
+CREATED Victor A. McKusick: 7/1/1994
+
+EDITED terry: 08/17/2004
+mgross: 5/12/2003
+alopez: 1/15/2002
+terry: 1/14/2002
+carol: 11/15/1999
+carol: 11/11/1999
+terry: 11/1/1999
+carol: 11/12/1998
+terry: 11/4/1998
+psherman: 9/16/1998
+alopez: 6/8/1998
+dholmes: 6/8/1998
+mark: 9/1/1997
+terry: 11/22/1996
+terry: 4/22/1996
+mark: 4/22/1996
+mimadm: 9/23/1995
+mark: 8/25/1995
+carol: 3/15/1995
+terry: 11/7/1994
+
+607222	TITLE *607222 F-BOX ONLY PROTEIN 18; FBXO18
+;;F-BOX DNA HELICASE 1; FBH1
+DESCRIPTION 
+DESCRIPTION
+
+DNA helicases are enzymes involved in DNA replication, repair, and
+recombination. They generate single-stranded DNA by catalyzing the
+melting of stable helical DNA structures utilizing energy derived from
+the hydrolysis of nucleoside triphosphates. FBH1 is a member of a unique
+class of DNA helicases that are also involved in cell cycle regulation
+by catalyzing ubiquitin ligation of proteins for ubiquitin-mediated
+proteolysis (Kim et al., 2002).
+
+CLONING
+
+Kim et al. (2002) cloned FBH1 by searching for homologs of S. pombe DNA
+helicase I, screening a HeLa cell cDNA library, and 5-prime RACE. The
+deduced 969-amino acid protein contains an F-box motif and 7 conserved
+helicase motifs. It shares 95% identity with the mouse protein.
+
+GENE FUNCTION
+
+Kim et al. (2002) found that recombinant FBH1, purified from
+baculovirus-infected sf9 cells, showed elevated levels of
+single-stranded DNA-dependent ATPase activity. They determined that FBH1
+translocates in the 3-prime-to-5-prime direction and is not dependent on
+fork structures for its unwinding activity. The presence of an F-box in
+the FBH1 sequence suggested its inclusion in SCF (SKP1 (601434)/cullin
+(see CUL1; 603134)/F-box) complexes, which are involved in
+ubiquitin-dependent proteolysis. Coimmunoprecipitation experiments with
+extracts of cotransfected human 293T cells confirmed that FBH1 interacts
+with SKP1 and, through SKP1, with CUL1 and ROC1 (RBX1; 603814) in vitro.
+All interactions were dependent on a functional F-box motif. The SCF
+complex including FBH1 displayed ubiquitin ligase activity.
+
+MAPPING
+
+Jin et al. (2004) stated that the FBXO18 gene maps to chromosome 10p15.1
+and the mouse Fbxo18 gene maps to chromosome 2A1.
+
+REFERENCE 1. Jin, J.; Cardozo, T.; Lovering, R. C.; Elledge, S. J.; Pagano,
+M.; Harper, J. W.: Systematic analysis and nomenclature of mammalian
+F-box proteins. Genes Dev. 18: 2573-2580, 2004.
+
+2. Kim, J.; Kim, J.-H.; Lee, S.-H.; Kim, D.-H.; Kang, H.-Y.; Bae,
+S.-H.; Pan, Z.-Q.; Seo, Y.-S.: The novel human DNA helicase hFBH1
+is an F-box protein. J. Biol. Chem. 277: 24530-24537, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/16/2004
+
+CREATED Patricia A. Hartz: 9/17/2002
+
+EDITED mgross: 12/16/2004
+mgross: 9/17/2002
+
+176844	TITLE *176844 PROTEASOME SUBUNIT, ALPHA-TYPE, 5; PSMA5
+;;PROTEASOME COMPONENT 5; PSC5;;
+PROTEASOME SUBUNIT ZETA
+DESCRIPTION See 176842.
+
+DeMartino et al. (1991) cloned the PSMA5 gene, termed 'subunit zeta' by
+them. The cDNA encoded a 241-amino acid polypeptide. The calculated and
+observed molecular masses were 26 kD and 29 kD, respectively. Northern
+blot analysis revealed an mRNA of 1.2 kb in both human placenta and HeLa
+cells.
+
+Coux et al. (1996) reviewed the structures and functions of the 20S
+proteasome subunits. The alpha subunits comprise the outer rings of the
+proteasome. Some alpha subunits contain a functional nuclear
+localization signal; proteasomes are found in both the nuclear and
+cytoplasmic compartments of the cell. Alpha subunits may constitute a
+physical barrier that limits access of cytosolic proteins into the inner
+proteolytic chamber.
+
+To determine whether the order in a cluster of genes that had been
+mapped to chromosome 1q in the Chinese hamster by a coamplification
+mapping technique is conserved in the human genome, Mayau et al. (1998)
+screened the YAC library from the CEPH laboratory by PCR. They found
+that, as in the hamster, the PSMA5 gene was close to GNAI3 (139370),
+which is located at 1p13.
+
+REFERENCE 1. Coux, O.; Tanaka, K.; Goldberg, A. L.: Structure and functions
+of the 20S and 26S proteasomes. Ann. Rev. Biochem. 65: 801-847,
+1996.
+
+2. DeMartino, G. N.; Orth, K.; McCullough, M. L.; Lee, L. W.; Munn,
+T. Z.; Moomaw, C. R.; Dawson, P. A.; Slaughter, C. A.: The primary
+structures of four subunits of the human, high molecular weight proteinase,
+macropain (proteasome), are distinct but homologous. Biochim. Biophys.
+Acta 1079: 29-38, 1991.
+
+3. Mayau, V.; Baron, B.; Buttin, G.; Debatisse, M.: Twelve genes,
+including the unassigned proteasome zeta subunit gene, ordered within
+the human 1p13 region. Mammalian Genome 9: 331-333, 1998.
+
+CONTRIBUTORS Victor A. McKusick - updated: 9/4/1998
+
+CREATED Victor A. McKusick: 7/10/1991
+
+EDITED kayiaros: 07/13/1999
+alopez: 10/12/1998
+alopez: 10/8/1998
+alopez: 9/9/1998
+carol: 9/4/1998
+alopez: 7/16/1998
+dkim: 7/7/1998
+mark: 8/11/1995
+supermim: 3/16/1992
+carol: 7/22/1991
+carol: 7/10/1991
+
+615088	TITLE *615088 AUTOPHAGY 13, S. CEREVISIAE, HOMOLOG OF; ATG13
+;;KIAA0652;;
+PARAPROTEIN TARGET 8; PARATARG8;;
+PARATARG 8
+DESCRIPTION 
+DESCRIPTION
+
+Macroautophagy is a catabolic process for lysosome-mediated degradation
+of cytoplasmic proteins, organelles, and macromolecules. ATG proteins,
+such as ATG13, are required for formation of autophagosomes,
+double-membrane vesicles that surround and sequester cytoplasmic cargo
+prior to fusion with lysosomes (Mercer et al., 2009).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Ishikawa et al. (1998) cloned ATG13, which they designated
+KIAA0652. The deduced protein contains 517 amino acids. RT-PCR detected
+high ATG13 expression in all 10 human tissues examined. SDS-PAGE
+detected in vitro-translated ATG13 at an apparent molecular mass of 67
+kD.
+
+By searching databases for orthologs of yeast Atg13, Mercer et al.
+(2009) identified human ATG13. The deduced protein contains 480 amino
+acids. Database analysis showed that ATG13 is conserved from mammals to
+lower eukaryotes.
+
+GENE FUNCTION
+
+Using protein interaction assays, Mercer et al. (2009) found that ATG13
+interacted with ATG101 (615089) and with the macroautophagy proteins
+ULK1 (603168) and FIP200 (RB1CC1; 606837). Immunoprecipitation analysis
+revealed that ATG13, ATG101, ULK1, and FIP200 formed a complex that
+redistributed to punctate structures following starvation-induced
+autophagy in HEK293 cells. Knockdown of ATG13 or ATG101 in starved
+HEK293 cells reduced accumulation of a lipid-modified form of LC3B
+(MAP1LC3B; 609604) that associates with autophagosomes. ATG13 was
+required for ATG101 stabilization and localization in the autophagy
+complex. ATG13 and ATG101 were required for formation of autophagosomes,
+but not for downstream vesicle trafficking or fusion with lysosomes.
+Incorporation of radiolabeled PO4 and phosphatase treatment showed that
+ATG13 is phosphoprotein, but phosphorylation status of ATG13 had no
+effect on the function of the autophagy complex or on ATG101 stability.
+
+Using gel filtration and Western blot analysis of HeLa cell lysates,
+Hosokawa et al. (2009) independently identified ATG101 as part of an
+approximately 3-MDa autophagy complex including ULK1, ATG13, and FIP200.
+ATG101 was also detected in complex with ATG13 only and as a monomer.
+The distribution of ATG101 in the 3 fractions was unaltered by
+starvation in HeLa cells. Use of small interfering RNA revealed that
+ATG13 mediated interaction between ATG101 and ULK1 and that ATG101 was
+required for the stability and basal phosphorylation of ATG13 and ULK1.
+Knockdown of ATG101 inhibited formation of LC3-containing autophagosome
+puncta.
+
+Chan et al. (2009) found that human ATG13 interacted with mouse Ulk1 and
+Ulk2 (608650), both of which phosphorylated ATG13.
+
+Antigenic targets of paraproteins, or paratargs, may play a role in the
+pathogenesis of monoclonal gammopathy of unknown significance (see
+153600), Waldenstrom macroglobulinemia (see 153600), and multiple
+myeloma (254500). Preuss et al. (2011) noted that all autoantigenic
+paratargs, including ATG13, which they called paratarg-8, are
+hyperphosphorylated in patients compared with healthy controls,
+suggesting a general pathogenic mechanism. Using coimmunoprecipitation
+analysis, Preuss et al. (2011) identified phosphokinase C (PKC)-zeta
+(PRKCZ; 176982) as the kinase responsible for hyperphosphorylation of
+paratarg-8 and most other autoantigenic paratargs tested. They
+identified phosphatase-2A (PP2A; see 176915) as the phosphatase
+responsible for dephosphorylation of all hyperphosphorylated
+autoantigenic paratargs tested. Studies of carriers of
+hyperphosphorylated and wildtype paratarg-7 (STOML2; 608292) suggested
+that inactivation of the catalytic subunit of PP2A (PPP2CA; 176915) via
+tyr307 phosphorylation causes hyperphosphorylation of autoantigenic
+paratargs.
+
+MAPPING
+
+By radiation hybrid analysis, Ishikawa et al. (1998) mapped the ATG13
+gene to chromosome 11.
+
+Hartz (2013) mapped the ATG13 gene to chromosome 11p11.2 based on an
+alignment of the ATG13 sequence (GenBank GENBANK AB014552) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Chan, E. Y. W.; Longatti, A.; McKnight, N. C.; Tooze, S. A.: Kinase-inactivated
+ULK proteins inhibit autophagy via their conserved C-terminal domains
+using an Atg13-independent mechanism. Molec. Cell. Biol. 29: 157-171,
+2009.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/20/2013.
+
+3. Hosokawa, N.; Sasaki, T.; Iemura, S.; Natsume, T.; Hara, T.; Mizushima,
+N.: Atg101, a novel mammalian autophagy protein interacting with
+Atg13. Autophagy 5: 973-979, 2009.
+
+4. Ishikawa, K.; Nagase, T.; Suyama, M.; Miyajima, N.; Tanaka, A.;
+Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. X. The complete sequences of 100 new
+cDNA clones from brain which can code for large proteins in vitro. DNA
+Res. 5: 169-176, 1998.
+
+5. Mercer, C. A.; Kaliappan, A.; Dennis, P. B.: A novel, human Atg13
+binding protein, Atg101, interacts with ULK1 and is essential for
+macroautophagy. Autophagy 5: 1-14, 2009.
+
+6. Preuss, K.-D.; Pfreundschuh, M.; Fadle, N.; Regitz, E.; Raudies,
+S.; Murwaski, N.; Ahlgrimm, M.; Bittenbring, J.; Klotz, M.; Schafer,
+K.-H.; Held, G.; Neumann, F.; Grass, S.: Hyperphosphorylation of
+autoantigenic targets of paraproteins is due to inactivation of PP2A. Blood 118:
+3340-3346, 2011.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/12/2013
+
+CREATED Patricia A. Hartz: 2/20/2013
+
+EDITED mgross: 03/13/2013
+mgross: 3/12/2013
+mgross: 3/11/2013
+mgross: 2/20/2013
+
+608277	TITLE *608277 CARBOHYDRATE SULFOTRANSFERASE 15; CHST15
+;;B-CELL RAG-ASSOCIATED GENE; BRAG;;
+N-ACETYLGALACTOSAMINE 4-SULFATE 6-O-SULFOTRANSFERASE;;
+GalNAc4S-6ST;;
+KIAA0598
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated brain cDNA
+library, Nagase et al. (1998) cloned KIAA0598. The 3-prime untranslated
+region of the transcript contains an Alu repeat. The deduced 561-amino
+acid protein has a calculated molecular mass of about 72 kD. RT-PCR
+detected high expression in all tissues examined.
+
+By differential display of genes coexpressed with RAG1 (179615),
+followed by screening a pre-B-cell cDNA library, Verkoczy et al. (1998)
+cloned BRAG. The deduced protein contains 503 amino acids and has a
+calculated molecular mass of 55 kD. In vitro translation resulted in a
+doublet that migrated between 69 and 49 kD by SDS-PAGE. BRAG is a type
+II transmembrane glycoprotein with an 81-amino acid cytoplasmic N
+terminus, followed by a transmembrane domain, and a 405-amino acid
+extracellular C terminus. The N terminus contains a putative
+palmitoylation site and several phosphorylation sites, and the C
+terminus contains 4 putative N-glycosylation sites. Verkoczy et al.
+(1998) also identified a putative splice variant that contains an
+in-frame 12-bp deletion. Northern blot analysis detected a 5.0-kb BRAG
+transcript expressed in all B-cell lines that also expressed RAG1.
+Little or no expression was detected in several nonlymphoid cell lines,
+and no expression was detected in T-cell lines, irrespective of RAG1
+expression. Northern blot analysis of whole tissues detected expression
+in bone marrow and tonsil, but not in heart, thymus, or placenta. RNA
+dot blot analysis detected high levels in fetal and adult spleen,
+peripheral blood leukocytes, and lymph node, moderate levels in heart,
+ovary, stomach, and brain putamen, and low levels in bone marrow and
+several other tissues. Zoo blot analysis performed under low stringency
+conditions indicated that the BRAG gene is conserved across eukaryotes.
+High stringency conditions revealed predominant bands only in human and
+baboon DNA.
+
+Verkoczy et al. (2000) determined that BRAG is a membrane-integrated
+glycoprotein that is expressed as a disulfide-linked dimer in B cells.
+They found glycosylated and unglycosylated forms of BRAG, with apparent
+molecular masses of about 63 and 52 kD, respectively, in the
+intracellular fraction of tonsillar B cells and in transfected
+erythroleukemia cells; only the glycosylated product associated with the
+cell surface.
+
+Ohtake et al. (2001) determined that the KIAA0589 protein (Nagase et
+al., 1998) shares significant similarity with GalNAc4S-6ST purified from
+squid cartilage. They also noted that the nucleotide sequence of
+KIAA0598 is nearly identical to that of BRAG (Verkoczy et al., 1998),
+but the deduced proteins are significantly different. However, the
+KIAA0598 and BRAG proteins are both type II transmembrane proteins, and
+both contain a 3-prime-phosphoadenosine 5-prime-phosphosulfate
+(PAPS)-binding domain characteristic of most sulfotransferases.
+
+GENE STRUCTURE
+
+Yuki et al. (2000) determined that the BRAG gene contains 7 exons.
+
+GENE FUNCTION
+
+Verkoczy et al. (1998) showed that BRAG induced RAG1 expression
+following transfection into a B-cell line, but not following
+transfection into a nonlymphoid cell line.
+
+Verkoczy et al. (2000) found that BRAG associated with phosphorylated
+proteins in unstimulated mature B cells, but not in B cells activated
+through B-cell receptor cross-linking. They presented evidence that BRAG
+functions as a cell surface receptor capable of cell signaling.
+
+Ohtake et al. (2001) characterized the enzymatic activity of KIAA0598,
+which they designated GalNAc4S-6ST, following transfection into COS-7
+cells and confirmed that it displays sulfotransferase activity. They
+found that GalNAc4S-6ST catalyzed the transfer of sulfate from PAPS to
+position 6 of the nonreducing terminal and internal N-acetylgalatosamine
+4-sulfate residues in chondroitin sulfate A and dermatan sulfate. Only
+nonreducing terminal N-acetylgalactosamine 4-sulfate residues were
+sulfated when a trisaccharide and a pentasaccharide with sulfated groups
+at position 4 of N-acetylgalactosamine residues were used as acceptors.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the KIAA0598
+gene to chromosome 10.
+
+By somatic cell hybrid analysis and FISH, Verkoczy et al. (1998) mapped
+the CHST15 gene to chromosome 10q26. Using Southern blot analysis, they
+determined that CHST15 is a single-copy gene that is not likely to be a
+member of a multigene family.
+
+REFERENCE 1. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+2. Ohtake, S.; Ito, Y.; Fukuta, M.; Habuchi, O.: Human N-acetylgalactosamine
+4-sulfate 6-O-sulfotransferase cDNA is related to human B cell recombination
+activating gene-associated gene. J. Biol. Chem. 276: 43894-43900,
+2001.
+
+3. Verkoczy, L. K.; Guinn, B.; Berinstein, N. L.: Characterization
+of the human B cell RAG-associated gene, hBRAG, as a B cell receptor
+signal-enhancing glycoprotein dimer that associates with phosphorylated
+proteins in resting B cells. J. Biol. Chem. 275: 20967-20979, 2000.
+
+4. Verkoczy, L. K.; Marsden, P. A.; Berinstein, N. L.: hBRAG, a novel
+B cell lineage cDNA encoding a type II transmembrane glycoprotein
+potentially involved in the regulation of recombination activating
+gene 1 (RAG1). Europ. J. Immun. 28: 2839-2853, 1998.
+
+5. Yuki, M.; Yoshinaga, K.; Yamakawa, H.; Sakurada, K.; Sato, S.;
+Yajima, A.; Horii, A.: Structure, expression and mutational analysis
+of the hBRAG gene on 10q in the frequently deleted region in human
+endometrial cancer. Oncol. Rep. 7: 1339-1342, 2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 3/8/2004
+
+CREATED Patricia A. Hartz: 11/21/2003
+
+EDITED alopez: 06/17/2010
+mgross: 3/9/2004
+terry: 3/8/2004
+mgross: 11/21/2003
+
+609211	TITLE *609211 MYOSIN, LIGHT CHAIN 12B, REGULATORY; MYL12B
+;;MYOSIN REGULATORY LIGHT CHAIN 2; MRLC2
+DESCRIPTION 
+DESCRIPTION
+
+The activity of nonmuscle myosin II (see MYH9; 160775) is regulated by
+phosphorylation of a regulatory light chain, such as MRLC2. This
+phosphorylation results in higher MgATPase activity and the assembly of
+myosin II filaments (Iwasaki et al., 2001).
+
+CLONING
+
+Grant et al. (1990) cloned MRLC2 from a placenta cDNA library. The
+deduced protein contains 171 amino acids.
+
+Using primers designed from chicken Mrlc, Iwasaki et al. (2001)
+amplified MRLC2 from a HeLa cell cDNA library. The deduced 172-amino
+acid protein contains thr18 and ser19, which are conserved
+phosphorylation sites in myosin regulatory light chains.
+
+GENE FUNCTION
+
+Diphosphorylation of MRLCs on thr18 and ser19 results in higher MgATPase
+activity and myosin filament formation than monophosphorylation at ser19
+in vitro. By site-directed mutagenesis, Iwasaki et al. (2001) created
+MRLC2 mutants that mimicked diphosphorylated, monophosphorylated, and
+unphosphorylated forms of MRLC2. Overexpression of the diphosphorylated
+form, and to a lesser degree the monophosphorylated form, caused the
+formation of a large number of actin filament bundles in transfected
+HeLa cells. Overexpression of the unphosphorylated form caused a
+decrease in the number of actin filament bundles. Immunolocalization of
+the mutant proteins in dividing cells revealed colocalization of the 2
+phosphorylated forms with actin filaments in the peripheral region and
+with the contractile ring, while the unphosphorylated form localized
+diffusely throughout the cytoplasm. Iwasaki et al. (2001) concluded that
+phosphorylation of MRLC2 is required for organization of stress fibers
+in interphase cells and the contractile ring in dividing cells. They
+suggested that diphosphorylated MRLC may be more effective in organizing
+actin filaments than monophosphorylated MRLC.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the MYL12B
+gene to chromosome 18 (TMAP SHGC-12353).
+
+REFERENCE 1. Grant, J. W.; Zhong, R. Q.; McEwen, P. M.; Church, S. L.: Human
+nonsarcomeric 20,000 Da myosin regulatory light chain cDNA. Nucleic
+Acids Res. 18: 5892 only, 1990.
+
+2. Iwasaki, T.; Murata-Hori, M.; Ishitobi, S.; Hosoya, H.: Diphosphorylated
+MRLC is required for organization of stress fibers in interphase cells
+and the contractile ring in dividing cells. Cell Struct. Func. 26:
+677-683, 2001.
+
+CREATED Patricia A. Hartz: 2/18/2005
+
+EDITED alopez: 06/25/2009
+mgross: 2/18/2005
+
+602116	TITLE *602116 YEATS DOMAIN-CONTAINING PROTEIN 4; YEATS4
+;;GLIOMA-AMPLIFIED SEQUENCE 41; GAS41
+DESCRIPTION 
+CLONING
+
+Gene amplification, which is generally considered to occur late in tumor
+development, is a common feature of high-grade glioma. Fischer et al.
+(1997) reported cloning and sequencing a cDNA, termed GAS41 by them,
+that was identified in a glioblastoma cell line by
+microdissection-mediated cDNA capture (Gracia et al., 1996). An
+increased copy number of GAS41 was found in glioblastoma multiforme and
+astrocytoma III, and at a high frequency in astrocytoma grades I and II.
+Sequence comparison indicated high similarity between the GAS41 protein,
+yeast and human AF9 (159558), and human ENL (159556). Fischer et al.
+(1997) noted that both AF9 and ENL belong to a class of transcription
+factors, indicating that GAS41 may also represent a transcription
+factor. With GAS41 being the first gene found with increased copy number
+in low-grade glioma, this study provided the first evidence that gene
+amplification can occur in early tumor development.
+
+GENE FUNCTION
+
+The NuA4 histone acetyltransferase (HAT) complex is responsible for
+acetylation of the N-terminal tails of histone H4 (see 602822) and H2A
+(see 613499) in yeast. Its catalytic subunit, Esa1, is homologous to
+human TIP60 (HTATIP; 601409). Using affinity purification, Western blot
+analysis, cell fractionation, immunoprecipitation, and mass
+spectrometry, Doyon et al. (2004) found that TIP60 and its splice
+variant, TIP60B/PLIP, were part of a multisubunit NuA4 complex with HAT
+activity in several human cell lines. They identified human homologs for
+11 of the 12 yeast NuA4 subunits, including GAS41.
+
+By immunoprecipitation analysis of human 293T cells, Park and Roeder
+(2006) found that GAS41 associated with TIP60 complex core subunits and
+with H2AZ (H2AFZ; 142763), a component of the SWI2/SNF2 (SMARCA2;
+600014)-related CBP (CREBBP; 600140) activator protein (SRCAP) complex,
+confirming that GAS41 is a genuine subunit of the TIP60 and SRCAP
+complexes. TIP60 complexes containing GAS41 showed typical
+TIP60-mediated H3 and H4 acetyltransferase activity on free core
+histones. Either knockdown of GAS41 expression with small interfering
+RNA or specific interruptions of the C-terminal coiled-coil motif of the
+GAS41 protein activated the p53 (TP53; 191170) tumor suppressor pathway.
+Activation of the p53 pathway did not result from changes in TIP60
+complex assembly or TIP60 coactivator functions for p53. GAS41 was
+prebound to the promoters of 2 p53 tumor suppressor pathway genes, p21
+(CDKN1A; 116899) and p14(ARF) (CDKN2A; 600160), in normal unstressed
+cells, but GAS41 dissociated from both promoters in response to
+p53-activating stress signals.
+
+Using RNA interference in mouse embryonic stem (ES) cells, Fazzio et al.
+(2008) found that depletion of any of 7 components of the Tip60-p400
+(EP400; 606265) HAT and nucleosome remodeling complex, including Yeats4,
+caused the same phenotype. Unlike normal ES cells, which grow in
+spherical 3-dimensional colonies, ES cells depleted of any the 7
+Tip60-p400 HAT components showed a flattened and elongated morphology,
+with monolayer growth and reduced cell-cell contacts. These knockdown
+cells continued to cycle, with reduced cells in S phase and increased
+cells in G2 phase. The effect of Tip60-p400 HAT component knockdown was
+unique to ES cells, as negligible changes were observed following
+knockdown in mouse embryonic fibroblasts.
+
+By yeast 2-hybrid and coimmunoprecipitation analyses, Lauffart et al.
+(2002) showed that TAAC1 (605301) interacted with the C-terminal 109
+amino acids of GAS41.
+
+Zimmermann et al. (2002) found that targeted disruption of both Gas41
+alleles in a chicken prelymphoid cell line resulted in a significant
+decrease in RNA synthesis and subsequent cell death, indicating that
+GAS41 is required for RNA transcription.
+
+Braas et al. (2004) found that the chicken Gas41 promoter contains
+several potential Myb (189990)-binding sites, and they demonstrated that
+Gas41 is a v-Myb target gene.
+
+MAPPING
+
+The GAS41 gene maps to chromosome 12q13-q15 (Gracia et al., 1996).
+
+REFERENCE 1. Braas, D.; Gundelach, H.; Klempnauer, K.-H.: The glioma-amplified
+sequence 41 gene (GAS41) is a direct Myb target gene. Nucleic Acids
+Res. 32: 4750-4757, 2004.
+
+2. Doyon, Y.; Selleck, W.; Lane, W. S.; Tan, S.; Cote, J.: Structural
+and functional conservation of the NuA4 histone acetyltransferase
+complex from yeast to humans. Molec. Cell. Biol. 24: 1884-1896,
+2004.
+
+3. Fazzio, T. G.; Huff, J. T.; Panning, B.: An RNAi screen of chromatin
+proteins identifies Tip60-p400 as a regulator of embryonic stem cell
+identity. Cell 134: 162-174, 2008.
+
+4. Fischer, U.; Heckel, D.; Michel, A.; Janka, M.; Hulsebos, T.; Meese,
+E.: Cloning of a novel transcription factor-like gene amplified in
+human glioma including astrocytoma grade I. Hum. Molec. Genet. 6:
+1817-1822, 1997.
+
+5. Gracia, E.; Fischer, U.; Elkahloun, A.; Trent, J. M.; Meese, E.;
+Meltzer, P. S.: Isolation of genes amplified in human cancers by
+microdissection mediated cDNA capture. Hum. Molec. Genet. 5: 595-600,
+1996.
+
+6. Lauffart, B.; Howell, S. J.; Tasch, J. E.; Cowell, J. K.; Still,
+I. H.: Interaction of the transforming acidic coiled-coil 1 (TACC1)
+protein with ch-TOG and GAS41/NuBI1 suggests multiple TACC1-containing
+protein complexes in human cells. Biochem. J. 363: 195-200, 2002.
+
+7. Park, J. H.; Roeder, R. G.: GAS41 is required for repression of
+the p53 tumor suppressor pathway during normal cellular proliferation. Molec.
+Cell. Biol. 26: 4006-4016, 2006.
+
+8. Zimmermann, K.; Ahrens, K.; Matthes, S.; Buerstedde, J.-M.; Stratling,
+W. H.; Phi-van, L.: Targeted disruption of the GAS41 gene encoding
+a putative transcription factor indicates that GAS41 is essential
+for cell viability. J. Biol. Chem. 277: 18626-18631, 2002.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/5/2008
+Patricia A. Hartz - updated: 6/25/2007
+Matthew B. Gross - updated: 5/8/2007
+
+CREATED Victor A. McKusick: 11/12/1997
+
+EDITED mgross: 02/08/2013
+mgross: 1/11/2013
+mgross: 11/7/2008
+terry: 11/5/2008
+mgross: 6/27/2007
+terry: 6/25/2007
+wwang: 5/8/2007
+mgross: 5/8/2007
+cwells: 3/13/2002
+terry: 2/22/2002
+terry: 6/4/2001
+dholmes: 11/18/1997
+jenny: 11/12/1997
+
+612157	TITLE *612157 SENTRIN-SPECIFIC PROTEASE FAMILY, MEMBER 1; SENP1
+SENP1/MESDC2 FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+The covalent modification of proteins by the small ubiquitin (UBB;
+191339)-like protein SUMO (see SUMO1, 601912) is implicated in the
+regulation of nucleocytoplasmic transport, genomic stability, gene
+transcription, and other processes. Sumoylation is catalyzed on target
+lysine residues by a multienzyme process and is reversed by
+desumoylating enzymes such as SENP1 (Yamaguchi et al., 2005).
+
+CLONING
+
+By searching an EST database for homologs of yeast Ulp1, followed by PCR
+of a placenta cDNA library and 3-prime and 5-prime RACE, Gong et al.
+(2000) cloned SENP1. The deduced 643-amino acid protein contains a
+C-terminal domain that includes conserved histidine, aspartate, and
+cysteine residues characteristic of cysteine proteases. SENP1 shares 21%
+identity with yeast Ulp1.
+
+GENE STRUCTURE
+
+Gong et al. (2000) determined that the SENP1 gene contains 18 exons and
+spans 61 kb. Exon 3 contains the translational start codon.
+
+MAPPING
+
+By genomic sequence analysis, Gong et al. (2000) mapped the SENP1 gene
+to chromosome 12q13.1.
+
+GENE FUNCTION
+
+Gong et al. (2000) showed that SENP1 removed the SUMO1 modification from
+a sumoylated protein in transfected COS cells concomitant with the
+accumulation of free SUMO1 monomers. It also removed SUMO2 (603042)
+modifications, but not ubiquitin or NEDD8 (603171) modifications. SENP1
+desumoylated the nuclear protein PML (102578), but not RanGAP1 (602362),
+which resides on the cytoplasmic side of the nuclear pore complex. Since
+SENP1 was able to remove the SUMO1 modification from RanGAP1 in vitro,
+Gong et al. (2000) concluded that the inability of SENP1 to desumoylate
+RanGAP1 in vivo is due to the SENP1 nuclear localization.
+
+Veltman et al. (2005) identified a patient with an infantile
+sacrococcygeal teratoma and a constitutional t(12;15)(q13;q25)
+chromosomal translocation, resulting in SENP1/MESDC2 (607783) fusion
+genes. Both reciprocal SENP1/MESDC2 (SEME) and MESDC2/SENP1 (MESE)
+fusion genes were transcribed in tumor-derived cells, and their open
+reading frames encoded aberrant proteins. In contrast to wildtype
+MESDC2, the translocation-associated SEME protein was no longer targeted
+to the endoplasmic reticulum, leading to a presumed loss-of-function as
+a chaperone for the WNT coreceptors LRP5 (603506) and/or LRP6 (603507).
+SUMO, a posttranslational modifier, plays an important role in several
+cellular key processes and is cleaved from its substrates by wildtype
+SENP1. In vitro studies revealed that translocation-associated MESE
+proteins exhibited desumoylation capacities similar to those observed
+for wildtype SENP1. Veltman et al. (2005) speculated that spatiotemporal
+disturbances in desumoylating activities during critical stages of
+embryonic development might be responsible for teratoma formation. The
+constitutional t(12;15)(q13;q25) translocation suggested SENP1 and
+MESDC2 as candidate genes for neonatal/infantile germ cell tumor
+development.
+
+Xu et al. (2008) found that the activities of SENP1, SENP2 (608261), and
+Ulp1 were inhibited by oxidation. Peroxide induced the formation of an
+intermolecular disulfide linkage in SENP1 via the active-site cysteines
+at positions 603 and 613. This reversible modification, also observed in
+yeast Ulp1 but not in SENP2, conferred a higher recovery of enzyme
+activity following inhibition, as well as protection against further
+irreversible oxidation and enzyme inhibition. In vivo formation of a
+disulfide-linked SENP1 dimer was also detected in cultured cells in
+response to oxidative stress. Experiments examining the crystal
+structures of Ulp1 under increasing oxidation of a catalytic cysteine
+revealed that Ulp1 was extremely sensitive to mild oxidation, even at
+the atmospheric oxygen level. Xu et al. (2008) concluded that SENP1 may
+act as a redox sensor and modulate protein desumoylation and cellular
+responses to oxidative stress.
+
+Using mechanistic studies in human cells, Yu et al. (2010) found that
+SENP1 directly desumoylated GATA1 and thereby regulated GATA1
+DNA-binding activity, GATA1-dependent EPOR (133171) expression, and
+erythropoiesis. They concluded that SENP1 promotes GATA1 activation and
+subsequent erythropoiesis by desumoylating GATA1.
+
+ANIMAL MODEL
+
+Yamaguchi et al. (2005) found that homozygous disruption of the Senp1
+gene in mice via a retroviral insertional mutation caused embryonic
+lethality between embryonic days 12.5 and 14.5 due to placental
+abnormalities. Senp1 -/- embryos showed increased steady-state levels of
+the sumoylated forms of a number of proteins, including Rangap1
+(602362).
+
+Yu et al. (2010) observed erythropoietic defects in fetal liver of Senp1
+-/- mice. These defects were accompanied by reduced activity of Gata1
+and reduced expression of Gata1 target genes due to accumulation of
+sumoylated Gata1.
+
+REFERENCE 1. Gong, L.; Millas, S.; Maul, G. G.; Yeh, E. T. H.: Differential
+regulation of sentrinized proteins by a novel sentrin-specific protease. J.
+Biol. Chem. 275: 3355-3359, 2000.
+
+2. Veltman, I. M.; Vreede, L. A.; Cheng, J.; Looijenga, L. H. J.;
+Janssen, B.; Schoenmakers, E. F. P. M.; Yeh, E. T. H.; Geurts van
+Kessel, A.: Fusion of the SUMO/sentrin-specific protease 1 gene SENP1
+and the embryonic polarity-related mesoderm development gene MESDC2
+in a patient with an infantile teratoma and a constitutional t(12;15)(q13;q25). Hum.
+Molec. Genet. 14: 1955-1963, 2005.
+
+3. Xu, Z.; Lam, L. S. M.; Lam, L. H.; Chau, S. F.; Ng, T. B.; Au,
+S. W. N.: Molecular basis of the redox regulation of SUMO proteases:
+a protective mechanism of intermolecular disulfide linkage against
+irreversible sulfhydryl oxidation. FASEB J. 22: 127-137, 2008.
+
+4. Yamaguchi, T.; Sharma, P.; Athanasiou, M.; Kumar, A.; Yamada, S.;
+Kuehn, M. R.: Mutation of SENP1/SuPr-2 reveals an essential role
+for desumoylation in mouse development. Molec. Cell. Biol. 25: 5171-5182,
+2005.
+
+5. Yu, L.; Ji, W.; Zhang, H.; Renda, M. J.; He, Y.; Lin, S.; Cheng,
+E.; Chen, H.; Krause, D. S.; Min, W.: SENP1-mediated GATA1 deSUMOylation
+is critical for definitive erythropoiesis. J. Exp. Med. 207: 1183-1195,
+2010.
+
+CONTRIBUTORS Paul J. Converse - updated: 11/9/2012
+George E. Tiller - updated: 11/17/2008
+
+CREATED Patricia A. Hartz: 6/30/2008
+
+EDITED mgross: 11/19/2012
+terry: 11/9/2012
+wwang: 11/18/2008
+wwang: 11/17/2008
+alopez: 7/15/2008
+alopez: 6/30/2008
+
+188230	TITLE *188230 THY-1 T-CELL ANTIGEN; THY1
+;;THETA ANTIGEN;;
+CD90 ANTIGEN; CD90
+DESCRIPTION Thy-1 is the designation for a major cell surface glycoprotein
+characteristic to T cells, as first defined in the mouse and rat (Raff,
+1971; Letarte-Muirhead et al., 1975). The Thy-1 glycoproteins are
+constituents of thymocytes and neurons and probably are involved in
+cell-cell interactions. The putative human homolog of Thy-1 of the mouse
+is called K117. The human homolog of the rodent antigen was studied by
+Ades et al. (1980). Using a monoclonal antibody, McKenzie and Fabre
+(1981) studied the tissue distribution of the antigen. By use of a gene
+clone in somatic cell hybrids, Seki et al. (1985) assigned the THY1 gene
+to chromosome 11. Van den Elsen et al. (1985) predicted that the human
+Thy-1 homolog maps to chromosome 11 because that is where they found T3D
+(186790) to map and in the mouse T3D and Thy-1 map to chromosome 9 along
+with certain other loci that are on human 11q. A multigene family is a
+group of homologous genes with similar function. A supergene family is a
+set of multigene families and single genes related by sequence (implying
+common ancestry) but not necessarily related in function. Hood et al.
+(1985) refer to the immunoglobulin supergene family which includes
+Thy-1, poly-Ig receptor, heavy, kappa and lambda immunoglobulins, Lyt-2
+(T8), alpha and beta chains of T-cell antigen receptor and the closely
+homologous gamma chain, class I MHC antigen, beta-2-microglobulin, and
+the alpha and beta chains of class II MHC antigens. Thy-1 is
+structurally the simplest of these, consisting of a single
+immunoglobulin homology unit that is either intermediate between V and C
+or somewhat more similar to a V homology unit (Williams and Gagnon,
+1982). The Thy-1 glycoprotein is also exceptional in that it is on the
+cell surface as a free homology unit and apparently does not associate
+either with itself or with other polypeptides. Its role in immune
+response is unclear. It is expressed on fibroblasts and brain cells in
+addition to some T cells. The significant role of Thy-1 in developing
+nervous tissue (Morris, 1985) may be of relevance to disorders such as
+ataxia-telangiectasia (208900) that combine neurologic and immunologic
+defects. By somatic cell and in situ hybridization, van Rijs et al.
+(1985) localized the gene to 11q23-11q24. Rettig et al. (1985) assigned
+the gene to 11q13-qter, by Southern analysis of DNA from hybrid cells
+containing rearranged chromosomes 11. HGM7 gave the regional assignment
+as 11q22.3. Tunnacliffe and McGuire (1990) constructed a physical map of
+11q23 by pulsed field gel electrophoresis and showed that THY1 lies in
+11q23.3 as the most telomeric of a group of 6 genes:
+cen--CD3E--CD3D--CD3G--PBGD--CBL2--THY1--qter.
+
+Chromosome 11 seems to carry an inordinately large number of genes for
+cell surface antigens (Rettig et al., 1985); according to the 1985
+workshop on Human Gene Mapping (Grzeschik and Kazazian, 1985), at least
+21 cellular antigens recognized by monoclonal antibodies and other
+serologic means map to 11. Mansour et al. (1987) gave a useful history
+of our understanding of the Thy-1 glycoprotein and a review of its
+evolution. Using RFLPs, Gatti et al. (1987) mapped the THY1 gene against
+APOA1 (107680). THY1 appeared to be distal to APOA1; there was 1%
+recombination between the 2 loci in males and 2% in females. Gatti et
+al. (1988) demonstrated RFLPs in the THY1 gene that are potentially
+useful as markers in linkage studies. Greenspan and O'Brien (1989)
+showed in the mouse that a factor secreted by nonneuronal accessory
+cells of dorsal root ganglion cultures stimulates neurite outgrowth in
+neonatal sympathetic ganglion neurons. They presented evidence that this
+is identical to Thy-1. It is this function in separate tissues that
+might explain pleiotropic manifestations of some syndromes such as
+ataxia-telangiectasia (208900) or cartilage-hair hypoplasia (250250).
+
+Cao et al. (2001) found that introduction of chromosome 11 completely
+suppressed tumorigenicity of the highly malignant and tumorigenic
+ovarian cancer cell line SKOV-3 but introduction of chromosome 17 could
+only partially suppress tumorigenicity. Microcell-mediated chromosome
+transfer was applied to introduce a normal copy of chromosome 11 into
+SKOV-3 cells; a panel of 5 hybrid clones were generated. Two of the
+clones were completely nontumorigenic in severe combined
+immunodeficiency (SCID) mice for up to 150 and 200 days; 2 other clones
+had a latency period of 123 and 109 days, respectively. In vitro cell
+doubling time was found to be highly variable and did not correlate with
+tumorigenicity, implying that suppression of in vivo tumorigenicity and
+in vitro cell proliferation are under separate genetic control. A number
+of studies had demonstrated a high frequency of loss of heterozygosity
+(LOH) of chromosome 11, both 11p and 11q, in ovarian cancer. To identify
+the gene or genes associated with tumor suppression in the ovarian cell
+line SKOV-3, Abeysinghe et al. (2003) performed cDNA subtractive
+hybridization using a suppression subtractive hybridization method.
+Using this approach, they identified the differential expression of the
+cell surface glycoprotein THY1, the gene for which maps to 11q23.3. The
+expression of THY1 was found to be exclusive in the 2 nontumorigenic
+clones as determined by Northern blot analysis at the mRNA level and by
+immunocytochemistry and quantitative flow cytometry at the protein
+expression level. Several genes related to cell growth and
+differentiation were found to be upregulated in the nontumorigenic
+clones, including THBS1 (188060), SPARC (182120), and fibronectin
+(135600).
+
+ADDITIONAL REFERENCES Bonewald et al. (1984); Rettig et al. (1985); Rettig et al. (1985);
+Tse et al. (1985)
+REFERENCE 1. Abeysinghe, H. R.; Cao, Q.; Xu, J.; Pollock, S.; Veyberman, Y.;
+Guckert, N. L.; Keng, P.; Wang, N.: THY1 expression is associated
+with tumor suppression of human ovarian cancer. Cancer Genet. Cytogenet. 143:
+125-132, 2003.
+
+2. Ades, E. W.; Zwerner, R. K.; Acton, R. T.; Balch, C. M.: Isolation
+and partial characterisation of the human homologue of Thy-1. J.
+Exp. Med. 151: 400-406, 1980.
+
+3. Bonewald, L.; Ades, E. W.; Tung, E.; Marchalonis, J. J.; Wang,
+A. C.: Biochemical characterization of human Thy-1. J. Immunogenet. 11:
+283-296, 1984.
+
+4. Cao, Q.; Abeysinghe, H.; Chow, O.; Xu, J.; Kaung, H.-L.; Fong,
+C.-T.; Keng, P.; Insel, R. A.; Lee, W.-C. M.; Barrett, J. C.; Wang,
+N.: Suppression of tumorigenicity in human ovarian carcinoma cell
+line SKOV-3 by microcell-mediated transfer of chromosome 11. Cancer
+Genet. Cytogenet. 129: 131-137, 2001.
+
+5. Gatti, R. A.; Lathrop, G. M.; Salser, W.; Silver, J.; Lalouel,
+J. M.; White, R.: Location of Thy-1 with respect to a primary linkage
+map of chromosome 11q. (Abstract) Cytogenet. Cell Genet. 46: 618
+only, 1987.
+
+6. Gatti, R. A.; Shaked, R.; Wei, S.; Koyama, M.; Salser, W.; Silver,
+J.: DNA polymorphism in the human Thy-1 gene. Hum. Immun. 22: 145-150,
+1988.
+
+7. Greenspan, R. J.; O'Brien, M. C.: Genetic evidence for the role
+of Thy-1 in neurite outgrowth in the mouse. J. Neurogenet. 5: 25-36,
+1989.
+
+8. Grzeschik, K.-H.; Kazazian, H. H.: Report of the committee on
+the genetic constitution of chromosomes 10, 11, and 12. Cytogenet.
+Cell Genet. 40: 179-205, 1985.
+
+9. Hood, L.; Kronenberg, M.; Hunkapiller, T.: T cell antigen receptors
+and the immunoglobulin supergene family. Cell 40: 225-229, 1985.
+
+10. Letarte-Muirhead, M.; Barclay, A. N.; Williams, A. F.: Purification
+of the Thy-1 molecule, a major cell surface glycoprotein of rat thymocytes. Biochem.
+J. 151: 685-697, 1975.
+
+11. Mansour, M. H.; Negm, H. I.; Cooper, E. L.: Thy-1 evolution. Dev.
+Comp. Immun. 11: 3-15, 1987.
+
+12. McKenzie, J. L.; Fabre, J. W.: Human Thy-1: unusual localization
+and possible functional significance in lymphoid tissues. J. Immun. 126:
+843-850, 1981.
+
+13. Morris, R.: Thy-1 in developing nervous tissue. Dev. Neurosci. 7:
+133-160, 1985.
+
+14. Raff, M. C.: Surface antigenic markers for distinguishing T and
+B lymphocytes in mice. Transplant. Rev. 6: 52-80, 1971.
+
+15. Rettig, W. J.; Dracopoli, N. C.; Chesa, P. G.; Spengler, B. A.;
+Beresford, H. R.; Davies, P.; Biedler, J. L.; Old, L. J.: Role of
+human chromosome 11 in determining surface antigenic phenotype of
+normal and malignant cells: somatic cell genetic analysis of eight
+antigens, including putative human Thy-1. J. Exp. Med. 162: 1603-1619,
+1985.
+
+16. Rettig, W. J.; Dracopoli, N. C.; Silver, J.; Old, L. J.: Human
+THY-1: regional mapping on chromosome 11 and comparison with other
+chromosome 11-encoded cell surface glycoproteins. (Abstract) Cytogenet.
+Cell Genet. 40: 731 only, 1985.
+
+17. Rettig, W. J.; Dracopoli, N. C.; Spengler, B. A.; Biedler, J.
+L.; Old, L. J.: Somatic cell genetic analysis of human cell surface
+antigens, including putative human Thy-1: eight distinct antigenic
+systems controlled by chromosome 11. (Abstract) Cytogenet. Cell Genet. 40:
+732 only, 1985.
+
+18. Seki, T.; Spurr, N.; Obata, F.; Goyert, S.; Goodfellow, P.; Silver,
+J.: The human Thy-1 gene: structure and chromosomal location. Proc.
+Nat. Acad. Sci. 82: 6657-6661, 1985.
+
+19. Tse, A. G. D.; Barclay, A. N.; Watts, A.; Williams, A. F.: A
+glycophospholipid tail at the carboxyl terminus of the Thy-1 glycoprotein
+of neurons and thymocytes. Science 230: 1003-1008, 1985.
+
+20. Tunnacliffe, A.; McGuire, R. S.: A physical linkage group in
+human chromosome band 11q23 covering a region implicated in leukocyte
+neoplasia. Genomics 8: 447-453, 1990.
+
+21. van den Elsen, P.; Bruns, G.; Gerhard, D. S.; Pravtcheva, D.;
+Jones, C.; Housman, D.; Ruddle, F. A.; Orkin, S.; Terhorst, C.: Assignment
+of the gene coding for the T3-delta subunit of the T3--T-cell receptor
+complex to the long arm of human chromosome 11 and to mouse chromosome
+9. Proc. Nat. Acad. Sci. 82: 2920-2924, 1985.
+
+22. van Rijs, J.; Giguere, V.; Hurst, J.; van Agthoven, T.; Geurts
+van Kessel, A.; Goyert, S.; Grosveld, F.: Chromosomal localization
+of the human Thy-1 gene. Proc. Nat. Acad. Sci. 82: 5832-5835, 1985.
+
+23. Williams, A. F.; Gagnon, J.: Neuronal cell Thy-1 glycoprotein:
+homology with immunoglobulin. Science 216: 696-703, 1982.
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED wwang: 06/15/2005
+tkritzer: 9/17/2003
+tkritzer: 9/15/2003
+mark: 7/12/1995
+davew: 7/18/1994
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+carol: 5/5/1989
+
+602964	TITLE *602964 TRANSLIN-ASSOCIATED FACTOR X; TSNAX
+;;TRAX
+DESCRIPTION 
+CLONING
+
+Translin (TSN; 600575) is a DNA-binding protein that specifically binds
+to consensus sequences at breakpoint junctions of chromosomal
+translocations in many cases of lymphoid malignancies. Aoki et al.
+(1997) used a yeast 2-hybrid system to screen a human spleen cDNA
+library for potential interactions of TSN with other proteins. They
+isolated a TSNAX cDNA, termed TRAX (translin-associated factor X) by the
+authors, whose product specifically interacted with TSN in
+cotransformation and in vitro interaction assays. The cDNA encodes a
+putative 290-amino acid protein with a predicted molecular mass of 33
+kD. The protein contains a heptad repeat of hydrophobic amino acids
+consistent with the hypothetical leucine zipper structure. The authors
+found 28% amino acid sequence identity between TSNAX and TSN, with 38%
+identity in the C-terminal regions. Northern blot analysis revealed a
+single TSNAX transcript of 2.7 kb, with a tissue distribution similar to
+that of the TSN transcript.
+
+GENE FUNCTION
+
+Liu et al. (2009) reconstituted long double-stranded RNA- and duplex
+siRNA-initiated RISC (RNA-induced silencing complex) activities with the
+use of recombinant Drosophila Dicer-2 (see 606241), R2D2, and Ago2
+(606229) proteins. They used this core reconstitution system to purify
+an RNAi regulator that they termed C3PO (component 3 promoter of RISC),
+a complex of translin and TRAX. C3PO is a magnesium ion-dependent
+endoribonuclease that promotes RISC activation by removing siRNA
+passenger strand cleavage products. Liu et al. (2009) showed that TRAX
+is unstable without translin and that TRAX is the catalytic subunit of
+C3PO. Liu et al. (2009) concluded that their study established an in
+vitro RNAi reconstitution system and identified C3PO as a key activator
+of the core RNAi machinery.
+
+GENE STRUCTURE
+
+Meng et al. (2000) determined that the genomic structure of TSNAX is
+similar to that of TSN, consisting of 6 exons encompassing approximately
+27 kb of genomic DNA.
+
+MAPPING
+
+By fluorescence in situ hybridization, Meng et al. (2000) mapped the
+TSNAX gene to chromosome 1q41.
+
+MOLECULAR GENETICS
+
+Cannon et al. (2005) conducted a population-based twin cohort study in
+Finland to examine the association of SNPs of DISC1 (605210) and TRAX
+with schizophrenia (SCZD9; 604906) and several endophenotypic traits
+thought to be involved in the disease pathogenesis. Two hundred and
+thirty-six subjects consisting of 7 pairs concordant for schizophrenia
+(6 monozygotic, 1 dizygotic), 52 pairs discordant for schizophrenia (20
+monozygotic, 32 dizygotic), and 59 demographically balanced normal pairs
+(28 monozygotic, 31 dizygotic) were drawn from a twin cohort consisting
+of all same-sex twins born in Finland from 1940 through 1957. Diagnosis
+was confirmed, and performance measurements on neurocognitive tests of
+short- and long-term memory as well as gray matter volume measurements
+as assessed on MRI images were recorded. A common haplotype
+incorporating 3 SNPs near the translocation breakpoint of DISC1 (HEP1;
+odds ratio, 2.6, p = 0.02) and a rare haplotype incorporating 4 markers
+from the DISC1 and TRAX genes (combined HEP2/HEP3; odds ratio, 13.0, p =
+0.001) were significantly overrepresented among individuals with
+schizophrenia. These haplotypes were also associated with several
+quantitative and endophenotypic traits including impairments in short-
+and long-term memory, functioning, and reduced gray matter density in
+the prefrontal cortex.
+
+REFERENCE 1. Aoki, K.; Ishida, R.; Kasai, M.: Isolation and characterization
+of a cDNA encoding a translin-like protein, TRAX. FEBS Lett. 401:
+109-112, 1997.
+
+2. Cannon, T. D.; Hennah, W.; van Erp, T. G. M.; Thompson, P. M.;
+Lonnqvist, J.; Huttenen, M.; Gasperoni, T.; Tuulio-Henriksson, A.;
+Pirkola, T.; Toga, A. W.; Kaprio, J.; Mazziotta, J.; Peltonen, L.
+: Association of DISC1/TRAX haplotypes with schizophrenia, reduced
+prefrontal gray matter, and impaired short- and long-term memory. Arch.
+Gen. Psychiat. 62: 1205-1213, 2005.
+
+3. Liu, Y.; Ye, X.; Jiang, F.; Liang, C.; Chen, D.; Peng, J.; Kinch,
+L. N.; Grishin, N. V.; Liu, Q.: C3PO, an endoribonuclease that promotes
+RNAi by facilitating RISC activation. Science 325: 750-753, 2009.
+
+4. Meng, G.; Aoki, K.; Tokura, K.; Nakahara, K.; Inazawa, J.; Kasai,
+M.: Genomic structure and chromosomal localization of the gene encoding
+TRAX, a translin-associated factor X. J. Hum. Genet. 45: 305-308,
+2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/1/2009
+John Logan Black, III - updated: 11/30/2007
+Victor A. McKusick - updated: 12/6/2000
+
+CREATED Sheryl A. Jankowski: 8/12/1998
+
+EDITED alopez: 09/10/2009
+terry: 9/1/2009
+carol: 11/30/2007
+carol: 12/6/2000
+carol: 8/13/1998
+
+610480	TITLE *610480 LEM DOMAIN-CONTAINING PROTEIN 1; LEMD1
+DESCRIPTION 
+CLONING
+
+By microarray analysis to identify genes upregulated in colorectal
+carcinomas, followed by database analysis, Yuki et al. (2004) identified
+LEMD1. Northern blot analysis detected a 0.7-kb LEMD1 transcript
+expressed in testis only. RT-PCR revealed 6 alternatively spliced LEMD1
+transcripts in testis. The longest deduced protein, LEMD1A, contains 181
+amino acids and has an N-terminal LEM domain. Of the 6 LEMD1 variants,
+LEMD1B, which encodes a deduced 29-amino acid protein lacking the LEM
+domain, showed highest expression in testis. LEMD1F, which encodes a
+67-amino acid protein containing the N-terminal LEM domain, was detected
+in 17 of 18 colon cancer tissues examined. Epitope-tagged LEMD1F was
+expressed in transfected COS-7 cells at the nuclear membrane and
+colocalized with transfected BAF (BANF1; 603811).
+
+GENE STRUCTURE
+
+Yuki et al. (2004) determined that the LEMD1 gene contains 6 exons.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the LEMD1
+gene to chromosome 1 (TMAP RH92566).
+
+REFERENCE 1. Yuki, D.; Lin, Y.-M.; Fujii, Y.; Nakamura, Y.; Furukawa, Y.: Isolation
+of LEM domain-containing 1, a novel testis-specific gene expressed
+in colorectal cancers. Oncol. Reports 12: 275-280, 2004.
+
+CREATED Patricia A. Hartz: 10/11/2006
+
+EDITED mgross: 10/11/2006
+
+603910	TITLE *603910 EUKARYOTIC TRANSLATION INITIATION FACTOR 3, SUBUNIT J; EIF3J
+;;EIF3-p35;;
+EIF3-ALPHA;;
+EUKARYOTIC TRANSLATION INITIATION FACTOR 3, SUBUNIT 1, FORMERLY; EIF3S1,
+FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Eukaryotic initiation factor-3 (EIF3) has a molecular mass of about 600
+kD and contains 13 nonidentical protein subunits, including EIF3J. EIF3
+plays a central role in binding of initiator methionyl-tRNA and mRNA to
+the 40S ribosomal subunit to form the 40S initiation complex (Fraser et
+al., 2004; Fraser et al., 2007).
+
+CLONING
+
+By searching an EST database with partial protein sequences of the human
+eIF3-p35 and eIF3-p44 (EIF3G; 603913) subunits, Block et al. (1998)
+isolated cDNAs encoding p35 and p44. The predicted p35 protein contains
+258 amino acids. Both p44 and p35 coimmunoprecipitated with p170,
+indicating that they are components of the eIF3 complex. Northern blot
+analysis revealed that p35 is expressed as an approximately 2.4-kb mRNA
+in HeLa cells.
+
+GENE FUNCTION
+
+Using insect cells to express EIF3 subunits and an in vitro binding
+assay, Fraser et al. (2004) identified EIF3J as the EIF3 component
+required for stable 40S binding. EIF3J promoted binding of a core
+subcomplex made up of EIF3B (603917), EIF3G, and EIF3I (603911).
+Purified EIF3 lacking EIF3J bound 40S ribosomal subunits weakly, but it
+bound tightly when EIF3J was added. Cleavage of a 16-residue C-terminal
+peptide from EIF3J by caspase-3 (CASP3; 600636) reduced its affinity for
+the 40S ribosomal subunit, and the cleaved form provided substantially
+less stabilization of purified EIF3-40S complexes.
+
+Fraser et al. (2007) found that EIF3J bound directly to the mRNA entry
+channel and aminoacyl site of the 40S subunit, placing EIF3J directly in
+the ribosomal decoding center. EIF3J also interacted with EIF3A (602039)
+and reduced 40S subunit affinity for mRNA. High affinity for mRNA was
+restored upon recruitment of initiator tRNA, even though EIF3J remained
+in the mRNA-binding cleft in the presence of tRNA. Fraser et al. (2007)
+concluded that EIF3J governs the binding of initiation factors and mRNA
+to form the initiation complex.
+
+REFERENCE 1. Block, K. L.; Vornlocher, H.-P.; Hershey, J. W. B.: Characterization
+of cDNAs encoding the p44 and p35 subunits of human translation initiation
+factor eIF3. J. Biol. Chem. 273: 31901-31908, 1998.
+
+2. Fraser, C. S.; Berry, K. E.; Hershey, J. W. B.; Doudna, J. A.:
+eIF3j is located in the decoding center of the human 40S ribosomal
+subunit. Molec. Cell 26: 811-819, 2007.
+
+3. Fraser, C. S.; Lee, J. Y.; Mayeur, G. L.; Bushell, M.; Doudna,
+J. A.; Hershey, J. W. B.: The j-subunit of human translation initiation
+factor eIF3 is required for the stable binding of eIF3 and its subcomplexes
+to 40 S ribosomal subunits in vitro. J. Biol. Chem. 279: 8946-8956,
+2004.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 9/25/2007
+
+CREATED Rebekah S. Rasooly: 6/16/1999
+
+EDITED mgross: 10/02/2007
+mgross: 10/2/2007
+terry: 9/25/2007
+alopez: 6/17/1999
+
+606450	TITLE *606450 NEUROEPITHELIAL CELL TRANSFORMING GENE 1; NET1
+DESCRIPTION 
+CLONING
+
+By expression cloning and PCR of a neuroepithelioma cell line, followed
+by screening of a mammary epithelial cell line, Chan et al. (1996)
+obtained a cDNA encoding NET1. Sequence analysis predicted that the
+601-amino acid protein has a DBL homology (DH) domain that is 21%
+similar to that of DBL (311030), particularly in the leucine-rich
+region. The DH domain is a 240-amino acid region initially identified in
+DBL. DH domain proteins interact with members of the RAS superfamily of
+GTP-binding proteins. NET1 also possesses a pleckstrin-homology domain.
+Northern blot analysis revealed ubiquitous expression of major 3.0- and
+minor 2.4-kb NET1 transcripts, with highest levels in placenta.
+Functional analysis showed that NET1 induced morphologic alterations and
+conferred a malignant phenotype in vitro and in nude mice.
+
+MAPPING
+
+By FISH, Chan et al. (1996) mapped the NET1 gene to 10p15, a region
+involved in nonrandom translocation in acute nonlymphocytic leukemia
+(ANLL).
+
+REFERENCE 1. Chan, A. M.-L.; Takai, S.; Yamada, K.; Miki, T.: Isolation of
+a novel oncogene, NET1, from neuroepithelioma cells by expression
+cDNA cloning. Oncogene 12: 1259-1266, 1996.
+
+CREATED Paul J. Converse: 11/9/2001
+
+EDITED mgross: 11/09/2001
+
+603768	TITLE *603768 PROTEIN PHOSPHATASE 1, REGULATORY SUBUNIT 12B; PPP1R12B
+;;MYOSIN PHOSPHATASE TARGET SUBUNIT 2; MYPT2
+DESCRIPTION 
+CLONING
+
+The holoenzyme of smooth muscle myosin phosphatase consists of 3
+subunits: the catalytic subunit PP1c-delta (PPP1CB; 600590), and 2
+putative regulatory subunits, MYPT (myosin phosphatase target) and M20.
+The N-terminal half of MYPT binds to both PP1c-delta and phosphorylated
+myosin, thereby increasing myosin phosphatase activity. The C-terminal
+region contains the phosphorylation site thought to be involved in
+inhibition of phosphatase activity, as well as binding sites for M20 and
+several other substances. The MYPT1 (602021) gene encodes one human MYPT
+isoform. By screening a human brain cDNA library with a rat MYPT1 cDNA,
+Fujioka et al. (1998) isolated cDNAs encoding MYPT2, a second human
+isoform. The predicted 982-amino acid MYPT2 protein shares 61% sequence
+identity with MYPT1. Like MYPT1, MYPT2 contains 7 ankyrin repeats near
+the N terminus and C-terminal leucine zipper motifs. Northern blot
+analysis revealed that MYPT2 is expressed as multiple transcripts in a
+tissue-specific pattern, with the strongest expression in heart and
+skeletal muscle. Western blots detected the 125-kD MYPT2 protein only in
+brain and heart, in contrast to MYPT1, which is widely distributed in
+human tissues. In vitro, recombinant proteins containing the N-terminal
+two-thirds of either MYPT2 or MYPT1 bound to PP1c-delta and increased
+activity toward phosphorylated myosin light chain.
+
+MAPPING
+
+By fluorescence in situ hybridization, Fujioka et al. (1998) mapped the
+MYPT2 gene to 1q32.1.
+
+REFERENCE 1. Fujioka, M.; Takahashi, N.; Odai, H.; Araki, S.; Ichikawa, K.;
+Feng, J.; Nakamura, M.; Kaibuchi, K.; Hartshorne, D. J.; Nakano, T.;
+Ito, M.: A new isoform of human myosin phosphatase targeting/regulatory
+subunit (MYPT2): cDNA cloning, tissue expression, and chromosomal
+mapping. Genomics 49: 59-68, 1998.
+
+CREATED Rebekah S. Rasooly: 4/22/1999
+
+EDITED carol: 08/21/2001
+alopez: 4/22/1999
+
+606974	TITLE *606974 COMPONENT OF OLIGOMERIC GOLGI COMPLEX 2; COG2
+;;LOW DENSITY LIPOPROTEIN RECEPTOR DEFECT C-COMPLEMENTING PROTEIN; LDLC
+DESCRIPTION 
+DESCRIPTION
+
+Multiprotein complexes are key determinants of Golgi apparatus structure
+and its capacity for intracellular transport and glycoprotein
+modification. Several complexes have been identified, including the
+Golgi transport complex (GTC), the LDLC complex, which is involved in
+glycosylation reactions, and the SEC34 complex, which is involved in
+vesicular transport. These 3 complexes are identical and have been
+termed the conserved oligomeric Golgi (COG) complex, which includes COG2
+(Ungar et al., 2002).
+
+CLONING
+
+Podos et al. (1994) isolated a cDNA encoding LDLC by expressing human
+genomic DNA in ldlC Chinese hamster ovary (CHO) cells, which have
+defective LDLR (606945) expression due to glycosylation defects,
+detecting corrected expression, probing a size-selected genomic DNA
+library, Northern blot analysis of HeLa cells, and screening of a HeLa
+cell cDNA library. Expression of LDLC alone in ldlC CHO cells, but not
+in ldlB (606973) CHO cells, corrected LDLR expression. Northern blot
+analysis revealed expression of a 3.4-kb LDLC transcript in HeLa cells,
+with lower expression in wildtype, but not mutant, CHO cells. LDLC is a
+deduced 738-amino acid cytoplasmic protein. Immunofluorescence
+microscopy indicated that LDLC is associated with the Golgi in CHO cells
+and mouse fibroblasts.
+
+By SDS-PAGE analysis of bovine brain cytosol, Ungar et al. (2002)
+identified the 8 subunits of the COG complex. Immunofluorescence
+microscopy demonstrated that COG1 (LDLB) colocalizes with COG7 (606978),
+as well as with COG3 (606975) and COG5 (606821), with a Golgi marker in
+a perinuclear distribution. Immunoprecipitation analysis showed that all
+COG subunits interact with COG2. Ungar et al. (2002) concluded that the
+COG complex is critical for the structure and function of the Golgi
+apparatus and can influence intracellular membrane trafficking.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the COG2
+gene to chromosome 1 (TMAP stSG15532).
+
+REFERENCE 1. Podos, S. D.; Reddy, P.; Ashkenas, J.; Krieger, M.: LDLC encodes
+a brefeldin A-sensitive, peripheral Golgi protein required for normal
+Golgi function. J. Cell Biol. 127: 679-691, 1994.
+
+2. Ungar, D.; Oka, T.; Brittle, E. E.; Vasile, E.; Lupashin, V. V.;
+Chatterton, J. E.; Heuser, J. E.; Krieger, M.; Waters, M. G.: Characterization
+of a mammalian Golgi-localized protein complex, COG, that is required
+for normal Golgi morphology and function. J. Cell Biol. 157: 405-415,
+2002.
+
+CREATED Paul J. Converse: 5/23/2002
+
+EDITED ckniffin: 06/05/2002
+mgross: 5/28/2002
+mgross: 5/23/2002
+
+300128	TITLE *300128 LYSINE-SPECIFIC DEMETHYLASE 6A; KDM6A
+;;UBIQUITOUSLY TRANSCRIBED TETRATRICOPEPTIDE REPEAT GENE ON X CHROMOSOME;
+UTX
+DESCRIPTION 
+CLONING
+
+Greenfield et al. (1998) described the isolation of an X-linked homolog
+of Uty (see 400009), called Utx (ubiquitously transcribed TPR gene on
+the X chromosome), which is expressed from the inactive X chromosome in
+both mice and humans.
+
+MAPPING
+
+Greenfield et al. (1998) determined that the mouse Utx gene maps to the
+proximal region of the X chromosome in an interval containing the Maoa
+(309850) and Maob (309860) genes, thus placing it in band A2-A3. By
+Southern analysis of a panel of rodent/human somatic cell hybrids
+carrying derivative X chromosomes, Greenfield et al. (1998) mapped the
+human UTX gene to Xp11.3-p11.23. By fluorescence in situ hybridization
+on normal human metaphase spreads, they refined the localization to
+Xp11.2.
+
+GENE FUNCTION
+
+Lan et al. (2007) showed that the JmjC-domain-containing related
+proteins UTX and JMJD3 (611577) catalyze demethylation of
+tri/dimethylated histone H3 (see 602810) lysine-27 (H3K27me3/2). UTX is
+enriched around the transcription start sites of many HOX genes in
+primary human fibroblasts, in which HOX genes are differentially
+expressed, but is selectively excluded from the HOX loci in embryonic
+stem cells, in which HOX genes are largely silent. Consistently, RNA
+interference inhibition of UTX led to increased H3K27me3 levels at some
+HOX gene promoters. Importantly, morpholino oligonucleotide inhibition
+of a zebrafish UTX homolog resulted in misregulation of HOX genes and a
+striking posterior developmental defect, which was partially rescued by
+wildtype, but not by catalytically inactive, human UTX. Lan et al.
+(2007) concluded that, taken together, their findings identified a small
+family of H3K27 demethylases with important evolutionarily conserved
+roles in H3K27 methylation regulation and in animal anterior-posterior
+development.
+
+Agger et al. (2007) showed that human JmjC domain-containing UTX and
+JMJD3 demethylate trimethylated lys27 on histone H3. Furthermore, the
+authors demonstrated that ectopic expression of JMJD3 leads to a strong
+decrease of H3K27me3 levels and causes delocalization of polycomb
+proteins in vivo. Consistent with the strong decrease in H3K27me3 levels
+associated with HOX genes during differentiation, Agger et al. (2007)
+showed that UTX directly binds to the HOXB1 locus and is required for
+its activation. Finally, mutation of F18E9.5, a C. elegans JMJD3
+ortholog, or inhibition of its expression, resulted in abnormal gonad
+development. Agger et al. (2007) concluded that, taken together, their
+results suggested that H3K27me3 demethylation regulated by UTX/JMJD3
+proteins is essential for proper development. Moreover, the recent
+demonstration that UTX associates with the H3K4me3 histone
+methyltransferase MLL2 (602113) (Issaeva et al., 2007), supported a
+model in which the coordinated removal of repressive marks, polycomb
+group displacement, and deposition of activating marks are important for
+the stringent regulation of transcription during cellular
+differentiation.
+
+Lee et al. (2007) showed that human UTX, a member of the Jumonji C
+family of proteins, is a di- and trimethyl H3K27 demethylase. UTX
+occupies the promoters of HOX gene clusters (see 142950) and regulates
+their transcriptional output by modulating the recruitment of polycomb
+repressive complex 1 (PRC1) and the monoubiquitination of histone H2A
+(see 602786). Moreover, UTX associates with mixed-lineage leukemia (MLL)
+2/3 complexes (602113, 606833, respectively), and during retinoic acid
+signaling events, the recruitment of the UTX complex to HOX genes
+results in H3K27 demethylation and a concomitant methylation of H3K4.
+Lee et al. (2007) concluded that their results suggested a concerted
+mechanism for transcriptional activation in which cycles of H3K4
+methylation by MLL2/3 are linked with the demethylation of H3K27 through
+UTX.
+
+MOLECULAR GENETICS
+
+Van Haaften et al. (2009) described inactivating somatic mutations in
+the histone lysine demethylase gene UTX, pointing to histone H3 lysine
+methylation deregulation in multiple tumor types. UTX reintroduction
+into cancer cells with inactivating UTX mutations resulted in slowing of
+proliferation and marked transcriptional changes.
+
+By array CGH analysis in 2 Belgian girls with Kabuki syndrome (see
+KABUK2, 300867) who were negative for mutation in the MLL2 gene
+(602113), Lederer et al. (2012) identified de novo Xp11.3
+microdeletions, both of which contained part or all of the KDM6A gene.
+In the 13-year-old girl, the 283.5-kb deletion included KDM6A exons 21
+through 29, coding for the terminal part of the catalytic domain of
+KDM6A, and CXORF36. In the 10-year-old girl, the 815.7-kb deletion
+completely removed KDM6A, CXORF36, DUSP21 (300678) and FUNDC1 (300871).
+Sequencing of the KDM6A gene as well as targeted array CGH in a cohort
+of 22 MLL2-negative Kabuki syndrome patients revealed a de novo 45.4-kb
+intragenic deletion in a 2-year-old Italian boy (300128.0001). Although
+KDM6A escapes X inactivation, Lederer et al. (2012) found a skewed
+X-inactivation pattern in both girls (89:11 and 97:3, respectively), in
+which the deleted X chromosome was inactivated in the majority of the
+cells.
+
+Miyake et al. (2013) analyzed the KDM6A gene in 32 patients with Kabuki
+syndrome who were negative for mutation in the MLL2 gene, and identified
+nonsense mutations in 2 male patients and a 3-bp deletion in a female
+patient (300128.0002-300128.0004). The female patient had fewer
+dysmorphic features than the male patients, who displayed a more severe
+phenotype with multiple organ involvement. Miyake et al. (2013)
+suggested that the mutation type as well as X-inactivation pattern in
+affected organs in females may determine the severity of Kabuki
+syndrome.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Kruidenier et al. (2012) presented a structure-guided small-molecule and
+chemoproteomics approach to elucidating the functional role of the
+H3K27me3-specific demethylase subfamily (KDM6 subfamily members JMJD3,
+611577 and UTX). The liganded structures of human and mouse JMJD3
+provided novel insight into the specificity determinants for cofactor,
+substrate, and inhibitor recognition by the KDM6 subfamily of
+demethylases. Kruidenier et al. (2012) exploited these structural
+features to generate the first small-molecule catalytic site inhibitor
+that is selective for the H3K27me3-specific JMJ subfamily, and
+demonstrated that this inhibitor binds in a novel manner and reduces
+lipopolysaccharide-induced proinflammatory cytokine production by human
+primary macrophages, a process that depends on both JMJD3 and UTX.
+Kruidenier et al. (2012) concluded that their results resolved the
+ambiguity associated with the catalytic function of H3K27-specific JMJs
+in regulating disease-relevant inflammatory responses and provided
+encouragement for designing small-molecule inhibitors to allow selective
+pharmacologic intervention across the JMJ family.
+
+Mansour et al. (2012) demonstrated in mice and humans that the histone
+H3 methylated lys27 (H3K27) demethylase Utx regulates the efficient
+induction, rather than maintenance, of pluripotency. Murine embryonic
+stem cells lacking Utx can execute lineage commitment and contribute to
+adult chimeric animals; however, somatic cells lacking Utx fail to
+robustly reprogram back to the ground state of pluripotency. Utx
+directly partners with OSK reprogramming factors (OCT4, 164177; SOX2,
+184429; KLF4, 602253) and uses its histone demethylase catalytic
+activity to facilitate induced pluripotent stem cell formation. Genomic
+analysis indicates that Utx depletion results in aberrant dynamics of
+H3K27me3 repressive chromatin demethylation in somatic cells undergoing
+reprogramming. The latter directly hampers the derepression of potent
+pluripotency promoting gene modules (including Sall1, Sall4, and Utf1),
+which can cooperatively substitute for exogenous OSK supplementation in
+iPSC formation. Remarkably, Utx safeguards the timely execution of
+H3K27me3 demethylation observed in embryonic day 10.5-11 primordial germ
+cells (PGCs), and Utx-deficient PGCs show cell-autonomous aberrant
+epigenetic reprogramming dynamics during their embryonic maturation in
+vivo. Subsequently, this disrupts PGC development by embryonic day 12.5,
+and leads to diminished germline transmission in mouse chimeras
+generated from Utx-knockout pluripotent cells. Thus, Mansour et al.
+(2012) concluded that they identified Utx as a novel mediator with
+distinct functions during the reestablishment of pluripotency and germ
+cell development. They furthermore concluded that their findings
+highlighted the principle that molecular regulators mediating loss of
+repressive chromatin during in vivo germ cell reprogramming can be
+co-opted during in vitro reprogramming towards ground state
+pluripotency.
+
+ALLELIC VARIANT .0001
+KABUKI SYNDROME 2
+KDM6A, EX5-9DEL
+
+In a 2-year-old Italian boy with a typical Kabuki syndrome phenotype
+(KABUK2; 300867), Lederer et al. (2012) identified hemizygosity for a de
+novo 45.4-kb intragenic deletion from genomic coordinate ChrX:44,866,302
+to 44,912,718 (GRCh37/hg19), removing exons 5 through 9 of the KDM6A
+gene.
+
+.0002
+KABUKI SYNDROME 2
+KDM6A, TRP1239TER
+
+In a 14-year-old Japanese boy with Kabuki syndrome (KABUK2; 300867),
+Miyake et al. (2013) identified a 3717G-A transition in the KDM6A gene,
+resulting in a trp1239-to-ter (W1239X) substitution. Parental DNA was
+unavailable.
+
+.0003
+KABUKI SYNDROME 2
+KDM6A, ARG519TER
+
+In a 22-year-old Japanese man with Kabuki syndrome (300867), Miyake et
+al. (2013) identified a 1555C-T transition in the KDM6A gene, resulting
+in an arg519-to-ter (R519X) substitution. Parental DNA was unavailable.
+
+.0004
+KABUKI SYNDROME 2
+KDM6A, 3-BP DEL, 3354TCT
+
+In a 21-year-old woman with Kabuki syndrome (300867), Miyake et al.
+(2013) identified a de novo heterozygous 3-bp deletion (3354delTCT) in
+the KDM6A gene, resulting in the in-frame deletion of a highly conserved
+residue (leu1119del) in the catalytic Jumonji-C (JmjC) domain. The
+mutation was not present in either of her parents. The patient showed a
+random pattern of X inactivation, with a 57:43 ratio in genomic DNA from
+peripheral leukocytes.
+
+REFERENCE 1. Agger, K.; Cloos, P. A. C.; Christensen, J.; Pasini, D.; Rose,
+S.; Rappsilber, J.; Issaeva, I.; Canaani, E.; Salcini, A. E.; Helin,
+K.: UTX and JMJD3 are histone H3K27 demethylases involved in HOX
+gene regulation and development. Nature 449: 731-734, 2007.
+
+2. Greenfield, A.; Carrel, L.; Pennisi, D.; Philippe, C.; Quaderi,
+N.; Siggers, P.; Steiner, K.; Tam, P. P. L.; Monaco, A. P.; Willard,
+H. F.; Koopman, P.: The UTX gene escapes X inactivation in mice and
+humans. Hum. Molec. Genet. 7: 737-742, 1998.
+
+3. Issaeva, I.; Zonis, Y.; Rozovskaia, T.; Orlovsky, K.; Croce, C.
+M.; Nakamura, T.; Mazo, A.; Eisenbach, L.; Canaani, E.: Knockdown
+of ALR (MLL2) reveals ALR target genes and leads to alterations in
+cell adhesion and growth. Molec. Cell. Biol. 27: 1889-1903, 2007.
+
+4. Kruidenier, L.; Chung, C.; Cheng, Z.; Liddle, J.; Che, K.; Joberty,
+G.; Bantscheff, M.; Bountra, C.; Bridges, A.; Diallo, H.; Eberhard,
+D.; Hutchinson, S.; and 19 others: A selective jumonji H3K27 demethylase
+inhibitor modulates the proinflammatory macrophage response. Nature 488:
+404-408, 2012.
+
+5. Lan, F.; Bayliss, P. E.; Rinn, J. L.; Whetstine, J. R.; Wang, J.
+K.; Chen, S.; Iwase, S.; Alpatov, R.; Issaeva, I.; Canaani, E.; Roberts,
+T. M.; Chang, H. Y.; Shi, Y.: A histone H3 lysine 27 demethylase
+regulates animal posterior development. Nature 449: 689-694, 2007.
+
+6. Lederer, D.; Grisart, B.; Digilio, M. C.; Benoit, V.; Crespin,
+M.; Ghariani, S. C.; Maystadt, I.; Dallapiccola, B.; Verellen-Dumoulin,
+C.: Deletion of KDM6A, a histone demethylase interacting with MLL2,
+in three patients with Kabuki syndrome. Am. J. Hum. Genet. 90: 119-124,
+2012.
+
+7. Lee, M. G.; Villa, R.; Trojer, P.; Norman, J.; Yan, K.-P.; Reinberg,
+D.; Di Croce, L.; Shiekhattar, R.: Demethylation of H3K27 regulates
+polycomb recruitment and H2A ubiquitination. Science 318: 447-450,
+2007.
+
+8. Mansour, A. A.; Gafni, O.; Weinberger, L.; Zviran, A.; Ayyash,
+M.; Rais, Y.; Krupalnik, V.; Zerbib, M.; Amann-Zalcenstein, D.; Maza,
+I.; Geula, S.; Viukov, S.; Holtzman, L.; Pribluda, A.; Canaani, E.;
+Horn-Saban, S.; Amit, I.; Novershtern, N.; Hanna, J. H.: The H3K27
+demethylase Utx regulates somatic and germ cell epigenetic reprogramming. Nature 488:
+409-413, 2012.
+
+9. Miyake, N.; Mizuno, S.; Okamoto, N.; Ohashi, H.; Shiina, M.; Ogata,
+K.; Tsurusaki, Y.; Nakashima, M.; Saitsu, H.; Niikawa, N.; Matsumoto,
+N.: KDM6A point mutations cause Kabuki syndrome. Hum. Mutat. 34:
+108-110, 2013.
+
+10. van Haaften, G.; Dalgliesh, G. L.; Davies, H.; Chen, L.; Bignell,
+G.; Greenman, C.; Edkins, S.; Hardy, C.; O'Meara, S.; Teague, J.;
+Butler, A.; Hinton, J.; and 50 others: Somatic mutations of the
+histone H3K27 demethylase gene UTX in human cancer. Nature Genet. 41:
+521-523, 2009.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 2/14/2013
+Ada Hamosh - updated: 9/12/2012
+Marla J. F. O'Neill - updated: 1/26/2012
+Ada Hamosh - updated: 8/3/2009
+Ada Hamosh - updated: 11/26/2007
+Ada Hamosh - updated: 10/26/2007
+
+CREATED Victor A. McKusick: 5/6/1998
+
+EDITED carol: 02/15/2013
+terry: 2/14/2013
+mgross: 2/5/2013
+alopez: 9/13/2012
+terry: 9/12/2012
+mgross: 6/25/2012
+carol: 1/26/2012
+terry: 1/26/2012
+alopez: 8/4/2009
+terry: 8/3/2009
+alopez: 11/29/2007
+terry: 11/26/2007
+alopez: 11/2/2007
+terry: 10/26/2007
+dkim: 9/11/1998
+carol: 8/11/1998
+carol: 6/16/1998
+carol: 5/6/1998
+

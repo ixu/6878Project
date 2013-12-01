@@ -1,0 +1,4009 @@
+600664	TITLE *600664 CONSERVED HELIX-LOOP-HELIX UBIQUITOUS KINASE; CHUK
+;;INHIBITOR OF KAPPA LIGHT POLYPEPTIDE GENE ENHANCER IN B CELLS, KINASE
+OF, ALPHA; IKBKA;;
+NUCLEAR FACTOR OF KAPPA LIGHT CHAIN GENE ENHANCER IN B CELLS INHIBITOR,
+KINASE OF, ALPHA; NFKBIKA;;
+I-KAPPA-B KINASE-ALPHA;;
+IKK-ALPHA; IKKA;;
+I-KAPPA-B KINASE 1; IKK1
+DESCRIPTION 
+DESCRIPTION
+
+NFKB1 (164011) or NFKB2 (164012) is bound to REL (164910), RELA
+(164014), or RELB (604758) to form the NFKB complex. The NFKB complex is
+inhibited by I-kappa-B proteins (NFKBIA, 164008, or NFKBIB, 604495),
+which inactivate NF-kappa-B by trapping it in the cytoplasm.
+Phosphorylation of serine residues on the I-kappa-B proteins by kinases
+(IKBKA or IKBKB, 603258) marks them for destruction via the
+ubiquitination pathway, thereby allowing activation of the NF-kappa-B
+complex. Activated NFKB complex translocates into the nucleus and binds
+DNA at kappa-B-binding motifs such as 5-prime GGGRNNYYCC 3-prime or
+5-prime HGGARNYYCC 3-prime (where H is A, C, or T; R is an A or G
+purine; and Y is a C or T pyrimidine).
+
+CLONING
+
+Helix-loop-helix proteins contain stretches of DNA that encode 2
+amphipathic alpha-helices joined by a loop structure and are involved in
+protein dimerization and transcriptional regulation essential to a
+variety of cellular processes. Mock et al. (1995) performed mapping
+studies of a new member of this family of proteins in the human and
+mouse. The protein contains a serine/threonine kinase domain; due to its
+ubiquitous expression in a broad array of tissues and high degree of
+conservation across species, it was designated CHUK for 'conserved
+helix-loop-helix ubiquitous kinase.' The multidomain polypeptide encoded
+by the CHUK gene also contains leucine zipper motifs.
+
+DiDonato et al. (1997) purified a cytokine-activated protein kinase
+complex, IKK (for I-kappa-B kinase), that phosphorylates I-kappa-B
+proteins on the sites that trigger their degradation. They molecularly
+cloned and identified a component of IKK, IKK-alpha (CHUK), as a serine
+kinase. Mercurio et al. (1997) independently purified CHUK, which they
+called IKK1, from HeLa cells. They found that mutant forms of IKK1 had
+less effect upon NFKB activation than did mutant forms of IKK2 (also
+called IKBKB, IKK-beta, or IKKB). IKK-alpha is approximately 50%
+identical to IKK-beta (603258), and both contain kinase, leucine zipper,
+and helix-loop-helix domains. Although IKK-alpha and IKK-beta can
+homodimerize, heterodimerization appears to be favored over
+homodimerization (Mercurio et al., 1997).
+
+By use of NF-kappa-B-inducing kinase (NIK; 604655) as bait in a yeast
+2-hybrid screen of a human B-cell line to identify NIK-interacting
+proteins, Regnier et al. (1997) isolated CHUK, which phosphorylates
+NFKBIA at ser32 and ser36 and NFKBIB at ser19 and ser23. The
+phosphorylation of these proteins leads to the release of NFKB and
+activation of nuclear genes. By screening a Jurkat T-cell cDNA library,
+Regnier et al. (1997) obtained a full-length CHUK cDNA encoding a
+745-amino acid protein that is 96% identical to mouse Chuk. A
+catalytically inactive CHUK mutant acts as a dominant-negative inhibitor
+of TNF (191160)-, IL1 (see 147760)-, TRAF2 (601895)-, and NIK-induced
+NFKB activation.
+
+Hu and Wang (1998) cloned and characterized IKKA and IKKB. Northern blot
+analysis revealed expression of major 3.6- and minor 7.0-kb IKKA
+transcripts in all tissues tested, with highest levels in heart,
+placenta, skeletal muscle, kidney, pancreas, spleen, thymus, prostate,
+testis, and peripheral blood. IKKB was also ubiquitously expressed as
+major 3.4- and minor 6.5-kb transcripts. Expression of both transcripts
+was highest in 7-day mouse embryonic tissue. Hu and Wang (1998)
+suggested that IKKA and IKKB may be functionally related and cooperate
+in cells.
+
+GENE FUNCTION
+
+Delhase et al. (1999) demonstrated that in mammalian cells,
+phosphorylation of 2 sites at the activation loop of IKK-beta was
+essential for activation of IKK by TNF and IL1. Elimination of
+equivalent sites in IKK-alpha did not interfere with IKK activation.
+Thus IKK-beta, not IKK-alpha, is the target for proinflammatory stimuli.
+Once activated, IKK-beta autophosphorylated at a carboxy-terminal serine
+cluster. This phosphorylation decreased IKK activity and was suggested
+to prevent prolonged activation of the inflammatory response.
+
+Ozes et al. (1999) showed that AKT1 (164730) is involved in the
+activation of NFKB1 by TNF, following the activation of
+phosphatidylinositol 3-kinase (PIK3; see 171834). Constitutively active
+AKT1 induces NFKB1 activity, mediated by phosphorylation of IKK-alpha at
+threonine 23, which can be blocked by activated NIK. Conversely, NIK
+activation of NFKB1, mediated by phosphorylation of IKK-alpha at serine
+176, is blocked by an AKT1 mutant lacking kinase activity (i.e., kinase
+dead AKT), indicating that both AKT1 and NIK are necessary for TNF
+activation of NFKB1 through the phosphorylation of IKK-alpha. IKK-beta
+is not phosphorylated by either NIK or AKT1 and is apparently
+differentially regulated.
+
+May et al. (2000) determined that an N-terminal alpha-helical region of
+NEMO (300248) associates with a region of IKKA and IKKB that they termed
+the NBD for 'NEMO-binding domain.' The NBD is a 6-amino acid C-terminal
+segment within the region denoted alpha-2 of IKKA and IKKB. Wildtype,
+but not mutant, NDB peptide inhibited cytokine-induced NFKB activation
+and ameliorated experimental acute inflammation.
+
+Anest et al. (2003) demonstrated nuclear accumulation of IKKA after
+cytokine exposure, suggesting a nuclear function for this protein.
+Consistent with this, chromatin immunoprecipitation assays revealed that
+IKKA was recruited to the promoter regions of NF-kappa-B-regulated genes
+on stimulation with TNFA (191160). Notably, NF-kappa-B-regulated gene
+expression was suppressed by the loss of IKKA, and this correlated with
+a complete loss of gene-specific phosphorylation of histone H3 (see
+602810) on serine-10, a modification previously associated with positive
+gene expression. Furthermore, Anest et al. (2003) showed that IKKA can
+directly phosphorylate histone H3 in vitro, suggesting a new substrate
+for this kinase. Anest et al. (2003) proposed that IKKA is an essential
+regulator of NFKB-dependent gene expression through control of
+promoter-associated histone phosphorylation after cytokine exposure.
+
+Yamamoto et al. (2003) independently demonstrated that IKKA functions in
+the nucleus to activate the expression of NF-kappa-B-responsive genes
+after stimulation with cytokines. IKKA interactions with CREB-binding
+protein (600140) and in conjunction with RELA (164014) is recruited to
+NF-kappa-B-responsive promoters and mediates the cytokine-induced
+phosphorylation and subsequent acetylation of specific residues in
+histone H3. Yamamoto et al. (2003) concluded that their results define a
+new nuclear role of IKKA in modifying histone function that is critical
+for the activation of NF-kappa-B-directed gene expression.
+
+Using mouse embryo fibroblasts lacking both Ikbkb and Ikbka, Sizemore et
+al. (2004) found that both proteins were required for induction of a
+subset of Ifng (147570)-stimulated genes independent of Nfkb activation
+and with no defect in Stat1 (600555) activation or function. Sizemore et
+al. (2004) concluded that the IKK-dependent pathway is an additional
+important pathway for IFNG-stimulated gene expression.
+
+Hoberg et al. (2004) presented evidence that IKK-alpha phosphorylates
+chromatin-bound SMRT (NCOR2; 600848), stimulating its removal from
+chromatin and allowing recruitment of NFKB to promoters and
+transcription of NFKB-dependent genes.
+
+Park et al. (2005) presented evidence that IKKA is important for the
+activation of estrogen-mediated gene expression.
+
+Lawrence et al. (2005) described a role for IKK-alpha in the negative
+regulation of macrophage activation and inflammation. IKK-alpha
+contributes to suppression of NF-kappa-B activity by accelerating both
+the turnover of the NF-kappa-B subunits Rela and c-Rel and their removal
+from proinflammatory gene promoters. Inactivation of IKK-alpha in mice
+enhanced inflammation and bacterial clearance. Lawrence et al. (2005)
+concluded that the 2 IKK catalytic subunits have evolved opposing but
+complementary roles needed for the intricate control of inflammation and
+innate immunity.
+
+Werner et al. (2005) demonstrated that different inflammatory stimuli
+induce distinct IKK profiles, and they examined the underlying molecular
+mechanisms. Although TNFA-induced IKK activity was rapidly attenuated by
+negative feedback, lipopolysaccharide signaling and
+lipopolysaccharide-specific gene expression programs were dependent on a
+cytokine-mediated positive feedback mechanism. Thus, Werner et al.
+(2005) concluded that the distinct biologic responses to LPS and TNFA
+depend on signaling pathway-specific mechanisms that regulate the
+temporal profile of IKK activity.
+
+Using an RNA interference-based screen, Tang et al. (2006) found 4
+negative regulators of insulin-responsive glucose transport in mouse
+adipocytes: Pctk1 (311550), Pftk1 (610679), Ikbka, and Map4k4 (604666).
+
+Wu et al. (2006) demonstrated that NEMO (300248), the regulatory subunit
+of the IKK complex, associates with activated ATM (607585) after the
+induction of DNA double-strand breaks. ATM is exported in a
+NEMO-dependent manner to the cytoplasm, where it associates with and
+causes the activation of IKK in a manner dependent on another IKK
+regulator, a protein rich in glutamate, leucine, lysine, and serine
+(ELKS; 607127). Thus, Wu et al. (2006) concluded that regulated nuclear
+shuttling of NEMO links 2 signaling kinases, ATM and IKK, to activate
+NF-kappa-B by genotoxic signals.
+
+TLR7 (300365) and TLR9 (605474) associate with the cytoplasmic adaptor
+protein MYD88 (602170), which associates with IRF7 (605047). IRF7
+associates with TRAF6 (602355) and IRAK1 (300283), and these 3 proteins
+are critical for induction of IFNA (IFNA1; 147660) production, but not
+cytokine production. Hoshino et al. (2006) found that mouse plasmacytoid
+dendritic cells deficient in Ikka were severely impaired in Tlr7- or
+Tlr9-induced Ifna production, but were able to produce detectable
+inflammatory cytokines. Expression of a kinase-deficient Ikka inhibited
+the ability of Myd88 or Traf6 to activate the Ifna promoter in synergy
+with Irf7. Coimmunoprecipitation analysis showed that Ikka associated
+with and phosphorylated Irf7. Hoshino et al. (2006) concluded that IKKA
+is a critical component of the cytoplasmic
+transductional-transcriptional processor leading to induction of IFNA
+production.
+
+Liu et al. (2006) identified somatic mutations in IKKA exon 15 in 8 of 9
+squamous cell carcinomas (SCCs) examined. More transition mutations than
+transversion mutations were detected. In chemical carcinogen-induced
+skin cancer in mice, overexpression of wildtype human IKKA reduced
+development of SCCs and metastases. The IKKA transgene increased
+terminal differentiation and reduced mitogenic activity in the
+epidermis, and decreased angiogenic activity in the skin stroma. Liu et
+al. (2006) concluded that IKKA in the epidermis antagonizes mitogenic
+and angiogenic signals and represses tumor progression and metastases.
+
+Zhu et al. (2007) identified 14-3-3-sigma (SFN; 601290) as a downstream
+target of Ikka in cell cycle regulation in response to DNA damage and
+found that the 14-3-3-sigma locus was hypermethylated in Ikka -/- mouse
+keratinocytes, but not in wildtype keratinocytes. Trimethylated histone
+H3-lys9 associated with Suv39h1 (300254) and Dnmt3a (602769) in the
+methylated 14-3-3-sigma locus. Reintroduction of Ikka restored
+14-3-3-sigma expression by associating with H3 and preventing access of
+Suv39h1 to H3, thereby preventing hypermethylation of 14-3-3-sigma. Zhu
+et al. (2007) concluded that IKKA protects the 14-3-3-sigma locus from
+hypermethylation, which serves as a mechanism of maintaining genomic
+stability in keratinocytes.
+
+Mittal et al. (2006) found that the Yersinia YopJ virulence factor
+inhibited the host inflammatory response and induced apoptosis of immune
+cells by catalyzing acetylation of 2 ser residues in the activation loop
+of MEK2 (MAP2K2; 601263), thereby blocking MEK2 activation and signal
+propagation. YopJ also caused acetylation of a thr residue in the
+activation loop of both IKKA and IKKB. Mittal et al. (2006) concluded
+that ser/thr acetylation is a mode of action for bacterial toxins that
+may also occur under nonpathogenic conditions to regulate protein
+function.
+
+Luo et al. (2007) examined IKK-alpha involvement in prostate cancer (see
+176807) and its progression. They demonstrated that a mutation that
+prevents IKK-alpha activation slowed down prostate cancer growth and
+inhibited metastatogenesis in TRAMP mice, which express SV40 T antigen
+in the prostate epithelium. Decreased metastasis correlated with
+elevated expression of the metastasis suppressor Maspin (154790), the
+ablation of which restored metastatic activity. IKK-alpha activation by
+RANK ligand (RANKL; 602642) inhibited Maspin expression in prostate
+epithelial cells, whereas repression of Maspin transcription required
+nuclear translocation of active IKK-alpha. The amount of active nuclear
+IKK-alpha in mouse and human prostate cancer correlated with metastatic
+progression, reduced Maspin expression, and infiltration of prostate
+tumors with RANKL-expressing inflammatory cells. Luo et al. (2007)
+proposed that tumor-infiltrating RANKL-expressing cells leads to nuclear
+IKK-alpha activation and inhibition of Maspin transcription, thereby
+promoting the metastatic phenotype.
+
+GENE STRUCTURE
+
+Lahtela et al. (2010) detected 21 exons in the CHUK gene.
+
+MAPPING
+
+By somatic cell hybrid analyses, Mock et al. (1995) mapped the CHUK gene
+to 10q24-q25. By a combination of somatic cell hybrid, recombinant
+inbred, and backcross analyses, they mapped Chuk and a related sequence,
+Chuk-rs1, to mouse chromosomes 19 and 16, respectively.
+
+By FISH, Hu and Wang (1998) mapped the CHUK gene to chromosome 10q24.
+
+MOLECULAR GENETICS
+
+Lahtela et al. (2010) identified homozygosity for a nonsense mutation
+(600664.0001) in 2 fetuses from 1 family with autosomal recessive cocoon
+syndrome (613630).
+
+ANIMAL MODEL
+
+Takeda et al. (1999) disrupted the Ikka gene in mice. Ikka -/- mice died
+within 4 hours of birth. They had abnormal limb and craniofacial
+development despite normal skeletal development. The skin appeared
+abnormally shiny. The epidermal cells of Ikka-deficient mouse fetuses
+were highly proliferative with dysregulated epidermal differentiation.
+In the basal layer of the epidermis, degradation of I-kappa-B and
+nuclear localization of NFKB were not observed. Thus, Ikka is essential
+for NFKB activation in the limb and skin during embryogenesis.
+Surprisingly, there was no impairment of NFKB activation in response to
+either TNF-alpha or IL1 in Ikka-deficient embryonic fibroblasts or
+thymocytes, indicating that Ikka is not essential for cytokine-induced
+activation of NFKB.
+
+Hu et al. (1999) generated Ikka-deficient mice. Homozygous mutant mice
+died within 30 minutes of birth. At embryonic day 18, Ikka -/- mice had
+rudimentary protrusions instead of normal limbs. They lacked well-formed
+tails and their heads were shorter than normal, with a truncated snout
+and no external ears. They had an omphalocele and taut skin. At autopsy,
+there were no morphologic abnormalities of heart, lung, liver, kidneys,
+spleen, brain, and spinal cord; however, the placentae were severely
+congested with bulging vessels and blood sinuses on the maternal surface
+and normal fetal surface. Skeletal preparations revealed fused sacral
+and cervical vertebrae and a short sternum with delayed ossification and
+split xiphoid. Microscopic examination of the skin revealed hyperplasia
+of the stratum spinosum, and mutant epidermis lacked a stratum
+granulosum and stratum corneum. The lack of Ikka appeared to completely
+disrupt keratinocyte differentiation. Hu et al. (1999) hypothesized that
+the increased thickness and adhesiveness of mutant skin prevented the
+emergence of limb outgrowths.
+
+Yoshida et al. (2000) examined wildtype and Ikka -/- mice on embryonic
+days 18 and 19 by light and electron microscopy or immunocytochemistry.
+During normal development of the conjunctiva and cornea, nuclear
+localization of NFKB1 p50 was seen in areas where basal undifferentiated
+cells give rise to differentiated cell types. However, in the Ikka -/-
+tissues, no nuclear p50 staining was detected. The authors concluded
+that IKKA is specifically required for formation of cornea and
+conjunctiva. They stated that this function might be exerted through an
+effect on NFKB activity.
+
+Using an ex vivo mouse keratinocyte culture system, immunofluorescence
+microscopy, and Western blot analysis, Hu et al. (2001) showed that
+keratinocytes derived from Ikka-deficient mice exhibit a
+hyperproliferative phenotype, fail to undergo terminal differentiation,
+and do not express the appropriate differentiation markers, loricrin
+(152445) and filaggrin (135940). This phenotype was observed in the
+absence of a defect in NFKB activation. Introduction of Ikka into Ikka
+-/- keratinocytes restores keratinocyte differentiation and filaggrin
+expression. Mutation and immunoblot analysis established that induction
+of keratinocyte differentiation does not require the protein kinase
+activity of Ikka. Fetal Ikka -/- skin transplanted to immunodeficient
+mice differentiated normally and expressed proliferation and
+differentiation markers including Pcna (176740), Krt5 (148040), Krt1
+(139350), and filaggrin, suggesting that normal skin contains a factor
+that induces terminal differentiation of Ikka-deficient keratinocytes.
+The authors demonstrated that wildtype keratinocytes produce,
+independently of NFKB activation, a keratinocyte
+differentiation-inducing factor (kDIF) protein. Hu et al. (2001)
+concluded that the defect in Ikka -/- keratinocytes is continuous
+proliferation even in the presence of growth-inhibiting levels of
+extracellular calcium. Although Ikka is replaceable by, and is less
+efficient than, Ikkb for activating NFKB, it is essential for normal
+epidermal development.
+
+By radiation chimera and flow cytometric analyses, Senftleben et al.
+(2001) found reduced levels of mature B lymphocytes in spleen and lymph
+nodes correlated with high turnover and apoptosis rates in immature B
+cells in Ikka -/- reconstituted mice. In vivo, the spleens of chimeric
+animals exhibited poor germinal center formation in response to
+immunization. Immunoblot and electrophoretic mobility shift analyses
+showed that Ikka -/- B cells contained little p52 and increased amounts
+of p100, indicative of defective processing of NFKB2. Viable mice
+carrying mutations in the activating phosphorylation sites of Ikka
+(ser176 to ala and ser180 to ala) expressed a similar, sometimes more
+severe, phenotype, suggesting a requirement for the phosphorylation of
+these residues either by Ikka itself or by NIK. Recombinant Ikka was
+much more efficient than Ikkb or NIK in phosphorylation of the
+C-terminal regulatory domain of NFKB2, whereas it was less efficient in
+the phosphorylation of IKBA. Senftleben et al. (2001) proposed that
+defective NFKB2 processing likely interferes with B-cell maturation.
+They concluded that IKKA is required for the activation of NFKB2, which
+leads to B-cell maturation and germinal center formation.
+
+Matsushima et al. (2001) found that both Nik -/- and Ikka -/- mice had
+impaired NFKB activation in response to lymphotoxin B receptor (600979)
+stimulation but not TNF receptor-1 (191190) stimulation. These mice also
+had defective development of Peyer patches.
+
+Cao et al. (2001) generated an Ikka(AA) knockin allele containing
+alanines instead of serines in the activation loop. Ikka(AA/AA) mice
+were healthy and fertile, but females displayed a severe lactation
+defect due to impaired proliferation of mammary epithelial cells. Ikka
+activity was required for NFKB activation in mammary epithelial cells
+during pregnancy and in response to RANK ligand but not TNF. Ikka and
+NFKB activation were also required for optimal cyclin D1 (168461)
+induction. Defective RANK signaling or cyclin D1 expression resulted in
+the same phenotypic effect as the Ikka(AA) mutation, which could be
+completely suppressed by a mammary-specific cyclin D1 transgene. Thus,
+IKKA is a critical intermediate in a pathway that controls mammary
+epithelial proliferation in response to RANK signaling via cyclin D1.
+
+Sil et al. (2004) postulated that the morphogenetic defects in
+Ikk-alpha-deficient mice are not caused by reduced NF-kappa-B activity
+but instead are due to failed epidermal differentiation that disrupts
+proper epidermal-mesodermal interactions. Sil et al. (2004) tested this
+hypothesis by introducing an epidermal-specific Ikka transgene into
+Ikk-alpha-deficient mice. Mice lacking Ikk-alpha in all cell types
+including bone and cartilage, but not in basal epidermal keratinocytes,
+exhibit normal epidermal differentiation and skeletal morphology. Thus,
+epidermal differentiation is required for proper morphogenesis of
+mesodermally derived skeletal elements. One way by which IKK-alpha
+controls skeletal and craniofacial morphogenesis is by repressing
+expression of fibroblast growth factor family members, such as FGF8
+(600483), whose expression is specifically elevated in the limb bud
+ectoderm of Ikk-alpha-deficient mice.
+
+Ohazama et al. (2004) determined that Ikka is expressed in mouse tooth
+epithelium and has an essential role in incisor and molar tooth
+development. Molar teeth in Ikka mutant mice had abnormal cusp
+morphology due to a reduction of the Nfkb pathway. Incisors, however,
+had a more severe and earlier phenotype where tooth buds failed to
+invaginate into the underlying mesenchyme but instead evaginated into
+the developing oral cavity. A similar evagination of epithelium was also
+observed in whisker follicles. Unlike cusp morphogenesis, the Nfkb
+pathway was not involved in the invagination of incisor tooth
+epithelium. Changes in the expression of Notch1 (190198), Notch2
+(600275), Wnt7b (601967), and Shh (600725) in incisor epithelium of Ikka
+mutants suggested that the Nfkb-independent function is mediated by
+Notch/Wnt/Shh signaling pathways.
+
+ALLELIC VARIANT .0001
+COCOON SYNDROME
+CHUK, GLN422TER
+
+In 2 fetuses with cocoon syndrome (613630) from a Finnish family,
+Lahtela et al. (2010) identified homozygosity for a C-to-T transition at
+nucleotide 1264 in exon 12 of the CHUK gene, resulting in a glu-to-stop
+substitution at codon 422 (E422X). This mutation was identified in
+heterozygosity in both of the carrier parents and was not identified in
+any of 100 ancestrally-matched control subjects. Fibroblast DNA from the
+affected fetuses had no CHUK protein expression.
+
+REFERENCE 1. Anest, V.; Hanson, J. L.; Cogswell, P. C.; Steinbrecher, K. A.;
+Strahl, B. D.; Baldwin, A. S.: A nucleosomal function for I-kappa-B
+kinase-alpha in NF-kappa-B-dependent gene expression. Nature 423:
+659-663, 2003.
+
+2. Cao, Y.; Bonizzi, G.; Seagroves, T. N.; Greten, F. R.; Johnson,
+R.; Schmidt, E. V.; Karin, M.: IKK-alpha provides an essential link
+between RANK signaling and cyclin D1 expression during mammary gland
+development. Cell 107: 763-775, 2001.
+
+3. Delhase, M.; Hayakawa, M.; Chen, Y.; Karin, M.: Positive and negative
+regulation of I-kappa-B kinase activity through IKK-beta subunit phosphorylation. Science 284:
+309-312, 1999.
+
+4. DiDonato, J. A.; Hayakawa, M.; Rothwarf, D. M.; Zandi, E.; Karin,
+M.: A cytokine-responsive IkappaB kinase that activates the transcription
+factor NF-kappaB. Nature 388: 548-554, 1997.
+
+5. Hoberg, J. E.; Yeung, F.; Mayo, M. W.: SMRT derepression by the
+I-kappa-B kinase alpha: a prerequisite to NF-kappa-B transcription
+and survival. Molec. Cell 16: 245-255, 2004.
+
+6. Hoshino, K.; Sugiyama, T.; Matsumoto, M.; Tanaka, T.; Saito, M.;
+Hemmi, H.; Ohara, O.; Akira, S.; Kaisho, T.: I-kappa-B kinase-alpha
+is critical for interferon-alpha production induced by Toll-like receptors
+7 and 9. Nature 440: 949-953, 2006.
+
+7. Hu, M. C.-T.; Wang, Y.: I-kappa-B kinase-alpha and -beta genes
+are coexpressed in adult and embryonic tissues but localized to different
+human chromosomes. Gene 222: 31-40, 1998.
+
+8. Hu, Y.; Baud, V.; Delhase, M.; Zhang, P.; Deerinck, T.; Ellisman,
+M.; Johnson, R.; Karin, M.: Abnormal morphogenesis but intact IKK
+activation in mice lacking the IKK-alpha subunit of I-kappa-B kinase. Science 284:
+316-320, 1999.
+
+9. Hu, Y.; Baud, V.; Oga, T.; Kim, K. I.; Yoshida, K.; Karin, M.:
+IKK-alpha controls formation of the epidermis independently of NF-kappa-B. Nature 410:
+710-714, 2001.
+
+10. Lahtela, J.; Nousiainen, H. O.; Stefanovic, V.; Tallila, J.; Viskari,
+H.; Karikoski, R.; Gentile, M.; Saloranta, C.; Varilo, T.; Salonen,
+R.; Kestila, M.: Mutant CHUK and severe fetal encasement malformation. New
+Eng. J. Med. 363: 1631-1637, 2010.
+
+11. Lawrence, T.; Bebien, M.; Liu, G. Y.; Nizet, V.; Karin, M.: IKK-alpha
+limits macrophage NF-kappa-B activation and contributes to the resolution
+of inflammation. Nature 434: 1138-1143, 2005.
+
+12. Liu, B.; Park, E.; Zhu, F.; Bustos, T.; Liu, J.; Shen, J.; Fischer,
+S. M.; Hu, Y.: A critical role for I-kappa-B kinase alpha in the
+development of human and mouse squamous cell carcinomas. Proc. Nat.
+Acad. Sci. 103: 17202-17207, 2006.
+
+13. Luo, J.-L.; Tan, W.; Ricono, J. M.; Korchynskyi, O.; Zhang, M.;
+Gonias, S. L.; Cheresh, D. A.; Karin, M.: Nuclear cytokine-activated
+IKK-alpha controls prostate cancer metastasis by repressing Maspin. Nature 446:
+690-694, 2007. Note: Erratum: Nature 457: 920 only, 2009.
+
+14. Matsushima, A.; Kaisho, T.; Rennert, P. D.; Nakano, H.; Kurosawa,
+K.; Uchida, D.; Takeda, K.; Akira, S.; Matsumoto, M.: Essential role
+of nuclear factor (NF)-kappa-B-inducing kinase and inhibitor of kappa-B
+(I-kappa-B) kinase alpha in NF-kappa-B activation through lymphotoxin
+beta receptor, but not through tumor necrosis factor receptor I. J.
+Exp. Med. 193: 631-636, 2001.
+
+15. May, M. J.; D'Acquisto, F.; Madge, L. A.; Glockner, J.; Pober,
+J. S.; Ghosh, S.: Selective inhibition of NF-kappa-B activation by
+a peptide that blocks the interaction of NEMO with the I-kappa-B kinase
+complex. Science 289: 1550-1554, 2000.
+
+16. Mercurio, F.; Zhu, H.; Murray, B. W.; Shevchenko, A.; Bennett,
+B. L.; Li, J.; Young, D. B.; Barbosa, M.; Mann, M.; Manning, A.; Rao,
+A.: IKK-1 and IKK-2: cytokine-activated I-kappa-B kinases essential
+for NF-kappa-B activation. Science 278: 860-866, 1997.
+
+17. Mittal, R.; Peak-Chew, S.-Y.; McMahon, H. T.: Acetylation of
+MEK2 and I-kappa-B kinase (IKK) activation loop residues by YopJ inhibits
+signaling. Proc. Nat. Acad. Sci. 18574-18579, 2006.
+
+18. Mock, B. A.; Connelly, M. A.; McBride, O. W.; Kozak, C. A.; Marcu,
+K. B.: CHUK, a conserved helix-loop-helix ubiquitous kinase, maps
+to human chromosome 10 and mouse chromosome 19. Genomics 27: 348-351,
+1995.
+
+19. Ohazama, A.; Hu, Y.; Schmidt-Ullrich, R.; Cao, Y.; Scheidereit,
+C.; Karin, M.; Sharpe, P. T.: A dual role for Ikk-alpha in tooth
+development. Dev. Cell 6: 219-227, 2004.
+
+20. Ozes, O. N.; Mayo, L. D.; Gustin, J. A.; Pfeffer, S. R.; Pfeffer,
+L. M.; Donner, D. B.: NF-kappa-B activation by tumour necrosis factor
+requires the Akt serine-threonine kinase. Nature 401: 82-85, 1999.
+
+21. Park, K.-J.; Krishnan, V.; O'Malley, B. W.; Yamamoto, Y.; Gaynor,
+R. B.: Formation of an IKK-alpha-dependent transcription complex
+is required for estrogen receptor-mediated gene activation. Molec.
+Cell 18: 71-82, 2005.
+
+22. Regnier, C. H.; Song, H. Y.; Gao, X.; Goeddel, D. V.; Cao, Z.;
+Rothe, M.: Identification and characterization of an I-kappa-B kinase. Cell 90:
+373-383, 1997.
+
+23. Senftleben, U.; Cao, Y.; Xiao, G.; Greten, F. R.; Krahn, G.; Bonizzi,
+G.; Chen, Y.; Hu, Y.; Fong, A.; Sun, S.-C.; Karin, M.: Activation
+by IKK-alpha of a second, evolutionarily conserved, NF-kappa-B signaling
+pathway. Science 293: 1495-1499, 2001.
+
+24. Sil, A. K.; Maeda, S.; Sano, Y.; Roop, D. R.; Karin, M.: I-kappa-B
+kinase-alpha acts in the epidermis to control skeletal and craniofacial
+morphogenesis. Nature 428: 660-664, 2004.
+
+25. Sizemore, N.; Agarwal, A.; Das, K.; Lerner, N.; Sulak, M.; Rani,
+S.; Ransohoff, R.; Shultz, D.; Stark, G. R.: Inhibitor of kappa-B
+kinase is required to activate a subset of interferon gamma-stimulated
+genes. Proc. Nat. Acad. Sci. 101: 7994-7998, 2004.
+
+26. Takeda, K.; Takeuchi, O.; Tsujimura, T.; Itami, S.; Adachi, O.;
+Kawai, T.; Sanjo, H.; Yoshikawa, K.; Terada, N.; Akira, S.: Limb
+and skin abnormalities in mice lacking IKK-alpha. Science 284: 313-316,
+1999.
+
+27. Tang, X.; Guilherme, A.; Chakladar, A.; Powelka, A. M.; Konda,
+S.; Virbasius, J. V.; Nicoloro, S. M. C.; Straubhaar, J.; Czech, M.
+P.: An RNA interference-based screen identifies MAP4K4/NIK as a negative
+regulator of PPAR-gamma, adipogenesis, and insulin-responsive hexose
+transport. Proc. Nat. Acad. Sci. 103: 2087-2092, 2006.
+
+28. Werner, S. L.; Barken, D.; Hoffmann, A.: Stimulus specificity
+of gene expression programs determined by temporal control of IKK
+activity. Science 309: 1857-1861, 2005.
+
+29. Wu, Z.-H.; Shi, Y.; Tibbetts, R. S.; Miyamoto, S.: Molecular
+linkage between the kinase ATM and NF-kappaB signaling in response
+to genotoxic stimuli. Science 311: 1141-1146, 2006.
+
+30. Yamamoto, Y.; Verma, U. N.; Prajapati, S.; Kwak, Y.-T.; Gaynor,
+R. B.: Histone H3 phosphorylation by IKK-alpha is critical for cytokine-induced
+gene expression. Nature 423: 655-659, 2003.
+
+31. Yoshida, K.; Hu, Y.; Karin, M.: I-kappa-B kinase alpha is essential
+for development of the mammalian cornea and conjunctiva. Invest.
+Ophthal. Vis. Sci. 41: 3665-3669, 2000.
+
+32. Zhu, F.; Xia, X.; Liu, B.; Shen, J.; Hu, Y.; Person, M.; Hu, Y.
+: IKK-alpha shields 14-3-3-sigma, a G2/M cell cycle checkpoint gene,
+from hypermethylation, preventing its silencing. Molec. Cell 27:
+214-227, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/8/2010
+Patricia A. Hartz - updated: 9/19/2007
+Paul J. Converse - updated: 5/1/2007
+Ada Hamosh - updated: 4/27/2007
+Patricia A. Hartz - updated: 12/20/2006
+Patricia A. Hartz - updated: 6/8/2006
+Paul J. Converse - updated: 5/24/2006
+Ada Hamosh - updated: 4/19/2006
+Patricia A. Hartz - updated: 3/28/2006
+Ada Hamosh - updated: 11/16/2005
+Ada Hamosh - updated: 5/27/2005
+Patricia A. Hartz - updated: 5/4/2005
+Paul J. Converse - updated: 6/16/2004
+Patricia A. Hartz - updated: 4/20/2004
+Ada Hamosh - updated: 4/7/2004
+Ada Hamosh - updated: 6/17/2003
+Paul J. Converse - updated: 12/16/2002
+Stylianos E. Antonarakis - updated: 1/7/2002
+Paul J. Converse - updated: 10/4/2001
+Paul J. Converse - updated: 8/29/2001
+Paul J. Converse - updated: 4/4/2001
+Jane Kelly - updated: 1/18/2001
+Paul J. Converse - updated: 8/31/2000
+Paul J. Converse - updated: 3/7/2000
+Paul J. Converse - updated: 2/15/2000
+Ada Hamosh - updated: 4/8/1999
+Ada Hamosh - updated: 2/24/1999
+
+CREATED Victor A. McKusick: 7/19/1995
+
+EDITED mgross: 02/05/2013
+alopez: 11/8/2010
+terry: 11/8/2010
+alopez: 7/16/2010
+alopez: 3/11/2009
+mgross: 9/28/2007
+terry: 9/19/2007
+alopez: 5/11/2007
+mgross: 5/1/2007
+terry: 4/27/2007
+carol: 1/3/2007
+wwang: 12/20/2006
+mgross: 6/8/2006
+mgross: 5/24/2006
+alopez: 4/20/2006
+terry: 4/19/2006
+wwang: 3/28/2006
+alopez: 11/16/2005
+carol: 5/27/2005
+wwang: 5/27/2005
+terry: 5/4/2005
+mgross: 6/16/2004
+mgross: 4/20/2004
+alopez: 4/8/2004
+terry: 4/7/2004
+carol: 9/17/2003
+alopez: 6/19/2003
+terry: 6/17/2003
+mgross: 12/16/2002
+mgross: 1/7/2002
+mgross: 10/4/2001
+mgross: 8/29/2001
+alopez: 4/4/2001
+cwells: 1/25/2001
+terry: 1/18/2001
+alopez: 8/31/2000
+alopez: 4/14/2000
+carol: 3/7/2000
+carol: 2/15/2000
+alopez: 4/9/1999
+alopez: 4/8/1999
+alopez: 3/23/1999
+alopez: 2/24/1999
+alopez: 11/5/1998
+mark: 7/19/1995
+
+603809	TITLE *603809 THYROID HORMONE RECEPTOR-ASSOCIATED PROTEIN 3; THRAP3
+;;THYROID HORMONE RECEPTOR-ASSOCIATED PROTEIN, 150-KD; TRAP150
+DESCRIPTION For background information on thyroid hormone receptor-associated
+proteins (TRAPs), see 300182.
+
+Using a HeLa cell line, Ito et al. (1999) cloned TRAP150, the gene
+encoding the 150-kD subunit of the TRAP complex. The TRAP150 cDNA
+encodes a 955-amino acid protein with no obvious known sequence motifs.
+Sequence comparisons revealed a gene of unknown function, designated
+KIAA0164 by Nagase et al. (1996), that encodes a related human protein
+(overall identity of 40% and similarity of 55%), thus indicating a
+putative gene family. Northern blot analysis of multiple human tissues
+showed that the TRAP150 gene is ubiquitously expressed as an
+approximately 5.0-kb transcript.
+
+REFERENCE 1. Ito, M.; Yuan, C.-X.; Malik, S.; Gu, W.; Fondell, J. D.; Yamamura,
+S.; Fu, Z.-Y.; Zhang, X.; Qin, J.; Roeder, R. G.: Identity between
+TRAP and SMCC complexes indicates novel pathways for the function
+of nuclear receptors and diverse mammalian activators. Molec. Cell 3:
+361-370, 1999.
+
+2. Nagase, T.; Seki, N.; Ishikawa, K.; Tanaka, A.; Nomura, N.: Prediction
+of the coding sequences of unidentified human genes. V. The coding
+sequences of 40 new genes (KIAA0161-KIAA0200) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 3: 17-24, 1996.
+
+CREATED Stylianos E. Antonarakis: 5/14/1999
+
+EDITED mgross: 07/01/2004
+mgross: 5/18/1999
+mgross: 5/17/1999
+
+614215	TITLE *614215 ACTIVATING SIGNAL COINTEGRATOR 1 COMPLEX, SUBUNIT 1; ASCC1
+;;ASC1 COMPLEX, 50-KD SUBUNIT;;
+p50
+DESCRIPTION 
+CLONING
+
+By sequencing peptides that copurified with the 650-kD ASC1 (TRIP4;
+604501) complex from HeLa cells, followed by database analysis and PCR
+of a HeLa cell cDNA library, Jung et al. (2002) cloned ASCC1, which they
+designated p50. The deduced 357-amino acid protein contains a KH-type
+RNA-binding motif near its N terminus. Northern blot analysis detected
+variable expression of an approximately 2.1-kb transcript in all tissues
+examined. P50 localized to both nuclei and cytoplasm of HeLa cells.
+Database analysis revealed orthologs of p50 in mouse, fly, frog, and
+nematode.
+
+GENE FUNCTION
+
+Jung et al. (2002) identified a 650-kD protein complex containing ASC1,
+p50, p100 (ASCC2; 614216), and p200 (ASCC3; 614217). Immunodepletion of
+p50 from HeLa cell nuclear extracts almost completely eliminated phorbol
+ester-induced AP1 (see 165160) transactivation of a reporter gene. Yeast
+2-hybrid analysis, coimmunoprecipitation of in vitro-translated
+proteins, and protein pull-down experiments confirmed direct interaction
+between p50 and p200. Domain analysis revealed that the KH motif of p50
+was required its interaction with p200.
+
+Gastrin (GAS; 137250) regulates the expression of a variety of genes
+involved in the control of acid secretion. It also triggers tissue
+response to damage, infection, and inflammation in cells expressing
+gastrin receptor (CCKBR; 118445) and, indirectly, in nearby cells via a
+paracrine mechanism. Almeida-Vega et al. (2009) found that gastrin
+directly induced upregulation of the antiapoptotic regulator PAI2
+(SERPINB2; 173390) in CCKBR-positive cells. CCKBR-positive cells also
+released IL8 (146930) and prostaglandin E2 into the culture medium in
+response to gastrin, which resulted in elevated PAI2 expression in
+cocultured CCKBR-negative cells. IL8 signaling in CCKBR-negative cells
+upregulated PAI2 via binding of the ASC1 complex to the PAI2 promoter.
+Prostaglandin E2 independently upregulated PAI2 via RHOA
+(165390)-dependent signaling that induced binding of MAZ (600999) to the
+PAI2 promoter. Electrophoretic mobility shift assays and chromatin
+immunoprecipitation analysis revealed that MAZ and the p50 subunit of
+the ASC1 complex bound directly to sites in the PAI2 promoter. Mutation
+of the putative MAZ site in the PAI2 promoter reduced responses to RHOA.
+Knockdown of the p50 or p65 (TRIP4) subunits of the ASC1 complex via
+small interfering RNA significantly reduced PAI2 upregulation in
+response to gastrin.
+
+MAPPING
+
+Hartz (2011) mapped the ASCC1 gene to chromosome 10q22.1 based on an
+alignment of the ASCC1 sequence (GenBank GENBANK AF132952) with the
+genomic sequence (GRCh37).
+
+MOLECULAR GENETICS
+
+Orloff et al. (2011) identified a germline asn290-to-ser (N290S;
+614215.0001) mutation in the ASCC1 gene in 2 (2.1%) of 116 patients of
+European descent with Barrett esophagus and/or esophageal adenocarcinoma
+(614266). The mutation was not found in 125 controls. This genomic
+region was studied after being identified by genomewide linkage analysis
+of 21 concordant and 11 discordant sib pairs with the disorders.
+
+ALLELIC VARIANT .0001
+BARRETT ESOPHAGUS/ESOPHAGEAL ADENOCARCINOMA
+ASCC1, ASN290SER
+
+Orloff et al. (2011) identified a germline 869G-A transition in exon 8
+of the ASCC1 gene, resulting in an asn290-to-ser (N290S) substitution,
+in 2 (2.1%) of 116 patients of European descent with Barrett esophagus
+and/or esophageal adenocarcinoma (614266). The mutation was not found in
+125 controls. This genomic region was studied after being identified by
+genomewide linkage analysis of 21 concordant and 11 discordant sib pairs
+with the disorders.
+
+REFERENCE 1. Almeida-Vega, S.; Catlow, K.; Kenny, S.; Dimaline, R.; Varro, A.
+: Gastrin activates paracrine networks leading to induction of PAI-2
+via MAZ and ASC-1. Am. J. Physiol. Gastrointest. Liver Physiol. 296:
+G414-G423, 2009.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  9/6/2011.
+
+3. Jung, D.-J.; Sung, H.-S.; Goo, Y.-W.; Lee, H. M.; Park, O. K.;
+Jung, S.-Y.; Lim, J.; Kim, H.-J.; Lee, S.-K.; Kim, T. S.; Lee, J.
+W.; Lee, Y. C.: Novel transcription coactivator complex containing
+activating signal cointegrator 1. Molec. Cell. Biol. 22: 5203-5211,
+2002.
+
+4. Orloff, M.; Peterson, C.; He, X.; Ganapathi, S.; Heald, B.; Yang,
+Y.; Bebek, G.; Romigh, T.; Song, J. H.; Wu, W.; David, S.; Cheng,
+Y.; Meltzer, S. J.; Eng, C.: Germline mutations in MSR1, ASCC1, and
+CTHRC1 in patients with Barrett esophagus and esophageal adenocarcinoma. JAMA 306:
+410-419, 2011.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/7/2011
+Cassandra L. Kniffin - updated: 9/21/2011
+
+CREATED Patricia A. Hartz: 9/7/2011
+
+EDITED terry: 10/13/2011
+mgross: 10/7/2011
+carol: 10/4/2011
+ckniffin: 10/4/2011
+carol: 10/4/2011
+ckniffin: 10/4/2011
+ckniffin: 9/21/2011
+mgross: 9/7/2011
+
+602432	TITLE *602432 OPTINEURIN; OPTN
+;;14.7K-INTERACTING PROTEIN; FIP2;;
+HYPL;;
+TRANSCRIPTION FACTOR IIIA-INTERACTING PROTEIN;;
+TFIIIA-INTP;;
+NEMO-RELATED PROTEIN; NRP;;
+GLC1E GENE
+DESCRIPTION 
+CLONING
+
+Li et al. (1998) used the adenovirus E3-14.7K protein to screen a HeLa
+cell cDNA library to search for interacting proteins in the yeast
+2-hybrid system. They identified a protein, which they named FIP2
+(14.7K-interacting protein) with multiple leucine zipper domains. Li et
+al. (1998) identified 3 major mRNA forms of FIP2 in multiple human
+tissues and found that expression of the transcripts was induced by
+TNF-alpha (191160) treatment in a time-dependent manner in 2 different
+cell lines. They concluded that FIP2 is one of the cellular targets for
+adenovirus E3-14.7K and that its mechanism of affecting cell death
+involves the TNF receptor (191190), RIP (603453), or a downstream
+molecule affected by either of these 2 molecules.
+
+Moreland et al. (2000) cloned the same gene, which they called
+transcription factor IIIA-interacting protein. The rat TF3A-intP has 85%
+identity with the human sequence, including 100% identity over a
+leucine-rich, 36-amino acid stretch. The full-length 617-amino acid
+protein has a molecular mass of 70.6 kD, numerous leucine zippers and
+other leucine-rich regions, and contains a potential cys2-his-cys zinc
+finger at residues 553-582.
+
+Schwamborn et al. (2000) also cloned the optineurin gene, which they
+called NRP (NEMO-related protein), by searching databases for cDNAs with
+strong homology to NEMO (300248). They determined that NRP is a 67-kD
+protein with 53% amino acid identity to NEMO and that it is present in a
+novel high molecular weight complex that contains none of the known
+members of the IKK complex. They demonstrated that de novo expression of
+NRP can be induced by interferon and TNF-alpha and that these 2 stimuli
+have a synergistic effect on NRP expression. They further demonstrated
+that NRP is associated with the Golgi apparatus.
+
+Li et al. (1998) found gene expression of FIP2 in heart, brain,
+placenta, liver, skeletal muscle, kidney, and pancreas. By RT-PCR,
+Rezaie et al. (2002) found further expression in human trabecular
+meshwork, nonpigmented ciliary epithelium, retina, brain, adrenal
+cortex, liver, fetus, lymphocyte, and fibroblast. Northern blot analysis
+revealed a major 2.0-kb transcript in human trabecular meshwork and
+nonpigmented ciliary epithelium and a minor 3.6-kb message that was 3 to
+4 times less abundant. Optineurin expression was also detected in
+aqueous humor samples of human, macaque, cow, pig, goat, sheep, cat, and
+rabbit, suggesting that it is a secreted protein. Rezaie et al. (2002)
+showed by immunocytochemistry that optineurin is localized to the Golgi
+apparatus.
+
+Wild et al. (2011) reported that the 577-amino acid human OPTN protein
+contains an N-terminal coiled-coil domain, followed by an LC3 (MAP1LC3A;
+601242)-interacting motif (LIR), 2 more coiled-coil domains, a
+ubiquitin-binding motif (UBAN), and a C-terminal zinc finger domain.
+
+GENE FUNCTION
+
+Optineurin has been shown to interact with huntingtin (HTT; 613004)
+(Faber et al., 1998), transcription factor IIIA (Moreland et al., 2000),
+and RAB8 (165040) (Hattula and Peranen, 2000).
+
+Rezaie et al. (2002) found that the optineurin gene is mutated in
+adult-onset primary open angle glaucoma (POAG; 137760). Linkage analysis
+had shown that a locus for POAG resided on chromosome 10p15-p14
+(Sarfarazi et al., 1998). Optineurin was a logical candidate gene on the
+basis of its physical location on chromosome 10 and its expression in
+retina.
+
+Vittitow and Borras (2002) studied the effect of glaucomatous insults on
+the expression of OPTN in human eyes maintained in organ culture.
+Sustained elevated intraocular pressure, TNF-alpha exposure, and
+prolonged dexamethasone treatment all significantly upregulated OPTN
+expression. Vittitow and Borras (2002) concluded that these results
+support the protective role of OPTN in the trabecular meshwork.
+
+Chalasani et al. (2007) explored functional features of optineurin and
+its mutants. The E50K mutation (602432.0001) acquired the ability to
+induce cell death selectively in retinal ganglion cells. This cell death
+was mediated by oxidative stress.
+
+Park et al. (2007) studied the relationship between 2 glaucoma-related
+genes, OPTN and MYOC (601652). MYOC overexpression had no effect on OPTN
+expression, but OPTN overexpression upregulated endogenous MYOC in human
+trabecular meshwork cells. This induction was also observed in other
+ocular and nonocular cell types, including rat PC12 pheochromocytoma
+cells. Endogenous levels of both Optn and Myoc were increased in PC12
+cells following NGF (see 162030)-induced neuronal differentiation.
+Overexpressed OPTN, which localized to the cytoplasm, prolonged the
+turnover rate of MYOC mRNA, but it had little effect on MYOC promoter
+activity. Park et al. (2007) concluded that OPTN has a role in
+stabilizing MYOC mRNA.
+
+Li et al. (2008) showed that TNF-alpha, which is found in cystic fluid
+of humans with autosomal dominant polycystic kidney disease (ADPKD; see
+173900), disrupted the localization of polycystin-2 (PKD2; 173910) to
+the plasma membrane and primary cilia through the TNF-alpha-induced
+scaffold protein FIP2. Treatment of mouse embryonic kidney organ
+cultures with TNF-alpha resulted in cyst formation, and this effect was
+exacerbated in Pkd2 +/- kidneys. TNF-alpha also stimulated cyst
+formation in vivo in Pkd2 +/- mice, and treatment of Pkd2 +/- mice with
+a TNF-alpha inhibitor prevented cyst formation.
+
+Using yeast 2-hybrid screens, Morton et al. (2008) identified TANK
+(603893)-binding kinase-1 (TBK1; 604834) as a binding partner for
+optineurin; the interaction was confirmed by
+overexpression/immunoprecipitation experiments in HEK293 cells and by
+coimmunoprecipitation of endogenous OPTN and TBK1 from cell extracts. A
+TBK1-binding site was detected between residues 1 and 127 of optineurin;
+residues 78 through 121 were found to display striking homology to the
+TBK1-binding domain of TANK. The OPTN-binding domain was localized to
+residues 601 to 729 of TBK1; residues 1 to 688 of TBK1, which do not
+bind to TANK, did not interact with OPTN. The E50K OPTN mutant
+(602432.0001), known to cause open angle glaucoma (GLC1E; 137760),
+displayed markedly enhanced binding to TBK1, suggesting that this
+interaction may contribute to familial glaucoma caused by this mutation.
+
+Wild et al. (2011) reported that phosphorylation of human OPTN promoted
+selective autophagy of ubiquitin-coated cytosolic Salmonella enterica.
+Phosphorylation on ser177 by TBK1 (604834) enhanced LC3 binding affinity
+and autophagic clearance of cytosolic Salmonella. On the other hand,
+ubiquitin- or LC3-binding mutants of OPTN or silencing of OPTN or TBK1
+impaired Salmonella autophagy, leading to increased intracellular
+bacterial proliferation. Wild et al. (2011) proposed that
+phosphorylation of autophagy receptors, such as OPTN, may be a general
+mechanism for regulation of cargo-selective autophagy.
+
+GENE STRUCTURE
+
+Rezaie et al. (2002) reported that the optineurin gene contains 3
+noncoding exons in the 5-prime untranslated region and 13 exons that
+code for a 577-amino acid protein. Alternative splicing at the 5-prime
+UTR generates at least 3 different isoforms, but all have the same
+reading frame. The mouse Optn gene codes for a 584-amino acid protein
+(67 kD) that has 78% identity with human optineurin.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the OPTN
+gene to chromosome 10 (TMAP stSG3281).
+
+MOLECULAR GENETICS
+
+- Primary Open Angle Glaucoma
+
+In patients with adult-onset primary open angle glaucoma (GLC1E;
+137760), Rezaie et al. (2002) identified heterozygous mutations in the
+OPTN gene (602432.0001-602432.0004). One of the mutations (602432.0004)
+was also found to be associated with normal tension glaucoma
+(602432.0004).
+
+Because normal tension glaucoma (NTG) is the most frequent form of
+glaucoma in Japan, Tang et al. (2003) sought mutations in the OPTN gene
+in 148 unrelated Japanese patients with NTG as well as 165 patients with
+POAG and 196 unrelated controls without glaucoma. No disease-causing
+mutations were identified in these individuals.
+
+Funayama et al. (2004) demonstrated that the OPTN gene was associated
+with POAG rather than NTG in Japanese. Their statistical analyses showed
+a possible interaction between polymorphisms in the OPTN and the tumor
+necrosis factor-alpha (TNF; 191160) genes that would increase the risk
+for the development and probably the progression of glaucoma in Japanese
+patients with POAG.
+
+- Amyotrophic Lateral Sclerosis
+
+Maruyama et al. (2010) identified 2 different homozygous null mutations
+in the OPTN gene, one a deletion of exon 5 (602432.0005) and the other a
+nonsense mutation (602432.0006) in 4 Japanese individuals with autosomal
+recessive amyotrophic lateral sclerosis (ALS12; 613435). These mutations
+were not identified in over 6,800 individuals with glaucoma. In
+addition, Maruyama et al. (2010) identified a missense mutation, E478G
+(602432.0007), segregating as an apparently autosomal dominant mutation
+with incomplete penetrance in 2 families. This mutation was not seen in
+a total of 5,000 Japanese chromosomes. In cell transfection assays,
+Maruyama et al. (2010) observed that nonsense and missense mutations of
+OPTN abolished the inhibition of activation of nuclear factor kappa-B
+(NFKB; see 164011) and that E478G mutant OPTN had a cytoplasmic
+distribution different from that of wildtype OPTN or OPTN carrying a
+mutation causing in POAG. A case with the E478G mutation showed
+OPTN-immunoreactive cytoplasmic inclusions. Furthermore, TDP43 (605078)-
+or SOD1 (147450)-positive inclusions in sporadic and familial cases of
+ALS were also noticeably immunolabeled by anti-OPTN antibodies.
+
+Deng et al. (2011) observed OPTN-immunoreactive skeinlike inclusions in
+anterior horn neurons and neurites in spinal cord sections from all 32
+patients with sporadic ALS and in all 8 patients with familial ALS who
+did not have mutations in the SOD1 gene. OPTN immunoreactivity was
+absent in all 6 cases of familial ALS due to SOD1 mutations and in
+tissue from 2 mouse models of ALS due to Sod1 mutations. The findings
+suggested that OPTN may play a role in the pathogenesis of non-SOD1 ALS,
+and that SOD1-linked ALS has a distinct disease pathogenesis.
+
+- Paget Disease of Bone
+
+For discussion of a possible association of variation in the OPTN gene
+with susceptibility to Paget disease of bone, see 602080.
+
+ANIMAL MODEL
+
+Chi et al. (2010) described the phenotypic characteristics of transgenic
+mice overexpressing wildtype or mutated optineurin. Mutations E50K
+(602432.0001), H486R, and Optn with a deletion of the first or second
+leucine zipper were used for overexpression. After 16 months, histologic
+abnormalities were exclusively observed in the retina of E50K mutant
+mice, with loss of retinal ganglion cells and connecting synapses in the
+peripheral retina, thinning of the nerve fiber layer at the optic nerve
+head at normal intraocular pressure, and massive apoptosis and
+degeneration of the entire retina. Introduction of the E50K mutation
+disrupted the interaction between Optn and Rab8 GTPase (RAB8A; 165040),
+a protein involved in the regulation of vesicle transport from Golgi to
+plasma membrane. Wiltype Optn and an active GTP-bound form of Rab8
+colocalized to the Golgi. Chi et al. (2010) concluded that alteration of
+the Optn sequence can initiate significant retinal degeneration in mice.
+
+ALLELIC VARIANT .0001
+GLAUCOMA 1, OPEN ANGLE, E
+OPTN, GLU50LYS
+
+In affected members of a family segregating adult-onset open angle
+glaucoma (137760), Rezaie et al. (2002) identified a 458G-A transition
+in the OPTN gene, resulting in a glu50-to-lys substitution. This
+mutation was observed in 7 of 52 families, accounting for 13.5% of the
+disease-causing alterations, and was not identified in any of 540 normal
+chromosomes tested.
+
+Rezaie et al. (2002) noted that 31 (81.6%) of the 38 glaucoma patients
+carrying the recurrent E50K mutation had normal intraocular pressure
+(IOP), ranging from 11 to 21 mm Hg, whereas the remaining 7 patients had
+elevated IOP (23 to 26 mm Hg).
+
+.0002
+GLAUCOMA 1, OPEN ANGLE, E
+OPTN, 2-BP INS, 691AG
+
+In 1 of 46 families segregating adult-onset primary open angle glaucoma
+(137760), Rezaie et al. (2002) identified a frameshift mutation in exon
+6 of the OPTN gene, an insertion of AG between nucleotides 691 and 692.
+This mutation was observed in 2.2% of the families studied and was not
+seen in any of 200 normal chromosomes tested.
+
+.0003
+GLAUCOMA 1, OPEN ANGLE, E
+OPTN, ARG545GLN
+
+In 1 of 46 families segregating adult-onset primary open angle glaucoma
+(137760), Rezaie et al. (2002) identified a 1944G-A transition in exon
+16 of the OPTN gene, resulting in an arg545-to-glu substitution. This
+mutation was not identified in any of 100 normal chromosomes tested.
+
+.0004
+GLAUCOMA, NORMAL TENSION, SUSCEPTIBILITY TO
+GLAUCOMA 1, OPEN ANGLE, E, INCLUDED
+OPTN, MET98LYS
+
+Within a group of 169 subjects with adult-onset open angle glaucoma
+(137760), Rezaie et al. (2002) identified a 603T-A transversion in exon
+5 of the OPTN gene, resulting in a met98-to-lys substitution in 8 of 45
+familial (17.8%) and 15 of 124 (12.1%) sporadic individuals with
+glaucoma. Most of these individuals had normal intraocular pressure
+(606657) and were screened for sequence changes in exon 5 only. This
+mutation was also identified in 9 of 422 normal chromosomes, giving the
+overall identification in an at-risk population of 13.6% versus 2.1% in
+the general population, and making this a risk-associated alteration.
+
+.0005
+AMYOTROPHIC LATERAL SCLEROSIS 12
+OPTN, DEL EXON 5
+
+In 2 sibs with autosomal recessive ALS (ALS12; 613435) from a
+consanguineous Japanese family, Maruyama et al. (2010) identified
+homozygosity for deletion of exon 5 of the OPTN gene. The deletion
+resulted from an Alu-mediated recombination.
+
+.0006
+AMYOTROPHIC LATERAL SCLEROSIS 12
+OPTN, GLN398TER
+
+In a Japanese woman with ALS (ALS12; 613435) who was the child of a
+consanguineous union, Maruyama et al. (2010) identified a homozygosity
+for a C-to-T transition at nucleotide 1502 of the OPTN gene, resulting
+in a glutamine-to-nonsense substitution at codon 398 (Q398X). In a
+separate analysis, Maruyama et al. (2010) found this mutation in
+homozygosity in an apparently sporadic case. The probands of the 2
+families were not related according to their family history but were
+found to share haplotypes for a 0.9-Mb region around the OPTN gene,
+suggesting that inheritance of the mutation from a common ancestor was
+likely. This mutation was not detected in 781 healthy Japanese
+volunteers as well as in over 6,800 individuals enrolled in glaucoma
+studies, where the entire coding region of the gene was sequenced.
+
+.0007
+AMYOTROPHIC LATERAL SCLEROSIS 12
+OPTN, GLU478GLY
+
+In 4 individuals with ALS (ALS12; 613435) from 2 families, Maruyama et
+al. (2010) identified a heterozygous missense mutation in the OPTN gene,
+an A-to-G transition at nucleotide 1743 in exon 14 resulting in a
+glutamic acid-to-glycine substitution at codon 478 (E478G). Two of the
+subjects were sisters, and the pedigree suggested that the mutation
+resulted in an autosomal dominant trait with incomplete penetrance. In
+the second family, the sibs were brothers. Although the 2 families were
+not known to be related, all affected individuals shared their haplotype
+for 2.3 megabases on chromosome 10 around the OPTN gene.
+
+REFERENCE 1. Chalasani, M. L.; Radha, V.; Gupta, V.; Agarwal, N.; Balasubramanian,
+D.; Swarup, G.: A glaucoma-associated mutant of optineurin selectively
+induces death of retinal ganglion cells which is inhibited by antioxidants. Invest.
+Ophthal. Vis. Sci. 48: 1607-1614, 2007.
+
+2. Chi, Z.-L.; Akahori, M.; Obazawa, M.; Minami, M.; Noda, T.; Nakaya,
+N.; Tomarev, S.; Kawase, K.; Yamamoto, T.; Noda, S.; Sasaoka, M.;
+Shimazaki, A.; Takada, Y.; Iwata, T.: Overexpression of optineurin
+E50K disrupts Rab8 interaction and leads to a progressive retinal
+degeneration in mice. Hum. Molec. Genet. 19: 2606-2615, 2010.
+
+3. Deng, H.-X.; Bigio, E. H.; Zhai, H.; Fecto, F.; Ajroud, K.; Shi,
+Y.; Yan, J.; Mishra, M.; Ajroud-Driss, S.; Heller, S.; Sufit, R.;
+Siddique, N.; Mugnaini, E.; Siddique, T.: Differential involvement
+of optineurin in amyotrophic lateral sclerosis with or without SOD1
+mutations. Arch. Neurol. 68: 1057-1061, 2011.
+
+4. Faber, P. W.; Barnes, G. T.; Srinidhi, J.; Chen, J.; Gusella, J.
+F.; MacDonald, M. E.: Huntingtin interacts with a family of WW domain
+proteins. Hum. Molec. Genet. 7: 1463-1474, 1998.
+
+5. Funayama, T.; Ishikawa, K.; Ohtake, Y.; Tanino, T.; Kurasaka, D.;
+Kimura, I.; Suzuki, K.; Ideta, H.; Nakamoto, K.; Yasuda, N.; Fujimaki,
+T.; Murakami, A.; and 12 others: Variants in optineurin gene and
+their association with tumor necrosis factor-alpha polymorphisms in
+Japanese patients with glaucoma. Invest. Ophthal. Vis. Sci. 45:
+4359-4367, 2004.
+
+6. Hattula, K.; Peranen, J.: FIP-2, a coiled-coil protein, links
+huntingtin to Rab8 and modulates cellular morphogenesis. Curr. Biol. 10:
+1603-1606, 2000.
+
+7. Li, X.; Magenheimer, B. S.; Xia, S.; Johnson, T.; Wallace, D. P.;
+Calvet, J. P.; Li, R.: A tumor necrosis factor-alpha-mediated pathway
+promoting autosomal dominant polycystic kidney disease. Nature Med. 14:
+863-868, 2008.
+
+8. Li, Y.; Kang, J.; Horwitz, M. S.: Interaction of an adenovirus
+E3 14.7-kilodalton protein with a novel tumor necrosis factor alpha-inducible
+cellular protein containing leucine zipper domains. Molec. Cell.
+Biol. 18: 1601-1610, 1998.
+
+9. Maruyama, H.; Morino, H.; Ito, H.; Izumi, Y.; Kato, H.; Watanabe,
+Y.; Kinoshita, Y.; Kamada, M.; Nodera, H.; Suzuki, H.; Komure, O.;
+Matsuura, S.; and 15 others: Mutations of optineurin in amyotrophic
+lateral sclerosis. Nature 465: 223-226, 2010.
+
+10. Moreland, R. J.; Dresser, M. E.; Rodgers, J. S.; Roe, B. A.; Conaway,
+J. W.; Conaway, R. C.; Hanas, J. S.: Identification of a transcription
+factor IIIA-interacting protein. Nucleic Acids Res. 28: 1986-1993,
+2000.
+
+11. Morton, S.; Hesson, L.; Peggie, M.; Cohen, P.: Enhanced binding
+of TBK1 by an optineurin mutant that causes a familial form of primary
+open angle glaucoma. FEBS Lett. 582: 997-1002, 2008.
+
+12. Park, B.-C.; Tibudan, M.; Samaraweera, M.; Shen, X.; Yue, B. Y.
+J. T.: Interaction between two glaucoma genes, optineurin and myocilin. Genes
+Cells 12: 969-979, 2007.
+
+13. Rezaie, T.; Child, A.; Hitchings, R.; Brice, G.; Miller, L.; Coca-Prados,
+M.; Heon, E.; Krupin, T.; Ritch, R.; Kreutzer, D.; Crick, R. P.; Sarfarazi,
+M.: Adult-onset primary open-angle glaucoma caused by mutations in
+optineurin. Science 295: 1077-1079, 2002.
+
+14. Sarfarazi, M.; Child, A.; Stoilova, D.; Brice, G.; Desai, T.;
+Trifan, O. C.; Poinoosawmy, D.; Crick, R. P.: Localization of the
+fourth locus (GLC1E) for adult-onset primary open-angle glaucoma to
+the 10p15-p14 region. Am. J. Hum. Genet. 62: 641-652, 1998.
+
+15. Schwamborn, K.; Weil, R.; Courtois, G.; Whiteside, S. T.; Israel,
+A.: Phorbol esters and cytokines regulate the expression of the NEMO-related
+protein, a molecule involved in a NF-kappa-B-independent pathway. J.
+Biol. Chem. 275: 22780-22789, 2000.
+
+16. Tang, S.; Toda, Y.; Kashiwagi, K.; Mabuchi, F.; Iijima, H.; Tsukahara,
+S.; Yamagata, Z.: The association between Japanese primary open-angle
+glaucoma and normal tension glaucoma patients and the optineurin gene. Hum.
+Genet. 113: 276-279, 2003.
+
+17. Vittitow, J. L.; Borras, T.: Expression of optineurin, a glaucoma-linked
+gene, is influenced by elevated intraocular pressure. Biochem. Biophys.
+Res. Commun. 298: 67-74, 2002.
+
+18. Wild, P.; Farhan, H.; McEwan, D. G.; Wagner, S.; Rogov, V. V.;
+Brady, N. R.; Richter, B.; Korac, J.; Waidmann, O.; Choudhary, C.;
+Dotsch, V.; Bumann, D.; Dikic, I.: Phosphorylation of the autophagy
+receptor optineurin restricts Salmonella growth. Science 333: 228-233,
+2011.
+
+CONTRIBUTORS George E. Tiller - updated: 8/20/2013
+Marla J. F. O'Neill - updated: 3/27/2013
+Cassandra L. Kniffin - updated: 3/14/2013
+Matthew B. Gross - updated: 8/19/2011
+Paul J. Converse - updated: 8/19/2011
+Ada Hamosh - updated: 6/2/2010
+Patricia A. Hartz - updated: 8/15/2008
+Patricia A. Hartz - updated: 6/3/2008
+Jane Kelly - updated: 9/25/2007
+Jane Kelly - updated: 6/23/2005
+Victor A. McKusick - updated: 8/13/2003
+Patricia A. Hartz - updated: 12/16/2002
+Ada Hamosh - reorganized: 2/13/2002
+Ada Hamosh - updated: 2/13/2002
+
+CREATED Victor A. McKusick: 3/10/1998
+
+EDITED carol: 08/21/2013
+tpirozzi: 8/21/2013
+carol: 8/20/2013
+tpirozzi: 8/20/2013
+carol: 3/27/2013
+terry: 3/27/2013
+carol: 3/18/2013
+ckniffin: 3/14/2013
+mgross: 8/19/2011
+terry: 8/19/2011
+alopez: 7/13/2010
+alopez: 6/8/2010
+terry: 6/2/2010
+wwang: 9/15/2009
+mgross: 8/19/2008
+terry: 8/15/2008
+mgross: 6/12/2008
+terry: 6/3/2008
+carol: 9/25/2007
+carol: 10/25/2006
+alopez: 6/23/2005
+tkritzer: 8/19/2003
+terry: 8/13/2003
+carol: 5/13/2003
+mgross: 12/18/2002
+terry: 12/16/2002
+cwells: 9/11/2002
+ckniffin: 3/12/2002
+carol: 2/14/2002
+carol: 2/13/2002
+terry: 2/13/2002
+carol: 2/12/2002
+terry: 1/25/2002
+dholmes: 3/30/1998
+alopez: 3/10/1998
+
+603069	TITLE *603069 DUAL-SPECIFICITY PHOSPHATASE 5; DUSP5
+;;VH1-LIKE PHOSPHATASE 3; HVH3
+DESCRIPTION 
+DESCRIPTION
+
+Dual-specificity phosphatases (DUSPs) constitute a large heterogeneous
+subgroup of the type I cysteine-based protein-tyrosine phosphatase
+superfamily. DUSPs are characterized by their ability to dephosphorylate
+both tyrosine and serine/threonine residues. DUSP1 belongs to a class of
+DUSPs, designated MKPs, that dephosphorylate MAPK (mitogen-activated
+protein kinase) proteins ERK (see 601795), JNK (see 601158), and p38
+(see 600289) with specificity distinct from that of individual MKP
+proteins. MKPs contain a highly conserved C-terminal catalytic domain
+and an N-terminal Cdc25 (see 116947)-like (CH2) domain. MAPK activation
+cascades mediate various physiologic processes, including cellular
+proliferation, apoptosis, differentiation, and stress responses (summary
+by Patterson et al., 2009).
+
+CLONING
+
+To identify human dual-specificity PTPases, Martell et al. (1994)
+screened a genomic library with a partial DUSP1 (600714) cDNA. They
+isolated several novel PTPase genes, including DUSP5, which they
+designated HVH3 for human VH1-like PTPase-3.
+
+Kwak and Dixon (1995) cloned human placenta DUSP5 cDNAs and reported
+that the predicted protein has 384 amino acids. Using
+immunofluorescence, they determined that epitope-tagged DUSP5 is
+localized primarily in the nucleus of mammalian cells.
+
+Ishibashi et al. (1994) isolated DUSP5 cDNAs from a human mammary
+epithelial cell cDNA library and found that the predicted protein has
+397 amino acids. Northern blot analysis revealed that DUSP5 is expressed
+as a 2.5-kb mRNA in a variety of tissues, with the highest levels in
+pancreas and brain.
+
+GENE FUNCTION
+
+Ishibashi et al. (1994) found that, in vitro, recombinant protein
+containing the catalytic domain of DUSP5 displayed phosphatase activity
+toward several substrates. The highest relative activity was toward ERK1
+(601795), suggesting that it may be a target for DUSP5 activity in vivo.
+Ishibashi et al. (1994) showed that DUSP5 expression was induced by
+serum stimulation of fibroblasts and by heat shock, with similar
+kinetics to those observed with DUSP1. As has been proposed for other
+dual-specificity PTPases like DUSP1 and DUSP2 (603068), Ishibashi et al.
+(1994) suggested that the induction of DUSP5 may lead to the
+deactivation of mitogen- or stress-activated protein kinases, thereby
+restoring these signaling pathways to their mitogen- or stress-sensitive
+state.
+
+Using morpholino-mediated gene knockdown in zebrafish, Pramanik et al.
+(2009) showed that Dusp5 and Snrk1 (SNRK; 612760) targeted a common
+signaling pathway and coordinately functioned in controlling angioblast
+numbers at the lateral plate mesoderm. Dusp5 was expressed in
+angioblasts in embryonic zebrafish and was essential for vascular
+development. Loss of Dusp5 resulted in endothelial cell apoptosis.
+
+MAPPING
+
+By fluorescence in situ hybridization, Martell et al. (1994) mapped the
+DUSP5 gene to 10q25.
+
+MOLECULAR GENETICS
+
+- Somatic Mutations
+
+Pramanik et al. (2009) identified an apparently somatic ser147-to-pro
+(S147P) mutation in the DUSP5 gene in 1 of 3 infantile hemangioma
+(602089) samples and in 12 of 17 lymphatic, arteriovenous, and venous
+malformation samples. The mutation was not found in normal human
+placenta, control human umbilical vein endothelial cells, or tonsillar
+tissue from unrelated individuals. In addition, a somatic arg248-to-gln
+(R248Q) mutation in the SNRK gene was found in 8 of the vascular anomaly
+samples, including venous and lymphatic malformations, but not in
+infantile hemangiomas. Six of the 8 samples with the SNRK mutation also
+carried the DUSP5 S147P mutation. Since studies in zebrafish implicated
+a role for the Dusp5/Snrk signaling pathway in vascular development, the
+findings suggested that variation in these genes may provide
+susceptibility to the development of vascular anomalies in humans.
+
+REFERENCE 1. Ishibashi, T.; Bottaro, D. P.; Michieli, P.; Kelley, C. A.; Aaronson,
+S. A.: A novel dual specificity phosphatase induced by serum stimulation
+and heat shock. J. Biol. Chem. 269: 29897-29902, 1994.
+
+2. Kwak, S. P.; Dixon, J. E.: Multiple dual specificity protein tyrosine
+phosphatases are expressed and regulated differentially in liver cell
+lines. J. Biol. Chem. 270: 1156-1160, 1995.
+
+3. Martell, K. J.; Kwak, S.; Hakes, D. J.; Dixon, J. E.; Trent, J.
+M.: Chromosomal localization of four human VH1-like protein-tyrosine
+phosphatases. Genomics 22: 462-464, 1994.
+
+4. Patterson, K. I.; Brummer, T.; O'Brien, P. M.; Daly, R. J.: Dual-specificity
+phosphatases: critical regulators with diverse cellular targets. Biochem.
+J. 418: 475-489, 2009.
+
+5. Pramanik, K.; Chun, C. Z.; Garnaas, M. K.; Samant, G. V.; Li, K.;
+Horswill, M. A.; North, P. E.; Ramchandran, R.: Dusp-5 and Snrk-1
+coordinately function during vascular development and disease. Blood 113:
+1184-1191, 2009.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 3/17/2010
+Patricia A. Hartz - updated: 3/12/2010
+Carol A. Bocchini - updated: 12/4/2009
+
+CREATED Rebekah S. Rasooly: 9/28/1998
+
+EDITED mgross: 03/17/2010
+mgross: 3/17/2010
+ckniffin: 3/17/2010
+mgross: 3/16/2010
+terry: 3/12/2010
+carol: 12/4/2009
+psherman: 9/29/1998
+
+610972	TITLE *610972 ADHERENS JUNCTION-ASSOCIATED PROTEIN 1; AJAP1
+;;SHREW1
+DESCRIPTION 
+CLONING
+
+Using differential display RT-PCR to identify cDNAs specific to invasive
+versus noninvasive derivatives of an endometriotic cell line, followed
+by database analysis and 5-prime and 3-prime RACE of a brain cDNA
+library, Bharti et al. (2004) cloned AJAP1, which they called SHREW1.
+The predicted 411-amino acid protein is highly alkaline and has a
+calculated molecular mass of 43 kD. It contains an N-terminal signal
+peptide, a transmembrane domain, and potential sites for
+phosphorylation, glycosylation, and myristoylation. Database analysis
+suggested that SHREW1 may be restricted to vertebrates. Northern blot
+analysis of invasive endometriotic cells detected a 4-kb SHREW1
+transcript. Immunoblot analysis of human pancreas and uterus revealed an
+endogenous 48-kD SHREW1 protein. Epitope-tagged SHREW1 localized to the
+basolateral membrane of polarized epithelial cells and colocalized with
+E-cadherin (CDH1; 192090), a marker of adherens junctions.
+
+GENE FUNCTION
+
+Schreiner et al. (2007) found that overexpression of SHREW1 protein
+enhanced invasiveness of human fibrosarcoma cells. SHREW1 interacted
+with CD147 (BSG; 109480), a mediator of invasiveness and matrix
+metalloprotease activity, in epithelial cells. Downregulation of SHREW1
+or CD147 using small interfering RNA in HeLa cells decreased
+invasiveness without affecting proliferation. Schreiner et al. (2007)
+concluded that SHREW1-CD147 interaction is associated with regulation of
+cellular invasion.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the AJAP1
+gene to chromosome 1 (TMAP SGC32361).
+
+REFERENCE 1. Bharti, S.; Handrow-Metzmacher, H.; Zickenheiner, S.; Zeitvogel,
+A.; Baumann, R.; Starzinski-Powitz, A.: Novel membrane protein shrew-1
+targets to cadherin-mediated junctions in polarized epithelial cells. Molec.
+Biol. Cell 15: 397-406, 2004.
+
+2. Schreiner, A.; Ruonala, M.; Jakob, V.; Suthaus, J.; Boles, E.;
+Wouters, F.; Starzinsi-Powitz, A.: Junction protein shrew-1 influences
+cell invasion and interacts with invasion-promoting protein CD147. Molec.
+Biol. Cell 18: 1272-1281, 2007.
+
+CREATED Alan F. Scott: 4/24/2007
+
+EDITED mgross: 04/24/2007
+
+136131	TITLE *136131 FLAVIN-CONTAINING MONOOXYGENASE 4; FMO4
+;;FLAVIN-CONTAINING MONOOXYGENASE 2, FORMERLY; FMO2, FORMERLY;;
+FMO, ADULT LIVER FORM;;
+TRIMETHYLAMINE OXYGENASE;;
+TMA OXYGENASE
+DESCRIPTION 
+DESCRIPTION
+
+The flavin-containing monooxygenases (EC 1.14.13.8) are microsomal
+enzymes that catalyze the NADPH-dependent oxygenation of a large number
+of structurally diverse foreign compounds including many therapeutic
+drugs and pesticides. FMO3 is the largest of the FMO proteins (Phillips
+et al., 1995).
+
+CLONING
+
+Dolphin et al. (1992) cloned the human FMO4 gene, which they called
+FMO2, by screening an adult human liver library with the porcine coding
+sequence. The cDNA encodes a deduced 558-amino acid protein with a
+molecular mass of 63,338 Da. FMO2 shows 51 to 53% primary sequence
+identity with FMO1 (136130). The corresponding mRNA was present in low
+abundance in adult human liver. Southern blot hybridization with single
+exon probes demonstrated that human FMO4 and FMO1 are, in each case, the
+product of a single gene.
+
+MAPPING
+
+By PCR analysis, Dolphin et al. (1992) mapped the FMO4 gene to
+chromosome 1.
+
+NOMENCLATURE
+
+Lawton et al. (1994) proposed a reclassification of mammalian FMOs.
+Under this system, FMO2 described by Dolphin et al. (1992) is now
+designated FMO4.
+
+REFERENCE 1. Dolphin, C. T.; Shephard, E. A.; Povey, S.; Smith, R. L.; Phillips,
+I. R.: Cloning, primary sequence and chromosomal localization of
+human FMO2, a new member of the flavin-containing mono-oxygenase family. Biochem.
+J. 287: 261-267, 1992.
+
+2. Lawton, M. P.; Cashman, J. R.; Cresteil, T.; Dolphin, C. T.; Elfarra,
+A. A.; Hines, R. N.; Hodgson, E.; Kimura, T.; Ozols, J.; Phillips,
+I. R.; Philpot, R. M.; Poulsen, L. L.; Rettie, A. E.; Shephard, E.
+A.; Williams, D. E.; Ziegler, D. M.: A nomenclature for the mammalian
+flavin-containing monooxygenase gene family based on amino acid sequence
+identities. Arch. Biochem. Biophys. 308: 254-257, 1994.
+
+3. Phillips, I. R.; Dolphin, C. T.; Clair, P.; Hadley, M. R.; Hutt,
+A. J.; McCombie, R. R.; Smith, R. L.; Shephard, E. A.: The molecular
+biology of the flavin-containing monooxygenases of man. Chem. Biol.
+Interact. 96: 17-32, 1995.
+
+CONTRIBUTORS Joanna S. Amberger - updated: 6/4/2008
+Rebekah S. Rasooly - updated: 6/30/1999
+Victor A. McKusick - edited: 10/25/1997
+Cynthia K. Ewing - updated: 10/8/1996
+
+CREATED Victor A. McKusick: 9/10/1991
+
+EDITED carol: 06/05/2008
+carol: 6/4/2008
+joanna: 6/4/2008
+mgross: 6/30/1999
+mark: 10/25/1997
+mark: 5/23/1997
+mark: 5/20/1997
+mark: 3/1/1996
+terry: 2/21/1996
+mimadm: 9/24/1994
+pfoster: 2/16/1994
+carol: 11/16/1993
+carol: 11/4/1993
+carol: 10/28/1993
+carol: 10/26/1993
+
+147138	TITLE *147138 MEMBRANE-SPANNING 4 DOMAINS, SUBFAMILY A, MEMBER 2; MS4A2
+;;Fc FRAGMENT OF IgE, HIGH AFFINITY I, RECEPTOR FOR, BETA SUBUNIT; FCER1B;;
+IMMUNOGLOBULIN E RECEPTOR, HIGH AFFINITY, BETA POLYPEPTIDE;;
+Fc IgE RECEPTOR, BETA CHAIN;;
+IMMUNOGLOBULIN E REGULATOR; IGHER; IGER
+DESCRIPTION 
+CLONING
+
+The high affinity IgE receptor is responsible for initiating the
+allergic response. Binding of allergen to receptor-bound IgE leads to
+cell activation and the release of mediators (such as histamine)
+responsible for the manifestations of allergy. The receptor is a
+tetrameric complex composed of an alpha chain (147140), a beta chain,
+and 2 disulfide-linked gamma chains (147139). It is found on the surface
+of mast cells and basophils. The alpha and beta subunits have not been
+detected in other hematopoietic cells, although the gamma chains are
+found in macrophages, natural killer (NK) cells, and T cells where they
+associate with the low affinity receptor for IgG or with the T-cell
+antigen receptor. The molecular cloning of subunits permitted the
+reconstitution of surface-expressed receptor complexes by transfection.
+Cotransfection of all 3 chains--alpha, beta, and gamma--was required for
+efficient surface expression of the rat or mouse receptor. By contrast,
+surface expression of the human alpha-gamma complex was achieved by
+cotransfecting alpha and gamma alone, suggesting that beta is not
+necessary. To study the expression of the beta gene, Kuster et al.
+(1992) isolated and characterized the gene and its cDNA. Analysis of the
+surface expression of transfected receptors indicated that human
+alpha-gamma and alpha-beta-gamma complexes are expressed with comparable
+efficiency.
+
+Donnadieu et al. (2003) noted that the FCER1 tetrameric complex is
+expressed on mast cells and basophils, whereas the FCER1 trimeric
+complex lacking the beta subunit is expressed on Langerhan cells,
+dendritic cells, and monocytes. Thus, beta chain expression correlates
+with allergy mediator release, while the trimeric FCER1 form is
+associated with antigen presentation. The presence of the beta chain
+amplifies FCER1 surface expression and signaling capacity, and the beta
+chain acts as a chaperone for transporting the FCER1 complex to the cell
+surface. By RT-PCR of basophil RNA, Donnadieu et al. (2003) cloned an
+FCER1B splice variant that retains intron 5 and encodes a truncated
+protein, designated beta(T). The fourth transmembrane domain and the
+C-terminal tail of the full-length beta form are deleted and replaced
+with 16 novel amino acids in beta(T). The beta(T) variant was also
+present in cord blood mast cells, but not in a monocyte cell line.
+Immunoprecipitation and Western blot analyses showed that beta(T) was
+expressed as a 21-kD protein, whereas the full-length form was 28 kD.
+
+GENE FUNCTION
+
+Using transfection experiments, Donnadieu et al. (2003) showed that the
+beta(T) isoform competed with the full-length beta isoform and
+diminished FCER1 expression by preventing alpha chain maturation.
+Immunoprecipitation analysis demonstrated that beta(T) associated with
+immature alpha chains, but not with mature alpha chains or gamma chains.
+Donnadieu et al. (2003) proposed that the relative abundance of the beta
+and beta(T) isoforms may control the level of surface FCER1 expression
+and influence susceptibility to allergic disease.
+
+GENE STRUCTURE
+
+Kuster et al. (1992) determined that the gene encoding the human high
+affinity IgE receptor beta chain spans about 10 kb and contains 7 exons.
+There is a single transcription initiation site preceded by a TATA box.
+The human beta gene appears to be present in single copy.
+
+MAPPING
+
+By linkage studies using a CA microsatellite repeat in the fifth intron
+of the FCER1B gene, Sandford et al. (1993) demonstrated that the gene is
+located on 11q13. Using in situ hybridization and pulsed-field gel
+electrophoresis, Szepetowski and Gaudray (1994) likewise mapped the
+FCER1B gene to chromosome 11q at a site centromeric from CD20 (112210)
+at 11q13 and in the same 550 kb fragment as TCN1 (189905), thought to be
+on 11q11-q12, and OSBP (167040), thought to be on 11q12-q13.
+
+The gene for the mouse beta subunit was localized to chromosome 19 by
+genetic linkage studies (Hupp et al., 1989) and was thought to be a
+single gene. The genes for the alpha and gamma subunits are both located
+on human and mouse chromosome 1 (Kuster et al., 1992).
+
+- Linkage to Atopy
+
+Sandford et al. (1993) demonstrated that the FCER1B gene is linked to
+clinical atopy (147050). In their linkage study of atopy, Sandford et
+al. (1993) used only maternally derived alleles; paternally derived
+alleles failed to show linkage. The known roles of the high affinity IgE
+receptor in antigen-induced mast cell degranulation and in the release
+of cytokines that enhance IgE production, taken with the location in the
+same region, 11q13, made the FCER1B gene a candidate for the chromosome
+11 atopy locus.
+
+Folster-Holst et al. (1998) presented evidence from linkage studies in
+12 families with atopic dermatitis for linkage in close proximity to the
+marker D11S903. The method of analysis suggested an oligogenic mode of
+inheritance as well as heterogeneity in the genetic susceptibility to
+atopy and atopic dermatitis; only 2 of 12 families showed evidence for
+linkage using the oligogenic model.
+
+MOLECULAR GENETICS
+
+Shirakawa et al. (1994) reported a significant association between atopy
+and substitution of a leucine for an isoleucine at position 181 of the
+FCER1B gene product. Hizawa et al. (1995) failed to find this
+leu181-to-ile substitution.
+
+Hill and Cookson (1996) identified a novel coding polymorphism in exon 7
+of the beta subunit of the high affinity receptor for IgE. An A-to-G
+transition changes glutamic acid-237 to glycine (147138.0001). The
+substitution occurs adjacent to the immunoreceptor tyrosine activation
+motif (ITAM). This E237G mutation was detected in 53 subjects from a
+general Australian population of 1004 (5.3%). E237G subjects had a
+significantly elevated skin test response to grass (p = 0.0004) and
+house dust mite (p = 0.04), RAST to grass (p = 0.0020), and bronchial
+reactivity to methacholine (p = 0.0009). Hill and Cookson (1996)
+reported that the relative risk of individuals with E237G having asthma
+compared to subjects without the variant was 2.3.
+
+Traherne et al. (2003) performed association studies between FCER1B SNPs
+and atopy in 2 Caucasian cohorts. Independent clusters of SNPs within an
+18-kb region affected prick skin tests and specific IgE responses.
+Interferon regulatory factor 2 (IRF2; 147576) sites were altered by
+significantly associated SNPs in 2 regions. Strong association to
+maternally derived alleles was seen in 1 panel of subjects and not in
+the other. Two regions of increased CpG concentration were identified in
+FCER1B, providing a potential substrate for epigenetic effects.
+
+ALLELIC VARIANT .0001
+ATOPIC ASTHMA, SUSCEPTIBILITY TO
+MS4A2, GLU237GLY
+
+Hill and Cookson (1996) found this exon 7 E237G polymorphism in 53 of
+1004 Australian subjects studied (5.3%). E237G subjects had elevated
+reactions to a number of common measures of atopy and bronchial
+hyperresponsiveness. The investigators also found that the relative risk
+for E237G individuals having asthma compared to those without the allele
+was 2.3.
+
+Shirakawa et al. (1996) reported that the gly237 form of the IgE Fc
+receptor was associated with atopic asthma (odds ratio = 3.00,
+chi-square = 5.10, p less than 0.03) and with elevated serum IgE levels
+(odds ratio = 8.56) in the Japanese population. This association was
+particularly noted in childhood asthma (odds ratio = 3.92, chi-square =
+8.66, p less than 0.005).
+
+Among 333 Japanese subjects, including 233 with nasal allergy and 100
+controls, Nagata et al. (2001) observed a significant relationship
+between gly237 and elevated levels of serum total IgE and very high IgE.
+The findings suggested that the glu237-to-gly variant of the FCER1B gene
+is involved in the development of nasal allergy through the process for
+the production of both specific and nonspecific IgE antibodies.
+
+REFERENCE 1. Donnadieu, E.; Jouvin, M.-H.; Rana, S.; Moffatt, M. F.; Mockford,
+E. H.; Cookson, W. O.; Kinet, J.-P.: Competing functions encoded
+in the allergy-associated Fc-epsilon-RI-beta gene. Immunity 18:
+665-674, 2003.
+
+2. Folster-Holst, R.; Moises, H. W.; Yang, L.; Fritsch, W.; Weissenbach,
+J.; Christophers, E.: Linkage between atopy and the IgE high-affinity
+receptor gene at 11q13 in atopic dermatitis families. Hum. Genet. 102:
+236-239, 1998.
+
+3. Hill, M. R.; Cookson, W. O. C. M.: A new variant of the beta subunit
+of the high-affinity receptor for immunoglobulin E (Fc-epsilon-RI-beta
+E237G): associations with measures of atopy and bronchial hyper-responsiveness. Hum.
+Molec. Genet. 5: 959-962, 1996.
+
+4. Hizawa, N.; Yamaguchi, E.; Furuya, K.; Ohnuma, N.; Kodama, N.;
+Kojima, J.; Ohe, M.; Kawakami, Y.: Association between high serum
+total IgE levels and D11S97 on chromosome 11q13 in Japanese subjects. J.
+Med. Genet. 32: 363-369, 1995.
+
+5. Hupp, K.; Siwarski, D.; Mock, B. A.; Kinet, J.-P.: Gene mapping
+of the three subunits of the high affinity FcR for IgE to mouse chromosomes
+1 and 19. J. Immun. 143: 3787-3791, 1989.
+
+6. Kuster, H.; Zhang, L.; Brini, A. T.; MacGlashan, D. W. J.; Kinet,
+J.-P.: The gene and cDNA for the human high affinity immunoglobulin
+E receptor beta chain and expression of the complete human receptor. J.
+Biol. Chem. 267: 12782-12787, 1992.
+
+7. Nagata, H.; Mutoh, H.; Kumahara, K.; Arimoto, Y.; Tomemori, T.;
+Sakurai, D.; Arase, K.; Ohno, K.; Yamakoshi, T.; Nakano, K.; Okawa,
+T.; Numata, T.; Konno, A.: Association between nasal allergy and
+a coding variant of the Fc-epsilon-RI-beta gene Glu237Gly in a Japanese
+population. Hum. Genet. 109: 262-266, 2001.
+
+8. Sandford, A. J.; Shirakawa, T.; Moffatt, M. F.; Daniels, S. E.;
+Ra, C.; Faux, J. A.; Young, R. P.; Nakamura, Y.; Lathrop, G. M.; Cookson,
+W. O. C. M.; Hopkin, J. M.: Localisation of atopy and beta subunit
+of high-affinity IgE receptor (FCER1) on chromosome 11q. Lancet 341:
+332-334, 1993.
+
+9. Shirakawa, T.; Li, A.; Dubowitz, M.; Dekker, J. W.; Shaw, A. E.;
+Faux, J. A.; Ra, C.; Cookson, W. O. C. M.; Hopkin, J. M.: Association
+between atopy and variants of the beta subunit of the high-affinity
+immunoglobulin E receptor. Nature Genet. 7: 125-130, 1994.
+
+10. Shirakawa, T.; Mao, X.-Q.; Sasaki, S.; Enomoto, T.; Kawai, M.;
+Morimoto, K.; Hopkin, J.: Association between atopic asthma and a
+coding variant of Fc-epsilon-RI-beta in a Japanese population. Hum.
+Molec. Genet. 5: 1129-1130, 1996. Note: Erratum: Hum. Molec. Genet.
+5: 2068 only, 1996.
+
+11. Szepetowski, P.; Gaudray, P.: FCER1B, a candidate gene for atopy,
+is located in 11q13 between CD20 and TCN1. Genomics 19: 399-400,
+1994.
+
+12. Traherne, J. A.; Hill, M. R.; Hysi, P.; D'Amato, M.; Broxholme,
+J.; Mott, R.; Moffatt, M. F.; Cookson, W. O. C. M.: LD mapping of
+maternally and non-maternally derived alleles and atopy in Fc-epsilon-RI-beta. Hum.
+Molec. Genet. 12: 2577-2585, 2003.
+
+CONTRIBUTORS Paul J. Converse - updated: 5/15/2006
+George E. Tiller - updated: 9/12/2005
+Victor A. McKusick - updated: 10/17/2001
+Victor A. McKusick - updated: 4/1/1998
+Moyra Smith - updated: 9/6/1996
+Moyra Smith - updated: 8/13/1996
+
+CREATED Victor A. McKusick: 8/27/1992
+
+EDITED terry: 09/24/2012
+wwang: 12/5/2006
+mgross: 6/1/2006
+terry: 5/15/2006
+alopez: 10/21/2005
+terry: 9/12/2005
+carol: 10/29/2001
+mcapotos: 10/17/2001
+carol: 9/27/2001
+carol: 4/7/2000
+carol: 4/6/2000
+alopez: 4/1/1998
+terry: 3/23/1998
+mark: 9/6/1996
+mark: 8/13/1996
+terry: 7/10/1995
+mark: 6/21/1995
+carol: 2/15/1994
+carol: 11/9/1993
+carol: 10/20/1993
+carol: 8/27/1992
+
+600114	TITLE *600114 CHAPERONIN CONTAINING T-COMPLEX POLYPEPTIDE 1, SUBUNIT 3; CCT3
+;;CHAPERONIN CONTAINING TCP1, SUBUNIT 3;;
+CCT-GAMMA; CCTG;;
+TCP1 RING COMPLEX, POLYPEPTIDE 5; TRIC5
+DESCRIPTION 
+DESCRIPTION
+
+Molecular chaperones are proteins capable of folding or assembling
+nascent proteins in a higher order structure. A molecular chaperone
+called TCP1 ring complex (TRiC) plays a role in actin and tubulin
+folding. TRiC is composed of 2 heteromeric subunits of 6 to 9 different
+proteins. The cytoplasmic T-complex protein-1 (TCP1; 186980), an
+abundant testicular germ cell protein, has been found in this complex.
+Other components of TRiC, such as TRIC5, are TCP1-related proteins
+(Sevigny et al., 1994).
+
+CLONING
+
+Joly et al. (1994) cloned a mouse cDNA corresponding to tryptic
+fragments of the bovine TRiCP5 subunit described by Frydman et al.
+(1992). The mouse TRiCP5 shares 48% nucleotide and 34% amino acid
+homology with mouse Tcp1. It is a cytosolic protein also found in the
+nuclear matrix of several cultured human cell lines. Furthermore, like
+TCP1, it is highly expressed in testis.
+
+Sevigny et al. (1994) cloned a partial human cDNA clone homologous to
+mouse TRiCP5.
+
+Walkley et al. (1996) cloned the human cDNA from a kidney library. The
+1.9-kb cDNA encodes a predicted 544-amino acid protein that is 98%
+similar to the mouse sequence and 75% similar to the yeast gene. The
+mRNA is expressed in a variety of human tissues and at high levels in
+mouse testis.
+
+Sevigny et al. (1996) cloned the gene coding for the mouse P5 subunit.
+
+GENE FUNCTION
+
+Feldman et al. (1999) demonstrated that the folding and assembly of the
+VHL protein (608537) into a complex with its partner proteins, elongin B
+(600787) and elongin C (600788), is directly mediated by the chaperonin
+TRiC. Their results defined a novel role for TRiC in mediating
+oligomerization.
+
+GENE STRUCTURE
+
+Sevigny et al. (1996) determined that the mouse Tric5 gene contains 14
+exons distributed within 25 kb of genomic DNA. Sevigny et al. (1996)
+used primer extension to demonstrate multiple transcription start points
+for the Tric5 gene. This was considered consistent with the lack of any
+obvious TATA box upstream of the transcription start points.
+
+MAPPING
+
+Sevigny et al. (1994) mapped the TRIC5 gene to chromosome 1q23 by
+fluorescence in situ hybridization. The fact that the human TRIC5 gene
+is not on chromosome 6 like other TCP1-related proteins implied to
+Sevigny et al. (1994) that the genes coding the TCP1-related proteins
+present in the TCP1 ring complex are probably not organized in a cluster
+and thus are not synchronously regulated by a cis-acting control region
+such as the LCR involved in the regulation of globin synthesis.
+
+Sevigny et al. (1996) showed that the mouse genome contains 1 Tric5 gene
+and 1 Tric5 pseudogene located on chromosomes 3F and 5B, respectively.
+
+REFERENCE 1. Feldman, D. E.; Thulasiraman, V.; Ferreyra, R. G.; Frydman, J.
+: Formation of the VHL-elongin BC tumor suppressor complex is mediated
+by the chaperonin TRiC. Molec. Cell 4: 1051-1061, 1999.
+
+2. Frydman, J.; Nimmesgern, E.; Erdjument-Bromage, H.; Wall, J. S.;
+Tempst, P.; Hartl, F.-U.: Function in protein folding of TRiC, a
+cytosolic ring complex containing TCP-1 and structurally related subunits. EMBO
+J. 11: 4767-4778, 1992.
+
+3. Joly, E. C.; Sevigny, G.; Todorov, I. T.; Bibor-Hardy, V.: cDNA
+encoding a novel TCP1-related protein. Biochim. Biophys. Acta 1217:
+224-226, 1994.
+
+4. Sevigny, G.; Joly, E. C.; Bibor-Hardy, V.; Lemieux, N.: Assignment
+of the human homologue of the mTRiC-P5 gene (TRIC5) to band 1q23 by
+fluorescence in situ hybridization. Genomics 22: 634-636, 1994.
+
+5. Sevigny, G.; Lemieux, N.; Steyaert, A.; Bibor-Hardy, V.: Structure
+of the gene coding for the mouse TRiC-P5 subunit of the cytosolic
+chaperonin TRiC. Genomics 31: 107-110, 1996.
+
+6. Walkley, N. A.; Demaine, A. G.; Malik, A. N.: Cloning, structure
+and mRNA expression of human Cctg, which encodes the chaperonin subunit
+CCT-gamma. Biochem. J. 313: 381-389, 1996.
+
+CONTRIBUTORS Stylianos E. Antonarakis - updated: 1/7/2000
+Alan F. Scott - updated: 5/20/1996
+
+CREATED Victor A. McKusick: 9/14/1994
+
+EDITED mgross: 11/21/2006
+mgross: 11/20/2006
+ckniffin: 3/23/2004
+tkritzer: 9/17/2003
+mgross: 7/14/2000
+mgross: 7/13/2000
+mgross: 1/7/2000
+alopez: 7/27/1999
+alopez: 7/26/1999
+mark: 5/20/1996
+terry: 5/20/1996
+mark: 2/7/1996
+terry: 2/2/1996
+carol: 9/14/1994
+
+600250	TITLE *600250 CHEMOKINE, C MOTIF, LIGAND 1; XCL1
+;;SMALL INDUCIBLE CYTOKINE SUBFAMILY C, MEMBER 1; SCYC1;;
+SINGLE CYSTEINE MOTIF 1; SCM1;;
+SINGLE CYSTEINE MOTIF 1A; SCM1A;;
+LYMPHOTACTIN; LTN
+DESCRIPTION 
+CLONING
+
+By screening a CD8+ T-lymphocyte cDNA library with a mouse lymphotactin
+probe, Kennedy et al. (1995) isolated cDNAs encoding the lymphotactin
+XCL1, later designated SCYC1. The sequence of the deduced 114-amino acid
+protein is most homologous to the CC chemokines CCL8 (602283) and CCL3
+(182283), but differs in that it lacks the first and third cysteines
+characteristic of CC and CXC chemokines. By Northern blot analysis,
+Kennedy et al. (1995) and Yoshida et al. (1995) revealed expression of
+an 0.8-kb SCYC1 transcript in activated thymic and peripheral blood CD8+
+but not CD4+ T cells. In normal tissues, SCYC1 is expressed at high
+levels in spleen, thymus, small intestine, and peripheral blood
+leukocytes, as well as at low levels in lung, prostate, and ovary; it
+shows little or no expression in colon and testis. Lymphotactin is
+chemotactic for CD4+ and CD8+ T cells but not for monocytes, and induces
+a rise in intracellular calcium in peripheral blood lymphocytes. Yoshida
+et al. (1995) and Muller et al. (1995) had identified the same sequence,
+termed SCM1 and ATAC, respectively, homologous to mouse lymphotactin,
+but were unable to demonstrate chemotaxis or calcium mobilization.
+
+Kennedy et al. (1995) also identified a variant of SCYC1 which differed
+from SCYC1 by only 2 amino acid residues. This variant was later found
+to be a separate gene; see SCYC2 604828.
+
+GENE FAMILY
+
+Chemokines are a group of small (approximately 8 to 14 kD), mostly
+basic, structurally related molecules that regulate cell trafficking of
+various types of leukocytes through interactions with a subset of
+7-transmembrane G protein-coupled receptors (Kennedy et al., 1995).
+Chemokines also play fundamental roles in the development, homeostasis,
+and function of the immune system, and they have effects on cells of the
+central nervous system as well as on endothelial cells involved in
+angiogenesis or angiostasis. Chemokines are divided into 2 major
+subfamilies, CXC and CC, based on the arrangement of the first 2 of the
+4 conserved cysteine residues; the 2 cysteines are separated by a single
+amino acid in CXC chemokines and are adjacent in CC chemokines.
+
+GENE FUNCTION
+
+Yoshida et al. (1998) observed that XCL1 induces the migration of cells
+expressing XCR1 (600552).
+
+MAPPING
+
+By somatic cell hybrid analysis, Yoshida et al. (1995) and Kennedy et
+al. (1995) mapped the SCYC1 gene to chromosome 1. Kennedy et al. (1995)
+noted that the region to which mouse lymphotactin was located on
+chromosome 1 by Kelner et al. (1994) is syntenic to human 1q23-q25.
+Yoshida et al. (1996) and Muller et al. (1995) mapped the gene to
+chromosome 1q23 by FISH.
+
+REFERENCE 1. Kelner, G. S.; Kennedy, J.; Bacon, K. B.; Kleyensteuber, S.; Largaespada,
+D. A.; Jenkins, N. A.; Copeland, N. G.; Bazan, J. F.; Moore, K. W.;
+Schall, T. J.; Zlotnik, A.: Lymphotactin: a cytokine that represents
+a new class of chemokine. Science 266: 1395-1399, 1994.
+
+2. Kennedy, J.; Kelner, G. S.; Kleyensteuber, S.; Schall, T. J.; Weiss,
+M.  C.; Yssel, H.; Schneider, P. V.; Cocks, B. G.; Bacon, K. B.; Zlotnik,
+A.: Molecular cloning and functional characterization of human lymphotactin. J.
+Immun. 155: 203-209, 1995.
+
+3. Muller, S.; Dorner, B.; Korthauer, U.; Mages, H. W.; D'Apuzzo,
+M.; Senger, G.; Kroczek, R. A.: Cloning of ATAC, an activation-induced,
+chemokine-related molecule exclusively expressed in CD8+ T lymphocytes. Europ.
+J. Immun. 25: 1744-1748, 1995.
+
+4. Yoshida, T.; Imai, T.; Kakizaki, M.; Nishimura, M.; Takagi, S.;
+Yoshie, O.: Identification of single C motif-1/lymphotactin receptor
+XCR1. J. Biol. Chem. 273: 16551-16554, 1998.
+
+5. Yoshida, T.; Imai, T.; Kakizaki, M.; Nishimura, M.; Yoshie, O.
+: Molecular cloning of a novel C or gamma type chemokine, SCM-1. FEBS
+Lett. 360: 155-159, 1995.
+
+6. Yoshida, T.; Imai, T.; Takagi, S.; Nishimura, M.; Ishikawa, I.;
+Yaoi, T.; Yoshie, O.: Structure and expression of two highly related
+genes encoding SCM-1/human lymphotactin. FEBS Lett. 395: 82-88,
+1996.
+
+CONTRIBUTORS Paul J. Converse - updated: 4/12/2000
+Jennifer P. Macke - updated: 8/13/1999
+
+CREATED Victor A. McKusick: 12/20/1994
+
+EDITED alopez: 04/08/2009
+mgross: 7/20/2005
+mgross: 9/26/2002
+carol: 4/12/2000
+carol: 4/6/2000
+alopez: 8/13/1999
+carol: 12/21/1994
+carol: 12/20/1994
+
+604515	TITLE *604515 B-CELL LINKER PROTEIN; BLNK
+;;SH2 DOMAIN-CONTAINING LEUKOCYTE PROTEIN, 65-KD; SLP65;;
+B CELL-SPECIFIC ADAPTOR PROTEIN; BASH
+DESCRIPTION 
+DESCRIPTION
+
+The BLNK gene encodes a B-cell linker protein. Linker or adaptor
+proteins provide mechanisms by which receptors can amplify and regulate
+downstream effector proteins. BLNK is essential for normal B-cell
+development (Fu et al., 1998).
+
+CLONING
+
+Fu et al. (1998) identified a novel B-cell linker protein, which they
+called BLNK. BLNK encodes a 456-amino acid polypeptide with basic,
+acidic, proline-rich, and SH2 domains. An alternatively spliced product
+called BLNK-S lacks basepairs 760 to 828 within the proline-rich domain.
+The murine Blnk protein shares 82% identity with human BLNK. There
+appeared to be no alternatively spliced form of mouse BLNK. BLNK shows
+greatest homology to the SLP76 (601603) linker protein. BLNK mRNA is
+predominantly expressed in the spleen, although some level of expression
+can be seen in liver, kidney, and pancreas. Expression of BLNK proteins
+was detected only in B-cell lines.
+
+Wienands et al. (1998) independently cloned BLNK, which they called
+SLP65.
+
+GENE FUNCTION
+
+Fu et al. (1998) showed that BLNK interfaces the B-cell receptor
+(BCR)-associated SYK tyrosine kinase (600085) with PLC-gamma (172420),
+the VAV guanine nucleotide exchange factor (164875), and the GRB2
+(108355) and NCK (600508) adaptor proteins. Tyrosine phosphorylation of
+BLNK by SYK provides docking sites for these SH2-containing effector
+molecules that, in turn, permits the phosphorylation and/or activation
+of their respective signaling pathways. Thus, BLNK represents a central
+linker protein that bridges the B-cell receptor-associated kinases with
+a multitude of signaling pathways and may regulate biologic outcomes of
+B-cell function and development.
+
+Ishiai et al. (1999) demonstrated that BLNK is essential in activating
+phospholipase C (PLC)-gamma-2 (PLCG2; 600220) and JNK (601158). The
+BCR-induced PLC-gamma-2 activation, but not the JNK activation, was
+restored by introduction of a membrane-associated form of PLC-gamma-2
+into BLNK-deficient B cells. As JNK activation requires both Rac1
+(602048) and PLC-gamma-2, Ishiai et al. (1999) concluded that BLNK
+regulates the Rac1-JNK pathway, in addition to modulating PLC-gamma-2
+localization.
+
+Jumaa et al. (2003) showed that the differentiation regulator SLP65
+inhibits pre-B-cell leukemia in mice. Reconstitution of SLP65 expression
+in an SLP65 -/- pre-B-cell line led to enhanced differentiation in vitro
+and prevented the development of pre-B-cell leukemia in immune-deficient
+mice. Tyrosine-96 of SLP65 was required for this activity. The murine
+knockout SLP65 pre-B-cell leukemia resembles human childhood pre-B ALL.
+Indeed, 16 of the 34 childhood pre-B ALL samples that were tested showed
+a complete loss or drastic reduction of SLP65 expression. Jumaa et al.
+(2003) suggested that this loss is probably due to the incorporation of
+alternative exons into SLP65 transcripts, leading to premature stop
+codons. Thus, Jumaa et al. (2003) concluded that the somatic loss of
+SLP65 and the accompanying block in pre-B-cell differentiation might be
+one of the primary causes of childhood pre-B ALL.
+
+Taguchi et al. (2004) identified a pre-B ALL cell line lacking BLNK
+expression in which stimulation of pre-BCR resulted in an absence of
+phosphorylation of PLCG2 and an increase in intracellular calcium. In
+contrast, activation of MAP kinase (see 602425) and phosphatidylinositol
+3-kinase (see 601232) signaling was not affected. Taguchi et al. (2004)
+concluded that BLNK is essential for PLCG2-induced calcium influx and
+that BLNK-deficient cell lines may provide an in vitro model for
+investigation of the role of BLNK in the pre-B-cell receptor-mediated
+signaling mechanism.
+
+Kohler et al. (2005) found that the leucine zipper in the highly
+conserved N terminus of mouse Slp65 was essential for its association
+with the plasma membrane. Mutation of critical leucines in the zipper
+region abolished membrane association, as demonstrated by flow cytometry
+and immunofluorescence microscopy.
+
+Sprangers et al. (2006) identified defective SLP65 expression in 7 of 28
+cases of pre-B lymphoblastic leukemia and 5 of 27 cases of B-cell
+lymphoma. SLP65 deficiency correlated with RAG1 (179615)/RAG2 (179616)
+expression and unremitting VH gene rearrangement activity.
+Reconstitution of SLP65 expression in SLP65-deficient leukemia and
+lymphoma cell lines resulted in RAG1/RAG2 downregulation and prevented
+de novo VH-DJH rearrangements and secondary VH replacement. Sprangers et
+al. (2006) concluded that iterative VH gene rearrangement represents a
+frequent feature in B-lymphoid malignancy and can be attributed to SLP65
+deficiency in many cases.
+
+GENE STRUCTURE
+
+The BLNK gene comprises 17 exons spread over about 65 kb of DNA
+(Minegishi et al., 1999).
+
+MAPPING
+
+Minegishi et al. (1999) mapped the BLNK gene to chromosome 10q23.2 using
+fluorescence in situ hybridization.
+
+MOLECULAR GENETICS
+
+In a boy with agammaglobulinemia and absent B cells (AGM4; 613502),
+Minegishi et al. (1999) identified a homozygous splice defect in the
+BLNK gene (604515.0001). Although this patient had normal numbers of
+pro-B cells, he had no pre-B cells or mature B cells, indicating that
+BLNK plays a critical role in orchestrating the pro-B cell to pre-B cell
+transition. The patient had developed recurrent otitis at 8 months of
+age; after 2 episodes of pneumonia, he was evaluated for
+immunodeficiency at 16 months of age. At that time, he had no detectable
+serum IgG, IgM, or IgA, and he had less than 1% B cells in the
+peripheral circulation. He was started on gammaglobulin replacement, and
+between 2 and 20 years of age he did well except for chronic otitis and
+sinusitis, hepatitis C acquired from intravenous gammaglobulin, and an
+episode of protein-losing enteropathy in adolescence.
+
+ANIMAL MODEL
+
+Pappu et al. (1999) generated mice deficient in Blnk by targeted
+disruption. B-cell development in Blnk -/- mice was blocked at the
+transition from B220+CD43+ progenitor B to B220+CD43- precursor B cells.
+Only a small percentage of IgM M++, but not mature IgM(lo)IgD(hi), B
+cells were detected in the periphery. Pappu et al. (1999) concluded that
+BLNK is an essential component of the BCR signaling pathways and is
+required to promote B-cell development.
+
+Flemming et al. (2003) showed that both wildtype and Slp65 -/- bone
+marrow-derived B cells required IL7 (146660) for proliferation. In the
+absence of IL7, or by the reintroduction of Slp65, many mutant cells
+expressed surface IgM and downregulated the pre-BCR. Cells lacking both
+the pre-BCR and Slp65 had severely reduced proliferative capacity due to
+a requirement for pre-B-cell receptor signaling leading to Erk (see
+MAPK1; 176948) activation and Slp65 -/- cell survival. Flemming et al.
+(2003) also found that Slp65-deficient mice were significantly more
+likely to develop pre-B-cell lymphoma and solid tumors than were
+wildtype mice. The authors concluded that SLP65 acts as an efficient
+tumor suppressor by accelerating the progression of cells through a
+mutation-prone developmental stage.
+
+Hayashi et al. (2004) showed that anti-DNA Ig knockin mice had impaired
+BCR editing at multiple levels in the absence of Bash. Mice lacking Bash
+also had excessive antibody responses to DNA carrier immunization.
+Hayashi et al. (2004) concluded that BCR-signaled receptor editing
+contributes to establishing B-cell tolerance.
+
+ALLELIC VARIANT .0001
+AGAMMAGLOBULINEMIA 4, AUTOSOMAL RECESSIVE (1 family)
+BLNK, IVS1DS, A-T, +3
+
+In a 20-year-old male with early-onset hypoglobulinemia and absent B
+cells (613502), Minegishi et al. (1999) identified a homozygous
+alteration of the first exon of the BLNK gene and its flanking intronic
+sequence. Two noncontiguous basepair substitutions were identified. The
+first was a C-to-A substitution of the third basepair position in codon
+10, which encoded a silent proline substitution. The second alteration
+was an A-to-T transversion at the +3 position of the splice donor site
+for intron 1, 20 basepairs downstream from the alteration in codon 10.
+SSCP analysis of DNA from 100 unrelated individuals did not reveal the
+same pattern as that of the patient. Minegishi et al. (1999) derived
+cDNA directly from this patient's bone marrow and used RT-PCR analysis
+to examine the abundance of BLNK transcripts. No BLNK transcripts could
+be amplified from the patient's bone marrow. The patient's mother and
+father, who were heterozygous for both basepair substitutions in BLNK,
+were healthy and had normal concentrations of serum immunoglobulins and
+normal numbers of B cells. An older brother developed recurrent otitis
+at 6 months of age and died at 16 months of age of pseudomonas sepsis
+and neutropenia.
+
+REFERENCE 1. Flemming, A.; Brummer, T.; Reth, M.; Jumaa, H.: The adaptor protein
+SLP-65 acts as a tumor suppressor that limits pre-B cell expansion. Nature
+Immun. 4: 38-43, 2003.
+
+2. Fu, C.; Turck, C. W.; Kurosaki, T.; Chan, A. C.: BLNK: a central
+linker protein in B cell activation. Immunity 9: 93-103, 1998.
+
+3. Hayashi, K.; Nojima, T.; Goitsuka, R.; Kitamura, D.: Impaired
+receptor editing in the primary B cell repertoire of BASH-deficient
+mice. J. Immun. 173: 5980-5988, 2004.
+
+4. Ishiai, M.; Kurosaki, M.; Pappu, R.; Okawa, K.; Ronko, I.; Fu,
+C.; Shibata, M.; Iwamatsu, A.; Chan, A. C.; Kurosaki, T.: BLNK required
+for cloning Syk to PLC-gamma-2 and Rac1-JNK in B cells. Immunity 10:
+117-125, 1999.
+
+5. Jumaa, H.; Bossaller, L.; Portugal, K.; Storch, B.; Lotz, M.; Flemming,
+A.; Schrappe, M.; Postila, V.; Riikonen, P.; Pelkonen, J.; Niemeyer,
+C. M.; Reth, M.: Deficiency of the adaptor SLP-65 in pre-B-cell acute
+lymphoblastic leukaemia. Nature 423: 452-456, 2003.
+
+6. Kohler, F.; Storch, B.; Kulathu, Y.; Herzog, S.; Kuppig, S.; Reth,
+M.; Jumaa, H.: A leucine zipper in the N terminus confers membrane
+association to SLP-65. Nature Immun. 6: 204-210, 2005.
+
+7. Minegishi, Y.; Rohrer, J.; Coustan-Smith, E.; Lederman, H. M.;
+Pappu, R.; Campana, D.; Chan, A. C.; Conley, M. E.: An essential
+role for BLNK in human B cell development. Science 286: 1954-1957,
+1999.
+
+8. Pappu, R.; Cheng, A. M.; Li, B.; Gong, Q.; Chiu, C.; Griffin, N.;
+White, M.; Sleckman, B. P.; Chan, A. C.: Requirement for B cell linker
+protein (BLNK) in B cell development. Science 286: 1949-1954, 1999.
+
+9. Sprangers, M.; Feldhahn, N.; Liedtke, S.; Jumaa, H.; Siebert, R.;
+Muschen, M.: SLP65 deficiency results in perpetual V(D)J recombinase
+activity in pre-B-lymphoblastic leukemia and B-cell lymphoma cells. Oncogene 25:
+5180-5186, 2006.
+
+10. Taguchi, T.; Kiyokawa, N.; Takenouch, H.; Matsui, J.; Tang, W.-R.;
+Nakajima, H.; Suzuki, K.; Shiozawa, Y.; Saito, M.; Katagiri, Y. U.;
+Takahashi, T.; Karasuyama, H.; Matsuo, Y.; Okita, H.; Fujimoto, J.
+: Deficiency of BLNK hampers PLC-gamma-2 phosphorylation and Ca(2+)
+influx induced by the pre-B-cell receptor in human pre-B cells. Immunology 112:
+575-582, 2004.
+
+11. Wienands, J.; Schweikert, J.; Wollscheid, B.; Jumaa, H.; Nielsen,
+P. J.; Reth, M.: SLP-65: a new signaling component in B lymphocytes
+which requires expression of the antigen receptor for phosphorylation. J.
+Exp. Med. 188: 791-795, 1998.
+
+CONTRIBUTORS Paul J. Converse - updated: 12/6/2006
+Paul J. Converse - updated: 10/5/2006
+Paul J. Converse - updated: 5/2/2006
+Paul J. Converse - updated: 1/28/2005
+Ada Hamosh - updated: 5/28/2003
+Paul J. Converse - updated: 11/20/2002
+
+CREATED Ada Hamosh: 2/8/2000
+
+EDITED carol: 05/01/2013
+ckniffin: 5/1/2013
+carol: 8/3/2010
+ckniffin: 7/29/2010
+mgross: 12/6/2006
+joanna: 10/25/2006
+mgross: 10/24/2006
+terry: 10/5/2006
+mgross: 5/4/2006
+terry: 5/2/2006
+mgross: 1/28/2005
+joanna: 3/17/2004
+alopez: 5/28/2003
+terry: 5/28/2003
+alopez: 1/9/2003
+mgross: 11/20/2002
+alopez: 7/18/2001
+alopez: 2/8/2000
+
+611246	TITLE *611246 LEUCINE CARBOXYL METHYLTRANSFERASE 2; LCMT2
+;;tRNA-WYBUTOSINE-SYNTHESIZING PROTEIN 4, S. CEREVISIAE, HOMOLOG OF;
+TYW4;;
+tRNA-YW-SYNTHESIZING PROTEIN 4, S. CEREVISIAE, HOMOLOG OF;;
+KIAA0547
+DESCRIPTION 
+DESCRIPTION
+
+Wybutosine (yW) is a hypermodified guanosine at the 3-prime position
+adjacent to the anticodon of phenylalanine tRNA that stabilizes
+codon-anticodon interactions during decoding on the ribosome. LCMT2 is
+the human homolog of a yeast gene essential for yW synthesis (Noma and
+Suzuki, 2006).
+
+CLONING
+
+By sequencing clones obtained from a brain cDNA library, Nagase et al.
+(1998) cloned LCMT2, which they designated KIAA0547. The transcript
+contains several repetitive elements in its 3-prime UTR, and the deduced
+protein contains 686 amino acids. RT-PCR detected LCMT2 expression in
+kidney only. In vitro-translated LCMT3 had an apparent molecular mass of
+61 kD by SDS-PAGE.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the LCMT2 gene
+to chromosome 4. However, Hartz (2013) mapped the LCMT2 gene to
+chromosome 15q15.3 based on an alignment of the LCMT2 sequence (GenBank
+GENBANK AF265443) with the genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  6/3/2013.
+
+2. Nagase, T.; Ishikawa, K.; Miyajima, N.; Tanaka, A.; Kotani, H.;
+Nomura, N.; Ohara, O.: Prediction of the coding sequences of unidentified
+human genes. IX. The complete sequences of 100 new cDNA clones from
+brain which can code for large proteins in vitro. DNA Res. 5: 31-39,
+1998.
+
+3. Noma, A.; Suzuki, T.: Ribonucleome analysis identified enzyme
+genes responsible for wybutosine synthesis. Nucleic Acids Symp. Ser. 50:
+65-66, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 06/03/2013
+
+CREATED Patricia A. Hartz: 7/24/2007
+
+EDITED mgross: 06/03/2013
+mgross: 7/24/2007
+
+137170	TITLE *137170 GAMMA-GLUTAMYL CYCLOTRANSFERASE; GGCT
+;;GLUTAMYLCYCLOTRANSFERASE, GAMMA; GCTG;;
+CHROMOSOME 7 OPEN READING FRAME 24; C7ORF24;;
+CYTOCHROME c-RELEASING FACTOR, 21-KD; CRF21
+DESCRIPTION 
+DESCRIPTION
+
+GGCT (EC 2.3.2.4) catalyzes the formation of 5-oxoproline (pyroglutamic
+acid) from gamma-glutamyl dipeptides and may play a significant role in
+glutathione homeostasis (Oakley et al., 2008).
+
+CLONING
+
+By mass spectrometric analysis of peptides obtained from an
+apoptosis-inducing protein, followed by database analysis and RT-PCR of
+total RNA from a human leukemia cell line, Masuda et al. (2006) cloned
+GGCT, which they called CRF21. SDS-PAGE detected purified CRF21 at an
+apparent molecular mass of 21 kD.
+
+Using tryptic peptides obtained from GGCT partially purified from
+expired human red blood cells for database analysis, Oakley et al.
+(2008) obtained a full-length GGCT cDNA. The deduced 188-amino acid
+protein has a calculated molecular mass of 21 kD. EST database analysis
+revealed moderate GGCT expression in a wide range of human tissues, with
+highest levels in bladder and salivary gland. Database analysis
+identified GGCT orthologs in a range of species from C. elegans to
+mammals, but not in plants.
+
+GENE FUNCTION
+
+Geranylgeraniol (GGO) induces apoptosis in human tumor cell lines
+through a mitochondria-dependent pathway that includes cytochrome c
+release. Masuda et al. (2006) found that GGO was unable to induce
+cytochrome c release from isolated human mitochondria directly, and they
+identified CRF21 as a cytosolic cytochrome c-releasing factor involved
+in GGO-induced apoptosis. Overexpression of CRF21 in HeLa cells induced
+cytochrome c release and apoptosis. Masuda et al. (2006) noted that
+GGO-induced apoptosis was inhibited by a dominant-negative mutation of
+JNK (MAPK8; 601158) that impeded JNK signaling, suggesting involvement
+of JNK and CRF21 in GGO-induced apoptosis.
+
+Oakley et al. (2008) confirmed that recombinant human GGCT used
+gamma-glutamyl-L-alanine as its substrate. The enzymatic kinetics were
+similar to those of GGCT purified from human erythrocytes.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Oakley et al. (2008) determined the crystal structure of recombinant
+human GGCT to 2.4-angstrom resolution. GGCT adopted a mixed alpha/beta
+topology with 6 beta stands, 5 alpha helices, and 4 short 3(10) helices,
+and it assumed a unique structural fold that the authors termed a GGCT
+fold. GGCT formed dimers, and each monomer featured an invagination that
+Oakley et al. (2008) proposed was the active site. The site was lined
+with hydrophilic and amphipathic residues, including a conserved glu98
+that appeared to function as a general acid/base in the reaction.
+Mutation of glu98 to ala or gln did not alter the structural fold, but
+it completely inactivated the enzyme. Mutation analysis showed that
+gly23 and tyr105 also contributed to substrate binding interactions.
+
+GENE STRUCTURE
+
+Oakley et al. (2008) determined that the GGCT gene contains 5 exons and
+spans 8 kb.
+
+MAPPING
+
+Bissbort et al. (1984) assigned the GGCT gene to chromosome 7pter-p14 by
+somatic cell hybrid studies.
+
+By genomic sequence analysis, Oakley et al. (2008) mapped the GGCT gene
+to chromosome 7p15-p14. They identified putative GGCT pseudogenes on
+chromosomes 5 and 20. Oakley et al. (2008) noted that the mouse Ggct
+gene maps to a region of chromosome 6 that shares homology of synteny
+with human chromosome 7p15-p14.
+
+REFERENCE 1. Bissbort, S.; Bender, K.; Grzeschik, K. H.: Assignment of the
+human gene for gamma-glutamyl-cyclo-transferase (GCTG) to chromosome
+7p. (Abstract) Cytogenet. Cell Genet. 37: 442 only, 1984.
+
+2. Masuda, Y.; Maeda, S.; Watanabe, A.; Sano, Y.; Aiuchi, T.; Nakajo,
+S.; Itabe, H.; Nakaya, K.: A novel 21-kDa cytochrome c-releasing
+factor is generated upon treatment of human leukemia U937 cells with
+geranylgeraniol. Biochem. Biophys. Res. Commun. 346: 454-460, 2006.
+
+3. Oakley, A. J.; Yamada, T.; Liu, D.; Coggan, M.; Clark, A. G.; Board,
+P. G.: The identification and structural characterization of C7orf24
+as gamma-glutamyl cyclotransferase: an essential enzyme in the gamma-glutamyl
+cycle. J. Biol. Chem. 283: 22031-22042, 2008. Note: Erratum: J.
+Biol. Chem. 283: 32152 only, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/8/2008
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 08/09/2012
+joanna: 12/24/2008
+mgross: 12/9/2008
+terry: 12/8/2008
+mgross: 9/19/2008
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+reenie: 6/4/1986
+
+601896	TITLE *601896 TNF RECEPTOR-ASSOCIATED FACTOR 3; TRAF3
+;;CD40-BINDING PROTEIN; CD40BP;;
+LMP1-ASSOCIATED PROTEIN 1; LAP1;;
+CD40-ASSOCIATED PROTEIN 1; CAP1;;
+CD40 RECEPTOR-ASSOCIATED FACTOR 1; CRAF1
+DESCRIPTION 
+CLONING
+
+CD40 (109535) is a member of the tumor necrosis factor receptor (TNFR)
+family. The short cytoplasmic domain of CD40 contains a region with
+limited homology to the conserved cytosolic death domain of TNFR1
+(191190) and FAS (134637). Using a yeast 2-hybrid assay with the
+cytoplasmic domain of CD40 as bait, Hu et al. (1994) isolated B-cell
+cDNAs encoding a protein that they called CD40-binding protein (CD40bp).
+The predicted CD40bp protein contains a RING finger DNA-binding motif, a
+cys/his-rich region, and a coiled-coil domain. Like TRAF1 (601711) and
+TRAF2 (601895), both TNFR2 (75-kD TNFR; 191191)-binding proteins, CD40bp
+contains a C-terminal TRAF domain. In vitro translated CD40bp has an
+apparent molecular mass of 64 kD. Coimmunoprecipitation studies
+indicated that CD40bp interacts with CD40 in human B cells. Hu et al.
+(1994) suggested that CD40bp, along with TRAF1 and TRAF2, comprise a
+family of proteins that associate with the cytoplasmic faces of the TNFR
+family and have in common a TRAF domain.
+
+Independently, Sato et al. (1995) and Cheng et al. (1995) identified
+CD40bp, designating it CAP1 (CD40-associated protein-1) and CRAF1 (CD40
+receptor-associated factor 1), respectively. Sato et al. (1995)
+demonstrated that CAP1 binds specifically to the cytoplasmic domain of
+CD40, but not to that of TNFR1, TNFR2, or FAS. The C-terminal TRAF
+domain of CAP1 was sufficient to mediate binding to CD40 and
+homodimerization. Cheng et al. (1995) isolated mouse and human CRAF1
+cDNAs. The predicted 568-amino acid human protein is 96% identical to
+mouse CRAF1. These authors divided the TRAF domain into 2 regions:
+TRAF-N, the more N-terminal coiled-coil subdomain, and TRAF-C, which was
+necessary and sufficient for CRAF1 to interact with CD40. Overexpression
+of a truncated cDNA encoding the entire TRAF domain of CRAF1 inhibited
+CD40-mediated upregulation of the CD23 (151445) gene, which suggested to
+Cheng et al. (1995) that CRAF1 participates in CD40 signaling.
+
+MAPPING
+
+Gross (2012) mapped the TRAF3 gene to chromosome 14q32.32 based on an
+alignment of the TRAF3 sequence (GenBank GENBANK BC075086) with the
+genomic sequence (GRCh37).
+
+GENE FUNCTION
+
+The cytoplasmic C terminus of the Epstein-Barr virus latent infection
+membrane protein-1 (LMP1) is essential for B lymphocyte growth
+transformation. LMP1 is an integral membrane protein that has
+transforming effects in nonlymphoid cells, and may act by constitutively
+activating a common cellular growth factor receptor pathway. Mosialos et
+al. (1995) found that CD40bp, which they called LAP1 (LMP1-associated
+protein-1), interacted with the LMP1 C-terminal domain. Expression of
+LMP1 caused LAP1 and TRAF1 (EBI6) to localize to LMP1 clusters in
+lymphoblast plasma membranes, and LMP1 coimmunoprecipitated with these
+proteins in cell extracts. LAP1 bound to the cytoplasmic domains of CD40
+and LT-beta-R (600979) in vitro, and associated with p80 (TNFR2) in
+vivo. Northern blot analysis revealed that LAP1 was expressed as a
+full-length 2.8-kb mRNA and an alternatively spliced 1.8-kb mRNA in all
+tissues tested. Mosialos et al. (1995) concluded that the interaction of
+LAP1 with LMP1 and with the cytoplasmic domains of TNFR family members
+is evidence for a central role of this protein as an effector of cell
+growth or death signaling pathways.
+
+Dadgostar et al. (2003) determined that the coiled-coil domain of mouse
+T3jam (608255) interacted with the isoleucine zipper domain of Traf3.
+T3jam did not associate with other Traf family members. Coexpression of
+T3jam and Traf3 recruited Traf3 to the detergent-insoluble fraction, and
+T3jam and Traf3 synergistically activated JNK (601158), but not nuclear
+factor kappa-B (see 164011).
+
+To dissect biochemically Toll-like receptor signaling, Hacker et al.
+(2006) established a system for isolating signaling complexes assembled
+by dimerized adaptors. Using MyD88 (602170) as a prototypic adaptor,
+they identified TRAF3 as a new component of Toll/interleukin-1 receptor
+signaling complexes that is recruited along with TRAF6 (602355). Using
+myeloid cells from Traf3- and Traf6-deficient mice, Hacker et al. (2006)
+demonstrated that TRAF3 is essential for the induction of type I
+interferons and the antiinflammatory cytokine interleukin-10 (IL10;
+124092), but is dispensable for expression of proinflammatory cytokines.
+In fact, Traf3-deficient cells overproduced proinflammatory cytokines
+owing to defective Il10 production. Despite their structural similarity,
+the functions of TRAF3 and TRAF6 are largely distinct. TRAF3 is also
+recruited to the adaptor TRIF (607601) and is required for marshalling
+the protein kinase TBK1 (604834) into Toll/interleukin-1 receptor
+signaling complexes, thereby explaining its unique role in activation of
+the interferon response.
+
+Oganesyan et al. (2006) demonstrated that cells lacking TRAF3 are
+defective in type I interferon responses activated by several different
+Toll-like receptors. Furthermore, they showed that TRAF3 associates with
+the Toll-like receptor adaptors TRIF and IRAK1 (300283), as well as
+downstream IRF3/7 kinases TBK1 and IKK-epsilon (605048), suggesting that
+TRAF3 serves as a critical link between Toll-like receptor adaptors and
+downstream regulatory kinases important for IRF activation. In addition
+to TLR stimulation, Oganesyan et al. (2006) showed that TRAF3-deficient
+fibroblasts are defective in their type I interferon response to direct
+infection with vesicular stomatitis virus, indicating that TRAF3 is also
+an important component of TLR-independent viral recognition pathways.
+Oganesyan et al. (2006) concluded that TRAF3 is a major regulator of
+type I interferon production and the innate antiviral response.
+
+Production of type I interferon is a critical host defense triggered by
+pattern-recognition receptors (PRRs) of the innate immune system.
+Kayagaki et al. (2007) demonstrated that reduction of DUBA (300713)
+augmented the PRR-induced type I interferon response in transfected
+HEK293 cells, whereas ectopic expression of DUBA had the converse
+effect. DUBA bound TRAF3, an adaptor protein essential for type I
+interferon response. TRAF3 is an E3 ubiquitin ligase that preferentially
+assembled lys63-linked polyubiquitin chains in cotransfection assays.
+DUBA selectively cleaved the lys63-linked polyubiquitin chains on TRAF3,
+resulting in its dissociation from the downstream signaling complex
+containing TBK1. A discrete ubiquitin interaction motif within DUBA was
+required for efficient deubiquitination of TRAF3 and optimal suppression
+of type I interferon. Kayagaki et al. (2007) concluded that their data
+identified DUBA as a negative regulator of innate immune responses.
+
+Cytokine signaling is thought to require assembly of multicomponent
+signaling complexes at cytoplasmic segments of membrane-embedded
+receptors, in which receptor-proximal protein kinases are activated.
+Matsuzawa et al. (2008) reported that, upon ligation, CD40 formed a
+complex containing adaptor molecules TRAF2 and TRAF3,
+ubiquitin-conjugating enzyme UBC13 (UBE2N; 603679), cellular inhibitor
+of apoptosis protein-1 (CIAP1, or BIRC2; 601712) and -2 (CIAP2, or
+BIRC3; 601721), IKK-gamma (IKBKG; 300248), and MEKK1 (MAP3K1; 600982).
+TRAF2, UBC13, and IKK-gamma were required for complex assembly and
+activation of MEKK1 and MAP kinase cascades. However, the kinases were
+not activated unless the complex was translocated from the membrane to
+the cytosol upon CIAP1/CIAP2-induced degradation of TRAF3. Matsuzawa et
+al. (2008) proposed that this 2-stage signaling mechanism may apply to
+other innate immune receptors and may account for spatial and temporal
+separation of MAPK and IKK signaling.
+
+Hu et al. (2013) identified the deubiquitinase OTUD7B (611748) as a
+pivotal regulator of the noncanonical NF-kappa-B pathway. OTUD7B
+deficiency in mice has no appreciable effect on canonical NF-kappa-B
+activation but causes hyperactivation of noncanonical NF-kappa-B. In
+response to noncanonical NF-kappa-B stimuli, OTUD7B binds and
+deubiquitinates TRAF3, thereby inhibiting TRAF3 proteolysis and
+preventing aberrant noncanonical NF-kappa-B activation. Consequently,
+the OTUD7B deficiency results in B-cell hyperresponsiveness to antigens,
+lymphoid follicular hyperplasia in the intestinal mucosa, and elevated
+host-defense ability against an intestinal bacterial pathogen,
+Citrobacter rodentium. Hu et al. (2013) concluded that their findings
+established OTUD7B as a crucial regulator of signal-induced noncanonical
+NF-kappa-B activation, and indicated a mechanism of immune regulation
+that involves OTUD7B-mediated deubiquitination and stabilization of
+TRAF3.
+
+MOLECULAR GENETICS
+
+Braggio et al. (2009) identified biallelic inactivation of TRAF3 in 3
+(5.3%) of 57 Waldenstrom macroglobulinemia (WM; see 153600) samples.
+TRAF3 inactivation was associated with transcriptional activation of
+NF-kappa-B (NFKB1; 164011). In addition, 1 of 24 patients with a 6q
+deletion had an inactivating somatic mutation in TNFAIP3 (191163),
+another negative regulator of NF-kappa-B. Monoallelic deletions of
+chromosome 6q23, including the TNFAIP3 gene, were identified in 38% of
+patients, suggesting that haploinsufficiency can predispose to the
+development of WM. The results indicated that mutational activation of
+the NF-kappa-B pathway plays a role in the pathogenesis of WM.
+
+Perez de Diego et al. (2010) investigated an 18-year-old French female
+who had suffered from herpes simplex encephalitis (HSE; 614849) at age 4
+years and who lacked mutations in either the UNC93B1 (608204) or TLR3
+(603029) genes. They identified a heterozygous C-to-T substitution at
+position 352 in exon 4 of the TRAF3 gene, resulting in a nonconservative
+missense change, arg118 to trp (R118W; 601896.0001). The mutation was
+not found in her parents or brothers, and none had a history of HSE.
+RT-PCR analysis of the patient's cells detected normal levels of TRAF3
+mRNA, but Western blot analysis showed severely reduced levels of TRAF3
+protein. Responsiveness to TLR3 agonists was impaired, as indicated by
+deficient NFKB activation and poor production of IFNB (147640), IFNL
+(IL29; 607403), and IL6 (147620). Expression of wildtype and mutant
+alleles in cell lines showed that the mutant was dominant-negative.
+TRAF3-deficient fibroblasts had impaired type I and type III
+IFN-dependent control of viruses and deficient responses through the
+TNFR (e.g., TNFRSF5; 109535) pathways. Perez de Diego et al. (2010)
+concluded that, whereas complete Traf3 deficiency is neonatal lethal in
+mice, decreases in TRAF3 production and function result in
+predisposition to HSE, a condition that is usually fatal if untreated.
+
+ALLELIC VARIANT .0001
+HERPES SIMPLEX ENCEPHALITIS, SUSCEPTIBILITY TO, 3
+TRAF3, ARG118TRP
+
+Perez de Diego et al. (2010) reported a female French patient with
+herpes simplex encephalitis (HSE; 614849) at age 4 years who was healthy
+without prophylaxis and showed normal resistance to other infectious
+diseases, including other herpesvirus family members, at age 18 years.
+They identified a de novo heterozygous 352C-T transition in exon 4 of
+the TRAF3 gene, resulting in an arg118-to-trp (R118W) substitution, in
+this patient, whose HSE was successfully treated with acyclovir for 3
+weeks.
+
+REFERENCE 1. Braggio, E.; Keats, J. J.; Leleu, X.; Van Wier, S.; Jimenez-Zepeda,
+V. H.; Valdez, R.; Schop, R. F. J.; Price-Troska, T.; Henderson, K.;
+Sacco, A.; Azab, F.; Greipp, P.; and 11 others: Identification
+of copy number abnormalities and inactivating mutations in two negative
+regulators of nuclear factor-kappa-B signaling pathways in Waldenstrom's
+macroglobulinemia. Cancer Res. 69: 3579-3588, 2009.
+
+2. Cheng, G.; Cleary, A. M.; Ye, Z.; Hong, D. I.; Lederman, S.; Baltimore,
+D.: Involvement of CRAF1, a relative of TRAF, in CD40 signaling. Science 267:
+1494-1498, 1995.
+
+3. Dadgostar, H.; Doyle, S. E.; Shahangian, A.; Garcia, D. E.; Cheng,
+G.: T3JAM, a novel protein that specifically interacts with TRAF3
+and promotes the activation of JNK. FEBS Lett. 553: 403-407, 2003.
+
+4. Gross, M. B.: Personal Communication. Baltimore, Md.  10/5/2012.
+
+5. Hacker, H.; Redecke, V.; Blagoev, B.; Kratchmarova, I.; Hsu, L.-C.;
+Wang, G. G.; Kamps, M. P.; Raz, E.; Wagner, H.; Hacker, G.; Mann,
+M.; Karin, M.: Specificity in Toll-like receptor signalling through
+distinct effector functions of TRAF3 and TRAF6. Nature 439: 204-207,
+2006.
+
+6. Hu, H.; Brittain, G. C.; Chang, J.-H.; Puebla-Osorio, N.; Jin,
+J.; Zal, Z.; Xiao, Y.; Cheng, X.; Chang, M.; Fu, Y.-X.; Zal, T.; Zhu,
+C.; Sun, S.-C.: OTUD7B controls noncanonical NF-kappa-B activation
+through deubiquitination of TRAF3. Nature 494: 371-374, 2013.
+
+7. Hu, H. M.; O'Rourke, K.; Boguski, M. S.; Dixit, V. M.: A novel
+RING finger protein interacts with the cytoplasmic domain of CD40. J.
+Biol. Chem. 269: 30069-30072, 1994.
+
+8. Kayagaki, N.; Phung, Q.; Chan, S.; Chaudhari, R.; Quan, C.; O'Rourke,
+K. M.; Eby, M.; Pietras, E.; Cheng, G.; Bazan, J. F.; Zhang, Z.; Arnott,
+D.; Dixit, V. M.: DUBA: a deubiquitinase that regulates type I interferon
+production. Science 318: 1628-1632, 2007.
+
+9. Matsuzawa, A.; Tseng, P.-H.; Vallabhapurapu, S.; Luo, J.-L.; Zhang,
+W.; Wang, H.; Vignali, D. A. A.; Gallagher, E.; Karin, M.: Essential
+cytoplasmic translocation of a cytokine receptor-assembled signaling
+complex. Science 321: 663-668, 2008. Note: Erratum: Science 322:
+375 only, 2008.
+
+10. Mosialos, G.; Birkenbach, M.; Yalamanchili, R.; VanArsdale, T.;
+Ware, C.; Kieff, E.: The Epstein-Barr virus transforming protein
+LMP1 engages signaling proteins for the tumor necrosis factor receptor
+family. Cell 80: 389-399, 1995.
+
+11. Oganesyan, G.; Saha, S. K.; Guo, B.; He, J. Q.; Shahangian, A.;
+Zarnegar, B.; Perry, A.; Cheng, G.: Critical role of TRAF3 in the
+Toll-like receptor-dependent and -independent antiviral response. Nature 439:
+208-211, 2006.
+
+12. Perez de Diego, R.; Sancho-Shimizu, V.; Lorenzo, L.; Puel, A.;
+Plancoulaine, S.; Picard, C.; Herman, M.; Cardon, A.; Durandy, A.;
+Bustamante, J.; Vallabhapurapu, S.; Bravo, J.; and 12 others: Human
+TRAF3 adaptor molecule deficiency leads to impaired Toll-like receptor
+3 response and susceptibility to herpes simplex encephalitis. Immunity 33:
+400-411, 2010.
+
+13. Sato, T.; Irie, S.; Reed, J. C.: A novel member of the TRAF family
+of putative signal transducing proteins binds to the cytoplasmic domain
+of CD40. FEBS Lett. 358: 113-118, 1995.
+
+CONTRIBUTORS Ada Hamosh - updated: 3/21/2013
+Matthew B. Gross - updated: 10/5/2012
+Paul J. Converse - updated: 10/4/2012
+Cassandra L. Kniffin - updated: 1/15/2010
+Paul J. Converse - updated: 8/28/2008
+Ada Hamosh - updated: 5/7/2008
+Ada Hamosh - updated: 5/1/2006
+Patricia A. Hartz - updated: 11/13/2003
+Rebekah S. Rasooly - updated: 6/11/1999
+
+CREATED Lori M. Kelman: 3/20/1997
+
+EDITED alopez: 04/02/2013
+terry: 3/21/2013
+joanna: 12/7/2012
+mgross: 10/5/2012
+terry: 10/4/2012
+wwang: 1/15/2010
+ckniffin: 12/22/2009
+alopez: 11/18/2008
+mgross: 8/28/2008
+terry: 8/28/2008
+alopez: 5/7/2008
+wwang: 4/23/2008
+alopez: 5/3/2006
+terry: 5/1/2006
+mgross: 11/13/2003
+alopez: 6/11/1999
+carol: 6/18/1998
+mark: 9/9/1997
+alopez: 8/1/1997
+alopez: 7/23/1997
+
+601873	TITLE *601873 BETA-1,4-N-ACETYLGALACTOSAMINYLTRANSFERASE 1; B4GALNT1
+;;BETA-1,4-N-ACETYLGALACTOSAMINYLTRANSFERASE; GALGT;;
+GalNAcT;;
+GM2/GD2 SYNTHASE
+DESCRIPTION 
+DESCRIPTION
+
+The B4GALNT1 gene encodes beta-1,4-N-acetylgalactosaminyl transferase-1
+(EC 2.4.1.92), an enzyme involved in the biosynthesis of complex
+gangliosides (G), which are mono- (M), di- (D), and tri- (T) sialic
+acid-containing glycosphingolipids generated by sequential
+glycosylations. Gangliosides are part of the larger family of
+glycosphingolipids and are components of the synaptic plasma membrane
+involved in synaptic plasticity, signal transduction, and endocytosis
+and then are critical for central nervous system development. B4GALNT1
+catalyzes the transfer of N-acetylgalactosamine into GM3, GD3, and
+globotriaosylceramide by a beta-1,4 linkage (summary by Boukhris et al.,
+2013).
+
+CLONING
+
+Nagata et al. (1992) used expression cloning to isolate the cDNA for
+beta-1,4-N-acetylgalactosaminyltransferase (GalNAcT), or G(M2)/G(D2)
+synthase. The cDNA encodes a 561-amino acid polypeptide. Northern blot
+analysis revealed that the gene is expressed as 2 differently sized
+transcripts in all cells tested that expressed G(MS), G(D2), or both.
+These findings indicate that the cDNAs catalyze the transfer of GalNAc
+into G(M3) and G(D3) by a beta-1,4 linkage, resulting in the synthesis
+of G(M2) and G(D2), respectively.
+
+GENE STRUCTURE
+
+Furukawa et al. (1996) examined the genomic structure of the human
+GalNAcT gene and found that it contains more than 11 exons spanning over
+8 kb of genomic DNA. They reported that the gene has at least 3 distinct
+transcription initiation sites that may be involved in cell
+type-specific gene expression.
+
+MAPPING
+
+By FISH, Furukawa et al. (1996) mapped the GALGT gene to 12q13.3. Hamlin
+et al. (1998) mapped the GALGT and KIF5A (602821) genes to 12q13 by
+FISH. They found that these genes are contained within the same
+approximately 200-kb YAC insert as the GLI (165220) and DDIT3 (126337)
+genes.
+
+MOLECULAR GENETICS
+
+By exome sequencing of 5 families with autosomal recessive spastic
+paraplegia-26 (SPG26; 609195), Boukhris et al. (2013) identified 5
+different homozygous mutations in the B4GALNT1 gene. The mutations
+segregated with the disorder in the families and were not found in large
+control databases. Subsequent analysis of this gene identified
+pathogenic mutations in 2 of 65 additional probands with a similar
+disorder. All mutations were truncating, except for 2 missense mutations
+that occurred at highly conserved residues (see, e.g.,
+601873.0001-601873.0005). No functional studies were performed. The
+phenotype was characterized by onset in the first 2 decades of life of
+gait abnormalities due to lower limb spasticity and muscle weakness.
+Some patients had upper limb involvement. Additional features included
+intellectual disability, peripheral neuropathy, dysarthria, cerebellar
+signs, extrapyramidal signs, and cortical atrophy. The disorder was
+slowly progressive.
+
+ANIMAL MODEL
+
+Takamiya et al. (1996) found that mice with a disrupted B4galnt1 gene
+lacked all complex gangliosides, but did did not show any major
+histologic defects in their nervous systems or in gross behavior.
+Electrophysiologic studies showed a slight reduction in the neural
+conduction velocity from the tibial nerve to the somatosensory cortex,
+but not to the lumbar spine. The findings suggested that complex
+gangliosides are required in neuronal functions, such as synaptic
+transmission, but not in the morphogenesis and organogenesis of the
+brain. Higher levels of GM3 and GD3 expressed in the brains of these
+mutant mice may have been able to compensate for the lack of complex
+gangliosides.
+
+Niemann-Pick disease type C (NPC; 257220) is a progressive
+neurodegenerative disorder caused by mutations in the NPC1 gene (607623)
+and characterized by intracellular accumulation of cholesterol and
+sphingolipids. To determine the relative contribution of ganglioside
+accumulation in the neuropathogenesis of Niemann-Pick C disease, Liu et
+al. (2000) bred NPC model mice with mice carrying a targeted mutation in
+GalNAcT. Unlike the NPC model mice, the double mutant mice did not
+exhibit central nervous system accumulation of gangliosides GM2 or of
+glycolipids GA1 and GA2. Histologic analysis revealed that the
+characteristic neuronal storage pathology of NPC disease was
+substantially reduced in the double mutant mice. By contrast, visceral
+pathology was similar in the NPC and double mutant mice. Most notably,
+the clinical phenotype of the double mutant mice, in the absence of CNS
+ganglioside accumulation and associated neuronal pathology, did not
+improve. The authors concluded that complex ganglioside storage, while
+responsible for much of the neuronal pathology, did not significantly
+influence the clinical phenotype of the NPC model.
+
+ALLELIC VARIANT .0001
+SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE
+B4GALNT1, 1-BP DEL, 395C
+
+In 3 Spanish sibs, born of consanguineous parents, with autosomal
+recessive spastic paraplegia-26 (SPG26; 609195), Boukhris et al. (2013)
+identified a homozygous 1-bp deletion (c.395delC) in the B4GALNT1 gene,
+resulting in a frameshift and premature termination (Pro132GlnfsTer7).
+The mutation, which was found by exome sequencing, segregated with the
+disorder in the family and was not present in several large control
+databases.
+
+.0002
+SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE
+B4GALNT1, ARG228TER
+
+In 2 Brazilian sibs with SPG26 (609195), Boukhris et al. (2013)
+identified a homozygous c.682C-T transition in the B4GALNT1 gene,
+resulting in an arg228-to-ter (R228X) substitution. The mutation, which
+was found by exome sequencing, was not present in several large control
+databases or in 2 unaffected sibs. Three additional sibs were reportedly
+affected.
+
+.0003
+SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE
+B4GALNT1, 1-BP DUP, 263G
+
+In an Algerian patient, born of consanguineous parents, with SPG26
+(609195), Boukhris et al. (2013) identified a homozygous 1-bp
+duplication (c.263dupG), resulting in a frameshift and premature
+termination (Leu89ProfsTer13). No other family members were available
+for study.
+
+.0004
+SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE
+B4GALNT1, GLN120TER
+
+In 4 members of a Portuguese family with SPG26 (609195), Boukhris et al.
+(2013) identified a homozygous c.358C-T transition in the B4GALNT1 gene,
+resulting in a gln120-to-ter (Q120X) substitution. The mutation, which
+was found by exome sequencing and was not present in several large
+control databases, segregated with the disorder in the family.
+
+.0005
+SPASTIC PARAPLEGIA 26, AUTOSOMAL RECESSIVE
+B4GALNT1, ASP433ALA
+
+In 3 German sibs with SPG26 (609195), Boukhris et al. (2013) identified
+a homozygous c.1298A-C transversion in the B4GALNT1 gene, resulting in
+an asp433-to-ala (D433A) substitution at a highly conserved residue. The
+mutation, which was found by exome sequencing, was not found in several
+large control databases and segregated with the disorder.
+
+REFERENCE 1. Boukhris, A.; Schule, R.; Loureiro, J. L.; Lourenco, C. M.; Mundwiller,
+E.; Gonzalez, M. A.; Charles, P.; Gauthier, J.; Rekik, I.; Acosta
+Lebrigio, R. F.; Gaussen, M.; Speziani, F.; and 21 others: Alteration
+of ganglioside biosynthesis responsible for complex hereditary spastic
+paraplegia. Am. J. Hum. Genet. 93: 118-123, 2013.
+
+2. Furukawa, K.; Soejima, H.; Niikawa, N.; Shiku, H.; Furukawa, K.
+: Genomic organization and chromosomal assignment of the human beta-1,4-N-acetylgalactosaminyltransferase
+gene. J. Biol. Chem. 271: 20836-20844, 1996.
+
+3. Hamlin, P. J.; Jones, P. F.; Leek, J. P.; Bransfield, K.; Lench,
+N. J.; Aldersley, M. A.; Howdle, P. D.; Markham, A. F.; Robinson,
+P. A.: Assignment of GALGT encoding beta-1,4N-acetylgalactosaminyl-transferase
+(GalNAc-T) and KIF5A encoding neuronal kinesin (D12S1889) to human
+chromosome band 12q13 by assignment to ICI YAC 26EG10 and in situ
+hybridization. Cytogenet. Cell Genet. 82: 267-268, 1998.
+
+4. Liu, Y.; Wu, Y.-P.; Wada, R.; Neufeld, E. B.; Mullin, K. A.; Howard,
+A. C.; Pentchev, P. G.; Vanier, M. T.; Suzuki, K.; Proia, R. L.:
+Alleviation of neuronal ganglioside storage does not improve the clinical
+course of the Niemann-Pick C disease mouse. Hum. Molec. Genet. 9:
+1087-1092, 2000.
+
+5. Nagata, Y.; Yamashiro, S.; Yodoi, J.; Lloyd, K. O.; Shiku, H.;
+Furukawa, K.: Expression cloning of beta-1,4-N-acetylgalactosaminyltransferase
+cDNAs that determine the expression of G(M2) and G(D2) gangliosides. J.
+Biol. Chem. 267: 12082-12089, 1992. Note: Erratum: J. Biol. Chem.
+269: 7045 only, 1994.
+
+6. Takamiya, K.; Yamamoto, A.; Furukawa, K.; Yamashiro, S.; Shin,
+M.; Okada, M.; Fukumoto, S.; Haraguchi, M.; Takeda, N.; Fujimura,
+K.; Sakae, M.; Kishikawa, M.; Shiku, H.; Furukawa, K.; Aizawa, S.
+: Mice with disrupted GM2/GD2 synthase gene lack complex gangliosides
+but exhibit only subtle defects in their nervous system. Proc. Nat.
+Acad. Sci. 93: 10662-10667, 1996.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/1/2013
+George E. Tiller - updated: 5/12/2000
+Patti M. Sherman - updated: 2/18/2000
+
+CREATED Jennifer P. Macke: 4/10/1997
+
+EDITED carol: 09/09/2013
+carol: 8/6/2013
+carol: 8/5/2013
+ckniffin: 8/1/2013
+carol: 4/3/2013
+carol: 6/16/2006
+carol: 11/14/2003
+carol: 3/13/2003
+alopez: 5/12/2000
+mgross: 2/25/2000
+psherman: 2/18/2000
+carol: 6/16/1998
+alopez: 1/28/1998
+
+146680	TITLE *146680 INSULIN-DEGRADING ENZYME; IDE
+;;INSULYSIN;;
+INSULINASE
+DESCRIPTION 
+DESCRIPTION
+
+Insulin-degrading enzyme (EC 3.4.24.56), also known as insulysin, is a
+110-kD neutral metallopeptidase that can degrade a number of peptides,
+including insulin (176730) and beta-amyloid (104760) (Qiu et al., 1998).
+
+CLONING
+
+Affholter et al. (1988) isolated and sequenced a cDNA coding for IDE.
+The deduced amino acid sequence of the enzyme contained the sequences of
+13 peptides derived from the isolated protein. The cDNA transcribed in
+vitro yielded a synthetic RNA that in cell-free translations produced a
+protein that coelectrophoresed with the native proteinase and could be
+immunoprecipitated with monoclonal antibodies to IDE. Since the deduced
+sequence of this proteinase did not contain the consensus sequences for
+any of the known classes of proteinases (i.e., metallo, cysteine,
+aspartic, or serine), it may be a member of a family of proteases that
+are involved in intercellular peptide signaling. It did show homology to
+an Escherichia coli proteinase (called protease III), which also cleaves
+insulin and is present in the periplasmic space; thus, they may be
+members of the same family of proteases.
+
+GENE FUNCTION
+
+Qiu et al. (1998) determined that the extracellular thiol
+metalloprotease capable of degrading amyloid-beta protein identified by
+Qiu et al. (1997) is the same as IDE. By Western blot analysis, they
+found a full-length 110-kD IDE band in the CSF of normal individuals and
+of patients with Alzheimer disease (AD; 104300) or non-Alzheimer
+dementia. They found no difference in IDE levels of the normal and
+patient populations. By biochemical analysis of IDE purified from the
+medium of a mouse microglial cell line, they determined that IDE could
+degrade both endogenous and synthetic amyloid-beta protein and that it
+could catalyze the oligomerization of this protein.
+
+Through a series of inhibitor studies, in vitro translation, and
+biochemical assays of rat IDE expressed by transfected human kidney
+cells, Edbauer et al. (2002) determined that IDE may be the protease
+responsible for the clearance of the cytoplasmic fragment of the
+amyloid-beta precursor protein (APP) following liberation of the
+amyloid-beta protein.
+
+IDE has a preferential affinity for insulin such that the presence of
+insulin will inhibit IDE-mediated degradation of other substances,
+including beta-amyloid. Cook et al. (2003) found that hippocampal IDE
+levels were reduced by approximately 50% in AD patients with the APOE4
+(107741) allele compared to AD patients without the APOE4 allele and to
+controls with or without the APOE4 allele. The findings suggested that
+reduced IDE expression may be a risk factor for AD, and that IDE may
+interact with APOE status to affect beta-amyloid metabolism.
+
+Varicella-zoster virus (VZV) causes chickenpox and shingles. While
+varicella is likely spread as cell-free virus to susceptible hosts, the
+virus is transmitted by cell-to-cell spread in the body and in vitro. Li
+et al. (2006) found that the extracellular domain of IDE interacted with
+VZV glycoprotein E (gE), a protein essential for viral infection.
+Downregulation of IDE by small interfering RNA or blocking IDE with
+antibody, with soluble IDE protein extracted from liver, or with
+bacitracin inhibited VZV infection. Cell-to-cell spread of virus was
+also impaired by blocking IDE. Transfection of cell lines impaired for
+VZV infection with a plasmid expressing human IDE resulted in increased
+entry and enhanced infection with cell-free and cell-associated virus.
+Li et al. (2006) concluded that IDE is a cellular receptor for both
+cell-free and cell-associated VZV.
+
+MAPPING
+
+Affholter et al. (1990) mapped the IDE gene to human chromosome 10 and
+mouse chromosome 19 by hybridization of cDNA probes to human-rodent or
+mouse-hamster somatic cell hybrids, respectively. By a combination of
+somatic cell hybrid analysis and in situ hybridization, Espinosa et al.
+(1991) localized the IDE gene to 10q23-q25.
+
+MOLECULAR GENETICS
+
+For a discussion of a possible association between variation in the IDE
+gene and late-onset Alzheimer disease, see AD6 (605526), which maps to
+chromosome 10q23-q25.
+
+Abraham et al. (2001) analyzed all of the coding exons, untranslated
+regions, and 1,000 bp of 5-prime flanking sequence of IDE by means of
+denaturing HPLC and sequencing. They detected 8 single nucleotide
+polymorphisms (SNPs), of which 3 were found at lower than 5% frequency.
+None of them changed the amino acid sequence. Abraham et al. (2001)
+found no significant association between any individual SNP and
+late-onset AD (LOAD) or with any haplotypes. They concluded that IDE
+does not make a substantial contribution to the etiology of late-onset
+AD and therefore cannot account for the linkage between late-onset AD
+and 10q.
+
+Prince et al. (2003) used a SNP genetic association strategy to
+investigate AD in relation to a 480-kb region encompassing IDE. They
+interpreted the results as providing 'substantial' evidence that genetic
+variation within or very close to IDE impacts both disease risk and
+traits related to the severity of AD.
+
+Risk for LOAD and plasma amyloid-beta levels (APP; 104760), an
+intermediate phenotype for LOAD, show linkage to chromosome 10q.
+Ertekin-Taner et al. (2004) reported pathogenic variants in the 276-kb
+region of 10q harboring the IDE gene that influence intermediate DNA
+phenotypes and risk for AD.
+
+Bian et al. (2004) reported an association between a T/C polymorphism
+(dbSNP rs4646953) in the 5-prime untranslated region of the the IDE
+gene, and AD in Han Chinese patients with the APOE4 allele. They found
+no association between several IDE polymorphisms and AD among patients
+without the E4 allele.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Shen et al. (2006) reported the crystal structure of human IDE in
+complex with 4 substrates, the insulin B chain (see 176730), amyloid
+beta(1-40), amylin (147940), and glucagon (138030). The amino- and
+carboxy-terminal domains of IDE form an enclosed cage just large enough
+to encapsulate insulin. Extensive contacts between these domains keep
+the degradation chamber of IDE inaccessible to substrates. Repositioning
+of the IDE domains enables substrate access to the catalytic cavity. IDE
+uses size and charge distribution of the substrate-binding cavity
+selectively to entrap structurally diverse polypeptides. The enclosed
+substrate undergoes conformational changes to form beta-sheets with 2
+discrete regions of IDE for its degradation. Consistent with this model,
+mutations disrupting the contacts between the amino- and carboxy-termini
+of IDE increase IDE catalytic activity 40-fold.
+
+ANIMAL MODEL
+
+Genetic analysis of the diabetic GK rat has revealed several diabetes
+susceptibility loci (see 125853). Fakhrai-Rad et al. (2000) mapped one
+such locus, NIDDM1B, to a 1-cM region by genetic and pathophysiologic
+characterization of new congenic substrains for the locus. The IDE gene
+was also mapped to this 1-cM region, and 2 amino acid substitutions
+(H18R and A890V) were identified in the GK allele which reduced
+insulin-degrading activity by 31% in transfected cells. However, when
+the H18R and A890V variants were studied separately, no effects were
+observed, suggesting a synergistic effect of the 2 variants on insulin
+degradation. No effect on insulin degradation was observed in cell
+lysates, suggesting that the effect may be coupled to receptor-mediated
+internalization of insulin. Congenic rats with the IDE GK allele
+displayed postprandial hyperglycemia, reduced lipogenesis in fat cells,
+blunted insulin-stimulated glucose transmembrane uptake, and reduced
+insulin degradation in isolated muscle. Analysis of additional rat
+strains demonstrated that the dysfunctional IDE allele was unique to GK
+rats. The authors concluded that IDE plays an important role in the
+diabetic phenotype in GK rats.
+
+Factors that elevate amyloid-beta (104760) peptide levels are associated
+with an increased risk for Alzheimer disease. Insulysin is one of
+several proteases potentially involved in degradation of amyloid-beta,
+based on its hydrolysis of amyloid-beta peptides in vitro. In an
+insulysin-deficient gene-trap mouse model, Miller et al. (2003) found
+that in vivo levels of brain A-beta-40 and A-beta-42 peptides were
+increased significantly. A 6-fold increase in the level of the
+gamma-secretase-generated C-terminal fragment of the A-beta precursor
+protein also was found in the insulysin-deficient mouse. In mice
+heterozygous for the insulysin gene trap, in which insulysin activity
+levels were decreased approximately 50%, brain A-beta peptides were
+increased to levels intermediate between those in wildtype mice and
+homozygous insulysin gene-trap mice that had no detectable insulysin
+activity. These findings indicated that there is an inverse correlation
+between in vivo insulysin activity levels and brain A-beta peptide
+levels and suggested that modulation of insulysin activity may alter the
+risk for Alzheimer disease.
+
+Farris et al. (2003) generated mice deficient in IDE by targeted
+disruption. Ide deficiency resulted in a greater than 50% decrease in
+amyloid-beta degradation in both membrane fractions and primary neuronal
+cultures and a similar deficit in insulin degradation in liver. The
+Ide-null mice showed increased cerebral accumulation of endogenous
+amyloid-beta, a hallmark of Alzheimer disease, and had hyperinsulinemia
+and glucose intolerance (see 176730), hallmarks of type II diabetes.
+Moreover, the mice had elevated levels of the intracellular signaling
+domain of the beta-amyloid precursor protein, which had recently been
+found to be degraded by IDE in vitro. Farris et al. (2003) concluded
+that, together with emerging genetic evidence, their in vivo findings
+suggest that IDE hypofunction may underlie or contribute to some forms
+of Alzheimer disease and type II diabetes and provide a mechanism for
+the recognized association among hyperinsulinemia, diabetes, and
+Alzheimer disease.
+
+Leissring et al. (2003) found that developmentally delayed,
+neuron-specific overexpression of Ide or neprilysin (MME; 120520) in
+mice significantly reduced brain beta-amyloid levels, retarded or
+prevented amyloid plaque formation and its associated cytopathology, and
+rescued the premature lethality in APP transgenic mice. They concluded
+that chronic upregulation of beta-amyloid-degrading proteases may combat
+Alzheimer-type pathology in vivo.
+
+REFERENCE 1. Abraham, R.; Myers, A.; Wavrant-DeVrieze, F.; Hamshere, M. L.;
+Thomas, H. V.; Marshall, H.; Compton, D.; Spurlock, G.; Turic, D.;
+Hoogendoorn, B.; Kwon, J. M.; Petersen, R. C.; and 12 others: Substantial
+linkage disequilibrium across the insulin-degrading enzyme locus but
+no association with late-onset Alzheimer's disease. Hum. Genet. 109:
+646-652, 2001.
+
+2. Affholter, J. A.; Fried, V. A.; Roth, R. A.: Human insulin-degrading
+enzyme shares structural and functional homologies with E. coli protease
+III. Science 242: 1415-1418, 1988.
+
+3. Affholter, J. A.; Hsieh, C.-L.; Francke, U.; Roth, R. A.: Insulin-degrading
+enzyme: stable expression of the human complementary DNA, characterization
+of its protein product, and chromosomal mapping of the human and mouse
+genes. Molec. Endocr. 4: 1125-1135, 1990.
+
+4. Bian, L.; Yang, J. D.; Guo, T. W.; Sun, Y.; Duan, S. W.; Chen,
+W. Y.; Pan, Y. X.; Feng, G. Y.; He, L.: Insulin-degrading enzyme
+and Alzheimer disease: a genetic association study in the Han Chinese. Neurology 63:
+241-245, 2004.
+
+5. Cook, D. G.; Leverenz, J. B.; McMillan, P. J.; Kulstad, J. J.;
+Ericksen, S.; Roth, R. A.; Schellenberg, G. D.; Jin, L.-W.; Kovacina,
+K. S.; Craft, S.: Reduced hippocampal insulin-degrading enzyme in
+late-onset Alzheimer's disease is associated with the apolipoprotein
+E-epsilon-4 allele. Am. J. Path. 162: 313-319, 2003.
+
+6. Edbauer, D.; Willem, M.; Lammich, S.; Steiner, H.; Haass, C.:
+Insulin-degrading enzyme rapidly removes the beta-amyloid precursor
+protein intracellular domain (AICD). J. Biol. Chem. 277: 13389-13393,
+2002.
+
+7. Ertekin-Taner, N.; Allen, M.; Fadale, D.; Scanlin, L.; Younkin,
+L.; Petersen, R. C.; Graff-Radford, N.; Younkin, S. G.: Genetic variants
+in a haplotype block spanning IDE are significantly associated with
+plasma A-beta-42 levels and risk for Alzheimer disease. Hum. Mutat. 23:
+334-342, 2004.
+
+8. Espinosa, R., III; Lemons, R. S.; Perlman, R. K.; Kuo, W.-L.; Rosner,
+M. R.; Le Beau, M. M.: Localization of the gene encoding insulin-degrading
+enzyme to human chromosome 10, bands q23-q25. Cytogenet. Cell Genet. 57:
+184-186, 1991.
+
+9. Fakhrai-Rad, H.; Nikoshkov, A.; Kamel, A.; Fernstrom, M.; Zierath,
+J. R.; Norgren, S.; Luthman, H.; Galli, J.: Insulin-degrading enzyme
+identified as a candidate diabetes susceptibility gene in GK rats. Hum.
+Molec. Genet. 9: 2149-2158, 2000.
+
+10. Farris, W.; Mansourian, S.; Chang, Y.; Lindsley, L.; Eckman, E.
+A.; Frosch, M. P.; Eckman, C. B.; Tanzi, R. E.; Selkoe, D. J.; Guenette,
+S.: Insulin-degrading enzyme regulates the levels of insulin, amyloid
+beta-protein, and the beta-amyloid precursor protein intracellular
+domain in vivo. Proc. Nat. Acad. Sci. 100: 4162-4167, 2003.
+
+11. Leissring, M. A.; Farris, W.; Chang, A. Y.; Walsh, D. M.; Wu,
+X.; Sun, X.; Frosch, M. P.; Selkoe, D. J.: Enhanced proteolysis of
+beta-amyloid in APP transgenic mice prevents plaque formation, secondary
+pathology, and premature death. Neuron 40: 1087-1093, 2003.
+
+12. Li, Q.; Ali, M. A.; Cohen, J. I.: Insulin degrading enzyme is
+a cellular receptor mediating varicella-zoster virus infection and
+cell-to-cell spread. Cell 127: 305-316, 2006.
+
+13. Miller, B. C.; Eckman, E. A.; Sambamurti, K.; Dobbs, N.; Chow,
+K. M.; Eckman, C. B.; Hersh, L. B.; Thiele, D. L.: Amyloid-beta peptide
+levels in brain are inversely correlated with insulysin activity levels
+in vivo. Proc. Nat. Acad. Sci. 100: 6221-6226, 2003.
+
+14. Prince, J. A.; Feuk, L.; Gu, H. F.; Johansson, B.; Gatz, M.; Blennow,
+K.; Brookes, A. J.: Genetic variation in a haplotype block spanning
+IDE influences Alzheimer disease. Hum. Mutat. 22: 363-371, 2003.
+
+15. Qiu, W. Q.; Walsh, D. M.; Ye, Z.; Vekrellis, K.; Zhang, J.; Podlisny,
+M. B.; Rosner, M. R.; Safavi, A.; Hersh, L. B.; Selkoe, D. J.: Insulin-degrading
+enzyme regulates extracellular levels of amyloid beta-protein by degradation. J.
+Biol. Chem. 273: 32730-32738, 1998.
+
+16. Qiu, W. Q.; Ye, Z.; Kholodenko, D.; Seubert, P.; Selkoe, D. J.
+: Degradation of amyloid beta-protein by a metalloprotease secreted
+by microglia and other neural and non-neural cells. J. Biol. Chem. 272:
+6641-6646, 1997.
+
+17. Shen, Y.; Joachimiak, A.; Rosner, M. R.; Tang, W.-J.: Structures
+of human insulin-degrading enzyme reveal a new substrate recognition
+mechanism. Nature 443: 870-874, 2006.
+
+CONTRIBUTORS Stylianos E. Antonarakis - updated: 3/20/2007
+Ada Hamosh - updated: 10/31/2006
+Cassandra L. Kniffin - updated: 9/7/2005
+Patricia A. Hartz - updated: 6/18/2004
+Victor A. McKusick - updated: 5/5/2004
+Victor A. McKusick - updated: 11/19/2003
+Ada Hamosh - updated: 7/24/2003
+Victor A. McKusick - updated: 6/19/2003
+Patricia A. Hartz - updated: 5/24/2002
+Victor A. McKusick - updated: 1/2/2002
+George E. Tiller - updated: 11/17/2000
+
+CREATED Victor A. McKusick: 1/3/1989
+
+EDITED ckniffin: 05/06/2010
+mgross: 9/28/2009
+mgross: 3/20/2007
+alopez: 11/3/2006
+terry: 10/31/2006
+wwang: 9/29/2005
+ckniffin: 9/7/2005
+terry: 3/16/2005
+mgross: 6/24/2004
+terry: 6/18/2004
+tkritzer: 5/7/2004
+terry: 5/5/2004
+tkritzer: 11/21/2003
+terry: 11/19/2003
+carol: 7/24/2003
+terry: 7/24/2003
+alopez: 6/27/2003
+terry: 6/19/2003
+carol: 5/28/2002
+terry: 5/24/2002
+carol: 1/16/2002
+mcapotos: 1/8/2002
+terry: 1/2/2002
+mcapotos: 12/4/2000
+terry: 11/17/2000
+supermim: 3/16/1992
+carol: 2/5/1992
+carol: 10/22/1990
+supermim: 3/20/1990
+ddp: 10/27/1989
+root: 1/3/1989
+
+603129	TITLE *603129 LIM DOMAIN ONLY 4; LMO4
+DESCRIPTION 
+CLONING
+
+The LIM domain, an approximately 55-residue cysteine-rich zinc-binding
+motif, is present in a variety of proteins, including LIM homeobox
+proteins that contain 2 LIM domains and 1 homeodomain. The nuclear
+LIM-only proteins (e.g., LMO2; 180385) lack a DNA-binding homeodomain.
+To identify novel LIM domain transcription factors, Kenny et al. (1998)
+screened 2 mouse embryonic expression libraries using the LIM
+interaction domain of the widely expressed nuclear LIM interactor (NLI,
+or LDB1; 603451), to which the LIM domains of nuclear proteins bind with
+high affinity. They reported the isolation and characterization of LMO4,
+a novel LIM-only gene that is highly expressed in the T-lymphocyte
+lineage, cranial neural crest cells, somite, dorsal limb bud mesenchyme,
+motor neurons, and Schwann cell progenitors. LMO1 (186921), LMO2, and
+LMO4 were found to have distinct expression patterns in adult tissue.
+Mesenchymal and thymic blast cell expression patterns of LMO4 and LMO2
+were consistent with the suggestion that LMO genes inhibit
+differentiation.
+
+Using autologous patient serum to screen a human breast tumor cDNA
+expression library, followed by screening a testis cDNA library,
+Racevskis et al. (1999) cloned LMO4. The 5-prime end of the transcript
+is highly GC rich (74%), with some stretches exceeding 90%, and the
+3-prime UTR contains an RNA destabilization motif. Except for a
+proline-rich N terminus, the deduced 165-amino acid protein is composed
+entirely of 2 tandem LIM domains. The mouse and human LMO4 proteins are
+identical. Northern blot analysis detected LMO4 expression in most human
+tissues analyzed, with highest levels in brain, skeletal muscle, testis,
+and ovary. No expression was detected in liver, kidney, and pancreas.
+The expression pattern was somewhat different than that found in mouse.
+
+Using Northern blot analysis, Wittlin et al. (2003) detected LMO4
+transcripts of about 2.1 and 2.3 kb in normal mammary epithelia and
+breast cancer cell lines. A transcript of about 1.7 kb was also detected
+in the cancer cell lines, but not in normal epithelial cells. The
+variation in transcript size was due to different promoter usage and
+splicing.
+
+GENE FUNCTION
+
+Visvader et al. (2001) explored a role for LMO4, initially described as
+a human breast tumor autoantigen, in developing mammary epithelium and
+breast oncogenesis. The gene was expressed predominantly in the
+lobuloalveoli of the mammary gland during pregnancy. Consistent with a
+role in proliferation, forced expression of this gene inhibited
+differentiation of mammary epithelial cells. Overexpression of LMO4 mRNA
+was observed in 5 of 10 human breast cancer cell lines. Moreover, in
+situ hybridization analysis of 177 primary invasive breast carcinomas
+revealed overexpression of LMO4 in 56% of specimens.
+Immunohistochemistry confirmed overexpression in a high percentage (62%)
+of tumors. These studies implied a role for LMO4 in maintaining
+proliferation of mammary epithelium and suggested that deregulation of
+this gene may contribute to breast tumorigenesis.
+
+Using human and mouse expression plasmids in several protein interaction
+assays, Sum et al. (2002) identified CTIP (604124) and BRCA1 (113705) as
+LMO4-binding proteins. The LMO4-BRCA1 interaction required the
+C-terminal BRCT domains of BRCA1. LDB1 also associated with a complex
+containing LMO4, CTIP, and BRCA1 in transfected human embryonic kidney
+cells. In functional assays, LMO4 repressed BRCA1-mediated
+transcriptional activation in both yeast and mammalian cells.
+
+Wittlin et al. (2003) found that the 2 LMO4 promoters exhibited strong
+activity in breast cancer cell lines that correlated with RNA levels.
+Promoter 2 appeared to be selectively activated in certain breast cancer
+cell lines but not in immortalized human mammary epithelial cells,
+implying aberrant activation of the LMO4 gene in the cancer cell lines.
+
+By mammalian 2-hybrid analysis, Manetopoulos et al. (2003) showed that
+the helix-loop-helix protein HEN1 (162360) interacted with both LMO2 and
+LMO4. LMO4, but not LMO2, could augment HEN1-mediated repression of E47
+(147141) transcriptional activity. LMO4 could also prevent HEN1-mediated
+neurite extension in rat hippocampal precursor cells. Manetopoulos et
+al. (2003) concluded that LMO4 can modulate the transcriptional activity
+of HEN1.
+
+Sum et al. (2005) found that downregulation of LMO4 expression by RNA
+interference reduced proliferation of human breast cancer cells and
+increased differentiation of mouse mammary epithelial cells.
+Furthermore, transfection of small interfering RNA into breast cancer
+cells reduced the capacity of the cells to migrate and invade an
+extracellular matrix. Conversely, overexpression of LMO4 in noninvasive,
+immortalized human breast epithelial cells promoted cell motility and
+invasion. Sum et al. (2005) also found that high nuclear levels of LMO4
+correlated with poor patient outcome in a cohort of 159 primary breast
+cancers. They concluded that deregulation of LMO4 in breast epithelium
+contributes directly to breast neoplasia by altering the rate of
+cellular proliferation and promoting cell invasion.
+
+GENE STRUCTURE
+
+By genomic structure analysis, Tse et al. (1999) determined that the
+mouse Lmo4 gene contains 6 exons, the last 4 of which encode the
+165-amino acid protein.
+
+Wittlin et al. (2003) determined that the LMO4 gene contains 2 5-prime
+noncoding exons, exon 1a and 1b, and exon 2 encodes the first LIM
+domain. Promoter 1, upstream of exon 1a, and promoter 2, upstream of
+exon 1b, lack canonical TATA or CCAAT boxes, but both contain GC-rich
+regions. Promoter 1 also has recognition sites for SP1 (189906) and
+Kruppel-like factors (see KLF1; 600599), and promoter 2 has SP1-like
+recognition elements, GC boxes, and AP2 (107580) sites.
+
+MAPPING
+
+Tse et al. (1999) mapped the mouse Lmo4 gene to chromosome 3 by
+interspecific backcross analysis. Using FISH, they mapped the human LMO4
+gene to 1p22.3, a region that is deleted in a number of human cancers.
+
+REFERENCE 1. Kenny, D. A.; Jurata, L. W.; Saga, Y.; Gill, G. N.: Identification
+and characterization of LMO4, an LMO gene with a novel pattern of
+expression during embryogenesis. Proc. Nat. Acad. Sci. 95: 11257-11262,
+1998.
+
+2. Manetopoulos, C.; Hansson, A.; Karlsson, J.; Jonsson, J.-I.; Axelson,
+H.: The Lim-only protein LMO4 modulates the transcriptional activity
+of HEN1. Biochem. Biophys. Res. Commun. 307: 891-899, 2003.
+
+3. Racevskis, J.; Dill, A.; Sparano, J. A.; Ruan, H.: Molecular cloning
+of LMO4, a new human LIM domain gene. Biochim. Biophys. Acta 1445:
+148-153, 1999.
+
+4. Sum, E. Y. M.; Peng, B.; Yu, X.; Chen, J.; Byrne, J.; Lindeman,
+G. J.; Visvader, J. E.: The LIM domain protein LMO4 interacts with
+the cofactor CtIP and the tumor suppressor BRCA1 and inhibits BRCA1
+activity. J. Biol. Chem. 277: 7849-7856, 2002.
+
+5. Sum, E. Y. M.; Segara, D.; Duscio, B.; Bath, M. L.; Field, A. S.;
+Sutherland, R. L.; Lindeman, G. J.; Visvader, J. E.: Overexpression
+of LMO4 induces mammary hyperplasia, promotes cell invasion, and is
+a predictor of poor outcome in breast cancer. Proc. Nat. Acad. Sci. 102:
+7659-7664, 2005.
+
+6. Tse, E.; Grutz, G.; Garner, A. A.; Ramsey, Y.; Carter, N. P.; Copeland,
+N.; Gilbert, D. J.; Jenkins, N. A.; Agulnick, A.; Forster, A.; Rabbitts,
+T. H.: Characterization of the Lmo4 gene encoding a LIM-only protein:
+genomic organization and comparative chromosomal mapping. Mammalian
+Genome 10: 1089-1094, 1999.
+
+7. Visvader, J. E.; Venter, D.; Hahm, K.; Santamaria, M.; Sum, E.
+Y. M.; O'Reilly, L.; White, D.; Williams, R.; Armes, J.; Lindeman,
+G. J.: The LIM domain gene LMO4 inhibits differentiation of mammary
+epithelial cells in vitro and is overexpressed in breast cancer. Proc.
+Nat. Acad. Sci. 98: 14452-14457, 2001.
+
+8. Wittlin, S.; Sum, E. Y. M.; Jonas, N. K.; Lindeman, G. J.; Visvader,
+J. E.: Two promoters within the human LMO4 gene contribute to its
+overexpression in breast cancer cells. Genomics 82: 280-287, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/23/2005
+Victor A. McKusick - updated: 12/27/2001
+Paul J. Converse - updated: 7/7/2000
+
+CREATED Victor A. McKusick: 10/13/1998
+
+EDITED carol: 08/29/2007
+mgross: 7/14/2005
+terry: 6/23/2005
+terry: 3/18/2004
+carol: 1/20/2002
+terry: 12/27/2001
+mgross: 7/7/2000
+carol: 12/15/1998
+carol: 10/13/1998
+
+610932	TITLE *610932 TWINFILIN, DROSOPHILA, HOMOLOG OF, 1; TWF1
+;;PROTEIN TYROSINE KINASE 9; PTK9;;
+A6 PROTEIN TYROSINE KINASE
+DESCRIPTION 
+CLONING
+
+By screening a human embryonic lung fibroblast bacteria expression
+library with antiphosphotyrosine antibody, Beeler et al. (1994) cloned
+TWF1, which they called A6. The deduced 350-amino acid protein has a
+calculated molecular mass of 40.3 kD. TWF1 has an N-myristoylation site
+and several sites for threonine, serine, and tyrosine phosphorylation,
+but it lacks a conserved protein kinase catalytic domain. Northern blot
+analysis detected a 3.4-kb transcript that was highly expressed in
+colon, testis, uterus, ovary, prostate, and lung. Lower expression was
+detected in brain, bladder, and heart, and no expression was detected in
+liver. In vitro transcription/translation resulted in a 40-kD TWF1
+protein, as determined by SDS-PAGE. Southern blot analysis indicated
+that TWF1 is conserved in vertebrates.
+
+By searching databases for homologs of yeast twinfilin, Vartiainen et
+al. (2000) identified mouse and human TWF1. The mouse and human TWF1
+proteins contain 2 cofilin (see CFL1; 601442)-like repeats called
+actin-depolymerizing factor (DSTN; 609114) homology (ADFH) domains.
+Immunofluorescence microscopy localized Twf1 in a punctate perinuclear
+distribution in mouse fibroblasts and neuroblastoma cells. Twf1 also
+localized to globular (G)-actin (see 102610)-rich areas of the actin
+cytoskeleton in fibroblasts and to filamentous (F)-actin-rich filopodia
+in neuroblastoma cells.
+
+GENE FUNCTION
+
+Beeler et al. (1994) showed that recombinant TWF1 underwent
+autophosphorylation on tyrosines and serines in an in vitro kinase
+assay, and it phosphorylated exogenous substrates on tyrosines.
+Recombinant TWF1 had kinase activity similar to that of recombinant
+FGFR2 (176943), with optimal activity over pH 6.5 to 7.4 and a
+preference for manganese over magnesium as a divalent cofactor.
+
+In contrast to the findings of Beeler et al. (1994), Vartiainen et al.
+(2000) found that recombinant mouse Twf1 lacked tyrosine kinase
+activity. They showed that Twf1 bound G-actin in a 1:1 stoichiometry and
+prevented F-actin assembly in a concentration-dependent manner.
+Overexpression of Twf1 in mouse fibroblasts decreased the amount of
+stress fibers and caused the appearance of abnormal cytoplasmic actin
+filaments. In mouse fibroblasts, Twf1 colocalized with GTP-bound forms
+of Cdc42 (116952) and Rac1 (602048) at membrane ruffles and cell-cell
+contacts, respectively, and localization of Twf1 in these cells appeared
+to be regulated by Rac1.
+
+Paavilainen et al. (2007) showed that the N- and C-terminal ADFH domains
+of mouse Twf1, which they called TWF-N and TWF-C, respectively, were
+required for actin barbed-end capping. NMR and mutagenesis analyses,
+together with biochemical and motility assays, showed that TWF-C bound
+G-actin and interacted with the sides of F-actin like ADF and cofilins,
+whereas TWF-N bound only G-actin. During filament barbed-end capping,
+TWF-N interacted with the terminal actin subunit, and TWF-C bound
+between 2 adjacent subunits at the side of the filament. The domain
+requirement for actin filament capping by Twf1 was similar to that of
+gelsolin (GSN; 137350)-type proteins, suggesting the existence of a
+general barbed-end capping mechanism.
+
+In an adaptation of loss-of-function screening to mouse models of
+cancer, Meacham et al. (2009) introduced a library of shRNAs into
+individual mice using transplantable E-mu-myc lymphoma cells. This
+approach allowed them to screen nearly 1,000 genetic alterations in the
+context of a single tumor-bearing mouse. Their experiments identified a
+central role for regulators of actin dynamics and cell motility in
+lymphoma cell homeostasis in vivo. Validation experiments confirmed that
+these proteins represent bona fide lymphoma drug targets. Additionally,
+suppression of 2 of these targets, Rac2 (602049) and twinfilin
+potentiated the action of the front-line chemotherapeutic vincristine,
+suggesting a critical relationship between cell motility and tumor
+relapse in hematopoietic malignancies.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TWF1
+gene to chromosome 12 (TMAP RH70527).
+
+REFERENCE 1. Beeler, J. F.; LaRochelle, W. J.; Chedid, M.; Tronick, S. R.; Aaronson,
+S. A.: Prokaryotic expression cloning of a novel human tyrosine kinase. Molec.
+Cell. Biol. 14: 982-988, 1994.
+
+2. Meacham, C. E.; Ho, E. E.; Dubrovsky, E.; Gertler, F. B.; Hemann,
+M. T.: In vivo RNAi screening identifies regulators of actin dynamics
+as key determinants of lymphoma progression. Nature Genet. 41: 1133-1137,
+2009.
+
+3. Paavilainen, V. O.; Hellman, M.; Helfer, E.; Bovellan, M.; Annila,
+A.; Carlier, M.-F.; Permi, P.; Lappalainen, P.: Structural basis
+and evolutionary origin of actin filament capping by twinfilin. Proc.
+Nat. Acad. Sci. 104: 3113-3118, 2007.
+
+4. Vartiainen, M.; Ojala, P. J.; Auvinen, P.; Peranen, J.; Lappalainen,
+P.: Mouse A6/twinfilin is an actin monomer-binding protein that localizes
+to the regions of rapid actin dynamics. Molec. Cell. Biol. 20: 1772-1783,
+2000.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/12/2010
+
+CREATED Patricia A. Hartz: 4/16/2007
+
+EDITED alopez: 01/14/2010
+terry: 1/12/2010
+mgross: 4/16/2007
+
+193001	TITLE *193001 SOLUTE CARRIER FAMILY 18 (VESICULAR MONOAMINE), MEMBER 2; SLC18A2
+;;VESICULAR AMINE TRANSPORTER 2; VAT2;;
+VESICULAR MONOAMINE TRANSPORTER 2; VMAT2;;
+SYNAPTIC VESICLE MONOAMINE TRANSPORTER, BRAIN; SVMT;;
+SYNAPTIC VESICLE AMINE TRANSPORTER, BRAIN; SVAT
+DESCRIPTION 
+DESCRIPTION
+
+The vesicular monoamine transporter acts to accumulate cytosolic
+monoamines into synaptic vesicles, using the proton gradient maintained
+across the synaptic vesicular membrane. Its proper function is essential
+to the correct activity of the monoaminergic systems that have been
+implicated in several human neuropsychiatric disorders. The transporter
+is a site of action of important drugs, including reserpine and
+tetrabenazine (summary by Peter et al., 1993).
+
+See also SLC18A1 (193002).
+
+CLONING
+
+Liu et al. (1992) and Erickson et al. (1992) investigated cDNAs encoding
+the synaptic vesicular monoamine transporter in rat brain. Using
+sequences from rat brain SVMT, Surratt et al. (1993) identified the
+human homolog. Human SVMT shares 92% amino acid identity with the rat
+sequence but displays one less consensus site for asparagine N-linked
+glycosylation and one more consensus site for phosphorylation by protein
+kinase C.
+
+GENE FUNCTION
+
+Tritsch et al. (2012) demonstrated that activation of dopamine neurons
+in striatal slices rapidly inhibits action potential firing in both
+direct- and indirect-pathway striatal projection neurons through
+vesicular release of the inhibitory transmitter GABA. GABA is released
+directly from dopaminergic axons but in a manner that is independent of
+the vesicular GABA transporter VGAT (SLC32A1). Instead, GABA release
+requires activity of the vesicular monoamine transporter VMAT2, which is
+the vesicular transporter for dopamine. Furthermore, VMAT2 expression in
+GABAergic neurons lacking VGAT is sufficient to sustain GABA release.
+Tritsch et al. (2012) concluded that their findings expand the
+repertoire of synaptic mechanisms used by dopamine neurons to influence
+basal ganglia circuits, show a new substrate whose transport is
+dependent on VMAT2, and demonstrate that GABA can function as a bona
+fide cotransmitter in monoaminergic neurons.
+
+MAPPING
+
+By Southern blot analysis of human/rodent hybrid cell lines and
+fluorescence in situ hybridization, Surratt et al. (1993) mapped the
+human SLC18A2 gene to chromosome 10q25. They also demonstrated a TaqI
+polymorphism that may prove useful in assessing the gene's involvement
+in neuropsychiatric disorders involving monoaminergic brain systems.
+Peter et al. (1993) likewise assigned the SLC18A2 gene to chromosome
+10q25 using a panel of mouse/human hybrids and in situ hybridization.
+
+Roghani et al. (1996) showed that the mouse Slc18a2 gene maps to mouse
+chromosome 19 by linkage analysis.
+
+MOLECULAR GENETICS
+
+Lin et al. (2005) sequenced the 17.4-kb SLC18A2 promoter region in 23
+Caucasian individuals and identified 47 polymorphisms that conferred 13
+haplotypes. In vitro analysis showed a 20% difference in promoter
+activity between 2 frequent haplotypes and identified some of the SNPs
+that influenced promoter activity. In 144 alcoholic patients and 189
+controls, they found that haplotypes with -14234G (dbSNP rs363371) and
+-2504C of the SLC18A2 promoter region represented a protective factor
+against alcoholism (p = 0.0038).
+
+ANIMAL MODEL
+
+For a discussion of a Drosophila vesicular monoamine transporter model,
+see SLC18A1 (193002).
+
+REFERENCE 1. Erickson, J. D.; Eiden, L. E.; Hoffman, B. J.: Expression cloning
+of a reserpine-sensitive vesicular monoamine transporter. Proc. Nat.
+Acad. Sci. 89: 10993-10997, 1992.
+
+2. Lin, Z.; Walther, D.; Yu, X.-Y.; Li, S.; Drgon, T.; Uhl, G. R.
+: SLC18A2 promoter haplotypes and identification of a novel protective
+factor against alcoholism. Hum. Molec. Genet. 14: 1393-1404, 2005.
+
+3. Liu, Y.; Peter, D.; Roghani, A.; Schuldiner, S.; Prive, G. G.;
+Eisenberg, D.; Brecha, N.; Edwards, R. H.: A cDNA that suppresses
+MPP+ toxicity encodes a vesicular amine transporter. Cell 70: 539-551,
+1992.
+
+4. Peter, D.; Finn, J. P.; Klisak, I.; Liu, Y.; Kojis, T.; Heinzmann,
+C.; Roghani, A.; Sparkes, R. S.; Edwards, R. H.: Chromosomal localization
+of the human vesicular amine transporter genes. Genomics 18: 720-723,
+1993.
+
+5. Roghani, A.; Welch, C.; Xia, Y.-R.; Liu, Y.; Peter, D.; Finn, J.
+P.; Edwards, R. H.; Lusis, A. J.: Assignment of the mouse vesicular
+monoamine transporter genes, Slc18a1 and Slc18a2, to chromosomes 8
+and 19 by linkage analysis. Mammalian Genome 7: 393-394, 1996.
+
+6. Surratt, C. K.; Persico, A. M.; Yang, X.-D.; Edgar, S. R.; Bird,
+G. S.; Hawkins, A. L.; Griffin, C. A.; Li, X.; Jabs, E. W.; Uhl, G.
+R.: A human synaptic vesicle monoamine transporter cDNA predicts
+posttranslational modifications, reveals chromosome 10 gene localization
+and identifies TaqI RFLPs. FEBS Lett. 318: 325-330, 1993.
+
+7. Tritsch, N. X.; Ding, J. B.; Sabatini, B. L.: Dopaminergic neurons
+inhibit striatal output through non-canonical release of GABA. Nature 490:
+262-266, 2012.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/25/2012
+George E. Tiller - updated: 5/30/2008
+John Logan Black, III - updated: 6/2/2006
+
+CREATED Victor A. McKusick: 9/24/1993
+
+EDITED alopez: 11/01/2012
+terry: 10/25/2012
+carol: 1/20/2011
+wwang: 6/5/2008
+terry: 5/30/2008
+wwang: 6/7/2006
+terry: 6/2/2006
+cwells: 11/12/2003
+jenny: 3/31/1997
+terry: 6/14/1996
+terry: 6/11/1996
+carol: 2/1/1994
+carol: 9/24/1993
+
+602647	TITLE *602647 NUCLEAR RNA EXPORT FACTOR 1; NXF1
+;;TIP-ASSOCIATED PROTEIN; TAP;;
+MEX67, YEAST, HOMOLOG OF; MEX67
+DESCRIPTION 
+CLONING
+
+Segref et al. (1997) identified a yeast gene, MEX67, that encodes a
+factor essential for nuclear mRNA export. The Mex67 protein is found at
+the nuclear pores, can be UV-crosslinked to polyadenylated RNA, and
+interacts with a putative RNA-binding protein in a yeast 2-hybrid
+screen. Thus, Segref et al. (1997) suggested that the Mex67 protein
+participates directly in the export of mRNA from the nucleus to the
+cytoplasm. They reported that the Mex67 protein is homologous to the
+human 'tip-associated protein' (TAP).
+
+The 'tyrosine kinase-interacting protein' (Tip) of herpesvirus saimiri
+blocks LCK (153390)-mediated signal transduction and is essential for
+primary T cell immortalization and for lymphoma induction in vivo. Using
+the yeast 2-hybrid system to identify factors that associate with Tip,
+Yoon et al. (1997) cloned a cDNA encoding 'tip-associated protein'
+(TAP). The predicted 560-amino acid TAP protein migrates as a 65-kD
+protein by SDS-PAGE. Northern blot analysis indicated that TAP was
+expressed as 2.5- and 4.4-kb mRNAs in all tissues tested. Expression of
+Tip and TAP in Jurkat-T cells induced cell aggregation, which was likely
+caused by the upregulated surface expression of lymphocyte adhesion
+molecules, and NF-kappa-B (164011, 164012) activity. Therefore, Yoon et
+al. (1997) suggested that TAP is an important cellular mediator of Tip
+function in T-cell transformation by herpesvirus saimiri.
+
+GENE FUNCTION
+
+Gruter et al. (1998) reported the identification of TAP as the cellular
+factor that specifically binds to the CTE (constitutive transport
+element) of the type D retroviruses. Microinjection experiments
+performed in Xenopus oocytes demonstrated that TAP directly stimulates
+CTE-dependent export. Furthermore, TAP overcomes the mRNA export block
+caused by the presence of saturating amounts of CTE RNA. Thus, TAP, like
+its yeast homolog Mex67, is an mRNA nuclear export mediator. TAP is
+therefore a cellular RNA binding protein that is directly involved in
+the export of its target RNA.
+
+Using binding analysis, Herold et al. (2000) showed that NXF1, NXF2
+(300315), and NXF3 (300316) interact with E1BAP5 (605800), as well as
+with NXT1 (605811) and NXT2 (300320). The RBDs of NXF1 and NXF2, but not
+that of NXF3, were found to bind RNA. Only NXF1, however, could promote
+RNA export mediated by the constitutive transport element of simian type
+D retrovirus. Both NXF1 and NXF2, but not NXF3, through their C-terminal
+NWD loop, could bind to the nucleoporins CAN (NUP214; 114350), NUP153
+(603948), and NUP62 (605815). Only NXF1 could bind to NUP98 (601021).
+CAT reporter and Western blot assays showed that coexpression of NXF1 or
+NXF2, but not NXF3, with NXT1 or NXT2 activated CAT expression,
+suggesting that under these conditions NXF1 can also stimulate RNA
+export. The LRRs and NTF2 (605813)-like domains are required for export
+activity.
+
+Shamsher et al. (2002) found that transportin-2 (603002) forms complexes
+with TAP that strictly depend on the presence of RanGTP. The data
+supported the conclusion that transportin-2 participates directly in the
+export of a large proportion of cellular mRNAs, and that TAP connects
+transportin-2 to mRNAs to be exported.
+
+Li et al. (2006) showed that the TAP gene contains a functional
+constitutive transport element (CTE) in its alternatively spliced intron
+10. TAP mRNA containing this intron is exported to the cytoplasm and is
+present in polyribosomes. A small TAP protein is encoded by this mRNA
+and can be detected in human and monkey cells. Li et al. (2006)
+concluded that TAP regulates expression of its own intron-containing RNA
+through a CTE-mediated mechanism, and that CTEs are likely to be
+important elements that facilitate efficient expression of mammalian
+mRNAs with retained introns.
+
+FMRP (FMR1; 309550) is a nucleocytoplasmic shuttling RNA-binding protein
+that participates in mRNA transport and translational control. Using
+immunoprecipitation analysis and quantitative real-time RT-PCR, Zhang et
+al. (2007) showed that Fmrp and Nxf2 were present in Nxf1
+mRNA-containing ribonucleoprotein particles in cultured mouse neuronal
+cells. Expression of Nxf2 led to destabilization of Nxf1 mRNA, and this
+effect was abolished when Fmrp expression was reduced by small
+interfering RNA. Zhang et al. (2007) concluded that FMRP and NXF2
+collaborate to destabilize NXF1 mRNA.
+
+MAPPING
+
+Using genomic sequence analysis, Herold et al. (2000) mapped the NXF1
+gene to chromosome 11 and determined that it contains at least 21 exons.
+Hamilton et al. (1997) mapped the Mvb1 locus to proximal mouse
+chromosome 19.
+
+Windpassinger et al. (2003) observed that Human Genome Project sequence
+data indicated that the NXF1 gene is located on 11q12-q14, the region to
+which the locus for Silver spastic paraplegia syndrome (270685) had been
+mapped. They excluded NXF1 as the mutant gene, as no mutations were
+found on sequence analysis of at least 2 affected individuals from each
+of 4 different families and 1 healthy control.
+
+ANIMAL MODEL
+
+In mice, the modifier-of-vibrator-1 locus (Mvb1) controls levels of
+correctly processed mRNA from genes mutated by endogenous retrovirus
+insertions into introns, including the Pitpn(vb) (600174) tremor
+mutation and the Eya1(BOR) (601653) model of human branchiootorenal
+syndrome. By positional complementation cloning, Floyd et al. (2003)
+identified Mvb1 as the nuclear export factor Nxf1, providing an
+unexpected link between the mRNA export receptor and pre-mRNA
+processing. Population structure of the suppressive allele in wild Mus
+musculus castaneus suggested selective advantage.
+
+REFERENCE 1. Floyd, J. A.; Gold, D. A.; Concepcion, D.; Poon, T. H.; Wang, X.;
+Keithley, E.; Chen, D.; Ward, E. J.; Chinn, S. B.; Friedman, R. A.;
+Yu, H.-T.; Moriwaki, K.; Shiroishi, T.; Hamilton, B. A.: A natural
+allele of Nxf1 suppresses retrovirus insertional mutations. Nature
+Genet. 35: 221-228, 2003.
+
+2. Gruter, P.; Tabernero, C.; von Kobbe, C.; Schmitt, C.; Saavedra,
+C.; Bachi, A.; Wilm, M.; Felber, B. K.; Izaurralde, E.: TAP, the
+human homolog of Mex67p, mediates CTE-dependent RNA export from the
+nucleus. Molec. Cell 1: 649-659, 1998.
+
+3. Hamilton, B. A.; Smith, D. J.; Mueller, K. L.; Kerrebrock, A. W.;
+Bronson, R. T.; van Berkel, V.; Daly, M. J.; Kruglyak, L.; Reeve,
+M. P.; Nemhauser, J. L.; Hawkins, T. L.; Rubin, E. M.; Lander, E.
+S.: The vibrator mutation causes neurodegeneration via reduced expression
+of PITP-alpha: positional complementation cloning and extragenic suppression. N
+euron 18: 711-722, 1997.
+
+4. Herold, A.; Suyama, M.; Rodrigues, J. P.; Braun, I. C.; Kutay,
+U.; Carmo-Fonseca, M.; Bork, P.; Izaurralde, E.: TAP (NXF1) belongs
+to a multigene family of putative RNA export factors with a conserved
+modular architecture. Molec. Cell. Biol. 20: 8996-9008, 2000.
+
+5. Li, Y.; Bor, Y.; Misawa, Y.; Xue, Y.; Rekosh, D.; Hammarskjold,
+M.-L.: An intron with a constitutive transport element is retained
+in a Tap messenger RNA. Nature 443: 234-237, 2006.
+
+6. Segref, A.; Sharma, K.; Doye, V.; Hellwig, A.; Huber, J.; Luhrmann,
+R.; Hurt, E.: Mex67p, a novel factor for nuclear mRNA export, binds
+to both poly(A)+ RNA and nuclear pores. EMBO J. 16: 3256-3271, 1997.
+
+7. Shamsher, M. K.; Ploski, J.; Radu, A.: Karyopherin beta-2B participates
+in mRNA export from the nucleus. Proc. Nat. Acad. Sci. 99: 14195-14199,
+2002.
+
+8. Windpassinger, C.; Wagner, K.; Petek, E.; Fischer, R.; Auer-Grumbach,
+M.: Refinement of the 'Silver syndrome locus' on chromosome 11q12-q14
+in four families and exclusion of eight candidate genes. Hum. Genet. 114:
+99-109, 2003.
+
+9. Yoon, D.-W.; Lee, H.; Seol, W.; DeMaria, M.; Rosenzweig, M.; Jung,
+J. U.: Tap: a novel cellular protein that interacts with Tip of herpesvirus
+saimiri and induces lymphocyte aggregation. Immunity 6: 571-582,
+1997.
+
+10. Zhang, M.; Wang, Q.; Huang, Y.: Fragile X mental retardation
+protein FMRP and the RNA export factor NXF2 associate with and destabilize
+Nxf1 mRNA in neuronal cells. Proc. Nat. Acad. Sci. 104: 10057-10062,
+2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 08/29/2007
+Ada Hamosh - updated: 11/6/2006
+Victor A. McKusick - updated: 12/9/2003
+Victor A. McKusick - updated: 10/1/2003
+Victor A. McKusick - updated: 12/18/2002
+Paul J. Converse - updated: 3/29/2001
+Stylianos E. Antonarakis - updated: 9/21/1998
+
+CREATED Rebekah S. Rasooly: 5/21/1998
+
+EDITED mgross: 08/29/2007
+alopez: 11/7/2006
+terry: 11/6/2006
+tkritzer: 12/16/2003
+terry: 12/9/2003
+alopez: 10/31/2003
+alopez: 10/1/2003
+terry: 10/1/2003
+tkritzer: 12/18/2002
+mgross: 4/4/2001
+mgross: 4/3/2001
+mgross: 4/2/2001
+mgross: 3/29/2001
+psherman: 7/6/2000
+carol: 9/21/1998
+alopez: 6/23/1998
+psherman: 5/22/1998
+psherman: 5/21/1998
+
+186780	TITLE *186780 CD247 ANTIGEN; CD247
+;;CD3 ANTIGEN, ZETA SUBUNIT; CD3Z;;
+CD3-ZETA;;
+T-CELL ANTIGEN RECEPTOR COMPLEX, ZETA SUBUNIT OF CD3; TCRZ
+DESCRIPTION 
+CLONING
+
+Weissman et al. (1986) used an antiserum raised against the mouse zeta
+subunit of the T-cell antigen receptor to identify a previously
+unrecognized component of the human T-cell antigen receptor. This human
+protein is T-cell specific and biochemically similar to the murine zeta
+polypeptide, which has a molecular weight of 16K. The zeta chain, which,
+like the epsilon chain, is nonglycosylated, exists in the T-cell
+receptor molecule as a disulfide-linked homodimer.
+
+Weissman et al. (1988) cloned a cDNA encoding the zeta chain of the
+murine T-cell antigen receptor. The predicted protein sequence suggested
+a structure distinct from those of any of the previously described
+receptor subunits.
+
+As indicated by Clevers et al. (1988), the T-cell receptor alpha/beta
+and gamma/delta heterodimers are noncovalently associated with the
+CD3-gamma (186740), -delta (186790), -epsilon (186830), and -zeta
+proteins, together forming the T-cell receptor-CD3 complex. Weissman et
+al. (1988) used the cDNA for the murine zeta gene as a probe to isolate
+cDNAs encoding the human CD3Z gene. Comparison of the human and murine
+genes showed a high degree of conservation, including conservation in
+the nucleotide sequence of the 5-prime and 3-prime untranslated regions.
+No significant sequence and structural homology was found, however, with
+the previously characterized invariant delta, gamma, and epsilon chains
+of the T-cell receptor.
+
+GENE FUNCTION
+
+The zeta chain of the T-cell antigen receptor plays an important role in
+coupling antigen recognition to several intracellular
+signal-transduction pathways. Caplan et al. (1995) presented evidence
+that the zeta chain, while expressed on the T-cell surface, is
+associated with the cytoskeletal matrix. A 42-amino acid region in the
+intracytoplasmic domain of the zeta chain proved crucial for maximal
+interaction between zeta chain and the cytoskeleton.
+
+CD4 (186940) binds to relatively invariant sites on class II major
+histocompatibility complex (MHC) molecules outside the peptide-binding
+groove, which interacts with the T-cell receptor (TCR). CD4 enhances
+T-cell sensitivity to antigen and binds to LCK (153390), which
+phosphorylates CD3Z. Instead of clustering in a cap at the interface
+with an antigen-presenting cell (APC), some signaling molecules involved
+in T-cell recognition segregate into distinct areas to form a SMAC
+(supramolecular activation cluster), contributing to the immunologic
+synapse (see Grakoui et al. (1999)). Using T-cell lines transfected with
+green fluorescent protein-fused CD4 or CD3Z and 3-dimensional video
+microscopy, Krummel et al. (2000) showed that in response to
+peptide-loaded APC, CD3Z and CD4 initially cluster in the contact area
+between the T cell and APC coincident with intracellular calcium
+mobilization. Stable immunologic synapse formation was modulated by
+peptide concentration and compromised by blocking the calcium increase
+or cytoskeletal rearrangement. The authors determined that CD3Z remains
+at the center of the interface while CD4 moves to the periphery.
+Blocking with anti-TCR prevented CD3Z accumulation and inhibited calcium
+mobilization. The data suggested that instead of stabilizing TCR-MHC
+complexes, CD4 functions to initiate or augment the early phase of
+T-cell activation.
+
+MAPPING
+
+The CD3Z gene was localized by Weissman et al. (1988) to the centromeric
+region of chromosome 1 by study of somatic cell hybrids and by in situ
+hybridization, emphasizing the fact that it is a distinct genetic
+component of the T-cell receptor (the CD3D, CD3G, and CD3E genes are
+clustered within 300 kb of each other on 11q23). The gene was assigned
+to 1p22.1-q21.1. Baniyash et al. (1989) mapped the homologous gene in
+the mouse to chromosome 1. Sturm et al. (1995) mapped the human OTF1
+gene (164175) to 1q22-q23 by fluorescence in situ hybridization. The
+physical linkage of the CD3Z gene to the OTF1 transcription unit
+indicates that CD3Z is also located at 1q22-q23.
+
+MOLECULAR GENETICS
+
+Rieux-Laucat et al. (2006) described a 4-month-old boy with primary
+T-cell immunodeficiency (610163) who was found to have a homozygous
+germline Q70X mutation in the CD3Z gene (186780.0001). CD3-zeta is
+necessary for the development and function of T cells. Some of the
+patient's T cells had low levels of the T-cell receptor-CD3 complex and
+carried the Q70X mutation on both alleles of the CD3Z gene, whereas
+other T cells had normal levels of the complex and bore the Q70X
+mutation on only 1 allele of CD3Z, plus 1 of 3 heterozygous somatic
+mutations of CD3Z on the other allele (186780.0002-186780.0004),
+allowing expression of poorly functional T-cell receptor-CD3 complexes.
+Thus the patient had both inherited and somatic CD3Z mutations as the
+basis of the T-cell deficiency.
+
+Rieux-Laucat et al. (2006) noted that the finding of somatic mutations
+of a germline mutation in the CD3Z gene recalled somatic mutations of
+germline mutations of the adenosine deaminase gene (608958), the
+interleukin-2 receptor gamma-c gene (IL2RG; 308380), the
+recombination-activating gene-1 (RAG1; 179615), the Wiskott-Aldrich
+syndrome protein (301000), and the NEMO gene (300248). These somatic
+changes could cause the mutant gene to revert to a wildtype gene or to a
+sequence compatible with expression of the corresponding protein. In the
+patient of Rieux-Laucat et al. (2006), these somatic mutations occurring
+in the initially mutated codon were probably not due to a mutation
+hotspot related to genomic instability, since these variants were not
+found in other cell types from the patient. Furthermore, the T cells
+with normal levels of the T-cell receptor-CD3 complex were polyclonal,
+and each of the 3 somatic variants of CD3Z was found in different
+populations of T cells, each with a distinct rearrangement of V(beta)
+genes. This result indicated that the somatic mutations in CD3Z probably
+occurred before the VDJ recombination process in T-cell progenitors. The
+somatic mutations partially corrected the CD3Z deficiency, providing an
+example of the modulation of T-cell immunodeficiency by somatic
+mutations and of the selection of clones with such mutations.
+
+ANIMAL MODEL
+
+Class I MHC molecules, known to be important for immune responses to
+antigen, are expressed also by neurons that undergo activity-dependent,
+long-term structural and synaptic modifications. Huh et al. (2000)
+showed that in mice genetically deficient for cell surface class I MHC,
+due to deletion of either TAP1 (170260) or beta-2-microglobulin
+(109700), or for the class I MHC receptor component CD3Z, refinement of
+connections between retina and central targets during development is
+incomplete. In the hippocampus of adult mutants, N-methyl-D-aspartate
+receptor-dependent long-term potentiation is enhanced, and long-term
+depression is absent. Specific class I MHC mRNAs are expressed by
+distinct mosaics of neurons, reflecting a potential for diverse neuronal
+functions. These results demonstrated an important role for these
+molecules in the activity-dependent remodeling and plasticity of
+connections in the developing and mature mammalian central nervous
+system.
+
+In mice chronically exposed to antigens of Porphyromonas gingivalis,
+Bronstein-Sitton et al. (2003) observed that Ifng (147570)-dependent
+Tcrz downregulation, due to lysosomal degradation, and impaired in vitro
+T-cell function occurred in a way similar to that reported in a number
+of infectious, autoimmune, and cancer pathologies. The in vitro findings
+correlated with a deficient in vivo response, as assessed by reduced
+immunity to influenza virus infection. Normal immune function and Tcrz
+expression were regained after the cessation of chronic antigen
+exposure.
+
+By in situ hybridization of wildtype mouse retina, Xu et al. (2010)
+showed that Cd3-zeta was preferentially expressed in the retinal
+ganglion cell (RGC) layer. In Cd3-zeta -/- mice, the kinetics of RGC
+dendritic elimination was markedly reduced, and the number of dendritic
+protrusions was significantly increased during early postnatal
+development. These defects could be mimicked in wildtype mice by
+applying glutamate receptor (GLUR; see 138248) antagonists. Disruption
+of RGC synaptic activity and dendritic motility was associated with a
+failure of eye-specific segregation of RGC axon projections to the
+central nervous system. Xu et al. (2010) concluded that CD3-zeta
+regulates synaptic wiring and selectively impairs GLUR-mediated synaptic
+activity in retina during development.
+
+ALLELIC VARIANT .0001
+IMMUNODEFICIENCY DUE TO DEFECT IN CD3-ZETA
+CD247, GLN70TER
+
+In a 4-month-old boy of Caribbean origin with primary T-cell
+immunodeficiency (610163), Rieux-Laucat et al. (2006) identified
+homozygosity for a gln70-to-stop (Q70X) nonsense mutation in the CD3Z
+gene. The premature stop codon was located within the first ITAM domain,
+immediately upstream from the first YXXL motif, precluding expression of
+all ITAM motifs and thus any interaction with the tyrosine kinase ZAP70
+(176947). The boy's mother was heterozygous for the Q70X mutation. The
+patient's other T cells had normal levels of the CD3 complex and bore
+the Q70X mutation on only 1 allele of CD3Z, plus 1 of 3 heterozygous
+somatic mutations of CD3Z on the other allele, allowing expression of
+poorly functional T-cell receptor-CD3 complexes. The heterozygous
+somatic mutations of CD3Z were Q70W (186780.0002), Q70L (186780), and
+Q70Y (186780).
+
+.0002
+IMMUNODEFICIENCY DUE TO DEFECT IN CD3-ZETA, SOMATIC
+CD3Z, GLN70TRP
+
+Rieux-Laucat et al. (2006) described a child with primary T-cell
+immunodeficiency (610163) who had a homozygous germline mutation (Q70X;
+186780.0001) on some T cells, but on other T cells had heterozygosity
+for the Q70X mutation in combination with 1 of 3 somatic mutations,
+i.e., Q70W, Q70L (186780.0003), or Q70Y (186780.0004).
+
+.0003
+IMMUNODEFICIENCY DUE TO DEFECT IN CD3-ZETA, SOMATIC
+CD3Z, GLN70LEU
+
+Rieux-Laucat et al. (2006) described a child with primary T-cell
+immunodeficiency (610163) who had a homozygous germline mutation (Q70X;
+186780.0001) on some T cells, but on other T cells had heterozygosity
+for the Q70X mutation in combination with 1 of 3 somatic mutations,
+i.e., Q70W (186780.0002), Q70L, or Q70Y (186780.0004).
+
+.0004
+IMMUNODEFICIENCY DUE TO DEFECT IN CD3-ZETA, SOMATIC
+CD3Z, GLN70TYR
+
+Rieux-Laucat et al. (2006) described a child with primary T-cell
+immunodeficiency (610163) who had a homozygous germline mutation (Q70X;
+186780.0001) on some T cells, but on other T cells had heterozygosity
+for the Q70X mutation in combination with 1 of 3 somatic mutations,
+i.e., Q70W (186780.0002), Q70L (186780.0003), or Q70Y.
+
+REFERENCE 1. Baniyash, M.; Hsu, V. W.; Seldin, M. F.; Klausner, R. D.: The
+isolation and characterization of the murine T cell antigen receptor
+zeta chain gene. J. Biol. Chem. 264: 13252-13257, 1989.
+
+2. Bronstein-Sitton, N.; Cohen-Daniel, L.; Vaknin, I.; Ezernitchi,
+A. V.; Leshem, B.; Halabi, A.; Houri-Hadad, Y.; Greenbaum, E.; Zakay-Rones,
+Z.; Shapira, L.; Baniyash, M.: Sustained exposure to bacterial antigen
+induces interferon-gamma-dependent T cell receptor zeta down-regulation
+and impaired T cell function. Nature Immun. 4: 957-964, 2003.
+
+3. Caplan, S.; Zeliger, S.; Wang, L.; Baniyash, M.: Cell-surface-expressed
+T-cell antigen-receptor epsilon chain is associated with the cytoskeleton. Proc.
+Nat. Acad. Sci. 92: 4768-4772, 1995.
+
+4. Clevers, H.; Alarcon, B.; Wileman, T.; Terhorst, C.: The T cell
+receptor/CD3 complex: a dynamic protein ensemble. Annu. Rev. Immun. 6:
+629-662, 1988.
+
+5. Grakoui, A.; Bromley, S. K.; Sumen, C.; Davis, M. M.; Shaw, A.
+S.; Allen, P. M.; Dustin, M. L.: The immunological synapse: a molecular
+machine controlling T cell activation. Science 285: 221-227, 1999.
+
+6. Huh, G. S.; Boulanger, L. M.; Du, H.; Riquelme, P. A.; Brotz, T.
+M.; Shatz, C. J.: Functional requirement for class I MHC in CNS development
+and plasticity. Science 290: 2155-2159, 2000.
+
+7. Krummel, M. F.; Sjaastad, M. D.; Wulfing, C.; Davis, M. M.: Differential
+clustering of CD4 and CD3-zeta during T cell recognition. Science 289:
+1349-1352, 2000.
+
+8. Rieux-Laucat, F.; Hivroz, C.; Lim, A.; Mateo, V.; Pellier, I.;
+Selz, F.; Fischer, A.; Le Deist, F.: Inherited and somatic CD3-zeta
+mutations in a patient with T-cell deficiency. New Eng. J. Med. 354:
+1913-1921, 2006.
+
+9. Sturm, R. A.; Eyre, H. J.; Baker, E.; Sutherland, G. R.: The human
+OTF1 locus which overlaps the CD3Z gene is located at 1q22-q23. Cytogenet.
+Cell Genet. 68: 231-232, 1995.
+
+10. Weissman, A. M.; Baniyash, M.; Hou, D.; Samelson, L. E.; Burgess,
+W. H.; Klausner, R. D.: Molecular cloning of the zeta chain of the
+T cell antigen receptor. Science 239: 1018-1021, 1988.
+
+11. Weissman, A. M.; Hou, D.; Orloff, D. G.; Modi, W. S.; Seuanez,
+H.; O'Brien, S. J.; Klausner, R. D.: Molecular cloning and chromosomal
+localization of the human T-cell receptor zeta chain: distinction
+from the molecular CD3 complex. Proc. Nat. Acad. Sci. 85: 9709-9713,
+1988.
+
+12. Weissman, A. M.; Samelson, L. E.; Klausner, R. D.: A new subunit
+of the human T-cell antigen receptor complex. Nature 324: 480-482,
+1986.
+
+13. Xu, H.; Chen, H.; Ding, Q.; Xie, Z.-H.; Chen, L.; Diao, L.; Wang,
+P.; Gan, L.; Crair, M. C.; Tian, N.: The immune protein CD3-zeta
+is required for normal development of neural circuits in the retina. Neuron 65:
+503-515, 2010.
+
+CONTRIBUTORS Paul J. Converse - updated: 6/14/2011
+Victor A. McKusick - updated: 5/24/2006
+Paul J. Converse - updated: 10/3/2003
+Ada Hamosh - updated: 1/5/2001
+Paul J. Converse - updated: 8/24/2000
+
+CREATED Victor A. McKusick: 7/7/1987
+
+EDITED mgross: 06/20/2011
+terry: 6/14/2011
+terry: 8/24/2006
+carol: 6/7/2006
+terry: 5/24/2006
+alopez: 10/16/2003
+mgross: 10/3/2003
+carol: 1/5/2001
+carol: 8/29/2000
+mgross: 8/24/2000
+psherman: 8/24/1999
+mark: 4/19/1997
+mark: 6/16/1995
+mimadm: 5/10/1995
+supermim: 3/16/1992
+carol: 7/13/1990
+supermim: 3/20/1990
+ddp: 10/27/1989
+

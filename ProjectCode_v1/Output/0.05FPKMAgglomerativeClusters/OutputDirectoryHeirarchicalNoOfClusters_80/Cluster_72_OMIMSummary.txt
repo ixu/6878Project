@@ -1,0 +1,394 @@
+602304	TITLE *602304 NUCLEAR RECEPTOR SUBFAMILY 1, GROUP D, MEMBER 2; NR1D2
+;;REV-ERBA-ALPHA-RELATED RECEPTOR; RVR;;
+REV-ERBA-BETA;;
+REV-ERB-BETA;;
+BD73
+DESCRIPTION 
+CLONING
+
+Dumas et al. (1994) used PCR with primers from conserved regions of
+nuclear hormone receptor superfamily genes to identify a new member of
+this superfamily, which they called BD73. The amino acid sequence of
+BD73 is 96% identical to Rev-ErbA-alpha in the DNA-binding domain and
+72% identical in the ligand-binding domain. Northern blot analysis
+showed a 4.5-kb transcript present in variable amounts in a variety of
+tissues and cell lines.
+
+GENE FUNCTION
+
+Dumas et al. (1994) showed that, in vitro, the BD73 protein has
+DNA-binding activity to a specific A/T-rich sequence.
+
+Toward a system-level understanding of the transcriptional circuitry
+regulating circadian clocks, Ueda et al. (2005) identified
+clock-controlled elements on 16 clock and clock-controlled genes in a
+comprehensive surveillance of evolutionarily conserved cis elements and
+measurement of the transcriptional dynamics. Ueda et al. (2005) found
+that E boxes (CACGTG) and E-prime boxes (CACGTT) controlled the
+expression of Per1 (602260), Nr1d2, Per2 (603426), Nr1d1 (602408), Dbp
+(124097), Bhlhb2 (604256), and Bhlhb3 (606200) transcription following a
+repressor-precedes-activator pattern, resulting in delayed
+transcriptional activity. RevErbA/ROR (600825)-binding elements
+regulated the transcriptional activity of Arntl (602550), Npas2
+(603347), Nfil3 (605327), Clock (601851), Cry1 (601933), and Rorc
+(602943) through a repressor-precedes-activator pattern as well.
+DBP/E4BP4-binding elements controlled the expression of Per1, Per2, Per3
+(603427), Nr1d1, Nr1d2, Rora, and Rorb (601972) through a
+repressor-antiphasic-to-activator mechanism, which generates
+high-amplitude transcriptional activity. Ueda et al. (2005) suggested
+that regulation of E/E-prime boxes is a topologic vulnerability in
+mammalian circadian clocks, a concept that had been functionally
+verified using in vitro phenotype assay systems.
+
+Solt et al. (2012) identified potent synthetic REV-ERB agonists with in
+vivo activity. Administration of synthetic REV-ERB ligands alters
+circadian behavior and the circadian pattern of core clock gene
+expression in the hypothalami of mice. The circadian pattern of
+expression of an array of metabolic genes in the liver, skeletal muscle,
+and adipose tissue was also altered, resulting in increased energy
+expenditure. Treatment of diet-induced obese mice with a REV-ERB agonist
+decreased obesity by reducing fat mass and markedly improving
+dyslipidemia and hyperglycemia.
+
+Cho et al. (2012) determined the genomewide cis-acting targets of both
+REV-ERB isoforms in murine liver, which revealed shared recognition at
+over 50% of their total DNA binding sites and extensive overlap with the
+master circadian regulator BMAL1. Although REV-ERB-alpha has been shown
+to regulate BMAL1 expression directly, cistromic analysis revealed a
+more profound connection between BMAL1 and the REV-ERB-alpha and
+REV-ERB-beta genomic regulatory circuits than was previously suspected.
+Genes within the intersection of the BMAL1, REV-ERB-alpha, and
+REV-ERB-beta cistromes are highly enriched for both clock and metabolic
+functions. As predicted by the cistromic analysis, dual depletion of
+REV-ERB-alpha and REV-ERB-beta function by creating double-knockout mice
+profoundly disrupted circadian expression of core circadian clock and
+lipid homeostatic gene networks. As a result, double-knockout mice
+showed markedly altered circadian wheel-running behavior and deregulated
+lipid metabolism. Cho et al. (2012) concluded that their data united
+REV-ERB-alpha and REV-ERB-beta with PER, CRY, and other components of
+the principal feedback loop that drives circadian expression and
+indicated a more integral mechanism for the coordination of circadian
+rhythm and metabolism.
+
+Lam et al. (2013) presented evidence that in mouse macrophages Rev-Erbs
+regulate target gene expression by inhibiting the functions of distal
+enhancers that are selected by macrophage lineage-determining factors,
+thereby establishing a macrophage-specific program of repression. The
+repressive functions of Rev-Erbs are associated with their ability to
+inhibit the transcription of enhancer-derived RNAs (eRNAs). Furthermore,
+targeted degradation of eRNAs at 2 enhancers subject to negative
+regulation by Rev-Erbs resulted in reduced expression of nearby mRNAs,
+suggesting a direct role of these eRNAs in enhancer function. By
+precisely defining eRNA start sites using a modified form of global
+run-on sequencing that quantifies nascent 5-prime ends, Lam et al.
+(2013) showed that transfer of full enhancer activity to a target
+promoter requires both the sequences mediating transcription factor
+binding and the specific sequences encoding the eRNA transcript. Lam et
+al. (2013) concluded that their studies provided evidence for a direct
+role of eRNAs in contributing to enhancer function and suggested that
+Rev-Erbs act to suppress gene expression at a distance by repressing
+eRNA transcription.
+
+MAPPING
+
+Using YAC mapping and FISH, Koh and Moore (1999) mapped the NR1D2 gene
+to chromosome 3p24.3-p24.2.
+
+EVOLUTION
+
+Koh and Moore (1999) noted that the THRA (190120), NR1D1 (602408), and
+RARA (180240) genes are linked on chromosome 17q, and that the NR1D1
+gene overlaps an exon of the THRA gene on the opposite strand. They
+found that THRB (190160), NR1D2, and RARB (180220) are similarly linked
+and oriented on chromosome 3p. The ancestral genes were duplicated
+before the divergence of vertebrates, since at least the TRs and RARs
+are also duplicated in birds and amphibians.
+
+REFERENCE 1. Cho, H.; Zhao, X.; Hatori, M.; Yu, R. T.; Barish, G. D.; Lam, M.
+T.; Chong, L.-W.; DiTacchio, L.; Atkins, A. R.; Glass, C. K.; Liddle,
+C.; Auwerx, J.; Downes, M.; Panda, S.; Evans, R. M.: Regulation of
+circadian behaviour and metabolism by REV-ERB-alpha and REV-ERB-beta. Nature 485:
+123-127, 2012.
+
+2. Dumas, B.; Harding, H. P.; Choi, H.-S.; Lehmann, K. A.; Chung,
+M.; Lazar, M. A.; Moore, D. D.: A new orphan member of the nuclear
+hormone receptor superfamily closely related to Rev-Erb. Molec. Endocr. 8:
+996-1005, 1994.
+
+3. Koh, Y.-S.; Moore, D. D.: Linkage of the nuclear hormone receptor
+genes NR1D2, THRB, and RARB: evidence for an ancient, large-scale
+duplication. Genomics 57: 289-292, 1999.
+
+4. Lam, M. T. Y.; Cho, H.; Lesch, H. P.; Gosselin, D.; Heinz, S.;
+Tanaka-Oishi, Y.; Benner, C.; Kaikkonen, M. U.; Kim, A. S.; Kosaka,
+M.; Lee, C. Y.; Watt, A.; Grossman, T. R.; Rosenfeld, M. G.; Evans,
+R. M.; Glass, C. K.: Rev-Erbs repress macrophage gene expression
+by inhibiting enhancer-directed transcription. Nature 498: 511-515,
+2013.
+
+5. Solt, L. A.; Wang, Y.; Banerjee, S.; Hughes, T.; Kojetin, D. J.;
+Lundasen, T.; Shin, Y.; Liu, J.; Cameron, M. D.; Noel, R.; Yoo, S.-H.;
+Takahashi, J. S.; Butler, A. A.; Kamenecka, T. M.; Burris, T. P.:
+Regulation of circadian behaviour and metabolism by synthetic REV-ERB
+agonists. Nature 485: 62-68, 2012.
+
+6. Ueda, H. R.; Hayashi, S.; Chen, W.; Sano, M.; Machida, M.; Shigeyoshi,
+Y.; Iino, M.; Hashimoto, S.: System-level identification of transcriptional
+circuits underlying mammalian circadian clocks. Nature Genet. 37:
+187-192, 2005.
+
+CONTRIBUTORS Ada Hamosh - updated: 09/03/2013
+Ada Hamosh - updated: 9/20/2012
+Patricia A. Hartz - updated: 3/9/2012
+Ada Hamosh - updated: 7/29/2005
+
+CREATED Rebekah S. Rasooly: 1/30/1998
+
+EDITED alopez: 09/03/2013
+joanna: 10/2/2012
+alopez: 9/25/2012
+terry: 9/20/2012
+mgross: 3/29/2012
+terry: 3/9/2012
+carol: 2/28/2012
+terry: 7/29/2005
+alopez: 6/18/1999
+alopez: 1/30/1998
+
+605207	TITLE *605207 CYTOCHROME P450, SUBFAMILY XXVIB, POLYPEPTIDE 1; CYP26B1
+;;CYTOCHROME P450, SUBFAMILY XXVIA, POLYPEPTIDE 2; CYP26A2;;
+P450, RETINOIC ACID-INACTIVATING, 2; P450RAI2
+DESCRIPTION 
+CLONING
+
+Retinoids, particularly all-trans-retinoic acid (RA), are important
+regulators of cell differentiation, cell proliferation, and apoptosis.
+All-trans-RA plays a role during development and in the maintenance of
+adult tissues. The level of all-trans-RA in cells and tissues is
+regulated by the balance between its biosynthesis and its catabolism to
+inactive metabolites. The cytochrome P450 enzyme P450RAI (CYP26A1;
+602239), referred to by White et al. (2000) as P450RAI1, is partially
+responsible for the inactivation of all-trans-RA. White et al. (2000)
+identified an EST clone from a human retina cDNA library that showed
+significant sequence homology to P450RAI1. Using PCR primers, they
+amplified a partial cDNA, designated P450RAI2 (CYP26A2), encoding a
+512-amino acid protein that is also involved in the specific
+inactivation of all-trans-RA. Northern blot analysis detected a 5-kb
+P450RAI2 transcript in most tissues tested, with highest expression in
+human adult brain, particularly in the cerebellum and pons but also in
+the cerebral cortex, medulla, occipital pole, frontal lobe, and temporal
+lobe. P450RAI1, on the other hand, did not show appreciable expression
+in any of the human brain tissues tested.
+
+GENE FUNCTION
+
+White et al. (2000) found that transiently transfected P450RAI2 was
+capable of converting all-trans-RA to more polar metabolites.
+Competition experiments with other retinoids suggested that all-trans-RA
+is the preferred substrate.
+
+MOLECULAR GENETICS
+
+In 3 sibs and an unrelated Turkish patient with radiohumeral fusions and
+other skeletal and craniofacial anomalies (614416), Laue et al. (2011)
+identified homozygous missense mutations in the CYP26B1 gene (R363L,
+605207.0001, and S146P, 605207.0002, respectively).
+
+ANIMAL MODEL
+
+Yashiro et al. (2004) found that mice express Cyp26b1 in the distal
+region of the developing limb bud. Mice that lacked Cyp26b1 exhibited
+severe limb malformations. The lack of Cyp26b1 resulted in spreading of
+the RA signal toward the distal end of the developing limb and induced
+proximodistal patterning defects characterized by expansion of proximal
+identity and restriction of distal identity. Cyp26b1 deficiency also
+induced pronounced apoptosis in the developing limb and delayed
+chondrocyte maturation. Wildtype embryos exposed to excess RA
+phenocopied the limb defects of Cyp26b1-deficient mice. Yashiro et al.
+(2004) concluded that RA acts as a morphogen to determine proximodistal
+identity and that CYP26B1 prevents apoptosis and promotes chondrocyte
+maturation in the developing limb.
+
+Bowles et al. (2006) found that retinoic acid, produced by mesonephroi
+of both sexes, caused germ cells in the ovary to enter meiosis and
+initiate oogenesis. Meiosis is retarded in the fetal testis by the
+action of the retinoid-degrading enzyme CYP26B1, ultimately leading to
+spermatogenesis. In testes of Cyp26b1-knockout mouse embryos, germ cells
+entered meiosis precociously, as if in a normal ovary. Thus, Bowles et
+al. (2006) concluded that precise regulation of retinoid levels during
+fetal gonad development provides the molecular control mechanism that
+specifies germ cell fate.
+
+Laue et al. (2011) analyzed murine embryos exposed to a chemical
+inhibitor of Cyp26 enzymes and zebrafish lines with mutations in cyp26b1
+and suggested that the endochondral bone fusions are due to unrestricted
+chondrogenesis at the presumptive sites of joint formation within
+cartilaginous templates, whereas craniosynostosis is induced by a defect
+in osteoblastic differentiation. Ultrastructural analysis, in situ
+expression studies, and in vitro quantitative RT-PCR experiments of
+cellular markers of osseous differentiation indicated that the most
+likely cause for these phenomena is aberrant osteoblast-osteocyte
+transitioning.
+
+ALLELIC VARIANT .0001
+RADIOHUMERAL FUSIONS WITH OTHER SKELETAL AND CRANIOFACIAL ANOMALIES
+CYP26B1, ARG363LEU
+
+In 3 sibs, born to first-cousin parents, who exhibited combinations of
+severe craniofacial malformation, occipital encephalocele, radiohumeral
+fusions, oligodactyly, advanced osseous maturation, and calvarial
+mineralization defects (614416), Laue et al. (2011) identified
+homozygosity for a 1088G-T transversion in the CYP26B1 gene, predicting
+an arg363-to-leu (R363L) substitution. Both parents were heterozygous
+for the mutation, which was not found in 190 unrelated control
+individuals. The mutation occurs within an EXXR motif that is highly
+conserved across species and all human CYP450 proteins. Substitutions of
+residues within this motif are known to ablate the catalytic properties
+of these enzymes. Cellular cotransfection of CYP26B1-expression
+constructs encoding the R363L substitution alongside an RA-responsive
+luciferase reporter gene demonstrated a significantly attenuated ability
+to metabolize exogenously applied RA in HEK293 cells (86% reduction).
+The reduction of enzymatic activity noted for the mutant protein was
+comparable to that conferred by a truncating mutation underlying a
+zebrafish cyp26b1 null allele, indicating that the human mutation
+constitutes a null allele.
+
+.0002
+RADIOHUMERAL FUSIONS WITH OTHER SKELETAL AND CRANIOFACIAL ANOMALIES
+CYP26B1, SER146PRO
+
+In a Turkish patient, born to consanguineous parents, with coronal and
+lambdoid craniosynostosis, a large sagittal skull defect, limited elbow
+extension, and arachnodactyly (614416), Laue et al. (2011) identified a
+homozygous 436T-C transition in the CYP26B1 gene, predicting a
+ser146-to-pro (S146P) substitution. Th3 mutation is predicted to disrupt
+helix C, a broadly represented structural element in CYP450 enzymes.
+Cellular cotransfection of CYP26B1-expression constructs encoding the
+S146P substitution alongside an RA-responsive luciferase reporter gene
+demonstrated a significantly attenuated ability to metabolize
+exogenously applied RA in HEK293 cells (31% reduction). The retention of
+activity by the S146P substitution was consistent with it constituting a
+hypomorphic mutation.
+
+REFERENCE 1. Bowles, J.; Knight, D.; Smith, C.; Wilhelm, D.; Richman, J.; Mamiya,
+S.; Yashiro, K.; Chawengsaksophak, K.; Wilson, M. J.; Rossant, J.;
+Hamada, H.; Koopman, P.: Retinoid signaling determines germ cell
+fate in mice. Science 312: 596-600, 2006.
+
+2. Laue, K.; Pogoda, H.-M.; Daniel, P. B.; van Haeringen, A.; Alanay,
+Y.; von Ameln, S.; Rachwalski, M.; Morgan, T.; Gray, M. J.; Breuning,
+M. H.; Sawyer, G. M.; Sutherland-Smith, A. J.; Nikkels, P. G.; Kubisch,
+C.; Bloch, W.; Wollnik, B.; Hammerschmidt, M.; Robertson, S. P.:
+Craniosynostosis and multiple skeletal anomalies in humans and zebrafish
+result from a defect in the localized degradation of retinoic acid. Am.
+J. Hum. Genet. 89: 595-606, 2011.
+
+3. White, J. A.; Ramshaw, H.; Taimi, M.; Stangle, W.; Zhang, A.; Everingham,
+S.; Creighton, S.; Tam, S.-P.; Jones, G.; Petkovich, M.: Identification
+of the human cytochrome P450, P450RAI-2, which is predominantly expressed
+in the adult cerebellum and is responsible for all-trans-retinoic
+acid metabolism. Proc. Nat. Acad. Sci. 97: 6403-6408, 2000.
+
+4. Yashiro, K.; Zhao, X.; Uehara, M.; Yamashita, K.; Nishijima, M.;
+Nishino, J.; Saijoh, Y.; Sakai, Y.; Hamada, H.: Regulation of retinoic
+acid distribution is required for proximodistal patterning and outgrowth
+of the developing mouse limb. Dev. Cell 6: 411-422, 2004.
+
+CONTRIBUTORS Nara Sobreira - updated: 1/5/2012
+Ada Hamosh - updated: 7/31/2006
+Patricia A. Hartz - updated: 4/20/2004
+
+CREATED Victor A. McKusick: 8/10/2000
+
+EDITED carol: 04/17/2012
+carol: 1/6/2012
+alopez: 8/2/2006
+terry: 7/31/2006
+mgross: 4/20/2004
+mgross: 1/27/2004
+carol: 8/10/2000
+
+608753	TITLE *608753 tRNA SPLICING ENDONUCLEASE 2, S. CEREVISIAE, HOMOLOG OF; TSEN2
+;;SEN2, YEAST, HOMOLOG OF; SEN2
+DESCRIPTION 
+DESCRIPTION
+
+tRNA splicing is a fundamental process required for cell growth and
+division. SEN2 is a subunit of the tRNA splicing endonuclease, which
+catalyzes the removal of introns, the first step in tRNA splicing
+(Paushkin et al., 2004).
+
+CLONING
+
+By searching sequence databases using yeast Sen2 as probe, followed by
+PCR of human cDNA libraries, Paushkin et al. (2004) isolated a
+full-length SEN2 cDNA and a splice variant lacking exon 8. Full-length
+SEN2 contains 465 amino acids and has a calculated molecular mass of 51
+kD. It shares a high degree of similarity with yeast Sen2 only in the
+active site domain. The SEN2 variant lacking exon 8 contains 448 amino
+acids. Northern blot analysis detected low expression of both SEN2
+transcripts in all tissues examined. Immunofluorescence microscopy of
+transfected HeLa cells localized both SEN2 isoforms to the nucleus. The
+variant lacking exon 8 was frequently found in nucleoli in dot-like
+structures.
+
+GENE FUNCTION
+
+Paushkin et al. (2004) identified and characterized the human tRNA
+splicing endonuclease. This enzyme consists of SEN2, SEN34 (608754),
+SEN15 (608756), and SEN54 (608755), homologs of the yeast tRNA
+endonuclease subunits. Additionally, the SEN2 variant lacking exon 8 is
+part of a complex with unique RNA endonuclease activity. Paushkin et al.
+(2004) found that both human endonuclease complexes are associated with
+pre-mRNA 3-prime end processing factors, including CLP1 (608757). Small
+interfering RNA-mediated depletion of SEN2 led to defects in maturation
+of both pre-tRNA and pre-mRNA. These findings demonstrated a link
+between pre-tRNA splicing and pre-mRNA 3-prime end formation, suggesting
+that the endonuclease subunits function in multiple RNA processing
+events.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TSEN2
+gene to chromosome 3 (TMAP RH103927).
+
+MOLECULAR GENETICS
+
+Budde et al. (2008) identified a homozygous missense mutation in a
+patient of consanguineous Pakistani descent, resulting in
+pontocerebellar hypoplasia type 2 (277470).
+
+ALLELIC VARIANT .0001
+PONTOCEREBELLAR HYPOPLASIA, TYPE 2B
+TSEN2, TYR309CYS
+
+In a Pakistani male, the product of a consanguineous union, with
+pontocerebellar hypoplasia type 2 (PCH2B; 612389) in whom no mutations
+in TSEN54 (608755) were identified, Budde et al. (2008) identified a
+homozygous A-to-G transition at nucleotide 926 of the TSEN2 gene,
+resulting in a tyrosine-to-cysteine substitution at codon 309 (Y309C).
+Each parent was heterozygous for the mutation, which was not identified
+in 188 healthy Pakistani controls nor in 92 Dutch, 45 Chinese, or 28
+Palestinian controls. The tyrosine at position 309 is strictly conserved
+(tyrosine or phenylalanine) within eukaryotic organisms.
+
+REFERENCE 1. Budde, B. S.; Namavar, Y.; Barth, P. G.; Poll-The, B. T.; Nurnberg,
+G.; Becker, C.; van Ruissen, F.; Weterman, M. A. J.; Fluiter, K.;
+te Beek, E. T.; Aronica, E.; van der Knaap, M. S.; and 26 others
+: tRNA splicing endonuclease mutations cause pontocerebellar hypoplasia. Nature
+Genet. 40: 1113-1118, 2008.
+
+2. Paushkin, S. V.; Patel, M.; Furia, B. S.; Peltz, S. W.; Trotta,
+C. R.: Identification of a human endonuclease complex reveals a link
+between tRNA splicing and pre-mRNA 3-prime end formation. Cell 117:
+311-321, 2004.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/22/2008
+
+CREATED Stylianos E. Antonarakis: 6/21/2004
+
+EDITED terry: 04/22/2011
+alopez: 11/5/2008
+terry: 10/22/2008
+mgross: 6/21/2004
+

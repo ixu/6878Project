@@ -1,0 +1,2689 @@
+602775	TITLE *602775 SUPPRESSOR OF CLEAR, C. ELEGANS, HOMOLOG OF; SHOC2
+;;RAS-BINDING PROTEIN SUR8, C. ELEGANS, HOMOLOG OF; SUR8
+DESCRIPTION 
+CLONING
+
+Activation of fibroblast growth factor (FGF) receptors elicits diverse
+cellular responses, including growth, mitogenesis, migration, and
+differentiation. Selfors et al. (1998) shed light on the intracellular
+signaling pathways that mediate these processes by studies in
+Caenorhabditis elegans. In this organism, they screened for genes that
+suppress the activity of an activated form of the EGL-15 FGF receptor
+consistent with the functioning of these genes downstream of EGL-15. Two
+of these genes were soc1 and soc2, symbolized thus for 'suppressor of
+clear (Clr)' phenotype; the third was sem5. Selfors et al. (1998) showed
+that soc2 encodes a protein composed almost entirely of leucine-rich
+repeats, a domain implicated in protein-protein interactions. They
+identified a putative human homolog, SHOC2, which is 54% identical to
+soc2. They showed that SHOC2 mRNA was expressed in all tissues assayed
+and that the SHOC2 protein is localized to the cytoplasm.
+
+Selfors et al. (1998) showed that within the leucine-rich repeats of
+both soc2 and SHOC2 are 2 YXNX motifs that are potential
+tyrosine-phosphorylated docking sites for the SEM5/GRB2 Src homology 2
+domain. However, phosphorylation of these residues was not required for
+soc2 function in vivo, and SHOC2 was not observed to be tyrosine
+phosphorylated in response to FGF stimulation. Selfors et al. (1998)
+concluded that this genetic system identified a conserved gene
+implicated in mediating FGF receptor signaling in C. elegans.
+
+MAPPING
+
+By FISH analysis, Selfors et al. (1998) mapped the SHOC2 gene to
+chromosome 10q25.
+
+GENE FUNCTION
+
+Sieburth et al. (1998) identified and characterized the sur8 gene in C.
+elegans, which positively regulates Ras-mediated signal transduction
+during vulval development. The authors found that reduction of sur8
+function suppresses an activated Ras mutation and dramatically enhances
+phenotypes of mpk1/sur1 MAP kinase (see 176948) and ksr1 (601132)
+mutations, whereas increase of sur8 dosage enhances an activated Ras
+mutation. Sur8 appears to act downstream of or in parallel to Ras but
+upstream of Raf. Sur8 encodes a conserved protein that is composed
+predominantly of leucine-rich repeats. The sur8 protein interacts
+directly with Ras but not with the Ras(P34G) mutant protein, suggesting
+that sur8 may mediate its effects through Ras binding. By use of EST
+primers and 5-prime RACE, Sieburth et al. (1998) cloned a structural and
+functional SUR8 homolog in humans that specifically binds K-Ras (190070)
+and N-Ras (164790) but not H-Ras (190020) in vitro.
+
+MOLECULAR GENETICS
+
+Using a systems biology approach based on in silico protein network
+analysis that identified SHOC2 as a candidate gene, Cordeddu et al.
+(2009) sequenced SHOC2 coding exons in a Noonan syndrome (see 163950)
+cohort that included 96 individuals who were negative for mutations in
+known disease genes. The authors identified a heterozygous mutation
+(S2G; 602775.0001) in the SHOC2 gene in 4 unrelated individuals. They
+then analyzed the SHOC2 gene in a cohort of 410 mutation-negative
+patients with Noonan syndrome or a related phenotype and identified 21
+individuals with the same S2G mutation. All of the patients with the S2G
+mutation had a relatively consistent Noonan syndrome-like disorder with
+loose anagen hair (NSLH; 607721). Functional studies of S2G-mutant SHOC2
+demonstrated introduction of an N-myristoylation site, resulting in
+aberrant localization and signaling.
+
+In a male infant with typical dysmorphic facial features and other signs
+of Noonan syndrome, who died of congestive heart failure at 4 months of
+age, Hoban et al. (2012) identified heterozygosity for the S2G mutation
+in SHOC2.
+
+ALLELIC VARIANT .0001
+NOONAN SYNDROME-LIKE DISORDER WITH LOOSE ANAGEN HAIR
+SHOC2, SER2GLY
+
+In 21 patients with a Noonan syndrome-like disorder with loose anagen
+hair (NSLH; 607721), Cordeddu et al. (2009) identified heterozygosity
+for a 4A-G transition in exon 2 of the SHOC2 gene, resulting in a
+ser2-to-gly (S2G) substitution. The mutation was shown to be de novo in
+the 15 patients for whom parental DNA was available. Functional studies
+demonstrated that the S2G mutation introduces an N-myristoylation site,
+resulting in aberrant targeting of SHOC2 to the plasma membrane and
+impaired translocation to the nucleus upon growth factor stimulation. In
+vitro expression of mutant SHOC2 enhanced MAPK (176948) activation in a
+cell type-specific fashion. Induction of mutant SHOC2 in C. elegans
+engendered protruding vulva, a neomorphic phenotype previously
+associated with aberrant signaling.
+
+In a male infant with typical dysmorphic facial features and other signs
+of Noonan syndrome, who died of congestive heart failure at 4 months of
+age, Hoban et al. (2012) identified heterozygosity for the S2G mutation
+in SHOC2. The authors noted that the 'loose anagen hair' phenotype and
+skin features previously reported in patients with the S2G mutation were
+not present in this young infant, and stated that the cardiac anomaly
+expanded the clinical phenotype associated with the SHOC2 mutation.
+
+REFERENCE 1. Cordeddu, V.; Di Schiavi, E.; Pennacchio, L. A.; Ma'ayan, A.; Sarkozy,
+A.; Fodale, V.; Cecchetti, S.; Cardinale, A.; Martin, J.; Schackwitz,
+W.; Lipzen, A.; Zampino, G.; and 19 others: Mutation of SHOC2 promotes
+aberrant protein N-myristoylation and causes Noonan-like syndrome
+with loose anagen hair. Nature Genet. 41: 1022-1026, 2009.
+
+2. Hoban, R.; Roberts, A. E.; Demmer, L.; Jethva, R.; Shephard, B.
+: Noonan syndrome due to a SHOC2 mutation presenting with fetal distress
+and fatal hypertrophic cardiomyopathy in a premature infant. Am.
+J. Med. Genet. 158A: 1411-1413, 2012.
+
+3. Selfors, L. M.; Schutzman, J. L.; Borland, C. Z.; Stern, M. J.
+: Soc-2 encodes a leucine-rich repeat protein implicated in fibroblast
+growth factor receptor signaling. Proc. Nat. Acad. Sci. 95: 6903-6908,
+1998.
+
+4. Sieburth, D. S.; Sun, Q.; Han, M.: SUR-8, a conserved Ras-binding
+protein with leucine-rich repeats, positively regulates Ras-mediated
+signaling in C. elegans. Cell 94: 119-130, 1998.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 7/26/2012
+Marla J. F. O'Neill - updated: 10/9/2009
+Stylianos E. Antonarakis - updated: 8/6/1998
+
+CREATED Victor A. McKusick: 7/6/1998
+
+EDITED carol: 07/27/2012
+terry: 7/26/2012
+wwang: 6/2/2011
+wwang: 10/19/2010
+wwang: 10/6/2010
+wwang: 10/12/2009
+terry: 10/9/2009
+joanna: 9/10/2009
+carol: 3/29/2001
+carol: 8/6/1998
+alopez: 7/7/1998
+alopez: 7/6/1998
+
+605446	TITLE *605446 RETINITIS PIGMENTOSA GTPase REGULATOR-INTERACTING PROTEIN; RPGRIP1
+;;RPGR-INTERACTING PROTEIN
+DESCRIPTION 
+CLONING
+
+Mutations in the retinitis pigmentosa GTPase regulator gene (RPGR;
+312610) cause X-linked retinitis pigmentosa-3 (RP3), a severe,
+progressive, and degenerative retinal dystrophy that eventually leads to
+complete blindness. RPGR is ubiquitously expressed, yet mutations in the
+RPGR gene lead to a retina-restricted phenotype. Using the yeast
+2-hybrid system, Boylan and Wright (2000) screened a bovine retina cDNA
+library for RPGR-interacting proteins and identified a novel protein,
+which they called RPGRIP1. They confirmed the specificity of the
+interaction between RPGR and RPGRIP1 by coimmunoprecipitation of in
+vitro translated protein and use of RPGR mutants. By EST database
+searching, Boylan and Wright (2000) identified a human homolog of the
+bovine gene. By PCR and 5-prime and 3-prime RACE, they isolated 2 human
+RPGRIP1 cDNAs, which appeared to be alternatively spliced orthologs of
+the bovine gene, encoding deduced proteins of 586 and 902 amino acids
+Dryja et al. (2001) found that the cDNA sequence in this report lacked
+the 5-prime end of the gene and deduced protein contains 1,259 amino
+acids. Boylan and Wright (2000) found that the RPGRIP1 proteins are
+predicted to form 2 coiled-coil domains at the N terminus, which are
+seen in some proteins involved in vesicular trafficking. Northern blot
+analysis detected a strong 2.0-kb and a weak 3.1-kb transcript in testis
+only. RT-PCR analysis detected strong expression of RPGRIP1 in retina,
+with weaker expression in testis. Roepman et al. (2000) also cloned
+RPGRIP1 cDNAs and identified several alternatively spliced gene
+products, some with retina-restricted expression, that interact
+specifically with RPGR in vivo and in vitro. They demonstrated that RPGR
+and RPGRIP1 colocalize in the outer segment of rod photoreceptors, which
+is in agreement with the retinitis pigmentosa phenotype observed in RP3
+patients.
+
+Hong et al. (2001) cloned the mouse ortholog of RPGRIP1. Northern blot
+analysis detected a retina-specific Rpgrip1 transcript of approximately
+10.0 kb in wildtype mice but not in rd mice with photoreceptor
+degeneration (see 180072). Immunoblot analysis showed retina
+photoreceptor-specific expression of a 210-kD protein.
+Immunofluorescence and immunogold electron microscopy demonstrated
+localization of Rpgrip1 at the junction between the inner and outer
+segments, suggesting a localization in the connecting cilia. Rpgrip1
+localization was the same in the absence of Rpgr, suggesting that Rpgr
+is anchored to the connecting cilium through its interaction with
+Rpgrip1. Because mouse photoreceptors are overwhelmingly rods, Hong et
+al. (2001) extended their localization studies to the 13-lined ground
+squirrel, whose photoreceptors are 95% cones. The localization of
+Rpgrip1 was the same, indicating that it is localized in the connecting
+cilia of both rod and cone photoreceptors. The authors concluded that
+RPGRIP1 is a structural component of the ciliary axoneme.
+
+Gerber et al. (2001) determined that the RPGRIP1 gene encodes a
+predicted protein product of 1,287 amino acids.
+
+Roepman et al. (2005) identified 2 central Ca(2+)-binding C2 domains,
+one of which is truncated, in RPGRIP1. The C2 domains are encoded by
+exons 14 to 16 and are absent from some RPGRIP1 isoforms.
+
+GENE STRUCTURE
+
+Dryja et al. (2001) determined that the RPGRIP1 gene contains 25 exons.
+
+Gerber et al. (2001) characterized the complete exon-intron structure of
+the RPGRIP1 gene. RPGRIP1 encompasses 24 coding exons.
+
+GENE FUNCTION
+
+Mavlyutov et al. (2002) used isoform-specific antibodies to demonstrate
+that RPGR and RPGRIP isoforms are distributed and colocalized at
+restricted foci throughout the outer segments of human and bovine (but
+not murine) rod photoreceptors. In humans, these proteins are also
+localized in cone outer segments, and RPGRIP is expressed in other
+neurons such as amacrine cells. The authors proposed the existence of
+species-specific subcellular processes governing the function and/or
+organization of the photoreceptor outer segment as reflected by the
+species-specific localization of RPGR and RPGRIP protein isoforms in
+this compartment. They contended that this may provide a rationale for
+the disparity of phenotypes among species and among various human
+mutations.
+
+Castagnet et al. (2003) demonstrated the existence of RPGRIP1 isoforms
+with distinct cellular and subcellular localizations and biochemical
+properties in the retina. High mass RPGRIP1 isoforms p175/p150 were
+enriched in the outer segment compartment of photoreceptors. The
+remaining isoforms were present across subcellular fractions, including
+nuclei, and were soluble. The p175/p150 isoforms were predominantly
+sequestered in the cytoskeleton-insoluble fraction of outer segment and
+nuclei. In selective amacrine cells and in the transformed photoreceptor
+line 661W, RPGRIP1 isoforms localized at restricted foci in or near
+nuclear pore complexes. Among the nucleoporins, RPGRIP1 isoforms
+selectively associated in vivo with RAN-binding protein-2 (RANBP2;
+601181). RPGRIP1 isoforms also decorated microtubules in 661W cells and
+occasionally formed coiled-like inclusion bodies in the perikarya. These
+results supported distinct but complementary functions of RPGRIP1
+isoforms in cytoskeletal-mediated processes in photoreceptors and
+amacrine neurons. Castagnet et al. (2003) concluded that their data
+implicated a role of RANBP2 in the pathogenesis of neuroretinopathies
+and as a docking station to mediate the nucleocytoplasmic shuttling of
+RPGRIP1 isoforms and their interaction with other partners in amacrine
+and 661W neurons.
+
+Lu and Ferreira (2005) identified expression of a novel RPGRIP1
+transcript in human retina generated by use of an alternative donor
+splice site that leads to the skipping of 33 nucleotides from the
+canonical exon 13. This novel transcript is of very low abundance in
+retina compared with the counterpart transcript isoform expressing
+constitutive exons 13 and 14. The authors suggested that screening of
+only the constitutive exons of the RPGRIP1 gene in patients with LCA
+could result in underreporting of mutations, and considered it likely
+that translationally silent and other types of mutations, sometimes
+considered to be neutral polymorphisms, in the genomic region
+encompassing exons 12 through 14 could lead to aberrant transcripts.
+
+In cultured mammalian cells, Shu et al. (2005) showed that both the
+RPGR-ORF15 isoform (312610) and RPGRIP1 localized to centrioles
+throughout the cell cycle, and RPGR-ORF15 and RGRIP1 colocalized at
+basal bodies in cells with primary cilia.
+
+By yeast 2-hybrid analysis, Roepman et al. (2005) determined that NPHP4
+(607215) interacted with C2 domain-containing RPGRIP1 isoforms. Analysis
+of the interaction in the presence of Ca(2+) chelators indicated that
+the binding was Ca(2+) independent. NPHP1 colocalized with C2-containing
+RPGRIP1 isoforms in bovine and mouse retina. Mutations in NPHP4
+associated with Senior-Loken syndrome-4 (606996) and mutations in RPGRP1
+associated with Leber congenital amaurosis (LCA6; 613826) disrupted the
+interaction between the 2 proteins.
+
+Lu et al. (2005) showed that the bovine isoforms Rpgrip1 and Rgrip1b
+underwent limited proteolysis constitutively in vivo in the cytoplasm
+compartment. This led to the relocation and accumulation of a 7-kD
+N-terminal domain to the nucleus, whereas the cytosolic C-terminal
+domain of Rpgrip1 was degraded and short-lived. Rpgrip1 mutations
+(605446.0007 and 605446.0008) in the RPGR-interacting domain (RID)
+exhibited strong cis-acting and antagonistic biologic effects on the
+nuclear relocation, subcellular distribution and proteolytic cleavage of
+Rpgrip1 and/or domains thereof. Lu et al. (2005) proposed distinct and
+spatiotemporal subcellular-specific roles for RPGRIP1 and further
+hypothesized a RPGRIP1-mediated nucleocytoplasmic crosstalk and
+transport pathway regulated by RID, and hence by RPGR.
+
+MAPPING
+
+By somatic cell hybrid analysis and radiation hybrid analysis, Boylan
+and Wright (2000) and Roepman et al. (2000) mapped the RPGRIP1 gene to
+chromosome 14q11. Roepman et al. (2000) suggested that the localization
+of RPGRIP1 at 14q11 makes it a strong candidate gene for RP16.
+
+MOLECULAR GENETICS
+
+- Leber Congenital Amaurosis 6
+
+Dryja et al. (2001) surveyed 57 unrelated patients who had Leber
+congenital amaurosis for mutations in RPGRIP1 and found recessive
+mutations involving both alleles in 3 (6%) patients (see LCA6, 613826).
+All 4 mutations (605446.0001-605446.0004) created premature termination
+codons and are likely to be null alleles.
+
+Gerber et al. (2001) performed direct sequencing of the 24 coding exons
+of the RPGRIP1 gene in 2 consanguineous families with Leber congenital
+amaurosis in whom a genomewide screen had detected homozygosity at the
+14q11 chromosomal region. A homozygous missense mutation and a
+homozygous null mutation were identified in the 2 families,
+respectively. Among 142 unrelated LCA patients, Gerber et al. (2001)
+found RPGRIP1 mutations in 8 patients (5.6%). Among the 8 distinct
+mutations (see, e.g., 605446.0007 and 605446.0008) detected, 5 were
+truncating and 3 (2 missense and 1 in-frame deletion) concerned highly
+conserved amino acids in bovine and murine sequences.
+
+- Cone-Rod Dystrophy 13
+
+In affected members of consanguineous Pakistani families with cone-rod
+dystrophy-13 (CORD13; 608194), Hameed et al. (2003) identified
+homozygosity for mutations in the RPGRIP1 gene
+(605446.0005-605446.0006).
+
+ANIMAL MODEL
+
+Cone-rod dystrophy-1 (Cord1) is a recessive condition that occurs
+naturally in miniature longhaired dachshunds. In affected dogs, Mellersh
+et al. (2006) identified a 44-bp insertion in exon 2 of the Rpgrip1 gene
+that altered the reading frame and introduced a premature stop codon.
+All affected and carrier dogs within an extended inbred pedigree were
+homozygous and heterozygous, respectively, for the mutation. Mellersh et
+al. (2006) concluded that this canine disease is a model for human LCA.
+
+Won et al. (2009) described a mouse model carrying a splice acceptor
+site mutation (nmf247) in the Rpgrip1 gene that is phenotypically
+distinct from Rpgrip1(tm1Tili) mice, which carry a null allele for the
+long isoform. Photoreceptor degeneration in homozygous Rpgrip1(nmf247)
+mice was earlier in onset and more severe than that of Rpgrip1(tm1Tili)
+mice. Ultrastructural studies revealed that whereas Rpgrip1(nmf247)
+mutants had a normal structure and number of connecting cilia, unlike
+Rpgrip1(tm1Tili) mice, they did not elaborate rod outer segments. Won et
+al. (2009) concluded that in addition to its role in outer segment disc
+morphogenesis, RPGRIP1 may be essential for rod outer segment formation,
+and that different isoforms may play different roles in photoreceptors.
+
+ALLELIC VARIANT .0001
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, 1-BP DEL, ASP1176
+
+Dryja et al. (2001) described a patient with Leber congenital
+amaurosis-6 (613826) who was a compound heterozygote for a 1-bp deletion
+(T) at codon asp1176 and a trp65-to-ter nonsense mutation (605446.0002).
+Both mutations led to premature termination and were likely to be null
+alleles.
+
+.0002
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, TRP65TER
+
+See 605446.0001 and Dryja et al. (2001).
+
+.0003
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, 1-BP INS, GLN893
+
+In a patient with Leber congenital amaurosis-6 (613826), Dryja et al.
+(2001) identified homozygosity for a frameshift mutation, a 1-bp (T)
+insertion at codon gln893.
+
+.0004
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, 1-BP DEL, LYS342
+
+In a patient with Leber congenital amaurosis-6 (613826), Dryja et al.
+(2001) identified homozygosity for a frameshift mutation in the RPGRIP1
+gene. The mutation consisted of a 1-bp deletion (A) at codon lys342.
+
+.0005
+CONE-ROD DYSTROPHY 13
+RPGRIP1, ARG827LEU
+
+In a consanguineous Pakistani family, Hameed et al. (2003) identified
+homozygosity for a 2480G-T transversion in exon 16 of the RPGRIP1 gene,
+which changed codon 827 from CGC (arg) to CTC (leu), in all affected
+members with cone-rod dystrophy (608194).
+
+.0006
+CONE-ROD DYSTROPHY 13
+RPGRIP1, ALA547SER
+
+In 3 Pakistani families, Hameed et al. (2003) found that recessive
+cone-rod dystrophy (608194) segregated with homozygosity for a 1639G-T
+substitution in exon 13 of the RPGRIP1 gene, which changed codon 547
+from GCT (ala) to TCT (ser).
+
+.0007
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, ASP1114GLY
+
+In a patient with Leber congenital amaurosis-6 (613826), born to
+consanguineous parents of Moroccan origin, Gerber et al. (2001)
+identified homozygosity for an 3341A-G transition in exon 21 of the
+RPGRIP1 gene, resulting in an asp1114-to-gly (D1114G) substitution in
+the RPGR-interacting domain (RID).
+
+Lu et al. (2005) found that the D1114G mutation abolished the
+interaction of RPGRIP1 in vivo with RPGR without affecting the stability
+of the RID and that this interaction was not resistant to stress
+stimuli. The D1114G mutation caused a redistribution of the processed
+N-terminal domain fragment of RPGRIP1 between the nuclear and cytosolic
+compartments.
+
+.0008
+LEBER CONGENITAL AMAUROSIS 6
+RPGRIP1, 3-BP DEL, 3835GAG
+
+In a French patient with Leber congenital amaurosis-6 (613826), Gerber
+et al. (2001) identified heterozygosity for a 3-bp deletion, resulting
+in loss of glu1279 (delE1279) located 8 residues upstream to the stop
+codon. The deletion was inherited from the patient's healthy father and
+was not identified in 252 control chromosomes. A second mutation was not
+identified.
+
+Lu et al. (2005) found that the delE1279 mutation enhanced the
+interaction of RPGRIP1 in vivo with RPGR without affecting the stability
+of the RID. The interaction of delE1279 with RPGR was resistant to
+various stress treatments such as osmotic, pH, and heat-shock stimuli,
+and the delE1279 mutation caused a significant increase of the
+N-terminal fragment of RPGRIP1 in the cytosolic compartment.
+
+REFERENCE 1. Boylan, J. P.; Wright, A. F.: Identification of a novel protein
+interacting with RPGR. Hum. Molec. Genet. 9: 2085-2093, 2000.
+
+2. Castagnet, P.; Mavlyutov, T.; Cai, Y.; Zhong, F.; Ferreira, P.
+: RPGRIP1s with distinct neuronal localization and biochemical properties
+associate selectively with RanBP2 in amacrine neurons. Hum. Molec.
+Genet. 12: 1847-1863, 2003.
+
+3. Dryja, T. P.; Adams, S. M.; Grimsby, J. L.; McGee, T. L.; Hong,
+D.-H.; Li, T.; Andreasson, S.; Berson, E. L.: Null RPGRIP1 alleles
+in patients with Leber congenital amaurosis. Am. J. Hum. Genet. 68:
+1295-1298, 2001.
+
+4. Gerber, S.; Perrault, I.; Hanein, S.; Barbet, F.; Ducroq, D.; Ghazi,
+I.; Martin-Coignard, D.; Leowski, C.; Homfray, T.; Dufier, J.-L.;
+Munnich, A.; Kaplan, J.; Rozet, J.-M.: Complete exon-intron structure
+of the RPGR-interaction protein (RPGRIP1) gene allows the identification
+of mutations underlying Leber congenital amaurosis. Europ. J. Hum.
+Genet. 9: 561-571, 2001.
+
+5. Hameed, A.; Abid, A.; Aziz, A.; Ismail, M.; Mehdi, S. Q.; Khaliq,
+S.: Evidence of RPGRIP1 gene mutations associated with recessive
+cone-rod dystrophy. J. Med. Genet. 40: 616-619, 2003.
+
+6. Hong, D.-H.; Yue, G.; Adamian, M.; Li, T.: Retinitis pigmentosa
+GTPase regulator (RPGR)-interacting protein is stably associated with
+the photoreceptor ciliary axoneme and anchors RPGR to the connecting
+cilium. J. Biol. Chem. 276: 12091-12099, 2001.
+
+7. Lu, X.; Ferreira, P. A.: Identification of novel murine- and human-specific
+RPGRIP1 splice variants with distinct expression profiles and subcellular
+localization. Invest. Ophthal. Vis. Sci. 46: 1882-1290, 2005.
+
+8. Lu, X.; Guruju, M.; Oswald, J.; Ferreira, P. A.: Limited proteolysis
+differentially modulates the stability and subcellular localization
+of domains of RPGRIP1 that are distinctly affected by mutations in
+Leber's congenital amaurosis. Hum. Molec. Genet. 14: 1327-1340,
+2005.
+
+9. Mavlyutov, T. A.; Zhao, H.; Ferreira, P. A.: Species-specific
+subcellular localization of RPGR and RPGRIP isoforms: implications
+for the phenotypic variability of congenital retinopathies among species. Hum.
+Molec. Genet. 11: 1899-1907, 2002.
+
+10. Mellersh, C. S.; Boursnell, M. E. G.; Pettitt, L.; Ryder, E. J.;
+Holmes, N. G.; Grafham, D.; Forman, O. P.; Sampson, J.; Barnett, K.
+C.; Blanton, S.; Binns, M. M.; Vaudin, M.: Canine RPGRIP1 mutation
+establishes cone-rod dystrophy in miniature longhaired dachshunds
+as a homologue of human Leber congenital amaurosis. Genomics 88:
+293-301, 2006.
+
+11. Roepman, R.; Bernoud-Hubac, N.; Schick, D. E.; Maugeri, A.; Berger,
+W.; Ropers, H.-H.; Cremers, F. P. M.; Ferreira, P. A.: The retinitis
+pigmentosa GTPase regulator (RPGR) interacts with novel transport-like
+proteins in the outer segments of rod photoreceptors. Hum. Molec.
+Genet. 9: 2095-2105, 2000.
+
+12. Roepman, R.; Letteboer, S. J. F.; Arts, H. H.; van Beersum, S.
+E. C.; Lu, X.; Krieger, E.; Ferreira, P. A.; Cremers, F. P. M.: Interaction
+of nephrocystin-4 and RPGRIP1 is disrupted by nephronophthisis or
+Leber congenital amaurosis-associated mutations. Proc. Nat. Acad.
+Sci. 102: 18520-18525, 2005.
+
+13. Shu, X.; Fry, A. M.; Tulloch, B.; Manson, F. D. C.; Crabb, J.
+W.; Khanna, H.; Faragher, A. J.; Lennon, A.; He, S.; Trojan, P.; Giessl,
+A.; Wolfrum, U.; Vervoort, R.; Swaroop, A.; Wright, A. F.: RPGR ORF15
+isoform co-localizes with RPGRIP1 at centrioles and basal bodies and
+interacts with nucleophosmin. Hum. Molec. Genet. 14: 1183-1197,
+2005.
+
+14. Won, J.; Gifford, E.; Smith, R. S.; Yi, H.; Ferreira, P. A.; Hicks,
+W. L.; Li, T.; Naggert, J. K.; Nishina, P. M.: RPGRIP1 is essential
+for normal rod photoreceptor outer segment elaboration and morphogenesis. Hum.
+Molec. Genet. 18: 4329-4339, 2009.
+
+CONTRIBUTORS George E. Tiller - updated: 10/4/2010
+George E. Tiller - updated: 5/30/2008
+George E. Tiller - updated: 5/19/2008
+Jane Kelly - updated: 8/13/2007
+Patricia A. Hartz - updated: 10/3/2006
+Patricia A. Hartz - updated: 1/24/2006
+Jane Kelly - updated: 11/17/2005
+George E. Tiller - updated: 5/6/2005
+Victor A. McKusick - updated: 10/1/2003
+George E. Tiller - updated: 7/9/2003
+Michael B. Petersen - updated: 2/8/2002
+Paul J. Converse - updated: 8/13/2001
+Victor A. McKusick - updated: 6/15/2001
+
+CREATED George E. Tiller: 11/30/2000
+
+EDITED carol: 03/24/2011
+wwang: 10/22/2010
+terry: 10/4/2010
+carol: 5/1/2009
+carol: 4/3/2009
+wwang: 6/5/2008
+terry: 5/30/2008
+wwang: 5/22/2008
+terry: 5/19/2008
+carol: 8/13/2007
+mgross: 10/4/2006
+terry: 10/3/2006
+mgross: 1/26/2006
+terry: 1/24/2006
+alopez: 11/17/2005
+tkritzer: 5/6/2005
+carol: 3/29/2004
+tkritzer: 10/24/2003
+tkritzer: 10/6/2003
+tkritzer: 10/1/2003
+cwells: 7/9/2003
+alopez: 2/8/2002
+alopez: 9/6/2001
+mgross: 8/13/2001
+carol: 8/2/2001
+cwells: 6/27/2001
+cwells: 6/22/2001
+terry: 6/15/2001
+joanna: 12/22/2000
+carol: 12/4/2000
+carol: 11/30/2000
+
+601961	TITLE *601961 PROTEIN ARGININE N-METHYLTRANSFERASE 2; PRMT2
+;;HETEROGENEOUS NUCLEAR RIBONUCLEOPROTEIN METHYLTRANSFERASE 1-LIKE 1;
+HRMT1L1;;
+HMT1-LIKE 1
+DESCRIPTION 
+CLONING
+
+Katsanis et al. (1997) isolated HRMT1L1, a novel transcript from
+chromosome 21 similar to the rat protein arginine N-methyltransferase-1
+gene (PRMT1; 602950) reported by Lin et al. (1996). Katsanis et al.
+(1997) found that HRMT1L1 was expressed in all tissues they
+investigated.
+
+Scott et al. (1998) further characterized HRMT1L1 and HRMT1L2. By
+Northern blot analysis, they found that HRMT1L1 is expressed as a 2.4-kb
+transcript in various adult and fetal tissues.
+
+GENE FUNCTION
+
+Katsanis et al. (1997) noted that the function of protein
+methyltransferases is posttranslational methylation of arginine
+residues. Two types of activity had been described, attributed to
+different classes of enzymes. One methylates myelin protein zero (MPZ;
+159440); the other was originally thought to methylate histones, but was
+later found to methylate hnRNPs far more efficiently. The authors
+suggested that HRMT1L1, a human homolog of yeast RMT1, associates with
+hnRNPs.
+
+Scott et al. (1998) found that HRMT1L1 could not methylate HNRNPA1
+(164017) or any other tested substrate in vitro, and did not complement
+a yeast arginine methyltransferase mutant strain.
+
+MAPPING
+
+Katsanis et al. (1997) mapped the PRMT2 gene to chromosome 21 by study
+of monochromosomal cell hybrids and fine mapped the gene by PCR analysis
+of a partial chromosome 21 hybrid panel to a telomeric position on
+21q22.3. Hybridization to a YAC that was positive for S100B (176990)
+indicated that PRMT2 is no more than 10 kb from S100B. S100B was the
+most telomeric chromosome 21 gene known at that time.
+
+REFERENCE 1. Katsanis, N.; Yaspo, M.-L.; Fisher, E. M. C.: Identification and
+mapping of a novel human gene, HRMT1L1, homologous to the rat protein
+arginine N-methyltransferase 1 (PRMT1) gene. Mammalian Genome 8:
+526-529, 1997.
+
+2. Lin, W. J.; Gary, J. D.; Yang, M. C.; Clarke, S.; Herschman, H.
+R.: The mammalian intermediate-early TIS21 protein and the leukemia-associated
+BTG1 protein interact with a protein-arginine N-methyltransferase. J.
+Biol. Chem. 271: 15034-15044, 1996.
+
+3. Scott, H. S.; Antonarakis, S. E.; Lalioti, M. D.; Rossier, C.;
+Silver, P. A.; Henry, M. F.: Identification and characterization
+of two putative human arginine methyltransferases (HRMT1L1 and HRMT1L2). Genomics 48:
+330-340, 1998.
+
+CONTRIBUTORS Rebekah S. Rasooly - updated: 8/6/1998
+
+CREATED Victor A. McKusick: 8/27/1997
+
+EDITED mgross: 04/27/2006
+carol: 6/21/2000
+alopez: 8/6/1998
+mark: 8/28/1997
+mark: 8/27/1997
+
+605939	TITLE *605939 PHOSPHOLIPASE C, DELTA-4; PLCD4
+DESCRIPTION 
+DESCRIPTION
+
+Phosphatidylinositol-specific phospholipase C (PLC) plays an important
+role in receptor-mediated signal transduction by generating 2 second
+messenger molecules, inositol 1,4,5-triphosphate (IP3) and
+diacylglycerol, from phosphatidylinositol 4,5-bisphosphate (PIP2). PLC
+comprises a diverse family of enzymes that differ in structure and
+tissue distribution (Berridge, 1993).
+
+CLONING
+
+By PCR with degenerate oligonucleotide primers, Lee and Rhee (1996)
+cloned PLCD4 from a rat brain cDNA library. The encoded polypeptide
+contains 772 amino acids and is similar in primary structure to
+delta-type PLC isozymes, with overall sequence identities of 45% to
+PLC-delta-1 (602142), 72% to PLC-delta-2, and 47% to PLC-delta-3.
+Recombinant PLCD4 was purified from extracts of HeLa cells that had been
+infected with vaccinia virus containing the corresponding cDNA. The
+purified PLCD4 protein exhibited an apparent molecular mass of 90 kD.
+Specific activity and its dependence on calcium were similar to those of
+PLCD1. The distribution of PLCD4 in 16 different rat tissues was studied
+by immunoblot analysis with PLCD4-specific antibodies of fractions
+obtained after an enzyme-enrichment procedure. The 90-kD immunoreactive
+protein was detected unambiguously in only 8 tissues (testis, brain,
+skeletal muscle, thyroid gland, stomach, thymus, aorta, and heart) and
+was present at concentrations that were low compared to those of other
+major PLC isozymes. An 86-kD band was detectable in spleen. A 93-kD
+immunoreactive protein was also prominent in testis but was not detected
+in the other 7 positive tissues. The 93-kD enzyme appears to be derived
+from a splice variant of the mRNA that encodes the 90-kD PLCD4 and
+contains an additional 32 amino acids between the X and Y catalytic
+domains.
+
+Kim et al. (1999) stated that human PLCD4 was cloned from an
+oligodendroglioma cDNA library (GenBank GENBANK AI366170).
+
+MAPPING
+
+Kim et al. (1999) mapped the human PLCD4 gene to chromosome band 2q35 by
+fluorescence in situ hybridization.
+
+ANIMAL MODEL
+
+Fukami et al. (2001) generated mice deficient in PLCD4 by targeted
+disruption. Male Plcd4-deficient mice either produced few small litters
+or were sterile. In vitro fertilization studies showed that insemination
+with Plcd4 -/- sperm resulted in significantly fewer eggs becoming
+activated and that the calcium transients associated with fertilization
+were absent or delayed. Plcd4 -/- sperm were unable to initiate the
+acrosome reaction, an exocytotic event required for fertilization and
+induced by interaction with the egg coat, the zona pellucida. Fukami et
+al. (2001) concluded that PLCD4 functions in the acrosome reaction
+during mammalian fertilization.
+
+REFERENCE 1. Berridge, M. J.: Inositol trisphosphate and calcium signalling. Nature 361:
+315-325, 1993.
+
+2. Fukami, K.; Nakao, K.; Inoue, T.; Kataoka, Y.; Kurokawa, M.; Fissore,
+R. A.; Nakamura, K.; Katsuki, M.; Mikoshiba, K.; Yoshida, N.; Takenawa,
+T.: Requirement of phospholipase C-delta-4 for the zona pellucida-induced
+acrosome reaction. Science 292: 920-923, 2001.
+
+3. Kim, H.; Suh, P. G.; Ryu, S. H.; Park, S. H.: Assignment of the
+human PLC-delta-4 gene (PLCD4) to human chromosome band 2q35 by fluorescence
+in situ hybridization. Cytogenet. Cell Genet. 87: 254-255, 1999.
+
+4. Lee, S. B.; Rhee, S. G.: Molecular cloning, splice variants, expression,
+and purification of phospholipase C-delta-4. J. Biol. Chem. 271:
+25-31, 1996.
+
+CREATED Ada Hamosh: 5/16/2001
+
+EDITED carol: 06/22/2009
+alopez: 5/16/2001
+
+600026	TITLE *600026 SYNTROPHIN, BETA-1; SNTB1
+;;SNT2B1;;
+DYSTROPHIN-ASSOCIATED PROTEIN, BASIC A1; A1B;;
+DAPA1B
+DESCRIPTION Dystrophin-associated protein A1 is a heterogeneous group of
+phosphorylated proteins consisting of distinct acidic and basic
+components, designated alpha-A1 and beta-A1, respectively. From the
+partial peptide sequence of A1 complex purified from rabbit muscle, Ahn
+et al. (1994) designed oligonucleotide probes that were used to isolate
+a cDNA for 1 human isoform of A1. This cDNA was found to encode a basic
+A1 isoform that was distinct from the previously described syntrophins
+in Torpedo and mouse and was expressed in many tissues with at least 5
+distinct mRNA species. Comparison of the human cDNA sequence with the
+GenBank expressed sequence tag (EST) database identified a sequence
+related to human skeletal muscle EST25263, which was thought to be a
+human homolog of mouse syntrophin-2 (see 600027). By study of a panel of
+rodent/human somatic cell hybrids followed by fluorescence in situ
+hybridization, Ahn et al. (1994) mapped the A1B gene to 8q23-q24.
+
+Yang et al. (1994) reviewed the heterogeneity of the 59-kD DAP which is
+an intracellular protein triplet component of the
+dystrophin-glycoprotein complex of muscle.
+
+Any of the dystrophin-associated proteins are candidates for the site of
+mutation in neuromuscular disease. The map location of the A1B gene
+appears to exclude it as the basis of any of the human neuromuscular
+diseases with known map location. However, due to the wide tissue
+distribution of the A1 transcript, it is possible that a defect of this
+gene would result in a nonmuscular disorder.
+
+REFERENCE 1. Ahn, A. H.; Yoshida, M.; Anderson, M. S.; Feener, C. A.; Selig,
+S.; Hagiwara, Y.; Ozawa, E.; Kunkel, L. M.: Cloning of human basic
+A1, a distinct 59-kDa dystrophin-associated protein encoded on chromosome
+8q23-24. Proc. Nat. Acad. Sci. 91: 4446-4450, 1994.
+
+2. Yang, B.; Ibraghimov-Beskrovnaya, O.; Moomaw, C. R.; Slaughter,
+C. A.; Campbell, K. P.: Heterogeneity of the 59-kDa dystrophin-associated
+protein revealed by cDNA cloning and expression. J. Biol. Chem. 269:
+6040-6044, 1994.
+
+CREATED Victor A. McKusick: 7/13/1994
+
+EDITED carol: 11/08/2000
+carol: 10/24/2000
+carol: 10/13/2000
+mcapotos: 10/12/2000
+dkim: 7/16/1998
+mark: 1/28/1996
+terry: 1/23/1996
+mark: 4/24/1995
+carol: 1/13/1995
+carol: 9/16/1994
+mimadm: 7/30/1994
+
+124095	TITLE *124095 CYTOPLASMIC TYROSINE KINASE; CSK
+;;c-SRC TYROSINE KINASE
+DESCRIPTION 
+CLONING
+
+Partanen et al. (1991) cloned a novel cytoplasmic tyrosine kinase
+designated CSK. The CSK gene was ubiquitously expressed in human tissues
+as 2 mRNA species of 2.6 and 3.4 kb, although in some tissues and cell
+lines, only the larger mRNA was detected.
+
+GENE FUNCTION
+
+CSK downregulates tyrosine kinase activity of the SRC oncoprotein
+(190090) through tyrosine phosphorylation of the SRC carboxy terminus.
+Since cell transformation by SRC oncoproteins is caused by various
+mechanisms that interfere with this phosphorylation, the CSK gene might
+function as an antioncogene (Armstrong et al., 1992).
+
+Cloutier and Veillette (1996) used the yeast 2-hybrid system to identify
+proteins associated with CSK. They found that the Src homology-3 (SH3)
+domain of CSK associates with a proline-rich region of PEP (600716), a
+protein-tyrosine phosphatase expressed in hemopoietic cells. Cloutier
+and Veillette (1996) showed that this association is highly specific and
+speculated that PEP may be an effector and/or regulator of CSK in T
+cells and other hemopoietic cells.
+
+MAPPING
+
+Armstrong et al. (1992) used in situ hybridization to map the CSK gene
+to 15q23-q25.
+
+MOLECULAR GENETICS
+
+- Associations Pending Confirmation
+
+CSK physically interacts with the intracellular phosphatase LYP (PTPN22;
+600716) and can modify the activation state of downstream Src kinases,
+such as LYN (165120), in lymphocytes. Manjarrez-Orduno et al. (2012)
+identified an association of CSK with systemic lupus erythematosus (SLE;
+152700) and refined its location to the intronic polymorphism dbSNP
+rs34933034 (odds ratio = 1.32; p = 1.04 x 10(-9)). The risk allele at
+this SNP is associated with increased CSK expression and augments
+inhibitory phosphorylation of LYN. In carriers of the risk allele, there
+is increased B-cell receptor-mediated activation of mature B cells, as
+well as higher concentrations of plasma IgM, relative to individuals in
+the nonrisk haplotype. Moreover, the fraction of transitional B cells is
+doubled in the cord blood of carriers of the risk allele, due to an
+expansion of late transitional cells in a stage targeted by selection
+mechanisms. Manjarrez-Orduno et al. (2012) concluded that their results
+suggested that the LYP-CSK complex increases susceptibility to lupus at
+multiple maturation and activation points in B cells.
+
+ANIMAL MODEL
+
+Lowry et al. (2002) found that actin stress fiber formation induced by G
+proteins and G protein receptors was completely blocked in Csk-deficient
+mouse embryonic fibroblasts. Reintroduction of Csk into Csk-deficient
+cells restored G protein-induced actin stress fiber formation. Rescue
+experiments with catalytic mutants of Csk demonstrated that Csk
+catalytic activity was required for stress fiber formation. Lowry et al.
+(2002) found that G-beta (see GNB1; 139380)/G-gamma (see GNG2; 606981)
+dimers translocated Csk to the plasma membrane and directly increased
+Csk kinase activity. They concluded that CSK plays a critical role in
+mediating G protein signals in the reorganization of the actin
+cytoskeleton.
+
+REFERENCE 1. Armstrong, E.; Cannizzaro, L.; Bergman, M.; Huebner, K.; Alitalo,
+K.: The c-src tyrosine kinase (CSK) gene, a potential antioncogene,
+localizes to human chromosome region 15q23-q25. Cytogenet. Cell Genet. 60:
+119-120, 1992.
+
+2. Cloutier, J.-F.; Veillette, A.: Association of inhibitory tyrosine
+protein kinase p50(csk) with protein tyrosine phosphatase PEP in T
+cells and other hemopoietic cells. EMBO J. 15: 4909-4918, 1996.
+
+3. Lowry, W. E.; Huang, J.; Ma, Y.-C.; Ali, S.; Wang, D.; Williams,
+D. M.; Okada, M.; Cole, P. A.; Huang, X.-Y.: Csk, a critical link
+of G protein signals to actin cytoskeletal reorganization. Dev. Cell 2:
+733-744, 2002.
+
+4. Manjarrez-Orduno, N.; Marasco, E.; Chung, S. A.; Katz, M. S.; Kiridly,
+J. F.; Simpfendorfer, K. R.; Freudenberg, J.; Ballard, D. H.; Nashi,
+E.; Hopkins, T. J.; Cunninghame Graham, D. S.; Lee, A. T.; and 11
+others: CSK regulatory polymorphism is associated with systemic
+lupus erythematosus and influences B-cell signaling and activation. Nature
+Genet. 44: 1227-1230, 2012.
+
+5. Partanen, J.; Armstrong, E.; Bergman, M.; Makela, T. P.; Hirvonen,
+H.; Huebner, K.; Alitalo, K.: Cyl encodes a putative cytoplasmic
+tyrosine kinase lacking the conserved tyrosine autophosphorylation
+site (Y416-src). Oncogene 6: 2013-2018, 1991.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/11/2013
+Patricia A. Hartz - updated: 9/8/2005
+Jennifer P. Macke - updated: 11/20/1997
+
+CREATED Victor A. McKusick: 8/14/1992
+
+EDITED alopez: 01/15/2013
+terry: 1/11/2013
+mgross: 9/8/2005
+alopez: 2/1/1999
+alopez: 12/17/1997
+alopez: 12/11/1997
+carol: 8/17/1992
+carol: 8/14/1992
+
+614531	TITLE *614531 RASGEF DOMAIN FAMILY, MEMBER 1A; RASGEF1A
+DESCRIPTION 
+DESCRIPTION
+
+RAS proteins (see HRAS; 190020) are small GTPases that are
+interconvertible between an active GTP-bound form and an inactive
+GDP-bound form. Guanine nucleotide exchange factors (GEFs), such as
+RASGEF1A, induce release of GDP, permitting reloading of GTP onto RAS
+and activation of cell signaling (Ura et al., 2006).
+
+CLONING
+
+Using microarray analysis to identify genes upregulated in intrahepatic
+cholangiocarcinoma, Ura et al. (2006) identified RASGEF1A. The deduced
+protein contains a RASGEF domain and a RAS exchange motif, and it shares
+30% and 29% identity with PDZGEF2 (RAPGEF6; 610499) and PDZGEF1
+(RAPGEF2; 609530), respectively. Northern blot analysis detected a
+transcript of about 3.3 kb that was moderately expressed in brain and
+spinal cord and weakly expressed in lymph node and adrenal gland, but
+not in any of 19 other tissues examined.
+
+GENE FUNCTION
+
+Ura et al. (2006) found that recombinant RASGEF1A stimulated
+radiolabeled GDP dissociation from KRAS (190070), HRAS, and NRAS
+(164790). In transfected COS-7 cells, exogenous RASGEF1A activated Ras,
+which increased its affinity for Raf1 (164760). Overexpression of
+RASGEF1A in COS-7 cells increased cell migration, but it had no effect
+on colony-forming ability. Knockdown of RASGEF1A via small interfering
+RNA reduced cell growth of COS-7 and intrahepatic cholangiocarcinoma
+cells.
+
+Yaman et al. (2009) presented evidence that RASGEF1A and RASGEF1B
+(614532) function as specific GEFs for RAP2 (RAP2A; 179540), but not for
+RAP1 (RAP1A; 179520) or other members of the RAS family.
+
+MAPPING
+
+Hartz (2012) mapped the RASGEF1A gene to chromosome 10q11.21 based on an
+alignment of the RASGEF1A sequence (GenBank GENBANK AK095136) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  1/9/2012.
+
+2. Ura, K.; Obama, K.; Satoh, S.; Sakai, Y.; Nakamura, Y.; Furukawa,
+Y.: Enhanced RASGEF1A expression is involved in the growth and migration
+of intrahepatic cholangiocarcinoma. Clin. Cancer Res. 12: 6611-6616,
+2006.
+
+3. Yaman, E.; Gasper, R.; Koerner, C.; Wittinghofer, A.; Tazebay,
+U. H.: RasGEF1A and RasGEF1B are guanine nucleotide exchange factors
+that discriminate between Rap GTP-binding proteins and mediate Rap2-specific
+nucleotide exchange. FEBS J. 276: 4607-4616, 2009.
+
+CREATED Patricia A. Hartz: 3/15/2012
+
+EDITED mgross: 03/15/2012
+
+164873	TITLE *164873 ETS VARIANT GENE 3; ETV3
+;;ONCOGENE PE1; PE1;;
+MITOGENIC ETS TRANSCRIPTIONAL SUPPRESSOR; METS
+DESCRIPTION 
+CLONING
+
+The ETS oncogene (164720) was first described as part of a fusion gene
+transduced by the avian retrovirus E26. In E26, v-ets and v-myb (189990)
+were fused to a portion of GAG to form the transforming gene. The ETS
+oncogene family shares a conserved peptide motif called the ETS domain
+that mediates sequence-specific DNA binding. This motif is unique among
+transcription factor families. Using partially degenerate
+oligonucleotides from conserved regions of the ETS domain and the
+polymerase chain reaction, Klemsz et al. (1994) isolated a new member of
+the ETS family, designated PE1, from HL60 cells. The PE1 gene was
+expressed as an approximately 5-kb transcript in most cell lines tested.
+
+GENE FUNCTION
+
+Klappacher et al. (2002) described a mechanism in which induction of the
+ETS repressor METS links terminal differentiation to cell cycle arrest.
+Using macrophages as a model, they provided evidence that METS blocks
+RAS (190020)-dependent proliferation without inhibiting RAS-dependent
+expression of cell type-specific genes by selectively replacing ETS
+activators on the promoters of cell cycle control genes. The
+antiproliferative effects of METS required its interaction with DP103
+(DDX20; 606168), a DEAD box-containing protein that assembles a novel
+corepressor complex. Functional interactions between the METS/DP103
+complex and E2F (see 189971)/RB1 (614041) family proteins were also
+necessary for inhibition of cellular proliferation, suggesting a
+combinatorial code that directs permanent cell cycle exit during
+terminal differentiation.
+
+MAPPING
+
+Using both in situ hybridization and study of human/hamster cell
+hybrids, Klemsz et al. (1994) demonstrated that the PE1 gene is located
+on 1q21-q23.
+
+REFERENCE 1. Klappacher, G. W.; Lunyak, V. V.; Sykes, D. B.; Sawka-Verhelle,
+D.; Sage, J.; Brard, G.; Ngo, S. D.; Gangadharan, D.; Jacks, T.; Kamps,
+M. P.; Rose, D. W.; Rosenfeld, M. G.: An induced Ets repressor complex
+regulates growth arrest during terminal macrophage differentiation. Cell 109:
+169-180, 2002.
+
+2. Klemsz, M.; Hromas, R.; Raskind, W.; Bruno, E.; Hoffman, R.: PE-1,
+a novel ETS oncogene family member, localizes to chromosome 1q21-q23. Genomics 20:
+291-294, 1994.
+
+CONTRIBUTORS Stylianos E. Antonarakis - updated: 5/3/2002
+
+CREATED Victor A. McKusick: 4/4/1994
+
+EDITED carol: 06/17/2011
+mgross: 5/3/2002
+carol: 1/5/1999
+carol: 4/4/1994
+
+613465	TITLE *613465 NONMETASTATIC CELLS 7, PROTEIN EXPRESSED IN; NME7
+;;NM23H7;;
+NUCLEOSIDE DIPHOSPHATE KINASE 7
+DESCRIPTION 
+CLONING
+
+In a review of human Nm23/nucleoside diphosphate kinases (EC 2.7.4.6),
+Lacombe et al. (2000) stated that the NME7 gene encodes a deduced
+376-amino acid protein containing 2 kinase-like domains, each of which
+lacks 3 residues deemed crucial for catalysis. RT-PCR detected highest
+NME7 expression in testis, and weaker expression in liver, heart, brain,
+ovary, small intestine, and spleen.
+
+GENE FUNCTION
+
+Hutchins et al. (2010) showed that mouse Nme7 associated with the
+centralspindlin complex (see KIF23, 605064) in transfected HeLa cells.
+This complex is believed to have a role in spindle assembly and
+cytokinesis.
+
+GENE STRUCTURE
+
+Lacombe et al. (2000) determined that the NME7 gene contains 12 exons
+spanning over 180 kb.
+
+MAPPING
+
+Lacombe et al. (2000) mapped the NME7 gene to chromosome 1q24. They
+noted that NME7 and ATP1B1 (182330) lie on opposite strands, with
+overlapping 3-prime UTRs.
+
+REFERENCE 1. Hutchins, J. R. A.; Toyoda, Y.; Hegemann, B.; Poser, I.; Heriche,
+J.-K.; Sykora, M. M.; Augsburg, M.; Hudecz, O.; Buschhorn, B. A.;
+Bulkescher, J.; Conrad, C.; Comartin, D.; and 18 others: Systematic
+analysis of human protein complexes identifies chromosome segregation
+proteins. Science 328: 593-599, 2010.
+
+2. Lacombe, M.-L.; Milon, L.; Munier, A.; Mehus, J. G.; Lambeth, D.
+O.: The human Nm23/nucleoside diphosphate kinases. J. Bioenerg.
+Biomembr. 32: 247-258, 2000.
+
+CREATED Patricia A. Hartz: 6/29/2010
+
+EDITED carol: 06/29/2010
+carol: 6/29/2010
+
+611135	TITLE *611135 KLOTHO, BETA; KLB
+;;BETA-KLOTHO; BKL
+DESCRIPTION 
+CLONING
+
+By searching databases for homologs of Klotho (KL; 604824), Ito et al.
+(2000) identified a partial human cDNA encoding KLB. They cloned
+full-length mouse Klb and found that it encodes a 1,043-amino acid
+protein that shares 41.2% identity with mouse Kl. Like Kl, Klb contains
+an N-terminal signal sequence, followed by 2 tandemly repeated
+glycosidase-like domains, a C-terminal transmembrane domain, and a short
+cytoplasmic tail. Both Kl and Klb lack 2 key glutamates in the predicted
+active centers of the glycosidase-like domains. Northern blot analysis
+of adult mouse tissues showed that Klb was predominantly expressed in
+liver and pancreas, with lower levels in skin and weak expression in
+stomach, skeletal muscle, small intestine, and lung. In mouse embryos,
+Klb expression became detectable at day 11 and increased in intensity as
+development progressed. In situ hybridization of mouse embryos revealed
+strong Klb expression in yolk sac, gut, brown and white adipose tissue,
+liver, and pancreas.
+
+GENE FUNCTION
+
+Ogawa et al. (2007) noted that FGF23 (605380) requires KL to bind FGFRs
+and activate FGF signaling in various cell types. Using immunoblot
+analysis, they found that human embryonic kidney cells overexpressing
+KLB, but not those overexpressing KL, responded to FGF21 (609436).
+Coimmunoprecipitation analysis showed that FGF21 required KLB to bind
+FGFR1c (136350) and FGFR4 (134935). FGF21 stimulated glucose uptake in
+adipocytes, which Ogawa et al. (2007) found expressed KLB, but not in
+preadipocytes, which did not express KLB. Small interfering RNA-mediated
+knockdown of KLB in adipocytes abolished the effect of FGF21 on glucose
+uptake. Mice injected with Fgf21 displayed Erk1 (MAPK3; 601795)/Erk2
+(MAPK1; 176948) phosphorylation in white adipose tissue, which expressed
+Klb, but not in kidney or skeletal muscle, which did not express Klb.
+Phosphorylation in kidney, which expressed Kl, occurred only in response
+to Fgf23. Ogawa et al. (2007) concluded that KLB is an essential
+cofactor for FGF21 activity and suggested that the Klotho gene family
+may have evolved to confer tissue-specific bioactivity on FGF19 (603891)
+subfamily members.
+
+MAPPING
+
+By genomic sequence analysis, Ito et al. (2000) mapped the KLB gene to
+chromosome 4.
+
+ANIMAL MODEL
+
+Ito et al. (2005) found that Klb -/- mice were viable, fertile, and
+appeared grossly normal, although they had slightly decreased body
+weight compared with wildtype and heterozygous mice. Klb -/- mice showed
+dramatically elevated synthesis and secretion of bile acids and strong
+upregulation of 2 key bile acid synthase genes, Cyp7a1 (118455) and
+Cyp8b1 (602172). Nuclear receptor pathways and enterohepatic
+circulation, which regulates bile acid synthesis, were largely intact,
+but bile acid-dependent induction of Nr0b2 (604630), a negative
+regulator of Cyp7a1 and Cyp8b1, was significantly attenuated.
+Suppression of Cyp7a1 expression by dietary bile acids was impaired in
+Klb -/- mice, whereas that of Cyp8b1 expression was not significantly
+altered. Ito et al. (2005) concluded that KLB may contribute to
+CYP7A1-selective regulation. In addition, Klb -/- mice exhibited
+resistance to gallstone formation, suggesting a potential clinical
+relevance of the KLB system.
+
+REFERENCE 1. Ito, S.; Fujimori, T.; Furuya, A.; Satoh, J.; Nabeshima, Y.; Nabeshima,
+Y.: Impaired negative feedback suppression of bile acid synthesis
+in mice lacking beta-Klotho. J. Clin. Invest. 115: 2202-2208, 2005.
+
+2. Ito, S.; Kinoshita, S.; Shiraishi, N.; Nakagawa, S.; Sekine, S.;
+Fujimori, T.; Nabeshima, Y.: Molecular cloning and expression analyses
+of mouse beta-klotho, which encodes a novel Klotho family protein. Mech.
+Dev. 98: 115-119, 2000.
+
+3. Ogawa, Y.; Kurosu, H.; Yamamoto, M.; Nandi, A.; Rosenblatt, K.
+P.; Goetz, R.; Eliseenkova, A. V.; Mohammadi, M.; Kuro-o, M.: Beta-Klotho
+is required for metabolic activity of fibroblast growth factor 21. Proc.
+Nat. Acad. Sci. 104: 7432-7437, 2007.
+
+CONTRIBUTORS Paul J. Converse - updated: 06/26/2007
+
+CREATED Matthew B. Gross: 6/22/2007
+
+EDITED mgross: 06/26/2007
+wwang: 6/25/2007
+mgross: 6/22/2007
+
+608794	TITLE *608794 PHOSPHATIDYLINOSITOL TRANSFER PROTEIN, MEMBRANE-ASSOCIATED, 1; PITPNM1
+;;DRES9;;
+PYK2 N-TERMINAL DOMAIN-INTERACTING RECEPTOR 2; NIR2;;
+RETINAL DEGENERATION GENE B, DROSOPHILA, HOMOLOG OF, ALPHA; RDGBA
+DESCRIPTION 
+DESCRIPTION
+
+PITPNM1 belongs to a family of membrane-associated phosphatidylinositol
+transfer domain-containing proteins that share homology with the
+Drosophila retinal degeneration B (rdgB) protein (Ocaka et al., 2005).
+
+CLONING
+
+The Drosophila rdgB gene encodes a 116-kD transmembrane protein
+expressed in the eye and central nervous system (CNS). Mutations in rdgB
+cause light-induced retinal degeneration (Vihtelic et al., 1991). By
+screening an EST database for homologs of Drosophila rdgB, followed by
+probing a teratocarcinoma/neuron cDNA library, Rubboli et al. (1997)
+obtained a full-length cDNA encoding human PITPNM1, which they called
+DRES9. The predicted 1,242-amino acid PITPNM1 protein shares 96% and 66%
+amino acid identity with mouse Pitpnm1 and Drosophila rdgB,
+respectively. Northern blot analysis showed ubiquitous expression of a
+4.4-kb PITPNM1 transcript, with highest levels in brain, skeletal
+muscle, kidney, and heart. In situ hybridization analysis of murine
+embryo tissues at various developmental stages revealed high Pitpnm1
+expression in the neural retina and in the CNS.
+
+By searching an EST database for sequences similar to bovine rdgB, Chang
+et al. (1997) identified partial human PITPNM1 sequences, which they
+used to obtain genomic clones. The deduced 1,059-amino acid protein
+shares 92% identity with mouse Pitpnm1, with highest similarity in the
+N- and C-terminal regions. Northern blot analysis indicated that bovine
+and mouse Pitpnm1 were expressed strongly in retina and more weakly in
+brain, but not in any other tissue examined. In situ hybridization of
+mouse retina detected Pitpnm1 mRNA in photoreceptors and the inner
+nuclear layer. Immunocytochemistry detected Pitpnm1 in photoreceptors,
+particularly in the inner segments and the outer plexiform layer, the
+inner plexiform layer, and possibly the ganglion cell layer.
+
+By yeast 2-hybrid analysis of a brain cDNA library, Lev et al. (1999)
+cloned PITPNM1, which they called NIR2, as one of a family of proteins
+that interact with the tyrosine kinase PYK2 (PTK2B; 601212). The deduced
+1,244-amino acid PITPNM1 protein shares structural domains with other
+family members, including an N-terminal phosphatidylinositol (PI)
+transfer domain, an acidic calcium-binding region, 6 transmembrane
+domains, and a conserved C-terminal domain. Northern blot analysis
+detected ubiquitous expression of PITPNM1, with highest levels in brain,
+heart, thymus, and peripheral blood leukocytes.
+
+GENE FUNCTION
+
+Chang et al. (1997) demonstrated the mouse Pitpnm1 fully rescued the
+rdgB-dependent retinal degeneration and abnormal electroretinogram in
+flies.
+
+Lev et al. (1999) determined that the C terminus of PITPNM1 bound PYK2.
+Analysis of PITPNM1 or PYK2 immunoprecipitates of cells coexpressing
+PITPNM1 and PYK2 demonstrated that both proteins were tyrosine
+phosphorylated. Agonists known to induce tyrosine phosphorylation of
+PYK2 also induced strong phosphorylation of PITPNM1, and both proteins
+were associated in a stable complex. Chang et al. (1997) concluded that
+PITPNM1 is a direct or indirect substrate for PYK2 tyrosine
+phosphorylation.
+
+Tian et al. (2002) showed that PITPNM1 contains a novel N-terminal Rho
+(see RhoA; 165390)-inhibitory domain (RID) that binds to GDP-bound Rho.
+Ectopic expression of the PITPNM1 RID domain caused loss of F-actin
+staining and inhibited Rho-mediated stress fiber formation and
+lysophosphatidic acid-induced RhoA activation. Expression of the RID
+domain along with the PI transfer domain removed these effects. Blocking
+of PITPNM1 function by PITPNM1 antibody injection reduced neurite
+extension in neuronal cells, while PITPNM1 overexpression reduced
+Rho-mediated neurite retraction.
+
+Litvak et al. (2002) showed that PITPNM1 is essential for cytokinesis.
+PITPNM1 localized to the cleavage furrow during cytokinesis, and
+blocking of PITPNM1 function by PITPNM1 antibody injection caused
+multinucleate cell formation. Overexpression of a deletion construct
+lacking the N-terminal RID and PI domains caused specific blockage of
+cytokinesis. Overexpression of the RID domain of PITPNM1 caused abnormal
+cytokinesis, resulting in formation of a long bridge-like structure
+between putative daughter cells. Coimmunoprecipitation showed that
+PITPNM1 bound to RhoA in mitotic cells, and confocal microscopy showed
+the 2 proteins localized together at the cleavage furrow during cell
+division.
+
+GENE STRUCTURE
+
+Chang et al. (1997) determined that the PITPNM1 gene contains 21 exons
+and spans about 12 kb. Ocaka et al. (2005) determined that the PITPNM1
+gene contains 23 exons and spans approximately 13 kb.
+
+MAPPING
+
+By FISH, Chang et al. (1997) mapped the PITPNM1 gene to chromosome
+11q13.1. They mapped the mouse Pitpnm1 gene to a proximal region of
+chromosome 19 that shows homology of synteny to human chromosome
+11q13.1.
+
+REFERENCE 1. Chang, J. T.; Milligan, S.; Li, Y.; Chew, C. E.; Wiggs, J.; Copeland,
+N. G.; Jenkins, N. A.; Campochiaro, P. A.; Hyde, D. R.; Zack, D. J.
+: Mammalian homolog of Drosophila retinal degeneration B rescues the
+mutant fly phenotype. J. Neurosci. 17: 5881-5890, 1997.
+
+2. Lev, S.; Hernandez, J.; Martinez, R.; Chen, A.; Plowman, G.; Schlessinger,
+J.: Identification of a novel family of targets of PYK2 related to
+Drosophila retinal degeneration B (rdgB) protein. Molec. Cell. Biol. 19:
+2278-2288, 1999.
+
+3. Litvak, V.; Tian, D.; Carmon, S.; Lev, S.: Nir2, a human homolog
+of Drosophila melanogaster retinal degeneration B protein, is essential
+for cytokinesis. Molec. Cell. Biol. 22: 5064-5075, 2002.
+
+4. Ocaka, L.; Spalluto, C.; Wilson, D. I.; Hunt, D. M.; Halford, S.
+: Chromosomal localization, genomic organization and evolution of
+the genes encoding human phosphatidylinositol transfer protein membrane-associated
+(PITPNM) 1,2 and 3. Cytogenet. Genome Res. 108: 293-302, 2005.
+
+5. Rubboli, F.; Bulfone, A.; Bogni, S.; Marchitiello, A.; Zollo, M.;
+Borsani, G.; Ballabio, A.; Banfi, S.: A mammalian homologue of the
+Drosophila retinal degeneration B gene: implications for the evolution
+of phototransduction mechanisms. Genes Function 1: 205-213, 1997.
+
+6. Tian, D.; Litvak, V.; Toledo-Rodriguez, M.; Carmon, S.; Lev, S.
+: Nir2, a novel regulator of cell morphogenesis. Molec. Cell. Biol. 22:
+2650-2662, 2002.
+
+7. Vihtelic, T. S.; Hyde, D. R.; O'Tousa, J. E.: Isolation and characterization
+of the Drosophila retinal degeneration B (rdgB) gene. Genetics 127:
+761-768, 1991.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/12/2008
+Patricia A. Hartz - updated: 9/14/2004
+
+CREATED Laura L. Baxter: 7/12/2004
+
+EDITED mgross: 02/13/2008
+terry: 2/12/2008
+mgross: 9/14/2004
+mgross: 7/12/2004
+
+613288	TITLE *613288 TRIPARTITE MOTIF-CONTAINING PROTEIN 72; TRIM72
+;;MITSUGUMIN, 53-KD; MG53
+DESCRIPTION 
+CLONING
+
+Cai et al. (2009) cloned mouse Trim72, which they called Mg53, from a
+skeletal muscle cDNA library. By database analysis, they identified
+human MG53. Both the mouse and human proteins contain 477 amino acids
+and have an N-terminal tripartite motif consisting of RING, B-box, and
+coiled-coil domains, followed by a C-terminal SPRY domain. Northern and
+Western blot analyses of mouse tissues detected Mg53 RNA and protein
+only in cardiac and skeletal muscle. Fluorescence-tagged Mg53 and
+endogenous Mg53 localized to the sarcolemmal membrane and intracellular
+vesicles of mouse skeletal muscle.
+
+GENE FUNCTION
+
+Cai et al. (2009) showed that overexpression of Mg53 increased vesicular
+trafficking and plasma membrane fusion events in C2C12 mouse myogenic
+cells. Scrape-wounding of C2C12 cells resulted in dense accumulation of
+fluorescence-tagged Mg53 at the site of membrane damage, and this
+accumulation required Mg53 oligomerization and was associated with
+nucleation of vesicles into a membrane patch. Oligomerization of Mg53
+required oxidation of cys242, and interaction of Mg53 with
+phosphatidylserine mediated recruitment of vesicles to sites of injury.
+Translocation of fluorescence-tagged Mg53 to sites of injury showed both
+Ca(2+)-dependent and -independent components.
+
+Zhu et al. (2011) showed that mouse Mg53 and Ptrf (603198) interacted
+with each other and functioned together in muscle membrane repair. Ptrf
+was required for the translocation of Mg53 to the site of membrane
+injury in cell culture models and in mice irradiated with a UV laser to
+cause localized sarcolemma damage. A mouse mutant ortholog of the PTRF
+525delG mutation (603198.0002) resulted in mislocalization of Ptrf to
+the nucleus in transfected human cell lines. Consequently, mutant Ptrf
+was unable to target Mg53 to the plasma membrane for repair of
+detergent-induced membrane damage. The authors also showed that
+cholesterol, which is exposed during membrane damage, was critical for
+membrane repair. Cholesterol, bound by Ptrf, functioned as a nucleation
+site for the recruitment of Mg53-containing vesicles. Zhu et al. (2011)
+hypothesized that, upon cell membrane disruption, PTRF recognizes
+exposed cholesterol at the site of injury and tethers MG53 and its
+associated intracellular vesicles to the damage site, allowing formation
+of a membrane repair patch.
+
+Song et al. (2013) showed in mice that muscle-specific Mg53 mediates the
+degradation of the insulin receptor (147670) and insulin receptor
+substrate-1 (IRS1; 147545), and when upregulated causes metabolic
+syndrome featuring insulin resistance, obesity, hypertension, and
+dyslipidemia. Mg53 expression is markedly elevated in models of insulin
+resistance, and Mg53 overexpression suffices to trigger muscle insulin
+resistance and metabolic syndrome sequentially. Conversely, ablation of
+Mg53 prevents diet-induced metabolic syndrome by preserving the insulin
+receptor, Irs1, and insulin signaling integrity. Mechanistically, Mg53
+acts as an E3 ligase targeting the insulin receptor and Irs1 for
+ubiquitin-dependent degradation, comprising a central mechanism
+controlling insulin signal strength in skeletal muscle. Song et al.
+(2013) concluded that these findings defined MG53 as a novel therapeutic
+target for treating metabolic disorders and associated cardiovascular
+complications.
+
+GENE STRUCTURE
+
+Cai et al. (2009) determined that the TRIM72 gene contains 6 coding
+exons.
+
+MAPPING
+
+By database analysis, Cai et al., 2009 determined that the TRIM72 gene
+maps to chromosome 16p11.2.
+
+ANIMAL MODEL
+
+Cai et al. (2009) found that Mg53 -/- mice were viable until at least 11
+months of age. However, Mg53 -/- mice developed progressive skeletal
+muscle pathology, with increased number of central nuclei in myotubes,
+decreased diameter of muscle fibers, and compromised contractile
+function. Skeletal muscle pathology was exacerbated by exercise stress
+in Mg53 -/- muscle and involved susceptibility to skeletal muscle
+membrane injury. Primary cultures of wildtype muscle could reseal
+sarcolemmal membranes following puncture wounding, but Mg53 -/- muscle
+could not, resulting in Ca(2+)-induced contraction. Electron microscopy
+revealed limited recruitment of vesicles to damaged sarcolemma in Mg53
+-/- mice. The defect in membrane repair in Mg53 -/- muscle appeared to
+be upstream of a Ca(2+)-dependent membrane-resealing process.
+
+REFERENCE 1. Cai, C.; Masumiya, H.; Weisleder, N.; Matsuda, N.; Nishi, M.; Hwang,
+M.; Ko, J.-K.; Lin, P.; Thornton, A.; Zhao, X.; Pan, Z.; Komazaki,
+S.; Brotto, M.; Takeshima, H.; Ma, J.: MG53 nucleates assembly of
+cell membrane repair machinery. Nature Cell Biol. 11: 56-64, 2009.
+
+2. Song, R.; Peng, W.; Zhang, Y.; Lv, F.; Wu, H.-K.; Guo, J.; Cao,
+Y.; Pi, Y.; Zhang, X.; Jin, L.; Zhang, M.; Jiang, P.; Liu, F.; Meng,
+S.; Zhang, X.; Jiang, P.; Cao, C.-M.; Xiao, R.-P.: Central role of
+E3 ubiquitin ligase MG53 in insulin resistance and metabolic disorders. Nature 494:
+375-379, 2013.
+
+3. Zhu, H.; Lin, P.; De, G.; Choi, K.; Takeshima, H.; Weisleder, N.;
+Ma, J.: Polymerase transcriptase release factor (PTRF) anchors MG53
+protein to cell injury site for initiation of membrane repair. J.
+Biol. Chem. 286: 12820-12824, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 3/21/2013
+Patricia A. Hartz - updated: 6/10/2011
+
+CREATED Patricia A. Hartz: 3/1/2010
+
+EDITED alopez: 04/02/2013
+alopez: 4/2/2013
+terry: 3/21/2013
+wwang: 6/30/2011
+terry: 6/10/2011
+mgross: 3/1/2010
+
+112262	TITLE *112262 BONE MORPHOGENETIC PROTEIN 4; BMP4
+;;BONE MORPHOGENETIC PROTEIN 2B; BMP2B;;
+BMP2B1
+DESCRIPTION 
+DESCRIPTION
+
+BMP4 is a vital regulatory molecule that functions throughout
+development in mesoderm induction, tooth development, limb formation,
+bone induction, and fracture repair. BMP4 is a member of the BMP family
+and transforming growth factor beta-1 (TGFB1; 190180) superfamily of
+secretory signaling molecules that play essential roles in embryonic
+development (summary by Bakrania et al., 2008).
+
+CLONING
+
+Bakrania et al. (2008) stated that the BMP4 protein is 408 amino acids
+long and consists of a TGFB1 propeptide domain and a TGFB domain that
+forms an active dimer.
+
+GENE STRUCTURE
+
+The transcriptional unit of the human BMP4 gene is encoded by 5 exons
+and spans approximately 7 kb (van den Wijngaard et al., 1996). The human
+BMP4 gene has at least 2 functional promoters, which are used in a cell
+type-specific manner.
+
+Shore et al. (1998) determined that alternate first exons may be used
+and that the first 2 exons are untranslated. The promoter region is
+GC-rich and contains no obvious TATA or CAAT consensus sequences. Both
+positive and negative transcriptional regulatory elements are contained
+within the 5-prime flanking region.
+
+Bakrania et al. (2008) stated that the BMP4 gene contains 4 exons. The
+first 2 exons are noncoding.
+
+MAPPING
+
+Dickinson et al. (1990) demonstrated that in the mouse the Bmp2b1 gene
+is located on chromosome 14 and maps to the same area as 'pug nose'
+(pn). The mutation in that disorder may reside in the Bmp2b1 gene.
+Arguing from homology of synteny, Dickinson et al. (1990) suggested that
+the human BMP2B1 gene may be located on chromosome 14. Furthermore, they
+suggested that a human homolog of the murine Bmp2b2 gene resides on the
+X chromosome, as it does in the mouse. There is, however, no direct
+evidence of a second BMP2B gene in the human (McAlpine, 1992).
+
+By analysis of human/rodent somatic cell hybrids, Tabas et al. (1993)
+assigned the BMP4 gene to human chromosome 14. Using fluorescence in
+situ hybridization, van den Wijngaard et al. (1995) localized the BMP4
+gene to 14q22-q23. By FISH, Shore et al. (1998) mapped the BMP4 gene to
+chromosome 14q21, a region more centromeric than previously reported.
+
+GENE FUNCTION
+
+Shafritz et al. (1996) found overexpression of BMP4 in lymphoblastoid
+cell lines from 26 of 32 patients with FOP (135100), but from only 1 of
+12 normal subjects (P less than 0.001). Furthermore, BMP4 and its mRNA
+were detected in the lymphoblastoid cell lines from a man with FOP and
+his 3 affected children, but not from the children's unaffected mother.
+Cosegregation of DNA markers for the BMP4 locus on chromosome 14 in the
+rare families in which FOP is inherited would strengthen the candidacy
+of BMP4, and the demonstration of mutations in the BMP4 gene, especially
+in the promoter sequences, would be confirmatory.
+
+In a series of expression studies in mouse, Tucker et al. (1998)
+demonstrated that BMP4 activates the expression of Msx1 (142983),
+leading to incisor tooth development. BMP4 inhibited expression of Barx1
+(603260), which marks presumptive molar teeth, and limits expression to
+the proximal, presumptive molar mesenchyme at embryonic day 10.
+Fibroblast growth factor-8 (FGF8; 600483) stimulated Barx1 expression.
+When BMP4 signaling in early development was inhibited by application of
+exogenous noggin (NOG; 602991) protein, ectopic Barx1 expression
+resulted in transformation of tooth identity from incisor to molar.
+
+Dlx1 (600029) and Dlx2 (126255) are involved in the patterning of murine
+dentition, since loss of these transcription factors results in early
+developmental failure in upper molar teeth. Thomas et al. (2000) found
+that Bmp4 was coexpressed with Dlx2 in distal oral epithelium and that
+it regulated Dlx2 expression by planar signaling. They presented
+evidence that Bmp4 and Fgf8 cooperate and regulate the strict expression
+of Dlx2 in the epithelium and the mesenchyme in the first branchial arch
+in developing mice.
+
+Dooley et al. (2000) investigated the effect of BMP4 on androgen
+production in a human ovarian theca-like tumor (HOTT) cell culture
+model. BMP4 decreased forskolin-stimulated HOTT cell secretion of
+androstenedione and 17-alphahydroxyprogesterone (17OHP) by 50% but
+increased progesterone production 3-fold above forskolin treatment
+alone. BMP4 markedly inhibited forskolin stimulation of CYP17 (609300)
+expression but had little effect on 3-beta-HSD (see 109715), CYP11A1
+(118485), or STAR (600617) protein levels. The authors identified the
+presence of mRNA for 3 BMP receptors in the HOTT cells model: BMPR1A
+(601299), BMPR1B (603248), and BMPR2 (600799). The authors concluded
+that BMP4 inhibits HOTT cell expression of CYP17, leading to an
+alteration of the steroidogenic pathway resulting in reduced
+androstenedione accumulation and increased progesterone production. They
+also noted that the effects of BMP4 seem similar to those caused by
+activin (see 147290), another member of the transforming growth
+factor-beta (TGFB; see 190180) superfamily of proteins.
+
+In chick embryos, the first signs of left-right asymmetry are detected
+in Hensen's node, essentially by left-sided Sonic hedgehog (SHH; 600725)
+expression. After a gap of several hours, Shh induces polarized gene
+activities in the left paraxial mesoderm. Monsoro-Burq and Le Douarin
+(2001) showed that during this time period, Bmp4 signaling is necessary
+and sufficient to maintain Shh asymmetry within the node. Shh and Bmp4
+proteins negatively regulate each other's transcription, resulting in a
+strict complementarity between these 2 gene patterns on each side of the
+node. Noggin, which is present in the midline at this stage, limits Bmp4
+spreading. Moreover, Bmp4 is downstream to activin signals and controls
+Fgf8. Thus, the authors concluded that early Bmp4 signaling coordinates
+left and right pathways in Hensen's node.
+
+Chen et al. (2002) studied BMP4 gene transfer and osteoinduction by BMP4
+using an adenoviral vector to transduce mouse myoblast cells. BMP4
+expressed by transduced myoblasts was located in the cytoplasm, and the
+differentiation pathway utilized by these cells was converted from a
+myogenic to an osteogenic pathway. Injection of the adenoviral vector
+carrying BMP4 into the hindlimb muscles of male athymic nude rats
+resulted in new bone formation that could be visualized on x-ray films
+as early as 3 weeks post injection. Histologic staining of bone tissue
+revealed a typical remodeled bone structure.
+
+Cheng et al. (2003) measured the ability of 14 human BMPs to induce
+osteogenic transformation in a mouse pluripotential stem cell line, a
+mouse mesenchymal stem cell line, and a mature human osteoblastic cell
+line. Osteogenic activity was determined by measuring induction of
+alkaline phosphatase (see 171760), osteocalcin (112260), and matrix
+mineralization upon BMP stimulation. All BMPs except BMP3 (112263) and
+BMP12 (604651) were able to stimulate alkaline phosphatase activity in
+the mature osteoblasts. BMP4 was able to induce all markers of
+osteoblast differentiation in pluripotential and mesenchymal stem cells;
+however, BMP4 was a weaker inducer than BMP2 (112261), BMP6 (112266),
+and BMP9 (GDF2; 605120).
+
+Paez-Pereda et al. (2003) stated that there is little doubt that
+estrogens and growth factors are involved in the control of lactotroph
+cell proliferation in the pituitary and that the tumorigenic action of
+estrogen in prolactinomas had been demonstrated by in vitro and clinical
+evidence. Thus, the number of lactotroph cells increases during
+pregnancy. Prolactinomas occur more frequently in women and increase in
+size during pregnancy or estrogen treatment, and, at least in human
+prolactinomas, estrogen receptor expression is positively related to
+size. Paez-Pereda et al. (2003) reported a previously undescribed
+mechanism for prolactinoma growth that involved BMP4, SMAD4 (600993),
+and estrogens.
+
+By in situ hybridization, Zhu et al. (2004) found overlapping expression
+of Bmp4 and Nkx2.1 (600635) in embryonic mouse lung. They presented
+evidence that Nkx2.1 activated Bmp4 transcription through 2 Nkx2.1
+elements in each of the 2 Bmp4 promoters.
+
+Haramis et al. (2004) used mouse models to demonstrate that BMP4
+expression occurs exclusively in the intravillus mesenchyme of the
+intestine. Villus epithelial cells respond to the BMP signal. Inhibition
+of BMP signaling by transgenic expression of noggin results in the
+formation of numerous ectopic crypt units perpendicular to the
+crypt-villus axis. These changes phenocopy the intestinal histopathology
+of patients with the cancer predisposition syndrome juvenile polyposis
+(174900), including the frequent occurrence of intraepithelial
+neoplasia. Many juvenile polyposis cases are known to harbor mutations
+in BMP pathway genes. Haramis et al. (2004) concluded that their data
+indicated that intestinal BMP signaling represses de novo crypt
+formation and polyp growth.
+
+The mouse C3H10T1/2 stem cell line can be induced to differentiate into
+adipocytes by exposing proliferating cells to BMP4 during a specific
+time window prior to induction of differentiation (Tang et al., 2004).
+Bowers et al. (2006) identified a subclone of these cells, the A33 cell
+line, that was committed to the adipocyte lineage. A33 cells expressed
+and secreted Bmp4 during the critical time point in the proliferative
+stage. Inhibition of Bmp4 activity by the addition of noggin at the
+critical time blocked the ability of A33 cells to differentiate into
+adipocytes.
+
+Piccirillo et al. (2006) reported that bone morphogenetic proteins,
+among which BMP4 elicits the strongest effect, trigger a significant
+reduction in the stem-like, tumor-initiating precursors of human
+glioblastomas. Transient in vitro exposure to BMP4 abolished the
+capacity of transplanted glioblastoma cells to establish intracerebral
+glioblastomas. Most importantly, in vivo delivery of BMP4 effectively
+blocked the tumor growth and associated mortality that occurred in 100%
+of mice after intracerebral grafting of human glioblastoma cells.
+Piccirillo et al. (2006) demonstrated that BMPs activate their cognate
+receptor BMPRs and trigger the SMAD signaling cascade in cells isolated
+from human glioblastomas. This is followed by a reduction in
+proliferation, and increased expression of markers of neural
+differentiation, with no effect on cell viability. The concomitant
+reduction in clonogenic ability, in the size of the CD133
+(604365)-positive population, and in the growth kinetics of glioblastoma
+cells indicated that BMP4 reduces the tumor-initiating cell pool of
+glioblastomas. These findings showed that the BMP-BMPR signaling
+system--which controls the activity of normal brainstem cells--may also
+act as a key inhibitory regulator of tumor-initiating, stem-like cells
+from glioblastomas and the results also identified BMP4 as a novel,
+noncytotoxic therapeutic effector, which may be used to prevent growth
+and recurrence of glioblastomas in humans.
+
+Wordinger et al. (2007) studied the effects of altered BMP signaling on
+intraocular pressure (IOP) in primary open angle glaucoma (POAG; see
+137760). They found that the human trabecular meshwork (TM) synthesized
+and secreted BMP4 as well as expressed the BMP receptor subtypes BMPR1
+(see BMPR1A; 601299) and BMPR2 (600799). TM cells responded to exogenous
+BMP4 by phosphorylating SMAD signaling proteins. Cultured human TM cells
+treated with TGFB2 significantly increased fibronectin (FN; 135600)
+levels, and BMP4 blocked this FN induction. There was significant
+elevation of mRNA and protein levels of the BMP antagonist Gremlin
+(GREM1; 603054) in glaucomatous TM cells. In addition, Gremlin was
+present in human aqueous humor. Gremlin blocked the negative effect of
+BMP4 on TGFB2 induction of FN. Addition of recombinant Gremlin to the
+medium of ex vivo perfusion-cultured human eye anterior segments caused
+the glaucoma phenotype of elevated IOP. Wordinger et al. (2007)
+concluded that these results were consistent with the hypothesis that,
+in POAG, elevated expression of Gremlin by TM cells inhibited BMP4
+antagonism of TGFB2 and led to increased extracellular matrix deposition
+and elevated IOP.
+
+Using RT-PCR, immunofluorescence, and flow cytometric analyses, Cejalvo
+et al. (2007) demonstrated that human thymus and cortical epithelial
+cells produced BMP2 and BMP4 and that both thymocytes and thymic
+epithelium expressed the molecular machinery to respond to these
+proteins. The receptors BMPR1A and BMPR2 were mainly expressed by
+cortical thymocytes, whereas BMPR1B was expressed in the majority of
+thymocytes. BMP4 treatment of chimeric human-mouse fetal thymic organ
+cultures seeded with CD34 (142230)-positive human thymic progenitors
+resulted in reduced cell recovery and inhibition of differentiation of
+CD4 (186940)/CD8 (see 186910) double-negative to double-positive stages.
+Cejalvo et al. (2007) concluded that BMP2 and BMP4 have a role in human
+T-cell differentiation.
+
+A hair follicle cycles through anagen (growth), catagen (involution),
+and telogen (resting) phases and then reenters the anagen phase. Plikus
+et al. (2008) demonstrated that unexpected periodic expression of BMP2
+and BMP4 in the dermis regulates the process of hair follicle
+regeneration. This BMP cycle is out of phase with the WNT/beta catenin
+cycle (see 116806), thus dividing the conventional telogen into new
+functional phases: one refractory and the other competent for hair
+regeneration, characterized by high and low BMP signaling, respectively.
+Overexpression of noggin (602991), a BMP antagonist, in mouse skin
+resulted in a markedly shortened refractory phase and faster propagation
+of the regenerative wave. Transplantation of skin from this mutant onto
+a wildtype host showed that follicles and donor and host can affect
+their cycling behaviors mutually, with the outcome depending on the
+equilibrium of BMP activity in the dermis. Administration of BMP4
+protein caused the competent region to become refractory. The existence
+of a substance termed 'chalone' had been proposed to explain the
+phenomenon of telogen refractivity, which can inhibit anagen
+development. Plikus et al. (2008) suggested that BMPs may be the
+long-sought chalone postulated by classical experiments. Plikus et al.
+(2008) concluded that, taken together, the results presented in this
+study provided an example of hierarchical regulation of local organ stem
+cell homeostasis by the interorgan macroenvironment. The expression of
+Bmp2 in subcutaneous adipocytes indicates physiologic integration
+between the 2 thermoregulatory organs.
+
+Using in situ hybridization in human embryos, Bakrania et al. (2008)
+authors demonstrated expression of BMP4 in optic vesicle, developing
+lens, the diencephalic floor, consistent with a role in pituitary
+development, and in the interdigital mesenchyme and the joint primordium
+at the stage at which limb buds have formed and are starting to
+differentiate into fingers. Because BMP4 interacts with hedgehog
+signaling genes in animals, Bakrania et al. (2008) evaluated gene
+expression in embryos and demonstrated cotemporal and cospatial
+expression of BMP4 and hedgehog signaling genes.
+
+Wang et al. (2008) demonstrated binding between human full-length
+triple-helical type IV collagen (see 120130) and BMP4. Based on
+experiments in Drosophila, Wang et al. (2008) predicted that a conserved
+sequence in type IV collagen functions as a BMP-binding module, and that
+type IV collagens affect BMP signaling during vertebrate development.
+
+Limb development is regulated by epithelial-mesenchymal feedback loops
+between sonic hedgehog (SHH; 600725) and fibroblast growth factor (FGF)
+signaling involving the bone morphogenetic protein antagonist Grem1. By
+combining mouse molecular genetics with mathematical modeling, Benazet
+et al. (2009) showed that BMP4 first initiates and SHH then propagates
+epithelial-mesenchymal feedback signaling through differential
+transcriptional regulation of Grem1 to control digit specification. This
+switch occurs by linking a fast BMP4/GREM1 module to the slower
+SHH/GREM1/FGF epithelial-mesenchymal feedback loop. This self-regulatory
+signaling network results in robust regulation of distal limb
+development that is able to compensate for variations by
+interconnectivity among the 3 signaling pathways.
+
+Wandzioch and Zaret (2009) investigated how BMP4, transforming growth
+factor-beta (TGF-beta; 190180), and fibroblast growth factor signaling
+pathways converge on the earliest genes that elicit pancreas and liver
+induction in mouse embryos. These genes include ALB1 (103600), PROX1
+(601546), HNF6 (604164), HNF1B (189907), and PDX1 (600733). The
+inductive network was found to be dynamic; it changed within hours.
+Different signals functioned in parallel to induce different early
+genes, and 2 permutations of signals induced liver progenitor domains,
+which revealed flexibility in cell programming. Also, the specification
+of pancreas and liver progenitors was restricted by the TGF-beta
+pathway.
+
+MOLECULAR GENETICS
+
+Bakrania et al. (2008) considered BMP4 as a candidate gene for ocular
+malformation and digit anomalies (MCOPS6; 607932) and screened 215
+individuals with ocular defects, mainly microphthalmia, for cytogenetic
+defects by chromosomal analysis, for gene deletions by multiplex
+ligation-dependent probe amplification (MLPA), and for mutations in the
+BMP4 gene by direct sequencing. They identified 2 individuals with a
+14q22-q23 deletion associated with anophthalmia-microphthalmia, 1 with
+associated pituitary anomaly. Sequence analysis of the BMP4 gene
+identified 2 mutations: a frameshift mutation (112262.0001) in a family
+with anophthalmia-microphthalmia, retinal dystrophy, myopia, poly-
+and/or syndactyly, and brain anomalies, and a missense mutation
+(112262.0002) in an individual with anophthalmia-microphthalmia and
+brain anomalies. The finding of expression of BMP4 in developing human
+optic vesicle, retina and lens, pituitary region, and digits strongly
+supported BMP4 as a causative gene for anophthalmia-microphthalmia with
+pituitary abnormalities and digit anomalies. Bakrania et al. (2008) also
+identified 4 cases, some of which had retinal dystrophy, with 'low
+penetrant' mutations in both BMP4 and hedgehog signaling genes, namely,
+Sonic hedgehog (SHH; 600725) or Patched (PTCH1; 601309). Bakrania et al.
+(2008) concluded that BMP4 is a major gene for
+anophthalmia-microphthalmia and/or retinal dystrophy and brain anomalies
+and may be a candidate for myopia and poly/syndactyly. The finding of
+low-penetrant variants of BMP4 and hedgehog signaling partners suggested
+an interaction between the 2 pathways in humans.
+
+Suzuki et al. (2009) identified mutations in the BMP4 gene (see, e.g.,
+112262.0003-112262.0005 and 112262.0007) in patients with cleft lip and
+cleft palate (OFC11; 600625). The parents, who also carried the
+mutation, had subtle defects in the orbicularis oris muscle on
+ultrasound. Overall, BMP4 mutations were identified in 1 of 30 patients
+with microform clefts, 2 of 87 patients with subepithelial defects in
+the orbicularis oris muscle, and 5 of 968 patients with overt cleft
+lip/palate (CL/P). These results indicated that microforms and
+subepithelial defects in the orbicularis oris muscle are part of the
+spectrum of CL/P and should be considered during the clinical evaluation
+of families with clefts.
+
+Reis et al. (2011) analyzed the BMP4 coding region in 133 patients with
+various ocular conditions, including 60 with clinical
+anophthalmia/microphthalmia (34 syndromic), 38 with anterior segment
+anomalies (including 3 patients with SHORT syndrome, 269880), 16 with
+cataract, 4 with coloboma, 5 with high myopia, and 10 with other
+disorders. In 1 patient with SHORT syndrome, they identified a
+heterozygous 2.263-Mb deletion encompassing BMP4 and 13 other genes. In
+3 probands with syndromic microphthalmia, they identified heterozygosity
+for a 158-kb deletion involving only the BMP4 gene (112262.0006), a
+nonsense mutation (R198X; 122262.0007), and a frameshift mutation
+(112262.0008), respectively; the affected sister of the proband with the
+frameshift mutation carried both the frameshift and a missense mutation
+(H121R; 112262.0009).
+
+ANIMAL MODEL
+
+Connor (1996) speculated that transgenic mice with selective
+overexpression of Bmp4 may serve as animal models of fibrodysplasia
+ossificans progressiva (FOP; 135100) and may make it possible to
+evaluate potential therapies directed at influencing the expression of
+BMP4 or its 2 types of cell-surface receptors. Not only may this
+knowledge provide a rational basis for therapy for FOP, but possibly
+also measures for the control of local ectopic bone development, which
+occurs in 10 to 20% of patients who have undergone surgical hip
+replacement. According to Connor (1996), there appears to be an
+individual propensity to the phenomenon of secondary ectopic
+ossification of soft tissue. In the 10 to 20% of patients who develop
+local ectopic bone formation after hip replacement, if surgical removal
+of that bone is attempted or the opposite hip is replaced, ectopic bone
+almost invariably recurs or occurs.
+
+Furuta and Hogan, (1998) showed that Bmp4, which is expressed strongly
+in the mouse optic vesicle and weakly in surrounding mesenchyme and
+surface ectoderm, plays a crucial role in lens induction. In Bmp4-null
+mouse embryos, lens induction was absent but could be rescued by
+exogenous BMP4 protein applied into the optic vesicle in explant
+cultures. In Bmp4-null embryos, Msx2 (123101) expression was absent, and
+expression mutant eye explants was rescued by BMP4-carrying beads,
+suggesting that BMP4 functions to regulate specific gene expression in
+the optic vesicle. No change in Pax6 (607108) was detected in Bmp4-null
+eyes.
+
+Using a hypomorphic Bmp4 allele and conditional gene inactivation, Jiao
+et al. (2003) circumvented the early lethality of Bmp4 null mouse
+embryos and manipulated Bmp4 expression specifically in developing
+cardiomyocytes. They found that Bmp4 was dispensable for cushion
+formation but was required for proper atrioventricular septation after
+cushions had formed. Defects in septation caused atrioventricular canal
+defects (AVCD; 600309) that recapitulated the range of AVCDs diagnosed
+in patients.
+
+Kan et al. (2004) generated mice overexpressing BMP4 under the control
+of the neuron-specific enolase promoter (ENO2; 131360) and observed the
+development of progressive postnatal heterotopic endochondral
+ossification, a phenotype that matches the anatomic, spatial, and
+temporal characteristics of human FOP. The phenotype was completely
+rescued in double-transgenic mice that also overexpressed the BMP4
+inhibitor noggin, confirming the role of BMP4 in the pathogenesis of the
+disease.
+
+Liu et al. (2005) demonstrated that mice with conditional inactivation
+of the Bmpr1a gene in the facial primordia developed completely
+penetrant, bilateral cleft lip/palate (119530) with arrested tooth
+formation. The cleft secondary palate of Bmpr1a-mutant embryos was
+associated with diminished cell proliferation in maxillary process
+mesenchyme and defective anterior posterior patterning. In contrast, the
+mutant mice showed elevated apoptosis in the fusing lip region of the
+medial nasal process. Conditional inactivation of the Bmp4 gene resulted
+in delayed fusion of the medial nasal process to form the lip, resulting
+in isolated cleft lip in all mouse embryos at 12 days after conception.
+However, cleft lip was only present in 22% of mouse embryos at 14.5 days
+after conception, indicating spontaneous repair of cleft lip in utero
+(see 600625). The findings implicated a BMP4-BMPR1A genetic pathway that
+functions in lip fusion, and revealed that BMP signaling has distinct
+roles in lip and palate fusion.
+
+Fuller et al. (2007) found that Bmp4 and Bmp7 (112267) increased rapidly
+at the site of chemically-induced demyelinating lesions in adult rat
+spinal cord. The Bmp proteins stimulated Smad (see, e.g., SMAD1; 601595)
+activation in mature astrocytes, resulting in increased expression of
+chondroitin sulfate proteoglycans and glial scar formation.
+
+Goldman et al. (2009) used Bmp4-hypomorphic mice to investigate the
+regulation of hematopoietic stem cell (HSC) function and the maintenance
+of steady-state hematopoiesis in adults. Reporter gene analysis showed
+that Bmp4 was expressed in osteoblasts, endothelial cells, and
+megakaryocytes. Resting hematopoiesis was normal in Bmp4-deficient mice,
+but cells expressing Kit (164920) and Sca1 (also known as Ly6a, a
+mouse-specific gene) were significantly reduced. Serial transplantation
+revealed that Bmp4-deficient recipients had a microenvironmental defect
+that reduced the repopulating activity of wildtype HSCs. When wildtype
+HSCs did engraft in Bmp4-deficient bone marrow, they showed a marked
+decrease in functional stem cell activity. Goldman et al. (2009)
+concluded that BMP4 is a critical component of the hematopoietic
+microenvironment and is involved in regulating HSC number and function.
+
+ALLELIC VARIANT .0001
+MICROPHTHALMIA, SYNDROMIC 6
+BMP4, 2-BP DEL, 226AG
+
+Bakrania et al. (2008) described a kindred in which members of 3
+generations had eye, brain, and digit developmental anomalies (MCOPS6;
+607932) related to a frameshift mutation in the BMP4 gene (222del2AG,
+S76fs104X). The proband had clinical anophthalmia with no light
+perception on the right; the left eye showed microcornea, coloboma,
+retinal dystrophy, and tilted optic disc. He had mild learning
+difficulties and polydactyly. Cranial MRI showed enlarged trigones,
+hypoplastic corpus callosum, and sulcal widening. The maternal
+grandmother, who carried the same mutation, showed on MRI enlarged
+ventricles, hypoplastic corpus callosum, and marked sulcal widening
+associated with diffuse brain atrophy; additionally, she had polydactyly
+and finger webbing.
+
+.0002
+MICROPHTHALMIA, SYNDROMIC 6
+BMP4, GLU93GLY
+
+In a patient with eye, brain, and digit developmental anomalies (MCOPS6;
+607932), Bakrania et al. (2008) identified a 278A-G transition in the
+BMP4 gene that resulted in a glu93-to-gly substitution (E93G). The right
+eye of the patient showed microphthalmia, sclerocornea, and orbital
+cyst; the left eye showed microphthalmia, coloboma, and microcornea.
+Cranial MRI showed delayed myelination and mild reduction in white
+matter. The proband had developmental delay, seizures, undescended
+testes, simple prominent ears, broad hands, low-placed thumbs, and
+dysplastic nails.
+
+.0003
+OROFACIAL CLEFT 11
+BMP4, ALA346VAL
+
+In a child with a microform cleft lip and cleft palate (OFC11; 600625),
+Suzuki et al. (2009) identified a heterozygous 1037C-T transition in the
+BMP4 gene, resulting in an ala346-to-val (A346V) substitution. His
+father, who also carried the mutation, had subtle right microform cleft
+lip and a bifid uvula. The microform cleft lip was confirmed by
+ultrasound, which detected defects in the orbicularis oris muscle in
+both patients.
+
+.0004
+OROFACIAL CLEFT 11
+BMP4, SER91CYS
+
+In a child with a cleft lip and cleft palate (OFC11; 600625), Suzuki et
+al. (2009) identified a heterozygous 271A-T transversion in the BMP4
+gene, resulting in a ser91-to-cys (S91C) substitution. The child's
+parent, who also carried the mutation, had defects of the orbicularis
+oris muscle on ultrasonography.
+
+.0005
+OROFACIAL CLEFT 11
+BMP4, ARG287HIS
+
+In a child with a cleft lip and cleft palate (OFC11; 600625), Suzuki et
+al. (2009) identified a heterozygous 860G-A transition in the BMP4 gene,
+resulting in an arg287-to-his (R287H) substitution. The child's parent,
+who also carried the mutation, had defects of the orbicularis oris
+muscle on ultrasonography.
+
+.0006
+MICROPHTHALMIA, SYNDROMIC 6
+BMP4, DEL
+
+In a 12-year-old Caucasian girl with bilateral microphthalmia and other
+eye anomalies, facial dysmorphism, cognitive impairment, and a history
+of hypotonia (MCOPS6; 607932), Reis et al. (2011) identified
+heterozygosity for a 158-kb deletion on chromosome 14q22.2, with a
+minimum interval chr14:53,361,728-53,520,165 and a maximum interval
+chr14:53,352,059-53,520,859 (NCBI36), deleting only the BMP4 gene. In
+addition to bilateral microphthalmia, the patient had bilateral
+persistence of the pupillary membrane, high myopia, strabismus, and
+nystagmus. Her dysmorphic facial features included maxillary hypoplasia
+with midface flattening, thin upper lip, broad nasal bridge and tip, and
+telecanthus, with a preauricular ear tag on the right. She had normal
+growth, head circumference, umbilicus, hands, and feet. The patient was
+adopted, and no family members were available for study.
+
+.0007
+OROFACIAL CLEFT 11
+MICROPHTHALMIA, SYNDROMIC 6, INCLUDED
+BMP4, ARG198TER
+
+In a Mongolian patient with cleft lip and palate (OFC11; 600625), Suzuki
+et al. (2009) identified heterozygosity for a 592C-T transition in exon
+4 of the BMP4 gene, resulting in an arg198-to-ter (R198X) substitution.
+The parents were unavailable for testing.
+
+In a 19-month-old boy with right clinical anophthalmia and left
+microphthalmia, sclerocornea, facial asymmetry, and right-sided
+diaphragmatic hernia (MCOPS6; 607932), Reis et al. (2011) identified
+heterozygosity for the R198X mutation in BMP4. The boy also had mild to
+moderate laryngomalacia, with indentation from the innominate artery,
+and bilateral inguinal hernias. He was macrocephalic with a large
+anterior fontanel, and had hydrocephalus that was treated with a large
+subdural-peritoneal shunt. Brain MRI at 4 months of age confirmed the
+ocular findings and showed macrocrania with very prominent subarachnoid
+spaces, superimposed overlying subdural collections, as well as diffuse
+cerebral atrophy with ventricular prominence. The mutation was not found
+in 179 Caucasian, 89 African American, 91 Asian, and 93 Hispanic
+controls.
+
+.0008
+MICROPHTHALMIA, SYNDROMIC 6
+BMP4, 1-BP DUP, 171C
+
+In a 3.5-year-old Caucasian girl with bilateral clinical anophthalmia,
+small ears, and small left renal cyst (MCOPS6; 607932), Reis et al.
+(2011) identified heterozygosity for a 1-bp duplication (171dupC) in
+exon 2 of the BMP4 gene, predicted to cause a frameshift and premature
+termination. The proband had normal development, without craniofacial
+dysmorphism or anomalies of the hands or feet. Head CT in the neonatal
+period showed significantly small globes, minimal ocular tissue, and
+absent optic nerves, but otherwise normal brain structures. Her affected
+9-year-old maternal half sister was found to be compound heterozygous
+for 171dupC and a 362A-G transition in exon 2 of BMP4, resulting in a
+his121-to-arg (H121R; 112262.0009) substitution at a conserved residue.
+The sister had unilateral clinical anophthalmia, blepharophimosis,
+telecanthus, and bilateral postaxial polydactyly of the hands. She had
+poor growth, with height and weight less than the third centile, and
+relative macrocephaly with frontal bossing. Head CT showed atrophic left
+globe and small left orbit. Their asymptomatic mother was heterozygous
+for the frameshift mutation, with no evidence of mosaicism; the mutation
+was apparently de novo, as the maternal grandparents carried wildtype
+BMP4 alleles. The mother was unavailable for examination, so mild ocular
+anomalies could not be ruled out, and the father was also unavailable
+for study. Neither mutation was found in 179 Caucasian, 89 African
+American, 91 Asian, and 93 Hispanic controls.
+
+.0009
+MICROPHTHALMIA, SYNDROMIC 6
+BMP4, HIS121ARG
+
+See 112262.0008 and Reis et al. (2011).
+
+REFERENCE 1. Bakrania, P.; Efthymiou, M.; Klein, J. C.; Salt, A.; Bunyan, D.
+J.; Wyatt, A.; Ponting, C. P.; Martin, A.; Williams, S.; Lindley,
+V.; Gilmore, J.; Restori, M.; and 9 others: Mutations in BMP4 cause
+eye, brain, and digit developmental anomalies: overlap between the
+BMP4 and hedgehog signaling pathways. Am. J. Hum. Genet. 82: 304-319,
+2008.
+
+2. Benazet, J.-D.; Bischofberger, M.; Tiecke, E.; Goncalves, A.; Martin,
+J. F.; Zuniga, A.; Naef, F.; Zeller, R.: A self-regulatory system
+of interlinked signaling feedback loops controls mouse limb patterning. Science 323:
+1050-1053, 2009.
+
+3. Bowers, R. R.; Kim, J. W.; Otto, T. C.; Lane, M. D.: Stable stem
+cell commitment to the adipocyte lineage by inhibition of DNA methylation:
+role of the BMP-4 gene. Proc. Nat. Acad. Sci. 103: 13022-13027,
+2006.
+
+4. Cejalvo, T.; Sacedon, R.; Hernandez-Lopez, C.; Diez, B.; Gutierrez-Frias,
+C.; Valencia, J.; Zapata, A. G.; Varas, A.; Vicente, A.: Bone morphogenetic
+protein-2/4 signalling pathway components are expressed in the human
+thymus and inhibit early T-cell development. Immunology 121: 94-104,
+2007.
+
+5. Chen, Y.; Cheung, K. M. C.; Kung, H.; Leong, J. C. Y.; Lu, W. W.;
+Luk, K. D. K.: In vivo new bone formation by direct transfer of adenoviral-mediated
+bone morphogenetic protein-4 gene. Biochem. Biophys. Res. Commun. 298:
+121-127, 2002.
+
+6. Cheng, H.; Jiang, W.; Phillips, F. M.; Haydon, R. C.; Peng, Y.;
+Zhou, L.; Luu, H. H.; An, N.; Breyer, B.; Vanichakarn, P.; Szatkowski,
+J. P.; Park, J. Y.; He, T.-C.: Osteogenic activity of the fourteen
+types of human bone morphogenetic proteins (BMPs). J. Bone Joint
+Surg. Am. 85: 1544-1552, 2003. Note: Erratum: J. Bone Joint Surg.
+Am. 86: 141 only, 2003.
+
+7. Connor, J. M.: Fibrodysplasia ossificans progressiva: lessons
+from rare maladies. (Editorial) New Eng. J. Med. 335: 591-593, 1996.
+
+8. Dickinson, M. E.; Kobrin, M. S.; Silan, C. M.; Kingsley, D. M.;
+Justice, M. J.; Miller, D. A.; Ceci, J. D.; Lock, L. F.; Lee, A.;
+Buchberg, A. M.; Siracusa, L. D.; Lyons, K. M.; Derynck, R.; Hogan,
+B. L. M.; Copeland, N. G.; Jenkins, N. A.: Chromosomal localization
+of seven members of the murine TGF-beta superfamily suggests close
+linkage to several morphogenetic mutant loci. Genomics 6: 505-520,
+1990.
+
+9. Dooley, C. A.; Attia, G. R.; Rainey, W. E.; Moore, D. R.; Carr,
+B. R.: Bone morphogenetic protein inhibits ovarian androgen production. J.
+Clin. Endocr. Metab. 85: 3331-3337, 2000.
+
+10. Fuller, M. L.; DeChant, A. K.; Rothstein, B.; Caprariello, A.;
+Wang, R.; Hall, A. K.; Miller, R. H.: Bone morphogenetic proteins
+promote gliosis in demyelinating spinal cord lesions. Ann. Neurol. 62:
+288-300, 2007.
+
+11. Furuta, Y.; Hogan, B. L.: BMP4 is essential for lens induction
+in the mouse embryo. Genes Dev. 12: 3764-3775, 1998.
+
+12. Goldman, D. C.; Bailey, A. S.; Pfaffle, D. L.; Al Masri, A.; Christian,
+J. L.; Fleming, W. H.: BMP4 regulates the hematopoietic stem cell
+niche. Blood 114: 4393-4401, 2009.
+
+13. Haramis, A.-P. G.; Begthel, H.; van den Born, M.; van Es, J.;
+Jonkheer, S.; Offerhaus, G. J. A.; Clevers, H.: De novo crypt formation
+and juvenile polyposis on BMP inhibition in mouse intestine. Science 303:
+1684-1686, 2004.
+
+14. Jiao, K.; Kulessa, H.; Tompkins, K.; Zhou, Y.; Batts, L.; Baldwin,
+H. S.; Hogan, B. L. M.: An essential role of Bmp4 in the atrioventricular
+septation of the mouse heart. Genes Dev. 17: 2362-2367, 2003.
+
+15. Kan, L.; Hu, M.; Gomes, W. A.; Kessler, J. A.: Transgenic mice
+overexpressing BMP4 develop a fibrodysplasia ossificans progressiva
+(FOP)-like phenotype. Am. J. Path. 165: 1107-1115, 2004.
+
+16. Liu, W.; Sun, X.; Braut, A.; Mishina, Y.; Behringer, R. R.; Mina,
+M.; Martin, J. F.: Distinct functions for Bmp signaling in lip and
+palate fusion in mice. Development 132: 1453-1461, 2005.
+
+17. McAlpine, P. J.: Personal Communication. Winnipeg, Manitoba,
+Canada  7/15/1992.
+
+18. Monsoro-Burq, A.-H.; le Douarin, N. M.: BMP4 plays a key role
+in left-right patterning in chick embryos by maintaining Sonic hedgehog
+asymmetry. Molec. Cell 7: 789-799, 2001.
+
+19. Paez-Pereda, M.; Giacomini, D.; Refojo, D.; Nagashima, A. C.;
+Hopfner, U.; Grubler, Y.; Chervin, A.; Goldberg, V.; Goya, R.; Hentges,
+S. T.; Low, M. J.; Holsboer, F.; Stalla, G. K.; Arzt, E.: Involvement
+of bone morphogenetic protein 4 (BMP-4) in pituitary prolactinoma
+pathogenesis through a Smad/estrogen receptor crosstalk. Proc. Nat.
+Acad. Sci. 100: 1034-1039, 2003.
+
+20. Piccirillo, S. G. M.; Reynolds, B. A.; Zanetti, N.; Lamorte, G.;
+Binda, E.; Broggi, G.; Brem, H.; Olivi, A.; Dimeco, F.; Vescovi, A.
+L.: Bone morphogenetic proteins inhibit the tumorigenic potential
+of human brain tumour-initiating cells. Nature 444: 761-765, 2006.
+
+21. Plikus, M. V.; Mayer, J. A.; de la Cruz, D.; Baker, R. E.; Maini,
+P. K.; Maxson, R.; Chuong, C.-M.: Cyclic dermal BMP signalling regulates
+stem cell activation during hair regeneration. Nature 451: 340-344,
+2008.
+
+22. Reis, L. M.; Tyler, R. C.; Schilter, K. F.; Abdul-Rahman, O.;
+Innis, J. W.; Kozel, B. A.; Schneider, A. S.; Bardakjian, T. M.; Lose,
+E. J.; Martin, D. M.; Broeckel, U.; Semina, E. V.: BMP4 loss-of-function
+mutations in developmental eye disorders including SHORT syndrome. Hum.
+Genet. 130: 495-504, 2011.
+
+23. Shafritz, A. B.; Shore, E. M.; Gannon, F. H.; Zasloff, M. A.;
+Taub, R.; Muenke, M.; Kaplan, F. S.: Overexpression of an osteogenic
+morphogen in fibrodysplasia ossificans progressiva. New Eng. J. Med. 335:
+555-561, 1996.
+
+24. Shore, E. M.; Xu, M.; Shah, P. B.; Janoff, H. B.; Hahn, G. V.;
+Deardorff, M. A.; Sovinsky, L.; Spinner, N. B.; Zasloff, M. A.; Wozney,
+J. M.; Kaplan, F. S.: The human bone morphogenetic protein 4 (BMP-4)
+gene: molecular structure and transcriptional regulation. Calcif.
+Tissue Int. 63: 221-229, 1998.
+
+25. Suzuki, S.; Marazita, M. L.; Cooper, M. E.; Miwa, N.; Hing, A.;
+Jugessur, A.; Natsume, N.; Shimozato, K.; Ohbayashi, N.; Suzuki, Y.;
+Niimi, T.; Minami, K.; and 15 others: Mutations in BMP4 are associated
+with subepithelial, microform, and overt cleft lip. Am. J. Hum. Genet. 84:
+406-411, 2009.
+
+26. Tabas, J. A.; Hahn, G. V.; Cohen, R. B.; Seaunez, H. N.; Modi,
+W. S.; Wozney, J. M.; Zasloff, M.; Kaplan, F. S.: Chromosomal assignment
+of the human gene for bone morphogenetic protein 4. Clin. Orthop.
+Rel. Res. 293: 310-316, 1993.
+
+27. Tang, Q.-Q.; Otto, T. C.; Lane, M. D.: Commitment of CH3H10T1/2
+pluripotent stem cells to the adipocyte lineage. Proc. Nat. Acad.
+Sci. 101: 9607-9611, 2004.
+
+28. Thomas, B. L.; Liu, J. K.; Rubenstein, J. L. R.; Sharpe, P. T.
+: Independent regulation of Dlx2 expression in the epithelium and
+mesenchyme of the first branchial arch. Development 127: 217-224,
+2000.
+
+29. Tucker, A. S.; Matthews, K. L.; Sharpe, P. T.: Transformation
+of tooth type induced by inhibition of BMP signaling. Science 282:
+1136-1138, 1998.
+
+30. van den Wijngaard, A.; Olde Weghuis, D.; Boersma, C. J. C.; van
+Zoelen, E. J. J.; Geurts van Kessel, A.; Olijve, W.: Fine mapping
+of the human bone morphogenetic protein-4 gene (BMP4) to chromosome
+14q22-q23 by in situ hybridization. Genomics 27: 559-560, 1995.
+
+31. van den Wijngaard, A.; van Kraay, M.; van Zoelen, E. J. J.; Olijve,
+W.; Boersma, C. J. C.: Genomic organization of the human bone morphogenetic
+protein-4 gene: molecular basis for multiple transcripts. Biochem.
+Biophys. Res. Commun. 219: 789-794, 1996.
+
+32. Wandzioch, E.; Zaret, K. S.: Dynamic signaling network for the
+specification of embryonic pancreas and liver progenitors. Science 324:
+1707-1710, 2009.
+
+33. Wang, X.; Harris, R. E.; Bayston, L. J.; Ashe, H. L.: Type IV
+collagens regulate BMP signalling in Drosophila. Nature 455: 72-77,
+2008.
+
+34. Wordinger, R. J.; Fleenor, D. L.; Hellberg, P. E.; Pang, I.-H.;
+Tovar, T. O.; Zode, G. S.; Fuller, J. A.; Clark, A. F.: Effects of
+TGF-beta-2, BMP-4, and gremlin in the trabecular meshwork: implications
+for glaucoma. Invest. Ophthal. Vis. Sci. 48: 1191-1200, 2007.
+
+35. Zhu, N. L.; Li, C.; Xiao, J.; Minoo, P.: NKX2.1 regulates transcription
+of the gene for human bone morphogenetic protein-4 in lung epithelial
+cells. Gene 327: 25-36, 2004.
+
+CONTRIBUTORS Paul J. Converse - updated: 11/23/2011
+Marla J. F. O'Neill - updated: 11/11/2011
+Paul J. Converse - updated: 10/18/2010
+Ada Hamosh - updated: 7/9/2009
+Cassandra L. Kniffin - updated: 4/3/2009
+Ada Hamosh - updated: 3/17/2009
+Ada Hamosh - updated: 9/24/2008
+Victor A. McKusick - updated: 3/31/2008
+Ada Hamosh - updated: 2/21/2008
+Cassandra L. Kniffin - updated: 1/2/2008
+Jane Kelly - updated: 11/28/2007
+Ada Hamosh - updated: 1/23/2007
+Patricia A. Hartz - updated: 10/12/2006
+Marla J. F. O'Neill - updated: 8/30/2005
+Ada Hamosh - updated: 4/12/2004
+Patricia A. Hartz - updated: 3/23/2004
+Patricia A. Hartz - updated: 11/10/2003
+Victor A. McKusick - updated: 3/12/2003
+Patricia A. Hartz - updated: 12/17/2002
+Stylianos E. Antonarakis - updated: 8/6/2001
+John A. Phillips, III - updated: 3/15/2001
+Ada Hamosh - updated: 11/5/1998
+
+CREATED Victor A. McKusick: 5/15/1990
+
+EDITED alopez: 03/11/2013
+mgross: 1/19/2012
+terry: 11/23/2011
+carol: 11/15/2011
+carol: 11/14/2011
+terry: 11/11/2011
+carol: 10/13/2011
+wwang: 5/25/2011
+wwang: 5/23/2011
+wwang: 5/20/2011
+alopez: 3/2/2011
+terry: 1/13/2011
+mgross: 10/18/2010
+wwang: 4/2/2010
+alopez: 7/16/2009
+terry: 7/9/2009
+wwang: 4/8/2009
+ckniffin: 4/3/2009
+alopez: 3/23/2009
+terry: 3/17/2009
+terry: 10/8/2008
+alopez: 9/25/2008
+terry: 9/24/2008
+alopez: 4/2/2008
+terry: 3/31/2008
+alopez: 3/19/2008
+terry: 2/21/2008
+wwang: 1/22/2008
+ckniffin: 1/2/2008
+carol: 11/28/2007
+alopez: 1/24/2007
+terry: 1/23/2007
+terry: 11/3/2006
+mgross: 10/16/2006
+terry: 10/12/2006
+wwang: 6/22/2006
+alopez: 2/2/2006
+terry: 2/1/2006
+wwang: 8/30/2005
+alopez: 4/14/2004
+terry: 4/12/2004
+mgross: 4/12/2004
+terry: 3/23/2004
+mgross: 11/11/2003
+terry: 11/10/2003
+tkritzer: 3/25/2003
+terry: 3/12/2003
+mgross: 1/2/2003
+terry: 12/17/2002
+mgross: 8/6/2001
+alopez: 3/15/2001
+carol: 7/19/2000
+alopez: 11/9/1998
+alopez: 11/5/1998
+terry: 6/18/1998
+mark: 12/31/1996
+jenny: 12/19/1996
+terry: 12/13/1996
+mark: 4/28/1996
+terry: 4/22/1996
+mark: 7/31/1995
+terry: 7/24/1995
+mimadm: 4/29/1994
+warfield: 4/7/1994
+carol: 12/13/1993
+carol: 11/4/1993
+
+602854	TITLE *602854 PROTEASOME SUBUNIT, ALPHA-TYPE, 1; PSMA1
+;;PROTEASOME SUBUNIT NU;;
+HC2;;
+PROS30
+DESCRIPTION DeMartino et al. (1991) cloned the PSMA1 gene, termed 'subunit nu' by
+them. The cDNA encoded a 263-amino acid polypeptide. The calculated and
+observed molecular masses are 29.5 kD and 35 kD, respectively. Northern
+blot analysis revealed an 1.4-kb mRNA in human placenta and HeLa cells.
+Coux et al. (1996) noted that 2 proteins, HC2 (29.5 kD) and Pros30 (30.2
+kD), are encoded by the PSMA1 gene.
+
+Coux et al. (1996) reviewed the structures and functions of the 20S
+proteasome subunits. The alpha subunits comprise the outer rings of the
+proteasome. Some alpha subunits contain a functional nuclear
+localization signal; proteasomes are found in both the nuclear and
+cytoplasmic compartments of the cell. Alpha subunits may constitute a
+physical barrier that limits access of cytosolic proteins into the inner
+proteolytic chamber.
+
+Bey et al. (1993) mapped the PSMA1 gene to chromosome 11p15.1 by
+fluorescence in situ hybridization.
+
+REFERENCE 1. Bey, F.; Silva Pereira, I.; Coux, O.; Viegas-Pequignot, E.; Recillas
+Targa, F.; Nothwang, H. G.; Dutrillaux, B.; Scherrer, K.: The prosomal
+RNA-binding protein p27K is a member of the alpha-type human prosomal
+gene family. Molec. Gen. Genet. 237: 193-205, 1993.
+
+2. Coux, O.; Tanaka, K.; Goldberg, A. L.: Structure and functions
+of the 20S and 26S proteasomes. Ann. Rev. Biochem. 65: 801-847,
+1996.
+
+3. DeMartino, G. N.; Orth, K.; McCullough, M. L.; Lee, L. W.; Munn,
+T. Z.; Moomaw, C. R.; Dawson, P. A.; Slaughter, C. A.: The primary
+structures of four subunits of the human, high molecular weight proteinase,
+macropain (proteasome), are distinct but homologous. Biochim. Biophys.
+Acta 1079: 29-38, 1991.
+
+CREATED Jennifer P. Macke: 7/15/1998
+
+EDITED kayiaros: 07/13/1999
+alopez: 7/16/1998
+
+603444	TITLE *603444 FAR UPSTREAM ELEMENT-BINDING PROTEIN 1; FUBP1
+;;FAR UPSTREAM ELEMENT-BINDING PROTEIN; FUBP;;
+FUSE-BINDING PROTEIN; FBP
+DESCRIPTION 
+CLONING
+
+The far upstream element (FUSE) of the human MYC (190080) protooncogene
+stimulates expression in undifferentiated cells. Duncan et al. (1994)
+purified a 70-kD FUSE-binding protein, or FBP, that is present in
+undifferentiated but not differentiated cells. FBP exhibited DNA binding
+specificity for the noncoding strand of the FUSE site in vitro. By PCR
+of human cell line cDNA with degenerate primers based on a partial FBP
+protein sequence, the authors isolated partial FBP cDNAs. They recovered
+additional cDNAs from several libraries and used them to assemble a
+full-length FBP cDNA sequence. The central region of the predicted
+644-amino acid protein contains 4 copies of a repeat unit. In vitro
+binding assays with mutant protein constructs indicated that the third
+and fourth copies constituted the minimum single-stranded DNA-binding
+domain. Using potassium permanganate to probe DNA conformation in vivo,
+Duncan et al. (1994) determined that the pattern of sensitivity of
+genomic DNA was consistent with the binding of FBP to the noncoding
+strand of FUSE, which displaced the coding strand. Expression of FBP in
+human leukemia cells stimulated the activity of a MYC promoter in a
+FUSE-dependent manner. Northern blot analysis revealed that expression
+of the 2.6-kb FBP mRNA declined upon differentiation, suggesting that
+FUSE-binding activity may be regulated transcriptionally. In addition,
+by sequence analysis of FBP cDNAs, the authors found evidence that FBP
+activity may also be regulated by alternative splicing, translation
+efficiency, and posttranslational modification.
+
+GENE FUNCTION
+
+Inherited mutations of the transcription factor IIH (TFIIH) helicase
+subunits XPB (133510) or XPD (278730) yield overlapping DNA repair and
+transcription syndromes. The high risk of cancer in these patients is
+not fully explained by the repair defect. The transcription defect,
+however, is subtle and more difficult to evaluate. Liu et al. (2001)
+showed that XPB and XPD mutations block transcription activation by FBP,
+a regulator of MYC expression, and block repression by the
+FBP-interacting repressor (FIR; 604819). Through TFIIH, FBP facilitates
+transcription until promoter escape, whereas after initiation, FIR uses
+TFIIH to delay promoter escape. Mutations in TFIIH that impair
+regulation by FBP and FIR affect proper regulation of MYC expression and
+have implications in the development of malignancy.
+
+MOLECULAR GENETICS
+
+Bettegowda et al. (2011) performed exonic sequencing of 7
+oligodendrogliomas. Among other changes, they found that the CIC gene
+(612082) (homolog of the Drosophila gene capicua) on chromosome 19q was
+somatically mutated in 6 cases and that the FUBP1 gene on chromosome 1p
+was somatically mutated in 2 tumors. Examination of 27 additional
+oligodendrogliomas revealed 12 and 3 more tumors with mutations of CIC
+and FUBP1, respectively, 58% of which were predicted to result in
+truncations of the encoded proteins. Bettegowda et al. (2011) concluded
+that their results suggested a critical role for these genes in the
+biology and pathology of oligodendrocytes.
+
+REFERENCE 1. Bettegowda, C.; Agrawal, N.; Jiao, Y.; Sausen, M.; Wood, L. D.;
+Hruban, R. H.; Rodriguez, F. J.; Cahill, D. P.; McLendon, R.; Riggins,
+G.; Velculescu, V. E.; Oba-Shinjo, S. M.; Marie, S. K. N.; Vogelstein,
+B.; Bigner, D.; Yan, H.; Papadopoulos, N.; Kinzler, K. W.: Mutations
+in CIC and FUBP1 contribute to human oligodendroglioma. Science 333:
+1453-1455, 2011.
+
+2. Duncan, R.; Bazar, L.; Michelotti, G.; Tomonaga, T.; Krutzsch,
+H.; Avigan, M.; Levens, D.: A sequence-specific, single-strand binding
+protein activates the far upstream element of c-myc and defines a
+new DNA-binding motif. Genes Dev. 8: 465-480, 1994.
+
+3. Liu, J.; Akoulitchev, S.; Weber, A.; Ge, H.; Chuikov, S.; Libutti,
+D.; Wang, X. W.; Conaway, J. W.; Harris, C. C.; Conaway, R. C.; Reinberg,
+D.; Levens, D.: Defective interplay of activators and repressors
+with TFIIH in xeroderma pigmentosum. Cell 104: 353-363, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 11/22/2011
+Stylianos E. Antonarakis - updated: 3/8/2001
+
+CREATED Rebekah S. Rasooly: 1/19/1999
+
+EDITED alopez: 11/29/2011
+terry: 11/22/2011
+mgross: 3/8/2001
+psherman: 7/21/1999
+alopez: 1/19/1999
+
+608122	TITLE *608122 PARVIN, GAMMA; PARVG
+DESCRIPTION 
+DESCRIPTION
+
+Members of the parvin family, including PARVG, are actin-binding
+proteins associated with focal contacts.
+
+CLONING
+
+By searching EST databases for sequences similar to mouse Parva
+(608120), followed by RT-PCR of a human T-cell line cDNA library, Olski
+et al. (2001) cloned human PARVG. Mouse and human PARVG encode a deduced
+331-amino acid protein that contains a single actin-binding domain made
+up of 2 calponin (600806) homology domains separated by a linker region.
+Unlike PARVA and PARVB (608121), the N terminus of PARVG does not
+contain nuclear localization signals or SH3-binding domains.
+
+By analyzing PARVG ESTs, Korenbaum et al. (2001) identified
+alternatively spliced sequences and a single polyadenylation site.
+Northern blot analysis revealed a strong smeared signal in heart, liver,
+and several other tissues. Bands of about 1.6 and 4.0 kb were detected
+in peripheral blood and spleen. RNA dot blot analysis detected highest
+expression in lymphatic organs (spleen, thymus, lymph node, bone marrow,
+and peripheral blood leukocytes) and moderate expression in the
+digestive tract (stomach, duodenum, jejunum, ileum, ileocecum, and
+appendix), lung, and liver. In contrast, mouse Parvg showed highest
+expression in testis, where there were at least 6 mRNA species. A 2.8-kb
+Parvg transcript was expressed highly in spleen, moderately in lung, and
+weakly in brain and heart. Parvg was expressed throughout mouse
+embryonic development, with downregulation at embryonic day 11.
+Korenbaum et al. (2001) stated that fluorescence-tagged PARVG, like
+PARVA, localized at focal contacts.
+
+GENE STRUCTURE
+
+Korenbaum et al. (2001) determined that the PARVG gene contains 15 exons
+and spans about 25 kb.
+
+MAPPING
+
+By genomic sequence analysis, Korenbaum et al. (2001) mapped the PARVG
+gene to chromosome 22q13.31, where it lies head to tail about 12 kb
+telomeric to the PARVB gene.
+
+REFERENCE 1. Korenbaum, E.; Olski, T. M.; Noegel, A. A.: Genomic organization
+and expression profile of the parvin family of focal adhesion proteins
+in mice and humans. Gene 279: 69-79, 2001.
+
+2. Olski, T. M.; Noegel, A. A.; Korenbaum, E.: Parvin, a 42 kDa focal
+adhesion protein, related to the alpha-actinin superfamily. J. Cell
+Sci. 114: 525-538, 2001.
+
+CREATED Patricia A. Hartz: 9/25/2003
+
+EDITED mgross: 09/25/2003
+
+610726	TITLE *610726 TRUB PSEUDOURIDINE SYNTHASE, E. COLI, HOMOLOG OF, 1; TRUB1
+;;PUS4
+DESCRIPTION 
+DESCRIPTION
+
+Pseudouridine is an abundant component of rRNAs and tRNAs and is
+enzymatically generated by isomerization of uridine by pseudouridine
+synthase (Zucchini et al., 2003).
+
+CLONING
+
+Using database analysis and EST clone assembly, Zucchini et al. (2003)
+identified TRUB1. The 349-amino acid protein has a predicted molecular
+mass of 37.3 kD and contains 1 TruB domain. Northern blot analysis
+showed ubiquitous expression of 5.2-, 3.8-, and 1.75-kb transcripts,
+with highest expression seen in heart, skeletal muscle, and liver. TRUB1
+shares 30% identity and 45% similarity with TRUB2 (610727). Phylogenetic
+analysis showed that TRUB1 and TRUB2 group together with the original
+eubacterial tRNA synthases, distinct from DKC1 (300126).
+
+GENE STRUCTURE
+
+Zucchini et al. (2003) determined that the TRUB1 gene consists of 8
+exons spanning approximately 40 kb.
+
+MAPPING
+
+By genomic sequence analysis, Zucchini et al. (2003) mapped the TRUB1
+gene to chromosome 10.
+
+REFERENCE 1. Zucchini, C.; Strippoli, P.; Biolchi, A.; Solmi, R.; Lenzi, L.;
+D'Addabbo, P.; Carinci, P.; Valvassori, L.: The human TruB family
+of pseudouridine synthase genes, including the Dyskeratosis Congenita
+1 gene and the novel member TRUB1. Int. J. Molec. Med. 11: 697-704,
+2003.
+
+CREATED Laura L. Baxter: 1/29/2007
+
+EDITED wwang: 01/30/2007
+wwang: 1/29/2007
+
+604146	TITLE *604146 SYNAPTOTAGMIN 7; SYT7
+;;PROSTATE CANCER-ASSOCIATED PROTEIN 7; PCANAP7;;
+IPCA7
+DESCRIPTION 
+DESCRIPTION
+
+Synaptotagmins, such as SYT7, are brain-specific calcium-dependent
+phospholipid-binding proteins that play a role in synaptic exocytosis
+and neurotransmitter release. See 600782.
+
+CLONING
+
+While constructing a transcript map of the human chromosomal 11q13
+interval associated with Best vitelliform macular dystrophy (153700), By
+RT-PCR, Li et al. (1995) determined that rat Syt7 is expressed at high
+levels in brain and is widely distributed in non-neural tissues,
+particularly heart and lung. Cooper et al. (1998) isolated cDNAs
+encoding the human homolog of rat synaptotagmin 7. The predicted
+403-amino acid human and rat proteins are 98% identical. Northern blot
+analysis revealed that synaptotagmin 7 is expressed as 4.4- and 7.5-kb
+mRNAs in a variety of human adult and fetal tissues, including those
+from different regions of the brain.
+
+Fukuda et al. (2002) identified 1 major and 2 minor isoforms of mouse
+Syt7. The 2 minor isoforms contain unique insertions in the spacer
+domain between the transmembrane and C2 domains. Similar results were
+obtained with respect to human SYT7. Expression of fluorescence-tagged
+Syt7 in rat pheochromocytoma cells revealed localization in the
+perinuclear region, where it colocalized with a Golgi marker protein,
+and localization in the tips of neurites.
+
+By Western blot analysis and immunofluorescence microscopy, Caler et al.
+(2001) demonstrated expression of a 65-kD SYT7 antigen on membrane
+lysosomes, and SYT7 colocalized with LAMP1 (153330) on a number of cell
+types.
+
+Using a method called 'Guilt-by-Association' (GBA), which searches for
+novel genes whose expression patterns mimic those of known
+disease-associated genes, Walker et al. (1999) examined the pairwise
+coexpression patterns of 40,000 human genes in 522 cDNA libraries and
+identified several novel genes associated with prostate cancer,
+including SYT7, which they named IPCA7. IPCA7 expression was
+significantly associated with the expressions of the known prostate
+cancer-associated genes PSA (KLK3; 176820), PAP (ACPP; 171790), KLK2
+(147960), MSMB (157145), and TGM4 (600585).
+
+GENE FUNCTION
+
+By in vitro characterization of recombinant rat Syt7, Li et al. (1995)
+determined that Syt7 showed Ca(2+)-dependent binding to phospholipids
+and Ca(2+)-independent binding to adaptor protein-2 (see 601026). Both
+C2 domains also showed Ca(2+)-dependent binding to syntaxins (see
+186590).
+
+Sugita et al. (2001) presented evidence that SYT7 functions as a plasma
+membrane Ca(2+) sensor in synaptic exocytosis. Alternatively spliced
+forms of rodent Syt7 were expressed in a developmentally regulated
+pattern in brain and were concentrated in presynaptic active zones of
+central synapses. In a rat neuroendocrine cell line, both C2 domains of
+Syt7 were potent inhibitors of Ca(2+)-dependent exocytosis, but only
+when they bound Ca(2+).
+
+Shin et al. (2002) used gain-of-function C2-domain mutants of
+synaptotagmin-1 and loss-of-function C2-domain mutants of
+synaptotagmin-7 to examine how synaptotagmins function in dense-core
+vesicle exocytosis. Their data indicated that phospholipid, but not
+SNARE, binding by plasma membrane synaptotagmins is the primary
+determinant of calcium-triggered dense-core vesicle exocytosis. Shin et
+al. (2002) concluded that their results support a general lipid-based
+mechanism of action of synaptotagmins in exocytosis, with the
+specificity of various synaptotagmins for different types of fusion
+governed by their differential localizations and calcium affinities.
+
+Chronic infection with the intracellular parasite Trypanosoma cruzi is
+prevalent in extensive areas of South and Central America. The parasite
+enters cells by a nonphagocytic mechanism. Entry requires mobilization
+of host cell lysosomes to the invasion site, as well as the triggering
+of a signaling cascade that results in localized elevation of free
+calcium. Thus, T. cruzi cell entry has several features resembling
+regulated exocytosis. By glass bead loading of cells with antibody to
+the C2A calcium-binding and exocytosis-regulating domain of SYT7, Caler
+et al. (2001) showed that T. cruzi, but not Toxoplasma gondii or
+Salmonella typhimurium, was markedly inhibited from entering the cells.
+Likewise, wildtype SYT7 C2A peptides but not those of other SYTs (e.g.,
+SYT1; 185605) could block parasite entry. Caler et al. (2001) concluded
+that T. cruzi subverts the calcium-regulated lysosomal exocytic
+machinery involving the widely expressed SYT7 protein as a strategy for
+cell entry.
+
+Roy et al. (2004) found that the lysosomal synaptotagmin SYT7 is
+required for a mechanism that promotes phagolysosomal fusion and limits
+the intracellular growth of pathogenic bacteria. SYT7 was required for a
+form of calcium-dependent phagolysosome fusion that is analogous to
+calcium-regulated exocytosis of lysosomes, which can be triggered by
+membrane injury. Bacterial type III secretion systems, which
+permeabilize membranes and cause calcium influx in mammalian cells,
+promote lysosomal exocytosis and inhibit intracellular survival in Syt7
+wildtype but not null cells. Thus, the lysosomal repair response can
+also protect cells against pathogens that trigger membrane
+permeabilization.
+
+Zhao et al. (2008) found that Syt7 was associated with lysosomes in
+mouse osteoclasts and with bone matrix protein-containing vesicles in
+mouse osteoblasts. Absence of Syt7 inhibited cathepsin K (CTSK; 601105)
+secretion and formation of the ruffled border in osteoclasts and bone
+matrix protein deposition in osteoblasts. Furthermore, Syt7-deficient
+mice were osteopenic due to impaired bone resorption and formation. Zhao
+et al. (2008) concluded that SYT7 is involved in bone remodeling and
+homeostasis by modulating secretory pathways in osteoclasts and
+osteoblasts.
+
+ANIMAL MODEL
+
+Maximov et al. (2008) found that homozygous Syt7-null mice were viable
+and fertile. Mutations in Syt7 that inactivated Ca(2+) binding to both
+C2 domains destabilized the protein, whereas inactivation of Ca(2+)
+binding to only the second C2 domain did not. Inhibitory neurons from
+Syt7-null mice were similar to wildtype neurons in synchronous and
+asynchronous neurotransmitter release and in presynaptic short-term
+plasticity. Maximov et al. (2008) concluded that Ca(2+) binding to SYT7
+stabilizes the protein, but it does not regulate synaptic vesicle
+exocytosis.
+
+Gustavsson et al. (2008) found that Syt7-null mice had impaired
+glucose-induced insulin secretion. Insulin sensitivity and production,
+pancreatic islet architecture and ultrastructural organization, and
+metabolic and calcium responses were normal in Syt7-null mice.
+
+Loss of Syt1 abolishes fast exocytosis in chromaffin cells, but overall
+secretion is reduced by only 20% because slow exocytosis persists. Since
+Syt7 has the properties of a slow Ca(2+) sensor, with higher Ca(2+)
+affinity and slower binding kinetics than Syt1, Schonn et al. (2008)
+examined Ca(2+)-triggered exocytosis in chromaffin cells from
+Syt7-knockout mice and from knockin mice containing normal levels of a
+mutant Syt7 lacking the second Ca(2+)-binding domain. Both types of
+mutant chromaffin cells showed dramatically decreased Ca(2+)-triggered
+exocytosis. Moreover, in chromaffin cells lacking both Syt1 and Syt7,
+only a very slow release component persisted. Schonn et al. (2008)
+concluded that SYT7, together with SYT1, mediates almost all
+Ca(2+)-triggered exocytosis in chromaffin cells.
+
+MAPPING
+
+By transcript mapping of the 11q13 gene-rich region, Cooper et al.
+(1998) mapped the SYT7 gene to 11q13.
+
+REFERENCE 1. Caler, E. V.; Chakrabarti, S.; Fowler, K. T.; Rao, S.; Andrews,
+N. W.: The exocytosis-regulatory protein synaptotagmin VII mediates
+cell invasion by Trypanosoma cruzi. J. Exp. Med. 193: 1097-1104,
+2001.
+
+2. Cooper, P. R.; Nowak, N. J.; Higgins, M. J.; Church, D. M.; Shows,
+T. B.: Transcript mapping of the human chromosome 11q12-q13.1 gene-rich
+region identifies several newly described conserved genes. Genomics 49:
+419-429, 1998.
+
+3. Fukuda, M.; Ogata, Y.; Saegusa, C.; Kanno, E.; Mikoshiba, K.:
+Alternative splicing isoforms of synaptotagmin VII in the mouse, rat
+and human. Biochem. J. 365: 173-180, 2002.
+
+4. Gustavsson, N.; Lao, Y.; Maximov, A.; Chuang, J.-C.; Kostromina,
+E.; Repa, J. J.; Li, C.; Radda, G. K.; Sudhof, T. C.; Han, W.: Impaired
+insulin secretion and glucose intolerance in synaptotagmin-7 null
+mutant mice. Proc. Nat. Acad. Sci. 105: 3992-3997, 2008.
+
+5. Li, C.; Ullrich, B.; Zhang, J. Z.; Anderson, R. G. W.; Brose, N.;
+Sudhof, T. C.: Ca(2+)-dependent and -independent activities of neural
+and non-neural synaptotagmins. Nature 375: 594-599, 1995.
+
+6. Maximov, A.; Lao, Y.; Li, H.; Chen, X.; Rizo, J.; Sorensen, J.
+B.; Sudhof, T. C.: Genetic analysis of synaptotagmin-7 function in
+synaptic vesicle exocytosis. Proc. Nat. Acad. Sci. 105: 3986-3991,
+2008.
+
+7. Roy, D.; Liston, D. R.; Idone, V. J.; Di, A.; Nelson, D. J.; Pujol,
+C.; Bliska, J. B.; Chakrabarti, S.; Andrews, N. W.: A process for
+controlling intracellular bacterial infections induced by membrane
+injury. Science 304: 1515-1518, 2004.
+
+8. Schonn, J.-S.; Maximov, A.; Lao, Y.; Sudhof, T. C.; Sorensen, J.
+B.: Synaptotagmin-1 and -7 are functionally overlapping Ca(2+) sensors
+for exocytosis in adrenal chromaffin cells. Proc. Nat. Acad. Sci. 105:
+3998-4003, 2008.
+
+9. Shin, O.-H.; Rizo, J.; Sudhof, T. C.: Synaptotagmin function in
+dense core vesicle exocytosis studied in cracked PC12 cells. Nature
+Neurosci. 5: 649-656, 2002.
+
+10. Sugita, S.; Han, W.; Butz, S.; Liu, X.; Fernandez-Chacon, R.;
+Lao, Y.; Sudhof, T. C.: Synaptotagmin VII as a plasma membrane Ca(2+)
+sensor in exocytosis. Neuron 30: 459-473, 2001.
+
+11. Walker, M. G.; Volkmuth, W.; Sprinzak, E.; Hodgson, D.; Klingler,
+T.: Prediction of gene function by genome-scale expression analysis:
+prostate cancer-associated genes. Genome Res. 9: 1198-1203, 1999.
+
+12. Zhao, H.; Ito, Y.; Chappel, J.; Andrews, N. W.; Teitelbaum, S.
+L.; Ross, F. P.: Synaptotagmin VII regulates bone remodeling by modulating
+osteoclast and osteoblast secretion. Dev. Cell 14: 914-925, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/14/2008
+Patricia A. Hartz - updated: 5/29/2008
+Patricia A. Hartz - updated: 10/20/2005
+Ada Hamosh - updated: 6/22/2004
+Patricia A. Hartz - updated: 4/23/2003
+Ada Hamosh - updated: 7/10/2002
+Paul J. Converse - updated: 10/9/2001
+
+CREATED Rebekah S. Rasooly: 8/31/1999
+
+EDITED carol: 06/09/2010
+terry: 12/1/2009
+mgross: 8/14/2008
+terry: 8/14/2008
+mgross: 6/10/2008
+terry: 5/29/2008
+mgross: 10/26/2005
+terry: 10/20/2005
+carol: 8/27/2004
+alopez: 6/22/2004
+terry: 6/22/2004
+mgross: 4/25/2003
+terry: 4/23/2003
+alopez: 7/11/2002
+terry: 7/10/2002
+mgross: 10/9/2001
+alopez: 8/31/1999
+
+603727	TITLE *603727 GLUTAMINYL-tRNA SYNTHETASE; QARS
+;;GLNRS
+DESCRIPTION 
+DESCRIPTION
+
+GLnRS is a class I aminoacyl-tRNA synthetase (Lamour et al., 1994).
+Aminoacyl-tRNA synthetases are enzymes that charge tRNAs with their
+cognate amino acids. The specificity of this reaction determines the
+fidelity of mRNA translation. At least 1 synthetase exists in the
+cytoplasm for each amino acid.
+
+CLONING
+
+Lamour et al. (1994) isolated cDNAs encoding human GlnRS. Northern blot
+analysis detected GlnRS expression as an approximately 2.5-kb mRNA in a
+variety of tumor cell lines. The predicted 775-amino acid protein
+contains the HIGH and KMSKS sequence motifs characteristic of class I
+aminoacyl-tRNA synthetases. Human and S. cerevisiae GlnRS are 41%
+identical. Both eukaryotic enzymes have a large N-terminal extension
+compared to prokaryotic GlnRS.
+
+EVOLUTION
+
+Lamour et al. (1994) noted that GlnRS is present in eukaryotes but is
+absent from many prokaryotes, mitochondria, and chloroplasts, in which
+Gln-tRNA(Gln) is formed by transamidation of the misacylated
+Glu-tRNA(Gln). Sequence comparisons revealed that the eukaryotic
+glutamyl-tRNA synthetase (GluRS; 612799) has more extensive sequence
+similarities with prokaryotic and eukaryotic GlnRS than with the
+functionally homologous prokaryotic GluRS. Lamour et al. (1994)
+presented evidence that bacterial GlnRS has a eukaryotic origin and was
+acquired by a mechanism of horizontal gene transfer.
+
+MAPPING
+
+By analysis of a somatic cell hybrid panel, Lamour et al. (1994) mapped
+the GlnRS gene to chromosome 3.
+
+HISTORY
+
+Lamour et al. (1994) noted that a previously cloned gene (EPRS; 138295)
+was originally considered to be GlnRS, but was subsequently shown to
+encode a multifunctional protein with glutamyl- and prolyl-tRNA
+synthetase activities.
+
+REFERENCE 1. Lamour, V.; Quevillon, S.; Diriong, S.; N'Guyen, V. C.; Lipinski,
+M.; Mirande, M.: Evolution of the Glx-tRNA synthetase family: the
+glutaminyl enzyme as a case of horizontal gene transfer. Proc. Nat.
+Acad. Sci. 91: 8670-8674, 1994.
+
+CREATED Rebekah S. Rasooly: 7/16/1999
+
+EDITED carol: 10/27/2009
+alopez: 7/16/1999
+alopez: 4/13/1999
+

@@ -1,0 +1,124 @@
+606160	TITLE *606160 PANTOTHENATE KINASE 1; PANK1
+DESCRIPTION 
+DESCRIPTION
+
+Pantothenate kinase (EC 2.7.2.33) is an essential regulatory enzyme in
+CoA biosynthesis, catalyzing the cytosolic phosphorylation of
+pantothenate (vitamin B5), N-pantothenoylcysteine, and pantetheine. CoA
+is the major acyl carrier, playing a central role in intermediary and
+fatty acid metabolism. In both yeast and fly, each with only 1
+pantothenate kinase gene, the null mutant is inviable (summary by Zhou
+et al., 2001).
+
+CLONING
+
+Karim et al. (2000) cloned and sequenced 3 human cDNAs that encode the
+alpha, beta, and gamma isoforms of PANK1, which have distinct amino
+termini and are predicted to arise from alternative splicing of
+transcripts of the same gene. The alpha, beta, and gamma proteins
+contain 598, 373, and 400 amino acids, respectively, and share a common
+C terminus of 40 kD. Northern blot analysis detected expression of PANK1
+in all tissues examined, but predominantly in liver and kidney.
+
+GENE STRUCTURE
+
+Karim et al. (2000) determined that the PANK1 gene contains 9 exons and
+spans about 62 kb.
+
+MAPPING
+
+By fluorescence in situ hybridization, Karim et al. (2000) mapped the
+PANK1 gene to chromosome 10q23.2-q23.31. They mapped the mouse Pank1
+gene to a region of syntenic homology on chromosome 19C2-3.
+
+REFERENCE 1. Karim, M. A.; Valentine, V. A.; Jackowski, S.: Human pantothenate
+kinase 1 (PANK1) gene: characterization of the cDNAs, structural organization
+and mapping of the locus to chromosome 10q23.2-23.31. (Abstract) Am.
+J. Hum. Genet. 67 (suppl. 2): 185 only, 2000.
+
+2. Zhou, B.; Westaway, S. K.; Levinson, B.; Johnson, M. A.; Gitschier,
+J.; Hayflick, S. J.: A novel pantothenate kinase gene (PANK2) is
+defective in Hallervorden-Spatz syndrome. Nature Genet. 28: 345-349,
+2001.
+
+CREATED Ada Hamosh: 7/31/2001
+
+EDITED terry: 09/29/2010
+terry: 9/29/2010
+carol: 9/29/2010
+terry: 9/9/2010
+alopez: 7/31/2001
+
+614657	TITLE *614657 ANGIOMOTIN-LIKE 1; AMOTL1
+;;JUNCTION-ENRICHED AND -ASSOCIATED PROTEIN; JEAP
+DESCRIPTION 
+CLONING
+
+By searching an EST database for sequences similar to angiomotin (AMOT;
+300410), Bratt et al. (2002) identified AMOTL1 and AMOTL2 (614658). The
+deduced 956-amino acid AMOTL1 protein contains a conserved N-terminal
+glutamine-rich domain, followed by 2 coiled-coil domains and a
+C-terminal PDZ-binding motif. AMOTL1 and AMOTL2 lack the angiostatin
+(173350)-binding domain found in angiomotin. Northern blot analysis of
+mouse tissues detected an approximately 8.3-kb Amotl1 transcript that
+was highly expressed in brain, heart, lung, skeletal muscle, kidney, and
+uterus, with much lower expression in most other tissues.
+
+Nishimura et al. (2002) cloned mouse Amotl1, which they called Jeap. The
+deduced 882-amino acid protein has a calculated molecular mass of 98.4
+kD. Jeap has an N-terminal polyglutamic acid repeat, followed by a
+central coiled-coil domain and a C-terminal PDZ-binding motif.
+Fluorescence-tagged Jeap colocalized with Zo1 (TJP1; 601009) at tight
+junctions along the apical regions of lateral membranes of transfected
+canine kidney cells. Immunohistochemical analysis of mouse tissues
+detected Jeap expression in exocrine glands, including pancreas,
+submandibular gland, lacrimal gland, parotid gland, and sublingual
+gland, but not in brain, heart, liver, kidney, spleen, gall bladder, or
+duodenum. In exocrine glands, Jeap localized to the terminal portion of
+serous glands. It did not localize to any endothelial cells. Western
+blot analysis detected Jeap at an apparent molecular mass of about 105
+kD.
+
+GENE FUNCTION
+
+Li et al. (2012) found that overexpression of AMOT, AMOTL1, or AMOTL2 in
+HEK293T cells repressed WNT1 (164820)-dependent activation of a reporter
+gene. Conversely, knockdown of all 3 genes simultaneously via small
+hairpin RNA significantly increased WNT1 reporter gene activity.
+However, knockdown of AMOT, AMOTL1, or AMOTL2 individually had little
+effect, suggesting that they have overlapping functions in repressing
+WNT activity.
+
+MAPPING
+
+Hartz (2012) mapped the AMOTL1 gene to chromosome 11q21 based on an
+alignment of the AMOTL1 sequence (GenBank GENBANK AF453742) with the
+genomic sequence (GRCh37).
+
+EVOLUTION
+
+Phylogenetic analysis by Bratt et al. (2002) suggested that angiomotin,
+AMOTL1, and AMOTL2 form separate clades and that these clades arose from
+a duplication of a common ancestral sequence.
+
+REFERENCE 1. Bratt, A.; Wilson, W. J.; Troyanovsky, B.; Aase, K.; Kessler, R.;
+Van Meir, E. G.; Holmgren, L.: Angiomotin belongs to a novel protein
+family with conserved coiled-coil and PDZ binding domains. Gene 298:
+69-77, 2002. Note: Erratum: Gene 321: 221 only, 2003.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  5/2/2012.
+
+3. Li, Z.; Wang, Y.; Zhang, M.; Xu, P.; Huang, H.; Wu, D.; Meng, A.
+: The Amotl2 gene inhibits Wnt/B-catenin signaling and regulates embryonic
+development in zebrafish. J. Biol. Chem. 287: 13005-13015, 2012.
+
+4. Nishimura, M.; Kakizaki, M.; Ono, Y.; Morimoto, K.; Takeuchi, M.;
+Inoue, Y.; Imai, T.; Takai, Y.: JEAP, a novel component of tight
+junctions in exocrine cells. J. Biol. Chem. 277: 5583-5587, 2002.
+
+CREATED Patricia A. Hartz: 5/21/2012
+
+EDITED terry: 03/15/2013
+terry: 3/15/2013
+mgross: 5/21/2012
+

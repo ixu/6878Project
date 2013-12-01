@@ -1,0 +1,8 @@
+name,category,termsUEV and lactate/malate dehyrogenase domains,INTERPRO[450000520$IPR000608:Ubiquitin-conjugating enzyme, E2, 450001087$IPR001236:Lactate/malate dehydrogenase, 450001383$IPR001557:L-lactate/malate dehydrogenase, 450008125$IPR008883:Tumour susceptibility gene 101, 450014366$IPR015955:Lactate dehydrogenase/glycoside hydrolase, family 4, C-terminal, 450014426$IPR016040:NAD(P)-binding domain, 450014494$IPR016135:Ubiquitin-conjugating enzyme/RWD-like]
+UEV and lactate/malate dehyrogenase domains,PIR_SUPERFAMILY[630000119$PIRSF000102:Lac_mal_DH]
+UEV and lactate/malate dehyrogenase domains,SMART[760000185$SM00212:UBCc]
+UEV and lactate/malate dehyrogenase domains,SP_PIR_KEYWORDS[790000002$3d-structure, 790000053$alternative splicing, 790000356$complete proteome, 790001006$nad, 790001593$ubl conjugation pathway]
+UEV and lactate/malate dehyrogenase domains,UP_SEQ_FEATURE[850068113$chain:Ubiquitin-conjugating enzyme E2 variant 3, 850105607$domain:UEV, 850105852$helix, 850106301$nucleotide phosphate-binding region:NAD, 850117294$sequence conflict, 850118574$splice variant, 850118575$strand, 850118624$turn]
+dCTP pyrophosphatase 1,INTERPRO[450004011$IPR004518:NTP pyrophosphohydrolase MazG, putative catalytic core, 450008193$IPR009039:EAR]
+dCTP pyrophosphatase 1,SP_PIR_KEYWORDS[790000356$complete proteome, 790000743$hydrolase, 790001063$nucleotide-binding, 790001162$phosphoprotein]
+dCTP pyrophosphatase 1,UP_SEQ_FEATURE[850000187$binding site:5-methyl dCTP, 850014327$chain:dCTP pyrophosphatase 1, 850106258$modified residue, 850106260$nucleotide phosphate-binding region:5-methyl dCTP, 850115874$repeat:EAR]

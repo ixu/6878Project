@@ -1,0 +1,2049 @@
+601838	TITLE *601838 INOSITOL 1,3,4-TRISPHOSPHATE 5/6-KINASE; ITPK1
+;;ITRPK1
+DESCRIPTION 
+CLONING
+
+Based on a bovine peptide sequence, Wilson and Majerus (1996) found a
+human EST corresponding to the inositol 1,3,4-trisphosphate 5/6-kinase
+gene (ITRPK1). They used this EST to clone the cDNA of ITRPK1 from a
+human fetal brain cDNA library. This cDNA encodes a 414-amino acid
+polypeptide. Northern blot analysis revealed that ITRPK1 was expressed
+as a 3.6-kb message in all tissues tested, with the highest levels in
+brain. Expression of the cDNA resulted in inositol 1,3,4-trisphosphate
+5/6-kinase activity, showing that a single kinase phosphorylates
+inositol in both the D5 and D6 positions.
+
+By database searching with the ITPK1 sequence to identify an enzyme with
+1-kinase activity, Yang and Shears (2000) also obtained a cDNA encoding
+ITPK1 but with a serine replacing asparagine-356. Functional analysis
+showed that the variant, which they called the type beta protein, as
+well as the protein with asn356, which they called the type alpha
+protein, phosphorylated not only the 5- and 6-hydroxy groups of
+Ins(1,3,4)P3 but also the 1-hydroxy group of Ins(3,4,5,6)P4, suggesting
+that the 2 inositol phosphates compete for phosphorylation in vivo. Yang
+and Shears (2000) concluded that the same kinase is charged with
+performing competing activities that both activate and deactivate a
+signaling pathway.
+
+REFERENCE 1. Wilson, M. P.; Majerus, P. W.: Isolation of inositol 1,3,4-trisphosphate
+5/6-kinase, cDNA cloning, and expression of the recombinant enzyme. J.
+Biol. Chem. 271: 11904-11910, 1996.
+
+2. Yang, X.; Shears, S. B.: Multitasking in signal transduction by
+a promiscuous human ins(3,4,5,6)P4 1-kinase/Ins(1,3,4)P3 5/6-kinase. Biochem.
+J. 351: 551-555, 2000.
+
+CONTRIBUTORS Paul J. Converse - updated: 2/28/2001
+
+CREATED Jennifer P. Macke: 5/29/1997
+
+EDITED alopez: 04/28/2010
+cwells: 2/28/2001
+cwells: 2/27/2001
+alopez: 8/10/1999
+alopez: 6/9/1997
+
+610855	TITLE *610855 ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 26; ANKRD26
+;;KIAA1074
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Kikuno et al. (1999) cloned ANKRD26, which they designated
+KIAA1074. The deduced protein contains 1,709 amino acids. RT-PCR ELISA
+detected moderate expression in fetal liver and in nearly all adult
+tissues and specific brain regions examined. Low expression was detected
+in adult pancreas and spleen and in fetal brain.
+
+By database analysis, Hahn et al. (2006) identified ANKRD26 as a distant
+homolog of the POTE family (see POTE2; 608914). The ANKRD26 protein
+contains 4 N-terminal ankyrin repeats and a C-terminal coiled-coil
+region. It shares 61.2% amino acid identity with mouse Ankrd26.
+
+GENE STRUCTURE
+
+Hahn et al. (2006) determined that the ANKRD26 gene contains 34 exons.
+
+MAPPING
+
+Using radiation hybrid analysis, Kikuno et al. (1999) mapped the ANKRD26
+gene to chromosome 10. By genomic sequence analysis, Hahn et al. (2006)
+mapped the ANKRD26 gene to chromosome 10p12.1. They mapped the mouse
+Ankrd26 gene to chromosome 6F1.
+
+MOLECULAR GENETICS
+
+In 9 of 20 unrelated families with autosomal dominant nonsyndromic
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified 6
+different heterozygous mutations in the 5-prime promoter region of the
+ANKRD26 gene (see, e.g., 610855.0001-610855.0003). All of the mutations
+occurred in a highly conserved 19-nucleotide stretch. In vitro
+functional expression assays in Dami human megakaryoblastic cells
+indicated that the mutations resulted in increased expression,
+particularly when the cells were stimulated toward maturation. The
+findings suggested a gain-of-function effect. Pippucci et al. (2011)
+speculated that the ANKRD26 mutations interfere with the mechanism
+controlling the expression of ANKRD26, which would then affect
+megakaryopoiesis and platelet production, perhaps by inducing apoptosis.
+The phenotype was characterized by thrombocytopenia without any
+morphologic or functional platelet defect.
+
+ANIMAL MODEL
+
+Bera et al. (2008) generated mice homozygous for partial inactivation of
+the Ankrd26 gene and observed the development of extreme obesity,
+insulin resistance, and a dramatic increase in body size. The obesity
+was associated with hyperphagia with no reduction in energy expenditure
+or activity. Bera et al. (2008) detected expression of Ankrd26 in the
+arcuate and ventromedial nuclei within the hypothalamus and in the
+ependyma and the circumventricular organs that act as an interface
+between the peripheral circulation and the brain. They also found
+increased phosphorylation of Akt (see AKT1; 164730) and mTOR (FRAP1;
+601231) in mutant hearts compared to wildtype.
+
+ALLELIC VARIANT .0001
+THROMBOCYTOPENIA 2
+ANKRD26, -134G-A
+
+In 7 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000) originally reported by Savoia et al.
+(1999), Pippucci et al. (2011) identified a heterozygous -134G-A
+transition in the 5-prime promoter region of the ANKRD26 gene. The same
+mutation was also identified in 2 members of a second Italian family
+with the disorder. The mutation was not found in 500 controls. In vitro
+functional expression studies of the mutant protein in K562
+undifferentiated myeloid cells showed 2.7 to 4.5-fold increased
+expression of a luciferase reporter. Transfection of the -134G-A
+mutation in Dami human megakaryoblastic cells showed overexpression of
+the reporter gene in cells that were both unstimulated and stimulated
+toward megakaryocytic maturation. Punzo et al. (2010) determined that
+this large Italian family, originally reported by Savoia et al. (1999),
+had a pathogenic mutation in the ACBD5 gene that caused the disorder,
+but the findings of Pippucci et al. (2011) suggested that the ANKRD26
+mutation was responsible for the phenotype.
+
+.0002
+THROMBOCYTOPENIA 2
+ANKRD26, -127A-T
+
+In 6 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified a
+heterozygous -127A-T transversion in the 5-prime promoter region of the
+ANKRD26 gene. The same mutation was also identified in 2 members of
+family from Argentina with the disorder. The mutation was not found in
+500 controls. Transfection of the -127A-T mutation in Dami human
+megakaryoblastic cells showed overexpression of the reporter gene in
+Dami cells that were stimulated toward megakaryocytic maturation, but
+not in unstimulated cells.
+
+.0003
+THROMBOCYTOPENIA 2
+ANKRD26, -128G-A
+
+In 7 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified a
+heterozygous -128G-A transition in the 5-prime promoter region of the
+ANKRD26 gene. The same mutation was also identified in 3 members of
+another Italian family with the disorder. The mutation was not found in
+500 controls. Transfection of the -128G-A mutation in Dami human
+megakaryoblastic cells showed overexpression of the reporter gene in
+cells that were both unstimulated and stimulated toward megakaryocytic
+maturation.
+
+REFERENCE 1. Bera, T. K.; Liu, X.-F.; Yamada, M.; Gavrilova, O.; Mezey, E.;
+Tessarollo, L.; Anver, M.; Hahn, Y.; Lee, B.; Pastan, I.: A model
+for obesity and gigantism due to disruption of the Ankrd26 gene. Proc.
+Nat. Acad. Sci. 105: 270-275, 2008.
+
+2. Hahn, Y.; Bera, T. K.; Pastan, I. H.; Lee, B.: Duplication and
+extensive remodeling shaped POTE family genes encoding proteins containing
+ankyrin repeat and coiled coil domains. Gene 366: 238-245, 2006.
+
+3. Kikuno, R.; Nagase, T.; Ishikawa, K.; Hirosawa, M.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XIV. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 6: 197-205, 1999.
+
+4. Pippucci, T.; Savoia, A.; Perrotta, S.; Pujol-Moix, N.; Noris,
+P.; Castegnaro, G.; Pecci, A.; Gnan, C.; Punzo, F.; Marconi, C.; Gherardi,
+S.; Loffredo, G.; and 11 others: Mutations in the 5-prime UTR of
+ANKRD26, the ankirin repeat domain 26 gene, cause an autosomal-dominant
+form of inherited thrombocytopenia, THC2. Am. J. Hum.  Genet. 88:
+115-120, 2011.
+
+5. Punzo, F.; Mientjes, E. J.; Rohe, C. F.; Scianguetta, S.; Amendola,
+G.; Oostra, B. A.; Bertoli-Avella, A. M.; Perrotta, S.: A mutation
+in the acyl-coenzyme A binding domain-containing protein 5 gene (ACBD5)
+identified in autosomal dominant thrombocytopenia. J. Thromb. Haemost. 8:
+2085-2087, 2010.
+
+6. Savoia, A.; Del Vecchio, M.; Totaro, A.; Perrotta, S.; Amendola,
+G.; Moretti, A.; Zelante, L.; Iolascon, A.: An autosomal dominant
+thrombocytopenia gene maps to chromosomal region 10p. Am. J. Hum.
+Genet. 65: 1401-1405, 1999.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/2/2011
+Marla J. F. O'Neill - updated: 4/9/2008
+Patricia A. Hartz - updated: 4/11/2007
+
+CREATED Patricia A. Hartz: 3/16/2007
+
+EDITED wwang: 02/24/2011
+ckniffin: 2/2/2011
+wwang: 4/9/2008
+terry: 4/9/2008
+mgross: 4/20/2007
+terry: 4/11/2007
+mgross: 3/16/2007
+
+612987	TITLE *612987 NON-SMC ELEMENT 4, S. CEREVISIAE, HOMOLOG OF, A; NSMCE4A
+;;NSE4A
+DESCRIPTION 
+CLONING
+
+Hu et al. (2005) identified NSMCE4A, which is the human ortholog of S.
+cerevisiae Nse4. The deduced 385-amino acid protein shares 22%
+similarity with yeast Nse4.
+
+GENE FUNCTION
+
+Hu et al. (2005) showed that S. cerevisiae Nse4 mutants exhibited growth
+arrest occurring after S phase and prior to mitosis in a Rad24
+checkpoint-dependent manner, and displayed genome instability and
+sensitivity to DNA damage agents. Hu et al. (2005) showed that Nse4 is a
+non-SMC element of the Smc5 (609386)/Smc6 (609387) DNA repair complex.
+
+REFERENCE 1. Hu, B.; Liao, C.; Millson, S. H.; Mollapour, M.; Prodromou, C.;
+Pearl, L. H.; Piper, P. W.; Panaretou, B.: Qri2/Nse4, a component
+of the essential Smc5/6 DNA repair complex. Molec. Microbiol. 55:
+1735-1750, 2005.
+
+CREATED Dorothy S. Reilly: 8/27/2009
+
+EDITED wwang: 08/27/2009
+
+600194	TITLE *600194 KERATIN 2; KRT2
+;;KERATIN 2A; KRT2A;;
+KERATIN 2e; KRT2E
+DESCRIPTION 
+GENE FAMILY
+
+Keratins are the major gene product of keratinocytes and form the
+intermediate filament cytoskeletal network in these cells. Intermediate
+filament proteins consist of a central alpha-helical rod domain flanked
+by nonhelical sequences of varying size and composition. Keratin
+proteins fall into 2 classes on the basis of their electrophoretic
+properties and sequence similarities. One member of each class is
+required to form the heterodimeric coiled-coil precursor which through
+both lateral and longitudinal associations form the mature keratin
+intermediate filament. The major epidermal keratins of the type I class
+are KRT9 (607606), KRT10 (148080), KRT14 (148066), and KRT16 (148067);
+the major epidermal keratins of the type II class are KRT1 (139350),
+KRT2, KRT5 (148040), KRT6A (148041), and KRT6B (148042). The expression
+of individual keratins is specific both for body site and for stage of
+differentiation of the epidermal keratinocyte. Keratinocytes in the
+basal layer express KRT5 and KRT14. Upon differentiation and migration
+to the spinous layer, these genes are downregulated and the expression
+of KRT1 and KRT10 is induced. In cells of the upper spinous layer, KRT2
+and KRT9 are expressed. Although the expression of KRT9 is limited to
+palmoplantar epidermis, KRT2 is expressed not only in this tissue but
+also in other regions, notably the epidermis covering the knee, thigh,
+and groin. It is not known whether these keratins simply replace their
+respective type I or type II counterpart in the preexisting KRT1/KRT10
+network or dimerize with another, as yet undiscovered keratin partner.
+The other major epidermal keratins, KRT6 and KRT16, are normally
+expressed in the outer root sheath of the hair follicle and in
+palmoplantar epidermis.
+
+CLONING
+
+Keratin 2e is a protein of molecular weight 65.8 kD encoded by a 2.6-kb
+mRNA species. Collin et al. (1992) determined the sequence of the KRT2e
+cDNA.
+
+GENE STRUCTURE
+
+Smith et al. (1998) determined the genomic organization and complete
+sequence of the KRT2 gene, which consists of 9 exons spanning 7,634 bp
+of DNA.
+
+MAPPING
+
+Presumably the KRT2 gene maps to 12q11-q13, the site of the other class
+II genes, such as KRT1 and KRT5. By high-resolution radiation hybrid
+mapping, Smith et al. (1998) localized the gene to the interval between
+microsatellite markers D12S368 and a specific CHLC marker.
+
+MOLECULAR GENETICS
+
+Mutations in the basal cell-specific keratins KRT5 and KRT14 are found
+in patients with epidermolysis bullosa simplex (e.g., 131900); mutations
+in the differentiation-specific keratins KRT1 and KRT10 have been found
+in patients with epidermolytic hyperkeratosis (113800); and mutations in
+the palmoplantar-specific keratin KRT9 have been found in patients with
+epidermolytic palmoplantar keratoderma (144200). Rothnagel et al. (1994)
+and McLean et al. (1994) demonstrated mutations in the KRT2 gene in
+patients with ichthyosis bullosa of Siemens (IBS; 146800). Kremer et al.
+(1994) also found mutations in the KRT2 gene in patients with IBS and in
+patients with a phenotypically related, if not identical, disorder,
+ichthyosis exfoliativa.
+
+Smith et al. (1998) detected several intragenic polymorphisms in the
+KRT2 gene, including an 18-bp duplication in exon 1, corresponding to
+the V1 domain of the K2e polypeptide. Two novel mutations, N192Y in the
+1A domain and E482K in the 2B domain of K2e, were found in families with
+IBS.
+
+ALLELIC VARIANT .0001
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, GLU493ASP
+
+In an Asian family with ichthyosis bullosa of Siemens (146800;
+originally diagnosed as epidermolytic hyperkeratosis), Rothnagel et al.
+(1994) identified a G-to-T transversion at basepair 1512 of the
+published sequence (Collin et al., 1992) of the KRT2 gene, resulting in
+a glutamic acid to aspartic acid substitution at residue 117 in the
+highly conserved C terminal of the rod domain. (According to Rothnagel
+et al. (1994), the residue designated 117 corresponds to codon 493 of
+the published sequence.)
+
+.0002
+ICHTHYOSIS BULLOSA OF SIEMENS
+ICHTHYOSIS EXFOLIATIVA, INCLUDED
+KRT2, GLU493LYS
+
+In 4 families with autosomal dominant inheritance of ichthyosis bullosa
+of Siemens (146800) and in 1 sporadic case of this disorder, Rothnagel
+et al. (1994) found a G-to-A transition at nucleotide 1510 resulting in
+a lysine for glutamic acid substitution at residue 117 of the KRT2
+protein. Thus in a total of 6 instances, the mutation occurred in the
+same codon, GAG (glu); the mutation was to GAT in 1 family and to AAG in
+the 5 others. (According to Rothnagel et al. (1994), the residue
+designated 117 corresponds to codon 493 of the published sequence.)
+
+In 2 unrelated British families with ichthyosis bullosa of Siemens,
+McLean et al. (1994) found a glu493-to-lys mutation in the highly
+conserved LLEGEE helix termination motif, producing a change to LLEGKE.
+The mutation was predicted to be highly detrimental to keratin filament
+assembly and/or functional integrity. A G-to-A transition at nucleotide
+1510 of the cDNA sequence occurred in a CpG dinucleotide.
+
+Kremer et al. (1994) identified the same mutation in a family described
+as having ichthyosis exfoliativa and in yet another Dutch family with
+ichthyosis bullosa of Siemens.
+
+In a large family with ichthyosis bullosa of Siemens in 8 members
+spanning 3 generations, Basarab et al. (1999) identified the E493K
+mutation in the KRT2 gene. The patients showed blistering, superficial
+peeling of the skin, and localized lichenified hyperkeratosis, mainly
+confined to the limbs. Phenotypic variation with some individuals
+exhibiting unusual clinical features was also observed. The index
+patient was erythrodermic at birth and subsequently developed a
+widespread pustular eruption. She also had hypertrichosis of the limbs,
+as did an affected female first cousin. Basarab et al. (1999) found that
+E493K is by far the most frequent mutation in this disorder.
+
+.0003
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, GLN187PRO
+
+In a Dutch family with ichthyosis bullosa of Siemens (146800), Kremer et
+al. (1994) found a heterozygous transversion of adenosine to cytosine at
+nucleotide 593. This transversion led to the substitution of a proline
+for a glutamine at codon 187 (numbering according to Collin et al.
+(1992)) of the predicted protein sequence.
+
+.0004
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, THR485PRO
+
+In a 4-year-old Korean boy, Yang et al. (1997) observed a sporadic case
+of ichthyosis bullosa of Siemens (146800) and demonstrated a
+thr485-to-pro amino acid substitution in the highly conserved consensus
+motif at the end of the 2-B rod domain segment of the keratin 2 chain.
+The disease phenotype was consistent with the inappropriate substitution
+of proline near the end of the rod domain, because it was situated near
+the predicted molecular overlap region of coiled-coil molecules, which
+is critical for the maintenance of the structural integrity of keratin
+intermediate filaments. The patient had brownish, wrinkled, and
+encrusted hyperkeratosis and blistering over the entirety of his trunk
+and limbs, especially on flexural areas, beginning at the age of 100
+days. Blistering was more pronounced during summer and could be provoked
+by mild trauma. Erythroderma had never been present. Light microscopic
+examination showed epidermolytic hyperkeratosis limited to the upper
+part of the epidermis.
+
+.0005
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, ASN192TYR
+
+In a family with ichthyosis bullosa of Siemens (146800), Smith et al.
+(1998) identified an asn192-to-tyr substitution in the KRT2 gene.
+
+.0006
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, GLU482LYS
+
+In a family with ichthyosis bullosa of Siemens (146800), Smith et al.
+(1998) identified a glu482-to-lys substitution in the KRT2 gene.
+
+.0007
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, ASN192ASP
+
+In a family with ichthyosis bullosa of Siemens (146800), Takizawa et al.
+(2000) identified an A-to-G transition at nucleotide position 607 of the
+KRT2 gene, resulting in an asn192-to-asp substitution.
+
+.0008
+ICHTHYOSIS BULLOSA OF SIEMENS
+KRT2, ASN192LYS
+
+In a patient with ichthyosis bullosa of Siemens (146800), Whittock et
+al. (2001) reported a heterozygous C-to-A transversion at nucleotide 576
+of the KRT2 gene that resulted in an asn192-to-lys (N192K) amino acid
+substitution in the conserved 1A helix initiation peptide.
+
+REFERENCE 1. Basarab, T.; Smith, F. J. D.; Jolliffe, V. M. L.; McLean, W. H.
+I.; Neill, S.; Rustin, M. H. A.; Eady, R. A. J.: Ichthyosis bullosa
+of Siemens: report of a family with evidence of a keratin 2e mutation,
+and a review of the literature. Brit. J. Derm. 140: 689-695, 1999.
+
+2. Collin, C.; Moll, R.; Kubicka, S.; Ouhayoun, J.-P.; Franke, W.
+W.: Characterization of human cytokeratin 2, an epidermal cytoskeletal
+protein synthesized late during differentiation. Exp. Cell Res. 202:
+132-141, 1992.
+
+3. Kremer, H.; Zeeuwen, P.; McLean, W. H. I.; Mariman, E. C. M.; Lane,
+E. B.; van de Kerkhof, P. C. M.; Ropers, H.-H.; Steijlen, P. M.:
+Ichthyosis bullosa of Siemens is caused by mutations in the keratin
+2e gene. J. Invest. Derm. 103: 286-289, 1994.
+
+4. McLean, W. H. I.; Morley, S. M.; Lane, E. B.; Eady, R. A. J.; Griffiths,
+W. A. D.; Paige, D. G.; Harper, J. I.; Higgins, C.; Leigh, I. M.:
+Ichthyosis bullosa of Siemens--a disease involving keratin 2e. J.
+Invest. Derm. 103: 277-281, 1994.
+
+5. Rothnagel, J. A.; Traupe, H.; Wojcik, S.; Huber, M.; Hohl, D.;
+Pittelkow, M. R.; Saeki, H.; Ishibashi, Y.; Roop, D. R.: Mutations
+in the rod domain of keratin 2e in patients with ichthyosis bullosa
+of Siemens. Nature Genet. 7: 485-490, 1994.
+
+6. Smith, F. J. D.; Maingi, C.; Covello, S. P.; Higgins, C.; Schmidt,
+M.; Lane, E. B.; Uitto, J.; Leigh, I. M.; McLean, W. H. I.: Genomic
+organization and fine mapping of the keratin 2e gene (KRT2E): K2e
+V1 domain polymorphism and novel mutations in ichthyosis bullosa of
+Siemens. J. Invest. Derm. 111: 817-821, 1998.
+
+7. Takizawa, Y.; Akiyama, M.; Nagashima, M.; Shimizu, H.: A novel
+asparagine-aspartic acid mutation in the rod 1A domain in keratin
+2e in a Japanese family with ichthyosis bullosa of Siemens J. Invest.
+Derm. 114: 193-195, 2000.
+
+8. Whittock, N. V.; Ashton, G. H. S.; Griffiths, W. A. D.; Eady, R.
+A. J.; McGrath, J. A.: New mutations in keratin 1 that cause bullous
+congenital ichthyosiform erythroderma and keratin 2e that cause ichthyosis
+bullosa of Siemens. Brit. J. Derm. 145: 330-335, 2001.
+
+9. Yang, J.-M.; Lee, S.; Bang, H.-D.; Kim, W.-S.; Lee, E.-S.; Steinert,
+P. M.: A novel threonine-to-proline mutation at the end of 2B rod
+domain in the keratin 2e chain in ichthyosis bullosa of Siemens. J.
+Invest. Derm. 109: 116-118, 1997.
+
+CONTRIBUTORS Gary A. Bellus - updated: 3/7/2003
+Gary A. Bellus - updated: 6/13/2000
+Victor A. McKusick - updated: 6/11/1999
+Victor A. McKusick - updated: 1/27/1999
+Victor A. McKusick - updated: 9/8/1997
+
+CREATED Victor A. McKusick: 11/14/1994
+
+EDITED carol: 03/26/2008
+alopez: 3/12/2003
+alopez: 3/7/2003
+alopez: 6/13/2000
+jlewis: 6/21/1999
+jlewis: 6/17/1999
+terry: 6/11/1999
+carol: 2/12/1999
+terry: 1/27/1999
+terry: 9/8/1997
+terry: 8/5/1997
+mark: 6/19/1997
+alopez: 6/10/1997
+jamie: 1/17/1997
+mark: 4/1/1996
+mimadm: 9/23/1995
+terry: 6/24/1995
+terry: 11/29/1994
+carol: 11/16/1994
+carol: 11/15/1994
+
+103020	TITLE *103020 ADENYLATE KINASE 2; AK2
+;;ADENYLATE KINASE, MITOCHONDRIAL MYOKINASE
+DESCRIPTION 
+DESCRIPTION
+
+Nucleoside monophosphate kinases, including adenylate kinases, catalyze
+the reversible phosphorylation between nucleoside triphosphates and
+monophosphates.
+
+CLONING
+
+Bruns and Regina (1977) analyzed the subcellular compartmentalization of
+adenylate kinase-2 (EC 2.7.4.3) in HeLa cells, mouse RAG cells, and
+RAG-human hybrids expressing human AK2. The results indicated that AK2
+is a mitochondrial enzyme.
+
+Noma et al. (1998) isolated cDNAs encoding human adenylate kinase-2 from
+a HeLa cell cDNA library, using bovine AK2 cDNA as probe. Two
+transcripts were identified: one, designated AK2A, encodes a deduced
+239-amino acid protein with a predicted molecular mass of 26.5 kD, and
+the other, designated AK2B, encodes a deduced 232-amino acid protein
+with a predicted molecular mass of 25.6 kD. Northern blot analysis
+demonstrated 3 strong hybridizing signals of 0.9 (AK2A), 1.7 (AK2B), and
+3.5 kb, with high expression in liver, heart, skeletal muscle, and
+pancreas, moderate expression in kidney, placenta, and brain, and weak
+expression in lung. However, Western blot analysis showed high levels of
+AK2 protein in liver, heart, and kidney, low levels in lung, and
+undetectable levels in brain and skeletal muscle.
+
+MAPPING
+
+The existence of a second adenylate kinase locus linked to PGM1 and
+peptidase C, i.e., on chromosome 1, was suggested by cell hybridization
+studies by Van Cong et al. (1972). The Goss-Harris method of mapping
+combines features of recombinational study in families and synteny tests
+in hybrid cells. As applied to chromosome 1, the method shows that AK2
+and UMPK are distal to PGM1 and that the order of the loci is PGM1:
+UMPK: (AK2, alpha-FUC): ENO1 (Goss and Harris, 1977). Carritt et al.
+(1982) presented evidence that AK2 is in 1p34.
+
+GENE FUNCTION
+
+Lee et al. (2007) showed that intrinsic apoptosis in human cells that
+was induced by the chemotherapeutic agent etoposide or the antibiotic
+staurosporine, but not by FAS ligand (TNFSF6; 134638) or TRAIL (TNFSF10;
+603598), caused translocation of AK2 from mitochondria to the cytoplasm,
+followed by formation of a complex between AK2, FADD (602457), and
+CASP10 (601762). Yeast 2-hybrid analysis, protein pull-down assays, and
+immunoprecipitation analysis showed that the N- and C-terminal domains
+of AK2, which include nucleoside- and substrate-binding domains,
+respectively, bound the C-terminal death domain of FADD. AK2 binding
+promoted association of CASP10 with FADD, and addition of purified AK2
+protein to cell extracts induced activation of CASP10 via FADD, leading
+to subsequent activation of CASP9 (602234) and CASP3 (600636). Apoptosis
+through the AK2 complex did not correlate with the adenylate kinase
+activity of AK2, did not require CASP8 (601763)-mediated apoptotic
+responses, and did not involve mitochondrial cytochrome c release.
+Immunodepletion or knockdown of AK2, FADD, or CASP10 abrogated
+etoposide-induced apoptosis, and AK2 complexes were not observed in
+several etoposide-resistant human tumor cell lines that were deficient
+in expression of FADD, CASP10, or CASP3. In contrast to the findings in
+human cells, etoposide-induced apoptosis was observed in mouse embryonic
+fibroblasts that lacked Fadd expression. Since mice also lack Casp10,
+Lee et al. (2007) concluded that mice lack an apoptotic pathway
+comparable to the AK2-FADD-CASP10 pathway in humans.
+
+Pannicke et al. (2009) showed that knockdown of zebrafish ak2 also leads
+to aberrant leukocyte development, demonstrating the evolutionarily
+conserved role of AK2. They concluded that their results provide in vivo
+evidence for AK2 selectivity in leukocyte differentiation.
+
+MOLECULAR GENETICS
+
+In 6 affected individuals from 5 families segregating reticular
+dysgenesis (267500), Pannicke et al. (2009) identified 6 causative
+mutations in homozygous or compound heterozygous state
+(103020.0001-103020.0006).
+
+Lagresle-Peyrou et al. (2009) identified biallelic mutations in AK2
+(103020.0007-103020.0013) in 7 individuals with reticular dysgenesis.
+These mutations resulted in absent or strongly decreased protein
+expression. The authors then demonstrated that restoration of AK2
+expression in the bone marrow cells of individuals with reticular
+dysgenesis overcomes the neutrophil differentiation arrest, underlining
+its specific requirement in the development of a restricted set of
+hematopoietic lineages. Finally, Lagresle-Peyrou et al. (2009)
+established that AK2 is specifically expressed in the stria vascularis
+region of the inner ear, which provides an explanation for the
+sensorineural deafness in these individuals. Lagresle-Peyrou et al.
+(2009) concluded that their results identified a previously unknown
+mechanism involved in regulation of hematopoietic cell differentiation
+in one of the most severe human immunodeficiency syndromes.
+
+ALLELIC VARIANT .0001
+RETICULAR DYSGENESIS
+AK2, 5,038-BP DEL
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified a homozygous 5,038-bp deletion encompassing parts of
+exon 6, all of intron 6 and parts of exon 7 reaching into the 3-prime
+UTR of the AK2 gene. The mutation led to a complete loss of detectable
+AK2 protein in fibroblasts and in bone marrow mononuclear cells. The
+parents were heterozygous for the mutation, which was not found in 112
+German or 50 Turkish healthy subjects.
+
+.0002
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 118T
+
+In a German male with reticular dysgenesis (267500), Pannicke et al.
+(2009) identified compound heterozygosity for 2 mutations in the AK2
+gene: a 1-bp deletion (118delT) leading to a frameshift and early
+truncation of the protein, and a 1A-G transition leading to a
+met1-to-val (M1V) substitution (103020.0003). The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. Each parent was heterozygous for one of the
+mutations. The mutations were not found in 112 German or 50 Turkish
+healthy subjects.
+
+.0003
+RETICULAR DYSGENESIS
+AK2, MET1VAL
+
+See 103020.0002 and Pannicke et al. (2009).
+
+.0004
+RETICULAR DYSGENESIS
+AK2, 331, G-A, -1
+
+In a German male with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 331-1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0005
+RETICULAR DYSGENESIS
+AK2, 1-BP DEL, 453C
+
+In male and female Turkish sibs with reticular dysgenesis (267500), the
+offspring of consanguineous parents, Pannicke et al. (2009) identified
+homozygosity for a 1-bp deletion (453delC) in the AK2 gene, leading to a
+frameshift and early truncation of the protein. The mutation led to a
+complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0006
+RETICULAR DYSGENESIS
+AK2, 498, G-A, +1
+
+In a Turkish female with reticular dysgenesis (267500), the offspring of
+consanguineous parents, Pannicke et al. (2009) identified homozygosity
+for a splicing mutation, 498+1G-A, in the AK2 gene. The mutation led to
+a complete loss of detectable AK2 protein in fibroblasts and in bone
+marrow mononuclear cells. The parents were heterozygous for the
+mutation, which was not found in 112 German or 50 Turkish healthy
+subjects.
+
+.0007
+RETICULAR DYSGENESIS
+AK2, ASP165GLY
+
+In 2 separate pedigrees with reticular dysgenesis (267500), each of whom
+was consanguineous, Lagresle-Peyrou et al. (2009) identified
+homozygosity for an A-to-G transition at nucleotide 546 in exon 5 of the
+AK2 gene, resulting in an asp-to-gly substitution in codon 165 (D165G)
+within the LID domain. This mutation changed a highly conserved amino
+acid. The parents were found to be carriers, and unaffected sibs were
+heterozygous or homozygous for the wildtype allele.
+
+.0008
+RETICULAR DYSGENESIS
+AK2, LEU183TER
+
+In a female from a consanguineous family affected with reticular
+dysgenesis (267500), Lagresle-Peyrou et al. (2009) identified a 1-bp
+deletion of C at nucleotide 523 in exon 6 of the AK2 gene (523delC),
+resulting in a substitution of a termination codon for a leucine at
+codon 183 (L183X). This mutation was not detected in her sister and each
+parent was found to be a carrier.
+
+.0009
+RETICULAR DYSGENESIS
+AK2, ARG186CYS
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) found compound heterozygosity for mutations in the AK2 gene: a
+C-to-T transition at nucleotide 556 in exon 6, resulting in an
+arg-to-cys substitution at codon 186 (R186C), and an exon 2 deletion
+(see 103020.0010).
+
+.0010
+RETICULAR DYSGENESIS
+AK2, EX2 DEL
+
+In a female with reticular dysgenesis (267500) from a nonconsanguineous
+family, Lagresle-Peyrou et al. (2009) identified compound heterozygosity
+for deletion of exon 2 of the AK2 gene and an arg186-to-cys substitution
+(103020.0009). Each parent was a carrier of one of the mutations.
+
+.0011
+RETICULAR DYSGENESIS
+AK2, ARG103TRP
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a C-to-T transition at nucleotide 307 in exon 3 of the
+AK2 gene, resulting in an arg-to-trp substitution at codon 103 (R103W).
+Each of her parents was a carrier for this mutation, which occurs in a
+highly conserved amino acid residue.
+
+.0012
+RETICULAR DYSGENESIS
+AK2, LYS233TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified a 5-kb deletion following nucleotide 633 (633del5kb),
+resulting in a lys-to-ter substitution at codon 233 (K233X). The patient
+was homozygous for this mutation. Two of her 3 unaffected sibs, and each
+of her unaffected parents, were carriers.
+
+.0013
+RETICULAR DYSGENESIS
+AK2, GLU9TER
+
+In a female with reticular dysgenesis (267500), Lagresle-Peyrou et al.
+(2009) identified homozygosity for a G-to-T transversion at nucleotide
+25 in exon 1 of the AK2 gene, resulting in a glu-to-ter codon
+substitution at amino acid 9 (E9X). The child was homozygous for this
+mutation. Each of her parents was a carrier.
+
+REFERENCE 1. Bruns, G. A. P.; Regina, V. M.: Adenylate kinase-2, a mitochondrial
+enzyme. Biochem. Genet. 15: 477-486, 1977.
+
+2. Carritt, B.; King, J.; Welch, H. M.: Gene order and localization
+of enzyme loci on the short arm of chromosome 1. Ann. Hum. Genet. 46:
+329-335, 1982.
+
+3. Goss, S. J.; Harris, H.: Gene transfer by means of cell fusion.
+II. The mapping of 8 loci on human chromosome 1 by statistical analysis
+of gene assortment in somatic cell hybrids. J. Cell Sci. 25: 39-57,
+1977.
+
+4. Lagresle-Peyrou, C.; Six, E. M.; Picard, C.; Rieux-Laucat, F.;
+Michel, V.; Ditadi, A.; Chappedelaine, C. D.; Morillon, E.; Valensi,
+F.; Simon-Stoos, K. L.; Mullikin, J. C.; Noroski, L. M.; and 10 others
+: Human adenylate kinase 2 deficiency causes a profound hematopoietic
+defect associated with sensorineural deafness. Nature Genet. 41:
+106-111, 2009.
+
+5. Lee, H.-J.; Pyo, J.-O.; Oh, Y.; Kim, H.-J.; Hong, S.; Jeon, Y.-J.;
+Kim, H.; Cho, D.-H.; Woo, H.-N.; Song, S.; Nam, J.-H.; Kim, H. J.;
+Kim, K.-S.; Jung, Y.-K.: AK2 activates a novel apoptotic pathway
+through formation of a complex with FADD and caspase-10. Nature Cell
+Biol. 9: 1303-1310, 2007.
+
+6. Noma, T.; Song, S.; Yoon, Y.-S.; Tanaka, S.; Nakazawa, A.: cDNA
+cloning and tissue-specific expression of the gene encoding human
+adenylate kinase isozyme 2. Biochim. Biophys. Acta 1395: 34-39,
+1998.
+
+7. Pannicke, U.; Honig, M.; Hess, I.; Friesen, C.; Holzmann, K.; Rump,
+E.-M.; Barth, T. F.; Rojewski, M. T.; Schulz, A.; Boehm, T.; Friedrich,
+W.; Schwarz, K.: Reticular dysgenesis (aleukocytosis) is caused by
+mutations in the gene encoding mitochondrial adenylate kinase 2. Nature
+Genet. 41: 101-105, 2009.
+
+8. Van Cong, N.; Billardon, C.; Rebourcet, R.; Kaouel, C. L.-B.; Picard,
+J. Y.; Weil, D.; Frezal, J.: The existence of a second adenylate
+kinase locus linked to PGM-1 and peptidase-C. Ann. Genet. 15: 213-218,
+1972.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/15/2010
+Ada Hamosh - updated: 8/4/2009
+Patricia A. Hartz - updated: 10/28/2008
+Carol A. Bocchini - updated: 8/6/2003
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 06/11/2012
+alopez: 1/26/2010
+terry: 1/15/2010
+terry: 8/13/2009
+carol: 8/12/2009
+terry: 8/4/2009
+mgross: 10/28/2008
+ckniffin: 6/1/2004
+tkritzer: 8/8/2003
+carol: 8/6/2003
+psherman: 4/15/1998
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+reenie: 2/9/1987
+marie: 1/7/1987
+
+611695	TITLE *611695 TAU TUBULIN KINASE 2; TTBK2
+DESCRIPTION 
+CLONING
+
+Houlden et al. (2007) characterized the TTBK2 gene. TTBK2 produces a
+5.6-kb transcript in which the longest open reading frame is 3,732
+nucleotides, encoding a protein of 1,244 amino acids. The gene is
+alternatively spliced, with ubiquitous expression in human adult and
+fetal tissues. The N-terminus of TTBK2 encodes a
+serine-threonine-tyrosine kinase domain, and a C-terminal region shows
+homology to TTBK1. By in situ hybridization, Houlden et al. (2007)
+showed that TTBK2 was expressed in all brain regions in human, rat, and
+mouse tissue. There was particularly high expression in Purkinje cells
+of the cerebellum, granular cell layer, hippocampus, midbrain, and
+substantia nigra. Lower expression was seen in the cortex of human, rat,
+and mouse brains.
+
+GENE FUNCTION
+
+TTBK2 encodes a member of the casein kinase (CK1) group of eukaryotic
+protein kinases, as indicated by its ability to phosphorylate tau
+(157140) and tubulin (see 602529) in vitro. TTBK1 has been implicated in
+Alzheimer disease (104300) and in tangle formation (Sato et al., 2006).
+The 2 TTBK2 phosphorylation sites in tau (ser208 and ser210) are priming
+sites for the phosphorylation of tau by GSK-3-beta (605004), which
+influences tau pathology.
+
+GENE STRUCTURE
+
+Houlden et al. (2007) determined that the TTBK2 gene comprises 16 exons.
+
+MAPPING
+
+Houlden et al. (2007) localized the TTBK2 to chromosome 15q15.2, within
+a critical region linked to spinocerebellar ataxia (SCA11; 604432).
+
+MOLECULAR GENETICS
+
+Spinocerebellar ataxia 11 (SCA11; 604432) is a pure progressive
+cerebellar ataxia that has been linked to 15q14-q21 (Worth et al.,
+1999). Houlden et al. (2007) narrowed the assignment to a 5.6-cM region
+containing 134 genes. In an 8-generation English family they found a
+1-base insertion in the TTBK2 gene creating a premature stop codon and a
+truncation of the normal protein (611695.0001). In a second family of
+Pakistani ancestry, a different mutation was found (611695.0002).
+
+ALLELIC VARIANT .0001
+SPINOCEREBELLAR ATAXIA 11
+TTBK2, 1-BP INS, 1329A
+
+In an English family from Devon with SCA11 (604432) in 8 generations,
+Houlden et al. (2007) identified in affected individuals a 1-base
+insertion of an adenosine in exon 13 of the TTBK2 gene, at nucleotide
+1329, codon 444 (1329insA). This created a premature stop site (TGA) in
+the mRNA at codon 450, truncating the normal protein from 1,244 to 450
+amino acids.
+
+.0002
+SPINOCEREBELLAR ATAXIA 11
+TTBK2, 2-BP DEL, 1284GA
+
+In a family of Pakistani ancestry with 5 individuals over 3 generations
+presenting with spinocerebellar ataxia (SCA11; 604432), Houlden et al.
+(2007) identified a frameshift deletion of 2 bases (GA) in exon 13 of
+TTBK2 at nucleotides 1284 and 1285 in codons 428 and 429
+(1284_1285delAG). The deletion created a premature stop site (TGA) in
+mRNA at codon 449.
+
+REFERENCE 1. Houlden, H.; Johnson, J.; Gardner-Thorpe, C.; Lashley, T.; Hernandez,
+D.; Worth, P.; Singleton, A. B.; Hilton, D. A.; Holton, J.; Revesz,
+T.; Davis, M. B.; Giunti, P.; Wood, N. W.: Mutations in TTBK2, encoding
+a kinase implicated in tau phosphorylation, segregate with spinocerebellar
+ataxia type 11. Nature Genet. 39: 1434-1436, 2007. Note: Erratum:
+Nature Genet. 40: 255 only, 2008.
+
+2. Sato, S.; Cerny, R. L.; Buescher, J. L.; Ikezu, T.: Tau-tubulin
+kinase 1 (TTBK1), a neuron-specific tau kinase candidate, is involved
+in tau phosphorylation and aggregation. J. Neurochem. 98: 1573-1584,
+2006.
+
+3. Worth, P. F.; Giunti, P.; Gardner-Thorpe, C.; Dixon, P. H.; Davis,
+M. B.; Wood, N. W.: Autosomal dominant cerebellar ataxia type III:
+linkage in a large British family to a 7.6-cM region on chromosome
+15q14-21.3. Am. J. Hum. Genet. 65: 420-426, 1999.
+
+CREATED Victor A. McKusick: 12/21/2007
+
+EDITED carol: 05/30/2012
+terry: 7/3/2008
+alopez: 12/21/2007
+
+602818	TITLE *602818 HISTONE GENE CLUSTER 1, H3 HISTONE FAMILY, MEMBER H; HIST1H3H
+;;HISTONE GENE CLUSTER 1, H3H;;
+HIST1 CLUSTER, H3H;;
+H3 HISTONE FAMILY, MEMBER K; H3FK;;
+H3/K
+DESCRIPTION For background information on histones, histone gene clusters, and the
+H3 histone family, see HIST1H3A (602810).
+
+CLONING
+
+By genomic sequence analysis, Marzluff et al. (2002) identified the
+mouse and human HIST1H3H genes. They noted that all H3 genes in histone
+gene cluster-1 (HIST1), including HIST1H3H, encode the same protein,
+designated H3.1. H3.1 differs from H3.2, which is encoded by HIST2H3C
+(142780), at only 1 residue, and from histone H3.3, which is encoded by
+both H3F3A (601128) and H3F3B (601058), at a few residues.
+
+MAPPING
+
+By analysis of a YAC contig from chromosome 6p22-p21.3, Albig and
+Doenecke (1997) characterized a second cluster of 16 histone genes,
+including H3/k, located 2 Mb centromeric to the major histone gene
+cluster.
+
+By genomic sequence analysis, Marzluff et al. (2002) determined that the
+histone gene cluster on chromosome 6p22-p21, which they called HIST1,
+contains 55 histone genes, including HIST1H3H.
+
+GENE FUNCTION
+
+See HIST1H3A (602810) for functional information on H3.1 and the H3
+histone family.
+
+REFERENCE 1. Albig, W.; Doenecke, D.: The human histone gene cluster at the
+D6S105 locus. Hum. Genet. 101: 284-294, 1997.
+
+2. Marzluff, W. F.; Gongidi, P.; Woods, K. R.; Jin, J.; Maltais, L.
+J.: The human and mouse replication-dependent histone genes. Genomics 80:
+487-498, 2002.
+
+CONTRIBUTORS Matthew B. Gross - updated: 02/04/2013
+
+CREATED Rebekah S. Rasooly: 7/9/1998
+
+EDITED mgross: 02/04/2013
+mgross: 7/22/2010
+tkritzer: 3/31/2003
+alopez: 8/26/1998
+alopez: 7/14/1998
+alopez: 7/10/1998
+
+610855	TITLE *610855 ANKYRIN REPEAT DOMAIN-CONTAINING PROTEIN 26; ANKRD26
+;;KIAA1074
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Kikuno et al. (1999) cloned ANKRD26, which they designated
+KIAA1074. The deduced protein contains 1,709 amino acids. RT-PCR ELISA
+detected moderate expression in fetal liver and in nearly all adult
+tissues and specific brain regions examined. Low expression was detected
+in adult pancreas and spleen and in fetal brain.
+
+By database analysis, Hahn et al. (2006) identified ANKRD26 as a distant
+homolog of the POTE family (see POTE2; 608914). The ANKRD26 protein
+contains 4 N-terminal ankyrin repeats and a C-terminal coiled-coil
+region. It shares 61.2% amino acid identity with mouse Ankrd26.
+
+GENE STRUCTURE
+
+Hahn et al. (2006) determined that the ANKRD26 gene contains 34 exons.
+
+MAPPING
+
+Using radiation hybrid analysis, Kikuno et al. (1999) mapped the ANKRD26
+gene to chromosome 10. By genomic sequence analysis, Hahn et al. (2006)
+mapped the ANKRD26 gene to chromosome 10p12.1. They mapped the mouse
+Ankrd26 gene to chromosome 6F1.
+
+MOLECULAR GENETICS
+
+In 9 of 20 unrelated families with autosomal dominant nonsyndromic
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified 6
+different heterozygous mutations in the 5-prime promoter region of the
+ANKRD26 gene (see, e.g., 610855.0001-610855.0003). All of the mutations
+occurred in a highly conserved 19-nucleotide stretch. In vitro
+functional expression assays in Dami human megakaryoblastic cells
+indicated that the mutations resulted in increased expression,
+particularly when the cells were stimulated toward maturation. The
+findings suggested a gain-of-function effect. Pippucci et al. (2011)
+speculated that the ANKRD26 mutations interfere with the mechanism
+controlling the expression of ANKRD26, which would then affect
+megakaryopoiesis and platelet production, perhaps by inducing apoptosis.
+The phenotype was characterized by thrombocytopenia without any
+morphologic or functional platelet defect.
+
+ANIMAL MODEL
+
+Bera et al. (2008) generated mice homozygous for partial inactivation of
+the Ankrd26 gene and observed the development of extreme obesity,
+insulin resistance, and a dramatic increase in body size. The obesity
+was associated with hyperphagia with no reduction in energy expenditure
+or activity. Bera et al. (2008) detected expression of Ankrd26 in the
+arcuate and ventromedial nuclei within the hypothalamus and in the
+ependyma and the circumventricular organs that act as an interface
+between the peripheral circulation and the brain. They also found
+increased phosphorylation of Akt (see AKT1; 164730) and mTOR (FRAP1;
+601231) in mutant hearts compared to wildtype.
+
+ALLELIC VARIANT .0001
+THROMBOCYTOPENIA 2
+ANKRD26, -134G-A
+
+In 7 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000) originally reported by Savoia et al.
+(1999), Pippucci et al. (2011) identified a heterozygous -134G-A
+transition in the 5-prime promoter region of the ANKRD26 gene. The same
+mutation was also identified in 2 members of a second Italian family
+with the disorder. The mutation was not found in 500 controls. In vitro
+functional expression studies of the mutant protein in K562
+undifferentiated myeloid cells showed 2.7 to 4.5-fold increased
+expression of a luciferase reporter. Transfection of the -134G-A
+mutation in Dami human megakaryoblastic cells showed overexpression of
+the reporter gene in cells that were both unstimulated and stimulated
+toward megakaryocytic maturation. Punzo et al. (2010) determined that
+this large Italian family, originally reported by Savoia et al. (1999),
+had a pathogenic mutation in the ACBD5 gene that caused the disorder,
+but the findings of Pippucci et al. (2011) suggested that the ANKRD26
+mutation was responsible for the phenotype.
+
+.0002
+THROMBOCYTOPENIA 2
+ANKRD26, -127A-T
+
+In 6 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified a
+heterozygous -127A-T transversion in the 5-prime promoter region of the
+ANKRD26 gene. The same mutation was also identified in 2 members of
+family from Argentina with the disorder. The mutation was not found in
+500 controls. Transfection of the -127A-T mutation in Dami human
+megakaryoblastic cells showed overexpression of the reporter gene in
+Dami cells that were stimulated toward megakaryocytic maturation, but
+not in unstimulated cells.
+
+.0003
+THROMBOCYTOPENIA 2
+ANKRD26, -128G-A
+
+In 7 affected members of a large Italian family with autosomal dominant
+thrombocytopenia-2 (THC2; 188000), Pippucci et al. (2011) identified a
+heterozygous -128G-A transition in the 5-prime promoter region of the
+ANKRD26 gene. The same mutation was also identified in 3 members of
+another Italian family with the disorder. The mutation was not found in
+500 controls. Transfection of the -128G-A mutation in Dami human
+megakaryoblastic cells showed overexpression of the reporter gene in
+cells that were both unstimulated and stimulated toward megakaryocytic
+maturation.
+
+REFERENCE 1. Bera, T. K.; Liu, X.-F.; Yamada, M.; Gavrilova, O.; Mezey, E.;
+Tessarollo, L.; Anver, M.; Hahn, Y.; Lee, B.; Pastan, I.: A model
+for obesity and gigantism due to disruption of the Ankrd26 gene. Proc.
+Nat. Acad. Sci. 105: 270-275, 2008.
+
+2. Hahn, Y.; Bera, T. K.; Pastan, I. H.; Lee, B.: Duplication and
+extensive remodeling shaped POTE family genes encoding proteins containing
+ankyrin repeat and coiled coil domains. Gene 366: 238-245, 2006.
+
+3. Kikuno, R.; Nagase, T.; Ishikawa, K.; Hirosawa, M.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XIV. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 6: 197-205, 1999.
+
+4. Pippucci, T.; Savoia, A.; Perrotta, S.; Pujol-Moix, N.; Noris,
+P.; Castegnaro, G.; Pecci, A.; Gnan, C.; Punzo, F.; Marconi, C.; Gherardi,
+S.; Loffredo, G.; and 11 others: Mutations in the 5-prime UTR of
+ANKRD26, the ankirin repeat domain 26 gene, cause an autosomal-dominant
+form of inherited thrombocytopenia, THC2. Am. J. Hum.  Genet. 88:
+115-120, 2011.
+
+5. Punzo, F.; Mientjes, E. J.; Rohe, C. F.; Scianguetta, S.; Amendola,
+G.; Oostra, B. A.; Bertoli-Avella, A. M.; Perrotta, S.: A mutation
+in the acyl-coenzyme A binding domain-containing protein 5 gene (ACBD5)
+identified in autosomal dominant thrombocytopenia. J. Thromb. Haemost. 8:
+2085-2087, 2010.
+
+6. Savoia, A.; Del Vecchio, M.; Totaro, A.; Perrotta, S.; Amendola,
+G.; Moretti, A.; Zelante, L.; Iolascon, A.: An autosomal dominant
+thrombocytopenia gene maps to chromosomal region 10p. Am. J. Hum.
+Genet. 65: 1401-1405, 1999.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/2/2011
+Marla J. F. O'Neill - updated: 4/9/2008
+Patricia A. Hartz - updated: 4/11/2007
+
+CREATED Patricia A. Hartz: 3/16/2007
+
+EDITED wwang: 02/24/2011
+ckniffin: 2/2/2011
+wwang: 4/9/2008
+terry: 4/9/2008
+mgross: 4/20/2007
+terry: 4/11/2007
+mgross: 3/16/2007
+
+179710	TITLE *179710 REGULATOR OF CHROMOSOME CONDENSATION 1; RCC1
+;;CHROMOSOME CONDENSATION 1; CHC1
+DESCRIPTION 
+CLONING
+
+Mitotic cells possess chromosome-condensing factor(s), the presence of
+which is shown by fusing mitotic and interphase cells. Upon fusion, the
+chromatin is condensed and exhibits various forms of prematurely
+condensed chromosomes (PCCs), depending on the phase of the cell. The
+condensation process is essential for the even distribution of genetic
+material into daughter cells. On the other hand, transcription cannot
+occur from the mitotically condensed chromosomes. Cells obviously must
+have regulatory mechanisms that allow condensation of the chromatin to
+occur at a precisely correct time in the cell cycle. In the normal cell
+cycle, the chromosome-condensing factor(s) appears in the early G2 phase
+and accumulates toward the mitotic phase. Mutations associated with this
+step in the cell cycle have to be isolated as temperature-sensitive
+mutants (Kai et al., 1986). Ohtsubo et al. (1987) cloned the human RCC1
+gene after DNA-mediated gene transfer into a temperature-sensitive
+mutant which shows premature chromosome condensation at nonpermissive
+temperatures (39.5-40 degrees C). This gene codes for a 2.5-kb
+polyadenylated RNA that is well conserved in hamsters and humans.
+Ohtsubo et al. (1987) found 2 cDNA clones in a human library that
+complemented the temperature-sensitive mutation with an efficiency
+comparable to that of the genomic DNA clone. The clones appeared to
+encode a protein of 421 amino acids with a calculated molecular weight
+of 44,847.
+
+GENE STRUCTURE
+
+Furuno et al. (1991) isolated total genomic DNA for the human RCC1 gene
+from HeLa cells and determined its complete nucleotide sequence (34,641
+bp) by the shotgun sequencing method. The gene was found to have 14
+exons, 8 of which (starting from the seventh one) coded the 7 repeated
+sequences of RCC1 protein. A single exon corresponded roughly to each
+repeat of the RCC1 protein except for the middle one, indicating that
+the RCC1 gene was generated through amplification of a primordial exon.
+Primer extension analysis demonstrated the presence of an internal
+promoter.
+
+MAPPING
+
+By hybridization to DNA from sorted chromosomes, Ohtsubo et al. (1987)
+concluded that the gene, which they symbolized RCC1, is located on
+chromosome 1. By fluorescence in situ hybridization (FISH) using a
+suppression FISH method for elimination of repetitive sequences in the
+genomic clone, Nishimoto et al. (1994) mapped the CHC1 gene to 1p36.1.
+They reported work of others indicating that the mouse counterpart maps
+to the distal region of chromosome 4.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Makde et al. (2010) determined the crystal structure of a complex of
+Drosophila RCC1 and the nucleosome core particle at 2.9-angstrom
+resolution, providing an atomic view of how a chromatin protein
+interacts with the histone and DNA components of the nucleosome. Their
+structure also suggested that the Widom 601 DNA positioning sequence
+present in the nucleosomes forms a 145-bp nucleosome core particle, not
+the expected canonical 147-bp particle.
+
+GENE FUNCTION
+
+Bischoff et al. (1990) demonstrated that RCC1 protein is homologous to a
+47-kD nuclear protein recognized by antikinetochore autoimmune sera from
+patients with CREST syndrome (181750).
+
+Hayashi et al. (1995) showed that, both in mammalian cells and in yeast,
+RANBP1 (601180) acts as a negative regulator of RCC1 by inhibiting
+RCC1-stimulated guanine nucleotide release from RAN (601179). See also
+601181.
+
+Ohba et al. (1999) demonstrated that the nucleotide exchange activity of
+RCC1, the only known nucleotide exchange factor for RAN, was required
+for microtubule aster formation with or without demembranated sperm in
+Xenopus egg extracts arrested in meiosis II. In the RCC1-depleted egg
+extracts, RanGTP (see 602362), but not RanGDP, induced self-organization
+of microtubule asters, and the process required the activity of dynein
+(see 603297). Thus, RAN was shown to regulate formation of the
+microtubule network.
+
+Adding chromatin beads to Xenopus egg extracts causes nucleation of
+microtubules, which eventually reorganize into a bipolar spindle. Using
+this assay, Carazo-Salas et al. (1999) demonstrated that the activity of
+chromosome-associated RCC1 protein is required for spindle formation.
+When in the GTP-bound state (RanGTP), RAN itself induces microtubule
+nucleation and spindle-like structures in M-phase extract. Carazo-Salas
+et al. (1999) proposed that RCC1 generates a high local concentration of
+RanGTP around chromatin which, in turn, induces the local nucleation of
+microtubules.
+
+The Ran GTPase (601179) controls nucleocytoplasmic transport, mitotic
+spindle formation, and nuclear envelope assembly. These functions rely
+on the association of the Ran-specific exchange factor, RCC1, with
+chromatin. Nemergut et al. (2001) found that RCC1 binds directly to
+mononucleosomes and to histones H2A and H2B (142711). RCC1 utilizes
+these histones to bind Xenopus sperm chromatin, and the binding of RCC1
+to nucleosomes or histones stimulates the catalytic activity of RCC1.
+Nemergut et al. (2001) proposed that the docking of RCC1 to H2A/H2B
+establishes the polarity of the Ran-GTP gradient that drives nuclear
+envelope assembly, nuclear transport, and other nuclear events.
+
+Li and Zheng (2004) provided evidence that CDC2 (116940) coordinates
+spindle assembly with the cell cycle during mitosis through
+phosphorylation of RCC1. CDC2 phosphorylates RCC1 on serines located in
+or near its nuclear localization signal. This phosphorylation activates
+RCC1 to generate RanGTP on mitotic chromosomes, which is required for
+spindle assembly and chromosome segregation.
+
+At the time of the report of Schaner Tooley et al. (2010), the RAN
+guanine nucleotide exchange factor RCC1 was the only protein for which
+any biologic function of alpha-N-methylation had been identified.
+Methylation-defective mutants of RCC1 have reduced affinity for DNA (Hao
+and Macara, 2008) and cause mitotic defects (Chen et al., 2007), but
+further characterization of this modification had been hindered by
+ignorance of the responsible methyltransferase. Schaner Tooley et al.
+(2010) reported the discovery of the first alpha-N-methyltransferase,
+which they named N-terminal RCC1 methyltransferase (NRMT; 613560).
+Substrate docking and mutational analysis of RCC1 defined the NRMT
+recognition sequence and enabled the identification of numerous
+methylation targets, including SET (600960) and RB1 (614041). Knockdown
+of NRMT recapitulated the multispindle phenotype seen with
+methylation-defective RCC1 mutants, demonstrating the importance of
+alpha-N-methylation for normal bipolar spindle formation and chromosome
+segregation.
+
+NOMENCLATURE
+
+RCC1 was used by HGM workshops for the primary renal cell carcinoma
+locus on 3p (144700). CHC1 is another symbol for this locus (McAlpine,
+1988).
+
+REFERENCE 1. Bischoff, F. R.; Maier, G.; Tilz, G.; Ponstingl, H.: A 47-kDa
+human nuclear protein recognized by antikinetochore autoimmune sera
+is homologous with the protein encoded by RCC1, a gene implicated
+in onset of chromosome condensation. Proc. Nat. Acad. Sci. 87: 8617-8621,
+1990.
+
+2. Carazo-Salas, R. E.; Guarguaglini, G.; Gruss, O. J.; Segref, A.;
+Karsenti, E.; Mattaj, I. W.: Generation of GTP-bound Ran by RCC1
+is required for chromatin-induced mitotic spindle formation. Nature 400:
+178-181, 1999.
+
+3. Chen, T.; Muratore, T. L.; Schaner-Tooley, C. E.; Shabanowitz,
+J.; Hunt, D. F.; Macara, I. G.: N-terminal alpha-methylation of RCC1
+is necessary for stable chromatin association and normal mitosis. Nature
+Cell Biol. 9: 596-603, 2007.
+
+4. Furuno, N.; Nakagawa, K.; Eguchi, U.; Ohtsubo, M.; Nishimoto, T.;
+Soeda, E.: Complete nucleotide sequence of the human RCC1 gene involved
+in coupling between DNA replication and mitosis. Genomics 11: 459-461,
+1991. Note: Erratum: Genomics 12: 181 only, 1992.
+
+5. Hao, Y.; Macara, I. G.: Regulation of chromatin binding by a conformational
+switch in the tail of the Ran exchange factor RCC1. J. Cell. Biol. 182:
+827-836, 2008.
+
+6. Hayashi, N.; Yokoyama, N.; Seki, T.; Azuma, Y.; Ohba, T.; Nishimoto,
+T.: RanBP1, a Ras-like nuclear G protein binding to Ran/TC4, inhibits
+RCC1 via Ran/TC4. Molec. Gen. Genet. 247: 661-669, 1995.
+
+7. Kai, R.; Ohtsubo, M.; Sekiguchi, M.; Nishimoto, T.: Molecular
+cloning of a human gene that regulates chromosome condensation and
+is essential for cell proliferation. Molec. Cell. Biol. 6: 2027-2032,
+1986.
+
+8. Li, H.-Y.; Zheng, Y.: Phosphorylation of RCC1 in mitosis is essential
+for producing a high RanGTP concentration on chromosomes and for spindle
+assembly in mammalian cells. Genes Dev. 18: 512-527, 2004.
+
+9. Makde, R. D.; England, J. R.; Yennawar, H. P.; Tan, S.: Structure
+of RCC1 chromatin factor bound to the nucleosome core particle. Nature 467:
+562-566, 2010.
+
+10. McAlpine, P. J.: Personal Communication. Winnipeg, Manitoba,
+Canada  6/22/1988.
+
+11. Nemergut, M. E.; Mizzen, C. A.; Stukenberg, T.; Allis, C. D.;
+Macara, I. G.: Chromatin docking and exchange activity enhancement
+of RCC1 by histones H2A and H2B. Science 292: 1540-1543, 2001.
+
+12. Nishimoto, T.; Seino, H.; Seki, N.; Hori, T.-A.: The human CHC1
+gene encoding RCC1 (regulator of chromosome condensation) (CHC1) is
+localized to human chromosome 1p36.1. Genomics 23: 719-721, 1994.
+
+13. Ohba, T.; Nakamura, M.; Nishitani, H.; Nishimoto, T.: Self-organization
+of microtubule asters induced in Xenopus egg extracts by GTP-bound
+Ran. Science 284: 1356-1358, 1999.
+
+14. Ohtsubo, M.; Kai, R.; Furuno, N.; Sekiguchi, T.; Sekiguchi, M.;
+Hayashida, H.; Kuma, K.; Miyata, T.; Fukushige, S.; Murotsu, T.; Matsubara,
+K.; Nishimoto, T.: Isolation and characterization of the active cDNA
+of the human cell cycle gene (RCC1) involved in the regulation of
+onset of chromosome condensation. Genes Dev. 1: 585-593, 1987.
+
+15. Schaner Tooley, C. E.; Petkowski, J. J.; Muratore-Schroeder, T.
+L.; Balsbaugh, J. L.; Shabanowitz, J.; Sabat, M.; Minor, W.; Hunt,
+D. F.; Macara, I. G.: NRMT is an alpha-N-methyltransferase that methylates
+RCC1 and retinoblastoma protein. Nature 466: 1125-1128, 2010.
+
+CONTRIBUTORS Ada Hamosh - updated: 10/12/2010
+Ada Hamosh - updated: 9/17/2010
+Patricia A. Hartz - updated: 5/11/2004
+Victor A. McKusick - updated: 4/12/2002
+Ada Hamosh - updated: 6/7/2001
+Ada Hamosh - updated: 8/25/1999
+Ada Hamosh - updated: 5/20/1999
+Alan F. Scott - edited: 4/5/1996
+
+CREATED Victor A. McKusick: 11/3/1987
+
+EDITED tpirozzi: 10/01/2013
+alopez: 3/8/2013
+carol: 6/17/2011
+alopez: 10/12/2010
+terry: 10/12/2010
+alopez: 9/17/2010
+mgross: 9/16/2005
+mgross: 5/11/2004
+alopez: 4/15/2002
+terry: 4/12/2002
+cwells: 6/12/2001
+cwells: 6/11/2001
+terry: 6/7/2001
+alopez: 8/25/1999
+alopez: 5/20/1999
+terry: 5/20/1999
+dkim: 7/24/1998
+dkim: 6/30/1998
+mark: 2/3/1998
+carol: 4/29/1996
+terry: 4/17/1996
+mark: 4/5/1996
+mark: 4/4/1996
+carol: 12/13/1994
+mimadm: 4/29/1994
+warfield: 4/14/1994
+carol: 3/26/1992
+supermim: 3/16/1992
+carol: 10/1/1991
+
+615104	TITLE *615104 NCK-ASSOCIATED PROTEIN 5-LIKE; NCKAP5L
+;;NCKAP5-LIKE;;
+KIAA1602
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated human fetal brain
+cDNA library, Nagase et al. (2000) identified a partial NCKAP5L clone,
+which they designated KIAA1602. RT-PCR ELISA detected robust NCKAP5L
+expression in all adult and fetal tissues examined, with highest
+expression in adult brain and ovary and in most adult brain regions
+examined. Expression was lower in fetal brain than in adult brain.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (2000) mapped the NCKAP5L
+gene to chromosome 12.
+
+Hartz (2013) mapped the NCKAP5L gene to chromosome 12q13.12 based on an
+alignment of the NCKAP5L sequence (GenBank GENBANK AB046822) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Hartz, P. A.: Personal Communication. Baltimore, Md.  2/27/2013.
+
+2. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+CREATED Patricia A. Hartz: 2/27/2013
+
+EDITED mgross: 02/27/2013
+
+603886	TITLE *603886 ARTEMIN; ARTN
+;;NEUBLASTIN;;
+ENOVIN
+DESCRIPTION 
+CLONING
+
+Neurotrophic factors, such as GDNF (600837), NTN (602018), and PSPN
+(602921), orchestrate multiple aspects of the development and
+maintenance of the central and peripheral nervous systems. These GDNF
+family ligands signal though a multicomponent receptor system composed
+of a high affinity binding component, (GFRA1-GFRA4; see 601496) and a
+common signaling component, the RET (164761) receptor tyrosine kinase.
+By searching databases for sequences related to NTN, Baloh et al. (1998)
+identified human and mouse genomic clones and cDNAs encoding a novel
+member of the GDNF family, which they named Artemin. Northern blot
+analysis revealed that Artemin is expressed at low levels in many
+peripheral adult tissues. Using in situ hybridization analysis of rat
+embryos at E14, the authors found that Artemin is expressed in regions
+that are likely to influence the development of peripheral neurons, such
+as the nerve roots, but not the developing neurons, of the dorsal root
+ganglia. The predicted human Artemin protein contains a signal peptide
+and a large proregion. The mature protein contains 113 amino acids.
+
+GENE FUNCTION
+
+Baloh et al. (1998) demonstrated that Artemin, like GDNF and NTN,
+supports the survival of neurons from all peripheral ganglia examined,
+including sympathetic, neural crest, and placodally derived sensory
+neurons. In addition, Artemin can support the survival of at least 1
+population of central nervous system neurons, the dopaminergic midbrain
+neurons. Artemin is a ligand for the GFR-alpha-3 (GRFA3; 605710)
+coreceptor, which together with RET, represents the preferred
+multicomponent receptor for Artemin signaling.
+
+In a mouse model of neuropathic pain, Gardell et al. (2003) found that
+systemic, intermittent administration of artemin produced dose- and
+time-related reversal of nerve injury-induced pain behavior as well as
+partial to complete normalization of multiple morphologic and
+neurochemical features of the injury state. After spinal injury, there
+was an increase in dorsal root ganglion cells that were GFR-alpha-3
+reactive, the primary site of artemin action.
+
+GENE STRUCTURE
+
+Baloh et al. (1998) determined that the Artemin gene contains 3 introns.
+
+MAPPING
+
+By genomic sequence analysis, Baloh et al. (1998) mapped the Artemin
+gene to chromosome 1p33-p32.
+
+ANIMAL MODEL
+
+Honma et al. (2002) found that Artn- and Gfra3-deficient mice shared
+abnormalities in the migration and axonal projection pattern of the
+entire sympathetic nervous system, resulting in abnormal innervation of
+target tissues and cell death due to lack of neurotrophic support. They
+visualized Artn expression in transgenic mice expressing
+fluorescence-tagged Artn in order to characterize these defects.
+Fluorescence was detected along blood vessels and in cells nearby to
+sympathetic axonal projections. Honma et al. (2002) confirmed the
+chemoattractive properties of Artn by demonstrating that sympathetic
+neuroblasts migrated and projected axons toward Artn-soaked beads
+implanted into mouse embryos.
+
+REFERENCE 1. Baloh, R. H.; Tansey, M. G.; Lampe, P. A.; Fahrner, T. J.; Enomoto,
+H.; Simburger, K. S.; Leitner, M. L.; Araki, T.; Johnson, E. M., Jr.;
+Milbrandt, J.: Artemin, a novel member of the GDNF ligand family,
+supports peripheral and central neurons and signals through the GFR-alpha-3-RET
+receptor complex. Neuron 21: 1291-1302, 1998.
+
+2. Gardell, L. R.; Wang, R.; Ehrenfels, C.; Ossipov, M. H.; Rossomando,
+A. J.; Miller, S.; Buckley, C.; Cai, A. K.; Tse, A.; Foley, S. F.;
+Gong, B.; Walus, L.; and 10 others: Multiple actions of systemic
+artemin in experimental neuropathy. Nature Med. 9: 1383-1389, 2003.
+
+3. Honma, Y.; Araki, T.; Gianino, S.; Bruce, A.; Heuckeroth, R. O.;
+Johnson, E. M., Jr.; Milbrandt, J.: Artemin is a vascular-derived
+neurotrophic factor for developing sympathetic neurons. Neuron 35:
+267-282, 2002.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 10/6/2003
+Patricia A. Hartz - updated: 10/9/2002
+
+CREATED Rebekah S. Rasooly: 6/7/1999
+
+EDITED alopez: 11/07/2003
+carol: 10/6/2003
+ckniffin: 10/6/2003
+mgross: 10/9/2002
+alopez: 6/7/1999
+
+614109	TITLE *614109 BPI FOLD-CONTAINING PROTEIN, FAMILY C; BPIFC
+;;BACTERICIDAL PERMEABILITY-INCREASING PROTEIN-LIKE 2; BPIL2;;
+BPI-LIKE 2
+DESCRIPTION 
+DESCRIPTION
+
+BPIL2 shares significant similarity with members of the lipid transfer
+(LT)/lipopolysaccharide (LPS)-binding protein (LBP; 151990) family. All
+LT/LBP proteins are capable of binding phospholipids and LPS. Some are
+involved in lipid transfer and metabolism (e.g., CETP; 118470), and
+others are involved in host response to gram-negative bacterial
+infection (e.g., BPI; 109195) (summary by Mulero et al., 2002).
+
+CLONING
+
+By searching an EST database for sequences similar to BPI, followed by
+screening and RACE of a fetal skin cDNA library, Mulero et al. (2002)
+cloned BPIL2. The deduced 507-amino acid protein contains an N-terminal
+signal sequence and shares 28% identity with BPI. Structural modeling
+predicted that, like BPI, BPIL2 assumes a boomerang-like conformation
+composed of 2 domains, each of which includes a hydrophobic pocket on
+its concave surface. BPIL2 also has 10 potential N-glycosylation sites
+and 2 conserved cysteines predicted to form a disulfide bridge to anchor
+the N-terminal domain. Mulero et al. (2002) also identified several
+splice variants of BPIL2. In situ hybridization detected BPIL2 in the
+basal layer of the epidermis from inflammatory skin of patients with
+psoriasis (see 177900), but not in normal fetal or adult skin.
+
+GENE STRUCTURE
+
+Mulero et al. (2002) determined that the BPIL2 gene contains 15 exons.
+
+MAPPING
+
+By somatic cell hybrid, radiation hybrid, and database analyses, Mulero
+et al. (2002) mapped the BPIL2 gene (BPIFC) to chromosome 22q13.
+
+REFERENCE 1. Mulero, J. J.; Boyle, B. J.; Bradley, S.; Bright, J. M.; Nelken,
+S. T.; Ho, T. T.; Mize, N. K.; Childs, J. D.; Ballinger, D. G.; Ford,
+J. E.; Rupp, F.: Three new human members of the lipid transfer/lipopolysaccharide
+binding protein family (LT/LBP). Immunogenetics 54: 293-300, 2002.
+
+CREATED Patricia A. Hartz: 7/22/2011
+
+EDITED alopez: 05/11/2012
+mgross: 7/22/2011
+
+603456	TITLE *603456 DPH2, S. CEREVISIAE, HOMOLOG OF; DPH2
+;;DPH2-LIKE 2; DPH2L2
+DESCRIPTION 
+DESCRIPTION
+
+Diphthamide is a unique posttranslationally modified histidine found
+only in translation elongation factor-2 (EEF2; 130610). This
+modification is conserved from archaebacteria to humans and serves as
+the target for ADP-ribosylation and inactivation of EEF2 by diphtheria
+toxin (DT) and Pseudomonas exotoxin A. DPH2 is 1 of several enzymes
+involved in synthesis of diphthamide in EEF2 (Liu et al., 2004).
+
+CLONING
+
+Mattheakis et al. (1993) found that dph2, a S. cerevisiae diphtheria
+resistance gene, encodes a protein involved in diphthamide biosynthesis.
+By searching an EST database, Schultz et al. (1998) identified a human
+cDNA with 63% identity to the corresponding nucleotide sequence of human
+DPH2-like 1 (DPH2L1, or DPH1; 603527). Using a PCR strategy, they
+recovered cDNAs corresponding to the entire coding region of the gene,
+which they called DPH2L2. The predicted 489-amino acid protein shared
+24% and 28% sequence identity with DPH2L1 and yeast dph2, respectively.
+Northern blot analysis revealed that DPH2L2 was expressed ubiquitously
+as a 2.5-kb mRNA. An additional 3-kb transcript was found in several
+tissues.
+
+Liu et al. (2004) cloned mouse Dph2. The deduced 489-amino acid protein
+shares 83% identity with human DPH2.
+
+GENE FUNCTION
+
+Liu et al. (2004) showed that mouse Dph2 could complement the
+DT-resistant phenotype of diphthamide-deficient mutant Chinese hamster
+ovary cell lines. Immunoprecipitation analysis revealed that yeast and
+mouse Dph1 (603527) and Dph2 interacted, suggesting that these enzymes
+may function in diphthamide biosynthesis as a dimer or multimer.
+
+Carette et al. (2009) used insertional mutagenesis to develop a
+screening method to generate null alleles in a human cell line haploid
+for all chromosomes except chromosome 8. Using this approach, they
+identified genes encoding important elements of the biosynthetic pathway
+of diphthamide, which are required for the cytotoxic effects of
+diphtheria toxin and exotoxin A. Mutants of the DPH1, DPH2, and DPH5
+(611075) genes, involved in diphthamide biosynthesis, were identified as
+resistant to both anthrax toxin and diphtheria toxin.
+
+MAPPING
+
+By fluorescence in situ hybridization, Schultz et al. (1998) mapped the
+DPH2L2 gene to 1p34.
+
+ADDITIONAL REFERENCES Foley et al. (1995)
+REFERENCE 1. Carette, J. E.; Guimaraes, C. P.; Varadarajan, M.; Park, A. S.;
+Wuethrich, I.; Godarova, A.; Kotecki, M.; Cochran, B. H.; Spooner,
+E.; Ploegh, H. L.; Brummelkamp, T. R.: Haploid genetic screens in
+human cells identify host factors used by pathogens. Science 326:
+1231-1235, 2009.
+
+2. Foley, B. T.; Moehring, J. M.; Moehring, T. J.: Mutations in the
+elongation factor 2 gene which confer resistance to diphtheria toxin
+and Pseudomonas exotoxin A: genetic and biochemical analyses. J.
+Biol. Chem. 270: 23218-23225, 1995.
+
+3. Liu, S.; Milne, G. T.; Kuremsky, J. G.; Fink, G. R.; Leppla, S.
+H.: Identification of the proteins required for biosynthesis of diphthamide,
+the target of bacterial ADP-ribosylating toxins on translation elongation
+factor 2. Molec. Cell. Biol. 24: 9487-9497, 2004.
+
+4. Mattheakis, L. C.; Sor, F.; Collier, R. J.: Diphthamide synthesis
+in Saccharomyces cerevisiae: structure of the DPH2 gene. Gene 132:
+149-154, 1993.
+
+5. Schultz, D. C.; Balasara, B. R.; Testa, J. R.; Godwin, A. K.:
+Cloning and localization of a human diphthamide biosynthesis-like
+protein-2 gene, DPH2L2. Genomics 52: 186-191, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 12/22/2009
+Patricia A. Hartz - updated: 5/16/2007
+
+CREATED Rebekah S. Rasooly: 1/25/1999
+
+EDITED alopez: 01/08/2010
+terry: 12/22/2009
+mgross: 6/5/2007
+terry: 5/16/2007
+alopez: 2/12/1999
+alopez: 1/25/1999
+
+601928	TITLE *601928 KERATIN 86; KRT86
+;;KERATIN, HAIR, BASIC, 6; KRTHB6;;
+KERATIN, HARD, TYPE II, 6; HB6
+DESCRIPTION 
+DESCRIPTION
+
+In addition to the epithelial, or soft, alpha-keratins, the keratin
+multigene family comprises the smaller family of hard alpha-keratins
+that, in accordance with their most frequently investigated site of
+expression, are referred to as hair keratins. Independent of species,
+the hair keratin family consists of several members of each of 2
+subfamilies; according to Winter et al. (1997), 7 type I human hair
+keratins (e.g., KRTHA1; 601077) and 4 type II hair keratins had been
+identified.
+
+Rogers et al. (1997) reviewed human hair keratin nomenclature.
+Expression studies showed that hair keratin synthesis is not restricted
+to the hair follicle and the cortex but clearly begins earlier in matrix
+cells of the hair bulb. Whereas both matrix and cuticle trichocytes
+appear to express only 1 keratin pair each, keratin expression in the
+cortex involves at least 4 sequentially synthesized, structurally highly
+related keratin pairs. The keratins have highly homologous central
+alpha-helical rod domains flanked by variable-sized head and tail
+domains. The boundary peptides at the extremities of the rod domain (the
+helix initiation motif (HIM) of the 1A subdomain and the helix
+termination motif (HTM) of the 2B subdomain) are highly conserved and
+crucial for structure and function. Pathogenic mutations, which have
+been described in epithelial alpha-keratins in a number of hereditary
+disorders of skin, skin appendages, and oral mucosa, appear most
+disruptive when located in the HIMs or HTMs of keratins. See KRTHA1 for
+additional general information on hair keratins.
+
+CLONING
+
+By screening a human scalp cDNA library with a mouse genomic sequence
+corresponding to the C terminus and 3-prime noncoding region of Hb6,
+Rogers et al. (1997) isolated a cDNA encoding KRT86 (KRTHB6, or HB6).
+The predicted protein has 483 amino acids. The amino acid sequences of
+HB1 (602153), HB3 (602765), HB5 (602767), and HB6 are highly conserved,
+with the similarity extending beyond the alpha-helical region into the
+N-terminal and proximal C-terminal domains. HB6 is more closely related
+to HB1 and HB3 than to HB5. In situ hybridization studies demonstrated
+that type II keratin genes are sequentially activated in the hair
+follicle in the following order: HB5--(HB1, HB3)--HB6. The synthesis of
+HB6 mRNA begins slightly higher in the hair shaft than HB1 and HB3 mRNA
+syntheses and continues much farther up, ending in the keratogenous
+zone.
+
+GENE STRUCTURE
+
+Bowden et al. (1998) cloned the complete genomic sequence of HB6. The
+HB6 gene has 9 exons and spans about 7.1 kb from the translational
+initiation ATG codon to the poly(A) site. Its upstream regulatory
+sequences contain a LEF1 (153245)-binding site, which is found in other
+hair keratin genes.
+
+MAPPING
+
+Rogers et al. (1995) demonstrated that human hair keratin genes
+colocalize with epithelial keratin genes on 17q12-q21 (type I genes) and
+12q13 (type II genes), respectively.
+
+By fluorescence in situ hybridization, Bowden et al. (1998) mapped the
+HB6 gene to the type II hair keratin cluster on 12q13. The HB6 gene is
+about 10 kb from the HB1 gene.
+
+MOLECULAR GENETICS
+
+Monilethrix (158000) is an autosomal dominant hair disorder
+characterized clinically by alopecia and follicular papules. Affected
+hairs have uniform elliptical nodes of normal thickness and intermittent
+constrictions, internodes at which the hair easily breaks. Usually only
+the scalp is involved, but in severe forms, the secondary sexual hair,
+eyebrows, eyelashes, and nails may also be affected. The disorder has
+been linked to the type II keratin gene cluster on 12q13 in several
+pedigrees. Winter et al. (1997) analyzed a matrix basic keratin and 3
+cortical basic keratins in a 4-generation British monilethrix family
+with known linkage to 12q13. The gene regions encoding HIM and HTM were
+amplified and sequenced. The authors detected a heterozygous G-to-A
+point mutation in the first position of the glutamic acid 413 codon GAG
+in the exon encoding the HTM of the cortical keratin HB6 in affected
+members of the family. The mutation led to a nonconservative
+glu413-to-lys (E413K; 601928.0001) substitution. A 3-generation French
+monilethrix family in which linkage analysis had not been performed also
+revealed a heterozygous point mutation in codon 413 in affected
+individuals, but in this case, a G-to-T transversion occurred at the
+third base of the codon and yielded a conservative substitution of
+aspartic acid for glutamic acid-413 (E413D; 601928.0002). Winter et al.
+(1997) predicted that, by analogy with epithelial keratins, a
+monilethrix phenotype should also be expected from mutations in the type
+I partner of HB6.
+
+Winter et al. (1999) stated that causative mutations for monilethrix had
+been found only in 2 type II cortex keratins, HB6 and HB1. In these hair
+keratins, the HTM was the only site in which the mutations were located.
+They described the first mutation in the HIM in the H6 gene, a change
+from asn114 to asp (601928.0003). Winter et al. (1999) suggested that
+monilethrix is a disease of hair cortex and that causative mutations are
+restricted to type II hair keratins.
+
+ALLELIC VARIANT .0001
+MONILETHRIX
+KRT86, GLU413LYS
+
+Winter et al. (1997) identified a glu413-to-lys (E413K) mutation in
+affected members in the hair cortical basic keratin 6 in a British
+monilethrix (158000) family that had been previously been found to show
+linkage to a type II keratin cluster on 12q13. The mutation in the
+analogous glutamic acid residue of the type II epidermal keratin 2e has
+been identified in cases of ichthyosis bullosa of Siemens (600194.0002).
+
+This mutation was originally designated GLU410LYS because the mutation
+was identified in a partial HB6 cDNA clone; based on the complete HB6
+sequence reported by Bowden et al. (1998), Winter et al. (1998) revised
+the designation of the mutation to glu413 to lys. Glu413 to lys, the
+most frequently observed mutation in monilethrix, was also found by
+Korge et al. (1997) in 3 unrelated families.
+
+Korge et al. (1998) sequenced the critical helix termination motif in
+the 2B domain of the KRTHB6 gene in 13 unrelated families or cases with
+monilethrix. In 5 of the 13 cases, they found the glu413-to-lys
+mutation. In 8 cases, however, including 3 in which linkage data were
+consistent with a defect in the type II keratin locus, no mutation was
+found in this domain. These findings demonstrate that codon 413 and the
+glutamic acid, which is residue 117 of the 2B helix, is a mutation
+hotspot for monilethrix.
+
+Winter et al. (1999) stated that this mutation had been found in 22
+cases of monilethrix.
+
+In 15 affected members of 2 unrelated Indian families with monilethrix,
+Khandpur et al. (2004) identified the E413K mutation in the helix
+termination motif (HTM) in exon 7 of the KRTHB6 gene; in each family,
+the mutation segregated with polymorphisms in the HTM motif of the
+KRTHB1 gene (602153): 1 with 3 novel SNPs in cis and a second with only
+an intronic SNP. The 9 affected members of family 1 had a localized
+severe hair defect with beaded appearance confined to the scalp and
+carried the KRTHB1 polymorphisms in heterozygous state. The 6 affected
+members of family 2 had a generalized unbeaded hair defect of moderate
+severity and carried the KRTHB1 polymorphism with 3 SNPs in homozygous
+state. Presence of both the E413K mutation and variation in the KRTHB1
+gene was not observed in 150 randomly selected unaffected controls.
+
+.0002
+MONILETHRIX
+KRT86, GLU413ASP
+
+In a French family with monilethrix (158000), Winter et al. (1997)
+demonstrated a glu413-to-asp amino acid substitution (G413D) in the
+product of the HB6 gene. Although the same codon was involved as in the
+initially studied British patient (600194.0001), the disorder was
+clearly milder in the French family in which an adolescent's symptoms
+were restricted largely to keratosis pilaris of the limbs.
+
+This mutation was originally designated GLU410ASP based on a partial HB6
+cDNA clone; based on the complete HB6 sequence reported by Bowden et al.
+(1998), Winter et al. (1998) revised the designation of the mutation to
+glu413 to asp.
+
+.0003
+MONILETHRIX
+KRT86, GLU402LYS
+
+In a patient with monilethrix (158000), Winter et al. (1999) identified
+a glu402-to-lys mutation (E402K) in the HTM of cortex keratin HB6 which
+was the equivalent of the E402K mutation of HB1 (602153.0002). The
+mutation was detected in only 1 clinically affected individual of an
+American family. Thus, the G-to-A transition represented a spontaneous
+germline mutation in the HB6 gene. This finding indicated that both the
+HB6/HB1 E413K substitution and the HB6/HB1 E402K substitution represent
+mutation hotspots in the HTM of the type II cortex keratins.
+
+See also 601928.0005 and Pearce et al. (1999).
+
+In an 18-year-old woman of Turkish descent with monilethrix (158000),
+van Steensel et al. (2005) identified the E402K mutation.
+
+In 11 affected members of a 3-generation consanguineous Turkish family
+segregating monilethrix, Celep et al. (2009) identified heterozygosity
+for the E402K mutation in the KRT86 gene. Noting the low (1.7) lod score
+obtained in this family at marker D12S390, the authors emphasized the
+difficulties of mapping a heterozygous disorder in a country with a high
+rate of consanguinity.
+
+.0004
+MONILETHRIX
+KRT86, ASN114ASP
+
+Winter et al. (1999) described the first monilethrix (158000)-causing
+mutation in the HIM of the cortex keratin HB6. The critical
+asn114-to-asp substitution was found only in affected members of a large
+Swedish 3-generation kindred. Considering that since childhood, half of
+the affected individuals suffered from complete baldness and follicular
+keratosis, the HIM mutation seemed to be associated with a rather severe
+disease phenotype.
+
+.0005
+MONILETHRIX
+KRT86, GLU402GLN
+
+Pearce et al. (1999) studied 2 unrelated monilethrix (158000) patients
+and identified heterozygosity for 2 different mutations in the same
+codon in exon 7 of the KRTHB6 gene. Both mutations affected the first
+base of codon 402 (glutamic acid). In one patient, a G-to-C transversion
+occurred causing a glutamine substitution (GAG to CAG; E402Q), whereas
+in the second patient, a G-to-A transition yielded a lysine residue (GAG
+to AAG; E402K 601928.0003). Both mutations disrupted a TaqI restriction
+site and RFLP analysis showed that a diagnostic 361-bp fragment could
+confirm the presence of the mutation.
+
+.0006
+MONILETHRIX
+KRT86, ALA118GLU
+
+In affected members of a 3-generation French family with monilethrix
+(158000), Winter et al. (2000) identified a heterozygous C-to-A
+transversion in exon 1 of the KRT86 gene, resulting in an ala118-to-glu
+(A118E) substitution in the helix initiation motif. Winter et al. (2000)
+concluded that the mutation was incompatible with stable intermediate
+filament formation.
+
+REFERENCE 1. Bowden, P. E.; Hainey, S. D.; Parker, G.; Jones, D. O.; Zimonjic,
+D.; Popescu, N.; Hodgins, M. B.: Characterization and chromosomal
+localization of human hair-specific keratin genes and comparative
+expression during the hair growth cycle. J. Invest. Derm. 110: 158-164,
+1998.
+
+2. Celep, F.; Uzumcu, A.; Sonmez, F. M.; Uyguner, O.; Balci, Y. I.;
+Bahadir, S.; Karaguzel, A.: Pitfalls of mapping a large Turkish consanguineous
+family with vertical monilethrix inheritance. Genet. Counsel. 20:
+1-8, 2009.
+
+3. Khandpur, S.; Bairwa, N. K.; Reddy, B. S. N.; Bamezai, R.: A study
+of phenotypic correlation with the genotypic status of HTM regions
+of KRTHB6 and KRTHB1 genes in monilethrix families of Indian origin. Ann.
+Genet. 47: 77-84, 2004.
+
+4. Korge, B. P.; Healy, E.; Munro, C. S.; Punter, C.; Birch-Machin,
+M.; Holmes, S. C.; Darlington, S.; Hamm, H.; Messenger, A. G.; Rees,
+J. L.; Traupe, H.: A mutational hotspot in the 2B domain of human
+hair basic keratin 6 (hHb6) in monilethrix patients. J. Invest. Derm. 111:
+896-899, 1998.
+
+5. Korge, B. P.; Healy, E.; Traupe, H.; Punter, C.; Mauch, C.; Hamm,
+H.; Birch-Machin, M. A.; Belgaid, C. E.; Stephenson, A. M.; Holmes,
+S. C.; Darlington, S.; Messenger, A. G.; Rees, J. L.; Munro, C. S.
+: Monilethrix is caused by mutation in the helix termination peptide
+of human type II hair keratin hHb6 in three families. (Abstract) J.
+Invest. Derm. 109: 409 only, 1997.
+
+6. Pearce, E. G.; Smith, S. K.; Lanigan, S. W.; Bowden, P. E.: Two
+different mutations in the same codon of a type II hair keratin (hHb6)
+in patients with monilethrix. J. Invest. Derm. 113: 1123-1127, 1999.
+
+7. Rogers, M. A.; Langbein, L.; Praetzel, S.; Moll, I.; Krieg, T.;
+Winter, H.; Schweizer, J.: Sequences and differential expression
+of three novel human type-II hair keratins. Differentiation 61:
+187-194, 1997.
+
+8. Rogers, M. A.; Nischt, R.; Korge, B.; Krieg, T.; Fink, T. M.; Lichter,
+P.; Winter, H.; Schweizer, J.: Sequence data and chromosomal localization
+of human type I and type II hair keratin genes. Exp. Cell Res. 220:
+357-362, 1995.
+
+9. van Steensel, M. A. M.; Steijlen, P. M.; Bladergroen, R. S.; Vermeer,
+M.; van Geel, M.: A missense mutation in the type II hair keratin
+hHb3 is associated with monilethrix. J. Med. Genet. 42: e19, 2005.
+Note: Electronic Article.
+
+10. Winter, H.; Clark, R. D.; Tarras-Wahlberg, C.; Rogers, M. A.;
+Schweizer, J.: Monilethrix: a novel mutation (glu402-to-lys) in the
+helix termination motif and the first causative mutation (asn114-to-asp)
+in the helix initiation motif of the type II hair keratin hHb6. J.
+Invest. Derm. 113: 263-266, 1999.
+
+11. Winter, H.; Labreze, C.; Chapalain, V.; Surleve-Bazeille, J. E.;
+Mercier, M.; Rogers, M. A.; Taieb, A.; Schweizer, J.: A variable
+monilethrix phenotype associated with a novel mutation, glu402lys,
+in the helix termination motif of the type II hair keratin hHb1. J.
+Invest. Derm. 111: 169-172, 1998.
+
+12. Winter, H.; Rogers, M. A.; Langbein, L.; Stevens, H. P.; Leigh,
+I. M.; Labreze, C.; Roul, S.; Taieb, A.; Krieg, T.; Schweizer, J.
+: Mutations in the hair cortex keratin hHb6 cause the inherited hair
+disease monilethrix. Nature Genet. 16: 372-374, 1997.
+
+13. Winter, H.; Vabres, P.; Larregue, M.; Rogers, M. A.; Schweizer,
+J.: A novel missense mutation, A118E, in the helix initiation motif
+of the type II hair cortex keratin hHb6, causing monilethrix. Hum.
+Hered. 50: 322-324, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/13/2009
+Marla J. F. O'Neill - updated: 5/5/2009
+Marla J. F. O'Neill - updated: 5/16/2005
+Victor A. McKusick - updated: 8/24/2004
+Victor A. McKusick - updated: 4/18/2000
+Victor A. McKusick - updated: 11/1/1999
+Victor A. McKusick - updated: 2/3/1999
+Victor A. McKusick - updated: 8/26/1998
+Patti M. Sherman - updated: 7/14/1998
+
+CREATED Victor A. McKusick: 8/4/1997
+
+EDITED wwang: 05/20/2009
+ckniffin: 5/13/2009
+carol: 5/12/2009
+terry: 5/5/2009
+carol: 3/26/2008
+wwang: 5/25/2005
+wwang: 5/19/2005
+terry: 5/16/2005
+tkritzer: 9/8/2004
+tkritzer: 9/3/2004
+terry: 8/24/2004
+mcapotos: 5/11/2000
+terry: 4/18/2000
+carol: 11/10/1999
+terry: 11/1/1999
+carol: 2/4/1999
+terry: 2/3/1999
+dkim: 9/9/1998
+carol: 9/1/1998
+terry: 8/26/1998
+carol: 7/22/1998
+carol: 7/20/1998
+carol: 7/14/1998
+psherman: 7/8/1998
+terry: 8/4/1997
+mark: 8/4/1997
+
+191050	TITLE *191050 TRYPTOPHANYL-tRNA SYNTHETASE; WARS
+;;TRYPTOPHANYL-tRNA SYNTHETASE, CYTOPLASMIC
+DESCRIPTION 
+DESCRIPTION
+
+Aminoacyl-tRNA synthetases catalyze the first step of protein synthesis.
+Human tyrosyl-tRNA synthetase (YARS; 603623) can be split into 2
+fragments having distinct cytokine activities, thereby linking protein
+synthesis to cytokine signaling pathways. Tryptophanyl-tRNA synthetase
+(WARS) is a close homolog of tyrosyl-tRNA synthetase. It catalyzes the
+aminoacylation of tRNA(trp) with tryptophan, an essential function of
+the cell's protein synthesis machinery.
+
+CLONING
+
+Frolova et al. (1991) cloned the human gene and reported its nucleotide
+sequence. Shimizu et al. (1976) and Denney et al. (1978) located the
+structural gene for tryptophanyl-tRNA synthetase on chromosome 14.
+
+GENE FUNCTION
+
+In normal cells, human tryptophanyl-tRNA synthetase exists in 2 forms.
+The major form is the full-length protein, and the other is a truncated
+form in which most of the extra-NH2-terminal domain is deleted because
+of alternative splicing of the pre-mRNA (Tolstrup et al., 1995; Turpaev
+et al., 1996), with met48 being deduced as the NH2-terminal residue of
+the truncated form. The expression of the short form of WARS is highly
+stimulated in human cells by the addition of interferon-gamma (IFNG;
+147570).
+
+Wakasugi et al. (2002) showed that the truncated form of WARS is
+angiostatic in several different systems and assays, whereas the
+full-length enzyme is inactive. Thus, protein synthesis may be linked to
+the regulation of angiogenesis by a natural fragment of
+tryptophanyl-tRNA synthetase.
+
+Otani et al. (2002) showed that a recombinant form of a COOH-terminal
+fragment of tryptophanyl-tRNA synthetase is a potent antagonist of
+vascular endothelial growth factor (VEGF; 192240)-induced angiogenesis
+in a mouse model and of naturally occurring retinal angiogenesis in the
+neonatal mouse. Angiostatic activity was dose-dependent in both systems.
+The full-length protein was inactive as an antagonist of angiogenesis.
+The results suggested that fragments of tryptophanyl-tRNA synthetase, as
+naturally occurring and potentially nonimmunogenic anti-angiogenics, can
+be used for the treatment of neovascular eye diseases.
+
+MAPPING
+
+Francke et al. (1977) assigned WARS to 14q21-qter. Graphodatsky et al.
+(1993) confirmed the assignment to chromosome 14 and regionalized it by
+isotopic in situ hybridization to 14q23-q31. The gene may be in the
+14q24 band where one-third of the grains were localized.
+
+Borglum et al. (1996) mapped a cDNA probe of the WARS gene by a
+combination of somatic cell hybrid analysis, fluorescence in situ
+hybridization (FISH), and linkage analysis. Both FISH and linkage
+analysis independently supported a more distal position of WARS than had
+been previously reported. FISH mapping indicated the most likely
+position to be 14q32.31.
+
+Jensen et al. (2001) found that a pseudogene of the NDUFB3 gene
+(603839), designated NDUFB3P4, is positioned in intron 2 of the WARS
+gene in the opposite direction.
+
+REFERENCE 1. Borglum, A. D.; Flint, T.; Tommerup, N.; Fleckner, J.; Justesen,
+J.; Kruse, T. A.: Assignment of the human tryptophanyl-tRNA synthetase
+gene (WARS) to chromosome 14q32.2-q32.32. Cytogenet. Cell Genet. 73:
+99-103, 1996.
+
+2. Denney, R. M.; Borgaonkar, D.; Ruddle, F. H.: Order of genes for
+NP and TRPRS on chromosome 14. Cytogenet. Cell Genet. 22: 493-497,
+1978.
+
+3. Francke, U.; Denney, R. M.; Ruddle, F. H.: Intrachromosomal gene
+mapping in man: the gene for tryptophanyl-tRNA synthetase maps in
+region q21-qter of chromosome 14. Somat. Cell Genet. 3: 381-389,
+1977.
+
+4. Frolova, L. Y.; Sudomoina, M. A.; Grigorieva, A. Y.; Zinovieva,
+O. L.; Kisselev, L. L.: Cloning and nucleotide sequence of the structural
+gene encoding for human tryptophanyl-tRNA synthetase. Gene 109:
+291-296, 1991.
+
+5. Graphodatsky, A.; Frolova, L.; Biltueva, L.; Eremina, V.; Lushnikova,
+T.; Sudomoina, M.; Zinovieva, O.; Kisselev, L.: Localization of the
+tryptophanyl tRNA synthetase gene (WARS) on human and bovine chromosomes
+by in situ hybridization. Mammalian Genome 4: 183-184, 1993.
+
+6. Jensen, L. L.; Nielsen, M. M.; Justesen, J.; Hansen, L. L.: Assignment
+of human NADH dehydrogenase (ubiquinone) 1 beta subcomplex 3 (NDUFB3)
+and of its four pseudogenes to human chromosomes 2q31.3, 1p13.3-p13.1,
+9q32-q34.1, 14q22.3-q23.1 and 14q32.2 by radiation hybrid mapping. Cytogenet.
+Cell Genet. 93: 147-150, 2001.
+
+7. Otani, A.; Slike, B. M.; Dorrell, M. I.; Hood, J.; Kinder, K.;
+Ewalt, K. L.; Cheresh, D.; Schimmel, P.; Friedlander, M.: A fragment
+of human TrpRS as a potent antagonist of ocular angiogenesis. Proc.
+Nat. Acad. Sci. 99: 178-183, 2002.
+
+8. Shimizu, N.; Kucherlapati, R. S.; Ruddle, F. H.: Assignment of
+a human gene for tryptophanyl-tRNA synthetase to chromosome 14 using
+human-mouse somatic cell hybrids. Somat. Cell Genet. 2: 345-357,
+1976.
+
+9. Tolstrup, A. B.; Bejder, A.; Fleckner, J.; Justesen, J.: Transcriptional
+regulation of the interferon-gamma-inducible tryptophanyl-tRNA synthetase
+includes alternative splicing. J. Biol. Chem. 270: 397-403, 1995.
+
+10. Turpaev, K. T.; Zakhariev, V. M.; Sokolova, I. V.; Narovlyansky,
+A. N.; Amchenkova, A. M.; Justesen, J.; Frolova, L. Y.: Alternative
+processing of the tryptophanyl-tRNA synthetase mRNA from interferon-treated
+human cells. Europ. J. Biochem. 240: 732-737, 1996.
+
+11. Wakasugi, K.; Slike, B. M.; Hood, J.; Otani, A.; Ewalt, K. L.;
+Friedlander, M.; Cheresh, D. A.; Schimmel, P.: A human aminoacyl-tRNA
+synthetase as a regulator of angiogenesis. Proc. Nat. Acad. Sci. 99:
+173-177, 2002.
+
+CONTRIBUTORS Victor A. McKusick - updated: 1/31/2002
+Carol A. Bocchini - updated: 8/28/2001
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED terry: 03/08/2002
+carol: 2/18/2002
+mcapotos: 2/7/2002
+mcapotos: 2/6/2002
+terry: 1/31/2002
+carol: 8/28/2001
+psherman: 3/23/2000
+terry: 9/18/1996
+marlene: 8/15/1996
+carol: 3/25/1993
+carol: 4/21/1992
+supermim: 3/19/1992
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/27/1989
+

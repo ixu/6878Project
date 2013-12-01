@@ -1,0 +1,1900 @@
+605475	TITLE *605475 BAI1-ASSOCIATED PROTEIN 2; BAIAP2
+;;INSULIN RECEPTOR SUBSTRATE p53; IRSP53
+DESCRIPTION Brain-specific angiogenesis inhibitor-1 (BAI1; 602682) is a secretin
+receptor family member whose expression is induced by p53 (191170). Yeh
+et al. (1996) cloned a hamster cDNA encoding a 53-kD BAI-associated
+protein which, when expressed in mammalian cells, is tyrosine
+phosphorylated by the insulin receptor. They termed the protein IRSp53
+for insulin receptor substrate p53. The protein contains 521 amino acids
+with a calculated molecular mass of 57 kD and is highly expressed in the
+brain. The protein appears to be localized primarily in the particulate
+fraction of cell lysates. The IRSp53 cDNA was found to encode an
+additional protein product of 58 kD (p58) in vivo.
+
+Using a yeast 2-hybrid screen with cytoplasmic BAI1 as bait, followed by
+screening of a human fetal brain cDNA library, Oda et al. (1999)
+isolated a cDNA encoding BAIAP2 and a splice variant. Sequence analysis
+predicted that the 520- and 521-amino acid proteins are homologous to
+hamster IRSp53 with identity conserved in the C-terminal SH3 domain.
+Northern blot analysis revealed expression of a 3.2-kb transcript
+primarily in brain with very low levels in placenta, prostate, and
+testis as well as ubiquitous expression of a 2.2-kb transcript that is
+relatively abundant in liver, prostate, testis, and placenta. The
+expression of the 3.2-kb transcript overlaps that of BAI1 in brain
+subregions, is similar to that of neuron- and neuroendocrine-restricted
+NSE (ENO2; 131360), but different from that of astrocyte-specific GFAP
+(137780). Yeast 2-hybrid and GST pull-down analyses with mutated
+proteins confirmed that the SH3 domain of BAIAP2 interacts with the
+proline-rich cytoplasmic portion of BAI1. Double immunofluorescence
+microscopy demonstrated colocalization of BAI1 and BAIAP2 in the
+cytoplasmic membrane, whereas cells expressing BAIAP2 alone showed
+diffuse staining of the cytosol and nucleus.
+
+Dentatorubral-pallidoluysian atrophy (DRPLA; 125370) is an autosomal
+dominant, progressive neurodegenerative disorder characterized by
+selective neuron death in the dentatorubral and pallidoluysian pathways
+and is associated with CAG repeats in the DRPLA gene (607462). Using a
+yeast 2-hybrid screen of a human fetal brain cDNA library with
+N-terminus-deleted DRPLA as bait, Okamura-Oho et al. (1999) identified
+cDNAs encoding human IRSP53. Sequence analysis identified deduced
+proteins of 552 and 521 amino acids. The latter sequence is 94%
+identical to hamster IRSp53. Northern blot analysis revealed expression
+of a 3.0-kb transcript in most tissues examined and a 3.8-kb transcript
+mainly in brain, suggesting alternative splicing. After stimulation of
+cells with insulin, immunoblot analysis detected a phosphorylated 58-kD
+IRSP53 protein which did not enhance binding to DRPLA.
+Coimmunoprecipitation analysis and reporter gene assays indicated that
+DRPLA and IRSP53 do interact. Confocal microscopy demonstrated
+colocalization in perinuclear dots. GST pull-down analysis determined
+that the SH3 domain in the C terminus of IRSP53 binds to a proline-rich
+region of DRPLA, which may be interfered with by extended polyglutamine
+tracts in the form of CAG repeats.
+
+Miki et al. (2000) demonstrated that IRSP53 is the critical linker
+between RAC (see 602048) and WAVE2 (605875). Activated RAC binds to the
+N terminus of IRSP53, and the C-terminal SH3 domain of IRSP53 binds to
+WAVE2 to form a trimolecular complex. From studies of ectopic
+expression, Miki et al. (2000) found that IRSP53 is essential for RAC to
+induce membrane ruffling, probably because it recruits WAVE2, which
+stimulates actin polymerization mediated by the ARP2/3 complex.
+
+By FISH, Oda et al. (1999) mapped the BAIAP2 gene to chromosome 17q25.
+
+REFERENCE 1. Miki, H.; Yamaguchi, H.; Suetsugu, S.; Takenawa, T.: IRSp53 is
+an essential intermediate between Rac and WAVE in the regulation of
+membrane ruffling. Nature 408: 732-735, 2000.
+
+2. Oda, K.; Shiratsuchi, T.; Nishimori, H.; Inazawa, J.; Yoshikawa,
+H.; Taketani, Y.; Nakamura, Y.; Tokino, T.: Identification of BAIAP2
+(BAI-associated protein 2), a novel human homologue of hamster IRSp53,
+whose SH3 domain interacts with the cytoplasmic domain of BAI1. Cytogenet.
+Cell Genet. 84: 75-82, 1999.
+
+3. Okamura-Oho, Y.; Miyashita, T.; Ohmi, K.; Yamada, M.: Dentatorubral-pallidoluysian
+atrophy protein interacts through a proline-rich region near polyglutamine
+with the SH3 domain of an insulin receptor tyrosine kinase substrate. Hum.
+Molec. Genet. 8: 947-957, 1999.
+
+4. Yeh, T. C.; Ogawa, W.; Danielsen, A. G.; Roth, R. A.: Characterization
+and cloning of a 58/53-kDa substrate of the insulin receptor tyrosine
+kinase. J. Biol. Chem. 271: 2921-2928, 1996.
+
+CONTRIBUTORS Paul J. Converse - updated: 2/15/2001
+
+CREATED Ada Hamosh: 12/14/2000
+
+EDITED carol: 01/24/2003
+joanna: 4/24/2001
+carol: 2/20/2001
+mcapotos: 2/15/2001
+carol: 2/13/2001
+carol: 12/19/2000
+carol: 12/14/2000
+
+600514	TITLE *600514 REELIN; RELN
+;;RL
+DESCRIPTION 
+DESCRIPTION
+
+The RELN gene encodes reelin, a large secreted glycoprotein that is
+produced by specific cell types within the developing brain and
+activates a signaling pathway in postmitotic migrating neurons required
+for proper positioning of neurons within laminated nervous system
+parenchyma (summary by Zaki et al., 2007).
+
+CLONING
+
+The autosomal recessive mouse mutation 'reeler' (rl) leads to impaired
+motor coordination, tremors, and ataxia. Neurons in affected mice fail
+to reach their correct locations in the developing brain, disrupting the
+organization of the cerebellar and cerebral cortices and other laminated
+regions. D'Arcangelo et al. (1995) isolated a gene called reelin (Reln)
+that was deleted in 2 reeler alleles. The allele used in cloning the
+gene was produced by transgene insertion. Normal but not mutant mice
+expressed reelin in embryonic and postnatal neurons during periods of
+neuronal migration. The encoded protein resembled extracellular matrix
+proteins involved in cell adhesion. D'Arcangelo et al. (1995) found that
+the 10,383-bp reelin open reading frame (ORF) begins with a methionine
+codon preceded by a consensus sequence for translation initiation. The
+stop codon is followed by about 1 kb of 3-prime untranslated sequence
+and a potential polyadenylation signal. The ORF encodes a protein of
+3,461 amino acids with a relative molecular mass of 388 kD. A single
+reelin transcript of about 12 kb was detected in RNA from the brains of
+normal mice, but not from brains of affected mice.
+
+Hirotsune et al. (1995) also identified a strong candidate cDNA for the
+mouse reeler gene. This 5-kb transcript encoded a 94.4-kD protein
+consisting of 881 amino acids and possessing 2 EGF-like motifs. They
+analyzed 2 mutant alleles: 'Jackson reeler,' which was found to have a
+deletion of the entire gene, and 'Orleans reeler,' which exhibited a
+220-bp deletion in the ORF that included the second EGF-like motif and
+resulted in a frameshift. In situ hybridization demonstrated that the
+transcript is detected exclusively in the pioneer neurons that guide
+neuronal cell migration along the radial array. The findings offered an
+explanation of how the reeler mutant phenotype causes a disturbance of
+the complex architecture of the neuronal network.
+
+DeSilva et al. (1997) found that, like its murine counterpart, human
+reelin (RELN) is large, encoding an mRNA of approximately 12 kb. The
+mouse and human proteins, predicted from the ORF of the overlapping cDNA
+clones, are similar in size (388 kD) and the amino acid and nucleotide
+sequences are 94.2% and 87.2% identical, respectively. Northern
+hybridization analysis revealed that RELN is expressed in fetal and
+postnatal brain as well as in liver. The expression of RELN in postnatal
+human brain was high in the cerebellum.
+
+GENE STRUCTURE
+
+Royaux et al. (1997) described the genomic structure of the mouse Reln
+gene and the 5-prime-flanking genomic DNA sequences. The gene contains
+65 exons spanning approximately 450 kb of genomic DNA. They identified
+different reelin transcripts, formed by alternative splicing of a
+microexon as well as by use of 2 different polyadenylation sites. All
+splice sites conform to the GT-AG rule, except for the splice donor site
+of intron 30, which is GC instead of GT. A processed pseudogene was
+present in intron 42. Its nucleotide sequence was 86% identical to the
+sequence of the rat RDJ1 cDNA which codes for a DnaJ-like protein of the
+Hsp40 family. The genomic structures of the mouse and human RELN genes
+appear to be highly conserved. The presence of tandemly repeated regions
+in the reelin protein suggested that gene duplication events occurred
+during evolution. By comparison of the amino acid sequences of the 8
+repeats and the positions of introns, Royaux et al. (1997) suggested a
+model for the evolution of the repeat coding portion of the reelin gene
+from a putative ancestral minigene.
+
+MAPPING
+
+To map the RL gene, D'Arcangelo (1995) used a mouse reelin probe to
+isolate a human cDNA from a cerebellum phage library. A P1 clone was
+then used for fluorescence in situ hybridization (FISH). The human
+reelin gene maps to 7q22, a chromosomal region that had not yet been
+linked to any human genetic disease (D'Arcangelo et al., 1995). RL was
+also mapped to YAC contigs spanning the 7q22 region. In the mouse, the
+rl gene maps to chromosome 5 (Green, 1989), which is known to have a
+long region of homology to human chromosome 7. Based on both FISH and
+localization within a well-positioned YAC contig, DeSilva et al. (1997)
+mapped the RELN gene to chromosome 7q22.
+
+GENE FUNCTION
+
+Impagnatiello et al. (1998) suggested that reelin may have a role in
+schizophrenia (181500) because it regulates positioning and/or trophism
+of cortical pyramidal neurons, interneurons, and Purkinje cells during
+brain development. Another factor that plays an important role in
+guiding the migration of embryonic cortical neurons to their final
+destinations in the subcortical plate is the gene that is mutant in the
+mouse 'disabled-1' mutation. This gene encodes an adaptor protein (Dab1;
+603448) that is a phosphorylation target for a signaling cascade
+putatively triggered by the Reln protein interaction with extracellular
+matrix (ECM) proteins. Dab1 expression is deficient in another
+neurologic genetic phenotype, the 'scrambler' mouse, which is
+neurologically and behaviorally similar to the reeler mouse. During
+ontogenesis of a mammalian brain, including human brain, RELN is
+abundantly synthesized by the Cajal-Retzius cells and other pioneer
+neurons located in the telencephalic marginal zone and by granule cells
+of the external granular layer of the cerebellum. In wildtype and
+scrambler mice, Reln is secreted into the ECM, but the reeler mouse
+neither synthesizes nor secretes typical Reln protein. During
+development, telencephalic migrating neurons and interneurons express
+DAB1, but they neither express nor secrete RELN. In the reeler mouse,
+the telencephalic neurons (which are misplaced following migration)
+express approximately 10-fold more Dab1 than their wildtype counterpart.
+Such an increase in the expression of a protein that virtually functions
+as a receptor is expected to occur when the specific signal for the
+receptor is missing. The function of RELN in embryos may ultimately
+depend on the phosphorylation of DAB1 expressed selectively in migrating
+telencephalic pyramidal neurons and cerebellar Purkinje neurons.
+Impagnatiello et al. (1998) studied postmortem prefrontal cortices,
+temporal cortices, hippocampi, caudate nuclei, and cerebella of
+schizophrenia patients and their matched nonpsychiatric subjects. In all
+of the brain areas studied, RELN and its mRNA were significantly reduced
+(approximately 50%) in patients with schizophrenia; this decrease was
+similar in patients affected by undifferentiated or paranoid
+schizophrenia. On the other hand, DAB1 was expressed at normal levels in
+all of these areas that showed a decrease in RELN. The frequency of RELN
+DNA polymorphism in schizophrenia patients and the location of this
+variation in a stretch of genomic DNA important for the regulation of
+RELN protein secretion (Royaux et al., 1997) increased the clinical
+interest in RELN gene abnormalities as putative vulnerability factors in
+schizophrenia.
+
+Layering of neurons in the cerebral cortex and cerebellum requires RELN
+and DAB1. By targeted disruption experiments in mice, Trommsdorff et al.
+(1999) showed that 2 cell surface receptors, very low density
+lipoprotein receptor (VLDLR; 192977) and apolipoprotein E receptor-2
+(APOER2; 602600), are also required. Both receptors bound Dab1 on their
+cytoplasmic tails and were expressed in cortical and cerebellar layers
+adjacent to layers expressing Reln. Dab1 expression was upregulated in
+knockout mice lacking both the Vldlr and Apoer2 genes. Inversion of
+cortical layers, absence of cerebellar foliation, and the migration of
+Purkinje cells in these animals precisely mimicked the phenotype of mice
+lacking Reln or Dab1. These findings established novel signaling
+functions for the LDL receptor gene family and suggested that VLDLR and
+APOER2 participate in transmitting the extracellular RELN signal to
+intracellular signaling processes initiated by DAB1.
+
+Using in vitro binding experiments, Hiesberger et al. (1999) showed that
+Reln binds directly and specifically to the extracellular domains of
+Vldlr and ApoER2. In primary embryonic neuron cultures, they
+demonstrated that blockade of Vldlr and ApoER2 ligand binding correlates
+with loss of Reelin-induced tyrosine phosphorylation of Dab1. With
+Western blot analysis, they demonstrated that mice that lack either Reln
+or Vldlr and ApoER2 (Trommsdorff et al., 1999) exhibit a dramatic
+increase in the phosphorylation level of the microtubule-stabilizing
+protein tau (MAPT; 157140). Hiesberger et al. (1999) concluded that Reln
+acts via Vldlr and ApoER2 to regulate Dab1 tyrosine phosphorylation and
+microtubule function in neurons.
+
+D'Arcangelo et al. (1999) transfected 293T cells with expression
+constructs encoding full-length VLDLR, APOER2, and LDLR (606945) cDNA.
+Cells were incubated in the presence of reelin. By Western blotting, all
+3 reelin isoforms (400, 250, and 180 kD) were found to associate with
+293T cells expressing VLDLR and APOER2, and to a lower extent with cells
+expressing LDLR; no binding was detected using mock transfected cells.
+Binding required calcium and was inhibited in the presence of APOE
+(107741). Furthermore, the CR-50 monoclonal antibody, which inhibits
+reelin function, blocked the association of reelin with VLDLR. After
+binding to VLDLR on the cell surface, reelin was internalized into
+vesicles. In dissociated embryonic cortical neurons, APOE reduced the
+level of reelin-induced intracellular tyrosine phosphorylation of Dab1.
+The authors suggested that reelin directs neuronal migration by binding
+to VLDLR and APOER2.
+
+Mutation of the Reln gene in the mouse disrupts neuronal migration in
+several brain regions and gives rise to functional deficits, such as
+ataxic gait and trembling. Thus, reelin is thought to control cell-cell
+interactions critical for cell positioning in the brain. Although an
+abundance of reelin transcript is found in the embryonic spinal cord, it
+was generally thought that neuronal migration in the spinal cord is not
+affected by reelin. However, Yip et al. (2000) showed that migration of
+sympathetic preganglionic neurons in the spinal cord is affected by
+reelin. This study indicated that reelin affects neuronal migration
+outside of the brain. Moreover, the relationship between reelin and
+migrating preganglionic neurons suggests that reelin acts as a barrier
+to neuronal migration.
+
+Using neuronal precursors from postnatal mice in a Matrigel culture
+system, Hack et al. (2002) showed that reelin acted as a detachment
+signal for chain-migrating interneuron precursors in the olfactory bulb,
+inducing their dispersal into individual cells. In vivo studies of
+reeler mutant mice showed disrupted organization of the olfactory bulb
+as well as failure of individual neuronal migration. Reelin did not act
+as a stop signal, did not provide directional cues, and did not affect
+migration distance.
+
+Using in vitro and in vivo migration assays, Dulabon et al. (2000)
+showed that reelin inhibits migration of cortical neurons in mouse
+embryonic brain. Immunoprecipitation experiments showed that reelin
+associates with alpha-3-beta-1 integrin (see 605025 and 135630), a
+receptor that mediates neuronal adhesion to radial glial fibers and
+radial migration. Using alpha-3-beta-1 integrin-deficient mouse embryos
+for migration assays, Dulabon et al. (2000) showed that deficiency in
+functional alpha-3-beta-1 integrins leads to deficiency in reelin
+function. They observed reduced levels of Dab1 protein and elevated
+expression of a 180-kD reelin fragment in cerebral cortices of
+alpha-3-beta-1 integrin-deficient mice. Dulabon et al. (2000) concluded
+that reelin may arrest neuronal migration and promote normal cortical
+lamination by binding alpha-3-beta-1 integrin and modulating
+integrin-mediated cellular adhesion.
+
+By examining mice deficient in either Reln or Dab1, Rice et al. (2001)
+found that expression of both genes was essential for the patterning of
+synaptic connectivity in the retina. Physiologic studies of mice
+deficient in either gene detected attenuated rod-driven retinal
+responses that were associated with a decrease in rod bipolar cell
+density and an abnormal distribution of processes in the inner plexiform
+layer.
+
+Grayson et al. (2005) found that postmortem brains from patients with
+schizophrenia had increased methylation of the RELN gene within the
+promoter region, particularly at positions -134 and -139, compared to
+controls. The authors hypothesized that hypermethylation of this
+promoter region results in decreased expression of RELN in
+schizophrenia.
+
+Botella-Lopez et al. (2006) found increased levels of a 180-kD reelin
+fragment in CSF from 19 patients with Alzheimer disease (AD; 104300)
+compared to 11 nondemented controls. Western blot and PCR analysis
+confirmed increased levels of reelin protein and mRNA in tissue samples
+from the frontal cortex of AD patients. Reelin was not increased in
+plasma samples, suggesting distinct cellular origins. The reelin 180-kD
+fragment was also increased in CSF samples of other neurodegenerative
+disorders, including frontotemporal dementia (600274), progressive
+supranuclear palsy (PSP; 601104), and Parkinson disease (PD; 168600).
+
+Using overexpression and knockdown studies with cultured rat and mouse
+hippocampal and cortical neurons, Matsuki et al. (2010) found that a
+signaling pathway containing Stk25 (602255), Lkb1 (STK11; 602216), Strad
+(STRADA; 608626), and the Golgi protein Gm130 (GOLGA2; 602580) promoted
+Golgi condensation and multiple axon outgrowth while inhibiting Golgi
+deployment into dendrites and dendritic growth. This signaling pathway
+acted in opposition to the reelin-Dab1 pathway, which tended to inhibit
+Golgi condensation and axon outgrowth and favor Golgi deployment into
+dendrites and dendrite outgrowth.
+
+Thirty percent of all cortical interneurons arise from a relatively
+novel source within the ventral telencephalon, the caudal ganglionic
+eminence (CGE) (summary by De Marco Garcia et al., 2011). Owing to their
+late birth date, these interneurons populate the cortex only after the
+majority of other interneurons and pyramidal cells are already in place
+and have started to functionally integrate. De Marco Garcia et al.
+(2011) demonstrated in mice that for CGE-derived reelin-positive and
+calretinin (114051)-positive, but not vasoactive intestinal peptide
+(VIP; 192320)-positive, interneurons, activity is essential before
+postnatal day 3 for correct migration, and that after postnatal day 3,
+glutamate-mediated activity controls the development of their axons and
+dendrites. Furthermore, De Marco Garcia et al. (2011) showed that the
+engulfment and cell motility-1 gene (Elmo1; 606420), a target of the
+transcription factor distal-less homeobox-1 (Dlx1; 600029), is
+selectively expressed in reelin-positive and calretinin-positive
+interneurons and is both necessary and sufficient for activity-dependent
+interneuron migration. De Marco Garcia et al. (2011) concluded that
+their findings revealed a selective requirement for activity in shaping
+the cortical integration of specific neuronal subtypes.
+
+Senturk et al. (2011) showed that the neuronal guidance cues ephrin B
+proteins are essential for Reelin signaling during the development of
+laminated structures in the brain. They showed that ephrin Bs
+genetically interact with Reelin. Notably, compound mouse mutants (Reln
+heterozygotes null for either Efnb2 (600527) or Efnb3 (602297)) and
+triple Efnb1 (300035)/Efnb2/Efnb3 knockouts showed neuronal migration
+defects that recapitulated the ones observed in the neocortex,
+hippocampus, and cerebellum of the reeler mouse. Mechanistically,
+Senturk et al. (2011) showed that Reelin binds to the extracellular
+domain of ephrin Bs, which associate at the membrane with VLDLR (192977)
+and ApoER2 (602600) in neurons. Clustering of ephrin Bs leads to the
+recruitment and phosphorylation of Dab1 (603448) which is necessary for
+Reelin signaling. Conversely, loss of function of ephrin Bs severely
+impairs Reelin-induced Dab1 phosphorylation. Importantly, activation of
+ephrin Bs can rescue the reeler neuronal migration defects in the
+absence of Reelin protein. Senturk et al. (2011) concluded that their
+results identified ephrin Bs as essential components of the Reelin
+receptor/signaling pathway to control neuronal migration during the
+development of the nervous system.
+
+Shim et al. (2012) showed that SOX4 (184430) and SOX11 (600898) are
+crucial in regulating reelin expression and the inside-out pattern of
+cortical layer formation. This regulation is independent of E4, a
+conserved nonexonic element required for the specification of
+corticospinal neuron identity and connectivity, and Fezf2 (607414), and
+probably involves interactions with distinct regulatory elements.
+Cortex-specific double deletion of Sox4 and Sox11 in mice led to the
+loss of Fezf2 expression, failed specification of corticospinal neurons
+and, independent of Fezf2, a reeler-like inversion of layers.
+
+CYTOGENETICS
+
+Zaki et al. (2007) reported 2 sibs from a consanguineous Egyptian
+marriage who had cortical lissencephaly with cerebellar hypoplasia,
+severe epilepsy, and mental retardation. Karyotype analysis identified a
+homozygous, apparently balanced reciprocal translocation,
+t(7;12)(q22;p13), in both children. Further analysis confirmed
+disruption of the RELN gene at chromosome 7q22.1 and undetectable levels
+of the protein in both children. The unaffected parents were related as
+double first cousins were heterozygous for the translocation.
+
+MOLECULAR GENETICS
+
+Normal development of the cerebral cortex requires long-range migration
+of cortical neurons from proliferative regions deep in the brain.
+Lissencephaly ('smooth brain,' from 'lissos,' meaning 'smooth,' and
+'encephalos,' meaning 'brain') is a severe developmental disorder in
+which neuronal migration is impaired, leading to a thickened cerebral
+cortex whose normally folded contour is simplified and smooth. X-linked
+lissencephaly (300067) is caused by mutation in the gene encoding
+doublecortin (DCX; 300121). Deletion of or mutation in the PAFAH1B1 gene
+(601545), located on 17p, causes isolated lissencephaly sequence (LIS1;
+607432), and haploinsufficiency of this and other neighboring genes is
+responsible for the Miller-Dieker lissencephaly syndrome (247200), a
+contiguous gene deletion syndrome. Hong et al. (2000) studied an
+autosomal recessive form of lissencephaly associated with severe
+abnormalities of the cerebellum, hippocampus, and brainstem; see
+lissencephaly syndrome, Norman-Roberts type (LIS2; 257320). They tested
+for linkage to markers near RELN on chromosome 7 and DAB1 on chromosome
+1p32-p31, because mutations in the mouse homologs of these 2 genes cause
+brain defects in mice that resemble lissencephaly, including hypoplasia
+of the cerebellum, brainstem abnormalities, and a neuronal migration
+disorder of the neocortex and hippocampus. In 2 unrelated pedigrees,
+they found substantial regions of homozygosity in affected children near
+the RELN gene on chromosome 7q22. In these 2 families, they demonstrated
+different splice site mutations in the RELN gene (600514.0001 and
+600514.0002, respectively). The study of these human patients pointed to
+several previously unsuspected functions of reelin in and outside of the
+brain. Although abnormalities of RELN mRNA had been reported in
+postmortem brains of schizophrenic humans (Impagnatiello et al., 1998),
+no evidence of schizophrenia was found in individuals with heterozygous
+or homozygous RELN mutations. On the other hand, one of the
+lissencephaly patients studied with a muscle biopsy showed evidence of
+abnormal neuromuscular connectivity (Hourihane et al., 1993). Moreover,
+at least 3 patients had persistent lymphedema neonatally, and one showed
+accumulation of chylous (i.e., fatty) ascites fluid that required
+peritoneal shunting (Hourihane et al., 1993). The apparent role for
+reelin in serum homeostasis may reflect reelin interactions with LDL
+superfamily receptors outside the brain, as well as in the brain.
+
+For discussion of a possible association between variation in the RELN
+gene and otosclerosis, see 166800.
+
+ANIMAL MODEL
+
+To investigate Reln function, Magdaleno et al. (2002) generated
+transgenic mice using the nestin (NES; 600915) promoter to drive ectopic
+expression of Reln in the ventricular zone during early brain
+development. Ectopic Reln expression in transgenic reelin mice, which
+lack endogenous Reln expression, induced tyrosine phosphorylation of
+Dab1 in the ventricular zone. The transgene also rescued some, but not
+all, of the neuroanatomic and behavioral abnormalities characteristic of
+the reeler phenotype, including ataxia and the migration of Purkinje
+cells. Magdaleno et al. (2002) hypothesized that Reln functions in
+concert with other positional cues to promote cell-cell interactions
+that are required for layer formation during development.
+
+Assadi et al. (2003) investigated interactions between the reelin
+signaling pathway and Lis1 in brain development. Compound mutant mice
+with disruptions in the Reln pathway and heterozygous mutations in the
+Pafah1b1 gene, which encodes Lis1, had a higher incidence of
+hydrocephalus and enhanced cortical and hippocampal layering defects.
+The Dab1 signaling molecule and Lis1 bound in a reelin-induced
+phosphorylation-dependent manner. These data indicated genetic and
+biochemical interaction between the reelin signaling pathway and LIS1.
+
+In the mouse ventral spinal cord, Hochstim et al. (2008) identified 3
+subtypes of white matter astrocytes with differential gene expression
+corresponding to position. Astrocytes expressing both Reln and Slit1
+(603742) were in the ventrolateral domain, those expressing Reln only
+were at the dorsolateral domain, and those expressing Slit1 only were at
+the ventromedial domain. The distinct positions of these astrocytes were
+specified by varying expression of the homeodomain transcription factors
+Pax6 (607108) and Nkx6.1 (602563). The findings indicated that
+positional identity is an organizing principle underlying phenotypic
+diversity among white matter astrocytes, as well as among neurons, and
+that this diversity is prespecified within precursor cells in the
+germinal zone of the CNS.
+
+Miller and Sweatt (2007) found that DNA methylation, which is mediated
+by DNA methyltransferase, was dynamically regulated during learning and
+memory consolidation in adult rats. Animals exposed to an associative
+context plus shock showed increased Dnmt3a (602769) and Dnmt3b (602900)
+mRNA in hippocampal area CA1 compared to context-only animals. Context
+plus shock rats showed increased methylation and decreased mRNA of the
+memory suppressor gene PP1C-beta (PPP1CB; 600590) compared to shock-only
+controls, as well as increased demethylation and increased mRNA levels
+of reelin, which is involved in synaptic plasticity, compared to
+controls. The methylation levels of both these target genes returned to
+baseline within a day, indicating rapid and dynamic changes. Treatment
+with a DNMT inhibitor blocked the methylation changes and prevented
+memory consolidation of fear-conditioned learning, but the memory
+changes were plastic, and memory consolidation was reestablished after
+the inhibitor wore off. Miller and Sweatt (2007) noted that DNA
+methylation has been viewed as having an exclusive role in development,
+but they emphasized that their findings indicated that rapid and dynamic
+alteration of DNA methylation can occur in the adult central nervous
+system in response to environmental stimuli during associative learning
+in the hippocampus.
+
+HISTORY
+
+Quattrocchi et al. (2003) concluded that mouse reelin functions
+postnatally to regulate the development of the neuromuscular junction.
+Because these results could not be replicated, Quattrocchi et al. (2004)
+retracted their paper from Science of 2003. The results had been called
+into question by Bidoia et al. (2004) and others. D'Arcangelo (2004)
+could not reproduce the findings described by Quattrocchi et al. (2003)
+and concluded that reelin does not regulate the development of the
+neuromuscular junction.
+
+ALLELIC VARIANT .0001
+LISSENCEPHALY SYNDROME, NORMAN-ROBERTS TYPE
+RELN, IVS37AS, G-A, -1
+
+In a Saudi Arabian family with first-cousin parents and 3 children with
+lissencephaly-2 (257320), Hong et al. (2000) found a splice acceptor
+site mutation in the RELN gene: IVS37AS, G-A, -1. The patients were
+homozygous for the splice acceptor mutation and both parents were
+heterozygous. In their paper Hong et al. (2000) referred to this
+mutation as IVS36AS, G-A, -1; however, in an erratum, they noted that
+their system for exon numbering differed from that adopted in the mouse
+and clarified the human-mouse comparison so that a single numbering
+system could be used in both species.
+
+.0002
+LISSENCEPHALY SYNDROME, NORMAN-ROBERTS TYPE
+RELN, 148-BP DEL
+
+Hong et al. (2000) studied a family in which 3 brothers, including a set
+of identical twins, had lissencephaly-2 (257320) and the parents were
+related as half first cousins. The brothers were found to have a 148-bp
+deletion in the RELN gene corresponding to the removal of exon 42
+(EX42DEL). The family was British and had previously been reported by
+Hourihane et al. (1993). At birth, affected children showed normal head
+size, congenital lymphedema, and hypotonia. Brain MRI showed moderate
+lissencephaly and profound cerebellar hypoplasia. Cognitive development
+was delayed for all affected children, with little or no language and no
+ability to sit or stand unsupported. There was also myopia, nystagmus,
+and generalized seizures that could be controlled with medication. In
+one patient in this family muscle biopsy showed evidence of abnormal
+neuromuscular connectivity. Patients from this family had persistent
+lymphedema neonatally, and 1 showed accumulation of chylous (that is,
+fatty) ascites fluid that required peritoneal shunting.
+
+REFERENCE 1. Assadi, A. H.; Zhang, G.; Beffert, U.; McNeil, R. S.; Renfro, A.
+L.; Niu, S.; Quattrocchi, C. C.; Antalffy, B. A.; Sheldon, M.; Armstrong,
+D. D.; Wynshaw-Boris, A.; Herz, J.; D'Arcangelo, G.; Clark, G. D.
+: Interaction of reelin signaling and Lis1 in brain development. Nature
+Genet. 35: 270-276, 2003.
+
+2. Bidoia, C.; Misgeld, T.; Weinzierl, E.; Buffelli, M.; Feng, G.;
+Cangiano, A.; Lichtman, J. W.; Sanes, J. R.: Comment on 'reelin promotes
+peripheral synapse elimination and maturation.' Science 303: 1977b,
+2004.
+
+3. Botella-Lopez, A.; Burgaya, F.; Gavin, R.; Garcia-Ayllon, M. S.;
+Gomez-Tortosa, E.; Pena-Casanova, J.; Urena, J. M.; Del Rio, J. A.;
+Blesa, R.; Soriano, E.; Saez-Valero, J.: Reelin expression and glycosylation
+patterns are altered in Alzheimer's disease. Proc. Nat. Acad. Sci. 103:
+5573-5578, 2006.
+
+4. D'Arcangelo, G.: Personal Communication. Nutley, N. J.  6/2/1995.
+
+5. D'Arcangelo, G.: Response to comment on 'reelin promotes peripheral
+synapse elimination and maturation.' Science 303: 1977c only, 2004.
+
+6. D'Arcangelo, G.; Homayouni, R.; Keshvara, L.; Rice, D. S.; Sheldon,
+M.; Curran, T.: Reelin is a ligand for lipoprotein receptors. Neuron 24:
+471-479, 1999.
+
+7. D'Arcangelo, G.; Miao, G. G.; Chen, S.-C.; Soares, H. D.; Morgan,
+J. I.; Curran, T.: A protein related to extracellular matrix proteins
+deleted in the mouse mutant reeler. Nature 374: 719-723, 1995.
+
+8. De Marco Garcia, N. V.; Karayannis, T.; Fishell, G.: Neuronal
+activity is required for the development of specific cortical interneuron
+subtypes. Nature 472: 351-355, 2011.
+
+9. DeSilva, U.; D'Arcangelo, G.; Braden, V. V.; Chen, J.; Miao, G.
+G.; Curran, T.; Green, E. D.: The human reelin gene: isolation, sequencing,
+and mapping on chromosome 7. Genome Res. 7: 157-164, 1997.
+
+10. Dulabon, L.; Olson, E. C.; Taglienti, M. G.; Eisenhuth, S.; McGrath,
+B.; Walsh, C. A.; Kreidberg, J. A.; Anton, E. S.: Reelin binds alpha-3-beta-1
+integrin and inhibits neuronal migration. Neuron 27: 33-44, 2000.
+
+11. Grayson, D. R.; Jia, X.; Chen, Y.; Sharma, R. P.; Mitchell, C.
+P.; Guidotti, A.; Costa, E.: Reelin promoter hypermethylation in
+schizophrenia. Proc. Nat. Acad. Sci. 102: 9341-9346, 2005.
+
+12. Green, M. C.: Catalog of mutant genes and polymorphic loci.In:
+Lyon, M. F.; Searle, A. G.: Genetic Variants and Strains of the Laboratory
+Mouse.  Oxford: Oxford Univ. Press (pub.)  (2nd ed.): 1989.
+
+13. Hack, I.; Bancila, M.; Loulier, K.; Carroll, P.; Cremer, H.:
+Reelin is a detachment signal in tangential chain-migration during
+postnatal neurogenesis. Nature Neurosci. 5: 939-945, 2002.
+
+14. Hiesberger, T.; Trommsdorff, M.; Howell, B. W.; Goffinet, A.;
+Mumby, M. C.; Cooper, J. A.; Herz, J.: Direct binding of reelin to
+VLDL receptor and apoE receptor 2 induces tyrosine phosphorylation
+of disabled-1 and modulates tau phosphorylation. Neuron 24: 481-489,
+1999.
+
+15. Hirotsune, S.; Takahara, T.; Sasaki, N.; Hirose, K.; Yoshiki,
+A.; Ohashi, T.; Kusakabe, M.; Murakami, Y.; Muramatsu, M.; Watanabe,
+S.; Nakao, K.; Katsuki, M.; Hayashizaki, Y.: The reeler gene encodes
+a protein with an EGF-like motif expressed by pioneer neurons. Nature
+Genet. 10: 77-83, 1995.
+
+16. Hochstim, C.; Deneen, B.; Lukaszewicz, A.; Zhou, Q.; Anderson,
+D. J.: Identification of positionally distinct astrocyte subtypes
+whose identities are specified by a homeodomain code. Cell 133:
+510-522, 2008.
+
+17. Hong, S. E.; Shugart, Y. Y.; Huang, D. T.; Al Shahwan, S.; Grant,
+P. E.; Hourihane, J. O.; Martin, N. D. T.; Walsh, C. A.: Autosomal
+recessive lissencephaly with cerebellar hypoplasia is associated with
+human RELN mutations. Nature Genet. 26: 93-96, 2000. Note: Erratum:
+Nature Genet. 27: 225 only, 2001.
+
+18. Hourihane, J. O.; Bennett, C. P.; Chaudhuri, R.; Robb, S. A.;
+Martin, N. D. T.: A sibship with a neuronal migration defect, cerebellar
+hypoplasia and congenital lymphedema. Neuropediatrics 24: 43-46,
+1993.
+
+19. Impagnatiello, F.; Guidotti, A. R.; Pesold, C.; Dwivedi, Y.; Caruncho,
+H.; Pisu, M. G.; Uzunov, D. P.; Smalheiser, N. R.; Davis, J. M.; Pandey,
+G. N.; Pappas, G. D.; Tueting, P.; Sharma, R. P.; Costa, E.: A decrease
+of reelin expression as a putative vulnerability factor in schizophrenia. Proc.
+Nat. Acad. Sci. 95: 15718-15723, 1998.
+
+20. Magdaleno, S.; Keshvara, L.; Curran, T.: Rescue of ataxia and
+preplate splitting by ectopic expression of reelin in reeler mice. Neuron 33:
+573-586, 2002.
+
+21. Matsuki, T.; Matthews, R. T.; Cooper, J. A.; van der Brug, M.
+P.; Cookson, M. R.; Hardy, J. A.; Olson, E. C.; Howell, B. W.: Reelin
+and Stk25 have opposing roles in neuronal polarization and dendritic
+Golgi deployment. Cell 143: 826-836, 2010.
+
+22. Miller, C. A.; Sweatt, J. D.: Covalent modification of DNA regulates
+memory formation. Neuron 53: 857-869, 2007. Note: Erratum: Neuron
+59: 1051 only, 2008.
+
+23. Quattrocchi, C. C.; Huang, C.; Niu, S.; Sheldon, M.; Benhayon,
+D.; Cartwright, J., Jr.; Mosier, D. R.; Keller, F.; D'Arcangelo, G.
+: Reelin promotes peripheral synapse elimination and maturation. Science 301:
+649-653, 2003. Note: Erratum: Science 301: 1849 only, 2003. Retraction:
+Science 303: 1974 only, 2004.
+
+24. Quattrocchi, C. C.; Huang, C.; Niu, S.; Sheldon, M.; Benhayon,
+D.; Cartwright, J., Jr.; Mosier, D. R.; Keller, F.; D'Arcangelo, G.
+: Retraction. (Letter) Science 303: 1974 only, 2004.
+
+25. Rice, D. S.; Nusinowitz, S.; Azimi, A. M.; Martinez, A.; Soriano,
+E.; Curran, T.: The reelin pathway modulates the structure and function
+of retinal synaptic circuitry. Neuron 31: 929-941, 2001.
+
+26. Royaux, I.; Lambert de Rouvroit, C.; D'Arcangelo, G.; Demirov,
+D.; Goffinet, A. M.: Genomic organization of the mouse reelin gene. Genomics 46:
+240-250, 1997.
+
+27. Senturk, A.; Pfennig, S.; Weiss, A.; Burk, K.; Acker-Palmer, A.
+: Ephrin Bs are essential components of the Reelin pathway to regulate
+neuronal migration. Nature 472: 356-360, 2011. Note: Erratum: Nature
+478: 274 only, 2011.
+
+28. Shim, S.; Kwan, K. Y.; Li, M.; Lefebvre, V.; Sestan, N.: Cis-regulatory
+control of corticospinal system development and evolution. Nature 486:
+74-79, 2012.
+
+29. Trommsdorff, M.; Gotthardt, M.; Hiesberger, T.; Shelton, J.; Stockinger,
+W.; Nimpf, J.; Hammer, R. E.; Richardson, J. A.; Herz, J.: Reeler/Disabled-like
+disruption of neuronal migration in knockout mice lacking the VLDL
+receptor and ApoE receptor 2. Cell 97: 689-701, 1999.
+
+30. Yip, J. W.; Yip, Y. P. L.; Nakajima, K.; Capriotti, C.: Reelin
+controls position of autonomic neurons in the spinal cord. Proc.
+Nat. Acad. Sci. 97: 8612-8616, 2000.
+
+31. Zaki, M.; Shehab, M.; El-Aleem, A. A.; Abdel-Salam, G.; Koeller,
+H. B.; Ilkin, Y.; Ross, M. E.; Dobyns, W. B.; Gleeson, J. G.: Identification
+of a novel recessive RELN mutation using a homozygous balanced reciprocal
+translocation. Am. J. Med. Genet. 143A: 939-944, 2007.
+
+CONTRIBUTORS Ada Hamosh - updated: 07/17/2012
+Ada Hamosh - updated: 7/8/2011
+Patricia A. Hartz - updated: 2/10/2011
+Marla J. F. O'Neill - updated: 4/13/2009
+Cassandra L. Kniffin - updated: 5/15/2008
+Cassandra L. Kniffin - updated: 7/18/2007
+Cassandra L. Kniffin - updated: 5/24/2006
+Patricia A. Hartz - updated: 12/7/2005
+Cassandra L. Kniffin - updated: 7/11/2005
+Ada Hamosh - updated: 4/7/2004
+Victor A. McKusick - updated: 10/31/2003
+Ada Hamosh - updated: 8/12/2003
+Dawn Watkins-Chow - updated: 10/31/2002
+Cassandra L. Kniffin - updated: 9/16/2002
+Dawn Watkins-Chow - updated: 6/13/2002
+Dawn Watkins-Chow - updated: 11/25/2001
+Victor A. McKusick - updated: 9/27/2000
+Victor A. McKusick - updated: 8/29/2000
+Wilson H. Y. Lo - updated: 4/6/2000
+Stylianos E. Antonarakis - updated: 7/8/1999
+Victor A. McKusick - updated: 3/1/1999
+Victor A. McKusick - updated: 4/8/1997
+
+CREATED Victor A. McKusick: 5/4/1995
+
+EDITED alopez: 07/17/2012
+carol: 5/24/2012
+alopez: 11/29/2011
+alopez: 7/12/2011
+terry: 7/8/2011
+carol: 6/2/2011
+mgross: 2/16/2011
+terry: 2/10/2011
+alopez: 1/10/2011
+carol: 11/15/2010
+carol: 11/11/2010
+wwang: 1/13/2010
+wwang: 4/14/2009
+terry: 4/13/2009
+carol: 7/8/2008
+wwang: 6/16/2008
+ckniffin: 5/15/2008
+wwang: 7/19/2007
+ckniffin: 7/18/2007
+wwang: 5/25/2006
+ckniffin: 5/24/2006
+wwang: 12/15/2005
+wwang: 12/7/2005
+wwang: 7/28/2005
+ckniffin: 7/11/2005
+terry: 6/3/2004
+alopez: 4/8/2004
+terry: 4/7/2004
+tkritzer: 11/3/2003
+terry: 10/31/2003
+mgross: 8/12/2003
+terry: 8/12/2003
+carol: 11/4/2002
+tkritzer: 10/31/2002
+alopez: 10/18/2002
+carol: 9/16/2002
+ckniffin: 9/16/2002
+cwells: 6/13/2002
+ckniffin: 6/5/2002
+carol: 11/25/2001
+carol: 3/13/2001
+alopez: 1/29/2001
+mcapotos: 10/13/2000
+mcapotos: 10/10/2000
+terry: 9/27/2000
+alopez: 8/31/2000
+terry: 8/29/2000
+carol: 4/7/2000
+terry: 4/6/2000
+mgross: 7/8/1999
+carol: 3/22/1999
+terry: 3/1/1999
+alopez: 1/19/1999
+carol: 8/12/1998
+mark: 7/22/1997
+mark: 4/8/1997
+terry: 4/2/1997
+mark: 6/29/1995
+mark: 5/23/1995
+mark: 5/4/1995
+
+301000	TITLE #301000 WISKOTT-ALDRICH SYNDROME; WAS
+;;WISKOTT-ALDRICH SYNDROME 1; WAS1;;
+ALDRICH SYNDROME;;
+ECZEMA-THROMBOCYTOPENIA-IMMUNODEFICIENCY SYNDROME;;
+IMMUNODEFICIENCY 2; IMD2
+DESCRIPTION A number sign (#) is used with this entry because Wiskott-Aldrich
+syndrome is caused by mutation in the WAS gene (300392).
+
+See 614493 for information on a similar disorder, Wiskott-Aldrich
+syndrome-2 (WAS2), caused by mutation in the WIPF1 gene (602357).
+
+DESCRIPTION
+
+Wiskott-Aldrich syndrome is an X-linked recessive immunodeficiency
+characterized by thrombocytopenia, eczema, and recurrent infections
+(Lemahieu et al., 1999).
+
+CLINICAL FEATURES
+
+The manifestations of Wiskott-Aldrich syndrome are eczema,
+thrombocytopenia, proneness to infection, and bloody diarrhea. Death
+usually occurs before age 10 years. The original American kindred
+reported by Aldrich et al. (1954) was of Dutch extraction; the 3
+patients of Wiskott (1937) were German. Wiskott, who worked in Munich,
+referred to the disorder in his patients as 'Werlhof's disease,' the
+eponymic designation for thrombocytopenic purpura. Van den Bosch and
+Drukker (1964) described several families in the Netherlands. In 3 of 5
+female carriers, the platelet count was below the lower limit of normal.
+
+Perry et al. (1980) reported that median survival increased from 8
+months for patients born before 1935 to 6.5 years for those born after
+1964. One patient had survived to age 36 years at the time of the
+survey. Causes of death were mainly infections or bleeding, but 36 of
+the 301 patients (12%) developed malignancies: lymphoreticular tumors in
+23 and leukemia in 7. Ten Bensel et al. (1966) called attention to the
+occurrence of malignancy of the reticuloendothelial system, which they
+saw in 2 of 4 sibs and found in 5 reported cases.
+
+Capsoni et al. (1986) described a 19-year-old man with WAS. Only 7
+affected persons over age 18 had been described previously. Standen et
+al. (1986) reported a kindred with 13 males in 6 sibships, related
+through females, with inherited thrombocytopenia thought to be a variant
+of WAS because it was associated with elevated serum IgA and mild
+nephropathy. Five suffered from severe eczema since infancy but had no
+unusual susceptibility to infections. Platelet volume was reduced.
+Gutenberger et al. (1970) reported a similar family. Renal biopsy was
+performed in 3 patients. In the first, advanced membranoproliferative
+glomerulonephritis was found with deposition of complement and IgG on
+the basement membrane. In the second, mesangial glomerulonephritis with
+focal glomerulosclerosis and deposition of complement and IgA were
+found. The third showed minimal glomerulonephritis. Standen et al.
+(1986) concluded that despite the clinical similarities and the elevated
+IgA in both conditions, the disorder is distinct from Berger disease
+(161950). Spitler et al. (1980) found nephropathy in 5 of 32 patients
+with WAS who participated in a study of treatment with transfer factor,
+a dialyzable extract of leukocytes that enhances cellular immunity.
+Although nephropathy occurred without such treatment, the temporal
+relationships suggested that transfer factor aggravated the problem.
+
+McEnery and Nash (1973) described 2 unrelated males with the association
+of WAS and infantile cortical hyperostosis (Caffey disease; 114000), and
+Abinun et al. (1988) also described a case. Thus, an immunologic defect
+may play a role in the pathogenesis of infantile cortical hyperostosis.
+Meropol et al. (1992) reported the case of a 24-year-old man with WAS
+complicated by T-cell large cell lymphoma and Kaposi sarcoma (148000).
+Kaposi sarcoma is well known in connection with the immunosuppression
+used with allograft transplantation and in patients with HIV infection,
+but this was the first incidence of its occurrence in this form of
+immunodeficiency.
+
+Sullivan et al. (1994) reported on a multiinstitutional survey of WAS in
+the U.S. in which laboratory and clinical data were collected on 154
+affected individuals. There was a family history of the disorder in the
+case of 74 of the patients. Thrombocytopenia was a prerequisite for
+entry into the study; however, only 27% of patients had the typical set
+of 3 symptoms described originally by Aldrich et al. (1954). The
+immunologic findings in particular varied considerably with the most
+distinctive finding: that 61% of the patients had a low CD8+ count.
+Eczema developed in 81% but was not always present at diagnosis. In
+those patients in whom platelet size was measured, Sullivan et al.
+(1994) found them to be small, although they did increase in size
+following splenectomy. The average age at diagnosis was 21 months; the
+average age at death was 8 years. There were 16 patients who lived
+beyond 18 years, and the prognosis for the disorder had improved
+considerably in recent years. Bone marrow transplantation had been
+carried out in 47 cases and a good outcome was reported in two-thirds of
+them. Autoimmune disorders occurred in 40% of patients; this group had a
+poor prognosis as they were more likely to develop a malignancy.
+Malignancies were seen in 13% of patients and were mainly of the
+lymphoreticular system.
+
+Du et al. (2006) described somatic mosaicism in a 15-year-old male WAS
+patient due to a second-hit mutation in the initiation codon. See
+300392.0019-300392.0020. The patient had no clear family history.
+Thrombocytopenia was noticed at 1 month of age and thereafter eczema and
+recurrent infections were clinical features. At 8 years of age, he had
+persistent cough due to pulmonary hilar lymph node swelling. From the
+result of hilar lymph node biopsy, he was diagnosed with Hodgkin disease
+and received chemotherapy and local radiotherapy (Sasahara et al., 2001;
+Sasahara et al., 2002). The patient had remained in complete remission
+thereafter. His platelet count was in the range of
+6,000-15,000/microliter. Episodes of respiratory infections occurred
+less frequently, although severe eczema and thrombocytopenia persisted.
+
+DIAGNOSIS
+
+In an obligate heterozygote who was heterozygous for the AB polymorphism
+of G6PD, Gealy et al. (1980) found that only the B isoenzyme was present
+in platelets and T lymphocytes, although both were present in
+erythrocytes and neutrophils. Prchal et al. (1980) pursued the
+implications of this finding for genetic counseling. Although G6PD is
+likely to be useful in only a limited number of potential carriers, the
+large number of X-chromosome markers, DNA polymorphisms and other
+markers now available make it likely that carrier detection will be
+possible. Shapiro et al. (1978) concluded that carriers can be
+identified by study of platelets, which show a defect in oxidative
+phosphorylation.
+
+Fearon et al. (1988) studied the pattern of X-chromosome inactivation in
+various cell populations from female relatives of patients with WAS,
+through analysis of the methylation patterns of X-linked genes that
+display RFLPs. They found that carriers could be accurately identified
+by the fact that peripheral blood T cells, granulocytes, and B cells of
+obligate heterozygotes display specific patterns of X-chromosome
+inactivation that are clearly different from those of normal controls.
+
+Puck et al. (1990) pointed out that the diagnosis of WAS may be
+difficult in infancy when sporadic thrombocytopenia with no, or only
+questionable, immunologic abnormalities are present. In the case of 2
+unrelated males with this problem, X-chromosome inactivation in the T
+cells of the mothers showed each of them to have a highly skewed
+X-chromosome inactivation pattern typical of WAS carriers. In one of the
+patients, a T-cell defect was subsequently demonstrated directly by
+studies of the lymphocytes, which failed to proliferate in periodate and
+anti-CD43. Notarangelo et al. (1991) reported a similar case of a boy
+with WAS presenting as idiopathic thrombocytopenia.
+
+Notarangelo et al. (1991) studied a presumably heterozygous,
+thrombocytopenic female from a WAS pedigree. Her carrier status was
+confirmed by linkage studies. Both small-sized and normal-sized
+platelets were present, suggesting that, unlike the vast majority of WAS
+carriers, she did not manifest nonrandom X-chromosome inactivation in
+the thrombopoietic cell lineage. Studies of X-chromosome inactivation by
+means of RFLP and methylation analysis showed that the pattern of
+X-chromosome inactivation was nonrandom in T lymphocytes but random in
+granulocytes. Notarangelo et al. (1993) reviewed the use of the biased
+inactivation of the X chromosome in hematopoietic cells as a tool for
+carrier detection in connection with genetic counseling. A closely
+linked hypervariable marker, M27-beta (DXS255), was used.
+
+Yamada et al. (1999) showed that flow cytometric analysis of WASP
+expression in lymphocytes is useful in the diagnosis of WAS. They found
+that intracellular WASP is expressed as distinctly 'bright' and 'dim'
+phenotypes in lymphocytes from normal individuals and WAS patients,
+respectively. Yamada et al. (2000) demonstrated that WAS carriers could
+also be identified by flow cytometric analysis of monocytes but not
+lymphocytes. Bright and dim phenotypes for normal individuals and
+patients, respectively, were observed in monocytes, whereas in carriers,
+mixed populations (to varying degrees) of bright- and dim-staining cells
+were detected. The authors noted that flow cytometry is a simpler and
+more rapid method of diagnosis than molecular methods but may not be
+sensitive enough to detect carriers with low percentages of WASP-dim
+monocytes.
+
+- Prenatal Diagnosis
+
+Holmberg et al. (1983) found that normal midtrimester fetuses have
+platelets of the same size as normal newborns and adults. They used
+these data 'to exclude Wiskott-Aldrich syndrome in an 18-week fetus at
+50% risk of being affected.' Unfortunately, we do not know that the
+platelets of the WAS fetus are abnormally small.
+
+Schwartz et al. (1989) described the first-trimester diagnosis and
+exclusion of WAS by means of closely linked DNA markers.
+
+In 2 unrelated families, Giliani et al. (1999) performed successful
+prenatal diagnosis of WAS at week 12 of gestation, using a combined
+nonradioactive analysis of SSCP and heteroduplex formation, followed by
+automated sequencing.
+
+CLINICAL MANAGEMENT
+
+Corash et al. (1985) studied the mechanism of the usual improvement in
+thrombocytopenia in WAS after splenectomy. The thrombocytopenia is
+accompanied by elevated platelet-associated IgG and low mean platelet
+size. Both return to normal after splenectomy. Patients who relapse
+redevelop elevated IgG but maintain normal platelet size.
+
+Webb et al. (1993) described their experience with renal transplantation
+in a 46-year-old man with the syndrome of thrombocytopenia with raised
+IgA levels and impaired renal function. The man had a strong family
+history of hereditary thrombocytopenia and had presented in early
+childhood with allergic eczema, asthma, thrombocytopenic purpura, and
+recurrent middle ear infections. He had a normal platelet count after
+splenectomy was performed at the age of about 30. In his mid-thirties,
+he had subtotal colectomy and ileostomy for severe ulcerative colitis.
+This disorder later recurred, associated with keratitis and arthritis of
+large joints. He was later admitted to the hospital with a febrile
+illness, biopsy-proven cutaneous vasculitis, raised IgA levels, and
+impaired renal function. Renal biopsy demonstrated mesangioproliferative
+glomerulonephritis, old crescents, and mesangial IgA deposition. After
+renal transplant, a 'reduced immunosuppressive protocol' was instituted
+because of his underlying immunologic disorder. Despite this, no
+rejection episodes occurred.
+
+The first reports of successful bone marrow transplantation for severe
+combined immunodeficiency (XSCID; 300400) and for WAS were provided by
+Gatti et al. (1968) and Bach et al. (1968). Fischer et al. (1986) gave a
+retrospective analysis of results in 162 patients who had undergone
+transplantation in 14 European centers between 1969 and 1985. Brochstein
+et al. (1991) reported on the bone marrow transplantation in 17 patients
+with WAS.
+
+Boztug et al. (2010) reported successful treatment of 2 patients with
+Wiscott-Aldrich syndrome with transfusion of autologous, genetically
+modified hematopoietic stem cells. They found sustained expression of
+WAS protein expression in hematopoietic stem cells, lymphoid and myeloid
+cells, and platelets after gene therapy. T and B cells, natural killer
+cells, and monocytes were functionally corrected. After treatment, the
+patients' clinical condition markedly improved, with resolution of
+hemorrhagic diathesis, eczema, autoimmunity, and predisposition to
+severe infection. Comprehensive insertion-site analysis showed vector
+integration that targeted multiple genes controlling growth and
+immunologic responses in a persistently polyclonal hematopoiesis that
+was followed for 3 years in both boys.
+
+POPULATION GENETICS
+
+Perry et al. (1980) found an incidence of 4.0 per million live male
+births in the United States.
+
+PATHOGENESIS
+
+Several groups (Blaese et al., 1968; Cooper et al., 1968) presented
+evidence that the immune defect is in the afferent limb, i.e., is one of
+antigen processing or recognition. In an obligate heterozygote who was
+heterozygous for the AB polymorphism of G6PD (305900), Gealy et al.
+(1980) found that only the B isoenzyme was present in platelets and T
+lymphocytes, although both were present in erythrocytes and neutrophils.
+The findings suggested selection against the WAS gene in these tissues,
+which are also the ones that express the defect in the hemizygous
+affected male.
+
+Parkman et al. (1981) studied the surface proteins of lymphocytes and
+platelets by radioiodination followed by SDS-polyacrylamide gel
+electrophoresis and autoradiography. All 3 WAS patients studied showed,
+in lymphocytes, absence of a protein, molecular weight 115,000, found in
+normals. Platelets also showed an abnormality of surface glycoproteins.
+CD43 (182160), or sialophorin, is a cell-surface sialoglycoprotein that
+is deficient in quantity and/or is defective in lymphocytes of patients
+with this disorder (Parkman et al., 1981; Remold-O'Donnell et al.,
+1984). Mentzer et al. (1987) suggested that sialophorin functions in
+T-cell activation.
+
+Simon et al. (1992) presented experimental results indicating the
+association of WAS with a defect in the coupling of surface
+immunoglobulin (sIg) on B cells to signal transduction pathways
+considered prerequisite for B-cell activation, probably at the level of
+tyrosine phosphorylation.
+
+Symons et al. (1996) proposed that the Wiskott-Aldrich protein provides
+a link between CDC42 and the actin cytoskeleton. T lymphocytes of
+affected males with WAS exhibit a severe disturbance of the actin
+cytoskeleton, suggesting that the WAS protein may regulate its
+organization. Kolluri et al. (1996) showed that WAS protein interacts
+with Cdc42, a member of the RHO family of GTPases. This interaction,
+which is GTP-dependent, was detected in cell lysates, in transient
+transfections, and with purified recombinant proteins. Different mutant
+WAS proteins from 3 unrelated affected males retained their ability to
+interact with Cdc42 but the level of expression of the WAS protein in
+these mutants was only 2 to 5% of normal. Taken together, these data
+suggested to Kolluri et al. (1996) that the WAS protein may function as
+a signal transduction adaptor downstream of Cdc42, and that, in affected
+males, the cytoskeletal abnormalities may result from a defect in Cdc42
+signaling.
+
+MAPPING
+
+Peacocke and Siminovitch (1987) studied 10 kindreds for linkage with
+RFLPs. Significant linkage was found between WAS and 2 loci, DXS14 and
+DXS7, that mapped to the proximal short arm of the X chromosome. Maximal
+lod scores were 4.29 (at theta = 0.03) and 4.12 (at theta = 0.00),
+respectively. Arveiler et al. (1987) found a strong suggestion of
+linkage between IMD2 and DXS1, which is located in Xq11-q12. Kwan et al.
+(1988) concluded from linkage studies that the WAS gene lies between
+DXS7 (Xp11.3) and DXS14 (Xp11); the likelihood of this position was at
+least 128 times higher than that of any other interval studied. In a
+study of 12 WAS families, Kwan et al. (1989) demonstrated linkage to
+another DNA marker, DXS255, located at Xp11.22; peak lod score = 4.65 at
+theta = 0.05. Greer et al. (1989) showed linkage between WAS and DXZ1
+(lod score = 7.08 at theta = 0.03) and between WAS and the TIMP (305370)
+locus (lod score = 5.09 at theta = 0.0). Greer et al. (1990) extended
+the linkage studies, demonstrating strongest linkage (maximum lod score
+= 10.19 at theta = 0.0) between WAS and the hypervariable DXS255 locus,
+a marker already mapped between DXS7 and DXS14. De Saint Basile et al.
+(1989) found close linkage of WAS to DXS255 (maximum lod = 5.42 at theta
+= 0.00). Kwan et al. (1991) likewise concluded that DXS255 is the
+closest marker identified; WAS showed a multipoint maximum lod score of
+8.59 at 1.2 cM distal to DXS255. Furthermore, they concluded that the
+TIMP gene must lie distal to WAS; thus, WAS was thought to lie between
+DXS255 (Xp11.22) and TIMP (Xp11.3). Greer et al. (1992) demonstrated
+close linkage between the WAS and OATL1 (311240) loci; maximum lod =
+6.08 at theta = 0.00. The finding localized the TIMP, OATL1, and WAS
+loci distal to DXS146 and the OATL1 and WAS loci proximal to TIMP.
+
+Arveiler et al. (1990) showed that failure to demonstrate linkage of WAS
+to markers known from other families to be closely situated was
+attributable to germ cell mosaicism in the grandfather of affected
+males. The same phenomenon has been described in X-linked
+agammaglobulinemia; see 300300.
+
+De Saint-Basile et al. (1991) studied a family in which 4 members had
+X-linked thrombocytopenia. Linkage studies showed mapping to the same
+region of the X chromosome as that found in WAS. Although
+polymorphonuclear leukocytes showed a normal pattern of X-inactivation,
+a skewed pattern was demonstrated in lymphocytes. De Saint-Basile et al.
+(1991) concluded that this was consistent with allelic mutations at the
+same locus, with the severity of disease varying according to the
+distinct patterns of hematopoietic cell involvement in obligate
+carriers.
+
+Kwan et al. (1995) isolated and characterized a polymorphic CA
+dinucleotide repeat, DXS6940, that lies within 30 kb of the WAS gene.
+
+MOLECULAR GENETICS
+
+Derry et al. (1994) found that the WAS gene was not expressed in 2
+unrelated patients with Wiskott-Aldrich syndrome, 1 of whom had a single
+base deletion that produced a frameshift and premature termination of
+translation (300392.0001). Two additional patients were identified with
+point mutations that changed the same arginine residue to either a
+histidine or a leucine (300392.0002-300392.0003).
+
+Villa et al. (1995) presented proof that mutations in the WAS gene can
+result in X-linked thrombocytopenia characterized by thrombocytopenia
+with small-sized platelets as an isolated finding (313900). Why some
+mutations impair only the megakaryocytic lineage and have no apparent
+effect on the lymphoid lineage was unclear. In a study of 16 WAS
+patients and 4 X-linked thrombocytopenia patients, Thompson et al.
+(1999) identified 14 distinct mutations, including 7 novel gene defects.
+
+In an affected grandson of a female first cousin of the 3 patients
+described originally by Wiskott (1937), Binder et al. (2006) found a
+2-nucleotide deletion in exon 1 of the WAS gene (300392.0021).
+
+Dobbs et al. (2007) identified 2 different but contiguous single
+basepair deletions in maternal cousins with WAS (300392.0022 and
+300392.0023, respectively). Their maternal grandmother was found to be a
+mosaic for the deletions, both of which occurred on the haplotype from
+the unaffected maternal great-grandfather, consistent with a bichromatid
+mutation in a male gamete.
+
+GENOTYPE/PHENOTYPE CORRELATIONS
+
+Schindelhauer et al. (1996) found no genotype/phenotype correlation
+emerge after a comparison of the identified mutations with the resulting
+clinical picture for a classical WAS phenotype. A mild course,
+reminiscent of X-linked thrombocytopenia, or an attenuated phenotype was
+more often associated with missense than with the other types of
+mutations.
+
+Greer et al. (1996) examined the genotypes and phenotypes of 24 patients
+with WAS and compared them with other known mutations of the WASP gene.
+They demonstrated clustering of WASP mutations within the 4 most
+N-terminal exons of the gene and identified arg86 as the most prominent
+hotspot for WASP mutations. They noted the prominence of missense
+mutations among patients with milder forms of WAS, while noting that
+missense mutations also comprise a substantial portion of mutations in
+patients with severe forms of the disease. Greer et al. (1996) concluded
+that phenotypes and genotypes of WAS are not well correlated; phenotypic
+outcome cannot be reliably predicted on the basis of WASP genotype.
+
+Lemahieu et al. (1999) identified 17 WASP gene mutations, 12 of which
+were novel. All missense mutations were located in exons 1 to 4. Most of
+the nonsense, frameshift, and splice site mutations were found in exons
+6 to 11. Mutations that alter splice sites led to the synthesis of
+several types of mRNAs, a fraction of which represented the normally
+spliced product. The presence of normally spliced transcripts was
+correlated with a milder phenotype. When one such case was studied by
+Western blot analysis, reduced amounts of normal-sized WASP were
+present. In other cases as well, a correlation was found between the
+amount of normal or mutant WASP present and the phenotypes of the
+affected individuals. No protein was detected in 2 individuals with
+severe Wiskott-Aldrich syndrome. Reduced levels of a normal-sized WASP
+with a missense mutation were seen in 2 individuals with X-linked
+thrombocytopenia. Lemahieu et al. (1999) concluded that mutation
+analysis at the DNA level is not sufficient for predicting clinical
+course, and that studies at the transcript and protein levels are needed
+for a better assessment.
+
+Wada et al. (2001) provided evidence that in vivo reversion had occurred
+in the WAS gene in a patient with Wiskott-Aldrich syndrome, resulting in
+somatic mosaicism. The mutation was a 6-bp insertion (ACGAGG;
+300392.0013) which abrogated expression of the WAS protein. Most of the
+patient's T lymphocytes expressed nearly normal levels of WAS protein.
+These lymphocytes were found to lack the deleterious mutation and showed
+a selective growth advantage in vivo. Analysis of the sequence
+surrounding the mutation site showed that the 6-bp insertion followed a
+tandem repeat of the same 6 nucleotides. These findings strongly
+suggested that DNA polymerase slippage was the cause of the original
+germline insertion mutation in this family and that the same mechanism
+was responsible for its deletion in one of the proband's T-cell
+progenitors, thus leading to reversion mosaicism.
+
+That some mutations in WASP result in X-linked thrombocytopenia without
+the associated features of the Wiskott-Aldrich syndrome is well
+established. Devriendt et al. (2001) demonstrated, furthermore, that a
+constitutively activating mutation in WASP can cause X-linked severe
+congenital neutropenia (SCNX; 300299). See 300392.0012 for the L270P
+mutation in WASP demonstrated by Devriendt et al. (2001).
+
+Wada et al. (2004) described 2 additional patients from the same family
+of the man with revertant T-cell lymphocytes reported by Wada et al.
+(2001). Somatic mosaicism was demonstrated in leukocytes from the first
+patient that were cryopreserved when he was 22 years old, 11 years
+before his death from kidney failure. The second patient, 16 years old
+at the time of report, had a moderate clinical phenotype and developed
+revertant cells after the age of 14 years. T lymphocytes showed
+selective in vivo advantage. These results supported DNA polymerase
+slippage as a common underlying mechanism and indicated that T-cell
+mosaicism may have different clinical effects in WAS. Wada et al. (2004)
+stated that sibs with revertant mosaicism had previously been reported
+(Wada et al., 2003; Waisfisz et al., 1999), but 3 patients with
+revertant disease in a single kindred was unprecedented.
+
+Boztug et al. (2008) reported 2 Ukrainian brothers, aged 3 and 4 years,
+respectively, with WAS due to somatic mosaicism for a truncation
+mutation and multiple different second-site mutations. Flow cytometric
+analysis of peripheral blood cells showed that each patient had
+WAS-negative cells resulting from the truncation mutation and a subset
+of WAS-positive cells that expressed second-site missense WAS mutations.
+The second-site mutations resulted in the production of altered, but
+possibly functional, protein. All second-site mutations in both patients
+occurred in the same nucleotide triplet in which the truncation mutation
+occurred. Over time, both boys had a decrease in bleeding diathesis and
+eczema, and normalization of platelet counts. Boztug et al. (2008)
+suggested that the second-site mutations may confer a proliferative
+advantage to the affected cells in these patients.
+
+- X-Inactivation Status
+
+Wengler et al. (1995) stated that obligate female carriers of the gene
+for X-linked agammaglobulinemia (300300) show nonrandom X-chromosome
+inactivation only in B lymphocytes, and obligate female carriers of the
+gene for X-linked severe combined immunodeficiency (XSCID) show
+nonrandom X-chromosome inactivation in both T and B lymphocytes, as well
+as natural killer cells. However, all formed elements of the blood
+appear to be affected, as a rule, in obligate carriers of WAS, as judged
+by the criteria of nonrandom X-chromosome inactivation and segregation
+of G6PD alleles in informative females. Wengler et al. (1995)
+demonstrated that CD34+ hematopoietic progenitor cells collected from
+obligate carriers of WAS by apheresis showed nonrandom inactivation.
+They used PCR analysis of a polymorphic VNTR within the X-linked
+androgen receptor gene (313700) to demonstrate nonrandom inactivation
+which clearly must occur early during hematopoietic differentiation.
+
+Parolini et al. (1998) reported X-linked WAS in an 8-year-old girl. She
+had a sporadic mutation, glu133 to lys, on the paternally derived X
+chromosome, but had nonrandom X inactivation of the maternal X
+chromosome in both blood and buccal mucosa. Her mother and maternal
+grandmother also had nonrandom X inactivation, which suggested to the
+authors the possibility of a defect in XIST (314670) or some other gene
+involved in the X-inactivation process. Puck and Willard (1998)
+commented on the subject of X inactivation in females with X-linked
+disease in reference to the paper by Parolini et al. (1998).
+
+Lutskiy et al. (2002) described a female heterozygote for a splice site
+mutation (300392.0017) who presented at 14 months of age with features
+of WAS (thrombocytopenia, small platelets, and immunologic dysfunction)
+and had random inactivation of the X chromosome. She appeared to have a
+defect in the mechanisms that, in disease-free WAS carriers, lead to
+preferential survival/proliferation of cells bearing the active wildtype
+X chromosome.
+
+ANIMAL MODEL
+
+Derry et al. (1995) stated that Wasp may be a candidate for involvement
+in 'scurfy,' a T cell-mediated fatal lymphoreticular disease of mice
+that had previously been proposed as a mouse homolog of Wiskott-Aldrich
+syndrome (Lyon et al., 1990). Northern analysis of sf tissue samples
+indicated the presence of Wasp mRNA in liver and skin, presumably as a
+consequence of lymphocyte infiltration, but no abnormalities in the
+amount or size of mRNA were identified.
+
+HISTORY
+
+Puck and Candotti (2006) reviewed lessons from the Wiskott-Aldrich
+syndrome. Alfred Wiskott (1898-1978) was a German authority on childhood
+pneumonias who reported 3 affected brothers in 1937. In 1954, Robert
+Aldrich (1917-1998) and colleagues published an independent description
+of a large Dutch kindred in which segregation analysis showed X-linked
+recessive inheritance (Aldrich et al., 1954). By 2006, more than 160
+different WAS mutations spanning all 12 exons of the gene had been found
+in more than 270 unrelated families and functional domains had been
+defined. Binder et al. (2006) described an affected member from the
+family reported by Wiskott (1937) and defined the specific mutation
+(300392.0021). The patient studied was a first cousin twice removed of
+the originally reported brothers. In a span of 2 generations, a fatal
+condition had become treatable. The patient had been successfully cured
+by transplantation by bone marrow from a matched, unrelated donor.
+
+ADDITIONAL REFERENCES Blaese et al. (1971); Diaz-Buxo et al. (1974); Filipovich et al. (1979);
+Gelzer and Gasser (1961); Hutter and Jones (1981); Kapoor et al. (1981);
+Knox-Macaulay et al. (1993); Krivit and Good (1959); Levin et al.
+(1970); Lum et al. (1980); Nathan  (1980); Ochs et al. (1980); Parkman
+et al. (1978); Steinberg  (1959); Weiden and Blaese (1972); Wolff
+(1967)
+REFERENCE 1. Abinun, M.; Mikuska, M.; Filipovic, B.: Infantile cortical hyperostosis
+associated with the Wiskott-Aldrich syndrome. Europ. J. Pediat. 147:
+518-519, 1988.
+
+2. Aldrich, R. A.; Steinberg, A. G.; Campbell, D. C.: Pedigree demonstrating
+a sex-linked recessive condition characterized by draining ears, eczematoid
+dermatitis and bloody diarrhea. Pediatrics 13: 133-139, 1954.
+
+3. Arveiler, B.; de Saint-Basile, G.; Fischer, A.; Griscelli, C.;
+Mandel, J. L.: Germ-line mosaicism simulates genetic heterogeneity
+in Wiskott-Aldrich syndrome. Am. J. Hum. Genet. 46: 906-911, 1990.
+
+4. Arveiler, B.; de Saint Basile, G.; Debre, M.; Fischer, A.; Griscelli,
+C.; Mandel, J. L.: Linkage analysis of the Wiskott-Aldrich syndrome
+(IMD2) using X-linked DNA polymorphisms. (Abstract) Cytogenet. Cell
+Genet. 46: 573 only, 1987.
+
+5. Bach, F. H.; Albertini, R. J.; Anderson, J. L.; Joo, P.; Bortin,
+M.: Bone marrow transplantation in a patient with the Wiskott Aldrich
+syndrome. Lancet 292: 1364-1366, 1968. Note: Originally Volume II.
+
+6. Binder, V.; Albert, M. H.; Kabus, M.; Bertone, M.; Meindl, A.;
+Belohradsky, B. H.: The genotype of the original Wiskott phenotype. New
+Eng. J. Med. 355: 1790-1793, 2006.
+
+7. Blaese, R. M.; Strober, W.; Brown, R. S.; Waldmann, T. A.: The
+Wiskott-Aldrich syndrome: a disorder with a possible defect in antigen
+processing or recognition. Lancet 292: 1056-1060, 1968. Note: Originally
+Volume I.
+
+8. Blaese, R. M.; Strober, W.; Levy, A. L.; Waldmann, T. A.: Hypercatabolism
+of IgG, IgA, IgM, and albumin in the Wiskott-Aldrich syndrome: a unique
+disorder of serum protein metabolism. J. Clin. Invest. 50: 2331-2338,
+1971.
+
+9. Boztug, K.; Germeshausen, M.; Avedillo Diez, I.; Gulacsy, V.; Diestelhorst,
+J.; Ballmaier, M.; Welte, K.; Marodi, L.; Chernyshova, L. I.; Klein,
+C.: Multiple independent second-site mutations in two siblings with
+somatic mosaicism for Wiskott-Aldrich syndrome. Clin. Genet. 74:
+68-74, 2008.
+
+10. Boztug, K.; Schmidt, M.; Schwarzer, A.; Banerjee, P. P.; Diez,
+I. A.; Dewey, R. A.; Bohm, M.; Nowrouzi, A.; Ball, C. R.; Glimm, H.;
+Naundorf, S.; Kuhlcke, K.; Blasczyk, R.; Kondratenko, I.; Marodi,
+L.; Orange, J. S.; von Kalle, C.; Klein, C.: Stem-cell gene therapy
+for the Wiskott-Aldrich syndrome. New Eng. J. Med. 363: 1918-1927,
+2010.
+
+11. Brochstein, J. A.; Gillio, A. P.; Ruggiero, M.; Kernan, N. A.;
+Emanuel, D.; Laver, J.; Small, T.; O'Reilly, R. J.: Marrow transplantation
+from human leukocyte antigen-identical or haploidentical donors for
+correction of Wiskott-Aldrich syndrome. J. Pediat. 119: 907-912,
+1991.
+
+12. Capsoni, F.; Acerbi, L.; Bonora, G.; Perletti, L.; Ongari, A.
+M.; Vanoli, M.; Zanussi, C.: Phagocyte function and immunological
+findings in a Wiskott-Aldrich syndrome long-term survivor. J. Lab.
+Clin. Immun. 19: 91-97, 1986.
+
+13. Cooper, M. D.; Chae, H. P.; Lowman, J. T.; Krivit, W.; Good, R.
+A.: Wiskott-Aldrich syndrome: an immunologic deficiency disease involving
+the afferent limb of immunity. Am. J. Med. 44: 499-513, 1968.
+
+14. Corash, L.; Shafer, B.; Blaese, R. M.: Platelet-associated immunoglobulin,
+platelet size, and the effect of splenectomy in the Wiskott-Aldrich
+syndrome. Blood 65: 1439-1443, 1985.
+
+15. Derry, J. M. J.; Ochs, H. D.; Francke, U.: Isolation of a novel
+gene mutated in Wiskott-Aldrich syndrome. Cell 78: 635-644, 1994.
+Note: Erratum: Cell 79: following 922, 1994.
+
+16. Derry, J. M. J.; Wiedemann, P.; Blair, P.; Wang, Y.; Kerns, J.
+A.; Lemahieu, V.; Godfrey, V. L.; Wilkinson, J. E.; Francke, U.:
+The mouse homolog of the Wiskott-Aldrich syndrome protein (WASP) gene
+is highly conserved and maps near the scurfy (sf) mutation on the
+X chromosome. Genomics 29: 471-477, 1995.
+
+17. de Saint-Basile, G.; Schlegel, N.; Caniglia, M.; Le Deist, F.;
+Kaplan, C.; Lecompte, T.; Piller, F.; Fischer, A.; Griscelli, C.:
+X-linked thrombocytopenia and Wiskott-Aldrich syndrome: similar regional
+assignment but distinct X-inactivation pattern in carriers. Ann.
+Hemat. 63: 107-110, 1991.
+
+18. de Saint Basile, G.; Arveiler, B.; Fraser, N. F.; Boyd, Y.; Graig,
+I. W.; Griscelli, G.; Fischer, A.: Close linkage of hypervariable
+marker DXS255 to disease locus of Wiskott-Aldrich syndrome. Lancet 334:
+1319-1321, 1989. Note: Originally Volume II.
+
+19. Devriendt, K.; Kim, A. S.; Mathijs, G.; Frints, S. G. M.; Schwartz,
+M.; Van den Oord, J. J.; Verhoef, G. E. G.; Boogaerts, M. A.; Fryns,
+J.-P.; You, D.; Rosen, M. K.; Vandenberghe, P.: Constitutively activating
+mutation in WASP causes X-linked severe congenital neutropenia. Nature
+Genet. 27: 313-317, 2001.
+
+20. Diaz-Buxo, J. A.; Hermans, P. E.; Ritts, R. E., Jr.: Wiskott-Aldrich
+syndrome in an adult. Mayo Clin. Proc. 49: 455-459, 1974.
+
+21. Dobbs, A. K.; Yang, T.; Farmer, D. M.; Howard, V.; Conley, M.
+E.: A possible bichromatid mutation in a male gamete giving rise
+to a female mosaic for two different mutations in the X-linked gene
+WAS. Clin. Genet. 71: 171-176, 2007.
+
+22. Du, W.; Kumaki, S.; Uchiyama, T.; Yachie, A.; Looi, C. Y.; Kawai,
+S.; Minegishi, M.; Ramesh, N.; Geha, R. S.; Sasahara, Y.; Tsuchiya,
+S.: A second-site mutation in the initiation codon of WAS (WASP)
+results in expansion of subsets of lymphocytes in an Wiskott-Aldrich
+syndrome patient. Hum. Mutat. 27: 370-375, 2006.
+
+23. Fearon, E. R.; Kohn, D. B.; Winkelstein, J. A.; Vogelstein, B.;
+Blaese, R. M.: Carrier detection in the Wiskott Aldrich syndrome. Blood 72:
+1735-1739, 1988.
+
+24. Filipovich, A. H.; Krivit, W.; Kersey, J. H.; Burke, B. A.: Fatal
+arteritis as a complication of Wiskott-Aldrich syndrome. J. Pediat. 95:
+742-744, 1979.
+
+25. Fischer, A.; Friedrich, W.; Levinsky, R.; Vossen, J.; Griscelli,
+C.; Kubanek, B.; Morgan, G.; Wagemaker, G.; Landais, P.: Bone-marrow
+transplantation for immunodeficiencies and osteopetrosis: European
+survey, 1968-1985. Lancet 328: 1080-1084, 1986. Note: Originally
+Volume II.
+
+26. Gatti, R. A.; Meuwissen, J. J.; Allen, H. D.; Hong, R.; Good,
+R. A.: Immunological reconstitution of sex-linked lymphopenic immunological
+deficiency. Lancet 292: 1366-1369, 1968. Note: Originally Volume
+I.
+
+27. Gealy, W. J.; Dwyer, J. M.; Harley, J. B.: Allelic exclusion
+of glucose-6-phosphate dehydrogenase in platelets and T lymphocytes
+from a Wiskott-Aldrich syndrome carrier. Lancet 315: 63-65, 1980.
+Note: Originally Volume I.
+
+28. Gelzer, J.; Gasser, C.: Wiskott-Aldrich-Syndrom. Helv. Paediat.
+Acta 16: 17-39, 1961.
+
+29. Giliani, S.; Fiorini, M.; Mella, P.; Candotti, F.; Schumacher,
+R. F.; Wengler, G. S.; Lalatta, F.; Fasth, A.; Badolato, R.; Ugazio,
+A. G.; Albertini, A.; Notarangelo, L. D.: Prenatal molecular diagnosis
+of Wiskott-Aldrich syndrome by direct mutation analysis. Prenatal
+Diag. 19: 36-40, 1999.
+
+30. Greer, W. L.; Mahtani, M. M.; Kwong, P. C.; Rubin, L. A.; Peacocke,
+M.; Willard, H. F.; Siminovitch, K. A.: Linkage studies of the Wiskott-Aldrich
+syndrome: polymorphisms at TIMP and the X chromosome centromere are
+informative markers for genetic prediction. Hum. Genet. 83: 227-230,
+1989.
+
+31. Greer, W. L.; Peacocke, M.; Siminovitch, K. A.: The Wiskott-Aldrich
+syndrome: refinement of the localization on Xp and identification
+of another closely linked marker locus, OATL1. Hum. Genet. 88: 453-456,
+1992.
+
+32. Greer, W. L.; Shehabeldin, A.; Schulman, J.; Junker, A.; Siminovitch,
+K. A.: Identification of WASP mutations, mutation hotspots and genotype-phenotype
+disparities in 24 patients with the Wiskott-Aldrich syndrome. Hum.
+Genet. 98: 685-690, 1996.
+
+33. Greer, W. L.; Somani, A.-K.; Kwong, P. C.; Peacocke, M.; Rubin,
+L. A.; Siminovitch, K. A.: Linkage relationships of the Wiskott-Aldrich
+syndrome to 10 loci in the pericentromeric region of the human X chromosome. Genomics 6:
+568-571, 1990.
+
+34. Gutenberger, J.; Trygstad, C. W.; Stiehm, E. R.; Opitz, J. M.;
+Thatcher, L. G.; Bloodworth, J. M. B.: Familial thrombocytopenia,
+elevated serum IgA and renal disease. Am. J. Med. 49: 729-741, 1970.
+
+35. Holmberg, L.; Gustavii, B.; Jonsson, A.: A prenatal study of
+fetal platelet count and size with application to fetus at risk for
+Wiskott-Aldrich syndrome. J. Pediat. 102: 773-776, 1983.
+
+36. Hutter, J. J., Jr.; Jones, J. F.: Results of a thymic epithelial
+transplant in a child with Wiskott-Aldrich syndrome and central nervous
+system lymphoma. Clin. Immun. Immunopath. 18: 121-125, 1981.
+
+37. Kapoor, N.; Kirkpatrick, D.; Blaese, R. M.; Oleske, J.; Hilgartner,
+M. H.; Chaganti, R. S. K.; Good, R. A.; O'Reilly, R. J.: Reconstitution
+of normal megakaryocytopoiesis and immunologic functions in Wiskott-Aldrich
+syndrome by marrow transplantation following myelo-ablation and immunosuppression
+with busulphan and cyclophosphamide. Blood 57: 692-696, 1981.
+
+38. Knox-Macaulay, H. H. M.; Bashawri, L.; Davies, K. E.: X linked
+recessive thrombocytopenia. J. Med. Genet. 30: 968-969, 1993.
+
+39. Kolluri, R.; Tolias, K. F.; Carpenter, C. L.; Rosen, F. S.; Kirchhausen,
+T.: Direct interaction of the Wiskott-Aldrich syndrome protein with
+the GTPase Cdc42. Proc. Nat. Acad. Sci. 93: 5615-5618, 1996.
+
+40. Krivit, W.; Good, R. A.: Aldrich's syndrome (thrombocytopenia,
+eczema and infection in infants). Studies of the defense mechanisms. Am.
+J. Dis. Child. 97: 137-153, 1959.
+
+41. Kwan, S.-P.; Hagemann, T. L.; Radtke, B. E.; Blaese, R. M.; Rosen,
+F. S.: Identification of mutations in the Wiskott-Aldrich syndrome
+gene and characterization of a polymorphic dinucleotide repeat at
+DXS6940, adjacent to the disease gene. Proc. Nat. Acad. Sci. 92:
+4706-4710, 1995.
+
+42. Kwan, S.-P.; Lehner, T.; Hagemann, T.; Lu, B.; Blaese, M.; Ochs,
+H.; Wedgwood, R.; Ott, J.; Craig, I. W.; Rosen, F. S.: Localization
+of the gene for the Wiskott-Aldrich syndrome between two flanking
+markers, TIMP and DXS255, on Xp11.22-Xp11.3. Genomics 10: 29-33,
+1991.
+
+43. Kwan, S.-P.; Lehner, T.; Lu, B.; Raghu, G.; Blaese, M.; Sandkuyl,
+L. A.; Ott, J.; Fraser, N.; Boyd, Y.; Craig, I. W.; Fischer, S.; Rosen,
+F.: Linkage of DXS255 to the Wiskott Aldrich syndrome gene. (Abstract) Cytogenet.
+Cell Genet. 51: 1027 only, 1989.
+
+44. Kwan, S.-P.; Sandkuyl, L. A.; Blaese, M.; Kunkel, L. M.; Bruns,
+G.; Parmley, R.; Skarshaug, S.; Page, D. C.; Ott, J.; Rosen, F. S.
+: Genetic mapping of the Wiskott-Aldrich syndrome with two highly-linked
+polymorphic DNA markers. Genomics 3: 39-43, 1988.
+
+45. Lemahieu, V.; Gastier, J. M.; Francke, U.: Novel mutations in
+the Wiskott-Aldrich syndrome protein gene and their effects on transcriptional,
+translational, and clinical phenotypes. Hum. Mutat. 14: 54-66, 1999.
+
+46. Levin, A. S.; Spitler, L. E.; Stiles, D. P.; Fudenberg, H. H.
+: Wiskott-Aldrich syndrome, a genetically determined cellular immunologic
+deficiency: clinical and laboratory responses to therapy with transfer
+factor. Proc. Nat. Acad. Sci. 67: 821-828, 1970.
+
+47. Lum, L. G.; Tubergen, D. G.; Corash, L.; Blaese, R. M.: Splenectomy
+in the management of the thrombocytopenia of the Wiskott-Aldrich syndrome. New
+Eng. J. Med. 302: 892-896, 1980.
+
+48. Lutskiy, M. I.; Sasahara, Y.; Kenney, D. M.; Rosen, F. S.; Remold-O'Donnell,
+E.: Wiskott-Aldrich syndrome in a female. Blood 100: 2763-2768,
+2002.
+
+49. Lyon, M. F.; Peters, J.; Glenister, P. H.; Ball, S.; Wright, E.
+: The scurfy mouse mutant has previously unrecognized hematological
+abnormalities and resembles Wiskott-Aldrich syndrome. Proc. Nat.
+Acad. Sci. 87: 2433-2437, 1990.
+
+50. McEnery, G.; Nash, F. W.: Wiskott-Aldrich syndrome associated
+with idiopathic infantile cortical hyperostosis (Caffey's disease). Arch.
+Dis. Child. 48: 818-821, 1973.
+
+51. Mentzer, S. J.; Remold-O'Donnell, E.; Crimmins, M. A. V.; Bierer,
+B. E.; Rosen, F. S.; Burakoff, S. J.: Sialophorin, a surface sialoglycoprotein
+defective in the Wiskott-Aldrich syndrome, is involved in human T
+lymphocyte proliferation. J. Exp. Med. 165: 1383-1392, 1987.
+
+52. Meropol, N. J.; Hicks, D.; Brooks, J. J.; Siminovitch, K. A.;
+Fishman, N. O.; Kant, J. A.; Bennett, J. S.: Coincident Kaposi sarcoma
+and T-cell lymphoma in a patient with the Wiskott-Aldrich syndrome. Am.
+J. Hemat. 40: 126-134, 1992.
+
+53. Nathan, D. G.: Splenectomy in the Wiskott-Aldrich syndrome. (Editorial) New
+Eng. J. Med. 302: 916-917, 1980.
+
+54. Notarangelo, L. D.; Candotti, F.; Parolini, O.; Mantuano, E.;
+Giliani, S.; Lanfranchi, A.; Albertini, A.: Application of molecular
+analysis to genetic counseling in the Wiskott-Aldrich syndrome (WAS). DNA
+Cell Biol. 12: 645-649, 1993.
+
+55. Notarangelo, L. D.; Parolini, O.; Faustini, R.; Porteri, V.; Albertini,
+A.; Ugazio, A. G.: Presentation of Wiskott-Aldrich syndrome as isolated
+thrombocytopenia. (Letter) Blood 77: 1125-1126, 1991.
+
+56. Notarangelo, L. D.; Parolini, O.; Porta, F.; Locatelli, F.; Lanfranchi,
+A.; Marconi, M.; Nespoli, L.; Albertini, A.; Craig, I. W.; Ugazio,
+A. G.: Analysis of X-chromosome inactivation and presumptive expression
+of the Wiskott-Aldrich syndrome (WAS) gene in hematopoietic cell lineages
+of a thrombocytopenic carrier female of WAS. Hum. Genet. 88: 237-241,
+1991.
+
+57. Ochs, H. D.; Slichter, S. J.; Harker, L. A.; Von Behrens, W. E.;
+Clark, R. A.; Wedgwood, R. J.: The Wiskott-Aldrich syndrome: studies
+of lymphocytes, granulocytes, and platelets. Blood 55: 243-252,
+1980.
+
+58. Parkman, R.; Kenney, D. M.; Remold-O'Donnell, E.; Perrine, S.;
+Rosen, F. S.: Surface protein abnormalities in lymphocytes and platelets
+from patients with Wiskott-Aldrich syndrome. Lancet 318: 1387-1389,
+1981. Note: Originally Volume II.
+
+59. Parkman, R.; Rappeport, J.; Geha, R.; Belli, J.; Cassady, R.;
+Levey, R.; Nathan, D. G.; Rosen, F. S.: Complete correction of the
+Wiskott-Aldrich syndrome by allogeneic bone marrow transplantation. New
+Eng. J. Med. 298: 921-927, 1978.
+
+60. Parolini, O.; Ressmann, G.; Haas, O. A.; Pawlowsky, J.; Gadner,
+H.; Knapp, W.; Holter, W.: X-linked Wiskott-Aldrich syndrome in a
+girl. New Eng. J. Med. 338: 291-295, 1998.
+
+61. Peacocke, M.; Siminovitch, K. A.: Linkage of the Wiskott-Aldrich
+syndrome with polymorphic DNA sequences from the human X chromosome. Proc.
+Nat. Acad. Sci. 84: 3430-3433, 1987.
+
+62. Perry, G. S., III; Spector, B. D.; Schuman, L. M.; Mandel, J.
+S.; Anderson, V. E.; McHugh, R. B.; Hanson, M. R.; Fahlstrom, S. M.;
+Krivit, W.; Kersey, J. H.: The Wiskott-Aldrich syndrome in the United
+States and Canada (1892-1979). J. Pediat. 97: 72-78, 1980.
+
+63. Prchal, J. T.; Carroll, A. J.; Prchal, J. F.; Crist, W. M.; Skalka,
+H. W.; Gealy, W. J.; Harley, J.; Malluh, A.: Wiskott-Aldrich syndrome:
+cellular impairments and their implication for carrier detection. Blood 56:
+1048-1054, 1980.
+
+64. Puck, J. M.; Candotti, F.: Lessons from the Wiskott-Aldrich syndrome. New
+Eng. J. Med. 355: 1759-1761, 2006.
+
+65. Puck, J. M.; Siminovitch, K. A.; Poncz, M.; Greenberg, C. R.;
+Rottem, M.; Conley, M. E.: Atypical presentation of Wiskott-Aldrich
+syndrome: diagnosis in two unrelated males based on studies of maternal
+T cell X chromosome inactivation. Blood 75: 2269-2374, 1990.
+
+66. Puck, J. M.; Willard, H. F.: X inactivation in females with X-linked
+disease. New Eng. J. Med. 338: 325-327, 1998.
+
+67. Remold-O'Donnell, E.; Kenney, D. M.; Parkman, R.; Cairns, L.;
+Savage, B.; Rosen, F. S.: Characterization of a human lymphocyte
+surface sialoglycoprotein that is defective in Wiskott-Aldrich syndrome. J.
+Exp. Med. 159: 1705-1723, 1984.
+
+68. Sasahara, Y.; Fujie, H.; Kumaki, S.; Ohashi, Y.; Minegishi, M.;
+Tsuchiya, S.: Epstein-Barr virus-associated Hodgkin's disease in
+a patient with Wiskott-Aldrich syndrome. Acta Pediat. 90: 1348-1351,
+2001.
+
+69. Sasahara, Y.; Rachid, R.; Byrne, M. J.; de la Fuente, M. A.; Abraham,
+R. T.; Ramesh, N.; Geha, R. S.: Mechanism of recruitment of WASP
+to the immunological synapse and of its activation following TCR ligation. Molec.
+Cell 10: 1269-1281, 2002.
+
+70. Schindelhauer, D.; Weiss, M.; Hellebrand, H.; Golla, A.; Hergersberg,
+M.; Seger, R.; Belohradsky, B. H.; Meindl, A.: Wiskott-Aldrich syndrome:
+no strict genotype-phenotype correlations but clustering of missense
+mutations in the amino-terminal part of the WASP gene product. Hum.
+Genet. 98: 68-76, 1996.
+
+71. Schwartz, M.; Mibashan, R. S.; Nicolaides, K. H.; Millar, D. S.;
+Jenkins, E.; Rodeck, C. H.; Orstavik, K. H.; Stormorken, H.: First-trimester
+diagnosis of Wiskott-Aldrich syndrome by DNA markers. (Letter) Lancet 334:
+1405 only, 1989. Note: Originally Volume II.
+
+72. Shapiro, R. S.; Perry, G. S., III; Krivit, W.; Gerrard, J. M.;
+White, J. G.; Kersey, J. H.: Wiskott-Aldrich syndrome: detection
+of carrier state by metabolic stress of platelets. Lancet 311: 121-123,
+1978. Note: Originally Volume I.
+
+73. Simon, H.-U.; Mills, G. B.; Hashimoto, S.; Siminovitch, K. A.
+: Evidence for defective transmembrane signaling in B cells from patients
+with Wiskott-Aldrich syndrome. J. Clin. Invest. 90: 1396-1405, 1992.
+
+74. Spitler, L. E.; Wray, B. B.; Mogerman, S.; Miller, J. J., III;
+O'Reilly, R. J.; Lagios, M.: Nephropathy in the Wiskott-Aldrich syndrome. Pediatrics 66:
+391-398, 1980.
+
+75. Standen, G. R.; Lillicrap, D. P.; Matthews, N.; Bloom, A. L.:
+Inherited thrombocytopenia, elevated serum IgA and renal disease:
+identification as a variant of the Wiskott-Aldrich syndrome. Quart.
+J. Med. 59: 401-408, 1986.
+
+76. Steinberg, A. G.: Methodology in human genetics. J. Med. Educ. 34:
+315-334, 1959.
+
+77. Sullivan, K. E.; Mullen, C. A.; Blaese, R. M.; Winkelstein, J.
+A.: A multiinstitutional survey of Wiskott-Aldrich syndrome. J.
+Pediat. 125: 876-885, 1994.
+
+78. Symons, M.; Derry, J. M. J.; Karlak, B.; Jiang, S.; Lemahieu,
+V.; McCormick, F.; Francke, U.; Abo, A.: Wiskott-Aldrich syndrome
+protein, a novel effector for the GTPase CDC42Hs, is implicated in
+actin polymerization. Cell 84: 723-734, 1996.
+
+79. ten Bensel, R. W.; Stadlan, E. M.; Krivit, W.: The development
+of malignancy in the course of the Aldrich syndrome. J. Pediat. 68:
+761-767, 1966.
+
+80. Thompson, L. J.; Lalloz, M. R. A.; Layton, D. M.: Unique and
+recurrent WAS gene mutations in Wiskott-Aldrich syndrome and X-linked
+thrombocytopenia. Blood Cells Molec. Dis. 25: 218-226, 1999.
+
+81. Van den Bosch, J.; Drukker, J.: Het Syndroom van Aldrich: een
+klinisch en genetisch Onderzoek van enige nederlandse Families. Maandschr.
+Kindergeneesk. 32: 359-373, 1964.
+
+82. Villa, A.; Notarangelo, L.; Macchi, P.; Mantuano, E.; Cavagni,
+G.; Brugnoni, D.; Strina, D.; Patrosso, M. C.; Ramenghi, U.; Sacco,
+M. G.; Ugazio, A.; Vezzoni, P.: X-linked thrombocytopenia and Wiskott-Aldrich
+syndrome are allelic diseases with mutations in the WASP gene. Nature
+Genet. 9: 414-417, 1995.
+
+83. Wada, T.; Konno, A.; Schurman, S. H.; Garabedian, E. K.; Anderson,
+S. M.; Kirby, M.; Nelson, D. L.; Candotti, F.: Second-site mutation
+in the Wiskott-Aldrich syndrome (WAS) protein gene causes somatic
+mosaicism in two WAS siblings. J. Clin. Invest. 111: 1389-1397,
+2003.
+
+84. Wada, T.; Schurman, S. H.; Jagadeesh, G. J.; Garabedian, E. K.;
+Nelson, D. L.; Candotti, F.: Multiple patients with revertant mosaicism
+in a single Wiskott-Aldrich syndrome family. Blood 104: 1270-1272,
+2004.
+
+85. Wada, T.; Schurman, S. H.; Otsu, M.; Garabedian, E. K.; Ochs,
+H. D.; Nelson, D. L.; Candotti, F.: Somatic mosaicism in Wiskott-Aldrich
+syndrome suggests in vivo reversion by a DNA slippage mechanism. Proc.
+Nat. Acad. Sci. 98: 8697-8702, 2001.
+
+86. Wada, T.; Schurman, S. H.; Otsu, M.; Garabedian, E. K.; Ochs,
+H. D.; Nelson, D. L.; Candotti, F.: Somatic mosaicism in Wiskott-Aldrich
+syndrome suggests in vivo reversion by a DNA slippage mechanism. Proc.
+Nat. Acad. Sci. 98: 8697-8702, 2001.
+
+87. Waisfisz, Q.; Morgan, N. V.; Savino, M.; de Winter, J. P.; van
+Berkel, C. G. M.; Hoatlin, M. E.; Ianzano, L.; Gibson, R. A.; Arwert,
+F.; Savoia, A.; Mathew, C. G.; Pronk, J. C.; Joenje, H.: Spontaneous
+functional correction of homozygous Fanconi anaemia alleles reveals
+novel mechanistic basis for reverse mosaicism. Nature Genet. 22:
+379-383, 1999.
+
+88. Webb, M. C.; Andrews, P. A.; Koffman, C. G.; Cameron, J. S.:
+Renal transplantation in Wiskott-Aldrich syndrome. Transplantation 56:
+747-748, 1993.
+
+89. Weiden, P. L.; Blaese, R.: Hereditary thrombocytopenia: relation
+to Wiskott-Aldrich syndrome with special reference to splenectomy. J.
+Pediat. 80: 226-234, 1972.
+
+90. Wengler, G.; Gorlin, J. B.; Williamson, J. M.; Rosen, F. S.; Bing,
+D. H.: Nonrandom inactivation of the X chromosome in early lineage
+hematopoietic cells in carriers of Wiskott-Aldrich syndrome. Blood 85:
+2471-2477, 1995.
+
+91. Wiskott, A.: Familiarer, angeborener Morbus Werlhofii? Mschr.
+Kinderheilk. 68: 212-216, 1937.
+
+92. Wolff, J. A.: Wiskott-Aldrich syndrome: clinical, immunologic,
+and pathologic observations. J. Pediat. 70: 221-232, 1967.
+
+93. Yamada, M.; Ariga, T.; Kawamura, N.; Yamaguchi, K.; Ohtsu, M.;
+Nelson, D. L.; Kondoh, T.; Kobayashi, I.; Okano, M.; Kobayashi, K.;
+Sakiyama, Y.: Determination of carrier status for the Wiskott-Aldrich
+syndrome by flow cytometric analysis of Wiskott-Aldrich syndrome protein
+expression in peripheral blood mononuclear cells. J. Immun. 165:
+1119-1122, 2000.
+
+94. Yamada, M.; Ohtsu, M.; Kobayashi, I.; Kawamura, N.; Kobayashi,
+K.; Ariga, T.; Sakiyama, Y.; Nelson, D. L.; Tsuruta, S.; Anakura,
+M.; Ishikawa, N.: Flow cytometric analysis of Wiskott-Aldrich syndrome
+(WAS) protein in lymphocytes from WAS patients and their familial
+carriers. Blood 93: 756-759, 1999.
+
+CLINICAL SYMPTOMS INHERITANCE:
+X-linked recessive
+
+HEAD AND NECK:
+[Head];
+Sinusitis;
+[Ears];
+Otitis media;
+[Nose];
+Epistaxis;
+[Mouth];
+Oral bleeding
+
+RESPIRATORY:
+[Airways];
+Upper respiratory tract infections;
+Lower respiratory tract infections;
+[Lung];
+Pneumonia
+
+ABDOMEN:
+[Gastrointestinal];
+Diarrhea;
+Hematemesis;
+Melena;
+Inflammatory bowel disease
+
+GENITOURINARY:
+[Kidneys];
+Nephropathy
+
+SKIN, NAILS, HAIR:
+[Skin];
+Eczema;
+Petechiae;
+Purpura
+
+NEUROLOGIC:
+[Central nervous system];
+Meningitis
+
+HEMATOLOGY:
+Thrombocytopenia;
+Small platelets size;
+Hemolytic anemia;
+Small and large vessel vasculitis;
+Iron deficiency anemia;
+CD43 (sialophorin) defectively expressed on surface of blood cells
+
+IMMUNOLOGY:
+Moderately depressed antibody response to polysaccharide antigens;
+Lymphopenia;
+Abnormal delayed hypersensitivity skin test;
+Absent microvilli on the surface of peripheral blood lymphocytes
+
+LABORATORY ABNORMALITIES:
+Prolonged bleeding time;
+Normal IgG levels;
+Increased IgA levels;
+Increased IgE levels;
+Reduced IgM levels;
+Raised ESR;
+Raised CRP
+
+MOLECULAR BASIS:
+Caused by mutation in the Wiskott-Aldrich syndrome protein gene (WASP,
+301000.0001)
+
+CONTRIBUTORS Ada Hamosh - reviewed: 1/4/2001
+Assil Saleh - revised: 8/25/2000
+
+CREATED John F. Jackson: 6/15/1995
+
+EDITED joanna: 10/22/2013
+joanna: 7/23/2013
+joanna: 1/5/2001
+joanna: 1/4/2001
+kayiaros: 8/25/2000
+
+CONTRIBUTORS Ada Hamosh - updated: 11/11/2010
+Cassandra L. Kniffin - updated: 4/27/2009
+Marla J. F. O'Neill - updated: 11/21/2007
+Victor A. McKusick - updated: 11/30/2006
+Victor A. McKusick - updated: 6/13/2006
+Victor A. McKusick - updated: 12/27/2004
+Victor A. McKusick - updated: 1/10/2003
+Cassandra L. Kniffin - reorganized: 5/13/2002
+Paul J. Converse - updated: 2/21/2002
+Victor A. McKusick - updated: 8/10/2001
+Sonja A. Rasmussen - updated: 6/8/2001
+Victor A. McKusick - updated: 5/18/2001
+Victor A. McKusick - updated: 2/28/2001
+Paul J. Converse - updated: 9/21/2000
+Ada Hamosh - updated: 5/16/2000
+Victor A. McKusick - updated: 1/19/2000
+Victor A. McKusick - updated: 8/16/1999
+Victor A. McKusick - updated: 6/18/1999
+Victor A. McKusick - updated: 11/4/1998
+Ada Hamosh - updated: 4/23/1998
+Jennifer P. Macke - updated: 6/9/1997
+Cynthia K. Ewing - updated: 10/14/1996
+Alan F. Scott - updated: 4/23/1996
+Moyra Smith - updated: 4/22/1996
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 03/28/2013
+mgross: 2/23/2012
+terry: 1/27/2012
+carol: 6/7/2011
+alopez: 11/16/2010
+terry: 11/11/2010
+wwang: 5/13/2009
+ckniffin: 4/27/2009
+terry: 3/27/2009
+carol: 11/26/2007
+terry: 11/21/2007
+alopez: 12/8/2006
+terry: 11/30/2006
+alopez: 6/13/2006
+tkritzer: 12/27/2004
+tkritzer: 2/18/2004
+tkritzer: 1/23/2003
+tkritzer: 1/13/2003
+terry: 1/10/2003
+carol: 5/13/2002
+ckniffin: 5/10/2002
+ckniffin: 5/9/2002
+mgross: 2/21/2002
+carol: 2/12/2002
+mcapotos: 8/15/2001
+mcapotos: 8/14/2001
+mcapotos: 8/10/2001
+mcapotos: 6/8/2001
+mcapotos: 5/25/2001
+terry: 5/18/2001
+alopez: 3/5/2001
+alopez: 3/1/2001
+terry: 2/28/2001
+mgross: 9/21/2000
+alopez: 5/16/2000
+mcapotos: 1/27/2000
+terry: 1/19/2000
+alopez: 8/24/1999
+jlewis: 8/24/1999
+terry: 8/16/1999
+jlewis: 6/30/1999
+terry: 6/18/1999
+terry: 5/20/1999
+dkim: 11/13/1998
+carol: 11/12/1998
+terry: 11/4/1998
+dkim: 9/10/1998
+dkim: 7/21/1998
+alopez: 6/9/1998
+alopez: 4/23/1998
+jenny: 8/27/1997
+mark: 7/8/1997
+jamie: 10/18/1996
+jamie: 10/16/1996
+jamie: 10/14/1996
+mark: 8/12/1996
+terry: 7/16/1996
+terry: 7/15/1996
+mark: 6/25/1996
+terry: 6/25/1996
+mark: 6/19/1996
+terry: 6/11/1996
+carol: 4/26/1996
+mark: 4/23/1996
+carol: 4/22/1996
+mark: 2/5/1996
+mark: 1/8/1996
+mark: 10/25/1995
+terry: 7/28/1995
+carol: 12/14/1994
+davew: 7/6/1994
+pfoster: 7/1/1994
+jason: 6/17/1994
+

@@ -1,0 +1,648 @@
+608513	TITLE *608513 RIBONUCLEASE P, RNA COMPONENT H1; RPPH1
+;;H1 RNA; H1RNA
+DESCRIPTION 
+DESCRIPTION
+
+H1RNA is the RNA component of the RNase P ribonucleoprotein, an
+endoribonuclease that cleaves tRNA precursor molecules to form the
+mature 5-prime termini of their tRNA sequences (Baer et al., 1989).
+
+CLONING
+
+Bartkiewicz et al. (1989) purified RNase P from HeLa cell extracts and,
+using this as template, synthesized and cloned H1RNA cDNA. The deduced
+340-nucleotide transcript does not contain a 5-prime cap structure. The
+5-prime and 3-prime termini are complementary, and the authors predicted
+that they are hydrogen bonded.
+
+Baer et al. (1989) cloned an H1RNA cDNA, including its flanking regions,
+from human spleen DNA. In vitro transcription of H1RNA cDNA using S100
+and whole HeLa cell extracts confirmed synthesis of a transcript
+containing about 340 nucleotides. The mature form of H1RNA did not
+appear to be derived from a larger precursor molecule. Inhibitor studies
+indicated that H1RNA is transcribed by RNA polymerase (Pol) III (see
+606007).
+
+GENE FUNCTION
+
+Following depletion of RNase P from HeLa cell extracts, Reiner et al.
+(2006) found a severe deficiency in Pol III-mediated transcription of
+tRNA and other small noncoding RNA genes. Targeted cleavage of the H1RNA
+moiety of RNase P altered enzyme specificity and diminished Pol III
+transcription. Similarly, inactivation of RNase P protein subunits, such
+as RPP38 (606116), by small interfering RNA inhibited Pol III function
+and Pol III-directed promoter activity in the cell. RNase P exerted its
+role in transcription through association with Pol III and chromatin of
+active tRNA and 5S rRNA (180420) genes. Reiner et al. (2006) concluded
+that RNase P has a role in Pol III transcription and that transcription
+and early tRNA processing may be coordinated.
+
+GENE STRUCTURE
+
+Baer et al. (1989) determined that the flanking regions of the H1RNA
+gene contain transcriptional control elements characteristic of both RNA
+polymerase II and RNA polymerase III.
+
+Myslinski et al. (2001) analyzed the H1RNA promoter region using various
+transcription assays on mutant templates and DNA binding assays with
+recombinant proteins. They found that the DNA elements required for
+H1RNA transcription are typical of vertebrate small nuclear RNA promoter
+elements. However, the promoter is unusually compact and is contained
+within 100 bp of 5-prime flanking sequences.
+
+MAPPING
+
+By Southern blot analyses, Bartkiewicz et al. (1989) determined that
+there are no more than 3 H1RNA genes, and Baer et al. (1989) predicted
+that there is only a single gene. Baer et al. (1989) mapped the H1RNA
+gene to chromosome 14q just below the centromere by analyzing a panel of
+mouse-human hybrid chromosomes and by in situ hybridization.
+
+REFERENCE 1. Baer, M.; Nilsen, T. W.; Costigan, C.; Altman, S.: Structure and
+transcription of a human gene for H1 RNA, the RNA component of human
+RNase P. Nucleic Acids Res. 18: 97-103, 1989.
+
+2. Bartkiewicz, M.; Gold, H.; Altman, S.: Identification and characterization
+of an RNA molecule that copurifies with RNase P activity from HeLa
+cells. Genes Dev. 3: 488-499, 1989.
+
+3. Myslinski, E.; Ame, J.-C.; Krol, A.; Carbon, P.: An unusually
+compact external promoter for RNA polymerase III transcription of
+the human H1RNA gene. Nucleic Acids Res. 29: 2502-2509, 2001.
+
+4. Reiner, R.; Ben-Asouli, Y.; Krilovetzky, I.; Jarrous, N.: A role
+for the catalytic ribonucleoprotein RNase P in RNA polymerase III
+transcription. Genes Dev. 20: 1621-1635, 2006.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 7/17/2006
+
+CREATED Patricia A. Hartz: 3/8/2004
+
+EDITED mgross: 07/19/2006
+terry: 7/17/2006
+mgross: 3/8/2004
+
+180646	TITLE *180646 SMALL NUCLEOLAR RNA, H/ACA BOX, 62; SNORA62
+;;RNA, U108 SMALL NUCLEOLAR; RNU108;;
+RNA, E2 SMALL NUCLEOLAR; RNE2;;
+snoRNA, E2
+DESCRIPTION See 180645. Several of the known small nucleolar RNA (snoRNA) species
+have been shown to be required for processing of ribosomal RNA (rRNA)
+precursors. The genes of most of the known vertebrate snoRNA species are
+located in introns of mRNA precursors (Maxwell and Fournier, 1995). E2
+RNA is a nucleolar species that is 154-nucleotides long in the human.
+Selvamurugan and Eliceiri (1995) stated that it belongs to a new family
+of snoRNAs because it does not have the sequences named 'box C,'
+'C-prime,' or 'D' that are present in most vertebrate snoRNA species,
+and it does not bind fibrillarin (134795), the nucleolar protein
+associated with most snoRNAs. E2 snoRNA is found in all tissues tested
+in all vertebrates analyzed. Two observations are compatible with the
+possibility that the human E2 RNA gene may be intronic. First, the human
+gene lacks the intragenic flanking sequences that are functional in
+other genes. Second, the 5-prime end of E2 RNA is monophosphorylated,
+suggesting that it is formed by RNA processing. Intron-encoded snoRNAs
+have monophosphorylated 5-prime termini. Selvamurugan and Eliceiri
+(1995) demonstrated that the E2 gene resides in an intron of a
+laminin-binding protein, the 67-kD laminin receptor (LAMR1; 150370).
+Multiple copies (up to 16) of the LAMR1 gene per haploid genome are
+present in the human.
+
+REFERENCE 1. Maxwell, E. W.; Fournier, M. J.: The small nucleolar RNAs. Annu.
+Rev. Biochem. 64: 897-934, 1995.
+
+2. Selvamurugan, N.; Eliceiri, G. L.: The gene for human E2 small
+nucleolar RNA resides in an intron of a laminin-binding protein gene. Genomics 30:
+400-401, 1995.
+
+CREATED Victor A. McKusick: 11/1/1993
+
+EDITED mgross: 08/16/2007
+mgross: 1/20/2006
+psherman: 12/15/1999
+psherman: 12/14/1999
+psherman: 3/11/1999
+alopez: 2/21/1999
+terry: 7/7/1997
+terry: 3/26/1996
+mark: 1/14/1996
+carol: 11/1/1993
+
+611325	TITLE *611325 TRANSFORMING GROWTH FACTOR-BETA REGULATOR 4; TBRG4
+;;KIAA0948;;
+CELL CYCLE PROGRESSION RESTORATION 2; CPR2
+DESCRIPTION 
+CLONING
+
+By screening a hepatoma cDNA expression library for clones that could
+block mating pheromone-induced G1 arrest in yeast, Edwards et al. (1997)
+cloned TBRG4, which they called CPR2. The deduced protein contains
+multiple putative leucine zipper domains characteristic of transcription
+factors.
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Nagase et al. (1999) cloned TBRG4, which they designated
+KIAA0948. The transcript contains several repetitive elements in the
+3-prime untranslated region. The deduced 521-amino acid protein shares
+significant similarity with rat Cpr2. RT-PCR ELISA detected moderate
+expression in ovary, and little to no expression in all other tissues
+and specific brain regions examined.
+
+MAPPING
+
+By FISH, Edwards et al. (1997) mapped the TBRG4 gene to chromosome
+7p14-p13.
+
+REFERENCE 1. Edwards, M. C.; Liegeois, N.; Horecka, J.; DePinho, R. A.; Sprague,
+G. F., Jr.; Tyers, M.; Elledge, S. J.: Human CPR (cell cycle progression
+restoration) genes impart a Far- phenotype on yeast cells. Genetics 147:
+1063-1076, 1997.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Hirosawa, M.;
+Miyajima, N.; Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction
+of the coding sequences of unidentified human genes. XIII. The complete
+sequences of 100 new cDNA clones from brain which code for large proteins
+in vitro. DNA Res. 6: 63-70, 1999.
+
+CREATED Patricia A. Hartz: 8/15/2007
+
+EDITED carol: 08/16/2007
+carol: 8/15/2007
+
+612745	TITLE *612745 MICRO RNA 181B2; MIR181B2
+;;miRNA181B2;;
+MIRN181B2
+DESCRIPTION 
+DESCRIPTION
+
+MicroRNAs (miRNAs), such as MIR181B, are short noncoding RNAs that
+repress translation or induce cleavage of target mRNAs with which they
+interact (Ciafre et al., 2005). Two distinct genes, MIR181B1 (612744)
+and MIR181B2, encode the same mature MIR181B miRNA.
+
+GENE FUNCTION
+
+Using microarray and Northern blot analyses, Ciafre et al. (2005) found
+that expression of MIR181B was significantly downregulated in primary
+glioblastomas and human glioblastoma cell lines compared with normal
+brain tissue.
+
+MAPPING
+
+Hartz (2009) mapped the MIR181B2 gene to chromosome 9q33.3 based on an
+alignment of the MIR181B2 stem-loop sequence
+(CUGAUGGCUGCACUCAACAUUCAUUGCUGUCGGUGGGUUUGAGUCUGAAUCAACUCACUGAUCAAUGAAUG
+CAAACUGCGGACCAAACA) with the genomic sequence (build 36.1).
+
+REFERENCE 1. Ciafre, S. A.; Galardi, S.; Mangiola, A.; Ferracin, M.; Liu, C.-G.;
+Sabatino, G.; Negrini, M.; Maira, G.; Croce, C. M.; Farace, M. G.
+: Extensive modulation of a set of microRNAs in primary glioblastoma. Biochem.
+Biophys. Res. Commun. 334: 1351-1358, 2005.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  4/21/2009.
+
+CREATED Patricia A. Hartz: 4/21/2009
+
+EDITED mgross: 04/21/2009
+
+603884	TITLE *603884 BCL2-ASSOCIATED ATHANOGENE 4; BAG4
+;;SILENCER OF DEATH DOMAINS; SODD
+DESCRIPTION 
+CLONING
+
+Tumor necrosis factor receptor-1 (TNFR1; 191190) and several other
+members of the TNF receptor superfamily, such as DR3 (603366), contain
+intracellular death domains and are capable of triggering apoptosis when
+activated by their respective ligands. However, TNFR1 self-associates
+and signals independently of ligand when overexpressed. Jiang et al.
+(1999) suggested the existence of a cellular mechanism to protect
+against ligand-independent signaling by TNFR1 and other death domain
+receptors. Using a yeast 2-hybrid assay with DR3 as bait, these authors
+identified a cDNA encoding a protein that they designated 'silencer of
+death domains' (SODD). The predicted 457-amino acid SODD protein
+migrates as a doublet of 60 kD on Western blots of mammalian cell
+extracts. Coimmunoprecipitation studies revealed that SODD is associated
+with TNFR1 in vivo. TNF treatment of cells released SODD from TNFR1,
+permitting the recruitment of proteins such as TRADD (603500) and TRAF2
+(601895) to the active TNFR1 signaling complex. Jiang et al. (1999)
+proposed that SODD is a negative regulatory protein that is normally
+associated with the death domain of TNFR1, inhibiting the intrinsic
+self-aggregation properties of the death domain and maintaining TNFR1 in
+an inactive, monomeric state. This inhibition is relieved by
+TNF-mediated receptor crosslinking, which triggers the rapid release of
+SODD, allowing the death domains of TNFR1 to self-associate and bind
+other proteins to form an active TNFR1 signaling complex. These authors
+found that SODD also interacted with DR3 in yeast 2-hybrid assays,
+suggesting that SODD association may be representative of a general
+mechanism for preventing spontaneous signaling by death
+domain-containing receptors.
+
+BAG1 (601497) binds the ATPase domains of Hsp70 (see 140550) and Hsc70
+(600816), modulating their chaperone activity. See BAG2 (603882).
+Takayama et al. (1999) identified cDNAs corresponding to BAG4 and 3
+other BAG1-like proteins. These authors suggested that interactions with
+various BAG family proteins allow opportunities for specification and
+diversification of Hsp70/Hsc70 chaperone functions.
+
+GENE FUNCTION
+
+Pancreatic cancer cells are resistant to TNFA-mediated apoptosis. By
+Northern blot analysis, Ozawa et al. (2000) detected a 5-fold increased
+expression of 3.5-kb SODD transcripts in pancreatic cancer cells and
+pancreatic cancer cell lines compared with normal pancreatic cells.
+Other gastrointestinal cancers (liver, esophagus, stomach, and colon)
+showed no increased SODD expression. In situ hybridization analysis
+revealed expression of SODD in the cytoplasm of cancer cells.
+
+By array CGH, Yang et al. (2006) analyzed the copy number and expression
+level of genes in the 8p12-p11 amplicon in 22 human breast cancer
+(114480) specimens and 7 breast cancer cell lines. Of the 21 potential
+genes identified, PCR analysis and functional analysis indicated that 3
+genes, LSM1 (607281), BAG4, and C8ORF4 (607702), are breast cancer
+oncogenes that can work in combination to influence a transformed
+phenotype in human mammary epithelial cells.
+
+MAPPING
+
+The BAG4 gene resides on chromosome 8p11 (Yang et al., 2006).
+
+REFERENCE 1. Jiang, Y.; Woronicz, J. D.; Liu, W.; Goeddel, D. V.: Prevention
+of constitutive TNF receptor 1 signaling by silencer of death domains. Science 283:
+543-546, 1999. Note: Erratum: Science 283: 1852 only, 1999.
+
+2. Ozawa, F.; Friess, H.; Zimmermann, A.; Kleeff, J.; Buchler, M.
+W.: Enhanced expression of silencer of death domains (SODD/BAG-4)
+in pancreatic cancer. Biochem. Biophys. Res. Commun. 271: 409-413,
+2000.
+
+3. Takayama, S.; Xie, Z.; Reed, J. C.: An evolutionarily conserved
+family of Hsp70/Hsc70 molecular chaperone regulators. J. Biol. Chem. 274:
+781-786, 1999.
+
+4. Yang, Z. Q.; Streicher, K. L.; Ray, M. E.; Abrams, J.; Ethier,
+S. P.: Multiple interacting oncogenes on the 8p11-p12 amplicon in
+human breast cancer. Cancer Res. 66: 11632-11643, 2006.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 5/4/2007
+Paul J. Converse - updated: 12/7/2000
+
+CREATED Rebekah S. Rasooly: 6/7/1999
+
+EDITED alopez: 11/19/2012
+wwang: 5/10/2007
+ckniffin: 5/4/2007
+mgross: 12/8/2000
+terry: 12/7/2000
+alopez: 6/7/1999
+
+600126	TITLE *600126 PHOSPHODIESTERASE 4A, cAMP-SPECIFIC; PDE4A
+;;DUNCE-LIKE PHOSPHODIESTERASE E2, FORMERLY; DPDE2, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+Cyclic nucleotides are important second messengers that regulate and
+mediate a number of cellular responses to extracellular signals, such as
+hormones, light, and neurotransmitters. Cyclic nucleotide
+phosphodiesterases (PDEs) regulate the cellular concentrations of cyclic
+nucleotides and thereby play a role in signal transduction. PDE4A is a
+class IV cAMP-specific PDE (summary by Milatovich et al., 1994).
+
+CLONING
+
+Livi et al. (1990) isolated a cDNA for a cAMP phosphodiesterase from
+human monocytes. The deduced protein contains 686 amino acids. Northern
+blot analysis detected a predominant transcript of about 4.8 kb in
+primary human monocytes and placenta. Obernolte et al. (1993) identified
+the monocyte clone as the homolog of rat Pde4a.
+
+Using degenerate primers based on Drosophila dnc and rat Dpd to amplify
+human Dpd orthologs, followed by low-stringency hybridization of a brain
+cDNA library, Bolger et al. (1993) cloned full-length DPDE2, which they
+called PDE46, and a possible splice variant. The major transcript
+encodes a deduced 779-amino acid protein with 2 N-terminal domains that
+share a high degree of conservation with other DPDE proteins, and a
+C-terminal catalytic domain. Northern blot analysis detected a 4.5-kb
+DPDE2 transcript in normal human temporal cortex. RNase protection
+assays showed that DPDE2 was expressed in 6 of 7 cell lines examined.
+
+The difference in sequence within the 5-prime region of the open reading
+frame reported by Bolger et al. (1993) and Livi et al. (1990) was
+examined by Sullivan et al. (1994), who confirmed the sequence reported
+by Bolger et al. (1993).
+
+Sullivan et al. (1998) characterized the first 'short' PDE4A isoenzyme.
+Huston et al. (1996) had characterized the full-length human 'long'
+PDE4A isoenzyme.
+
+GENE FUNCTION
+
+Bolger et al. (1993) confirmed that DPDE2 showed cAMP PDE activity,
+which was inhibited by several cyclin nucleotide PDE inhibitors.
+
+Wilson et al. (1994) characterized the PDE4A enzyme.
+
+Growth hormone (GH; 139250) is an essential priming factor for the
+differentiation of 3T3-F442A mouse preadipocytes into mature adipocytes.
+MacKenzie et al. (1998) found that GH-mediated differentiation of
+3T3-F442A cells was accompanied by increased cAMP phosphodiesterase
+activity by a specific Pde4a isoform that they called Pde4a5. They
+showed that activation of Pde4a5 countered GH-mediated differentiation
+of 3T3-F442A cells. Activation of Pde4a5 was mediated by a
+phosphorylation pathway involving Jak2 (147796), PI3 kinase (see
+601232), and p70S6 (see 608938).
+
+Vecsey et al. (2009) demonstrated that sleep deprivation selectively
+impaired 3-prime, 5-prime-cAMP- and protein kinase A (PKA; see
+176911)-dependent forms of synaptic plasticity in the mouse hippocampus,
+reduced cAMP signaling, and increased activity and protein levels of
+PDE4, an enzyme that degrades cAMP. Treatment of mice with
+phosphodiesterase inhibitors rescued the sleep deprivation-induced
+deficits in cAMP signaling, synaptic plasticity, and
+hippocampus-dependent memory. Vecsey et al. (2009) concluded that their
+findings demonstrated that brief sleep deprivation disrupts hippocampal
+function by interfering with cAMP signaling through increased PDE4
+activity.
+
+GENE STRUCTURE
+
+Sullivan et al. (1998) determined that the PDE4A gene spans 50 kb and
+contains at least 17 exons.
+
+MAPPING
+
+Milatovich et al. (1994) assigned the PDE4A gene to human chromosome 19
+by Southern analysis of somatic cell hybrid lines and to mouse
+chromosome 9 by Southern analysis of recombinant inbred (RI) mouse
+strains. Horton et al. (1995) confirmed the localization of PDE4A to
+chromosome 19 by analysis of a human/hamster somatic cell hybrid panel.
+Using fluorescence in situ hybridization, they regionalized the gene to
+chromosome 19p13.2-q12.
+
+Sullivan et al. (1998) determined that the PDE4A gene is 350 kb proximal
+to TYK2 (176941) and 850 kb distal to LDLR (606945) on chromosome
+19p13.2.
+
+REFERENCE 1. Bolger, G.; Michaeli, T.; Martins, T.; St. John, T.; Steiner, B.;
+Rodgers, L.; Riggs, M.; Wigler, M.; Ferguson, K.: A family of human
+phosphodiesterases homologous to the dunce learning and memory gene
+product of Drosophila melanogaster are potential targets for antidepressant
+drugs. Molec. Cell. Biol. 13: 6558-6571, 1993.
+
+2. Horton, Y. M.; Sullivan, M.; Houslay, M. D.: Molecular cloning
+of a novel splice variant of human type IVA (PDE-IVA) cyclic AMP phosphodiesterase
+and localization of the gene to the p13.2-q12 region of human chromosome
+19. Biochem. J. 308: 683-691, 1995. Note: Erratum: Biochem. J. 312:
+991 only, 1995.
+
+3. Huston, E.; Pooley, L.; Julien, P.; Scotland, G.; McPhee, I.; Sullivan,
+M.; Bolger, G.; Houslay, M. D.: The human cyclic AMP-specific phosphodiesterase
+PDE-46 (HSPDE4A4B) expressed in transfected COS7 cells occurs as both
+particulate and cytosolic species that exhibit distinct kinetics of
+inhibition by the antidepressant rolipram. J. Biol. Chem. 271: 31334-31344,
+1996.
+
+4. Livi, G. P.; Kmetz, P.; McHale, M. M.; Cieslinski, L. B.; Sathe,
+G. M.; Taylor, D. P.; Davis, R. L.; Torphy, T. J.; Balcarek, J. M.
+: Cloning and expression of cDNA for a human low-K(m), rolipram-sensitive
+cyclic AMP phosphodiesterase. Molec. Cell. Biol. 10: 2678-2686,
+1990.
+
+5. MacKenzie, S. J.; Yarwood, S. J.; Peden, A. H.; Bolger, G. B.;
+Vernon, R. G.; Houslay, M. D.: Stimulation of p70S6 kinase via a
+growth hormone-controlled phosphatidylinositol 3-kinase pathway leads
+to the activation of a PDE4A cyclic AMP-specific phosphodiesterase
+in 3T3-F442A preadipocytes. Proc. Nat. Acad. Sci. 95: 3549-3554,
+1998.
+
+6. Milatovich, A.; Bolger, G.; Michaeli, T.; Francke, U.: Chromosome
+localizations of genes for five cAMP-specific phosphodiesterases in
+man and mouse. Somat. Cell Molec. Genet. 20: 75-86, 1994.
+
+7. Obernolte, R.; Bhakta, S.; Alvarez, R.; Bach, C.; Zuppan, P.; Mulkins,
+M.; Jarnagin, K.; Shelton, E. R.: The cDNA of a human lymphocyte
+cyclic-AMP phosphodiesterase (PDE IV) reveals a multigene family. Gene 129:
+239-247, 1993.
+
+8. Sullivan, M.; Egerton, M.; Shakur, Y.; Marquardsen, A.; Houslay,
+M. D.: Molecular cloning and expression, in both COS-1 cells and
+S. cerevisiae, of a human cytosolic type-IVA, cyclic AMP specific
+phosphodiesterase (hPDE-IVA-h6.1). Cell. Signal. 6: 793-812, 1994.
+
+9. Sullivan, M.; Rena, G.; Begg, F.; Gordon, L.; Olsen, A. S.; Houslay,
+M. D.: Identification and characterization of the human homologue
+of the short PDE4A cAMP-specific phosphodiesterase RD1 (PDE4A1) by
+analysis of the human HSPDE4A gene locus located at chromosome 19p13.2. Biochem.
+J. 333: 693-703, 1998.
+
+10. Vecsey, C. G.; Baillie, G. S.; Jaganath, D.; Havekes, R.; Daniels,
+A.; Wimmer, M.; Huang, T.; Brown, K. M.; Li, X.-Y.; Descalzi, G.;
+Kim, S. S.; Chen, T.; Shang, Y.-Z.; Zhuo, M.; Houslay, M. D.; Abel,
+T.: Sleep deprivation impairs cAMP signalling in the hippocampus. Nature 461:
+1122-1125, 2009.
+
+11. Wilson, M.; Sullivan, M.; Brown, N.; Houslay, M. D.: Purification,
+characterization and analysis of rolipram inhibition of a human-type
+IVA cyclic AMP-specific phosphodiesterase expressed in yeast. Biochem.
+J. 304: 407-415, 1994.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/30/2010
+Patricia A. Hartz - updated: 2/3/2010
+Ada Hamosh - updated: 12/22/2009
+Victor A. McKusick - updated: 8/17/1998
+
+CREATED Victor A. McKusick: 9/23/1994
+
+EDITED carol: 03/20/2013
+mgross: 11/30/2010
+terry: 11/30/2010
+mgross: 2/16/2010
+terry: 2/3/2010
+alopez: 1/7/2010
+terry: 12/22/2009
+mgross: 12/4/2009
+ckniffin: 6/5/2002
+carol: 12/9/1999
+dkim: 12/8/1998
+alopez: 8/20/1998
+terry: 8/17/1998
+jamie: 6/3/1997
+mark: 11/14/1995
+pfoster: 11/3/1995
+carol: 1/19/1995
+carol: 9/23/1994
+
+601271	TITLE *601271 GUANYLATE CYCLASE ACTIVATOR 2B; GUCA2B
+;;UROGUANYLIN; UGN;;
+GUANYLATE CYCLASE C ACTIVATING PEPTIDE II;;
+GCAP II
+DESCRIPTION 
+DESCRIPTION
+
+Uroguanylin and guanylin (GUCA2A; 139392), peptide homologs of the
+bacterial heat-stable enterotoxins (e.g., the E. coli ST toxin; STa),
+are endogenous activators of the guanylate cyclase-2C receptor (GUCY2C;
+601330), which synthesizes cyclic GMP (cGMP), a key component of several
+intracellular signal transduction pathways.
+
+CLONING
+
+- Peptide Isolation
+
+Kita et al. (1994) searched for members of the guanylin-like family and
+purified a 16-amino acid peptide, which they termed uroguanylin, from
+human urine. The uroguanylin peptide shares amino acid sequence homology
+with guanylin. By systematic isolation of circulating regulatory
+peptides that generate cGMP as second messengers, Hess et al. (1995)
+identified a 24-amino acid peptide with a molecular mass of 2.6 kD,
+which they termed guanylate cyclase C activating peptide II (GCAP II),
+and identified as the 'circulating form of uroguanylin.' The 16
+C-terminal amino acids are identical to uroguanylin, and 8 of 13
+C-terminal residues are conserved between GCAP II, uroguanylin, and E.
+coli STa. By immunohistochemistry, Hess et al. (1995) showed that GCAP
+II localized to enteroendocrine cells of colonic mucosa.
+
+- Gene Isolation
+
+Using human uroguanylin cDNA as a probe to screen a human genomic
+library, Miyazato et al. (1997) isolated the gene for uroguanylin and
+determined the full-length sequence, which encodes a deduced 112-amino
+acid protein. The entire nucleotide sequence that corresponds to the 16
+amino acid residues of mature uroguanylin is included in the third exon.
+The GUCA2B gene also has multiple binding sites for the
+promoter-specific transcription factors AP1 (165160) and AP2 (107580),
+and a cAMP-regulated enhancer element. RNA blot analysis showed that the
+human uroguanylin mRNA is expressed in the gastric fundus and pylorus,
+as well as in the intestine.
+
+Whitaker et al. (1997) cloned the mouse Guca2b gene (which the authors
+referred to as Guca1b). In the mouse, uroguanylin mRNA is most prominent
+in the proximal small intestine, whereas guanylin mRNA is predominantly
+expressed in distal small intestine and colon. The upstream promoter
+sequence of the mouse uroguanylin gene contains consensus binding sites
+for several known transcription factors, including HNF1 (142410) and Sp1
+(189906).
+
+GENE STRUCTURE
+
+Miyazato et al. (1997) determined that the human GUCA2B gene contains 3
+exons.
+
+Whitaker et al. (1997) found that the mouse uroguanylin and guanylin
+genes are structurally similar, both being composed of 3 short exons.
+
+MAPPING
+
+By fluorescence in situ hybridization, Miyazato et al. (1997) mapped the
+human GUCA2B gene to chromosome 1p34-p33.
+
+Whitaker et al. (1997) demonstrated that the mouse Guca2b gene is
+tightly linked to the guanylin gene on mouse chromosome 4.
+
+GENE FUNCTION
+
+Kita et al. (1994) found that synthetic uroguanylin increased cGMP
+levels in T84 cells, competed for receptors with (125)I-labeled ST, and
+stimulated chloride secretion. Kita et al. (1994) discussed the
+bioactivity of human uroguanylin in light of their previous
+investigation of uroguanylin from opossum urine (Hamra et al., 1993).
+
+Whitaker et al. (1997) noted that uroguanylin is an endogenous ligand of
+the intestinal receptor guanylate cyclase-C and stimulates an increase
+in cGMP, inducing chloride secretion via the cystic fibrosis
+transmembrane conductance regulator (CFTR; 602421). Although their
+structural homologies and similar bioactivities suggest that guanylin
+and uroguanylin are members of the same peptide family, their tissue
+gene expression patterns differ, indicating that they may have different
+roles in the regulation of epithelial functions.
+
+Kinoshita et al. (1997) found significantly higher urinary excretion of
+uroguanylin in persons on a high-salt rather than a low-salt diet. In
+addition, their concentration of plasma uroguanylin increased with
+increasing serum creatinine, and the 10-kD precursor of uroguanylin
+increased as the severity of renal impairment increased. The findings
+suggested that uroguanylin is involved in the regulation of electrolyte
+homeostasis by the kidney.
+
+In a review of the functions of uroguanylin, Forte et al. (1996) noted
+that uroguanylin receptors are present on the luminal surface of
+epithelial cells lining the intestinal tract and renal proximal tubules,
+leading to salt and water secretion into the intestinal lumen as well as
+the renal tubules. Uroguanylin mRNA is also expressed in both atria and
+ventricles of the heart. Since uroguanylin circulates in the plasma of
+normal individuals, it may function as an intestinal natriuretic hormone
+and its secretion may be influenced by dietary levels of salt.
+
+EVOLUTION
+
+Whitaker et al. (1997) speculated that uroguanylin and guanylin may
+represent gene duplications that have evolved to allow overlapping and
+complementary patterns of expression in the intestine.
+
+ANIMAL MODEL
+
+Lorenz et al. (2003) found that transgenic uroguanylin knockout mice had
+in an impaired ability to excrete an enteral load of NaCl, primarily due
+to an inappropriate increase in renal Na+ absorption. They also had an
+increase in mean arterial blood pressure that was independent of the
+level of dietary salt intake. The authors concluded that uroguanylin
+plays a role in an enteric-renal communication axis in the maintenance
+of salt homeostasis in vivo.
+
+REFERENCE 1. Forte, L. R.; Fan, X.; Hamra, F. K.: Salt and water homeostasis:
+uroguanylin is a circulating peptide hormone with natriuretic activity. Am.
+J. Kidney Dis. 28: 296-304, 1996.
+
+2. Hamra, F. K.; Forte, L. R.; Eber, S. L.; Pidhorodeckyj, N. V.;
+Krause, W. J.; Freeman, R. H.; Chin, D. T.; Tompkins, J. A.; Fok,
+K. F.; Smith, C. E.; Duffin, K. L.; Siegel, N. R.; Currie, M. G.:
+Uroguanylin: structure and activity of a second endogenous peptide
+that stimulates intestinal guanylate cyclase. Proc. Nat. Acad. Sci. 90:
+10464-10468, 1993.
+
+3. Hess, R.; Kuhn, M.; Schulz-Knappe, P.; Raida, M.; Fuchs, M.; Klodt,
+J.; Adermann, K.; Kaever, V.; Cetin, Y.; Forssmann, W.-G.: GCAP-II:
+isolation and characterization of the circulating form of human uroguanylin. FEBS
+Lett. 374: 34-38, 1995.
+
+4. Kinoshita, H.; Fujimoto, S.; Nakazato, M.; Yokota, N.; Date, Y.;
+Yamaguchi, H.; Hisanaga, S; Eto, T.: Urine and plasma levels of uroguanylin
+and its molecular forms in renal diseases. Kidney Int. 52: 1028-1034,
+1997.
+
+5. Kita, T.; Smith, C. E.; Fok, K. F.; Duffin, K. L.; Moore, W. M.;
+Karabatsos, P. J.; Kachur, J. F.; Hamra, F. K.; Pidhorodeckyj, N.
+V.; Forte, L. R.; Currie, M. G.: Characterization of human uroguanylin:
+a member of the guanylin peptide family. Am. J. Physiol. 266: F342-F348,
+1994.
+
+6. Lorenz, J. N.; Nieman, M.; Sabo, J.; Sanford, L. P.; Hawkins, J.
+A.; Elitsur, N.; Gawenis, L. R.; Clarke, L. L.; Cohen, M. B.: Uroguanylin
+knockout mice have increased blood pressure and impaired natriuretic
+response to enteral NaCl load. J. Clin. Invest. 112: 1244-1254,
+2003.
+
+7. Miyazato, M.; Nakazato, M.; Matsukura, S.; Kangawa, K.; Matsuo,
+H.: Genomic structure and chromosomal localization of human uroguanylin. Genomics 43:
+359-365, 1997.
+
+8. Whitaker, T. L.; Steinbrecher, K. A.; Copeland, N. G.; Gilbert,
+D. J.; Jenkins, N. A.; Cohen, M. B.: The uroguanylin gene (Guca1b)
+is linked to guanylin (Guca2) on mouse chromosome 4. Genomics 45:
+348-354, 1997. Note: Erratum: Genomics 66: 122 only, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - reorganized: 11/13/2003
+Cassandra L. Kniffin - updated: 11/10/2003
+Victor A. McKusick - updated: 12/8/1997
+Victor A. McKusick - updated: 10/8/1997
+
+CREATED Mark H. Paalman: 5/21/1996
+
+EDITED terry: 06/06/2012
+carol: 11/13/2003
+ckniffin: 11/10/2003
+mark: 12/11/1997
+terry: 12/8/1997
+mark: 10/15/1997
+terry: 10/8/1997
+mark: 5/21/1996
+terry: 5/21/1996
+

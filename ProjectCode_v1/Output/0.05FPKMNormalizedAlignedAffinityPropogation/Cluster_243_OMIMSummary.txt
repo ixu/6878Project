@@ -1,0 +1,3227 @@
+142709	TITLE *142709 HISTONE GENE CLUSTER 1, H1 HISTONE FAMILY, MEMBER A; HIST1H1A
+;;HISTONE GENE CLUSTER 1, H1A;;
+HIST1 CLUSTER, H1A;;
+H1A;;
+H1.1;;
+H1 HISTONE FAMILY, MEMBER 1, FORMERLY; H1F1, FORMERLY
+DESCRIPTION 
+DESCRIPTION
+
+The nucleosome is the fundamental repeat unit of eukaryotic chromatin.
+The nucleosome core particle consists of an octamer formed by 2 each of
+the core histones H2A (see 613499), H2B (see 609904), H3 (see 602810),
+and H4 (see 602822), around which DNA is wrapped. A fifth histone, the
+linker H1 histone, completes the nucleosome by interacting with DNA
+entering and exiting the nucleosome core particle. H1 histones, such as
+HIST1H1A, are involved in the formation of higher order chromatin
+structures, and they modulate the accessibility of regulatory proteins,
+chromatin-remodeling factors, and histone modification enzymes to their
+target sites (reviewed by Izzo et al. (2008) and Happel and Doenecke
+(2009)).
+
+For additional background information on histones, histone gene
+clusters, and the H1 histone family, see GENE FAMILY below.
+
+GENE FAMILY
+
+The H1 histone family is the most divergent class of histones, with at
+least 11 different H1 histones present in humans. H1 histones have a
+tripartite structure that consists of a short N-terminal domain enriched
+in basic amino acids, a central conserved globular domain involved in
+DNA binding, and a long C-terminal tail enriched in lysine, serine, and
+proline. Like other histones, H1 histones can be subgrouped according to
+their temporal expression. Replication-dependent histones, such as H1.1
+through H1.5 (HIST1HB; 142711) and H1T (HIST1H1T; 142712), are mainly
+expressed during S phase. In contrast, replication-independent histones,
+or replacement histones, such as H1.0 (H1F0; 142708), H1T2 (H1FNT), H1OO
+(H1FOO), H1X (H1FX; 602785), and HILS1 (608101), are expressed
+throughout the cell cycle. All replication-dependent H1 histone genes,
+as well as other core histone genes, are located within histone gene
+cluster-1 (HIST1) on chromosome 6p22-p21. Two other histone gene
+clusters, HIST2 and HIST3, are located on chromosomes 1q21 and 1q42,
+respectively, but they are devoid of H1 genes. In mouse, the Hist1,
+Hist2, and Hist3 gene clusters are located on chromosomes 13A2-A3,
+3F1-F2, and 11B2, respectively. All replication-dependent histone genes
+are intronless, and they encode mRNAs that lack a poly(A) tail, ending
+instead in a conserved stem-loop sequence. Unlike replication-dependent
+histone genes, replication-independent histone genes are solitary genes
+that are located on chromosomes apart from any other H1 or core histone
+genes. Some replication-independent histone genes contain introns and
+encode mRNAs with poly(A) tails. H1 histones, as well as core histones,
+can also be subgrouped based on their spatial expression. Somatic H1
+histones (H1.1 through H1.5 and H1X) are expressed ubiquitously, whereas
+other H1 histones are expressed mainly in terminally differentiated
+cells (H1.0) or in germ cells (H1T, H1T2, H1OO, and HILS1) (summary by
+Marzluff et al. (2002), Izzo et al. (2008), and Happel and Doenecke
+(2009)).
+
+CLONING
+
+Eick et al. (1989) cloned the genes encoding H1.1 and H1.2 (HIST1H1C;
+142710).
+
+Using Northern blot analysis, Burfeind et al. (1994) found that the H1.1
+gene was expressed in testis and thymus, but not in other human tissues.
+In testis, it was restricted to early round spermatids that belonged to
+the fraction of postmeiotic sperm cells. Burfeind et al. (1994) found
+that the H1.1 gene is highly conserved in higher primates, whereas no
+cross-hybridization could be detected with DNA from other mammalian
+species, such as mouse, rat, hamster, and bull.
+
+GENE FUNCTION
+
+Histone H1 functions in the compaction of chromatin into higher order
+structures derived from the repeating 'beads-on-a-string' nucleosome
+polymer. Modulation of H1 binding activity is thought to be an important
+step in the potentiation/depotentiation of chromatin structure for
+transcription. It is generally accepted that H1 binds less tightly than
+other histones to DNA in chromatin and can readily exchange in living
+cells. Fusion proteins of histone H1 and green fluorescent protein (GFP)
+have been shown to associate with chromatin in an apparently identical
+fashion to native histone H1, providing a means by which to study
+histone H1-chromatin interactions in living cells. Lever et al. (2000)
+used human cells with a stably integrated H1.1-GFP fusion protein to
+monitor histone H1 movement directly by fluorescence recovery after
+photobleaching in living cells. They found that exchange is rapid in
+both condensed and decondensed chromatin, occurs throughout the cell
+cycle, and does not require fiber-fiber interactions. Treatment with
+drugs that alter protein phosphorylation significantly reduced exchange
+rates. Lever et al. (2000) concluded that histone H1 exchange in vivo is
+rapid, occurs through a soluble intermediate, and is modulated by the
+phosphorylation of a protein or proteins as yet to be determined.
+
+Using techniques similar to those of Lever et al. (2000), Misteli et al.
+(2000) showed that almost the entire population of H1-GFP is bound to
+chromatin at any 1 time; however, H1-GFP is exchanged continuously
+between chromatin regions. The residence time of H1-GFP on chromatin
+between exchange events is several minutes in both euchromatin and
+heterochromatin. In addition to the mobile fraction, Misteli et al.
+(2000) detected a kinetically distinct, less mobile fraction. After
+hyperacetylation of core histones, the residence time of H1-GFP was
+reduced, suggesting a higher rate of exchange upon chromatin remodeling.
+Misteli et al. (2000) concluded that their results support a model in
+which linker histones bind dynamically to chromatin in a stop-and-go
+mode.
+
+Hizume et al. (2005) noted that addition of histone H1 to reconstituted
+nucleosomes represses transcriptional activity and prevents sliding of
+core histones along DNA. They used nucleosome core particles and histone
+H1 purified from HeLa cells for in vitro nucleosome reconstitution
+assays. Under optimal salt concentrations, nucleosome core particles
+alone formed beads-on-a-string chromatin fibers on plasmid DNA. However,
+addition of purified histone H1 induced higher order folding in a
+concentration-dependent manner. Hizume et al. (2005) proposed a model of
+chromatin fiber formation where fiber compaction is dependent on both
+the local salt environment and histone H1 availability.
+
+Krishnakumar et al. (2008) used genomic and gene-specific approaches to
+show that 2 factors, histone H1 and PARP1 (173870), exhibit a reciprocal
+pattern of chromatin binding at many RNA polymerase II-transcribed
+promoters. PARP1 was enriched and H1 was depleted at these promoters.
+This pattern of binding was associated with actively transcribed genes.
+Furthermore, Krishnakumar et al. (2008) showed that PARP1 acts to
+exclude H1 from a subset of PARP1-stimulated promoters, suggesting a
+functional interplay between PARP1 and H1 at the level of nucleosome
+binding. Krishnakumar et al. (2008) concluded that although H1 and PARP1
+have similar nucleosome-binding properties and effects on chromatin
+structure in vitro, they have distinct roles in determining gene
+expression in vivo.
+
+- Reviews
+
+Doenecke et al. (1994) reviewed the organization and expression of H1
+histone and H1 replacement histone genes.
+
+Izzo et al. (2008) reviewed the H1 histone family and discussed specific
+roles of H1 proteins that challenged the concept of H1 being a mere
+structural component of chromatin and a general repressor of
+transcription.
+
+Happel and Doenecke (2009) reviewed the structural and functional
+aspects of H1 histones, with an emphasis on the structural role and
+impact of H1 histones on the functional state of chromatin.
+
+MAPPING
+
+By PCR analysis of chromosomal DNA from a panel of human/rodent somatic
+cell hybrids, Albig et al. (1993) found that 5 human H1 histone genes,
+H1.1 through H1.5, and the gene encoding the testis-specific H1T subtype
+are located on chromosome 6. They found that the H1.0 subtype, which is
+not neighbored by core histone genes, maps to chromosome 22. By
+fluorescence in situ hybridization with human metaphase chromosomes and
+PCR analysis of somatic cell hybrid DNAs carrying only fragments of
+chromosome 6, they demonstrated that the histone genes are clustered in
+the 6p22.2-p21.1 region.
+
+By PCR analysis of human/rodent cell hybrid DNAs, Burfeind et al. (1994)
+confirmed the localization of histone H1.1 to chromosome 6 and by
+radioactive in situ hybridization regionalized the locus to 6p21.3.
+
+Through detailed localization of the H1 histone genes with radiation
+hybrids and long range pulsed field gel electrophoresis, Volz et al.
+(1997) found that the histone genes on the short arm of chromosome 6 are
+organized into 2 clusters. The major cluster at 6p22-p21.3 contains 32
+histone genes, including the H1 genes H1.1, H1.2, H1.3 (HIST1H1D;
+142210), H1.4 (HIST1H1E; 142220), and H1T, numerous core histone genes,
+and the HFE gene (613609).
+
+By analysis of a YAC contig, Albig et al. (1997) mapped the H1.1 gene to
+chromosome 6p21.3 within a cluster of 35 histone genes, including H1.1
+to H1.4 and H1T. They found that the H1.5 gene is located in a second
+cluster on 6p about 2 Mb centromeric of the major cluster. In a contig
+of the histone gene-containing cosmids from this second cluster on
+chromosome 6p, Albig and Doenecke (1997) found 1 H1 gene (H1.5), 5 H2A
+genes, 4 H2B genes, 1 H2B pseudogene, 3 H3 genes, 3 H4 genes, and 1 H4
+pseudogene. The cluster extends about 80 kb with a nonordered
+arrangement of the histone genes. The dinucleotide repeat polymorphic
+marker D6S105 was localized at the telomeric end of this histone gene
+cluster. Almost all human histone genes isolated to that time had been
+localized within the 2 clusters on 6p or in a small group of histone
+genes on chromosome 1.
+
+Albig and Doenecke (1997) reviewed the organization of histone genes in
+mouse. Both the human and mouse histone gene clusters are found on 2
+chromosomes and have nearly the same composition and number of genes.
+The 2 histone gene clusters on human chromosome 6p correspond to 2
+clusters located on mouse chromosome 13. The relative localization of
+the histone H1 and H3 genes appears to be highly conserved. The 2
+clusters are 0.6 Mb apart in mouse and 2 Mb apart in human. A third
+cluster of mouse histone genes on chromosome 3 corresponds to the group
+of human genes located on chromosome 1. The authors stated that, to that
+time, a total of 55 clustered histone genes had been identified in
+mouse. Albig and Doenecke (1997) gave a pictorial representation of the
+mapping of the other histone genes as well as a tabular summary of human
+histone gene sequences deposited in the EMBL nucleotide sequence
+database.
+
+By genomic sequence analysis, Marzluff et al. (2002) determined that the
+HIST1 cluster on chromosome 6p22-p21 contains 55 histone genes,
+including all 6 replication-dependent H1 genes. The HIST1 cluster spans
+over 2 Mb and includes 2 large gaps (over 250 kb each) where there are
+no histone genes, but many other genes. The organization of histone
+genes in the mouse Hist1 cluster on chromosome 13A2-A3 is essentially
+identical to that in human HIST1. The HIST2 cluster on chromosome 1q21
+contains 6 histone genes, and the HIST3 cluster on chromosome 1q42
+contains 3 histone genes. Hist2 and Hist3 are located on mouse
+chromosomes 3F1-F2 and 11B2, respectively.
+
+NOMENCLATURE
+
+Marzluff et al. (2002) provided a nomenclature for replication-dependent
+histone genes located within the HIST1, HIST2, and HIST3 clusters. The
+symbols for these genes all begin with HIST1, HIST2, or HIST3 according
+to which cluster they are located in. The H1 genes, all of which are
+located within HIST1, were named according to their mouse homologs.
+Thus, HIST1H1A is homologous to mouse H1a, HIST1H1B is homologous to
+mouse H1b, and so on. In contrast, the H2A, H2B, H3, and H4 genes were
+named systematically according to their location within the HIST1,
+HIST2, and HIST3 clusters. For example, HIST1H4A (602822) is the most
+telomeric H4 gene within HIST1, and HIST1H4L (602831) is the most
+centromeric.
+
+ADDITIONAL REFERENCES Hardin and Thomas (1983)
+REFERENCE 1. Albig, W.; Doenecke, D.: The human histone gene cluster at the
+D6S105 locus. Hum. Genet. 101: 284-294, 1997.
+
+2. Albig, W.; Drabent, B.; Kunz, J.; Kalff-Suske, M.; Grzeschik, K.-H.;
+Doenecke, D.: All known human H1 histone genes except the H1(0) gene
+are clustered on chromosome 6. Genomics 16: 649-654, 1993.
+
+3. Albig, W.; Kioschis, P.; Poustka, A.; Meergans, K.; Doenecke, D.
+: Human histone gene organization: nonregular arrangement within a
+large cluster. Genomics 40: 314-322, 1997.
+
+4. Burfeind, P.; Hoyer-Fender, S.; Doenecke, D.; Hochhuth, C.; Engel,
+W.: Expression and chromosomal mapping of the gene encoding the human
+histone H1.1. Hum. Genet. 94: 633-639, 1994.
+
+5. Doenecke, D.; Albig, W.; Bouterfa, H.; Drabent, B.: Organization
+and expression of H1 histone and H1 replacement histone genes. J.
+Cell. Biochem. 54: 423-431, 1994.
+
+6. Eick, S.; Nicolai, M.; Mumberg, D.; Doenecke, D.: Human H1 histones:
+conserved and varied sequence elements in two H1 subtype genes. Europ.
+J. Cell Biol. 49: 110-115, 1989.
+
+7. Happel, N.; Doenecke, D.: Histone H1 and its isoforms: contribution
+to chromatin structure and function. Gene 431: 1-12, 2009.
+
+8. Hardin, J. A.; Thomas, J. O.: Antibodies to histones in systemic
+lupus erythematosus: localization of prominent autoantigens on histones
+H1 and H2B. Proc. Nat. Acad. Sci. 80: 7410-7414, 1983.
+
+9. Hizume, K.; Yoshimura, S. H.; Takeyasu, K.: Linker histone H1
+per se can induce three-dimensional folding of chromatin fiber. Biochemistry 44:
+12978-12989, 2005.
+
+10. Izzo, A.; Kamieniarz, K.; Schneider, R.: The histone H1 family:
+specific members, specific functions? Biol. Chem. 389: 333-343,
+2008.
+
+11. Krishnakumar, R.; Gamble, M. J.; Frizzell, K. M.; Berrocal, J.
+G.; Kininis, M.; Kraus, W. L.: Reciprocal binding of PARP-1 and histone
+H1 at promoters specifies transcriptional outcomes. Science 319:
+819-821, 2008.
+
+12. Lever, M. A.; Th'ng, J. P. H.; Sun, X.; Hendzel, M. J.: Rapid
+exchange of histone H1.1 on chromatin in living human cells. Nature 408:
+873-876, 2000.
+
+13. Marzluff, W. F.; Gongidi, P.; Woods, K. R.; Jin, J.; Maltais,
+L. J.: The human and mouse replication-dependent histone genes. Genomics 80:
+487-498, 2002.
+
+14. Misteli, T.; Gunjan, A.; Hock, R.; Bustin, M.; Brown, D. T.:
+Dynamic binding of histone H1 to chromatin in living cells. Nature 408:
+877-881, 2000.
+
+15. Volz, A.; Albig, W.; Doenecke, D.; Ziegler, A.: Physical mapping
+of the region around the large histone gene cluster on human chromosome
+6p22.2. DNA Seq. 8: 173-180, 1997.
+
+CONTRIBUTORS Matthew B. Gross - updated: 6/23/2010
+Patricia A. Hartz - updated: 5/26/2010
+Ada Hamosh - updated: 12/21/2000
+Rebekah S. Rasooly - updated: 7/8/1998
+
+CREATED Victor A. McKusick: 6/28/1993
+
+EDITED mgross: 02/08/2013
+mgross: 1/11/2013
+carol: 10/21/2010
+mgross: 6/24/2010
+mgross: 6/23/2010
+mgross: 5/26/2010
+tkritzer: 3/31/2003
+carol: 12/23/2000
+terry: 12/21/2000
+alopez: 8/26/1998
+alopez: 7/14/1998
+alopez: 7/8/1998
+alopez: 2/11/1998
+mark: 9/22/1996
+carol: 1/12/1995
+carol: 6/28/1993
+
+607402	TITLE *607402 INTERFERON, LAMBDA-3; IFNL3
+;;INTERLEUKIN 28B; IL28B
+DESCRIPTION 
+DESCRIPTION
+
+IL28B is a class II cytokine receptor (e.g., IFNAR1; 107450) ligand
+related to type I interferons (e.g., IFNA2; 147562). These ligands play
+a critical role in response to microbial challenge and activate the JAK
+(e.g., JAK1; 147795)/STAT (e.g., STAT1; 600555) signaling system
+(Sheppard et al., 2003).
+
+CLONING
+
+By genomic sequence analysis, Sheppard et al. (2003) identified genes
+encoding IL28A (607401), IL28B, and IL29 (607403). The deduced 200-amino
+acid IL28B protein is 96% identical to IL28A and 81% identical to IL29,
+but it shares only low homology with IL10 (124092), IFNA2, and IL22
+(605330). IL28B has a conserved cysteine pattern and amphipathic profile
+similar to other helical cytokine family members.
+
+GENE FUNCTION
+
+By RT-PCR analysis, Sheppard et al. (2003) determined that treatment of
+mononuclear cells and other cell types with double-stranded RNA or viral
+infection induced transcription of IL28 and IL29. Addition of IL28,
+IL29, or IFNA2 also induced protection from virus challenge infection,
+but IL28 and IL29 did not display antiproliferative activity. Luciferase
+reporter analysis indicated that IL28 and IL29 signal through
+IFN-stimulated response elements. However, IL28 and IL29 did not bind to
+IFNAR1, but instead bound to and signaled through a novel receptor,
+IL28RA (607404), partnered with IL10RB (123889). Sheppard et al. (2003)
+proposed that IL28 and IL29 represent an evolutionary link between type
+I IFNs and the IL10 family and may serve as an alternative therapeutic
+choice to type I IFNs.
+
+GENE STRUCTURE
+
+By genomic sequence analysis, Sheppard et al. (2003) determined that the
+IL28B gene contains 6 exons, in contrast to the related type I IFNs,
+which are encoded by a single exon. Analysis of 5-prime regulatory
+regions suggested the presence of DNA-binding elements involved in type
+I IFN regulation.
+
+MAPPING
+
+By genomic sequence analysis, Sheppard et al. (2003) mapped the IL28A,
+IL28B, and IL29 genes to chromosome 19q13.13, a localization distinct
+from that of the related type I IFNs, which are colocalized on
+chromosome 9.
+
+MOLECULAR GENETICS
+
+- Association with Hepatitis C Virus Treatment Response
+
+Chronic infection with hepatitis C virus (HCV; see 609532) affects 170
+million people worldwide and is the leading cause of cirrhosis in North
+America. The recommended treatment for chronic HCV infection involves a
+48-week course of pegylated interferon-alpha-2b or -alpha-2a combined
+with ribavirin (RBV). However, many patients are not cured by treatment,
+and patients of European ancestry have a significantly higher
+probability of being cured than patients of African ancestry. Ge et al.
+(2009) performed a genomewide association study on more than 1,600
+individuals chronically infected with HCV who were participating in a
+clinical treatment trial. They identified a SNP 3 kb upstream of the
+IL28B gene, dbSNP rs12979860, that was strongly associated with
+sustained virologic response (SVR), defined as the absence of detectable
+virus at the end of follow-up evaluation. The CC genotype of dbSNP
+rs12979860 was associated with an approximately 2-fold greater rate of
+SVR compared with the TT genotype, both among patients of European
+ancestry (P of 1.06 x 10(-25)) and African Americans (P of 2.06 x
+10(-3)). Because the CC genotype was substantially more frequent in
+European than African populations, Ge et al. (2009) estimated that dbSNP
+rs12979860 could explain approximately half of the difference in SVR
+between African Americans and patients of European ancestry. They
+sequenced the IL28B gene in 96 individuals and identified 2 variants
+that were highly associated with dbSNP rs12979860: a G-C SNP 37 bp
+upstream of the translation initiation codon (dbSNP rs28416183), and a
+nonsynonymous coding SNP that produces a lys70-to-arg (K70R)
+substitution (dbSNP rs8103142). Ge et al. (2009) could not resolve
+which, if any, of these 3 SNPs was uniquely responsible for the
+association with SVR and suggested that functional studies were needed.
+
+To address the role of dbSNP rs12979860 in HCV clearance, Thomas et al.
+(2009) genotyped 1,008 people from 6 independent HCV cohorts. The
+frequency of the C allele was greater in individuals of European than
+those of African ancestry in both HCV clearance (P of 3 x 10(-10)) and
+persistence (P of 1 x 10(-21)) groups. However, the frequency of the C
+allele versus the T allele was much greater in the clearance group in
+both ethnic groups, with frequencies of 80.3% versus 66.7%,
+respectively, in individuals of European ancestry (P of 7 x 10(-8)) and
+56.2% versus 37%, respectively, in individuals of African ancestry (P of
+1 x 10(-5)). Patients with the CC genotype were 3 times more likely to
+clear HCV relative to patients with CT and TT genotypes combined (OR =
+0.33, P = 10(-12) for combined ethnic groups), and the protective effect
+of the C allele seemed to be recessive. The protective effect of the C
+allele was independent of human immunodeficiency virus and hepatitis B
+virus surface antigen status, route of HCV acquisition, and other known
+host genetic factors. Genotyping of populations worldwide showed that
+the C allele was nearly fixed throughout east Asia, had an intermediate
+frequency in Europe, and was a minor allele in Africa. The frequencies
+in Central and South America were also intermediate, suggesting
+selective pressure since migration from Asia. Thomas et al. (2009) noted
+that dbSNP rs12979860 is in strong linkage disequilibrium with a
+nonsynonymous coding SNP, dbSNP rs8103142, that could alter the function
+of IL28B and explain the association, but that tests for functional
+differences were needed to define the biologic mechanism. Thomas et al.
+(2009) concluded that dbSNP rs12979860 is associated with both HCV
+treatment response and with natural clearance of HCV.
+
+To identify genetic variants associated with HCV treatment response,
+Suppiah et al. (2009) conducted a genomewide association study of SVR to
+PEG-IFN-alpha/RBV combination therapy in 293 Australian individuals with
+genotype 1 chronic hepatitis C, with validation in an independent
+replication cohort consisting of 555 individuals. They reported an
+association to SVR with the SNP dbSNP rs8099917 (combined P = 9.25 x
+10(-9), OR = 1.98, 95% CI = 1.57-2.52), within the gene region encoding
+IL28B. IL28B contributes to viral resistance and is known to be
+upregulated by interferons and by RNA virus infection. Suppiah et al.
+(2009) concluded that their data suggested that host genetics may be
+useful for the prediction of drug response, and also supported the
+investigation of the role of IL28B in the treatment of HCV and in other
+diseases treated with IFNA.
+
+Tanaka et al. (2009) reported a genomewide association study to null
+virologic response (NVR) in the treatment of patients with hepatitis C
+virus genotype 1 within a Japanese population. Tanaka et al. (2009)
+found 2 SNPs near the gene IL28B on chromosome 19 to be strongly
+associated with NVR (dbSNP rs12980275, P = 1.93 x 10(-13), and dbSNP
+rs8099917, P = 3.11 x 10(-15)). Tanaka et al. (2009) replicated these
+associations in an independent cohort (combined P values, 2.84 x 10(-27)
+(OR = 17.7; 95% CI = 10.0-31.3) and 2.68 x 10(-32) (OR = 27.1; 95% CI =
+14.6-50.3), respectively). These SNPs were also associated with SVR
+(dbSNP rs12980275, P = 3.99 x 10(-24), and dbSNP rs8099917, P = 1.11 x
+10(-27)). In further fine mapping of the region, 7 SNPs located in the
+IL28B region showed the most significant associations (P = 5.52 x
+10(-28) to 2.68 x 10(-32); OR = 22.3-27.1). Real-time quantitative PCR
+assays in peripheral blood mononuclear cells showed lower IL28B
+expression levels in individuals carrying the minor alleles (P = 0.015).
+
+REFERENCE 1. Ge, D.; Fellay, J.; Thompson, A. J.; Simon, J. S.; Shianna, K.
+V.; Urban, T. J.; Heinzen, E. L.; Qiu, P.; Bertelsen, A. H.; Muir,
+A. J.; Sulkowski, M.; McHutchison, J. G.; Goldstein, D. B.: Genetic
+variation in IL28B predicts hepatitis C treatment-induced viral clearance. Nature 461:
+399-401, 2009.
+
+2. Sheppard, P.; Kindsvogel, W.; Xu, W.; Henderson, K.; Schlutsmeyer,
+S.; Whitmore, T. E.; Kuestner, R.; Garrigues, U.; Birks, C.; Roraback,
+J.; Ostrander, C.; Dong, D.; and 14 others: IL-28, IL-29 and their
+class II cytokine receptor IL-28R. Nature Immun. 4: 63-68, 2003.
+
+3. Suppiah, V.; Moldovan, M.; Ahlenstiel, G.; Berg, T.; Weltman, M.;
+Abate, M. L.; Bassendine, M.; Spengler, U.; Dore, G. J.; Powell, E.;
+Riordan, S.; Sheridan, D.; Smedile, A.; Fragomeli, V.; Muller, T.;
+Bahlo, M.; Stewart, G. J.; Booth, D. R.; George, J.: IL28B is associated
+with response to chronic hepatitis C interferon-alpha and ribavirin
+therapy. Nature Genet. 41: 1100-1104, 2009.
+
+4. Tanaka, Y.; Nishida, N.; Sugiyama, M.; Kurosaki, M.; Matsuura,
+K.; Sakamoto, N.; Nakagawa, M.; Korenaga, M.; Hino, K.; Hige, S.;
+Ito, Y.; Mita, E.; and 17 others: Genome-wide association of IL28B
+with response to pegylated interferon-alpha and ribavirin therapy
+for chronic hepatitis C. Nature Genet. 41: 1105-1109, 2009.
+
+5. Thomas, D. L.; Thio, C. L.; Martin, M. P.; Qi, Y.; Ge, D.; O'hUigin,
+C.; Kidd, J.; Kidd, K.; Khakoo, S. I.; Alexander, G.; Goedert, J.
+J.; Kirk, G. D.; Donfield, S. M.; Rosen, H. R.; Tobler, L. H.; Busch,
+M. P.; McHutchison, J. G.; Goldstein, D. B.; Carrington, M.: Genetic
+variation in IL28B and spontaneous clearance of hepatitis C virus. Nature 461:
+798-801, 2009.
+
+CONTRIBUTORS Ada Hamosh - updated: 1/12/2010
+Paul J. Converse - updated: 10/15/2009
+
+CREATED Paul J. Converse: 12/5/2002
+
+EDITED mgross: 02/12/2013
+alopez: 2/22/2010
+alopez: 1/14/2010
+terry: 1/12/2010
+mgross: 10/15/2009
+mgross: 1/9/2003
+alopez: 1/9/2003
+mgross: 12/5/2002
+
+608726	TITLE *608726 PHOSPHATASE AND ACTIN REGULATOR 4; PHACTR4
+DESCRIPTION 
+CLONING
+
+By searching databases for sequences similar to rat Phactr1 (608723),
+Allen et al. (2004) identified a family of 4 PHACTR genes in mouse and
+human, including PHACTR4. The PHACTR proteins share highest similarity
+in sequences surrounding the N- and C-terminal RPEL repeats and in the
+C-terminal actin- and protein phosphatase-1 (PP1; see 176875)-binding
+domains. In situ hybridization of rat brain showed Phactr4 highly
+expressed in periventricular regions, cerebellum, and hippocampus.
+
+GENE FUNCTION
+
+Allen et al. (2004) determined that mouse Phactr4 coprecipitated with
+both PP1 and actin following expression in human embryonic kidney cells.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the PHACTR4
+gene to chromosome 1 (TMAP SHGC-74491).
+
+ANIMAL MODEL
+
+Using N-ethyl-N-nitrosourea mutagenesis screens, Kim et al. (2007)
+isolated the 'humpty dumpty' (humdy) mutant mouse line, which showed
+failure to close the neural tube and optic fissure, causing exencephaly
+and retinal coloboma. Homozygous humdy embryos exhibited complete
+exencephaly, and most died by embryonic day 14.5, although a few
+survived to birth and died shortly thereafter. About 8% of heterozygous
+embryos displayed a midbrain-specific exencephaly, indicating an
+incompletely penetrant dominant effect. Humdy was due to a missense
+mutation in the Pp1-binding domain of Phactr4 that specifically
+disrupted binding of Pp1 to Phactr4, leading to increased inhibitory
+phosphorylation of thr320 on Pp1 in the ventral neural tube and eye and
+disruption of Pp1 activity toward its target, Rb (RB1; 614041).
+Consequently, Rb became hyperphosphorylated and inactivated, leading to
+derepression of E2f (see E2F1; 189971) target genes. Loss of Phactr4
+function resulted in shortening of the cell cycle, an increase in
+proliferating neural progenitors, and ectopic cell division and/or cell
+cycle exit defects in differentiating cells of the humdy neural tube and
+retina. Loss of a single E2f1 allele rescued the exencephaly, coloboma,
+and proliferation/differentiation defects of humdy mice, indicating that
+the critical target of Phactr4 is the cell cycle regulator E2f1.
+
+REFERENCE 1. Allen, P. B.; Greenfield, A. T.; Svenningsson, P.; Haspeslagh,
+D. C.; Greengard, P.: Phactrs 1-4: a family of protein phosphatase
+1 and actin regulatory proteins. Proc. Nat. Acad. Sci. 101: 7187-7192,
+2004.
+
+2. Kim, T.-H.; Goodman, J.; Anderson, K. V.; Niswander, L.: Phactr4
+regulates neural tube and optic fissure closure by controlling PP1-,
+Rb-, and E2F1-regulated cell-cycle progression. Dev. Cell 13: 87-102,
+2007.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 8/23/2007
+
+CREATED Patricia A. Hartz: 6/10/2004
+
+EDITED alopez: 06/17/2011
+mgross: 8/31/2007
+terry: 8/23/2007
+mgross: 6/10/2004
+
+602635	TITLE *602635 DEAF1, DROSOPHILA, HOMOLOG OF; DEAF1
+;;SUPPRESSIN; SPN;;
+ZINC FINGER MYND DOMAIN-CONTAINING PROTEIN 5; ZMYND5
+DESCRIPTION 
+CLONING
+
+Suppressin is a 63-kD inhibitor of cell proliferation. LeBoeuf et al.
+(1998) cloned the cDNA encoding rat suppressin. The deduced amino acid
+sequence contains 2 domains with significant homology to a transcription
+factor in Drosophila called 'deformed epidermal autoregulatory factor-1'
+(DEAF1). By RT-PCR, Le Boeuf et al. (1998) found that suppressin was
+expressed in all rat tissues tested.
+
+LeBoeuf et al. (1998) also cloned the human suppressin cDNA sequence,
+(GenBank GENBANK AF007165), which encodes a predicted 497-amino acid
+polypeptide.
+
+REFERENCE 1. LeBoeuf, R. D.; Ban, E. M. H.; Green, M. M.; Stone, A. S.; Propst,
+S. M.; Blalock, J. E.; Tauber, J. D.: Molecular cloning, sequence
+analysis, expression, and tissue distribution of suppressin, a novel
+suppressor of cell cycle entry. J. Biol. Chem. 273: 361-368, 1998.
+
+CREATED Jennifer P. Macke: 5/18/1998
+
+EDITED mgross: 05/19/2004
+carol: 6/22/1998
+dholmes: 6/16/1998
+
+194521	TITLE *194521 ZINC FINGER PROTEIN 33A; ZNF33A
+;;ZINC FINGER AND ZAK-ASSOCIATED PROTEIN WITH KRAB DOMAIN; ZZAPK;;
+KIAA0065;;
+ZINC FINGER PROTEIN 11A; ZNF11A;;
+ZNF11;;
+KOX2
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated immature myeloid
+cell line cDNA library, Nomura et al. (1994) cloned ZNF33A, which they
+designated KIAA0065. The transcript has an Alu element in its 3-prime
+UTR. The deduced 848-amino acid protein contains a C2H2-type zinc finger
+domain and shares 93.1% identity with ZNF11B (ZNF33B; 194522) over 374
+amino acids. Northern blot analysis detected ZNF33A expression in all
+tissues examined, with highest expression in skeletal muscle, and lowest
+expression in testis and colon.
+
+Using ZAK (609479) as bait in a yeast 2-hybrid screen of a heart cDNA
+library, followed by screening a placenta cDNA library and 5-prime RACE,
+Yang (2003) cloned ZNF33A, which they designated ZZAPK. The deduced
+810-amino acid protein has a calculated molecular mass of 94.3 kD. ZZAPK
+contains an N-terminal KRAB domain, followed by a 256-amino acid linker
+region and 16 tandemly repeated Kruppel-type zinc fingers at its C
+terminus. Northern blot analysis detected variable expression of a major
+5.5-kb transcript in all tissues examined.
+
+GENE FUNCTION
+
+By immunoprecipitation of cotransfected human embryonic kidney (HEK293)
+cells, Yang (2003) confirmed direct interaction between epitope-tagged
+ZZAPK and ZAK. Mutation analysis indicated that the SAM domain of ZAK
+was required to bind ZZAPK. By coexpression in a rat fibroblast cell
+line, Yang (2003) determined that ZZAPK countered the effect of ZAK on
+G2/M cell cycle arrest. When expressed alone, ZZAPK increased entry of
+cells into S phase. ZZAPK increased expression of cyclin E (CCNE1;
+123837) in rat fibroblasts and HEK293 cells. ZZAPK also increased
+expression of transcription factor E2F (see 189971) and the activity of
+an E2F-dependent reporter gene.
+
+MAPPING
+
+By a combination of in situ chromosomal hybridization and somatic cell
+hybrid analysis, Rousseau-Merck et al. (1992) concluded that there are
+sequences hybridizing to the KOX2 probe at 2 loci, which they called
+ZNF11A (ZNF33A) and ZNF11B (ZNF33B), that map proximal and distal to a
+10q11.2 breakpoint, respectively. They suggested that the 2 ZNF11 loci
+represent related sequences. Rousseau-Merck et al. (1992) suggested that
+this cluster of zinc finger protein genes (ZNF11, ZNF22 (194529), and
+ZNF25 (194528)) is of particular interest since the loci for MEN2A and
+MEN2B map to this region.
+
+Tunnacliffe et al. (1993) identified 2 related zinc finger gene clusters
+mapping to the pericentromeric region of chromosome 10. Cluster A
+contains ZNF11A (ZNF33A) and ZNF37A and maps to chromosome 10p11.2.
+Cluster B contains ZNF11B (ZNF33B) and ZNF37B and maps to chromosome
+10q11.2. Southern blot analysis indicated that the 2 clusters evolved by
+duplication of an ancestral gene cluster before the divergence of the
+human and great ape lineages.
+
+REFERENCE 1. Nomura, N.; Nagase, T.; Miyajima, N.; Sazuka, T.; Tanaka, A.; Sato,
+S.; Seki, N.; Kawarabayasi, Y.; Ishikawa, K.; Tabata, S.: Prediction
+of the coding sequences of unidentified human genes. II. The coding
+sequences of 40 new genes (KIAA0041-KIAA0080) deduced by analysis
+of cDNA clones from human cell line KG-1. DNA Res. 1: 223-229, 1994.
+
+2. Rousseau-Merck, M. F.; Tunnacliffe, A.; Berger, R.; Ponder, B.
+A. J.; Thiesen, H. J.: A cluster of expressed zinc finger protein
+genes in the pericentromeric region of human chromosome 10. Genomics 13:
+845-848, 1992.
+
+3. Tunnacliffe, A.; Liu, L.; Moore, J. K.; Leversha, M. A.; Jackson,
+M. S.; Papi, L.; Ferguson-Smith, M. A.; Thiesen, H.-J.; Ponder, B.
+A. J.: Duplicated KOX zinc finger gene clusters flank the centromere
+of human chromosome 10: evidence for a pericentric inversion during
+primate evolution. Nucleic Acids Res. 21: 1409-1417, 1993.
+
+4. Yang, J.-J.: A novel zinc finger protein, ZZaPK, interacts with
+ZAK and stimulates the ZAK-expressing cells re-entering the cell cycle. Biochem.
+Biophys. Res. Commun. 301: 71-77, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 6/13/2005
+
+CREATED Victor A. McKusick: 7/21/1992
+
+EDITED carol: 03/13/2007
+mgross: 7/19/2005
+terry: 6/13/2005
+dkim: 6/25/1998
+mark: 5/14/1996
+carol: 7/21/1992
+
+603054	TITLE *603054 GREMLIN 1 HOMOLOG, CYSTINE KNOT SUPERFAMILY; GREM1
+;;GREMLIN;;
+CYSTINE KNOT SUPERFAMILY 1, BMP ANTAGONIST 1; CKTSF1B1
+DESCRIPTION 
+CLONING
+
+Using a Xenopus expression-cloning screen, Hsu et al. (1998) isolated
+GREM1, an antagonist of bone morphogenetic protein (BMP; see 112264)
+signaling that is expressed in the neural crest. Gremlin-1 belongs to a
+novel gene family that includes the head-inducing factor cerberus (CER1;
+603777) and the tumor suppressor DAN (600613). Hsu et al. (1998) showed
+that all family members are secreted proteins and that they act as BMP
+antagonists in embryonic explants. They also provided support for the
+model that gremlin, cerberus, and DAN block BMP signaling by binding
+BMPs, preventing them from interacting with their receptors. They
+proposed that gremlin, cerberus, and DAN control diverse processes in
+growth and development by selectively antagonizing the activities of
+different subsets of the transforming growth factor (TGF)-beta ligands.
+By homology searches, Hsu et al. (1998) cloned the human homolog of
+Xenopus gremlin. The human gremlin cDNA encodes a predicted 184-amino
+acid protein.
+
+MAPPING
+
+By somatic cell hybrid and radiation hybrid analyses, Topol et al.
+(2000) mapped the GREM1 gene to human chromosome 15q13-q15.
+
+GENE FUNCTION
+
+Zuniga et al. (1999) reported that the secreted BMP antagonist gremlin
+relays the Sonic hedgehog (SHH; 600725) signal from the polarizing
+region to the apical ectodermal ridge. Mesenchymal gremlin expression is
+lost in limb buds of mouse embryos homozygous for the 'limb deformity'
+(ld) mutation, which disrupts establishment of the Shh/Fgf4 (164980)
+feedback loop. Grafting gremlin-expressing cells into ld mutant limb
+buds rescued Fgf4 expression and restored the Shh/Fgf4 feedback loop.
+Analysis of Shh-null mutant embryos revealed that Shh signaling is
+required for maintenance of gremlin and formin (FMN1; 136535), the gene
+disrupted by the ld mutations. In contrast, formin, gremlin, and Fgf4
+activation were independent of Shh signaling. Zuniga et al. (1999)
+concluded that the study uncovered the cascade by which the SHH signal
+is relayed from the posterior mesenchyme to the apical ectodermal ridge
+and established that formin-dependent activation of the BMP antagonist
+gremlin is sufficient to induce Fgf4 and establish the SHH/Fgf4 feedback
+loop.
+
+Vertebrate limb outgrowth is driven by a positive feedback loop
+involving SHH, gremlin, and FGF4. By overexpressing individual
+components of the loop at a time after these genes are normally
+downregulated in chicken embryos, Scherz et al. (2004) found that Shh no
+longer maintains gremlin in the posterior limb. Shh-expressing cells and
+their descendants cannot express gremlin. The proliferation of these
+descendants forms a barrier separating the Shh signal from
+gremlin-expressing cells, which breaks down the Shh-Fgf4 loop and
+thereby affects limb size and provides a mechanism explaining regulative
+properties of the limb bud.
+
+Developmentally regulated programmed cell death sculpts the limbs and
+other embryonic organs in vertebrates. In chickens and mice, Bmps
+trigger apoptosis of the interdigital mesenchyme, leading to freed
+digits, whereas in ducks, Bmp antagonists inhibit the apoptotic program,
+resulting in webbed feet. Weatherbee et al. (2006) found the bat C.
+perspicillata utilizes a unique combination of high Fgf8 (600483) and
+gremlin expression to maintain interdigit tissue in the forelimb,
+resulting in simultaneously elevated Fgf signaling and inhibited Bmp
+signaling.
+
+Wordinger et al. (2007) studied the effects of altered BMP signaling on
+intraocular pressure (IOP) in primary open angle glaucoma (POAG; see
+137760). They found that the human trabecular meshwork (TM) synthesized
+and secreted BMP4 (112262) as well as expressed the BMP receptor
+subtypes BMPR1 (see 601299) and BMPR2 (600799). TM cells responded to
+exogenous BMP4 by phosphorylating SMAD signaling proteins (see 601595).
+Cultured human TM cells treated with TGFB2 (190220) significantly
+increased fibronectin (FN; 135600) levels, and BMP4 blocked this FN
+induction. There was significant elevation of mRNA and protein levels of
+the BMP antagonist gremlin in glaucomatous TM cells. In addition,
+gremlin was present in human aqueous humor. Gremlin blocked the negative
+effect of BMP4 on TGFB2 induction of FN. Addition of recombinant gremlin
+to the medium of ex vivo perfusion-cultured human eye anterior segments
+caused the glaucoma phenotype of elevated IOP. Wordinger et al. (2007)
+concluded that these results were consistent with the hypothesis that,
+in POAG, elevated expression of gremlin by TM cells inhibited BMP4
+antagonism of TGFB2 and led to increased extracellular matrix deposition
+and elevated IOP.
+
+Limb development is regulated by epithelial-mesenchymal feedback loops
+between SHH and fibroblast growth factor (FGF) signaling involving the
+bone morphogenetic protein antagonist gremlin-1. By combining mouse
+molecular genetics with mathematical modeling, Benazet et al. (2009)
+showed that BMP4 first initiates and SHH then propagates
+epithelial-mesenchymal feedback signaling through differential
+transcriptional regulation of Grem1 to control digit specification. This
+switch occurs by linking a fast BMP4/GREM1 module to the slower
+SHH/GREM1/FGF epithelial-mesenchymal feedback loop. This self-regulatory
+signaling network results in robust regulation of distal limb
+development that is able to compensate for variations by
+interconnectivity among the 3 signaling pathways.
+
+MOLECULAR GENETICS
+
+In affected members of 8 Ashkenazi Jewish families segregating autosomal
+dominant hereditary mixed polyposis syndrome mapping to chromosome
+15q13.3 (HMPS1; 601228), Jaeger et al. (2012) identified heterozygosity
+for an approximately 40-kb duplication centered on chr. 15:30.77 Mb that
+was not found in 188 unselected Ashkenazi controls or in 935 controls
+from the Colorectal Tumour Gene Identification (CORGI) study. PCR
+amplification across the duplication breakpoints mapped it to chr.
+15:30,752,231-30,792,051 (NCBI36), and the change was found to be a
+simple tandem tail-head duplication with insertion of a 30-bp sequence
+of unknown origin that had no homology to known sequences between the
+duplicons. The duplication extended from intron 2 of the SCG5 gene to a
+site just upstream of the GREM1 CpG island; however, only the normal
+SCG5 mRNA species was found, and there were no significant differences
+in SCG5 expression compared to controls. In contrast, markedly increased
+GREM1 transcript levels were detected in the normal epithelium of HMPS
+patients compared to controls, and allele-specific expression analysis
+showed significantly increased expression of the duplicated allele in
+HMPS crypts. In normal colorectal crypts of controls and unaffected
+relatives, GREM1 expression was restricted to intestinal subepithelial
+myofibroblasts (ISEMFs) at the crypt base, whereas in normal colorectal
+crypts of HMPS patients, GREM1 was expressed not only in basal ISEMFs
+but also at very high levels in epithelial cells, predominantly
+colonocytes, with expression extending most of the way up the sides of
+the crypts. Increased GREM1 expression was also seen in HMPS polyps, but
+to a lesser extent than in normal epithelium. Jaeger et al. (2012)
+demonstrated that a 3-kb region within the duplication (chr.
+15:30,779,000-30,782,000, NCBI36) enhanced GREM1 expression 4-fold in
+the SW948 CRC cell line and that the region interacts directly with the
+GREM1 promoter. Increased GREM1 expression was predicted to cause
+reduced BMP (see 112264) pathway activity, a mechanism that also
+underlies tumorigenesis in juvenile polyposis of the large bowel
+(174900).
+
+ANIMAL MODEL
+
+During limb outgrowth, signaling by BMPs must be moderated to maintain
+the signaling loop between the zone of polarizing activity (ZPA) and the
+apical ectodermal ridge (AER). Gremlin, an extracellular BMP antagonist,
+has been proposed to fulfill this function and therefore be important in
+limb patterning. Khokha et al. (2003) tested this model directly by
+mutating the mouse gene encoding gremlin. In the mutant limb, the
+feedback loop between the ZPA and the AER was interrupted, resulting in
+abnormal skeletal pattern. The phenotype is apparently identical to that
+of ld, which results from a mutation in the Fmn1 gene (136535). The
+relationship between Grem1 and Fmn1 is interesting because of their
+proximity in the mouse genome. The Fmn1 transcript comprises a large
+number of exons with the most 3-prime exon located approximately 40 kb
+from the gremlin open reading frame. Given the apparently identical
+phenotype of ld mice to gremlin mutant mice and the proximity of Fmn1 to
+Grem1, Khokha et al. (2003) tested whether gremlin would complement ld.
+They found that gremlin fails to complement ld and thus identified
+another ld allele. Although a complex interaction between Fmn1 and
+gremlin is possible, Khokha et al. (2003) favored the idea that the ld
+mutations affect gremlin expression directly and that they lie in
+cis-regulatory elements for gremlin expression.
+
+Limb bud outgrowth is driven by signals in a positive feedback loop
+involving fibroblast growth factor (Fgf) genes, Sonic hedgehog (Shh;
+600725), and Grem1. Precise termination of these signals is essential to
+restrict limb bud size. That the sequence in mouse limb buds is
+different from that in chick limb buds drove Verheyden and Sun (2008) to
+explore alternative mechanisms. By analyzing compound mouse mutants
+defective in genes comprising the positive loop, Verheyden and Sun
+(2008) provided genetic evidence that Fgf signaling can repress Grem1
+expression, revealing a novel Fgf/Grem1 inhibitory loop. The repression
+occurs in both mouse and chick limb buds and is dependent on high Fgf
+activity. These data supported a mechanism where the positive Fgf/Shh
+loop drives outgrowth and an increase in Fgf signaling, which triggers
+the Fgf/Grem1 inhibitory loop. The inhibitory loop then operates to
+terminate outgrowth signals in the order observed in either mouse or
+chick limb buds. Verheyden and Sun (2008) concluded that their study
+unveils the concept of a self-promoting and self-terminating circuit
+that may be used to attain proper tissue size in a broad spectrum of
+developmental and regenerative settings. Verheyden and Sun (2008)
+demonstrated that Fgf8 (600483) repression of Fgf4 (164980) expression
+is dependent on Grem1 but not Shh.
+
+REFERENCE 1. Benazet, J.-D.; Bischofberger, M.; Tiecke, E.; Goncalves, A.; Martin,
+J. F.; Zuniga, A.; Naef, F.; Zeller, R.: A self-regulatory system
+of interlinked signaling feedback loops controls mouse limb patterning. Science 323:
+1050-1053, 2009.
+
+2. Hsu, D. R.; Economides, A. N.; Wang, X,; Eimon, P. M.; Harland,
+R. M.: The Xenopus dorsalizing factor gremlin identifies a novel
+family of secreted proteins that antagonize BMP activities. Molec.
+Cell 1: 673-683, 1998.
+
+3. Jaeger, E.; Leedham, S.; Lewis, A.; Segditsas, S.; Becker, M.;
+Cuadrado, P. R.; Davis, H.; Kaur, K.; Heinimann, K.; Howarth, K.;
+East, J.; Taylor, J.; Thomas, H.; Tomlinson, I.: Hereditary mixed
+polyposis syndrome is caused by a 40-kb upstream duplication that
+leads to increased and ectopic expression of the BMP antagonist GREM1. Nature
+Genet. 44: 699-703, 2012.
+
+4. Khokha, M. K.; Hsu, D.; Brunet, L. J.; Dionne, M. S.; Harland,
+R. M.: Gremlin is the BMP antagonist required for maintenance of
+Shh and Fgf signals during limb patterning. Nature Genet. 34: 303-307,
+2003.
+
+5. Scherz, P. J.; Harfe, B. D.; McMahon, A. P.; Tabin, C. J.: The
+limb bud Shh-Fgf feedback loop is terminated by expansion of former
+ZPA cells. Science 305: 396-399, 2004.
+
+6. Topol, L. Z.; Modi, W. S.; Koochekpour, S.; Blair, D. G.: DRM-Gremlin
+(CKTSF1B1) maps to human chromosome 15 and is highly expressed in
+adult and fetal brain. Cytogenet. Cell Genet. 89: 79-84, 2000.
+
+7. Verheyden, J. M.; Sun, X.: An Fgf/Gremlin inhibitory feedback
+loop triggers termination of limb bud outgrowth. Nature 454: 638-641,
+2008.
+
+8. Weatherbee, S. D.; Behringer, R. R.; Rasweiler, J. J., IV; Niswander,
+L. A.: Interdigital webbing retention in bat wings illustrates genetic
+changes underlying amniote limb diversification. Proc. Nat. Acad.
+Sci. 103: 15103-15107, 2006.
+
+9. Wordinger, R. J.; Fleenor, D. L.; Hellberg, P. E.; Pang, I.-H.;
+Tovar, T. O.; Zode, G. S.; Fuller, J. A.; Clark, A. F.: Effects of
+TGF-beta-2, BMP-4, and gremlin in the trabecular meshwork: implications
+for glaucoma. Invest. Ophthal. Vis. Sci. 48: 1191-1200, 2007.
+
+10. Zuniga, A.; Haramis, A.-P. G.; McMahon, A. P.; Zeller, R.: Signal
+relay by BMP antagonism controls the SHH/FGF4 feedback loop in vertebrate
+limb buds. Nature 401: 598-602, 1999.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 6/14/2012
+Ada Hamosh - updated: 3/17/2009
+Ada Hamosh - updated: 10/20/2008
+Jane Kelly - updated: 11/28/2007
+Patricia A. Hartz - updated: 12/1/2006
+Ada Hamosh - updated: 8/30/2004
+Victor A. McKusick - updated: 6/17/2003
+Ada Hamosh - updated: 2/10/2000
+
+CREATED Stylianos E. Antonarakis: 9/23/1998
+
+EDITED alopez: 06/18/2012
+alopez: 6/15/2012
+terry: 6/14/2012
+wwang: 4/2/2010
+alopez: 3/23/2009
+terry: 3/17/2009
+alopez: 10/21/2008
+terry: 10/20/2008
+terry: 10/8/2008
+carol: 11/28/2007
+terry: 7/27/2007
+wwang: 12/1/2006
+alopez: 9/1/2004
+terry: 8/30/2004
+carol: 8/4/2004
+alopez: 7/29/2003
+alopez: 6/18/2003
+terry: 6/17/2003
+carol: 1/12/2001
+alopez: 5/9/2000
+carol: 3/30/2000
+alopez: 2/10/2000
+carol: 9/23/1998
+
+609768	TITLE *609768 BIOGENESIS OF LYSOSOME-RELATED ORGANELLES COMPLEX 1, SUBUNIT 2; BLOC1S2
+;;BLOC1, SUBUNIT 2; BLOS2
+DESCRIPTION 
+DESCRIPTION
+
+BLOC1S2 is a component of the ubiquitously expressed BLOC1 multisubunit
+protein complex. BLOC1 is required for normal biogenesis of specialized
+organelles of the endosomal-lysosomal system, such as melanosomes and
+platelet dense granules (Starcevic and Dell'Angelica, 2004).
+
+CLONING
+
+Using the BLOC1 subunit pallidin (PLDN; 604310) as bait in a yeast
+2-hybrid screen of a HeLa cell cDNA library, Starcevic and Dell'Angelica
+(2004) cloned BLOC1S2, which they called BLOS2. The deduced BLOS2
+protein contains coiled-coil regions and has a calculated molecular mass
+of 16 kD. Western blot analysis detected endogenous HeLa cell BLOS2 at
+an apparent molecular mass of 18 kD.
+
+GENE FUNCTION
+
+By mass spectrometry of BLOC1 proteins purified from bovine liver, mouse
+liver, and HeLa cells, Starcevic and Dell'Angelica (2004) identified
+BLOS2 as a subunit of BLOC1. Other BLOC1 subunits identified were
+pallidin, muted (607289), dysbindin (DTNBP1; 607145), cappuccino
+(605695), snapin (SNAPAP; 607007), BLOC1S1 (601444), and BLOC1S3
+(609762). Coimmunoprecipitation and yeast 2-hybrid analyses confirmed
+that these proteins interact within the BLOC1 complex.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the BLOC1S2
+gene to chromosome 10 (TMAP RH47426).
+
+REFERENCE 1. Starcevic, M.; Dell'Angelica, E. C.: Identification of Snapin
+and three novel proteins (BLOS1, BLOS2, and BLOS3/reduced pigmentation)
+as subunits of biogenesis of lysosome-related organelles complex-1
+(BLOC-1). J. Biol. Chem. 279: 28393-28401, 2004.
+
+CREATED Patricia A. Hartz: 12/9/2005
+
+EDITED mgross: 12/09/2005
+
+608794	TITLE *608794 PHOSPHATIDYLINOSITOL TRANSFER PROTEIN, MEMBRANE-ASSOCIATED, 1; PITPNM1
+;;DRES9;;
+PYK2 N-TERMINAL DOMAIN-INTERACTING RECEPTOR 2; NIR2;;
+RETINAL DEGENERATION GENE B, DROSOPHILA, HOMOLOG OF, ALPHA; RDGBA
+DESCRIPTION 
+DESCRIPTION
+
+PITPNM1 belongs to a family of membrane-associated phosphatidylinositol
+transfer domain-containing proteins that share homology with the
+Drosophila retinal degeneration B (rdgB) protein (Ocaka et al., 2005).
+
+CLONING
+
+The Drosophila rdgB gene encodes a 116-kD transmembrane protein
+expressed in the eye and central nervous system (CNS). Mutations in rdgB
+cause light-induced retinal degeneration (Vihtelic et al., 1991). By
+screening an EST database for homologs of Drosophila rdgB, followed by
+probing a teratocarcinoma/neuron cDNA library, Rubboli et al. (1997)
+obtained a full-length cDNA encoding human PITPNM1, which they called
+DRES9. The predicted 1,242-amino acid PITPNM1 protein shares 96% and 66%
+amino acid identity with mouse Pitpnm1 and Drosophila rdgB,
+respectively. Northern blot analysis showed ubiquitous expression of a
+4.4-kb PITPNM1 transcript, with highest levels in brain, skeletal
+muscle, kidney, and heart. In situ hybridization analysis of murine
+embryo tissues at various developmental stages revealed high Pitpnm1
+expression in the neural retina and in the CNS.
+
+By searching an EST database for sequences similar to bovine rdgB, Chang
+et al. (1997) identified partial human PITPNM1 sequences, which they
+used to obtain genomic clones. The deduced 1,059-amino acid protein
+shares 92% identity with mouse Pitpnm1, with highest similarity in the
+N- and C-terminal regions. Northern blot analysis indicated that bovine
+and mouse Pitpnm1 were expressed strongly in retina and more weakly in
+brain, but not in any other tissue examined. In situ hybridization of
+mouse retina detected Pitpnm1 mRNA in photoreceptors and the inner
+nuclear layer. Immunocytochemistry detected Pitpnm1 in photoreceptors,
+particularly in the inner segments and the outer plexiform layer, the
+inner plexiform layer, and possibly the ganglion cell layer.
+
+By yeast 2-hybrid analysis of a brain cDNA library, Lev et al. (1999)
+cloned PITPNM1, which they called NIR2, as one of a family of proteins
+that interact with the tyrosine kinase PYK2 (PTK2B; 601212). The deduced
+1,244-amino acid PITPNM1 protein shares structural domains with other
+family members, including an N-terminal phosphatidylinositol (PI)
+transfer domain, an acidic calcium-binding region, 6 transmembrane
+domains, and a conserved C-terminal domain. Northern blot analysis
+detected ubiquitous expression of PITPNM1, with highest levels in brain,
+heart, thymus, and peripheral blood leukocytes.
+
+GENE FUNCTION
+
+Chang et al. (1997) demonstrated the mouse Pitpnm1 fully rescued the
+rdgB-dependent retinal degeneration and abnormal electroretinogram in
+flies.
+
+Lev et al. (1999) determined that the C terminus of PITPNM1 bound PYK2.
+Analysis of PITPNM1 or PYK2 immunoprecipitates of cells coexpressing
+PITPNM1 and PYK2 demonstrated that both proteins were tyrosine
+phosphorylated. Agonists known to induce tyrosine phosphorylation of
+PYK2 also induced strong phosphorylation of PITPNM1, and both proteins
+were associated in a stable complex. Chang et al. (1997) concluded that
+PITPNM1 is a direct or indirect substrate for PYK2 tyrosine
+phosphorylation.
+
+Tian et al. (2002) showed that PITPNM1 contains a novel N-terminal Rho
+(see RhoA; 165390)-inhibitory domain (RID) that binds to GDP-bound Rho.
+Ectopic expression of the PITPNM1 RID domain caused loss of F-actin
+staining and inhibited Rho-mediated stress fiber formation and
+lysophosphatidic acid-induced RhoA activation. Expression of the RID
+domain along with the PI transfer domain removed these effects. Blocking
+of PITPNM1 function by PITPNM1 antibody injection reduced neurite
+extension in neuronal cells, while PITPNM1 overexpression reduced
+Rho-mediated neurite retraction.
+
+Litvak et al. (2002) showed that PITPNM1 is essential for cytokinesis.
+PITPNM1 localized to the cleavage furrow during cytokinesis, and
+blocking of PITPNM1 function by PITPNM1 antibody injection caused
+multinucleate cell formation. Overexpression of a deletion construct
+lacking the N-terminal RID and PI domains caused specific blockage of
+cytokinesis. Overexpression of the RID domain of PITPNM1 caused abnormal
+cytokinesis, resulting in formation of a long bridge-like structure
+between putative daughter cells. Coimmunoprecipitation showed that
+PITPNM1 bound to RhoA in mitotic cells, and confocal microscopy showed
+the 2 proteins localized together at the cleavage furrow during cell
+division.
+
+GENE STRUCTURE
+
+Chang et al. (1997) determined that the PITPNM1 gene contains 21 exons
+and spans about 12 kb. Ocaka et al. (2005) determined that the PITPNM1
+gene contains 23 exons and spans approximately 13 kb.
+
+MAPPING
+
+By FISH, Chang et al. (1997) mapped the PITPNM1 gene to chromosome
+11q13.1. They mapped the mouse Pitpnm1 gene to a proximal region of
+chromosome 19 that shows homology of synteny to human chromosome
+11q13.1.
+
+REFERENCE 1. Chang, J. T.; Milligan, S.; Li, Y.; Chew, C. E.; Wiggs, J.; Copeland,
+N. G.; Jenkins, N. A.; Campochiaro, P. A.; Hyde, D. R.; Zack, D. J.
+: Mammalian homolog of Drosophila retinal degeneration B rescues the
+mutant fly phenotype. J. Neurosci. 17: 5881-5890, 1997.
+
+2. Lev, S.; Hernandez, J.; Martinez, R.; Chen, A.; Plowman, G.; Schlessinger,
+J.: Identification of a novel family of targets of PYK2 related to
+Drosophila retinal degeneration B (rdgB) protein. Molec. Cell. Biol. 19:
+2278-2288, 1999.
+
+3. Litvak, V.; Tian, D.; Carmon, S.; Lev, S.: Nir2, a human homolog
+of Drosophila melanogaster retinal degeneration B protein, is essential
+for cytokinesis. Molec. Cell. Biol. 22: 5064-5075, 2002.
+
+4. Ocaka, L.; Spalluto, C.; Wilson, D. I.; Hunt, D. M.; Halford, S.
+: Chromosomal localization, genomic organization and evolution of
+the genes encoding human phosphatidylinositol transfer protein membrane-associated
+(PITPNM) 1,2 and 3. Cytogenet. Genome Res. 108: 293-302, 2005.
+
+5. Rubboli, F.; Bulfone, A.; Bogni, S.; Marchitiello, A.; Zollo, M.;
+Borsani, G.; Ballabio, A.; Banfi, S.: A mammalian homologue of the
+Drosophila retinal degeneration B gene: implications for the evolution
+of phototransduction mechanisms. Genes Function 1: 205-213, 1997.
+
+6. Tian, D.; Litvak, V.; Toledo-Rodriguez, M.; Carmon, S.; Lev, S.
+: Nir2, a novel regulator of cell morphogenesis. Molec. Cell. Biol. 22:
+2650-2662, 2002.
+
+7. Vihtelic, T. S.; Hyde, D. R.; O'Tousa, J. E.: Isolation and characterization
+of the Drosophila retinal degeneration B (rdgB) gene. Genetics 127:
+761-768, 1991.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 2/12/2008
+Patricia A. Hartz - updated: 9/14/2004
+
+CREATED Laura L. Baxter: 7/12/2004
+
+EDITED mgross: 02/13/2008
+terry: 2/12/2008
+mgross: 9/14/2004
+mgross: 7/12/2004
+
+611127	TITLE *611127 UBIQUITIN-LIKE 4B; UBL4B
+DESCRIPTION 
+CLONING
+
+By yeast 2-hybrid screen using Tex15 (605795) as bait, Yang et al.
+(2007) cloned mouse Ubl4b. The deduced 188-amino acid protein contains a
+72-amino acid ubiquitin domain. RT-PCR and Western blot analysis
+detected Ubl4b mRNA and protein only in mouse testis. Immunofluorescence
+analysis revealed Ubl4b in the cytoplasm of elongated spermatids, but
+not in spermatocytes, round spermatids, Leydig cells, or Sertoli cells,
+suggesting Ubl4b functions in late spermiogenesis. By database analysis,
+Yang et al. (2007) identified human UBL4B and several mammalian
+orthologs.
+
+GENE STRUCTURE
+
+Yang et al. (2007) determined that the mouse Ubl4b gene contains no
+introns.
+
+MAPPING
+
+Yang et al. (2007) stated that the mouse Ubl4b gene maps to chromosome 3
+and that the human UBL4B gene is in a syntenic region where it is
+flanked by ALX3 (606014) and SLC6A17 (610299) on chromosome 1p13.3.
+
+EVOLUTION
+
+Yang et al. (2007) presented evidence that Ubl4b arose by retroposition
+of the 4-exon Ubl4a gene (312070) at least 170 million years ago, prior
+to the radiation of therian mammals.
+
+REFERENCE 1. Yang, F.; Skaletsky, H.; Wang, P. J.: Ubl4b, an X-derived retrogene,
+is specifically expressed in post-meiotic germ cells in mammals. Gene
+Expr. Patterns 7: 131-136, 2007.
+
+CREATED Patricia A. Hartz: 6/20/2007
+
+EDITED wwang: 06/20/2007
+
+614316	TITLE *614316 VTI1, S. CEREVISIAE, HOMOLOG OF, A; VTI1A
+;;VTI1RP2
+VTI1A/TCF7L2 FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+VTI1A is a soluble N-ethylmaleimide-sensitive fusion protein attachment
+protein (SNAP; see 603215) receptor (SNARE) that functions in the
+transport of vesicles between the Golgi apparatus and the plasma
+membrane (Flowerdew and Burgoyne, 2009).
+
+CLONING
+
+Xu et al. (1998) cloned mouse Vti1a, which they called Vti1rp2. The
+deduced 217-amino acid protein has 4 putative coiled-coil regions and a
+C-terminal transmembrane domain. The final coiled-coil region includes
+an ATP/GTP-binding motif A (P loop). Northern blot analysis detected a
+2.6-kb transcript in all mouse tissues examined except testis, which
+expressed a 1.5-kb Vti1a transcript. Western blot analysis and
+differential extraction of fractionated rat liver membranes revealed
+that Vti1a was an integral Golgi membrane protein.
+
+By immunohistochemical analysis of HeLa cells, Flowerdew and Burgoyne
+(2009) found that human VTI1A showed a punctate vesicular distribution.
+
+GENE FUNCTION
+
+Using protein pull-down assays, Xu et al. (1998) showed that mouse Vti1a
+interacted with alpha-SNAP (NAPA; 603215). Coimmunoprecipitation
+analysis revealed that Vti1a interacted with 2 distinct SNARE complexes
+that contained either syntaxin-5 (STX5; 603189) or syntaxin-6 (STX6;
+603944). Immunodepletion of Vti1a from Vero monkey kidney cells
+interfered with plasma membrane trafficking of vesicular-stomatitis
+virus G protein (VSVG), resulting in accumulation of VSVG in the Golgi
+apparatus.
+
+Flowerdew and Burgoyne (2009) showed that potassium channel-interacting
+protein-1 (KCHIP1, or KCNIP1; 604660) interacted with the
+channel-forming Kv4.2 potassium channel subunit (KCND2; 605410) and was
+required for Kv4.2 trafficking to the plasma membrane. Using HeLa and
+mouse Neuro2A neuroblastoma cells, they found that KCHIP1 and Kv4.2 used
+an intracellular vesicle trafficking pathway that included VTI1A and
+VAMP7 (300053) and required the GTPase RAB1 (179508), which is shared
+with more conventional vesicle-trafficking pathways. Knockdown of VTI1A
+or VAMP7 inhibited transport of Kv4.2 and KCHIP1 to the plasma membrane,
+but it had no effect on membrane transport of VSVG.
+
+CYTOGENETICS
+
+- VTI1A/TCF7L2 Fusion Gene
+
+Bass et al. (2011) reported whole-genome sequencing from 9 individuals
+with colorectal cancer (114500), including primary colorectal tumors and
+matched adjacent nontumor tissues, at an average of 30.7x and 31.9x
+coverage, respectively. They identified an average of 75 somatic
+rearrangements per tumor, including complex networks of translocations
+between pairs of chromosomes. Eleven rearrangements encode predicted
+in-frame fusion proteins, including a fusion of VTI1A and TCF7L2
+(602278) found in 3 out of 97 colorectal cancers. Although TCF7L2
+encodes TCF4, which cooperates with beta-catenin (116806) in colorectal
+carcinogenesis, the fusion lacks the TCF4 beta-catenin-binding domain.
+Bass et al. (2011) found a colorectal carcinoma cell line harboring the
+fusion gene to be dependent on VTI1A-TCF7L2 for anchorage-independent
+growth using RNA interference-mediated knockdown.
+
+MAPPING
+
+Hartz (2011) mapped the VTI1A gene to chromosome 10q25.2 based on an
+alignment of the VTI1A sequence (GenBank GENBANK BC017052) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Bass, A. J.; Lawrence, M. S.; Brace, L. E.; Ramos, A. H.; Drier,
+Y.; Cibulskis, K.; Sougnez, C.; Voet, D.; Saksena, G.; Sivachenko,
+A.; Jing, R.; Parkin, M.; and 28 others: Genomic sequencing of
+colorectal adenocarcinomas identifies a recurrent VTI1A-TCF7L2 fusion. Nature
+Genet. 43: 964-968, 2011.
+
+2. Flowerdew, S. E.; Burgoyne, R. D.: A VAMP7/Vti1a SNARE complex
+distinguishes a non-conventional traffic route to the cell surface
+used by KChIP1 and Kv4 potassium channels. Biochem. J. 418: 529-540,
+2009.
+
+3. Hartz, P. A.: Personal Communication. Baltimore, Md.  10/27/2011.
+
+4. Xu, Y.; Wong, S. H.; Tang, B. L.; Subramaniam, V. N.; Zhang, T.;
+Hong, W.: A 29-kilodalton Golgi soluble N-ethylmaleimide-sensitive
+factor attachment protein receptor (Vti1-rp2) implicated in protein
+trafficking in the secretory pathway. J. Biol. Chem. 273: 21783-21789,
+1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/26/2012
+
+CREATED Patricia A. Hartz: 10/28/2011
+
+EDITED alopez: 06/26/2012
+alopez: 6/26/2012
+terry: 6/26/2012
+mgross: 10/28/2011
+
+613768	TITLE *613768 RING FINGER PROTEIN 213; RNF213
+;;ALK LYMPHOMA OLIGOMERIZATION PARTNER ON CHROMOSOME 17; ALO17;;
+KIAA1618
+RNF213/ALK FUSION GENE, INCLUDED
+DESCRIPTION 
+DESCRIPTION
+
+The RNF213 gene encodes a protein that possesses both ubiquitin ligase
+activity and ATPase activity (Liu et al., 2011).
+
+CLONING
+
+By sequencing clones obtained from a size-fractionated fetal brain cDNA
+library, Nagase et al. (2000) cloned partial RNF213, which they
+designated KIAA1618. The transcript contains a repetitive element in its
+3-prime end, and the deduced protein contains 1,415 amino acids. RT-PCR
+ELISA detected moderate RNF213 expression in all adult and fetal tissues
+and adult brain regions examined except skeletal muscle, where RNF213
+expression was low.
+
+By database analysis and 5-prime RACE of the immature human myeloid
+leukemia cell line K562, Cools et al. (2002) cloned 2 splice variants of
+RNF213, which they called ALO17. The deduced proteins contain 1,599 and
+1,550 amino acids. Both proteins contain a potential N-terminal zinc
+finger motif, but they differ in the presence or absence of a sequence
+near the N terminus.
+
+Kamada et al. (2011) noted that full-length RNF213 contains 5,256 amino
+acids and contains a RING finger domain, suggesting E3 ubiquitin ligase
+function, as well as an HMG-CoA reductase degradation domain and an AAA
+ATPase domain. Quantitative RT-PCR analysis detected strong RNF213
+expression in adult human spleen and leukocytes, followed by placenta
+and lymph node. Strong expression was detected in human fetal leukocytes
+and thymus, with low expression in both adult and fetal human brain.
+RNF213 expression was detected in both polymorphonuclear and mononuclear
+cell fractions and in B and T cell fractions. There was low but
+significant expression of RNF213 in human umbilical vein endothelial
+cells and human pulmonary artery smooth muscle cells. Cellular
+expression of mouse Rnf213 was detected in the white pulp of the spleen,
+primary lymph node follicles, and thymocytes in the medulla of the
+thymus.
+
+Liu et al. (2011) cloned RNF213 and found that their sequence included a
+2,500-bp longer 3-prime untranslated region (UTR) compared to a
+previously registered sequence and also lacked exon 4. Two splicing
+variants differing by exclusion or inclusion of exon 4 were detected in
+cDNAs isolated from various tissues. The short isoform, which skips exon
+4, was the major variant and was detected in all tissues examined.
+
+MAPPING
+
+By PCR of a human-rodent hybrid panel, Nagase et al. (2000) mapped the
+RNF213 gene to chromosome 17. Cools et al. (2002) mapped the RNF213 gene
+to chromosome 17q25 by genomic sequence analysis.
+
+GENE FUNCTION
+
+Liu et al. (2011) found that transfection of RNF213 into HeLa cells
+resulted in expression of the protein throughout the cytosol with
+partial association with the intracellular membrane and cytoskeleton.
+The E3 activity of the RING finger domain was confirmed by
+self-ubiquitination after transfecting full-length RNF213 cDNA into
+HEK293 cells. In addition, ATPase activity was detected in vitro by free
+phosphate releasing analysis using a recombinant RNF213 fragment
+including the Walker motif. Thus, RNF213 is a protein that possesses
+both ubiquitin ligase activity and ATPase activity.
+
+CYTOGENETICS
+
+In a patient with ALK (105590)-positive anaplastic large-cell lymphoma,
+Cools et al. (2002) identified a t(2;17)(p23;q25) rearrangement that
+resulted in splicing of exons of the ALO17 gene from chromosome 17q25 to
+exons of the ALK gene from chromosome 2p23. The predicted fusion protein
+contains 1,172 N-terminal amino acids of ALO17 fused to 562 amino acids
+of ALK, including the ALK kinase domain. FISH analysis confirmed the
+presence of 2 copies of the AOL17-ALK fusion in the neoplastic cells.
+
+MOLECULAR GENETICS
+
+By linkage analysis and genomewide association analysis of 63 Japanese
+patients with moyamoya disease (MYMY2; 607151) and 45 controls, Kamada
+et al. (2011) found a significant association between disease and a
+variant in the RNF213 gene (R4859K; 613768.0001).
+
+In affected members of 41 Japanese families and 1 Korean family with
+moyamoya disease, Liu et al. (2011) identified an R4810K substitution
+(dbSNP ss179362673) in the RNF213 gene (613768.0002). The variant
+segregated with the disorder, although some carriers of the variant did
+not have moyamoya disease, indicating incomplete penetrance. The
+mutation was initially found by linkage analysis followed by exome
+sequencing in eight 3-generation families. Haplotype analysis indicated
+a founder effect. A case-control study of 251 East Asian patients and
+707 controls showed a significant association between R4810K and the
+disorder (odds ratio of 111.8, p = 10 x 10(-119)). In vitro functional
+expression studies in HEK293 cells showed that the R4810K protein was
+expressed and localized normally within the cell, and had normal
+ubiquitin activity. Direct sequencing identified 5 additional RNF213
+variants in 7 of 64 East Asian cases, and 4 variants in 4 (8%) of 50
+Caucasian cases (see, e.g., 613768.0003). Although these variants were
+not found in controls, pathogenicity was difficult to prove. Liu et al.
+(2011) postulated that variation in the RNF213 gene acts with
+environmental factors to result in moyamoya disease.
+
+ANIMAL MODEL
+
+Liu et al. (2011) demonstrated that knockout of the RNF213 homologs in
+zebrafish caused abnormal vascular development, including abnormal
+sprouting vessels particularly in the head region.
+
+ALLELIC VARIANT .0001
+MOYAMOYA DISEASE 2, SUSCEPTIBILITY TO
+RNF213, ARG4859LYS
+
+In Japanese patients with moyamoya disease (607151), Kamada et al.
+(2011) found a significant association between disease and a 14576G-A
+transition in exon 60 of the RNF213 gene, resulting in an arg4859-to-lys
+(R4859K) substitution. In 19 of 20 families, heterozygosity for the
+variant was found in 39 (92.9%) of 41 patients with the disorder and in
+13 (46.4%) of 28 family members without the disorder. Three (7.1%)
+patients had the variant in the homozygous state. The overall p value
+among familial cases was 4.2 x 10(-7). None of 15 family members without
+the variant developed the disease. The variant was also present in
+heterozygosity and homozygosity in 45 (71.4%) and 1 (1.6%) of 63
+Japanese patients with sporadic disease, respectively, and in 6 (1.4%)
+of 429 controls. There was no phenotypic difference between homozygous
+and heterozygous carriers. Overall, carrying the variant conferred an
+odds ratio of 190.8 for development of the disorder (p = 1.2 x 10(-43)).
+The R4859K variant was not found in 400 Caucasian controls.
+
+Miyatake et al. (2012) found the 14576G-A transition in 39 (95.1%) of 41
+Japanese patients with familial moyamoya disease, in 129 (79.2%) of 163
+Japanese patients with sporadic moyamoya disease, and in 5 (1.8%) of 283
+Japanese control individuals. Fifteen of the 168 patients with the
+variant carried it in the homozygous state, whereas all 5 controls
+carried it in the heterozygous state. Most patients inherited the allele
+from either or both unaffected parents; all parents were heterozygous
+for the variant. Miyatake et al. (2012) concluded that heterozygosity
+for the 14576G-A variant confers an odds ratio of 236 for development of
+the disorder. Patients with the 14576G-A variant had an earlier age at
+onset (as early as age 4 years) and tended to have a higher frequency of
+infarcts, posterior cerebral artery involvement, bilateral involvement,
+seizures, and intellectual impairment compared to patients without the
+variant. However, heterozygosity for the variant was also found in adult
+patients. Comparisons of clinical features between 5 parent-offspring
+pairs who were heterozygous for the variant showed anticipation.
+
+Miyatake et al. (2012) reported a Japanese brother and sister who were
+heterozygous and homozygous for the 14576G-A mutation, respectively. The
+homozygous brother had onset of recurrent strokes in early childhood,
+with deterioration in cognitive function and residual symptoms,
+including paresis, headache, and visual loss, whereas the heterozygous
+sister had only 1 stroke at age 17 years and no residual symptoms. Brain
+imaging showed more severe vascular occlusion in the homozygous brother.
+The findings suggested a dosage effect for this variant.
+
+.0002
+MOYAMOYA DISEASE 2, SUSCEPTIBILITY TO
+RNF213, ARG4810LYS
+
+In affected members of 41 Japanese families and 1 Korean family with
+moyamoya disease (607151), Liu et al. (2011) identified a G-to-A
+transition in the RNF213 gene, resulting in an arg4810-to-lys (R4810K)
+substitution (dbSNP ss179362673) in a conserved residue. The variant
+segregated with the disorder, although some carriers of the variant did
+not have moyamoya disease, indicating incomplete penetrance. The
+mutation was initially found by linkage analysis followed by exome
+sequencing in eight 3-generation families. Haplotype analysis indicated
+a founder effect. A case-control study of 251 East Asian patients and
+707 controls showed a significant association between R4810K and the
+disorder (odds ratio of 111.8, p = 10 x 10(-19)). The variant was found
+in about 1% of controls in East Asian populations, and some Japanese
+controls were homozygous for the variant, arguing against a gene dosage
+effect. Although R4810K was identified in 3 populations, the population
+attributable risks in the Japanese (145/161; 90%) and Korean (30/38;
+79%) populations were larger than that in the Chinese population (12/52;
+23%). In addition, R4810K was not present among Caucasian cases or
+controls. In vitro functional expression studies in HEK293 cells showed
+that the R4810K protein was expressed and localized normally within the
+cell; the variant protein also had normal ubiquitin activity. Knockout
+of the homologs in zebrafish caused abnormal vascular development,
+including abnormal sprouting vessels particularly in the head region.
+Liu et al. (2011) postulated that variation in the RNF213 gene acts with
+environmental factors to result in moyamoya disease.
+
+.0003
+MOYAMOYA DISEASE 2, SUSCEPTIBILITY TO
+RNF213, ASP4013ASN
+
+In an affected Caucasian father of Czech descent and 3 of his children
+with moyamoya disease (607151), Liu et al. (2011) identified a G-to-A
+transition in the RNF213 gene, resulting in an asp4013-to-asn (D4013N)
+substitution. The variant was not found in 384 Caucasian controls. The
+father had a mild ischemic stroke at age 30 years, and his mother had
+died of ischemic stroke at age 35. The 3 children developed moyamoya
+disease at ages 5, 9, and 3 years. One had involuntary movements and
+another had signs of ischemic stroke. Diagnosis of the disorder was
+confirmed by brain MRI. The variant was relatively highly conserved,
+especially in mammals. In vitro functional expression studies in HEK293
+cells showed that the D4013N protein had normal ubiquitin activity.
+
+REFERENCE 1. Cools, J.; Wlodarska, I.; Somers, R.; Mentens, N.; Pedeutour, F.;
+Maes, B.; De Wolf-Peeters, C.; Pauwels, P.; Hagemeijer, A.; Marynen,
+P.: Identification of novel fusion partners of ALK, the anaplastic
+lymphoma kinase, in anaplastic large-cell lymphoma and inflammatory
+myofibroblastic tumor. Genes Chromosomes Cancer 34: 354-362, 2002.
+
+2. Kamada, F.; Aoki, Y.; Narisawa, A.; Abe, Y.; Komatsuzaki, S.; Kikuchi,
+A.; Kanno, J.; Niihori, T.; Ono, M.; Ishii, N.; Owada, Y.; Fujimura,
+M.; Mashimo, Y.; Suzuki, Y.; Hata, A.; Tsuchiya, S.; Tominaga, T.;
+Matsubara, Y.; Kure, S.: A genome-wide association study identifies
+RNF213 as the first Moyamoya disease gene. J. Hum. Genet. 56: 34-40,
+2011.
+
+3. Liu, W.; Morito, D.; Takashima, S.; Mineharu, Y.; Kobayashi, H.;
+Hitomi, T.; Hashikata, H.; Matsuura, N.; Yamazaki, S.; Toyoda, A.;
+Kikuta, K.; Takagi, Y.; and 11 others: Identification of RNF213
+as a susceptibility gene for moyamoya disease and its possible role
+in vascular development. PLoS One 6: e22542, 2011. Note: Electronic
+Article.
+
+4. Miyatake, S.; Miyake, N.; Touho, H.; Nishimura-Tadaki, A.; Kondo,
+Y.; Okada, I.; Tsurusaki, Y.; Doi, H.; Sakai, H.; Saitsu, H.; Shimojima,
+K.; Yamamoto, T.; and 13 others: Homozygous c.14576G-A variant
+of RNF213 predicts early-onset and severe form of moyamoya disease. Neurology 78:
+803-810, 2012.
+
+5. Miyatake, S.; Touho, H.; Miyake, N.; Ohba, C.; Doi, H.; Saitsu,
+H.; Taguri, M.; Morita, S.; Matsumoto, N.: Sibling cases of moyamoya
+disease having homozygous and heterozygous c.14576G-A variant in RNF213
+showed varying clinical course and severity. J. Hum. Genet. 57:
+804-806, 2012.
+
+6. Nagase, T.; Kikuno, R.; Nakayama, M.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVIII.
+The complete sequences of 100 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 273-281, 2000.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 2/12/2013
+Cassandra L. Kniffin - updated: 10/22/2012
+Cassandra L. Kniffin - updated: 3/19/2012
+Cassandra L. Kniffin - updated: 2/23/2011
+
+CREATED Patricia A. Hartz: 2/23/2011
+
+EDITED carol: 02/26/2013
+ckniffin: 2/12/2013
+carol: 10/24/2012
+ckniffin: 10/22/2012
+carol: 10/18/2012
+terry: 3/19/2012
+ckniffin: 3/19/2012
+wwang: 3/3/2011
+ckniffin: 2/23/2011
+mgross: 2/23/2011
+
+185640	TITLE *185640 RIBOSOMAL PROTEIN L7a; RPL7A
+;;SURFEIT 3; SURF3
+DESCRIPTION The mammalian ribosome is composed of 4 RNA species (see 180450) and
+approximately 80 different proteins (see 180466).
+
+CLONING
+
+Giallongo et al. (1989) demonstrated that the SURF3 gene encodes the L7a
+ribosomal protein. The first 2 exons of the human SURF3 gene have been
+found to be capable of activating the TRK oncogene (see 191315). The
+SURF3 gene appears to be the only intron-containing member of the
+surfeit family cluster on chromosome 9q34 (see SURF1, 185620).
+
+GENE STRUCTURE
+
+Angiolillo et al. (2002) determined that transcription start sites of
+the MED22 (185641) and RPL7A genes are separated by a 110-bp region that
+shows bidirectional promoter activity. This promoter region lacks a TATA
+box but is characterized by a CpG island that extends through the first
+exon into the first intron of both genes.
+
+MAPPING
+
+Yon et al. (1993) mapped the RPLA7 gene to chromosome 9q34.1. Kenmochi
+et al. (1998) confirmed the mapping assignment.
+
+MOLECULAR GENETICS
+
+Mor et al. (1996) described a common polymorphism in the surfeit gene
+cluster that was of interest because it occurs in the TSC1 (191100)
+region of chromosome 9q34. By database analysis, Smith (1997) found that
+the polymorphism reported by Mor et al. (1996) is due to mutation in the
+SURF3 gene.
+
+REFERENCE 1. Angiolillo, A.; Russo, G.; Procellini, A.; Smaldone, S.; D'Alessandro,
+F.; Pietropaolo, C.: The human homologue of the mouse Surf5 gene
+encodes multiple alternatively spliced transcripts. Gene 284: 169-178,
+2002.
+
+2. Giallongo, A.; Yon, J.; Fried, M.: The ribosomal protein L7a is
+encoded by a gene (Surf-3) within the tightly clustered mouse surfeit
+locus. Molec. Cell. Biol. 9: 224-231, 1989.
+
+3. Kenmochi, N.; Kawaguchi, T.; Rozen, S.; Davis, E.; Goodman, N.;
+Hudson, T. J.; Tanaka, T.; Page, D. C.: A map of 75 human ribosomal
+protein genes. Genome Res. 8: 509-523, 1998.
+
+4. Mor, O.; Duhig, T.; Fried, M.: A high frequency polymorphism in
+the candidate region for tuberous sclerosis 1 (TSC1) at 9q34. Ann.
+Hum. Genet. 60: 259-260, 1996.
+
+5. Smith, M.: Personal Communication. Baltimore, Md.  1/2/1997.
+
+6. Yon, J.; Jones, T.; Garson, K.; Sheer, D.; Fried, M.: The organization
+and conservation of the human Surfeit gene cluster and its localization
+telomeric to the c-abl and can proto-oncogenes at chromosome band
+9q34.1. Hum. Molec. Genet. 2: 237-240, 1993.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 10/30/2008
+Patti M. Sherman - updated: 9/21/2000
+Moyra Smith - updated: 1/2/1997
+
+CREATED Victor A. McKusick: 8/29/1989
+
+EDITED wwang: 10/30/2008
+terry: 10/30/2008
+carol: 8/20/2008
+carol: 2/24/2004
+psherman: 9/21/2000
+psherman: 9/10/1999
+psherman: 2/2/1999
+terry: 8/12/1998
+mark: 1/2/1997
+carol: 9/13/1994
+supermim: 3/16/1992
+supermim: 3/20/1990
+carol: 12/15/1989
+ddp: 10/27/1989
+root: 8/29/1989
+
+612778	TITLE *612778 SET DOMAIN-CONTAINING PROTEIN 2; SETD2
+;;SET2;;
+HUNTINGTIN-INTERACTING PROTEIN B; HYPB;;
+HUNTINGTIN-BINDING PROTEIN, 231-KD; HBP231;;
+KIAA1732
+DESCRIPTION 
+CLONING
+
+Huntington disease (143100) is caused by expansion of a CAG
+trinucleotide repeat encoding an N-terminal polyglutamine region in
+huntingtin (HTT; 613004) to more than 34 units. Using N-terminal domains
+of HTT containing 58 or 62 glutamines in a yeast 2-hybrid assay of a
+fetal brain cDNA library, followed by database analysis and screening
+brain and testis cDNA libraries, Faber et al. (1998) obtained a partial
+SETD2 clone, which they called HYPB. The deduced protein has a WW
+domain. Northern blot analysis detected a transcript of about 9.0 kb
+that was variably expressed in all tissues examined.
+
+By sequencing clones obtained from a size-fractionated adult brain cDNA
+library, Nagase et al. (2000) cloned SETD2, which they designated
+KIAA1732. The deduced protein contains 1,325 amino acids. RT-PCR
+detected low SETD2 expression in all adult and fetal tissues and
+specific adult brain regions examined.
+
+Using a yeast 1-hybrid screen of a HeLa cell cDNA library to identify
+proteins that could bind transcriptional start site-2 (TS2) of the
+adenovirus E1A gene, followed by RT-PCR of normal human foreskin
+fibroblasts, Rega et al. (2001) cloned full-length SETD2, which they
+called HBP231. The deduced 2,061-amino acid protein has a calculated
+molecular mass of about 231 kD. It has a putative N-terminal tyrosine
+phosphorylation site, a central SET domain, and a C-terminal WW/WWP
+domain that is followed by a putative nuclear localization signal. The
+C-terminal region of HBP231 corresponds to the HYPB sequence. Northern
+blot analysis detected a 7.5-kb transcript expressed at variable levels
+in all tissues examined. Western blot analysis of HeLa cells showed that
+HBP231 had an apparent molecular mass of 231 kD.
+
+GENE FUNCTION
+
+Using a yeast 2-hybrid assay, Faber et al. (1998) showed that HYPB
+interacted with normal and mutant huntingtin in extracts of Huntington
+disease lymphoblastoid cells. The interaction was mediated by the WW
+domain region of HYPB and by the N-terminal proline-rich region in
+huntingtin, and it was enhanced by lengthening the adjacent glutamine
+tract.
+
+Using electrophoretic mobility shift analysis with nuclear extracts of
+HeLa cells, Rega et al. (2001) confirmed that endogenous HBP231 bound
+the TS2 motif of the adenovirus E1A promoter in a sequence-specific
+manner. HBP231 expression was elevated in human embryonic kidney cells
+expressing E1A, suggesting that the observed autoactivation of E1A may
+be achieved by induced HBP231 expression.
+
+Sun et al. (2005) showed that the SET domain and flanking AWS and
+postSET domains of human HBP231 mediated histone H3 (see 602810)
+lys36-specific histone methyltransferase activity. The isolated
+low-charged region of HBP231 immediately following the WW domain showed
+transcriptional activity, although a longer construct did not. A
+C-terminal fragment of HBP231 containing the AWS, SET, and postSET
+domains, the low-charged region, and the WW domain associated with
+hyperphosphorylated RNA polymerase II (see 180660), but not with the
+unphosphorylated form. Domain analysis revealed that the region
+C-terminal to the WW domain mediated the interaction of HBP231 with
+phosphorylated RNA polymerase II. Sun et al. (2005) concluded that
+HBP231 may coordinate histone methylation and transcriptional
+regulation.
+
+The yeast histone deacetylase Rpd3 is recruited to promoters and
+represses transcription initiation. Carrozza et al. (2005) and Keogh et
+al. (2005) independently showed that the yeast SETD2 ortholog, Set2, is
+a histone H3 lys36 (K36) methyltransferase associated with a small Rpd3
+complex that signals deacetylation of ORFs by Rpd3 and suppresses
+transcription initiation.
+
+MAPPING
+
+By FISH and genomic sequence analysis, Rega et al. (2001) mapped the
+SETD2 gene to chromosome 3p21.3-p21.2.
+
+REFERENCE 1. Carrozza, M. J.; Li, B.; Florens, L.; Suganuma, T.; Swanson, S.
+K.; Lee, K. K.; Shia, W.-J.; Anderson, S.; Yates, J.; Washburn, M.
+P.; Workman, J. L.: Histone H3 methylation by Set2 directs deacetylation
+of coding regions by Rpd3S to suppress spurious intragenic transcription. Cell 123:
+581-592, 2005.
+
+2. Faber, P. W.; Barnes, G. T.; Srinidhi, J.; Chen, J.; Gusella, J.
+F.; MacDonald, M. E.: Huntingtin interacts with a family of WW domain
+proteins. Hum. Molec. Genet. 7: 1463-1474, 1998.
+
+3. Keogh, M.-C.; Kurdistani, S. K.; Morris, S. A.; Ahn, S. H.; Podolny,
+V.; Collins, S. R.; Schuldiner, M.; Chin, K.; Punna, T.; Thompson,
+N. J.; Boone, C.; Emili, A.; Weissman, J. S.; Hughes, T. R.; Strahl,
+B. D.; Grunstein, M.; Greenblatt, J. F.; Buratowski, S.; Krogan, N.
+J.: Cotranscriptional Set2 methylation of histone H3 lysine 36 recruits
+a repressive Rpd3 complex. Cell 123: 593-605, 2005.
+
+4. Nagase, T.; Kikuno, R.; Hattori, A.; Kondo, Y.; Okumura, K.; Ohara,
+O.: Prediction of the coding sequences of unidentified human genes,
+XIX. The complete sequences of 100 new cDNA clones from brain which
+code for large proteins in vitro. DNA Res. 7: 347-355, 2000.
+
+5. Rega, S.; Stiewe, T.; Chang, D.-I.; Pollmeier, B.; Esche, H.; Bardenheuer,
+W.; Marquitan, G.; Putzer, B. M.: Identification of full-length huntingtin-interacting
+protein p231HBP/HYPB as a DNA-binding factor. Molec. Cell. Neurosci. 18:
+68-79, 2001.
+
+6. Sun, X.-J.; Wei, J.; Wu, X.-Y.; Hu, M.; Wang, L.; Wang, H.-H.;
+Zhang, Q.-H.; Chen, S.-J.; Huang, Q.-H.; Chen, Z.: Identification
+and characterization of a novel human histone H3 lysine 36-specific
+methyltransferase. J. Biol. Chem. 280: 35261-35271, 2005.
+
+CREATED Patricia A. Hartz: 5/6/2009
+
+EDITED mgross: 02/05/2013
+alopez: 3/11/2010
+carol: 9/15/2009
+mgross: 5/6/2009
+
+600306	TITLE *600306 PROTEASOME SUBUNIT, BETA-TYPE, 5; PSMB5
+;;PROTEASOME SUBUNIT X;;
+PSX LARGE MULTIFUNCTIONAL PROTEASE X; LMPX;;
+PROTEASOME SUBUNIT BETA-5
+DESCRIPTION 
+DESCRIPTION
+
+Proteasomes are the proteolytic complex responsible for major
+histocompatibility complex (MHC) class I-restricted antigen presentation
+(Akiyama et al., 1994).
+
+See PSMB2 (602175) for further discussion of beta-type proteasome
+subunits.
+
+CLONING
+
+Akiyama et al. (1994) cloned the full-length cDNA and showed that PSMB5
+has high amino acid similarity to PSMB8 (177046).
+
+GENE FUNCTION
+
+Akiyama et al. (1994) showed that treatment with interferon-gamma (IFNG;
+147570) increased expression of MHC-encoded LMP2 (PSMB9; 177045) and
+LMP7 (PSMB8; 177046) subunits of the proteasome and decreased expression
+of 2 proteasomal subunits PSMB5 and PSMB6, which altered the proteolytic
+specificity of proteasomes. IFNG may induce subunit replacements of
+PSMB5 and PSMB6, producing proteasomes that may be more appropriate for
+the immunologic processing of endogenous antigens.
+
+Bortezomib, a reversible proteasome inhibitor used in the treatment of
+refractory multiple myeloma (see 254500), targets primarily the
+chymotrypsin-like activity of PSMB5. To study the molecular basis of
+bortezomib resistance, Oerlemans et al. (2008) generated high levels of
+acquired resistance in human myelomonocytic THP1 cells by exposure to
+stepwise increasing concentrations of bortezomib. Analysis of resistant
+cells revealed that those with higher levels of resistance were
+homozygous for a missense mutation in the highly conserved
+substrate/inhibitory binding domain of PSMB5. In addition, there was
+dramatic overexpression of PSM5B protein, but not of other proteasome
+subunits. RNAi-mediated silencing of PSMB5 expression resulted in
+restoration of bortezomib sensitivity in resistant cells. Oerlemans et
+al. (2008) concluded that bortezomib resistance is associated with
+selective overexpression of a mutant PSMB5 protein.
+
+MAPPING
+
+The PSMB5 gene was mapped to chromosome 14q11.2 by Belich et al. (1994).
+McCusker et al. (1997) demonstrated that the PSMB5 gene is located on
+14q11.2 within 1 Mb of the genes encoding the alpha (600654) and beta
+(602161) subunits of the PA28 complex.
+
+REFERENCE 1. Akiyama, K.; Yokota, K.; Kagawa, S.; Shimbara, N.; Tamura, T.;
+Akioka, H.; Nothwang, H. G.; Noda, C.; Tanaka, K.; Ichihara, A.:
+cDNA cloning and interferon gamma down-regulation of proteasomal subunits
+X and Y. Science 265: 1231-1234, 1994.
+
+2. Belich, M. P.; Glynne, R. J.; Senger, G.; Sheer, D.; Trowsdale,
+J.: Proteasome components with reciprocal expression to that of the
+MHC-encoded LMP proteins. Curr. Biol. 4: 769-776, 1994.
+
+3. McCusker, D.; Jones, T.; Sheer, D.; Trowsdale, J.: Genetic relationships
+of the genes encoding the human proteasome beta subunits and the proteasome
+PA28 complex. Genomics 45: 362-367, 1997.
+
+4. Oerlemans, R.; Franke, N. E.; Assaraf, Y. G.; Cloos, J.; van Zantwijk,
+I.; Berkers, C. R.; Scheffer, G. L.; Debipersad, K.; Vojtekova, K.;
+Lemos, C.; van der Heijden, J. W.; Ylstra, B.; Peters, G. J.; Kaspers,
+G. L.; Dijkmans, B. A. C.; Scheper, R. J.; Jansen, G.: Molecular
+basis of bortezomib resistance: proteasome subunit beta-5 (PSMB5)
+gene mutation and overexpression of PSMB5 protein. Blood 112: 2489-2499,
+2008.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 6/8/2009
+Victor A. McKusick - updated: 12/8/1997
+
+CREATED Victor A. McKusick: 1/11/1995
+
+EDITED carol: 04/06/2011
+wwang: 6/24/2009
+terry: 6/8/2009
+mgross: 6/25/2007
+dkim: 7/23/1998
+mark: 12/12/1997
+terry: 12/8/1997
+jamie: 1/29/1997
+mark: 6/13/1995
+carol: 1/11/1995
+
+600026	TITLE *600026 SYNTROPHIN, BETA-1; SNTB1
+;;SNT2B1;;
+DYSTROPHIN-ASSOCIATED PROTEIN, BASIC A1; A1B;;
+DAPA1B
+DESCRIPTION Dystrophin-associated protein A1 is a heterogeneous group of
+phosphorylated proteins consisting of distinct acidic and basic
+components, designated alpha-A1 and beta-A1, respectively. From the
+partial peptide sequence of A1 complex purified from rabbit muscle, Ahn
+et al. (1994) designed oligonucleotide probes that were used to isolate
+a cDNA for 1 human isoform of A1. This cDNA was found to encode a basic
+A1 isoform that was distinct from the previously described syntrophins
+in Torpedo and mouse and was expressed in many tissues with at least 5
+distinct mRNA species. Comparison of the human cDNA sequence with the
+GenBank expressed sequence tag (EST) database identified a sequence
+related to human skeletal muscle EST25263, which was thought to be a
+human homolog of mouse syntrophin-2 (see 600027). By study of a panel of
+rodent/human somatic cell hybrids followed by fluorescence in situ
+hybridization, Ahn et al. (1994) mapped the A1B gene to 8q23-q24.
+
+Yang et al. (1994) reviewed the heterogeneity of the 59-kD DAP which is
+an intracellular protein triplet component of the
+dystrophin-glycoprotein complex of muscle.
+
+Any of the dystrophin-associated proteins are candidates for the site of
+mutation in neuromuscular disease. The map location of the A1B gene
+appears to exclude it as the basis of any of the human neuromuscular
+diseases with known map location. However, due to the wide tissue
+distribution of the A1 transcript, it is possible that a defect of this
+gene would result in a nonmuscular disorder.
+
+REFERENCE 1. Ahn, A. H.; Yoshida, M.; Anderson, M. S.; Feener, C. A.; Selig,
+S.; Hagiwara, Y.; Ozawa, E.; Kunkel, L. M.: Cloning of human basic
+A1, a distinct 59-kDa dystrophin-associated protein encoded on chromosome
+8q23-24. Proc. Nat. Acad. Sci. 91: 4446-4450, 1994.
+
+2. Yang, B.; Ibraghimov-Beskrovnaya, O.; Moomaw, C. R.; Slaughter,
+C. A.; Campbell, K. P.: Heterogeneity of the 59-kDa dystrophin-associated
+protein revealed by cDNA cloning and expression. J. Biol. Chem. 269:
+6040-6044, 1994.
+
+CREATED Victor A. McKusick: 7/13/1994
+
+EDITED carol: 11/08/2000
+carol: 10/24/2000
+carol: 10/13/2000
+mcapotos: 10/12/2000
+dkim: 7/16/1998
+mark: 1/28/1996
+terry: 1/23/1996
+mark: 4/24/1995
+carol: 1/13/1995
+carol: 9/16/1994
+mimadm: 7/30/1994
+
+600207	TITLE *600207 HIPPOCALCIN-LIKE 1; HPCAL1
+DESCRIPTION Hippocalcin-like-1 is a member of a family of neuron-specific
+Ca(2+)-binding proteins found in the retina and brain.
+
+CLONING
+
+Using rat hippocalcin (142622) cDNA as a probe in the screening of a
+human hippocampus cDNA library under low stringency conditions,
+Kobayashi et al. (1994) isolated a clone that encoded a novel
+calcium-binding protein structurally related to hippocalcin. They showed
+that this hippocalcin-like protein has a primary structure of 193 amino
+acids and contains 3 EF-hand structures and a possible NH2-terminal
+myristoylation site. A single transcript of 1.7 kb was detected only in
+the brain.
+
+MAPPING
+
+By analysis of somatic cell hybrids, Kobayashi et al. (1994) mapped the
+HPCAL1 gene to chromosome 2.
+
+REFERENCE 1. Kobayashi, M.; Takamatsu, K.; Fujishiro, M.; Saitoh, S.; Noguchi,
+T.: Molecular cloning of a novel calcium-binding protein structurally
+related to hippocalcin from human brain and chromosomal mapping of
+its gene. Biochim. Biophys. Acta 1222: 515-518, 1994.
+
+CREATED Victor A. McKusick: 11/23/1994
+
+EDITED carol: 02/27/2002
+carol: 11/23/1994
+
+137170	TITLE *137170 GAMMA-GLUTAMYL CYCLOTRANSFERASE; GGCT
+;;GLUTAMYLCYCLOTRANSFERASE, GAMMA; GCTG;;
+CHROMOSOME 7 OPEN READING FRAME 24; C7ORF24;;
+CYTOCHROME c-RELEASING FACTOR, 21-KD; CRF21
+DESCRIPTION 
+DESCRIPTION
+
+GGCT (EC 2.3.2.4) catalyzes the formation of 5-oxoproline (pyroglutamic
+acid) from gamma-glutamyl dipeptides and may play a significant role in
+glutathione homeostasis (Oakley et al., 2008).
+
+CLONING
+
+By mass spectrometric analysis of peptides obtained from an
+apoptosis-inducing protein, followed by database analysis and RT-PCR of
+total RNA from a human leukemia cell line, Masuda et al. (2006) cloned
+GGCT, which they called CRF21. SDS-PAGE detected purified CRF21 at an
+apparent molecular mass of 21 kD.
+
+Using tryptic peptides obtained from GGCT partially purified from
+expired human red blood cells for database analysis, Oakley et al.
+(2008) obtained a full-length GGCT cDNA. The deduced 188-amino acid
+protein has a calculated molecular mass of 21 kD. EST database analysis
+revealed moderate GGCT expression in a wide range of human tissues, with
+highest levels in bladder and salivary gland. Database analysis
+identified GGCT orthologs in a range of species from C. elegans to
+mammals, but not in plants.
+
+GENE FUNCTION
+
+Geranylgeraniol (GGO) induces apoptosis in human tumor cell lines
+through a mitochondria-dependent pathway that includes cytochrome c
+release. Masuda et al. (2006) found that GGO was unable to induce
+cytochrome c release from isolated human mitochondria directly, and they
+identified CRF21 as a cytosolic cytochrome c-releasing factor involved
+in GGO-induced apoptosis. Overexpression of CRF21 in HeLa cells induced
+cytochrome c release and apoptosis. Masuda et al. (2006) noted that
+GGO-induced apoptosis was inhibited by a dominant-negative mutation of
+JNK (MAPK8; 601158) that impeded JNK signaling, suggesting involvement
+of JNK and CRF21 in GGO-induced apoptosis.
+
+Oakley et al. (2008) confirmed that recombinant human GGCT used
+gamma-glutamyl-L-alanine as its substrate. The enzymatic kinetics were
+similar to those of GGCT purified from human erythrocytes.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Oakley et al. (2008) determined the crystal structure of recombinant
+human GGCT to 2.4-angstrom resolution. GGCT adopted a mixed alpha/beta
+topology with 6 beta stands, 5 alpha helices, and 4 short 3(10) helices,
+and it assumed a unique structural fold that the authors termed a GGCT
+fold. GGCT formed dimers, and each monomer featured an invagination that
+Oakley et al. (2008) proposed was the active site. The site was lined
+with hydrophilic and amphipathic residues, including a conserved glu98
+that appeared to function as a general acid/base in the reaction.
+Mutation of glu98 to ala or gln did not alter the structural fold, but
+it completely inactivated the enzyme. Mutation analysis showed that
+gly23 and tyr105 also contributed to substrate binding interactions.
+
+GENE STRUCTURE
+
+Oakley et al. (2008) determined that the GGCT gene contains 5 exons and
+spans 8 kb.
+
+MAPPING
+
+Bissbort et al. (1984) assigned the GGCT gene to chromosome 7pter-p14 by
+somatic cell hybrid studies.
+
+By genomic sequence analysis, Oakley et al. (2008) mapped the GGCT gene
+to chromosome 7p15-p14. They identified putative GGCT pseudogenes on
+chromosomes 5 and 20. Oakley et al. (2008) noted that the mouse Ggct
+gene maps to a region of chromosome 6 that shares homology of synteny
+with human chromosome 7p15-p14.
+
+REFERENCE 1. Bissbort, S.; Bender, K.; Grzeschik, K. H.: Assignment of the
+human gene for gamma-glutamyl-cyclo-transferase (GCTG) to chromosome
+7p. (Abstract) Cytogenet. Cell Genet. 37: 442 only, 1984.
+
+2. Masuda, Y.; Maeda, S.; Watanabe, A.; Sano, Y.; Aiuchi, T.; Nakajo,
+S.; Itabe, H.; Nakaya, K.: A novel 21-kDa cytochrome c-releasing
+factor is generated upon treatment of human leukemia U937 cells with
+geranylgeraniol. Biochem. Biophys. Res. Commun. 346: 454-460, 2006.
+
+3. Oakley, A. J.; Yamada, T.; Liu, D.; Coggan, M.; Clark, A. G.; Board,
+P. G.: The identification and structural characterization of C7orf24
+as gamma-glutamyl cyclotransferase: an essential enzyme in the gamma-glutamyl
+cycle. J. Biol. Chem. 283: 22031-22042, 2008. Note: Erratum: J.
+Biol. Chem. 283: 32152 only, 2008.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/8/2008
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED terry: 08/09/2012
+joanna: 12/24/2008
+mgross: 12/9/2008
+terry: 12/8/2008
+mgross: 9/19/2008
+supermim: 3/16/1992
+supermim: 3/20/1990
+ddp: 10/26/1989
+marie: 3/25/1988
+reenie: 6/4/1986
+
+148040	TITLE *148040 KERATIN 5; KRT5
+;;K5
+DESCRIPTION For background information on keratins, see KRT15 (148030).
+
+CLONING
+
+Lersch and Fuchs (1988) reported the cDNA and amino acid sequences of a
+human 58-kD type II keratin, K5, which is coexpressed with a 50-kD type
+I keratin, K14 (148040), in stratified squamous epithelia.
+
+Eckert and Rorke (1988) cloned full-length KRT5 from a cultured
+keratinocyte cDNA library. The deduced 590-amino acid protein contains a
+central alpha-helical core region of about 310 amino acids with a
+7-amino acid repeat found in coiled-coil structures. The N and C termini
+are serine rich and contain gly-gly-gly-x motifs.
+
+Mischke et al. (1990) showed that 2 electrophoretic variants for each of
+the human keratins K4 and K5 that are expressed in squamous
+nonkeratinizing epithelia lining the upper digestive tract could be
+distinguished by SDS-PAGE. K5 appears to have 2 codominant alleles, a
+and b. On the basis of a population sample, they concluded that the
+alleles are in Hardy-Weinberg equilibrium.
+
+BIOCHEMICAL FEATURES
+
+Trask et al. (1990) showed that normal mammary epithelial cells in
+culture produce keratins K5, K6 (see 148041), K7 (148059), K14, and K17
+(148069), whereas tumor cells produced mainly keratins K8 (148060), K18
+(148070), and K19 (148020).
+
+GENE STRUCTURE
+
+Eckert and Rorke (1988) determined that the 5-prime region of the KRT5
+gene contains a TATA box and a potential CAAT box. The 3-prime region
+contains a single polyadenylation signal.
+
+GENE FUNCTION
+
+Knox et al. (2010) hypothesized that parasympathetic innervation is
+required for epithelial progenitor cell function during organogenesis.
+Removal of the parasympathetic ganglion in mouse explant organ culture
+decreased the number and morphogenesis of keratin 5-positive epithelial
+progenitor cells. These effects were rescued with an acetylcholine
+analog. Knox et al. (2010) demonstrated that acetylcholine signaling,
+via the muscarinic M1 receptor (118510) and epidermal growth factor
+receptor (131550), increased epithelial morphogenesis and proliferation
+of the keratin 5-positive progenitor cells. Parasympathetic innervation
+maintained the epithelial progenitor cell population in an
+undifferentiated state, which was required for organogenesis.
+
+MAPPING
+
+Rosenberg et al. (1991) assigned the type II epidermal keratin gene KRT5
+to chromosome 12 by use of Southern blot analysis of somatic cell
+hybrids. Bonifas et al. (1991) reported that a K5-specific human cosmid
+was localized to a position on chromosome 12 (12q11-q13) nearly
+indistinguishable from the location of D12S14 and D12S17 by 2-color
+fluorescence in situ hybridization. Inasmuch as epidermolysis bullosa
+simplex was found to be linked to D12S14 in 1 family, the very close
+localization of the KRT5 gene to D12S14 by multicolor fluorescence in
+situ hybridization supported KRT5 as a candidate gene (Bonifas et al.,
+1992).
+
+MOLECULAR GENETICS
+
+- Epidermolysis Bullosa Simplex
+
+In affected members of a large family with Dowling-Meara epidermolysis
+bullosa simplex (EBS) (131760), Lane et al. (1992) identified a
+heterozygous mutation in the KRT5 gene (E475G; 148040.0001).
+
+In the large Finnish family with the generalized (Koebner) type of EBS
+(131900), Dong et al. (1993) identified a heterozygous mutation in the
+KRT5 gene (L462P; 148040.0002).
+
+In affected members of 2 unrelated families with localized epidermolysis
+bullosa simplex (131800), Chan et al. (1993) identified a heterozygous
+mutation in the KRT5 gene (I161S; 148040.0003). Ehrlich et al. (1995)
+identified the I161S mutation in 6 of 13 cases of the localized type of
+EB simplex. The high frequency of this mutation suggested either a
+hotspot or founder effect.
+
+Humphries et al. (1996) concluded that the M327T (148040.0004) and N193K
+(148040.0007) mutations in KRT5 account for most cases of dominant
+localized epidermolysis bullosa simplex in Ireland.
+
+In affected members of 2 unrelated families with epidermolysis bullosa
+simplex with mottled pigmentation (EBS-MP; 131960), Uttam et al. (1996)
+identified a heterozygous mutation in the KRT5 gene (P24L; 148040.0009).
+Irvine et al. (1997) identified the P24L mutation in the sporadic case
+of a 6-year-old boy who showed acral blistering, mottled pigmentation of
+the limbs, and punctate hyperkeratoses primarily affecting the soles.
+The authors speculated that recurrence of this mutation may be related
+to the fact that it occurred in a CpG site. Although the mutation might
+explain the epidermolysis, the cause of the mottled pigmentation
+remained obscure.
+
+In a Japanese girl with epidermolysis bullosa simplex with migratory
+circinate erythema (609352) and affected members of an unrelated Korean
+family, Gu et al. (2003) identified heterozygosity for a 1-bp deletion
+(148040.0017) in the KRT5 gene. The patients had a phenotype that was
+less severe than that of EBS Dowling-Meara, with an unusual migratory
+circinate erythema and multiple vesicles on the erythematous area.
+
+Yasukawa et al. (2002) reported an unusual Japanese family with both
+autosomal recessive and dominant inheritance of EBS resulting in
+phenotypic variability. The proband was a man with classic generalized
+autosomal recessive EBS (EBSB1; 601001) who was compound heterozygous
+for the E170K (148040.0020) and E418K (148040.0021) mutations in the
+KRT5 gene. His paternal uncle, who had blisters restricted to the palms
+and soles consistent with localized EBS (131800), was heterozygous for
+the E170K mutation. The proband's deceased father and paternal
+grandmother, who were putatively heterozygous for the E170K mutation,
+also reportedly had localized blistering of the hands and feet. In
+contrast, 2 unaffected family members were heterozygous for the E418K
+substitution, implying that it is not pathogenic in isolation. In vitro
+functional expression studies showed that cells transfected with either
+mutation developed small ball-like filament aggregates, indicating a
+disruption of the keratin network, although the effect was more
+pronounced for the E170K mutation. Expression of both mutant proteins
+exacerbated the clumping and resulted in significantly more disruption
+than either alone. These findings were consistent with the marked
+phenotypic and genotypic variability observed in this family.
+
+- Dowling-Degos Disease 1
+
+Dowling-Degos disease-1 (DDD1; 179850) is an autosomal dominant
+genodermatosis characterized by progressive and disfiguring reticulate
+hyperpigmentation of the flexures. Betz et al. (2006) performed a
+genomewide linkage analysis of 2 German families and mapped DDD1 to
+chromosome 12q, with a total lod score of 4.42 (theta = 0.0) for marker
+D12S368. This region included the keratin gene cluster, which they
+screened for mutations. They identified loss-of-function mutations in
+the KRT5 gene (see, e.g., 148040.0018; 148040.0019) in all affected
+family members and in 6 unrelated patients with DDD1. This represented
+the first identified mutations that led to haploinsufficiency in a
+keratin gene. The identification of loss-of-function mutations, along
+with the results from additional functional studies, suggested a crucial
+role for keratin in the organization of cell adhesion, melanosome
+uptake, organelle transport, and nuclear anchorage.
+
+- Susceptibility to Basal Cell Carcinoma
+
+For a discussion of a possible association between the KRT5 gene and
+susceptibility to basal cell carcinoma, see BCC4 (613061).
+
+ANIMAL MODEL
+
+Peters et al. (2001) found that Krt5-null mice died shortly after birth,
+lacked keratin filaments in the basal epidermis, and were more severely
+affected than Krt14 (148066)-null mice. In contrast to the Krt14-null
+mice, Krt5-null mice showed a strong induction of the wound-healing
+Krt6a (148041) in the suprabasal epidermis of cytolyzed areas. Krt5-null
+and Krt14-null mice also differed with respect to tongue lesions. In the
+absence of Krt5, residual Krt14 and Krt15 (148030) aggregated along
+hemidesmosomes, demonstrating that individual keratins without a partner
+can be stable in vivo. The data also indicated that Krt5 may be the
+natural partner of Krt15 and Krt17 (148069). The findings suggested that
+KRT5 null mutations may be lethal in human epidermolysis bullosa simplex
+patients.
+
+Roth et al. (2009) found that skin from Krt5-null mice showed increased
+levels of the inflammatory cytokines MCP1 (CCL2; 158105), CCL19
+(602227), and CCL20 (601960), all of which are regulated by NFKB
+(164011) and involved in the recruitment, maturation, and migration of
+Langerhans cells in the epidermis. These changes were not observed in
+Krt14-null mice. The number of Langerhans cells were increased 2-fold in
+epidermis of neonatal Krt5-null mice. In contrast, TNFA (191160) was not
+changed, demonstrating the specificity of that process. The basal
+epidermis from Krt5-null mice also showed decreased p120-catenin
+(CTNND1; 601045). Enhanced Langerhans cell recruitment within the
+epidermis was found in 5 human patients with various forms of EBS due to
+KRT5 mutations, but not in EBS patients with KRT14 gene mutations. These
+data provided an first explanation for distinct, keratin-type-specific
+genotype-phenotype correlations in EBS, and suggested that the
+pathophysiology of EBS involves more than mutant keratins.
+
+ALLELIC VARIANT .0001
+EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE
+KRT5, GLU475GLY
+
+In affected members of a large family with Dowling-Meara EBS (131760),
+Lane et al. (1992) identified a heterozygous A-to-G transition in the
+KRT5 gene, resulting in a glu475-to-gly (E475G) substitution in a highly
+conserved position 3 residues before the end of the rod domain, in a
+sequence known as the helix termination peptide.
+
+.0002
+EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED
+KRT5, LEU462PRO
+
+In the large Finnish family with the generalized (Koebner) type of EBS
+(131900) in which Ryynanen et al. (1991) found linkage to the type II
+keratin cluster on 12q, Dong et al. (1993) found a heterozygous mutation
+in KRT5. The disorder was associated with a T-to-C transition (CTG to
+CCG) within exon 7, resulting in substitution of leucine by proline at
+codon 462 (L462P). The substituted leucine is one that is invariant
+among 8 different human keratins in a highly conserved segment at the
+carboxy-terminal region of the keratin 5 polypeptide.
+
+.0003
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED
+KRT5, ILE161SER
+
+In affected members of 2 unrelated families with localized EBS (131800),
+Chan et al. (1993) found a heterozygous T-to-G transversion in the
+second base position of codon 161 of 1 of the 2 K5 alleles, leading to a
+substitution of serine for isoleucine (I161S). Linkage analysis mapped
+the defect to 12q11-q13. Ehrlich et al. (1995) identified the same
+mutation in 6 of 13 cases of the Weber-Cockayne type of EB simplex. The
+high frequency of this mutation suggested either a hotspot or founder
+effect.
+
+Pfendner et al. (2005) identified a heterozygous I161S mutation in a
+patient with blistering of the hands and feet. The patient's affected
+mother carried the same mutation.
+
+.0004
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED
+KRT5, MET327THR
+
+localized EBS (131800), Chan et al. (1994) identified a heterozygous
+met327-to-thr (M327T) mutation in KRT5. The mutation cosegregated with
+the disease, was located in the nonhelical linker segment L1-2, and
+perturbed the ability of keratin 5 to assemble with its partner into
+10-nm filaments.
+
+Humphries et al. (1996) identified a heterozygous M327T mutation in
+affected members of a large Irish family with localized EBS.
+
+.0005
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED
+KRT5, ASN329LYS
+
+Chan et al. (1994) found a heterozygous N329K mutation in the KRT5 gene
+as the cause of localized EBS (131800) in a family with affected members
+in 2 generations. Like the M327T mutation (148040.0004), it was located
+in the nonhelical linker segment L1-2 of keratin 5 and perturbed the
+ability of keratin 5 to assemble with its partner into 10-nm filaments.
+
+.0006
+EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED
+KRT5, LYS173ASN
+
+In a family with autosomal dominant generalized EBS (131900), Stephens
+et al. (1995) demonstrated a mutation predicted to result in the
+substitution of an evolutionarily conserved lysine by an asparagine
+residue (K173N). Unlike previous heterozygous mutations located within
+the initial segment of domain 1A of keratins, K173N heterozygosity did
+not result in severe disease or clumping of keratin filaments. One
+family member was homozygous for the K173N allele, having inherited it
+from each of her affected first-cousin parents. Despite a lack of normal
+keratin-5 molecules and an effective doubling of abnormal molecules
+available for heterodimerization with keratin-14 during formation of
+intermediate filaments (IFs), there were no significant differences in
+either the clinical severity or the ultrastructural organization of the
+homozygous individual's keratin IF cytoskeleton. These data demonstrated
+that the K173N mutation behaves as a fully dominant allele. The findings
+indicated also that a limited number of abnormal keratin molecules are
+sufficient to impair cytoskeletal function and elicit epidermal
+fragility and blistering.
+
+.0007
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED
+KRT5, ASN193LYS
+
+In affected members of a large Irish family with localized EBS (131800),
+Humphries et al. (1996) identified a heterozygous mutation in the KRT5
+gene, resulting in an asn193-to-lys (N193K) substitution.
+
+.0008
+EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE
+KRT5, LEU174PHE
+
+In a Japanese patient with epidermolysis bullosa simplex Dowling-Meara
+type (131760), Nomura et al. (1996) identified a heterozygous C-to-T
+transition in the KRT5 gene, resulting in a leu174-to-phe (L174F)
+substitution in the highly conserved 1A region within the helix
+initiation peptide.
+
+.0009
+EPIDERMOLYSIS BULLOSA SIMPLEX WITH MOTTLED PIGMENTATION
+KRT5, PRO25LEU
+
+In 2 unrelated families with epidermolysis bullosa simplex with mottled
+pigmentation (EBS-MP; 131960), Uttam et al. (1996) found a heterozygous
+C-to-T transition at base position 71 of the KRT5 gene, causing a P24L
+substitution. The mutation occurred in the V1 domain of keratin 5;
+previous mutations of K5 or K14 (148066) reported in EBS had been
+located in the central helical rod domains, with a tendency to aggregate
+at the highly conserved helix boundary peptides or at the nonhelical L12
+linker domain. Irvine et al. (1997) identified the same mutation in the
+sporadic case of a 6-year-old boy who showed acral blistering, mottled
+pigmentation of the limbs, and punctate hyperkeratoses primarily
+affecting the soles. The authors speculated that recurrence of this
+mutation may be related to the fact that it occurred in a CpG site.
+Although the mutation might explain the epidermolysis, the cause of the
+mottled pigmentation remained obscure.
+
+Until 1999, the P24L mutation of the KRT5 gene was the only mutation
+identified in patients with EBS-MP. Moog et al. (1999) described a
+sporadic patient and a family with an affected 6-year-old girl, her
+mother, and maternal aunt; all of them had the P24L mutation. The
+6-year-old girl showed erythema with telangiectasia on the cheeks and
+above the upper lip at birth. From 6 months of age, blisters arose daily
+after minor trauma, predominantly on the distal extremities. The lesions
+healed without scarring. Over time, the tendency to blistering decreased
+considerably. However, her skin remained fragile on sites where adhesive
+tape was used. Hyperpigmented spots that were not preceded by blistering
+developed from infancy. The mother had mild blistering (always confined
+to the feet) and mottled pigmentation from infancy.
+
+Irvine et al. (2001) reported a KRT5 pro25-to-leu mutation in 2
+additional families, increasing the total number of EBS-MP kindreds with
+this mutation to 7. This mutation was previously reported as PRO24LEU
+based on the numbering suggested by Lersch et al. (1989), which ignores
+the initial methionine. All other KRT5 mutations are numbered according
+to GenBank GENBANK M21389, which includes methionine. Irvine et al.
+(2001) suggested that the P25L designation be used in future reports.
+
+Glasz-Bona et al. (2010) identified a heterozygous P25L mutation in
+affected members of a 4-generation Hungarian pedigree with EBS-MP. There
+were 10 affected members, 5 of whom were deceased. All had localized
+blistering and skin fragility in childhood, followed by the development
+of brownish, lentigo-like mottled pigmentation and hypopigmentation on
+the trunk and/or extremities in adolescence and adulthood. Two patients
+also had nail dystrophy. In this family, the P25L mutation segregated
+with a gly138-to-glu (G138E) polymorphism.
+
+.0010
+EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED
+KRT5, VAL7ALA
+
+In a family with the autosomal dominant generalized variant of
+epidermolysis bullosa simplex (131900), Galligan et al. (1998) found a
+heterozygous T-to-C transition in codon 323 of KRT5 in affected
+individuals, resulting in a valine to alanine substitution of the
+seventh residue within the L12 linker domain. The valine at this
+position is absolutely conserved in all type II keratins, and in other
+intermediate filament subunits as well, which suggests that this residue
+makes an important contribution to filament integrity. Secondary
+structure analysis revealed that alanine at this position markedly
+reduces both the hydrophobicity and the beta-sheet nature of the L12
+domain.
+
+.0011
+EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE
+KRT5, IVS1DS, G-A, +1
+
+In affected members of a large French family with Dowling-Meara EBS
+(131760), Rugg et al. (1999) identified a heterozygous G-to-A transition
+at the +1 position of the consensus GT donor splice site of intron 1 of
+KRT5. This mutation leads to the use of an exonic GT cryptic donor
+splice site located 66 nucleotides upstream from the normal donor splice
+site. The corresponding peptide deletion includes the last 5 amino acids
+of the H1 head domain and the first 17 amino acids of the conserved
+N-terminal end of the 1A rod domain, including the first 2 heptad
+repeats and the helix initiation peptide. Owing to the functional
+importance of the removed region, the data strongly suggested that
+shortened keratin polypeptide can impair keratin filament assembly in a
+dominant manner and cause the Dowling-Meara type of EBS.
+
+.0012
+EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE
+KRT5, SER181PRO
+
+In an infant with no family history of skin disease who presented within
+hours of birth with extensive blistering of the skin and oral mucosa and
+subsequently developed hoarse cries, Shemanko et al. (2000) detected a
+T-to-C transition at the second nucleotide position of codon 181,
+resulting in a ser-to-pro amino acid change (ser181 to pro; S181P). The
+serine at position 181 in the helix initiation motif of keratin 5 is a
+highly conserved amino acid across keratins and other intermediate
+filament proteins. Although hoarseness is not a well documented feature
+of Dowling-Meara epidermolysis bullosa simplex (131760), this patient
+and another (see 148066.0003) demonstrated that hoarseness does not
+necessarily indicate a poor prognosis.
+
+.0013
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED
+KRT5, 1-BP DEL, 1635G
+
+Sprecher et al. (2003) reported a 25-year-old male of Ashkenazi Jewish
+origin whose initial clinical presentation, structural abnormalities of
+lesional skin, and course of disease were consistent with a very mild
+localized form of EBS (131800). DNA sequence analysis of the complete
+coding sequence of the K5 gene disclosed in exon 9 a heterozygous
+guanine deletion at position 1635 downstream of the ATG start codon of
+K5 (1635delG). This mutation introduced a frameshift and delayed stop
+codon 80 amino acids downstream of the mutation site. The deletion was
+predicted to lead to the translation of an aberrant K5 protein carrying
+an elongated tail domain.
+
+.0014
+EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED
+KRT5, VAL186LEU
+
+In a family with severe generalized EBS (131900), Liovic et al. (2001)
+found a novel K5 mutation, val186 to leu (V186L), that produced a
+conservative amino acid change at position 18 of the 1A helix. The
+phenotype was unexpectedly severe for the location of the mutation,
+which lies outside the consensus helix initiation motif mutation
+hotspot, and other mutations at this position have been associated with
+Weber-Cockayne (mild) epidermolysis bullosa simplex (131800) only. De
+novo K5/K14 (148066) (mutant and wildtype) filament assembly in cultured
+cells was studied to determine the effect of this mutation on filament
+polymerization and stability. To visualize the structural impact of this
+mutation and to compare it with an analogous mutation causing mild
+disease, Liovic et al. (2001) generated a computer model of the 1A
+region of the K5/K14 coiled-coil. The results showed a high level of
+concordance between genetic, cell culture, and molecular modeling data,
+suggesting that even a conservative substitution can cause severe
+dysfunction in a structural protein, depending on the size and structure
+of the amino acid involved.
+
+.0015
+EPIDERMOLYSIS BULLOSA SIMPLEX, DOWLING-MEARA TYPE, WITH SEVERE PALMOPLANTAR
+KERATODERMA
+KRT5, GLU477TER
+
+In a German patient with epidermolysis bullosa simplex, Dowling-Meara
+type (131760) with severe palmoplantar keratoderma, Muller et al. (1999)
+found a 1429G-T transversion in the KRT5 gene that predicted a
+glu477-to-ter (E477X) substitution at the last glutamate residue of the
+KLLEGE motif. As a child, the patient developed severe palmoplantar
+hyperkeratoses before she began to walk.
+
+.0016
+EPIDERMOLYSIS BULLOSA SIMPLEX, GENERALIZED, WITH SEVERE PALMOPLANTAR
+KERATOSIS
+KRT5, LYS472TER
+
+Livingston et al. (2001) reported an epidermolysis bullosa simplex
+patient with severe palmoplantar keratosis, underlying erythema in a
+'glove and moccasin' distribution, and limited range of motion in the
+fingers. Clinical, histologic, and ultrastructural features were
+consistent with a diagnosis of generalized EBS (Koebner subtype;
+131900). The patient had a novel single-base substitution, 1414A-T, in
+the KRT5 gene that changed the lysine residue at amino acid 472 to a
+nonsense codon (K472X). This change predicted the synthesis of a
+truncated keratin-5, missing 119 amino acids, including the entire tail
+domain and the highly conserved KLLEGE motif at the carboxy terminus of
+the 2B domain of the central rod. Expression of an altered keratin-5, of
+predicted mass and pI for the product of the K472X allele, was
+documented by 1- and 2-dimensional Western blots of protein extracts
+from patient skin. Ultrastructural analysis of the patient's
+nonhyperkeratotic skin was remarkable for basal keratinocytes with dense
+and irregular keratin filaments proximal to the basement membrane.
+Keratinocytes, transfected with a cDNA carrying the K472X nonsense
+mutation, overexpressed a truncated keratin-5, and showed a disorganized
+and collapsed keratin filament cytoskeleton. This was the second
+epidermolysis bullosa simplex patient reported with a premature
+termination mutation in the KLLEGE motif (see 148040.0015). The
+occurrence of severe palmoplantar hyperkeratosis in both patients
+suggested that the keratin-5 tail domain may have important functions in
+palmoplantar tissues.
+
+.0017
+EPIDERMOLYSIS BULLOSA SIMPLEX WITH MIGRATORY CIRCINATE ERYTHEMA
+KRT5, 1-BP DEL, 1649G
+
+In a Japanese girl with epidermolysis bullosa simplex with migratory
+circinate erythema (609352) and affected members of an unrelated Korean
+family, Gu et al. (2003) identified heterozygosity for a deletion
+mutation (1649delG) in exon 9 of the KRT5 gene, involving the V2 domain
+and predicted to cause a frameshift that would delay the termination
+codon and result in a protein 35 amino acids longer than the wildtype.
+The patients had a phenotype that was less severe than that of EBS
+Dowling-Meara, with an unusual migratory circinate erythema and multiple
+vesicles on the erythematous area. The mutation was assumed to have
+arisen de novo in the Japanese girl, as there were no other affected
+family members, and the mutation was not found in the DNA of blood
+samples from her parents.
+
+When a younger sister with EBS was born into the Japanese family
+previously reported by Gu et al. (2003) and was found to have the same
+1649delG mutation as her older sib, Nagao-Watanabe et al. (2004)
+reinvestigated the familial segregation of the mutation and identified
+heterozygosity for the deletion in the mother's DNA from hair bulb and
+buccal cell samples. Closer scrutiny of the mother's history revealed
+that she had migratory circinate pigmentation of the skin in childhood,
+and Nagao-Watanabe et al. (2004) concluded that this represented
+maternal somatic and germline mosaicism.
+
+.0018
+DOWLING-DEGOS DISEASE 1
+KRT5, 1-BP DUP, 418A
+
+In 2 German pedigrees with Dowling-Degos disease (179850) described by
+Biltz and Kiessling (1988) and Milde et al. (1994), Betz et al. (2006)
+demonstrated a single adenine base insertion in the KRT5 gene (418dupA).
+The mutation was predicted to lead to frameshift and premature
+termination of translation at codon 178 (Ile140AsnfsTer39). Haplotype
+and SNP analyses revealed that the mutation arose on the same genetic
+background in the 2 families, suggesting a common ancestor. Betz et al.
+(2006) also performed mutation analysis on the KRT5 gene in 8 patients
+not belonging to the original pedigrees. In 5 of the 8 screened
+patients, the frameshift mutation was also identified. Genotyping of
+additional markers around the mutation showed a result compatible with
+the existence of a common ancestor for all affected individuals. Milde
+et al. (1994) described the disorder in the family they reported as
+Dowling-Degos-Kitamura disease.
+
+.0019
+DOWLING-DEGOS DISEASE 1
+KRT5, SER5TER
+
+In a patient with Dowling-Degos disease (179850) reported by Braun-Falco
+and Ring (2003), Betz et al. (2006) found a heterozygous nonsense
+mutation resulting in a premature stop codon (14C-A; S5X).
+
+.0020
+EPIDERMOLYSIS BULLOSA SIMPLEX, AUTOSOMAL RECESSIVE 1
+EPIDERMOLYSIS BULLOSA SIMPLEX, LOCALIZED, INCLUDED
+KRT5, GLU170LYS
+
+In an unusual Japanese patient with autosomal recessive inheritance of
+generalized EBS (EBSB1; 601001), Yasukawa et al. (2002) identified
+compound heterozygosity for 2 mutations in the KRT5 gene: a G-to-A
+transition in exon 1, resulting in a glu170-to-lys (E170K) substitution
+in the highly conserved helix initiation peptide sequence of the 1A rod
+domain, and a G-to-A transition in exon 7, resulting in a glu418-to-lys
+(E418K; 148040.0021) substitution in the 2B domain, which is the
+so-called 'stutter' region, an interruption in the heptad repeat
+substructure. He had the classic phenotype, with blistering of the trunk
+and extremities, improvement with age, and cytolysis within basal
+keratinocytes on biopsy. His paternal uncle, who had blisters restricted
+to the palms and soles consistent with localized EBS (131800), was
+heterozygous for the E170K mutation. The proband's deceased father and
+paternal grandmother, who were putatively heterozygous for the E170K
+mutation, also reportedly had localized blistering of the hands and
+feet. In contrast, 2 unaffected family members were heterozygous for the
+E418K substitution, implying that it is not pathogenic in isolation.
+Neither mutation was identified in 100 control alleles. In vitro
+functional expression studies showed that cells transfected with either
+mutation developed small ball-like filament aggregates, indicating a
+disruption of the keratin network, although the effect was more
+pronounced for the E170K mutation. Expression of both mutant proteins
+exacerbated the clumping and resulted in significantly more disruption
+than either alone. These findings were consistent with the marked
+phenotypic and genotypic variability observed in this family.
+
+.0021
+EPIDERMOLYSIS BULLOSA SIMPLEX, AUTOSOMAL RECESSIVE 1
+KRT5, GLU418LYS
+
+See 148040.0020 and Yasukawa et al. (2002).
+
+REFERENCE 1. Betz, R. C.; Planko, L.; Eigelshoven, S.; Hanneken, S.; Pasternack,
+S. M.; Bussow, H.; Van Den Bogaert, K.; Wenzel, J.; Braun-Falco, M.;
+Rutten, A.; Rogers, M. A.; Ruzicka, T.; Nothen, M. M.; Magin, T. M.;
+Kruse, R.: Loss-of-function mutations in the keratin 5 gene lead
+to Dowling-Degos disease. Am. J. Hum. Genet. 78: 510-519, 2006.
+
+2. Biltz, H.; Kiessling, M.: Dowling-Degos disease--an autosomally
+dominant genodermatosis. Zeitsch. Hautk. 63: 642-644, 1988.
+
+3. Bonifas, J. M.; Bare, J. W.; Lynch, E. D.; Lebo, R. V.; Epstein,
+E. H., Jr.: Regional assignment of the human keratin 5 (KRT5) gene
+to chromosome 12q near D12S14 by PCR analysis of somatic cell hybrids
+and multicolor in situ hybridization. Genomics 13: 452-454, 1992.
+
+4. Bonifas, J. M.; Rothman, A. L.; Epstein, E. H., Jr.: Epidermolysis
+bullosa simplex: evidence in two families for keratin gene abnormalities. Science 254:
+1202-1205, 1991.
+
+5. Braun-Falco, M.; Ring, J.: Enhanced cytoplasmic expression of
+desmocollin 3 in epidermal rete ridges of Dowling-Degos syndrome. Brit.
+J. Derm. 149: 1293-1296, 2003.
+
+6. Chan, Y.; Yu, Q.-C.; LeBlanc-Straceski, J.; Christiano, A.; Pulkkinen,
+L.; Kucherlapati, R. S.; Uitto, J.; Fuchs, E.: Mutations in the non-helical
+linker segment L1-2 of keratin 5 in patients with Weber-Cockayne epidermolysis
+bullosa simplex. J. Cell Sci. 107: 765-774, 1994.
+
+7. Chan, Y.-M.; Yu, Q.-C.; Fine, J.-D.; Fuchs, E.: The genetic basis
+of Weber-Cockayne epidermolysis bullosa simplex. Proc. Nat. Acad.
+Sci. 90: 7414-7418, 1993.
+
+8. Dong, W.; Ryynanen, M.; Uitto, J.: Identification of a leucine-to-proline
+mutation in the keratin 5 gene in a family with the generalized Koebner
+type of epidermolysis bullosa simplex. Hum. Mutat. 2: 94-102, 1993.
+
+9. Eckert, R. L.; Rorke, E. A.: The sequence of the human epidermal
+58-kD (#5) type II keratin reveals an absence of 5-prime upstream
+sequence conservation between coexpressed epidermal keratins. DNA 7:
+337-345, 1988.
+
+10. Ehrlich, P.; Sybert, V. P.; Spencer, A.; Stephens, K.: A common
+keratin 5 gene mutation in epidermolysis bullosa simplex: Weber-Cockayne. J.
+Invest. Derm. 104: 877-879, 1995.
+
+11. Galligan, P.; Listwan, P.; Siller, G. M.; Rothnagel, J. A.: A
+novel mutation in the L12 domain of keratin 5 in the Koebner variant
+of epidermolysis bullosa simplex. J. Invest. Derm. 111: 524-527,
+1998.
+
+12. Glasz-Bona, A.; Medvecz, M.; Viragh, Z.; Hatvani, Z.; Blazsek,
+A.; Karpati, S.: Epidermolysis bullosa simplex with mottled pigmentation--mutation
+analysis proved the diagnosis in a four-generation pedigree. Europ.
+J. Derm. 20: 698-700, 2010.
+
+13. Gu, L.-H.; Kim, S.-C.; Ichiki, Y.; Park, J.; Nagai, M.; Kitajima,
+Y.: A usual frameshift and delayed termination codon mutation in
+keratin 5 causes a novel type of epidermolysis bullosa simplex with
+migratory circinate erythema. J. Invest. Derm. 121: 482-485, 2003.
+
+14. Humphries, M. M.; Mansergh, F. C.; Kiang, A.-S.; Jordan, S. A.;
+Sheils, D. M.; Martin, M. J.; Farrar, G. J.; Kenna, P. F.; Young,
+M. M.; Humphries, P.: Three keratin gene mutations account for the
+majority of dominant simplex epidermolysis bullosa cases within the
+population of Ireland. Hum. Mutat. 8: 57-63, 1996.
+
+15. Irvine, A. D.; McKenna, K. E.; Jenkinson, H.; Hughes, A. E.:
+A mutation in the V1 domain of keratin 5 causes epidermolysis bullosa
+simplex with mottled pigmentation. J. Invest. Derm. 108: 809-810,
+1997.
+
+16. Irvine, A. D.; Rugg, E. L.; Lane, E. B.; Hoare, S.; Peret, C.;
+Hughes, A. E.; Heagerty, A. H.: Molecular confirmation of the unique
+phenotype of epidermolysis bullosa simplex with mottled pigmentation. Brit.
+J. Derm. 144: 40-45, 2001.
+
+17. Knox, S. M.; Lombaert, I. M. A.; Reed, X.; Vitale-Cross, L.; Gutkind,
+J. S.; Hoffman, M. P.: Parasympathetic innervation maintains epithelial
+progenitor cells during salivary organogenesis. Science 329: 1645-1647,
+2010.
+
+18. Lane, E. B.; Rugg, E. L.; Navsaria, H.; Leigh, I. M.; Heagerty,
+A. H. M.; Ishida-Yamamoto, A.; Eady, R. A. J.: A mutation in the
+conserved helix termination peptide of keratin 5 in hereditary skin
+blistering. Nature 356: 244-246, 1992.
+
+19. Lersch, R.; Fuchs, E.: Sequence and expression of a type II keratin,
+K5, in human epidermal cells. Molec. Cell. Biol. 8: 486-493, 1988.
+
+20. Lersch, R.; Stellmach, V.; Stocks, C.; Giudice, G.; Fuchs, E.
+: Isolation, sequence, and expression of a human keratin K5 gene:
+transcriptional regulation of keratins and insights into pairwise
+control. Molec. Cell. Biol. 9: 3685-3697, 1989.
+
+21. Liovic, M.; Stojan, J.; Bowden, P. E.; Gibbs, D.; Vahlquist, A.;
+Lane, E. B.; Komel, R.: A novel keratin 5 mutation (K5V186L) in a
+family with EBS-K: a conservative substitution can lead to development
+of different disease phenotypes. J. Inves. Derm. 116: 964-969, 2001.
+
+22. Livingston, R. J.; Sybert, V. P.; Smith, L. T.; Dale, B. A.; Presland,
+R. B.; Stephens, K.: Expression of a truncated keratin 5 may contribute
+to severe palmar-plantar hyperkeratosis in epidermolysis bullosa simplex
+patients. J. Invest. Derm. 116: 970-974, 2001.
+
+23. Milde, P.; Suss, R.; Megahed, M.; Goerz, G.: Morbus Dowling-Degos-Kitamura. Z.
+Hautkr. 69: 282-283, 1994.
+
+24. Mischke, D.; Wille, G.; Wild, A. G.: Allele frequencies and segregation
+of human polymorphic keratins K4 and K5. Am. J. Hum. Genet. 46:
+548-552, 1990.
+
+25. Moog, U.; de Die-Smulders, C. E. M.; Scheffer, H.; van der Vlies,
+P.; Henquet, C. J. M.; Jonkman, M. F.: Epidermolysis bullosa simplex
+with mottled pigmentation: clinical aspects and confirmation of the
+P24L mutation in the KRT5 gene in further patients. Am. J. Med. Genet. 86:
+376-379, 1999.
+
+26. Muller, F. B.; Anton-Lamprecht, I.; Kuster, W.; Korge, B. P.:
+A premature stop codon mutation in the 2B helix termination peptide
+of keratin 5 in a German epidermolysis bullosa simplex Dowling-Meara
+case. J. Invest. Derm. 112: 988-990, 1999.
+
+27. Nagao-Watanabe, M.; Fukao, T.; Matsui, E.; Kaneko, H.; Inoue,
+R.; Kawamoto, N.; Kasahara, K.; Nagai, M.; Ichiki, Y.; Kitajima, Y.;
+Kondo, N.: Identification of somatic and germline mosaicism for a
+keratin 5 mutation in epidermolysis bullosa simplex in a family of
+which the proband was previously regarded as a sporadic case. Clin.
+Genet. 66: 236-238, 2004.
+
+28. Nomura, K.; Shimizu, H.; Meng, X.; Umeki, K.; Tamai, K.; Sawamura,
+D.; Nagao, K.; Kawakami, T.; Nishikawa, T.; Hashimoto, I.: A novel
+keratin K5 mutation in Dowling-Meara epidermolysis bullosa simplex. J.
+Invest. Derm. 107: 253-254, 1996.
+
+29. Peters, B.; Kirfel, J.; Bussow, H.; Vidal, M.; Magin, T. M.:
+Complete cytolysis and neonatal lethality in keratin 5 knockout mice
+reveal its fundamental role in skin integrity and in epidermolysis
+bullosa simplex. Molec. Biol. Cell 12: 1775-1789, 2001.
+
+30. Pfendner, E. G.; Sadowski, S. G.; Uitto, J.: Epidermolysis bullosa
+simplex: recurrent and de novo mutations in the KRT5 and KRT14 genes,
+phenotype/genotype correlations, and implications for genetic counseling
+and prenatal diagnosis. J. Invest. Derm. 125: 239-243, 2005.
+
+31. Rosenberg, M.; Fuchs, E.; Le Beau, M. M.; Eddy, R. L.; Shows,
+T. B.: Three epidermal and one simple epithelial type II keratin
+genes map to human chromosome 12. Cytogenet. Cell Genet. 57: 33-38,
+1991.
+
+32. Roth, W.; Reuter, U.; Wohlenberg, C.; Bruckner-Tuderman, L.; Magin,
+T. M.: Cytokines as genetic modifiers in K5-/- mice and in human
+epidermolysis bullosa simplex. Hum. Mutat. 30: 832-841, 2009.
+
+33. Rugg, E. L.; Rachet-Prehu, M.-O.; Rochat, A.; Barrandon, Y.; Goossens,
+M.; Lane, E. B.; Hovnanian, A.: Donor splice site mutation in keratin
+5 causes in-frame removal of 22 amino acids of H1 and 1A rod domains
+in Dowling-Meara epidermolysis bullosa simplex. Europ. J. Hum. Genet. 7:
+293-300, 1999.
+
+34. Ryynanen, M.; Knowlton, R. G.; Uitto, J.: Mapping of epidermolysis
+bullosa simplex mutation to chromosome 12. Am. J. Hum. Genet. 49:
+978-984, 1991.
+
+35. Shemanko, C. S.; Horn, H. M.; Keohane, S. G.; Hepburn, N.; Kerr,
+A. I. G.; Atherton, D. J.; Tidman, M. J.; Lane, E. B.: Laryngeal
+involvement in the Dowling-Meara variant of epidermolysis bullosa
+simplex with keratin mutations of severely disruptive potential. Brit.
+J. Derm. 142: 315-320, 2000.
+
+36. Sprecher, E.; Yosipovitch, G.; Bergman, R.; Ciubutaro, D.; Indelman,
+M.; Pfendner, E.; Goh, L. C.; Miller, C. J.; Uitto, J.; Richard, G.
+: Epidermolytic hyperkeratosis and epidermolysis bullosa simplex caused
+by frameshift mutations altering the V2 tail domains of keratin 1
+and keratin 5. J. Invest. Derm. 120: 623-626, 2003.
+
+37. Stephens, K.; Zlotogorski, A.; Smith, L.; Ehrlich, P.; Wijsman,
+E.; Livingston, R. J.; Sybert, V. P.: Epidermolysis bullosa simplex:
+a keratin 5 mutation is a fully dominant allele in epidermal cytoskeleton
+function. Am. J. Hum. Genet. 56: 577-585, 1995.
+
+38. Trask, D. K.; Band, V.; Zajchowski, D. A.; Yaswen, P.; Suh, T.;
+Sager, R.: Keratins as markers that distinguish normal and tumor-derived
+mammary epithelial cells. Proc. Nat. Acad. Sci. 87: 2319-2323, 1990.
+
+39. Uttam, J.; Hutton, E.; Coulombe, P. A.; Anton-Lamprecht, I.; Yu,
+Q.-C.; Gedde-Dahl, T., Jr.; Fine, J.-D.; Fuchs, E.: The genetic basis
+of epidermolysis bullosa simplex with mottled pigmentation. Proc.
+Nat. Acad. Sci. 93: 9079-9084, 1996.
+
+40. Yasukawa, K.; Sawamura, D.; McMillan, J. R.; Nakamura, H.; Shimizu,
+H.: Dominant and recessive compound heterozygous mutations in epidermolysis
+bullosa simplex demonstrate the role of the stutter region in keratin
+intermediate filament assembly. J. Biol. Chem. 277: 23670-23674,
+2002.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 7/23/2013
+Cassandra L. Kniffin - updated: 3/26/2012
+Ada Hamosh - updated: 11/10/2010
+Cassandra L. Kniffin - updated: 11/3/2009
+Cassandra L. Kniffin - updated: 8/25/2009
+Victor A. McKusick - updated: 2/27/2006
+Marla J. F. O'Neill - updated: 4/29/2005
+Patricia A. Hartz - updated: 11/12/2004
+Gary A. Bellus - updated: 4/28/2003
+Gary A. Bellus - updated: 4/25/2003
+Gary A. Bellus - updated: 4/10/2003
+Gary A. Bellus - updated: 4/9/2001
+Gary A. Bellus - updated: 6/13/2000
+Victor A. McKusick - updated: 10/28/1999
+Wilson H. Y. Lo - updated: 9/9/1999
+Victor A. McKusick - updated: 2/3/1999
+Victor A. McKusick - updated: 6/21/1997
+Cynthia K. Ewing - updated: 11/22/1996
+Moyra Smith - updated: 8/29/1996
+
+CREATED Victor A. McKusick: 6/2/1986
+
+EDITED carol: 11/04/2013
+carol: 9/30/2013
+ckniffin: 9/24/2013
+carol: 7/23/2013
+alopez: 3/29/2012
+terry: 3/28/2012
+ckniffin: 3/26/2012
+ckniffin: 11/19/2010
+alopez: 11/15/2010
+terry: 11/10/2010
+wwang: 11/19/2009
+ckniffin: 11/3/2009
+alopez: 10/2/2009
+carol: 9/14/2009
+ckniffin: 8/25/2009
+wwang: 9/21/2006
+alopez: 3/1/2006
+alopez: 2/28/2006
+terry: 2/27/2006
+wwang: 5/5/2005
+wwang: 5/2/2005
+terry: 4/29/2005
+mgross: 11/12/2004
+alopez: 4/28/2003
+alopez: 4/25/2003
+alopez: 4/10/2003
+mgross: 2/22/2002
+alopez: 4/9/2001
+alopez: 6/13/2000
+carol: 11/3/1999
+terry: 10/28/1999
+carol: 9/9/1999
+carol: 2/7/1999
+terry: 2/3/1999
+alopez: 5/14/1998
+terry: 6/24/1997
+alopez: 6/23/1997
+terry: 6/21/1997
+alopez: 6/2/1997
+mark: 11/22/1996
+mark: 8/29/1996
+terry: 8/28/1996
+terry: 8/22/1996
+mark: 8/18/1995
+jason: 7/1/1994
+carol: 10/4/1993
+carol: 6/30/1993
+carol: 4/6/1993
+carol: 7/6/1992
+
+602731	TITLE *602731 FYN-BINDING PROTEIN; FYB
+;;SLAP130;;
+p120/130;;
+ADHESION AND DEGRANULATION ADAPTOR PROTEIN; ADAP
+DESCRIPTION 
+CLONING
+
+T-cell receptor signaling involves activation of the src
+protein-tyrosine kinases LCK (153390) and FYN (137025), leading to the
+phosphorylation of various substrates including SLP76 (LCP2; 601603). Da
+Silva et al. (1993) identified FYB (called p120/130 by them), a 120- and
+130-kD protein doublet that associates with the SH2 domain of FYN.
+T-cell receptor ligation led to increased tyrosine phosphorylation of
+FYB. Da Silva et al. (1997) showed that the 120- and 130-kD doublet is
+composed of 2 related isoforms of FYB. In T cells from FYN mutant mice,
+the phosphorylation of FYB was reduced, but not abolished, suggesting to
+da Silva et al. (1997) that FYB could be phosphorylated by another
+kinase. By screening a Jurkat T-cell line expression library with
+antibodies against FYB, da Silva et al. (1997) identified FYB cDNAs.
+Northern blot analysis revealed that the 4.5-kb FYB mRNA is expressed
+only in myeloid and T cells. Expression of FYB in mammalian cells
+yielded a protein that migrated at 120 kD on SDS-PAGE. By Western
+blotting, da Silva et al. (1997B) showed that FYB coimmunoprecipitated
+with FYN and with SLP76 in mammalian cell lysates. They concluded that
+FYB acts as a component of the FYN and SLP76 signaling cascades in T
+cells.
+
+Musci et al. (1997) cloned cDNAs encoding SLAP130, a 130-kD
+phosphoprotein that is associated with SLP76. Da Silva et al. (1997)
+stated that SLAP130 is identical to FYB except for 2 conservative and 1
+nonconservative amino acid substitutions. Musci et al. (1997) attributed
+the difference between the calculated mass of SLAP130 (86 kD) and the
+observed mass by SDS-PAGE (130 kD) to posttranslational modifications or
+the abundance of charged amino acids.
+
+Da Silva et al. (1997) used the human FYB cDNA to clone the mouse
+homolog. The sequence of the predicted 783-amino acid human FYB protein
+shares 77% identity with that of mouse FYB.
+
+GENE FUNCTION
+
+By immunoblot analysis, Geng et al. (2001) showed that FCER1A (147140)
+aggregation induces rapid FYB tyrosine phosphorylation in rat basophilic
+leukemia mast cells and the release of beta hexosaminidase (see 606873).
+Confocal microscopy demonstrated that FYB colocalizes with actin (see
+ACTA1; 102610) in membrane ruffles. FYB overexpression enhanced mast
+cell adhesion to fibronectin (FN1; 135600) and SH3 domain-mediated
+release of beta hexosaminidase, implying increased histamine release as
+well. Mast cell adhesion had no effect on FYB phosphorylation but
+enhanced beta hexosaminidase release.
+
+Medeiros et al. (2007) presented evidence for a previously unrecognized
+function for ADAP in regulating T-cell receptor (TCR)-mediated
+activation of the transcription factor NF-kappa-B (see 164011).
+Stimulation of ADAP-deficient mouse T cells with antibodies to CD3 (see
+186740) and CD28 (186760) resulted in impaired nuclear translocation of
+NF-kappa-B, a reduced DNA binding, and delayed degradation and decreased
+phosphorylation of I-kappa-B (see 164008). TCR-stimulated assembly of
+the CARMA1 (607210)-BCL10 (603517)-MALT1 (604860) complex was
+substantially impaired in the absence of ADAP. Medeiros et al. (2007)
+further identified a region of ADAP that is required for association
+with the CARMA1 adaptor and NF-kappa-B activation but is not required
+for ADAP-dependent regulation of adhesion.
+
+ANIMAL MODEL
+
+Using gene targeting strategies, Griffiths et al. (2001) and Peterson et
+al. (2001) each generated mice lacking Fyb expression in mature T
+lymphocytes. Although lymphocyte development was normal in these mice,
+splenic CD4 (186940)-positive and CD8 (see 186910)-positive T-cell
+numbers were reduced, suggesting that Fyb may be required for peripheral
+T-cell homeostasis. T-cell proliferation in response to phorbol ester
+was normal in Fyb-deficient cells, but responses to anti-CD3E (186830),
+with or without anti-CD28 (186760), were reduced, as were cytokine
+production and activation marker upregulation. These results
+demonstrated that Fyb acts as a positive regulator of T-cell activation.
+Fyb-deficient mice also had reduced antibody production to T-dependent
+antigens in vivo. Although downstream signaling pathways and antigen
+receptor clustering were normal, clustering of the integrin LFA1 (see
+153370 and 600065) was not. Flow chamber analysis demonstrated that
+anti-CD3E-stimulated but not phorbol ester-stimulated Fyb-deficient T
+cells were defective in adhering to mouse Icam1 (147840), to human ICAM2
+(146630), and to other substrates mediated by integrins, although
+integrin expression was not reduced. Using confocal microscopy, Peterson
+et al. (2001) showed that Fyb-deficient T cells had normal clustering of
+actin but no polarization of LFA1, whereas LFA1 clustering was markedly
+increased in wildtype T cells. Griffiths et al. (2001) concluded that
+the T-cell receptor-induced adhesion defect in integrin activation was
+due to a block in 'inside-out' signaling between the T-cell receptor and
+integrins. Peterson et al. (2001) and Griffiths et al. (2001) proposed
+that on the basis of these findings and studies by Geng et al. (2001),
+which implicated FYB in vasoactive mediator release, that FYB be
+redesignated 'adhesion and degranulation adaptor protein,' or ADAP.
+
+REFERENCE 1. da Silva, A. J.; Janssen, O.; Rudd, C. E.: T cell receptor zeta/CD3-p59fyn(T)-associated
+p120/130 binds to the SH2 domain of p59fyn(T). J. Exp. Med. 178:
+2107-2113, 1993.
+
+2. da Silva, A. J.; Li, Z.; De Vera, C.; Canto, E.; Findell, P.; Rudd,
+C. E.: Cloning of a novel T-cell protein FYB that binds FYN and SH2-domain-containing
+leukocyte protein 76 and modulates interleukin 2 production. Proc.
+Nat. Acad. Sci. 94: 7493-7498, 1997.
+
+3. da Silva, A. J.; Rosenfield, J. M.; Mueller, I.; Bouton, A.; Hirai,
+H.; Rudd, C. E.: Biochemical analysis of p120/130; a protein-tyrosine
+kinase substrate restricted to T and myeloid cells. J. Immun. 158:
+2007-2016, 1997.
+
+4. Geng, L.; Pfister, S.; Kraeft, S.-K.; Rudd, C. E.: Adaptor FYB
+(Fyn-binding protein) regulates integrin-mediated adhesion and mediator
+release: differential involvement of the FYB SH3 domain. Proc. Nat.
+Acad. Sci. 98: 11527-11532, 2001.
+
+5. Griffiths, E. K.; Krawczyk, C.; Kong, Y.-Y.; Raab, M.; Hyduk, S.
+J.; Bouchard, D.; Chan, V. S.; Kozieradzki, I.; Oliveira-dos-Santos,
+A. J.; Wakeham, A.; Ohashi, P. S.; Cybulsky, M. I.; Rudd, C. E.; Penninger,
+J. M.: Positive regulation of T cell activation and integrin adhesion
+by the adapter Fyb/Slap. Science 293: 2260-2263, 2001.
+
+6. Medeiros, R. B.; Burbach, B. J.; Mueller, K. L.; Srivastava, R.;
+Moon, J. J.; Highfill, S.; Peterson, E. J.; Shimizu, Y.: Regulation
+of NF-kappa-B activation in T cells via association of the adapter
+proteins ADAP and CARMA1. Science 316: 754-758, 2007.
+
+7. Musci, M. A.; Hendricks-Taylor, L. R.; Motto, D. G.; Paskind, M.;
+Kamens, J.; Turck, C. W.; Koretzky, G. A.: Molecular cloning of SLAP-130,
+and SLP-76-associated substrate of the T cell antigen receptor-stimulated
+protein tyrosine kinases. J. Biol. Chem. 272: 11674-11677, 1997.
+
+8. Peterson, E. J.; Woods, M. L.; Dmowski, S. A.; Derimanov, G.; Jordan,
+M. S.; Wu, J. N.; Myung, P. S.; Liu, Q.-H.; Pribila, J. T.; Freedman,
+B. D.; Shimizu, Y.; Koretzky, G. A.: Coupling of the TCR to integrin
+activation by SLAP-130/Fyb. Science 293: 2263-2265, 2001.
+
+CONTRIBUTORS Ada Hamosh - updated: 5/30/2007
+Paul J. Converse - updated: 10/4/2001
+Paul J. Converse - updated: 9/25/2001
+
+CREATED Rebekah S. Rasooly: 6/18/1998
+
+EDITED wwang: 04/20/2009
+wwang: 7/16/2008
+alopez: 5/30/2007
+terry: 5/30/2007
+carol: 5/16/2007
+ckniffin: 5/7/2002
+mgross: 10/4/2001
+mgross: 9/25/2001
+alopez: 7/29/1998
+alopez: 6/18/1998
+
+611545	TITLE *611545 CYTOCHROME P450, FAMILY 4, SUBFAMILY F, POLYPEPTIDE 8; CYP4F8
+;;CYTOCHROME P450, SUBFAMILY IVF, POLYPEPTIDE 8
+DESCRIPTION 
+CLONING
+
+By RT-PCR of human seminal vesicles using degenerate CYP4 primers as
+probe, Bylund et al. (1999) cloned CYP4F8. The deduced 520-amino acid
+protein has a heme-binding region and conserved heme ligand cys468.
+CYP4F8 shares 81.2% and 76.7% amino acid identity with CYP4F2 (604426)
+and CYP4F3 (601270), respectively. Northern blot analysis of human
+seminal vesicles detected 2.1-kb and 2.3-kb transcripts.
+
+By immunohistochemical and Western blot analysis of a wide range of
+tissues, Stark et al. (2003) localized CYP4F8 to human seminal vesicle
+epithelium, epidermis, corneal epithelium, and proximal renal tubules.
+Staining in healthy epidermis extended from the basal cell to granular
+cell layers. Northern blot analysis of human tissues detected 2.1-,
+2.5-, and 5.8-kb transcripts in kidney and liver, and 2.1- and 2.5-kb
+transcripts in seminal vesicles. RT-PCR analysis confirmed CYP4F8
+expression in scalp hair roots. RT-PCR and immunohistochemical studies
+showed increased CYP4F8 mRNA and protein expression in psoriatic lesions
+compared to unaffected epidermis in 4 patients with psoriasis (see
+177900).
+
+By RT-PCR, immunohistochemical analysis, and in situ hybridization,
+Stark et al. (2005) detected CYP4F8 expression in epithelial linings of
+seminal vesicles and the ampulla of the vas deferens and in transitional
+epithelium of the ureter and bladder. Immunofluorescence studies
+colocalized CYP4F8 protein with PTGS2 (600262) in distal vas deferens
+epithelium.
+
+GENE FUNCTION
+
+Using CYP4F8 expressed in yeast, Bylund et al. (2000) demonstrated that
+CYP4F8 catalyzed omega-2-hydroxylation of prostaglandin H1 (PGH1) and
+prostaglandin H2 (PGH2). CYP4F8 showed little activity against
+prostaglandins D2, E1, E2, F2-alpha, and leukotriene B4. Stark et al.
+(2005) showed that CYP4F8 metabolized prostaglandin I2 (PGI2) and a
+stable analog of PGI2 to 19-hydroxyl compounds.
+
+Stark et al. (2005) characterized CYP4F8 enzyme activity against
+polyunsaturated long chain fatty acids. CYP4F8 catalyzed epioxidation of
+docosahexaenoic acid (22:6n-3) and docosapentaenoic acid (22:5n-3) and
+omega-3-hydroxylation of 22:5n-6, the latter forming 20-hydroxy-22:5n-6
+as the main product. Single amino acid substitutions in substrate
+recognition site-1 (SRS1) and SRS4 of CYP4F8 affected oxygenation of
+arachidonic acid but did not affect oxygenation of PGH2 analogs.
+
+GENE STRUCTURE
+
+Bylund et al. (1999) determined that the CYP4F8 gene contains 13 exons.
+
+MAPPING
+
+By genomic sequence analysis, Bylund et al. (1999) mapped the CYP4F8
+gene to chromosome 19p13.1.
+
+REFERENCE 1. Bylund, J.; Finnstrom, N.; Oliw, E. H.: Gene expression of a novel
+cytochrome P450 of the CYP4F subfamily in human seminal vesicles. Biochem.
+Biophys. Res. Commun. 261: 169-174, 1999.
+
+2. Bylund, J.; Hidestrand, M.; Ingelman-Sundberg, M.; Oliw, E. H.
+: Identification of CYP4F8 in human seminal vesicles as a prominent
+19-hydroxylase of prostaglandin endoperoxides. J. Biol. Chem. 275:
+21844-21849, 2000.
+
+3. Stark, K.; Bylund, J.; Torma, H.; Sahlen, G.; Oliw, E. H.: On
+the mechanism of biosynthesis of 19-hydroxyprostaglandins of human
+seminal fluid and expression of cyclooxygenase-2, PGH 19-hydroxylase
+(CYP4F8) and microsomal PGE synthase-1 in seminal vesicles and vas
+deferens. Prostaglandins Other Lipid Mediat. 75: 47-64, 2005.
+
+4. Stark, K.; Torma, H.; Cristea, M.; Oliw, E. H.: Expression of
+CYP4F8 (prostaglandin H 19-hydroxylase) in human epithelia and prominent
+induction in epidermis of psoriatic lesions. Arch. Biochem. Biophys. 409:
+188-196, 2003.
+
+5. Stark, K.; Wongsud, B.; Burman, R.; Oliw, E. H.: Oxygenation of
+polyunsaturated long chain fatty acids by recombinant CYP4F8 and CYP4F12
+and catalytic importance of Tyr-125 and Gly-328 of CYP4F8. Arch.
+Biochem. Biophys. 441: 174-181, 2005.
+
+CREATED Dorothy S. Reilly: 10/22/2007
+
+EDITED wwang: 10/22/2007
+
+605370	TITLE *605370 RHO GTPase-ACTIVATING PROTEIN 26; ARHGAP26
+;;GTPase REGULATOR ASSOCIATED WITH FOCAL ADHESION KINASE; GRAF;;
+KIAA0621
+GRAF/MLL FUSION GENE, INCLUDED
+DESCRIPTION 
+CLONING
+
+Borkhardt et al. (2000) stated that mutual translocations involving
+11q23 in acute leukemias had been demonstrated to show fusion between
+the mixed lineage leukemia (MLL; 159555) gene and a variety of different
+partner genes to a total of 23. The detection of a unique
+t(5;11)(q31;q23) in an infant with juvenile myelomonocytic leukemia
+(JMML; 607785) and an MLL gene rearrangement provided an opportunity to
+clone another MLL fusion partner gene. By cloning the breakpoints in
+this translocation, Borkhardt et al. (2000) recovered a member of the
+GTPase-activating protein (GAP) family, which they identified as the
+human homolog of the avian GRAF gene (Hildebrand et al., 1996).
+
+Ishikawa et al. (1998) cloned a GRAF cDNA, which they designated
+KIAA0621, from a human brain cDNA library and found that it encodes a
+deduced 753-amino acid protein with a molecular mass of 87 kD.
+
+GENE FUNCTION
+
+Hildebrand et al. (1996) determined that the GRAF gene is highly
+homologous to the BCR gene (151410), which is also involved in a
+leukemia-associated translocation. The avian GRAF protein binds to the
+C-terminal domain of pp125(FAK), one of the tyrosine kinases predicted
+to be a critical component of the integrin signaling transduction
+pathway, in an SH3 domain-dependent manner and stimulates the GTPase
+activity of the GTP-binding protein RhoA. Thus, GRAF acts as a negative
+regulator of RhoA.
+
+Using yeast 2-hybrid analysis, in vitro binding assays, and
+immunoprecipitation analysis, Shibata et al. (2001) showed that PKN-beta
+(PKN3; 610714) interacted with GRAF and GRAF2 (ARHGAP10; 609746). A
+constitutively active form of PKN-beta phosphorylated recombinant GRAF
+and GRAF2. Mutation analysis showed that the linker region of PKN-beta
+bound to the SH3 domains of GRAF and GRAF2.
+
+MAPPING
+
+Ishikawa et al. (1998) mapped the GRAF gene to chromosome 5. Borkhardt
+et al. (2000) found that the GRAF gene maps outside the 5q31 region that
+is commonly deleted in hematologic malignancies; however, inactivation
+of both alleles in at least some cases suggests that deletions and
+mutations of the GRAF gene may be instrumental in the development and
+progression of hematologic disorders with a del(5q). By FISH, Borkhardt
+et al. (2000) confirmed the assignment of GRAF to 5q31.
+
+MOLECULAR GENETICS
+
+Borkhardt et al. (2000) sequenced several cDNA clones from 13 cases of
+hematologic malignancy in which 1 allele of GRAF was deleted. In 1
+patient with juvenile myelomonocytic leukemia (JMML; 607785), they found
+a point mutation within the GAP domain of the second GRAF allele
+(605370.0001). In 2 additional patients, they found an insertion of 52
+or 74 bp within the GRAF cDNA, which generated a reading frameshift
+followed by a premature stop codon (605370.0002-605370.0003). The
+mutations were apparently somatic events.
+
+ALLELIC VARIANT .0001
+LEUKEMIA, JUVENILE MYELOMONOCYTIC, SOMATIC
+ARHGAP26, ASN417SER
+
+In a leukemic cells derived from a patient with juvenile myelomonocytic
+leukemia (JMML; 607785) and a fusion between the MLL gene on 11q and the
+GRAF gene on 5q, Borkhardt et al. (2000) identified in the other GRAF
+allele an A-to-G transition at nucleotide 1255 that resulted in the
+substitution of a serine for an asparagine at amino acid 417. This was
+thought to be a second hit in a leukemogenic process.
+
+.0002
+LEUKEMIA, JUVENILE MYELOMONOCYTIC, SOMATIC
+ARHGAP26, 52-BP INS
+
+In leukemic cells from a patient with juvenile myelomonocytic leukemia
+(JMML; 607785) and a reciprocal translocation t(5;11)(q31;q23) involving
+the GRAF and MLL genes, Borkhardt et al. (2000) found that the other
+allele of the GRAF gene carried a 52-bp insertion at the splice junction
+of exons 12 and 13. The exon/intron boundary was located at nucleotides
+1290/91. The insertion led to a reading frameshift that generated a stop
+codon. The predicted truncated GRAF protein lacked almost the entire GAP
+domain and therefore was most likely not functional. The 52-bp insertion
+(nucleotides 32560-32611) originated from a 524-bp long sequence located
+upstream of the 3-prime splice site of the adjacent nearly 13-kb long
+intron. Because the insertion is imbedded in perfect splice donor and
+acceptor sites, it was thought to be the result of aberrant splicing.
+
+.0003
+LEUKEMIA, JUVENILE MYELOMONOCYTIC, SOMATIC
+ARHGAP26, 74-BP INS
+
+In leukemic cells from a patient with juvenile myelomonocytic leukemia
+(JMML; 607785) and a t(5;11)(q31;q23) involving the N-terminal part of
+MLL and the C-terminal part of the GRAF gene, Borkhardt et al. (2000)
+found that the GRAF allele on the other chromosome 5 carried a 74-bp
+insertion located in the 60-kb long intron between exons 15 and 16. The
+insertion presumably generated a stop codon. The predicted protein
+lacked the SH3 domain of GRAF that was shown to be necessary for the
+interaction with the focal adhesion kinase.
+
+REFERENCE 1. Borkhardt, A.; Bojesen, S.; Haas, O. A.; Fuchs, U.; Bartelheimer,
+D.; Loncarevic, I. F.; Bohle, R. M.; Harbott, J.; Repp, R.; Jaeger,
+U.; Viehmann, S.; Henn, T.; Korth, P.; Scharr, D.; Lampert, F.: The
+human GRAF gene is fused to MLL in a unique t(5;11)(q31;q23) and both
+alleles are disrupted in three cases of myelodysplastic syndrome/acute
+myeloid leukemia with a deletion 5q. Proc. Nat. Acad. Sci. 97: 9168-9173,
+2000.
+
+2. Hildebrand, J. D.; Taylor, J. M.; Parsons, T. J.: An SH3 domain-containing
+GTPase-activating protein for Rho and Cdc42 associates with focal
+adhesion kinase. Molec. Cell. Biol. 16: 3169-3178, 1996.
+
+3. Ishikawa, K.; Nagase, T.; Suyama, M.; Miyajima, N.; Tanaka, A.;
+Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the coding sequences
+of unidentified human genes. X. The complete sequences of 100 new
+cDNA clones from brain which can code for large proteins in vitro. DNA
+Res. 5: 169-176, 1998.
+
+4. Shibata, H.; Oishi, K.; Yamagiwa, A.; Matsumoto, M.; Mukai, H.;
+Ono, Y.: PKN-beta interacts with the SH3 domains of Graf and a novel
+Graf related protein, Graf2, which are GTPase activating proteins
+for Rho family. J. Biochem. 130: 23-31, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/23/2007
+Carol A. Bocchini - updated: 10/26/2000
+
+CREATED Victor A. McKusick: 10/26/2000
+
+EDITED wwang: 05/19/2011
+ckniffin: 5/3/2011
+mgross: 1/23/2007
+carol: 10/16/2006
+alopez: 5/14/2003
+tkritzer: 3/27/2003
+carol: 11/17/2000
+terry: 10/26/2000
+carol: 10/26/2000
+
+603413	TITLE *603413 TIA1 CYTOTOXIC GRANULE-ASSOCIATED RNA-BINDING PROTEIN-LIKE 1; TIAL1
+;;TIA1-RELATED PROTEIN; TIAR;;
+T CLUSTER-BINDING PROTEIN; TCBP
+DESCRIPTION Cytotoxic lymphocytes can induce target cells to activate apoptosis.
+Central to this autolytic pathway is the activation of an endogenous
+endonuclease that degrades target cell DNA. By screening a human
+phytohemagglutinin-activated T-cell cDNA library with a TIA1 (603518)
+cDNA, Kawakami et al. (1992) cloned a cDNA encoding TIA1-related protein
+(TIAR). Both TIAR and TIA1 are members of a family of RNA-binding
+proteins containing 3 RNA-binding domains and a C-terminal auxiliary
+domain. Like TIA1, TIAR possesses a lysosome-targeting motif in its
+C-terminal auxiliary domain, suggesting that TIAR is also a cytotoxic
+granule-associated protein. The authors demonstrated that TIAR binds
+specifically to poly(A) homopolymers, fragments DNA in permeabilized
+target cells, and is expressed in a wide variety of hematopoietic and
+nonhematopoietic cell types.
+
+Using a Southwestern approach to identify proteins capable of binding to
+the T cluster of the platelet factor-4 (PF4; 173460) promoter, Doi et
+al. (1997) isolated a human erythroleukemia (HEL) cell cDNA encoding an
+isoform of TIAL1, which they called TCBP. This deduced 265-amino acid
+isoform differs from the isoform identified by Kawakami et al. (1992) at
+the C terminus, where a hydrophobic sequence replaces the
+lysosome-targeting motif. Doi et al. (1997) demonstrated that TCBP
+specifically binds to the T cluster and the proximal T-rich region of
+the PF4 promoter in vitro and that TCBP reduces gene expression from the
+PF4 promoter. TCBP mRNA expression was reduced when HEL cells were
+induced to differentiate to megakaryocytes.
+
+By hybridization to YACs and radiation hybrid mapping, Doi et al. (1997)
+localized the TIAL1 gene to 10q, 4.92 cR distal to WI-5255.
+
+REFERENCE 1. Doi, T.; Minami, T.; Itoh, M.; Aburatani, H.; Kawabe, Y.; Kodama,
+T.; Kondo, N.; Satoh, Y.; Asayama, T.; Imanishi, T.: An alternative
+form of nucleolysin binds to a T-cluster DNA in the silencer element
+of platelet factor 4 gene. Biochem. Biophys. Res. Commun. 235: 625-630,
+1997.
+
+2. Kawakami, A.; Tian, Q.; Duan, X.; Streuli, M.; Schlossman, S. F.;
+Anderson, P.: Identification and functional characterization of a
+TIA-1-related nucleolysin. Proc. Nat. Acad. Sci. 89: 8681-8685,
+1992.
+
+CREATED Sheryl A. Jankowski: 1/11/1999
+
+EDITED psherman: 02/11/1999
+psherman: 1/11/1999
+

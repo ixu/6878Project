@@ -1,0 +1,339 @@
+611348	TITLE *611348 INTEGRATOR COMPLEX SUBUNIT 4; INTS4
+;;INT4
+DESCRIPTION 
+DESCRIPTION
+
+INTS4 is a subunit of the Integrator complex, which associates with the
+C-terminal domain of RNA polymerase II large subunit (POLR2A; 180660)
+and mediates 3-prime end processing of small nuclear RNAs U1 (RNU1;
+180680) and U2 (RNU2; 180690) (Baillat et al., 2005).
+
+GENE FUNCTION
+
+By SDS-PAGE of proteins that copurified with INTS11 (CPSF3L; 611354) in
+HEK293 cells, Baillat et al. (2005) identified INTS4 as a subunit of the
+Integrator complex.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the INTS4
+gene to chromosome 11 (TMAP RH12075).
+
+REFERENCE 1. Baillat, D.; Hakimi, M.-A.; Naar, A. M.; Shilatifard, A.; Cooch,
+N.; Shiekhattar, R.: Integrator, a multiprotein mediator of small
+nuclear RNA processing, associates with the C-terminal repeat of RNA
+polymerase II. Cell 123: 265-276, 2005.
+
+CREATED Patricia A. Hartz: 8/17/2007
+
+EDITED wwang: 08/17/2007
+
+608610	TITLE *608610 PROGRAMMED CELL DEATH 4; PDCD4
+;;NEOPLASTIC TRANSFORMATION INHIBITOR
+DESCRIPTION 
+CLONING
+
+By screening a glioma cDNA expression library with antibodies raised
+against a nuclear protein, Matsuhashi et al. (1997) cloned PDCD4, which
+they designated H731. The deduced 458-amino acid protein has a
+calculated molecular mass of 50.6 kD. PDCD4 is an acidic protein with
+characteristics of a nuclear nonhistone protein. It contains 2
+overlapping GxGxxG nucleotide-binding motifs, which are characteristic
+of protein kinases, but it does not have a kinase catalytic domain.
+PDCD4 also has several putative serine and threonine phosphorylation
+sites. Northern blot analysis detected transcripts of about 2.7 and 3.8
+kb in HeLa cell total RNA. Recombinant PDCD4 expressed in E. coli
+resulted in proteins with apparent molecular masses of 56 and 37 kD. The
+37-kD truncated protein was synthesized from val127, reading the val
+codon as an f-met initiation codon.
+
+Yoshinaga et al. (1999) found that PDCD4 accumulated in the nuclei of
+confluent or quiescent normal fetal lung fibroblasts, but it was
+overproduced and localized in the cytoplasm during the cell cycle in
+tumor cell lines. Immunohistologic analysis revealed that PDCD4 was
+highly expressed in bladder carcinoma and breast carcinoma tissues
+compared with normal tissues. PDCD4 was also abundantly expressed in the
+small duct epithelial cells of normal mammary gland.
+
+GENE FUNCTION
+
+By Northern blot and Western blot analyses, Kang et al. (2002)
+determined that expression of both the PDCD4 transcript and protein was
+upregulated in senescent diploid fibroblasts compared with cells in log
+phase growth. Yeast 2-hybrid analysis showed that the C terminus of
+PDCD4 could interact with a component of the 40S ribosome complex, RPS13
+(180476), and with RPL5 (603634) and TI-227H. In vitro binding assays
+confirmed the interaction between PDCD4 and RPS13. In vitro pull-down
+assays also showed that PDCD4 interacted with EIF4G (600495), but not
+with EIF4E (133440). Furthermore, PDCD4 localized to polysome fractions
+of fractionated HeLa cells. Kang et al. (2002) concluded that PDCD4 may
+regulate EIF4G-dependent translation through direct interaction with
+EIF4G and RPS13 in senescent fibroblasts.
+
+Dorrello et al. (2006) found that the tumor suppressor PDCD4 inhibits
+the translation initiation factor EIF4A (see 602641), an RNA helicase
+that catalyzes the unwinding of secondary structure at the 5-prime
+untranslated region of mRNAs. In response to mitogens, PDCD4 was rapidly
+phosphorylated on ser67 by the protein kinase S6K1 (608938) and
+subsequently degraded via the ubiquitin ligase SCF-beta(TRCP) (603482).
+Expression in cultured cells of a stable PDCD4 mutant that was unable to
+bind beta-TRCP inhibited translation of an mRNA with a structured
+5-prime untranslated region, resulted in smaller cell size, and slowed
+down cell cycle progression. Dorrello et al. (2006) proposed that
+regulated degradation of PDCD4 in response to mitogens allows efficient
+protein synthesis and consequently cell growth.
+
+PDCD4 contains 2 tandem MA3 domains consisting of conserved
+alpha-helical hairpins. Using x-ray crystallography, NMR, and surface
+plasmon resonance, Suzuki et al. (2008) found that both MA3 domains of
+human PDCD4 were structurally and functionally similar and bound
+specifically to the N-terminal domain of EIF4A using similar binding
+interfaces. The MA3 domains of PDCD4 competed with the MA3 domain of
+EIF4G and RNA for EIF4A binding. Suzuki et al. (2008) concluded that
+PDCD4 inhibits translation initiation by displacing EIF4G and RNA from
+EIF4A. They proposed that the PDCD4 MA3 domains act synergistically to
+form a tighter and more stable complex with EIF4A, explaining the need
+for 2 tandem MA3 domains.
+
+Davis et al. (2008) demonstrated that induction of a contractile
+phenotype in human vascular smooth muscle cells by TGF-beta (190180) and
+BMPs (see 112264) is mediated by miR21 (611020). miR21 downregulates
+PDCD4, which in turn acts as a negative regulator of smooth muscle
+contractile genes. Davis et al. (2008) concluded that PDCD4 is a
+functional target of miR21 involved in the BMP-mediated induction of
+smooth muscle cell markers in vascular smooth muscle cells.
+
+Asangani et al. (2008) identified an miR21 target sequence in the
+3-prime UTR of PDCD4 and confirmed binding and inhibition of PDCD4 by
+miR21 using reporter gene assays. They observed an inverse correlation
+between miR21 and PDCD4 expression in 10 colorectal cell lines and in 22
+colorectal cancer tissues and matched normal controls. Transfection of
+RKO human colorectal cancer cells with anti-miR21 increased PDCD4
+protein concentration, reduced the invasive potential of RKO cells in
+3-dimensional gels, and reduced intravasation and lung metastasis of RKO
+cells in a chicken embryo metastasis assay. Overexpression of miR21
+reduced expression of PDCD4 protein, but not mRNA, in Colo206f cells.
+
+MAPPING
+
+By FISH, Soejima et al. (1999) mapped the PDCD4 gene to chromosome
+10q24.
+
+REFERENCE 1. Asangani, I. A.; Rasheed, S. A. K.; Nikolova, D. A.; Leupold, J.
+H.; Colburn, N. H.; Post, S.; Allgayer, H.: MicroRNA-21 (miR-21)
+post-transcriptionally downregulates tumor suppressor Pdcd4 and stimulates
+invasion, intravasation and metastasis in colorectal cancer. Oncogene 27:
+2128-2136, 2008.
+
+2. Davis, B. N.; Hilyard, A. C.; Lagna, G.; Hata, A.: SMAD proteins
+control DROSHA-mediated microRNA maturation. Nature 454: 56-61,
+2008.
+
+3. Dorrello, N. V.; Peschiaroli, A.; Guardavaccaro, D.; Colburn, N.
+H.; Sherman, N. E.; Pagano, M.: S6K1- and beta-TRCP-mediated degradation
+of PDCD4 promotes protein translation and cell growth. Science 314:
+467-471, 2006.
+
+4. Kang, M.-J.; Ahn, H.-S.; Lee, J.-Y.; Matsuhashi, S.; Park, W.-Y.
+: Up-regulation of PDCD4 in senescent human diploid fibroblasts. Biochem.
+Biophys. Res. Commun. 293: 617-621, 2002.
+
+5. Matsuhashi, S.; Yoshinaga, H.; Yatsuki, H.; Tsugita, A.; Hori,
+K.: Isolation of a novel gene from a human cell line with Pr-28 MAb
+which recognizes a nuclear antigen involved in the cell cycle. Res.
+Commun. Biochem. Cell Molec. Biol. 1: 109-120, 1997.
+
+6. Soejima, H.; Miyoshi, O.; Yoshinaga, H.; Masaki, Z.; Ozaki, I.;
+Kajiwara, S.; Niikawa, N.; Matsuhashi, S.; Mukai, T.: Assignment
+of the programmed cell death 4 gene (PDCD4) to human chromosome band
+10q24 by in situ hybridization. Cytogenet. Cell Genet. 87: 113-114,
+1999.
+
+7. Suzuki, C.; Garces, R. G.; Edmonds, K. A.; Hiller, S.; Hyberts,
+S. G.; Marintchev, A.; Wagner, G.: PDCD4 inhibits translation initiation
+by binding to eIF4A using both its MA3 domains. Proc. Nat. Acad.
+Sci. 105: 3274-3279, 2008.
+
+8. Yoshinaga, H.; Matsuhashi, S.; Fujiyama, C.; Masaki, Z.: Novel
+human PDCD4 (H731) gene expressed in proliferative cells is expressed
+in the small duct epithelial cells of the breast as revealed by an
+anti-H731 antibody. Path. Int. 49: 1067-1077, 1999.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 12/2/2010
+Ada Hamosh - updated: 8/29/2008
+Patricia A. Hartz - updated: 5/19/2008
+Ada Hamosh - updated: 10/31/2006
+
+CREATED Patricia A. Hartz: 4/26/2004
+
+EDITED mgross: 12/08/2010
+terry: 12/2/2010
+alopez: 9/11/2008
+terry: 8/29/2008
+mgross: 5/19/2008
+alopez: 11/6/2006
+terry: 10/31/2006
+mgross: 4/26/2004
+
+606028	TITLE *606028 CLEAVAGE AND POLYADENYLATION SPECIFICITY FACTOR 2; CPSF2
+;;CLEAVAGE-POLYADENYLATION SPECIFICITY FACTOR, 100-KD SUBUNIT; CPSF100
+DESCRIPTION 
+DESCRIPTION
+
+Cleavage and polyadenylation specificity factor (CPSF) is a multisubunit
+complex that plays a central role in 3-prime processing of pre-mRNAs.
+CPSF recognizes the AAUAAA signal in the pre-mRNA and interacts with
+other proteins to facilitate both RNA cleavage and poly(A) synthesis
+(summary by Murthy and Manley, 1995). The CPSF2 gene encodes the 100-kD
+subunit of CPSF.
+
+CLONING
+
+Jenny et al. (1994) cloned a cDNA encoding bovine Cpsf2. Northern blot
+analysis using bovine Cpsf2 coding sequences revealed expression of
+5.6-, 4.6-, 3.8-, and 3.0-kb transcripts in HeLa cells. Immunoblot
+analysis showed expression of a 100-kD nuclear protein in bovine and
+human cells. Immunofluorescence microscopy demonstrated expression of
+both the 100-kD and the 160-kD (CPSF1; 606027) CPSF subunits in
+nucleoplasm but not in nucleoli.
+
+Nagase et al. (2000) cloned a partial cDNA encoding 579 amino acids of
+human CPSF2, which they called KIAA1367, from a fetal brain cDNA
+library. The partial human protein is 99% identical to the 782-amino
+acid bovine protein. RT-PCR analysis revealed ubiquitous but variable
+expression of CPSF2, with highest levels in liver and testis.
+
+MAPPING
+
+Samiotaki et al. (2000) mapped the CPSF2 gene to 14q31.3 using radiation
+hybrid analysis.
+
+REFERENCE 1. Jenny, A.; Hauri, H.-P.; Keller, W.: Characterization of cleavage
+and polyadenylation specificity factor and cloning of its 100-kilodalton
+subunit. Molec. Cell. Biol. 14: 8183-8190, 1994.
+
+2. Murthy, K. G. K.; Manley, J. L.: The 160-kD subunit of human cleavage-polyadenylation
+specificity factor coordinates pre-mRNA 3-prime-end formation. Genes
+Dev. 9: 2672-2683, 1995.
+
+3. Nagase, T.; Kikuno, R.; Ishikawa, K.; Hirosawa, M.; Ohara, O.:
+Prediction of the coding sequences of unidentified human genes. XVI.
+The complete sequences of 150 new cDNA clones from brain which code
+for large proteins in vitro. DNA Res. 7: 65-73, 2000.
+
+4. Samiotaki, M.; Balatsos, N. A. A.; Courtis, N.; Tsiapalis, C. M.
+: Assignment of the 100-kDa subunit of cleavage and polyadenylation
+specificity factor (CPSF2) to human chromosome 14q31.3 by radiation
+hybrid mapping. Cytogenet. Cell Genet. 90: 328-329, 2000.
+
+CREATED Paul J. Converse: 6/18/2001
+
+EDITED alopez: 04/03/2012
+mgross: 6/18/2001
+
+147572	TITLE *147572 INTERFERON-ALPHA-INDUCIBLE PROTEIN 6; IFI6
+;;INTERFERON-INDUCED PROTEIN IFI-6-16; IFI616;;
+G1P3
+DESCRIPTION 
+CLONING
+
+By differential screening of an alpha-interferon (IFNA; 147660)-induced
+neuroblastoma cell cDNA library, followed by screening an IFNA-treated
+Daudi lymphoblastoid cell cDNA library, Kelly et al. (1986) cloned IFI6,
+which they called 6-16. The deduced 130-amino acid protein is
+hydrophobic and contains an N-terminal signal peptide.
+
+GENE FUNCTION
+
+Kelly et al. (1986) showed that IFI6 was induced in HeLa cells by IFNA
+and IFNB (147640). Following transfection in mouse cells, human IFI6 was
+expressed in response to mouse Ifna and Ifnb, but not Ifng (147570),
+with the same kinetics and dose response as in human cells.
+
+Itzhaki and Porter (1991) reported a method for targeted disruption of
+the IFI6 gene and detection by secretion of human growth hormone (GH1;
+139250).
+
+Cheriyath et al. (2007) showed that treatment of human myeloma cells
+with IFN-alpha-2b (see IFNA2; 147562) for 24 hours antagonized TRAIL
+(TNFSF10; 603598)-mediated apoptosis, but after 72 hours it augmented
+TRAIL apoptotic activity. The antiapoptotic activity of IFN-alpha-2b was
+associated with increased expression of G1P3. Ectopically expressed G1P3
+localized to mitochondria and antagonized TRAIL-mediated mitochondrial
+potential loss, cytochrome c release, and apoptosis. Conversely, RNA
+interference-mediated downregulation of G1P3 restored
+IFN-alpha-2b-induced apoptosis. Cheriyath et al. (2007) concluded that
+curtailing G1P3-mediated antiapoptotic signals may improve therapies for
+myeloma and other malignancies.
+
+GENE STRUCTURE
+
+Kelly et al. (1986) determined that the IFI6 gene contains 5 exons and
+has a TATA box upstream of the transcription initiation site.
+
+Porter et al. (1988) described the interferon response element of the
+human IFI6 gene.
+
+MAPPING
+
+By somatic cell hybrid analysis, Clauss et al. (1990) mapped the IFI6
+gene to chromosome 1.
+
+Itzhaki et al. (1992) reported that the IFI6 gene maps to chromosome
+1p35, based on the work of others using fluorescence in situ
+hybridization. Itzhaki et al. (1992) used telomere-associated chromosome
+fragmentation (TACF), a novel approach for chromosome mapping based on
+the nontargeted introduction of clone telomeres into mammalian
+chromosomes, to target telomeric DNA to the IFI6 gene on chromosome 1p.
+They deduced that the IFI6 gene is oriented away from the centromere by
+targeting telomeric DNA to the specific locus by homologous
+recombination, using a selection strategy that imposed the requirement
+that the telomeric DNA be oriented in the same direction as the IFI6
+gene.
+
+REFERENCE 1. Cheriyath, V.; Glaser, K. B.; Waring, J. F.; Baz, R.; Hussein,
+M. A.; Borden, E. C.: G1P3, an IFN-induced survival factor, antagonizes
+TRAIL-induced apoptosis in human myeloma cells. J. Clin. Invest. 117:
+3107-3117, 2007.
+
+2. Clauss, I. M.; Wathelet, M. G.; Szpirer, J.; Content, J.; Islam,
+M. Q.; Levan, G.; Szpirer, C.; Huez, G. A.: Chromosomal localization
+of two human genes inducible by interferons, double-stranded RNA,
+and viruses. Cytogenet. Cell Genet. 53: 166-168, 1990.
+
+3. Itzhaki, J. E.; Barnett, M. A.; MacCarthy, A. B.; Buckle, V. J.;
+Brown, W. R. A.; Porter, A. C. G.: Targeted breakage of a human chromosome
+mediated by cloned human telomeric DNA. Nature Genet. 2: 283-287,
+1992.
+
+4. Itzhaki, J. E.; Porter, A. C. G.: Targeted disruption of a human
+interferon-inducible gene detected by secretion of human growth hormone. Nucleic
+Acids Res. 19: 3835-3842, 1991.
+
+5. Kelly, J. M.; Porter, A. C. G.; Chernajovsky, Y.; Gilbert, C. S.;
+Stark, G. R.; Kerr, I. M.: Characterization of a human gene inducible
+by alpha- and beta-interferons and its expression in mouse cells. EMBO
+J. 5: 1601-1606, 1986.
+
+6. Porter, A. C. G.; Chernajovsky, Y.; Dale, T. C.; Gilbert, C. S.;
+Stark, G. R.; Kerr, I. M.: Interferon response element of the human
+gene 6-16. EMBO J. 7: 85-92, 1988.
+
+CONTRIBUTORS Matthew B. Gross - updated: 11/06/2007
+Patricia A. Hartz - updated: 11/2/2007
+
+CREATED Victor A. McKusick: 10/5/1990
+
+EDITED mgross: 11/06/2007
+terry: 11/2/2007
+mgross: 8/14/2007
+carol: 5/24/1999
+carol: 8/20/1998
+carol: 6/30/1998
+jason: 6/17/1994
+carol: 3/1/1993
+carol: 2/25/1993
+carol: 2/4/1993
+carol: 1/26/1993
+supermim: 3/16/1992
+

@@ -1,0 +1,3062 @@
+610411	TITLE *610411 IMPORTIN 13; IPO13
+;;IMP13;;
+KIAA0724;;
+RAN-BINDING PROTEIN 13; RANBP13;;
+KARYOPHERIN 13 KAP13
+DESCRIPTION 
+DESCRIPTION
+
+IPO13 is a member of the importin-beta superfamily (see 602738).
+Importins mediate translocation through nuclear pore complexes.
+Cooperation with the RanGTPase system allows them to bind and
+subsequently release their substrates on opposite sides of the nuclear
+envelope ensuring direct nucleocytoplasmic transport (Mingot et al.,
+2001).
+
+CLONING
+
+By screening human brain cDNAs for those encoding proteins larger than
+50 kD, Nagase et al. (1998) identified IPO13, which they called
+KIAA0734. RT-PCR Elisa detected IPO13 in all tissues tested, with
+highest expression in brain.
+
+By EST database searching for sequences with significant homology to
+known members of the importin-beta superfamily, Mingot et al. (2001)
+identified IPO13, which encodes a deduced 963-amino acid protein with a
+predicted molecular mass of 108 kD.
+
+GENE FUNCTION
+
+By mass spectrometry, Mingot et al. (2001) identified several proteins
+from HeLa cell extract that bound specifically to IPO13; these included
+ribosomal protein L5 (603634), RBM8 (605313), and UBC9 (UBE2I; 601661).
+Each could be displaced by RanGTP and are most likely import substrates.
+The translation initiation factor eIF1A (see 300186) bound only in the
+presence of RanGTP and is a potential IOP13-specific export substrate.
+
+Ploski et al. (2004) demonstrated that IOP13 mediates nuclear import of
+paired-type homeodomain transcription factors (e.g., PAX6; 607108) and
+that the import is achieved via a nuclear localization signal that
+includes the paired-type homeodomain.
+
+MAPPING
+
+By radiation hybrid analysis, Nagase et al. (1998) mapped the IOP13 gene
+to chromosome 1.
+
+REFERENCE 1. Mingot, J.-M.; Kostka, S.; Kraft, R.; Hartmann, E.; Gorlich, D.
+: Importin 13: a novel mediator of nuclear import and export. EMBO
+J. 20: 3685-3694, 2001.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XI. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 5: 277-286, 1998.
+
+3. Ploski, J. E.; Shamsher, M. K.; Radu, A.: Paired-type homeodomain
+transcription factors are imported into the nucleus by karyopherin
+13. Molec. Cell. Biol. 24: 4824-4834, 2004.
+
+CREATED Iain McIntosh: 9/14/2006
+
+EDITED carol: 09/15/2006
+
+611478	TITLE *611478 METHYLPHOSPHATE CAPPING ENZYME; MEPCE
+;;BICOID-INTERACTING 3, DROSOPHILA, HOMOLOG OF; BCDIN3
+DESCRIPTION 
+CLONING
+
+Using SEREX (serological identification of antigens by recombinant
+expression cloning) in chronic myeloid leukemia, followed by screening a
+chromosome 7 cosmid library, Rogers et al. (2002) cloned MEPCE, which
+they called clone 4. Northern blot analysis detected highest expression
+of a 2.4-kb transcript in testis, with lower levels in adrenal gland,
+brain, cerebellum, kidney, lung, mammary gland, and chronic myeloid
+leukemia. Expression of MEPCE was not detected in normal bone marrow.
+
+Positive transcription factor b (P-TEFb), a heterodimer of CDK9 (603251)
+and a cyclin partner, controls the elongation phase of transcription by
+RNA polymerase II (see 180660). Jeronimo et al. (2007) identified MEPCE,
+which they called BCDIN3, as a P-TEFb-associated protein in HEK293 human
+embryonic kidney cells. The deduced 689-amino acid protein has a central
+RNA methylase domain and a C-terminal Bin3 domain. Database analysis
+revealed homologs of MEPCE in both higher and lower eukaryotes.
+
+GENE FUNCTION
+
+Using affinity purification, mass spectrometry, and bioinformatic
+analysis, Jeronimo et al. (2007) mapped an interaction network of
+protein complexes involved in the RNA polymerase II machinery. They
+found that P-TEFb was associated with a number of proteins, including
+MEPCE, in the soluble nuclear compartment in HEK293 cells. Gel
+filtration confirmed that P-TEFb, HEXIM1 (607328), and SART3 (611684)
+cofractionated with MEPCE, and RNA blot analysis showed that 7SK (RN7SK;
+606515) and U6 (RNU6; 180692) small nuclear RNAs were also present in
+the complex. In the presence of radiolabeled S-adenosyl methionine,
+recombinant MEPCE methylated recombinant 7SK in vitro. MEPCE required
+5-prime phosphates of 7SK, demonstrating that MEPCE is a 7SK
+methylphosphate capping enzyme. Silencing of MEPCE by small interfering
+RNA decreased the steady-state level of cellular 7SK, suggesting that
+MEPCE stabilizes 7SK by adding a methylphosphate cap at its 5-prime end.
+
+GENE STRUCTURE
+
+Rogers et al. (2002) determined that the MEPCE gene contains 4 exons,
+spans 4.5 kb, and is associated with a CpG island.
+
+MAPPING
+
+Using FISH, Rogers et al. (2002) mapped the MEPCE gene to chromosome
+7q22.
+
+REFERENCE 1. Jeronimo, C.; Forget, D.; Bouchard, A.; Li, Q.; Chua, G.; Poitras,
+C.; Therien, C.; Bergeron, D.; Bourassa, S.; Greenblatt, J.; Chabot,
+B.; Poirier, G. G.; Hughes, T. R.; Blanchette, M.; Price, D. H.; Coulombe,
+B.: Systematic analysis of the protein interaction network for the
+human transcription machinery reveals the identity of the 7SK capping
+enzyme. Molec. Cell 27: 262-274, 2007.
+
+2. Rogers, S. A.; Bowen, D. J.; Ling, M.; Thomson, P.; Wang, Z.; Lim,
+S. H.: Identification and characterization of a novel gene encoding
+a SEREX antigen in chronic myeloid leukaemia. Brit. J. Haemat. 119:
+112-114, 2002.
+
+CREATED Patricia A. Hartz: 9/28/2007
+
+EDITED mgross: 12/19/2007
+mgross: 10/1/2007
+
+608830	TITLE *608830 RETINOL DEHYDROGENASE 12; RDH12
+;;RETINOL DEHYDROGENASE, ALL-TRANS AND 9-CIS
+DESCRIPTION 
+DESCRIPTION
+
+Retinoids are indispensable light-sensitive elements of vision and also
+serve as essential modulators of cellular differentiation and
+proliferation in diverse cell types. RDH12 belongs to a family of
+dual-specificity retinol dehydrogenases that metabolize both all-trans-
+and cis-retinols (Haeseleer et al., 2002).
+
+CLONING
+
+By searching databases for sequences similar to RDH11 (607849), followed
+by PCR of a retina cDNA library, Haeseleer et al. (2002) cloned RDH12.
+The deduced 316-amino acid RDH12 protein has a calculated molecular mass
+of about 35 kD and shares 79% similarity with RDH11. RDH12 contains 2
+motifs highly conserved among short chain alcohol
+dehydrogenases/reductases, the cofactor-binding site and catalytic
+residues. EST database analysis indicated that RDH12 is expressed
+predominantly in eye and also in kidney, brain, skeletal muscle, and
+stomach. In situ hybridization to monkey and mouse retina indicated
+Rdh12 is expressed at the base of photoreceptor inner segments.
+
+GENE STRUCTURE
+
+Haeseleer et al. (2002) determined that the RDH12 gene contains 7 exons
+and spans about 13 kb.
+
+MAPPING
+
+By genomic sequence analysis, Haeseleer et al. (2002) mapped the RDH12
+gene to chromosome 14q23.3, where it lies about 30 kb from the RDH11
+gene and within the locus for the recessive blinding disease Leber
+congenital amaurosis-13 (LCA13; 612712).
+
+GENE FUNCTION
+
+Haeseleer et al. (2002) determined that recombinant RDH12 was expressed
+in insect cells as a membrane protein with enzymatic properties similar
+to those of RDH11. Both enzymes catalyzed the reduction of
+all-trans-retinal and its 9-cis-, 11-cis-, and 13-cis-retinal isomers in
+the presence of NADPH. Analysis of the reactions suggested that these
+enzymes catalyze the reaction in both directions
+(NADPH/retinals--NADP/retinols), with equal utilization of
+11-cis-retinal and all trans-retinal. No steroid dehydrogenase activity
+was detected for RDH12. RDH12 activity was potently inhibited by
+retinoic acids, recombinant CRBP1 (180260), and CRALBP (180090).
+
+MOLECULAR GENETICS
+
+Janecke et al. (2004) described 3 consanguineous kindreds with LCA13
+(612712) in which relatedness seemed likely because of geographic
+proximity and similar disease phenotype, although genealogic studies
+could not link the families. A whole-genome scan by microarray analysis
+of SNPs identified a founder haplotype and defined a critical interval
+of 1.53 cM on 14q23.3-q24.1 that contained the RDH12 gene, encoding a
+retinol dehydrogenase thought to function in the visual cycle (Haeseleer
+et al., 2002). All affected family members studied from the 3 kindreds,
+as well as 2 Austrian individuals with sporadic LCA, were found to be
+homozygous for a tyr226-to-cys mutation in the RDH12 gene (Y226C;
+608830.0001). Janecke et al. (2004) identified additional mutations in
+RDH12 in 3 of 89 non-Austrian individuals with LCA13: 806delCCCTG
+(608830.0002) and gln189 to ter (Q189X; 608830.0003), each in homozygous
+state, and thr49 to met (T49M; 608830.0004) and arg62 to ter (R62X;
+608830.0005) in compound heterozygosity. The severe visual impairment of
+individuals with mutations in RDH12 was in marked contrast to the mild
+visual deficiency in individuals with fundus albipunctatus (136880)
+caused by mutations in RDH5 (601617), encoding another retinol
+dehydrogenase.
+
+Perrault et al. (2004) studied a series of 110 unrelated patients with
+LCA; in 4.1% of the patients, they identified mutations in the RDH12
+gene: 1 splice site (608830.0013), 1 frameshift deletion (608830.0002),
+2 nonsense mutations (608830.0005, 608830.0006), and 7 missense
+mutations (608830.0001, 608830.0007-608830.0012). All patients harboring
+RDH12 mutations had a severe yet progressive rod-cone dystrophy with
+severe macular atrophy but no or mild hyperopia; Perrault et al. (2004)
+noted that this phenotype may represent the upper extreme of the
+spectrum of retinitis pigmentosa (RP; see 268000). No RDH12 mutations
+were identified in patients presenting with congenital stationary
+cone-rod dystrophy.
+
+In a cohort of 1,011 individuals diagnosed with autosomal recessive
+retinal dystrophy, Thompson et al. (2005) identified 20 different
+disease-associated RDH12 mutations in a total of 22 individuals.
+Haplotype analysis suggested a founder mutation for each of the 3 common
+mutations: L99I (608830.0010), T155I (608830.0014), and 806_810delCCCTG
+(608830.0002). Patients typically presented with early disease that
+affected the function of both rods and cones and progressed to legal
+blindness in early adulthood. Eleven of the missense variants identified
+exhibited profound loss of catalytic activity when expressed in
+transiently transfected COS-7 cells and assayed for ability to convert
+all-trans retinal to all-trans retinol. Loss of function appeared to
+result from decreased protein stability, as expression levels were
+significantly reduced.
+
+In a large 6-generation family segregating autosomal dominant retinitis
+pigmentosa mapping to chromosome 14q (RP53; see 612712), Fingert et al.
+(2008) sequenced the candidate gene RDH12 and identified heterozygosity
+for a 1-bp deletion (608830.0015) in 19 affected individuals that was
+not found in unaffected family members or in 158 controls.
+
+In a large, highly consanguineous pedigree segregating autosomal
+recessive early-onset retinitis pigmentosa, Benayoun et al. (2009)
+identified a homozygous missense mutation (A126V; 608830.0016) that
+segregated with disease in 8 sibships.
+
+ALLELIC VARIANT .0001
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, TYR226CYS
+
+In affected members of 3 consanguineous Austrian kindreds with Leber
+congenital amaurosis-13 (612712), Janecke et al. (2004) identified
+homozygosity for a 677A-G transition in exon 6 of the RDH12 gene,
+resulting in a tyr226-to-cys (Y226C) substitution. The same mutation was
+identified in 2 Austrian individuals with sporadic LCA13. Janecke et al.
+(2004) demonstrated that, when expressed in COS-7 cells, the cys226
+variant had diminished activity in interconverting isomers of retinol
+and retinal.
+
+In affected members of a French family with LCA, Perrault et al. (2004)
+identified the Y226C mutation in compound heterozygous state with a
+523T-C transition in exon 5 of the RDH12 gene, resulting in a
+ser175-to-pro substitution (S175P; 608830.0011).
+
+.0002
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, 5-BP DEL, NT806
+
+In a 19-year-old individual with Leber congenital amaurosis-13 (612712),
+Janecke et al. (2004) identified a homozygous 5-bp deletion in exon 6 of
+the RDH12 gene, 806delCCCTG, resulting in a frameshift and a premature
+stop codon at position 269. Visual acuity was reduced to light reception
+in the right eye and 0.05 in the left eye. ERGs were extinguished, and
+the fundi showed heavy hyperpigmentation with bone spicule-like pattern.
+
+In affected members of 4 unrelated French families with Leber congenital
+amaurosis-13, Perrault et al. (2004) identified the 806delCCCTG
+mutation. The mutation was present in homozygous state in 1 family, and
+in the 3 other families it was present in compound heterozygous state
+with either a 451C-A transversion in exon 5, resulting in a
+his151-to-asn mutation (H151N; 608830.0007), a 687C-G transversion in
+exon 6, resulting in a pro230-to-ala substitution (P230A; 608830.008),
+or a 638+1G-A (608830.0013) splice site mutation.
+
+.0003
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, GLN189TER
+
+In a male patient of Turkish origin with Leber congenital amaurosis-13
+(612712), the offspring of consanguineous parents, Janecke et al. (2004)
+identified a homozygous 565C-T transition in exon 5 of the RDH12 gene,
+resulting in a gln189-to-ter (Q189X) substitution. The diagnosis of
+LCA13 had also been made in the patient's sister.
+
+.0004
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, THR49MET
+
+In a woman with Leber congenital amaurosis-13 (612712), the offspring of
+nonconsanguineous parents, Janecke et al. (2004) identified compound
+heterozygosity for mutations in exon 2 of the RDH12 gene: a 146C-T
+transition, resulting in a thr49-to-met (T49M) substitution, and a
+184C-T transition, resulting in an arg62-to-ter (R62X; 608830.0005)
+substitution. Janecke et al. (2004) demonstrated that, when expressed in
+COS-7 cells, the met49 variant had aberrant activity in interconverting
+isomers of retinol and retinal.
+
+Thompson et al. (2005) found differing activity profiles for the T49M
+variant associated with each of the alleles of the R161Q RDH12
+polymorphism, suggesting that genetic background may act as a modifier
+of mutation effect.
+
+.0005
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, ARG62TER
+
+See 608830.0004 and Janecke et al. (2004).
+
+In affected members of a French family with Leber congenital
+amaurosis-13 (612712), Perrault et al. (2004) identified compound
+heterozygosity for mutations in the RDH12 gene: the arg62-to-ter (R62X)
+substitution and a 152T-A transversion in exon 2, resulting in an
+ile51-to-asn (I51N; 608830.0012) substitution.
+
+.0006
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, GLY127TER
+
+See 608830.0010 and Perrault et al. (2004).
+
+.0007
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, HIS151ASN
+
+See 608830.0002 and Perrault et al. (2004).
+
+.0008
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, PRO230ALA
+
+See 608830.0002 and Perrault et al. (2004).
+
+.0009
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, HIS151ASP
+
+In affected members of a French family with Leber congenital
+amaurosis-13 (612712), Perrault et al. (2004) identified homozygosity
+for a 451C-G transversion in exon 5 of the RDH12 gene, resulting in a
+his151-to-asp (H151D) substitution.
+
+.0010
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, LEU99ILE
+
+In affected members of a French family with Leber congenital
+amaurosis-13 (612612), Perrault et al. (2004) identified compound
+heterozygosity for mutations in the RDH12 gene: a 295C-A transversion in
+exon 3, resulting in a leu99-to-ile (L99I) substitution, and a 379G-T
+transversion in exon 4, resulting in a gly127-to-ter substitution
+(G127X; 608830.0006).
+
+.0011
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, SER175PRO
+
+See 608830.0001 and Perrault et al. (2004).
+
+.0012
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, ILE51ASN
+
+See 608830.0005 and Perrault et al. (2004).
+
+.0013
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, 658G-A, +1
+
+See 608830.0002 and Perrault et al. (2004).
+
+.0014
+LEBER CONGENITAL AMAUROSIS 13
+RDH12, THR155ILE
+
+In 3 patients with Leber congenital amaurosis-13 (612612), Thompson et
+al. (2005) identified a 464C-T transition in exon 5 of the RDH12 gene
+that resulted in a thr155-to-ile substitution (T155I). The mutation was
+homozygous in 2 patients and carried heterozygously on the maternal
+allele in the third; the paternal allele carried an H151D mutation
+(608830.0009). Haplotype analysis indicated that the T115I substitution
+is a founder mutation.
+
+.0015
+RETINITIS PIGMENTOSA 53
+RDH12, 1-BP DEL, 776G
+
+In affected members of a large 6-generation family segregating autosomal
+dominant retinitis pigmentosa (RP53; see 612712), Fingert et al. (2008)
+identified heterozygosity for a 1-bp deletion (776delG) in the RDH12
+gene, resulting in a premature termination codon predicted to eliminate
+the highly conserved 57 terminal amino acids of RDH12. The mutation was
+not found in unaffected family members or in 158 controls.
+
+.0016
+RETINITIS PIGMENTOSA 53
+RDH12, ALA126VAL
+
+In 14 affected members from 8 sibships of a large, highly consanguineous
+pedigree segregating autosomal recessive early-onset retinitis
+pigmentosa (see 612712), Benayoun et al. (2009) identified homozygosity
+for a 377C-T transition in exon 4 of the RDH12 gene, resulting in an
+ala126-to-val (A126V) substitution at a conserved residue within the RDH
+domain. A 45-year-old male family member who was heterozygous for A126V
+appeared to have a subclinical phenotype: although he did not describe
+significant subjective visual difficulties and denied nyctalopia or
+photosensitivity, his photopic ERG was at the lower limit of the normal
+range and his scotopic ERG was markedly reduced. In a screen of 159
+controls, 1 heterozygous carrier was detected, indicating a carrier
+frequency of 0.62% in this population.
+
+REFERENCE 1. Benayoun, L.; Spiegel, R.; Auslender, N.; Abbasi, A. H.; Rizel,
+L.; Hujeirat, Y.; Salama, I.; Garzozi, H. J.; Allon-Shalev, S.; Ben-Yosef,
+T.: Genetic heterogeneity in two consanguineous families segregating
+early onset retinal degeneration: the pitfalls of homozygosity mapping. Am.
+J. Med. Genet. 149A: 650-656, 2009.
+
+2. Fingert, J. H.; Oh, K.; Chung, M.; Scheetz, T. E.; Andorf, J. L.;
+Johnson, R. M.; Sheffield, V. C.; Stone, E. M.: Association of a
+novel mutation in the retinol dehydrogenase 12 (RDH12) gene with autosomal
+dominant retinitis pigmentosa. Arch. Ophthal. 126: 1301-1307, 2008.
+
+3. Haeseleer, F.; Jang, G.-F.; Imanishi, Y.; Driessen, C. A. G. G.;
+Matsumura, M.; Nelson, P. S.; Palczewski, K.: Dual-substrate specificity
+short chain retinol dehydrogenases from the vertebrate retina. J.
+Biol. Chem. 277: 45537-45546, 2002.
+
+4. Janecke, A. R.; Thompson, D. A.; Utermann, G.; Becker, C.; Hubner,
+C. A.; Schmid, E.; McHenry, C. L.; Nair, A. R.; Ruschendorf, F.; Heckenlively,
+J.; Wissinger, B.; Nurnberg, P.; Gal, A.: Mutations in RDH12 encoding
+a photoreceptor cell retinol dehydrogenase cause childhood-onset severe
+retinal dystrophy. Nature Genet. 36: 850-854, 2004. Note: Erratum:
+Nature Genet. 36: 1024 only, 2004.
+
+5. Perrault, I.; Hanein, S.; Gerber, S.; Barbet, F.; Ducroq, D.; Dollfus,
+H.; Hamel, C.; Dufier, J.-L.; Munnich, A.; Kaplan, J.; Rozet, J.-M.
+: Retinal dehydrogenase 12 (RDH12) mutations in Leber congenital amaurosis. Am.
+J. Hum. Genet. 75: 639-646, 2004.
+
+6. Thompson, D. A.; Janecke, A. R.; Lange, J.; Feathers, K. L.; Hubner,
+C. A.; McHenry, C. L.; Stockton, D. W.; Rammesmayer, G.; Lupski, J.
+R.; Antinolo, G.; Ayuso, C.; Baiget, M.; and l1 others: Retinal
+degeneration associated with RDH12 mutations results from decreased
+11-cis retinal synthesis due to disruption of the visual cycle. Hum.
+Molec. Genet. 14: 3865-3875, 2005. Note: Erratum: Hum. Molec. Genet.
+15: 1559 only, 2006.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 10/7/2010
+George E. Tiller - updated: 7/6/2009
+Victor A. McKusick - updated: 9/9/2004
+Victor A. McKusick - updated: 8/4/2004
+
+CREATED Patricia A. Hartz: 8/4/2004
+
+EDITED joanna: 08/05/2013
+terry: 11/28/2012
+terry: 7/27/2012
+carol: 10/7/2010
+carol: 4/5/2010
+alopez: 7/8/2009
+terry: 7/6/2009
+carol: 4/3/2009
+terry: 11/2/2004
+tkritzer: 9/13/2004
+tkritzer: 9/10/2004
+terry: 9/9/2004
+alopez: 9/3/2004
+alopez: 8/4/2004
+
+610955	TITLE *610955 TRAFFICKING PROTEIN PARTICLE COMPLEX, SUBUNIT 3; TRAPPC3
+;;BET3, YEAST, HOMOLOG OF; BET3
+DESCRIPTION 
+DESCRIPTION
+
+TRAPPC3 is a component of the TRAPP complex, which is involved in
+tethering of transport vesicles to the cis-Golgi membrane (Turnbull et
+al., 2005).
+
+CLONING
+
+Loh et al. (2005) reported that the human TRAPPC3 protein, which they
+called BET3, contains 180 amino acids. Northern blot analysis detected
+Bet3 expression in all mouse tissues examined. Western blot analysis of
+fractionated rat liver showed that most Bet3 was present in the
+cytosolic fraction, with a lesser amount in the Golgi-enriched membrane
+fraction.
+
+By immunohistochemical analysis, Yu et al. (2006) found that endogenous
+BET3 showed perinuclear localization in several mammalian cell lines,
+including HeLa cells.
+
+GENE FUNCTION
+
+Loh et al. (2005) found that antibodies against Bet3 inhibited in vitro
+transport of the envelope glycoprotein of vesicular stomatitis virus
+from the endoplasmic reticulum (ER) to the Golgi apparatus of
+semi-intact rat kidney cells in a dose-dependent manner. Cytosol
+depleted of Bet3 was also defective in this transport and could be
+rescued by recombinant Bet3. Bet3 acted after coat protein II (COPII;
+see 601924) but before Rab1 (179508), alpha-Snap (NAPA; 603215), and the
+EGTA-sensitive stage during ER-Golgi transport.
+
+Turnbull et al. (2005) found that both human and yeast BET3 were
+palmitoylated in recombinant yeast cells, but palmitoylation of BET3 was
+only partly responsible for the its membrane localization. Both wildtype
+yeast Bet3 and mutant yeast Bet3 lacking palmitoylation rescued cell
+viability in Bet3-deleted yeast, suggesting that palmitoylation is not
+required for cell viability. Despite high sequence conservation, human
+BET3 failed to rescue Bet3-deleted yeast.
+
+In mammalian cells, COPII vesicles derived from the transitional ER do
+not tether directly to the Golgi, but rather tether to each other to
+form vesicular tubular clusters (VTCs). Using various mammalian cell
+lines, including HeLa cells, Yu et al. (2006) showed that BET3 resided
+in the transitional ER and adjacent to VTCs. Inactivation of BET3
+resulted in accumulation of cargo in membranes that colocalized with the
+COPII coat. Using an assay that reconstituted VTC biogenesis in vitro,
+Yu et al. (2006) demonstrated that BET3 was required for the tethering
+and fusion of COPII vesicles to each other. Depletion of BET3 by small
+interfering RNA disrupted a VTC marker and Golgi architecture. Yu et al.
+(2006) concluded that BET3 is essential for VTC biogenesis.
+
+Cai et al. (2007) reported that in yeast and mammalian cells the
+tethering complex TRAPP I binds to the coat subunit SEC23 (see 610511).
+This event requires the BET3 subunit. In vitro studies demonstrated that
+the interaction between SEC23 and BET3 targets TRAPP I to COPII vesicles
+to mediate vesicle tethering. Cai et al. (2007) proposed that the
+binding of TRAPP I to SEC23 marks a coated vesicle for fusion with
+another COPII vesicle or the Golgi apparatus. An implication of these
+findings is that the intracellular destination of a transport vesicle
+may be determined in part by its coat and its associated cargo.
+
+BIOCHEMICAL FEATURES
+
+Turnbull et al. (2005) determined the crystal structure of human BET3 to
+1.55-angstrom resolution. BET3 assumes an alpha/beta-plait topology
+constructed by a twisted, antiparallel, 4-stranded beta sheet on one
+side, with the 5 alpha helices forming the other side of the structural
+motif. BET3 forms a dimer around the crystallographic 2-fold axis. A
+hydrophobic pocket within the core of the alpha-helical face contains an
+internal palmitate molecule covalently attached through a thioester
+linkage to the conserved cys68.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the TRAPPC3
+gene to chromosome 1 (TMAP RH80455).
+
+REFERENCE 1. Cai, H.; Yu, S.; Menon, S.; Cai, Y.; Lazarova, D.; Fu, C.; Reinisch,
+K.; Hay, J. C.; Ferro-Novick, S.: TRAPPI tethers COPII vesicles by
+binding the coat subunit Sec23. Nature 445: 941-944, 2007.
+
+2. Loh, E.; Peter, F.; Subramaniam, V. N.; Hong, W.: Mammalian Bet3
+functions as a cytosolic factor participating in transport from the
+ER to the Golgi apparatus. J. Cell Sci. 118: 1209-1222, 2005.
+
+3. Turnbull, A. P.; Kummel, D.; Prinz, B.; Holz, C.; Schultchen, J.;
+Lang, C.; Niesen, F. H.; Hofmann, K.-P.; Delbruck, H.; Behlke, J.;
+Muller, E.-C.; Jarosch, E.; Sommer, T.; Heinemann, U.: Structure
+of palmitoylated BET3: insights into TRAPP complex assembly and membrane
+localization. EMBO J. 24: 875-884, 2005.
+
+4. Yu, S.; Satoh, A.; Pypaert, M.; Mullen, K.; Hay, J. C.; Ferro-Novick,
+S.: mBet3p is required for homotypic COPII vesicle tethering in mammalian
+cells. J. Cell Biol. 174: 359-368, 2006.
+
+CONTRIBUTORS Ada Hamosh - updated: 6/29/2007
+
+CREATED Patricia A. Hartz: 4/20/2007
+
+EDITED alopez: 07/03/2007
+terry: 6/29/2007
+mgross: 4/20/2007
+
+608497	TITLE *608497 OLFACTORY RECEPTOR, FAMILY 2, SUBFAMILY F, MEMBER 1; OR2F1
+;;OLF3
+DESCRIPTION The mammalian olfactory receptor gene family is made up of hundreds of
+genes that encode an immense variety of membrane-bound G protein-coupled
+receptors. The receptors share several hallmark sequence motifs, yet are
+quite variable in the region of the protein thought to be responsible
+for binding odorants (Issel-Tarver and Rine, 1997). See also 164342.
+
+CLONING
+
+By using dog Or2f1 as probe to screen a Southern blot, followed by
+subcloning the appropriate genomic fragment, Issel-Tarver and Rine
+(1997) cloned OR2F1, which they called OLF3. The deduced 317-amino acid
+protein contains an extracellular N-terminal domain with a potential
+N-glycosylation site, 7 predicted transmembrane segments, and potential
+C-terminal phosphorylation sites. Human and canine OR2F1 share 86%
+identity.
+
+MAPPING
+
+By Southern hybridization and PCR analysis, Issel-Tarver and Rine (1997)
+mapped the OR2F1 gene to chromosome 7q35.
+
+REFERENCE 1. Issel-Tarver, L.; Rine, J.: The evolution of mammalian olfactory
+receptor genes. Genetics 145: 185-195, 1997.
+
+CREATED Patricia A. Hartz: 2/27/2004
+
+EDITED alopez: 03/01/2004
+alopez: 2/27/2004
+
+604318	TITLE *604318 GTF2I REPEAT DOMAIN-CONTAINING PROTEIN 1; GTF2IRD1
+;;GENERAL TRANSCRIPTION FACTOR II-I REPEAT DOMAIN-CONTAINING PROTEIN
+1;;
+GENERAL TRANSCRIPTION FACTOR III; GTF3;;
+MUSCLE TFII-I REPEAT DOMAIN-CONTAINING PROTEIN 1; MUSTRD1;;
+WBSCR11;;
+BINDING FACTOR FOR EARLY ENHANCER; BEN
+DESCRIPTION 
+DESCRIPTION
+
+The GTF2IRD1 gene was identified within the chromosomal region on
+7q11.23 commonly deleted in Williams syndrome (194050) and is involved
+in mammalian craniofacial and cognitive development (Tassabehji et al.,
+2005).
+
+CLONING
+
+Tassabehji et al. (1999) isolated and characterized a 3.4-kb gene, which
+they called general transcription factor III (GTF3), which occupies
+about 140 kb of the region deleted in Williams syndrome. Northern blot
+analysis showed that the gene is expressed in skeletal muscle and heart,
+and RT-PCR analysis showed expression in a range of adult tissues with
+stronger expression in fetal tissues. Part of the conceptual GTF3
+protein sequence was found to be almost identical to a slow muscle-fiber
+enhancer binding protein identified by O'Mahoney et al. (1998) and
+termed MusTRD1. GTF3 showed significant homology to the 90-amino acid
+putative helix-loop-helix repeat (HLH) domains of the transcription
+factor TFII-I (GTF2I; 601679), which maps distal to GTF4 within the
+Williams syndrome deleted region.
+
+Osborne et al. (1999) identified the same gene, which they termed
+WBSCR11, by genomic DNA sequence analysis and screening of 2 colon
+carcinoma cell line cDNA libraries. The cDNA sequence predicts an
+895-amino acid protein.
+
+Franke et al. (1999) cloned GTF2IRD1 from cDNA libraries representing
+several diverse tissues, and they obtained a full-length cDNA by 5-prime
+RACE of an adult brain cDNA library. They also identified several splice
+variants arising from exon skipping. The longest deduced protein
+contains 944 amino acids. In addition to the repeated GTF2I motifs and
+HLH repeats, Franke et al. (1999) identified a myc (190080)-type HLH
+dimerization domain, a number of putative phosphorylation sites and
+N-myristoylation sites, an amidation site, and several putative nuclear
+localization signals. Northern blot analysis detected expression of
+GTF2IRD1 in all adult and fetal tissues except leukocytes. The dominant
+transcript was 3.6 kb long, with sizes ranging from 1.5 kb to 5.0 kb.
+
+By Western blot analysis, Yan et al. (2000) found that endogenous
+GTF2IRD1, which they designated CREAM1, was expressed at low levels as a
+120-kD protein in a variety of human cell lines and tissues. GTF2IRD1
+was expressed in the nucleus of transfected cells, and deletion of the
+C-terminal nuclear localization signal resulted in cytoplasmic
+expression.
+
+Bayarsaihan and Ruddle (2000) cloned mouse Gtf2ird1, which they
+designated Ben. The deduced full-length 1,072-amino acid protein
+contains an N-terminal leucine zipper motif, followed by 6
+helix-loop-helix domains, a nuclear localization signal, and a
+C-terminal serine-rich region. Northern blot analysis detected several
+Ben transcripts in all mouse tissues examined. Western blot analysis
+showed several Ben isoforms with apparent molecular masses of 40 to 165
+kD.
+
+GENE STRUCTURE
+
+Osborne et al. (1999) determined that the WBSCR11 gene spans 95 kb of
+genomic DNA and consists of 26 exons, not including the last noncoding
+exon.
+
+Franke et al. (1999) determined that the GTF2IRD1 gene contains up to 30
+exons and spans about 105 kb. The coding sequence uses 26 exons.
+
+Palmer et al. (2010) determined that the region upstream of the GTF2IRD1
+gene contains a well-conserved CCAAT box and 3 canonical
+GTF2IRD1-recognition sequences (GGATTA), one of which is inverted.
+
+MAPPING
+
+Franke et al. (1999) reported that the GF2IRD1 gene maps within the WBS
+deletion region on chromosome 7q11.23 and is oriented 5-prime to 3-prime
+in the centromeric to telomeric orientation.
+
+Tassabehji et al. (1999) tabulated 11 genes in addition to GTF3 that had
+been mapped to the deleted area of chromosome 7 in classic Williams
+syndrome.
+
+Lazebnik et al. (2008) stated that the mouse Gtf2ird1 gene maps to a
+region of chromosome 5 that shares homology of synteny with human
+chromosome 7.
+
+GENE FUNCTION
+
+Yan et al. (2000) determined that GTF2IRD1 interacted with the RB1
+protein (614041) in vitro and in vivo. They also showed that full length
+GTF2IRD1 stimulated transcription of a reporter gene and, by mutation
+analysis, they localized the activation domain to the N terminus.
+
+Using yeast 1-hybrid analysis, Bayarsaihan and Ruddle (2000) showed that
+in vitro-translated mouse Ben interacted with an early enhancer upstream
+of the Hoxc8 (142970) transcription start site.
+
+Ring et al. (2002) characterized the Xenopus homolog of GTF2IRD1,
+Xwbscr11. They determined that Xwbscr11 binds DNA via selective HLH
+repeats and interacts with the transcription factor FOXH1 (603621) and
+the signal transduction molecules Smad2 (601366) and Smad3 (603109) to
+affect activin (147290)/nodal-mediated induction of the distal element
+of the Xenopus goosecoid promoter.
+
+Vullhorst and Buonanno (2003) characterized mouse Gtf3 splice variants.
+They determined that HLH domain 4 is necessary and sufficient for
+binding the bicoid-like motif of the troponin (191042) enhancer. An
+isoform that lacks exon 23 and exons 26 through 28 interacted most
+avidly with the bicoid-like motif. Isoforms that included these exons
+failed to bind in gel retardation assays. The authors also determined
+that Gtf3 polypeptides associate with each other via the leucine zipper.
+
+Lazebnik et al. (2008) showed that BEN bound the 8-bp core consensus
+sequence CAG(C/G)G(C/A)GA, surrounded by G- and C-rich sequences. BEN
+repressed expression of a reporter gene containing 3 copies of the
+sequence 5-prime-GGGGGCAGCGACAGCCCCC-3-prime. Knockdown of Ben
+expression in C2C12 mouse myoblasts enhanced expression of Bmpr1b
+(603248), Sox4 (184430), En1 (131290), and Fgf15, the mouse ortholog of
+FGF19 (603891). Chromatin immunoprecipitation analysis followed by
+quantitative PCR confirmed binding of BEN to Fgf15.
+
+Palmer et al. (2010) found that GTF2IRD1 is subject to negative
+autoregulation. All isoforms of mouse or human GTF2IRD1 bound 3
+canonical GTF2IRD1-binding sites (GGATTA) in the region upstream of the
+GTF2IRD1 gene. EMSA using artificial DNA probes and in vitro-translated
+GTF2IRD1 revealed enhanced binding in the presence of 3 GGATTA sites and
+dimerization of GTF2IRD1 proteins via an N-terminal leucine zipper
+region. Binding by GTF2IRD1 repressed expression of a reporter gene.
+
+MOLECULAR GENETICS
+
+Tassabehji et al. (1999) found that GTF3 was deleted in patients with
+classic Williams syndrome, but not in patients with partial deletions
+who had only supravalvular aortic stenosis. They suggested that
+haploinsufficiency of the GTF3 gene may be the cause of the abnormal
+muscle fatigability that is characteristic of Williams syndrome.
+
+Tassabehji et al. (2005) reported a rare WBS individual with an atypical
+deletion, including the GTF2IRD1 gene, showed facial dysmorphism and
+cognitive deficits that differed from those of classic WBS cases. They
+proposed a mechanism of cumulative dosage effects of duplicated and
+diverged genes applicable to other human chromosomal disorders.
+
+ANIMAL MODEL
+
+Tassabehji et al. (2005) demonstrated that GTF2IRD1 is involved in
+mammalian craniofacial and cognitive development. Gtf2ird1-null mice
+exhibited phenotypic abnormalities reminiscent of the human
+microdeletion disorder Williams-Beuren syndrome; craniofacial imaging
+revealed abnormalities in both skull and jaws that may arise through
+misregulation of goosecoid (138890), a downstream target of Gtf2ird1.
+
+Palmer et al. (2010) found that mutant mice lacking Gtf2ird1 exon 2
+expressed a mutant Gtf2ird1 transcript. The mutant transcript was
+expressed at wildtype levels due to escape from nonsense mediated decay
+and escape from negative autoregulation by Gtf2ird1 itself.
+
+REFERENCE 1. Bayarsaihan, D.; Ruddle, F. H.: Isolation and characterization
+of BEN, a member of the TFII-I family of DNA-binding proteins containing
+distinct helix-loop-helix domains. Proc. Nat. Acad. Sci. 97: 7342-7347,
+2000.
+
+2. Franke, Y; Peoples, R. J.; Francke, U.: Identification of GTF2IRD1,
+a putative transcription factor within the Williams-Beuren syndrome
+deletion at 7q11.23. Cytogenet Cell Genet. 86: 296-304, 1999.
+
+3. Lazebnik, M. B.; Tussie-Luna, M. I.; Roy, A. L.: Determination
+and functional analysis of the consensus binding site for TFII-I family
+member BEN, implicated in Williams-Beuren syndrome. J. Biol. Chem. 283:
+11078-11082, 2008.
+
+4. O'Mahoney, J. V.; Guven, K. L.; Lin, J.; Joya, J. E.; Robinson,
+C. S.; Wade, R. P.; Hardeman, E. C.: Identification of a novel slow-muscle-fiber
+enhancer binding protein, MusTRD1. Molec. Cell. Biol. 18: 6641-6652,
+1998. Note: Erratum: Molec. Cell. Biol. 20: 5361 only, 2000.
+
+5. Osborne, L. R.; Campbell, T.; Daradich, A.; Scherer, S. W.; Tsui,
+L.-C.: Identification of a putative transcription factor gene (WBSCR11)
+that is commonly deleted in Williams-Beuren syndrome. Genomics 57:
+279-284, 1999.
+
+6. Palmer, S. J.; Santucci, N.; Widagdo, J.; Bontempo, S. J.; Taylor,
+K. M.; Tay, E. S. E.; Hook, J.; Lemckert, F.; Gunning, P. W.; Hardeman,
+E. C.: Negative autoregulation of GTF2IRD1 in Williams-Beuren syndrome
+via a novel DNA binding mechanism. J. Biol. Chem. 285: 4715-4724,
+2010.
+
+7. Ring, C; Ogata, S.; Meek, L.; Song, J.; Ohta, T.; Miyazono, K.;
+Cho, K. W.: The role of a Williams-Beuren syndrome-associated helix-loop-helix
+domain-containing transcription factor in activin/nodal signaling. Genes
+Dev. 16: 820-835, 2002.
+
+8. Tassabehji, M.; Carette, M.; Wilmot, C.; Donnai, D.; Read, A. P.;
+Metcalfe, K.: A transcription factor involved in skeletal muscle
+gene expression is deleted in patients with Williams syndrome. Europ.
+J. Hum. Genet. 7: 737-747, 1999.
+
+9. Tassabehji, M.; Hammond, P.; Karmiloff-Smith, A.; Thompson, P.;
+Thorgeirsson, S. S.; Durkin, M. E.; Popescu, N. C.; Hutton, T.; Metcalfe,
+K.; Rucka, A.; Stewart, H.; Read, A. P.; Maconochie, M.; Donnai, D.
+: GTF2IRD1 in craniofacial development of humans and mice. Science 310:
+1184-1187, 2005.
+
+10. Vullhorst, D.; Buonanno, A.: Characterization of general transcription
+factor 3, a transcription factor involved in slow muscle-specific
+gene expression. J Biol. Chem. 278: 8370-8379, 2003.
+
+11. Yan, X; Zhao, X.; Qian, M.; Guo, N; Gong, X.; Zhu, X.: Characterization
+and gene structure of a novel retinoblastoma-protein-associated protein
+similar to the transcription regulator TFII-I. Biochem J. 345: 749-757,
+2000.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 1/26/2012
+Ada Hamosh - updated: 1/30/2006
+Patricia A. Hartz - updated: 5/8/2003
+Carol A. Bocchini - updated: 12/7/1999
+
+CREATED Victor A. McKusick: 11/29/1999
+
+EDITED alopez: 11/26/2012
+mgross: 3/14/2012
+terry: 1/26/2012
+alopez: 6/17/2011
+alopez: 1/31/2006
+terry: 1/30/2006
+cwells: 5/8/2003
+carol: 12/7/1999
+carol: 11/30/1999
+
+139265	TITLE *139265 GUANOSINE MONOPHOSPHATE REDUCTASE; GMPR
+;;GUANOSINE MONOPHOSPHATE REDUCTASE 1; GMPR1;;
+GMP REDUCTASE
+DESCRIPTION 
+DESCRIPTION
+
+Guanosine monophosphate reductase (EC 1.7.1.7) catalyzes the
+irreversible NADPH-dependent reductive deamination of guanosine
+monophosphate (GMP) to inosine monophosphate (IMP). GMPR is able to
+convert guanosine nucleotides to the pivotal precursor of both guanine
+(G) and adenine (A) nucleotides. It plays an important role in
+maintaining the intracellular balance of A and G nucleotides.
+
+CLONING
+
+Beutler et al. (1990) and Mason et al. (1990) presented evidence that a
+gene mapped to chromosome 6 by Kanno et al. (1989) was GMP reductase.
+Henikoff and Smith (1989) had pointed out similarities between the
+sequence described by Kanno et al. (1989) for the chromosome 6-encoded
+gene and the sequence of E. coli GMP reductase. Kondoh et al. (1991)
+found that the GMPR gene encodes a deduced 345-amino acid protein.
+
+By Northern blot analysis, Deng et al. (2002) detected relatively high
+levels of both GMPR1 and GMPR2 (610781) in heart, skeletal muscle, and
+kidney, and relatively low levels of both in colon, thymus, and
+peripheral blood leukocyte. Strong signals of GMPR2 were detected in
+brain, liver, and placenta, whereas weak signals of GMPR1 were observed
+in these tissues.
+
+GENE STRUCTURE
+
+Kondoh et al. (1991) determined that the GMPR gene spans about 50 kb and
+contains 9 exons. The gene contains 2 potential Sp1 binding sites within
+exon 1, and a functional, atypical polyadenylation signal in exon 9.
+
+MAPPING
+
+By fluorescence in situ hybridization, Murano et al. (1994) mapped the
+GMPR gene to 6p23.
+
+HISTORY
+
+Kanno et al. (1989) suggested that red cell G6PD (305900) is a fusion
+protein consisting of an NH2-terminus encoded by chromosome 6 and a
+COOH-portion coded by an X chromosome. This was subsequently disproved
+by Beutler et al. (1990) and by Mason et al. (1990).
+
+ALLELIC VARIANT .0001
+GMP REDUCTASE POLYMORPHISM
+GMPR, PHE256ILE
+
+Kondoh et al. (1991) identified a T-to-A substitution at nucleotide 766
+of the GMPR gene resulting in substitution of isoleucine for
+phenylalanine at amino acid residue 256 in the variant protein. The
+frequency of the ile256 variant was thought to be about 30%. A silent
+C-to-T change at codon 630 was also found, with a frequency of about
+10%; the silent change created an additional restriction cleavage site.
+
+ADDITIONAL REFERENCES Yoshida and Kan (1990)
+REFERENCE 1. Beutler, E.; Gelbart, T.; Kuhl, W.: Human red cell glucose-6-phosphate
+dehydrogenase: all active enzyme has sequence predicted by the X chromosome-encoded
+cDNA. Cell 62: 7-9, 1990.
+
+2. Deng, Y.; Wang, Z.; Ying, K.; Gu, S.; Ji, C.; Huang, Y.; Gu, X.;
+Wang, Y.; Xu, Y.; Li, Y.; Xie, Y.; Mao, Y.: NADPH-dependent GMP reductase
+isoenzyme of human (GMPR2): expression, purification, and kinetic
+properties. Int. J. Biochem. Cell Biol. 34: 1035-1050, 2002.
+
+3. Henikoff, S.; Smith, J. M.: The human mRNA that provides the N-terminus
+of chimeric G6PD encodes GMP reductase. Cell 58: 1021-1022, 1989.
+
+4. Kanno, H.; Huang, I.-Y.; Kan, Y. W.; Yoshida, A.: Two structural
+genes on different chromosomes are required for encoding the major
+subunit of human red cell glucose-6-phosphate dehydrogenase. Cell 58:
+595-606, 1989.
+
+5. Kondoh, T.; Kanno, H.; Chang, L.; Yoshida, A.: Identification
+of common variant alleles of the human guanosine monophosphate reductase
+gene. Hum. Genet. 88: 225-227, 1991.
+
+6. Kondoh, T.; Kanno, H.; Chang, L.; Yoshida, A.: Genomic structure
+and expression of human guanosine monophosphate reductase. Hum. Genet. 88:
+219-224, 1991.
+
+7. Mason, P. J.; Bautista, J. M.; Vulliamy, T. J.; Turner, N.; Luzzatto,
+L.: Human red cell glucose-6-phosphate dehydrogenase is encoded only
+on the X chromosome. Cell 62: 9-10, 1990.
+
+8. Murano, I.; Tsukahara, M.; Kajii, T.; Yoshida, A.: Mapping of
+the human guanosine monophosphate reductase gene (GMPR) to chromosome
+6p23 by fluorescence in situ hybridization. Genomics 19: 179-180,
+1994.
+
+9. Yoshida, A.; Kan, Y. W.: Origin of 'fused' glucose-6-phosphate
+dehydrogenase. Cell 62: 11-12, 1990.
+
+CREATED Victor A. McKusick: 2/13/1991
+
+EDITED carol: 02/21/2007
+carol: 2/21/2007
+carol: 2/8/1994
+supermim: 3/16/1992
+carol: 1/23/1992
+carol: 2/13/1991
+
+605320	TITLE *605320 6-@PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2,6-BISPHOSPHATASE 4; PFKFB4
+;;PFKFB, TESTIS
+DESCRIPTION The bifunctional 6-phosphofructo-2-kinase (EC
+2.7.1.105)/fructose-2,6-bisphosphatase (EC 3.1.3.46) (PFKFB) regulates
+the steady-state concentration of fructose-2,6-bisphosphate, a potent
+activator of a key regulatory enzyme of glycolysis, phosphofructokinase.
+Isozymes of PFKFB differ in the regions surrounding the catalytic core,
+which are important for the differential response to allosteric
+effectors and hormonal signals in different tissues.
+
+By screening a placental cDNA library with human and frog liver PFKFB
+(PFKFB1; 311790) as probes, Sakai et al. (1996) obtained a partial cDNA
+encoding PFKFB4, which they termed 2K-1. Manzano et al. (1999) isolated
+a cDNA encoding PFKFB4 by screening a human testis cDNA library with a
+rat liver Pfkfb probe, followed by RT-PCR. The predicted 469-amino acid
+PFKFB4 protein, which is 97% homologous to the rat sequence and
+approximately 70% identical to the human PFKFB isoforms, contains
+multiple phosphorylation sites. Northern blot analysis of rat brain,
+heart, liver, muscle, placenta, adipose tissue, ovary, fallopian tubes,
+and testis with the human PFKFB4 sequence as probe detected
+testis-specific expression of 2.4- and 3.3-kb transcripts. Western blot
+analysis showed expression of a 55-kD protein, close to the predicted
+value.
+
+Manzano et al. (1999) mapped the PFKFB4 gene to 3p22-p21 by FISH.
+
+REFERENCE 1. Manzano, A.; Perez, J. X.; Nadal, M.; Estivill, X.; Lange, A.;
+Bartrons, R.: Cloning, expression and chromosomal localization of
+a human testis 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase
+gene. Gene 229: 83-89, 1999.
+
+2. Sakai, A.; Kato, M.; Fukasawa, M.; Ishiguro, M.; Furuya, E.; Sakakibara,
+R.: Cloning of cDNA encoding for a novel isozyme of fructose 6-phosphate,2-kinase/fructose
+2,6-bisphosphatase from human placenta. J. Biochem. 119: 506-511,
+1996.
+
+CREATED Paul J. Converse: 10/6/2000
+
+EDITED mgross: 10/06/2000
+mgross: 10/6/2000
+
+614784	TITLE *614784 POC1 CENTRIOLAR PROTEIN, CHLAMYDOMONAS, HOMOLOG OF, B; POC1B
+;;PIX1;;
+PROTEOME OF THE CENTRIOLE 1B
+DESCRIPTION 
+DESCRIPTION
+
+POC1A (614783) and POC1B localize to centrioles and related structures
+and appear to play roles in centriole duplication and/or maintenance
+(Keller et al., 2009).
+
+CLONING
+
+By searching a human database for sequences similar to Xenopus Pix1,
+Hames et al. (2008) identified POC1B, which they called PIX1, and
+obtained the full-length cDNA clone. The deduced 478-amino acid PIX1
+protein contains an N-terminal WD40 domain predicted to fold into a
+7-bladed beta propeller and a C-terminal coiled-coil domain. In Xenopus,
+RT-PCR detected high expression of Pix1 in ovary, weaker expression in
+testis, and very low expression in other tissues. Variable PIX1
+expression was detected in all human cell lines examined. Hames et al.
+(2008) also identified Xenopus and human PIX2 (POC1A) and 1 or 2 PIX
+orthologs in rodents, zebrafish, Drosophila, and amphioxus, but not in
+C. elegans or yeast. Immunohistochemical analysis detected Xenopus Pix1
+in the single large mitochondrial cloud of previtellogenic oocytes.
+Using an antibody that did not differentiate between human PIX proteins
+for immunohistochemical analysis, Hames et al. (2008) found that PIX
+associated with mitochondria, centrioles, and basal bodies in human cell
+lines. Immunoelectron microscopic analysis of human RPE1 retinal pigment
+epithelial cells revealed that PIX mostly associated with the central
+region and distal end of the centriole barrel, with concentration within
+the lumen. Epitope-tagged PIX1 and PIX2 were expressed in overlapping
+but distinct patterns in mitochondria, centrosome, basal body, and
+spindle microtubules during the cell cycle in transfected U2OS cells.
+Western blot analysis of several human cell lines detected PIX1 at an
+apparent molecular mass of about 54 kD.
+
+Keller et al. (2009) found that fluorescence-tagged POC1A and POC1B
+localized to both mother centrioles and newly forming daughter
+centrioles in transfected HeLa and U2OS cells, a pattern of expression
+that was also observed for Chlamydomonas Poc1.
+
+GENE FUNCTION
+
+Hames et al. (2008) found that epitope-tagged PIX2, and more weakly
+PIX1, associated with microtubules in transfected HeLa cells. Inhibition
+of PIX protein function via interfering antibodies disrupted cell
+division in U2OS cells, resulting in a high proportion of cells that
+were multinucleated or remained connected by a thin cytoplasmic bridge.
+
+Keller et al. (2009) found that overexpression of fluorescence-tagged
+POC1B in U2OS cells resulted in duplication of centrioles, which was
+countered by small interfering RNA directed against POC1B or against
+both POC1A and POC1B. Overexpression of POC1B also increased centriole
+length in a significant proportion of transfected cells.
+
+EVOLUTION
+
+Keller et al. (2009) stated that all organisms with standard triplet
+microtubule-containing centrioles in at least part of their life cycle
+have a POC1 gene. In vertebrates, the POC1 gene is duplicated.
+
+MAPPING
+
+Hames et al. (2008) stated that the human POC1B gene maps to chromosome
+12q21.33.
+
+REFERENCE 1. Hames, R. S.; Hames, R.; Prosser, S. L.; Euteneuer, U.; Lopes,
+C. A. M.; Moore, W.; Woodland, H. R.; Fry, A. M.: Pix1 and Pix2 are
+novel WD40 microtubule-associated proteins that colocalize with mitochondria
+in Xenopus germ plasm and centrosomes in human cells. Exp. Cell Res. 314:
+574-589, 2008.
+
+2. Keller, L. C.; Geimer, S.; Romijn, E.; Yates, J., III; Zamora,
+I.; Marshall, W. F.: Molecular architecture of the centriole proteome:
+the conserved WD40 domain protein POC1 is required for centriole duplication
+and length control. Molec. Biol. Cell 20: 1150-1166, 2009.
+
+CREATED Patricia A. Hartz: 8/27/2012
+
+EDITED carol: 08/27/2012
+
+613420	TITLE *613420 POTASSIUM CHANNEL TETRAMERIZATION DOMAIN-CONTAINING PROTEIN 1; KCTD1
+DESCRIPTION 
+CLONING
+
+Ding et al. (2008) cloned KCTD1 from a human brain cDNA library. The
+deduced 257-amino acid protein contains an N-terminal tetramerization
+domain, which is a variant of a BTB-type protein-interaction domain, and
+has a predicted molecular mass of 29.4 kD. Northern blot analysis
+detected a major 2.0-kb transcript in mammary gland, kidney, brain, and
+ovary. A minor 4.0-kb transcript was detected in mammary gland, kidney,
+brain, ovary, and lung. KCTD1 expression was not detected in other
+tissues. RT-PCR analysis detected KCTD1 in both normal breast and breast
+carcinoma cell lines. Immunohistochemical analysis detected endogenous
+KCTD1 protein in a punctate distribution in nuclei of HeLa cells and a
+normal mammary epithelial cell line. Database analysis revealed that the
+KCTD1 protein is highly conserved: the mouse Kctd1 protein is identical
+to human KCTD1 except for an 8-amino acid insertion following the
+initiating methionine, and the rat and human proteins are identical
+except for 1 amino acid change.
+
+GENE STRUCTURE
+
+Ding et al. (2008) determined that the KCTD1 gene contains 7 exons and
+spans about 185 kb, with exons 3 through 5 and part of exon 6 as coding
+exons.
+
+MAPPING
+
+By genomic sequence analysis, Ding et al. (2008) mapped the KCTD1 gene
+to chromosome 18q11.2.
+
+GENE FUNCTION
+
+Ding et al. (2008) found that KCTD1 functioned as a transcriptional
+repressor in a reporter gene assay following transfection of HEK293 and
+NIH3T3 cells. Mutation analysis showed that the BTB domain of KCTD1
+mediated transcriptional repression and did not require recruitment of
+an HDAC1 (see 601241) complex. The BTB domain also functioned in KCTD1
+dimerization.
+
+Using a yeast 2-hybrid screen, in vitro protein-interaction assays, and
+immunoprecipitation analysis, Ding et al. (2009) showed that KCTD1
+interacted with the transcription factor AP2-alpha (TFAP2A; 107580). The
+yeast 2-hybrid screen also showed that KCTD1 interacted with AP2-beta
+(TFAP2B; 601601) and AP2-gamma (TFAP2C; 601602). Cotransfection
+experiments revealed that KCTD1 repressed the transcriptional activity
+of these AP2 proteins, but showed strongest inhibition of AP2-alpha.
+Mutation analysis revealed that the BTB domain of KCTD1 interacted with
+the N-terminal activation domain of AP2-alpha. The BTB domain was also
+required for the nuclear targeting of KCTD1 and for the nuclear
+colocalization of KCTD1 and AP2-alpha in HeLa and normal mammary
+epithelial cell lines.
+
+MOLECULAR GENETICS
+
+In affected individuals from 10 unrelated families with scalp-ear-nipple
+syndrome (SENS; 181270), Marneros et al. (2013) identified
+heterozygosity for 10 different missense mutations in the KCTD1 gene
+(see, e.g., 613420.0001-613420.0008). All 10 mutations were located at
+highly conserved residues within BTB domains, segregated with disease in
+the respective families, and were not found in more than 13,000
+chromosomes of the NHLBI Exome Sequencing Project.
+
+ALLELIC VARIANT .0001
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, ALA30GLU
+
+In 12 affected individuals from a large 4-generation family of European
+ancestry with scalp-ear-nipple syndrome (SENS; 181270), originally
+described by Edwards et al. (1994), Marneros et al. (2013) identified
+heterozygosity for a c.89C-A transversion in exon 2 of the KCTD1 gene,
+resulting in an ala30-to-glu (A30E) substitution at a highly conserved
+residue in a BTB domain. The mutation segregated with disease in the
+family and was not found in more than 13,000 chromosomes in the NHLBI
+Exome Sequencing Project.
+
+.0002
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, PRO31ARG
+
+In a female proband of North African ancestry with scalp-ear-nipple
+syndrome (181270), originally described by Le Merrer et al. (1991),
+Marneros et al. (2013) identified heterozygosity for a c.92C-G
+transversion in exon 2 of the KCTD1 gene, resulting in a pro31-to-arg
+(P31R) substitution at a highly conserved residue in a BTB domain. The
+mutation was not found in more than 13,000 chromosomes in the NHLBI
+Exome Sequencing Project.
+
+.0003
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, PRO31LEU
+
+In a mother and son of European ancestry with scalp-ear-nipple syndrome
+(181270), Marneros et al. (2013) identified heterozygosity for a c.92C-T
+transition in exon 2 of the KCTD1 gene, resulting in a pro31-to-leu
+(P31L) substitution at a highly conserved residue in a BTB domain. The
+mutation segregated with disease in the family and was not found in more
+than 13,000 chromosomes in the NHLBI Exome Sequencing Project.
+
+.0004
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, PRO31HIS
+
+In a father and son of Brazilian ancestry with scalp-ear-nipple syndrome
+(181270), Marneros et al. (2013) identified heterozygosity for a c.92C-A
+transversion in exon 2 of the KCTD1 gene, resulting in a pro31-to-his
+(P31H) substitution at a highly conserved residue in a BTB domain. The
+mutation was not found in more than 13,000 chromosomes in the NHLBI
+Exome Sequencing Project.
+
+.0005
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, HIS33GLN
+
+In a male patient of Brazilian ancestry with scalp-ear-nipple syndrome
+(181270), originally reported by Sobreira et al. (2006), Marneros et al.
+(2013) identified heterozygosity for a c.99C-A transversion in exon 2 of
+the KCTD1 gene, resulting in a his33-to-gln (H33Q) substitution at a
+highly conserved residue in a BTB domain. The mutation segregated with
+disease in the family and was not found in more than 13,000 chromosomes
+in the NHLBI Exome Sequencing Project. In addition to the characteristic
+features of SEN Syndrome, the patient exhibited ocular abnormalities,
+including bilateral coloboma of the iris, asymmetric pupils, and myopia.
+
+.0006
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, HIS33PRO
+
+In mother and daughter of European ancestry with scalp-ear-nipple
+syndrome (181270), Marneros et al. (2013) identified heterozygosity for
+a c.98A-C transversion in exon 2 of the KCTD1 gene, resulting in a
+his33-to-pro (H33P) substitution at a highly conserved residue in a BTB
+domain. The mutation was not found in more than 13,000 chromosomes in
+the NHLBI Exome Sequencing Project.
+
+.0007
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, HIS74PRO
+
+In a woman of European ancestry with scalp-ear-nipple syndrome (181270),
+originally described by Plessis et al. (1997), Marneros et al. (2013)
+identified heterozygosity for a c.221A-C transversion in exon 3 of the
+KCTD1 gene, resulting in a his74-to-pro (H74P) substitution at a highly
+conserved residue in a BTB domain. The mutation was not found in more
+than 13,000 chromosomes in the NHLBI Exome Sequencing Project. In
+addition to the characteristic features of SEN syndrome, the patient had
+bilateral renal hypoplasia.
+
+.0008
+SCALP-EAR-NIPPLE SYNDROME
+KCTD1, GLY62ASP
+
+In a female patient of European ancestry with scalp-ear-nipple syndrome
+(181270), previously reported by Picard et al. (1999), Marneros et al.
+(2013) identified heterozygosity for a c.185G-A transition in exon 3 of
+the KCTD1 gene, resulting in a gly62-to-asp (G62D) substitution at a
+highly conserved residue in a BTB domain. Her father, who was also
+affected, did not undergo genetic testing; the mutation was not found in
+more than 13,000 chromosomes in the NHLBI Exome Sequencing Project. In
+addition to the characteristic features of SEN syndrome, the father and
+daughter had renal and urinary tract anomalies.
+
+REFERENCE 1. Ding, X.; Luo, C.; Zhou, J.; Zhong, Y.; Hu, X.; Zhou, F.; Ren,
+K.; Gan, L.; He, A.; Zhu, J.; Gao, X.; Zhang, J.: The interaction
+of KCTD1 with transcription factor AP-2-alpha inhibits its transactivation. J.
+Cell Biochem. 106: 285-295, 2009.
+
+2. Ding, X.-F.; Luo, C.; Ren, K.-Q.; Zhang, J.; Zhou, J.-L.; Hu, X.;
+Liu, R.-S.; Wang, Y.; Gao, X.; Zhang, J.: Characterization and expression
+of a human KCTD1 gene containing the BTB domain, which mediates transcriptional
+repression and homomeric interactions. DNA Cell Biol. 27: 257-265,
+2008.
+
+3. Edwards, M. J.; McDonald, D.; Moore, P.; Rae, J.: Scalp-ear-nipple
+syndrome: additional manifestations. Am. J. Med. Genet. 50: 247-250,
+1994.
+
+4. Le Merrer, M.; Renier, D.; Briard, M. L.: Scalp defect, nipples
+absence and ears abnormalities: another case of Finlay syndrome. Genet.
+Counsel. 2: 233-236, 1991.
+
+5. Marneros, A. G.; Beck, A. E.; Turner, E. H.; McMillin, M. J.; Edwards,
+M. J.; Field, M.; Sobreira, N. L. de M.; Perez, A. B. A.; Fortes,
+J. A. R.; Lampe, A. K.; Giovannucci Uzielli, M. L.; Gordon, C. T.;
+and 13 others: Mutations in KCTD1 cause scalp-ear-nipple syndrome. Am.
+J. Hum. Genet. 92: 621-626, 2013.
+
+6. Picard, C.; Couderc, S.; Skojaei, T.; Salomon, R.; de Lonlay, P.;
+Le Merrer, M.; Munnich, A.; Lyonnet, S.; Amiel, J.: Scalp-ear-nipple
+(Finlay-Marks) syndrome: a familial case with renal involvement. (Letter) Clin.
+Genet. 56: 170-172, 1999.
+
+7. Plessis, G.; Le Treust, M.; Le Merrer, M.: Scalp defect, absence
+of nipples, ear anomalies, renal hypoplasia: another case of Finlay-Marks
+syndrome. Clin. Genet. 52: 231-234, 1997.
+
+8. Sobreira, N. L. de M.; Brunoni, D.; Cernach, M. C. S. P.; Perez,
+A. B. A.: Finlay-Marks (SEN) syndrome: a sporadic case and the delineation
+of the syndrome. (Letter) Am. J. Med. Genet. 140A: 300-302, 2006.
+
+CONTRIBUTORS Marla J. F. O'Neill - updated: 7/11/2013
+
+CREATED Patricia A. Hartz: 6/2/2010
+
+EDITED carol: 10/17/2013
+carol: 7/11/2013
+terry: 12/7/2010
+wwang: 6/2/2010
+
+606086	TITLE *606086 EUKARYOTIC TRANSLATION INITIATION FACTOR 5B; EIF5B
+;;TRANSLATION INITIATION FACTOR IF2; IF2
+DESCRIPTION Translation initiation requires the delivery of the initiator methionine
+tRNA to the 40S ribosomal subunit. The initiator methionine tRNA is
+delivered by the heterotrimeric complex EIF2 (see 603908) in a ternary
+complex with GTP that interacts with the 40S subunit. The resulting
+complex then binds to an mRNA and scans for the AUG start codon.
+
+CLONING
+
+By screening a brain cDNA library for cDNAs encoding proteins larger
+than 50 kD, Nagase et al. (1998) isolated a cDNA encoding IF2, which
+they called KIAA0741. They determined that the 1,220-amino acid protein
+is 100% identical to a putative GTP-binding protein (GenBank GENBANK
+AJ006412). RT-PCR analysis detected expression of KIAA0741 in all
+tissues tested except spleen, with highest levels in brain, followed by
+heart and testis.
+
+By searching an EST database with the yeast IF2 protein as the probe,
+followed by screening a testis cDNA library, Lee et al. (1999) isolated
+a cDNA encoding human IF2. Sequence analysis predicted that the
+1,220-amino acid human IF2 protein, which is 44% identical to the yeast
+protein, contains 3 motifs characteristic of GTP-binding proteins and
+has long N-terminal poly-glu and poly-lys stretches. The GTP-binding
+domains of human IF2 share 70% and 54% identity with those of the yeast
+and archaeal IF2 proteins, respectively. Northern blot analysis revealed
+wide expression of a 4.5-kb IF2 transcript, with highest levels in
+testis and skeletal muscle. Immunoblot analysis showed expression of a
+175-kD protein. Functional analysis determined that human IF2 can
+substitute for yeast IF2. Mutational analysis indicated that an intact
+GTP-binding domain is required for translation promotion. Lee et al.
+(1999) proposed that IF2 directs binding of met-tRNA to the ribosomal P
+site.
+
+Using a yeast 2-hybrid screen on a T-cell cDNA library with the human
+immunodeficiency virus-1 (HIV-1) matrix protein as bait, followed by
+screening a HeLa cell cDNA library, Wilson et al. (1999) isolated a cDNA
+encoding IF2. Immunoprecipitation and binding analyses indicated that
+the C-terminal half of IF2, which is 53% identical to the C terminus of
+yeast IF2, interacts with the HIV-1 matrix protein.
+
+MAPPING
+
+Nagase et al. (1998) stated that the EIF5B gene, which they termed
+KIAA0741, maps to chromosome 2.
+
+REFERENCE 1. Lee, J. H.; Choi, S. K.; Roll-Mecak, A.; Burley, S. K.; Dever,
+T. E.: Universal conservation in translation initiation revealed
+by human and archaeal homologs of bacterial translation initiation
+factor IF2. Proc. Nat. Acad. Sci. 96: 4342-4347, 1999.
+
+2. Nagase, T.; Ishikawa, K.; Suyama, M.; Kikuno, R.; Miyajima, N.;
+Tanaka, A.; Kotani, H.; Nomura, N.; Ohara, O.: Prediction of the
+coding sequences of unidentified human genes. XI. The complete sequences
+of 100 new cDNA clones from brain which code for large proteins in
+vitro. DNA Res. 5: 277-286, 1998.
+
+3. Wilson, S. A.; Sieiro-Vazquez, C.; Edwards, N. J.; Iourin, O.;
+Byles, E. D.; Kotsopoulou, E.; Adamson, C. S.; Kingsman, S. M.; Kingsman,
+A. J.; Martin-Rendon, E.: Cloning and characterization of hIF2, a
+human homologue of bacterial translation initiation factor 2, and
+its interaction with HIV-1 matrix. Biochem. J. 342: 97-103, 1999.
+
+CREATED Paul J. Converse: 7/6/2001
+
+EDITED alopez: 03/14/2006
+mgross: 7/6/2001
+
+609951	TITLE *609951 ZINC FINGER PROTEIN 384; ZNF384
+;;CAS-INTERACTING ZINC FINGER PROTEIN; CIZ;;
+CAGH1;;
+NUCLEAR MATRIX PROTEIN 4; NMP4
+DESCRIPTION 
+DESCRIPTION
+
+ZNF384 is a nucleocytoplasmic shuttling protein that localizes at
+fibroblast focal adhesions, contains multiple zinc fingers, and
+regulates expression of matrix metalloproteinases (e.g., MMP3; 185250)
+(Thunyakitpisal et al., 2001).
+
+CLONING
+
+By screening adult and fetal human brain cDNA libraries for clones
+containing CAG repeats, Margolis et al. (1997) isolated a partial cDNA
+encoding ZNF384, which they called CAGH1.
+
+By Far Western screening of a rat embryonic fibroblast cDNA library with
+the SH3 domain of Cas (BCAR1; 602941) as probe, Nakamoto et al. (2000)
+isolated several splice variants of Znf384, which they called Ciz. The
+longest variant encodes a predicted 579-residue protein with an
+N-terminal leucine zipper, multiple serine and proline residues, a
+nuclear localization signal, 8 centrally located Kruppel-type C2H2 zinc
+fingers, and C-terminal glutamine-alanine and glutamine repeat regions,
+suggesting that Ciz may be a transcription factor. The shorter variants
+encode proteins with only 5 or 6 zinc fingers. Northern blot analysis of
+rat tissues revealed ubiquitous expression of a 3.0-kb transcript, with
+highest levels in testis, heart, kidney, and brain. A 4.0-kb transcript
+was also detected in brain, liver, and kidney. Immunofluorescence
+microscopy showed that Ciz shuttled in and out of the nucleus and
+localized at stably formed focal adhesions and in the nucleus.
+
+Thunyakitpisal et al. (2001) independently cloned and characterized rat
+Znf384, which they termed Nmp4, based on its interaction with type I
+collagen alpha-1 (COL1A1; 120150). They identified several novel
+variants, including one that lacks the C-terminal glutamine-alanine
+repeat region.
+
+GENE FUNCTION
+
+Using precipitation analysis, Nakamoto et al. (2000) showed that rat Ciz
+bound specifically and constitutively to the SH3 domain of Cas.
+Immunoprecipitation and EMSA analysis demonstrated that Ciz bound to the
+promoter of human MMP1 (120353) and upregulated transcription of human
+MMP1 and MMP7 (178990) and rat Mmp3.
+
+Thunyakitpisal et al. (2001) showed that rat Nmp4 interacted with Col1a1
+and regulated its expression in osteoblasts. They concluded that NMP4
+contributes to extracellular matrix turnover in bone and other tissues.
+
+Shen et al. (2002) overexpressed Ciz in a mouse osteoblast cell line and
+found that it inhibited Bmp2 (112261)-induced expression of alkaline
+phosphatase (see ALPL; 171760), osteocalcin (BGLAP; 112260), type I
+collagen, and Cbfa1 (RUNX2; 600211). They concluded that CIZ is an
+inhibitory protein that modulates BMP2-induced differentiation of
+osteoblastic cells.
+
+MAPPING
+
+Margolis et al. (1997) stated that the ZFN384 gene maps to chromosome
+12p12. Alvarez et al. (2001) mapped the mouse Znf384 gene to chromosome
+6F1, a region that shows homology of synteny to human chromosome 12p12.
+
+ANIMAL MODEL
+
+Morinobu et al. (2005) found that Ciz -/- mice had increased bone volume
+and rates of bone formation, but no alteration in bone resorption. Ciz
+-/- mice expressed higher levels of mRNA for proteins involved in
+osteoblastic phenotypes, such as alkaline phosphatase and osterix (SP7;
+606633). Ciz deficiency increased newly formed bone mass after femoral
+bone marrow ablation, and it increased Bmp2-induced bone formation in
+adult mouse calvariae. Morinobu et al. (2005) concluded that CIZ
+suppresses the levels of adult bone mass through inhibition of
+BMP-induced activation of osteoblasts.
+
+REFERENCE 1. Alvarez, M. B.; Thunyakitpisal, P.; Rhodes, S. J.; Everett, E.
+T.; Bidwell, J. P.: Assignment of Nmp4 to mouse chromosome 6 band
+F1 flanked by D6Mit134 and D6Mit255 using radiation hybrid mapping
+and fluorescence in situ hybridization. Cytogenet. Cell Genet. 94:
+244-245, 2001.
+
+2. Margolis, R. L.; Abraham, M. R.; Gatchell, S. B.; Li, S.-H.; Kidwai,
+A. S.; Breschel, T. S.; Stine, O. C.; Callahan, C.; McInnis, M. G.;
+Ross, C. A.: cDNAs with long CAG trinucleotide repeats from human
+brain. Hum. Genet. 100: 114-122, 1997.
+
+3. Morinobu, M.; Nakamoto, T.; Hino, K.; Tsuji, K.; Shen, Z.-J.; Nakashima,
+K.; Nifuji, A.; Yamamoto, H.; Hirai, H.; Noda, M.: The nucleocytoplasmic
+shuttling protein CIZ reduces adult bone mass by inhibiting bone morphogenetic
+protein-induced bone formation. J. Exp. Med. 201: 961-970, 2005.
+
+4. Nakamoto, T.; Yamagata, T.; Sakai, R.; Ogawa, S.; Honda, H.; Ueno,
+H.; Hirano, N.; Yazaki, Y.; Hirai, H.: CIZ, a zinc finger protein
+that interacts with p130(cas) and activates the expression of matrix
+metalloproteinases. Molec. Cell. Biol. 20: 1649-1658, 2000.
+
+5. Shen, Z.-J.; Nakamoto, T.; Tsuji, K.; Nifuji, A.; Miyazono, K.;
+Komori, T.; Hirai, H.; Noda, M.: Negative regulation of bone morphogenetic
+protein/Smad signaling by Cas-interacting zinc finger protein in osteoblasts. J.
+Biol. Chem. 277: 29840-29846, 2002.
+
+6. Thunyakitpisal, P.; Alvarez, M.; Tokunaga, K.; Onyia, J. E.; Hock,
+J.; Ohashi, N.; Feister, H.; Rhodes, S. J.; Bidwell, J. P.: Cloning
+and functional analysis of a family of nuclear matrix transcription
+factors (NP/NMP4) that regulate type I collagen expression in osteoblasts. J.
+Bone Min. Res. 16: 10-23, 2001.
+
+CREATED Paul J. Converse: 3/13/2006
+
+EDITED carol: 05/19/2008
+mgross: 3/13/2006
+
+108330	TITLE *108330 CYTOCHROME P450, SUBFAMILY I, POLYPEPTIDE 1; CYP1A1
+;;CYTOCHROME P450, AROMATIC COMPOUND-INDUCIBLE;;
+ARYL HYDROCARBON HYDROXYLASE; AHH;;
+FLAVOPROTEIN-LINKED MONOOXYGENASE;;
+CYTOCHROME P1-450, DIOXIN-INDUCIBLE;;
+CYTOCHROME P1-450, INDUCIBLE BY 2,3,7,8-TETRACHLORODIBENZO-P-DIOXIN;;
+TCDD-INDUCIBLE CYTOCHROME P1-450; P450DX;;
+POLYCYCLIC AROMATIC COMPOUND-INDUCIBLE P450
+DESCRIPTION 
+CLONING
+
+Cytochrome P1-450 is the form of P-450 most closely associated with
+polycyclic-hydrocarbon-induced aryl hydrocarbon hydrolase (AHH)
+activity. Chen et al. (1983) cloned a portion of the genomic gene. The
+compound 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) is a potent inducer
+of many proteins including drug-metabolizing enzymes such as the
+cytochrome P-450 proteins. The P1-450 that is induced by TCDD is the
+same as AHH. Jaiswal et al. (1985) used a human cell line in which
+treatment with TCDD resulted in high levels of AHH (P1-450) activity and
+of human P1-450. Jaiswal et al. (1986) presented the complete amino acid
+sequence of cytochrome P1-450, consisting of 515 residues.
+
+Quattrochi et al. (1985) cloned human P450DX genes and concluded that
+there are at least 2 in humans.
+
+Jaiswal et al. (1985) and Kawajiri et al. (1986) isolated and analyzed
+the complete nucleotide sequence of a human genomic clone highly
+homologous to the rat cytochrome P-450 that is induced by
+methylcholanthrene and TCDD.
+
+Kawajiri et al. (1986) constructed a fusion gene by ligating the 5-prime
+flanking region of the P-450c gene to the structural gene for
+prokaryotic chloramphenicol acetyltransferase (CAT), expressed the CAT
+activity in mouse cells in response to administered methylcholanthrene.
+Thus, the isolated human gene was indeed one for methylcholanthrene
+inducibility.
+
+EVOLUTION
+
+Jaiswal et al. (1985) estimated that the TCDD-inducible P-450 gene
+family diverged from the phenobarbital-inducible P-450 gene family (see
+122720) more than 200 million years ago. Nebert and Gonzalez (1987)
+estimated that this divergence occurred more than 750 million years ago.
+
+GENE STRUCTURE
+
+By analysis of the common 5-prime flanking region shared by CYP1A1 and
+CYP1A2, Corchero et al. (2001) demonstrated the presence of xenobiotic
+response elements (XREs) previously reported for CYP1A1 and CYP1A2 and
+several additional consensus sequences for putative XREs. The presence
+of all the XREs upstream of both genes suggested that some of the
+regulatory elements known to control CYP1A1 gene expression could also
+control CYP1A2 gene expression.
+
+GENE FUNCTION
+
+Jaiswal et al. (1987) inserted various lengths of DNA upstream from the
+human P1-450 gene into the promoterless pSVO-CAT prokaryotic expression
+vector and compared with mouse P1-450 upstream sequences similarly
+treated. The results were consistent with the presence of several
+functional regulatory regions within the upstream DNA: a promoter
+region, a region that is negatively autoregulated, and a region further
+upstream that activates transcription and is dependent upon a functional
+aromatic hydrocarbon receptor. Compared with 1,604 basepairs of human
+P1-450 upstream sequences, 1,646 basepairs of mouse P1-450 upstream
+sequences exhibited an increased sensitivity to TCDD; this effect was
+found to require both trans-acting protein factors and cis-acting DNA
+elements.
+
+Thum and Borlak (2000) investigated the gene expression of major human
+cytochrome P450 genes in various regions of explanted hearts from 6
+patients with dilated cardiomyopathy and 1 with transposition of the
+arterial trunk and 2 samples of normal heart. mRNA for cytochrome 1A1
+was predominantly expressed in the right ventricle. A strong correlation
+between tissue-specific gene expression and enzyme activity was found.
+Thum and Borlak (2000) concluded that their findings showed that
+expression of genes for cytochrome P450 monooxgenases and verapamil
+metabolism are found predominantly in the right side of the heart, and
+suggested that this observation may explain the lack of efficacy of
+certain cardioselective drugs.
+
+MAPPING
+
+Hildebrand et al. (1985) used a full-length cDNA for human
+2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)-inducible cytochrome P1-450
+to study DNA from somatic hybrid cells. They assigned the gene to
+chromosome 15. Jaiswal and Nebert (1986) indicated that this locus is in
+the 15q22-qter segment, near MPI (154550). The P3-450 gene (CYP1A2) has
+also been located on chromosome 15; see 124060. See also CYP1B1
+(601771).
+
+Corchero et al. (2001) found that the CYP1A1 and CYP1A2 genes are
+separated by a 23-kb segment that contains no other open reading frames.
+They are in opposite orientation, revealing that they share a common
+5-prime flanking region.
+
+Hildebrand et al. (1985) showed that in the mouse, which has 2
+dioxin-inducible P-450 genes, P1-450 and P3-450, the 2 genes are
+situated in the middle portion of chromosome 9 near the Mpi-1 locus,
+between Thy-1 and Pk-3. Treatment of mice with polycyclic aromatic
+hydrocarbons results in induction of P1-450 and P3-450. The mouse P1-450
+and P3-450 genes have been cloned and shown to be coordinately regulated
+by the cytosolic receptor which is coded by the Ah locus and
+specifically binds the inducing chemicals.
+
+By Southern blot analysis of DNA from hamster-mouse somatic cell
+hybrids, Tukey et al. (1984) demonstrated that the genes for P1-450 and
+P3-450 map to chromosome 9 in the mouse. The major regulatory gene
+controlling P1-450 induction in the mouse is located in the centromeric
+region of chromosome 12. Mouse chromosome 9 shows other homology of
+synteny with human 15.
+
+MOLECULAR GENETICS
+
+Kouri et al. (1982) reported that individuals with the high-inducibility
+phenotype (present in approximately 10% of the human population) might
+be at greater risk than low-inducibility individuals for cigarette
+smoke-induced bronchogenic carcinoma. In a 3-generation family of 15
+individuals, Petersen et al. (1991) showed that the
+high-CYP1A1-inducibility phenotype segregated concordantly with an
+infrequent polymorphic site located 450 bases downstream from the CYP1A1
+gene. These findings were consistent with those of Kawajiri et al.
+(1986, 1990), who demonstrated an association between this polymorphism
+and an increased incidence of squamous cell lung cancer. Polycyclic
+aromatic hydrocarbons (PAHs) generated from the combustion of fossil
+fuels, and aromatic amines, which are present in cigarette smoke and
+other environmental media, present 2 classic environmental carcinogens.
+
+Perera (1997) reviewed evidence on variation in susceptibility to the
+effects of carcinogens. CYP1A1 encodes a phase I cytochrome P450 enzyme
+that metabolizes PAHs such as benzo[a]pyrene (BP). About 10% of
+Caucasians have a highly inducible form of the enzyme that is associated
+with an increased risk of lung cancer in smokers. Although not all
+studies have been positive, in Japanese and certain Caucasian
+populations, increased lung cancer risk was correlated with 1 or both
+CYP1A1 polymorphisms: the so-called MSPI polymorphism and the
+closely-linked exon 7 (isoleucine-valine) polymorphism (Kawajiri et al.,
+1996; Nakachi et al., 1991; Xu et al., 1996). The greatest incremental
+lung cancer risk from the 'susceptible' CYP1A1 genotype was seen in
+light smokers (7 times the risk of light smokers without the genotype),
+whereas heavy smokers with this genotype had less than twice the risk of
+heavy smokers without the genotype. The proposed mechanism for the
+increased risk is higher CYP1A1 inducibility or enhanced catalytic
+activity of the valine-type CYP1A1 enzyme. Consistent with these
+mechanisms, Mooney et al. (1997) found that U. S. smoking volunteers
+with the exon 7 mutation had more PAH-DNA adducts in their white blood
+cells than did smokers without the variant. Perera (1997) stated that
+PAH-DNA adducts were also elevated in cord blood and placenta of
+newborns with the CYP1A1 MSP1 polymorphism, which suggested that the
+genetic polymorphism may increase risk from transplacental PAH exposure.
+In lung tissue of adults, adduct concentration correlated with CYP1A1
+expression or enzyme activity. Perera (1997) noted that lung tumors of
+Japanese smokers were found to be significantly more likely to have p53
+(191170) mutations if they had the susceptible CYP1A1 genotype. A
+failure to demonstrate genetic susceptibility through CYP1A1
+polymorphism when exposure to the environmental carcinogen is heavy is
+observed with some other polymorphisms and carcinogenic exposures. It is
+possible that at higher exposures, the effects of the genetic traits are
+overwhelmed by the environmental insults.
+
+Numerous studies have shown that maternal cigarette smoking during
+pregnancy is associated with reduced birth weight and increased risk of
+low birth weight, defined as weight less than 2,500 g. Maternal
+cigarette smoking has thus been identified as the single largest
+modifiable risk factor for intrauterine growth restriction in developed
+countries. However, not all women who smoke cigarettes during pregnancy
+have low-birth weight infants. Wang et al. (2002) studied whether the
+association between maternal cigarette smoking and infant birth weight
+differs by polymorphisms of 2 maternal metabolic genes: CYP1A1 and GSTT1
+(600436). The CYP1A1 polymorphism was the Msp1 polymorphism (AA vs Aa
+and aa); the GSTT1 polymorphism was present versus absent. Wang et al.
+(2002) found that regardless of genotype, continuous maternal smoking
+during pregnancy was associated with a mean reduction of 377 g in birth
+weight. They found that for the CYP1A1 genotype, the estimated reduction
+in birth weight was 252 g for the AA genotype group, but was 520 g for
+the Aa/aa genotype group. For the GSTT1 genotype, they found the
+estimated reduction in birth weight was 285 g and 642 g for the present
+and absent genotype groups, respectively. When both CYP1A1 and GSTT1
+genotypes were considered, Wang et al. (2002) found the greatest
+reduction in birth weight among smoking mothers with the CYP1A1 Aa/aa
+and GSTT1 absent genotypes. Among mothers who had not smoked during
+their pregnancy or during the 3 months prior to their pregnancy,
+genotype did not independently confer an adverse effect.
+
+The CYP1A1 and CYP1A2 genes are oriented head-to-head on human
+chromosome 15; the 23.3-kb spacer region might contain distinct
+regulatory regions for one or the other of these genes, or the
+regulatory regions for the 2 genes may overlap one another. From 24
+unrelated subjects of 5 major, geographically isolated subgroups, Jiang
+et al. (2005) resequenced both genes (all exons and all introns) plus
+some 3-prime flanking sequences and the entire spacer region (39.6 kb
+total). They identified 85 SNPs, 49 of which were not in the NCBI
+database. SNP typing in 94 Africans, 96 Asians, and 83 Caucasians
+demonstrated striking ethnic differences in SNP frequencies and
+haplotype evolution. To demonstrate functionality, they generated a
+'humanized' BAC transgenic mouse line, having an absence of the mouse
+orthologous Cyp1a1 or Cyp1a2 genes, that expressed human CYP1A1 and
+CYP1A2 mRNA, protein, and enzyme activity in a tissue-specific manner
+similar to that of the mouse.
+
+ANIMAL MODEL
+
+Jones et al. (1991) coupled a DNA fragment containing the murine Cyp1a-1
+enhancer elements and promoter region to the chloramphenicol
+acetyltransferase (CAT) reporter gene and used it to create transgenic
+mice. Treatment with 3-methylcholanthrene increased hepatic expression
+levels by as much as 10,000-fold. Differences in the response to
+induction between male and female mice suggested that Cyp1a-1 expression
+may be governed in a gender-related manner.
+
+Paolini et al. (1999) found significant increases in the
+carcinogen-metabolizing enzymes CYP1A1, CYP1A2, CYP3A (124010), CYP2B
+(123930), and CYP2A in the lungs of rats supplemented with high doses of
+beta-carotene. The authors suggested that correspondingly high levels of
+CYPs in humans would predispose an individual to cancer risk from the
+widely bioactivated tobacco-smoke procarcinogens, thus explaining the
+cocarcinogenic effect of beta-carotene in smokers.
+
+NOMENCLATURE
+
+The nomenclature and symbolization of the P450 enzymes and their genes
+have gone through many changes. The currently preferred system (Nebert,
+1988) uses the symbol CYP followed by a number for family and a letter
+for subfamily. CYP1 is the designation of the family of P450 genes
+located on human chromosome 15 and mouse chromosome 9. (CYP1 was
+previously used for a P450 gene on chromosome 19 (122720), which is now
+called CYP2.) The number assigned to the family is sometimes arbitrary
+or selected for reasons of historical priority; in other cases it has
+specific significance, e.g., in the case of CYP21 on 6p and CYP17 on 10,
+which are genes for the enzymes of classes designated P450XXI (steroid
+21-hydroxylase) and P450XVII (steroid 17-alpha-hydroxylase),
+respectively.
+
+HISTORY
+
+From study of mouse-human hybrid cells, Brown et al. (1976) concluded
+that a structural gene for AHH is on chromosome 2 and that possibly a
+regulatory gene is there also. Ocraft et al. (1985) localized the gene
+to 2q31-2pter. According to McBride (1985), the gene mapped to
+chromosome 2 by expression assays is almost certainly not the structural
+locus; the structural locus is that assigned to chromosome 15:
+dioxin-inducible P1-450. Nebert (1988) recommended that the AHH locus
+held to be on chromosome 2 be removed from that listing. The assignment
+was based on measurements of AHH inducibility in tissue culture, and
+effects of dibutyryl cAMP or other factor on the enzyme activity might
+have been observed. Neither the Ah receptor nor the P(1)450 or P(3)450
+genes that it regulates map to chromosome 2 or to its mouse or hamster
+homolog.
+
+The chloramphenicol acetyltransferase (CAT) assay system for monitoring
+gene expression was reported by Gorman et al. (1983). Gorman (1993)
+described the circumstances surrounding the development of the method.
+The initial report was turned down by the journal Nature, whose
+editorial staff charged that the work was not of wide enough interest
+for publication there.
+
+ADDITIONAL REFERENCES Wiebel et al. (1981)
+REFERENCE 1. Brown, S.; Wiebel, F. J.; Gelboin, H. V.; Minna, J. D.: Assignment
+of a locus required for flavoprotein-linked monooxygenase expression
+to human chromosome 2. Proc. Nat. Acad. Sci. 73: 4628-4632, 1976.
+
+2. Chen, Y. T.; Tukey, R. H.; Swan, D. C.; Negishi, N.; Nebert, D.
+W.: Characterization of the human P1-450 genomic gene. (Abstract) Clin.
+Res. 31: 456A, 1983.
+
+3. Corchero, J.; Pimprale, S.; Kimura, S.; Gonzalez, F. J.: Organization
+of the CYP1A cluster on human chromosome 15: implications for gene
+regulation. Pharmacogenetics 11: 1-6, 2001.
+
+4. Gorman, C.; Padmanabhan, R.; Howard, B. H.: High efficiency DNA-mediated
+transformation of primate cells. Science 221: 551-553, 1983.
+
+5. Gorman, C. M.: CAT: an easy assay for gene expression (citation
+classic). Current Contents (Life Sciences) 36(22): 8, 1993.
+
+6. Hildebrand, C. E.; Gonzalez, F. J.; Kozak, C. A.; Nebert, D. W.
+: Regional linkage analysis of the dioxin-inducible P-450 gene family
+on mouse chromosome 9. Biochem. Biophys. Res. Commun. 130: 396-406,
+1985.
+
+7. Hildebrand, C. E.; Gonzalez, F. J.; McBride, O. W.; Nebert, D.
+W.: Assignment of the human 2,3,7,8-tetrachlorodibenzo-p-dioxin-inducible
+cytochrome P1-450 gene to chromosome 15. Nucleic Acids Res. 13:
+2009-2016, 1985.
+
+8. Jaiswal, A. K.; Gonzalez, F. J.; Nebert, D. W.: Comparison of
+human mouse P(1)450 upstream regulatory sequences in liver- and nonliver-derived
+cell lines. Molec. Endocr. 1: 312-320, 1987.
+
+9. Jaiswal, A. K.; Gonzalez, F. J.; Nebert, D. W.: Human P(1)-450
+gene sequence and correlation of mRNA with genetic differences in
+benzo(a)pyrene metabolism. Nucleic Acids Res. 13: 4503-4520, 1985.
+
+10. Jaiswal, A. K.; Gonzalez, F. J.; Nebert, D. W.: Human dioxin-inducible
+cytochrome P1-450: complementary DNA and amino acid sequence. Science 228:
+80-83, 1985.
+
+11. Jaiswal, A. K.; Nebert, D. W.: Two RFLPs associated with the
+human P(1)450 gene linked to the MPI locus on chromosome 15 (HGM8
+D15S8). Nucleic Acids Res. 14: 4376, 1986.
+
+12. Jaiswal, A. K.; Nebert, D. W.; Gonzalez, F. J.: Human P(3)450:
+cDNA and complete amino acid sequence. Nucleic Acids Res. 14: 6773-6774,
+1986.
+
+13. Jiang, Z.; Dalton, T. P.; Jin, L.; Wang, B.; Tsuneoka, Y.; Shertzer,
+H. G.; Deka, R.; Nebert, D. W.: Toward the evaluation of function
+in genetic variability: characterizing human SNP frequencies and establishing
+BAC-transgenic mice carrying the human CYP1A1_CYP1A2 locus. Hum.
+Mutat. 25: 196-206, 2005.
+
+14. Jones, S. N.; Jones, P. G.; Ibarguen, H.; Caskey, C. T.; Craigen,
+W. J.: Induction of the Cyp1a-1 dioxin-responsive enhancer in transgenic
+mice. Nucleic Acids Res. 19: 6547-6551, 1991.
+
+15. Kawajiri, K.; Eguchi, H.; Nakachi, K.; Sekiya, T.; Yamamoto, M.
+: Association of CYP1A1 germ line polymorphisms with mutations of
+the p53 gene in lung cancer. Cancer Res. 56: 72-76, 1996.
+
+16. Kawajiri, K.; Nakachi, K.; Imai, K.; Yoshii, A.; Shinoda, N.;
+Watanabe, J.: Identification of genetically high risk individuals
+to lung cancer by DNA polymorphisms of the cytochrome P450IA1 gene. FEBS
+Lett. 263: 131-133, 1990.
+
+17. Kawajiri, K.; Watanabe, J.; Gotoh, O.; Tagashira, Y.; Sogawa,
+K.; Fujii-Kuriyama, Y.: Structure and drug inducibility of the human
+cytochrome P-450c gene. Europ. J. Biochem. 159: 219-225, 1986.
+
+18. Kouri, R. E.; McKinney, C. E.; Slomiany, D. J.; Snodgrass, D.
+R.; Wray, N. P.; McLemore, T. L.: Positive correlation between high
+aryl hydrocarbon hydroxylase activity and primary lung cancer as analyzed
+in cryopreserved lymphocytes. Cancer Res. 42: 5030-5037, 1982.
+
+19. McBride, O. W.: Personal Communication. Bethesda, Md.  9/16/1985.
+
+20. Mooney, L. A.; Bell, D. A.; Santella, R. M.; Van Bennekum, A.
+M.; Ottman, R.; Paik, M.; Blaner, W. S.; Lucier, G. W.; Covey, L.;
+Young, T. L.; Cooper, T. B.; Glassman, A. H.; Perera, F. P.: Contribution
+of genetic and nutritional factors to DNA damage in heavy smokers. Carcinogenesis 18:
+503-509, 1997.
+
+21. Nakachi, K.; Imai, K.; Hayashi, S.; Watanabe, J.; Kawajiri, K.
+: Genetic susceptibility to squamous cell carcinoma of the lung in
+relation to cigarette smoking dose. Cancer Res. 51: 5177-5180, 1991.
+
+22. Nebert, D. W.: Personal Communication. Bethesda, Md.  2/1/1988.
+
+23. Nebert, D. W.; Gonzalez, F. J.: P450 genes: structure, evolution,
+and regulation. Annu. Rev. Biochem. 56: 945-993, 1987.
+
+24. Ocraft, K. P.; Muskett, J. M.; Brown, S.: Localization of the
+human arylhydrocarbon hydroxylase gene to the 2q31-2pter region of
+chromosome 2. Ann. Hum. Genet. 49: 237-239, 1985.
+
+25. Paolini, M.; Cantelli-Forti, G.; Perocco, P.; Pedulli, G. F.;
+Abdel-Rahman, S. Z.; Legator, M. S.: Co-carcinogenic effect of beta-carotene.
+(Letter) Nature 398: 760-761, 1999.
+
+26. Perera, F. P.: Environment and cancer: who are susceptible? Science 278:
+1068-1073, 1997.
+
+27. Petersen, D. D.; McKinney, C. E.; Ikeya, K.; Smith, H. H.; Bale,
+A. E.; McBride, O. W.; Nebert, D. W.: Human CYP1A1 gene: cosegregation
+of the enzyme inducibility phenotype and an RFLP. Am. J. Hum. Genet. 48:
+720-725, 1991.
+
+28. Quattrochi, L. C.; Okino, S. T.; Pendurthi, U. R.; Tukey, R. H.
+: Cloning and isolation of human cytochrome P-450 cDNAs homologous
+to dioxin-inducible rabbit mRNAs encoding P-450 4 and P-450 6. DNA 4:
+395-400, 1985.
+
+29. Thum, T.; Borlak, J.: Gene expression in distinct regions of
+the heart. Lancet 355: 979-983, 2000.
+
+30. Tukey, R. H.; Lalley, P. A.; Nebert, D. W.: Localization of cytochrome
+P1-450 and P3-450 genes to mouse chromosome 9. Proc. Nat. Acad. Sci. 81:
+3163-3166, 1984.
+
+31. Wang, X.; Zuckerman, B.; Pearson, C.; Kaufman, G.; Chen, C.; Wang,
+G.; Niu, T.; Wise, P. H.; Bauchner, H.; Xu, X.: Maternal cigarette
+smoking, metabolic gene polymorphism, and infant birth weight. JAMA 287:
+195-202, 2002.
+
+32. Wiebel, F. J.; Hlavica, P.; Grzeschik, K. H.: Expression of aromatic
+polycyclic hydrocarbon-induced monooxygenase (aryl hydrocarbon hydroxylase)
+in man-mouse hybrids is associated with human chromosome 2. Hum.
+Genet. 59: 277-280, 1981.
+
+33. Xu, X.; Kelsey, K. T.; Wiencke, J. K.; Wain, J. C.; Christiani,
+D. C.: Cytochrome P450 CYP1A1 MspI polymorphism and lung cancer susceptibility. Cancer
+Epidemiol. Biomarkers Prev. 5: 687-692, 1996.
+
+CONTRIBUTORS Victor A. McKusick - updated: 3/7/2005
+Victor A. McKusick - updated: 8/9/2002
+Victor A. McKusick - updated: 4/9/2001
+Ada Hamosh - updated: 6/15/2000
+Ada Hamosh - updated: 5/6/1999
+Victor A. McKusick - updated: 1/13/1998
+
+CREATED Victor A. McKusick: 6/4/1986
+
+EDITED tpirozzi: 07/11/2013
+alopez: 7/17/2012
+terry: 11/5/2010
+terry: 5/19/2010
+terry: 6/3/2009
+tkritzer: 3/14/2005
+terry: 3/7/2005
+mgross: 8/20/2003
+tkritzer: 8/16/2002
+tkritzer: 8/14/2002
+terry: 8/9/2002
+mcapotos: 4/11/2001
+mcapotos: 4/9/2001
+terry: 4/9/2001
+alopez: 6/15/2000
+alopez: 4/14/2000
+alopez: 5/6/1999
+alopez: 1/21/1998
+alopez: 1/13/1998
+dholmes: 1/8/1998
+mark: 4/29/1997
+terry: 5/24/1996
+terry: 5/12/1994
+mimadm: 4/9/1994
+warfield: 4/7/1994
+pfoster: 3/31/1994
+carol: 10/19/1993
+carol: 6/11/1993
+
+603863	TITLE *603863 RING FINGER PROTEIN 7; RNF7
+;;REGULATOR OF CULLINS 2; ROC2;;
+RBX2;;
+SENSITIVE TO APOPTOSIS GENE; SAG
+DESCRIPTION 
+CLONING
+
+Reactive oxygen species (ROS), a group of very reactive, short-lived
+chemicals produced during normal respiratory processes or after
+oxidative insults, may mediate apoptosis. Metal chelators and metal ions
+are redox-sensitive agents that can mediate ROS generation. The metal
+chelator 1,10-phenanthroline (OP) induces or suppresses apoptosis in a
+cell line-dependent manner. Using differential display, Duan et al.
+(1999) isolated mouse cDNAs associated with OP-induced apoptosis. One
+cDNA encoded Gss (601002), and the other encoded a novel protein
+produced by a gene that they designated Sag. The authors used the mouse
+Sag cDNA to identify a HeLa cell cDNA corresponding to human SAG. The
+predicted 113-amino acid human SAG protein is 97% identical to mouse
+Sag. The C-terminal half of SAG consists of a zinc RING finger domain.
+Northern blot analysis revealed that SAG was ubiquitously expressed,
+with the highest levels in heart, skeletal muscle, and testis.
+Immunofluorescent staining indicated that SAG localized in both the
+cytoplasm and nuclei of mammalian cells.
+
+By searching databases for homologs of ROC1 (RBX1; 603814), followed by
+PCR of a HeLa cell cDNA library, Ohta et al. (1999) cloned RNF7, which
+they called ROC2. The deduced 85-amino acid ROC2 protein shares 51%
+identity with ROC1 and 35% identity with human APC11 (ANAPC11; 614534),
+a subunit of the anaphase-promoting complex. Both ROC proteins are
+highly evolutionarily conserved. ROC1 and ROC2 both contain a RING
+finger domain and are rich in tryptophan.
+
+GENE FUNCTION
+
+Duan et al. (1999) found that, in vitro, recombinant human SAG bound to
+zinc and copper metal ions and prevented lipid peroxidation induced by
+copper or a free radical generator. When overexpressed in human cell
+lines, SAG protected cells from apoptosis induced by redox agents such
+as OP. Duan et al. (1999) concluded that SAG is a cellular protective
+molecule that appears to act as an antioxidant to inhibit apoptosis
+induced by metal ions and ROS.
+
+By yeast 2-hybrid and immunoprecipitation analyses, Ohta et al. (1999)
+found that human ROC1 and ROC2 commonly interacted with all cullins (see
+603134). They concluded that combinations of ROC/APC11 and cullin
+proteins potentially constitute a wide variety of ubiquitin ligases.
+
+MAPPING
+
+By fluorescence in situ hybridization, Duan et al. (1999) mapped the SAG
+gene to chromosome 3q22-q24.
+
+REFERENCE 1. Duan, H.; Wang, Y.; Aviram, M.; Swaroop, M.; Loo, J. A.; Bian,
+J.; Tian, Y.; Mueller, T.; Bisgaier, C. L.; Sun, Y.: SAG, a novel
+zinc RING finger protein that protects cells from apoptosis induced
+by redox agents. Molec. Cell. Biol. 19: 3145-3155, 1999.
+
+2. Ohta, T.; Michel, J. J.; Schottelius, A. J.; Xiong, Y.: ROC1,
+a homolog of APC11, represents a family of cullin partners with an
+associated ubiquitin ligase activity. Molec. Cell 3: 535-541, 1999.
+
+CONTRIBUTORS Matthew B. Gross - updated: 3/16/2012
+Patricia A. Hartz - updated: 2/10/2012
+Rebekah S. Rasooly - updated: 6/22/1999
+
+CREATED Stylianos E. Antonarakis: 6/2/1999
+
+EDITED mgross: 01/30/2013
+mgross: 3/16/2012
+mgross: 3/15/2012
+terry: 2/10/2012
+jlewis: 6/22/1999
+jlewis: 6/21/1999
+mgross: 6/3/1999
+mgross: 6/2/1999
+
+180662	TITLE *180662 POLYMERASE II, RNA, SUBUNIT I; POLR2I
+;;RPB9, S. CEREVISIAE, HOMOLOG OF;;
+RNA POLYMERASE II, 14.5-KD SUBUNIT
+DESCRIPTION In eukaryotic cells, transcription of genes encoding mRNAs is effected
+by RNA polymerase II, in combination with a number of cofactors that
+control the selectivity and/or efficiency of transcription initiation,
+elongation, and termination. Depending on its origin, RNA polymerase II
+is found to consist of 10 to 14 polypeptides ranging from 220 to 10 kD.
+For general information on the structure and function of RNA polymerase
+II, see POLR2A (180660).
+
+CLONING
+
+The cDNA of the largest subunit of human RNA polymerase II (POLR2A)
+codes for a polypeptide of average molecular mass 220 kD. The second
+largest subunit (POLR2B; 180661) has a molecular mass of about 140 kD.
+Acker et al. (1993) reported the genomic sequence for a human subunit
+homologous to RPB9 in yeast. The POLR2I gene is transcribed into 3 major
+RNA species. The corresponding mRNAs contain the same open reading frame
+encoding a 125-amino acid residue protein, with a calculated molecular
+mass of 14,523 daltons.
+
+GENE STRUCTURE
+
+Acker et al. (1993) found that the POLR2I gene consists of 6 exons,
+ranging from 52 to over 110 bp.
+
+GENE FUNCTION
+
+Yeast cells lacking RPB9 are unable to grow at high and low temperatures
+and are defective in mRNA start site selection. McKune et al. (1995)
+found that expression of POLR2I on a high copy number plasmid, but not
+on a low copy number plasmid, restored growth at high temperatures.
+Recombinant POLR2I was also able to correct the start site selection
+defect seen at the CYC1 promoter in vitro as effectively as the yeast
+RPB9 subunit.
+
+MAPPING
+
+By in situ hybridization, Acker et al. (1994) assigned the POLR2I gene
+to chromosome 19q12.
+
+BIOCHEMICAL FEATURES
+
+- Crystal Structure
+
+Cramer et al. (2000) derived a backbone model of a 10-subunit yeast RNA
+polymerase II using x-ray diffraction data extending to 3-angstrom
+resolution. All 10 subunits exhibited a high degree of identity with the
+corresponding human proteins, and 9 of the 10 subunits are conserved
+among the 3 eukaryotic RNA polymerases I, II, and III. Notable features
+of the model include a pair of jaws, formed by subunits Rpb1 (180660),
+Rpb5 (180664), and Rpb9, that appears to grip DNA downstream of the
+active center. A clamp on the DNA nearer the active center, formed by
+Rpb1, Rpb2 (180661), and Rpb6 (604414), may be locked in the closed
+position by RNA, accounting for the great stability of transcribing
+complexes. A pore in the protein complex beneath the active center may
+allow entry of substrates for polymerization and exit of the transcript
+during proofreading and passage through pause sites in the DNA.
+
+REFERENCE 1. Acker, J.; Mattei, M.-G.; Wintzerith, M.; Roeckel, N.; Depetris,
+D.; Vigneron, M.; Kedinger, C.: Chromosomal localization of human
+RNA polymerase II subunit genes. Genomics 20: 496-499, 1994.
+
+2. Acker, J.; Wintzerith, M.; Vigeron, M.; Kedinger, C.: Structure
+of the gene encoding the 14.5 kDa subunit of human RNA polymerase
+II. Nucleic Acids Res. 21: 5345-5350, 1993.
+
+3. Cramer, P.; Bushnell, D. A.; Fu, J.; Gnatt, A. L.; Maier-Davis,
+B.; Thompson, N. E.; Burgess, R. R.; Edwards, A. M.; David, P. R.;
+Kornberg, R. D.: Architecture of RNA polymerase II and implications
+for the transcription mechanism. Science 288: 640-648, 2000.
+
+4. McKune, K.; Moore, P. A.; Hull, M. W.; Woychik, N. A.: Six human
+RNA polymerase subunits functionally substitute for their yeast counterparts. Molec.
+Cell. Biol. 15: 6895-6900, 1995.
+
+CONTRIBUTORS Carol A. Bocchini - updated: 6/15/2001
+Ada Hamosh - updated: 5/2/2000
+
+CREATED Victor A. McKusick: 4/18/1994
+
+EDITED alopez: 06/21/2001
+alopez: 6/19/2001
+mcapotos: 6/18/2001
+carol: 6/15/2001
+alopez: 5/2/2000
+psherman: 9/2/1999
+carol: 6/22/1998
+joanna: 4/4/1996
+terry: 5/5/1994
+carol: 4/18/1994
+
+614283	TITLE *614283 GLUCOCORTICOID-INDUCED TRANSCRIPT 1; GLCCI1
+;;THYMOCYTE/SPERMATOCYTE SELECTION 1; TSSN1
+DESCRIPTION 
+CLONING
+
+Miazek and Malissen (2003) cloned mouse Glcci1, and by database
+analysis, they identified human GLCCI1. The deduced mouse and human
+proteins contain 537 and 546 amino acids, respectively, and they share
+94% identity.
+
+MAPPING
+
+By genomic sequence analysis, Miazek and Malissen (2003) mapped the
+GLCCI1 gene to chromosome 7p22. They mapped the mouse Glcci1 gene to a
+syntenic region of chromosome 6A1-A2 by FISH.
+
+MOLECULAR GENETICS
+
+- Glucocorticoid Therapy Response
+
+For a discussion of glucocorticoid response in asthma regulated by
+variation in the GLCCI1 gene, see 614400.
+
+ALLELIC VARIANT .0001
+GLUCOCORTICOID THERAPY, RESPONSE TO
+GLCCI1, -1106A-G (dbSNP rs37973)
+
+In a genomewide association study to discover novel pharmacogenetic
+determinants of the response to inhaled glucocorticoids among asthma
+patients, Tantisira et al. (2011) identified a functional SNP in the
+GLCCI1 gene, dbSNP rs37973, which was in complete linkage disequilibrium
+with another SNP, dbSNP rs37972, associated with decreased response to
+glucocorticoid therapy (GCTR; 614400). The SNP dbSNP rs37973
+significantly decreased GLCCI1 expression in a luciferase reporter
+assay. The mean increase in forced expiratory volume in 1 second in the
+treated subjects who were homozygous for the mutant (G) dbSNP rs37973
+allele was only about one-third of that seen in similarly treated
+subjects who were homozygous for the wildtype allele (A) (3.2 +/- 1.6%
+vs 9.4 +/- 1.1%), and their risk of a poor response was significantly
+higher (odds ratio, 2.36; 95% confidence interval, 1.27 to 4.41), with
+genotype accounting for about 6.6% of overall inhaled glucocorticoid
+response variability.
+
+REFERENCE 1. Miazek, A.; Malissen, B.: Two genes, three messengers: hybrid
+transcript between a gene expressed at specific stages of T-cell and
+sperm maturation and an unrelated adjacent gene. Immunogenetics 54:
+681-692, 2003.
+
+2. Tantisira, K. G.; Lasky-Su, J.; Harada, M.; Murphy, A.; Litonjua,
+A. A.; Himes, B. E.; Lange, C.; Lazarus, R.; Sylvia, J.; Klanderman,
+B.; Duan, Q. L.; Qiu, W.; and 12 others: Genomewide association
+between GLCCI1 and response to glucocorticoid therapy in asthma. New
+Eng. J. Med. 365: 1173-1183, 2011.
+
+CONTRIBUTORS Ada Hamosh - updated: 12/15/2011
+
+CREATED Patricia A. Hartz: 10/6/2011
+
+EDITED alopez: 12/20/2011
+terry: 12/15/2011
+mgross: 10/6/2011
+
+611592	TITLE *611592 PHENYLALANYL-tRNA SYNTHETASE 2, MITOCHONDRIAL; FARS2
+;;FARS1;;
+MITOCHONDRIAL PHERS
+DESCRIPTION 
+DESCRIPTION
+
+Aminoacyl-tRNA synthetases are enzymes that catalyze attachment of amino
+acids to their cognate tRNAs. Phenylalanyl-tRNA synthetase (PheRS) is a
+member of the class II aminoacyl-tRNA synthetases (Bullard et al.,
+1999).
+
+CLONING
+
+By screening a human EST database with consensus sequences derived from
+the conserved regions of the alpha and beta subunits of bacterial PheRS,
+Bullard et al. (1999) identified 2 partial FARS2 clones. Sequence
+analysis determined that 1 clone was a truncated form of the other and
+that human FARS2 consisted of a single polypeptide chain. The deduced
+451-amino acid FARS2 protein has a predicted molecular mass of 49.6 kD
+and an N-terminal mitochondrial targeting signal. FARS2 shares 42% and
+52% amino acid identity with yeast and Drosophila mitochondrial PheRS,
+respectively, and has no significant homology to the eukaryotic
+cytoplasmic form (see FARSA; 602918). FARS2 migrated as a 48-kD band by
+SDS-PAGE, and gel filtration and velocity sedimentation centrifugation
+analysis determined that FARS2 is active as a monomer.
+
+GENE FUNCTION
+
+By aminoacylation assay analysis with expressed tagged-FARS2 in E. coli,
+Bullard et al. (1999) showed that FARS2 can charge tRNA with
+phenylalanine, but at a rate 20- to 30-fold lower than that of yeast
+cytoplasmic PheRS. By analyzing FARS2 activity under varying
+concentrations of ATP, they demonstrated that human mitochondrial PheRS
+requires a high concentration of ATP for maximal activity.
+
+GENE STRUCTURE
+
+Bonnefond et al. (2005) determined that the FARS2 gene contains 6 exons
+and spans 403 kb.
+
+Elo et al. (2012) stated that the FARS2 gene contains 7 exons, of which
+exons 2-7 are protein-coding.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the FARS2
+gene to chromosome 6 (TMAP RH46741).
+
+MOLECULAR GENETICS
+
+In 3 sibs, born of consanguineous Saudi Arabian parents, with combined
+oxidative phosphorylation deficiency-14 (COXPD14; 614946), Shamseldin et
+al. (2012) identified a homozygous mutation in the FARS2 gene (Y144C;
+611592.0001). The mutation was identified by exome sequencing and
+confirmed by Sanger sequencing.
+
+By exome sequencing of 2 sibs with combined oxidative phosphorylation
+deficiency manifest as fatal infantile epileptic mitochondrial
+encephalopathy, Elo et al. (2012) identified compound heterozygosity for
+2 missense mutations in the FARS2 gene (I329T, 611592.0002; D391V,
+611592.0003). In vitro functional expression studies indicated that
+these mutations, and the Y144C mutation reported by Shamseldin et al.
+(2012), all resulted in impaired aminoacylation function and stability
+of the protein, causing an overall decrease in tRNA charging capacity.
+The findings indicated that FARS2 mutations cause a mitochondrial
+translation disorder. The phenotype in all 3 patients was characterized
+by infantile onset of a fatal encephalopathy with refractory seizures,
+lack of psychomotor development, and lactic acidosis.
+
+ALLELIC VARIANT .0001
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 14
+FARS2, TYR144CYS
+
+In 2 sibs, born of consanguineous Saudi Arabian parents, with combined
+oxidative phosphorylation deficiency-14 (COXPD14; 614946), Shamseldin et
+al. (2012) identified a homozygous 431A-G transition in the FARS2 gene,
+resulting in a tyr144-to-cys (Y144C) substitution at a highly conserved
+residue in the catalytic domain. The mutation, which was found by exome
+sequencing and confirmed by Sanger sequencing, was not found in 114
+Saudi controls.
+
+Elo et al. (2012) found that the Y144C mutation occurs in the
+aminoacylation domain on the interface of the anticodon stem-binding
+domain and may participate in stabilization of the closed structure. In
+vitro functional expression studies in E. coli indicated that the
+mutation resulted in decreased affinity for tRNA, causing a decrease in
+overall tRNA charging capacity.
+
+.0002
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 14
+FARS2, ILE329THR
+
+In 2 Finnish sibs with COXPD14 (614946), Elo et al. (2012) identified
+compound heterozygosity for 2 mutations in the FARS2 gene: a 986T-C
+transition in exon 5 resulting in an ile329-to-thr (I329T) substitution,
+and a 1172A-T transversion in exon 6 resulting in an asp391-to-val
+(D391V; 611592.0003) substitution. Each unaffected parent was
+heterozygous for 1 of the mutations, neither of which was found in 400
+Finnish control chromosomes or in the 1000 Genomes database. Both
+mutations occurred at highly conserved residues. The ile329 residue is
+part of the ATP-binding site in the aminoacylation domain, whereas
+asp391 is in the anticodon stem-binding domain. In vitro functional
+expression studies in E. coli indicated that the I329T mutation resulted
+in a 4-fold decrease in the catalytic activity of amino acid activation
+due to a decreased affinity for ATP. The D391V mutation was predicted to
+result in a decrease in phe binding, causing a decrease in
+aminoacylation activity. Both mutations also caused decreased
+stabilization of the proteins, resulting in a decrease in overall
+charging capacity.
+
+.0003
+COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 14
+FARS2, ASP391VAL
+
+See 611592.0002 and Elo et al. (2012).
+
+REFERENCE 1. Bonnefond, L.; Fender, A.; Rudinger-Thirion, J.; Giege, R.; Florentz,
+C.; Sissler, M.: Toward the full set of human mitochondrial aminoacyl-tRNA
+synthetases: characterization of AspRS and TyrRS. Biochemistry 44:
+4805-4816, 2005.
+
+2. Bullard, J. M.; Cai, Y.-C.; Demeler, B.; Spremulli, L. L.: Expression
+and characterization of a human mitochondrial phenylalanyl-tRNA synthetase. J.
+Molec. Biol. 288: 567-577, 1999.
+
+3. Elo, J. M.; Yadavalli, S. S.; Euro, L.; Isohanni, P.; Gotz, A.;
+Carroll, C. J.; Valanne, L.; Alkuraya, F. S.; Uusimaa, J.; Paetau,
+A.; Caruso, E. M.; Pihko, H.; Ibba, M.; Tyynismaa, H.; Suomalainen,
+A.: Mitochondrial phenylalanyl-tRNA synthetase mutations underlie
+fatal infantile Alpers encephalopathy. Hum. Molec. Genet. 21: 4521-4529,
+2012.
+
+4. Shamseldin, H. E.; Alshammari, M.; Al-Sheddi, T.; Salih, M. A.;
+Alkhalidi, H.; Kentab, A.; Repetto, G. M.; Hashem, M.; Alkuraya, F.
+S.: Genomic analysis of mitochondrial diseases in a consanguineous
+population reveals novel candidate disease genes. J. Med. Genet. 49:
+234-241, 2012.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 11/28/2012
+Patricia A. Hartz - updated: 5/21/2009
+
+CREATED Stefanie A. Nelson: 11/8/2007
+
+EDITED carol: 12/03/2012
+ckniffin: 11/28/2012
+mgross: 5/26/2009
+terry: 5/21/2009
+wwang: 11/8/2007
+
+612668	TITLE *612668 TASTE RECEPTOR, TYPE 2, MEMBER 43; TAS2R43
+;;T2R52
+DESCRIPTION 
+DESCRIPTION
+
+TAS2R43 belongs to the large TAS2R receptor family. TAS2Rs are expressed
+on the surface of taste receptor cells and mediate the perception of
+bitterness through a G protein-coupled second messenger pathway (Conte
+et al., 2002). For further information on TAS2Rs, see 604791.
+
+CLONING
+
+By screening the human genome for sequences related to TAS2Rs, Conte et
+al. (2002) cloned TAS2R43, which they called T2R52. The deduced
+309-amino acid protein contains the 7-transmembrane structure and short
+N- and C-terminal domains conserved in TAS2Rs. The intracellular domains
+share significant conservation with other TAS2R family members. TAS2R43
+shares highest sequence similarity with TAS2R44 (602669).
+
+By in situ hybridization, Kuhn et al. (2004) confirmed the presence of
+TAS2R43 on human circumvallate papilla.
+
+GENE FUNCTION
+
+Using human embryonic kidney cells transfected with an experimental
+construct that coupled activation of TAS2R43 or TAS2R44 to measurable
+Ca(2+) release from intracellular stores, Kuhn et al. (2004) showed that
+both receptors responded to a subset of bitter-tasting compounds. Both
+receptors were activated by the sulfonyl amide sweeteners, saccharine
+and acesulfame K, although TAS2R43 showed a weaker response. Both
+receptors were highly sensitive to aristolochic acid, a purely
+bitter-tasting compound, and neither was activated by compounds
+eliciting sweet or umami taste. Consistent with the in vitro data,
+cross-adaptation studies in human subjects supported the existence of
+common receptors for both sulfonyl amide sweeteners. Kuhn et al. (2004)
+concluded that TAS2R43 and TAS2R44 could contribute to the bitter
+aftertaste of saccharine and acesulfame K.
+
+Shah et al. (2009) found that motile cilia emerging from human airway
+epithelial cells express sensory bitter taste receptors, including T2R4
+(604869), T2R43, T2R38 (607751), and T2R46 (612774). Only ciliated
+epithelial cells expressed these receptors, and they specifically
+localized in cilia. The receptors appeared to localize preferentially at
+different places along the cilium. T2R4 seemed to sit near the tips of
+cilia, whereas T2R43 appeared to reside more proximally. Bitter
+compounds increased the intracellular calcium ion concentration and
+stimulated ciliary beat frequency. Shah et al. (2009) found that
+alpha-gustducin (139395) and the enzyme phospholipase C-beta-2 (PLCB2;
+604114) are also expressed in airway epithelia. Alpha-gustducin resides
+in the cilia, and PLCB2 appears to sit below the cilia in the apical
+portion of the cell. Shah et al. (2009) concluded that airway epithelia
+contain a cell-autonomous system in which motile cilia both sense
+noxious substances entering airways and initiate a defensive mechanism
+to eliminate the offending compound. Hence, like primary cilia,
+classical motile cilia also contain sensors to detect the external
+environment.
+
+MAPPING
+
+By somatic cell hybrid and genomic sequence analysis, Conte et al.
+(2002) mapped the TAS2R43 gene to a 1.2-Mb TAS2R gene cluster on
+chromosome 12p.
+
+REFERENCE 1. Conte, C.; Ebeling, M.; Marcuz, A.; Nef, P.; Andres-Barquin, P.
+J.: Identification and characterization of human taste receptor genes
+belonging to the TAS2R family. Cytogenet. Genome Res. 98: 45-53,
+2002.
+
+2. Kuhn, C.; Bufe, B.; Winnig, M.; Hofmann, T.; Frank, O.; Behrens,
+M.; Lewtschenko, T.; Slack, J. P.; Ward, C. D.; Meyerhof, W.: Bitter
+taste receptors for saccharin and acesulfame K. J. Neurosci. 24:
+10260-10265, 2004.
+
+3. Shah, A. S.; Ben-Shahar, Y.; Moninger, T. O.; Kline, J. N.; Welsh,
+M. J.: Motile cilia of human airway epithelia are chemosensory. Science 325:
+1131-1134, 2009.
+
+CONTRIBUTORS Ada Hamosh - updated: 9/14/2009
+
+CREATED Patricia A. Hartz: 3/16/2009
+
+EDITED alopez: 09/15/2009
+terry: 9/14/2009
+mgross: 3/17/2009
+
+609591	TITLE *609591 RIC-LIKE PROTEIN WITHOUT CAAX MOTIF 1; RIT1
+;;RAS-LIKE PROTEIN EXPRESSED IN MANY TISSUES; RIT;;
+ROC1
+DESCRIPTION 
+DESCRIPTION
+
+RIT belongs to the RAS (HRAS; 190020) subfamily of small GTPases (Hynds
+et al., 2003).
+
+CLONING
+
+By PCR using degenerate primers based on the conserved G3 and G4 domains
+of RAS, followed by screening a mouse retina cDNA library, Lee et al.
+(1996) cloned mouse Rit. The deduced 219-amino acid protein has a
+calculated molecular mass of 25.6 kD. By EST database analysis, Lee et
+al. (1996) identified human RIT. The deduced human protein contains 219
+amino acids and shares 94% identity with mouse Rit. Human and mouse RIT
+have 5 highly conserved domains characteristic of small G proteins, but
+they lack the C-terminal CAAX prenylation motif found in several other
+RAS-like proteins. Northern blot analysis detected a 1.2-kb transcript
+in all mouse tissues examined. Epitope-tagged mouse Rit localized to the
+plasma membrane of transfected cells.
+
+By searching an EST database for sequences similar to Drosophila Ric,
+Wes et al. (1996) identified human RIT and RIN (609592). The core GTPase
+domain of RIT shares 76% identity with that of RIN, and there is only 1
+conservative substitution between the 2 human proteins and Drosophila
+Ric within the effector G2 region. Northern blot analysis detected RIT
+transcripts of 1.35, 2.9, and 3.9 kb in most tissues examined.
+
+GENE FUNCTION
+
+Lee et al. (1996) demonstrated that mouse Rit bound radiolabeled GTP.
+
+Shao et al. (1999) demonstrated that recombinant human RIT and RIN bound
+GTP and exhibited intrinsic GTPase activity. Conversion of gln79 to leu
+in RIT resulted in complete loss of GTPase activity. The activity of RIT
+and RIN was significantly different from that of the majority of
+RAS-related GTPases, and the GTP dissociation rates were 5- to 10-fold
+faster than most RAS-like GTPases. Yeast 2-hybrid analysis showed that
+RIT and RIN interacted with the RAS-binding proteins RALGDS (601619),
+RLF (180610), and AF6 (MLLT4; 159559), but not with RAF kinases (e.g.,
+RAF1; 164760), RIN1 (605965), or the p110 subunit of PI3K (see 171834).
+Shao et al. (1999) concluded that RIT and RIN regulate signaling
+pathways and cellular processes distinct from those controlled by RAS.
+
+By expression of RIT in a human neuroblastoma cell line, Hynds et al.
+(2003) demonstrated that RIT increased neurite outgrowth and branching
+through MEK (see MEK1; 176872)-dependent and MEK-independent signaling
+mechanisms, respectively. Adenoviral expression of wildtype or
+constitutively active RIT increased neurite initiation, elongation, and
+branching on endogenous matrix or a purified laminin-1 substratum. This
+outgrowth was morphologically distinct from that promoted by
+constitutively active RAS or RAF. Constitutively active RIT increased
+phosphorylation of ERK1 (MAPK3; 601795)/ERK2 (MAPK1; 176948), but not
+AKT (see AKT1; 164730). A MEK inhibitor blocked RIT-induced neurite
+initiation, but not elongation or branching.
+
+Shi and Andres (2005) found that stimulation of a rat pheochromocytoma
+cell line by growth factors, including nerve growth factor (NGF;
+162030), resulted in rapid and prolonged Rit activation. Ectopic
+expression of active human RIT promoted neurite outgrowth and stimulated
+activation of both Erk and p38 MAP kinase (MAPK14; 600289) signaling
+pathways. RIT-induced differentiation depended upon both MAP kinase
+cascades, since MEK inhibition blocked RIT-induced neurite outgrowth,
+and p38 blockade inhibited neurite elongation and branching, but not
+neurite initiation. Moreover, the ability of NGF to promote neuronal
+differentiation was attenuated by Rit knockdown.
+
+Heo et al. (2006) surveyed plasma membrane targeting mechanisms by
+imaging the subcellular localization of 125 fluorescent
+protein-conjugated Ras, Rab, Arf, and Rho proteins. Of 48 proteins that
+were localized to the plasma membrane, 37 contained clusters of
+positively charged amino acids. To test whether these polybasic clusters
+bind negatively charged phosphatidylinositol 4,5-bisphosphate lipids,
+Heo et al. (2006) developed a chemical phosphatase activation method to
+deplete plasma membrane phosphatidylinositol 4,5-bisphosphate.
+Unexpectedly, proteins with polybasic clusters dissociated from the
+plasma membrane only when both phosphatidylinositol 4,5-bisphosphate and
+phosphatidylinositol 3,4,5-trisphosphate were depleted, arguing that
+both lipid second messengers jointly regulate plasma membrane targeting.
+
+MAPPING
+
+Wes et al. (1996) stated that the RIT gene was mapped to chromosome 1 by
+somatic cell hybrid analysis. The mouse Rit gene maps to chromosome 3.
+
+MOLECULAR GENETICS
+
+In 17 unrelated patients with Noonan syndrome-8 (NS8; 615355), Aoki et
+al. (2013) identified heterozygous mutations in the RIT1 gene (see,
+e.g., 609591.0001-609591.0004). The first mutations were found by exome
+sequencing and subsequent mutations were identified from a larger cohort
+of patients screened for the RIT1 gene. A total of 9 missense mutations
+were found in 17 (9%) of 180 individuals suspected to have the disorder.
+The phenotype was characterized by short stature, distinctive facial
+features, and a high incidence of congenital heart defects and
+hypertrophic cardiomyopathy. A subset of patients showed intellectual
+disabilities. All of the mutations occurred de novo, except in 1 patient
+who inherited the mutation from a mother with a Noonan syndrome
+phenotype. The mutations tended to cluster in the switch II region, and
+in vitro functional expression studies of 3 of the mutations showed that
+they resulted in a gain of function. Transfection of 2 of the mutations
+into zebrafish embryos resulted in a variety of developmental defects,
+including gastrulation defects, craniofacial abnormalities, pericardial
+edema, and elongated yolk sac. A smaller percentage of mutant embryos
+showed even more disorganized growth and abnormal cardiogenesis. The
+findings were similar to those observed with mutations in other RAS
+genes (see, e.g., PTPN11, 176876; SOS1, 182530; NRAS, 164790) causing
+other forms of Noonan syndrome.
+
+ALLELIC VARIANT .0001
+NOONAN SYNDROME 8
+RIT1, ALA57GLY
+
+In 4 unrelated patients with Noonan syndrome-8 (NS8; 615355), Aoki et
+al. (2013) identified a de novo heterozygous c.170C-G transversion in
+exon 4 of the RIT1 gene, resulting in an ala57-to-gly (A57G)
+substitution at a conserved residue. In vitro cellular expression
+studies showed that the A57G mutation resulted in a gain of function.
+
+.0002
+NOONAN SYNDROME 8
+RIT1, GLU81GLY
+
+In a patient with Noonan syndrome-8 (615355), Aoki et al. (2013)
+identified a de novo heterozygous c.242A-G transition in exon 5 of the
+RIT1 gene, resulting in a glu81-to-gly (E81G) substitution at a
+conserved residue. In vitro cellular expression studies showed that the
+E81G mutation resulted in a gain of function. Transfection of the E81G
+mutation into zebrafish embryos resulted in a variety of developmental
+defects, including gastrulation defects, craniofacial abnormalities,
+pericardial edema, and elongated yolk sac. A smaller percentage of
+mutant embryos showed even more disorganized growth and abnormal
+cardiogenesis.
+
+.0003
+NOONAN SYNDROME 8
+RIT1, PHE82LEU
+
+In 2 unrelated patients with Noonan syndrome-8 (615355), Aoki et al.
+(2013) identified a de novo heterozygous c.246T-G transversion in exon 5
+of the RIT1 gene, resulting in a phe82-to-leu (F82L) substitution at a
+conserved residue. The mutation, which was initially found by exome
+sequencing, was not present in several control databases. In vitro
+cellular expression studies showed that the F82L mutation resulted in a
+gain of function.
+
+.0004
+NOONAN SYNDROME 8
+RIT1, GLY95ALA
+
+In 4 unrelated patients with Noonan syndrome-8 (615355), Aoki et al.
+(2013) identified a de novo heterozygous c.284G-C transversion in exon 5
+of the RIT1 gene, resulting in a gly95-to-ala (G95A) substitution. The
+mutation, which was initially found by exome sequencing, was not present
+in several control databases. In vitro cellular expression studies
+showed that the G95A mutation resulted in a gain of function.
+Transfection of the G95A mutation into zebrafish embryos resulted in a
+variety of developmental defects, including gastrulation defects,
+craniofacial abnormalities, pericardial edema, and elongated yolk sac. A
+smaller percentage of mutant embryos showed even more disorganized
+growth and abnormal cardiogenesis.
+
+REFERENCE 1. Aoki, Y.; Niihori, T.; Banjo, T.; Okamoto, N.; Mizuno, S.; Kurosawa,
+K.; Ogata, T.; Takada, F.; Yano, M.; Ando, T.; Hoshika, T.; Barnett,
+C.; and 13 others: Gain-of-function mutations in RIT1 cause Noonan
+syndrome, a RAS/MAPK pathway syndrome. Am. J. Hum. Genet. 93: 173-180,
+2013.
+
+2. Heo, W. D.; Inoue, T.; Park, W. S.; Kim, M. L.; Park, B. O.; Wandless,
+T. J.; Meyer, T.: PI(3,4,5)P(3) and PI(4,5)P(2) lipids target proteins
+with polybasic clusters to the plasma membrane. Science 314: 1458-1461,
+2006.
+
+3. Hynds, D. L.; Spencer, M. L.; Andres, D. A.; Snow, D. M.: Rit
+promotes MEK-independent neurite branching in human neuroblastoma
+cells. J. Cell Sci. 116: 1925-1935, 2003.
+
+4. Lee, C.-H. J.; Della, N. G.; Chew, C. E.; Zack, D. J.: Rin, a
+neuron-specific and calmodulin-binding small G-protein, and Rit define
+a novel subfamily of Ras proteins. J. Neurosci. 16: 6784-6794, 1996.
+
+5. Shao, H.; Kadono-Okuda, K.; Finlin, B. S.; Andres, D. A.: Biochemical
+characterization of the Ras-related GTPases Rit and Rin. Arch. Biochem.
+Biophys. 371: 207-219, 1999.
+
+6. Shi, G.-X.; Andres, D. A.: Rit contributes to nerve growth factor-induced
+neuronal differentiation via activation of B-Raf-extracellular signal-regulated
+kinase and p38 mitogen-activated protein kinase cascades. Molec.
+Cell. Biol. 25: 830-846, 2005.
+
+7. Wes, P. D.; Yu, M.; Montell, C.: RIC, a calmodulin-binding Ras-like
+GTPase. EMBO J. 15: 5839-5848, 1996.
+
+CONTRIBUTORS Cassandra L. Kniffin - updated: 8/1/2013
+Ada Hamosh - updated: 2/6/2007
+
+CREATED Patricia A. Hartz: 9/20/2005
+
+EDITED carol: 08/02/2013
+ckniffin: 8/1/2013
+alopez: 2/8/2007
+terry: 2/6/2007
+carol: 9/29/2005
+mgross: 9/20/2005
+
+602110	TITLE *602110 SOLUTE CARRIER FAMILY 29 (NUCLEOSIDE TRANSPORTER), MEMBER 2; SLC29A2
+;;EQUILIBRATIVE NUCLEOSIDE TRANSPORTER 2; ENT2;;
+HYDROPHOBIC NUCLEOLAR PROTEIN, 36-KD; HNP36;;
+DELAYED-EARLY RESPONSE GENE 12; DER12
+DESCRIPTION 
+DESCRIPTION
+
+The uptake of nucleosides by transporters, such as SLC29A2, is essential
+for nucleotide synthesis by salvage pathways in cells that lack de novo
+biosynthetic pathways. Nucleoside transport also plays a key role in the
+regulation of many physiologic processes through its effect on adenosine
+concentration at the cell surface (Griffiths et al., 1997).
+
+CLONING
+
+Transcription of delayed-early response (DER) genes is induced by
+immediate-early response (IER) genes following serum or growth factor
+stimulation of cells. Williams and Lanahan (1995) reported the cloning
+of a DER gene that they termed HNP36. They isolated a full-length cDNA
+from a human heart cDNA library and found that it predicted a 326-amino
+acid protein. This predicted protein is 50% similar to the C-terminal
+331 amino acids of the yeast protein FUN26. Using immunocytochemistry,
+Williams and Lanahan (1995) found that HNP36 localized specifically to
+the nucleolus of fibroblasts and was more prominent in serum-stimulated
+cells. Northern blot analysis showed that HNP36 is a DER gene; the mRNA
+was barely detectable in quiescent fibroblasts, but was prominent
+approximately 5 hours after stimulation with serum or growth factors.
+
+By Northern blot analysis, Williams et al. (1997) showed that HNP36 was
+expressed as a single 2.4-kb transcript in all adult human tissues
+examined. RT-PCR revealed several bands smaller than the predicted size;
+these bonds had deletions of specific exons and may correspond to
+alternatively spliced transcripts.
+
+By PCR of a human placenta cDNA library, Griffiths et al. (1997) cloned
+full-length SLC29A2, which they called ENT2. The nucleotide sequences of
+ENT2 and HNP36 are identical except for a 68-nucleotide insertion in
+ENT2 following nucleotide 337 of HNP36. The deduced 456-amino acid ENT2
+protein has a calculated molecular mass of 50.2 kD and shares 46% amino
+acid identity with ENT1 (SLC29A1; 602193). It has 11 transmembrane (TM)
+domains connected to one another by hydrophilic loops. Most of the loops
+are small, except for 2 large loops connecting TM domains 1 and 2 and TM
+domains 6 and 7. The loop connecting TM domains 1 and 2 has 2 potential
+N-glycosylation sites. EST database analysis indicated that ENT2 mRNA is
+expressed in adult ovary and ovarian tumors and in fetal brain and
+heart.
+
+Crawford et al. (1998) determined that the ENT2 transcript contains 2
+potential ORFs. HNP36 is translated from the second start codon and
+lacks TM domains 1, 2, and 3 compared with full-length ENT2. Northern
+blot analysis detected high expression of a major 2.6-kb transcript in
+skeletal muscle, with lower expression in most other tissues examined. A
+transcript of about 4 kb was also detected in thymus, prostate, heart,
+brain, lung, skeletal muscle, and pancreas.
+
+GENE FUNCTION
+
+Griffiths et al. (1997) found that both ENT1 and ENT2 showed saturable
+sodium-independent equilibrative transport of adenosine and uridine
+following expression in Xenopus oocytes. ENT1 was more efficient than
+ENT2 in transport of both substrates, and ENT1, but not ENT2, was
+sensitive to inhibition by nitrobenzylmercaptopurine riboside (NBMPR).
+
+Crawford et al. (1998) showed that only full-length ENT2, and not HNP36,
+conferred uridine transport in transfected COS-1 cells.
+
+Ward et al. (2000) found that human ENT2 showed lower affinity than ENT1
+for transport of thymidine, adenosine, cytidine, and guanosine following
+expression in porcine kidney cells. However, ENT2 showed 4-fold higher
+affinity than ENT1 for inosine. The nucleobase hypoxanthine inhibited
+uridine uptake by ENT2, but had minimal effect on ENT1. Ward et al.
+(2000) concluded that ENT2 may be the major transporter of adenosine and
+its metabolites (inosine and hypoxanthine) in tissues where ENT2 is
+predominantly expressed, such as skeletal muscle.
+
+Yao et al. (2001) expressed rat and human ENT1 and ENT2 in Xenopus
+oocytes and characterized their ability to transport three
+3-prime-deoxy-nucleoside analogs used in human immunodeficiency virus
+(HIV) therapy: 2-prime,3-prime-did eoxycytidine (ddC),
+3-prime-azido-3-prime-deoxythymidine (AZT), and
+2-prime,3-prime-dideoxyinosine (ddI). Rat and human ENT2 transported
+ddC, AZT, and ddI, whereas rat and human ENT1 transported ddC and ddI
+only. Relative to uridine, ENT2 mediated substantially larger fluxes of
+ddC and ddI compared with ENT1. Fusion of the N-terminal half of rat
+Ent2 with rat Ent1 allowed Ent1 to transport AZT and enhanced its uptake
+of ddC and ddI, indicating that the N-terminal region of ENT proteins is
+the major site of 3-prime-deoxy-nucleoside interaction.
+
+GENE STRUCTURE
+
+Williams et al. (1997) found that the HNP36 gene consists of 12 exons.
+
+MAPPING
+
+Williams et al. (1997) used fluorescence in situ hybridization to
+localize the HNP36 gene to human chromosome 11q13, within 80 kb of the
+D11S913 locus.
+
+REFERENCE 1. Crawford, C. R.; Patel, D. H.; Naeve, C.; Belt, J. A.: Cloning
+of the human equilibrative, nitrobenzylmercaptopurine riboside (NBMPR)-insensitive
+nucleoside transporter ei by functional expression in a transport-deficient
+cell line. J. Biol. Chem. 273: 5288-5293, 1998.
+
+2. Griffiths, M.; Yao, S. Y. M.; Abidi, F.; Phillips, S. E. V.; Cass,
+C. E.; Young, J. D.; Baldwin, S. A.: Molecular cloning and characterization
+of a nitrobenzylthioinosine-insensitive (ei) equilibrative nucleoside
+transporter from human placenta. Biochem. J. 328: 739-743, 1997.
+
+3. Ward, J. L.; Sherali, A.; Mo., Z.-P.; Tse, C.-M.: Kinetic and
+pharmacological properties of cloned human equilibrative nucleoside
+transporters, ENT1 and ENT2, stably expressed in nucleoside transporter-deficient
+PK15 cells: ENT2 exhibits a low affinity for guanosine and cytidine
+but a high affinity for inosine. J. Biol. Chem. 275: 8375-8381,
+2000.
+
+4. Williams, J. B.; Lanahan, A. A.: A mammalian delayed-early response
+gene encodes HNP36, a novel, conserved nucleolar protein. Biochem.
+Biophys. Res. Commun. 213: 325-333, 1995.
+
+5. Williams, J. B.; Rexer, B.; Sirripurapu, S.; John, S.; Goldstein,
+R.; Phillips, J. A., III; Haley, L. L.; Sait, S. N. J.; Shows, T.
+B.; Smith, C. M.; Gerhard, D. S.: The human HNP36 gene is localized
+to chromosome 11q13 and produces alternative transcripts that are
+not mutated in multiple endocrine neoplasia, type 1 (MEN I) syndrome. Genomics 42:
+325-330, 1997.
+
+6. Yao, S. Y. M.; Ng, A. M. L.; Sundaram, M.; Cass, C. E.; Baldwin,
+S. A.; Young, J. D.: Transport of antiviral 3-prime-deoxy-nucleoside
+drugs by recombinant human and rat equilibrative, nitrobenzylthioinosine
+(NBMPR)-insensitive (ENT2) nucleoside transporter proteins produced
+in Xenopus oocytes. Molec. Membrane Biol. 18: 161-167, 2001.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 11/7/2008
+
+CREATED Jennifer P. Macke: 11/10/1997
+
+EDITED mgross: 11/11/2008
+terry: 11/7/2008
+carol: 3/8/2002
+terry: 3/8/2002
+psherman: 7/29/1999
+dkim: 7/30/1998
+dholmes: 11/26/1997
+
+614787	TITLE *614787 POGO TRANSPOSABLE ELEMENT WITH ZNF DOMAIN; POGZ
+;;KIAA0461
+DESCRIPTION 
+CLONING
+
+By sequencing clones obtained from a size-fractionated human brain cDNA
+library, Seki et al. (1997) cloned POGZ, which they designated KIAA0461.
+The deduced protein contains 1,355 amino acids.
+
+Using the N-terminal activation domains of the transcription factor SP1
+(189906) to screen a cDNA library originating from SW613-S human colon
+carcinoma cells, Gunther et al. (2000) cloned a splice variant of
+KIAA0461 that included an insertion of an additional 53 amino acids near
+the N terminus. The deduced 1,411-amino acid full-length protein has 9
+putative zinc fingers of the C2H2 type and 2 proline-rich regions in a
+central domain, and small acidic stretches at both the N- and C-termini.
+
+Nozawa et al. (2010) found that full-length 1,410-amino acid POGZ
+contains an irregular zinc finger motif following the central cluster of
+9 C2H2-type zinc fingers and that the C-terminal domain contains a
+centromere protein B (CENPB; 117140)-like DNA-binding domain and a DDE
+domain that originated from a transposase encoded by a pogo-like DNA
+transposon.
+
+GENE FUNCTION
+
+By yeast 2-hybrid analysis, Gunther et al. (2000) found that the
+N-terminal half of KIAA0461 interacted with the N-terminal
+transactivation domains of SP1.
+
+HP1-alpha (CBX5; 604478) has an essential role in heterochromatin
+formation and mitotic progression through interaction of its PxVxL motif
+with several cell cycle proteins. Nozawa et al. (2010) found that POGZ
+bound HP1-alpha, but via an atypical zinc finger, called the HP1-binding
+zinc finger-like (HPZ) domain, rather than the canonical PxVxL motif.
+POGZ bound HP1-alpha in a competitive manner with PxVxL motif-binding
+proteins such as TIF1-beta (TRIM28; 601742) and INCENP (604411).
+Knockdown of POGZ in human cell lines caused mitotic defects, with
+accelerated mitosis, abnormal chromosome segregation, nuclear
+fragmentation, and disrupted mitotic HP1-alpha localization and Aurora
+kinase B (AURKB; 604970) activity. The defects were similar to those
+caused by knockdown of Aurora kinase B. Expression of the HPZ domain
+alone corrected the mitotic defects in POGZ knockdown cells. Nozawa et
+al. (2010) concluded that the HP1-chromatin interaction is destabilized
+by binding of POGZ, permitting Aurora kinase B activation and mitotic
+progression.
+
+MAPPING
+
+Hartz (2012) mapped the POGZ gene to chromosome 1q21.3 based on an
+alignment of the POGZ sequence (GenBank GENBANK AB007930) with the
+genomic sequence (GRCh37).
+
+REFERENCE 1. Gunther, M.; Laithier, M.; Brison, O.: A set of proteins interacting
+with transcription factor Sp1 identified in a two-hybrid screening. Molec.
+Cell. Biochem. 210: 131-142, 2000.
+
+2. Hartz, P. A.: Personal Communication. Baltimore, Md.  8/27/2012.
+
+3. Nozawa, R.-S.; Nagao, K.; Masuda, H.-T.; Iwasaki, O.; Hirota, T.;
+Nozaki, N.; Kimura, H.; Obuse, C.: Human POGZ modulates dissociation
+of HP1-alpha from mitotic chromosome arms through Aurora B activation. Nature
+Cell Biol. 12: 719-727, 2010.
+
+4. Seki, N.; Ohira, M.; Nagase, T.; Ishikawa, K.; Miyajima, N.; Nakajima,
+D.; Nomura, N.; Ohara, O.: Characterization of cDNA clones in size-fractionated
+cDNA libraries from human brain. DNA Res. 4: 345-349, 1997.
+
+CREATED Patricia A. Hartz: 8/28/2012
+
+EDITED carol: 08/28/2012
+carol: 8/28/2012
+
+605590	TITLE *605590 SPLICING FACTOR 3B, SUBUNIT 1; SF3B1
+;;SF3B, 155-KD SUBUNIT; SF3B155;;
+SPLICEOSOME-ASSOCIATED PROTEIN, 155-KD; SAP155
+DESCRIPTION 
+DESCRIPTION
+
+Introns are removed from nuclear pre-mRNA in 2 transesterification
+reactions. Splicing takes place in a large ribonucleoprotein particle,
+the spliceosome. Spliceosomal intermediate complexes form on pre-mRNA in
+the order E, A, B, and C, with the catalytic reactions occurring in
+complex C. U2 small nuclear ribonucleoproteins (snRNPs; see 180690) are
+among the proteins essential for spliceosome assembly and mRNA splicing.
+Functional U2 snRNP is composed of a 12S unit and 2 splicing factors,
+SF3A, which is composed of 3 proteins (see SF3A1; 605595), and SF3B,
+which is composed of 4 proteins, including SF3B1 (summary by Kramer et
+al. (1995), Wang et al. (1998), and Isono et al. (2001)).
+
+CLONING
+
+By SDS-PAGE fractionation of spliceosomal complex A, micropeptide
+sequence analysis, database searching, and cDNA library screening, Wang
+et al. (1998) isolated a cDNA encoding SF3B1, which they called SAP155.
+Sequence analysis predicted that the 1,304-amino acid protein is 50%
+identical to the yeast sequence. The C-terminal two-thirds of SF3B1 can
+align into 22 PP2A (PPP2R1B; 603113)-like repeats, and the nonconserved
+N terminus contains multiple TPGH and RWDETP motifs but lacks SR
+domains. Western blot analysis detected the 155-kD protein in the
+spliceosomal A/B complex and a larger phosphorylated protein in the C
+complex. The authors showed that the phosphorylation occurs concomitant
+with the catalytic steps of splicing.
+
+Isono et al. (2001) isolated a cDNA encoding the 146-kD mouse homolog.
+The amino acid sequence of Sf3b1 was very highly conserved among
+homologs from Schizosaccharomyces pombe (52.4% identity) to human
+(99.6%), and the C-terminal 825 residues of these homologs showed even
+higher identities.
+
+BIOCHEMICAL FEATURES
+
+Golas et al. (2003) determined the 3-dimensional structure of the human
+SF3B complex by single-particle electron cryomicroscopy at a resolution
+of less than 10 angstroms, allowing identification of protein domains
+with known structural folds. The best fit of a modeled RNA recognition
+motif indicates that the protein p14 (607835) is located in the central
+cavity of the complex. The 22 tandem helical repeats of the protein
+SF3B155 are located in the outer shell of the complex enclosing p14.
+
+GENE FUNCTION
+
+Using yeast 2-hybrid analysis and pull-down assays of mouse nuclear
+extracts, Isono et al. (2005) found that Sf3b1 interacted directly with
+the Polycomb group proteins Pcgf2 (600346) and Rnf2 (608985).
+Furthermore, Sf3b1 colocalized with Polycomb proteins on the 5-prime
+regions of individual Hox genes.
+
+MAPPING
+
+The International Radiation Hybrid Mapping Consortium mapped the SF3B1
+gene to chromosome 2 (TMAP stSG34935).
+
+Isono et al. (2001) mapped the mouse homolog of human SF3B1 to the
+central part of chromosome 1 by interspecific backcross analysis. This
+location was also consistent with the mapping data obtained by using a
+radiation hybrid panel.
+
+MOLECULAR GENETICS
+
+- Somatic Mutations
+
+Using whole-exome sequencing of bone marrow cells, Papaemmanuil et al.
+(2011) found that 6 of 9 patients with myelodysplastic syndrome (MDS;
+614286) carried 1 of 2 somatic heterozygous mutations in the SF3B1 gene:
+a lys700-to-glu (K700E) substitution or a his662-to-gln (H662Q)
+substitution, in addition to somatic mutations in several other genes.
+Targeted resequencing of this gene found that 72 (20%) of 354 patients
+with MDS had mutations in the SF3B1 gene. The majority of the patients
+(68%) with mutations had refractory anemia with ringed sideroblasts,
+although 6% had refractory anemia with excess blasts. Mutations in the
+SF3B1 gene were also found less frequently in bone marrow from patients
+with other chronic myeloid disorders, such as primary myelofibrosis
+(254450), essential thrombocythemia (187950), and chronic myelomonocytic
+leukemia (CMML; see 607785), as well as in acute myeloid leukemia (AML;
+601626). Somatic mutations were also found in about 1% of primary solid
+tumors. The mutations occurred throughout the gene, but were clustered
+in exons 12 to 15; K700E was the most common mutation, accounting for 59
+(55%) of the 108 variants observed. Alignment and in silico studies
+indicated that the mutations were not severely deleterious, suggesting
+that the mutant proteins retain structural integrity and some function.
+Gene expression profiling studies suggested a disturbance of
+mitochondrial gene networks in stem cells from MDS patients with SF3B1
+mutations. Clinically, MDS patients with SF3B1 mutations had higher
+median white cell count, higher platelet count, higher erythroid
+hyperplasia, lower proportion of bone marrow blasts, and overall longer
+survival compared to those without SF3B1 mutations, suggesting a more
+benign phenotype.
+
+Using whole-exome sequencing of matched tumor and normal samples from
+105 individuals with chronic lymphocytic leukemia (CLL; 151400) followed
+by expansion studies in an additional 174 CLL patients, Quesada et al.
+(2012) found that 27 (9.7%) of the 279 patients had somatic mutations in
+the SF3B1 gene. All SF3B1 mutations occurred in the nonidentical HEAT
+domains, and SF3B1-mutant cases showed enhanced expression of truncated
+mRNAs of various genes. Clinically, patients with SF3B1 mutations had
+faster disease progression and poorer overall survival compared to those
+with other mutations. No SF3B1 mutations were found in 156 cases of
+non-Hodgkin lymphoma (605027).
+
+Harbour et al. (2013) described mutations occurring exclusively at codon
+625 of the SF3B1 gene in low-grade uveal melanoma (155720) with good
+prognosis.
+
+ANIMAL MODEL
+
+Isono et al. (2005) found that homozygous Sf3b1-null mouse embryos died
+during preimplantation development around the 16- to 32-cell stage.
+Heterozygous animals appeared normal and healthy; however, they
+exhibited various skeletal alterations along the anterior-posterior
+axis. Consistent with the axial changes, expression of several Hox genes
+was anteriorly extended in the paraxial mesoderm and second branchial
+arch. Isono et al. (2005) concluded that Sf3b1 regulates Hox gene
+expression in association with Polycomb group proteins.
+
+REFERENCE 1. Golas, M. M.; Sander, B.; Will, C. L.; Luhrmann, R.; Stark, H.
+: Molecular architecture of the multiprotein splicing factor SF3b. Science 300:
+980-984, 2003.
+
+2. Harbour, J. W.; Roberson, E. D. O.; Anbunathan, H.; Onken, M. D.;
+Worley, L. A.; Bowcock, A. M.: Recurrent mutations at codon 625 of
+the splicing factor SF3B1 in uveal melanoma. Nature Genet. 45: 133-135,
+2013.
+
+3. Isono, K.; Abe, K.; Tomaru, Y.; Okazaki, Y.; Hayashizaki, Y.; Koseki,
+H.: Molecular cloning, genetic mapping, and expression of the mouse
+Sf3b1 (SAP155) gene for the U2 snRNP component of spliceosome. Mammalian
+Genome 12: 192-198, 2001.
+
+4. Isono, K.; Mizutani-Koseki, Y.; Komori, T.; Schmidt-Zachmann, M.
+S.; Koseki, H.: Mammalian Polycomb-mediated repression of Hox genes
+requires the essential spliceosomal protein Sf3b1. Genes Dev. 19:
+536-541, 2005.
+
+5. Kramer, A.; Mulhauser, F.; Wersig, C.; Groning, K.; Bilbe, G.:
+Mammalian splicing factor SF3a120 represents a new member of the SURP
+family of proteins and is homologous to the essential splicing factor
+PRP21p of Saccharomyces cerevisiae. RNA 1: 260-272, 1995.
+
+6. Papaemmanuil, E.; Cazzola, M.; Boultwood, J.; Malcovati, L.; Vyas,
+P.; Bowen, D.; Pellagatti, A.; Wainscoat, J. S.; Hellstrom-Lindberg,
+E.; Gambacorti-Passerini, C.; Godfrey, A. L.; Rapado, I.; and 36
+others: Somatic SF3B1 mutation in myelodysplasia with ring sideroblasts. New
+Eng. J. Med. 365: 1384-1395, 2011.
+
+7. Quesada, V.; Conde, L.; Villamor, N.; Ordonez, G. R.; Jares, P.;
+Bassaganyas, L.; Ramsay, A. J.; Bea, S.; Pinyol, M.; Martinez-Trillos,
+A.; Lopez-Guerra, M.; Colomer, D.; and 29 others: Exome sequencing
+identifies recurrent mutations of the splicing factor SF3B1 gene in
+chronic lymphocytic leukemia. Nature Genet. 44: 47-51, 2012.
+
+8. Wang, C.; Chua, K.; Seghezzi, W.; Lees, E.; Gozani, O.; Reed, R.
+: Phosphorylation of spliceosomal protein SAP 155 coupled with splicing
+catalysis. Genes Dev. 12: 1409-1414, 1998.
+
+CONTRIBUTORS Ada Hamosh - updated: 04/11/2013
+Cassandra L. Kniffin - updated: 1/25/2012
+Cassandra L. Kniffin - updated: 10/24/2011
+Patricia A. Hartz - updated: 4/19/2005
+Ada Hamosh - updated: 5/29/2003
+Victor A. McKusick - updated: 6/4/2001
+
+CREATED Paul J. Converse: 1/26/2001
+
+EDITED alopez: 04/11/2013
+mgross: 2/16/2012
+carol: 2/1/2012
+ckniffin: 1/25/2012
+carol: 10/25/2011
+terry: 10/25/2011
+ckniffin: 10/24/2011
+mgross: 4/21/2005
+terry: 4/19/2005
+alopez: 5/29/2003
+terry: 5/29/2003
+mcapotos: 6/6/2001
+mcapotos: 6/5/2001
+terry: 6/4/2001
+mgross: 1/26/2001
+
+602367	TITLE *602367 PENTRAXIN I, NEURONAL; NPTX1
+;;NP1
+DESCRIPTION For background information on pentraxins, see NPTX2 (600750).
+
+CLONING
+
+Neuronal pentraxin I (NP1) was identified in the rat as a binding
+protein for the snake venom toxin taipoxin (Schlimgen et al., 1995).
+Omeis et al. (1996) cloned the human NP1 homolog by screening a human
+cerebellar cDNA library with the rat Np1 gene as a probe. The gene,
+designated NPTX1, encodes a predicted 430-amino acid protein that is 95%
+identical to rat Np1. Northern blot analysis showed that the
+approximately 6-kb NPTX1 mRNA is expressed only in brain.
+
+GENE FUNCTION
+
+Xu et al. (2003) found that rat Np1 was part of a pentraxin complex that
+included Narp (NPTX2). The proteins were covalently linked by disulfide
+bonds, and their relative ratio in the complex was dynamically dependent
+upon the activity history and developmental stage of the neuron. Narp
+was more effective than Np1 in assays of cell surface cluster formation,
+coclustering of AMPA-type glutamate receptors (see 138248), and
+excitatory synaptogenesis, but combined expression of Narp and Np1
+resulted in supraadditive effects.
+
+MAPPING
+
+Omeis et al. (1996) used fluorescence in situ hybridization to map the
+NPTX1 gene to human chromosome 17q25.1-q25.2 and mouse chromosome
+11e2-e1.3.
+
+REFERENCE 1. Omeis, I. A.; Hsu, Y.-C.; Perin, M. S.: Mouse and human neuronal
+pentraxin 1 (NPXT1): conservation, genomic structure, and chromosomal
+localization. Genomics 36: 543-545, 1996.
+
+2. Schlimgen, A. K.; Helms, J. A.; Vogel, H.; Perin, M. S.: Neuronal
+pentraxin, a secreted protein with homology to acute phase proteins
+of the immune system. Neuron 14: 519-526, 1995.
+
+3. Xu, D.; Hopf, C.; Reddy, R.; Cho, R. W.; Guo, L.; Lanahan, A.;
+Petralia, R. S.; Wenthold, R. J.; O'Brien, R. J.; Worley, P.: Narp
+and NP1 form heterocomplexes that function in developmental and activity-dependent
+synaptic plasticity. Neuron 39: 513-528, 2003.
+
+CONTRIBUTORS Patricia A. Hartz - updated: 7/8/2005
+
+CREATED Rebekah S. Rasooly: 2/18/1998
+
+EDITED mgross: 07/13/2005
+terry: 7/8/2005
+alopez: 10/22/1999
+carol: 3/7/1998
+
+614585	TITLE *614585 FERREDOXIN 1-LIKE PROTEIN; FDX1L
+;;FDX1-LIKE PROTEIN;;
+FERREDOXIN 2; FDX2
+DESCRIPTION 
+DESCRIPTION
+
+FDXL1 is a mitochondrial iron-sulfur (Fe/S) protein that transfers
+electrons from NADPH via FDXR (103270) and functions in Fe/S protein
+biosynthesis (Sheftel et al., 2010).
+
+CLONING
+
+Using Western blot analysis, Sheftel et al. (2010) found that FDX2 was
+variably expressed in most human tissues examined, with highest
+expression in testis, kidney, and brain. Epitope-tagged FDX2
+cofractionated with a mitochondrial marker in HeLa cells. Sheftel et al.
+(2010) noted that the predicted mature form of FDX1L shares 50% amino
+acid identity with yeast adrenodoxin homolog-1 (Yah1).
+
+GENE FUNCTION
+
+Sheftel et al. (2010) found that recombinant human FDX2 exhibited
+spectra characteristic of a 2Fe-2S protein. Depletion of FDX2 in HeLa
+cells resulted in decreased activities of mitochondrial aconitase (ACO2;
+100850), cytosolic aconitase (ACO1; 100880), mitochondrial complex I
+(see 157655), COX (see 516030), and succinate dehydrogenase (see
+600857). Knockdown of FDX2 also reduced cellular content of 2Fe-2S
+proteins, iron incorporation into complexes I and II, mitochondrial iron
+accumulation, and cell proliferation. FDX2, but not FDX1 (103260),
+functionally complemented Yah1 deficiency in yeast. However, FDX2 could
+not substitute for FDX1 in steroidogenesis. Sheftel et al. (2010)
+concluded that FDX2 is critical for heme A and 2Fe-2S protein synthesis.
+
+MAPPING
+
+Sheftel et al. (2010) stated that the FDX1L gene maps to chromosome
+19p13.2.
+
+REFERENCE 1. Sheftel, A. D.; Stehling, O.; Pierik, A. J.; Elsasser, H.-P.; Muhlenhoff,
+U.; Webert, H.; Hobler, A.; Hannemann, F.; Bernhardt, R.; Lill, R.
+: Humans possess two mitochondrial ferredoxins, Fdx1 and Fdx2, with
+distinct roles in steroidogenesis, heme, and Fe/S cluster biosynthesis. Proc.
+Nat. Acad. Sci. 107: 11775-11780, 2010.
+
+CREATED Patricia A. Hartz: 4/20/2012
+
+EDITED mgross: 04/20/2012
+
