@@ -1,5 +1,5 @@
 #!/bin/sh
-clusters="Affinity 10 20 30";
+clusters="80 5FPKMAffinity 5FPKMAgg5 5FPKMAgg12";
 for cluster in $clusters; do
   bsub -P compbiofolk -q compbio-week -J enrichment_analysis_${cluster} \
        -o out/enrichmentAnalysis_${cluster}.out -n 1 -R "rusage[mem=8]" \
