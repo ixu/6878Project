@@ -18,14 +18,14 @@ h2 {
 p { line-height: 1.4em; margin-bottom: 1.0em; }
 a { color: #821122; }
 #content {
-    width: 925px;
+    width: 960px;
     margin: 0 auto;
 }
-#filters {
+#filters, #normalize {
     font-family: Arial, sans-serif;
     margin-bottom: 20px;
 }
-#filters a {
+#filters a,#normalize a {
     color: #000;
     font-size: 12px;
     padding: 5px;
@@ -40,6 +40,11 @@ a { color: #821122; }
 
 #vis {
     min-height: 550px;
+    width:480px;
+}
+#cluster-info {
+    min-height: 550px;
+    width:480px;
 }
 #blurb {
     height: 60px;
@@ -47,23 +52,41 @@ a { color: #821122; }
     padding-top: 20px;
 }
 
+.axis {
+  shape-rendering: crispEdges;
+  opacity: 0.3;
+}
+
+
+.x.axis .minor {
+  stroke-opacity: .5;
+}
+
+
+
 path {
-    stroke: #e2e2e2;
+    /*stroke: #e2e2e2;*/
     stroke-width: 0.9;
 	fill: none;
-    opacity: 0.5;
+    opacity: 0.3;
+    stroke: black;
 }
 
 path.average{
     opacity: 1;
-    stroke-width: 2.0;
+    stroke-width: 5px;
+    stroke: black;
+
 }
 path.current, path.highlight.current {
     stroke: #000;
-    stroke-width: 1.7;
+    stroke-width: 2.0;
 }
 
-.highlight { stroke-width: 1px; } 
+.highlight {
+    stroke-width: 1px;
+    visibility: visible;
+ } 
 
 line {
     stroke: black;
@@ -73,6 +96,7 @@ text {
     font-family: Helvetica, Arial, sans-serif;
     font-size: 11px;
 }
+/*
 .axis {
     stroke-width: 0.8;
     stroke: #000;
@@ -81,7 +105,31 @@ text {
     stroke-width: 0.6;
     stroke: #000;
 }
+*/
 
 
 #cite { font-size: 0.8em; text-align: right; margin-top:10px; padding-bottom: 20px; }
 #cite a { background: #e2e2e2; text-decoration: none; color: #821122; }
+
+
+
+
+
+
+/* Dendogram */
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
