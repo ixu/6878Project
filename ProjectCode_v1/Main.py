@@ -83,43 +83,42 @@ def main():
     ClusterType = int(sys.argv[3])
 
 
-    ## 1. Reads an expression time series from a csv file
-    #print "1. Reading expression time series ..."
-    #Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
-    #print " -- Read ",len(Signals)," signals ."
+    # 1. Reads an expression time series from a csv file
+    print "1. Reading expression time series ..."
+    Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
+    print " -- Read ",len(Signals)," signals ."
 
-    ##2. Perform Alignment and  Clustering
-    #print "2. Perform Alignment and  Clustering ..."
-    #S = [
-    # # R D S
-    # [3, -1, -3], # R
-    # [-1, 3, -3], # D
-    # [-3, -3, 1]  # S
-    # ]
-    #gap_pen = 1
-    ##OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
-    ##OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
-    #AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName,ClusterType)
-
+    #2. Perform Alignment and  Clustering
+    print "2. Perform Alignment and  Clustering ..."
+    S = [
+    # R D S
+    [3, -3, -1], # R
+    [-3, 3, -1], # D
+    [-1, -1, 3]  # S
+    ]
+    gap_pen = 1
+    #OutputDirectoryName = "5FPKMNormalizedAlignedAffinityPropogation"
+    #OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
+    AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName,ClusterType)
     #3. Annotation
     #print "2. Perform Annotation ..."
     #OutputDirectory = "./Output/"+OutputDirectoryName
-    OutputDirs = [
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_80',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_40',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_30',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_20',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_10',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_5',
-                  '.\\Output\\0.05FPKMNormalizedAlignedAffinityPropogation',
-                  '.\\Output\\5FPKMNormalizedAlignedAgglomerative\\OutputDirectoryHeirarchicalNoOfClusters_5',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_2',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_5',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_10',
-                  '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_12'
-                  ]
-    for OutputDirectory in OutputDirs:
-        Annotation.Annotateclusters(OutputDirectory)
+    # OutputDirs = [
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_80',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_40',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_30',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_20',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_10',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_5',
+    #               '.\\Output\\0.05FPKMNormalizedAlignedAffinityPropogation',
+    #               '.\\Output\\5FPKMNormalizedAlignedAgglomerative\\OutputDirectoryHeirarchicalNoOfClusters_5',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_2',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_5',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_10',
+    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_12'
+    #               ]
+    # for OutputDirectory in OutputDirs:
+    #     Annotation.Annotateclusters(OutputDirectory)
     
     return
 
