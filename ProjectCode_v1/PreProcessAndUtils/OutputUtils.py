@@ -1,5 +1,6 @@
 import csv
 import os
+import numpy as np
 #### writeScoreMatrix:
 #### 	INPUTS:	ScoreMatrix - matrix of scores
 ####            Output file name
@@ -108,3 +109,36 @@ def ConvertCDTToSetGeneMatrixFile(outputDir):
         holder[GeneSymbolToClusterIdDict[geneSymbol]+1]=str(0)
     setGeneMatrixFile.close()
     return
+
+def createEnrichmentSummary(inputFile):
+     NoOfMinValuesToGet = 3
+     print " Creating Enrichment Summary for :",inputFile
+     enrichFile = open(inputFile,"rb")
+     reader = csv.reader(enrichFile)
+     indexSymbolDict = {}
+     index =0
+     valuesList = []
+     for row in reader:
+         if(row[0] == "V2"): continue
+         values = [ float(row[i]) for i in xrange(1,len(row))]
+         valuesList.append(values)
+         indexSymbolDict[index] = row[0]
+         index += 1
+     m = np.matrix(valuesList)
+     noOfClusters = len(valuesList[0])
+     enrichmentSummaryFile = open(inputFile+".Top3.csv","wb")
+     writer = csv.writer(enrichmentSummaryFile)
+     holder = ['ClusterNo','P-Value','term']
+     writer.writerow(holder)
+     for clusterNo in xrange(noOfClusters):
+         for i in xrange(NoOfMinValuesToGet):
+             v = m[:,clusterNo]
+             minIndex = v.argmin()
+             print "ClusterNo",clusterNo," P-Value = ",float(v[minIndex])," - ",indexSymbolDict[minIndex]
+             holder[0]=clusterNo
+             holder[1]=float(v[minIndex])
+             holder[2]=indexSymbolDict[minIndex]
+             writer.writerow(holder)
+             v[minIndex] = 999
+     enrichmentSummaryFile.close()
+     return
