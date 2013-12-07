@@ -5,30 +5,42 @@
 	<link rel="stylesheet" type="text/css" href="./clusters.css" />
     <script src="http://d3js.org/d3.v3.min.js"></script>
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-
+    <script src="./d3.layout.cloud.js"></script>
+    <!--script src="./cloud.js"></script-->
 	
 	<link href='http://fonts.googleapis.com/css?family=Bevan|Cardo' rel='stylesheet' type='text/css'>
   </head>
 <body>
 <div id="main-wrapper">
     <div id="content">
-
-        <p>
-        <div id="filters">
-   
-        </div><!-- @end #filters -->
-    </p>
-        <div id="blurb">
-            <div id="default-blurb">
-                <h2>Genes</h2>
-                <p>Aligned and clustered</p>
-            </div>
-            <div id="blurb-content"></div>
+        <div class="menu">
+            <a href="#graph">Expression</a> <a href="#cluster-info">Dendrogram</a> <a href="#wordcloud">Word Cloud</a>
         </div>
-
-        <div id="vis"></div>
+        <p>
+            <div id="filters"></div><!-- @end #filters -->
+        </p>
+        <div id="mypages">
+            <div id = "graph">
+                <div id="blurb-container">
+                    <div id="blurb">
+                        <div id="default-blurb">
+                            <h2>Genes</h2>
+                            <p>Aligned and clustered</p>
+                        </div>
+                        <div id="blurb-content"></div>
+                    </div>
+                    <div id="normalize">
+                        <a id="normalizebutton" class="normalize">Normalize</a>
+                    </div>
+                </div>
+                <div id="vis"></div>
+            </div>
+            <div id="cluster-info"></div>
+            <div id="wordcloud"></div>
+        </div>
         
     </div><!-- @end content -->
+
 </div><!-- @end #main-wrapper -->
 
 <script type="text/javascript" src="./clusters.js"></script>
@@ -40,6 +52,9 @@ $(document).ready(function() {
         var cluster = $(this).attr("id");
         $(this).toggleClass(cluster);
         showCluster(cluster);
+    });
+    $('#normalizebutton').click(function(){
+        changeNormalized();
     });
     
 });
