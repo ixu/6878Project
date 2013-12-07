@@ -7,8 +7,10 @@ from numpy import matrix
 import  numpy as np
 import os
 import PreProcessAndUtils
+import timeit
 
 def HeirarchicalClusterFast(scoreMatrix,Signals,SignalSeqs,ExprNoToExprIdentifier,timeline,OutputDirectory):
+    startFull = timeit.default_timer()
     #1. Compute a thresholdDistance from the scoreMatrix
     minAverageDistanceScoreThreshold = getScoreThreshold(scoreMatrix)
     
@@ -37,6 +39,8 @@ def HeirarchicalClusterFast(scoreMatrix,Signals,SignalSeqs,ExprNoToExprIdentifie
         clusters.pop(b)
 
     #4. return clusters
+    endFull = timeit.default_timer()
+    print "Time for clustering : ",endFull - startFull
     return clusters
 
 VERY_LOW = -999999

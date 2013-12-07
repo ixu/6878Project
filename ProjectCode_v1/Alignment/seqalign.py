@@ -4,12 +4,12 @@ import sys
 
 base_idx = { 'R' : 0, 'D' : 1, 'S' : 2}
 PTR_NONE, PTR_GAP1, PTR_GAP2, PTR_BASE = 0, 1, 2, 3
-S = [
-     # R D S
-     [3, -1, -3], # R
-     [-1, 3, -3], # D
-     [-3, -3, 1]  # S
-     ]
+##S = [
+##     # R D S
+##     [3, -1, -3], # R
+##     [-1, 3, -3], # D
+##     [-3, -3, 1]  # S
+#     ]
 gap_pen = 1
 
 def seqalignDP(seq1,seq2,S,gap_pen,timelines):
@@ -49,6 +49,52 @@ def seqalignDP(seq1,seq2,S,gap_pen,timelines):
             F[i][j] = max_choice
 
     return F[len(seq1)][len(seq2)]
+
+
+def seqalignDPFast(seq1,seq2,S,gap_pen,timelines,gapPenaltyLUT):
+    """return the score of the optimal Needleman-Wunsch alignment for seq1 and seq2
+        Note: gap_pen should be positive (it is subtracted)
+        """
+    subst_matrix=S
+    F = [[0 for j in range(len(seq2)+1)] for i in range(len(seq1)+1)]
+    
+    # initialize dynamic programming table for Needleman-Wunsch alignment (Durbin p.20)
+    for i in range(1,len(seq1)+1):
+        F[i][0] = F[i-1][0] - gapPenaltyLUT[i-1][i]
+    for j in range(1,len(seq2)+1):
+        F[0][j] = F[0][j-1] - gapPenaltyLUT[j-1][j]
+    
+    
+    
+    # YOUR CODE HERE
+    # Fill in the dynamic programming tables F and TB, starting at [1][1]
+    # Hints: The first row and first column of the table F[i][0] and F[0][j] are dummies
+    #        (see for illustration Durbin p.21, Figure 2.5, but be careful what you
+    #         think of as rows and what you think of as columns)
+    #        Hence, the bases corresponding to F[i][j] are actually seq1[i-1] and seq2[j-1].
+    #        Use the dictionary base_idx to convert from the character to an index to
+    #         look up entries of the substitution matrix.
+    #        To get started, you can complete and run the algorithm filling in only F,
+    #         and then figure out how to do TB.
+    
+    
+    for i in range(1, len(seq1) + 1):
+        for j in range(1, len(seq2) + 1):
+            seq1Base = base_idx[seq1[i - 1]]
+            seq2Base = base_idx[seq2[j - 1]]
+            score = S[seq1Base][seq2Base]
+            max_choice = max(F[i][j - 1] - gapPenaltyLUT[i-1][j-2], F[i - 1][j - 1] + score, F[i - 1][j] - gapPenaltyLUT[i-2][j-1])
+            F[i][j] = max_choice
+
+    return F[len(seq1)][len(seq2)]
+
+
+def createGapPenaltyLUT(length,gap_pen,timelines):
+    gapPenaltyLUT =  [[0 for j in xrange(length+1)] for i in xrange(length+1)]
+    for i in xrange(length+1):
+        for j in xrange(length+1):
+            gapPenaltyLUT[i][j] = getGapPenalty(i,j,gap_pen,timelines)
+    return gapPenaltyLUT
 
 def getGapPenalty(i,j,gap_pen,timelines):
     if((i>(len(timelines)-1)) | (j>(len(timelines)-1))): return 1000 # last row and last column

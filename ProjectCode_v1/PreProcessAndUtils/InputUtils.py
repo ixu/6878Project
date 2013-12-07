@@ -1,7 +1,7 @@
 import csv
 #import seqalign
-
-thresholdPercent = 0.1
+import timeit
+thresholdPercent = 0.25
 
 #def read_file(filename):
 #	f = open(filename)
@@ -61,6 +61,36 @@ def readExpressionTimeSeries(expressionTimeSeriesFileName):
     signalId = 0
     for line in lines[1:]:
         if(len(line) < 2): continue
+        ExprNoToExprIdentifier[signalId] = line[0]
+        signalId += 1
+        SignalSeqs.append(toString(line[1:]))
+        Signals.append(toFloat(line[1:]))
+    
+    f.close()
+
+    return Signals,SignalSeqs,ExprNoToExprIdentifier,timeline
+
+# reads every alternate line , usefull for affy type arrays 22000 long
+def readExpressionTimeSeriesTrimmed(expressionTimeSeriesFileName):
+    f = open(expressionTimeSeriesFileName)
+    lines = getSignals(f.readlines())
+    noOflines = len(lines)
+    
+     # read Timeline
+    timeline = [ float(timeValue) for timeValue in lines[0][1:] ]
+
+    # read signal
+    ExprNoToExprIdentifier = {}
+    Signals= []
+    SignalSeqs = []
+    signalId = 0
+    alternate = False
+    for line in lines[1:]:
+        if(len(line) < 2): continue
+        if(alternate == True): 
+            alternate = False
+            continue
+        else: alternate = True
         ExprNoToExprIdentifier[signalId] = line[0]
         signalId += 1
         SignalSeqs.append(toString(line[1:]))
