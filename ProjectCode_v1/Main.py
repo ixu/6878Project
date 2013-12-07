@@ -16,11 +16,15 @@ def AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline
         os.makedirs("./Output/"+OutputDirectory)
     # 2. Create an alignment matrix between the sequences.
     print "  Aligning signals and creating a score matrix ..."
-    if os.path.exists("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"):
-        print "Reading scores from cache","./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"
-        scores = InputUtils.readScore("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv")
-    else:
-        scores = AlignmentUtils.getAlignmentScoreMatrixWithLookup(SignalSeqs,S,gap_pen,timeline)
+    #if os.path.exists("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"):
+    #    print "Reading scores from cache","./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv"
+    #    scores = InputUtils.readScore("./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv")
+    #else:
+    #    scores = AlignmentUtils.getAlignmentScoreMatrix(SignalSeqs,S,gap_pen,timeline)
+    scores = AlignmentUtils.getAlignmentScoreMatrix(SignalSeqs,S,gap_pen,timeline)
+    #scores = AlignmentUtils.getAlignmentScoreMatrixWithLookup(SignalSeqs,S,gap_pen,timeline)
+    #scores = AlignmentUtils.getAlignmentScoreMatrixWithLookupPlusSignalKeys(SignalSeqs,S,gap_pen,timeline)
+    
     print " -- Scores generated."
     print " -- Writing to score matrix to AlignmentScores.csv .."
     OutputUtils.writeScoreMatrix(scores,"./Output/"+OutputDirectory+"/AlignmentScoreMatrix.csv")
@@ -85,7 +89,9 @@ def main():
 
     # 1. Reads an expression time series from a csv file
     print "1. Reading expression time series ..."
-    Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
+    #Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeries(sys.argv[1])
+    Signals,SignalSeqs,ExprNoToExprIdentifier,timeline = InputUtils.readExpressionTimeSeriesTrimmed(sys.argv[1])
+    
     print " -- Read ",len(Signals)," signals ."
 
     #2. Perform Alignment and  Clustering
