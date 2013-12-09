@@ -4,7 +4,7 @@
 % Note:  comment out one of the two documentclass commands, depending
 % on whether you need the final or preprint version. It is most convenient
 % to work in preprint mode, and switch to final only at the end.
-
+\usepackage{float}
 \usepackage{graphicx}                            % Graphics package
 \usepackage{amsmath}
 \usepackage{verbatim}
@@ -16,22 +16,19 @@
 \begin{document}
 
 \title{6.878 Final Report}
-\author{Dalesh Dharamshi and Iris Xu}
+\author{Iris Xu , Dalesh S Dharamshi }	
 \date{\today} 
 
 \begin{abstract}
 \noindent
-  In the era of personalized medicine it is anticipated that an individual patient's health record will contain multiple molecular expression profiles (genomic, transcriptomic, proteomic, metabolomic, etc) that have been captured across multiple time points in various health states. The combination of this data is expected to provide a much deeper understanding of an individual’s healthy and diseased states.
-
-  Accurate identification of changes in molecular expression patterns across time and linking them to potential health conditions is at the core of the effectiveness of personalized medicine. Additionally, a patient is likely to have more than one health condition being expressed at the same time.
-
-  Unlike a test for differential gene expression in one or more conditions, the clinical setting described above has the additional complexity of analyzing a time course of multiple biological components sampled across disparate time points and health conditions. The challenge is providing a concise description of an individual’s state that can be easily analyzed in this clinical setting. We investigate a few aspects of this complexity in order to facilitate generating a clinical recommendation.
-
-  While previous work has focused on monitoring expression of specific genes, our goal is to provide an overview of an individual’s health state by identifying, separating, and annotating related biological component groups that have similar changes in expression levels, potentially time-shifted indicating a potential causal relationship.
-
-  We find that while our method provides visual evidence of effective separation, enrichment analysis shows no significant enrichment between groups of signals.
-
-
+  In the era of personalized medicine it is anticipated that an individual patient's health record will contain multiple molecular expression profiles that have been captured across multiple time points in various health states. Accurate identification \& representation of changes in molecular expression patterns across time and linking them to potential health conditions is at the core of the effectiveness of personalized medicine. 
+  
+  We introduce sequence alignment score driven clustering to accurately identify changes in molecular expression over time , this approach can group time-shifted expression signals that may have a causal relationship.We further provide a concept of visualizing these clusters of change in molecular expression across time along with annotations of various health and biologically relevant terms enriched for each cluster.
+  
+  Our results indicate that using alignment score as a distance to clustering produces clusters that includes signals that may have time shifted due to an upstream or downstream relation.These signals tend to be separated into different clusters while using the standard UPGMA based clustering. 
+  
+  Of the two time course datasets we tried this approach, only one of them shows a corresponding enrichment of biological terms associated identified clusters. The root cause for the failure in the other dataset is yet to be identified.
+  
 \end{abstract}
 
 \maketitle
@@ -41,28 +38,38 @@
 \thispagestyle{empty}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Introduction}
 
-\subsection{Personal Genomics}
-With the advent of efficient sequencing techniques and improved computation resources, the possibility of personalized medicine based on an inidividual's specific genetic composition and molecular phenotype has increased dramatically over the past few years.
+\section{Background}
+	
+	In the era of personalized medicine it is anticipated that an individual patient's health record will contain multiple molecular expression profiles that have been captured across multiple time points in various health states. Accurate identification \& representation of changes in molecular expression patterns across time and linking them to potential health conditions is at the core of the effectiveness of personalized medicine.Additionally, a patient is likely to have more than one health condition being expressed at the same time.
+
+  Unlike a test for differential gene expression in one or more conditions, the clinical setting described above has the additional complexity of analyzing a time course of multiple biological components sampled across disparate time points and health conditions. The challenge is providing a concise description of an individual’s state that can be easily analyzed in this clinical setting. We investigate a few aspects of this complexity in order to facilitate generating a clinical recommendation.
+
+  While previous work has focused on monitoring and grouping molecular expression along the gene or conditions axes to identify changes , our goal is to introduce alignment to potentially improve the accuracy of this grouping by including potentially time-shifted signals that may have a relation. In addition we intend to arrive at an overview of the change in an individual’s health state by identifying, separating, and annotating related biological component groups that have similar changes in expression levels, potentially time-shifted indicating a potential causal relationship.
+  
+  Note : While our overall project was done as part of two of our classes , in this report we highlight and detail the methods learnt and relevant to this class (Pre-processing , alignment , clustering). We only make a brief mention of visualization and annotation for completion.
+
+\section{Results and Discussion}
+\subsection{Input dataset and Preprocessing}
+\begin{description}
+ \item 1. GSE33029 : "Integrated analysis of omics profiles"
+ 
+ We have primarily used this ‘Snyderome’ dataset which contains various molecular expression captured across 20 time points over 14 months for a single individual.
+
+The RNASeq dataset posted on GEO is the output of topHat (~120GB) and we performed the following preprocessing.
+\begin{description}
+ \item a. Cufflinks analysis to derive gene expression abundance in FPKMs
+ \item b. Filtering and Quantile normalization of the cufflinks output.
+ \item c. We then created multiple views of this expression data to get a feel for how the
+		data looks.
+\end{description}
 
 
-\subsection{Snyder Dataset}
-The original dataset consisted of a genomic profile generated from blood samples taken from a 54-year-old male at 20 time points over the course of $401$ days. The supplemented the genomic data with blood glucose sampling, and increased the sampling rate during a human rhinovirus infection and a respiratory syncytial virus infection. 
+In addition to the above we tested our methodology on the following two time course datasets.
 
-Chen, et al. examined how to generate an integrative personal omics profile to examine how biological components change during healthy and diseased states and how to use this information to estimate disease risk and learn about diseased states. Their analysis included whole genome sequencing, complete transcriptome analysis, proteomic and metabolomic analyses, and autoantibody profiles.
-Their multi-dimensional view of the individual showed how traits associated with disease could be monitored to identify physiological states.
-In particular, they processed the various omics sets using spectral analysis, clustering, and pathway enrichment analysis.
-
-\subsection{Other time series}
-In theory, our algorithms can work on any expression time series.
-
-We also tested our process on other pre-processed time series for gene expression including \verb!GSE675!, for HCMV infection of foreskin fibroblasts.
-
-\section{Methods and Results}
-
-\subsection{Pre-processing}
-
+ \item 2. GSE19392 "Dynamic responses of primary human bronchial epithelial cells to influenza virus, viral RNA and interferon-beta"
+ \item 3. GSE675 Time course analysis of response to HCMV infection
+\end{description}
 
 
 \subsection{Alignment}
@@ -113,8 +120,34 @@ Alignment was run on a combination of AWS nodes and the Broad cluster.
 
 \subsection{Clustering}
 
-Given the distance matrix generated by alignment, we were able to cluster more similar sequences.
 
+Given the distance matrix generated by alignment, we were able to cluster similar sequences.
+Our clustering was based on the alignment scores generated above as distance.
+One question that needed to be resolved was how determine the optimal number of
+clusters.We have tried the following two approaches towards this
+a. Pairwise clustering until we reach a threshold of the alignment score between
+two clusters.
+b. Affinity propagation based clustering to automatically determine the number of
+clusters.The pairwise heirarchical clustering with an emperical value of threshold based
+out of experiments gives us fewer (about half) the clusters than the affinity propogation ,
+however the clusters generated by affinity propogation appear to be more cohesive
+
+Our first test is to check how the alignment and clustering compared to the
+preferred UPGMA clustering. We generated a heirarchical clustering output on the
+same preprocessed dataset with the help of an external tool ‘Cluster 3.0’
+developed by Michael Eisen at stanford.
+Shown below are three heatmaps the first two heatmaps are from clusters
+generated by our implementation of alignment and clustering (affinity prop
+followed by heirarchical) the third generated by cluster 3.0. In purple is an
+example of a cluster that based on the signal appears to belong together but is
+spread out in multiple clusters if alignment is not considered for clustering.
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.75]{ClustercomparisonResults_v2.png}
+\caption{Heatmap showing the comparison of aligned clustering and UPGMA.}
+\label{fig:ClusterComparison}
+\end{figure}
 
 
 \subsection{Enrichment Analysis}
