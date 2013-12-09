@@ -39,11 +39,13 @@ def Geneclusters(clusterFolderName):
         print " NoOfEnsemble Symbols",len(EnsemblIdList)
         print "     Writing david file ..."
         #4. Generate reports from David.
-        
+        getDavidReports(GeneSymbolList,clusterName,clusterFolderName)
+        '''
         try:
             getDavidReports(EnsemblIdList,clusterName,clusterFolderName)
         except:
             print "Exception generating report for ",clusterName
+        '''
     f = open(clusterFolderName + "/geneCluster.json", 'w')
     jsonarray = json.dumps(geneClusters)
     f.write(jsonarray)
@@ -89,7 +91,7 @@ def getDavidReports(EnsemblIdList,clusterName,clusterFolderName):
     for i in xrange(len(EnsemblIdList)-1):
         inputIds = inputIds+EnsemblIdList[i]+","
     inputIds = inputIds+EnsemblIdList[len(EnsemblIdList)-1]
-    idType='ENSEMBL_GENE_ID'
+    idType='AFFYMETRIX_3PRIME_IVT_ID'
     listName = 'testList'
     listType = 0
     print "     Creating list of ",len(EnsemblIdList)," symbols"
@@ -103,7 +105,7 @@ def getDavidReports(EnsemblIdList,clusterName,clusterFolderName):
     initialSeed = 3
     finalSeed = 3
     linkage = 0.5
-    kappa = 70
+    kappa = 90
     geneClusterReportFile = open(clusterFolderName+"/"+clusterName+".GeneCluster","wb")
     geneClusterReport = client.service.getGeneClusterReport(overlap, initialSeed, finalSeed, linkage, kappa)
     #geneClusterReport = client.service.getGeneClusterReport(overlap, initialSeed, finalSeed, linkage, kappa)
@@ -180,7 +182,7 @@ def setup_logging():
         fmt = '%(asctime)s [%(levelname)s] %(funcName)s() @%(filename)s:%(lineno)d\n%(message)s\n'
     logging.basicConfig(level=logging.INFO, format=fmt)
 
-Geneclusters('../Output/0.05FPKMAgglomerativeClusters/OutputDirectoryHeirarchicalNoOfClusters_20')
+Geneclusters('../Output/GSE675_0/Heirarchical_NoOfClusters_9')
 
         
     

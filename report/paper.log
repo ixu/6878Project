@@ -1,19 +1,12 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.1)  9 DEC 2013 18:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.22)  9 DEC 2013 18:29
 entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
 **paper.tex
-(D:\Som\Project\Git\6878Project\report\paper.tex
+(./paper.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
-(D:\Som\Project\Git\6878Project\report\revtex4.cls
+Babel <3.9f> and hyphenation patterns for 21 languages loaded.
+(./revtex4.cls
 Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
 cumentation)
  Copyright (c) 2001 The American Physical Society.
@@ -39,7 +32,7 @@ ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
 \pagegrid@col=\count82
 Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
 ly upper/lower case changing (DPC)]. on input line 3682.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -56,7 +49,7 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 \c@figure=\count90
 \c@table=\count91
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
@@ -66,20 +59,18 @@ LaTeX Info: Redefining \cite on input line 694.
 \widetext@top=\box32
 \widetext@bot=\box33
 
-(D:\Som\Project\Git\6878Project\report\revsymb.sty
+(./revsymb.sty
 Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
 tion)
 LaTeX Info: Redefining \REV@mathfrak on input line 118.
-))
-(D:\Som\Project\Git\6878Project\report\aps.rtx
+)) (./aps.rtx
 File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
 n)
-)
-(D:\Som\Project\Git\6878Project\report\10pt.rtx
+) (./10pt.rtx
 File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
 on)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count93
 \float@exts=\toks16
@@ -87,31 +78,31 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box35
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count94
@@ -119,24 +110,24 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks19
 \ex@=\dimen104
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count95
@@ -177,24 +168,24 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read1
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count107
@@ -209,39 +200,119 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen119
 \Gm@layoutvoffset=\dimen120
 \Gm@dimlist=\toks26
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(D:\Som\Project\Git\6878Project\report\paper.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-Class revtex4 Info: Patching LaTeX tabular. on input line 16.
-Class revtex4 Info: cite was not loaded (OK!) on input line 16.
-Class revtex4 Info: multicol was not loaded (OK!) on input line 16.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count110
-\scratchdimen=\dimen121
-\scratchbox=\box38
-\nofMPsegments=\count111
-\nofMParguments=\count112
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count113
-\MPscratchDim=\dimen122
-\MPnumerator=\count114
-\makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks28
 )
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen121
+\captionmargin@=\dimen122
+\captionwidth=\dimen123
+\caption@tempdima=\dimen124
+\caption@indent=\dimen125
+\caption@parindent=\dimen126
+\caption@hangindent=\dimen127
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\par \vskip \abovecapti
+onskip \begingroup \small \rmfamily \sbox \@tempboxa {\let \\\heading@cr #1: #2
+}\@ifdim {\wd \@tempboxa >\hsize }{\begingroup \samepage \flushing \let \footno
+te \@footnotemark@gobble #1: #2\par \endgroup }{\global \@minipagefalse \hb@xt@
+ \hsize {\hfil \unhbox \@tempboxa \hfil }}\endgroup \vskip \belowcaptionskip .
+\c@ContinuedFloat=\count110
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count111
+\c@subtable=\count112
+) (./paper.aux
+
+LaTeX Warning: Label `fig:enrichment' multiply defined.
+
+)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+Class revtex4 Info: Patching LaTeX tabular. on input line 19.
+Class revtex4 Info: cite was not loaded (OK!) on input line 19.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 19.
+ (/usr/local/texlive/2013basic/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen128
+\scratchbox=\box38
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen129
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) (/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -276,6 +347,21 @@ Class revtex4 Info: multicol was not loaded (OK!) on input line 16.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \caption).
+(caption)             \caption = macro:->\minipagefootnote@here \ifx \@captype 
+\@undefined \@latex@error {\noexpand \caption outside float}\@ehd \expandafter 
+\@gobble \else \refstepcounter \@captype \let \@tempf \@caption \expandafter \i
+fx \csname @float@c@\@captype \endcsname \relax \else \expandafter \expandafter
+ \let \expandafter \@tempf \csname @float@c@\@captype \endcsname \fi \fi \@dbla
+rg {\@tempf \@captype }.
+
+Package caption Warning: Forced redefinition of \caption since the
+(caption)                unsupported(!) package option `compatibility=false'
+(caption)                was given.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
 
 Class revtex4 Warning: Assuming \noaffiliation for Iris Xu , Dalesh S Dharamshi
  .
@@ -292,15 +378,18 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 77--81
+[1{/usr/local/texlive/2013basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 85--90
 
  []
+
+
+LaTeX Warning: Reference `(' on page 2 undefined on input line 92.
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -308,54 +397,83 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-<ClustercomparisonResults_v2.png, id=9, 389.95688pt x 548.0475pt>
+[2] <ClustercomparisonResults_v2.png, id=17, 389.95688pt x 548.0475pt>
 File: ClustercomparisonResults_v2.png Graphic file (type png)
 
 <use ClustercomparisonResults_v2.png>
-Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 147
+Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 153
 .
 (pdftex.def)             Requested size: 292.46693pt x 411.0346pt.
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 154--158
+
+
+LaTeX Warning: Reference `(' on page 3 undefined on input line 163.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--164
 
  []
 
-<dendrogram.png, id=17, 861.2175pt x 735.74875pt>
+
+LaTeX Warning: Reference `(' on page 3 undefined on input line 167.
+
+[3 <./ClustercomparisonResults_v2.png>]
+<dendrogram.png, id=23, 861.2175pt x 735.74875pt>
 File: dendrogram.png Graphic file (type png)
  <use dendrogram.png>
-Package pdftex.def Info: dendrogram.png used on input line 163.
-(pdftex.def)             Requested size: 253.78099pt x 216.81pt.
+Package pdftex.def Info: dendrogram.png used on input line 178.
+(pdftex.def)             Requested size: 203.83417pt x 174.1359pt.
+
+<wordcloud.png, id=24, 704.6325pt x 395.4775pt>
+File: wordcloud.png Graphic file (type png)
+ <use wordcloud.png>
+Package pdftex.def Info: wordcloud.png used on input line 184.
+(pdftex.def)             Requested size: 203.83417pt x 114.40192pt.
+
+Overfull \hbox (4.11108pt too wide) in paragraph at lines 177--188
+ [][]  [][] 
+ []
+
+<pvalue_performace.png, id=25, 362.7954pt x 218.2554pt>
+File: pvalue_performace.png Graphic file (type png)
+
+<use pvalue_performace.png>
+Package pdftex.def Info: pvalue_performace.png used on input line 190.
+(pdftex.def)             Requested size: 253.66187pt x 152.60455pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `(' on page 4 undefined on input line 200.
 
-[3 <D:/Som/Project/Git/6878Project/report/ClustercomparisonResults_v2.png>]
-[4 <D:/Som/Project/Git/6878Project/report/dendrogram.png>] [5]
-(D:\Som\Project\Git\6878Project\report\paper.aux)
+[4 <./dendrogram.png> <./wordcloud.png> <./pvalue_performace.png>] [5]
+(./paper.aux)
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right .
+LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3895 strings out of 493921
- 49972 string characters out of 3147276
- 134044 words of memory out of 3000000
- 7176 multiletter control sequences out of 15000+200000
- 6480 words of font info for 24 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 27i,6n,32p,601b,255s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmtt10.pfb>
-Output written on paper.pdf (5 pages, 831475 bytes).
+ 5344 strings out of 494536
+ 76537 string characters out of 6167446
+ 162014 words of memory out of 5000000
+ 8538 multiletter control sequences out of 15000+600000
+ 8456 words of font info for 31 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 42i,7n,40p,621b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+0.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mbx12.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx9.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmtt10.pfb>
+Output written on paper.pdf (5 pages, 1169828 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
