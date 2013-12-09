@@ -1,0 +1,12 @@
+# To install the preprocessCore package
+source("http://bioconductor.org/biocLite.R")
+biocLite("preprocessCore")
+
+library('preprocessCore')
+exprArray = read.csv(<fileName>, sep=",", row.names=1)
+exprArrayMatrix <- as.matrix(exprArray)
+exprArrayMatrixNormalized = normalize.quantiles(exprArrayMatrix)
+colnames(exprArrayMatrixNormalized) <- colnames(exprArray)
+rownames(exprArrayMatrixNormalized) <- rownames(exprArray)
+write.csv(exprArrayMatrixNormalized,<fileName>)
+
