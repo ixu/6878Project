@@ -142,3 +142,22 @@ def createEnrichmentSummary(inputFile):
              v[minIndex] = 999
      enrichmentSummaryFile.close()
      return
+ 
+ 
+def writeRNAExpressionasCSV(outputFileName,mRNAExpressionData):
+    g = open(outputFileName,"w")
+    columnHeaderList = [1,4,21,116,185,186,255,289,290,292,294,297,301,307,311,322,329,369,380,400]
+    # write the header
+    g.write("0")
+    for columnHeader in columnHeaderList:
+        if(columnHeader != "GeneID:TranscriptId"):
+            g.write(","+str(columnHeader))
+    g.write("\n")
+    for key in mRNAExpressionData:
+        if key != "HEADER":
+            g.write(key)
+            for value in mRNAExpressionData[key]:
+                g.write(","+str(value))
+        g.write("\n")
+    g.close()
+    return

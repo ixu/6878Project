@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{f258f050-4841-4611-bc2f-cf105f3d2993}</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Main.py</StartupFile>
+    <StartupFile>PreProcessAndUtils\Log2RatioAndVectorNormalization.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -13,7 +13,7 @@
     <Name>ProjectCode</Name>
     <RootNamespace>ProjectCode</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>./Input/mRNAExpression_FilteredBy5FPKM_QuantileNormalized.csv 5FPKMNormalizedAlignedAgglomerative 0</CommandLineArguments>
+    <CommandLineArguments>.\Input\mRNAExpressionDataFiltered_genes_filteredQuantileNormalized_v1.csv 7 mRNAExpressionDataFiltered_genes_filteredQuantileNormalized_v1_log2vectornorm.csv</CommandLineArguments>
     <InterpreterPath />
     <InterpreterArguments />
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
@@ -46,6 +46,9 @@
     <Compile Include="Clustering\Clustering.py" />
     <Compile Include="Clustering\__init__.py" />
     <Compile Include="Main.py" />
+    <Compile Include="PreProcessAndUtils\ConvertCuffLinksOutputTocsv.py" />
+    <Compile Include="PreProcessAndUtils\FPKMFiltering.py" />
+    <Compile Include="PreProcessAndUtils\Log2RatioAndVectorNormalization.py" />
     <Compile Include="PreProcessAndUtils\OutputUtils.py" />
     <Compile Include="PreProcessAndUtils\InputUtils.py" />
     <Compile Include="PreProcessAndUtils\__init__.py" />

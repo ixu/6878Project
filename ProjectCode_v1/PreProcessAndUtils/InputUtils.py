@@ -1,7 +1,7 @@
 import csv
 #import seqalign
 import timeit
-thresholdPercent = 0.25
+thresholdPercent = 0.10
 
 #def read_file(filename):
 #	f = open(filename)
