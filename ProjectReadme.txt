@@ -8,7 +8,7 @@ User Interface :
 to execute 
 	from the project directory python -m SimpleHTTPServer 8888
 	and then go to  localhost:8888
-currently, everything is hardcoded for one specific example
+currently, input files to UI are hardcoded for one example, but easily extensible if we have backend to query from
 
 Backend Python code. : 
 ------------------
