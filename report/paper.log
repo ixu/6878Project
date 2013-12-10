@@ -1,12 +1,19 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.9.22)  9 DEC 2013 18:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.1)  9 DEC 2013 19:27
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
 **paper.tex
-(./paper.tex
+(D:\Som\Project\Git\6878Project\report\paper.tex
 LaTeX2e <2011/06/27>
-Babel <3.9f> and hyphenation patterns for 21 languages loaded.
-(./revtex4.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(D:\Som\Project\Git\6878Project\report\revtex4.cls
 Document Class: revtex4 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for do
 cumentation)
  Copyright (c) 2001 The American Physical Society.
@@ -32,7 +39,7 @@ ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
 \pagegrid@col=\count82
 Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
 ly upper/lower case changing (DPC)]. on input line 3682.
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -49,7 +56,7 @@ Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 \c@figure=\count90
 \c@table=\count91
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/natbib/natbib.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
 \bibsep=\skip44
@@ -59,18 +66,20 @@ LaTeX Info: Redefining \cite on input line 694.
 \widetext@top=\box32
 \widetext@bot=\box33
 
-(./revsymb.sty
+(D:\Som\Project\Git\6878Project\report\revsymb.sty
 Package: revsymb 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documenta
 tion)
 LaTeX Info: Redefining \REV@mathfrak on input line 118.
-)) (./aps.rtx
+))
+(D:\Som\Project\Git\6878Project\report\aps.rtx
 File: aps.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentatio
 n)
-) (./10pt.rtx
+)
+(D:\Som\Project\Git\6878Project\report\10pt.rtx
 File: 10pt.rtx 2001/08/03 v4.0 (http://publish.aps.org/revtex4/ for documentati
 on)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/float/float.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count93
 \float@exts=\toks16
@@ -78,31 +87,31 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box35
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count94
@@ -110,24 +119,24 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2013/01/14 v2.14 AMS math features
 \@mathmargin=\skip45
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks19
 \ex@=\dimen104
 ))
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count95
@@ -168,24 +177,24 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/tools/verbatim.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks24
 \verbatim@line=\toks25
 \verbatim@in@stream=\read1
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count107
@@ -200,14 +209,15 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen119
 \Gm@layoutvoffset=\dimen120
 \Gm@dimlist=\toks26
-)
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/subcaption.sty
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
 Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/caption.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/caption/caption3.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
 Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 57.
 \captionmargin=\dimen121
@@ -235,13 +245,11 @@ Package caption Info: float package is loaded.
 )
 \c@subfigure=\count111
 \c@subtable=\count112
-) (./paper.aux
+) (D:\Som\Project\Git\6878Project\report\paper.aux
 
 LaTeX Warning: Label `fig:enrichment' multiply defined.
 
 )
-\openout1 = `paper.aux'.
-
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
@@ -257,7 +265,7 @@ LaTeX Font Info:    ... okay on input line 19.
 Class revtex4 Info: Patching LaTeX tabular. on input line 19.
 Class revtex4 Info: cite was not loaded (OK!) on input line 19.
 Class revtex4 Info: multicol was not loaded (OK!) on input line 19.
- (/usr/local/texlive/2013basic/texmf-dist/tex/context/base/supp-pdf.mkii
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
 \scratchdimen=\dimen128
@@ -270,49 +278,7 @@ Class revtex4 Info: multicol was not loaded (OK!) on input line 19.
 \MPnumerator=\count117
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks28
-) (/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-)) (/usr/local/texlive/2013basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2013basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -366,85 +332,108 @@ Package caption Info: End \AtBeginDocument code.
 Class revtex4 Warning: Assuming \noaffiliation for Iris Xu , Dalesh S Dharamshi
  .
 
+<Introduction.png, id=1, 443.40656pt x 289.83281pt>
+File: Introduction.png Graphic file (type png)
+ <use Introduction.png>
+Package pdftex.def Info: Introduction.png used on input line 48.
+(pdftex.def)             Requested size: 288.21085pt x 188.38908pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Som/Project/Git/6878
+Project/report/Introduction.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[1{/usr/local/texlive/2013basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 80--84
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--90
+Underfull \hbox (badness 10000) in paragraph at lines 91--96
 
  []
 
 
-LaTeX Warning: Reference `(' on page 2 undefined on input line 92.
+LaTeX Warning: Reference `(' on page 2 undefined on input line 98.
 
+[2]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[2] <ClustercomparisonResults_v2.png, id=17, 389.95688pt x 548.0475pt>
+ <ClustercomparisonResults_v2.png, id=17, 389.95688pt x 548.0475pt>
 File: ClustercomparisonResults_v2.png Graphic file (type png)
 
 <use ClustercomparisonResults_v2.png>
-Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 153
+Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 152
 .
 (pdftex.def)             Requested size: 292.46693pt x 411.0346pt.
+ [3]
+
+LaTeX Warning: Reference `(' on page 4 undefined on input line 164.
 
 
-LaTeX Warning: Reference `(' on page 3 undefined on input line 163.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-LaTeX Warning: Reference `(' on page 3 undefined on input line 167.
+LaTeX Warning: Reference `(' on page 4 undefined on input line 169.
 
-[3 <./ClustercomparisonResults_v2.png>]
-<dendrogram.png, id=23, 861.2175pt x 735.74875pt>
+[4 <D:/Som/Project/Git/6878Project/report/ClustercomparisonResults_v2.png>]
+<dendrogram.png, id=27, 861.2175pt x 735.74875pt>
 File: dendrogram.png Graphic file (type png)
  <use dendrogram.png>
-Package pdftex.def Info: dendrogram.png used on input line 178.
+Package pdftex.def Info: dendrogram.png used on input line 180.
 (pdftex.def)             Requested size: 203.83417pt x 174.1359pt.
 
-<wordcloud.png, id=24, 704.6325pt x 395.4775pt>
+<wordcloud.png, id=28, 443.40656pt x 289.83281pt>
 File: wordcloud.png Graphic file (type png)
  <use wordcloud.png>
-Package pdftex.def Info: wordcloud.png used on input line 184.
-(pdftex.def)             Requested size: 203.83417pt x 114.40192pt.
+Package pdftex.def Info: wordcloud.png used on input line 186.
+(pdftex.def)             Requested size: 203.83417pt x 133.24068pt.
 
-Overfull \hbox (4.11108pt too wide) in paragraph at lines 177--188
+Overfull \hbox (4.11108pt too wide) in paragraph at lines 179--190
  [][]  [][] 
  []
 
-<pvalue_performace.png, id=25, 362.7954pt x 218.2554pt>
+<pvalue_performace.png, id=29, 362.7954pt x 218.2554pt>
 File: pvalue_performace.png Graphic file (type png)
 
 <use pvalue_performace.png>
-Package pdftex.def Info: pvalue_performace.png used on input line 190.
+Package pdftex.def Info: pvalue_performace.png used on input line 192.
 (pdftex.def)             Requested size: 253.66187pt x 152.60455pt.
 
+<3Clusters_PathwayCombined.png, id=30, 737.75626pt x 312.41719pt>
+File: 3Clusters_PathwayCombined.png Graphic file (type png)
 
-LaTeX Warning: Reference `(' on page 4 undefined on input line 200.
+<use 3Clusters_PathwayCombined.png>
+Package pdftex.def Info: 3Clusters_PathwayCombined.png used on input line 206.
+(pdftex.def)             Requested size: 479.53589pt x 203.06876pt.
 
-[4 <./dendrogram.png> <./wordcloud.png> <./pvalue_performace.png>] [5]
-(./paper.aux)
+Overfull \hbox (26.568pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+[5 <D:/Som/Project/Git/6878Project/report/dendrogram.png> <D:/Som/Project/Git/6
+878Project/report/wordcloud.png> <D:/Som/Project/Git/6878Project/report/pvalue_
+performace.png>]
+
+LaTeX Warning: Reference `(' on page 6 undefined on input line 212.
+
+[6 <D:/Som/Project/Git/6878Project/report/3Clusters_PathwayCombined.png>]
+[7] (D:\Som\Project\Git\6878Project\report\paper.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -453,27 +442,25 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5344 strings out of 494536
- 76537 string characters out of 6167446
- 162014 words of memory out of 5000000
- 8538 multiletter control sequences out of 15000+600000
- 8456 words of font info for 31 fonts, out of 8000000 for 9000
- 319 hyphenation exceptions out of 8191
- 42i,7n,40p,621b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mbx12.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmbx9.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr9.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2013basic/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmtt10.pfb>
-Output written on paper.pdf (5 pages, 1169828 bytes).
+ 5016 strings out of 493921
+ 70286 string characters out of 3147276
+ 157637 words of memory out of 3000000
+ 8278 multiletter control sequences out of 15000+200000
+ 8456 words of font info for 31 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,7n,40p,643b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
+fb>
+Output written on paper.pdf (7 pages, 1122823 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
