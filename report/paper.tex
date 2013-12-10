@@ -189,23 +189,26 @@ The \verb!DAVID! clustering provided functional groups within each cluster, wher
 \begin{figure}[H]
   \centering
   \begin{subfigure}[b]{0.5\textwidth}
+    \includegraphics[width=.9\textwidth]{graphs.png}
+    \label{fig:dendrogram}
+  \end{subfigure}%
+  ~
+  \begin{subfigure}[b]{0.5\textwidth}
     \includegraphics[width=.9\textwidth]{dendrogram.png}
     \label{fig:dendrogram}
   \end{subfigure}%
-  ~ %add desired spacing between images, e. g. ~, \quad, \qquad etc.
-    %(or a blank line to force the subfigure onto a new line)
+
   \begin{subfigure}[b]{0.5\textwidth}
-    \includegraphics[width=.9\textwidth]{wordcloud.png}
+    \includegraphics[width=.7\textwidth]{wordcloud.png}
     \label{fig:wordcloud}
   \end{subfigure}%
-  \label{fig:enrichment}
-
-  \begin{subfigure}[b]{0.8\textwidth}
-    \includegraphics[width=.7\textwidth]{pvalue_performace.png}
+  ~
+  \begin{subfigure}[b]{0.5\textwidth}
+    \includegraphics[width=.5\textwidth]{pvalue_performace.png}
     \label{fig:pvalue}
   \end{subfigure}%
   \label{fig:enrichment}
-  \caption{A) Dendrogram describing a cluster using our visualization tool. B) A word cloud generated from the clusters in the dendrogram. C) To give some performance metric, we took the ratio of the p-values for enrichment analysis for our technique over using plain k-means for the GSE675 dataset.}
+  \caption{A) The visualizer for gene expression. B) Dendrogram describing a cluster using our visualization tool. C) A word cloud generated from the clusters in the dendrogram. D) To give some performance metric, we took the ratio of the p-values for enrichment analysis for our technique over using plain k-means for the GSE675 dataset.}
 \end{figure}
 
 
@@ -218,31 +221,8 @@ We would redo the analysis on GSE33029 dataset , to identify the root cause of c
 
 We could integrate this with the SMART Genomics API to make our tool usable for all time series of gene expression.
 
-\section{Comparison with original proposal} 
-Our original proposal had many items we were going to exlplore and choose from.
-We managed to complete everything that we proposed on our peer review response , including our alignment technique, several forms of clustering (Affinity Propogation, Hierarchical, K-means), several forms of enrichment analysis (DAVID's function annotations, pulling OMIM text, DAVID's gene grouping, Fischer's Exact test with multiple hypothesis corrections). We also provided a visualization tool as part of our combined class project.
-
-\section{Commetary on experience}
-Iris: I learned a lot on how to pull data and to compare results with the ones in a paper. I also learned a lot about pre-processing data and steps to take when results don't match those of the paper.
-
-Dalesh: Working on the project was an enjoyable experience , a few highlights are as follows
-a. Opportunity to work in a team and have a mentor to guide us.
-b. Applying our learning on a couple of real datasets gave additional insights.
-c. Structuring of the project activity with milestones starting early in the class with two interim feedback checkpoints were helpful as well.
-
-\section{Commentary on peer-review process}
-Iris: I thought that it was good to get feedback, but at the same time, our proposal was missing a lot of detail on purpose because we were not sure at the time exactly on what we were going to do, and a lot of the feedback was on lack of detail, which was not that helpful. It was nice to see other people's ideas.
-
-Dalesh: The peer review discussion was fun but I agree with Iris's comment on the feedback we received , i recollect giving ratings on the table without having completely understood what the authors were trying to communicate and in many cases the initial proposals were in a premature stage.
-
-\section{Division of labor}
-
-Iris: I did some of the alignment, enrichment analysis, and clustering and helped get jobs running on Broad clusters. I also did the analysis and processing for the GSE675 dataset.
-
-Dalesh: Most of the strategy and design was arrived at by brainstorming together , my specific implementation contributions were in data preprocessing on the amazon EC2 instances and implementations for clustering , I was responsible for processing and analyzing the GSE19392 dataset , we split the analysis of the GSE33029 dataset . Iris also did the implementations for the user interface.
-
 \section{Acknowledgements}
-Thanks to Gerald Quon, Manolis Kellis, and Maxim Wolf for their help on our project.
+Thanks to Peter Szolovits, Gil Alterovitz, and Gerald Quon for their help on our project.
 
 \begin{thebibliography} {0}
 
