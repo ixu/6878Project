@@ -8,6 +8,7 @@ User Interface :
 to execute 
 	from the project directory python -m SimpleHTTPServer 8888
 	and then go to  localhost:8888
+currently, everything is hardcoded for one specific example
 
 Backend Python code. : 
 ------------------
@@ -42,7 +43,7 @@ Annotation
 		a. creates an OMIM summary 
 		b. converts to ensemble ids using ensemble apis
 		c. Fetches david chart and table reports using davids apis
-
+	3. GeneClusters.py : pulls groups from DAVID web service and creates a .json and a GeneDescriptions.txt used by visualizer. Things are currently hard-coded.
 Input 
 	1. Contains the various data files that acted as our input. Only 1 of them is used at a time , these merely represent the number
 	   of filtering we ended up doing
