@@ -2,6 +2,9 @@ from copy import deepcopy
 from sklearn.cluster import AffinityPropagation
 from numpy import matrix
 
+# there are two versions of affinity clustering in this code ,
+# the implemented version has some bugs so had to use one from sklearn.
+
 def AffinityPropCluster(S):
 
     SM = matrix(S)
@@ -24,7 +27,7 @@ def AffinityPropCluster(S):
     
     return clusters
 
-# this guy is sick....:-)..hence had to use the external
+# Some bug in this code , hence had to use an external affinity clustering 
 def AffinityPropClusterInternal(S):
     print "Indices :",cluster_centers_indices
     dampner = 0.5

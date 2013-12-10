@@ -1,8 +1,6 @@
-
 import sys
 import csv
 from copy import deepcopy
-from sklearn.cluster import AffinityPropagation
 from numpy import matrix
 import  numpy as np
 import os
@@ -50,6 +48,7 @@ def initPairWiseAvgDistanceMatrix(ScoreMatrix):
         ADM[i,i] = VERY_LOW
     return ADM
 
+# ADM = average distance matrix.
 def getClustersWithMaxPairWiseAverageDistanceScoreFast(clusters,ScoreMatrix,ADM):
     rowLen = len(ADM[0:])
     maxindex = np.argmax(ADM)

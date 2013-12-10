@@ -1,6 +1,8 @@
 
 OMIMDict = {}
 
+# note that the omim.txt can be downloaded from omim and its too big to 
+# be placed in git.
 def GetOMIMDictionary():
     if(len(OMIMDict.keys()) > 2):
         return OMIMDict

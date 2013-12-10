@@ -107,24 +107,10 @@ def main():
     #OutputDirectoryName = "5FPKMNormalizedAlignedScoreMatrix"
     AlignAndCluster(Signals,SignalSeqs,ExprNoToExprIdentifier,S,gap_pen,timeline,OutputDirectoryName,ClusterType)
     #3. Annotation
-    #print "2. Perform Annotation ..."
-    #OutputDirectory = "./Output/"+OutputDirectoryName
-    # OutputDirs = [
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_80',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_40',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_30',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_20',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_10',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\OutputDirectoryHeirarchicalNoOfClusters_5',
-    #               '.\\Output\\0.05FPKMNormalizedAlignedAffinityPropogation',
-    #               '.\\Output\\5FPKMNormalizedAlignedAgglomerative\\OutputDirectoryHeirarchicalNoOfClusters_5',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_2',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_5',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_10',
-    #               '.\\Output\\0.05FPKMAgglomerativeClusters\\Heirarchical_NoOfClusters_12'
-    #               ]
-    # for OutputDirectory in OutputDirs:
-    #     Annotation.Annotateclusters(OutputDirectory)
+    print "2. Perform Annotation ..."
+    OutputDirectory = "./Output/"+OutputDirectoryName
+    for OutputDirectory in OutputDirs:
+        Annotation.Annotateclusters(OutputDirectory)
     
     return
 

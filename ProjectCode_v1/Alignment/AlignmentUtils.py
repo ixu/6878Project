@@ -1,6 +1,8 @@
 import seqalign
 import timeit
 base_idx = { 'R' : 0, 'D' : 1, 'S' : 2}
+
+# Given a list of signals gets a distance matrix interms of the alignment score between them.
 def getAlignmentScoreMatrix(signalSeqs,S,gap_pen,timeline):
     scores = [[0] * len(signalSeqs) for i in range(len(signalSeqs))]
     startFull = timeit.default_timer()
@@ -16,7 +18,7 @@ def getAlignmentScoreMatrix(signalSeqs,S,gap_pen,timeline):
     return scores
     
 
-
+# Given a list of signals gets a distance matrix interms of the alignment score between them.
 def getAlignmentScoreMatrixWithLookup(signalSeqs,S,gap_pen,timeline):
     ScoreDictionary = {}
     lookupCount = 0
@@ -30,8 +32,8 @@ def getAlignmentScoreMatrixWithLookup(signalSeqs,S,gap_pen,timeline):
             doesScoreExist,lookupScore,lookupCount = lookUpScore(signalSeqs[i],signalSeqs[j],ScoreDictionary,lookupCount)
             if(doesScoreExist == True): scores[i][j] = lookupScore
             else:
-                scores[i][j] = seqalign.seqalignDP(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline)
-                #scores[i][j] = seqalign.seqalignDPFast(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline,gapPenLut)
+                scores[i][j] = seqalign.seqalignDPFast(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline,gapPenLut)
+                #scores[i][j] = seqalign.seqalignDP(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline)
                 addToLookupScore(signalSeqs[i],signalSeqs[j],scores[i][j],ScoreDictionary)
             scores[j][i] = scores[i][j]
     print " -- Successful lookups :",lookupCount
@@ -50,7 +52,8 @@ def getAlignmentScoreMatrixWithLookupPlusSignalKeys(signalSeqs,S,gap_pen,timelin
         for j in xrange(len(signalSeqs[i])):
             signalKey = signalKey*3+base_idx[signalSeqs[i][j]]
         seqKeys[i] = signalKey
-
+    
+    # lookup table for gap penalties.
     gapPenLut = seqalign.createGapPenaltyLUT(len(signalSeqs[0]),gap_pen,timeline)
     for i in range(len(signalSeqs)):
         if(i%100==0): print i
@@ -58,8 +61,8 @@ def getAlignmentScoreMatrixWithLookupPlusSignalKeys(signalSeqs,S,gap_pen,timelin
             doesScoreExist,lookupScore,lookupCount = lookUpScoreWithKeys(signalSeqs[i],signalSeqs[j],ScoreDictionary,lookupCount,seqKeys,i,j)
             if(doesScoreExist == True): scores[i][j] = lookupScore
             else:
-                scores[i][j] = seqalign.seqalignDP(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline)
-                #scores[i][j] = seqalign.seqalignDPFast(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline,gapPenLut)
+                scores[i][j] = seqalign.seqalignDPFast(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline,gapPenLut)
+                #scores[i][j] = seqalign.seqalignDP(signalSeqs[i],signalSeqs[j],S,gap_pen,timeline)
                 addToLookupScoreWithKeys(signalSeqs[i],signalSeqs[j],scores[i][j],ScoreDictionary,seqKeys,i,j)
             scores[j][i] = scores[i][j]
     print " -- Successful lookups :",lookupCount
