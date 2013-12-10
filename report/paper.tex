@@ -26,11 +26,13 @@
 \noindent
   In the era of personalized medicine it is anticipated that an individual patient's health record will contain multiple molecular expression profiles that have been captured across multiple time points in various health states. Accurate identification \& representation of changes in molecular expression patterns across time and linking them to potential health conditions is at the core of the effectiveness of personalized medicine. 
   
-  We introduce sequence alignment score driven clustering to accurately identify changes in molecular expression over time , this approach can group time-shifted expression signals that may have a causal relationship.We further provide a concept of visualizing these clusters of change in molecular expression across time along with annotations of various health and biologically relevant terms enriched for each cluster.
+  We introduce sequence alignment score driven clustering to accurately identify changes in molecular expression over time , this approach can group time-shifted expression signals that may have a causal relationship.
+  
+  We further provide a concept of visualizing these clusters of change in molecular expression across time along with annotations of various health and biologically relevant terms enriched for each cluster.
   
   Our results indicate that using alignment score as a distance to clustering produces clusters that includes signals that may have time shifted due to an upstream or downstream relation.These signals tend to be separated into different clusters while using the standard UPGMA based clustering. 
-  
   Of the three time course datasets we tried this approach, only two of them appear to show a corresponding enrichment of biological terms associated with the identified clusters. The root cause for the failure for clusters to show significant enrichment in the third dataset is yet to be identified.
+  Our visualzation provide an overview of changes represented by our gene clusters. However, fetching in real-time from DAVID web service, ENSEMBL, and OMIM is slow and makes real-time visualization of these annotations difficult.
   
 \end{abstract}
 
@@ -54,9 +56,10 @@
 
   Unlike a test for differential gene expression in one or more conditions, the clinical setting described above has the additional complexity of analyzing a time course of multiple biological components sampled across disparate time points and health conditions. The challenge is providing a concise description of an individual’s state that can be easily analyzed in this clinical setting. We investigate a few aspects of this complexity in order to facilitate generating a clinical recommendation.
 
-  While previous work has focused on monitoring and grouping molecular expression along the gene or conditions axes to identify changes , our goal is to introduce alignment to potentially improve the accuracy of this grouping by including potentially time-shifted signals that may have a relation. In addition we intend to arrive at an overview of the change in an individual’s health state by identifying, separating, and annotating related biological component groups that have similar changes in expression levels, potentially time-shifted indicating a potential causal relationship.
+  While previous work has focused on monitoring and grouping molecular expression along the gene or conditions axes to identify changes , our goal is to introduce alignment to potentially improve the accuracy of this grouping by including potentially time-shifted signals that may have a relation. 
+  In addition we intend to arrive at a visual overview of the change in an individual’s health state by identifying, separating, and annotating related biological component groups that have similar changes in expression levels, potentially time-shifted indicating a potential causal relationship.
   
-  Note : While our overall project was done as part of two of our classes , in this report we highlight and detail the methods learnt and relevant to this class (Pre-processing , alignment , clustering, Enrichment analysis). We make a brief mention of visualization and annotation for completion.
+  Note : That we did our project as a combined work between two of our classes 6.872 and 6.878.
 
 \section{Results and Discussion}
 \subsection{Input dataset and Preprocessing}
@@ -95,7 +98,7 @@ If it decreased by more than the threshold, we convert to a \verb!D! for Drop.
 And if it did not change by more than the threshold level, we convert to \verb!S! for Steady. The first character is always \verb!S!.\\
 
 For example, the sequence $10$, $100$, $8$, $11$, $10$ is converted to \verb!S!, \verb!D!, \verb!R!, \verb!S!. Sequences were aligned and scored using Needleman-Wunsch.
-In order to potentially align signals that have similar but negative expressions of each other, we attempted to give a smaller mismatch penalty between \verb!R! and \verb!D!. We also tried stricter versions of the scoring matrix to allow softened mismatch (between steady and anything else) or no mismatches (Table \ref({tab:scoring}).
+In order to potentially align signals that have similar but negative expressions of each other, we attempted to give a smaller mismatch penalty between \verb!R! and \verb!D!. We also tried stricter versions of the scoring matrix to allow softened mismatch (between steady and anything else) or no mismatches (Table \ref{tab:scoring}).
 We also varied the gap penalty depending on how far apart the time points were. For very far apart signals, we used a larger penalty.
 While sequence alignment is polynomial, we aligned on the order of $10^5$ sequences, so we modified our inital sequence alignment implementation to include gap penalty lookup as a speedup.
 Alignment was run on a combination of AWS nodes and the Broad cluster.
@@ -154,7 +157,6 @@ Shown below are three heatmaps the first two heatmaps are from clusters generate
 \label{fig:ClusterComparison}
 \end{figure}
 
-We initially reused the pset versions of our alignment and clustering code but had to make more efficient versions to run through the larger dataset.
 
 \subsection{Enrichment Analysis}
 After identifying clusters, we wanted a way to efficiently describe each cluster, as well as to measure the effectiveness of our alignment and clustering algorithm.
@@ -214,7 +216,7 @@ The \verb!DAVID! clustering provided functional groups within each cluster, wher
 
 \subsection{Visualization}
 
-In order to make the expression trend analysis easier from a clinical standpoint, we created a browser-based visualization tool using \verb!d3! that provides normalized/denormalized expression trends by cluster, dendrograms for cluster annotation, and word clouds for a text summary of \verb!DAVID! gene groups by cluster.
+In order to make the expression trend analysis easier from a clinical standpoint, we created a browser-based visualization tool (Fig.4) using \verb!d3! that provides normalized/denormalized expression trends by cluster, dendrograms for cluster annotation, and word clouds for a text summary of \verb!DAVID! gene groups by cluster.
 
 \section{Future Goals}
 We would redo the analysis on GSE33029 dataset , to identify the root cause of clusters not showing corresponding enrichment results. 

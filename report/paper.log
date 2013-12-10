@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.1)  9 DEC 2013 20:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.1)  10 DEC 2013 16:09
 entering extended mode
 **paper.tex
 (D:\Som\Project\Git\6878Project\report\paper.tex
@@ -247,7 +247,10 @@ Package caption Info: float package is loaded.
 \c@subtable=\count112
 ) (D:\Som\Project\Git\6878Project\report\paper.aux
 
-LaTeX Warning: Label `fig:enrichment' multiply defined.
+LaTeX Warning: Label `fig:dendrogram' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:dendrogram' multiply defined.
 
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -335,7 +338,7 @@ Class revtex4 Warning: Assuming \noaffiliation for Iris Xu , Dalesh S Dharamshi
 <Introduction.png, id=1, 443.40656pt x 289.83281pt>
 File: Introduction.png Graphic file (type png)
  <use Introduction.png>
-Package pdftex.def Info: Introduction.png used on input line 48.
+Package pdftex.def Info: Introduction.png used on input line 50.
 (pdftex.def)             Requested size: 288.21085pt x 188.38908pt.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
@@ -353,17 +356,14 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--90
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--96
+Underfull \hbox (badness 10000) in paragraph at lines 94--99
 
  []
-
-
-LaTeX Warning: Reference `(' on page 2 undefined on input line 98.
 
 [2]
 Missing character: There is no â in font cmr10!
@@ -372,84 +372,91 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- <ClustercomparisonResults_v2.png, id=17, 389.95688pt x 548.0475pt>
+ <ClustercomparisonResults_v2.png, id=16, 389.95688pt x 548.0475pt>
 File: ClustercomparisonResults_v2.png Graphic file (type png)
 
 <use ClustercomparisonResults_v2.png>
-Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 152
+Package pdftex.def Info: ClustercomparisonResults_v2.png used on input line 155
 .
 (pdftex.def)             Requested size: 292.46693pt x 411.0346pt.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 [4 <D:/Som/Project/Git/6878Project/report/ClustercomparisonResults_v2.png>]
-<3Clusters_PathwayCombined.png, id=26, 737.75626pt x 312.41719pt>
+<3Clusters_PathwayCombined.png, id=25, 737.75626pt x 312.41719pt>
 File: 3Clusters_PathwayCombined.png Graphic file (type png)
 
 <use 3Clusters_PathwayCombined.png>
-Package pdftex.def Info: 3Clusters_PathwayCombined.png used on input line 172.
+Package pdftex.def Info: 3Clusters_PathwayCombined.png used on input line 174.
 (pdftex.def)             Requested size: 479.53589pt x 203.06876pt.
 
-Overfull \hbox (26.568pt too wide) in paragraph at lines 172--173
+Overfull \hbox (26.568pt too wide) in paragraph at lines 174--175
  [][] 
  []
+
+<graphs.png, id=26, 719.68875pt x 533.995pt>
+File: graphs.png Graphic file (type png)
+ <use graphs.png>
+Package pdftex.def Info: graphs.png used on input line 194.
+(pdftex.def)             Requested size: 203.83417pt x 151.23683pt.
 
 <dendrogram.png, id=27, 861.2175pt x 735.74875pt>
 File: dendrogram.png Graphic file (type png)
  <use dendrogram.png>
-Package pdftex.def Info: dendrogram.png used on input line 192.
+Package pdftex.def Info: dendrogram.png used on input line 199.
 (pdftex.def)             Requested size: 203.83417pt x 174.1359pt.
+
+Overfull \hbox (4.11108pt too wide) in paragraph at lines 193--202
+ [][]  [] 
+ []
 
 <wordcloud.png, id=28, 704.6325pt x 395.4775pt>
 File: wordcloud.png Graphic file (type png)
  <use wordcloud.png>
-Package pdftex.def Info: wordcloud.png used on input line 198.
-(pdftex.def)             Requested size: 203.83417pt x 114.40192pt.
-
-Overfull \hbox (4.11108pt too wide) in paragraph at lines 191--202
- [][]  [][] 
- []
+Package pdftex.def Info: wordcloud.png used on input line 204.
+(pdftex.def)             Requested size: 158.53807pt x 88.97859pt.
 
 <pvalue_performace.png, id=29, 362.7954pt x 218.2554pt>
 File: pvalue_performace.png Graphic file (type png)
 
 <use pvalue_performace.png>
-Package pdftex.def Info: pvalue_performace.png used on input line 204.
-(pdftex.def)             Requested size: 253.66187pt x 152.60455pt.
- [5 <D:/Som/Project/Git/6878Project/report/3Clusters_PathwayCombined.png>] [6 <
-D:/Som/Project/Git/6878Project/report/dendrogram.png> <D:/Som/Project/Git/6878P
-roject/report/wordcloud.png> <D:/Som/Project/Git/6878Project/report/pvalue_perf
-ormace.png>] [7]
+Package pdftex.def Info: pvalue_performace.png used on input line 209.
+(pdftex.def)             Requested size: 113.24197pt x 68.12471pt.
+
+Overfull \hbox (4.11108pt too wide) in paragraph at lines 203--213
+ [][]  [][] 
+ []
+
+[5 <D:/Som/Project/Git/6878Project/report/3Clusters_PathwayCombined.png>]
+[6 <D:/Som/Project/Git/6878Project/report/graphs.png> <D:/Som/Project/Git/6878P
+roject/report/dendrogram.png> <D:/Som/Project/Git/6878Project/report/wordcloud.
+png> <D:/Som/Project/Git/6878Project/report/pvalue_performace.png>] [7]
 (D:\Som\Project\Git\6878Project\report\paper.aux)
-
-LaTeX Warning: There were undefined references.
-
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5018 strings out of 493921
- 70303 string characters out of 3147276
- 155637 words of memory out of 3000000
- 8280 multiletter control sequences out of 15000+200000
+ 5023 strings out of 493921
+ 70378 string characters out of 3147276
+ 156637 words of memory out of 3000000
+ 8284 multiletter control sequences out of 15000+200000
  8456 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,7n,40p,998b,383s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.p
-fb>
-Output written on paper.pdf (7 pages, 1316641 bytes).
+ 42i,7n,40p,998b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmtt10.pfb>
+Output written on paper.pdf (7 pages, 1451905 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
